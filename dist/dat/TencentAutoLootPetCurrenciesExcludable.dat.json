@@ -1,0 +1,49 @@
+{
+  "filename": "TencentAutoLootPetCurrenciesExcludable.dat",
+  "header": [
+    {
+      "name": "BaseItemTypesKey",
+      "rowid": 0,
+      "type": "ulong",
+      "key": "BaseItemTypes.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      22
+    ],
+    [
+      19
+    ],
+    [
+      3
+    ],
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      0
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [
+      7
+    ]
+  ]
+}

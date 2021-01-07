@@ -1,0 +1,177 @@
+{
+  "filename": "PackFormation.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": true,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown1",
+      "rowid": 1,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown2",
+      "rowid": 2,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown3",
+      "rowid": 3,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown4",
+      "rowid": 4,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown5",
+      "rowid": 5,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "HeistTemplarDoubleFile",
+      0,
+      13,
+      13,
+      2,
+      0
+    ],
+    [
+      "HeistTemplarPhalanx",
+      1,
+      10,
+      10,
+      0,
+      0
+    ],
+    [
+      "HeistTemplarDoorCircle",
+      2,
+      30,
+      30,
+      180,
+      0
+    ],
+    [
+      "HeistScienceDoubleFile",
+      0,
+      13,
+      13,
+      2,
+      0
+    ],
+    [
+      "HeistThugCrew",
+      0,
+      15,
+      12,
+      2,
+      8
+    ],
+    [
+      "HeistRobotLine",
+      1,
+      5,
+      3,
+      0,
+      0
+    ],
+    [
+      "HeistRobotPair",
+      0,
+      10,
+      10,
+      2,
+      0
+    ],
+    [
+      "HeistRobotSolo",
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      "HeistScienceUndeadPhalanx",
+      1,
+      10,
+      10,
+      0,
+      0
+    ],
+    [
+      "HeistScienceUndeadLine",
+      0,
+      0,
+      15,
+      1,
+      0
+    ]
+  ]
+}

@@ -1,0 +1,477 @@
+{
+  "filename": "ShrineBuffs.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "BuffStatValues",
+      "rowid": 1,
+      "type": "ref|list|int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": "For use for the related stat in the buff."
+    },
+    {
+      "name": "BuffDefinitionsKey",
+      "rowid": 2,
+      "type": "ulong",
+      "key": "BuffDefinitions.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Key0",
+      "rowid": 3,
+      "type": "ulong",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "acceleration_player",
+      [
+        -50,
+        80,
+        1
+      ],
+      230,
+      null
+    ],
+    [
+      "acceleration_monster",
+      [
+        -60,
+        100,
+        1
+      ],
+      230,
+      241
+    ],
+    [
+      "regen_player",
+      [
+        600,
+        400,
+        1
+      ],
+      233,
+      null
+    ],
+    [
+      "regen_monster",
+      [
+        400,
+        400,
+        1
+      ],
+      233,
+      241
+    ],
+    [
+      "brutal_player",
+      [
+        50,
+        1,
+        30,
+        1,
+        1
+      ],
+      231,
+      null
+    ],
+    [
+      "brutal_monster",
+      [
+        50,
+        1,
+        30,
+        1,
+        1
+      ],
+      231,
+      241
+    ],
+    [
+      "thorns_player",
+      [
+        18,
+        18,
+        1
+      ],
+      232,
+      null
+    ],
+    [
+      "thorns_monster",
+      [
+        18,
+        18,
+        1
+      ],
+      232,
+      241
+    ],
+    [
+      "diamond_player",
+      [
+        1,
+        1
+      ],
+      234,
+      null
+    ],
+    [
+      "diamond_monster",
+      [
+        1,
+        1
+      ],
+      234,
+      241
+    ],
+    [
+      "fire_player",
+      [
+        1
+      ],
+      235,
+      null
+    ],
+    [
+      "cold_player",
+      [
+        1
+      ],
+      237,
+      null
+    ],
+    [
+      "lightning_player",
+      [
+        1
+      ],
+      236,
+      null
+    ],
+    [
+      "arc_player",
+      [
+        1
+      ],
+      238,
+      null
+    ],
+    [
+      "skeleton_player",
+      [
+        1
+      ],
+      240,
+      null
+    ],
+    [
+      "smoke_player",
+      [
+        1
+      ],
+      239,
+      null
+    ],
+    [
+      "shrine_echoing_monster",
+      [
+        100,
+        100,
+        1,
+        1
+      ],
+      241,
+      241
+    ],
+    [
+      "shrine_echoing_player",
+      [
+        100,
+        100,
+        1,
+        1
+      ],
+      241,
+      null
+    ],
+    [
+      "curses_monster",
+      [
+        100,
+        1,
+        1
+      ],
+      242,
+      241
+    ],
+    [
+      "curses_player",
+      [
+        0,
+        0,
+        1
+      ],
+      242,
+      null
+    ],
+    [
+      "massive_player",
+      [
+        30,
+        40,
+        40,
+        1
+      ],
+      243,
+      null
+    ],
+    [
+      "massive_monster",
+      [
+        20,
+        155,
+        60,
+        1
+      ],
+      243,
+      241
+    ],
+    [
+      "defence_player",
+      [
+        100,
+        100,
+        100,
+        0,
+        0,
+        0,
+        1
+      ],
+      244,
+      null
+    ],
+    [
+      "defence_monster",
+      [
+        0,
+        0,
+        0,
+        -20,
+        20,
+        20,
+        1
+      ],
+      244,
+      241
+    ],
+    [
+      "resistance_player",
+      [
+        50,
+        10,
+        1
+      ],
+      246,
+      null
+    ],
+    [
+      "resistance_monster",
+      [
+        50,
+        10,
+        1
+      ],
+      246,
+      241
+    ],
+    [
+      "godmode_player",
+      [
+        1,
+        1
+      ],
+      245,
+      null
+    ],
+    [
+      "godmode_monster",
+      [
+        1,
+        1
+      ],
+      245,
+      241
+    ],
+    [
+      "rare_monsters_drop_uniques",
+      [
+        1,
+        1
+      ],
+      546,
+      null
+    ],
+    [
+      "acceleration_lesser",
+      [
+        -10,
+        30,
+        1
+      ],
+      230,
+      null
+    ],
+    [
+      "brutal_lesser",
+      [
+        20,
+        1,
+        20,
+        0,
+        1
+      ],
+      231,
+      null
+    ],
+    [
+      "regen_lesser",
+      [
+        200,
+        200,
+        1
+      ],
+      233,
+      null
+    ],
+    [
+      "massive_lesser",
+      [
+        10,
+        20,
+        20,
+        1
+      ],
+      243,
+      null
+    ],
+    [
+      "resistance_lesser",
+      [
+        25,
+        2,
+        1
+      ],
+      246,
+      null
+    ],
+    [
+      "defence_lesser",
+      [
+        50,
+        50,
+        50,
+        0,
+        0,
+        0,
+        1
+      ],
+      244,
+      null
+    ],
+    [
+      "resonating_player",
+      [
+        20,
+        60,
+        40,
+        4,
+        4,
+        4,
+        4,
+        4,
+        5,
+        1
+      ],
+      1283,
+      null
+    ],
+    [
+      "resonating_monster",
+      [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      1283,
+      241
+    ],
+    [
+      "gloom_player",
+      [
+        10,
+        40,
+        1
+      ],
+      1284,
+      null
+    ],
+    [
+      "gloom_monster",
+      [
+        10,
+        0,
+        1
+      ],
+      1284,
+      241
+    ]
+  ]
+}

@@ -1,0 +1,406 @@
+{
+  "filename": "PassiveSkillBuffs.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "BuffDefinitionsKey",
+      "rowid": 1,
+      "type": "ulong",
+      "key": "BuffDefinitions.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Buff_StatValues",
+      "rowid": 2,
+      "type": "ref|list|int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Key1",
+      "rowid": 3,
+      "type": "ulong",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown4",
+      "rowid": 4,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown5",
+      "rowid": 5,
+      "type": "ref|list|int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown2",
+      "rowid": 6,
+      "type": "ref|list|int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "ScionMovementSpeed",
+      481,
+      [
+        8
+      ],
+      null,
+      60,
+      [
+        1,
+        2,
+        10
+      ],
+      []
+    ],
+    [
+      "OccultistWitherNearbyEnemies",
+      1212,
+      [
+        15000
+      ],
+      null,
+      0,
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "ScionAuguryOfPenitence",
+      561,
+      [
+        10
+      ],
+      null,
+      60,
+      [
+        3
+      ],
+      []
+    ],
+    [
+      "OccultistPowerChargeOnManaSpent",
+      911,
+      [],
+      null,
+      0,
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "OccultistNearbyEnemiesColdChaosResistLifeRegen",
+      609,
+      [
+        -20,
+        -100,
+        -20
+      ],
+      null,
+      60,
+      [
+        3
+      ],
+      []
+    ],
+    [
+      "ChampionMovementSpeed",
+      480,
+      [
+        12
+      ],
+      null,
+      60,
+      [
+        1,
+        2,
+        10
+      ],
+      []
+    ],
+    [
+      "JuggernautPhysDamagePreventedAsLifeRegen",
+      1051,
+      [],
+      null,
+      0,
+      [],
+      []
+    ],
+    [
+      "OccultistFreezeNearbyChilledEnemies",
+      1213,
+      [
+        600,
+        600
+      ],
+      null,
+      0,
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "ChampionFortify",
+      386,
+      [
+        -20,
+        1
+      ],
+      null,
+      0,
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "PendulumOfDestruction",
+      1032,
+      [],
+      null,
+      0,
+      [],
+      []
+    ],
+    [
+      "ChieftanPhysicalAsFireCycle",
+      1038,
+      [
+        100
+      ],
+      null,
+      0,
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "ChampionDamageAgainstImpaled",
+      1217,
+      [
+        6,
+        12
+      ],
+      null,
+      60,
+      [
+        1,
+        2,
+        10
+      ],
+      []
+    ],
+    [
+      "SaboteurBlind",
+      1485,
+      [],
+      null,
+      35,
+      [
+        3
+      ],
+      [
+        9
+      ]
+    ],
+    [
+      "AuguryOfPenitence",
+      560,
+      [
+        16,
+        -8
+      ],
+      null,
+      60,
+      [
+        3
+      ],
+      []
+    ],
+    [
+      "OccultistNearbyChilledEnemiesReducedHitDamage",
+      1215,
+      [
+        -10
+      ],
+      null,
+      60,
+      [
+        3
+      ],
+      []
+    ],
+    [
+      "OccultistNearbyHinderedEnemiesReducedDotDamage",
+      1216,
+      [
+        -15
+      ],
+      null,
+      60,
+      [
+        3
+      ],
+      []
+    ],
+    [
+      "TricksterGhostDance",
+      1249,
+      [],
+      null,
+      0,
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "SlayerCritMultiplier",
+      1308,
+      [
+        -30
+      ],
+      null,
+      60,
+      [
+        3
+      ],
+      []
+    ],
+    [
+      "GuardianDamageSpeedAreaIntimidate",
+      1329,
+      [
+        30,
+        15,
+        30,
+        100,
+        100
+      ],
+      null,
+      60,
+      [
+        2,
+        10
+      ],
+      []
+    ],
+    [
+      "AfflictionNearbyEnemiesChilled",
+      1485,
+      [],
+      null,
+      30,
+      [
+        3
+      ],
+      [
+        1
+      ]
+    ],
+    [
+      "AfflictionNearbyEnemiesFireExposure",
+      1485,
+      [],
+      null,
+      30,
+      [
+        3
+      ],
+      [
+        3,
+        -10
+      ]
+    ],
+    [
+      "ReplenishingPresenceLifeRegenAura",
+      1530,
+      [
+        60
+      ],
+      null,
+      60,
+      [
+        1,
+        2,
+        10
+      ],
+      []
+    ]
+  ]
+}

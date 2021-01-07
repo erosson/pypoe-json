@@ -1,0 +1,435 @@
+{
+  "filename": "AtlasExileInfluenceData.dat",
+  "header": [
+    {
+      "name": "AtlasExileInfluenceOutcomeTypesKey",
+      "rowid": 0,
+      "type": "ulong",
+      "key": "AtlasExileInfluenceOutcomeTypes.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown1",
+      "rowid": 1,
+      "type": "ref|list|ulong",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown2",
+      "rowid": 2,
+      "type": "ulong",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown3",
+      "rowid": 3,
+      "type": "ref|list|ulong",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown4",
+      "rowid": 4,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown5",
+      "rowid": 5,
+      "type": "ref|list|int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown6",
+      "rowid": 6,
+      "type": "ref|list|int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      0,
+      [
+        1793,
+        1794,
+        1795,
+        1796
+      ],
+      null,
+      [],
+      20,
+      [],
+      []
+    ],
+    [
+      1,
+      [
+        1793,
+        1794,
+        1795,
+        1796
+      ],
+      null,
+      [],
+      30,
+      [],
+      []
+    ],
+    [
+      2,
+      [
+        1793,
+        1794,
+        1795,
+        1796
+      ],
+      null,
+      [],
+      40,
+      [],
+      []
+    ],
+    [
+      3,
+      [
+        1797,
+        1798,
+        1799,
+        1800,
+        1801
+      ],
+      null,
+      [],
+      20,
+      [],
+      []
+    ],
+    [
+      4,
+      [
+        1797,
+        1798,
+        1799,
+        1800,
+        1801
+      ],
+      null,
+      [],
+      30,
+      [],
+      []
+    ],
+    [
+      5,
+      [
+        1797,
+        1798,
+        1799,
+        1800,
+        1801
+      ],
+      null,
+      [],
+      40,
+      [],
+      []
+    ],
+    [
+      6,
+      [
+        1802,
+        1803,
+        1804,
+        1805,
+        1806
+      ],
+      null,
+      [],
+      20,
+      [],
+      []
+    ],
+    [
+      7,
+      [
+        1802,
+        1803,
+        1804,
+        1805,
+        1806
+      ],
+      null,
+      [],
+      30,
+      [],
+      []
+    ],
+    [
+      8,
+      [
+        1802,
+        1803,
+        1804,
+        1805,
+        1806
+      ],
+      null,
+      [],
+      40,
+      [],
+      []
+    ],
+    [
+      9,
+      [
+        1807,
+        1808,
+        1809
+      ],
+      null,
+      [],
+      20,
+      [],
+      []
+    ],
+    [
+      10,
+      [
+        1807,
+        1808,
+        1809
+      ],
+      null,
+      [],
+      30,
+      [],
+      []
+    ],
+    [
+      11,
+      [
+        1807,
+        1808,
+        1809
+      ],
+      null,
+      [],
+      40,
+      [],
+      []
+    ],
+    [
+      12,
+      [
+        1810
+      ],
+      null,
+      [],
+      15,
+      [],
+      []
+    ],
+    [
+      13,
+      [
+        1811
+      ],
+      null,
+      [],
+      15,
+      [],
+      []
+    ],
+    [
+      14,
+      [
+        1812
+      ],
+      null,
+      [],
+      15,
+      [],
+      []
+    ],
+    [
+      15,
+      [
+        1813
+      ],
+      null,
+      [],
+      15,
+      [],
+      []
+    ],
+    [
+      16,
+      [],
+      null,
+      [
+        10883
+      ],
+      0,
+      [],
+      [
+        15
+      ]
+    ],
+    [
+      17,
+      [
+        1814
+      ],
+      null,
+      [],
+      6,
+      [],
+      []
+    ],
+    [
+      18,
+      [
+        1815
+      ],
+      null,
+      [],
+      4,
+      [],
+      []
+    ],
+    [
+      19,
+      [
+        1816
+      ],
+      null,
+      [],
+      6,
+      [],
+      []
+    ],
+    [
+      20,
+      [],
+      1443,
+      [],
+      0,
+      [
+        1,
+        25,
+        30,
+        8,
+        30
+      ],
+      []
+    ],
+    [
+      21,
+      [],
+      1444,
+      [],
+      0,
+      [
+        1,
+        1,
+        15,
+        20,
+        30,
+        1,
+        1
+      ],
+      []
+    ],
+    [
+      22,
+      [],
+      1445,
+      [],
+      0,
+      [
+        1,
+        30,
+        10,
+        10,
+        30
+      ],
+      []
+    ],
+    [
+      23,
+      [],
+      1446,
+      [],
+      0,
+      [
+        15,
+        30,
+        30,
+        15,
+        40
+      ],
+      []
+    ]
+  ]
+}

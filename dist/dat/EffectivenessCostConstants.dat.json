@@ -1,0 +1,49 @@
+{
+  "filename": "EffectivenessCostConstants.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Multiplier",
+      "rowid": 1,
+      "type": "float",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0:.6f}",
+      "description": "Rounded"
+    }
+  ],
+  "data": [
+    [
+      "DamageValue",
+      1
+    ],
+    [
+      "DamageValuePerMinute",
+      0.05999999865889549
+    ],
+    [
+      "Override",
+      0
+    ]
+  ]
+}

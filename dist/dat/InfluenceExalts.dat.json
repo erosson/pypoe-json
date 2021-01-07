@@ -1,0 +1,61 @@
+{
+  "filename": "InfluenceExalts.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "BaseItemTypesKey",
+      "rowid": 1,
+      "type": "ulong",
+      "key": "BaseItemTypes.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      0,
+      null
+    ],
+    [
+      1,
+      null
+    ],
+    [
+      2,
+      7031
+    ],
+    [
+      3,
+      7032
+    ],
+    [
+      4,
+      7033
+    ],
+    [
+      5,
+      7034
+    ]
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "filename": "GameConstants.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Value",
+      "rowid": 1,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "ChanceToDropItemPerSlotMonster",
+      1182
+    ],
+    [
+      "ChanceToDropItemPerSlotChest",
+      1182
+    ],
+    [
+      "StunDurationMinimum",
+      200
+    ],
+    [
+      "StunDurationDefault",
+      500
+    ],
+    [
+      "MonsterDamageReductionImprovement",
+      690
+    ],
+    [
+      "MonsterAccuracyBase",
+      13
+    ],
+    [
+      "MonsterAccuracyIncremental",
+      38
+    ],
+    [
+      "MonsterAccuracyImprovement",
+      300
+    ],
+    [
+      "MonsterEvasionBase",
+      40
+    ],
+    [
+      "MonsterEvasionIncremental",
+      12
+    ],
+    [
+      "MonsterEvasionIncrementalDexterity",
+      10
+    ],
+    [
+      "MonsterEvasionImprovement",
+      253
+    ],
+    [
+      "EnergyShieldRatioOfLife",
+      40
+    ],
+    [
+      "ItemArmourBase",
+      10
+    ],
+    [
+      "ItemArmourIncremental",
+      5
+    ],
+    [
+      "ChanceToDropAtziriFragment",
+      50
+    ],
+    [
+      "PvPScalingPhysicalPivot",
+      90
+    ],
+    [
+      "PvPScalingPhysicalExponent",
+      57
+    ],
+    [
+      "PvPScalingElementalPivot",
+      150
+    ],
+    [
+      "PvPScalingElementalExponent",
+      55
+    ],
+    [
+      "OldLeechModsEffectiveness",
+      20
+    ],
+    [
+      "AscendancyRespecCost",
+      5
+    ],
+    [
+      "SkillDamageBaseEffectiveness",
+      3885209
+    ],
+    [
+      "SkillDamageIncrementalEffectiveness",
+      360246
+    ],
+    [
+      "MaxHideoutDoodads",
+      750
+    ]
+  ]
+}

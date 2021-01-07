@@ -1,0 +1,299 @@
+{
+  "filename": "DelveAzuriteShop.dat",
+  "header": [
+    {
+      "name": "BaseItemTypesKey",
+      "rowid": 0,
+      "type": "ulong",
+      "key": "BaseItemTypes.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "SpawnWeight",
+      "rowid": 1,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Cost",
+      "rowid": 2,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "MinDepth",
+      "rowid": 3,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "IsEnabled",
+      "rowid": 4,
+      "type": "bool",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      269,
+      100,
+      300,
+      0,
+      true
+    ],
+    [
+      270,
+      100,
+      750,
+      0,
+      true
+    ],
+    [
+      271,
+      100,
+      3750,
+      0,
+      true
+    ],
+    [
+      265,
+      100,
+      200,
+      0,
+      true
+    ],
+    [
+      266,
+      100,
+      500,
+      0,
+      true
+    ],
+    [
+      267,
+      100,
+      2500,
+      0,
+      true
+    ],
+    [
+      232,
+      100,
+      1000,
+      0,
+      false
+    ],
+    [
+      233,
+      100,
+      1000,
+      0,
+      false
+    ],
+    [
+      234,
+      100,
+      1000,
+      0,
+      false
+    ],
+    [
+      235,
+      100,
+      1000,
+      0,
+      false
+    ],
+    [
+      236,
+      100,
+      1000,
+      0,
+      false
+    ],
+    [
+      237,
+      100,
+      1000,
+      0,
+      false
+    ],
+    [
+      238,
+      100,
+      1000,
+      0,
+      false
+    ],
+    [
+      239,
+      40,
+      10000,
+      19,
+      false
+    ],
+    [
+      240,
+      40,
+      10000,
+      19,
+      false
+    ],
+    [
+      241,
+      40,
+      10000,
+      19,
+      false
+    ],
+    [
+      242,
+      40,
+      10000,
+      19,
+      false
+    ],
+    [
+      243,
+      40,
+      10000,
+      19,
+      false
+    ],
+    [
+      244,
+      40,
+      10000,
+      19,
+      false
+    ],
+    [
+      245,
+      40,
+      10000,
+      19,
+      false
+    ],
+    [
+      246,
+      40,
+      10000,
+      19,
+      false
+    ],
+    [
+      247,
+      40,
+      10000,
+      19,
+      false
+    ],
+    [
+      248,
+      10,
+      100000,
+      35,
+      false
+    ],
+    [
+      249,
+      10,
+      1000000,
+      75,
+      false
+    ],
+    [
+      250,
+      10,
+      1000000,
+      75,
+      false
+    ],
+    [
+      251,
+      10,
+      1000000,
+      75,
+      false
+    ],
+    [
+      252,
+      10,
+      1000000,
+      75,
+      false
+    ],
+    [
+      253,
+      10,
+      1000000,
+      75,
+      false
+    ],
+    [
+      254,
+      10,
+      1000000,
+      75,
+      false
+    ],
+    [
+      255,
+      10,
+      100000,
+      35,
+      false
+    ],
+    [
+      256,
+      10,
+      100000,
+      35,
+      false
+    ]
+  ]
+}

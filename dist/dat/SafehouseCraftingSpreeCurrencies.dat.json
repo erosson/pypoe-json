@@ -1,0 +1,117 @@
+{
+  "filename": "SafehouseCraftingSpreeCurrencies.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "BaseItemTypesKey",
+      "rowid": 1,
+      "type": "ulong",
+      "key": "BaseItemTypes.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "HasSpecificBaseItem",
+      "rowid": 2,
+      "type": "bool",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "Transmute",
+      8,
+      false
+    ],
+    [
+      "Alteration",
+      9,
+      false
+    ],
+    [
+      "Augmentation",
+      13,
+      false
+    ],
+    [
+      "Regal",
+      12,
+      false
+    ],
+    [
+      "Exalted",
+      11,
+      false
+    ],
+    [
+      "Divine",
+      20,
+      false
+    ],
+    [
+      "Vaal",
+      30,
+      false
+    ],
+    [
+      "Scouring",
+      10,
+      false
+    ],
+    [
+      "Alchemy",
+      5,
+      false
+    ],
+    [
+      "Chaos",
+      2,
+      false
+    ],
+    [
+      "Blessed",
+      21,
+      false
+    ],
+    [
+      "Annulment",
+      195,
+      false
+    ],
+    [
+      "Essence",
+      null,
+      true
+    ]
+  ]
+}

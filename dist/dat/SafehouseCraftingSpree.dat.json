@@ -1,0 +1,394 @@
+{
+  "filename": "SafehouseCraftingSpree.dat",
+  "header": [
+    {
+      "name": "BetrayalJobsKey",
+      "rowid": 0,
+      "type": "ulong",
+      "key": "BetrayalJobs.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "BetrayalRanksKey",
+      "rowid": 1,
+      "type": "ulong",
+      "key": "BetrayalRanks.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Currency_Values",
+      "rowid": 2,
+      "type": "ref|list|int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Chance",
+      "rowid": 3,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Currency_SafehouseCraftingSpreeCurrenciesKeys",
+      "rowid": 4,
+      "type": "ref|list|ulong",
+      "key": "SafehouseCraftingSpreeCurrencies.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Data0",
+      "rowid": 5,
+      "type": "ref|list|int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      3,
+      1,
+      [
+        1,
+        200,
+        100,
+        1,
+        3,
+        20,
+        1
+      ],
+      10,
+      [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      []
+    ],
+    [
+      3,
+      2,
+      [
+        1,
+        200,
+        100,
+        1,
+        3,
+        20,
+        1
+      ],
+      14,
+      [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      []
+    ],
+    [
+      3,
+      3,
+      [
+        1,
+        200,
+        100,
+        1,
+        3,
+        20,
+        1
+      ],
+      18,
+      [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      []
+    ],
+    [
+      1,
+      1,
+      [
+        20,
+        4,
+        4,
+        4,
+        4,
+        4,
+        20,
+        1
+      ],
+      10,
+      [
+        7,
+        12,
+        12,
+        12,
+        12,
+        12,
+        4,
+        6
+      ],
+      [
+        35,
+        0,
+        41,
+        0
+      ]
+    ],
+    [
+      1,
+      2,
+      [
+        20,
+        4,
+        4,
+        4,
+        4,
+        4,
+        20,
+        1
+      ],
+      15,
+      [
+        7,
+        12,
+        12,
+        12,
+        12,
+        12,
+        4,
+        6
+      ],
+      [
+        35,
+        0,
+        41,
+        0
+      ]
+    ],
+    [
+      1,
+      3,
+      [
+        20,
+        4,
+        4,
+        4,
+        4,
+        4,
+        20,
+        1
+      ],
+      20,
+      [
+        7,
+        12,
+        12,
+        12,
+        12,
+        12,
+        4,
+        6
+      ],
+      [
+        35,
+        0,
+        41,
+        0
+      ]
+    ],
+    [
+      2,
+      1,
+      [
+        1,
+        200,
+        6,
+        20,
+        20,
+        1
+      ],
+      8,
+      [
+        8,
+        9,
+        4,
+        5,
+        10,
+        6
+      ],
+      []
+    ],
+    [
+      2,
+      2,
+      [
+        1,
+        200,
+        6,
+        20,
+        20,
+        1
+      ],
+      12,
+      [
+        8,
+        9,
+        4,
+        5,
+        10,
+        6
+      ],
+      []
+    ],
+    [
+      2,
+      3,
+      [
+        1,
+        200,
+        6,
+        20,
+        20,
+        1
+      ],
+      16,
+      [
+        8,
+        9,
+        4,
+        5,
+        10,
+        6
+      ],
+      []
+    ],
+    [
+      4,
+      1,
+      [
+        1,
+        100,
+        100,
+        5,
+        5,
+        1
+      ],
+      10,
+      [
+        8,
+        11,
+        4,
+        5,
+        10,
+        6
+      ],
+      []
+    ],
+    [
+      4,
+      2,
+      [
+        1,
+        100,
+        100,
+        5,
+        5,
+        1
+      ],
+      15,
+      [
+        8,
+        11,
+        4,
+        5,
+        10,
+        6
+      ],
+      []
+    ],
+    [
+      4,
+      3,
+      [
+        1,
+        100,
+        100,
+        5,
+        5,
+        1
+      ],
+      20,
+      [
+        8,
+        11,
+        4,
+        5,
+        10,
+        6
+      ],
+      []
+    ]
+  ]
+}

@@ -1,0 +1,1132 @@
+{
+  "filename": "ShopToken.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "TypeId",
+      "rowid": 1,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Description",
+      "rowid": 2,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "ClosedBetaKey",
+      "Digital",
+      "Closed Beta Key"
+    ],
+    [
+      "3ClosedBetaKeys",
+      "Digital",
+      "3 Closed Beta Keys"
+    ],
+    [
+      "5ClosedBetaKeys",
+      "Digital",
+      "5 Closed Beta Keys"
+    ],
+    [
+      "SupporterForum",
+      "Badge",
+      "Supporter Forum Title"
+    ],
+    [
+      "BronzeForum",
+      "Badge",
+      "Bronze Supporter Forum Title"
+    ],
+    [
+      "SilverForum",
+      "Badge",
+      "Silver Supporter Forum Title"
+    ],
+    [
+      "GoldForum",
+      "Badge",
+      "Gold Supporter Forum Title"
+    ],
+    [
+      "DiamondForum",
+      "Badge",
+      "Diamond Supporter Forum Title"
+    ],
+    [
+      "OriginalExtendedSoundtrack",
+      "Digital",
+      "Extended Digital Soundtrack"
+    ],
+    [
+      "PhysicalWraeclastPoster",
+      "PhysicalItem",
+      "Map of Wraeclast Poster"
+    ],
+    [
+      "PhysicalDVD",
+      "PhysicalItem",
+      "Path of Exile DVD"
+    ],
+    [
+      "PhysicalCD",
+      "PhysicalItem",
+      "Soundtrack CD"
+    ],
+    [
+      "PhysicalOriginalShirt",
+      "PhysicalItem",
+      "Path of Exile T-Shirt"
+    ],
+    [
+      "PhysicalItemsSigned",
+      "PhysicalItem",
+      "All posted items signed on request"
+    ],
+    [
+      "NameInCredits",
+      "Digital",
+      "Your name in the Path of Exile credits"
+    ],
+    [
+      "CustomAvatar",
+      "Digital",
+      "A custom forum account avatar designed to your request"
+    ],
+    [
+      "UniqueItem",
+      "Digital",
+      "Collaborate with us designing a Unique Item based on your design!"
+    ],
+    [
+      "OpenBetaForum",
+      "Badge",
+      "Open Beta Supporter Forum Title"
+    ],
+    [
+      "RegalForum",
+      "Badge",
+      "Regal Supporter forum Title"
+    ],
+    [
+      "DivineForum",
+      "Badge",
+      "Divine Supporter Forum Title"
+    ],
+    [
+      "ExaltedForum",
+      "Badge",
+      "Exalted Supporter Forum Title"
+    ],
+    [
+      "EternalForum",
+      "Badge",
+      "Eternal Supporter Forum Title"
+    ],
+    [
+      "RulerOfWraeclastForum",
+      "Badge",
+      "Ruler of Wraeclast Forum Title"
+    ],
+    [
+      "OBTshirt",
+      "PhysicalItem",
+      "Path of Exile Logo or Tabula Rasa T-Shirt"
+    ],
+    [
+      "ChaosOrbKeyChain",
+      "PhysicalItem",
+      "Chaos Orb Keychain"
+    ],
+    [
+      "OBStickers",
+      "PhysicalItem",
+      "2 Path of Exile Stickers"
+    ],
+    [
+      "PhysicalWraeclastPosterSigned",
+      "PhysicalItem",
+      "A second Skill Tree Poster with custom signing!"
+    ],
+    [
+      "UniqueMonster",
+      "Digital",
+      "Design a Custom Monster!"
+    ],
+    [
+      "UniqueMonsterPhysical",
+      "PhysicalItem",
+      "Get a physical model of your monster"
+    ],
+    [
+      "UniqueMonsterPetCodes",
+      "Digital",
+      "Get 10 codes for an in-game pet version of your monster"
+    ],
+    [
+      "SurvivorForum",
+      "Badge",
+      "Survivor Supporter Forum Title"
+    ],
+    [
+      "WarriorForum",
+      "Badge",
+      "Warrior Supporter Forum Title"
+    ],
+    [
+      "ChampionForum",
+      "Badge",
+      "Champion Supporter Forum Title"
+    ],
+    [
+      "ConquerorForum",
+      "Badge",
+      "Conqueror Supporter Forum Title"
+    ],
+    [
+      "ExaltedTShirtHoodie",
+      "PhysicalItem",
+      "Path of Exile Exalted Orb T-Shirt and Hoodie"
+    ],
+    [
+      "ApprenticeForum",
+      "Badge",
+      "Apprentice Supporter Forum Title"
+    ],
+    [
+      "JourneymanForum",
+      "Badge",
+      "Journeyman Supporter Forum Title"
+    ],
+    [
+      "MasterForum",
+      "Badge",
+      "Master Supporter Forum Title"
+    ],
+    [
+      "GrandmasterForum",
+      "Badge",
+      "Grandmaster Supporter Forum Title"
+    ],
+    [
+      "ForsakenMastersSignedArt",
+      "PhysicalItem",
+      "Signed Concept Art, Posted to You"
+    ],
+    [
+      "AwakeningForum",
+      "Badge",
+      "Awakening Supporter Forum Title"
+    ],
+    [
+      "AxiomForum",
+      "Badge",
+      "Axiom Supporter Forum Title"
+    ],
+    [
+      "VaalForum",
+      "Badge",
+      "Vaal Supporter Forum Title"
+    ],
+    [
+      "LunarisForum",
+      "Badge",
+      "Lunaris Supporter Forum Title"
+    ],
+    [
+      "HighgateForum",
+      "Badge",
+      "Highgate Supporter Forum Title"
+    ],
+    [
+      "AwakeningTShirt",
+      "PhysicalItem",
+      "The Awakening T-Shirt"
+    ],
+    [
+      "PhysicalGraphicNovel",
+      "PhysicalItem",
+      "Physical Graphic Novel"
+    ],
+    [
+      "DesignDivinationCard",
+      "Digital",
+      "Design a Divination Card"
+    ],
+    [
+      "DivinationCardAvatar",
+      "Digital",
+      "Use Card Art as Forum Avatar"
+    ],
+    [
+      "AspirantForum",
+      "Badge",
+      "Aspirant Supporter Forum Title"
+    ],
+    [
+      "ChallengerForum",
+      "Badge",
+      "Challenger Supporter Forum Title"
+    ],
+    [
+      "SovereignForum",
+      "Badge",
+      "Sovereign Supporter Forum Title"
+    ],
+    [
+      "AscendantForum",
+      "Badge",
+      "Ascendant Supporter Forum Title"
+    ],
+    [
+      "AscendancyTShirt",
+      "PhysicalItem",
+      "Ascendancy T-Shirt"
+    ],
+    [
+      "AscendancyPhysicalArt",
+      "PhysicalItem",
+      "The Art of Ascendancy"
+    ],
+    [
+      "AscendancySignedPhysicalArt",
+      "PhysicalItem",
+      "Signed Art of Ascendancy"
+    ],
+    [
+      "Comic1",
+      "Digital",
+      "The Karui Way"
+    ],
+    [
+      "Comic2",
+      "Digital",
+      "Sons of Virtue"
+    ],
+    [
+      "Comic3",
+      "Digital",
+      "Death to Sin"
+    ],
+    [
+      "Comic4",
+      "Digital",
+      "The Black Heart"
+    ],
+    [
+      "ProphecyForum",
+      "Badge",
+      "Prophecy Supporter Forum Title"
+    ],
+    [
+      "MinotaurForum",
+      "Badge",
+      "Minotaur Supporter Forum Title"
+    ],
+    [
+      "HydraForum",
+      "Badge",
+      "Hydra Supporter Forum Title"
+    ],
+    [
+      "ChimeraForum",
+      "Badge",
+      "Chimera Supporter Forum Title"
+    ],
+    [
+      "PhoenixForum",
+      "Badge",
+      "Phoenix Supporter Forum Title"
+    ],
+    [
+      "AtlasTShirt",
+      "PhysicalItem",
+      "Atlas of Worlds T-Shirt"
+    ],
+    [
+      "ClothAtlasMap",
+      "PhysicalItem",
+      "Cloth Map of the Atlas"
+    ],
+    [
+      "SignedClothAtlasMap",
+      "PhysicalItem",
+      "Signed Cloth Map of the Atlas"
+    ],
+    [
+      "BreachspawnForum",
+      "Badge",
+      "Breachspawn Supporter Forum Title"
+    ],
+    [
+      "BreachlordForum",
+      "Badge",
+      "Breachlord Supporter Forum Title"
+    ],
+    [
+      "ClassicForum",
+      "Badge",
+      "Classic Supporter Forum Title"
+    ],
+    [
+      "LegacyForum",
+      "Badge",
+      "Legacy Supporter Forum Title"
+    ],
+    [
+      "OriathTShirt",
+      "PhysicalItem",
+      "The Fall of Oriath T-Shirt"
+    ],
+    [
+      "PantheonTShirt",
+      "PhysicalItem",
+      "Pantheon Premium T-Shirt"
+    ],
+    [
+      "PurchaseDivinationCard",
+      "Digital",
+      "Entitlement to purchase a Divination Card for $620"
+    ],
+    [
+      "OriathBetaKey",
+      "Grantable",
+      "The Fall of Oriath Closed Beta Key"
+    ],
+    [
+      "OriathForum",
+      "Badge",
+      "Oriath Supporter Forum Title"
+    ],
+    [
+      "OutlawForum",
+      "Badge",
+      "Outlaw Supporter Forum Title"
+    ],
+    [
+      "LegionForum",
+      "Badge",
+      "Legion Supporter Forum Title"
+    ],
+    [
+      "EclipseForum",
+      "Badge",
+      "Eclipse Supporter Forum Title"
+    ],
+    [
+      "BeastForum",
+      "Badge",
+      "Beast Supporter Forum Title"
+    ],
+    [
+      "KitavaForum",
+      "Badge",
+      "Kitava Supporter Forum Title"
+    ],
+    [
+      "OriathArt",
+      "PhysicalItem",
+      "Physical Art Book: The Art of Path of Exile (Ships October)"
+    ],
+    [
+      "OriathBetaAccess",
+      "Grantable",
+      "The Fall of Oriath Beta Access"
+    ],
+    [
+      "PortentForum",
+      "Badge",
+      "Portent Supporter Forum Title"
+    ],
+    [
+      "HarbingerForum",
+      "Badge",
+      "Harbinger Supporter Forum Title"
+    ],
+    [
+      "VagabondForum",
+      "Badge",
+      "Vagabond Supporter Forum Title"
+    ],
+    [
+      "SeekerForum",
+      "Badge",
+      "Seeker Supporter Forum Title"
+    ],
+    [
+      "ScholarForum",
+      "Badge",
+      "Scholar Supporter Forum Title"
+    ],
+    [
+      "RedeemerForum",
+      "Badge",
+      "Redeemer Supporter Forum Title"
+    ],
+    [
+      "SubjugatorForum",
+      "Badge",
+      "Subjugator Supporter Forum Title"
+    ],
+    [
+      "DominatorForum",
+      "Badge",
+      "Dominator Supporter Forum Title"
+    ],
+    [
+      "WarForTheAtlasTShirt",
+      "PhysicalItem",
+      "War for the Atlas T-Shirt"
+    ],
+    [
+      "AtlasIIClothMap",
+      "PhysicalItem",
+      "Unsigned Microfibre Cloth Atlas Map"
+    ],
+    [
+      "SignedAtlasIIClothMap",
+      "PhysicalItem",
+      "Microfibre Cloth Atlas Map Signed by 10 Developers"
+    ],
+    [
+      "AbyssalImpForum",
+      "Badge",
+      "Abyssal Imp Supporter Forum Title"
+    ],
+    [
+      "AbyssalLichForum",
+      "Badge",
+      "Abyssal Lich Supporter Forum Title"
+    ],
+    [
+      "HarpyForum",
+      "Badge",
+      "Harpy Supporter Forum Title"
+    ],
+    [
+      "AlphaHarpyForum",
+      "Badge",
+      "Alpha Harpy Supporter Forum Title"
+    ],
+    [
+      "ManticoreForum",
+      "Badge",
+      "Manticore Supporter Forum Title"
+    ],
+    [
+      "AlphaManticoreForum",
+      "Badge",
+      "Alpha Manticore Supporter Forum Title"
+    ],
+    [
+      "ConquestForum",
+      "Badge",
+      "Conquest Supporter Forum Title"
+    ],
+    [
+      "GrandConquestForum",
+      "Badge",
+      "Grand Conquest Supporter Forum Title"
+    ],
+    [
+      "CouncilForum",
+      "Badge",
+      "Council Supporter Forum Title"
+    ],
+    [
+      "HighCouncilForum",
+      "Badge",
+      "High Council Supporter Forum Title"
+    ],
+    [
+      "DelveStalkerForum",
+      "Badge",
+      "Stalker Supporter Forum Title"
+    ],
+    [
+      "DelveShadowstalkerForum",
+      "Badge",
+      "Shadowstalker Supporter Forum Title"
+    ],
+    [
+      "DelveForgeForum",
+      "Badge",
+      "Forge Supporter Forum Title"
+    ],
+    [
+      "DelveDreadforgeForum",
+      "Badge",
+      "Dreadforge Supporter Forum Title"
+    ],
+    [
+      "BetrayalSoulstealerForum",
+      "Badge",
+      "Soulstealer Supporter Forum Title"
+    ],
+    [
+      "BetrayalMasterSoulstealerForum",
+      "Badge",
+      "Master Soulstealer Supporter Forum Title"
+    ],
+    [
+      "BetrayalUndertakerForum",
+      "Badge",
+      "Undertaker Supporter Forum Title"
+    ],
+    [
+      "BetrayalMasterUndertakerForum",
+      "Badge",
+      "Master Undertaker Supporter Forum Title"
+    ],
+    [
+      "CorePitfighterForum",
+      "Badge",
+      "Pitfighter Supporter Forum Title"
+    ],
+    [
+      "CoreAssassinForum",
+      "Badge",
+      "Assassin Supporter Forum Title"
+    ],
+    [
+      "CoreVanguardForum",
+      "Badge",
+      "Vanguard Supporter Forum Title"
+    ],
+    [
+      "CoreEmpyreanForum",
+      "Badge",
+      "Empyrean Supporter Forum Title"
+    ],
+    [
+      "CoreCrucibleForum",
+      "Badge",
+      "Crucible Supporter Forum Title"
+    ],
+    [
+      "CoreTShirt",
+      "PhysicalItem",
+      "Path of Exile Logo T-Shirt"
+    ],
+    [
+      "CoreHoodie",
+      "PhysicalItem",
+      "Path of Exile Hoodie"
+    ],
+    [
+      "CoreArt",
+      "PhysicalItem",
+      "Path of Exile Signed Art Pack"
+    ],
+    [
+      "ExileconTicket",
+      "Digital",
+      "Exilecon Entry"
+    ],
+    [
+      "SynthesisSunstoneForum",
+      "Badge",
+      "Sunstone Supporter Forum Title"
+    ],
+    [
+      "SynthesisSunspireForum",
+      "Badge",
+      "Sunspire Supporter Forum Title"
+    ],
+    [
+      "SynthesisDoomcrowForum",
+      "Badge",
+      "Doomcrow Supporter Forum Title"
+    ],
+    [
+      "SynthesisDoomguardForum",
+      "Badge",
+      "Doomguard Supporter Forum Title"
+    ],
+    [
+      "ExileconVIP",
+      "Digital",
+      "Exilecon VIP Pass"
+    ],
+    [
+      "ExileconUltraVI",
+      "Digital",
+      "Exilecon Ultra VIP"
+    ],
+    [
+      "LegionCultofDarknessForum",
+      "Badge",
+      "Cult of Darkness Supporter Forum Title"
+    ],
+    [
+      "LegionCultofApocalypseForum",
+      "Badge",
+      "Cult of Apocalypse Supporter Forum Title"
+    ],
+    [
+      "LegionBloodKnightForum",
+      "Badge",
+      "Blood Knight Supporter Forum Title"
+    ],
+    [
+      "LegionBloodGuardianForum",
+      "Badge",
+      "Blood Guardian Supporter Forum Title"
+    ],
+    [
+      "ExileconRegularTicket",
+      "Digital",
+      "Exilecon Ticket"
+    ],
+    [
+      "ExileconBalconyTicket",
+      "Digital",
+      "Exilecon Balcony Ticket"
+    ],
+    [
+      "ExileconStaffBalconyTicket",
+      "Digital",
+      "Exilecon Staff Balcony Ticket"
+    ],
+    [
+      "ExileconStaffRegularTicket",
+      "Digital",
+      "Exilecon Staff Regular Ticket"
+    ],
+    [
+      "ExileconStaffVIPTicket",
+      "Digital",
+      "Exilecon Staff VIP Ticket"
+    ],
+    [
+      "ExileconStaffUltraVIPTicket",
+      "Digital",
+      "Exilecon Staff Ultra VIP Ticket"
+    ],
+    [
+      "ExileconMediaBalconyTicket",
+      "Digital",
+      "Exilecon Media Belcony Ticket"
+    ],
+    [
+      "ExileconMediaRegularTicket",
+      "Digital",
+      "Exilecon Media Regular Ticket"
+    ],
+    [
+      "ExileconMediaVIPTicket",
+      "Digital",
+      "Exilecon Media VIP Ticket"
+    ],
+    [
+      "ExileconMediaUltraVIPTicket",
+      "Digital",
+      "Exilecon Media Ultra VIP Ticket"
+    ],
+    [
+      "BlightLichForum",
+      "Badge",
+      "Lich Supporter Forum Title"
+    ],
+    [
+      "BlightBaneLichForum",
+      "Badge",
+      "Bane Lich Supporter Forum Title"
+    ],
+    [
+      "BlightSentinelForum",
+      "Badge",
+      "Sentinel Supporter Forum Title"
+    ],
+    [
+      "BlightSentinelOverlordForum",
+      "Badge",
+      "Sentinel Overlord Forum Title"
+    ],
+    [
+      "TencentChiyou",
+      "Badge",
+      "Chiyou Forum Title"
+    ],
+    [
+      "MetamorphosisDamnationForum",
+      "Badge",
+      "Damnation Supporter Forum Title"
+    ],
+    [
+      "MetamorphosisEternalDamnationForum",
+      "Badge",
+      "Eternal Damnation Supporter Forum Title"
+    ],
+    [
+      "MetamorphosisSanctumForum",
+      "Badge",
+      "Sanctum Supporter Forum Title"
+    ],
+    [
+      "MetamorphosisGrandSanctumForum",
+      "Badge",
+      "Grand Sanctum Supporter Forum Title"
+    ],
+    [
+      "CoreBasiliskForum",
+      "Badge",
+      "Basilisk Supporter Forum Title"
+    ],
+    [
+      "CoreCrusaderForum",
+      "Badge",
+      "Crusader Supporter Forum Title"
+    ],
+    [
+      "CoreEyrieForum",
+      "Badge",
+      "Eyrie Supporter Forum Title"
+    ],
+    [
+      "CoreJudicatorForum",
+      "Badge",
+      "Judicator Supporter Forum Title"
+    ],
+    [
+      "CoreOrionForum",
+      "Badge",
+      "Orion Supporter Forum Title"
+    ],
+    [
+      "CoreLabyrinthBook",
+      "PhysicalItem",
+      "\"The Lord's Labyrinth\" Gamebook"
+    ],
+    [
+      "TencentDarkDeicide",
+      "Badge",
+      "Dark Deicide Forum Title"
+    ],
+    [
+      "Core2020Art",
+      "PhysicalItem",
+      "Path of Exile Signed Art Pack"
+    ],
+    [
+      "AtlasIIIClothMap",
+      "PhysicalItem",
+      "Cloth Map of the Atlas"
+    ],
+    [
+      "DeliriumDarkseerForum",
+      "Badge",
+      "Darkseer Supporter Forum Title"
+    ],
+    [
+      "DeliriumElderDarkseerForum",
+      "Badge",
+      "Elder Darkseer Supporter Forum Title"
+    ],
+    [
+      "DeliriumFateweaverForum",
+      "Badge",
+      "Fateweaver Supporter Forum Title"
+    ],
+    [
+      "DeliriumEliteFateweaverForum",
+      "Badge",
+      "Elite Fateweaver Supporter Forum Title"
+    ],
+    [
+      "MerchandiseToken",
+      "PhysicalItem",
+      "Merchandise"
+    ],
+    [
+      "SolarisLunarisStatueToken",
+      "PhysicalItem",
+      "Solaris and Lunaris Statue"
+    ],
+    [
+      "ExileConMysteryPackToken",
+      "PhysicalItem",
+      "ExileCon Mystery Pack"
+    ],
+    [
+      "TencentGoddess",
+      "Badge",
+      "Goddess Forum Title"
+    ],
+    [
+      "HarvestMalice",
+      "Badge",
+      "Malice Supporter Forum Title"
+    ],
+    [
+      "HarvestInsatiableMalice",
+      "Badge",
+      "Insatiable Malice Supporter Forum Title"
+    ],
+    [
+      "HarvestBenevolence",
+      "Badge",
+      "Benevolence Supporter Forum Title"
+    ],
+    [
+      "HarvestDivineBenevolence",
+      "Badge",
+      "Divine Benevolence Supporter Forum Title"
+    ],
+    [
+      "HeistSpellblade",
+      "Badge",
+      "Spellblade Supporter Forum Title"
+    ],
+    [
+      "HeistMasterSpellblade",
+      "Badge",
+      "Master Spellblade Supporter Forum Title"
+    ],
+    [
+      "HeistEagle",
+      "Badge",
+      "Eagle Supporter Forum Title"
+    ],
+    [
+      "HeistImperialEagle",
+      "Badge",
+      "Imperial Eagle Supporter Forum Title"
+    ],
+    [
+      "RitualRenegade",
+      "Badge",
+      "Renegade Supporter Forum Title"
+    ],
+    [
+      "RitualDeadlyRenegade",
+      "Badge",
+      "Deadly Renegade Supporter Forum Title"
+    ],
+    [
+      "RitualFaithsworn",
+      "Badge",
+      "Faithsworn Supporter Forum Title"
+    ],
+    [
+      "RitualEliteFaithsworn",
+      "Badge",
+      "Elite Faithsworn Supporter Forum Title"
+    ],
+    [
+      "Core2021DelveForum",
+      "Badge",
+      "Delve Core Supporter Forum Title"
+    ],
+    [
+      "Core2021BreachForum",
+      "Badge",
+      "Breach Core Supporter Forum Title"
+    ],
+    [
+      "Core2021AbyssForum",
+      "Badge",
+      "Abyss Core Supporter Forum Title"
+    ],
+    [
+      "Core2021HarvestForum",
+      "Badge",
+      "Harvest Core Supporter Forum Title"
+    ],
+    [
+      "Core2021AtlasForum",
+      "Badge",
+      "Atlas Core Supporter Forum Title"
+    ],
+    [
+      "Core2021ShirtSelect",
+      "PhysicalItemSelect",
+      "Path of Exile Logo or Exalted Orb T-Shirt"
+    ],
+    [
+      "Core2021HoodieSelect",
+      "PhysicalItemSelect",
+      "Path of Exile Logo or Exalted Orb Hoodie"
+    ],
+    [
+      "Core2021Art",
+      "PhysicalItem",
+      "Path of Exile Signed Art Pack"
+    ],
+    [
+      "Core2021ShirtOptionCore2021S",
+      "PhysicalItemOption",
+      "Exalted Orb T-Shirt S"
+    ],
+    [
+      "Core2021ShirtOptionCore2021M",
+      "PhysicalItemOption",
+      "Exalted Orb T-Shirt M"
+    ],
+    [
+      "Core2021ShirtOptionCore2021L",
+      "PhysicalItemOption",
+      "Exalted Orb T-Shirt L"
+    ],
+    [
+      "Core2021ShirtOptionCore2021XL",
+      "PhysicalItemOption",
+      "Exalted Orb T-Shirt XL"
+    ],
+    [
+      "Core2021ShirtOptionCore2021XXL",
+      "PhysicalItemOption",
+      "Exalted Orb T-Shirt XXL"
+    ],
+    [
+      "Core2021ShirtOptionCore20213XL",
+      "PhysicalItemOption",
+      "Exalted Orb T-Shirt 3XL"
+    ],
+    [
+      "Core2021ShirtOptionCore20214XL",
+      "PhysicalItemOption",
+      "Exalted Orb T-Shirt 4XL"
+    ],
+    [
+      "Core2021ShirtOptionCore2018S",
+      "PhysicalItemOption",
+      "Path of Exile Logo T-Shirt S"
+    ],
+    [
+      "Core2021ShirtOptionCore2018M",
+      "PhysicalItemOption",
+      "Path of Exile Logo T-Shirt M"
+    ],
+    [
+      "Core2021ShirtOptionCore2018L",
+      "PhysicalItemOption",
+      "Path of Exile Logo T-Shirt L"
+    ],
+    [
+      "Core2021ShirtOptionCore2018XL",
+      "PhysicalItemOption",
+      "Path of Exile Logo T-Shirt XL"
+    ],
+    [
+      "Core2021ShirtOptionCore2018XXL",
+      "PhysicalItemOption",
+      "Path of Exile Logo T-Shirt XXL"
+    ],
+    [
+      "Core2021ShirtOptionCore20183XL",
+      "PhysicalItemOption",
+      "Path of Exile Logo T-Shirt 3XL"
+    ],
+    [
+      "Core2021ShirtOptionCore20184XL",
+      "PhysicalItemOption",
+      "Path of Exile Logo T-Shirt 4XL"
+    ],
+    [
+      "Core2021HoodieOptionCore2021S",
+      "PhysicalItemOption",
+      "Exalted Orb Hoodie S"
+    ],
+    [
+      "Core2021HoodieOptionCore2021M",
+      "PhysicalItemOption",
+      "Exalted Orb Hoodie M"
+    ],
+    [
+      "Core2021HoodieOptionCore2021L",
+      "PhysicalItemOption",
+      "Exalted Orb Hoodie L"
+    ],
+    [
+      "Core2021HoodieOptionCore2021XL",
+      "PhysicalItemOption",
+      "Exalted Orb Hoodie XL"
+    ],
+    [
+      "Core2021HoodieOptionCore2021XXL",
+      "PhysicalItemOption",
+      "Exalted Orb Hoodie XXL"
+    ],
+    [
+      "Core2021HoodieOptionCore20213XL",
+      "PhysicalItemOption",
+      "Exalted Orb Hoodie 3XL"
+    ],
+    [
+      "Core2021HoodieOptionCore20214XL",
+      "PhysicalItemOption",
+      "Exalted Orb Hoodie 4XL"
+    ],
+    [
+      "Core2021HoodieOptionCore2018S",
+      "PhysicalItemOption",
+      "Path of Exile Logo Hoodie S"
+    ],
+    [
+      "Core2021HoodieOptionCore2018M",
+      "PhysicalItemOption",
+      "Path of Exile Logo Hoodie M"
+    ],
+    [
+      "Core2021HoodieOptionCore2018L",
+      "PhysicalItemOption",
+      "Path of Exile Logo Hoodie L"
+    ],
+    [
+      "Core2021HoodieOptionCore2018XL",
+      "PhysicalItemOption",
+      "Path of Exile Logo Hoodie XL"
+    ],
+    [
+      "Core2021HoodieOptionCore2018XXL",
+      "PhysicalItemOption",
+      "Path of Exile Logo Hoodie XXL"
+    ],
+    [
+      "Core2021HoodieOptionCore20183XL",
+      "PhysicalItemOption",
+      "Path of Exile Logo Hoodie 3XL"
+    ],
+    [
+      "Core2021HoodieOptionCore20184XL",
+      "PhysicalItemOption",
+      "Path of Exile Logo Hoodie 4XL"
+    ]
+  ]
+}

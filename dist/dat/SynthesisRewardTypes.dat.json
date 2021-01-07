@@ -1,0 +1,709 @@
+{
+  "filename": "SynthesisRewardTypes.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Description",
+      "rowid": 1,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "ArtFile",
+      "rowid": 2,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": true,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "AchievementItemsKey",
+      "rowid": 3,
+      "type": "ulong",
+      "key": "AchievementItems.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "Currency",
+      "Contains 2 to 3 Synthesised Chests with Currency Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIcon",
+      null
+    ],
+    [
+      "Currency2",
+      "Contains 3 to 4 Synthesised Chests with Currency Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIcon",
+      null
+    ],
+    [
+      "Currency3",
+      "Contains 4 to 5 Synthesised Chests with Currency Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIcon",
+      null
+    ],
+    [
+      "CurrencyHigh3",
+      "Contains 2 to 3 Synthesised Chests with valuable Currency Items\r\nContains 2 Synthesised Chests with Currency Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIconTier2",
+      null
+    ],
+    [
+      "Currency4",
+      "Contains 5 to 6 Synthesised Chests with Currency Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIcon",
+      null
+    ],
+    [
+      "CurrencyHigh4",
+      "Contains 3 to 4 Synthesised Chests with valuable Currency Items\r\nContains 2 Synthesised Chests with Currency Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIconTier2",
+      null
+    ],
+    [
+      "CurrencyEpic4",
+      "Contains a Synthesised Chest with very valuable Currency Items\r\nContains 4 to 5 Synthesised Chests with Currency Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIconTier3",
+      null
+    ],
+    [
+      "Currency5",
+      "Contains 6 to 7 Synthesised Chests with Currency Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIcon",
+      null
+    ],
+    [
+      "CurrencyHigh5",
+      "Contains 4 to 5 Synthesised Chests with valuable Currency Items\r\nContains 2 Synthesised Chests with Currency Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIconTier2",
+      null
+    ],
+    [
+      "CurrencyEpic5",
+      "Contains a Synthesised Chest with very valuable Currency Items\r\nContains 5 to 6 Synthesised Chests with Currency Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIconTier3",
+      null
+    ],
+    [
+      "Uniques",
+      "Contains a Synthesised Chest with a Unique Item\r\nContains 1 to 2 Synthesised Chests with Fractured Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/UniqueItemRewardIcon",
+      null
+    ],
+    [
+      "Uniques2",
+      "Contains a Synthesised Chest with a Unique Item\r\nContains 2 to 3 Synthesised Chests with Fractured Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/UniqueItemRewardIcon",
+      null
+    ],
+    [
+      "Uniques3",
+      "Contains 2 Synthesised Chests with a Unique Item\r\nContains 2 to 3 Synthesised Chests with Fractured Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/UniqueItemRewardIcon",
+      null
+    ],
+    [
+      "Uniques4",
+      "Contains 2 Synthesised Chests with a Unique Item\r\nContains 3 to 4 Synthesised Chests with Fractured Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/UniqueItemRewardIcon",
+      null
+    ],
+    [
+      "Uniques5",
+      "Contains 3 Synthesised Chests with a Unique Item\r\nContains 3 to 4 Synthesised Chests with Fractured Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/UniqueItemRewardIcon",
+      null
+    ],
+    [
+      "UniquesHigh5",
+      "Contains 1 Synthesised Chest with a valuable Unique Item\r\nContains 3 to 4 Synthesised Chests with a Unique Item",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/UniqueItemRewardIconTier2",
+      null
+    ],
+    [
+      "FracturedItems3",
+      "Contains 2 to 3 Synthesised Chests with valuable Fractured Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/FracturedItemRewardIconTier3",
+      null
+    ],
+    [
+      "Gems",
+      "Contains 1 to 2 Synthesised Chests with Gem Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/SkillGemItemRewardIcon",
+      null
+    ],
+    [
+      "Gems2",
+      "Contains 2 to 3 Synthesised Chests with Gem Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/SkillGemItemRewardIcon",
+      null
+    ],
+    [
+      "Gems3",
+      "Contains 3 to 4 Synthesised Chests with Gem Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/SkillGemItemRewardIcon",
+      null
+    ],
+    [
+      "GemsHigh3",
+      "Contains 2 to 3 Synthesised Chests with valuable Gem Items\r\nContains 1 to 2 Synthesised Chests with Gem Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/SkillGemItemRewardIconTier2",
+      null
+    ],
+    [
+      "Maps",
+      "Contains 1 to 2 Synthesised Chests with Map Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/MapItemRewardIcon",
+      null
+    ],
+    [
+      "Maps2",
+      "Contains 2 to 3 Synthesised Chests with Map Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/MapItemRewardIcon",
+      null
+    ],
+    [
+      "Maps3",
+      "Contains 3 to 4 Synthesised Chests with Map Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/MapItemRewardIcon",
+      null
+    ],
+    [
+      "Trinkets",
+      "Contains 1 to 2 Synthesised Chests with Jewellery Items\r\nContains 1 Synthesised Chest with Fractured Jewellery Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",
+      null
+    ],
+    [
+      "Trinkets2",
+      "Contains 2 to 3 Synthesised Chests with Jewellery Items\r\nContains 1 Synthesised Chest with Fractured Jewellery Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",
+      null
+    ],
+    [
+      "Trinkets3",
+      "Contains 3 to 4 Synthesised Chests with Jewellery Items\r\nContains 1 Synthesised Chest with Fractured Jewellery Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",
+      null
+    ],
+    [
+      "TrinketsHigh3",
+      "Contains 2 to 3 Synthesised Chests with valuable Jewellery Items\r\nContains 2 Synthesised Chests with Fractured Jewellery Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",
+      null
+    ],
+    [
+      "Trinkets4",
+      "Contains 4 to 5 Synthesised Chests with Jewellery Items\r\nContains 1 Synthesised Chest with Fractured Jewellery Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",
+      null
+    ],
+    [
+      "TrinketsHigh4",
+      "Contains 3 Synthesised Chests with valuable Jewellery Items\r\nContains 3 Synthesised Chests with Fractured Jewellery Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",
+      null
+    ],
+    [
+      "TrinketsEpic4",
+      "Contains 1 Synthesised Chest with very valuable Jewellery Items\r\nContains 4 to 5 Synthesised Chests with Fractured Jewellery Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",
+      null
+    ],
+    [
+      "Trinkets5",
+      "Contains 4 to 5 Synthesised Chests with Jewellery Items\r\nContains 2 Synthesised Chests with Fractured Jewellery Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",
+      null
+    ],
+    [
+      "TrinketsHigh5",
+      "Contains 3 to 4 Synthesised Chests with valuable Jewellery Items\r\nContains 4 Synthesised Chests with Fractured Jewellery Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",
+      null
+    ],
+    [
+      "TrinketsEpic5",
+      "Contains 1 Synthesised Chest with very valuable Jewellery Items\r\nContains 5 to 6 Synthesised Chests with Fractured Jewellery Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",
+      null
+    ],
+    [
+      "Abyss",
+      "Contains 2 to 3 Synthesised Chests with Abyssal Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/AbyssItemRewardIcon",
+      null
+    ],
+    [
+      "Abyss2",
+      "Contains 3 to 4 Synthesised Chests with Abyssal Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/AbyssItemRewardIcon",
+      null
+    ],
+    [
+      "AbyssHigh2",
+      "Contains 3 to 4 Synthesised Chests with valuable Abyssal Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/AbyssItemRewardIconTier2",
+      null
+    ],
+    [
+      "Armour",
+      "Contains 1 to 2 Synthesised Chests with Armour Items\r\nContains 1 Synthesised Chest with Fractured Armour Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",
+      null
+    ],
+    [
+      "Armour2",
+      "Contains 2 to 3 Synthesised Chests with Armour Items\r\nContains 1 Synthesised Chest with Fractured Armour Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",
+      null
+    ],
+    [
+      "Armour3",
+      "Contains 3 to 4 Synthesised Chests with Armour Items\r\nContains 1 Synthesised Chest with Fractured Armour Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",
+      null
+    ],
+    [
+      "ArmourHigh3",
+      "Contains 2 to 3 Synthesised Chests with valuable Armour Items\r\nContains 2 Synthesised Chests with Fractured Armour Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",
+      null
+    ],
+    [
+      "Armour4",
+      "Contains 4 to 5 Synthesised Chests with Armour Items\r\nContains 1 Synthesised Chest with Fractured Armour Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",
+      null
+    ],
+    [
+      "ArmourHigh4",
+      "Contains 3 Synthesised Chests with valuable Armour Items\r\nContains 3 Synthesised Chests with Fractured Armour Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",
+      null
+    ],
+    [
+      "ArmourEpic4",
+      "Contains 1 Synthesised Chest with very valuable Armour Items\r\nContains 2 Synthesised Chests with valuable Armour Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",
+      null
+    ],
+    [
+      "Armour5",
+      "Contains 4 to 5 Synthesised Chests with Armour Items\r\nContains 2 Synthesised Chests with Fractured Armour Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",
+      null
+    ],
+    [
+      "ArmourHigh5",
+      "Contains 3 to 4 Synthesised Chests with valuable Armour Items\r\nContains 4 Synthesised Chests with Fractured Armour Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",
+      null
+    ],
+    [
+      "ArmourEpic5",
+      "Contains 1 Synthesised Chest with very valuable Armour Items\r\nContains 3 Synthesised Chests with valuable Armour Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",
+      null
+    ],
+    [
+      "Weapons",
+      "Contains 1 to 2 Synthesised Chests with Weapon Items\r\nContains 1 Synthesised Chest with Fractured Weapon Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",
+      null
+    ],
+    [
+      "Weapons2",
+      "Contains 2 to 3 Synthesised Chests with Weapon Items\r\nContains 1 Synthesised Chest with Fractured Weapon Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",
+      null
+    ],
+    [
+      "Weapons3",
+      "Contains 3 to 4 Synthesised Chests with Weapon Items\r\nContains 1 Synthesised Chest with Fractured Weapon Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",
+      null
+    ],
+    [
+      "WeaponsHigh3",
+      "Contains 2 to 3 Synthesised Chests with valuable Weapon Items\r\nContains 2 Synthesised Chests with Fractured Weapon Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",
+      null
+    ],
+    [
+      "Weapons4",
+      "Contains 4 to 5 Synthesised Chests with Weapon Items\r\nContains 1 Synthesised Chest with Fractured Weapon Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",
+      null
+    ],
+    [
+      "WeaponsHigh4",
+      "Contains 3 Synthesised Chests with valuable Weapon Items\r\nContains 3 Synthesised Chests with Fractured Weapon Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",
+      null
+    ],
+    [
+      "WeaponsEpic4",
+      "Contains 1 Synthesised Chest with very valuable Weapon Items\r\nContains 2 Synthesised Chests with valuable Weapon Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",
+      null
+    ],
+    [
+      "Weapons5",
+      "Contains 4 to 5 Synthesised Chests with Weapon Items\r\nContains 2 Synthesised Chests with Fractured Weapon Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",
+      null
+    ],
+    [
+      "WeaponsHigh5",
+      "Contains 3 to 4 Synthesised Chests with valuable Weapon Items\r\nContains 4 Synthesised Chests with Fractured Weapon Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",
+      null
+    ],
+    [
+      "WeaponsEpic5",
+      "Contains 1 Synthesised Chest with very valuable Weapon Items\r\nContains 3 Synthesised Chests with valuable Weapon Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",
+      null
+    ],
+    [
+      "Perandus",
+      "Contains 2 to 3 Synthesised Chests with Perandus Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PerandusItemRewardIcon",
+      null
+    ],
+    [
+      "Perandus2",
+      "Contains 3 to 4 Synthesised Chests with Perandus Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PerandusItemRewardIcon",
+      null
+    ],
+    [
+      "Perandus3",
+      "Contains 4 to 5 Synthesised Chests with Perandus Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PerandusItemRewardIcon",
+      null
+    ],
+    [
+      "Perandus4",
+      "Contains 5 to 6 Synthesised Chests with Perandus Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PerandusItemRewardIcon",
+      null
+    ],
+    [
+      "Harbinger",
+      "Contains 1 Synthesised Chest with valuable Harbinger Items\r\nContains 1 to 2 Synthesised Chests with Harbinger Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/HarbingerItemRewardIcon",
+      null
+    ],
+    [
+      "Harbinger2",
+      "Contains 1 Synthesised Chest with valuable Harbinger Items\r\nContains 2 to 3 Synthesised Chests with Harbinger Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/HarbingerItemRewardIcon",
+      null
+    ],
+    [
+      "Harbinger3",
+      "Contains 2 Synthesised Chests with valuable Harbinger Items\r\nContains 2 to 3 Synthesised Chests with Harbinger Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/HarbingerItemRewardIcon",
+      null
+    ],
+    [
+      "Breach",
+      "Contains 1 Synthesised Chest with valuable Breach Items\r\nContains 1 to 2 Synthesised Chests with Breach Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/BreachItemRewardIcon",
+      null
+    ],
+    [
+      "Breach2",
+      "Contains 1 Synthesised Chest with valuable Breach Items\r\nContains 2 to 3 Synthesised Chests with Breach Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/BreachItemRewardIcon",
+      null
+    ],
+    [
+      "Breach3",
+      "Contains 2 Synthesised Chests with valuable Breach Items\r\nContains 2 to 3 Synthesised Chests with Breach Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/BreachItemRewardIcon",
+      null
+    ],
+    [
+      "Essences",
+      "Contains 1 to 2 Synthesised Chests with Essence Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/EssencesItemRewardIcon",
+      null
+    ],
+    [
+      "Essences2",
+      "Contains 2 to 3 Synthesised Chests with Essence Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/EssencesItemRewardIcon",
+      null
+    ],
+    [
+      "Essences3",
+      "Contains 3 to 4 Synthesised Chests with Essence Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/EssencesItemRewardIcon",
+      null
+    ],
+    [
+      "EssencesHigh3",
+      "Contains a Synthesised Chest with valuable Essence Items\r\nContains 3 to 4 Synthesised Chests with Essence Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/EssencesItemRewardIconTier2",
+      null
+    ],
+    [
+      "Essences4",
+      "Contains 4 to 5 Synthesised Chests with Essence Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/EssencesItemRewardIcon",
+      null
+    ],
+    [
+      "EssencesHigh4",
+      "Contains 2 Synthesised Chests with valuable Essence Items\r\nContains 3 to 4 Synthesised Chests with Essence Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/EssencesItemRewardIconTier2",
+      null
+    ],
+    [
+      "Fragments",
+      "Contains 1 to 2 Synthesised Chests with Fragment Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/FragmentsItemRewardIcon",
+      null
+    ],
+    [
+      "Fragments2",
+      "Contains 2 to 3 Synthesised Chests with Fragment Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/FragmentsItemRewardIcon",
+      null
+    ],
+    [
+      "Fragments3",
+      "Contains 3 to 4 Synthesised Chests with Fragment Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/FragmentsItemRewardIcon",
+      null
+    ],
+    [
+      "FragmentsHigh3",
+      "Contains a Synthesised Chest with valuable Fragment Items\r\nContains 2 to 3 Synthesised Chests with Fragment Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/FragmentsItemRewardIconTier2",
+      null
+    ],
+    [
+      "Scarabs",
+      "Contains 2 to 3 Synthesised Chests with Scarab Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ScarabItemRewardIcon",
+      null
+    ],
+    [
+      "Scarabs2",
+      "Contains 1 to 2 Synthesised Chests with valuable Scarab Items\r\nContains 1 to 2 Synthesised Chests with Scarab Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ScarabItemRewardIconTier2",
+      null
+    ],
+    [
+      "Scarabs3",
+      "Contains 1 to 2 Synthesised Chests with very valuable Scarab Items\r\nContains 1 to 2 Synthesised Chests with valuable Scarab Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ScarabItemRewardIconTier3",
+      null
+    ],
+    [
+      "Fossils",
+      "Contains 2 to 3 Synthesised Chests with Fossil Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/FossilItemRewardIcon",
+      null
+    ],
+    [
+      "Fossils2",
+      "Contains 1 to 2 Synthesised Chests with valuable Fossil Items\r\nContains 1 to 2 Synthesised Chests with Fossil Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/FossilItemRewardIconTier2",
+      null
+    ],
+    [
+      "Fossils3",
+      "Contains 1 to 2 Synthesised Chests with very valuable Fossil Items\r\nContains 1 to 2 Synthesised Chests with valuable Fossil Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/FossilItemRewardIconTier3",
+      null
+    ],
+    [
+      "Prophecies",
+      "Contains 2 to 3 Synthesised Chests with Prophecy Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PropheciesItemRewardIcon",
+      null
+    ],
+    [
+      "Prophecies2",
+      "Contains 3 to 4 Synthesised Chests with Prophecy Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PropheciesItemRewardIcon",
+      null
+    ],
+    [
+      "Prophecies3",
+      "Contains 4 to 5 Synthesised Chests with Prophecy Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PropheciesItemRewardIcon",
+      null
+    ],
+    [
+      "PropheciesHigh3",
+      "Contains a Synthesised Chest with valuable Prophecy Items\r\nContains 3 to 4 Synthesised Chests with Prophecy Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PropheciesItemRewardIconTier2",
+      null
+    ],
+    [
+      "Prophecies4",
+      "Contains 5 to 6 Synthesised Chests with Prophecy Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PropheciesItemRewardIcon",
+      null
+    ],
+    [
+      "PropheciesHigh4",
+      "Contains 2 Synthesised Chests with valuable Prophecy Items\r\nContains 3 to 4 Synthesised Chests with Prophecy Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PropheciesItemRewardIconTier2",
+      null
+    ],
+    [
+      "DivinationCards",
+      "Contains 1 to 2 Synthesised Chests with Divination Card Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/DivinationCardsItemRewardIcon",
+      null
+    ],
+    [
+      "DivinationCards2",
+      "Contains 2 to 3 Synthesised Chests with Divination Card Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/DivinationCardsItemRewardIcon",
+      null
+    ],
+    [
+      "DivinationCards3",
+      "Contains 3 to 4 Synthesised Chests with Divination Card Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/DivinationCardsItemRewardIcon",
+      null
+    ],
+    [
+      "DivinationCards4",
+      "Contains 4 to 5 Synthesised Chests with Divination Card Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/DivinationCardsItemRewardIcon",
+      null
+    ],
+    [
+      "Generic",
+      "Contains 3 to 4 Synthesised Chests\r\nContains 1 Synthesised Chest with Fractured Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/GenericItemRewardIcon",
+      null
+    ],
+    [
+      "Generic2",
+      "Contains 4 to 5 Synthesised Chests\r\nContains 1 Synthesised Chest with Fractured Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/GenericItemRewardIcon",
+      null
+    ],
+    [
+      "Generic3",
+      "Contains 5 to 6 Synthesised Chests\r\nContains 2 Synthesised Chests with Fractured Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/GenericItemRewardIcon",
+      null
+    ],
+    [
+      "Generic4",
+      "Contains 6 to 8 Synthesised Chests\r\nContains 2 Synthesised Chests with Fractured Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/GenericItemRewardIcon",
+      null
+    ],
+    [
+      "Generic5",
+      "Contains 6 to 8 Synthesised Chests\r\nContains 3 Synthesised Chests with Fractured Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/GenericItemRewardIcon",
+      null
+    ],
+    [
+      "Talismans",
+      "Contains 1 to 2 Synthesised Chests with Talisman Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TalismansItemRewardIcon",
+      null
+    ],
+    [
+      "Talismans2",
+      "Contains 2 to 3 Synthesised Chests with Talisman Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TalismansItemRewardIcon",
+      null
+    ],
+    [
+      "Talismans3",
+      "Contains 3 to 4 Synthesised Chests with Talisman Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TalismansItemRewardIcon",
+      null
+    ],
+    [
+      "Labyrinth",
+      "Contains 1 to 2 Synthesised Chests with Labyrinth Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/LabyrinthItemRewardIcon",
+      null
+    ],
+    [
+      "Labyrinth2",
+      "Contains 2 to 3 Synthesised Chests with Labyrinth Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/LabyrinthItemRewardIcon",
+      null
+    ],
+    [
+      "Labyrinth3",
+      "Contains 3 to 4 Synthesised Chests with Labyrinth Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/LabyrinthItemRewardIcon",
+      null
+    ],
+    [
+      "Labyrinth4",
+      "Contains 4 to 5 Synthesised Chests with Labyrinth Items",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/LabyrinthItemRewardIcon",
+      null
+    ],
+    [
+      "GlobalMod1",
+      "Contains Memory Modifier",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/GlobalModTier1",
+      null
+    ],
+    [
+      "GlobalMod2",
+      "Contains multiple Memory Modifiers",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/GlobalModTier2",
+      null
+    ]
+  ]
+}
