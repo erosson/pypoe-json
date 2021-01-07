@@ -7,6 +7,7 @@ mkdir -p dist/dat
 ASSETS_EXE_PATH="./assets/exe/depot"
 ./third-party/strings/strings.exe -accepteula 2>/dev/null || true
 POE_VERSION="`./third-party/strings/strings.exe "$ASSETS_EXE_PATH/PathOfExileSteam.exe" | grep release/tags/ | head -n 1 | sed -e "s_release/tags/__"`"
+echo ${POE_VERSION} > dist/version.txt
 echo "{\"version\":\"${POE_VERSION}\"}" > dist/version.json
 exit
 
