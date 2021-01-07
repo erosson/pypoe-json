@@ -1,0 +1,10 @@
+{
+  "name": "pypoe-json",
+  "version": "1.0.0",
+  "author": "Evan Rosson <git@erosson.org>",
+  "license": "GPL-3.0",
+  "private": true,
+  "scripts": {
+    "build": "bash scripts/build"
+  }
+}
