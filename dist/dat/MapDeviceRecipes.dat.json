@@ -1,0 +1,665 @@
+{
+  "filename": "MapDeviceRecipes.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "BaseItemTypesKeys",
+      "rowid": 1,
+      "type": "ref|list|ulong",
+      "key": "BaseItemTypes.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "WorldAreasKey",
+      "rowid": 2,
+      "type": "ulong",
+      "key": "WorldAreas.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Key0",
+      "rowid": 3,
+      "type": "ulong",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "AreaLevel",
+      "rowid": 4,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown0",
+      "rowid": 5,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown1",
+      "rowid": 6,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "IsLegionMap",
+      "rowid": 7,
+      "type": "bool",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "Atziri1",
+      [
+        5283,
+        5284,
+        5285,
+        5286
+      ],
+      743,
+      24,
+      0,
+      2299,
+      0,
+      false
+    ],
+    [
+      "Atziri2",
+      [
+        5288,
+        5289,
+        5290,
+        5291
+      ],
+      744,
+      24,
+      0,
+      2299,
+      0,
+      false
+    ],
+    [
+      "VaalFragment1_1",
+      [
+        5283
+      ],
+      1465,
+      null,
+      72,
+      2299,
+      0,
+      false
+    ],
+    [
+      "VaalFragment1_2",
+      [
+        5284
+      ],
+      1465,
+      null,
+      70,
+      2299,
+      0,
+      false
+    ],
+    [
+      "VaalFragment1_3",
+      [
+        5285
+      ],
+      1465,
+      null,
+      71,
+      2299,
+      0,
+      false
+    ],
+    [
+      "VaalFragment1_4",
+      [
+        5286
+      ],
+      1465,
+      null,
+      69,
+      2299,
+      0,
+      false
+    ],
+    [
+      "VaalFragment2_1",
+      [
+        5288
+      ],
+      1465,
+      null,
+      74,
+      2299,
+      0,
+      false
+    ],
+    [
+      "VaalFragment2_2",
+      [
+        5289
+      ],
+      1465,
+      null,
+      76,
+      2299,
+      0,
+      false
+    ],
+    [
+      "VaalFragment2_3",
+      [
+        5290
+      ],
+      1465,
+      null,
+      75,
+      2299,
+      0,
+      false
+    ],
+    [
+      "VaalFragment2_4",
+      [
+        5291
+      ],
+      1465,
+      null,
+      73,
+      2299,
+      0,
+      false
+    ],
+    [
+      "PaleCourt",
+      [
+        5293,
+        5294,
+        5295,
+        5296
+      ],
+      273,
+      null,
+      0,
+      2299,
+      0,
+      false
+    ],
+    [
+      "ShapersRealm",
+      [
+        5298,
+        5299,
+        5300,
+        5301
+      ],
+      1231,
+      20,
+      0,
+      2299,
+      0,
+      false
+    ],
+    [
+      "EldersRealm",
+      [
+        5303,
+        5304,
+        5305,
+        5306
+      ],
+      1250,
+      108,
+      0,
+      2299,
+      0,
+      false
+    ],
+    [
+      "UberEldersRealm",
+      [
+        5308,
+        5309,
+        5310,
+        5311
+      ],
+      1251,
+      20,
+      0,
+      2299,
+      0,
+      false
+    ],
+    [
+      "BreachDomainFire",
+      [
+        5314
+      ],
+      1050,
+      null,
+      0,
+      2299,
+      0,
+      false
+    ],
+    [
+      "BreachDomainCold",
+      [
+        5315
+      ],
+      1051,
+      null,
+      0,
+      2299,
+      0,
+      false
+    ],
+    [
+      "BreachDomainLightning",
+      [
+        5316
+      ],
+      1052,
+      null,
+      0,
+      2299,
+      0,
+      false
+    ],
+    [
+      "BreachDomainPhysical",
+      [
+        5317
+      ],
+      1048,
+      null,
+      0,
+      2299,
+      0,
+      false
+    ],
+    [
+      "BreachDomainChaos",
+      [
+        5318
+      ],
+      1049,
+      null,
+      0,
+      2299,
+      0,
+      false
+    ],
+    [
+      "ClassicVault",
+      [
+        5344
+      ],
+      274,
+      27,
+      0,
+      2299,
+      0,
+      false
+    ],
+    [
+      "MaligaroMap",
+      [
+        4233
+      ],
+      106,
+      null,
+      0,
+      1283,
+      0,
+      false
+    ],
+    [
+      "340Vault",
+      [
+        5345
+      ],
+      275,
+      27,
+      0,
+      2299,
+      0,
+      false
+    ],
+    [
+      "BreachDomainFire2",
+      [
+        5319
+      ],
+      1055,
+      null,
+      0,
+      2299,
+      0,
+      false
+    ],
+    [
+      "BreachDomainCold2",
+      [
+        5320
+      ],
+      1056,
+      null,
+      0,
+      2299,
+      0,
+      false
+    ],
+    [
+      "BreachDomainLightning2",
+      [
+        5321
+      ],
+      1057,
+      null,
+      0,
+      2299,
+      0,
+      false
+    ],
+    [
+      "BreachDomainPhysical2",
+      [
+        5322
+      ],
+      1053,
+      null,
+      0,
+      2299,
+      0,
+      false
+    ],
+    [
+      "BreachDomainChaos2",
+      [
+        5323
+      ],
+      1054,
+      null,
+      0,
+      2299,
+      0,
+      false
+    ],
+    [
+      "BreachDomainFire3",
+      [
+        5324
+      ],
+      1060,
+      null,
+      0,
+      2299,
+      0,
+      false
+    ],
+    [
+      "BreachDomainCold3",
+      [
+        5325
+      ],
+      1061,
+      null,
+      0,
+      2299,
+      0,
+      false
+    ],
+    [
+      "BreachDomainLightning3",
+      [
+        5326
+      ],
+      1062,
+      null,
+      0,
+      2299,
+      0,
+      false
+    ],
+    [
+      "BreachDomainPhysical3",
+      [
+        5327
+      ],
+      1058,
+      null,
+      0,
+      2299,
+      0,
+      false
+    ],
+    [
+      "BreachDomainChaos3",
+      [
+        5328
+      ],
+      1059,
+      null,
+      0,
+      2299,
+      0,
+      false
+    ],
+    [
+      "BreachDomainFire4",
+      [
+        5329
+      ],
+      1065,
+      null,
+      0,
+      2299,
+      0,
+      false
+    ],
+    [
+      "BreachDomainCold4",
+      [
+        5330
+      ],
+      1066,
+      null,
+      0,
+      2299,
+      0,
+      false
+    ],
+    [
+      "BreachDomainLightning4",
+      [
+        5331
+      ],
+      1067,
+      null,
+      0,
+      2299,
+      0,
+      false
+    ],
+    [
+      "BreachDomainPhysical4",
+      [
+        5332
+      ],
+      1063,
+      null,
+      0,
+      2299,
+      0,
+      false
+    ],
+    [
+      "BreachDomainChaos4",
+      [
+        5333
+      ],
+      1064,
+      null,
+      0,
+      2299,
+      0,
+      false
+    ],
+    [
+      "EndgameLegionMap",
+      [
+        5334,
+        5336,
+        5337,
+        5338,
+        5335
+      ],
+      1261,
+      86,
+      0,
+      2299,
+      2,
+      true
+    ],
+    [
+      "EndgameLegionMap2",
+      [
+        5334,
+        5336,
+        5337,
+        5338,
+        5335
+      ],
+      1262,
+      86,
+      0,
+      2299,
+      3,
+      true
+    ],
+    [
+      "EndgameLegionMap3",
+      [
+        5334,
+        5336,
+        5337,
+        5338,
+        5335
+      ],
+      1263,
+      86,
+      0,
+      2299,
+      4,
+      true
+    ],
+    [
+      "EndgameLegionMap4",
+      [
+        5334,
+        5336,
+        5337,
+        5338,
+        5335
+      ],
+      1264,
+      86,
+      0,
+      2299,
+      5,
+      true
+    ],
+    [
+      "AfflictionBoss",
+      [
+        5339
+      ],
+      1466,
+      122,
+      0,
+      2299,
+      0,
+      false
+    ]
+  ]
+}

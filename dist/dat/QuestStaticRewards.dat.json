@@ -1,0 +1,655 @@
+{
+  "filename": "QuestStaticRewards.dat",
+  "header": [
+    {
+      "name": "Unknown0",
+      "rowid": 0,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown1",
+      "rowid": 1,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "StatsKeys",
+      "rowid": 2,
+      "type": "ref|list|ulong",
+      "key": "Stats.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "StatValues",
+      "rowid": 3,
+      "type": "ref|list|int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "QuestKey",
+      "rowid": 4,
+      "type": "ulong",
+      "key": "Quest.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown2",
+      "rowid": 5,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "ClientStringsKey",
+      "rowid": 6,
+      "type": "ulong",
+      "key": "ClientStrings.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown3",
+      "rowid": 7,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      117,
+      1,
+      [],
+      [],
+      4,
+      0,
+      null,
+      0
+    ],
+    [
+      47,
+      1,
+      [],
+      [],
+      6,
+      0,
+      null,
+      0
+    ],
+    [
+      229,
+      0,
+      [],
+      [],
+      3,
+      0,
+      null,
+      2
+    ],
+    [
+      264,
+      1,
+      [],
+      [],
+      8,
+      0,
+      null,
+      0
+    ],
+    [
+      55,
+      0,
+      [
+        1911,
+        1941,
+        177
+      ],
+      [
+        6,
+        3,
+        6
+      ],
+      16,
+      0,
+      null,
+      0
+    ],
+    [
+      57,
+      0,
+      [
+        131,
+        95,
+        141
+      ],
+      [
+        300,
+        20,
+        15
+      ],
+      17,
+      0,
+      null,
+      0
+    ],
+    [
+      90,
+      0,
+      [
+        451,
+        1038,
+        26
+      ],
+      [
+        60,
+        2,
+        20
+      ],
+      18,
+      0,
+      null,
+      0
+    ],
+    [
+      104,
+      0,
+      [],
+      [],
+      10,
+      0,
+      null,
+      2
+    ],
+    [
+      123,
+      2,
+      [],
+      [],
+      15,
+      0,
+      null,
+      0
+    ],
+    [
+      460,
+      1,
+      [],
+      [],
+      23,
+      0,
+      null,
+      2
+    ],
+    [
+      218,
+      1,
+      [],
+      [],
+      30,
+      0,
+      null,
+      0
+    ],
+    [
+      794,
+      1,
+      [],
+      [],
+      39,
+      0,
+      null,
+      2
+    ],
+    [
+      1069,
+      1,
+      [],
+      [],
+      65,
+      0,
+      null,
+      0
+    ],
+    [
+      1094,
+      1,
+      [],
+      [],
+      69,
+      0,
+      null,
+      2
+    ],
+    [
+      1172,
+      1,
+      [],
+      [],
+      72,
+      0,
+      null,
+      0
+    ],
+    [
+      1190,
+      1,
+      [],
+      [],
+      75,
+      0,
+      null,
+      0
+    ],
+    [
+      1184,
+      0,
+      [],
+      [],
+      73,
+      0,
+      null,
+      2
+    ],
+    [
+      1197,
+      1,
+      [],
+      [],
+      76,
+      0,
+      null,
+      0
+    ],
+    [
+      1278,
+      1,
+      [],
+      [],
+      77,
+      0,
+      null,
+      0
+    ],
+    [
+      1384,
+      1,
+      [],
+      [],
+      85,
+      0,
+      null,
+      0
+    ],
+    [
+      1314,
+      1,
+      [],
+      [],
+      82,
+      0,
+      null,
+      2
+    ],
+    [
+      1449,
+      1,
+      [],
+      [],
+      91,
+      0,
+      null,
+      2
+    ],
+    [
+      1436,
+      1,
+      [],
+      [],
+      89,
+      0,
+      null,
+      0
+    ],
+    [
+      1458,
+      1,
+      [],
+      [],
+      92,
+      0,
+      null,
+      0
+    ],
+    [
+      1570,
+      1,
+      [],
+      [],
+      97,
+      0,
+      null,
+      0
+    ],
+    [
+      1562,
+      1,
+      [],
+      [],
+      94,
+      0,
+      null,
+      0
+    ],
+    [
+      1620,
+      0,
+      [],
+      [],
+      96,
+      0,
+      null,
+      2
+    ],
+    [
+      1669,
+      0,
+      [],
+      [],
+      101,
+      0,
+      null,
+      2
+    ],
+    [
+      1675,
+      1,
+      [],
+      [],
+      103,
+      0,
+      null,
+      0
+    ],
+    [
+      1661,
+      2,
+      [],
+      [],
+      100,
+      0,
+      null,
+      0
+    ],
+    [
+      655,
+      2,
+      [],
+      [],
+      null,
+      0,
+      null,
+      0
+    ],
+    [
+      656,
+      2,
+      [],
+      [],
+      null,
+      0,
+      null,
+      0
+    ],
+    [
+      657,
+      2,
+      [],
+      [],
+      null,
+      0,
+      null,
+      0
+    ],
+    [
+      658,
+      2,
+      [],
+      [],
+      null,
+      0,
+      null,
+      0
+    ],
+    [
+      900,
+      0,
+      [],
+      [],
+      null,
+      2,
+      null,
+      0
+    ],
+    [
+      993,
+      0,
+      [],
+      [],
+      null,
+      2,
+      null,
+      0
+    ],
+    [
+      994,
+      0,
+      [],
+      [],
+      null,
+      2,
+      null,
+      0
+    ],
+    [
+      901,
+      0,
+      [],
+      [],
+      null,
+      2,
+      null,
+      0
+    ],
+    [
+      1086,
+      0,
+      [
+        141,
+        150
+      ],
+      [
+        -30,
+        -30
+      ],
+      68,
+      0,
+      2999,
+      0
+    ],
+    [
+      60,
+      0,
+      [
+        141,
+        150
+      ],
+      [
+        -30,
+        -30
+      ],
+      100,
+      0,
+      3000,
+      0
+    ],
+    [
+      2298,
+      3,
+      [],
+      [],
+      null,
+      0,
+      null,
+      0
+    ],
+    [
+      2291,
+      3,
+      [],
+      [],
+      null,
+      0,
+      null,
+      2
+    ],
+    [
+      2292,
+      3,
+      [],
+      [],
+      null,
+      0,
+      null,
+      3
+    ],
+    [
+      2293,
+      3,
+      [],
+      [],
+      null,
+      0,
+      null,
+      3
+    ],
+    [
+      2294,
+      3,
+      [
+        141,
+        150
+      ],
+      [
+        -30,
+        -30
+      ],
+      null,
+      0,
+      2999,
+      3
+    ],
+    [
+      2295,
+      3,
+      [],
+      [],
+      null,
+      0,
+      null,
+      3
+    ],
+    [
+      2296,
+      3,
+      [],
+      [],
+      null,
+      0,
+      null,
+      3
+    ],
+    [
+      2297,
+      3,
+      [
+        141,
+        150
+      ],
+      [
+        -30,
+        -30
+      ],
+      null,
+      0,
+      3000,
+      3
+    ]
+  ]
+}

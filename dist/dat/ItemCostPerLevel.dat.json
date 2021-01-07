@@ -1,0 +1,541 @@
+{
+  "filename": "ItemCostPerLevel.dat",
+  "header": [
+    {
+      "name": "Contract_BaseItemTypesKey",
+      "rowid": 0,
+      "type": "ulong",
+      "key": "BaseItemTypes.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Level",
+      "rowid": 1,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Cost1_BaseItemTypesKeys",
+      "rowid": 2,
+      "type": "ref|list|ulong",
+      "key": "BaseItemTypesKey.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Cost1_Values",
+      "rowid": 3,
+      "type": "ref|list|int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Cost2_BaseItemTypesKeys",
+      "rowid": 4,
+      "type": "ref|list|ulong",
+      "key": "BaseItemTypesKey.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Cost2_Values",
+      "rowid": 5,
+      "type": "ref|list|int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Cost3_BaseItemTypesKeys",
+      "rowid": 6,
+      "type": "ref|list|ulong",
+      "key": "BaseItemTypesKey.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Cost3_Values",
+      "rowid": 7,
+      "type": "ref|list|int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Cost4_BaseItemTypesKeys",
+      "rowid": 8,
+      "type": "ref|list|ulong",
+      "key": "BaseItemTypesKey.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Cost4_Values",
+      "rowid": 9,
+      "type": "ref|list|int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      7103,
+      1,
+      [
+        8
+      ],
+      [
+        1
+      ],
+      [
+        9
+      ],
+      [
+        1
+      ],
+      [
+        5
+      ],
+      [
+        1
+      ],
+      [],
+      []
+    ],
+    [
+      7103,
+      46,
+      [
+        6
+      ],
+      [
+        1
+      ],
+      [
+        5
+      ],
+      [
+        1
+      ],
+      [
+        2
+      ],
+      [
+        1
+      ],
+      [],
+      []
+    ],
+    [
+      7104,
+      1,
+      [
+        8
+      ],
+      [
+        1
+      ],
+      [
+        9
+      ],
+      [
+        1
+      ],
+      [
+        5
+      ],
+      [
+        1
+      ],
+      [],
+      []
+    ],
+    [
+      7104,
+      46,
+      [
+        6
+      ],
+      [
+        1
+      ],
+      [
+        5
+      ],
+      [
+        1
+      ],
+      [
+        2
+      ],
+      [
+        1
+      ],
+      [],
+      []
+    ],
+    [
+      7105,
+      1,
+      [
+        8
+      ],
+      [
+        1
+      ],
+      [
+        9
+      ],
+      [
+        1
+      ],
+      [
+        5
+      ],
+      [
+        1
+      ],
+      [],
+      []
+    ],
+    [
+      7105,
+      46,
+      [
+        6
+      ],
+      [
+        1
+      ],
+      [
+        5
+      ],
+      [
+        1
+      ],
+      [
+        2
+      ],
+      [
+        1
+      ],
+      [],
+      []
+    ],
+    [
+      7106,
+      1,
+      [
+        8
+      ],
+      [
+        1
+      ],
+      [
+        9
+      ],
+      [
+        1
+      ],
+      [
+        5
+      ],
+      [
+        1
+      ],
+      [],
+      []
+    ],
+    [
+      7106,
+      46,
+      [
+        6
+      ],
+      [
+        1
+      ],
+      [
+        5
+      ],
+      [
+        1
+      ],
+      [
+        2
+      ],
+      [
+        1
+      ],
+      [],
+      []
+    ],
+    [
+      7107,
+      1,
+      [
+        8
+      ],
+      [
+        1
+      ],
+      [
+        9
+      ],
+      [
+        1
+      ],
+      [
+        5
+      ],
+      [
+        1
+      ],
+      [],
+      []
+    ],
+    [
+      7107,
+      46,
+      [
+        6
+      ],
+      [
+        1
+      ],
+      [
+        5
+      ],
+      [
+        1
+      ],
+      [
+        2
+      ],
+      [
+        1
+      ],
+      [],
+      []
+    ],
+    [
+      7108,
+      1,
+      [
+        8
+      ],
+      [
+        1
+      ],
+      [
+        9
+      ],
+      [
+        1
+      ],
+      [
+        5
+      ],
+      [
+        1
+      ],
+      [],
+      []
+    ],
+    [
+      7108,
+      46,
+      [
+        6
+      ],
+      [
+        1
+      ],
+      [
+        5
+      ],
+      [
+        1
+      ],
+      [
+        2
+      ],
+      [
+        1
+      ],
+      [],
+      []
+    ],
+    [
+      7109,
+      1,
+      [
+        8
+      ],
+      [
+        1
+      ],
+      [
+        9
+      ],
+      [
+        1
+      ],
+      [
+        5
+      ],
+      [
+        1
+      ],
+      [],
+      []
+    ],
+    [
+      7109,
+      46,
+      [
+        6
+      ],
+      [
+        1
+      ],
+      [
+        5
+      ],
+      [
+        1
+      ],
+      [
+        2
+      ],
+      [
+        1
+      ],
+      [],
+      []
+    ],
+    [
+      7110,
+      1,
+      [
+        8
+      ],
+      [
+        1
+      ],
+      [
+        9
+      ],
+      [
+        1
+      ],
+      [
+        5
+      ],
+      [
+        1
+      ],
+      [],
+      []
+    ],
+    [
+      7110,
+      46,
+      [
+        6
+      ],
+      [
+        1
+      ],
+      [
+        5
+      ],
+      [
+        1
+      ],
+      [
+        2
+      ],
+      [
+        1
+      ],
+      [],
+      []
+    ]
+  ]
+}

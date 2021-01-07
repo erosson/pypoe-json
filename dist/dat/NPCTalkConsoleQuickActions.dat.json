@@ -1,0 +1,53 @@
+{
+  "filename": "NPCTalkConsoleQuickActions.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Controller",
+      "rowid": 1,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "QuickButtonX",
+      "Controller/Button1"
+    ],
+    [
+      "QuickButtonY",
+      "Controller/Button2"
+    ],
+    [
+      "QuickButtonB",
+      "Controller/Button3"
+    ],
+    [
+      "QuickButtonA",
+      "Controller/Button4"
+    ]
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "filename": "BeyondDemons.dat",
+  "header": [
+    {
+      "name": "MonsterVarietiesKey",
+      "rowid": 0,
+      "type": "ulong",
+      "key": "MonsterVarieties.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Flag0",
+      "rowid": 1,
+      "type": "bool",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Flag1",
+      "rowid": 2,
+      "type": "bool",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      2826,
+      true,
+      false
+    ],
+    [
+      2827,
+      true,
+      false
+    ],
+    [
+      2828,
+      true,
+      false
+    ],
+    [
+      2829,
+      true,
+      false
+    ],
+    [
+      2830,
+      true,
+      false
+    ],
+    [
+      2831,
+      true,
+      false
+    ],
+    [
+      2832,
+      true,
+      false
+    ],
+    [
+      2833,
+      true,
+      false
+    ],
+    [
+      2837,
+      false,
+      true
+    ],
+    [
+      2838,
+      false,
+      true
+    ],
+    [
+      2839,
+      false,
+      true
+    ],
+    [
+      2840,
+      false,
+      true
+    ],
+    [
+      2842,
+      false,
+      true
+    ],
+    [
+      2843,
+      false,
+      true
+    ],
+    [
+      2834,
+      true,
+      false
+    ],
+    [
+      2835,
+      true,
+      false
+    ],
+    [
+      2836,
+      true,
+      false
+    ]
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "filename": "PerandusBosses.dat",
+  "header": [
+    {
+      "name": "MonsterVarietiesKey",
+      "rowid": 0,
+      "type": "ulong",
+      "key": "MonsterVarieties.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "MinLevel",
+      "rowid": 1,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "MaxLevel",
+      "rowid": 2,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "SpawnWeight",
+      "rowid": 3,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      4014,
+      70,
+      100,
+      9
+    ],
+    [
+      4018,
+      75,
+      100,
+      9
+    ],
+    [
+      4022,
+      60,
+      100,
+      9
+    ],
+    [
+      4026,
+      55,
+      100,
+      9
+    ],
+    [
+      4030,
+      45,
+      100,
+      9
+    ],
+    [
+      4034,
+      70,
+      100,
+      9
+    ],
+    [
+      4038,
+      65,
+      100,
+      9
+    ],
+    [
+      4042,
+      25,
+      100,
+      70
+    ],
+    [
+      4043,
+      25,
+      100,
+      70
+    ],
+    [
+      4044,
+      25,
+      100,
+      70
+    ],
+    [
+      4045,
+      25,
+      100,
+      70
+    ],
+    [
+      4046,
+      25,
+      100,
+      70
+    ],
+    [
+      4047,
+      35,
+      100,
+      70
+    ],
+    [
+      4048,
+      35,
+      100,
+      70
+    ],
+    [
+      4049,
+      35,
+      100,
+      70
+    ],
+    [
+      4050,
+      35,
+      100,
+      70
+    ],
+    [
+      4015,
+      0,
+      100,
+      0
+    ],
+    [
+      4019,
+      0,
+      100,
+      0
+    ],
+    [
+      4023,
+      0,
+      100,
+      0
+    ],
+    [
+      4028,
+      0,
+      100,
+      0
+    ],
+    [
+      4031,
+      0,
+      100,
+      0
+    ],
+    [
+      4035,
+      0,
+      100,
+      0
+    ],
+    [
+      4039,
+      0,
+      100,
+      0
+    ],
+    [
+      4016,
+      0,
+      100,
+      0
+    ],
+    [
+      4020,
+      0,
+      100,
+      0
+    ],
+    [
+      4024,
+      0,
+      100,
+      0
+    ],
+    [
+      4032,
+      0,
+      100,
+      0
+    ],
+    [
+      4036,
+      0,
+      100,
+      0
+    ],
+    [
+      4040,
+      0,
+      100,
+      0
+    ]
+  ]
+}

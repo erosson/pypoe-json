@@ -1,0 +1,286 @@
+{
+  "filename": "NearbyMonsterConditions.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "MonsterVarietiesKeys",
+      "rowid": 1,
+      "type": "ref|list|ulong",
+      "key": "MonsterVarieties.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "MonsterAmount",
+      "rowid": 2,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown3",
+      "rowid": 3,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "IsNegated",
+      "rowid": 4,
+      "type": "bool",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown4",
+      "rowid": 5,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown5",
+      "rowid": 6,
+      "type": "ref|list|int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "IsLessThen",
+      "rowid": 7,
+      "type": "bool",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "MinimumHealthPercentage",
+      "rowid": 8,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "HasIceTotemsX4",
+      [
+        811
+      ],
+      4,
+      0,
+      false,
+      200,
+      [],
+      false,
+      1
+    ],
+    [
+      "HasIceMinionsX10",
+      [
+        3465,
+        3466
+      ],
+      10,
+      0,
+      false,
+      200,
+      [],
+      false,
+      1
+    ],
+    [
+      "HasBloodRavensX3",
+      [
+        2490
+      ],
+      3,
+      0,
+      false,
+      200,
+      [],
+      false,
+      1
+    ],
+    [
+      "HasFireSkelliesX10",
+      [
+        1809
+      ],
+      10,
+      0,
+      false,
+      200,
+      [],
+      false,
+      1
+    ],
+    [
+      "HasNoUnmovedWickermanStatues",
+      [
+        4369
+      ],
+      0,
+      0,
+      true,
+      200,
+      [],
+      false,
+      1
+    ],
+    [
+      "HasNoUnmovedStatues",
+      [
+        4368
+      ],
+      0,
+      0,
+      true,
+      200,
+      [],
+      false,
+      1
+    ],
+    [
+      "HasVoidPitsX12",
+      [],
+      12,
+      0,
+      false,
+      200,
+      [
+        342
+      ],
+      false,
+      1
+    ],
+    [
+      "HasPylonsX12",
+      [],
+      12,
+      0,
+      false,
+      200,
+      [
+        496
+      ],
+      false,
+      1
+    ],
+    [
+      "HasLessThan7VoidPits",
+      [],
+      7,
+      0,
+      false,
+      200,
+      [
+        670
+      ],
+      true,
+      1
+    ],
+    [
+      "HasLessThan7Pylons",
+      [],
+      7,
+      0,
+      false,
+      200,
+      [
+        836
+      ],
+      true,
+      1
+    ],
+    [
+      "HasHeraldOfAshOverHalfHealth",
+      [
+        1932
+      ],
+      1,
+      0,
+      false,
+      200,
+      [],
+      false,
+      50
+    ]
+  ]
+}

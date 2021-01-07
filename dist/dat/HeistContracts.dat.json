@@ -1,0 +1,267 @@
+{
+  "filename": "HeistContracts.dat",
+  "header": [
+    {
+      "name": "BaseItemTypesKey",
+      "rowid": 0,
+      "type": "ulong",
+      "key": "BaseItemTypes.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "HeistAreasKey",
+      "rowid": 1,
+      "type": "ulong",
+      "key": "HeistAreas.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown2",
+      "rowid": 2,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      7103,
+      0,
+      2
+    ],
+    [
+      7104,
+      1,
+      0
+    ],
+    [
+      7105,
+      2,
+      0
+    ],
+    [
+      7106,
+      3,
+      0
+    ],
+    [
+      7125,
+      0,
+      0
+    ],
+    [
+      7107,
+      4,
+      0
+    ],
+    [
+      7108,
+      5,
+      0
+    ],
+    [
+      7109,
+      6,
+      2
+    ],
+    [
+      7110,
+      7,
+      0
+    ],
+    [
+      7111,
+      8,
+      0
+    ],
+    [
+      7126,
+      1,
+      0
+    ],
+    [
+      7127,
+      8,
+      0
+    ],
+    [
+      7128,
+      1,
+      0
+    ],
+    [
+      7129,
+      7,
+      0
+    ],
+    [
+      7130,
+      3,
+      0
+    ],
+    [
+      7131,
+      0,
+      0
+    ],
+    [
+      7132,
+      5,
+      0
+    ],
+    [
+      7133,
+      2,
+      0
+    ],
+    [
+      7134,
+      2,
+      0
+    ],
+    [
+      7135,
+      7,
+      0
+    ],
+    [
+      7136,
+      8,
+      0
+    ],
+    [
+      7137,
+      3,
+      0
+    ],
+    [
+      7138,
+      0,
+      0
+    ],
+    [
+      7139,
+      0,
+      0
+    ],
+    [
+      7140,
+      2,
+      0
+    ],
+    [
+      7141,
+      7,
+      0
+    ],
+    [
+      7142,
+      4,
+      0
+    ],
+    [
+      7143,
+      7,
+      0
+    ],
+    [
+      7144,
+      7,
+      0
+    ],
+    [
+      7145,
+      0,
+      0
+    ],
+    [
+      7146,
+      1,
+      0
+    ],
+    [
+      7147,
+      1,
+      0
+    ],
+    [
+      7148,
+      3,
+      0
+    ],
+    [
+      7149,
+      1,
+      0
+    ],
+    [
+      7150,
+      7,
+      0
+    ],
+    [
+      7151,
+      1,
+      0
+    ],
+    [
+      7152,
+      8,
+      0
+    ],
+    [
+      7153,
+      8,
+      0
+    ],
+    [
+      7154,
+      2,
+      81
+    ],
+    [
+      7155,
+      8,
+      0
+    ],
+    [
+      7156,
+      8,
+      0
+    ],
+    [
+      7157,
+      8,
+      0
+    ],
+    [
+      7158,
+      8,
+      81
+    ]
+  ]
+}

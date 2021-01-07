@@ -1,0 +1,292 @@
+{
+  "filename": "HarvestInfrastructure.dat",
+  "header": [
+    {
+      "name": "HarvestObjectsKey",
+      "rowid": 0,
+      "type": "ulong",
+      "key": "HarvestObjects.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown1",
+      "rowid": 1,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown2",
+      "rowid": 2,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown3",
+      "rowid": 3,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Key1",
+      "rowid": 4,
+      "type": "ulong",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Key2",
+      "rowid": 5,
+      "type": "ulong",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown6",
+      "rowid": 6,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Key3",
+      "rowid": 7,
+      "type": "ulong",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Keys0",
+      "rowid": 8,
+      "type": "ref|list|ulong",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown7",
+      "rowid": 9,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "HarvestInfrastructureKey",
+      "rowid": 10,
+      "type": "ref|generic",
+      "key": "HarvestInfrastructure.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      0,
+      0,
+      0,
+      7,
+      365,
+      5216,
+      3,
+      5271,
+      [
+        6975
+      ],
+      0,
+      null
+    ],
+    [
+      1,
+      0,
+      2,
+      17,
+      364,
+      5219,
+      1,
+      5274,
+      [
+        6974
+      ],
+      0,
+      null
+    ],
+    [
+      2,
+      1000,
+      0,
+      22,
+      366,
+      5217,
+      0,
+      5272,
+      [
+        6973
+      ],
+      0,
+      7
+    ],
+    [
+      4,
+      50,
+      2,
+      18,
+      363,
+      5218,
+      2,
+      5273,
+      [
+        6972
+      ],
+      0,
+      null
+    ],
+    [
+      5,
+      50,
+      2,
+      18,
+      363,
+      5218,
+      2,
+      5273,
+      [
+        6972
+      ],
+      0,
+      null
+    ],
+    [
+      6,
+      50,
+      2,
+      18,
+      363,
+      5218,
+      2,
+      5273,
+      [
+        6972
+      ],
+      0,
+      null
+    ],
+    [
+      3,
+      0,
+      0,
+      15,
+      392,
+      5341,
+      4,
+      5275,
+      [
+        6976
+      ],
+      3,
+      null
+    ],
+    [
+      64,
+      5000,
+      0,
+      22,
+      367,
+      5217,
+      0,
+      5272,
+      [
+        6973
+      ],
+      0,
+      null
+    ]
+  ]
+}

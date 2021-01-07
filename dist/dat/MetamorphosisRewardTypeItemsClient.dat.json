@@ -1,0 +1,1312 @@
+{
+  "filename": "MetamorphosisRewardTypeItemsClient.dat",
+  "header": [
+    {
+      "name": "MetamorphosisRewardTypesKey",
+      "rowid": 0,
+      "type": "ulong",
+      "key": "MetamorphosisRewardTypes.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown2",
+      "rowid": 1,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Description",
+      "rowid": 2,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      0,
+      0,
+      "Drops additional Currency Items"
+    ],
+    [
+      0,
+      1,
+      "Drops additional Currency Items"
+    ],
+    [
+      0,
+      2,
+      "Drops additional Currency Items"
+    ],
+    [
+      0,
+      3,
+      "Drops additional Currency Items"
+    ],
+    [
+      0,
+      4,
+      "Drops additional Currency Items"
+    ],
+    [
+      0,
+      5,
+      "Drops additional Currency Items"
+    ],
+    [
+      0,
+      6,
+      "Drops additional Currency Items"
+    ],
+    [
+      0,
+      7,
+      "Drops additional Currency Items"
+    ],
+    [
+      0,
+      8,
+      "Drops additional Currency Items"
+    ],
+    [
+      0,
+      9,
+      "Drops additional Currency Items"
+    ],
+    [
+      0,
+      10,
+      "Drops additional Currency Items"
+    ],
+    [
+      0,
+      11,
+      "Drops additional Currency Items"
+    ],
+    [
+      0,
+      12,
+      "Drops additional Currency Items"
+    ],
+    [
+      0,
+      13,
+      "Drops additional Currency Items"
+    ],
+    [
+      0,
+      14,
+      "Drops additional Currency Items"
+    ],
+    [
+      0,
+      15,
+      "Drops additional Currency Items"
+    ],
+    [
+      1,
+      0,
+      "Drops a Unique Item"
+    ],
+    [
+      1,
+      1,
+      "Drops additional Unique Items"
+    ],
+    [
+      1,
+      2,
+      "Drops a League-specific Unique Item"
+    ],
+    [
+      2,
+      0,
+      "Drops additional Quality Gems"
+    ],
+    [
+      2,
+      1,
+      "Drops additional Quality Gems"
+    ],
+    [
+      2,
+      2,
+      "Drops additional Quality Gems"
+    ],
+    [
+      2,
+      3,
+      "Drops additional Quality Gems"
+    ],
+    [
+      2,
+      4,
+      "Drops additional Quality Gems"
+    ],
+    [
+      2,
+      5,
+      "Drops additional Quality Gems"
+    ],
+    [
+      2,
+      6,
+      "Drops additional Quality Gems"
+    ],
+    [
+      2,
+      7,
+      "Drops a valuable Gem"
+    ],
+    [
+      2,
+      8,
+      "Drops a valuable Gem"
+    ],
+    [
+      2,
+      9,
+      "Drops a valuable Gem"
+    ],
+    [
+      2,
+      10,
+      "Drops a valuable Gem"
+    ],
+    [
+      2,
+      11,
+      "Drops a valuable Gem"
+    ],
+    [
+      2,
+      12,
+      "Drops a valuable Gem"
+    ],
+    [
+      2,
+      13,
+      "Drops a valuable Gem"
+    ],
+    [
+      3,
+      0,
+      "Drops additional Maps"
+    ],
+    [
+      3,
+      1,
+      "Drops additional Maps"
+    ],
+    [
+      3,
+      2,
+      "Drops additional Maps"
+    ],
+    [
+      3,
+      3,
+      "Drops additional Maps"
+    ],
+    [
+      3,
+      4,
+      "Drops additional Maps"
+    ],
+    [
+      3,
+      5,
+      "Drops additional Maps"
+    ],
+    [
+      3,
+      6,
+      "Drops additional Maps"
+    ],
+    [
+      3,
+      7,
+      "Drops additional Maps"
+    ],
+    [
+      3,
+      8,
+      "Drops additional Maps"
+    ],
+    [
+      3,
+      9,
+      "Drops additional Maps"
+    ],
+    [
+      4,
+      0,
+      "Drops additional Rare Jewellery"
+    ],
+    [
+      4,
+      1,
+      "Drops additional Rare Jewellery"
+    ],
+    [
+      4,
+      2,
+      "Drops additional Rare Jewellery"
+    ],
+    [
+      4,
+      3,
+      "Drops additional Rare Jewellery"
+    ],
+    [
+      4,
+      4,
+      "Drops additional Atlas Jewellery"
+    ],
+    [
+      4,
+      5,
+      "Drops additional Incursion Jewellery"
+    ],
+    [
+      4,
+      6,
+      "Drops additional Incursion Jewellery"
+    ],
+    [
+      4,
+      7,
+      "Drops additional Incursion Jewellery"
+    ],
+    [
+      4,
+      8,
+      "Drops additional Incursion Jewellery"
+    ],
+    [
+      4,
+      9,
+      "Drops additional Shaper or Elder Jewellery"
+    ],
+    [
+      4,
+      10,
+      "Drops additional Shaper or Elder Jewellery"
+    ],
+    [
+      4,
+      11,
+      "Drops additional Veiled Jewellery"
+    ],
+    [
+      4,
+      12,
+      "Drops additional Veiled Jewellery"
+    ],
+    [
+      4,
+      13,
+      "Drops additional Unique Jewellery"
+    ],
+    [
+      4,
+      14,
+      "Drops additional Jewels"
+    ],
+    [
+      4,
+      15,
+      "Drops additional Jewels"
+    ],
+    [
+      4,
+      16,
+      "Drops additional Jewels"
+    ],
+    [
+      4,
+      17,
+      "Drops additional Jewels"
+    ],
+    [
+      5,
+      0,
+      "Drops additional Rare Armour"
+    ],
+    [
+      5,
+      1,
+      "Drops additional Rare Armour"
+    ],
+    [
+      5,
+      2,
+      "Drops additional Rare Armour"
+    ],
+    [
+      5,
+      3,
+      "Drops additional Rare Armour"
+    ],
+    [
+      5,
+      4,
+      "Drops additional Unique Armour"
+    ],
+    [
+      5,
+      5,
+      "Drops additional Shaper Armour"
+    ],
+    [
+      5,
+      6,
+      "Drops additional Elder Armour"
+    ],
+    [
+      5,
+      7,
+      "Drops additional Veiled Armour"
+    ],
+    [
+      5,
+      8,
+      "Drops additional Veiled Armour"
+    ],
+    [
+      5,
+      9,
+      "Drops additional Incursion Armour"
+    ],
+    [
+      5,
+      10,
+      "Drops additional Incursion Armour"
+    ],
+    [
+      5,
+      11,
+      "Drops additional Incursion Armour"
+    ],
+    [
+      5,
+      12,
+      "Drops additional Incursion Armour"
+    ],
+    [
+      5,
+      13,
+      "Drops additional Incursion Armour"
+    ],
+    [
+      5,
+      14,
+      "Drops additional Incursion Armour"
+    ],
+    [
+      5,
+      15,
+      "Drops additional Incursion Armour"
+    ],
+    [
+      5,
+      16,
+      "Drops additional Incursion Armour"
+    ],
+    [
+      5,
+      17,
+      "Drops a 6-linked Unique Body Armour"
+    ],
+    [
+      6,
+      0,
+      "Drops a Rare Weapon"
+    ],
+    [
+      6,
+      1,
+      "Drops a Rare Weapon"
+    ],
+    [
+      6,
+      2,
+      "Drops a Rare Weapon"
+    ],
+    [
+      6,
+      3,
+      "Drops additional Rare Weapons"
+    ],
+    [
+      6,
+      4,
+      "Drops a Unique Weapon"
+    ],
+    [
+      6,
+      5,
+      "Drops a Shaper Weapon"
+    ],
+    [
+      6,
+      6,
+      "Drops an Elder Weapon"
+    ],
+    [
+      6,
+      7,
+      "Drops a Veiled Weapon"
+    ],
+    [
+      6,
+      8,
+      "Drops a Veiled Weapon"
+    ],
+    [
+      6,
+      9,
+      "Drops an Incursion Weapon"
+    ],
+    [
+      6,
+      10,
+      "Drops an Incursion Weapon"
+    ],
+    [
+      6,
+      11,
+      "Drops an Incursion Weapon"
+    ],
+    [
+      6,
+      12,
+      "Drops an Incursion Weapon"
+    ],
+    [
+      6,
+      13,
+      "Drops an Incursion Weapon"
+    ],
+    [
+      6,
+      14,
+      "Drops an Incursion Weapon"
+    ],
+    [
+      6,
+      15,
+      "Drops an Incursion Weapon"
+    ],
+    [
+      6,
+      16,
+      "Drops an Incursion Weapon"
+    ],
+    [
+      6,
+      17,
+      "Drops an Incursion Weapon"
+    ],
+    [
+      6,
+      18,
+      "Drops an Incursion Weapon"
+    ],
+    [
+      6,
+      19,
+      "Drops an Incursion Weapon"
+    ],
+    [
+      6,
+      20,
+      "Drops an Incursion Weapon"
+    ],
+    [
+      6,
+      21,
+      "Drops an Incursion Weapon"
+    ],
+    [
+      6,
+      22,
+      "Drops an Incursion Weapon"
+    ],
+    [
+      6,
+      23,
+      "Drops a 6-linked Weapon"
+    ],
+    [
+      6,
+      24,
+      "Drops a 30% Quality Weapon"
+    ],
+    [
+      7,
+      0,
+      "Drops an Abyssal Jewel"
+    ],
+    [
+      7,
+      1,
+      "Drops additional Abyssal Jewels"
+    ],
+    [
+      7,
+      2,
+      "Drops a Stygian Vise"
+    ],
+    [
+      7,
+      3,
+      "Drops an Abyss Unique Item"
+    ],
+    [
+      8,
+      0,
+      "Drops additional Perandus Coins"
+    ],
+    [
+      8,
+      1,
+      "Drops additional Perandus Coins"
+    ],
+    [
+      8,
+      2,
+      "Drops additional Perandus Coins"
+    ],
+    [
+      9,
+      0,
+      "Drops additional Currency Shards"
+    ],
+    [
+      9,
+      1,
+      "Drops additional Currency Shards"
+    ],
+    [
+      9,
+      2,
+      "Drops additional valuable Currency Shards"
+    ],
+    [
+      9,
+      3,
+      "Drops additional Harbinger Currency"
+    ],
+    [
+      9,
+      4,
+      "Drops additional Harbinger Currency"
+    ],
+    [
+      9,
+      5,
+      "Drops additional Harbinger Currency"
+    ],
+    [
+      9,
+      6,
+      "Drops additional Harbinger Currency"
+    ],
+    [
+      9,
+      7,
+      "Drops a Beachhead Unique Map"
+    ],
+    [
+      9,
+      8,
+      "Drops a Beachhead Unique Map"
+    ],
+    [
+      9,
+      9,
+      "Drops a Beachhead Unique Map"
+    ],
+    [
+      10,
+      0,
+      "Drops additional Breach Splinters"
+    ],
+    [
+      10,
+      1,
+      "Drops additional Breach Splinters"
+    ],
+    [
+      10,
+      2,
+      "Drops additional Breach Splinters"
+    ],
+    [
+      10,
+      3,
+      "Drops a Breach Blessing"
+    ],
+    [
+      10,
+      4,
+      "Drops a Breachstone"
+    ],
+    [
+      10,
+      5,
+      "Drops a Breachstone"
+    ],
+    [
+      10,
+      6,
+      "Drops a Breachstone"
+    ],
+    [
+      10,
+      7,
+      "Drops a Breachstone"
+    ],
+    [
+      11,
+      0,
+      "Drops additional Essences"
+    ],
+    [
+      11,
+      1,
+      "Drops additional Essences"
+    ],
+    [
+      11,
+      3,
+      "Drops additional Essences"
+    ],
+    [
+      12,
+      1,
+      "Drops additional Essences"
+    ],
+    [
+      12,
+      2,
+      "Drops additional Essences"
+    ],
+    [
+      12,
+      3,
+      "Drops additional Essences"
+    ],
+    [
+      12,
+      4,
+      "Drops additional Essences"
+    ],
+    [
+      13,
+      0,
+      "Drops additional Map Fragments"
+    ],
+    [
+      13,
+      1,
+      "Drops additional Map Fragments"
+    ],
+    [
+      13,
+      2,
+      "Drops additional Map Fragments"
+    ],
+    [
+      13,
+      3,
+      "Drops additional Map Fragments"
+    ],
+    [
+      13,
+      4,
+      "Drops additional Map Fragments"
+    ],
+    [
+      13,
+      5,
+      "Drops additional Map Fragments"
+    ],
+    [
+      13,
+      6,
+      "Drops additional Map Fragments"
+    ],
+    [
+      13,
+      7,
+      "Drops additional Map Fragments"
+    ],
+    [
+      14,
+      0,
+      "Drops additional Rusted Scarabs"
+    ],
+    [
+      14,
+      1,
+      "Drops additional Polished Scarabs"
+    ],
+    [
+      14,
+      2,
+      "Drops additional Gilded Scarabs"
+    ],
+    [
+      15,
+      0,
+      "Drops additional Fossils"
+    ],
+    [
+      15,
+      1,
+      "Drops additional Fossils"
+    ],
+    [
+      15,
+      2,
+      "Drops additional Fossils"
+    ],
+    [
+      15,
+      3,
+      "Drops additional Fossils"
+    ],
+    [
+      15,
+      4,
+      "Drops additional Fossils"
+    ],
+    [
+      15,
+      5,
+      "Drops additional Fossils"
+    ],
+    [
+      15,
+      6,
+      "Drops a Resonator"
+    ],
+    [
+      16,
+      0,
+      "Drops additional Silver Coins"
+    ],
+    [
+      16,
+      1,
+      "Drops additional Silver Coins"
+    ],
+    [
+      16,
+      2,
+      "Drops additional Silver Coins"
+    ],
+    [
+      16,
+      3,
+      "Drops additional Silver Coins"
+    ],
+    [
+      16,
+      4,
+      "Drops additional Silver Coins"
+    ],
+    [
+      16,
+      5,
+      "Drops additional Silver Coins"
+    ],
+    [
+      16,
+      6,
+      "Drops an Itemised Prophecy"
+    ],
+    [
+      16,
+      7,
+      "Drops Itemised Prophecies"
+    ],
+    [
+      16,
+      8,
+      "Drops Itemised Prophecies"
+    ],
+    [
+      16,
+      9,
+      "Drops Itemised Prophecies"
+    ],
+    [
+      16,
+      10,
+      "Drops an Itemised Prophecy"
+    ],
+    [
+      16,
+      11,
+      "Drops an Itemised Prophecy"
+    ],
+    [
+      16,
+      12,
+      "Drops an Itemised Prophecy"
+    ],
+    [
+      16,
+      13,
+      "Drops an Itemised Prophecy"
+    ],
+    [
+      16,
+      14,
+      "Drops an Itemised Prophecy"
+    ],
+    [
+      16,
+      15,
+      "Drops an Itemised Prophecy"
+    ],
+    [
+      16,
+      16,
+      "Drops an Itemised Prophecy"
+    ],
+    [
+      16,
+      17,
+      "Drops an Itemised Prophecy"
+    ],
+    [
+      16,
+      18,
+      "Drops an Itemised Prophecy"
+    ],
+    [
+      16,
+      19,
+      "Drops an Itemised Prophecy"
+    ],
+    [
+      16,
+      20,
+      "Drops an Itemised Prophecy"
+    ],
+    [
+      16,
+      21,
+      "Drops an Itemised Prophecy"
+    ],
+    [
+      17,
+      0,
+      "Drops additional Divination Cards"
+    ],
+    [
+      17,
+      1,
+      "Drops additional Divination Cards"
+    ],
+    [
+      17,
+      2,
+      "Drops additional Divination Cards"
+    ],
+    [
+      17,
+      3,
+      "Drops additional Divination Cards"
+    ],
+    [
+      17,
+      4,
+      "Drops additional Divination Cards"
+    ],
+    [
+      17,
+      5,
+      "Drops additional Divination Cards"
+    ],
+    [
+      17,
+      6,
+      "Drops additional Divination Cards"
+    ],
+    [
+      17,
+      7,
+      "Drops additional Divination Cards"
+    ],
+    [
+      18,
+      0,
+      "Drops additional Currency Items"
+    ],
+    [
+      18,
+      1,
+      "Drops additional Currency Items"
+    ],
+    [
+      18,
+      2,
+      "Drops additional Currency Items"
+    ],
+    [
+      18,
+      3,
+      "Drops additional Currency Items"
+    ],
+    [
+      18,
+      4,
+      "Drops additional Currency Items"
+    ],
+    [
+      18,
+      5,
+      "Drops additional Currency Items"
+    ],
+    [
+      18,
+      6,
+      "Drops additional Quality Gems"
+    ],
+    [
+      18,
+      7,
+      "Drops additional Quality Gems"
+    ],
+    [
+      18,
+      8,
+      "Drops a Map Item"
+    ],
+    [
+      18,
+      9,
+      "Drops additional Rare Jewellery"
+    ],
+    [
+      18,
+      10,
+      "Drops additional Rare Armour"
+    ],
+    [
+      18,
+      11,
+      "Drops additional Rare Weapons"
+    ],
+    [
+      19,
+      0,
+      "Drops additional Rare Talismans"
+    ],
+    [
+      19,
+      1,
+      "Drops additional Rare Talismans"
+    ],
+    [
+      19,
+      2,
+      "Drops additional Rare Talismans"
+    ],
+    [
+      19,
+      3,
+      "Drops additional Rare Talismans"
+    ],
+    [
+      19,
+      4,
+      "Drops additional Rare Talismans"
+    ],
+    [
+      19,
+      5,
+      "Drops additional Rare Talismans"
+    ],
+    [
+      19,
+      6,
+      "Drops additional Rare Talismans"
+    ],
+    [
+      19,
+      7,
+      "Drops additional Rare Talismans"
+    ],
+    [
+      19,
+      8,
+      "Drops additional Rare Talismans"
+    ],
+    [
+      19,
+      11,
+      "Drops additional Rare Talismans"
+    ],
+    [
+      19,
+      12,
+      "Drops additional Rare Talismans"
+    ],
+    [
+      19,
+      13,
+      "Drops a Talisman Unique Item"
+    ],
+    [
+      20,
+      0,
+      "Drops Enchanted Gloves"
+    ],
+    [
+      20,
+      1,
+      "Drops Enchanted Boots"
+    ],
+    [
+      20,
+      2,
+      "Drops an Enchanted Helmet"
+    ],
+    [
+      20,
+      3,
+      "Drops an Offering to the Goddess"
+    ],
+    [
+      20,
+      4,
+      "Drops an Itemised Prophecy"
+    ],
+    [
+      21,
+      1,
+      "Drops additional Legion Incubators"
+    ],
+    [
+      21,
+      2,
+      "Drops additional Legion Incubators"
+    ],
+    [
+      21,
+      3,
+      "Drops additional Legion Incubators"
+    ],
+    [
+      21,
+      4,
+      "Drops additional Legion Incubators"
+    ],
+    [
+      22,
+      0,
+      "Drops additional Blight Oils"
+    ],
+    [
+      22,
+      1,
+      "Drops additional Blight Oils"
+    ],
+    [
+      22,
+      2,
+      "Drops additional Blight Oils"
+    ],
+    [
+      22,
+      3,
+      "Drops additional Blight Oils"
+    ],
+    [
+      22,
+      4,
+      "Drops additional Blight Oils"
+    ],
+    [
+      22,
+      5,
+      "Drops additional Blight Oils"
+    ],
+    [
+      22,
+      6,
+      "Drops additional Blight Oils"
+    ],
+    [
+      22,
+      7,
+      "Drops additional Blight Oils"
+    ],
+    [
+      22,
+      8,
+      "Drops additional Blight Oils"
+    ],
+    [
+      22,
+      9,
+      "Drops additional Blight Oils"
+    ],
+    [
+      22,
+      10,
+      "Drops additional Blight Oils"
+    ],
+    [
+      22,
+      11,
+      "Drops additional Blight Oils"
+    ],
+    [
+      22,
+      12,
+      "Drops additional Blight Oils"
+    ],
+    [
+      22,
+      13,
+      "Drops additional Blight Oils"
+    ],
+    [
+      22,
+      14,
+      "Drops additional Blight Oils"
+    ],
+    [
+      22,
+      15,
+      "Drops additional Blight Oils"
+    ],
+    [
+      22,
+      16,
+      "Drops a Blighted Map"
+    ],
+    [
+      22,
+      17,
+      "Drops a Blighted Map"
+    ],
+    [
+      22,
+      18,
+      "Drops a Blighted Map"
+    ],
+    [
+      22,
+      19,
+      "Drops a Blighted Map"
+    ],
+    [
+      22,
+      20,
+      "Drops a Blighted Map"
+    ],
+    [
+      22,
+      21,
+      "Drops a Blighted Map"
+    ],
+    [
+      22,
+      22,
+      "Drops a Blighted Map"
+    ],
+    [
+      22,
+      23,
+      "Drops a Blighted Map"
+    ],
+    [
+      22,
+      24,
+      "Drops a Blighted Map"
+    ],
+    [
+      22,
+      25,
+      "Drops a Blighted Map"
+    ],
+    [
+      22,
+      26,
+      "Drops a Blighted Map"
+    ],
+    [
+      22,
+      27,
+      "Drops a Blighted Map"
+    ],
+    [
+      22,
+      28,
+      "Drops a Blighted Map"
+    ],
+    [
+      22,
+      29,
+      "Drops a Blighted Map"
+    ],
+    [
+      22,
+      30,
+      "Drops a Blighted Map"
+    ],
+    [
+      22,
+      31,
+      "Drops a Blighted Map"
+    ],
+    [
+      23,
+      0,
+      "Drops additional Catalysts"
+    ],
+    [
+      23,
+      1,
+      "Drops additional Catalysts"
+    ],
+    [
+      23,
+      2,
+      "Drops additional Catalysts"
+    ]
+  ]
+}

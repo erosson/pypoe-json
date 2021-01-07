@@ -1,0 +1,167 @@
+{
+  "filename": "BetrayalChoiceActions.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "BetrayalChoicesKey",
+      "rowid": 1,
+      "type": "ulong",
+      "key": "BetrayalChoices.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "ClientStringsKey",
+      "rowid": 2,
+      "type": "ulong",
+      "key": "ClientStrings.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "Interrogate",
+      0,
+      null
+    ],
+    [
+      "Release",
+      4,
+      null
+    ],
+    [
+      "Execute",
+      1,
+      null
+    ],
+    [
+      "PromoteNPC",
+      3,
+      null
+    ],
+    [
+      "SwapNPCJob",
+      3,
+      null
+    ],
+    [
+      "SwapLeader",
+      2,
+      null
+    ],
+    [
+      "RemoveNPCFromOrg",
+      2,
+      null
+    ],
+    [
+      "NPCBefriendsAnother",
+      3,
+      null
+    ],
+    [
+      "GainIntelligenceLarge",
+      3,
+      null
+    ],
+    [
+      "GainIntelligence",
+      3,
+      null
+    ],
+    [
+      "NPCLeavesOrg",
+      3,
+      null
+    ],
+    [
+      "StealRanks",
+      2,
+      null
+    ],
+    [
+      "StealIntelligence",
+      2,
+      null
+    ],
+    [
+      "RemoveAllFromPrison",
+      3,
+      null
+    ],
+    [
+      "DestroyAllItemsInDivision",
+      3,
+      null
+    ],
+    [
+      "RemoveAllRivalries",
+      3,
+      null
+    ],
+    [
+      "DestroyAllItemsOfRivalDivision",
+      2,
+      null
+    ],
+    [
+      "DownrankRivalsUprankMyDivision",
+      2,
+      null
+    ],
+    [
+      "GainItemAnyUnique",
+      3,
+      4503
+    ],
+    [
+      "GainItemCurrency",
+      3,
+      4504
+    ],
+    [
+      "GainItemVeiledItem",
+      3,
+      4505
+    ],
+    [
+      "GainItemMap",
+      3,
+      4506
+    ],
+    [
+      "GainItemScarab",
+      3,
+      4507
+    ]
+  ]
+}

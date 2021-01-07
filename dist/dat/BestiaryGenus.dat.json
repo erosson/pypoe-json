@@ -1,0 +1,376 @@
+{
+  "filename": "BestiaryGenus.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Name",
+      "rowid": 1,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "BestiaryGroupsKey",
+      "rowid": 2,
+      "type": "ulong",
+      "key": "BestiaryGroups.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Name2",
+      "rowid": 3,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Icon",
+      "rowid": 4,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": true,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "Gargantuans",
+      "Gargantuans",
+      3,
+      "Gargantuan",
+      "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Gargantuans"
+    ],
+    [
+      "Goatmen",
+      "Goatmen",
+      1,
+      "Goatman",
+      "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Goatman"
+    ],
+    [
+      "GoatShamans",
+      "Goat Shamans",
+      1,
+      "Goat Shaman",
+      "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/GoatShamans"
+    ],
+    [
+      "Hellions",
+      "Hellions",
+      0,
+      "Hellion",
+      "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Hellions"
+    ],
+    [
+      "Wolves",
+      "Wolves",
+      2,
+      "Wolf",
+      ""
+    ],
+    [
+      "Apes",
+      "Apes",
+      1,
+      "Ape",
+      "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/BloodMonkey"
+    ],
+    [
+      "Rhoas",
+      "Rhoas",
+      5,
+      "Rhoa",
+      "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Rhoa"
+    ],
+    [
+      "SandSpitters",
+      "Sand Spitters",
+      10,
+      "Sand Spitter",
+      ""
+    ],
+    [
+      "SeaWitches",
+      "Sea Witches",
+      9,
+      "Sea Witch",
+      "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Seawitch"
+    ],
+    [
+      "ShieldCrabs",
+      "Shield Crabs",
+      10,
+      "Shield Crab",
+      "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/ShieldCrabs"
+    ],
+    [
+      "Snakes",
+      "Snakes",
+      6,
+      "Snake",
+      ""
+    ],
+    [
+      "Spawn",
+      "Spawn",
+      9,
+      "Spawn",
+      ""
+    ],
+    [
+      "Spiders",
+      "Spiders",
+      8,
+      "Spider",
+      "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Spiders"
+    ],
+    [
+      "Maws",
+      "Maws",
+      11,
+      "Maw",
+      ""
+    ],
+    [
+      "Chimerals",
+      "Chimerals",
+      6,
+      "Chimeral",
+      "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Iguana"
+    ],
+    [
+      "CarrionQueens",
+      "Carrion Queens",
+      7,
+      "Carrion Queen",
+      ""
+    ],
+    [
+      "CarrionInsects",
+      "Carrion Insects",
+      7,
+      "Carrion Insect",
+      ""
+    ],
+    [
+      "Retches",
+      "Retches",
+      5,
+      "Retch",
+      ""
+    ],
+    [
+      "Goliaths",
+      "Goliaths",
+      4,
+      "Goliath",
+      "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Spiker"
+    ],
+    [
+      "Devourers",
+      "Devourers",
+      7,
+      "Devourer",
+      "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/RootSpider"
+    ],
+    [
+      "Watchers",
+      "Watchers",
+      9,
+      "Watcher",
+      ""
+    ],
+    [
+      "PlummetingUrsae",
+      "Plummeting Ursae",
+      3,
+      "Plummeting Ursa",
+      "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/DropBear"
+    ],
+    [
+      "Vultures",
+      "Vultures",
+      5,
+      "Vulture",
+      "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Vulture"
+    ],
+    [
+      "Leapers",
+      "Leapers",
+      7,
+      "Leaper",
+      ""
+    ],
+    [
+      "KaruiHounds",
+      "Karui Hounds",
+      2,
+      "Karui Hound",
+      "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Hound"
+    ],
+    [
+      "Pitbulls",
+      "Pitbulls",
+      2,
+      "Pitbull",
+      "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Pitbull"
+    ],
+    [
+      "Cockerels",
+      "Cockerels",
+      5,
+      "Cockerel",
+      "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Eyepecker"
+    ],
+    [
+      "Bulls",
+      "Bulls",
+      4,
+      "Bull",
+      "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Bull"
+    ],
+    [
+      "ApeChieftains",
+      "Ape Chieftains",
+      1,
+      "Ape Chieftain",
+      "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/BloodChieftain"
+    ],
+    [
+      "Parasites",
+      "Parasites",
+      7,
+      "Parasite",
+      ""
+    ],
+    [
+      "Crabs",
+      "Crabs",
+      10,
+      "Crab",
+      ""
+    ],
+    [
+      "Hounds",
+      "Hounds",
+      2,
+      "Hound",
+      ""
+    ],
+    [
+      "Lurchers",
+      "Lurchers",
+      10,
+      "Lurcher",
+      "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Lurchers"
+    ],
+    [
+      "Arachnoscorpions",
+      "Arachnoscorpions",
+      8,
+      "Arachnoscorpion",
+      ""
+    ],
+    [
+      "Rhexes",
+      "Rhexes",
+      5,
+      "Rhex",
+      ""
+    ],
+    [
+      "Scorpions",
+      "Scorpions",
+      8,
+      "Scorpion",
+      ""
+    ],
+    [
+      "Lynxes",
+      "Lynxes",
+      0,
+      "Lynx",
+      ""
+    ],
+    [
+      "Tigers",
+      "Tigers",
+      0,
+      "Tiger",
+      ""
+    ],
+    [
+      "SpiderCrabs",
+      "Spider Crabs",
+      10,
+      "Spider Crab",
+      ""
+    ],
+    [
+      "Octopuses",
+      "Octopuses",
+      9,
+      "Octopus",
+      ""
+    ],
+    [
+      "GemFrog",
+      "Gem Frogs",
+      11,
+      "Gem Frog",
+      ""
+    ],
+    [
+      "Frog",
+      "Frogs",
+      11,
+      "Frog",
+      ""
+    ]
+  ]
+}
