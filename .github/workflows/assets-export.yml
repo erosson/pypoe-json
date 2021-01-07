@@ -36,7 +36,7 @@ jobs:
       - run: yarn fetch
       - run: |
           echo 'STEAM_DEPOT_INFO_DIFF<<__EOF__' >> $GITHUB_ENV
-          (diff info-old.txt info.txt || true) >> $GITHUB_ENV
+          (diff assets/content/info-old.txt assets/content/info.txt || true) >> $GITHUB_ENV
           echo '__EOF__' >> $GITHUB_ENV
           cat $GITHUB_ENV
 
