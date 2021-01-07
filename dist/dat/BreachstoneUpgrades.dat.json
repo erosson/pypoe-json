@@ -1,0 +1,97 @@
+{
+  "filename": "BreachstoneUpgrades.dat",
+  "header": [
+    {
+      "name": "BaseItemTypesKey0",
+      "rowid": 0,
+      "type": "ulong",
+      "key": "BaseItemTypes.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "BaseItemTypesKey1",
+      "rowid": 1,
+      "type": "ulong",
+      "key": "BaseItemTypes.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "BaseItemTypesKey2",
+      "rowid": 2,
+      "type": "ulong",
+      "key": "BaseItemTypes.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "BaseItemTypesKey3",
+      "rowid": 3,
+      "type": "ulong",
+      "key": "BaseItemTypes.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      5314,
+      5319,
+      5324,
+      5329
+    ],
+    [
+      5315,
+      5320,
+      5325,
+      5330
+    ],
+    [
+      5316,
+      5321,
+      5326,
+      5331
+    ],
+    [
+      5317,
+      5322,
+      5327,
+      5332
+    ],
+    [
+      5318,
+      5323,
+      5328,
+      5333
+    ]
+  ]
+}

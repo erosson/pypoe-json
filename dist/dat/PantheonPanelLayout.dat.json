@@ -1,0 +1,941 @@
+{
+  "filename": "PantheonPanelLayout.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "X",
+      "rowid": 1,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Y",
+      "rowid": 2,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "IsMajorGod",
+      "rowid": 3,
+      "type": "bool",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "CoverImage",
+      "rowid": 4,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": true,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "GodName2",
+      "rowid": 5,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "SelectionImage",
+      "rowid": 6,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": true,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Effect1_StatsKeys",
+      "rowid": 7,
+      "type": "ref|list|ulong",
+      "key": "Stats.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Effect1_Values",
+      "rowid": 8,
+      "type": "ref|list|int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Effect2_StatsKeys",
+      "rowid": 9,
+      "type": "ref|list|ulong",
+      "key": "Stats.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "GodName3",
+      "rowid": 10,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Effect3_Values",
+      "rowid": 11,
+      "type": "ref|list|int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Effect3_StatsKeys",
+      "rowid": 12,
+      "type": "ref|list|ulong",
+      "key": "Stats.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "GodName4",
+      "rowid": 13,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Effect4_StatsKeys",
+      "rowid": 14,
+      "type": "ref|list|ulong",
+      "key": "Stats.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Effect4_Values",
+      "rowid": 15,
+      "type": "ref|list|int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "GodName1",
+      "rowid": 16,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Effect2_Values",
+      "rowid": 17,
+      "type": "ref|list|int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "QuestState1",
+      "rowid": 18,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "QuestState2",
+      "rowid": 19,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "QuestState3",
+      "rowid": 20,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "QuestState4",
+      "rowid": 21,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "IsDisabled",
+      "rowid": 22,
+      "type": "bool",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Keys0",
+      "rowid": 23,
+      "type": "ref|list|ulong",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "TheBrineKing",
+      60,
+      242,
+      true,
+      "Art/2DArt/UIImages/InGame/Pantheon/CoverLargeFarLeft",
+      "Glace",
+      "Art/2DArt/UIImages/InGame/Pantheon/SelectionFrameLarge",
+      [
+        6468
+      ],
+      [
+        1
+      ],
+      [
+        221
+      ],
+      "Champion of the Hollows",
+      [
+        100
+      ],
+      [
+        5868
+      ],
+      "Fragment of Winter",
+      [
+        2606
+      ],
+      [
+        -50
+      ],
+      "Soul of the Brine King",
+      [
+        30
+      ],
+      1165,
+      1390,
+      1391,
+      1392,
+      false,
+      [
+        6981
+      ]
+    ],
+    [
+      "Arakaali",
+      760,
+      300,
+      true,
+      "Art/2DArt/UIImages/InGame/Pantheon/CoverLargeFarRight",
+      "Queen of the Great Tangle",
+      "Art/2DArt/UIImages/InGame/Pantheon/SelectionFrameLarge",
+      [
+        542,
+        3657
+      ],
+      [
+        -5,
+        10
+      ],
+      [
+        5871
+      ],
+      "Shavronne the Sickening",
+      [
+        -30,
+        30
+      ],
+      [
+        3606,
+        205
+      ],
+      "Thraxia",
+      [
+        6127
+      ],
+      [
+        25
+      ],
+      "Soul of Arakaali",
+      [
+        50
+      ],
+      1295,
+      1393,
+      1394,
+      1395,
+      false,
+      [
+        6981
+      ]
+    ],
+    [
+      "Solaris",
+      560,
+      357,
+      true,
+      "Art/2DArt/UIImages/InGame/Pantheon/CoverLargeRight",
+      "Vision of Justice",
+      "Art/2DArt/UIImages/InGame/Pantheon/SelectionFrameLarge",
+      [
+        6192,
+        6193
+      ],
+      [
+        6,
+        20
+      ],
+      [
+        6194
+      ],
+      "Eater of Souls",
+      [
+        1
+      ],
+      [
+        6195
+      ],
+      "Kitava, The Destroyer",
+      [
+        6198
+      ],
+      [
+        50
+      ],
+      "Soul of Solaris",
+      [
+        -8
+      ],
+      1427,
+      1396,
+      1397,
+      1398,
+      false,
+      [
+        6981
+      ]
+    ],
+    [
+      "Lunaris",
+      354,
+      386,
+      true,
+      "Art/2DArt/UIImages/InGame/Pantheon/CoverLargeLeft",
+      "Ancient Architect",
+      "Art/2DArt/UIImages/InGame/Pantheon/SelectionFrameLarge",
+      [
+        6199,
+        6200
+      ],
+      [
+        1,
+        1
+      ],
+      [
+        6201
+      ],
+      "Shock and Horror",
+      [
+        5
+      ],
+      [
+        6202
+      ],
+      "The Hallowed Husk",
+      [
+        6204
+      ],
+      [
+        100
+      ],
+      "Soul of Lunaris",
+      [
+        10
+      ],
+      1427,
+      1399,
+      1400,
+      1401,
+      false,
+      [
+        6981
+      ]
+    ],
+    [
+      "Minor God 1",
+      780,
+      517,
+      false,
+      "Art/2DArt/UIImages/InGame/Pantheon/CoverSmall",
+      "",
+      "Art/2DArt/UIImages/InGame/Pantheon/SelectionFrameSmall",
+      [],
+      [],
+      [],
+      "",
+      [],
+      [],
+      "",
+      [],
+      [],
+      "",
+      [],
+      72,
+      72,
+      72,
+      72,
+      true,
+      []
+    ],
+    [
+      "Minor God 2",
+      682,
+      550,
+      false,
+      "Art/2DArt/UIImages/InGame/Pantheon/CoverSmall",
+      "",
+      "Art/2DArt/UIImages/InGame/Pantheon/SelectionFrameSmall",
+      [],
+      [],
+      [],
+      "",
+      [],
+      [],
+      "",
+      [],
+      [],
+      "",
+      [],
+      72,
+      72,
+      72,
+      72,
+      true,
+      []
+    ],
+    [
+      "Abberath",
+      328,
+      584,
+      false,
+      "Art/2DArt/UIImages/InGame/Pantheon/CoverSmall",
+      "Mephod, the Earth Scorcher",
+      "Art/2DArt/UIImages/InGame/Pantheon/SelectionFrameSmall",
+      [
+        5876,
+        6955
+      ],
+      [
+        -5,
+        1
+      ],
+      [
+        207,
+        5872
+      ],
+      "",
+      [],
+      [],
+      "",
+      [],
+      [],
+      "Soul of Abberath",
+      [
+        50,
+        10
+      ],
+      1201,
+      1403,
+      72,
+      72,
+      false,
+      []
+    ],
+    [
+      "Minor God 4",
+      359,
+      794,
+      false,
+      "Art/2DArt/UIImages/InGame/Pantheon/CoverSmall",
+      "",
+      "Art/2DArt/UIImages/InGame/Pantheon/SelectionFrameSmall",
+      [],
+      [],
+      [],
+      "",
+      [],
+      [],
+      "",
+      [],
+      [],
+      "",
+      [],
+      72,
+      72,
+      72,
+      72,
+      true,
+      []
+    ],
+    [
+      "Gruthkul",
+      425,
+      609,
+      false,
+      "Art/2DArt/UIImages/InGame/Pantheon/CoverSmall",
+      "Erebix, Light's Bane",
+      "Art/2DArt/UIImages/InGame/Pantheon/SelectionFrameSmall",
+      [
+        5881
+      ],
+      [
+        1
+      ],
+      [
+        6184
+      ],
+      "",
+      [],
+      [],
+      "",
+      [],
+      [],
+      "Soul of Gruthkul",
+      [
+        -8
+      ],
+      1387,
+      1406,
+      72,
+      72,
+      false,
+      []
+    ],
+    [
+      "Yugul",
+      225,
+      627,
+      false,
+      "Art/2DArt/UIImages/InGame/Pantheon/CoverSmall",
+      "Varhesh, Shimmering Aberration",
+      "Art/2DArt/UIImages/InGame/Pantheon/SelectionFrameSmall",
+      [
+        10997,
+        6206
+      ],
+      [
+        -25,
+        50
+      ],
+      [
+        6205
+      ],
+      "",
+      [],
+      [],
+      "",
+      [],
+      [],
+      "Soul of Yugul",
+      [
+        -5
+      ],
+      1439,
+      1407,
+      72,
+      72,
+      false,
+      []
+    ],
+    [
+      "Shakari",
+      703,
+      566,
+      false,
+      "Art/2DArt/UIImages/InGame/Pantheon/CoverSmall",
+      "Terror of the Infinite Drifts",
+      "Art/2DArt/UIImages/InGame/Pantheon/SelectionFrameSmall",
+      [
+        3440,
+        6557
+      ],
+      [
+        -5,
+        -25
+      ],
+      [
+        11898,
+        11899
+      ],
+      "",
+      [],
+      [],
+      "",
+      [],
+      [],
+      "Soul of Shakari",
+      [
+        -50,
+        5
+      ],
+      1630,
+      1408,
+      72,
+      72,
+      false,
+      []
+    ],
+    [
+      "Tukohama",
+      335,
+      711,
+      false,
+      "Art/2DArt/UIImages/InGame/Pantheon/CoverSmall",
+      "Tahsin, Warmaker",
+      "Art/2DArt/UIImages/InGame/Pantheon/SelectionFrameSmall",
+      [
+        5874
+      ],
+      [
+        2
+      ],
+      [
+        5875
+      ],
+      "",
+      [],
+      [],
+      "",
+      [],
+      [],
+      "Soul of Tukohama",
+      [
+        30
+      ],
+      1176,
+      1402,
+      72,
+      72,
+      false,
+      []
+    ],
+    [
+      "Minor God 9",
+      547,
+      725,
+      false,
+      "Art/2DArt/UIImages/InGame/Pantheon/CoverSmall",
+      "",
+      "Art/2DArt/UIImages/InGame/Pantheon/SelectionFrameSmall",
+      [],
+      [],
+      [],
+      "",
+      [],
+      [],
+      "",
+      [],
+      [],
+      "",
+      [],
+      72,
+      72,
+      72,
+      72,
+      true,
+      []
+    ],
+    [
+      "Ralakesh",
+      515,
+      747,
+      false,
+      "Art/2DArt/UIImages/InGame/Pantheon/CoverSmall",
+      "Drek, Apex Hunter",
+      "Art/2DArt/UIImages/InGame/Pantheon/SelectionFrameSmall",
+      [
+        6191,
+        4457
+      ],
+      [
+        -25,
+        25
+      ],
+      [
+        2414,
+        5885
+      ],
+      "",
+      [],
+      [],
+      "",
+      [],
+      [],
+      "Soul of Ralakesh",
+      [
+        1,
+        100
+      ],
+      1274,
+      1405,
+      72,
+      72,
+      false,
+      []
+    ],
+    [
+      "Garukhan",
+      101,
+      501,
+      false,
+      "Art/2DArt/UIImages/InGame/Pantheon/CoverSmall",
+      "Stalker of the Endless Dunes",
+      "Art/2DArt/UIImages/InGame/Pantheon/SelectionFrameSmall",
+      [
+        5880
+      ],
+      [
+        5
+      ],
+      [
+        3366
+      ],
+      "",
+      [],
+      [],
+      "",
+      [],
+      [],
+      "Soul of Garukhan",
+      [
+        6
+      ],
+      1567,
+      1409,
+      72,
+      72,
+      false,
+      []
+    ],
+    [
+      "Ryslatha",
+      524,
+      664,
+      false,
+      "Art/2DArt/UIImages/InGame/Pantheon/CoverSmall",
+      "Gorulis, Will-Thief",
+      "Art/2DArt/UIImages/InGame/Pantheon/SelectionFrameSmall",
+      [
+        5877
+      ],
+      [
+        3
+      ],
+      [
+        5878
+      ],
+      "",
+      [],
+      [],
+      "",
+      [],
+      [],
+      "Soul of Ryslatha",
+      [
+        60
+      ],
+      1194,
+      1404,
+      72,
+      72,
+      false,
+      []
+    ]
+  ]
+}

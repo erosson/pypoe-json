@@ -1,0 +1,81 @@
+{
+  "filename": "DropEffects.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": "True",
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "AOFile",
+      "rowid": 1,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": true,
+      "file_ext": ".ao",
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "Red",
+      "Metadata/Effects/misc/item_filter/redItemFilter.ao"
+    ],
+    [
+      "Green",
+      "Metadata/Effects/misc/item_filter/greenItemFilter.ao"
+    ],
+    [
+      "Blue",
+      "Metadata/Effects/misc/item_filter/blueItemFilter.ao"
+    ],
+    [
+      "White",
+      "Metadata/Effects/misc/item_filter/WhiteFilter.ao"
+    ],
+    [
+      "Brown",
+      "Metadata/Effects/misc/item_filter/BrownFilter.ao"
+    ],
+    [
+      "Yellow",
+      "Metadata/Effects/misc/item_filter/yellowFilter.ao"
+    ],
+    [
+      "Cyan",
+      "Metadata/Effects/misc/item_filter/CyanFilter.ao"
+    ],
+    [
+      "Grey",
+      "Metadata/Effects/misc/item_filter/DarkGreyFilter.ao"
+    ],
+    [
+      "Orange",
+      "Metadata/Effects/misc/item_filter/OrangeFilter.ao"
+    ],
+    [
+      "Pink",
+      "Metadata/Effects/misc/item_filter/PinkFilter.ao"
+    ],
+    [
+      "Purple",
+      "Metadata/Effects/misc/item_filter/PurpleFilter.ao"
+    ]
+  ]
+}

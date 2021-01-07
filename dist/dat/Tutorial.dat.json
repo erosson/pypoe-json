@@ -1,0 +1,1293 @@
+{
+  "filename": "Tutorial.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "UIFile",
+      "rowid": 1,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": true,
+      "file_ext": ".ui",
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Key0",
+      "rowid": 2,
+      "type": "ulong",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "IsEnabled",
+      "rowid": 3,
+      "type": "bool",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown0",
+      "rowid": 4,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown1",
+      "rowid": 5,
+      "type": "ref|list|int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown2",
+      "rowid": 6,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown3",
+      "rowid": 7,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown4",
+      "rowid": 8,
+      "type": "ref|list|int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Flag0",
+      "rowid": 9,
+      "type": "bool",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Flag1",
+      "rowid": 10,
+      "type": "bool",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "SkillGemTutorial",
+      "",
+      54,
+      false,
+      0,
+      [],
+      12,
+      100,
+      [],
+      false,
+      true
+    ],
+    [
+      "LifeFlaskTutorial",
+      "",
+      54,
+      false,
+      0,
+      [],
+      23,
+      100,
+      [],
+      false,
+      true
+    ],
+    [
+      "ManaFlaskTutorial",
+      "",
+      54,
+      false,
+      0,
+      [],
+      220,
+      100,
+      [],
+      false,
+      true
+    ],
+    [
+      "SupportGemTutorial",
+      "",
+      54,
+      false,
+      0,
+      [],
+      219,
+      100,
+      [],
+      false,
+      true
+    ],
+    [
+      "PassivePointTutorial",
+      "",
+      54,
+      false,
+      0,
+      [],
+      281,
+      100,
+      [],
+      false,
+      true
+    ],
+    [
+      "SecondPassivePointTutorial",
+      "",
+      54,
+      false,
+      0,
+      [],
+      369,
+      100,
+      [],
+      false,
+      true
+    ],
+    [
+      "StashTutorial",
+      "",
+      54,
+      false,
+      0,
+      [],
+      432,
+      100,
+      [],
+      false,
+      true
+    ],
+    [
+      "OverlapMapTutorial",
+      "",
+      54,
+      false,
+      0,
+      [],
+      433,
+      100,
+      [],
+      false,
+      true
+    ],
+    [
+      "AttackInPlaceTutorial",
+      "",
+      54,
+      false,
+      0,
+      [],
+      894,
+      100,
+      [],
+      false,
+      true
+    ],
+    [
+      "WaypointTutorial",
+      "",
+      54,
+      false,
+      0,
+      [],
+      112,
+      100,
+      [],
+      false,
+      true
+    ],
+    [
+      "ItemComparisonTutorial",
+      "",
+      54,
+      false,
+      0,
+      [],
+      91,
+      100,
+      [],
+      false,
+      true
+    ],
+    [
+      "WisdomScrollTutorial",
+      "",
+      54,
+      false,
+      0,
+      [],
+      370,
+      100,
+      [],
+      false,
+      true
+    ],
+    [
+      "GemLevelUpTutorial",
+      "",
+      54,
+      false,
+      0,
+      [],
+      371,
+      100,
+      [],
+      false,
+      true
+    ],
+    [
+      "PortalScrollTutorial",
+      "",
+      54,
+      false,
+      0,
+      [],
+      1862,
+      100,
+      [],
+      false,
+      true
+    ],
+    [
+      "ReturnToCoastTutorial",
+      "",
+      54,
+      false,
+      0,
+      [],
+      1863,
+      100,
+      [],
+      false,
+      true
+    ],
+    [
+      "ShopOrCosmeticsTabOpened",
+      "",
+      54,
+      false,
+      0,
+      [],
+      1784,
+      100,
+      [],
+      false,
+      true
+    ],
+    [
+      "XboxDelveBindingTutorial",
+      "",
+      54,
+      false,
+      0,
+      [],
+      2027,
+      100,
+      [],
+      false,
+      true
+    ],
+    [
+      "AllTutorials",
+      "",
+      54,
+      false,
+      0,
+      [],
+      368,
+      100,
+      [],
+      false,
+      true
+    ],
+    [
+      "WatchstoneTutorial",
+      "",
+      54,
+      false,
+      0,
+      [],
+      1880,
+      100,
+      [],
+      false,
+      true
+    ],
+    [
+      "Example",
+      "Metadata/UI/InGameState/Tutorials/example_tutorial.ui",
+      58,
+      false,
+      0,
+      [],
+      2299,
+      100,
+      [],
+      false,
+      true
+    ],
+    [
+      "LongText",
+      "Metadata/UI/InGameState/Tutorials/longtext.ui",
+      107,
+      false,
+      0,
+      [],
+      2299,
+      100,
+      [],
+      false,
+      true
+    ],
+    [
+      "DisabledTutorialExample",
+      "Metadata/UI/InGameState/Tutorials/fplaceholder.ui",
+      90,
+      false,
+      0,
+      [],
+      2299,
+      100,
+      [],
+      false,
+      true
+    ],
+    [
+      "HeapsOfPictures",
+      "Metadata/UI/InGameState/Tutorials/heapsofpictures.ui",
+      166,
+      false,
+      0,
+      [],
+      2299,
+      100,
+      [],
+      false,
+      true
+    ],
+    [
+      "HelpPanelIntro",
+      "Metadata/UI/InGameState/TutorialPanel/TheHelpPanel.ui",
+      3616,
+      true,
+      2,
+      [
+        125
+      ],
+      1761,
+      3,
+      [],
+      false,
+      true
+    ],
+    [
+      "SkillGemBasics",
+      "Metadata/UI/InGameState/TutorialPanel/SkillGemBasics.ui",
+      3046,
+      true,
+      2,
+      [
+        125
+      ],
+      1719,
+      3,
+      [],
+      false,
+      false
+    ],
+    [
+      "SupportGemRequirements",
+      "Metadata/UI/InGameState/TutorialPanel/SupportGems.ui",
+      3022,
+      true,
+      2,
+      [
+        125
+      ],
+      1720,
+      3,
+      [],
+      false,
+      false
+    ],
+    [
+      "PassiveTree",
+      "Metadata/UI/InGameState/TutorialPanel/PassiveSkillTree.ui",
+      3055,
+      true,
+      2,
+      [
+        125
+      ],
+      1721,
+      4,
+      [],
+      false,
+      false
+    ],
+    [
+      "Rarities",
+      "Metadata/UI/InGameState/TutorialPanel/Rarity.ui",
+      3015,
+      true,
+      2,
+      [
+        129
+      ],
+      1722,
+      4,
+      [],
+      false,
+      false
+    ],
+    [
+      "StatsAndMods1",
+      "Metadata/UI/InGameState/TutorialPanel/StatsAndModsCalculations.ui",
+      3016,
+      true,
+      2,
+      [
+        129
+      ],
+      1723,
+      6,
+      [],
+      false,
+      false
+    ],
+    [
+      "StatsAndMods2",
+      "Metadata/UI/InGameState/TutorialPanel/StatsAndModsWhatsImportant.ui",
+      3017,
+      true,
+      2,
+      [
+        1723
+      ],
+      1724,
+      10,
+      [],
+      false,
+      false
+    ],
+    [
+      "Flasks",
+      "Metadata/UI/InGameState/TutorialPanel/Flasks.ui",
+      3123,
+      true,
+      2,
+      [
+        43
+      ],
+      1726,
+      10,
+      [],
+      false,
+      true
+    ],
+    [
+      "Stash",
+      "Metadata/UI/InGameState/TutorialPanel/Stash.ui",
+      3019,
+      true,
+      3,
+      [
+        125
+      ],
+      1725,
+      7,
+      [],
+      false,
+      false
+    ],
+    [
+      "Navigation",
+      "Metadata/UI/InGameState/TutorialPanel/Navigation.ui",
+      3020,
+      true,
+      3,
+      [
+        1771
+      ],
+      1727,
+      7,
+      [],
+      false,
+      true
+    ],
+    [
+      "StatusAilments",
+      "Metadata/UI/InGameState/TutorialPanel/StatusAilments.ui",
+      3018,
+      true,
+      3,
+      [
+        1772
+      ],
+      1728,
+      10,
+      [],
+      false,
+      false
+    ],
+    [
+      "Strongboxes",
+      "Metadata/UI/InGameState/TutorialPanel/Strongboxes.ui",
+      3120,
+      true,
+      2,
+      [
+        1785
+      ],
+      1756,
+      25,
+      [],
+      false,
+      true
+    ],
+    [
+      "Prophecies",
+      "Metadata/UI/InGameState/TutorialPanel/Prophecies.ui",
+      3021,
+      true,
+      4,
+      [
+        134
+      ],
+      1730,
+      15,
+      [
+        287
+      ],
+      false,
+      true
+    ],
+    [
+      "CraftingAndCurrency",
+      "Metadata/UI/InGameState/TutorialPanel/CraftingAndCurrency.ui",
+      3023,
+      true,
+      3,
+      [
+        1774,
+        6
+      ],
+      1731,
+      10,
+      [],
+      false,
+      false
+    ],
+    [
+      "AurasAndHeralds",
+      "Metadata/UI/InGameState/TutorialPanel/AurasAndHeralds.ui",
+      3026,
+      true,
+      10,
+      [
+        151,
+        1775
+      ],
+      1733,
+      20,
+      [],
+      false,
+      true
+    ],
+    [
+      "Jewels",
+      "Metadata/UI/InGameState/TutorialPanel/Jewels.ui",
+      3027,
+      true,
+      5,
+      [
+        1776,
+        151,
+        825
+      ],
+      1734,
+      90,
+      [],
+      false,
+      true
+    ],
+    [
+      "Essences",
+      "Metadata/UI/InGameState/TutorialPanel/Essences.ui",
+      3738,
+      true,
+      2,
+      [
+        1938
+      ],
+      1939,
+      90,
+      [],
+      false,
+      true
+    ],
+    [
+      "ForsakenMasters",
+      "Metadata/UI/InGameState/TutorialPanel/ForsakenMasters.ui",
+      3028,
+      false,
+      3,
+      [
+        151
+      ],
+      1735,
+      25,
+      [],
+      false,
+      true
+    ],
+    [
+      "Hideouts",
+      "Metadata/UI/InGameState/TutorialPanel/Hideouts.ui",
+      3029,
+      false,
+      13,
+      [
+        151
+      ],
+      1736,
+      43,
+      [
+        200
+      ],
+      false,
+      true
+    ],
+    [
+      "TheLabyrinth",
+      "Metadata/UI/InGameState/TutorialPanel/Labyrinth.ui",
+      3087,
+      true,
+      7,
+      [
+        938
+      ],
+      1738,
+      28,
+      [],
+      false,
+      true
+    ],
+    [
+      "Ascendancies",
+      "Metadata/UI/InGameState/TutorialPanel/Ascendancies.ui",
+      3031,
+      true,
+      20,
+      [
+        898
+      ],
+      1739,
+      45,
+      [],
+      false,
+      true
+    ],
+    [
+      "Delve",
+      "Metadata/UI/InGameState/TutorialPanel/Delve.ui",
+      4246,
+      true,
+      25,
+      [],
+      2024,
+      90,
+      [
+        9
+      ],
+      false,
+      true
+    ],
+    [
+      "Incursion",
+      "Metadata/UI/InGameState/TutorialPanel/Incursion.ui",
+      4077,
+      true,
+      45,
+      [
+        1963
+      ],
+      2299,
+      90,
+      [],
+      false,
+      true
+    ],
+    [
+      "Bestiary",
+      "Metadata/UI/InGameState/TutorialPanel/Bestiary.ui",
+      3961,
+      false,
+      2,
+      [],
+      1940,
+      90,
+      [
+        112
+      ],
+      false,
+      true
+    ],
+    [
+      "Pantheon",
+      "Metadata/UI/InGameState/TutorialPanel/Pantheon.ui",
+      3036,
+      true,
+      40,
+      [
+        1176
+      ],
+      1744,
+      90,
+      [],
+      false,
+      true
+    ],
+    [
+      "Harbinger",
+      "Metadata/UI/InGameState/TutorialPanel/Harbinger.ui",
+      3669,
+      false,
+      60,
+      [
+        1786
+      ],
+      1751,
+      90,
+      [],
+      false,
+      true
+    ],
+    [
+      "Abyss",
+      "Metadata/UI/InGameState/TutorialPanel/Abyss.ui",
+      3788,
+      true,
+      30,
+      [
+        480
+      ],
+      1879,
+      90,
+      [],
+      false,
+      true
+    ],
+    [
+      "VeiledItems",
+      "Metadata/UI/InGameState/TutorialPanel/VeiledItems.ui",
+      4756,
+      true,
+      50,
+      [],
+      2146,
+      70,
+      [
+        93
+      ],
+      false,
+      true
+    ],
+    [
+      "VendorRecipes",
+      "Metadata/UI/InGameState/TutorialPanel/VendorRecipes.ui",
+      3075,
+      true,
+      4,
+      [
+        378
+      ],
+      1737,
+      90,
+      [],
+      false,
+      true
+    ],
+    [
+      "ParentLeaguesAndSSF",
+      "Metadata/UI/InGameState/TutorialPanel/ParentLeaguesAndSSF.ui",
+      3032,
+      true,
+      15,
+      [],
+      1740,
+      30,
+      [],
+      false,
+      false
+    ],
+    [
+      "ChallengeLeagues",
+      "Metadata/UI/InGameState/TutorialPanel/ChallengeLeagues.ui",
+      3033,
+      true,
+      15,
+      [],
+      1741,
+      35,
+      [],
+      false,
+      false
+    ],
+    [
+      "HelpfulTips",
+      "Metadata/UI/InGameState/TutorialPanel/HelpfulTipsPC.ui",
+      3025,
+      true,
+      12,
+      [],
+      1732,
+      20,
+      [],
+      false,
+      false
+    ],
+    [
+      "SocialPanel",
+      "Metadata/UI/InGameState/TutorialPanel/Social.ui",
+      2991,
+      true,
+      7,
+      [],
+      1729,
+      25,
+      [],
+      true,
+      false
+    ],
+    [
+      "DivinationCards",
+      "Metadata/UI/InGameState/TutorialPanel/DivinationCards.ui",
+      3034,
+      true,
+      15,
+      [
+        1777,
+        775
+      ],
+      1742,
+      50,
+      [],
+      false,
+      true
+    ],
+    [
+      "Microtransactions",
+      "Metadata/UI/InGameState/TutorialPanel/ShopMicrotransactions.ui",
+      3035,
+      true,
+      10,
+      [
+        1041,
+        1784
+      ],
+      1743,
+      90,
+      [],
+      false,
+      false
+    ],
+    [
+      "Mapping",
+      "Metadata/UI/InGameState/TutorialPanel/Mapping.ui",
+      3037,
+      false,
+      55,
+      [
+        1783
+      ],
+      1745,
+      75,
+      [
+        7
+      ],
+      false,
+      true
+    ],
+    [
+      "AtlasObjectives",
+      "Metadata/UI/InGameState/TutorialPanel/AtlasObjectives.ui",
+      4755,
+      false,
+      60,
+      [],
+      2147,
+      72,
+      [
+        295
+      ],
+      false,
+      false
+    ],
+    [
+      "Ladders",
+      "Metadata/UI/InGameState/TutorialPanel/Ladders.ui",
+      3038,
+      false,
+      8,
+      [
+        151
+      ],
+      2299,
+      8,
+      [],
+      false,
+      true
+    ],
+    [
+      "Races",
+      "Metadata/UI/InGameState/TutorialPanel/Races.ui",
+      3039,
+      false,
+      8,
+      [
+        151
+      ],
+      2299,
+      8,
+      [],
+      false,
+      true
+    ],
+    [
+      "PvP",
+      "Metadata/UI/InGameState/TutorialPanel/PvP.ui",
+      3040,
+      false,
+      20,
+      [],
+      1746,
+      27,
+      [],
+      true,
+      true
+    ],
+    [
+      "Atziri",
+      "Metadata/UI/InGameState/TutorialPanel/Atziri.ui",
+      3041,
+      false,
+      60,
+      [
+        151
+      ],
+      2299,
+      75,
+      [],
+      false,
+      true
+    ],
+    [
+      "Curses",
+      "Metadata/UI/InGameState/TutorialPanel/Curses.ui",
+      3042,
+      false,
+      10,
+      [
+        1773
+      ],
+      1747,
+      25,
+      [],
+      false,
+      true
+    ],
+    [
+      "Warcries",
+      "Metadata/UI/InGameState/TutorialPanel/Warcries.ui",
+      3043,
+      false,
+      20,
+      [
+        1778
+      ],
+      1748,
+      40,
+      [],
+      false,
+      true
+    ],
+    [
+      "Minions",
+      "Metadata/UI/InGameState/TutorialPanel/Minions.ui",
+      3044,
+      false,
+      4,
+      [
+        1779
+      ],
+      1749,
+      40,
+      [],
+      false,
+      true
+    ],
+    [
+      "Glossary",
+      "Metadata/UI/InGameState/TutorialPanel/Glossary.ui",
+      3045,
+      true,
+      2,
+      [],
+      125,
+      2,
+      [],
+      false,
+      false
+    ],
+    [
+      "CustomerSupport",
+      "Metadata/UI/InGameState/TutorialPanel/CustomerSupport.ui",
+      3030,
+      true,
+      2,
+      [],
+      125,
+      2,
+      [],
+      false,
+      false
+    ],
+    [
+      "TrapsAndMines",
+      "Metadata/UI/InGameState/TutorialPanel/TrapsMinesTotems.ui",
+      3115,
+      false,
+      2,
+      [
+        1780
+      ],
+      2299,
+      10,
+      [],
+      false,
+      true
+    ],
+    [
+      "UpcomingContent",
+      "Metadata/UI/InGameState/Tutorials/example_tutorial.ui",
+      3116,
+      false,
+      2,
+      [],
+      2299,
+      10,
+      [],
+      false,
+      true
+    ],
+    [
+      "DamageTypesAndConversion",
+      "Metadata/UI/InGameState/TutorialPanel/Damage.ui",
+      3117,
+      false,
+      2,
+      [],
+      2299,
+      10,
+      [],
+      false,
+      true
+    ],
+    [
+      "Defenses",
+      "Metadata/UI/InGameState/TutorialPanel/Defenses.ui",
+      3118,
+      false,
+      2,
+      [],
+      2299,
+      10,
+      [],
+      false,
+      true
+    ],
+    [
+      "Corruption",
+      "Metadata/UI/InGameState/TutorialPanel/Corruption.ui",
+      3119,
+      false,
+      2,
+      [
+        1782
+      ],
+      2299,
+      10,
+      [],
+      false,
+      true
+    ],
+    [
+      "OtherCombatMechanics",
+      "Metadata/UI/InGameState/TutorialPanel/OtherCombatMechanics.ui",
+      3121,
+      false,
+      2,
+      [],
+      2299,
+      10,
+      [],
+      false,
+      true
+    ],
+    [
+      "TormentedSpirits",
+      "Metadata/UI/InGameState/TutorialPanel/TormentedSpirits.ui",
+      3122,
+      false,
+      2,
+      [],
+      2299,
+      10,
+      [],
+      false,
+      true
+    ],
+    [
+      "Breaches",
+      "Metadata/UI/InGameState/TutorialPanel/Breaches.ui",
+      3739,
+      false,
+      2,
+      [],
+      2299,
+      10,
+      [],
+      false,
+      true
+    ],
+    [
+      "CurrentLeague",
+      "Metadata/UI/InGameState/Tutorials/example_tutorial.ui",
+      3124,
+      false,
+      0,
+      [],
+      2299,
+      100,
+      [],
+      false,
+      true
+    ],
+    [
+      "HidePopups",
+      "",
+      54,
+      false,
+      0,
+      [],
+      714,
+      100,
+      [],
+      false,
+      false
+    ]
+  ]
+}

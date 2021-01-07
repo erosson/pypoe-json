@@ -1,0 +1,101 @@
+{
+  "filename": "DelveCraftingTags.dat",
+  "header": [
+    {
+      "name": "TagsKey",
+      "rowid": 0,
+      "type": "ulong",
+      "key": "Tags.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "ItemClass",
+      "rowid": 1,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      8,
+      "Weapons"
+    ],
+    [
+      134,
+      "Jewels"
+    ],
+    [
+      16,
+      "Body Armour"
+    ],
+    [
+      1,
+      "Shields"
+    ],
+    [
+      25,
+      "Helmets"
+    ],
+    [
+      22,
+      "Gloves"
+    ],
+    [
+      4,
+      "Boots"
+    ],
+    [
+      57,
+      "Maps"
+    ],
+    [
+      3,
+      "Amulets"
+    ],
+    [
+      26,
+      "Belts"
+    ],
+    [
+      2,
+      "Rings"
+    ],
+    [
+      21,
+      "Quivers"
+    ],
+    [
+      238,
+      "Abyss Jewels"
+    ],
+    [
+      632,
+      "Contracts"
+    ],
+    [
+      672,
+      "Blueprints"
+    ],
+    [
+      683,
+      "Heist Equipment"
+    ]
+  ]
+}

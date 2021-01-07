@@ -1,0 +1,1450 @@
+{
+  "filename": "RecipeUnlockDisplay.dat",
+  "header": [
+    {
+      "name": "RecipeId",
+      "rowid": 0,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Description",
+      "rowid": 1,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "CraftingItemClassCategoriesKeys",
+      "rowid": 2,
+      "type": "ref|list|ulong",
+      "key": "CraftingItemClassCategories.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "UnlockDescription",
+      "rowid": 3,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Rank",
+      "rowid": 4,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      146,
+      "Movement Speed - Rank 1",
+      [
+        8
+      ],
+      "The Caverns",
+      1
+    ],
+    [
+      161,
+      "Spell Damage - Rank 1",
+      [
+        0,
+        1,
+        2,
+        3
+      ],
+      "The Ancient Pyramid",
+      1
+    ],
+    [
+      158,
+      "Physical Damage - Rank 1",
+      [
+        0,
+        1,
+        2,
+        3,
+        4,
+        7,
+        9,
+        10,
+        13
+      ],
+      "The Sewers",
+      1
+    ],
+    [
+      170,
+      "Fire Damage - Rank 1",
+      [
+        0,
+        1,
+        2,
+        3,
+        7,
+        9,
+        10,
+        13
+      ],
+      "The Crematorium",
+      1
+    ],
+    [
+      173,
+      "Cold Damage - Rank 1",
+      [
+        0,
+        1,
+        2,
+        3,
+        7,
+        9,
+        10,
+        13
+      ],
+      "The Solaris Temple Level 2",
+      1
+    ],
+    [
+      176,
+      "Lightning Damage - Rank 1",
+      [
+        0,
+        1,
+        2,
+        3,
+        7,
+        9,
+        10,
+        13
+      ],
+      "The Lunaris Temple Level 2",
+      1
+    ],
+    [
+      133,
+      "Elemental Resistances - Rank 2",
+      [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        13
+      ],
+      "The Crystal Veins",
+      2
+    ],
+    [
+      141,
+      "Attributes - Rank 2",
+      [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        13
+      ],
+      "The Ascent",
+      2
+    ],
+    [
+      168,
+      "Attack, Cast and Warcry Speed - Rank 1",
+      [
+        0,
+        1,
+        2,
+        3,
+        4,
+        7,
+        9,
+        10
+      ],
+      "The Dried Lake",
+      1
+    ],
+    [
+      180,
+      "Chaos Damage - Rank 1",
+      [
+        0,
+        1,
+        2,
+        3,
+        7,
+        9,
+        10,
+        13
+      ],
+      "The Belly of the Beast Level 2",
+      1
+    ],
+    [
+      147,
+      "Movement Speed and Exerted Attacks - Rank 2",
+      [
+        8,
+        9,
+        10,
+        11
+      ],
+      "The Chamber of Innocence",
+      2
+    ],
+    [
+      159,
+      "Physical Damage - Rank 2",
+      [
+        0,
+        1,
+        2,
+        3,
+        4,
+        9,
+        10
+      ],
+      "The Ossuary",
+      2
+    ],
+    [
+      183,
+      "Accuracy - Rank 1",
+      [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        7,
+        9,
+        10,
+        13
+      ],
+      "The Reliquary",
+      1
+    ],
+    [
+      142,
+      "Attributes - Rank 3",
+      [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        13
+      ],
+      "The Western Forest",
+      3
+    ],
+    [
+      149,
+      "Life and Mana - Rank 2",
+      [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        13
+      ],
+      "The Beacon",
+      2
+    ],
+    [
+      162,
+      "Spell Damage - Rank 2",
+      [
+        0,
+        1,
+        2,
+        3
+      ],
+      "Shavronne's Tower",
+      2
+    ],
+    [
+      187,
+      "Defences - Rank 1",
+      [
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "The Karui Fortress",
+      1
+    ],
+    [
+      171,
+      "Fire Damage - Rank 2",
+      [
+        0,
+        1,
+        2,
+        3,
+        9,
+        10
+      ],
+      "The Dread Thicket",
+      2
+    ],
+    [
+      174,
+      "Cold Damage - Rank 2",
+      [
+        0,
+        1,
+        2,
+        3,
+        9,
+        10
+      ],
+      "The Causeway",
+      2
+    ],
+    [
+      178,
+      "Lightning Damage - Rank 2",
+      [
+        0,
+        1,
+        2,
+        3,
+        9,
+        10
+      ],
+      "The Chamber of Sins Level 1",
+      2
+    ],
+    [
+      185,
+      "Accuracy - Rank 2",
+      [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        7,
+        9,
+        10,
+        13
+      ],
+      "The Temple of Decay Level 2",
+      2
+    ],
+    [
+      135,
+      "Elemental Resistances - Rank 3",
+      [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        13
+      ],
+      "Doedre's Cesspool",
+      3
+    ],
+    [
+      228,
+      "Minions - Rank 1",
+      [
+        0,
+        1,
+        2,
+        3,
+        5,
+        7,
+        9,
+        10
+      ],
+      "The Lunaris Temple Level 2",
+      1
+    ],
+    [
+      230,
+      "Traps and Mines - Rank 1",
+      [
+        0,
+        1,
+        2,
+        3
+      ],
+      "The Solaris Temple Level 2",
+      1
+    ],
+    [
+      160,
+      "Physical Damage - Rank 3",
+      [
+        0,
+        1,
+        2,
+        3
+      ],
+      "The Quarry",
+      3
+    ],
+    [
+      163,
+      "Spell Damage - Rank 3",
+      [
+        0,
+        1,
+        2,
+        3
+      ],
+      "The Boiling Lake",
+      3
+    ],
+    [
+      169,
+      "Attack and Cast Speed - Rank 2",
+      [
+        0,
+        1,
+        2,
+        3,
+        4,
+        10
+      ],
+      "The Vastiri Desert",
+      2
+    ],
+    [
+      150,
+      "Life and Mana - Rank 3",
+      [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        13
+      ],
+      "The Desecrated Chambers",
+      3
+    ],
+    [
+      181,
+      "Chaos Damage - Rank 2",
+      [
+        0,
+        1,
+        2,
+        3,
+        9,
+        10
+      ],
+      "The Ossuary",
+      2
+    ],
+    [
+      188,
+      "Defences - Rank 2",
+      [
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "The Feeding Trough",
+      2
+    ],
+    [
+      148,
+      "Movement Speed - Rank 3",
+      [
+        8
+      ],
+      "Epilogue",
+      3
+    ],
+    [
+      139,
+      "All Resistances - Rank 1",
+      [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        13
+      ],
+      "Aspirant's Trial",
+      1
+    ],
+    [
+      137,
+      "Double Resistances - Rank 2",
+      [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        13
+      ],
+      "Cruel Aspirant's Trial",
+      2
+    ],
+    [
+      138,
+      "Double Resistances - Rank 3",
+      [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        13
+      ],
+      "Merciless Aspirant's Trial",
+      3
+    ],
+    [
+      140,
+      "All Resistances - Rank 2",
+      [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        13
+      ],
+      "Eternal Aspirant's Trial",
+      2
+    ],
+    [
+      166,
+      "Elemental Damage with Attacks - Rank 1",
+      [
+        0,
+        1,
+        2,
+        3,
+        9,
+        10,
+        11,
+        13
+      ],
+      "Labyrinth Trial in The Catacombs",
+      1
+    ],
+    [
+      144,
+      "All Attributes - Rank 1",
+      [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        13
+      ],
+      "Labyrinth Trial in The Imperial Gardens",
+      1
+    ],
+    [
+      136,
+      "Double Resistances - Rank 1",
+      [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        13
+      ],
+      "Labyrinth Trial in The Lower Prison",
+      1
+    ],
+    [
+      164,
+      "Damage over Time - Rank 1",
+      [
+        0,
+        1,
+        2,
+        3
+      ],
+      "Labyrinth Trial in The Crypt",
+      1
+    ],
+    [
+      156,
+      "Mana Regen - Rank 1",
+      [
+        0,
+        1,
+        2,
+        3,
+        4,
+        9,
+        10
+      ],
+      "Labyrinth Trial in The Chamber of Sins Level 2",
+      1
+    ],
+    [
+      192,
+      "Flask Duration - Rank 1",
+      [
+        11
+      ],
+      "Labyrinth Trial in The Bath House",
+      1
+    ],
+    [
+      145,
+      "All Attributes - Rank 2",
+      [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        13
+      ],
+      "Labyrinth Trial in The Tunnel",
+      2
+    ],
+    [
+      234,
+      "Socket Numbers - 2 or 3 Sockets",
+      [
+        0,
+        1,
+        2,
+        3,
+        6,
+        7,
+        8,
+        5,
+        4
+      ],
+      "First Azurite Cavity in the Azurite Mine",
+      0
+    ],
+    [
+      236,
+      "Socket Numbers - 4 Sockets",
+      [
+        0,
+        1,
+        2,
+        3,
+        6,
+        7,
+        8,
+        5,
+        4
+      ],
+      "Azurite Vault in the Azurite Mine",
+      0
+    ],
+    [
+      237,
+      "Socket Numbers - 5 Sockets",
+      [
+        0,
+        1,
+        2,
+        3,
+        6,
+        7,
+        8,
+        5,
+        4
+      ],
+      "Azurite Fissure in the Azurite Mine",
+      0
+    ],
+    [
+      238,
+      "Socket Numbers - 6 Sockets",
+      [
+        0,
+        1,
+        2,
+        3,
+        6,
+        7,
+        8,
+        5,
+        4
+      ],
+      "Abyssal Chamber in the Azurite Mine",
+      0
+    ],
+    [
+      239,
+      "Socket Links - 2 Linked Sockets",
+      [
+        0,
+        1,
+        2,
+        3,
+        6,
+        7,
+        8,
+        5,
+        4
+      ],
+      "Howling Den in the Azurite Mine",
+      0
+    ],
+    [
+      240,
+      "Socket Links - 3 Linked Sockets",
+      [
+        0,
+        1,
+        2,
+        3,
+        6,
+        7,
+        8,
+        5,
+        4
+      ],
+      "Sweltering Burrow in the Azurite Mine",
+      0
+    ],
+    [
+      241,
+      "Socket Links - 4 Linked Sockets",
+      [
+        0,
+        1,
+        2,
+        3,
+        6,
+        7,
+        8,
+        5,
+        4
+      ],
+      "Beast Burrow in the Azurite Mine",
+      0
+    ],
+    [
+      242,
+      "Socket Links - 5 Linked Sockets",
+      [
+        0,
+        1,
+        2,
+        3,
+        6,
+        7,
+        8,
+        5,
+        4
+      ],
+      "Haunted Remains in the Azurite Mine",
+      0
+    ],
+    [
+      243,
+      "Socket Links - 6 Linked Sockets",
+      [
+        0,
+        1,
+        2,
+        3,
+        6,
+        7,
+        8,
+        5,
+        4
+      ],
+      "Primeval Chamber in the Azurite Mine",
+      0
+    ],
+    [
+      245,
+      "Socket Colours - 1 or 2 Colours",
+      [
+        0,
+        1,
+        2,
+        3,
+        6,
+        7,
+        8,
+        5,
+        4,
+        9,
+        10
+      ],
+      "Azurite Cavity in the Azurite Mine",
+      0
+    ],
+    [
+      246,
+      "Socket Colours - 3 Colours",
+      [
+        0,
+        1,
+        2,
+        3,
+        6,
+        7,
+        8,
+        5,
+        4
+      ],
+      "Ruined Chamber in the Azurite Mine",
+      0
+    ],
+    [
+      151,
+      "Life and Mana - Rank 4",
+      [
+        0,
+        1,
+        2,
+        3,
+        6,
+        7,
+        8,
+        5,
+        4
+      ],
+      "Plateau Map",
+      4
+    ],
+    [
+      196,
+      "Block and Dodge - Rank 1",
+      [
+        4
+      ],
+      "Dig Map",
+      1
+    ],
+    [
+      193,
+      "Flask Duration - Rank 2",
+      [
+        11
+      ],
+      "Carcass Map",
+      2
+    ],
+    [
+      195,
+      "Avoidance - Rank 2",
+      [
+        5,
+        7,
+        8
+      ],
+      "Siege Map",
+      2
+    ],
+    [
+      191,
+      "Criticals - Rank 2",
+      [
+        0,
+        1,
+        2,
+        3,
+        10,
+        13
+      ],
+      "Port Map",
+      2
+    ],
+    [
+      199,
+      "Energy Shield Recharge - Rank 2",
+      [
+        9
+      ],
+      "Belfry Map",
+      2
+    ],
+    [
+      197,
+      "Block and Dodge - Rank 2",
+      [
+        4
+      ],
+      "Dark Forest Map",
+      2
+    ],
+    [
+      253,
+      "Global Energy Shield - Rank 2",
+      [
+        10,
+        9
+      ],
+      "Lava Lake Map",
+      2
+    ],
+    [
+      172,
+      "Fire Damage - Rank 3",
+      [
+        0,
+        1,
+        2,
+        3
+      ],
+      "Excavation Map",
+      3
+    ],
+    [
+      190,
+      "Criticals - Rank 1",
+      [
+        0,
+        1,
+        2,
+        3,
+        10,
+        13
+      ],
+      "Dungeon Map",
+      1
+    ],
+    [
+      175,
+      "Cold Damage - Rank 3",
+      [
+        0,
+        1,
+        2,
+        3
+      ],
+      "Arid Lake Map",
+      3
+    ],
+    [
+      179,
+      "Lightning Damage - Rank 3",
+      [
+        0,
+        1,
+        2,
+        3
+      ],
+      "Beach Map",
+      3
+    ],
+    [
+      198,
+      "Energy Shield Recharge - Rank 1",
+      [
+        9
+      ],
+      "Lookout Map",
+      1
+    ],
+    [
+      157,
+      "Mana Regen - Rank 2",
+      [
+        0,
+        1,
+        2,
+        3,
+        9,
+        10,
+        4
+      ],
+      "Pen Map",
+      2
+    ],
+    [
+      165,
+      "Damage over Time - Rank 2",
+      [
+        0,
+        1,
+        2,
+        3
+      ],
+      "Castle Ruins Map",
+      2
+    ],
+    [
+      229,
+      "Minions - Rank 2",
+      [
+        0,
+        1,
+        2,
+        3,
+        7,
+        5,
+        9,
+        10
+      ],
+      "Burial Chambers Map",
+      2
+    ],
+    [
+      167,
+      "Elemental Damage with Attacks - Rank 2",
+      [
+        0,
+        1,
+        2,
+        3,
+        9,
+        10,
+        11,
+        13
+      ],
+      "Academy Map",
+      2
+    ],
+    [
+      194,
+      "Avoidance - Rank 1",
+      [
+        5,
+        7,
+        8
+      ],
+      "Bazaar Map",
+      1
+    ],
+    [
+      189,
+      "Defences - Rank 3",
+      [
+        6,
+        8,
+        7,
+        5,
+        4
+      ],
+      "Waterways Map",
+      3
+    ],
+    [
+      252,
+      "Global Energy Shield - Rank 1",
+      [
+        10,
+        9
+      ],
+      "Laboratory Map",
+      1
+    ],
+    [
+      261,
+      "Physical Damage - Rank 4",
+      [
+        0,
+        1,
+        2,
+        3
+      ],
+      "Relic Chambers Map",
+      4
+    ],
+    [
+      262,
+      "Spell Damage - Rank 4",
+      [
+        0,
+        1,
+        2,
+        3
+      ],
+      "Desert Spring Map",
+      4
+    ],
+    [
+      109,
+      "Attack and Cast Speed - Rank 3",
+      [
+        0,
+        1,
+        2,
+        3
+      ],
+      "Crimson Temple Map",
+      3
+    ],
+    [
+      153,
+      "Life - Rank 5",
+      [
+        6
+      ],
+      "Cage Map",
+      5
+    ],
+    [
+      154,
+      "Leech - Rank 1",
+      [
+        0,
+        1,
+        2,
+        3,
+        7,
+        9,
+        10,
+        13
+      ],
+      "Atoll Map",
+      1
+    ],
+    [
+      155,
+      "Leech - Rank 2",
+      [
+        0,
+        1,
+        2,
+        3,
+        7,
+        10
+      ],
+      "The Temple of Atzoatl - Pools of Restoration, Sanctum of Vitality or Sanctum of Immortality",
+      2
+    ],
+    [
+      182,
+      "Chaos Damage - Rank 3",
+      [
+        0,
+        1,
+        2,
+        3
+      ],
+      "The Temple of Atzoatl - Poison Garden, Cultivar Chamber or Toxic Grove",
+      3
+    ],
+    [
+      186,
+      "Accuracy - Rank 3",
+      [
+        0,
+        1,
+        2,
+        3,
+        4,
+        7,
+        5,
+        9,
+        10,
+        13
+      ],
+      "The Temple of Atzoatl - Sparring Room, Arena of Valour or Hall of Champions",
+      3
+    ],
+    [
+      226,
+      "Reduced Damage over Time",
+      [
+        4
+      ],
+      "The Temple of Atzoatl - Corruption Chamber, Catalyst of Corruption or Locus of Corruption",
+      0
+    ],
+    [
+      227,
+      "Animated Guardian and Light Radius",
+      [
+        6
+      ],
+      "The Temple of Atzoatl - Armourer's Workshop, Armoury or Chamber of Iron",
+      0
+    ],
+    [
+      231,
+      "Traps and Mines - Rank 2",
+      [
+        0,
+        1,
+        2,
+        3
+      ],
+      "The Temple of Atzoatl - Trap Workshop, Temple Defense Workshop or Defense Research Lab",
+      2
+    ],
+    [
+      254,
+      "Criticals - Rank 3",
+      [
+        0,
+        1,
+        2,
+        3
+      ],
+      "The Temple of Atzoatl - Workshop, Engineering Department or Factory",
+      3
+    ],
+    [
+      255,
+      "Minions - Rank 3",
+      [
+        0,
+        1,
+        2,
+        3
+      ],
+      "The Temple of Atzoatl - Hatchery, Automaton Lab or Hybridisation Chamber",
+      3
+    ],
+    [
+      249,
+      "Prefixes cannot be Changed",
+      [
+        0,
+        1,
+        2,
+        3,
+        6,
+        7,
+        8,
+        5,
+        4,
+        9,
+        10,
+        11,
+        13
+      ],
+      "Unbearable Whispers V Prophecy",
+      0
+    ],
+    [
+      250,
+      "Suffixes cannot be Changed",
+      [
+        0,
+        1,
+        2,
+        3,
+        6,
+        7,
+        8,
+        5,
+        4,
+        9,
+        10,
+        11,
+        13
+      ],
+      "The Unbreathing Queen V Prophecy",
+      0
+    ],
+    [
+      251,
+      "Can have up to 3 Crafted Modifiers",
+      [
+        0,
+        1,
+        2,
+        3,
+        6,
+        7,
+        8,
+        5,
+        4,
+        9,
+        10,
+        11,
+        13
+      ],
+      "The Pale Court",
+      0
+    ],
+    [
+      247,
+      "Cannot roll Attack Mods",
+      [
+        0,
+        1,
+        2,
+        3,
+        6,
+        7,
+        8,
+        5,
+        4,
+        9,
+        10,
+        11,
+        13
+      ],
+      "The Plaguemaw V Prophecy",
+      0
+    ],
+    [
+      248,
+      "Cannot roll Caster Mods",
+      [
+        0,
+        1,
+        2,
+        3,
+        6,
+        7,
+        8,
+        5,
+        4,
+        9,
+        10,
+        11,
+        13
+      ],
+      "The Feral Lord V Prophecy",
+      0
+    ]
+  ]
+}

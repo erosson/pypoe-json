@@ -1,0 +1,445 @@
+{
+  "filename": "TreasureHunterMissions.dat",
+  "header": [
+    {
+      "name": "Unknown0",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown1",
+      "rowid": 1,
+      "type": "ulong",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown3",
+      "rowid": 2,
+      "type": "ulong",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown5",
+      "rowid": 3,
+      "type": "ref|list|ulong",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown7",
+      "rowid": 4,
+      "type": "ref|list|ulong",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown9",
+      "rowid": 5,
+      "type": "ref|list|ulong",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown11",
+      "rowid": 6,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown12",
+      "rowid": 7,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown13",
+      "rowid": 8,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown14",
+      "rowid": 9,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown15",
+      "rowid": 10,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown19",
+      "rowid": 11,
+      "type": "byte",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown16",
+      "rowid": 12,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown17",
+      "rowid": 13,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown18",
+      "rowid": 14,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "ShipGraveyardChest1",
+      473,
+      1462,
+      [
+        598,
+        169
+      ],
+      [
+        171
+      ],
+      [],
+      1,
+      0,
+      0,
+      74,
+      74,
+      74,
+      0,
+      1,
+      1
+    ],
+    [
+      "ShipGraveyardChest2",
+      474,
+      1462,
+      [
+        167,
+        169
+      ],
+      [
+        171
+      ],
+      [],
+      1,
+      0,
+      0,
+      74,
+      74,
+      74,
+      0,
+      1,
+      2
+    ],
+    [
+      "ShipGraveyardChest3",
+      475,
+      1462,
+      [
+        598,
+        168
+      ],
+      [
+        170,
+        171
+      ],
+      [
+        172
+      ],
+      1,
+      0,
+      0,
+      74,
+      74,
+      -30,
+      0,
+      2,
+      4
+    ],
+    [
+      "ShipGraveyardChest4",
+      476,
+      1462,
+      [
+        167,
+        168,
+        169
+      ],
+      [
+        170,
+        171
+      ],
+      [
+        172
+      ],
+      1,
+      0,
+      0,
+      74,
+      74,
+      -30,
+      0,
+      3,
+      4
+    ],
+    [
+      "ShipGraveyardChest5",
+      478,
+      1462,
+      [
+        167,
+        168,
+        169
+      ],
+      [
+        170,
+        171
+      ],
+      [
+        173
+      ],
+      1,
+      0,
+      0,
+      74,
+      74,
+      74,
+      0,
+      4,
+      4
+    ],
+    [
+      "CryptChest1",
+      473,
+      null,
+      [
+        521
+      ],
+      [
+        455
+      ],
+      [
+        1
+      ],
+      1,
+      0,
+      0,
+      74,
+      74,
+      74,
+      0,
+      1,
+      1
+    ],
+    [
+      "CryptChest2",
+      474,
+      null,
+      [
+        521
+      ],
+      [
+        455
+      ],
+      [
+        1
+      ],
+      1,
+      0,
+      0,
+      74,
+      74,
+      74,
+      0,
+      1,
+      1
+    ],
+    [
+      "CryptChest3",
+      475,
+      null,
+      [
+        521
+      ],
+      [
+        455
+      ],
+      [
+        1
+      ],
+      1,
+      0,
+      0,
+      74,
+      74,
+      74,
+      0,
+      1,
+      1
+    ],
+    [
+      "CryptChest4",
+      476,
+      null,
+      [
+        521
+      ],
+      [
+        455
+      ],
+      [
+        1
+      ],
+      1,
+      0,
+      0,
+      74,
+      74,
+      74,
+      0,
+      1,
+      1
+    ]
+  ]
+}

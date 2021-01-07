@@ -1,0 +1,89 @@
+{
+  "filename": "QuestType.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown1",
+      "rowid": 1,
+      "type": "ref|list|int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "Normal",
+      []
+    ],
+    [
+      "Optional",
+      [
+        129,
+        184,
+        249
+      ]
+    ],
+    [
+      "Labyrinth",
+      [
+        129,
+        249,
+        184
+      ]
+    ],
+    [
+      "MasterMission",
+      [
+        255,
+        102,
+        0
+      ]
+    ],
+    [
+      "MasterQuest",
+      [
+        255,
+        102,
+        0
+      ]
+    ],
+    [
+      "Hideout",
+      [
+        255,
+        102,
+        0
+      ]
+    ],
+    [
+      "Prophecy",
+      [
+        160,
+        48,
+        160
+      ]
+    ]
+  ]
+}

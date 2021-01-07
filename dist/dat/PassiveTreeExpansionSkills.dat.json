@@ -1,0 +1,385 @@
+{
+  "filename": "PassiveTreeExpansionSkills.dat",
+  "header": [
+    {
+      "name": "PassiveSkillsKey",
+      "rowid": 0,
+      "type": "ulong",
+      "key": "PassiveSkills.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Mastery_PassiveSkillsKey",
+      "rowid": 1,
+      "type": "ulong",
+      "key": "PassiveSkills.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "TagsKey",
+      "rowid": 2,
+      "type": "ulong",
+      "key": "Tags.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "PassiveTreeExpansionJewelSizesKey",
+      "rowid": 3,
+      "type": "ulong",
+      "key": "PassiveTreeExpansionJewelSizes.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      2482,
+      2914,
+      576,
+      2
+    ],
+    [
+      2483,
+      2915,
+      577,
+      2
+    ],
+    [
+      2484,
+      2916,
+      578,
+      2
+    ],
+    [
+      2485,
+      2917,
+      579,
+      2
+    ],
+    [
+      2486,
+      2918,
+      580,
+      2
+    ],
+    [
+      2487,
+      2919,
+      581,
+      2
+    ],
+    [
+      2488,
+      2920,
+      582,
+      2
+    ],
+    [
+      2489,
+      2921,
+      583,
+      2
+    ],
+    [
+      2490,
+      2922,
+      584,
+      2
+    ],
+    [
+      2491,
+      2923,
+      585,
+      2
+    ],
+    [
+      2492,
+      2924,
+      586,
+      2
+    ],
+    [
+      2493,
+      2925,
+      587,
+      2
+    ],
+    [
+      2494,
+      2926,
+      588,
+      2
+    ],
+    [
+      2495,
+      2927,
+      589,
+      2
+    ],
+    [
+      2496,
+      2928,
+      590,
+      2
+    ],
+    [
+      2497,
+      2929,
+      591,
+      2
+    ],
+    [
+      2498,
+      2930,
+      592,
+      2
+    ],
+    [
+      2499,
+      2931,
+      593,
+      1
+    ],
+    [
+      2500,
+      2932,
+      594,
+      1
+    ],
+    [
+      2501,
+      2933,
+      595,
+      1
+    ],
+    [
+      2502,
+      2934,
+      596,
+      1
+    ],
+    [
+      2503,
+      2935,
+      597,
+      1
+    ],
+    [
+      2504,
+      2936,
+      598,
+      1
+    ],
+    [
+      2505,
+      2937,
+      599,
+      1
+    ],
+    [
+      2506,
+      2938,
+      600,
+      1
+    ],
+    [
+      2507,
+      2939,
+      601,
+      1
+    ],
+    [
+      2508,
+      2940,
+      602,
+      1
+    ],
+    [
+      2509,
+      2941,
+      603,
+      1
+    ],
+    [
+      2510,
+      2942,
+      604,
+      1
+    ],
+    [
+      2511,
+      2943,
+      605,
+      1
+    ],
+    [
+      2512,
+      2944,
+      606,
+      1
+    ],
+    [
+      2513,
+      2945,
+      607,
+      1
+    ],
+    [
+      2514,
+      2946,
+      608,
+      1
+    ],
+    [
+      2515,
+      2947,
+      609,
+      1
+    ],
+    [
+      2516,
+      2948,
+      610,
+      1
+    ],
+    [
+      2517,
+      2949,
+      611,
+      1
+    ],
+    [
+      2518,
+      2950,
+      612,
+      1
+    ],
+    [
+      2519,
+      2951,
+      613,
+      1
+    ],
+    [
+      2520,
+      null,
+      614,
+      0
+    ],
+    [
+      2521,
+      null,
+      615,
+      0
+    ],
+    [
+      2522,
+      null,
+      616,
+      0
+    ],
+    [
+      2523,
+      null,
+      617,
+      0
+    ],
+    [
+      2524,
+      null,
+      618,
+      0
+    ],
+    [
+      2525,
+      null,
+      619,
+      0
+    ],
+    [
+      2526,
+      null,
+      619,
+      0
+    ],
+    [
+      2527,
+      null,
+      620,
+      0
+    ],
+    [
+      2528,
+      null,
+      621,
+      0
+    ],
+    [
+      2529,
+      null,
+      622,
+      0
+    ],
+    [
+      2530,
+      null,
+      623,
+      0
+    ],
+    [
+      2531,
+      null,
+      624,
+      0
+    ],
+    [
+      2532,
+      null,
+      625,
+      0
+    ],
+    [
+      2533,
+      null,
+      626,
+      0
+    ],
+    [
+      2534,
+      null,
+      627,
+      0
+    ]
+  ]
+}
