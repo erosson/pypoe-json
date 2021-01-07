@@ -1,0 +1,30 @@
+#!/bin/bash
+# set -x
+set -euo pipefail
+cd "`dirname "$0"`/.."
+
+ASSETS_PATH="/c/Program Files (x86)/Grinding Gear Games/Path of Exile"
+# ASSETS_PATH="/d/code/mapwatch/packages/datamine-dl/depot"
+pypoe_exporter config set ggpk_path "$ASSETS_PATH"
+mkdir -p build dist/dat dist/err
+
+cp patch/index_dat.py third-party/PyPoE/PyPoE/index_dat.py
+python third-party/PyPoE/PyPoE/index_dat.py > dist/index_dat.json
+rm -f third-party/PyPoE/PyPoE/index_dat.py
+
+node --eval="require('./dist/index_dat.json').forEach(name => console.log(name))" > build/index_dat.txt
+NUMDATS=`wc -l < build/index_dat.txt`
+
+i=0
+# for DATFILE in "DelveLevelScaling.dat"; do
+# for DATFILE in `cat build/index_dat.txt | head -n 3`; do
+for DATFILE in `cat build/index_dat.txt`; do
+  (( i++ )) || true
+  # JSONFILE="dist/dat/`basename "$DATFILE" .dat`.json"
+  JSONFILE="dist/dat/$DATFILE.json"
+  OUTFILE="dist/err/$DATFILE-out.txt"
+  ERRFILE="dist/err/$DATFILE-err.txt"
+  echo "`date`: ($i/$NUMDATS) $DATFILE → $JSONFILE"
+  rm -f "$OUTFILE" "$ERRFILE"
+  pypoe_exporter dat json "$JSONFILE" --files "$DATFILE" >"$OUTFILE" 2>"$ERRFILE" && rm -f "$OUTFILE" "$ERRFILE" || (rm "$JSONFILE" && echo -e "\t> $OUTFILE 2> $ERRFILE")
+done

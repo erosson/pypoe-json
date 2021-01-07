@@ -1,10 +1,17 @@
 {
   "name": "pypoe-json",
   "version": "1.0.0",
+  "description": "Path of Exile JSON data, as extracted by OmegaK2/PyPoE",
+  "repository": "https://github.com/erosson/pypoe-json",
   "author": "Evan Rosson <git@erosson.org>",
-  "license": "GPL-3.0",
+  "license": "MIT",
   "private": true,
   "scripts": {
-    "build": "bash scripts/build"
+    "pypoe:pull": "git subtree pull --squash --prefix=third-party/PyPoE https://github.com/OmegaK2/PyPoE.git dev",
+    "steampull:pull": "git subtree pull --squash --prefix=third-party/steampull https://github.com/erosson/steampull.git master",
+    "install": "bash scripts/install",
+    "fetch:auth": "bash -c \"./third-party/steampull/steampull auth\"",
+    "fetch": "bash -c \"./third-party/steampull/steampull --app 238960 --depot 238961 --output dist/fetch fetch --regex 'Bundles2\\\\\\\\(Data|Metadata|_\\.index|_Preload|_Startup|_Tiny)'\"",
+    "dist": "bash -c \"time scripts/dist\""
   }
 }
