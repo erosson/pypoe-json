@@ -6,10 +6,13 @@ mkdir -p dist/dat
 
 ASSETS_EXE_PATH="./assets/exe/depot"
 ./third-party/strings/strings.exe -accepteula 2>/dev/null || true
-POE_VERSION="`./third-party/strings/strings.exe "$ASSETS_EXE_PATH/PathOfExileSteam.exe" | grep release/tags/ | head -n 1 | sed -e "s_release/tags/__"`"
-echo ${POE_VERSION} > dist/version.txt
+POE_VERSION="`./third-party/strings/strings.exe "$ASSETS_EXE_PATH/PathOfExileSteam.exe" | grep release/tags/ | sed -e "s_release/tags/__"`"
+if [ -z $POE_VERSION ]; then
+  echo "Failed to find poe version"
+  exit 1
+fi
+echo "${POE_VERSION}" | tee dist/version.txt
 echo "{\"version\":\"${POE_VERSION}\"}" > dist/version.json
-exit
 
 # ASSETS_PATH="/c/Program Files (x86)/Grinding Gear Games/Path of Exile"
 ASSETS_PATH="./assets/content/depot"
