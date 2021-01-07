@@ -39,11 +39,12 @@ jobs:
           (diff assets/content/info-old.txt assets/content/info.txt || true) >> $GITHUB_ENV
           echo '__EOF__' >> $GITHUB_ENV
           cat $GITHUB_ENV
-      - run: echo "POE_VERSION=`cat dist/version.txt`" >> $GITHUB_ENV
 
       # extract json from poe content, if it's changed
       - if: ${{ env.STEAM_DEPOT_INFO_DIFF != '' }}
         run: yarn dist
+      - if: ${{ env.STEAM_DEPOT_INFO_DIFF != '' }}
+        run: echo "POE_VERSION=`cat dist/version.txt`" >> $GITHUB_ENV
 
       # https://peterevans.dev/posts/github-actions-how-to-create-pull-requests-automatically/
       - if: ${{ env.STEAM_DEPOT_INFO_DIFF != '' }}
