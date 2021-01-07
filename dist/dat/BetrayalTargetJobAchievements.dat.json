@@ -1,0 +1,152 @@
+{
+  "filename": "BetrayalTargetJobAchievements.dat",
+  "header": [
+    {
+      "name": "BetrayalTargetsKey",
+      "rowid": 0,
+      "type": "ulong",
+      "key": "BetrayalTargets.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "BetrayalJobsKey",
+      "rowid": 1,
+      "type": "ulong",
+      "key": "BetrayalJobs.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "AchievementItemsKey",
+      "rowid": 2,
+      "type": "ulong",
+      "key": "AchievementItems.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      8,
+      1,
+      5375
+    ],
+    [
+      8,
+      2,
+      5376
+    ],
+    [
+      8,
+      4,
+      5377
+    ],
+    [
+      8,
+      3,
+      5378
+    ],
+    [
+      13,
+      1,
+      5379
+    ],
+    [
+      13,
+      2,
+      5380
+    ],
+    [
+      13,
+      4,
+      5381
+    ],
+    [
+      13,
+      3,
+      5382
+    ],
+    [
+      14,
+      1,
+      5383
+    ],
+    [
+      14,
+      2,
+      5384
+    ],
+    [
+      14,
+      4,
+      5385
+    ],
+    [
+      14,
+      3,
+      5386
+    ],
+    [
+      16,
+      1,
+      5387
+    ],
+    [
+      16,
+      2,
+      5388
+    ],
+    [
+      16,
+      4,
+      5389
+    ],
+    [
+      16,
+      3,
+      5390
+    ],
+    [
+      17,
+      1,
+      5391
+    ],
+    [
+      17,
+      2,
+      5392
+    ],
+    [
+      17,
+      4,
+      5393
+    ],
+    [
+      17,
+      3,
+      5394
+    ]
+  ]
+}

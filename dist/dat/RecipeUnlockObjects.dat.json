@@ -1,0 +1,432 @@
+{
+  "filename": "RecipeUnlockObjects.dat",
+  "header": [
+    {
+      "name": "WorldAreasKey",
+      "rowid": 0,
+      "type": "ulong",
+      "key": "WorldAreas.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "InheritsFrom",
+      "rowid": 1,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": true,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "RecipeId",
+      "rowid": 2,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      35,
+      "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockVaal",
+      146
+    ],
+    [
+      36,
+      "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockVaal",
+      161
+    ],
+    [
+      48,
+      "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockGravestone",
+      158
+    ],
+    [
+      41,
+      "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockDecayed",
+      170
+    ],
+    [
+      46,
+      "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockGoldenBookstand",
+      173
+    ],
+    [
+      51,
+      "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockGoldenBookstand",
+      176
+    ],
+    [
+      62,
+      "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockDecayed",
+      133
+    ],
+    [
+      70,
+      "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockBoundBook",
+      141
+    ],
+    [
+      59,
+      "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockBoundBook",
+      168
+    ],
+    [
+      68,
+      "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockBeast",
+      180
+    ],
+    [
+      78,
+      "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockTemplarBook",
+      147
+    ],
+    [
+      79,
+      "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockTemplarBook",
+      159
+    ],
+    [
+      80,
+      "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockTemplarBook",
+      183
+    ],
+    [
+      92,
+      "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockDecayed",
+      142
+    ],
+    [
+      97,
+      "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockGravestone",
+      149
+    ],
+    [
+      90,
+      "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockDecayed",
+      162
+    ],
+    [
+      87,
+      "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockKaruiPillar",
+      187
+    ],
+    [
+      110,
+      "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockRunestone",
+      171
+    ],
+    [
+      111,
+      "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockVaal",
+      174
+    ],
+    [
+      104,
+      "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockDecayed",
+      178
+    ],
+    [
+      114,
+      "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockVaal",
+      185
+    ],
+    [
+      118,
+      "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockGravestone",
+      135
+    ],
+    [
+      124,
+      "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockGoldenBookstand",
+      228
+    ],
+    [
+      130,
+      "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockGoldenBookstand",
+      230
+    ],
+    [
+      140,
+      "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockGravestone",
+      160
+    ],
+    [
+      138,
+      "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockGravestone",
+      163
+    ],
+    [
+      135,
+      "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockGravestone",
+      169
+    ],
+    [
+      148,
+      "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockTemplarBook",
+      150
+    ],
+    [
+      153,
+      "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockTemplarBook",
+      181
+    ],
+    [
+      150,
+      "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockKaruiPillar",
+      188
+    ],
+    [
+      154,
+      "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockTemplarBookNoHelena",
+      148
+    ],
+    [
+      162,
+      "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockKaruiRackNoHelena",
+      148
+    ],
+    [
+      515,
+      "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockLabyrinth",
+      139
+    ],
+    [
+      516,
+      "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockLabyrinth",
+      139
+    ],
+    [
+      517,
+      "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockLabyrinth",
+      139
+    ],
+    [
+      587,
+      "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockLabyrinth",
+      137
+    ],
+    [
+      588,
+      "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockLabyrinth",
+      137
+    ],
+    [
+      589,
+      "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockLabyrinth",
+      137
+    ],
+    [
+      659,
+      "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockLabyrinth",
+      138
+    ],
+    [
+      660,
+      "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockLabyrinth",
+      138
+    ],
+    [
+      661,
+      "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockLabyrinth",
+      138
+    ],
+    [
+      731,
+      "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockLabyrinth",
+      140
+    ],
+    [
+      732,
+      "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockLabyrinth",
+      140
+    ],
+    [
+      733,
+      "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockLabyrinth",
+      140
+    ],
+    [
+      43,
+      "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockLabyrinth",
+      166
+    ],
+    [
+      52,
+      "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockLabyrinth",
+      144
+    ],
+    [
+      89,
+      "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockLabyrinth",
+      136
+    ],
+    [
+      103,
+      "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockLabyrinth",
+      164
+    ],
+    [
+      105,
+      "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockLabyrinth",
+      156
+    ],
+    [
+      121,
+      "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockLabyrinth",
+      192
+    ],
+    [
+      139,
+      "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockLabyrinth",
+      145
+    ],
+    [
+      1085,
+      "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockMap",
+      172
+    ],
+    [
+      1088,
+      "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockMap",
+      191
+    ],
+    [
+      1079,
+      "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockMap",
+      175
+    ],
+    [
+      1123,
+      "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockMap",
+      154
+    ],
+    [
+      1073,
+      "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockMap",
+      179
+    ],
+    [
+      1072,
+      "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockMap",
+      198
+    ],
+    [
+      1162,
+      "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockMap",
+      151
+    ],
+    [
+      1077,
+      "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockMap",
+      157
+    ],
+    [
+      1089,
+      "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockMap",
+      229
+    ],
+    [
+      1119,
+      "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockMap",
+      167
+    ],
+    [
+      1141,
+      "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockMap",
+      194
+    ],
+    [
+      1189,
+      "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockMap",
+      189
+    ],
+    [
+      1198,
+      "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockMap",
+      165
+    ],
+    [
+      1142,
+      "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockMap",
+      252
+    ],
+    [
+      1093,
+      "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockMap",
+      261
+    ],
+    [
+      1083,
+      "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockMap",
+      153
+    ],
+    [
+      1220,
+      "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockMap",
+      196
+    ],
+    [
+      1213,
+      "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockMap",
+      262
+    ],
+    [
+      1226,
+      "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockMap",
+      193
+    ],
+    [
+      1171,
+      "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockMap",
+      195
+    ],
+    [
+      1218,
+      "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockMap",
+      109
+    ],
+    [
+      1075,
+      "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockMap",
+      190
+    ],
+    [
+      1173,
+      "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockMap",
+      199
+    ],
+    [
+      1217,
+      "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockMap",
+      197
+    ],
+    [
+      1222,
+      "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockMap",
+      253
+    ]
+  ]
+}

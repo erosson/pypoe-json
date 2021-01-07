@@ -1,0 +1,57 @@
+{
+  "filename": "HeistNPCBlueprintTypes.dat",
+  "header": [
+    {
+      "name": "Key0",
+      "rowid": 0,
+      "type": "ulong",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown2",
+      "rowid": 1,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      462,
+      2
+    ],
+    [
+      468,
+      2
+    ],
+    [
+      460,
+      2
+    ],
+    [
+      457,
+      1
+    ],
+    [
+      459,
+      3
+    ]
+  ]
+}

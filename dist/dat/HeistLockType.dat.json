@@ -1,0 +1,132 @@
+{
+  "filename": "HeistLockType.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "HeistJobsKey",
+      "rowid": 1,
+      "type": "ulong",
+      "key": "HeistJobs.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "SkillIcon",
+      "rowid": 2,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": true,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "Lockpicking",
+      0,
+      ""
+    ],
+    [
+      "BruteForceCharge",
+      1,
+      ""
+    ],
+    [
+      "Perception",
+      2,
+      ""
+    ],
+    [
+      "Demolition",
+      3,
+      ""
+    ],
+    [
+      "MagicBarrier",
+      4,
+      ""
+    ],
+    [
+      "TrapDisarmament",
+      5,
+      ""
+    ],
+    [
+      "VentClimb",
+      6,
+      ""
+    ],
+    [
+      "Deception",
+      7,
+      ""
+    ],
+    [
+      "Blowtorch",
+      8,
+      ""
+    ],
+    [
+      "SuperUnlockMechanical",
+      1,
+      "Art/2DArt/UIImages/InGame/Heist/SkillSymbols/BruteforceSkill"
+    ],
+    [
+      "SuperUnlockMagical",
+      4,
+      "Art/2DArt/UIImages/InGame/Heist/SkillSymbols/CounterThaumaturgySkill"
+    ],
+    [
+      "BruteForceSmash",
+      1,
+      ""
+    ],
+    [
+      "BruteForcePush",
+      1,
+      ""
+    ],
+    [
+      "GapCross",
+      8,
+      ""
+    ],
+    [
+      "MagicTrap",
+      4,
+      ""
+    ],
+    [
+      "MindControl",
+      4,
+      ""
+    ]
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "filename": "SkillTrapVariations.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Metadata",
+      "rowid": 1,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Key0",
+      "rowid": 2,
+      "type": "ulong",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      0,
+      "Metadata/MiscellaneousObjects/TrapNormal2",
+      null
+    ],
+    [
+      1,
+      "Metadata/MiscellaneousObjects/PyroTrap",
+      null
+    ],
+    [
+      2,
+      "Metadata/MiscellaneousObjects/PyroCausticTrap",
+      null
+    ],
+    [
+      3,
+      "Metadata/MiscellaneousObjects/TrapBomb",
+      null
+    ],
+    [
+      4,
+      "Metadata/MiscellaneousObjects/PyroColdTrap",
+      null
+    ],
+    [
+      5,
+      "Metadata/MiscellaneousObjects/TrapRune",
+      null
+    ],
+    [
+      6,
+      "Metadata/MiscellaneousObjects/TrapMalachaiRune",
+      571
+    ],
+    [
+      7,
+      "Metadata/MiscellaneousObjects/TrapMaligaroFire",
+      570
+    ],
+    [
+      8,
+      "Metadata/MiscellaneousObjects/TrapRunicGreen",
+      757
+    ],
+    [
+      9,
+      "Metadata/MiscellaneousObjects/TrapRunicBlue",
+      780
+    ],
+    [
+      10,
+      "Metadata/MiscellaneousObjects/TrapProphecyRed",
+      null
+    ],
+    [
+      11,
+      "Metadata/MiscellaneousObjects/TrapFireRune",
+      747
+    ],
+    [
+      12,
+      "Metadata/MiscellaneousObjects/TrapVisible",
+      null
+    ],
+    [
+      13,
+      "Metadata/MiscellaneousObjects/SmokeTrap",
+      null
+    ],
+    [
+      14,
+      "Metadata/MiscellaneousObjects/TrapPlace",
+      null
+    ],
+    [
+      15,
+      "Metadata/MiscellaneousObjects/TrapNormal",
+      null
+    ],
+    [
+      16,
+      "Metadata/MiscellaneousObjects/LightningTrap",
+      null
+    ],
+    [
+      17,
+      "Metadata/MiscellaneousObjects/TrapCelestial",
+      null
+    ]
+  ]
+}

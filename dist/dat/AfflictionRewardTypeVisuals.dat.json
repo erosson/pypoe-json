@@ -1,0 +1,172 @@
+{
+  "filename": "AfflictionRewardTypeVisuals.dat",
+  "header": [
+    {
+      "name": "AfflictionRewardTypes",
+      "rowid": 0,
+      "type": "int",
+      "key": "AfflictionRewardTypes.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Id",
+      "rowid": 1,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Name",
+      "rowid": 2,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      0,
+      "DeliriumRewardCurrency",
+      "Currency"
+    ],
+    [
+      1,
+      "DeliriumRewardUniques",
+      "Unique Items"
+    ],
+    [
+      2,
+      "DeliriumRewardGems",
+      "Gems"
+    ],
+    [
+      3,
+      "DeliriumRewardMaps",
+      "Map Items"
+    ],
+    [
+      4,
+      "DeliriumRewardTrinkets",
+      "Jewellery"
+    ],
+    [
+      5,
+      "DeliriumRewardArmour",
+      "Armour"
+    ],
+    [
+      6,
+      "DeliriumRewardWeapon",
+      "Weapons"
+    ],
+    [
+      7,
+      "DeliriumRewardAbyss",
+      "Abyss Items"
+    ],
+    [
+      8,
+      "DeliriumRewardPerandus",
+      "Perandus Items"
+    ],
+    [
+      9,
+      "DeliriumRewardHarbinger",
+      "Harbinger Items"
+    ],
+    [
+      10,
+      "DeliriumRewardBreach",
+      "Breach Items"
+    ],
+    [
+      11,
+      "DeliriumRewardEssences",
+      "Essences"
+    ],
+    [
+      12,
+      "DeliriumRewardEssences",
+      "Essences"
+    ],
+    [
+      13,
+      "DeliriumRewardFragments",
+      "Fragments"
+    ],
+    [
+      14,
+      "DeliriumRewardScarabs",
+      "Scarabs"
+    ],
+    [
+      15,
+      "DeliriumRewardFossils",
+      "Fossils"
+    ],
+    [
+      16,
+      "DeliriumRewardProphecies",
+      "Prophecy Items"
+    ],
+    [
+      17,
+      "DeliriumRewardDivination",
+      "Divination Cards"
+    ],
+    [
+      18,
+      "DeliriumRewardGeneric",
+      "Miscellaneous Items"
+    ],
+    [
+      19,
+      "DeliriumRewardTalismans",
+      "Talismans"
+    ],
+    [
+      20,
+      "DeliriumRewardLabyrinth",
+      "Labyrinth Items"
+    ],
+    [
+      22,
+      "DeliriumRewardIncubators",
+      "Incubators"
+    ],
+    [
+      23,
+      "DeliriumRewardBlight",
+      "Blight Items"
+    ],
+    [
+      24,
+      "DeliriumRewardMetamorph",
+      "Catalysts"
+    ]
+  ]
+}

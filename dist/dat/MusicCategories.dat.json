@@ -1,0 +1,169 @@
+{
+  "filename": "MusicCategories.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": "True",
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Name",
+      "rowid": 1,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Order",
+      "rowid": 2,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Flag0",
+      "rowid": 3,
+      "type": "byte",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "Boss",
+      "Boss Fights",
+      10,
+      0
+    ],
+    [
+      "Town",
+      "Encampments",
+      11,
+      1
+    ],
+    [
+      "Act1",
+      "Act I",
+      0,
+      0
+    ],
+    [
+      "Act2",
+      "Act II",
+      1,
+      0
+    ],
+    [
+      "Act3",
+      "Act III",
+      2,
+      0
+    ],
+    [
+      "Act4",
+      "Act IV",
+      3,
+      0
+    ],
+    [
+      "Act5",
+      "Act V",
+      4,
+      0
+    ],
+    [
+      "Act6",
+      "Act VI",
+      5,
+      0
+    ],
+    [
+      "Act7",
+      "Act VII",
+      6,
+      0
+    ],
+    [
+      "Act8",
+      "Act VIII",
+      7,
+      0
+    ],
+    [
+      "Act9",
+      "Act IX",
+      8,
+      0
+    ],
+    [
+      "Act10",
+      "Act X",
+      9,
+      0
+    ],
+    [
+      "Map",
+      "Unique Maps",
+      13,
+      0
+    ],
+    [
+      "Expansions",
+      "Expansions",
+      12,
+      0
+    ],
+    [
+      "Other",
+      "Other",
+      14,
+      0
+    ],
+    [
+      "Hideouts",
+      "Hideouts",
+      15,
+      0
+    ],
+    [
+      "Trailers",
+      "Trailers",
+      16,
+      0
+    ]
+  ]
+}

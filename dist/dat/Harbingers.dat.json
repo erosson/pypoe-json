@@ -1,0 +1,278 @@
+{
+  "filename": "Harbingers.dat",
+  "header": [
+    {
+      "name": "MonsterVarietiesKey",
+      "rowid": 0,
+      "type": "ulong",
+      "key": "MonsterVarieties.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown0",
+      "rowid": 1,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "MinLevel",
+      "rowid": 2,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "MaxLevel",
+      "rowid": 3,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown1",
+      "rowid": 4,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      4582,
+      100,
+      0,
+      25,
+      100
+    ],
+    [
+      4583,
+      100,
+      0,
+      25,
+      100
+    ],
+    [
+      4584,
+      100,
+      0,
+      25,
+      100
+    ],
+    [
+      4585,
+      100,
+      0,
+      25,
+      100
+    ],
+    [
+      4586,
+      100,
+      0,
+      25,
+      100
+    ],
+    [
+      4587,
+      100,
+      10,
+      100,
+      100
+    ],
+    [
+      4588,
+      100,
+      10,
+      100,
+      100
+    ],
+    [
+      4589,
+      100,
+      10,
+      100,
+      100
+    ],
+    [
+      4590,
+      100,
+      10,
+      100,
+      100
+    ],
+    [
+      4591,
+      100,
+      25,
+      100,
+      100
+    ],
+    [
+      4592,
+      100,
+      25,
+      100,
+      100
+    ],
+    [
+      4595,
+      100,
+      25,
+      100,
+      100
+    ],
+    [
+      4598,
+      100,
+      25,
+      100,
+      100
+    ],
+    [
+      4601,
+      100,
+      25,
+      100,
+      100
+    ],
+    [
+      4604,
+      100,
+      46,
+      100,
+      100
+    ],
+    [
+      4607,
+      100,
+      46,
+      100,
+      100
+    ],
+    [
+      4610,
+      100,
+      46,
+      100,
+      100
+    ],
+    [
+      4613,
+      100,
+      46,
+      100,
+      100
+    ],
+    [
+      4616,
+      100,
+      46,
+      100,
+      100
+    ],
+    [
+      4619,
+      20,
+      60,
+      100,
+      40
+    ],
+    [
+      4620,
+      20,
+      60,
+      100,
+      40
+    ],
+    [
+      4621,
+      20,
+      60,
+      100,
+      40
+    ],
+    [
+      4622,
+      20,
+      60,
+      100,
+      40
+    ],
+    [
+      4623,
+      20,
+      60,
+      100,
+      40
+    ],
+    [
+      4624,
+      20,
+      60,
+      100,
+      40
+    ],
+    [
+      4625,
+      20,
+      60,
+      100,
+      40
+    ],
+    [
+      4626,
+      20,
+      60,
+      100,
+      40
+    ],
+    [
+      4627,
+      20,
+      60,
+      100,
+      40
+    ]
+  ]
+}
