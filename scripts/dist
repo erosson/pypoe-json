@@ -2,13 +2,19 @@
 # set -x
 set -euo pipefail
 cd "`dirname "$0"`/.."
+mkdir -p dist/dat
+
+ASSETS_EXE_PATH="./assets/exe/depot"
+./third-party/strings/strings.exe -accepteula 2>/dev/null || true
+POE_VERSION="`./third-party/strings/strings.exe "$ASSETS_EXE_PATH/PathOfExileSteam.exe" | grep release/tags/ | head -n 1 | sed -e "s_release/tags/__"`"
+echo "{\"version\":\"${POE_VERSION}\"}" > dist/version.json
+exit
 
 # ASSETS_PATH="/c/Program Files (x86)/Grinding Gear Games/Path of Exile"
-ASSETS_PATH="./assets/depot"
+ASSETS_PATH="./assets/content/depot"
 pypoe_exporter config set ggpk_path "$ASSETS_PATH"
 
 # Build a list of dat files
-mkdir -p dist/dat
 cp patch/index_dat.py third-party/PyPoE/PyPoE/index_dat.py
 python third-party/PyPoE/PyPoE/index_dat.py > dist/index_dat.json
 rm -f third-party/PyPoE/PyPoE/index_dat.py

@@ -1,6 +1,6 @@
 /build
-/assets
-/dist
+/assets/content/depot
+/assets/exe/depot
 /dist/all*
 /node_modules
 /ooz.exe
