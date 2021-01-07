@@ -11,7 +11,7 @@
     "steampull:pull": "git subtree pull --squash --prefix=third-party/steampull https://github.com/erosson/steampull.git master",
     "install": "bash scripts/install",
     "fetch:auth": "bash -c \"./third-party/steampull/steampull auth\"",
-    "fetch": "bash -c \"./third-party/steampull/steampull --app 238960 --depot 238961 --output dist/fetch fetch --regex 'Bundles2\\\\\\\\(Data|Metadata|_\\.index|_Preload|_Startup|_Tiny)'\"",
+    "fetch": "bash -c \"./third-party/steampull/steampull --app 238960 --depot 238961 --output assets fetch --regex 'Bundles2\\\\\\\\(Data|Metadata|_\\.index|_Preload|_Startup|_Tiny)'\"",
     "dist": "bash -c \"time scripts/dist\""
   }
 }
