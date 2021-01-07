@@ -2,6 +2,6 @@
 set -xeuo pipefail
 cd "`dirname "$0"`/.."
 
-pip install -r third-party/steampull/requirements.txt
+pip install -r third-party/steampull/requirements-win.txt
 (cd third-party/PyPoE && pip install -e .[cli-full])
 cp -p third-party/ooz.exe .
