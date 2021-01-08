@@ -14,6 +14,10 @@
     "fetch": "bash -c \"yarn fetch:content && yarn fetch:exe\"",
     "fetch:content": "bash -c \"./third-party/steampull/steampull --app 238960 --depot 238961 --output assets/content fetch --regex 'Bundles2\\\\\\\\(Data|Metadata|_\\.index|_Preload|_Startup|_Tiny)'\"",
     "fetch:exe": "bash -c \"./third-party/steampull/steampull --app 238960 --depot 238962 --output assets/exe fetch --regex 'PathOfExileSteam.exe'\"",
-    "dist": "bash -c \"time scripts/dist\""
+    "dist": "bash -c \"time scripts/dist\"",
+    "serve": "serve . --cors"
+  },
+  "devDependencies": {
+    "serve": "^11.3.2"
   }
 }
