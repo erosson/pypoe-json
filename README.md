@@ -40,4 +40,4 @@ pypoe-json simply omits the failing files, rather than failing the entire build.
 
 ### Can I hotlink the json files at `erosson.github.io/pypoe-json`?
 
-It costs me nothing so I won't stop you, but you really should host them yourself - I promise nothing about their future availability.
+It costs me nothing so I won't stop you, but you really should host them yourself - I promise nothing about their future availability there.
