@@ -4,4 +4,5 @@ cd "`dirname "$0"`/.."
 
 pip install -r third-party/steampull/requirements-win.txt
 (cd third-party/PyPoE && pip install -e .[cli-full])
-cp -p third-party/ooz.exe .
+# github-pages publishes our whole site (because it's easy), but whines about .exe files
+cp -p third-party/ooz.exe_ ./ooz.exe
