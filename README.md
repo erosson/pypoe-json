@@ -34,7 +34,9 @@ RePoE is a similar project! It's been around much longer, and is very nice. pypo
 
 ### Some DAT files are missing.
 
-PyPoE probably failed to export them. *shrug* pypoe-json simply omits the failing files, rather than failing the entire build.
+PyPoE probably failed to export them. *shrug*
+
+pypoe-json simply omits the failing files, rather than failing the entire build.
 
 ### Can I hotlink the json files at `erosson.github.io/pypoe-json`?
 
