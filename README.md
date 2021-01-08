@@ -26,7 +26,7 @@ Once a day, the buildbot checks to see if [PoE's Steam depot](https://steamdb.in
 
 [PoE on steamdb](https://steamdb.info/app/238960/)
 
-[The buildbot's configuration.](https://github.com/erosson/pypoe-json/blob/master/.github/workflows/assets-export.yml)
+[The buildbot's configuration](https://github.com/erosson/pypoe-json/blob/master/.github/workflows/assets-export.yml)
 
 ### What about [RePoE](https://github.com/brather1ng/RePoE)?
 
