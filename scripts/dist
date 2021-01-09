@@ -29,7 +29,7 @@ rm -f third-party/PyPoE/PyPoE/index_dat.py
 # file for now.
 git apply third-party/PyPoE.patch
 # pypoe_exporter dat json dist/all.json >dist/all-out.txt 2>dist/all-err.txt
-pypoe_exporter dat json dist/all.json
+pypoe_exporter dat json dist/all.json 2>/dev/null
 git checkout third-party/PyPoE
 
 # Split all.json into a file per dat file
