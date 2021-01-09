@@ -1,5 +1,5 @@
 const fs = require('fs')
-const list = require('../dist/index_dat.json')
+const list = require('../dist/list.json')
 
 const input = process.argv[process.argv.length-2]
 const output = process.argv[process.argv.length-1]

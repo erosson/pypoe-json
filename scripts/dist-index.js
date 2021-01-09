@@ -1,5 +1,5 @@
 const fs = require('fs')
-const list = require('../dist/index_dat.json')
+const list = require('../dist/list.json')
 const langs = require('../dist/lang.json')
 const all = require('../dist/all.json')
 

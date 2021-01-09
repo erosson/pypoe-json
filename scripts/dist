@@ -23,7 +23,7 @@ pypoe_exporter config set ggpk_path "$ASSETS_PATH"
 
 # Build a list of dat files
 cp patch/index_dat.py third-party/PyPoE/PyPoE/index_dat.py
-python third-party/PyPoE/PyPoE/index_dat.py > dist/index_dat.json
+python third-party/PyPoE/PyPoE/index_dat.py > dist/list.json
 rm -f third-party/PyPoE/PyPoE/index_dat.py
 
 # Apply a PyPoE patch that skips files with errors. Too underdeveloped for a
