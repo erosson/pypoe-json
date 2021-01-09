@@ -36,22 +36,22 @@ git checkout third-party/PyPoE
 echo "building dist/dat/..."
 node scripts/dist-dat.js dist/all.json dist/dat
 
-## Multi-language support
-#cp scripts/lang.json dist/lang.json
-#for lang in `node --eval="require('./dist/lang.json').forEach(l => console.log(l))"`; do
-#  echo "building dist/all-$lang.json..."
-#  git apply third-party/PyPoE.patch
-#  pypoe_exporter dat json dist/all-$lang.json --lang $lang 2>/dev/null
-#  git checkout third-party/PyPoE
-#
-#  echo "building dist/lang/$lang/..."
-#  node scripts/dist-dat.js dist/all-$lang.json dist/lang/$lang
-#  # keep only the language files that differ from english
-#  for f in `ls ./dist/lang/$lang`; do
-#    diff --brief --ignore-trailing-space "./dist/dat/$f" "./dist/lang/$lang/$f" >/dev/null && rm "./dist/lang/$lang/$f" || true
-#  done
-#  # diff --ignore-trailing-space "./dist/dat" "./dist/lang/$lang" > "dist/$lang.patch" || true
-#done
+# Multi-language support
+cp scripts/lang.json dist/lang.json
+for lang in `node --eval="require('./dist/lang.json').forEach(l => console.log(l))"`; do
+  echo "building dist/all-$lang.json..."
+  git apply third-party/PyPoE.patch
+  pypoe_exporter dat json dist/all-$lang.json --lang $lang 2>/dev/null
+  git checkout third-party/PyPoE
+
+  echo "building dist/lang/$lang/..."
+  node scripts/dist-dat.js dist/all-$lang.json dist/lang/$lang
+  # keep only the language files that differ from english
+  for f in `ls ./dist/lang/$lang`; do
+    diff --brief --ignore-trailing-space "./dist/dat/$f" "./dist/lang/$lang/$f" >/dev/null && rm "./dist/lang/$lang/$f" || true
+  done
+  # diff --ignore-trailing-space "./dist/dat" "./dist/lang/$lang" > "dist/$lang.patch" || true
+done
 
 # Finally, build the file index
 node scripts/dist-index.js
