@@ -4,6 +4,8 @@ set -euo pipefail
 cd "`dirname "$0"`/.."
 mkdir -p dist/dat dist/lang
 
+node scripts/passive-skill-tree.js
+
 ASSETS_EXE_PATH="./assets/exe/depot"
 [ ! -f ./third-party/strings/strings.exe ] && unzip third-party/Strings.zip -d third-party/strings
 ./third-party/strings/strings.exe -accepteula 2>/dev/null || true

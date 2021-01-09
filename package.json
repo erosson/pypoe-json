@@ -18,6 +18,7 @@
     "serve": "serve . --cors"
   },
   "devDependencies": {
+    "node-fetch": "^2.6.1",
     "serve": "^11.3.2"
   }
 }
