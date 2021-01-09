@@ -38,6 +38,12 @@ PyPoE probably failed to export them. *shrug*
 
 pypoe-json simply omits the failing files, rather than failing the entire build.
 
+### Non-English language support?
+
+Yes! See `dist/lang/French` for an example.
+
+If a file has no internationalized text, it's not copied to `dist/lang/$LANG` - check `dist/dat`. 
+
 ### Can I hotlink the json files at `erosson.github.io/pypoe-json`?
 
 It costs me nothing so I won't stop you, but you really should host them yourself. I promise nothing about their future availability there.
