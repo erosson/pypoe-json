@@ -3,8 +3,8 @@ const all = require('../dist/all.json')
 const list = require('../dist/index_dat.json')
 
 all.forEach(dat => {
-  fs.writeFileSync(__dirname+'/../dist/dat/'+dat.filename+'.json', JSON.stringify(dat, null, 2))
-  // fs.writeFileSync(__dirname+'/../dist/dat/'+dat.filename+'.min.json', JSON.stringify(dat))
+  // fs.writeFileSync(__dirname+'/../dist/dat/'+dat.filename+'.json', JSON.stringify(dat, null, 2))
+  fs.writeFileSync(__dirname+'/../dist/dat/'+dat.filename+'.json', JSON.stringify(dat))
 })
 
 const indexByName = Object.fromEntries(all.map(dat => ([dat.filename, {
@@ -14,5 +14,5 @@ const indexByName = Object.fromEntries(all.map(dat => ([dat.filename, {
   size: JSON.stringify(dat).length,
 }])))
 const index = list.map(name => indexByName[name] || {filename: name, missing: true})
-fs.writeFileSync(__dirname+'/../dist/index.json', JSON.stringify(index, null, 2))
-// fs.writeFileSync(__dirname+'/../dist/index.min.json', JSON.stringify(index))
+// fs.writeFileSync(__dirname+'/../dist/index.json', JSON.stringify(index, null, 2))
+fs.writeFileSync(__dirname+'/../dist/index.json', JSON.stringify(index))
