@@ -2,6 +2,7 @@
 /assets/content/depot
 /assets/exe
 /dist/all*
+/dist/lang
 /node_modules
 /ooz.exe
 /third-party/PyPoE/PyPoE/index_dat.py

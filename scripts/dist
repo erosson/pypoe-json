@@ -2,7 +2,7 @@
 # set -x
 set -euo pipefail
 cd "`dirname "$0"`/.."
-mkdir -p dist/dat
+mkdir -p dist/dat dist/lang
 
 ASSETS_EXE_PATH="./assets/exe/depot"
 [ ! -f ./third-party/strings/strings.exe ] && unzip third-party/Strings.zip -d third-party/strings
@@ -27,10 +27,31 @@ rm -f third-party/PyPoE/PyPoE/index_dat.py
 # Apply a PyPoE patch that skips files with errors. Too underdeveloped for a
 # PyPoE pull request - it'd need a cli flag, at least - so I'll maintain a patch
 # file for now.
+echo "building dist/all.json..."
 git apply third-party/PyPoE.patch
-# pypoe_exporter dat json dist/all.json >dist/all-out.txt 2>dist/all-err.txt
 pypoe_exporter dat json dist/all.json 2>/dev/null
 git checkout third-party/PyPoE
 
 # Split all.json into a file per dat file
-node scripts/dist.js
+echo "building dist/dat/..."
+node scripts/dist-dat.js dist/all.json dist/dat
+
+## Multi-language support
+#cp scripts/lang.json dist/lang.json
+#for lang in `node --eval="require('./dist/lang.json').forEach(l => console.log(l))"`; do
+#  echo "building dist/all-$lang.json..."
+#  git apply third-party/PyPoE.patch
+#  pypoe_exporter dat json dist/all-$lang.json --lang $lang 2>/dev/null
+#  git checkout third-party/PyPoE
+#
+#  echo "building dist/lang/$lang/..."
+#  node scripts/dist-dat.js dist/all-$lang.json dist/lang/$lang
+#  # keep only the language files that differ from english
+#  for f in `ls ./dist/lang/$lang`; do
+#    diff --brief --ignore-trailing-space "./dist/dat/$f" "./dist/lang/$lang/$f" >/dev/null && rm "./dist/lang/$lang/$f" || true
+#  done
+#  # diff --ignore-trailing-space "./dist/dat" "./dist/lang/$lang" > "dist/$lang.patch" || true
+#done
+
+# Finally, build the file index
+node scripts/dist-index.js
