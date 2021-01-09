@@ -42,7 +42,9 @@ pypoe-json simply omits the failing files, rather than failing the entire build.
 
 Yes! See [`dist/lang/French`](/dist/lang/French) for an example.
 
-If a file has no internationalized text, it's not duplicated in `dist/lang/$LANG` - check [`dist/dat`](/dist/dat) too. 
+If a file has no internationalized text, it's not duplicated in `dist/lang/$LANG` - check [`dist/dat`](/dist/dat) too.
+
+[Chinese isn't supported yet, but I'd love help changing that.](https://github.com/erosson/pypoe-json/issues/5)
 
 ### Can I hotlink the json files at `erosson.github.io/pypoe-json`?
 
