@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
     inputs:
       force_fetch:
-        description: force_fetch: if non-empty, rebuild even if there are no PoE content changes
+        description: "force_fetch: if non-empty, rebuild even if there are no PoE content changes"
         required: false
         default: ''
 
