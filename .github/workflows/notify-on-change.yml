@@ -6,6 +6,7 @@ on:
     branches: [master]
     paths:
       - "dist/**"
+  workflow_dispatch:
 
 jobs:
   notify:
