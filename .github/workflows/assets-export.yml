@@ -38,7 +38,7 @@ jobs:
           STEAMPULL_PASSWD: ${{ secrets.STEAMPULL_PASSWD }}
           STEAMPULL_SECRET: ${{ secrets.STEAMPULL_SECRET }}
         run: yarn fetch:auth
-      - if: ${{ github.events.inputs.force_fetch }}
+      - if: ${{ github.event.inputs.force_fetch }}
         run: echo FORCE_FETCH >> assets/content/info.txt
       - run: yarn fetch
       - run: |
