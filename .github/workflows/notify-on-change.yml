@@ -12,12 +12,9 @@ jobs:
   notify:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v2
       # https://docs.github.com/en/free-pro-team@latest/rest/reference/repos#create-a-repository-dispatch-event
       - run: |
-          set +euo pipefail
-          ls
-          ls .github
-          ls .github/workflows
           for REPO in `cat .github/workflows/notify-on-change-repos.txt`; do
             echo $REPO
             curl -X POST \
