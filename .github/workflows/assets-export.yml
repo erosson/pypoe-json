@@ -3,6 +3,11 @@ on:
   schedule:
     - cron: "5 1 * * *"
   workflow_dispatch:
+    inputs:
+      force_fetch:
+        description: If non-empty, build even if there are no PoE content changes
+        required: false
+        default: ''
 
 jobs:
   # windows must run this, not ubuntu, as pypoe/our datamine export depends on packages/datamine/ooz.exe
@@ -33,6 +38,8 @@ jobs:
           STEAMPULL_PASSWD: ${{ secrets.STEAMPULL_PASSWD }}
           STEAMPULL_SECRET: ${{ secrets.STEAMPULL_SECRET }}
         run: yarn fetch:auth
+      - if: ${{ github.events.inputs.force_fetch }}
+        run: echo FORCE_FETCH >> assets/content/info.txt
       - run: yarn fetch
       - run: |
           echo 'STEAM_DEPOT_INFO_DIFF<<__EOF__' >> $GITHUB_ENV
