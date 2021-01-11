@@ -37,7 +37,11 @@ jobs:
           STEAMPULL_USER: ${{ secrets.STEAMPULL_USER }}
           STEAMPULL_PASSWD: ${{ secrets.STEAMPULL_PASSWD }}
           STEAMPULL_SECRET: ${{ secrets.STEAMPULL_SECRET }}
-        run: yarn fetch:auth
+        # https://unix.stackexchange.com/questions/82598/how-do-i-write-a-retry-logic-in-script-to-keep-retrying-to-run-it-upto-5-times
+        run: |
+          for i in {1..3}; do
+            yarn fetch:auth && break || sleep 15;
+          done
       - if: ${{ github.event.inputs.force_fetch }}
         run: echo FORCE_FETCH >> assets/content/info.txt
       - run: yarn fetch
