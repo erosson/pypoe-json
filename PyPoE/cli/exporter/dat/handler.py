@@ -30,6 +30,7 @@ See PyPoE/LICENSE
 # =============================================================================
 
 # Python
+import traceback
 
 # 3rd-party
 from tqdm import tqdm
@@ -111,7 +112,7 @@ class DatExportHandler:
         console(prefix + 'Loading file system...')
 
         file_system = FileSystem(root_path=path)
-        
+
         console(prefix + 'Reading .dat files')
 
         dat_files = {}
@@ -132,7 +133,11 @@ class DatExportHandler:
 
             df = dat.DatFile(name)
 
-            df.read(file_path_or_raw=data, use_dat_value=False)
+            try:
+                df.read(file_path_or_raw=data, use_dat_value=False)
+            except Exception:
+                print(name, traceback.format_exc())
+                remove.append(name)
 
             dat_files[name] = df
 
