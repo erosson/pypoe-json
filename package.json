@@ -10,7 +10,7 @@
     "pypoe:pull": "git subtree pull --squash --prefix=third-party/PyPoE https://github.com/OmegaK2/PyPoE.git dev",
     "steampull:pull": "git subtree pull --squash --prefix=third-party/steampull https://github.com/erosson/steampull.git master",
     "install": "bash scripts/install",
-    "fetch:auth": "bash -c \"./third-party/steampull/steampull auth\"",
+    "fetch:auth": "bash -c \"[ -f auth.env ] && . auth.env ; ./third-party/steampull/steampull auth\"",
     "fetch": "bash -c \"yarn fetch:content && yarn fetch:exe\"",
     "fetch:content": "bash -c \"./third-party/steampull/steampull --app 238960 --depot 238961 --output assets/content fetch --regex 'Bundles2\\\\\\\\(Data|Metadata|_\\.index|_Preload|_Startup|_Tiny)'\"",
     "fetch:exe": "bash -c \"./third-party/steampull/steampull --app 238960 --depot 238962 --output assets/exe fetch --regex 'PathOfExileSteam.exe'\"",
