@@ -95,8 +95,8 @@
   "data": [
     [
       "SkeletonMeleeFireTormentNecromancer",
-      1810,
-      120,
+      1890,
+      123,
       null,
       1,
       0
@@ -111,129 +111,129 @@
     ],
     [
       "WbChaos2Skeleton",
-      3635,
-      120,
+      3862,
+      123,
       null,
       1,
       0
     ],
     [
       "EssenceFleshmonsterSummonedOnDeath",
-      4190,
-      120,
-      1008,
+      4470,
+      123,
+      1009,
       2,
       1
     ],
     [
       "EssenceBloodworm",
-      3515,
-      120,
+      3731,
+      123,
       null,
       1,
       0
     ],
     [
       "Essence Elemental Swarm 1st stage",
-      343,
-      120,
+      357,
+      123,
       105,
       4,
       1
     ],
     [
       "Essence Elemental Swarm 2nd stage",
-      344,
-      120,
+      358,
+      123,
       105,
       2,
       1
     ],
     [
       "Essence Elemental Swarm 3rd stage",
-      345,
-      120,
+      359,
+      123,
       105,
       2,
       1
     ],
     [
       "Essence Rock Golem",
-      3724,
-      120,
+      3972,
+      123,
       null,
       1,
       1
     ],
     [
       "Essence Explosive Insect",
-      1196,
-      120,
+      1256,
+      123,
       null,
       1,
       1
     ],
     [
       "Volatile Flameblood",
-      4207,
-      120,
+      4488,
+      123,
       null,
       1,
       1
     ],
     [
       "Obsidian Golem",
-      3461,
-      120,
+      3675,
+      123,
       null,
       1,
       1
     ],
     [
       "TormentedBetrayerBeacon",
-      6266,
-      120,
+      6658,
+      123,
       null,
       1,
       0
     ],
     [
       "BlightDaemonFire",
-      6580,
-      120,
+      6972,
+      123,
       105,
       1,
       0
     ],
     [
       "BlightDaemonCold",
-      6582,
-      120,
+      6974,
+      123,
       107,
       1,
       0
     ],
     [
       "BlightDaemonLightning",
-      6584,
-      120,
-      432,
+      6976,
+      123,
+      433,
       1,
       0
     ],
     [
       "BlightDaemonPhysical",
-      6586,
-      120,
-      507,
+      6978,
+      123,
+      508,
       1,
       0
     ],
     [
       "BlightDaemonChaos",
-      6588,
-      120,
-      1023,
+      6980,
+      123,
+      1024,
       1,
       0
     ]

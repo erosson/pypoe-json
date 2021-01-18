@@ -48,6 +48,14 @@
     [
       "QuickButtonA",
       "Controller/Button4"
+    ],
+    [
+      "QuickButtonLeftShoulder",
+      "Controller/ShoulderButtonLeft"
+    ],
+    [
+      "QuickButtonRightShoulder",
+      "Controller/ShoulderButtonRight"
     ]
   ]
 }

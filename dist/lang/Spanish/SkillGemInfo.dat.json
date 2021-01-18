@@ -238,7 +238,7 @@
     ],
     [
       "MagmaOrb&Combustion",
-      "Otorga más daño de fuego, probabilidad adicional de quemar enemigos a Orbe de Magma, y reduce la resistencia al fuego de enemigos quemados. Esto hace que sea una asistencia muy completa para cualquier habilidad de fuego.",
+      "Otorga más daño de fuego y probabilidad adicional de quemar enemigos a Bola de magma, y reduce la resistencia al fuego de los enemigos quemados. Esto hace que sea una asistencia muy completa para cualquier habilidad de fuego.",
       "http://web.poecdn.com/public/videos/MagmaOrb/MagmaOrb+Combustion.bk2",
       109,
       "http://down.qq.com/poe/videos/skills/MagmaOrb/MagmaOrb+Combustion.bk2",
@@ -251,7 +251,7 @@
     ],
     [
       "MagmaOrb&LMP",
-      "Aumenta la cantidad de proyectiles que lanza Orbe de Magma, lo que permitirá que golpee a más objetivos simultáneamente.\n\nA mayor nivel, obtén la gema de Asistencia de Proyectiles Múltiples Mayores para golpear enemigos en un área más grande.",
+      "Aumenta la cantidad de proyectiles que lanza Bola de magma, lo que permitirá que golpee a más objetivos simultáneamente.\n\nA mayor nivel, obtén la gema de Asistencia de Proyectiles Múltiples Mayores para golpear enemigos en un área más grande.",
       "http://web.poecdn.com/public/videos/MagmaOrb/MagmaOrb+LesserMultipleProjections.bk2 ",
       36,
       "http://down.qq.com/poe/videos/skills/MagmaOrb/MagmaOrb+LMP.bk2",
@@ -265,7 +265,7 @@
     ],
     [
       "MagmaOrb&FirePenetration",
-      "Reduce la resistencia de los enemigos al daño de fuego, por lo que reciben más daño de fuego de Orbe de Magma.",
+      "Reduce la resistencia de los enemigos al daño de fuego, por lo que reciben más daño de fuego de Bola de magma.",
       "http://web.poecdn.com/public/videos/MagmaOrb/MagmaOrb+FirePenetration.bk2 ",
       172,
       "http://down.qq.com/poe/videos/skills/MagmaOrb/MagmaOrb+FirePenetration.bk2",
@@ -273,7 +273,7 @@
     ],
     [
       "MagmaOrb&SpellEcho",
-      "Repite Orbe de Magma una vez adicional, además de aumentar en gran medida la velocidad de lanzamiento.",
+      "Repite Bola de magma una vez adicional, además de aumentar en gran medida la velocidad de lanzamiento.",
       "http://web.poecdn.com/public/videos/MagmaOrb/MagmaOrb+SpellEcho.bk2 ",
       188,
       "http://down.qq.com/poe/videos/skills/MagmaOrb/MagmaOrb+SpellEcho.bk2",
@@ -281,7 +281,7 @@
     ],
     [
       "MagmaOrb&SlowerProjectiles",
-      "Aumenta el daño de Orbe de Magma y reduce la distancia entre cada una de sus cadenas, lo que permitirá que el orbe impacte varias veces a un mismo grupo.",
+      "Aumenta el daño de Bola de magma y reduce la distancia entre cada uno de sus encadenamientos, lo cual permitirá que un orbe impacte varias veces en un mismo grupo de monstruos.",
       "http://web.poecdn.com/public/videos/MagmaOrb/MagmaOrb+SlowerProjectiles.bk2 ",
       209,
       "http://down.qq.com/poe/videos/skills/MagmaOrb/MagmaOrb+SlowerProjectiles.bk2",
@@ -289,7 +289,7 @@
     ],
     [
       "MagmaOrb&Empower",
-      "Aumenta el nivel de gema de Orbe de Magma, con lo que otorga daño de fuego base adicional y potencialmente permite que se encadene más veces. Esta gema solo puede caer de los monstruos como botín y es muy rara. Subir de nivel a esta gema de asistencia toma mucho tiempo, por lo que no es muy útil al comienzo.",
+      "Aumenta el nivel de gema de Bola de magma, con lo que otorga daño de fuego base adicional y potencialmente permite que se encadene más veces. Esta gema solo puede caer de los monstruos como botín y es muy rara. Subir de nivel a esta gema de asistencia toma mucho tiempo, por lo que no es muy útil al comienzo.",
       "http://web.poecdn.com/public/videos/MagmaOrb/MagmaOrb+Empower.bk2 ",
       200,
       "http://down.qq.com/poe/videos/skills/MagmaOrb/MagmaOrb+Empower.bk2",
@@ -1552,7 +1552,7 @@
     ],
     [
       "MagmaOrb&FasterCast",
-      "Aumenta la velocidad de lanzamiento de Orbe de Magma, lo que permite lanzar los proyectiles con más frecuencia.",
+      "Aumenta la velocidad de lanzamiento de Bola de magma, lo cual permite lanzar los proyectiles con más frecuencia.",
       "http://web.poecdn.com/public/videos/MagmaOrb/MagmaOrb+FasterCast.bk2",
       85,
       "http://down.qq.com/poe/videos/skills/MagmaOrb/MagmaOrb+FasterCasting.bk2",
@@ -1955,6 +1955,58 @@
       "http://web.poecdn.com/public/videos/EKineticBolt/EKineticBoltInspiration.bk2",
       55,
       "http://down.qq.com/poe/videos/tutorial/TKineticBoltInspiration.bk2",
+      []
+    ],
+    [
+      "SplittingSteel&Impale",
+      "Inflige más daño físico y empala a los enemigos, con lo que inflige daño adicional a los enemigos con golpes adicionales. Puedes empalar a los enemigos hasta cinco veces para infligirles aún más daño adicional.",
+      "http://web.poecdn.com/public/videos/ShatteringSteel/ESplitImpale.bk2",
+      406,
+      "http://down.qq.com/poe/videos/tutorial/TSplitBrutal.bk2",
+      []
+    ],
+    [
+      "SplittingSteel&Brutality",
+      "Hace que Acero explosivo inflija mucho más daño físico, pero no daño elemental.\n\nIntenta no obtener daño adicional de rayo, de fuego, de hielo o de caos con esta gema de asistencia, pues este se reducirá a cero.",
+      "http://web.poecdn.com/public/videos/ShatteringSteel/ESplitBrutality.bk2",
+      334,
+      "http://down.qq.com/poe/videos/tutorial/TSplitImpale.bk2",
+      []
+    ],
+    [
+      "SplittingSteel&LMP",
+      "Aumenta la cantidad de esquirlas que explotan de Acero explosivo cuando lanzas una esquirla de acero, por lo que golpea a más enemigos.\n\nObtén la gema de asistencia de Proyectiles múltiples mayores en niveles altos para lanzar más proyectiles y golpear a grupos más grandes de enemigos.",
+      "http://web.poecdn.com/public/videos/ShatteringSteel/ESplitMultiProj.bk2",
+      36,
+      "http://down.qq.com/poe/videos/tutorial/TSplitMultiProj.bk2",
+      [
+        4
+      ]
+    ],
+    [
+      "SplittingSteel&ViciousProjectiles",
+      "Aumenta considerablemente el daño físico infligido por Acero explosivo, a costa de reducir ligeramente tu velocidad de ataque. Es una manera invaluable de aumentar tu daño.",
+      "http://web.poecdn.com/public/videos/ShatteringSteel/ESplitViciousProj.bk2",
+      230,
+      "http://down.qq.com/poe/videos/tutorial/TSplitViciousProj.bk2",
+      []
+    ],
+    [
+      "SplittingSteel&Maim",
+      "Asiste a Acero explosivo con esta gema para lisiar a los enemigos, infligirles más daño físico y ralentizar su movimiento. Ralentiza a los monstruos para que te resulte más fácil evitarlos.",
+      "http://web.poecdn.com/public/videos/ShatteringSteel/ESplitMaim.bk2",
+      331,
+      "http://down.qq.com/poe/videos/tutorial/TSplitMaim.bk2",
+      [
+        4
+      ]
+    ],
+    [
+      "SplittingSteel&SlowerProjectiles",
+      "Ralentiza tus descargas de Acero explosivo para que golpeen más fuerte y hagan más daño. Los proyectiles que explotan de las esquirlas de Convocación de acero también son más lentos e infligen más daño.",
+      "http://web.poecdn.com/public/videos/ShatteringSteel/ESplitSlowerProj.bk2",
+      209,
+      "http://down.qq.com/poe/videos/tutorial/TSplitSlowerProj.bk2",
       []
     ]
   ]

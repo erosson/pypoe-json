@@ -719,7 +719,7 @@
     ],
     [
       "SpectralThrow&ChanceToBleed",
-      "Erhöht die Chance, mit 'Spektralwurf' bei Gegnern Bluten zu verursachen. Bluten  verursacht physischen Schaden über Zeit, der bei Zielen, die sich bewegen, höher ausfällt. Diese Unterstützungsgemme fügt 'Spektralwurf' außerdem eine kleine Menge an physischem Schaden hinzu.",
+      "Erhöht die Chance, mit 'Spektralwurf' bei Gegnern Bluten zu verursachen. Bluten verursacht physischen Schaden über Zeit, der bei Zielen, die sich bewegen, höher ausfällt. Diese Unterstützungsgemme fügt 'Spektralwurf' außerdem eine kleine Menge an physischem Schaden hinzu.",
       "http://web.poecdn.com/public/videos/SpectralThrow/SpectralThrow+ChancetoBleed.bk2",
       324,
       "http://down.qq.com/poe/videos/skills/SpectralThrow/SpectralThrow+ChancetoBleed.bk2",
@@ -980,7 +980,7 @@
     ],
     [
       "GroundSlam&ChanceToBleed",
-      "Erhöht die Chance, mit 'Schmetterhieb' bei Gegnern Bluten zu verursachen. Bluten  verursacht physischen Schaden über Zeit, der bei Zielen, die sich bewegen, höher ausfällt. Diese Unterstützungsgemme fügt 'Schmetterhieb' außerdem eine kleine Menge an physischem Schaden hinzu.",
+      "Erhöht die Chance, mit 'Schmetterhieb' bei Gegnern Bluten zu verursachen. Bluten verursacht physischen Schaden über Zeit, der bei Zielen, die sich bewegen, höher ausfällt. Diese Unterstützungsgemme fügt 'Schmetterhieb' außerdem eine kleine Menge an physischem Schaden hinzu.",
       "http://web.poecdn.com/public/videos/GroundSlam/GroundSlam+ChancetoBleed.bk2",
       324,
       "http://down.qq.com/poe/videos/skills/GroundSlam/GroundSlam+ChancetoBleed.bk2",
@@ -1955,6 +1955,58 @@
       "http://web.poecdn.com/public/videos/EKineticBolt/EKineticBoltInspiration.bk2",
       55,
       "http://down.qq.com/poe/videos/tutorial/TKineticBoltInspiration.bk2",
+      []
+    ],
+    [
+      "SplittingSteel&Impale",
+      "Fügt mehr physischen Schaden zu und spießt Gegner auf, was bei Gegnern mit zusätzlichen Treffern noch weiteren Schaden verursacht. Ihr könnt Gegner bis zu fünf Mal aufspießen, um diesen noch mehr Schaden zuzufügen.",
+      "http://web.poecdn.com/public/videos/ShatteringSteel/ESplitImpale.bk2",
+      406,
+      "http://down.qq.com/poe/videos/tutorial/TSplitBrutal.bk2",
+      []
+    ],
+    [
+      "SplittingSteel&Brutality",
+      "Bewirkt, dass 'Zersplitternder Stahl' viel mehr physischen Schaden aber keinen Elementarschaden verursacht.\n\nDiese Unterstützungsgemme solltet ihr nicht mit zusätzlichem Blitz-, Kälte-, Feuer- oder Chaosschaden verbinden, da diese auf Null reduziert werden.",
+      "http://web.poecdn.com/public/videos/ShatteringSteel/ESplitBrutality.bk2",
+      334,
+      "http://down.qq.com/poe/videos/tutorial/TSplitImpale.bk2",
+      []
+    ],
+    [
+      "SplittingSteel&LMP",
+      "Erhöht die Anzahl der Splitter, die durch 'Zersplitternder Stahl' explodieren, wenn ihr einen Stahlsplitter abfeuert, wodurch mehr Gegner getroffen werden.\n\nVerwendet 'Unterstützung: Größere Projektilaufteilung' ab einer späteren Stufe, um weitere Projektile abzufeuern und größere Gruppen von Gegnern zu treffen.",
+      "http://web.poecdn.com/public/videos/ShatteringSteel/ESplitMultiProj.bk2",
+      36,
+      "http://down.qq.com/poe/videos/tutorial/TSplitMultiProj.bk2",
+      [
+        4
+      ]
+    ],
+    [
+      "SplittingSteel&ViciousProjectiles",
+      "Erhöht den physischen Schaden, der mit 'Zersplitternder Stahl' verursacht wird und verringert im Gegenzug die Angriffsgeschwindigkeit. Ein wirkungsvoller Weg, den Schaden zu erhöhen.",
+      "http://web.poecdn.com/public/videos/ShatteringSteel/ESplitViciousProj.bk2",
+      230,
+      "http://down.qq.com/poe/videos/tutorial/TSplitViciousProj.bk2",
+      []
+    ],
+    [
+      "SplittingSteel&Maim",
+      "Unterstützt 'Zersplitternder Stahl' mit dieser Gemme, um Gegner zu verstümmelt, wodurch diese mehr physischen Schaden erleiden und in ihrer Bewegung verlansamt werden. Langsameren Monstern könnt ihr einfacher ausweichen.",
+      "http://web.poecdn.com/public/videos/ShatteringSteel/ESplitMaim.bk2",
+      331,
+      "http://down.qq.com/poe/videos/tutorial/TSplitMaim.bk2",
+      [
+        4
+      ]
+    ],
+    [
+      "SplittingSteel&SlowerProjectiles",
+      "Verlangsamt die Projektile von 'Zersplitternder Stahl', damit sie härter auftreffen und mehr Schaden verursachen. Die Projektile, die durch 'Ruf des Stahls' explodieren, sind langsamer, aber verursachen mehr Schaden.",
+      "http://web.poecdn.com/public/videos/ShatteringSteel/ESplitSlowerProj.bk2",
+      209,
+      "http://down.qq.com/poe/videos/tutorial/TSplitSlowerProj.bk2",
       []
     ]
   ]

@@ -238,7 +238,7 @@
     ],
     [
       "MagmaOrb&Combustion",
-      "마그마 보주로 주는 화염 피해가 증폭하고 적을 점화할 확률이 증가하며 점화된 적의 화염 저항력은 감소합니다. 이 보조 젬은 모든 화염 기반 스킬을 보조합니다.",
+      "몰려오는 마그마로 주는 화염 피해가 증폭하고 적을 점화할 확률이 증가하며 점화된 적의 화염 저항력은 감소합니다. 이 보조 젬은 모든 화염 기반 스킬을 보조합니다.",
       "http://web.poecdn.com/public/videos/MagmaOrb/MagmaOrb+Combustion.bk2",
       109,
       "http://down.qq.com/poe/videos/skills/MagmaOrb/MagmaOrb+Combustion.bk2",
@@ -251,7 +251,7 @@
     ],
     [
       "MagmaOrb&LMP",
-      "마그마 보주 시전 시, 더 많은 투사체를 만들어 한 번에 더 많은 대상을 명중시킵니다.\n\n레벨이 높아지면 상위 다중 투사체 보조 젬을 사용하여 더 넓은 범위에 있는 적을 명중시킬 수도 있습니다.",
+      "몰려오는 마그마 시전 시, 더 많은 투사체를 만들어 한 번에 더 많은 대상을 명중시킵니다.\n\n레벨이 높아지면 상위 다중 투사체 보조 젬을 사용하여 더 넓은 범위에 있는 적을 명중시킬 수도 있습니다.",
       "http://web.poecdn.com/public/videos/MagmaOrb/MagmaOrb+LesserMultipleProjections.bk2 ",
       36,
       "http://down.qq.com/poe/videos/skills/MagmaOrb/MagmaOrb+LMP.bk2",
@@ -265,7 +265,7 @@
     ],
     [
       "MagmaOrb&FirePenetration",
-      "적의 화염 피해 저항을 감소시켜, 마그마 보주에 더 큰 화염 피해를 받게 합니다.",
+      "적의 화염 피해 저항을 감소시켜, 몰려오는 마그마에 더 큰 화염 피해를 받게 합니다.",
       "http://web.poecdn.com/public/videos/MagmaOrb/MagmaOrb+FirePenetration.bk2 ",
       172,
       "http://down.qq.com/poe/videos/skills/MagmaOrb/MagmaOrb+FirePenetration.bk2",
@@ -273,7 +273,7 @@
     ],
     [
       "MagmaOrb&SpellEcho",
-      "마그마 보주가 1회 더 시전되며 시전 속도도 크게 증가합니다.",
+      "몰려오는 마그마가 1회 더 시전되며 시전 속도도 크게 증가합니다.",
       "http://web.poecdn.com/public/videos/MagmaOrb/MagmaOrb+SpellEcho.bk2 ",
       188,
       "http://down.qq.com/poe/videos/skills/MagmaOrb/MagmaOrb+SpellEcho.bk2",
@@ -281,7 +281,7 @@
     ],
     [
       "MagmaOrb&SlowerProjectiles",
-      "마그마 보주의 피해가 증가하고 연쇄되는 거리가 감소하여 하나의 구체가 다수의 몬스터와 여러 번 충돌할 수 있습니다.",
+      "몰려오는 마그마의 피해가 증가하고 연쇄되는 거리가 감소하여 하나의 구체가 다수의 몬스터와 여러 번 충돌할 수 있습니다.",
       "http://web.poecdn.com/public/videos/MagmaOrb/MagmaOrb+SlowerProjectiles.bk2 ",
       209,
       "http://down.qq.com/poe/videos/skills/MagmaOrb/MagmaOrb+SlowerProjectiles.bk2",
@@ -289,7 +289,7 @@
     ],
     [
       "MagmaOrb&Empower",
-      "마그마 보주의 젬 레벨을 올려 기본 화염 피해를 증가시키고, 추가로 연쇄하게 합니다. 이 젬은 드롭으로만 획득 가능하므로 희귀한 아이템입니다. 이 보조 젬의 레벨을 올리려면 오랜 시간이 걸리므로 초반에는 그다지 유용하지 않습니다.",
+      "몰려오는 마그마의 젬 레벨을 올려 기본 화염 피해를 증가시키고, 추가로 연쇄하게 합니다. 이 젬은 드롭으로만 획득 가능하므로 희귀한 아이템입니다. 이 보조 젬의 레벨을 올리려면 오랜 시간이 걸리므로 초반에는 그다지 유용하지 않습니다.",
       "http://web.poecdn.com/public/videos/MagmaOrb/MagmaOrb+Empower.bk2 ",
       200,
       "http://down.qq.com/poe/videos/skills/MagmaOrb/MagmaOrb+Empower.bk2",
@@ -297,7 +297,7 @@
     ],
     [
       "Fireball&BurningDamage",
-      "화염구로 발생하는 점화의 지속 피해가 크게 증가합니다. ",
+      "화염구로 발생하는 점화의 지속 피해가 크게 증가합니다.",
       "http://web.poecdn.com/public/videos/Fireball/Fireball+BurningDamage.bk2",
       192,
       "http://down.qq.com/poe/videos/skills/Fireball/Fireball+BurningDamage.bk2",
@@ -388,7 +388,7 @@
     ],
     [
       "RaiseZombie&MeleeSplash",
-      "좀비 소환수의 기본 공격이 효과 범위 공격으로 변경됩니다. 즉, 기본 공격으로 다수의 적을 동시에 명중할 수 있습니다. ",
+      "좀비 소환수의 기본 공격이 효과 범위 공격으로 변경됩니다. 즉, 기본 공격으로 다수의 적을 동시에 명중할 수 있습니다.",
       "http://web.poecdn.com/public/videos/RaiseZombies/RaiseZombies+MeleeSplash.bk2",
       189,
       "http://down.qq.com/poe/videos/skills/RaiseZombies/RaiseZombies+MeleeSplash.bk2",
@@ -440,7 +440,7 @@
     ],
     [
       "GlacialHammer&AncestralCall",
-      "빙하 망치가 주변 적 2명을 추가로 공격합니다. 이 보조 젬을 근접 범위 피해 보조 젬과 결합하면 광역 중복 피해를 줄 수 있습니다. ",
+      "빙하 망치가 주변 적 2명을 추가로 공격합니다. 이 보조 젬을 근접 범위 피해 보조 젬과 결합하면 광역 중복 피해를 줄 수 있습니다.",
       "http://web.poecdn.com/public/videos/GlacialHammer/GlacialHammer+AncestralCall.bk2",
       346,
       "http://down.qq.com/poe/videos/skills/GlacialHammer/GlacialHammer+AncestralCall.bk2",
@@ -462,7 +462,7 @@
     ],
     [
       "GlacialHammer&MeleePhysical",
-      "빙하 망치의 근접 물리 피해가 증폭됩니다. 물리 피해의 50%를 냉기 피해로 전환하므로, 이 보조 젬과 결합하면 빙하 망치가 주는 냉기 피해 또한 증가합니다. ",
+      "빙하 망치의 근접 물리 피해가 증폭됩니다. 물리 피해의 50%를 냉기 피해로 전환하므로, 이 보조 젬과 결합하면 빙하 망치가 주는 냉기 피해 또한 증가합니다.",
       "http://web.poecdn.com/public/videos/GlacialHammer/GlacialHammer+MeleePhysicalDamage.bk2",
       82,
       "http://down.qq.com/poe/videos/skills/GlacialHammer/GlacialHammer+MeleePhysicalDamage.bk2",
@@ -571,7 +571,7 @@
     ],
     [
       "ExplosiveTrap&ChargedTraps",
-      "적이 폭발 덫을 발동하면 일정 확률로 격분 충전과 권능 충전을 획득합니다. 격분 충전을 획득할 때마다 투척 속도가 증가하고 권능 충전을 획득할 때마다 치명타 피해 배율이 증가합니다. ",
+      "적이 폭발 덫을 발동하면 일정 확률로 격분 충전과 권능 충전을 획득합니다. 격분 충전을 획득할 때마다 투척 속도가 증가하고 권능 충전을 획득할 때마다 치명타 피해 배율이 증가합니다.",
       "http://web.poecdn.com/public/videos/ExplosiveTrap/ExplosiveTrap+ChargedTraps.bk2",
       359,
       "http://down.qq.com/poe/videos/skills/ExplosiveTrap/ExplosiveTrap+ChargedTrap.bk2",
@@ -832,7 +832,7 @@
     ],
     [
       "IceShot&SlowerProjectiles",
-      "얼음 화살 투사체의 속도가 감소하지만 투사체 피해는 증폭됩니다. ",
+      "얼음 화살 투사체의 속도가 감소하지만 투사체 피해는 증폭됩니다.",
       "http://web.poecdn.com/public/videos/Iceshot/Iceshot+SlowerProjectiles.bk2",
       209,
       "http://down.qq.com/poe/videos/skills/IceShot/Iceshot+SlowerProjectiles.bk2",
@@ -907,7 +907,7 @@
     ],
     [
       "SplitArrow&AddedFireDamage",
-      "시전자의 물리 피해에 비례한 추가 화염 피해를 줍니다. ",
+      "시전자의 물리 피해에 비례한 추가 화염 피해를 줍니다.",
       "http://web.poecdn.com/public/videos/SplitArrow/SplitArrow+AddedFireDamage.bk2",
       33,
       "http://down.qq.com/poe/videos/skills/SplitArrow/SplitArrow+AddedFireDamage.bk2",
@@ -972,7 +972,7 @@
     ],
     [
       "GroundSlam&Brutality",
-      "대지 강타의 물리 피해가 크게 증가하지만, 카오스 피해나 원소 피해를 줄 수는 없습니다. 이 보조 젬을 강력한 물리 피해를 가진 무기와 함께 사용하십시오. ",
+      "대지 강타의 물리 피해가 크게 증가하지만, 카오스 피해나 원소 피해를 줄 수는 없습니다. 이 보조 젬을 강력한 물리 피해를 가진 무기와 함께 사용하십시오.",
       "http://web.poecdn.com/public/videos/GroundSlam/GroundSlam+Brutality.bk2",
       334,
       "http://down.qq.com/poe/videos/skills/GroundSlam/GroundSlam+Brutality.bk2",
@@ -980,7 +980,7 @@
     ],
     [
       "GroundSlam&ChanceToBleed",
-      "대지 강타가 적에게 출혈 상태 이상을 일으킬 확률이 증가합니다. 출혈 상태가 되면 대상은 지속 물리 피해를 받고 이동 중인 경우 받는 피해가 증폭합니다. 또한 이 보조 젬과 대지 강타를 결합하면 소량의 균일 물리 피해를 추가로 줄 수 있습니다. ",
+      "대지 강타가 적에게 출혈 상태 이상을 일으킬 확률이 증가합니다. 출혈 상태가 되면 대상은 지속 물리 피해를 받고 이동 중인 경우 받는 피해가 증폭합니다. 또한 이 보조 젬과 대지 강타를 결합하면 소량의 균일 물리 피해를 추가로 줄 수 있습니다.",
       "http://web.poecdn.com/public/videos/GroundSlam/GroundSlam+ChancetoBleed.bk2",
       324,
       "http://down.qq.com/poe/videos/skills/GroundSlam/GroundSlam+ChancetoBleed.bk2",
@@ -1002,7 +1002,7 @@
     ],
     [
       "GroundSlam&Maim",
-      "대지 강타 명중 시, 일정 확률로 적이 힘줄 절단 상태가 됩니다. 힘줄 절단 상태가 된 적은 이동 속도가 감소하고 더 많은 물리 피해를 받습니다. 또한 이 보조 젬과 대지 강타를 결합하면 물리 피해를 증폭할 수 있습니다. ",
+      "대지 강타 명중 시, 일정 확률로 적이 힘줄 절단 상태가 됩니다. 힘줄 절단 상태가 된 적은 이동 속도가 감소하고 더 많은 물리 피해를 받습니다. 또한 이 보조 젬과 대지 강타를 결합하면 물리 피해를 증폭할 수 있습니다.",
       "http://web.poecdn.com/public/videos/GroundSlam/GroundSlam+Maim.bk2",
       331,
       "http://down.qq.com/poe/videos/skills/GroundSlam/GroundSlam+Maim.bk2",
@@ -1015,7 +1015,7 @@
     ],
     [
       "GroundSlam&MeleePhysicalDamage",
-      "대지 강타의 근접 물리 피해가 증폭됩니다. 이 보조 젬과 결합하면 출혈과 중독의 피해 또한 증가합니다. ",
+      "대지 강타의 근접 물리 피해가 증폭됩니다. 이 보조 젬과 결합하면 출혈과 중독의 피해 또한 증가합니다.",
       "http://web.poecdn.com/public/videos/GroundSlam/GroundSlam+MeleePhysicalDamage.bk2",
       82,
       "http://down.qq.com/poe/videos/skills/GroundSlam/GroundSlam+MeleePhysicalDamage.bk2",
@@ -1031,7 +1031,7 @@
     ],
     [
       "HeavyStrike&AncestralCall",
-      "묵직한 타격이 주변 적 2명을 추가로 공격합니다. 이 보조 젬을 근접 범위 피해 보조 젬과 결합하면 광역 중복 피해를 줄 수 있습니다. ",
+      "묵직한 타격이 주변 적 2명을 추가로 공격합니다. 이 보조 젬을 근접 범위 피해 보조 젬과 결합하면 광역 중복 피해를 줄 수 있습니다.",
       "http://web.poecdn.com/public/videos/HeavyStrike/HeavyStrike+AncestralCall.bk2",
       346,
       "http://down.qq.com/poe/videos/skills/HeavyStrike/HeavyStrike+AncestralCall.bk2",
@@ -1226,7 +1226,7 @@
     ],
     [
       "MoltenStrike&AncestralCall",
-      "용암 타격이 주변 적 2명을 추가로 공격합니다. 주변 적이 3명 이상이면 용암 타격의 투사체량이 3배 증가합니다. ",
+      "용암 타격이 주변 적 2명을 추가로 공격합니다. 주변 적이 3명 이상이면 용암 타격의 투사체량이 3배 증가합니다.",
       "http://web.poecdn.com/public/videos/MoltenStrike/MoltenStrike+AncestralCall.bk2",
       346,
       "http://down.qq.com/poe/videos/skills/MoltenStrike/MoltenStrike+AncestralCall.bk2",
@@ -1240,7 +1240,7 @@
     ],
     [
       "MoltenStrike&ConcerntratedEffect",
-      "용암 타격 투사체의 사거리는 감소하지만 범위 피해가 크게 증가합니다. 까다로운 단일 몬스터를 상대할 때 특히 유용합니다. ",
+      "용암 타격 투사체의 사거리는 감소하지만 범위 피해가 크게 증가합니다. 까다로운 단일 몬스터를 상대할 때 특히 유용합니다.",
       "http://web.poecdn.com/public/videos/MoltenStrike/MoltenStrike+ConcentratedEffect.bk2",
       105,
       "http://down.qq.com/poe/videos/skills/MoltenStrike/MoltenStrike+ConcentratedEffect.bk2",
@@ -1256,7 +1256,7 @@
     ],
     [
       "MoltenStrike&MeleePhysical",
-      "용암 타격의 근접 물리 피해를 증폭합니다. 물리 피해의 60%를 화염 피해로 전환하므로, 이 보조 젬과 결합하면 용암 타격이 주는 화염 피해 또한 증가합니다. ",
+      "용암 타격의 근접 물리 피해를 증폭합니다. 물리 피해의 60%를 화염 피해로 전환하므로, 이 보조 젬과 결합하면 용암 타격이 주는 화염 피해 또한 증가합니다.",
       "http://web.poecdn.com/public/videos/MoltenStrike/MoltenStrike+MeleePhysicalDamage.bk2",
       82,
       "http://down.qq.com/poe/videos/skills/MoltenStrike/MoltenStrike+MeleePhysicalDamage.bk2",
@@ -1310,7 +1310,7 @@
     ],
     [
       "CausticArrow&Pierce",
-      "부식성 화살의 투사체가 더 많은 적을 관통하게 하여 다수의 부식성 대지를 만들어 한 번에 더 많은 적에게 피해를 줍니다. ",
+      "부식성 화살의 투사체가 더 많은 적을 관통하게 하여 다수의 부식성 대지를 만들어 한 번에 더 많은 적에게 피해를 줍니다.",
       "http://web.poecdn.com/public/videos/CausticArrow/CausticArrow+Pierce.bk2",
       69,
       "http://down.qq.com/poe/videos/skills/CausticArrow/CausticArrow+Pierce.bk2",
@@ -1358,7 +1358,7 @@
     ],
     [
       "CausticArrow&WitheringTouch",
-      "시전자의 물리 피해에 비례한 추가 카오스 피해를 줍니다. 또한 일정 확률로 적에게 위축 디버프를 적용하며, 위축이 중첩될 때마다 적이 받는 카오스 피해가 6% 증가합니다(최대 15회 중첩). ",
+      "시전자의 물리 피해에 비례한 추가 카오스 피해를 줍니다. 또한 일정 확률로 적에게 위축 디버프를 적용하며, 위축이 중첩될 때마다 적이 받는 카오스 피해가 6% 증가합니다(최대 15회 중첩).",
       "http://web.poecdn.com/public/videos/CausticArrow/CausticArrow+WitheringTouch.bk2",
       367,
       "http://down.qq.com/poe/videos/skills/CausticArrow/CausticArrow+WitheringTouch.bk2",
@@ -1366,7 +1366,7 @@
     ],
     [
       "CausticArrow&Poison",
-      "부식성 화살 명중 시, 높은 확률로 중독 상태 이상을 부여합니다. 중독은 지속적으로 카오스 피해를 주기 때문에 부식성 화살이 생성한 부식성 대지로 얻는 대부분의 효과를 받을 수 있습니다. ",
+      "부식성 화살 명중 시, 높은 확률로 중독 상태 이상을 부여합니다. 중독은 지속적으로 카오스 피해를 주기 때문에 부식성 화살이 생성한 부식성 대지로 얻는 대부분의 효과를 받을 수 있습니다.",
       "http://web.poecdn.com/public/videos/CausticArrow/CausticArrow+Poison.bk2",
       298,
       "http://down.qq.com/poe/videos/skills/CausticArrow/CausticArrow+Poison.bk2",
@@ -1393,7 +1393,7 @@
     ],
     [
       "Smite&MeleePhysicalDamage",
-      "징벌의 근접 물리 피해가 증폭됩니다. 물리 피해의 50%를 번개 피해로 전환하므로, 이 보조 젬과 결합하면 징벌이 주는 번개 피해 또한 증가합니다.  ",
+      "징벌의 근접 물리 피해가 증폭됩니다. 물리 피해의 50%를 번개 피해로 전환하므로, 이 보조 젬과 결합하면 징벌이 주는 번개 피해 또한 증가합니다.",
       "http://web.poecdn.com/public/videos/Smite/Smite+MeleePhysicalDamage.bk2",
       82,
       "http://down.qq.com/poe/videos/skills/Smite/Smite+MeleePhysicalDamage.bk2",
@@ -1401,7 +1401,7 @@
     ],
     [
       "Smite&PhysicalToLightning",
-      "징벌이 주는 물리 피해의 50%를 번개 피해로 전환하고 시전자의 물리 피해에 비례하여 추가 번개 피해도 제공합니다. 스킬 젬에 의해 이미 물리 피해의 50%가 번개 피해로 전환된 상태이므로 징벌이 주는 모든 물리 피해가 원소 피해로 전환되는 셈입니다. ",
+      "징벌이 주는 물리 피해의 50%를 번개 피해로 전환하고 시전자의 물리 피해에 비례하여 추가 번개 피해도 제공합니다. 스킬 젬에 의해 이미 물리 피해의 50%가 번개 피해로 전환된 상태이므로 징벌이 주는 모든 물리 피해가 원소 피해로 전환되는 셈입니다.",
       "http://web.poecdn.com/public/videos/Smite/Smite+PhysicaltoLightning.bk2",
       264,
       "http://down.qq.com/poe/videos/skills/Smite/Smite+PhysicaltoLightning.bk2",
@@ -1409,7 +1409,7 @@
     ],
     [
       "Smite&ElementalDamageWithAttacks",
-      "징벌의 원소 피해를 증폭합니다. 징벌이 주는 모든 물리 피해를 원소 피해로 전환하여, 이 보조 젬이 제공하는 이점을 극대화합니다.  ",
+      "징벌의 원소 피해를 증폭합니다. 징벌이 주는 모든 물리 피해를 원소 피해로 전환하여, 이 보조 젬이 제공하는 이점을 극대화합니다.",
       "http://web.poecdn.com/public/videos/Smite/Smite+ElementalDamagewithAttacks.bk2",
       112,
       "http://down.qq.com/poe/videos/skills/Smite/Smite+WeaponElementalDamage.bk2",
@@ -1454,7 +1454,7 @@
     ],
     [
       "Frostbolt&Hypothermia",
-      "서리 구체의 냉각 및 동결 확률이 증가하고 냉각된 적이 받는 피해가 증폭됩니다. ",
+      "서리 구체의 냉각 및 동결 확률이 증가하고 냉각된 적이 받는 피해가 증폭됩니다.",
       "http://web.poecdn.com/public/videos/Frostbolt/Frostbolt+Hypothermia.bk2",
       279,
       "http://down.qq.com/poe/videos/skills/Frostbolt/Frostbolt%20+%20Hypothermia.bk2",
@@ -1478,7 +1478,7 @@
     ],
     [
       "Frostbolt&SpellTotem",
-      "서리 구체를 발사하는 토템 1개를 소환하여 캐릭터가 다른 행동을 할 수 있습니다. 다수의 토템을 소환하는 능력을 얻으면 매우 강력해질 수 있습니다. ",
+      "서리 구체를 발사하는 토템 1개를 소환하여 캐릭터가 다른 행동을 할 수 있습니다. 다수의 토템을 소환하는 능력을 얻으면 매우 강력해질 수 있습니다.",
       "http://web.poecdn.com/public/videos/Frostbolt/Frostbolt+SpellTotem.bk2",
       149,
       "http://down.qq.com/poe/videos/skills/Frostbolt/Frostbolt%20+%20Spell%20Totem.bk2",
@@ -1552,7 +1552,7 @@
     ],
     [
       "MagmaOrb&FasterCast",
-      "마그마 보주의 시전 속도가 증가하여, 투사체를 더 자주 발사할 수 있습니다.",
+      "몰려오는 마그마의 시전 속도가 증가하여, 투사체를 더 자주 발사할 수 있습니다.",
       "http://web.poecdn.com/public/videos/MagmaOrb/MagmaOrb+FasterCast.bk2",
       85,
       "http://down.qq.com/poe/videos/skills/MagmaOrb/MagmaOrb+FasterCasting.bk2",
@@ -1605,7 +1605,7 @@
     ],
     [
       "PurifyingFlame&AddedFire",
-      "시전자의 물리 피해에 비례한 추가 화염 피해를 줍니다. ",
+      "시전자의 물리 피해에 비례한 추가 화염 피해를 줍니다.",
       "http://web.poecdn.com/public/videos/PurifyingFlame/PF+AddedFire.bk2",
       33,
       "https://down.qq.com/poe/videos/skills/PurifyingFlames/PurifyingFlames+AddedFireDamageCN.bk2",
@@ -1955,6 +1955,58 @@
       "http://web.poecdn.com/public/videos/EKineticBolt/EKineticBoltInspiration.bk2",
       55,
       "http://down.qq.com/poe/videos/tutorial/TKineticBoltInspiration.bk2",
+      []
+    ],
+    [
+      "SplittingSteel&Impale",
+      "증폭된 물리 피해를 주고 적들을 꿰뚫어, 추가 적중 시에 추가 피해를 줍니다. 적을 최대 다섯 번까지 꿰뚫어 추가 피해를 줄 수 있습니다.",
+      "http://web.poecdn.com/public/videos/ShatteringSteel/ESplitImpale.bk2",
+      406,
+      "http://down.qq.com/poe/videos/tutorial/TSplitBrutal.bk2",
+      []
+    ],
+    [
+      "SplittingSteel&Brutality",
+      "강철 분할이 주는 물리 피해가 더욱 증폭되지만, 원소 피해는 0이 됩니다.\n\n해당 보조 젬을 사용할 때에는 번개, 화염, 냉기 혹은 카오스 피해가 0이 되므로 해당하는 속성의 추가 피해를 높이지 마십시오.",
+      "http://web.poecdn.com/public/videos/ShatteringSteel/ESplitBrutality.bk2",
+      334,
+      "http://down.qq.com/poe/videos/tutorial/TSplitImpale.bk2",
+      []
+    ],
+    [
+      "SplittingSteel&LMP",
+      "강철 조각을 발사할 때 강철 분할로 폭발하는 조각의 수를 증가시켜 더 많은 수의 적을 타격합니다.\n\n더 높은 레벨에서 상위 다중 투사체 보조 젬과 함께 사용하면 더 많은 적에게 추가 투사체를 발사할 수 있습니다.",
+      "http://web.poecdn.com/public/videos/ShatteringSteel/ESplitMultiProj.bk2",
+      36,
+      "http://down.qq.com/poe/videos/tutorial/TSplitMultiProj.bk2",
+      [
+        4
+      ]
+    ],
+    [
+      "SplittingSteel&ViciousProjectiles",
+      "강철 분할이 주는 물리 피해가 크게 증가하고, 대신 공격 속도가 약간 감소합니다. 피해를 증가시킬 때 효과적인 방법입니다.",
+      "http://web.poecdn.com/public/videos/ShatteringSteel/ESplitViciousProj.bk2",
+      230,
+      "http://down.qq.com/poe/videos/tutorial/TSplitViciousProj.bk2",
+      []
+    ],
+    [
+      "SplittingSteel&Maim",
+      "해당 젬의 보조를 받는 강철 분할이 적에게 힘줄 절단을 유발하여 더 많은 물리 피해를 주고 이동 속도를 감소시킵니다. 몬스터의 속도를 늦춰 공격을 더 쉽게 피할 수 있습니다.",
+      "http://web.poecdn.com/public/videos/ShatteringSteel/ESplitMaim.bk2",
+      331,
+      "http://down.qq.com/poe/videos/tutorial/TSplitMaim.bk2",
+      [
+        4
+      ]
+    ],
+    [
+      "SplittingSteel&SlowerProjectiles",
+      "강철 분할로 발사되는 화살의 속도를 늦춰, 증폭된 피해를 주도록 합니다. 강철의 부름의 조각에서 터져 나오는 투사체들도 느려지고, 증폭된 피해를 줍니다.",
+      "http://web.poecdn.com/public/videos/ShatteringSteel/ESplitSlowerProj.bk2",
+      209,
+      "http://down.qq.com/poe/videos/tutorial/TSplitSlowerProj.bk2",
       []
     ]
   ]

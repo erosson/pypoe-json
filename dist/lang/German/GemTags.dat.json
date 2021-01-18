@@ -97,33 +97,33 @@
       "fire",
       "Feuer",
       516,
-      9086,
-      10315,
-      10769
+      9077,
+      10298,
+      10751
     ],
     [
       "cold",
       "Kälte",
       517,
-      9087,
-      10316,
-      10770
+      9078,
+      10299,
+      10752
     ],
     [
       "lightning",
       "Blitz",
       518,
-      9088,
-      10317,
-      10771
+      9079,
+      10300,
+      10753
     ],
     [
       "chaos",
       "Chaos",
       519,
-      9089,
-      10318,
-      10772
+      9080,
+      10301,
+      10754
     ],
     [
       "spell",
@@ -137,7 +137,7 @@
       "projectile",
       "Projektil",
       520,
-      9097,
+      9088,
       null,
       null
     ],
@@ -145,7 +145,7 @@
       "bow",
       "Bogen",
       523,
-      9091,
+      9082,
       null,
       null
     ],
@@ -153,7 +153,7 @@
       "melee",
       "Nahkampf",
       522,
-      9090,
+      9081,
       null,
       null
     ],
@@ -161,7 +161,7 @@
       "minion",
       "Kreatur",
       524,
-      9085,
+      9076,
       null,
       null
     ],
@@ -169,31 +169,31 @@
       "strength",
       "",
       756,
-      9093,
+      9084,
       null,
-      10774
+      10756
     ],
     [
       "dexterity",
       "",
       757,
-      9094,
+      9085,
       null,
-      10775
+      10757
     ],
     [
       "intelligence",
       "",
       758,
-      9095,
+      9086,
       null,
-      10776
+      10758
     ],
     [
       "aura",
       "Aura",
       1064,
-      9092,
+      9083,
       null,
       null
     ],
@@ -208,15 +208,15 @@
     [
       "area",
       "Wirkungsbereich",
-      7949,
-      9096,
+      7947,
+      9087,
       null,
       null
     ],
     [
       "duration",
       "Dauer",
-      7948,
+      7946,
       null,
       null,
       null
@@ -224,15 +224,15 @@
     [
       "support",
       "Unterstützung",
-      2230,
-      2444,
+      2231,
+      2446,
       null,
       null
     ],
     [
       "curse",
       "Fluch",
-      2035,
+      2036,
       null,
       null,
       null
@@ -256,7 +256,7 @@
     [
       "trap",
       "Falle",
-      8041,
+      8038,
       null,
       null,
       null
@@ -288,7 +288,7 @@
     [
       "vaal",
       "Vaal",
-      2151,
+      2152,
       null,
       null,
       null
@@ -296,7 +296,7 @@
     [
       "active_skill",
       "",
-      2415,
+      2417,
       null,
       null,
       null
@@ -312,7 +312,7 @@
     [
       "warcry",
       "Kriegsschrei",
-      3183,
+      3184,
       null,
       null,
       null
@@ -320,7 +320,7 @@
     [
       "golem",
       "Golem",
-      3187,
+      3188,
       null,
       null,
       null
@@ -362,8 +362,8 @@
       "Physisch",
       null,
       null,
-      10319,
-      10773
+      10302,
+      10755
     ],
     [
       "guard",
@@ -432,7 +432,7 @@
     [
       "hex",
       "Verhexung",
-      13160,
+      13138,
       null,
       null,
       null
@@ -440,6 +440,14 @@
     [
       "mark",
       "Mal",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "orb",
+      "Sphäre",
       null,
       null,
       null,

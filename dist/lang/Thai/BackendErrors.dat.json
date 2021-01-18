@@ -566,6 +566,10 @@
       "บัญชีของคุณถูก GM ปิดเสียง คุณจะสามารถคุยได้อีกครั้งในอีก {0}"
     ],
     [
+      "MutedUntilSecondsConsole",
+      "บัญชีของคุณถูก GM ปิดเสียง คุณจะสามารถคุยได้อีกครั้งในอีก {0}"
+    ],
+    [
       "ObaPlayerJoined",
       "เร็วเข้า"
     ],
@@ -2155,11 +2159,43 @@
     ],
     [
       "NotHeistOwner",
-      "Error: You are not the owner of this Heist"
+      "เกิดข้อผิดพลาด: คุณไม่ใช่เจ้าของ Heist นี้"
+    ],
+    [
+      "ReceivedAtlasRespecPoint1",
+      "คุณได้รับแต้มรีพาสซีพของสมุดแผนที่ 1 แต้ม"
+    ],
+    [
+      "ReceivedAtlasRespecPointN",
+      "คุณได้รับแต้มรีพาสซีพของสมุดแผนที่ {0} แต้ม"
+    ],
+    [
+      "ReceivedAtlasPassivePointN",
+      "คุณได้รับแต้มพาสซีพของสมุดแผนที่ {1} แต้มสำหรับ {0}"
+    ],
+    [
+      "MavenNotEnoughBosses",
+      "การเปิดใช้งานล้มเหลว คุณยังสะสมบอสจากเขตนี้ไม่เพียงพอ"
+    ],
+    [
+      "MavenCitadelNotUnlocked",
+      "Activation failed. You have not unlocked the Citadel for this Atlas Region."
     ],
     [
       "StashAffinityFailedNoRoom",
-      "Your Stash Tab with the {0} Affinity does not have enough space for this item."
+      "คลังเก็บของที่เป็นคลังเป้าหมายสำหรับ {0} มีพื้นที่ไม่พอที่จะเก็บไอเทมชิ้นนี้"
+    ],
+    [
+      "FailedToAddMavenToMap",
+      "ไม่สามารถใส่ Maven ลงในแผนที่ได้เนื่องจาก: {0}"
+    ],
+    [
+      "RitualFragmentNotValidForUse",
+      "การเปิดใช้งานล้มเหลว Blood-Soaked Effigies สามารถใช้ได้ภายในลีก Ritual เท่านั้น"
+    ],
+    [
+      "MapDeviceInvalidQuestState",
+      "การเปิดใช้งานล้มเหลว สถานะเควสของคุณยังไม่ถึงระดับที่สามารถใช้งานได้"
     ]
   ]
 }

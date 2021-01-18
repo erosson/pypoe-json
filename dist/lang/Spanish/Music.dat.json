@@ -2607,6 +2607,18 @@
       ]
     ],
     [
+      "Ritual",
+      "Audio/Music/Ritual/Ritual",
+      "Ritual.bank",
+      61600,
+      1,
+      "Ritual",
+      26,
+      [
+        13
+      ]
+    ],
+    [
       "OrionAmbience",
       "Audio/Music/AtlasRework/OrionAmbience",
       "AtlasReworkAmbience.bank",
@@ -2737,6 +2749,44 @@
       "",
       26,
       []
+    ],
+    [
+      "MavensKeep",
+      "Audio/Music/Maven/MavensKeep",
+      "Maven.bank",
+      46429,
+      1,
+      "El terreno de pruebas",
+      26,
+      [
+        13
+      ]
+    ],
+    [
+      "MavenBoss",
+      "Audio/Music/Maven/MavenBoss",
+      "Maven.bank",
+      32043,
+      1,
+      "Especialista",
+      26,
+      [
+        0,
+        13
+      ]
+    ],
+    [
+      "BossRush",
+      "Audio/Music/Maven/BossRush",
+      "Maven.bank",
+      26087,
+      1,
+      "El desafío de la Especialista",
+      26,
+      [
+        0,
+        13
+      ]
     ],
     [
       "BasiliskResolve",

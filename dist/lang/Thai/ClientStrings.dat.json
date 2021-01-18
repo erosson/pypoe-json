@@ -3055,7 +3055,7 @@
     ],
     [
       "OptionsDialogueInChatPopup",
-      "นำบทสนทนาของตัวละครไปที่แชทนอกเหนือจากเสียง",
+      "นำบทสนทนาของตัวละครกับ NPC ออกไปที่แชทพร้อมกับการเล่นเสียง",
       "",
       1213515967,
       ""
@@ -5491,14 +5491,14 @@
     ],
     [
       "InstanceChooserLabel",
-      "คุณกำลังเข้าสู่พื้นที่ {0}\r\n\r\nเลือกอินสแตนซ์ที่จะเข้าจากด้านล่าง",
+      "คุณกำลังเข้าสู่พื้นที่ {0}\r\nเลือกอินสแตนซ์ที่จะเข้าจากด้านล่าง",
       "",
       1393166404,
       ""
     ],
     [
       "InstanceChooserLabelHeist",
-      "You are about to enter a Heist area\r\nChoose an instance to enter below.",
+      "คุณกำลังเข้าสู่พื้นที่ Heist\r\nเลือกอินสแตนซ์ที่จะเข้าจากด้านล่าง",
       "",
       -1829974179,
       ""
@@ -5603,14 +5603,14 @@
     ],
     [
       "InstanceChooserHeistHeader",
-      "Heist Area",
+      "พื้นที่ Heist",
       "",
       -1284033258,
       ""
     ],
     [
       "InstanceChooserHeistArea",
-      "{1}\r\nCreated by {0}",
+      "{1}\r\nสร้างโดย {0}",
       "",
       -755228054,
       ""
@@ -6561,6 +6561,27 @@
       ""
     ],
     [
+      "ItemDescriptionMavenAlteration",
+      "คลิกขวาที่ไอเทมนี้แล้วคลิกซ้ายบนเครื่องเปิดแผนที่ภายในที่ซ่อนของคุณเพื่อติดสัญญาณเรียกของเมเวน",
+      "ใช้ไอเทมนี้กับเครื่องเปิดแผนที่ภายในที่ซ่อนของคุณเพื่อติดสัญญาณเรียกของเมเวน",
+      1872848573,
+      ""
+    ],
+    [
+      "ItemFunctionMavenMap",
+      "ใช้กับเครื่องเปิดแผนที่ส่วนตัว",
+      "",
+      295668964,
+      ""
+    ],
+    [
+      "ItemFunctionMavenMapCraftable",
+      "Can be used in a personal Map Device. Modifiers to Item Quantity will affect the number of encounter rewards dropped.",
+      "",
+      -867359568,
+      ""
+    ],
+    [
       "ItemFunctionBanditRespecAlira",
       "รับความช่วยเหลือของอลิรา",
       "",
@@ -6614,6 +6635,13 @@
       "ให้แต้มพาสซีฟสกิลและสองแต้มพาสซีฟเรสเปค",
       "",
       1883333709,
+      ""
+    ],
+    [
+      "ItemFunctionMavenAlteration",
+      "ทำให้คุณสามารถเรียกเมเวนไปสู่แผนที่หนึ่งจากเครื่องเปิดแผนที่ของคุณ",
+      "",
+      1854274428,
       ""
     ],
     [
@@ -8689,10 +8717,10 @@
       ""
     ],
     [
-      "ItemErrorNoTargetChest",
-      "ไม่พบหีบสมบัติเป้าหมาย",
+      "ItemErrorNoTargetFound",
+      "ไม่พบวัตถุเป้าหมาย",
       "",
-      -374208601,
+      -1883872711,
       ""
     ],
     [
@@ -8714,6 +8742,13 @@
       "ตรวจสอบเป้าหมายแล้ว",
       "",
       563966131,
+      ""
+    ],
+    [
+      "ItemErrorTargetNotMapDevice",
+      "เป้าหมายไม่ใช่เครื่องเปิดแผนที่ของคุณ",
+      "",
+      1335405894,
       ""
     ],
     [
@@ -10733,6 +10768,13 @@
       ""
     ],
     [
+      "MissionTrackStrDexIntFailedBlight",
+      "ภารกิจล้มเหลว คุณหยุดยั้ง Blight ไม่สำเร็จ",
+      "",
+      -128708828,
+      ""
+    ],
+    [
       "MissionTrackStrDexIntComplete",
       "ภารกิจเสร็จสิ้น",
       "",
@@ -10887,6 +10929,34 @@
       ""
     ],
     [
+      "MissionTrackStrDexIntCompleteHarvest",
+      "ผ่าน Harvest ให้สำเร็จ",
+      "",
+      1360686376,
+      ""
+    ],
+    [
+      "MissionTrackStrDexIntCompleteBlight1",
+      "ผ่านการเผชิญหน้าไบล์ท",
+      "",
+      -472106124,
+      ""
+    ],
+    [
+      "MissionTrackStrDexIntCompleteBlightN",
+      "ผ่านการเผชิญหน้าไบล์ททั้งหมด ({0}/{1})",
+      "",
+      73086834,
+      ""
+    ],
+    [
+      "MissionTrackStrDexIntCompleteBlightedMap",
+      "ผ่านการเผชิญหน้าไบล์ท",
+      "",
+      942573496,
+      ""
+    ],
+    [
       "MissionTrackStrDexIntExiles",
       "สังหาร Rogue Exiles",
       "",
@@ -10992,6 +11062,20 @@
       ""
     ],
     [
+      "MissionTrackStrDexIntPrepMetamorph",
+      "เก็บตัวอย่างมอนสเตอร์ให้กับเทน\nสร้างและสังหาร Metamorph",
+      "",
+      -1128887465,
+      ""
+    ],
+    [
+      "MissionTrackStrDexIntSlayMetamorph",
+      "สังหาร Metamorph",
+      "",
+      1697176817,
+      ""
+    ],
+    [
       "MissionTrackStrDexIntUniqueStrongbox",
       "เปิดกล่อง Unique Strongbox",
       "",
@@ -11017,6 +11101,13 @@
       "เปิดรอยแยก the Breach ทั้งหมด ({0}/{1})",
       "",
       -370130764,
+      ""
+    ],
+    [
+      "MissionTrackStrDexIntDelirium",
+      "เปิดกระจกเดลิเรียม",
+      "",
+      1055064308,
       ""
     ],
     [
@@ -12184,7 +12275,7 @@
     [
       "DivinationWindowTradeButton",
       "แลกเปลี่ยน",
-      "<<xbox_button_a>> เพื่อแลกเปลี่ยน",
+      "",
       -1840757987,
       ""
     ],
@@ -13939,6 +14030,13 @@
       ""
     ],
     [
+      "MavenPortalsDisabled",
+      "พลังของเมเวนทำให้คุณไม่สามารถใช้ใบวาร์ปได้",
+      "",
+      966005961,
+      ""
+    ],
+    [
       "OptionsLanguageChangeNoRestart",
       "คุณต้อง Restart Path of Exile เพื่อให้ภาษาที่คุณเลือกทำงาน",
       "",
@@ -13947,7 +14045,7 @@
     ],
     [
       "ChallengesInformation",
-      "คุณจะได้รับแฟชั่น Heist เมื่อทำภารกิจท้าทายผ่านทุกๆ 12 ภารกิจ",
+      "คุณจะได้รับไอเทมแฟชั่น Ritual เมื่อทำภารกิจท้าทายผ่านทุกๆ 12 ภารกิจ",
       "",
       1156891019,
       ""
@@ -14122,7 +14220,7 @@
     ],
     [
       "ReminderTextTailwind",
-      "(Tailwind เพิ่มความเร็วของ Action 10%)",
+      "(Tailwind เพิ่มความเร็วตัวละคร 8%)",
       "",
       623969398,
       ""
@@ -14815,7 +14913,7 @@
     ],
     [
       "MonsterGoatmanFireShamanChampionInfoString",
-      "ร่าย Magma Orb\nร่าย Fireball\nร่าย Molten Shell",
+      "ร่าย Rolling Magma\nร่าย Fireball\nร่าย Molten Shell",
       "",
       -1120461354,
       ""
@@ -17552,7 +17650,7 @@
     ],
     [
       "ReminderTextFarShot",
-      "(การโจมตีระยะไกลจะแรงขึ้นตามระยะ จะเพิ่มความเสียหายแก่เป้าหมายได้สูงสุดถึง 30%)",
+      "(การปะทะจากการโจมตีด้วยกระสุนจะสร้างความเสียหายลดลง 20% ณ จุดเริ่มต้นของการเคลื่อนที่ของกระสุนนั้น และสร้างความเสียหายเพิ่มขึ้นเรื่อยๆ สูงสุดเพิ่มขึ้น อีก 60% ขณะที่กระสุนเดินทางไกลออกไป)",
       "",
       -35193492,
       ""
@@ -30187,7 +30285,7 @@
     ],
     [
       "TencentLeagueInfoFrameDescription",
-      "ปลูกเมล็ดพันธุ์ให้กลายเป็นศัตรูสุดอันตรายได้ที่สวนศักดิ์สิทธิ์ของ โอชาบิ เพาะพันธุ์และเก็บเกี่ยวมอนสเตอร์เพื่อรับสูตรคราฟอันทรงพลังได้ในลีก Harvest",
+      "จ้างเหล่าโจรมืออาชีพเพื่อช่วยทำการโจรกรรมอันสุ่มเสี่ยง ขโมยวัตถุโบราณล้ำค่าด้วยทีมงานแสนชำนาญและวางแผนไปสู่การโจรกรรมครั้งยิ่งใหญ่",
       "",
       -1087608102,
       ""
@@ -30453,7 +30551,7 @@
     ],
     [
       "GraphicsTabBloomStrengthPopup",
-      "Bloom<size:3>{\n}<size:29>{\r\nการตั้งค่านี้จะควบคุมปริมาณการกระจายของแสงจากเอฟเฟคที่สว่าง นี่เป็นเพียงการตั้งค่าความสวยงามตามความชอบเท่านั้นไม่ส่งผลต่อประสิทธิภาพของเกม}",
+      "Bloom<size:3>{\n}<size:29>{\r\nการตั้งค่านี้จะควบคุมปริมาณการกระจายแสงที่คุณได้เห็นจากเอฟเฟคที่สว่าง นี่เป็นเพียงการตั้งค่าความสวยงามตามความชอบเท่านั้นและไม่ส่งผลต่อประสิทธิภาพของเกม}",
       "",
       -1039331254,
       ""
@@ -33140,10 +33238,59 @@
       ""
     ],
     [
+      "MapDeviceWarningQuestStateInvalid",
+      "การผ่านเควสของคุณไม่พอที่จะเข้าถึงพื้นที่นี้ได้",
+      "",
+      1233540811,
+      ""
+    ],
+    [
+      "MapDeviceWarningNotEnoughCollectedMapsForMaven",
+      "เมเวนยังไม่ได้เป็นสักขีพยานต่อการเผชิญหน้าบอสกับมากพอจาก {0} {1}",
+      "",
+      -1769110154,
+      ""
+    ],
+    [
       "AltasNodePopupAreaContainsText",
       "พื้นที่มี {0}",
       "",
       -55886965,
+      ""
+    ],
+    [
+      "AddMavenErrorMapAlreadyCollected",
+      "เมเวนได้เป็นสักขีพยานต่อการเผชิญหน้ากับบอสประจำแผนที่นี้แล้ว",
+      "",
+      -1771648578,
+      ""
+    ],
+    [
+      "AddMavenErrorInvalidArea",
+      "เมเวนไม่มีความสนใจต่อพื้นที่นี้",
+      "",
+      1213445134,
+      ""
+    ],
+    [
+      "AddMavenErrorInvalidUniqueMap",
+      "เมเวนไม่สามารถถูกเรียกมายังแผนที่ยูนิคนี้ได้",
+      "",
+      1912983059,
+      ""
+    ],
+    [
+      "AddMavenErrorInvalidQuestState",
+      "เมเวนยังไม่มีความสนใจต่อเขตนี้",
+      "",
+      870222046,
+      ""
+    ],
+    [
+      "AddMavenErrorMapTooLowLevel",
+      "แผนที่นี้มีเลเวลต่ำเกินกว่าที่เมเวนจะให้ความสนใจ",
+      "",
+      1685682043,
       ""
     ],
     [
@@ -35472,7 +35619,7 @@
     ],
     [
       "WatchstoneDescriptionText",
-      "นำสิ่งนี้ใส่ลงในหอคอยในสมุดแผนที่เพื่อเพิ่มระดับของแผนที่พร้อมเผยให้เห็นแผนที่ที่ซ่อนเร้นในเขตหอคอย คุณสามารถใส่อัญมณีผู้พิทักษ์ลงในหอคอยเดียวกันได้เพียงชนิดเดียว",
+      "นำสิ่งนี้ใส่ลงในหอคอยในสมุดแผนที่เพื่อเพิ่มระดับของแผนที่พร้อมเผยให้เห็นแผนที่ที่ซ่อนเร้นในเขตหอคอย คุณสามารถใส่อัญมณีผู้พิทักษ์เลือดนก, มรกต, โคบอลต์, หรือทองคำลงในหอคอยเดียวกันได้เพียงชนิดละหนึ่งเม็ด",
       "",
       1364401820,
       ""
@@ -36417,7 +36564,7 @@
     ],
     [
       "HarvestCraftingUIInfo",
-      "เลือกม็อดที่คุณต้องการ จากนั้นวางไอเทมที่คุณต้องการแก้ไขลงในช่องใส่ไอเทม ตัวเลือกม็อดต่างๆนี้จะต้องใช้พลังแห่งชีวิตสดๆเท่านั้น และพลังแห่งชีวิตที่เหลือจะสามารถนำมากลั่นเพื่อเก็บไว้ปลูกเมล็ดพันธุ์ระดับสูงได้ พลังแห่งชีวิตที่กลั่นแล้วจะไม่สามารถนำมาคราฟได้อีกต่อไป และตัวเลือกการคราฟและพลังแห่งชีวิตเหล่านี้จะหายไปเมื่อคุณเข้าสู่สวนศักดิ์สิทธิ์จากพื้นที่อื่น",
+      "เลือกม็อดที่คุณต้องการ จากนั้นวางไอเทมที่คุณต้องการแก้ไขลงในช่องใส่ไอเทม ตัวเลือกการคราฟเหล่านี้จะหายไปเมื่อคุณเข้าสู่สวนศักดิ์สิทธิ์จากพื้นที่อื่น",
       "",
       1000398599,
       ""
@@ -37012,7 +37159,7 @@
     ],
     [
       "ItemDescriptionPlantBoosterPlaced",
-      "[DNT] Control-click to return this Plant Booster to your inventory.",
+      "[UNUSED] Control-click to return this Plant Booster to your inventory.",
       "",
       874381046,
       ""
@@ -37446,7 +37593,7 @@
     ],
     [
       "HarvestCraftingToSiloPopup",
-      "ส่งสูตรคราฟนี้ไปเก็บไว้ใน โต๊ะคราฟสวน ที่เชื่อมไว้",
+      "ส่งสูตรคราฟนี้ไปเก็บไว้ในโต๊ะคราฟสวนของคุณ",
       "บันทึกสูตรคราฟ",
       -1939641360,
       ""
@@ -37477,6 +37624,13 @@
       "สลับระหว่าง ช่องเก็บของตัวละคร และ คลังเก็บของ\nไอเทมจากคลังเก็บของมีไว้คราฟเท่านั้น และไม่สามารถนำออกมาได้",
       "",
       -1147455374,
+      ""
+    ],
+    [
+      "HarvestCraftingInventoryTogglePopupHideout",
+      "สลับระหว่าง ช่องเก็บของตัวละคร และคลังเก็บของ\nสามารถเลือกไอเทมจากคลังเก็บของมาคราฟได้",
+      "",
+      466180397,
       ""
     ],
     [
@@ -37524,14 +37678,14 @@
     [
       "ConsoleHarvestPlace",
       "",
-      "Place",
+      "วาง",
       78420354,
       ""
     ],
     [
       "ConsoleHarvestMultiPlace",
       "",
-      "Repeat Place",
+      "วางซ้ำ",
       -1054128878,
       ""
     ],
@@ -37628,7 +37782,7 @@
     ],
     [
       "ReminderTextKeystoneTheImpaler",
-      "(เมื่อคุณปะทะศัตรูและทำให้เกิดสถานะทิ่มแทง คุณจะสร้างสถานะทิ่มแทงให้กับศัตรูที่อยู่ใกล้ด้วย เมื่อใดที่คุณสร้างสถานะทิ่มแทงคุณจะสร้างเพิ่มอีก 4 ครั้ง ศัตรูที่ถูกคุณทิ่มแทงจะไม่สามารถโดนทิ่มแทงได้อีกเป็นเวลา 4 วินาที)",
+      "(เมื่อคุณปะทะศัตรูและทำให้เกิดสถานะทิ่มแทง คุณจะสร้างสถานะทิ่มแทงให้กับศัตรูที่อยู่ใกล้ด้วย เมื่อใดที่คุณสร้างสถานะทิ่มแทงคุณจะสร้างเพิ่มอีก 4 ครั้ง ศัตรูที่ถูกคุณทิ่มแทงจะไม่สามารถโดนทิ่มแทงได้อีกเป็นเวลา 4 วินาที และเรียกเหล็กกล้า (Call of Steel) ไม่สามารถกำจัดสถานะทิ่มแทงออกจากพวกมันได้)",
       "",
       -558981857,
       ""
@@ -37643,7 +37797,7 @@
     [
       "ConsoleActionSelectItem",
       "",
-      "Select",
+      "เลือก",
       -549581585,
       ""
     ],
@@ -37657,28 +37811,28 @@
     [
       "HarvestNotificationReadyCount",
       "พร้อมบางส่วน x{0}",
-      "x{0} Collectors Partially Ready",
+      "เครื่องเก็บเกี่ยวพร้อมบางส่วน x{0}",
       1809254233,
       ""
     ],
     [
       "HarvestNotificationReadyCount1",
       "พร้อมบางส่วน x1",
-      "x1 Collector Partially Ready",
+      "เครื่องเก็บเกี่ยวพร้อมบางส่วน x1",
       1415245893,
       ""
     ],
     [
       "HarvestNotificationFullyReadyCount",
       "พร้อมเต็มที่ x{0}",
-      "x{0} Collectors Fully Ready",
+      "เครื่องเก็บเกี่ยวพร้อมเต็มที่ x{0}",
       1362908580,
       ""
     ],
     [
       "HarvestNotificationFullyReadyCount1",
       "พร้อมเต็มที่ x1",
-      "x1 Collector Fully Ready",
+      "เครื่องเก็บเกี่ยวพร้อมเต็มที่ x1",
       -1132092973,
       ""
     ],
@@ -37705,7 +37859,7 @@
     ],
     [
       "HarvestCraftingToSiloConfirmation",
-      "ใช้พลังแห่งชีวิต {0} ดวงเพื่อส่งสูตรคราฟนี้ไปยังโต๊ะคราฟสวนที่เชื่อมกันไว้",
+      "ส่งสูตรคราฟนี้ไปยังโต๊ะคราฟสวนของคุณไหม?",
       "",
       -1058249048,
       ""
@@ -37818,7 +37972,7 @@
     [
       "HarvestInventoryButtonDisabledPopup",
       "สลับระหว่าง ช่องเก็บของตัวละคร และ คลังเก็บของ\n<red>{ไม่สามารถใช้งานได้ขณะที่เลือกสูตรคราฟไว้หรือขณะที่ช่องคราฟมีไอเทมอยู่}",
-      "",
+      "<red>{ต้องไม่มีการเลือกสูตรคราฟและช่องคราฟต้องไม่มีไอเทม}",
       -1133560941,
       ""
     ],
@@ -37832,7 +37986,7 @@
     [
       "ConsoleHarvestMovePlacement",
       "",
-      "Adjust Placement",
+      "ปรับการวางตำแหน่ง",
       670251574,
       ""
     ],
@@ -37895,14 +38049,14 @@
     [
       "ConsoleHarvestEnterEditMode",
       "",
-      "Harvest Interactions <red>{Disabled}",
+      "การปฏิสัมพันธ์ Harvest <red>{ไม่ทำงาน}",
       593584896,
       ""
     ],
     [
       "ConsoleHarvestExitEditMode",
       "",
-      "Harvest Interactions <green>{Enabled}",
+      "การปฏิสัมพันธ์ Harvest <green>{ทำงาน}",
       471938009,
       ""
     ],
@@ -37971,7 +38125,7 @@
     ],
     [
       "ItemDisplayHeistBlueprintRewardRooms",
-      "ห้องขุมทรัพย์ลับที่ค้นพบ",
+      "ห้องของรางวัลค้นพบ",
       "",
       134457996,
       ""
@@ -38084,9 +38238,9 @@
     [
       "HelpCommandTrailingInfo",
       "Ctrl-คลิก จุดเชื่อมพื้นที่หรือตำแหน่งในแผนที่เพื่อสร้างอินสแตนซ์ของพื้นที่นั้นใหม่",
-      "Press the Y button on an area transition or waypoint to create a new area instance",
+      "กดปุ่ม Y ในจุดเชื่อมพื้นที่หรือตำแหน่งในแผนที่เพื่อสร้างอินสแตนซ์ของพื้นที่นั้นให่ม",
       2140882856,
-      "Press the triangle button on an area transition or waypoint to create a new area instance"
+      "กดปุ่มสามเหลี่ยมในจุดเชื่อมพื้นที่หรือตำแหน่งในแผนที่เพื่อสร้างอินสแตนซ์ของพื้นที่นั้นให่ม"
     ],
     [
       "AdvancedModDisplayTags",
@@ -38146,14 +38300,14 @@
     ],
     [
       "HarvestSoulTreeGrowthRequirementPercent",
-      "Harvest Seeds to begin regrowing the Heart of the Grove",
+      "เก็บเกี่ยวเมล็ดพันธุ์เพื่อทำให้หัวใจแห่งสวนเติบโตขึ้นมาใหม่",
       "",
       -1234320510,
       ""
     ],
     [
       "HarvestUpgradeInfrastructureHover",
-      "Swap with an Advanced Storage Tank. Condensed Lifeforce will be transferred.",
+      "สลับกับถังเก็บแบบซับซ้อน พลังชีวิตที่ถูกกลั่นจะถูกโอนถ่าย",
       "",
       304818736,
       ""
@@ -38168,7 +38322,7 @@
     [
       "ConsoleGuildInviteQuickAccept",
       "เปิดหน้าต่างคำเชิญ",
-      "Press <<xbox_button_view>> to show the Guild invites panel",
+      "กด <<xbox_button_view>> เพื่อเปิดหน้าต่างคำเชิญกิลด์",
       1529917912,
       ""
     ],
@@ -38525,14 +38679,14 @@
     [
       "ConsoleCycleChatHistory",
       "",
-      "Recent Messages",
+      "ข้อความล่าสุด",
       -1712087458,
       ""
     ],
     [
       "ConsoleCycleWhisperPartners",
       "",
-      "Recent Whispers",
+      "กระซิบล่าสุด",
       583128925,
       ""
     ],
@@ -38867,28 +39021,28 @@
     ],
     [
       "HeistElementTypeDoorRevealed",
-      "Door",
+      "ประตู",
       "",
       228582790,
       ""
     ],
     [
       "HeistElementTypeWingRevealed",
-      "Wing",
+      "ปีก",
       "",
       1629876382,
       ""
     ],
     [
       "HeistElementTypeRoomRevealed",
-      "Room",
+      "ห้อง",
       "",
       1105893777,
       ""
     ],
     [
       "HeistElementRequiresJob",
-      "<bold>{{{0}}} Requires <bold>{{{1}}}",
+      "<bold>{{{0}}} ต้องมี<bold>{{{1}}}",
       "",
       400546222,
       ""
@@ -38912,13 +39066,6 @@
       "การชำระผ่านระบบ Epic ล้มเหลว",
       "",
       -363792823,
-      ""
-    ],
-    [
-      "HeistSkillInteractText",
-      "เริ่มทักษะ {0}",
-      "",
-      -1001524034,
       ""
     ],
     [
@@ -39112,7 +39259,7 @@
     ],
     [
       "ReminderTextScorchNonHit",
-      "(ศัตรูที่ติดสถานะ Scorch จะมีค่าต้านทานค่าลดลง 10% เป็นเวลา 4 วินาที)",
+      "(ศัตรูที่ติดสถานะ Scorch จะมีค่าต้านทานธาตุลดลง 10% เป็นเวลา 4 วินาที)",
       "",
       -94149751,
       ""
@@ -39462,7 +39609,7 @@
     ],
     [
       "HeistQuestInteractKurai2",
-      "Negotiate with the Client",
+      "เจรจากับลูกค้า",
       "",
       -1106551746,
       ""
@@ -39476,121 +39623,597 @@
     ],
     [
       "HeistLeaveAreaConfirmation",
-      "Are you sure you want to leave this Heist and return to the Rogue Harbour?",
+      "แน่ใจหรือว่าคุณต้องการออกจากการโจรกรรมนี้แล้วกลับไปสู่ท่าเรือโจร?",
       "",
       -846151837,
       ""
     ],
     [
       "HeistCharacterSkillMaxLevel",
-      "(Max Level)",
+      "(เลเวลสูงสุด)",
       "",
       -1454173346,
       ""
     ],
     [
+      "HeistBlueprintWindowLegendTitle",
+      "คำบรรยาย",
+      "",
+      548456986,
+      ""
+    ],
+    [
+      "HeistBlueprintWindowToggleLegend",
+      "เปิดคำบรรยาย",
+      "",
+      -1197080731,
+      ""
+    ],
+    [
       "HeistContractNoRevealCharLevelTooHighPostContract",
-      "This Contract's level was too low to grant Blueprint Reveals. Complete higher level Contracts to gain Blueprint Reveals.",
+      "สัญญาจ้างนี้มีเลเวลน้อยเกินกว่าที่จะให้การเผยพิมพ์เขียว กรุณาทำสัญญาจ้างที่มีเลเวลมากกว่านี้เพื่อรับการเผยพิมพ์เขียว",
       "",
       509472556,
       ""
     ],
     [
       "HeistContractNoRevealCharLevelTooHighPreContract",
-      "This Contract's level is too low to grant Blueprint Reveals. Completing this Contract will not grant Blueprint Reveals.",
+      "สัญญาจ้างนี้มีเลเวลน้อยเกินกว่าที่จะให้การเผยพิมพ์เขียว การทำสัญญาจ้างนี้จะไม่มอบการเผยพิมพ์เขียวใดๆ",
       "",
       1324332038,
       ""
     ],
     [
       "ItemDisplayHeistAlertLevelReduction",
-      "Alert Level Reduction",
+      "ลดระดับการรู้ตัว",
       "",
       -1812162573,
       ""
     ],
     [
       "ItemDisplayHeistLockdownTimeIncrease",
-      "Time Before Lockdown",
+      "เวลาก่อนการล็อกดาวน์",
       "",
       1719493589,
       ""
     ],
     [
-      "HeistCharacterSkillLevelModifiedByEquipment",
-      "{0} from Equipment",
+      "HeistStoragePanelSearchInfo",
+      "แสดงไอเทมที่ตรงกับคีย์เวิร์ดที่คุณระบุไว้\n\n<default>คำแนะนำ:{- พิมพ์คีย์เวิร์ดหลายคำด้วยการแยกแต่ละคำออกจากกันด้วยการเว้นวรรค\n- ผสมตัวหนังสือที่มีการเว้นวรรคเข้าด้วยกันให้เป็นคีย์เวิร์ดเดียวด้วยการใส่เครื่องหมายคำพูด เช่น \"ลด ระดับ การแจ้งเตือน\" หรือ \"ต้องมี กลฉ้อฉล\" \n- ค้นหาไอเทมเลเวลด้วยการพิมพ์ว่า ilvl:X\n- คุณสามารถกด <b> {CTRL + F} เป็นปุ่มลัดได้}",
       "",
-      485678059,
+      855817334,
       ""
     ],
     [
       "StashDefaultFolderName",
-      "Uncategorised",
+      "ไม่มีหมวดหมู่",
       "",
       1579450915,
       ""
     ],
     [
+      "DescriptionLabelFixedValueStat",
+      "<italic>{<rgb(170,170,170)>{ — Unscalable Value}}",
+      "",
+      1779730505,
+      ""
+    ],
+    [
+      "PassiveTreeCannotModifyWhileDead",
+      "คุณไม่สามารถปรับพาสซีฟของคุณได้ขณะที่คุณตาย",
+      "",
+      403750993,
+      ""
+    ],
+    [
+      "RitualStoneMonsterCount",
+      "มอนสเตอร์",
+      "",
+      -1465615632,
+      ""
+    ],
+    [
+      "RitualStoneVarieties",
+      "มอนสเตอร์:\n{0}",
+      "",
+      1991013785,
+      ""
+    ],
+    [
+      "RitualStoneNumOtherMonsters",
+      "{0} มอนสเตอร์อื่นๆ",
+      "",
+      -1714643609,
+      ""
+    ],
+    [
+      "RitualStoneLevel",
+      "เลเวลมอนสเตอร์",
+      "",
+      220235298,
+      ""
+    ],
+    [
       "StashCreateNewFolderText",
-      "Create New Folder",
+      "สร้างโฟลเดอร์ใหม่",
       "",
       198868301,
       ""
     ],
     [
       "StashRemoveFolderText",
-      "Delete Folder",
+      "ลบโฟลเดอร์",
       "",
       -159684347,
       ""
     ],
     [
+      "HeistCharacterSkillLevelModifiedByEquipment",
+      "{0} จากอุปกรณ์ที่สวมใส่",
+      "",
+      485678059,
+      ""
+    ],
+    [
       "StashOptionsButtonHover",
-      "Stash Options",
+      "ตัวเลือกคลังเก็บของ",
       "",
       -772287555,
       ""
     ],
     [
       "StashOptionEnableStashAffinities",
-      "Enable Tab Affinities",
+      "เปิดใช้ระบบกำหนดคลังเป้าหมาย",
       "",
       -181824799,
       ""
     ],
     [
       "StashOptionAffinityAutoNavigation",
-      "Affinity Auto-navigation",
+      "กำหนดคลังเป้าหมายโดยอัตโนมัติ",
       "",
       -13017109,
       ""
     ],
     [
       "StashEditorAffinitiesSectionHeader",
-      "Affinities",
+      "เป้าหมายที่กำหนด",
       "",
       -1093091211,
       ""
     ],
     [
+      "ItemErrorQuestState",
+      "การผ่านเควสของคุณไม่เพียงพอที่จะใช้ไอเทมชิ้นนี้",
+      "",
+      1734860859,
+      ""
+    ],
+    [
+      "ItemFilterRuleBaseType",
+      "ประเภทเบส",
+      "",
+      -1458395552,
+      ""
+    ],
+    [
+      "ItemFilterRuleCJESPN",
+      "เอนแชนพาสซีฟขนาดเล็กของคลัสเตอร์จิวเวล",
+      "",
+      -1069257219,
+      ""
+    ],
+    [
+      "ItemFilterRuleGemQualityType",
+      "ประเภทคุณภาพของหินสกิล",
+      "",
+      260938080,
+      ""
+    ],
+    [
+      "ItemFilterRuleMods",
+      "ม็อด",
+      "",
+      -862866519,
+      ""
+    ],
+    [
+      "ItemFilterRuleProphecies",
+      "คำทำนาย",
+      "",
+      -674953992,
+      ""
+    ],
+    [
+      "ItemFilterErrorCannotOpenFile",
+      "การเปิดไฟล์ฟิลเตอร์ล้มเหลว: \"{0}\"",
+      "",
+      2059299633,
+      ""
+    ],
+    [
+      "ItemFilterErrorDownloadError",
+      "เกิดข้อผิดพลาดขณะที่พยายามดาวน์โหลดไอเทมฟิลเตอร์",
+      "",
+      1253260571,
+      ""
+    ],
+    [
+      "ItemFilterErrorJSONError",
+      "เกิดข้อผิดพลาดในการ Parse ใน JSON",
+      "",
+      1801868329,
+      ""
+    ],
+    [
+      "ItemFilterErrorCreateBackupFile",
+      "เกิดข้อผิดพลาดขณะพยายามสร้างไฟล์ฟิลเตอร์ {0}.bak",
+      "",
+      632219470,
+      ""
+    ],
+    [
+      "ItemFilterErrorCreateTempFile",
+      "เกิดข้อผิดพลาดขณะพยายามสร้างไฟล์ฟิลเตอร์ {0}.tmp",
+      "",
+      644948399,
+      ""
+    ],
+    [
+      "ItemFilterErrorDeleteTempFile",
+      "เกิดข้อผิดพลาดขณะพยายามลบไฟล์ฟิลเตอร์ {0}.tmp",
+      "",
+      1721279864,
+      ""
+    ],
+    [
+      "ItemFilterErrorLine",
+      "บรรทัด {0}: {1}",
+      "",
+      1685743633,
+      ""
+    ],
+    [
+      "ItemFilterErrorMissingParameter",
+      "ควรมีตัวแปรสำหรับกฎ {0}",
+      "",
+      364040542,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidParameter",
+      "ไม่สามารถ Parse ตัวแปรสำหรับ {0} กฎ: {1}",
+      "",
+      -1683601601,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidRule",
+      "ไม่ทราบประเภทกฎ {0}",
+      "",
+      840176699,
+      ""
+    ],
+    [
+      "ItemFilterErrorTooManyArguments",
+      "มี Argument มากเกินไป",
+      "",
+      -958533439,
+      ""
+    ],
+    [
+      "ItemFilterErrorNegativeNumber",
+      "จำนวนเต็ม \"{0}\" ไม่สามารถเป็นลบได้",
+      "",
+      903523824,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidNumber",
+      "ไม่ทราบจำนวนเต็ม \"{0}\"",
+      "",
+      -264591595,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidBoolean",
+      "ไม่ทราบบูลีน \"{0}\"",
+      "",
+      -95479572,
+      ""
+    ],
+    [
+      "ItemFilterErrorNoStringMatch",
+      "ไม่พบ {0} ที่ตรงกับ \"{1}\"",
+      "",
+      849910734,
+      ""
+    ],
+    [
+      "ItemFilterErrorNoStringMatchExact",
+      "ไม่พบ {0} ที่ตรงกับ \"{1}\" ทุกประการ",
+      "",
+      -96105334,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidRarity",
+      "ไม่พบความหายากที่ตรงกับ \"{0}\"",
+      "",
+      1777028210,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidItemClass",
+      "ไม่มีชนิดไอเทมที่ตรงกับ \"{0}\"",
+      "",
+      -374456860,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidInfluence",
+      "ไม่มีประเภทอิทธิพลที่ตรงกับ \"{0}\"",
+      "",
+      -63850907,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidSockets",
+      "คำอธิบายรู \"{0}\" ไม่ถูกต้อง อักษรที่ใช้งานได้คือ RGBWAD ตัวเลขที่ใช้งานได้คือ 0-9",
+      "",
+      -1037787329,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidSoundNumber",
+      "ตัวเลขเสียง \"{0}\" ไม่ถูกต้อง",
+      "",
+      1976420515,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidSoundVolume",
+      "ระดับเสียง \"{0}\" ไม่ถูกต้อง ควรอยู่ระหว่าง {1} กับ {2}",
+      "",
+      -703145816,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidDropEffect",
+      "ชื่อเอฟเฟค \"{0}\" ไม่ถูกต้อง ค่าที่ใช้งานได้คือ {{ {1} }}",
+      "",
+      1806994332,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidCustomAlerSound",
+      "รูปแบบไม่ถูกต้อง: CustomAlertSound \"filepath\" [volume]",
+      "",
+      -1943086820,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidSoundPath",
+      "Sound Filepath \"{0}\" ไม่ถูกต้อง",
+      "",
+      -1457312148,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidMinimapIconData",
+      "ไม่สามารถอ่านข้อมูลไอคอนแผนที่ย่อได้",
+      "",
+      -263736446,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidMinimapIcon",
+      "ไอคอนแผนที่ไม่ถูกต้อง: \"{0} {1}\" เป็นไอคอนที่ไม่ถูกต้อง",
+      "",
+      -305641187,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidMinimapIconSize",
+      "ขนาดไม่ถูกต้อง: กรุณาเลือกจาก {{ {0} }} กลับไปใช้ค่าเริ่มต้นที่ {1}",
+      "",
+      351673213,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidColourComponent",
+      "ไม่สามารถอ่านส่วนประกอบของสีได้",
+      "",
+      865496561,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidColourAlpha",
+      "ค่าอัลฟ่า \"{0}\" ถูกระบุไว้อย่างไม่ถูกต้อง",
+      "",
+      -1130857854,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidFontSize",
+      "ไม่สามารถอ่านขนาดฟอนต์ได้",
+      "",
+      1351409074,
+      ""
+    ],
+    [
+      "ItemFilterErrorRuleOutsideBlock",
+      "พบกฎที่อยู่นอกบล็อก Ruleset",
+      "",
+      471547079,
+      ""
+    ],
+    [
+      "RitualRewardWindowTitle",
+      "ของสนองบรรณาการ",
+      "",
+      -1047919592,
+      ""
+    ],
+    [
+      "RitualRewardWindowPoints",
+      "เหลือบรรณาการ {0}",
+      "",
+      -243348613,
+      ""
+    ],
+    [
+      "RitualRewardWindowHelpPopup",
+      "สังหารมอนสเตอร์ระหว่างทำพิธีกรรมเพื่อรับบรรณาการ คุณสามารถใช้บรรณาการแลกกับรางวัลหลังจากเสร็จสิ้นพิธีกรรม\nรางวัลบางอย่างจะถูกเผยก็ต่อเมื่อทำพิธีกรรมหลายครั้งจนเสร็จสิ้น\nรางวัลจากพิธีกรรมจะถูกเปลี่ยนแปลงไปตามพื้นที่เว้นแต่ว่ารางวัลเหล่านั้นจะถูกผัดผ่อน",
+      "สังหารมอนสเตอร์ระหว่างทำพิธีกรรมเพื่อรับบรรณาการ คุณสามารถใช้บรรณาการแลกกับรางวัลหลังจากเสร็จสิ้นพิธีกรรม\nรางวัลบางอย่างจะถูกเผยก็ต่อเมื่อทำพิธีกรรมหลายครั้งจนเสร็จสิ้น\nรางวัลจากพิธีกรรมจะถูกเปลี่ยนแปลงไปตามพื้นที่เว้นแต่ว่ารางวัลเหล่านั้นจะถูกผัดผ่อน\nไอเทมที่มีไอคอน <<ritual_suspended>> นั้นถูกผัดผ่อน และถูกจ่ายล่วงหน้าไปเป็นบางส่วนแล้ว",
+      925319988,
+      ""
+    ],
+    [
+      "RitualRewardWindowPrepayButton",
+      "ผลัดผ่อนไอเทม",
+      "",
+      -1693884233,
+      ""
+    ],
+    [
+      "RitualRewardCurrencyName",
+      "บรรณาการ",
+      "",
+      593432348,
+      ""
+    ],
+    [
+      "RitualObjectWorldDescriptionTitle",
+      "{0} แท่นบูชาพิธีกรรม",
+      "",
+      502284760,
+      ""
+    ],
+    [
+      "RitualObjectWorldDescriptionBody",
+      "แตะเพื่อเริ่มพิธีกรรม",
+      "",
+      -473616467,
+      ""
+    ],
+    [
+      "RitualObjectWorldDescriptionRewardsBody",
+      "แตะเพื่อดูของสนองบรรณาการ",
+      "",
+      -1646456293,
+      ""
+    ],
+    [
+      "WarningChangingHideoutLosesPortals",
+      "คำเตือน: การเปลี่ยนที่ซ่อนจะทำลายวาร์ปทั้งหมดที่เปิดอยู่",
+      "",
+      -64268714,
+      ""
+    ],
+    [
+      "LeagueStandardRitual",
+      "ค้นพบแท่นบูชาดึกดำบรรพ์แล้วทำพิธีกรรมอันแสนอันตรายเพื่อรับรางวัลอันล้ำค่า\n\n<colour:yellow>{นี่คือลีกเริ่มต้นของ Path of Exile}",
+      "",
+      -967808659,
+      ""
+    ],
+    [
+      "LeagueHardcoreRitual",
+      "ค้นพบแท่นบูชาดึกดำบรรพ์แล้วทำพิธีกรรมอันแสนอันตรายเพื่อรับรางวัลอันล้ำค่า\n\n<colour:red>{ตัวละครที่ตายภายในลีก Hardcore Ritual จะถูกส่งไปยังลีก Standard}",
+      "",
+      2030150804,
+      ""
+    ],
+    [
+      "LeagueStandardSSFRitual",
+      "SSF Ritual",
+      "",
+      1196121897,
+      ""
+    ],
+    [
+      "LeagueHardcoreSSFRitual",
+      "SSF HC Ritual",
+      "",
+      -1687185404,
+      ""
+    ],
+    [
+      "RitualRewardWindowPrepayButtonPopup",
+      "จ่าย 20% ของราคาไอเทมตั้งต้นเพื่อผัดผ่อนไอเทมนั้นๆ ไอเทมชิ้นนี้จะปรากฏในพื้นที่อื่นในภายหลังด้วยราคาที่ลดลง",
+      "",
+      -1224183722,
+      ""
+    ],
+    [
+      "RitualRewardWindowPrepaidItemPopup",
+      "ไอเทมนี้ถูกผัดผ่อน และถูกจ่ายล่วงหน้าไปเป็นบางส่วนแล้ว",
+      "",
+      1054933146,
+      ""
+    ],
+    [
       "StashDeleteFolderButtonPopup",
-      "Contained Stashes will be moved out of this Folder",
+      "คลังเก็บของที่อยู่ภายในจะถูกนำออกมาจากโฟลเดอร์นี้",
       "",
       349251269,
       ""
     ],
     [
       "StashDragPromptAddToFolder",
-      "Add to Folder",
+      "เพิ่มเข้าไปในโฟลเดอร์",
       "",
       2820712,
       ""
     ],
     [
       "StashDragPromptRemoveFromFolder",
-      "Remove from Folder",
+      "นำออกจากโฟลเดอร์",
       "",
       742081892,
+      ""
+    ],
+    [
+      "RitualObjectWorldDescriptionRewardsTitle",
+      "รางวัลพิธีกรรมแบบ {0}",
+      "",
+      2030529253,
+      ""
+    ],
+    [
+      "MavenBossRushObjectDescriptionTitle",
+      "การท้าทายของเมเวน",
+      "",
+      157586887,
+      ""
+    ],
+    [
+      "MavenBossRushObjectDescriptionBody",
+      "แตะเพื่อเริ่มการท้าทาย",
+      "",
+      1957375823,
+      ""
+    ],
+    [
+      "MavenBossRushObjectDescriptionPassivesTitle",
+      "ของขวัญจากเมเวน",
+      "",
+      -493163783,
+      ""
+    ],
+    [
+      "MavenBossRushObjectDescriptionPassivesBody",
+      "แตะเพื่ออัพแต้มพาสซีฟสมุดแผนที่",
+      "",
+      2023104665,
+      ""
+    ],
+    [
+      "AtlasPopupMapCollected",
+      "เมเวนมีบอสที่จำลองจากบอสประจำแผนที่นี้",
+      "",
+      1517173982,
       ""
     ],
     [
@@ -39602,58 +40225,870 @@
     ],
     [
       "GraphicsOptionsDynamicResolutionFactorTooltip",
-      "When enabled and dynamic resolution is active, the game will use this fixed factor resolution instead of dynamically adjusting it.",
+      "เมื่อเปิดใช้งานตัวเลือกนี้พร้อมกับเปิด Dynamic Resolution เกมจะใช้รายละเอียดภาพที่กำหนดไว้แทนที่จะปรับไปโดยอัตโนมัติ",
       "",
       705196355,
       ""
     ],
     [
+      "ReminderTextConvergence",
+      "(Convergence ทำให้สร้างความเสียหายเพิ่มขึ้น อีก 30% และมีผล 4 วินาที)",
+      "",
+      -110112724,
+      ""
+    ],
+    [
+      "HarvestHorticraftingStation",
+      "โต๊ะคราฟสวน",
+      "",
+      300768334,
+      ""
+    ],
+    [
+      "RitualRewardWindowRemainingEncounters",
+      "เหลืออีก {0} พิธีกรรม",
+      "",
+      -760824638,
+      ""
+    ],
+    [
+      "RitualRewardWindowRemainingEncounter",
+      "เหลืออีก 1 พิธีกรรม",
+      "",
+      -581620698,
+      ""
+    ],
+    [
+      "GamepadLegendRitualSuspendItem",
+      "ผัดผ่อนไอเทม",
+      "",
+      1661103512,
+      ""
+    ],
+    [
+      "GamepadLegendRitualCancelPrepaySelection",
+      "ยกเลิก",
+      "",
+      1448043609,
+      ""
+    ],
+    [
+      "GamepadLegendRitualConfirmPrepaySelection",
+      "ยืนยันตัวเลือก",
+      "",
+      -495830768,
+      ""
+    ],
+    [
+      "GamepadLegendUseRitualFragment",
+      "",
+      "ใช้ภาชนะพิธีกรรม",
+      2046685588,
+      ""
+    ],
+    [
+      "ReminderTextGaleForce",
+      "(Gale Force แต่ละ Instance จะมีผล 4 วินาที และมีได้สูงสุด 10 Gale Force)",
+      "",
+      -400489052,
+      ""
+    ],
+    [
+      "ReminderTextSacrificialZeal",
+      "(คลั่งสังเวยจะเพิ่มความเสียหายกายภาพสู่เวทย์ของคุณเท่ากับ 25% ของมานาที่ใช้ และทำให้คุณได้รับความเสียหายกายภาพต่อเนื่องเป็นเวลา 4 วินาที)",
+      "",
+      -1996553147,
+      ""
+    ],
+    [
+      "ReminderTextFanaticism",
+      "(คลั่งศรัทธาจะทำให้เวทย์ที่คุณร่ายด้วยตัวเองร่ายได้เร็วขึ้น 75%, ลดการใช้มานา 75% และเพิ่มพื้นที่ส่งผล 75%)",
+      "",
+      -2060325603,
+      ""
+    ],
+    [
+      "RitualRewardWindowRerollPopup",
+      "หมุนเพื่อรับของสนองบรรณาการใหม่ๆ\nคุณสามารถทำได้เพียงหนึ่งครั้งต่อพื้นที่\nใช้: {0} บรรณาการ",
+      "",
+      -1129636923,
+      ""
+    ],
+    [
+      "GamepadLegendAtlasRegionTree",
+      "",
+      "เปิดตารางสกิลเขต",
+      1439656462,
+      ""
+    ],
+    [
+      "RitualRewardWindowRerollConfirmationTitle",
+      "หมุนของสนองบรรณาการ",
+      "",
+      -1823061932,
+      ""
+    ],
+    [
+      "RitualRewardWindowRerollConfirmationText",
+      "แน่ใจหรือว่าคุณอยากหมุนของสนองบรรณาการ",
+      "",
+      -655453620,
+      ""
+    ],
+    [
       "EndlessDelveAscendancyEnabled",
-      "You can now choose an Ascendancy class by using the Altar of Ascendancy in the Mine Encampment.",
+      "คุณสามารถเลือกอาชีพเสริมได้ด้วยการใช้ Altar of Ascendancy ในค่ายหน้าเหมือง",
       "",
       818171352,
       ""
     ],
     [
       "EndlessDelveMoreAscendancyPoints",
-      "You can now gain additional Ascendancy Skill Points by using the Altar of Ascendancy in the Mine Encampment.",
+      "คุณสามารถรับแต้มอาชีพเสริมได้ด้วยการใช้ Altar of Ascendancy ในค่ายหน้าเหมือง",
       "",
       582274785,
       ""
     ],
     [
-      "StashOptionsOverrideAffinityTipText",
-      "You can bypass Tab Affinities by using Ctrl + Shift + Left Click.",
+      "GraphicsOptionsDoFLabel",
+      "Depth of Field",
       "",
+      -1831905225,
+      ""
+    ],
+    [
+      "GraphicsTabDoFPopup",
+      "Depth of Field<size:3>{\n}<size:29>{ตัวเลือกนี้จะปรับเอฟเฟค Depth of Field คุณสามารถปิดเพื่อพัฒนาประสิทธิภาพในบางฉาก}",
+      "",
+      -96013088,
+      ""
+    ],
+    [
+      "GraphicsOptionsDoFEnabled",
+      "เปิด",
+      "",
+      2137710707,
+      ""
+    ],
+    [
+      "GraphicsOptionsDoFDisabled",
+      "ปิด (ค่าเริ่มต้น)",
+      "",
+      -1117362787,
+      ""
+    ],
+    [
+      "ReminderTextRupture",
+      "(เป้าหมายที่แผลแตกจะได้รับความเสียหายเพิ่มขึ้น อีก 25% จากเลือดไหล และเลือดไหลบนตัวพวกมันจะหมดลงเร็วขึ้น 25% เป็นเวลา 3 วินาที เป้าหมายหนึ่งจะได้รับแผลแตกซ้อนทับได้สูงสุด 3 ครั้ง)",
+      "",
+      816601661,
+      ""
+    ],
+    [
+      "ConsoleActionOpenOrganQuickSelect",
+      "",
+      "เปิดการเลือกแบบเร็ว",
+      -1091845192,
+      ""
+    ],
+    [
+      "MarketSearchTalismans",
+      "Talisman",
+      "",
+      1414539890,
+      ""
+    ],
+    [
+      "MarketExtraTypeInfoFireAsCold",
+      "<fire>{ไฟเป็นน้ำแข็ง}",
+      "",
+      -394234010,
+      ""
+    ],
+    [
+      "MarketExtraTypeInfoFireAsLightning",
+      "<fire>{ไฟเป็นไฟฟ้า}",
+      "",
+      -604917186,
+      ""
+    ],
+    [
+      "MarketExtraTypeInfoColdAsFire",
+      "<cold>{น้ำแข็งเป็นไฟ}",
+      "",
+      -1579132513,
+      ""
+    ],
+    [
+      "MarketExtraTypeInfoColdAsLightning",
+      "<cold>{น้ำแข็งเป็นไฟฟ้า}",
+      "",
+      764321560,
+      ""
+    ],
+    [
+      "MarketExtraTypeInfoLightningAsFire",
+      "<lightning>{ไฟฟ้าเป็นไฟ}",
+      "",
+      1817199778,
+      ""
+    ],
+    [
+      "MarketExtraTypeInfoLightningAsCold",
+      "<lightning>{ไฟฟ้าเป็นน้ำแข็ง}",
+      "",
+      2032335341,
+      ""
+    ],
+    [
+      "MarketExtraTypeInfoChargePower",
+      "Power",
+      "",
+      -674457239,
+      ""
+    ],
+    [
+      "MarketExtraTypeInfoChargeFrenzy",
+      "Frenzy",
+      "",
+      449393239,
+      ""
+    ],
+    [
+      "MarketExtraTypeInfoChargeEndurance",
+      "Endurance",
+      "",
+      -1590973156,
+      ""
+    ],
+    [
+      "NullAtlasRegionName",
+      "The Uncharted Realms",
+      "",
+      152238034,
+      ""
+    ],
+    [
+      "GamepadLegendToggleMavenMapDeviceOption",
+      "",
+      "เปิดสัญญาณเรียกเมเวน",
+      -1777039069,
+      ""
+    ],
+    [
+      "StashOptionsOverrideAffinityTipText",
+      "คุณสามารถข้ามระบบกำหนดคลังเป้าหมายได้ด้วยการกด Ctrl + Shift + คลิกซ้าย",
+      "คุณสามารถข้ามระบบกำหนดคลังเป้าหมายได้ด้วยการกด <<xbox_button_lstick>> + <<xbox_button_x>>",
       845178960,
       ""
     ],
     [
+      "TrinitySupportUIPopupText",
+      "การสั่นพ้อง: การปะทะด้วยสกิลที่ถูกเสริมด้วยตรีเอกภาพจะทำให้ประเภทความเสียหายธาตุที่แรงที่สุดสร้าง การสั่นพ้อง ของธาตุอื่นๆ\r\nเสีย 5 การสั่นพ้อง ต่อวินาทีจากแต่ละธาตุที่ไม่ได้รับ การสั่นพ้อง",
+      "",
+      1685101411,
+      ""
+    ],
+    [
+      "HarvestCraftingToSiloRemainingSlotCountText",
+      "เหลือ {0} ถังเก็บ",
+      "",
+      598801849,
+      ""
+    ],
+    [
+      "HarvestCraftingToSiloRemainingSlotCountText1",
+      "เหลือ 1 ถังเก็บ",
+      "",
+      887465885,
+      ""
+    ],
+    [
+      "HarvestCraftingToSiloNoSlotsRemainingText",
+      "โต๊ะคราฟสวน",
+      "",
+      -617514705,
+      ""
+    ],
+    [
+      "RitualSuspendFailInsuffientPoints",
+      "การผัดผ่อนล้มเหลว: บรรณาการไม่เพียงพอ",
+      "",
+      -1190405238,
+      ""
+    ],
+    [
+      "RitualSuspendFailCostTooLow",
+      "การผัดผ่อนล้มเหลว: ไอเทมมีราคาถูกเกินที่จะผัดผ่อนอีกครั้ง",
+      "",
+      324011400,
+      ""
+    ],
+    [
+      "ReminderTextResonance",
+      "(แต่ละธาตุมีการสั่นพ้องได้สูงสุด 50)",
+      "",
+      -813003549,
+      ""
+    ],
+    [
+      "RitualSuspendFailSuspendCapReached",
+      "การผัดผ่อนล้มเหลว: คุณมีจำนวนไอเทมที่ผัดผ่อนถึงขีดจำกัด",
+      "",
+      -1101304814,
+      ""
+    ],
+    [
+      "MavenAtlasProgressBarPopup",
+      "จำนวนบอสที่น้อยที่สุดที่คุณต้องปราบขณะที่เมเวนเป็นสักขีพยานเพื่อให้ได้รับคำเชิญจากเธอ",
+      "",
+      1846097875,
+      ""
+    ],
+    [
+      "ReminderTextScorchNonHitNoDuration",
+      "(ศัตรูที่ถูกแผดเผาจะมีการต้านทานธาตุ -10%)",
+      "",
+      -140290215,
+      ""
+    ],
+    [
+      "AddMavenErrorRegionTooLowLevel",
+      "เขตนี้ต้องการอัญมณีผู้พิทักษ์เพิ่มเติมเพื่ิอให้เมเวนให้ความสนใจ",
+      "",
+      -1380703710,
+      ""
+    ],
+    [
+      "GamepadToggleQuestGroupsExpansion",
+      "",
+      "ปิดกลุ่มเควส",
+      1160203919,
+      ""
+    ],
+    [
+      "ReminderTextAll3Exposures",
+      "(Exposure แต่ละประเภทจะทำให้มีการต้านทานธาตุนั้นๆ -10% เป็นเวลา 4 วินาที)",
+      "",
+      1136728958,
+      ""
+    ],
+    [
+      "MapDeviceWindowMavenOptionPopup",
+      "เรียกเมเวนมาเป็นสักขีพยานและส่งผลต่อการเผชิญหน้ากับบอสประจำแผนที่นี้ การสยบบอสจะทำให้เมเวนจำลองการต่อสู้เสมือนในดินแดนของเธอ",
+      "",
+      -1104799411,
+      ""
+    ],
+    [
+      "ReminderTextTwo100PercentConversions",
+      "(หากการเปลี่ยนทั้งสองประเภททำงาน การเปลี่ยนแต่ละประเภทจะเปลี่ยน 50%)",
+      "",
+      2000692576,
+      ""
+    ],
+    [
+      "ReminderTextCrazyMinions",
+      "(มิเนียนที่ได้ยินเสียงกระซิบจะได้รับความเสียหายเคออสเท่ากับ 20% ของพลังชีวิตสูงสุดของพวกมันต่อวินาที, เพิ่มความเร็วและความเสียหายการโจมตี 50% และพวกมันไม่ฟังคำสั่งของคุณ)",
+      "",
+      1207418312,
+      ""
+    ],
+    [
+      "QuestTrackerDisplayPageXofX",
+      "หน้า {0}/{1}",
+      "",
+      764292422,
+      ""
+    ],
+    [
+      "GamepadCycleQuestTrackerPages",
+      "หมุนหน้า",
+      "",
+      -2090493462,
+      ""
+    ],
+    [
+      "ReminderTextKeystoneBattlemage",
+      "(เพิ่มความเสียหายเวทย์ของคุณตามความเสียหายของอาวุธในมือหลักของคุณ)",
+      "",
+      153036445,
+      ""
+    ],
+    [
       "December2020LevelUpPrize",
-      "Congratulations!\nYou earned a Twilight Mystery Box!",
+      "ยินดีด้วย!\nคุณได้รับกล่องปริศนาแดนสนธยาหนึ่งกล่อง!",
       "",
       -1428408287,
       ""
     ],
     [
+      "RitualVesselFilledWithBlood",
+      "สร้างภาชนะท่วมเลือดสำเร็จ",
+      "",
+      1601161581,
+      ""
+    ],
+    [
+      "ReminderTextRecoup",
+      "(มีเพียงความเสียหายจากการปะทะที่สามารถ Recoup ได้, เป็นเวลา 4 วินาทีหลังจากการปะทะนั้นๆ)",
+      "",
+      373401819,
+      ""
+    ],
+    [
+      "ReminderTextBrutalCharges",
+      "(ผู้เล่นมีโอกาส 3% ที่จะทำความเสียหายเป็นสามเท่า และเพิ่มความยากในการติดสถานะ มึนงง 10% ต่อหนึ่ง Brutal Charge)",
+      "",
+      -668456275,
+      ""
+    ],
+    [
+      "RemidnerTextAfflictionCharges",
+      "(ผู้เล่นสร้างความเสียหายจากสถานะผิดปกติเพิ่มขึ้น อีก 8% และทำให้สถานะผิดปกติที่ไม่สร้างความเสียหายส่งผลเพิ่มขึ้น 8% ต่อหนึ่ง Affliction Charge)",
+      "",
+      -76223787,
+      ""
+    ],
+    [
+      "ReminderTextAbsorptionCharges",
+      "(ผู้เล่นจะได้รับ 12% ของความเสียหายธาตุที่ได้รับคืนมาเป็นโล่พลังงานต่อหนึ่ง Absorption Charge)",
+      "",
+      1643195294,
+      ""
+    ],
+    [
+      "OpenWebpageConfirmationTitle",
+      "เปิดเว็บเบราเซอร์",
+      "",
+      -1829507658,
+      ""
+    ],
+    [
+      "OpenWebpageConfirmationText",
+      "การกระทำนี้จะเปิดเว็บเบราเซอร์ คุณอยากดำเนินการต่อไปไหม?",
+      "",
+      1387178060,
+      ""
+    ],
+    [
+      "XboxCannotOpenWebBrowser",
+      "",
+      "ไม่สามารถเปิดเบราเซอร์ได้เนื่องจากบัญชีถูกจำกัดไว้ กรุณาตรวจสอบบัญชี Xbox Live ของคุณ",
+      -956463419,
+      "ไม่สามารถเปิดเว็บเบราเซอร์ได้เนื่องจากบัญชีถูกจำกัดไว้ กรุณาตรวจสอบบัญชี Sony ของคุณ"
+    ],
+    [
+      "ItemDisplayMavenVoidAreas",
+      "เมเวนจะต้องเป็นพยาน",
+      "",
+      -704489109,
+      ""
+    ],
+    [
+      "RitualUnknownItemDescriptionText",
+      "ทำพิธีกรรมในพื้นที่นี้มากขึ้นเพื่อเผยไอเทมชิ้นนี้",
+      "",
+      -2088343862,
+      ""
+    ],
+    [
+      "AtlasMapCollectedNotification",
+      "มีการจบแผนที่ {0} ครั้งที่เมเวนได้เป็นสักขีพยาน",
+      "",
+      742101080,
+      ""
+    ],
+    [
+      "StashTabEditorDeleteFolderConfirmation",
+      "แน่ใจหรือว่าคุณอยากลบโฟลเดอร์นี้? คลังเก็บของที่อยู่ภายในจะถูกนำออกมาจากโฟลเดอร์",
+      "",
+      -712219369,
+      ""
+    ],
+    [
+      "StashTabEditorFolderComboboxLabel",
+      "โฟลเดอร์",
+      "",
+      490969194,
+      ""
+    ],
+    [
       "ShopDeliveryDefaultOptionText",
-      "Select an option...",
+      "เลือกตัวเลือก...",
       "",
       -945224866,
       ""
     ],
     [
+      "MapDeviceCannotAccessMavenArea",
+      "คุณต้องพิสูจน์ตัวเองก่อนที่เมเวนจะอนุญาตให้คุณเข้าไปสู่ดินแดนของเธอได้",
+      "",
+      -912853467,
+      ""
+    ],
+    [
+      "MavenEnragedDefeated",
+      "ฆ่าเมเวน",
+      "",
+      822174344,
+      ""
+    ],
+    [
+      "GamepadIdentifyFailedNoScrolls",
+      "",
+      "ต้องมี Scroll of Wisdom",
+      2108996413,
+      ""
+    ],
+    [
+      "RitualPrepaidItemPriceIncreaseWarning",
+      "ราคาไอเทมนี้จะเพิ่มขึ้นในครั้งต่อไปที่มันปรากฏในกลุ่มพิธีกรรม เว้นแต่มันจะถูกผัดผ่อนอีกครั้ง",
+      "",
+      1872338701,
+      ""
+    ],
+    [
+      "RitualPrepaidItemExpireWarning",
+      "นี่เป็นครั้งสุดท้ายที่ไอเทมนี้จะปรากฏในพื้นที่ เว้นแต่มันจะถูกผัดผ่อนอีกครั้ง",
+      "",
+      1648404063,
+      ""
+    ],
+    [
+      "RitualBloodVesselErrorNoChainUse",
+      "ภาชนะพิธีกรรมไม่สามารถใช้กับแผนที่ที่ถูกเปิดด้วยภาชนะท่วมเลือด",
+      "",
+      -384152075,
+      ""
+    ],
+    [
+      "RitualBloodVesselErrorNoRepeatUse",
+      "ภาชนะพิธีกรรมไม่สามารถใช้กับแท่นบูชาพิธีกรรมได้มากกว่าครั้งเดียว",
+      "",
+      -1928526807,
+      ""
+    ],
+    [
+      "RitualBloodVesselErrorCompletedShrineOnly",
+      "ภาชนะพิธีกรรมสามารถใช้ได้กับแท่นบูชาพิธีกรรมที่ทำสำเร็จแล้วเท่านั้น",
+      "",
+      672105890,
+      ""
+    ],
+    [
+      "RitualBloodVesselBonuses",
+      "Rituals have 20% improved Favour Rewards\nRituals spawn Monsters 20% faster\nRituals have 20% more maximum monsters alive",
+      "",
+      558709536,
+      ""
+    ],
+    [
       "StorePurchaseRequiresStyleSize",
-      "Your purchase contains physical goods that require style and size selection.  This can be done through your account on our website under 'Transactions'",
+      "การซื้อของคุณมีสินค้าวัตถุที่ต้องมีการเลือกสไตล์กับขนาด ซึ่งคุณสามารถทำได้ด้วยการเข้าไปในบัญชีของคุณที่เว็บไซต์ของเราในหน้า 'รายการใช้จ่าย'",
       "",
       1575050441,
       ""
     ],
     [
       "OpenLinkToUpdateStyleSize",
-      "Update Size/Style",
+      "อัพเดทขนาด/สไตล์",
       "",
       -1068269876,
+      ""
+    ],
+    [
+      "RitualStoneFromArea",
+      "จาก",
+      "",
+      908780606,
+      ""
+    ],
+    [
+      "MagicNamePrefixPrefix",
+      "{1} {2} {0}",
+      "",
+      1297133979,
+      ""
+    ],
+    [
+      "MagicNameSuffixSuffix",
+      "{0} {1} {2}",
+      "",
+      22491679,
+      ""
+    ],
+    [
+      "ReminderTextRandomSafehouse",
+      "(เซฟเฮาส์ที่ถูกระบุตำแหน่งยังถูกเลือกได้โดยสุ่ม)",
+      "",
+      -1968467377,
+      ""
+    ],
+    [
+      "ReminderTextWildExile",
+      "(เอ็กไซล์อันธพาลเถื่อนคือเอ็กไซล์ที่เกิดขึ้นโดยสุ่มในพื้นที่)",
+      "",
+      -590493488,
+      ""
+    ],
+    [
+      "ItemErrorOnlyOneModOfType",
+      "ไอเทมมีเพียงม็อดที่ต้องการเพียงประเภทเดียว",
+      "",
+      510912154,
+      ""
+    ],
+    [
+      "MonsterDominatedBySirus",
+      "ถูกครองโดย Sirus",
+      "",
+      486421974,
+      ""
+    ],
+    [
+      "ReminderTextTornVeil",
+      "(รัศมีที่เชื่อมคือระยะทางที่ประตูมิติ Beyond จะเชื่อมกันได้เพื่อทำให้มอนสเตอร์ Beyond เกิดขึ้น)",
+      "",
+      -656101754,
+      ""
+    ],
+    [
+      "ReminderTextFaceToFace",
+      "(นายพลจากกองพันคือ Queen Hyrri Ngamaku, General Marceus Lioneye, Cardinal Sanctus Vox, Viper Napuatzi กับ Aukuna, the Black Sekhema)",
+      "",
+      -899846240,
+      ""
+    ],
+    [
+      "ReminderTextProtractedBattle",
+      "(มอนสเตอร์ที่หยุดนิ่งจะไม่เคลื่อนไหวใดๆ)",
+      "",
+      -562699462,
+      ""
+    ],
+    [
+      "ReminderTextResourceReallocation",
+      "(สถาปนิกที่ไม่ใช่ผู้อยู่อาศัยคือสถาปนิกที่สามารถถูกสังหารเพื่ออัพเกรดห้อง Incursion)",
+      "",
+      2074109385,
+      ""
+    ],
+    [
+      "ReminderTextContestedDevelopment",
+      "(สถาปนิกผู้อยู่อาศัยคือสถาปนิกที่สามารถถูกสังหารเพื่อเปลี่ยนห้อง Incursion)",
+      "",
+      -652328456,
+      ""
+    ],
+    [
+      "ReminderTextShaperGuardians",
+      "(Shaper Guardians are Guardian of the Chimera, Guardian of the Minotaur, Guardian of the Hydra and Guardian of the Phoenix)",
+      "",
+      -636781334,
+      ""
+    ],
+    [
+      "ReminderTextElderGuardians",
+      "(Elder Guardians are The Enslaver, The Eradicator, The Constrictor and The Purifier)",
+      "",
+      1841184613,
+      ""
+    ],
+    [
+      "ReminderTextAtlasConquerors",
+      "(ผู้พิชิตคือ Baran, the Crusader Veritania, the Redeemer, Al-Hezmin, the Hunter กับ Drox, the Warlord)",
+      "",
+      -872659269,
+      ""
+    ],
+    [
+      "ReminderTextBasicCurrency",
+      "(Basic Currency includes any currency that drops from non-league content)",
+      "",
+      -1510178638,
+      ""
+    ],
+    [
+      "HiddenItemUnique",
+      "ไอเทมยูนิคแบบสุ่มหนึ่งชิ้น",
+      "",
+      616127428,
+      ""
+    ],
+    [
+      "HiddenItemCatalyst",
+      "Catalyst แบบสุ่มหนึ่งชิ้น",
+      "",
+      -1674670898,
+      ""
+    ],
+    [
+      "HiddenItemMetamorphOrgan",
+      "ตัวอย่าง Metamorph แบบสุ่มหนึ่งชิ้น",
+      "",
+      -369827255,
+      ""
+    ],
+    [
+      "HiddenItemFlask",
+      "ขวดยาแบบสุ่มหนึ่งชิ้น",
+      "",
+      -827598796,
+      ""
+    ],
+    [
+      "HiddenItemAmulet",
+      "สร้อยแบบสุ่มหนึ่งชิ้น",
+      "",
+      -453029835,
+      ""
+    ],
+    [
+      "HiddenItemRing",
+      "แหวนแบบสุ่มหนึ่งชิ้น",
+      "",
+      -409235262,
+      ""
+    ],
+    [
+      "HiddenItemJewel",
+      "จิวเวลแบบสุ่มหนึ่งชิ้น",
+      "",
+      376936073,
+      ""
+    ],
+    [
+      "HiddenItemTrinket",
+      "เครื่องประดับโจรแบบสุ่มหนึ่งชิ้น",
+      "",
+      -1476087729,
+      ""
+    ],
+    [
+      "HiddenItemLeaguestone",
+      "Leaguestone แบบสุ่มหนึ่งชิ้น",
+      "",
+      -1400816055,
+      ""
+    ],
+    [
+      "HiddenItemContract",
+      "สัญญาจ้างแบบสุ่มหนึ่งชิ้น",
+      "",
+      -723213175,
+      ""
+    ],
+    [
+      "HiddenItemBlueprint",
+      "พิมพ์เขียวแบบสุ่มหนึ่งชิ้น",
+      "",
+      334199702,
+      ""
+    ],
+    [
+      "HiddenItemMap",
+      "แผนที่แบบสุ่มหนึ่งชิ้น",
+      "",
+      1808770337,
+      ""
+    ],
+    [
+      "MapDeviceMapStatsWindowTitle",
+      "Additional Modifiers",
+      "",
+      -1590784975,
+      ""
+    ],
+    [
+      "MapDeviceMapStatsCategoryPassive",
+      "Atlas Tree Modifiers",
+      "",
+      -856199857,
+      ""
+    ],
+    [
+      "MapDeviceMapStatsCategorySextant",
+      "Sextant Modifiers",
+      "",
+      1566825954,
+      ""
+    ],
+    [
+      "MapDeviceMapStatsCategoryWatchstone",
+      "Watchstone Modifiers",
+      "",
+      44690017,
+      ""
+    ],
+    [
+      "MapDeviceMapToggleStatsVisibility",
+      "",
+      "Toggle Modifiers Display",
+      898405231,
+      ""
+    ],
+    [
+      "MapDeviceMapToggleStatsCycleGroups",
+      "",
+      "Cycle Categories",
+      -1028117885,
+      ""
+    ],
+    [
+      "RitualOpenReawrdWindowButtonPopup",
+      "Show Ritual Rewards",
+      "",
+      -461650820,
+      ""
+    ],
+    [
+      "RitualRewardsWindowApplyItemFilter",
+      "Apply Item Filter",
+      "",
+      -880901990,
+      ""
+    ],
+    [
+      "MapStashWitnessedByMaven",
+      "Witnessed by The Maven",
+      "",
+      -1819385434,
+      ""
+    ],
+    [
+      "RitualShopFutureDiscount",
+      "Future Discount:",
+      "",
+      -1760256378,
+      ""
+    ],
+    [
+      "RitualRewardWindowDeferFee",
+      "Deferral Fee:",
+      "",
+      440201030,
+      ""
+    ],
+    [
+      "RitualRewardWindowTotalDeferCost",
+      "Total Deferral Cost:",
+      "",
+      2083974425,
+      ""
+    ],
+    [
+      "ReminderTextInfluencedItems",
+      "(Influenced Items can have modifiers not found anywhere else)",
+      "",
+      -867369286,
+      ""
+    ],
+    [
+      "HarvestCraftOptionDisabledInHideout",
+      "You cannot use this crafting option in a Hideout.",
+      "",
+      -2078730669,
       ""
     ]
   ]

@@ -2252,6 +2252,282 @@
       "",
       "Art/2DArt/UIImages/Login/LeagueInfo/Heist/textbackground",
       true
+    ],
+    [
+      "EchoesTrailer",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/ThumbnailTrailer",
+      "",
+      [],
+      "",
+      "Echoes",
+      false,
+      [],
+      [],
+      "http://web.poecdn.com/public/videos/EchoesTrailer_En.bk2",
+      "",
+      false
+    ],
+    [
+      "Echoes1",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel1",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Heading1",
+      [],
+      "In <italic>{Path of Exile: Echoes of the Atlas}, you'll gain even more control over your end-game Path of Exile experience by specialising each region of your Atlas with its own passive tree, crafting Watchstones to refine your rewards, selecting up to ten map bosses to face simultaneously and challenging the Atlas' new pinnacle boss: The Maven.\n\nAlongside this endgame content, you'll perform dangerous and rewarding Rituals in the action-packed Ritual League, explore nineteen improved Ascendancy classes, discover powerful new items and much more.",
+      "Echoes",
+      false,
+      [],
+      [],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/textbackground",
+      false
+    ],
+    [
+      "Echoes2",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel2",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Heading2",
+      [],
+      "<italic>{When the Elder was sealed, entities far beyond the borders of the Atlas of Worlds took note and turned their attention in our direction. The first such visitor is an entity called The Maven. She is hungry to witness your fight for survival against the Atlas' most dangerous foes. Accept her challenge to put your talents and mortality to the test. Should you prove worthy, she will offer you a taste of her vast power.}",
+      "Echoes",
+      true,
+      [],
+      [],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/textbackground",
+      false
+    ],
+    [
+      "Echoes3",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel3",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Heading3",
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel3/Screenshot1",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel3/Screenshot2",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel3/Screenshot3"
+      ],
+      "By slaying three map bosses in the Maven's presence, you'll earn an invitation to her realm where she will request that you defeat these bosses simultaneously. Having demonstrated your strength, she challenges you to defeat four bosses, then five, then six and finally ten at the same time. Only then can you take on the new pinnacle boss of the Atlas: the Maven herself.",
+      "Echoes",
+      false,
+      [],
+      [],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/textbackground",
+      false
+    ],
+    [
+      "Echoes4",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel4",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Heading4",
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel4/Screenshot1",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel4/Screenshot2",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel4/Screenshot3"
+      ],
+      "Take control of your Atlas by unlocking regional passive trees which augment the content you encounter and rewards you receive while exploring those regions.",
+      "Echoes",
+      true,
+      [],
+      [],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/textbackground",
+      false
+    ],
+    [
+      "Echoes5",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel5",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Heading5",
+      [],
+      "Echoes of the Atlas introduces three types of Craftable Watchstones. These valuable endgame items allow you to upgrade your Atlas and boost what types of rewards you find from maps. Players who are able to earn these powerful rewards will find that they are strictly better than regular Watchstones: they can be traded, don't expire with use, and their benefits can stack.\n\nAnother new endgame reward, The Maven's Orb, affects items that have two or more influence modifiers. When used on such an item, it randomly upgrades one of these influence modifiers and removes the others. If the modifier that's being upgraded is already at the highest tier, it'll upgrade to a new elevated tier.",
+      "Echoes",
+      false,
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/AukunasPlatinumNewVastirWatchstoneofTreacherousRealms",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/PackedTitaniumLexProximaWatchstoneofGeomancy",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/EssentialChromiumLexProximaWatchstoneofVersatility",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/MavensOrb",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/BrambleWard"
+      ],
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/AukunasPlatinumNewVastirWatchstoneHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/PackedTitaniumLexProximaWatchstoneHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/EssentialChromiumLexProximaWatchstoneHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/MavenOrbHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/BrambleWardBodyHover"
+      ],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/textbackground",
+      false
+    ],
+    [
+      "Echoes6",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel6",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Heading6",
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel6/Screenshot1",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel6/Screenshot2",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel6/Screenshot3"
+      ],
+      "Eleven new maps and challenging boss encounters have been added to the Atlas. These include unforgiving new locations such as the <italic>{Dry Sea, Forking River, Frozen Cabins} and <italic>{Grave Trough}.",
+      "Echoes",
+      true,
+      [],
+      [],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/textbackground",
+      false
+    ],
+    [
+      "Echoes7",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel7",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Heading7",
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel7/Screenshot1",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel7/Screenshot2",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel7/Screenshot3"
+      ],
+      "<italic>{Twisted spires of flesh, blood and sinew now stand scattered across Wraeclast's landscape. Their origins and purposes unknown, they seemingly have a hunger for blood and death and are willing to richly reward those who can sate it.}\n\nRitual is a combat league that pits you against both the arcane powers of the Ritual Altar and escalating waves of monsters, enclosed within a Ritual Circle. Each successive Ritual in an area is harder and offers better rewards.",
+      "Echoes",
+      false,
+      [],
+      [],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/textbackground",
+      false
+    ],
+    [
+      "Echoes8",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel8",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Heading8",
+      [],
+      "As you slay monsters during a Ritual, you'll earn Tribute which can be spent on a variety of seductive items and rewards. Among these rewards, you may be offered new Ritual Base Types which pair very powerful implicit mods with challenging drawbacks. You can consume some Tribute to reroll the rewards offered or to defer selected ones until later.",
+      "Echoes",
+      true,
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/StormriderBoots",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/PenitentMask",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/NexusGloves"
+      ],
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/StormriderHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/PenitentHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/NexusHover"
+      ],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/textbackground",
+      false
+    ],
+    [
+      "Echoes9",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel9",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Heading9",
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel9/Screenshot1",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel9/Screenshot2",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel9/Screenshot3"
+      ],
+      "In the end game, you can obtain tradeable Ritual vessels, which allow you to itemise the monsters from a ritual. You can place up to four vessels in the map device alongside a map to add their monsters to the rituals present in that map, substantially increasing both the difficulty and rewards of those Rituals.\n\nVessels also substantially increase monster density which can be very rewarding in maxed-out maps that have mechanics like Beyond and Delirium present.",
+      "Echoes",
+      false,
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/RitualVessel",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/BloodfilledVessel"
+      ],
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/RitualVesselHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/BloodfilledVesselHover"
+      ],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/textbackground",
+      false
+    ],
+    [
+      "Echoes10",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel10",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Heading10",
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel10/Screenshot1",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel10/Screenshot2",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel10/Screenshot3"
+      ],
+      "In addition to numerically rebalancing every Ascendancy class, we've substantially reworked the Deadeye, Inquisitor and Elementalist. The aim of these reworks has been to redistribute power within each Ascendancy passive tree so that there are plenty of new ways to build powerful Path of Exile characters.",
+      "Echoes",
+      true,
+      [],
+      [],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/textbackground",
+      false
+    ],
+    [
+      "Echoes11",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel11",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Heading11",
+      [],
+      "One of the hallmarks of a Path of Exile expansion is its items! In addition to new craftable Watchstones, the Maven's Orb and plenty of Ritual Base Types, we've also introduced the Hydrosphere Skill Gem, Trinity Support Gem, 13 new unique items and a slew of Divination Cards which have been designed by our supporters.",
+      "Echoes",
+      false,
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/Blackflame",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/LegacyofFury",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/HandoftheFervent",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/FatefulMeeting",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/Acclimatisation",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/Hydrosphere",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/TrinitySupport"
+      ],
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/BlackflameRingHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/LegacyofFuryHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/HandoftheFerventHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/FatefulMeetingHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/AcclimatisationHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/HydrosphereHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/TrinitySupportHover"
+      ],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/textbackground",
+      false
+    ],
+    [
+      "Echoes12",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel12",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Heading12",
+      [],
+      "Harvest has returned. Instead of having to plant and manage your own Sacred Grove, you will discover portals to established gardens with multiple sets of harvests ready to go. From each pair of options, carefully weigh the encounter difficulty against the crafting outcomes before making a choice. If you can slay the monsters that spawn, you'll be rewarded with Lifeforce that can be used to greatly improve your items.",
+      "Echoes",
+      true,
+      [],
+      [],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/textbackground",
+      false
+    ],
+    [
+      "Echoes13",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel13",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Heading13",
+      [],
+      "In <italic>{Echoes of the Atlas}, Heist contracts drop from Act Six onwards. Rogues level up their skills faster, markers drop with higher stack sizes and quest contracts are now dropped for you at the next smuggler's cache as soon as that quest is available.",
+      "Echoes",
+      false,
+      [],
+      [],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/textbackground",
+      false
+    ],
+    [
+      "Echoes14",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel14",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Heading14",
+      [],
+      "In addition to the recently-released Core Packs, we're also launching two new sets of Supporter Packs to celebrate the release of Echoes of the Atlas and the Ritual League: the Renegade and Faithsworn Packs. There are two price points available for each and they feature masses of points and several exclusive microtransactions like armour sets and character effects.\n\n<italic>{Path of Exile: Echoes of the Atlas} will launch on January 15 (PST) on PC, and on January 20 on Xbox and PlayStation.",
+      "Echoes",
+      true,
+      [],
+      [],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/textbackground",
+      true
     ]
   ]
 }

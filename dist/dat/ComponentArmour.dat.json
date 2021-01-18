@@ -1059,6 +1059,27 @@
       0
     ],
     [
+      "Metadata/Items/Armours/Helmets/HelmetStrDexRitual1",
+      42,
+      42,
+      0,
+      0
+    ],
+    [
+      "Metadata/Items/Armours/Helmets/HelmetStrDexRitual2",
+      122,
+      122,
+      0,
+      0
+    ],
+    [
+      "Metadata/Items/Armours/Helmets/HelmetStrDexRitual3",
+      185,
+      185,
+      0,
+      0
+    ],
+    [
       "Metadata/Items/Armours/Helmets/HelmetStrInt1",
       16,
       0,
@@ -1126,6 +1147,27 @@
       161,
       0,
       48,
+      0
+    ],
+    [
+      "Metadata/Items/Armours/Helmets/HelmetStrIntRitual1",
+      42,
+      0,
+      9,
+      0
+    ],
+    [
+      "Metadata/Items/Armours/Helmets/HelmetStrIntRitual2",
+      122,
+      0,
+      24,
+      0
+    ],
+    [
+      "Metadata/Items/Armours/Helmets/HelmetStrIntRitual3",
+      185,
+      0,
+      36,
       0
     ],
     [
@@ -1203,6 +1245,27 @@
       0,
       190,
       45,
+      0
+    ],
+    [
+      "Metadata/Items/Armours/Helmets/HelmetDexIntRitual1",
+      0,
+      42,
+      9,
+      0
+    ],
+    [
+      "Metadata/Items/Armours/Helmets/HelmetDexIntRitual2",
+      0,
+      122,
+      24,
+      0
+    ],
+    [
+      "Metadata/Items/Armours/Helmets/HelmetDexIntRitual3",
+      0,
+      185,
+      36,
       0
     ],
     [
@@ -2025,6 +2088,27 @@
       0
     ],
     [
+      "Metadata/Items/Armours/Boots/BootsStrRitual1",
+      68,
+      0,
+      0,
+      0
+    ],
+    [
+      "Metadata/Items/Armours/Boots/BootsStrRitual2",
+      164,
+      0,
+      0,
+      0
+    ],
+    [
+      "Metadata/Items/Armours/Boots/BootsStrRitual3",
+      236,
+      0,
+      0,
+      0
+    ],
+    [
       "Metadata/Items/Armours/Boots/BootsStrTemp",
       8,
       0,
@@ -2095,6 +2179,27 @@
       0
     ],
     [
+      "Metadata/Items/Armours/Boots/BootsDexRitual1",
+      0,
+      68,
+      0,
+      0
+    ],
+    [
+      "Metadata/Items/Armours/Boots/BootsDexRitual2",
+      0,
+      164,
+      0,
+      0
+    ],
+    [
+      "Metadata/Items/Armours/Boots/BootsDexRitual3",
+      0,
+      236,
+      0,
+      0
+    ],
+    [
       "Metadata/Items/Armours/Boots/BootsInt1",
       0,
       0,
@@ -2155,6 +2260,27 @@
       0,
       0,
       49,
+      0
+    ],
+    [
+      "Metadata/Items/Armours/Boots/BootsIntRitual1",
+      0,
+      0,
+      14,
+      0
+    ],
+    [
+      "Metadata/Items/Armours/Boots/BootsIntRitual2",
+      0,
+      0,
+      32,
+      0
+    ],
+    [
+      "Metadata/Items/Armours/Boots/BootsIntRitual3",
+      0,
+      0,
+      47,
       0
     ],
     [
@@ -2431,6 +2557,27 @@
       0
     ],
     [
+      "Metadata/Items/Armours/Gloves/GlovesStrRitual1",
+      35,
+      0,
+      0,
+      0
+    ],
+    [
+      "Metadata/Items/Armours/Gloves/GlovesStrRitual2",
+      132,
+      0,
+      0,
+      0
+    ],
+    [
+      "Metadata/Items/Armours/Gloves/GlovesStrRitual3",
+      236,
+      0,
+      0,
+      0
+    ],
+    [
       "Metadata/Items/Armours/Gloves/GlovesDex1",
       0,
       13,
@@ -2490,6 +2637,27 @@
       "Metadata/Items/Armours/Gloves/GlovesDex9",
       0,
       242,
+      0,
+      0
+    ],
+    [
+      "Metadata/Items/Armours/Gloves/GlovesDexRitual1",
+      0,
+      35,
+      0,
+      0
+    ],
+    [
+      "Metadata/Items/Armours/Gloves/GlovesDexRitual2",
+      0,
+      132,
+      0,
+      0
+    ],
+    [
+      "Metadata/Items/Armours/Gloves/GlovesDexRitual3",
+      0,
+      236,
       0,
       0
     ],
@@ -2554,6 +2722,27 @@
       0,
       0,
       47,
+      0
+    ],
+    [
+      "Metadata/Items/Armours/Gloves/GlovesIntRitual1",
+      0,
+      0,
+      8,
+      0
+    ],
+    [
+      "Metadata/Items/Armours/Gloves/GlovesIntRitual2",
+      0,
+      0,
+      26,
+      0
+    ],
+    [
+      "Metadata/Items/Armours/Gloves/GlovesIntRitual3",
+      0,
+      0,
+      45,
       0
     ],
     [

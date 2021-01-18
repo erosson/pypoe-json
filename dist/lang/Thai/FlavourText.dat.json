@@ -161,7 +161,7 @@
     [
       "UniqueRing4x",
       30722,
-      "\"Prototype #8 makes it difficult to think negatively, but two fatalities\r\nresulted when a lead researcher used an epithet in its presence.\""
+      "\"ต้นแบบหมายเลข 8 ทำให้คิดในแง่ลบไม่ได้เลย แต่ว่าอุบัติเหตุสองครั้งนั้น\r\n ก็ส่งผลให้หัวหน้าของนักวิจัยได้เป็นที่รู้จัก\""
     ],
     [
       "UniqueRing5",
@@ -191,7 +191,7 @@
     [
       "UniqueAmulet5x",
       23563,
-      "\"In testing, Prototype #9 had no effect on fired arrows. However,\r\nan unknown spell did destroy the entire firing chamber.\""
+      "\"ในการทดสอบต้นแบบหมายเลข 9 ไม่มีผลกับธนูไฟ\r\n อย่างไรก็ตามคาถาที่เราไม่รู้จักได้ทำลายห้องเก็บเชื้อเพลิงทั้งหมด\""
     ],
     [
       "UniqueAmulet6",
@@ -211,7 +211,7 @@
     [
       "UniqueBodyStr1x",
       49278,
-      "\"Useless for our purposes, but perhaps we can sell Prototype #5\r\nto an archmage to fund other experiments.\""
+      "\"ไม่มีประโยชน์สำหรับวัตถุประสงค์ของเรา แต่ยังไงซะเราน่าจะขาย ต้นแบบหมายเลข 5 ได้\r\n เพื่อเป็นต้นทุนสำหรับการทดลองอื่น ๆ\""
     ],
     [
       "UniqueDexHelmet1",
@@ -281,7 +281,7 @@
     [
       "UniqueBootsStrDex1x",
       29092,
-      "\"Twelve dead, and the seventh lab cannot be entered for several years.\r\nPrototype #12 is a 'success,' if we can ever reach it.\""
+      "\"ตายไป 12 และห้องแลปหมายเลข 7 ก็เข้าไม่ได้มาเป็นเวลาหลายปีแล้ว\r\n ต้นแบบหมายเลข 12 นั้น 'ประสบความสำเร็จ' ถ้าเราสามารถไปนำมันกลับมาได้ \""
     ],
     [
       "UniqueBootsStrInt1",
@@ -426,7 +426,7 @@
     [
       "UniqueBodyStrInt2x",
       52089,
-      "\"Prototype #7 achieved even greater injury responsiveness than expected,\r\nthough at considerable cost to the long-term survival rate of the user.\""
+      "\"ต้นแบบหมายเลข 7 ประสบความสำเร็จในการตอบสนองต่อการบาดเจ็บ มากกว่าที่คาดเอาไว้\r\n แม้ว่าจะต้องใช้ค่าใช้จ่ายที่สูงเพื่อยื้อชีวิตก็ตาม\""
     ],
     [
       "UniqueShieldStrInt1",
@@ -496,7 +496,7 @@
     [
       "UniqueDagger3x",
       44076,
-      "\"Recommend further production of Prototype #122. It makes\r\nan ideal weapon for our suppression troops and guards.\""
+      "\"แนะนำผลงานต้นแบบหมายเลข 122 ที่สร้างขึ้น\r\n ให้เหมาะสมกับกองกำลังและหน่วยรักษาความปลอดภัย\""
     ],
     [
       "UniqueBootsDex2",
@@ -511,7 +511,7 @@
     [
       "UniqueBootsInt4x",
       43877,
-      "\"Outpost Twelve has been abandoned. On the bright side, I expect the plague of apparitions\r\nto serve as ample defence for the relics we left behind.\" \r\n- Administrator Qotra"
+      "\"ป้อมปราการหมายเลข 12 นั้นได้ถูกทิ้งร้างมานาน ในด้านที่ดีข้าเดาว่าอาจจะเกิดจากภัยพิบัติของปีศาจ\r\nเพื่อใช้เป็นด่านป้องกันของ Relics ที่เราได้ทิ้งเอาไว้\"\r\n- ผู้ดูแล Qotra"
     ],
     [
       "UniqueOneHandMace1",
@@ -531,7 +531,7 @@
     [
       "UniqueBow4x",
       37153,
-      "\"How did you manage to lodge arrows in every single test subject\r\nand researcher in Lab Three simultaneously?\" \r\n- Doctor Bircus"
+      "\"เจ้าฝังลูกธนูใส่นักวิจัยในแลปพร้อมกัน 3 คนในทุกๆการยิงทดสอบได้อย่างไร\"\r\n - หมอ Bircus"
     ],
     [
       "UniqueBow5",
@@ -556,7 +556,7 @@
     [
       "UniqueWand2x",
       40312,
-      "\"Simply incredible. I caught an escaping test subject myself with\r\nswarms of burning skulls. Delightful!\" \r\n- Researcher Olesya"
+      "\"น่าเหลือเชื่อ ข้าจับผู้ทดสอบที่หลบหนีด้วยตัวเองโดยการใช้ฝูงกระโหลกที่ติดไฟ\r\n ช่างน่ายินดีจริงๆ!\"\r\n - นักวิจัย Olesya\r\n"
     ],
     [
       "UniqueBow6",
@@ -596,7 +596,7 @@
     [
       "UniqueBow7x",
       59440,
-      "\"How did you manage to lodge arrows in every single test subject\r\nand researcher in Lab Three simultaneously... again?\" \r\n- Doctor Bircus"
+      "\"เจ้าฝังลูกธนูใส่นักวิจัยในแลปพร้อมกัน 3 คนในทุกๆการยิงทดสอบได้อย่างไร… อีกแล้ว?\"\r\n - หมอ Bircus"
     ],
     [
       "UniqueClaw1",
@@ -791,7 +791,7 @@
     [
       "UniqueDagger4x",
       22617,
-      "\"There is something incredibly satisfying about impaling test subjects with Ethereal Knives. Perhaps it is the sound - the spell, the screams, or both.\" \r\n- Researcher Olesya"
+      "\"มีบางอย่างที่น่าเหลือเชื่อและน่าตกใจในระหว่างการทดสอบการทิ่มแทงผู้รับการทดสอบ\r\n ด้วย Ethereal Knives นี่อาจจะเป็นเสียง - เวทมนต์, เสียงกรีดร้อง, หรือทั้งคู่\"\r\n - นักวิจัย Olesya"
     ],
     [
       "UniqueMap2",
@@ -886,7 +886,7 @@
     [
       "UniqueHelmetDex5x",
       4654,
-      "\"Test subject walked right through the poison gas defenses, and attempts to slow her\r\nfailed. Suppression troop six, the 'Furious Flagellants,' have been sent to intervene.\""
+      "\"ผู้รับการทดสอบได้เดินผ่านแนวป้องกันด้วยแก๊สพิษไปแล้ว\r\n และการทำให้เธอช้าลงล้มเหลว กองปราบปรามที่ 6 'Furious Flagellants' ได้ถูกส่งไปแทรกแซง\""
     ],
     [
       "UniqueShieldStrInt5",
@@ -946,7 +946,7 @@
     [
       "UniqueGlovesInt4x",
       21949,
-      "\"Our superiors were getting anxious for results, and lowered security standards.\r\nA single attempt of a spell with this unexpected power destroyed an entire floor.\""
+      "\"ผู้บังคับบัญชาของเรารู้สึกกังวลเกี่ยวกับผลลัพธ์และการลดการรักษาความปลอดภัยลง\r\n เนื่องจากพลังที่ไม่คาดคิดเกิดขึ้นจากการร่ายเวทมนตร์เพียงครั้งเดียวได้ทำลายพื้นที่ไปทั้งหมด\""
     ],
     [
       "UniqueGlovesInt5",
@@ -991,7 +991,7 @@
     [
       "UniqueHelmetStr3x",
       7970,
-      "\"While Prototype #3 does imbue its wearer with strength to match the original,\r\nthe first researcher to don it burst into flames when he walked into sunlight...\""
+      "\"ในระหว่างที่ต้นแบบหมายเลข 3 ได้เพิ่มพลังให้กับผู้สวมใส่เสมือนต้นฉบับ\r\n นักวิจัยคนแรกที่ได้สวมใส่ถูกไฟคลอกในขณะที่เขาเดินไปถูกแสงแดด...\""
     ],
     [
       "UniqueRapier2",
@@ -1011,7 +1011,7 @@
     [
       "UniqueMap5x",
       59068,
-      "\"Suppression troop two, the 'Martyrs for Science,' were able to seal\r\nthe portals before Outpost Four was overrun. Only three men survived.\""
+      "\"กองปราบปรามที่ 2 ‘ผู้พลีชีพเพื่อวิทยาศาสตร์’ ได้ทำการปิดผนึกประตูวาร์ปก่อนที่ด่านหน้าที่ 4 จะถูกบุกรุก\r\n มีชายเพียง 3 คนเท่านั้นที่รอดชีวิต\""
     ],
     [
       "UniqueHelmetWreath1v2",
@@ -1031,7 +1031,7 @@
     [
       "UniqueClaw4x_",
       21322,
-      "\"An absurdly vicious weapon in the hands of our test subjects. It seems to\r\nchannel the desperate will to live. Intriguing.\" \r\n- Researcher Olesya"
+      "\"อาวุธชั่วร้ายที่อยู่ในมือของผู้รับการทดสอบของเรา มันช่างดูเหมือน\r\n การดิ้นรนเพื่อเอาชีวิตรอด เป็นที่น่าขบคิด\"\r\n - นักวิจัย Olesya"
     ],
     [
       "UniqueClaw5",
@@ -1056,7 +1056,7 @@
     [
       "UniqueAmulet10x",
       59425,
-      "\"A rare unequivocal success, Prototype #11 causes wounds to heal so quickly\r\nthe type Delta test subject actually survived the entire testing regimen.\""
+      "\"การประสบความสำเร็จที่หาได้ยาก ต้นแบบหมายเลข 11 ได้ทำให้บาดแผลหายเร็วมาก\r\n ผู้ทดสอบกลุ่มเดลต้าได้รอดชีวิตจากการทดสอบทั้งหมด \""
     ],
     [
       "UniqueRing9",
@@ -1126,7 +1126,7 @@
     [
       "UniqueOneHandAxe1x",
       23876,
-      "\"Nothing feels so smooth in the hand as Prototype #66.\r\nResults like these may justify everything we do here.\""
+      "\"ไม่มีสิ่งใดที่ให้ความรู้สึกราบรื่นเมื่ออยู่ในมือเท่ากับต้นแบบหมายเลข 66\r\n ผลลัพธ์เช่นนี้อาจพิสูจน์ทุกสิ่งที่เราทำที่ดี\""
     ],
     [
       "UniqueMap10",
@@ -1191,7 +1191,7 @@
     [
       "UniqueTwoHandMace6x",
       57835,
-      "\"Prototype #599 offers an incredible defensive power, but at a cost.\r\nWhat underlying physics are at play here, I wonder?\""
+      "\"ต้นแบบหมายเลข 599 มีพลังการป้องกันที่น่าทึ่ง แต่ต้องมีค่าชดเชย\r\n ใช้กฎข้อใดมาอ้างอิงได้ ข้าสงสัย?\""
     ],
     [
       "UniqueOneHandSword4",
@@ -1251,12 +1251,12 @@
     [
       "UniqueBow9x",
       11705,
-      "\"Beware. Prototype #91 is haunted by a strange miasma,\r\nan odour of evil. Nothing can shield the senses.\" \r\n- Researcher Arn"
+      "\"ข้อควรระวัง ต้นแบบหมายเลข 91 ได้ถูกหลอกหลอนด้วยภาพลวงตาประหลาด\r\n กลิ่นอายความชั่วร้าย ไม่มีสิ่งใดป้องกันได้\"\r\n - นักวิจัย Arn"
     ],
     [
       "UniqueBodyStr3",
       47536,
-      "น้ำตาแห่งโลหิต หัวใจที่ปวดร้าว\r\nที่รักของข้าไอซิเดรียต้องมาจากไป"
+      "น้ำตาแห่งโลหิต หัวใจที่ปวดร้าว\r\n ที่รักของข้าไอซิเดรียต้องมาจากไป"
     ],
     [
       "UniqueTwoHandAxe6",
@@ -1266,12 +1266,12 @@
     [
       "UniqueTwoHandAxe6x",
       43382,
-      "\"The remarkable imbalance of Prototype #848 leads to uncommon\r\npower or speed when striking.\""
+      "\"ความไม่สมบูรณ์อันน่าทึ่งของต้นแบบหมายเลข 848\r\n ได้นำไปสู่พลังและความเร็วที่ไม่ปกติเมื่อทำการโจมตี\""
     ],
     [
       "UniqueBodyStrDex1",
       20013,
-      "ไม่มีสถานที่ใดปลอดภัยกว่า\r\nท้องของสัตว์เดรัจฉานอีกแล้ว"
+      "ไม่มีสถานที่ใดปลอดภัยกว่า\r\n ท้องของสัตว์เดรัจฉานอีกแล้ว"
     ],
     [
       "UniqueHelmetDexInt2",
@@ -1281,7 +1281,7 @@
     [
       "UniqueHelmetDexInt2x",
       2036,
-      "\"Prototype #412 seems to bear much in\r\ncommon with Thought Extractor technology.\""
+      "\"ต้นแบบหมายเลข 412 ดูเหมือนจะมีความคงทน\r\n เมื่อใช้ร่วมกับเทคโนโลยี Extractor\""
     ],
     [
       "UniqueHelmetStrInt3",
@@ -1376,7 +1376,7 @@
     [
       "UniqueTwoHandSword6x",
       13120,
-      "\"Ice and flame antagonized in the essence of a prototype.\r\nWhat once burned now chills the soul.\" \r\n- Researcher Arn"
+      "\"น้ำแข็งและเปลวไฟนั้นยังไงก็เป็นสิ่งที่ไม่สามารถอยู่ด้วยกันได้ตั้งแต่ต้น\r\n สิ่งหนึ่งที่เคยแผดเผาตอนนี้กับแช่แข็งวิญญาณนั้นไว้\"\r\n- นักวิจัยอาร์น"
     ],
     [
       "UniqueClaw7",
@@ -1461,7 +1461,7 @@
     [
       "UniqueFlask4x",
       59015,
-      "\"An intriguing paradox.\""
+      "\"ความขัดแย้งที่น่าขบคิด\""
     ],
     [
       "UniqueHelmetDexInt3",
@@ -1476,7 +1476,7 @@
     [
       "UniqueBelt7x",
       5438,
-      "\"A type Delta test subject escaped with Prototype #18. He was last seen\r\nten times the height of a man and crashing straight through walls.\""
+      "ผู้ทดสอบกลุ่มเดลต้าที่ได้หลบหนีไปพร้อมกับต้นแบบหมายเลข 18\r\n เขามีความสูง 10 เท่าของคนปกติและได้พังกำแพงออกไป"
     ],
     [
       "UniqueBelt8",
@@ -1636,7 +1636,7 @@
     [
       "UniqueStaff4x",
       1135,
-      "\"Attempt #306: The power I can sense in this ancient branch\r\nstill eludes me. Perhaps if I attach some string and a hook...\""
+      "\"ความพยายามครั้งที่ 306: ข้าสัมผัสได้ถึงพลังของกิ่งไม้โบราณนี้ที่กำลังหนี\r\n บางทีถ้าข้านำมันมาติดตะขอหรือผูกเชือก...\""
     ],
     [
       "UniqueDagger8",
@@ -1651,7 +1651,7 @@
     [
       "UniqueHelmetStrInt4x",
       21143,
-      "\"Prototype #722 might look like a helmet, but I believe it to be something else entirely.\r\nThe visions it shows the wearer... are beyond mortal endurance...\""
+      "\"ต้นแบบหมายเลข 722  มันอาจดูเหมือนเป็นหมวกกันน็อค แต่ข้าเชื่อว่ามันเป็นอย่างอื่นที่มิดชิดกว่า\r\n การมองเห็นของผู้สวมใส่นั้น...อยู่นอกเหนือความอดทนของมนุษย์...\""
     ],
     [
       "UniqueFishingRod1",
@@ -1691,7 +1691,7 @@
     [
       "UniqueBootsStrInt2x",
       33290,
-      "\"Starving test subject became completely incapable of exerting force.\r\nHowever, after being fed, he began to poison everything he touched...\""
+      "\"ผู้ทดสอบได้หิวโหยและไม่สามารถออกแรงได้อย่างสิ้นเชิง\r\n แต่อย่างไรก็ตามหลังจากที่ได้รับอาหารเขาได้ทำทุกอย่างเป็นพิษจากการสัมผัส...\""
     ],
     [
       "UniqueHelmetStrDex5",
@@ -1706,7 +1706,7 @@
     [
       "UniqueRing23x",
       55099,
-      "\"So close, yet frustratingly distinct. Something more is going on here...\""
+      "\"ใกล้เคียงแต่แตกต่างจนหน้าผิดหวัง มีบางอย่างแปลกๆเกิดขึ้นที่นี่...\""
     ],
     [
       "UniqueGlovesStrDex4",
@@ -1751,7 +1751,7 @@
     [
       "UniqueGlovesStr3x",
       32190,
-      "\"One of our researchers cut himself on Prototype #2,\r\nand he has not stopped screaming for months...\""
+      "\"นักวิจัยคนหนึ่งได้กรีดตัวเองเมื่อได้สวมใส่ต้นแบบหมายเลข 2 และเขายังไม่หยุดกรีดร้องมาหลายเดือนแล้ว\""
     ],
     [
       "UniqueBodyStrDexInt1",
@@ -1966,7 +1966,7 @@
     [
       "UniqueQuiver7x",
       17823,
-      "\"The theft of another's vitality is short-lived, but sweet.\r\nIt calls to me, bidding me abandon all other pursuits.\"\r\n- Researcher Arn"
+      "\"การขโมยความมีชีวิตชีวาของผู้อื่นแม้จะสั้นแต่ก็หอมหวาน\r\n มันร่ำร้องหาตัวข้า มันเสนอให้ข้าละทิ้งการค้นคว้าอื่นๆ\"\r\n - นักวิจัย Arn"
     ],
     [
       "UniqueFlask6",
@@ -2036,7 +2036,7 @@
     [
       "UniqueFlask7x",
       58015,
-      "\"The most terrifying split second of my life.\" \r\n- Researcher Graven"
+      "\"นี่มันเป็นวินาทีที่ข้าหวาดเสียวที่สุดในชีวิต\"\r\n- นักวิจัย Graven"
     ],
     [
       "UniqueOneHandSword9",
@@ -2046,7 +2046,7 @@
     [
       "UniqueOneHandSword9x",
       49070,
-      "\"Once we armoured the test subject heavily enough to test Prototype #502, he proceeded\r\nto fight his way out. I don't know what we expected.\" \r\n- Researcher Graven"
+      "เมื่อเราได้หุ้มเกราะผู้ทดสอบให้หนาพอที่จะทดสอบต้นแบบหมายเลข 502\r\n เขาได้ทำเพื่อแลกกับอิสระ ข้าไม่รู้ว่าพวกเราคาดหวังอะไรไว้\r\n - นักวิจัย Graven"
     ],
     [
       "UniqueBootsStrInt3",
@@ -2071,7 +2071,7 @@
     [
       "UniqueOneHandAxe5",
       35728,
-      "\"เดี๋ยวก่อน เจ้าคนที่มีมือ มีข้อเสนอให้เจ้า \r\nมอบชีวิตให้ข้าสักนิด แล้วข้าจะให้ความตายเจ้ามากกว่าที่เจ้าจะไปหาได้จากไหน \r\nเอาไหม\""
+      "\"เลือด... จามให้เละ... ข้ากระหาย...\""
     ],
     [
       "UniqueGlovesStrInt2",
@@ -2096,7 +2096,7 @@
     [
       "UniqueTwoHandAxe8x",
       49025,
-      "\"Why is Prototype #67 never in the vault it should be?\r\nEither we're keeping faulty logs, or...\" \r\n- Researcher Graven"
+      "\"ทำไมต้นแบบหมายเลข 67 มันทำงานไม่ได้อย่างที่มันควรจะเป็น ?\r\n หรือว่าเรายังคงทำงานผิดพลาดอีกแล้ว? หรือว่า.....\"\r\n- นักวิจัย Graven"
     ],
     [
       "UniqueTwoHandSword7",
@@ -2126,7 +2126,7 @@
     [
       "UniqueRing25x",
       16766,
-      "\"As much as Prototype #20 hints at some deep alternate physics, we cannot afford\r\nto expend any more test subjects. Experiments halted.\"\r\n- Administrator Qotra"
+      "\"ในขณะที่ต้นแบบหมายเลข 20 กำลังบอกใบ้ถึงกฎบางอย่างอยู่\r\n พวกเราไม่สามารถจ่ายเพื่อทดลองต่อได้ การทดลองได้หยุดลง\r\n - ผู้ดูแลระบบ Qotra\""
     ],
     [
       "UniqueShieldInt4",
@@ -2171,7 +2171,7 @@
     [
       "UniqueStaff9x",
       61741,
-      "\"Physical forces and flames seem to share some innate bond.\r\nWhat logic lies beneath the veil of reality?\""
+      "\"แรงทางกายาภาพและเปลวเพลิง ดูเหมือนจะมีความสัมพันธ์กันมันตั้งแต่แรก\r\n ตรรกะอะไรที่กันแน่ที่เป็นความจริง ?\""
     ],
     [
       "UniqueBelt10",
@@ -2181,7 +2181,7 @@
     [
       "UniqueBelt10x",
       32264,
-      "\"A legion of forty soldiers attempted to break into Outpost Five and\r\nsteal Prototype #659. What do they know that we do not?\""
+      "\"มีกองทหารจำนวน 40 นายตั้งปลุกเข้ามาในด่านหน้าที่ 5\r\n และได้ขโมยต้นแบบหมายเลข 659 ไป เขารู้อะไรที่เราไม่รู้?\""
     ],
     [
       "UniqueBelt11",
@@ -2191,7 +2191,7 @@
     [
       "UniqueBelt11x",
       51660,
-      "\"I cannot fathom the mysteries of Prototype #16. It did nearly nothing until I\r\nbrought it to [RESTRICTED]. It makes no sense!\"\r\n- Researcher Graven"
+      "ถ้าไม่เข้าใจถึงความลึกลับของต้นแบบหมายเลข 16 มันไม่ได้ทำอะไรเลย\r\n จนกระทั่งข้านำมาที่ [เขตหวงห้าม] มันช่างไร้เหตุผลสิ้นดี!\r\n -นักวิจัย Graven "
     ],
     [
       "UniqueRing26",
@@ -2271,7 +2271,7 @@
     [
       "UniqueRing30x",
       21955,
-      "\"Likely our closest to the original, yet Prototype #22 still falls short.\r\nAre these objects actually somehow resisting our efforts?\""
+      "\"น่าจะใกล้เคียงกับต้นฉบับที่สุดแล้ว แต่ต้นแบบหมายเลข 22 ยังคงมีข้อผิดพลาดอยู่\r\n เจ้าสิ่งนี้ต่อต้านความพยายามของเราจริงหรือ?\""
     ],
     [
       "UniqueRing31",
@@ -2421,7 +2421,7 @@
     [
       "UniqueBodyDexInt3x",
       33567,
-      "\"Further research must be done on Prototype #282.\r\nThere is power here, if it can be tapped.\""
+      "\"ต้องทำการวิจัยต้นแบบหมายเลข 282 เพิ่มเติม ของสิ่งนี้เต็มไปด้วยพลัง หากสามารถเคาะได้\""
     ],
     [
       "UniqueFlask9",
@@ -2466,7 +2466,7 @@
     [
       "UniqueWand9x",
       6527,
-      "\"Energy redirected is energy imbalanced.\r\nPrototype #78 serves as a prime example.\""
+      "\"พลังงานที่เปลี่ยนเส้นทางคือพลังงานที่ไม่สมดุล\r\n ต้นแบบหมายเลข 78 เป็นตัวอย่างที่สำคัญ\""
     ],
     [
       "UniqueTwoHandAxe9",
@@ -2581,7 +2581,7 @@
     [
       "UniqueJewel20x",
       60785,
-      "\"Does this jewel accomplish nothing? If only we could somehow\r\nmaster cold and turn it to our own ends...\" \r\n- Lead Researcher Ksaret"
+      "\r\n\"อัญมณีนี้ไม่ประสบความสำเร็จเลยหรือ? เราแค่ทำได้เพียง\r\n เย็นชาแล้วหันไปหาจุดจบของเราเอง\""
     ],
     [
       "UniqueCorruptedJewel1",
@@ -2611,7 +2611,7 @@
     [
       "UniqueJewel24x",
       60830,
-      "\"Distribute Prototype #723 to the guards. Perhaps their survival rate will increase.\""
+      "\"แจกจ่ายต้นแบบหมายเลข 723 ให้แก่องครักษ์ บางทีโอกาศรอดชีวิตของพวกเขาอาจเพิ่มขึ้น\""
     ],
     [
       "UniqueJewel25",
@@ -2706,7 +2706,7 @@
     [
       "UniqueJewel44x",
       21314,
-      "\"The effect is subtle, but potentially lethal...\""
+      "\"เป็นความสามารถที่เล็กน้อย แต่อาจแรงถึงตายได้...\""
     ],
     [
       "UniqueJewel45",
@@ -2761,7 +2761,7 @@
     [
       "UniqueCorruptedJewel14x",
       38870,
-      "\"You know what to do with this, don't you?\" - Researcher Graven\r\n\"Kill test subjects for their vitality?\" - Researcher Olesya\r\n\"That is not what he meant.\" - Researcher Arn"
+      "\"เจ้ารู้ว่าจะทำอย่างไรกับเรื่องนี้ใช่ไหม?\" - นักวิจัย Graven\r\n \"ฆ่าผู้รับการทดสอบเพื่อพลังชีวิตหรือ?\" - นักวิจัย Olesya\r\n \"นั่นไม่ใช่สิ่งที่เขาหมายถึง\" - นักวิจัย Arn"
     ],
     [
       "UniqueCorruptedJewel15",
@@ -2851,7 +2851,7 @@
     [
       "UniqueDagger12x",
       63203,
-      "\"Prototype #131 must never be allowed near anyone who bears a wound, no\r\nmatter how slight. Even a tiny cut makes it exponentially more dangerous.\""
+      "\"ต้องไม่อนุญาตให้ใครก็ตามที่มีบาดแผลอยู่ใกล้ต้นแบบหมายเลข 131\r\n แม้มีบาดแผลเพียงเล็กน้อยก็ทำให้อันตรายมากขึ้น\""
     ],
     [
       "UniqueWand10",
@@ -3341,7 +3341,7 @@
     [
       "UniqueRing38x_",
       56303,
-      "\"The flames raced through Lab Five with incredible speed, but were extinguished\r\njust as quickly. This could have been much worse.\" \r\n- Lead Researcher Ksaret"
+      "\"เขาลุกเป็นไฟและวิ่งผ่านห้องแล็บหมายเลข 5 ด้วยความเร็วอันน่าเหลือเชื่อ\r\n แต่ไฟนั้นก็ได้ดับลงอย่างรวดเร็ว เจ้าสิ่งนี้อาจแย่กว่านี้มาก\"\r\n - หัวหน้านักวิจัย Ksaret"
     ],
     [
       "UniqueClaw10",
@@ -3351,7 +3351,7 @@
     [
       "UniqueClaw10x",
       39755,
-      "\"Test subject was able to survive the entire process simply by shouting epithets at\r\nthe researcher. Researcher's feelings were slightly injured.\" \r\n- Researcher Graven"
+      "\"ผู้ร่วมทดสอบสามารถอยู่รอดในกระบวนการทดสอบทั้งหมดได้เพียงแค่ตะโกนโหวกเหวกใส่นักวิจัย\r\n นักวิจัยรู้สึกเจ็บปวดเพียงเล็กน้อย\"\r\n - นักวิจัย Graven"
     ],
     [
       "WIP",
@@ -3621,7 +3621,7 @@
     [
       "UniqueJewel61x",
       9590,
-      "\"Prototype #298 must be contained in a non-conductive glass box at all times.\""
+      "\"ต้นแบบหมายเลข 298 ต้องถูกเก็บใส่ในกล่องแก้วที่ไม่นำไฟฟ้าตลอดเวลา\""
     ],
     [
       "UniqueBow13",
@@ -3841,7 +3841,7 @@
     [
       "UniqueBow14x",
       39936,
-      "\"Admittedly lacking the finesse of the fabled original,\r\nPrototype #4 achieved identical results through brute force alone.\""
+      "\"เป็นที่ยอมรับว่าขาดความละเอียดอ่อนตามต้นฉบับ\r\n ต้นแบบหมายเลข 4 ได้ผลลัพธ์ที่เหมือนกันด้วยพลังเดรัจฉานเพียงอย่างเดียว\""
     ],
     [
       "UniqueWand12",
@@ -3871,7 +3871,7 @@
     [
       "UniqueSceptre14x",
       22695,
-      "\"Attempt #2520: Been slaving away at this one for longer than I can remember.\r\nConvinced this assignment is retribution from my superior...\""
+      "\"ความพยายามครั้งที่ 2520 ถูกทิ้งไว้นานเกินกว่าที่ข้าจะจำได้\r\n เชื่อว่างานนี้เป็นผลงานของหัวหน้าของข้า\""
     ],
     [
       "UniqueBelt18",
@@ -4186,7 +4186,7 @@
     [
       "UniqueAmulet29x",
       16834,
-      "\"Researcher Graven spent eleven hours suffering electrocution in the lab\r\nbefore he was found. Prototype #14 somehow kept him from dying.\""
+      "\"นักวิจัย Graven ทรมานจากการถูกไฟดูดเป็นเวลากว่า 11 ชั่วโมง\r\n ก่อนที่เขาจะค้นพบต้นแบบหมายเลข 14 อย่างไรก็ตามเจ้าสิ่งนี้ทำให้เขาไม่ตาย\""
     ],
     [
       "UniqueOneHandClaw12",
@@ -4196,7 +4196,7 @@
     [
       "UniqueOneHandClaw12x",
       11390,
-      "\"Additional test subjects approved. Determine exactly how many wounds\r\nneed to be endured to activate Prototype #612's energies.\""
+      "\"ได้รับการอนุมัติวิชาทดสอบเพิ่มเติม กำหนดจำนวนบาดแผลให้แน่ชัด\r\n จำเป็นต้องอดทนเพื่อใช้งานพลังงานของต้นแบบหมายเลข 612\""
     ],
     [
       "HerMask",
@@ -4276,7 +4276,7 @@
     [
       "UniqueTwoHandMace10x",
       13306,
-      "\"The best place for this prototype would be in the hands of our enemies.\""
+      "\"สถานที่ที่ดีที่สุดสำหรับต้นแบบนี้คืออยู่ในมือศัตรูของเรา\""
     ],
     [
       "UniqueDagger13",
@@ -4296,7 +4296,7 @@
     [
       "UniqueOneHandMace10x",
       24036,
-      "\"Three test subjects confirmed Prototype #495 creates an additional\r\ndebilitating effect from poisons. This could be very useful.\""
+      "\"ผู้ร่วมทดสอบ 3 คนยืนยันว่าต้นแบบหมายเลข 495\r\n ได้สร้างผลกระทบจากพิษเพิ่มเติม มันน่าจะใช้ประโยชน์ได้\""
     ],
     [
       "UniqueOneHandSword16",
@@ -4306,7 +4306,7 @@
     [
       "UniqueOneHandSword16x",
       57374,
-      "\"Test subjects were unable to strike even a motionless target.\r\nHowever, when a trained guard tried it...\""
+      "\"ผู้ร่วมทดสอบไม่สามารถโจมตีเป้าหมายที่เคลื่อนไหวได้\r\n แต่อย่างไรก็ตามเมื่อผู้คุมที่ได้รับการฝึกฝนมาใช้งาน...\""
     ],
     [
       "UniqueRapier4",
@@ -4331,7 +4331,7 @@
     [
       "UniqueFlask15x",
       42714,
-      "\"Success! Prototype #54 has tapped into that sliver of divinity that exists within.\r\nFaith fuels the flesh, and the flesh fuels the fire...\""
+      "\"สำเร็จ! ต้นแบบหมายเลข 54 ได้สัมผัสถึงเศษเสี้ยวของความศักดิ์สิทธิ์\r\n ที่อยู่ภายใน ศรัทธาที่เป็นเชื้อเพลิงให้กับเลือดเนื้อและเลือดเนื้อเป็นเชื้อเพลิงให้แก่เปลวเพลิง\""
     ],
     [
       "UniqueBodyStrInt7",
@@ -4381,7 +4381,7 @@
     [
       "UniqueJewel71x",
       34658,
-      "\"A curious jewel. Like so many others, a shining little paradox.\""
+      "\"เป็นอัญมณีที่น่าสงสัยเช่นเดียวกับเม็ดอื่น มีความขัดแย้งเล็กน้อยที่ส่องแสงอยู่ภายใน\""
     ],
     [
       "UniqueShieldDexInt3",
@@ -4411,7 +4411,7 @@
     [
       "UniqueJewel74x",
       16068,
-      "\"Researchers will refrain from giving test subjects virtue gems which produce traps.\r\nWe are still finding explosives in the vents months later.\" \r\n- Administrator Qotra"
+      "\"นักวิจัยละเว้นการทดสอบอัญมณีคุณธรรมที่สร้างกับดัก\r\n เรายังคงพบวัตถุระเบิดอยู่ในช่องระบายอากาศในหลายเดือนถัดมา\"\r\n - ผู้ดูแลระบบ Qotra"
     ],
     [
       "UniqueHelmetDexInt7",
@@ -4491,7 +4491,7 @@
     [
       "UniqueShieldStrInt9x",
       35683,
-      "\"Close to the original, and perhaps even more useful. However,\r\nclose is not what we are looking for. Keep trying.\" \r\n- Administrator Qotra"
+      "\"ใกล้เคียงกับต้นฉบับและอาจมีประโยชน์มากกว่าเดิมด้วยซ้ำ\r\n อย่างไรก็ตามการอยู่ใกล้ไม่ใช่สิ่งที่เรากำลังมองหา พยายามต่อไป\"\r\n - ผู้ดูแลระบบ Qotra"
     ],
     [
       "UniqueMap2_15",
@@ -4506,7 +4506,7 @@
     [
       "UniqueOneHandSword18x",
       64682,
-      "\"The night-gaunts, they fly, soaring about in darkness beyond the ken of mankind.\r\nI hear the silent whispers of their wings as they descend, for me, for me...\" \r\n- Researcher Arn"
+      "\"พวกมันโบยบินได้ในยามค่ำคืนทะยานไปในความมืดมิดอยู่เหนือความรู้ของมนุษย์\r\n ข้าได้ยินเสียงกระซิบอันแผ่วเบาจากปีกของพวกเขาในขณะที่พวกเขาบินลงมาหา ตัวข้าและเพื่อตัวข้า…\"\r\n - นักวิจัย Arn"
     ],
     [
       "TheSephirot",
@@ -4686,7 +4686,7 @@
     [
       "UniqueBootsDex9x",
       43241,
-      "\"The test subject nearly escaped, but the poison gas\r\nsystem in the hallway functioned as expected.\""
+      "\"ผู้ร่วมทดลองเกือบที่จะหลบหนีไปได้ แต่แก๊สพิษนั่นที่กระจายไปทั่วทางเดินนั้น\r\n ทำงานได้อย่างที่คาดไว้จริง ๆ \""
     ],
     [
       "UniqueShieldStr6",
@@ -4836,7 +4836,7 @@
     [
       "UniqueGlovesInt7x",
       16702,
-      "\"I feel altered when Administrator Qotra wears these gloves.\r\nSomehow, I find that disturbing.\" \r\n- Researcher Arn"
+      "\"ข้ารู้สึกตื่นตัวตลอดเมื่อผู้ดูแล Qotra สวมถุงมือนั่น\r\n บางครั้ง ข้าเจอสิ่งที่รบกวนนั่นแล้ว\"\r\n- นักวิจัย Arn"
     ],
     [
       "UniqueFlask18",
@@ -5251,7 +5251,7 @@
     [
       "UniqueBootsDexInt5x",
       51605,
-      "\"Test subject was able to walk into the walls of his chamber after breaking a rabbit's neck.\r\nHe was not fast enough, however. Suggest we begin excavation to retrieve prototype.\""
+      "\"ผู้ร่วมทดสอบสามารถเดินกลับไปยังกำแพงห้องของตัวเองได้หลังที่ได้ทำการหักคอกระต่าย\r\n เขานั้นลงมือได้อย่างไม่เร็วนัก ยังไรก็ตาม แนะนำว่าเริ่มการขุดค้นและซ่อมแซมตัวต้นแบบนั้นเสีย\""
     ],
     [
       "UniqueGlovesStrInt5",
@@ -5301,7 +5301,7 @@
     [
       "UniqueJewel82x",
       33446,
-      "\"The summoned golems immediately battered through the chamber wall\r\nand killed several guards, but their fury only lasted a short time.\""
+      "\"โกเลมที่ถูกอัญเชิญออกมาได้พังกำแพงของห้องโถง\r\n และสังหารผู้คุมไปบางส่วน แต่ความบ้าคลั่งนั้นมันก็เป็นแค่ช่วงเวลาอันสั้น\""
     ],
     [
       "UniqueJewel83",
@@ -5371,7 +5371,7 @@
     [
       "UniqueWand16x",
       47691,
-      "\"Are we mad for attempting to build an engine out of this?\r\nLooping cycles, power and pain...\" \r\n- Researcher Arn"
+      "\"พวกเราเสียสติพอที่จะสร้างเครื่องยนต์จากสิ่งเหล่านี้หรือ?\r\n สับเปลี่ยนความเจ็บปวดเป็นพลัง\"\r\n - นักวิจัย Arn"
     ],
     [
       "UniqueBodyDex10",
@@ -5386,7 +5386,7 @@
     [
       "UniqueBodyDex11x",
       61307,
-      "\"Test subject battered through the hatch with her bare hands,\r\nforcing us to resort to threatening her children to restore containment.\""
+      "\"ผู้รับการทดสอบถูกทุบด้วยมือเปล่าผ่านช่องลูกกรง\r\n และบังคับให้เราขู่เข็ญเหล่าเด็กๆ ให้ฟื้นฟูพลังตัวเอง\""
     ],
     [
       "UniqueAmulet39",
@@ -5441,7 +5441,7 @@
     [
       "UniqueBootsStr7x",
       12002,
-      "\"Researchers will please refrain from combining our prototypes with existing relics of power.\r\nThe temptation is obvious, but the results can be... unpredictable.\" \r\n- Administrator Qotra"
+      "\"นักวิจัยกรุณาระเว้นการรวมพลังของต้นแบบทั้งหมดด้วยพลังของวัตถุโบราณนั้นซะ\r\n ถึงมันจะล่อตาล่อใจแค่ไหน ผลลัพท์ของมันไม่สามารถที่จะ........คาดเดาได้เลยแม้แต่น้อย\"\r\n- ผู้ดูแล Qotra"
     ],
     [
       "UniqueTwoHandAxe11",
@@ -5521,7 +5521,7 @@
     [
       "UniqueShieldStr10x",
       16342,
-      "\"As one of our few creations that did not cost any fatalities,\r\nPrototype #10 bore unexpectedly positive results.\""
+      "\"มันคือหนึ่งในผลงานที่เราสร้างขึ้นโดยไม่เสียสละชีวิตเลยแม้แต่น้อย\r\n ต้นแบบหมายเลข 10 ให้ผลลัพท์ที่ดีอย่างไม่น่าเชื่อ\""
     ],
     [
       "UniqueRing46",
@@ -5561,7 +5561,7 @@
     [
       "UniqueStaff17x",
       5745,
-      "\"Lab Two suffered significant structural damage in the process of creating\r\nPrototype #77. It is, however, the closest we've come to perfection.\""
+      "\"แลปหมายเลข 2 ได้รับความเสียหายอย่างมากจากการสร้างสิ่งหนึ่ง\r\n เจ้าสิ่งนี้คือต้นแบบหมายเลข 77 อย่างไรก็ตามมันก็เข้าใกล้ความสมบูรณ์แบบแล้ว\""
     ],
     [
       "UniqueBelt22",
@@ -5866,27 +5866,27 @@
     [
       "UniqueGlovesInt8x",
       39203,
-      "\"There seems to be some innate relationship between the forces of\r\nchaos and cold. Perhaps we should consult an occultist.\""
+      "\"ดูเหมือนว่าจะมีความสัมพันธ์บางอย่างระหว่าง\r\n คาออส และ น้ำแข็ง บางทีเราควรที่จะไปปรึกษากับผู้วิเศษ\""
     ],
     [
       "UniqueBootsInt8",
       64252,
-      "แม้เราจะเดินเส้นทางเดียวกันหมด\r\nแต่การเดินทางแต่ละครั้งก็ต่างกันไป"
+      "แม้เราจะเดินเส้นทางเดียวกันหมด\r\n แต่การเดินทางแต่ละครั้งก็ต่างกันไป"
     ],
     [
       "UniqueBootsInt8x",
       5359,
-      "\"Prototype #56 was deemed safe, but judging by Administrator Qotra's new hustle\r\nand improved ability to micromanage us, I'm not so sure.\" \r\n- Researcher Graven"
+      "\"ต้นแบบหมายเลข 56 ดูเหมือนว่าจะปลอดภัย โดยการตัดสินใจอย่างรวดเร็วของผู้ดูแล Qotra\r\nและมันได้รวมคุณสมบัติของวัสดุขนาดเล็ก แต่ข้าก็ยังไม่แน่ใจ\"\r\n - นักวิจัย Graven"
     ],
     [
       "UniqueGlovesStrInt6",
       42793,
-      "เจ้าไม่หายไปเฉยๆ หรอกเมื่อตาย\r\nก็เหมือนหนอนกลายเป็นดักแด้ไปนั่นแหละ"
+      "เจ้าไม่หายไปเฉยๆ หรอกเมื่อตาย\r\n ก็เหมือนหนอนกลายเป็นดักแด้ไปนั่นแหละ"
     ],
     [
       "UniqueGlovesStrInt6x",
       7713,
-      "\"Prototype #73 is a near perfect opposite of the original. Perhaps our failures\r\nare due to some unknown polarity we have yet to discover.\""
+      "\"ต้นแบบหมายเลข 73 นั้นใกล้เข้าขั้นคำว่าสมบูรณ์เหมือนต้นแบบแล้ว แต่สุดท้ายมันก็ผิดพลาด\r\n เป็นเพราะกระแสไฟที่เรายังไม่ได้ค้นพบ\""
     ],
     [
       "UniqueHelmetInt12",
@@ -5936,12 +5936,12 @@
     [
       "UniqueBelt21",
       45476,
-      "Vaal bloodpriests เป็นปัญญาชนที่เก่าแก่ที่สุดในบันทึก มันเป็นที่ที่พวกเขาพบว่าจิตวิญญาณที่เป็นอิสระใหม่หมดจะยึดติดกับแหล่งอื่น ๆ ของชีวิต\r\n\r\n"
+      "Vaal bloodpriests เป็นปัญญาชนที่เก่าแก่ที่สุดในบันทึก มันเป็นที่ที่พวกเขาพบว่าจิตวิญญาณที่เป็นอิสระใหม่หมดจะยึดติดกับแหล่งอื่น ๆ ของชีวิต"
     ],
     [
       "UniqueBelt21x",
       63836,
-      "\"Curious. The test spike penetrated the subject's flesh, but the chest wound\r\nwas not as deep as expected. There is something here...\""
+      "\"น่าประหลาด การทดสอบเอาเหล็กแทงไปที่หน้าอกของผู้ทดสอบขณะที่ยังมีชีวิต\r\n แต่บาดแผลลึกไม่พออย่างที่คาดเอาไว้ มันต้องมีบางอย่างอยู่ที่นี่.....\""
     ],
     [
       "UniqueShieldStrDex4",
@@ -6576,122 +6576,197 @@
     [
       "DivinationCardTheTumbleweed",
       6014,
-      "Only the feminine touch can save a man's soul from the clutches of The Wasteland."
+      "มีแค่จิตวิญาณของผู้หญิงเท่านั้นแหละที่จะช่วยเหลือจิตวิญญาณของผู้ชายให้รอดพ้นจากความว่างเปล่า"
     ],
     [
       "DivinationCardTheHiveOfKnowledge",
       48428,
-      "Within years of knowledge, distilled by careful craftsmanship, lies great power."
+      "ภายในเวลาหลายปีแห่งความรู้ซึ่งกลั่นออกมาด้วยฝีมือที่ละเอียดรอบคอบมีพลังอันยิ่งใหญ่"
     ],
     [
       "DivinationCardGiftOfAsenath",
       54448,
-      "The Golden Sekhema's words could solve many a feud. Just what form that solution took was another matter."
+      "คำพูดของ Golden Sekhema นั้นแก้ไขปัญหาความขัดแย้งได้หลายต่อหลายครั้ง มันก็เป็นหนึ่งในรูปแบบการแก้ปัญหา"
     ],
     [
       "DivinationCardANoteInTheWind",
       15710,
-      "<size:30>{The artist is long dead,\r\nthe lyrics are long forgotten,\r\nyet the Song of War longs to be sung again}"
+      "<size:30> {ศิลปินนั้นได้จากไปนานแล้ว\r\n เนื้อร้องก็แทบจะเลือนหาย\r\n แต่เพลงแห่งสงครามนั้นจะกลับมาร้องอีกครั้ง}"
     ],
     [
       "DivinationCardTheGreatestIntentions",
       63689,
-      "Chasing purity in the rising light means facing the darkening edges of the spirit."
+      "การที่พยายามวิ่งตามแสงแห่งความหวังนั้น ก็เหมือนกำลังเผชิญหน้าสู้กับความมืดและวิญญาณ"
     ],
     [
       "DivinationCardTheWhiteKnight",
       18499,
-      "Where Decay festers, I shall expunge it, and leave in its place a shining monument."
+      "มันเน่าเสียเร็วเกินไป ข้าจะทำการกำจัดมันทิ้งและทิ้งอนุสาวรีย์ที่ส่องแสงไว้ในที่ของมัน"
     ],
     [
       "DivinationCardPrometheusArmoury",
       50054,
-      "It is a mortal man's folly to seek power beyond his comprehension."
+      "มันก็แค่ความโง่เขลาของมนุษย์เท่านั้นที่ต้องการตามหาพลังที่นอกเหนื่อความเข้าใจของตน"
     ],
     [
       "DivinationCardTheSustenance",
       39478,
-      "She took all she had and turned it into something she was craving."
+      "เธอเอาทุกอย่างที่มีไปเปลี่ยนเป็นสิ่งที่ปรารถนา"
     ],
     [
       "DivinationCardPeacefulMoments",
       56502,
-      "Savour these moments, for they may never return."
+      "จดจำช่วงเวลาเหล่านี้ไว้ เพราะมันจะไม่มีวันกลับมาอีกครั้ง"
     ],
     [
       "DivinationCardTheAwakened",
       33878,
-      "Some seek to change the world. Others change the world as a consequence of what they seek."
+      "การแสวงหาอาจจะสามารถเปลี่ยนโลกได้ การเปลี่ยนแปลงของโลกนั้นอาจจะเกิดมาจากการแสวงหาเหล่านั้น"
     ],
     [
       "DivinationCardAFamiliarCall_",
       62629,
-      "The mighty huntress always called for her share,\r\nBut what we shared was a lifelong bond."
+      "นายพรานหญิงผู้แข็งแกร่งนั้นจะชอบเรียกร้องส่วนแบ่ง\r\n แต่สิ่งที่เราแบ่งปันคือความผูกพันตลอดชีวิต"
     ],
     [
       "DivinationCardTheLongCon",
       44921,
-      "\"This was the proudest moment of my life.\"\r\n\r\n\"... so far\""
+      "\"เป็นช่วงเวลาที่ข้าภูมิใจที่สุดในชีวิต\"\r\n\r\n\".... ข้ามาไกลเหลือเกิน\""
     ],
     [
       "DivinationCardTheGulf",
       7859,
-      "<size:28>{I thought love stronger than all,\r\nbut time and isolation broke\r\nthat which madness could not.}"
+      "<size:28> {ข้าคิดว่าความรักนั้นเป็นสิ่งที่แข็งแกร่งเหนือสิ่งใด\r\n แต่ถูกเวลาและความโดดเดียวพังทลาย\r\n ยกเว้นความบ้าคลั่งที่ไม่สามารถ}"
     ],
     [
       "DivinationCardTheBitterBlossom",
       15673,
-      "The pain you feel is of no consequence, it is evolution, to be made whole within something greater."
+      "ความเจ็บปวดที่เจ้าได้รับรู้นั่นมันไม่ใช่ผลลัพท์ มันคือมันวิวัฒนาการที่ทำให้บางอย่างนั้นดีขึ้น"
     ],
     [
       "DivinationCardTriskaidekaphobia",
       43807,
-      "The Mists of Madness prey on those who harbour the deepest of fears."
+      "หมอกแห่งความบ้าคลั่งเป็นเหยื่อสำหรับผู้ที่ตกอยู่ภายใต้ความกลัวนั่น"
     ],
     [
       "DivinationCardUnrequitedLove",
       38899,
-      "<size:26>{The pale flame of his heart disappeared in his azure reflection.\r\nThe work of a life.\r\nAmbitious, and unfinished.}"
+      "<size:26> {แสงไฟที่กำลังอ่อนลงภายในใจของเขานั้นกำลังเปลี่ยนและสะท้อนกลายเป็นสีฟ้า\r\n มันได้ส่งผลต่อชีวิต\r\n ความทะเยอทะยาน และ ความไม่สมบูรณ์}"
     ],
     [
       "DivinationCardTheCache",
       3405,
-      "<size:23>{Vintage or crafted, Glittering and shiny\r\nDusty or glittering, huge or tiny\r\nSecured within a chest \r\nor unearthed from your mining\r\nFind jewellery everywhere, \r\nno need for divining!\r\nSo why is it so hard \r\nto figure out which one to wear?\r\nThis one makes me stronger, \r\nbut does it match my hair?}"
+      "<size:23> {มีคุณค่าหรือเป็นงานฝีมือที่ส่องแสงระยิบระยับ\r\n มีฝุ่นเกาะหรือแวววาว ใหญ่หรือเล็ก\r\n ยึดมั่นไว้ในใจ\r\n หรือค้นพบมันจากภายใต้ตัวเจ้าเอง\r\n หาเครื่องประดับทุกที่ที่ไป\r\n ไม่ต้องการที่จะแบ่งให้กับใคร!\r\n ทำไมมันทำยากเช่นนั้น\r\n ต้องทำอย่างไรถึงจะได้สวมใส่มันสักครั้ง?\r\n สิ่งนั้นมันจะทำให้ข้าแข็งแกร่งขึ้น\r\n แต่มันไม่เข้ากับทรงผมของข้า?}"
     ],
     [
       "DivinationCardTheAcademic",
       58358,
-      "<size:26>{\"Such dedication for so many years,\r\nall for a couple extra letters at the front of your name...\"}"
+      "<size:26> {\"ดูเหมือนว่าจะทุ่มเทมาเป็นเวลาหลายปี\r\n ทั้งหมดนี่เป็นอักษรพิเศษหน้าชื่อของเจ้าทั้งสองตัวเลย.....\"}"
     ],
     [
       "DivinationCardDesecratedVirtue",
       48591,
-      "<size:25>{Awoken virtuous slivers of the void,\r\ndefiled by the avaricious, \r\nseized by the tyrannical.}"
+      "<size:25> {ปลุกพลังเศษแร่เงินแห่งความว่างเปล่า\r\n แปดเปื้อนโดยพวกโลภมาก\r\n ครอบครองโดยผู้กดขี่}"
     ],
     [
       "DivinationCardBrothersStash",
       42603,
-      "Even though he found the stash just in time,\r\nHe would trade it all away and then some to have him back."
+      "แม้ว่าทุก ๆ สิ่งที่เขาพบนั้นมันจะใช้เวลาเพียงไม่นานนัก\r\n แต่เขาก็ยอมแลกสิ่งของทั้งหมดนั้นเพื่อสิ่งที่เขาอยากได้ให้กลับมา"
     ],
     [
       "DivinationCardUnchained",
       20754,
-      "Mold the world with your bare hands. Be careful, for what is your doing might become your undoing."
+      "หากจะสร้างโลกที่ต้องการด้วยมือเปล่า จงระวังเอาไว้ สุดท้ายสิ่งที่เจ้ากำลังจะทำมันอาจจะไม่ส่งผลอะไรเลยแม้แต่น้อย"
     ],
     [
       "DivinationCardTheUnexpectedPrize",
       39485,
-      "They came from far and wide under a common banner.\r\nThey sought companionship and competition,\r\nbut found a treasure none had foreseen."
+      "พวกเขาเดินทางมาไกลภายใต้ร่มธงที่พบเห็นทั่วไป\r\n พวกเขาแสวงหามิตรภาพและการแข่งขัน\r\n แต่กลับพบสมบัติที่ไม่มีใครคาดคิดมาก่อน"
     ],
     [
       "DivinationCardCursedWords",
       5822,
-      "If you look hard enough for hidden meaning, you will find it."
+      "หากเจ้าตั้งใจหาความหมายที่ซ่อนอยู่ สุดท้ายแล้วเจ้าจะพบมัน"
     ],
     [
       "DivinationCardTheJournalist",
       21958,
-      "A good spy doesn't forget she's gone undercover."
+      "นักสืบที่ดี จะไม่มีมีวันเปิดเผยตัวตนของหล่อน"
+    ],
+    [
+      "DivinationCardHauntingShadows",
+      31356,
+      "ในยามค่ำคืนเจ้าอาจจะหลบหนีภายใต้เงามืด\r\n แต่พวกเขาจะพบเจ้าเสมอในยามรุ่งสาง"
+    ],
+    [
+      "DivinationCardAcclimatisation",
+      6686,
+      "โลกมีการเปลี่ยนแปลงตลอดเวลา\r\n ป่าที่เคยเขียวขจีอาจเปลี่ยนเป็นทะเลทราย\r\n เมืองที่ยิ่งใหญ่อาจจมลงไปใต้ท้องสมุทร\r\n จงเลือกว่าจะเปลี่ยนแปลงหรือพังพินาศ"
+    ],
+    [
+      "DivinationCardTheWhiteout",
+      65530,
+      "<size:25>{พวกเขาคิดว่าฤดูหนาวมาเร็ว\r\n หิมะที่ปกคลุมแผ่นดิน\r\n แต่ความจริงแล้วไก่ทั้งหมดของพวกเขา\r\n ได้กลับบ้านเพื่อพักผ่อน}"
+    ],
+    [
+      "DivinationCardSocietysRemorse",
+      23082,
+      "<size:28>{เราอยู่เพื่อฝันถึงโลกที่เราไม่ได้อยู่\r\n เรื่องเล่าเท็จที่เราใช้เติมเต็มจิตวิญญาณของเรา\r\n ด้วยความสงสัย;\r\n โลกสวยงามอยู่แล้ว\r\n ไม่จำเป็นต้องฝัน.}"
+    ],
+    [
+      "DivinationCardDyingLight",
+      61967,
+      "แม้แต่ความสว่างที่สุดก็จางหายไปในความมืดมิด"
+    ],
+    [
+      "DivinationCardFatefulMeeting",
+      48206,
+      "<size:26>{มีบางคนทำตัวเป็นตะเกียงส่องสว่างนำทางให้แก่ผู้อื่นถ้าโชคดีเสียจริงที่ได้พบกับคนเช่นนี้\r\n \r\n - Anton ถึง Zhenya}"
+    ],
+    [
+      "DivinationCardTheAstromancer_",
+      50690,
+      "<size:24>{พวกเขาจะบอกว่าเขาเป็นคนอันตราย\r\n ไร้ขอบเขตด้วยสำนึกแห่งศีลธรรม\r\n แต่เรื่องนี้สำคัญอะไร\r\n เมื่อความรักที่มีต่อมนุษยชาตินั้นไม่อาจปฏิเสธได้\r\n และการทำงานให้เสร็จจะเป็นประโยชน์ต่อทุกคนหรือ}"
+    ],
+    [
+      "DivinationCardKeepersCorruption",
+      62509,
+      "ได้รับพลังที่ยิ่งใหญ่ที่เข้ามา...\r\n\r\n..แม้มีพลังที่ยิ่งใหญ่กว่าอยู่แล้ว"
+    ],
+    [
+      "DivinationCardRecklessAmbition",
+      60655,
+      "ทำไมต้องยอมรับ เมื่อไม่เคยพอ"
+    ],
+    [
+      "DivinationCardLoveThroughIce",
+      49986,
+      "\"ข้ารู้จักผู้หญิงคนหนึ่งที่ข้าจะมอบหัวใจของข้าให้\"\r\n\r\n - Derrok, ผู้ช่างฝัน"
+    ],
+    [
+      "DivinationCardDrapedInDreams",
+      28016,
+      "ชุดที่ข้าใส่\r\n มีน้ำหนักมากและเปลือย\r\n ดูเหมือนผืนผ้าใบจะหายใจชีวิตสู่ความฝัน"
+    ],
+    [
+      "DivinationCardThePatient",
+      35413,
+      "ข้าปวดหัวใครก็ได้ช่วยหาพยาบาลให้หน่อย"
+    ],
+    [
+      "DivinationCardTheLongWatch",
+      10729,
+      "<size:26>{ฝนโปรยลงมา โคลนจับที่เท้าของเขา ขณะที่ความคิดของเขาเกื้อหนุนความตั้งใจของเขา}"
+    ],
+    [
+      "DivinationCardTheBearWoman",
+      50113,
+      "<size:24>{สำหรับหมีผู้มีความสุขอยู่ในถ้ำ\r\n ร้อยวันผ่านไปในความมืดและความเงียบงัน\r\n จนกระทั่งดวงจันทร์เคลื่อนผ่านไป 4 หน หมีได้ผลัดขนสัตว์ร้ายออกและเกิดใหม่เป็นมนุษย์}"
+    ],
+    [
+      "DivinationCardBrotherhoodInExile",
+      57908,
+      "<size:25>{หาที่พักพิงยามค่ำคืน\r\n ในความอบอุ่นของโรงแรมที่ทรุดโทรม\r\n ในขณะที่ศัตรูเลิกการต่อสู้\r\n ผูกพันกันด้วยเหล้ารัมและวิสกี้}"
     ],
     [
       "UniqueShieldStr11",
@@ -7056,7 +7131,7 @@
     [
       "UniqueMap3_23x",
       63803,
-      "\"Whatever these maps are, it is clear they are dangerous. Send in only\r\ntest subjects, no guards or researchers.\" \r\n- Administrator Qotra"
+      "\"อย่างไรก็ตามแผนที่นี้มันก็เช่นนี้ มันดูเหมือนจะชัดเจนแต่มันก็ยังอันตราย\r\n ส่งแค่ผู้ทดสอบไปทดสอบเท่านั้น ไม่จำเป็นต้องมีผู้คุ้มกันหรือนักวิจัยติดตามไป\"\r\n - ผู้ดูแล Qotra"
     ],
     [
       "UniqueBootsStrInt5",
@@ -7086,7 +7161,7 @@
     [
       "UniqueJewel111x",
       1068,
-      "\"Twelve test subjects were expended in the production of Prototype #800.\r\nWas it worth the expense? Only time will tell.\""
+      "\"ผู้เข้าทดสอบสิบสองคนถูก ได้นำไปใช้งานสำหรับผลิตพันธ์ต้นแบบหมายเลข 800 \r\n นั้นมันคุ้มค่าจริง ๆ ใช่มั้ย ? มีเพียงเวลาเท่านั้นที่บอกได้\""
     ],
     [
       "UniqueBootsDIY",
@@ -7166,7 +7241,7 @@
     [
       "UniqueBodyDexInt9x",
       4646,
-      "\"Eyes of black, three by three, staring ever darker into me...\"\r\n- Researcher Arn"
+      "\"ดวงตาสีดำสามคู่จ้องมองเข้ามา ความมืดมันเริ่มที่จะกลืนกินข้าเรื่อย....\"\r\n - นักวิจัย Arn"
     ],
     [
       "UniqueGlovesDex4",
@@ -7406,7 +7481,7 @@
     [
       "UniqueBodyStrDex8x",
       4408,
-      "\"Attempt #120: the prototype has finally achieved power similar to the original\r\nwithout breaking all the bones of the test subject. A rousing success.\""
+      "\"พยายามครั้งที่ 120 : งานต้นแบบนั้นได้รับการปรับพลังให้ดีกว่าตัวต้นแบบเดิม \r\n โดยไม่ทำให้กระดูกผู้ร่วมทดสอบนั้นแตกเป็นเสี่ยงๆ ในการทดสอบ ความสำเร็จนี่ช่างน่าตื่นเต้นเสียจริง\""
     ],
     [
       "UniqueHelmetDexInt10",
@@ -7476,7 +7551,7 @@
     [
       "UniqueBodyStrInt9x",
       46280,
-      "\"Better... stronger... more vital... and then... failure. Always, failure.\r\nWhat key fundamental secret are we missing?\""
+      "\"เยี่ยมยอด.... แข็งแกร่ง..... บ้าพลังให้มากขึ้น..... และแล้วก็ผิดพลาด... ผิดพลาดมาตลอด\r\nอะไรคือสิ่งที่เราขาดไป ?\""
     ],
     [
       "UniqueRing51",
@@ -7621,7 +7696,7 @@
     [
       "UniqueSceptre19x",
       52539,
-      "\"Lord of Bone, Lord of Flesh, yet all that we can\r\nmaster turns to ash.\" \r\n- Researcher Arn"
+      "\"เจ้าแห่งเลือดเนื้อ เจ้าแห่งโครงกระดูก ทั้งหมดนั้น\r\n ข้ายังเปลี่ยนให้มันเป็นเถ่าถ่านได้\"\r\n - นักวิจัย Arn"
     ],
     [
       "UniqueShieldDexInt5",
@@ -7851,17 +7926,17 @@
     [
       "UniqueBodyDexInt11x",
       24536,
-      "\"The form of this replica came to me in a troubled dream.\r\nI do not believe we should ever allow it to be used.\"\r\n- Researcher Arn"
+      "\"รูปแบบของการจำลองนี่มันทำให้ข้าฝันร้ายมาตลอด\r\n ข้าไม่สามารถเชื่อได้ความเราจะสามารถใช้งานมันได้\"\r\n - นักวิจัย Arn"
     ],
     [
       "UniqueRapier6",
       59126,
-      "อะไรเอ่ย  เป็นแฝดแต่ไม่มีพี่น้อง?"
+      "อะไรเอ่ย เป็นแฝดแต่ไม่มีพี่น้อง?"
     ],
     [
       "UniqueRapier6x",
       64037,
-      "\"This is one riddle I can't solve.\" \r\n- Researcher Graven"
+      "\"นี่คือปริศนาอย่างหนึ่งที่ข้าแก้ไขมันไม่ได้สักที\"\r\n - นักวิจัย Graven"
     ],
     [
       "UniqueBelt32",
@@ -7871,7 +7946,7 @@
     [
       "UniqueBodyInt18",
       37280,
-      "ในฝันร้ายสีแดงเลือด พวก Vaal ได้อุทิศตนเพื่อความรุ่งโรจน์และความงามของเธอ \r\nพวกมันทิ่มแทงหัวใจตัวเองร้องตะโกนด้วยความยินดี ตายเกิดวนเวียนเรื่อยมา"
+      "ในฝันร้ายสีแดงเลือด พวก Vaal ได้อุทิศตนเพื่อความรุ่งโรจน์และความงามของเธอ \r\n พวกมันทิ่มแทงหัวใจตัวเองร้องตะโกนด้วยความยินดี ตายเกิดวนเวียนเรื่อยมา"
     ],
     [
       "UniqueHelmetInt20",
@@ -7881,12 +7956,12 @@
     [
       "UniqueSceptre21",
       30866,
-      "ความกว้างใหญ่ไพศาลของจักรวาล กักเก็บพลังงานมากเกินหยั่งรู้ได้\r\nหากมีผู้ใดอดทนพอหยั่งถึง"
+      "ความกว้างใหญ่ไพศาลของจักรวาล กักเก็บพลังงานมากเกินหยั่งรู้ได้\r\n หากมีผู้ใดอดทนพอหยั่งถึง"
     ],
     [
       "UniqueSceptre21x",
       6561,
-      "\"We could rival the gods with this power, if only we had the mitigating mechanisms\r\nto make it work. A jewel, a talisman, an armour... or the Font...\""
+      "\"เราสามารถท้าทายกับพระเจ้าได้ด้วยพลังนี่ ถ้าหากเราทำให้การกลไกนี่ให้\r\n สามารถทำงานได้ อัญมณี เครื่องราง เกราะ...... หรือ ศิลา....\""
     ],
     [
       "UniqueFlask28",
@@ -7946,7 +8021,7 @@
     [
       "UniqueAmulet55x",
       4967,
-      "\"The type Delta test subjects could have escaped with the power offered by\r\nPrototype #15, but they suddenly chose to murder each other instead...\""
+      "ผู้ร่วมทดสอบ Delta สามารถหลบหนีได้ด้วยพลังของ\r\n ต้นแบบหมายเลข 15 แต่พวกมันก็เลือกที่จะฆ่ากันเอง....."
     ],
     [
       "UniqueShieldDexInt6",
@@ -7966,7 +8041,7 @@
     [
       "UniqueQuiver15x",
       27341,
-      "\"The Midnight Tinkerer's aid was invaluable during our brief alliance,\r\nbut when we failed to make any progress on resurrection, he continued his search elsewhere...\""
+      "ความช่วยเหลือของ Midnight Tinkerer มีค่ามากสำหรับความสัมพันธ์ระหว่างเรา\r\n แต่เมื่อพวกเราพลาดขณะปฏิบัติการฟื้นคืนชีพอยู่เขายังคงค้นขว้าและวิจัยอยู่สักที่....."
     ],
     [
       "UniqueGlovesDexInt14",
@@ -8096,7 +8171,7 @@
     [
       "ScarabBreach4",
       6654,
-      "The Master Researcher's final commandment has failed.\r\nThe High Templar has seen the truth of our situation,\r\nand the world will be undone by his fear."
+      "คำสั่งสุดท้ายจากหัวหน้านักวิจัยนั้นล้มเหลว\r\n อัศวินเทมพลาชั้นสูงจะได้เห็นความจริงสำหรับสถานการณ์เหล่านี้\r\n และโลกจะถูกปกคลุมด้วยความกลัว"
     ],
     [
       "ScarabMaps1",
@@ -8116,7 +8191,7 @@
     [
       "ScarabMaps4",
       15237,
-      "The Sealing Blade has been removed, and the agent of Decay\r\nshall feed upon this world until nothing remains but dust."
+      "ใบมีดปิดผนึกถูกถอดออกไป และตัวแทนของ Decay\r\n จะกัดกินโลกทั้งใบให้เหลือเพียงเศษฝุ่น"
     ],
     [
       "ScarabUniques1",
@@ -8136,7 +8211,7 @@
     [
       "ScarabUniques4",
       25240,
-      "The books were burned, and the scribes set themselves aflame.\r\nWhat secret so terrible could they have discovered?\r\nThough centuries have passed, we must investigate this for ourselves."
+      "หนังสือที่ถูกเผา และผู้เขียนหนังสือที่กำลังมอดไหม้\r\nอะไรคือความลับที่ที่พวกนั้นยังไม่สามารถค้นพบได้ ?\r\nแม้เวลาจะผ่านมานับร้อยปีแล้ว เราก็ยังคงต้องหาคำตอบของมันด้วยตัวเอง"
     ],
     [
       "ScarabBeasts1",
@@ -8156,27 +8231,27 @@
     [
       "ScarabBeasts4",
       10963,
-      "Without an experienced Beastmaster to find them new realms,\r\nthe First Ones' ravaging hunt brings them ever closer to Wraeclast."
+      "หากไม่มีประสบการณ์ของ Beatmaster ที่จะค้นหาดินแดนใหม่\r\n เหล่า First Ones จะเข้าใกล้การทำลายล้าง Wraeclast ไปเรื่อย ๆ "
     ],
     [
       "ScarabBeasts4a",
       46550,
-      "Without an experienced Beastmaster to find them new realms,\r\nthe First Ones' ravaging hunt brings them ever closer to Wraeclast."
+      "หากไม่มีประสบการณ์ของ Beatmaster ที่จะค้นหาดินแดนใหม่\r\n เหล่า First Ones จะเข้าใกล้การทำลายล้าง Wraeclast ไปเรื่อย ๆ "
     ],
     [
       "ScarabBeasts4b",
       345,
-      "Without an experienced Beastmaster to find them new realms,\r\nthe First Ones' ravaging hunt brings them ever closer to Wraeclast."
+      "หากไม่มีประสบการณ์ของ Beatmaster ที่จะค้นหาดินแดนใหม่\r\n เหล่า First Ones จะเข้าใกล้การทำลายล้าง Wraeclast ไปเรื่อย ๆ "
     ],
     [
       "ScarabBeasts4c",
       16020,
-      "Without an experienced Beastmaster to find them new realms,\r\nthe First Ones' ravaging hunt brings them ever closer to Wraeclast."
+      "หากไม่มีประสบการณ์ของ Beatmaster ที่จะค้นหาดินแดนใหม่\r\n เหล่า First Ones จะเข้าใกล้การทำลายล้าง Wraeclast ไปเรื่อย ๆ "
     ],
     [
       "ScarabBeasts4d",
       40223,
-      "Without an experienced Beastmaster to find them new realms,\r\nthe First Ones' ravaging hunt brings them ever closer to Wraeclast."
+      "หากไม่มีประสบการณ์ของ Beatmaster ที่จะค้นหาดินแดนใหม่\r\n เหล่า First Ones จะเข้าใกล้การทำลายล้าง Wraeclast ไปเรื่อย ๆ "
     ],
     [
       "ScarabShaperRares1",
@@ -8196,7 +8271,7 @@
     [
       "ScarabShaperRares4",
       55217,
-      "The Watchers have gone silent, yet they scream still.\r\nSomething lurks among the stars of our dreams, knocking at the door,\r\nwhispering with the voices of long lost friends..."
+      "เหล่าผู้ดูจากไปอย่างเงียบ ๆ แต่พวกเขายังคงกรีดร้อง\r\n บางครั้งดวงดาวแห่งความฝันก็ยังคงถูกซ่อนอยู่รอบๆตัวเราหรืออาจอยู่ที่ประตูหน้าบ้าน\r\n และกระซิบหาเราเหมือนเสียงของเพื่อนยากที่เราไม่เจอกันมานานแสนนาน......"
     ],
     [
       "ScarabElderRares1_",
@@ -8216,7 +8291,7 @@
     [
       "ScarabElderRares4",
       55023,
-      "We are all equally fools for our childish notions.\r\nThat dread force Decay cannot be defeated by self-sacrifice."
+      "เราทุกคนโง่พอที่จะมีความคิดแบบเด็กๆ \r\n พลังความน่ากลัวไม่สามารถนำมาใช้ได้โดยการเสียสละตัวเอง"
     ],
     [
       "ScarabSulphite1",
@@ -8236,7 +8311,7 @@
     [
       "ScarabSulphite4",
       34574,
-      "Madness marches in machine form.\r\nHarnessed lightning, grim faces, and cold ambition abounds.\r\nCivilisation will be its own undoing."
+      "เครื่องจักรที่บ้าคลั่ง\r\n สายฟ้าที่กำลังผ่า ใบหน้าที่น่ากลัว และ ความทะเยอทะยานที่เยือกเย็น\r\n อารยธรรมจะเกิดขึ้นจากตัวมันเอง"
     ],
     [
       "ScarabDivinationCards1",
@@ -8256,7 +8331,7 @@
     [
       "ScarabDivinationCards4",
       55612,
-      "Hinekora has sent the world another herald, but this hatungo walks another path.\r\nWe are left blinded, and subject to the vagaries of Fate."
+      "Hinekora จะประกาศให้โลกได้รับรู้อีกครั้ง ซึ่งจากต่าง Hatungo ที่เลือกทางเดินอีกทาง\r\n เราทุกคนล้วนตาบอดกับสิ่งที่เกิดขึ้นกับโชคชะตาที่เรายังมองมันไม่เห็น"
     ],
     [
       "ScarabTorment1",
@@ -8276,7 +8351,7 @@
     [
       "ScarabTorment4",
       36283,
-      "Without a speaker of the dead, the countless anguished spirits only grow in number.\r\nThey have no voice, and no hope. The sun darkens with each passing year."
+      "หากไม่มีผู้รับฟังเสียงของวิญญาณแห่งความตาย เหล่าวิญญาณที่ไร้เจ้าของจะเริ่มเพิ่มขึ้น \r\n พวกนั้นไม่สามารถส่งเสียงให้ใครรับรู้ได้ ไร้ซึ่งความหวัง เหมือนกับแสงอาทิตย์ที่กำลังจะจากไปตลอดการ"
     ],
     [
       "ScarabStrongbox1",
@@ -8296,7 +8371,7 @@
     [
       "ScarabStrongbox4",
       37074,
-      "In the absence of a strong martial presence, the renegades rise once more.\r\nTheir poisons threaten to cloud the land."
+      "ในการสู้หากไม่มีผู้ที่แข็งแกร่งอีกต่อไป ผู้ที่อ่อนแอจะกลับมาลุกขึ้นต่อสู้อีกครั้ง\r\n มลพิษเหล่านี่จะปกคลุมไปทั่วผืนแผ่นดินทั้งหมด"
     ],
     [
       "ScarabHarbinger1",
@@ -8316,7 +8391,7 @@
     [
       "ScarabHarbinger4",
       40021,
-      "The thousand year truce has faltered, for the inscrutable ones have imprisoned their own God.\r\nShould they invade again, there will be no warning."
+      "1000 ปีมาแล้วที่การสู้รบนั้นล้มเหลว สำหรับผู้ที่ไม่หยั่งรู้ได้ถึงพลังของพระเจ้า\r\n หากต้องทำการบุกอีกครั้ง พวกนั้นจะไม่ได้รับการเตือนอีกต่อไป"
     ],
     [
       "ScarabPerandus1",
@@ -8336,7 +8411,7 @@
     [
       "ScarabPerandus4",
       6938,
-      "We few who remain live in envy of those who do not.\r\nThe land rots, the water is poison, and the air is fire.\r\nWe curse you, Icius, for succeeding in saving us."
+      "เรากำลังตกอยู่ในการใช้ชีวิตที่กำลังอิจฉาผู้อื่นอยู่\r\n ผืนแผ่นดินที่เน่าเละ น้ำทั้งหมดกลายเป็นพิษ และ อากาศก็เต็มไปด้วยฝุ่นแห่งการเผาไหม้\r\n ข้าของสาปเจ้า Icius สำหรับสิ่งที่เจ้าทำมันให้กับพวกเรา"
     ],
     [
       "ScarabLegion1",
@@ -8376,7 +8451,7 @@
     [
       "ScarabMetamorph4",
       47559,
-      "Though the Necromancer of Weeping Black fell in the desert by the hand of Garukhan,\r\nhis mindless legions remain scattered throughout Wraeclast, with no master to curb their hunger."
+      "แม้ว่าเนโครแมนเซอร์แห่ง Weeping Black หลงทางในทะเลทรายภายใต้เงื้อมมือของ Gaukhan\r\n ของทัพที่ไร้ซึ่งจิตสำนึกของเขายังคงกระจัดกระจายไปทั่ว Wraeclast โดยไม่มีใครสามารถควบคุมความหิวโหยเหล่านี้ได้"
     ],
     [
       "MapWorldsLookout",
@@ -9144,6 +9219,61 @@
       "กลิ่นเหม็นคาวของการแพร่พันธุ์ชีวิตกระจายหายไป พ่ายต่อความเน่าเปื่อยของความตาย"
     ],
     [
+      "MapWorldsDrySea",
+      53637,
+      "มีบางครั้งที่ถูกคลื่นลมบดขยี้\r\n เหล่ากระดูและท่อนไม้ผุพังเล่าเรื่อง"
+    ],
+    [
+      "MapWorldsStagnation_",
+      48254,
+      "ได้รับความช่วยเหลือจากฝนที่ตกลงมา\r\n ผู้เน่าเปื่อยดูดกลื่นชีวิตใหม่ตั้งแต่แรกพบ"
+    ],
+    [
+      "MapWorldsBramblefall",
+      25038,
+      "ร่องรอยอารยธรรมอันเลือนลาง\r\n ต่อต้านการกัดเซาะของธรรมชาติอย่างท้าทาย\r\n ความพยายามที่น่าชื่นชม แต่ไร้ผล"
+    ],
+    [
+      "MapWorldsFrozenCabins",
+      51403,
+      "กองเรือทิ้งขยะในฤดูหนาว\r\n ลูกเรือไม่เห็นแสงสว่างอีกต่อไป"
+    ],
+    [
+      "MapWorldsBurn",
+      23867,
+      "ดินแดนนี้ปฏิเสธคนตาย\r\n หรือคนตายปฏิเสธชะตากรรม?"
+    ],
+    [
+      "MapWorldsCrimsonTownship",
+      10687,
+      "ฝนจะชะล้างทุกสิ่ง\r\n แต่ความบ้าคลั่งและความทรงจำจะไม่มีวันจางหาย"
+    ],
+    [
+      "MapWorldsForkingRiver",
+      29382,
+      "หอคอยหินขนาดใหญ่ได้ทำลายกฏธรรมชาติ\r\n และถูกสร้างขึ้นอย่างฉับพลัน"
+    ],
+    [
+      "MapWorldsThaumaturgistsLair",
+      51477,
+      "มนุษย์เคยถูกมองเหมือนผู้สร้างของเขาหรือไม่\r\n มีแต่เพียงความไม่แยแสต่อสิ่งใดเท่านั้นที่เหมือน"
+    ],
+    [
+      "MapWorldsColdRiver",
+      9863,
+      "น้ำแข็งสร้างเส้นทางที่ไม่แน่นอน\r\n มีเพียงผู้ที่หลบซ่อนสามารถพิสูจน์ได้"
+    ],
+    [
+      "MapWorldsForbiddenWoods",
+      26156,
+      "สัญชาตญาณต้องการให้คุณหลับใหลผ่านความหนาวเหน็บอันขมขื่นเพื่อรอความตาย\r\n ผู้ที่ยังอยู่รอดจะต้องต่อสู้ผ่านการเคลื่อนไหวที่เจ็บปวด"
+    ],
+    [
+      "MapWorldsSilo",
+      24497,
+      "คำอวยพรที่น่าน่าขนลุกสงเสียงกระซิบในสถานที่ที่ลึกที่สุดและเป็นที่เร่นลับ"
+    ],
+    [
       "MapWorldsChimera",
       14512,
       "ผู้จับกุมข้าคนหนึ่งได้ซ่อนสัตว์ร้ายไว้ในหัวใจของมัน ตอนนี้ข้านำตัวตนที่แท้จริงของมันออกมาให้ทุกคนได้เห็น"
@@ -9211,7 +9341,7 @@
     [
       "UniqueMap25x",
       2935,
-      "\"Did nobody think to report that we had acquired some sort of free-floating\r\nMemory? Cease testing and lock this away immediately!\" \r\n- Administrator Qotra"
+      "\"จะไม่มีใครคิดจะรายงานเรื่องเกี่ยวกับที่เราได้รับของมากจาก Free-Floating\r\n จำได้รึเปล่า? ยุติการทดสอบและล็อกสิ่งนี้ทันที! \"\r\n - ผู้ดูแล Qotra"
     ],
     [
       "UniqueGlovesStrInt10",
@@ -9246,7 +9376,7 @@
     [
       "UniqueBelt33x",
       10893,
-      "\"Recommend extreme caution on any prototypes that can lead to a chain reaction\r\nof deaths. Lab Twelve has been lost to the flames.\" \r\n- Lead Researcher Ksaret"
+      "\"ขอแนะนำให้ระมัดระวังสำหรับการสร้างต้นแบบ เพราะนั่นมันอาจจะทำให้เกิดปฏิกริยาลูกโซ่แห่งความตายได้\r\n เพราะแลปหมายเลข 20 นั้นระเบิดไปเพราะสิ่งนั้นมาแล้ว\"\r\n - หัวหน้านักวิจัย Ksaret"
     ],
     [
       "UniqueBootsStr11",
@@ -9276,7 +9406,7 @@
     [
       "UniqueDagger19x",
       3150,
-      "\"Researchers will refrain from scaring each other by firing ice spears while holding\r\nPrototype #141. Sooner or later, someone's going to lose an eye.\" \r\n- Administrator Qotra"
+      "\"นักวิจัยจะไม่มีวันหวาดกลัวกับการยิงหอกน้ำแข็งถ้าหากยังถือ \r\n ต้นแบบหมายเลข 141 อยู่ ไม่เช้าก็เร็ว จะต้องมีใครบางคนเสียลูกตา\"\r\n - ผู้ดูแล Qotra"
     ],
     [
       "UniqueHelmetStr7",
@@ -9301,7 +9431,7 @@
     [
       "UniqueBootsDexInt10x",
       64308,
-      "\"Suppression troop seven, the 'Glowering Faithful,' managed to fell the escaping\r\ntest subject by timing their arrows between his explosive dashes.\"\r\n\r\n<default>{This item can be anointed by Cassia}"
+      "\"กองปราบปรามหมายเลข 7 เรียกันว่า 'แสงสว่างแห่งความหวัง' เป็นคนจัดการการหลบหนี\r\n ทดสอบผู้ทดลองโดยอาศัยการยิงธนูและระเบิด\"\r\n\r\n <default>{ไอเทมนี้สามารถเจิมได้โดยแคสเซีย}"
     ],
     [
       "UniqueGlovesStrDex13",
@@ -9351,7 +9481,7 @@
     [
       "UniqueShieldDex8x",
       51142,
-      "\"For personal defence, Prototype #444 is fantastic. It is one hundred percent\r\neffective seventy five percent of the time... once.\" \r\n- Lead Researcher Ksaret"
+      "\"สำหรับการป้องกันส่วนตัว ต้นแบบหมายเลข 444 นั้นยอมเยี่ยมมากมันคือ 100 เปอร์เซ็นต์\r\n แต่ได้ผล 75 เปอร์เซ็นต์สำหรับครั้งนี้....\r\n - หัวหน้านักวิจัย Ksaret \""
     ],
     [
       "UniqueGlovesDex5",
@@ -9496,7 +9626,7 @@
     [
       "UniqueJewel142",
       29148,
-      "สมัยก่อนแม่บ้านมักจะขู่ลูกของเหล่าขุนนางที่ดื้อซนว่าจะจับโยนลงแกรนอารีน่า\r\nแต่สำหรับลูกของทาส นั่นไม่ใช่แค่การขู่"
+      "สมัยก่อนแม่บ้านมักจะขู่ลูกของเหล่าขุนนางที่ดื้อซนว่า\r\nจะจับโยนลงหลุมใต้แกรนอารีน่า\r\nแต่สำหรับลูกของทาส นั่นไม่ใช่แค่การขู่"
     ],
     [
       "UniqueJewel143",
@@ -9551,7 +9681,7 @@
     [
       "UniqueGlovesDexInt17",
       24945,
-      "\"We have methods of interrogation the Inquisitors only dream of.\"\r\n- Marcus, Brotherhood Liaison"
+      "\"เรามีวิธีการสำหรับการเค้นเอาข้อมูล จากผู้ที่ต้องการข้อมูลในฝัน\"\r\n - Marcus พี่น้องร่วม Liaison"
     ],
     [
       "UniqueBodyStrInt14",
@@ -9561,47 +9691,47 @@
     [
       "UniqueHelmetStrInt18",
       32331,
-      "The Azmeri must never touch the Tears of Maji, lest Viridi weep."
+      "\"Azmeri ไม่ต้องการที่จะสัมผัสน้ำตาแห่ง Maji เพราะกลัวว่า Viridi จะร้องไห้ซะก่อน\""
     ],
     [
       "UniqueHelmetStrInt18x",
       52782,
-      "\"I believed I understood Prototype #112 quite fully, until a test subject with Azmeri ancestry donned it. I will be haunted by the results for the rest of my life.\" \r\n- Researcher Graven"
+      "\"ข้าเชื่อมั่น ต้นแบบหมายเลข 112 ว่ามันยอดเยี่ยม จนกระทั่งได้ทดสอบมันกับ Azmeri ข้าก็ได้ถูกครอบงำจากมันมาตลอดชีวิตของข้า\"\r\n- นักวิจัย Graven"
     ],
     [
       "UniqueGlovesDex6",
       46871,
-      "Under its influence, shards of metal take on a life of their own, wriggling into flesh,\r\nburrowing into organs, and exploding outwards in search of other victims."
+      "ภายใต้ผลกระทบ แค่เศษชิ้นส่วนเหล็กก็แทบจะเหมือนกับชีวิตของคนๆนั้นแล้ว ดื้นได้เหมือนเนื้อที่ยังสด\r\n หายใจได้เหมือนกับมีปอด และระเบิดออกมาเหมือนกับเหยื่อรายอื่นๆ ที่เคยมีมัน"
     ],
     [
       "UniqueQuiver16",
       49793,
-      "Claws open, brace for a bite. Stinger raised, dodge or die."
+      "ปล่อยกรงเล็บ เตรียมตัวเพื่อขย้ำ เพราะเหล็กแหลมจะทิ่มแทง จะหลบหรือเลือกที่จะรอด"
     ],
     [
       "UniqueBodyInt20",
       54764,
-      "Imbue the body with stolen spirit, hold the leash tight."
+      "ฝังศพด้วยวิญญาณที่ถูกขโมย จับสายจูงให้แน่น"
     ],
     [
       "UniqueShieldStrInt13",
       40776,
-      "Chitus' success stemmed from his cunning, taking calculated risks so that greater dangers could be averted."
+      "Chitus ทำการกลบจุดอ่อนตัวเองได้สำเร็จ และสามารถประเมินความเสี่ยง\r\n จากอันตรายที่จะเกิดขึ้นเสมอ"
     ],
     [
       "UniqueAmulet62",
       58003,
-      "An eye for an eye."
+      "ตาต่อตา ฟันต่อฟัน"
     ],
     [
       "UniqueClaw19",
       24377,
-      "The strong survive. The strongest thrive."
+      "ผู้แข็งแกร่งที่อยู่รอด คือผู้ที่เติบโตอย่างยอดเยี่ยม"
     ],
     [
       "UniqueStaff25",
       15272,
-      "The pyre is never wasted on just one heretic."
+      "การเผาศพไม่ได้มีไว้ให้สำหรับพวกนอกรีต"
     ],
     [
       "UniqueOneHandSword32",
@@ -9636,597 +9766,722 @@
     [
       "UniqueAmulet63",
       29513,
-      "Death creeps closer; unseen, inexorable, hungry."
+      "ความตายกำลังคืบคลานเข้ามาใกล้ มองไม่เห็น ไม่ปรานี และหิวกระหาย"
     ],
     [
       "UniqueHelmetInt24",
       49052,
-      "A dance as old as time."
+      "เต้นรำเหมือนกับวันเก่าๆ"
     ],
     [
       "UniqueBelt37",
       16330,
-      "Simple. Deadly. Unstoppable."
+      "เรียบง่าย ร้ายกาจ ไม่สามารถหยุดยั้งได้"
     ],
     [
       "UniqueOneHandSword33",
       54321,
-      "Lead by example."
+      "ทำตามที่ตัวอย่างได้ทำไว้"
     ],
     [
       "UniqueBodyDexInt12",
       19769,
-      "He may have returned from the frozen southern reaches,\r\nbut that doesn't mean he ever truly escaped them."
+      "เขาอาจจะรอดตายจากการถูกแช่แข็งในทางใต้\r\n แต่ไม่ได้หมายความว่าเขาจะหนีมันจากความจริงไปได้ตลอดหรอก"
     ],
     [
       "UniqueAmulet64",
       29276,
-      "For how little time they had together,\r\ntheir love was all the more powerful."
+      "เป็นเวลานานแค่ไหนแล้วพี่พวกนั้นอยู่ด้วยกัน\r\n พลังแห่งความรักนี่มันช่างยิ่งใหญ่เสียจริง"
     ],
     [
       "UniqueBootsDexInt11",
       26838,
-      "Every glorious conquest\r\nstands astride innocent bones."
+      "ทุกการพิชิตอันรุ่งโรจน์\r\n ย่อมยืนอยู่บนซากกระดูกของผู้บริสุทธิ์"
     ],
     [
       "UniqueGlovesDex7",
       45466,
-      "The target changes, but the job's always the same."
+      "เป้าหมายเปลี่ยนไป แต่งานยังคงเป็นงานเดิม"
     ],
     [
       "UniqueBelt38",
       1146,
-      "Freedom is won only by those who are not free."
+      "อิสระคือชัยชนะสำหรับผู้ที่ไม่เคยได้รับมัน"
     ],
     [
       "UniqueOneHandAxe10",
       11181,
-      "Better to act without thought\r\nthan to think without action."
+      "ลงมือทำก่อนพูดนั้นเป็นสิ่งที่ดีกว่าพูด\r\n แล้วไม่ยอมทำอะไรเลย"
     ],
     [
       "OfferingGift",
       30318,
-      "The Goddess abides a kingdom beyond compare,\r\nshould you meet her challenge."
+      "พระเจ้านั้นดำรงอยู่เหนือใครโดยไม่มีใครมาเปรียบเทียบได้\r\n เจ้าควรตอบรับคำท้าของนางนะ"
     ],
     [
       "OfferingTribute",
       42897,
-      "You may appeal to the Goddess for another verdict,\r\nbut justice favours only the truly worthy."
+      "เจ้าอาจจะอ้อนวอนต่อพระเจ้าสำหรับคำตัดสินนั้น\r\n แต่ว่าความยุติธรรมนั้นยังคงเหมาะกับผู้ที่คู่ควรจะได้รับมัน"
     ],
     [
       "OfferingDedication",
       3771,
-      "Before the Goddess, nothing remains hidden.\r\nAdversity reveals old flaws and new strengths."
+      "ต่อหน้าพระเจ้า ไม่จะเป็นต้องซ่อนอะไรทั้งนั้น\r\n ความทุกข์ยากจะเผยให้เห็นถึงจุดผิดพลาดเก่าและจุดแข็งใหม่"
     ],
     [
       "UniqueHelmetStrInt19",
       15014,
-      "The line that divides hope and fear,\r\nlife and death, crowd and mob,\r\nis as thin as a whisper."
+      "เส้นแบ่งระหว่างความหวังกับความกลัว\r\n ชีวิตและความตาย ผู้คนหรือการจารจล\r\n มันก็เบาเหมือนกับเสียงกระซิบ"
     ],
     [
       "UniqueBelt39",
       32925,
-      "\"This will help with the pain.\r\nOne for you... and one for me.\"\r\n- Doctor 'Shaky Hands' Opden"
+      "สิ่งนี้จะช่วยให้เจ้าลดความเจ็บปวดได้\r\n นี่สำหรับเจ้า...... และนี่สำหรับตัวข้าเอง\r\n - Doctor 'Shaky Hands' Opden"
     ],
     [
       "UniqueJewel148",
       16027,
-      "The sky, the land, the people burned.\r\nWhat little still stood soon faced wild, battering storms.\r\nWinter arrived suddenly and stayed for a generation.\r\nCivilisation was not simply halted, but reversed, erased."
+      "ท้องฟ้า ผืนดิน ผู้คนที่มอดไหม้\r\n ในไม่ช้าสิ่งที่ยังคงยืนอยู่ก็ต้องเผชิญกับพายุที่รุนแรง\r\n ฤดูหนาวมาถึงอย่างกะทันหันและอยู่ชั่วอายุคน\r\n อารยธรรมจะไม่มีอีกต่อไปและจะถูกลบให้หายไป"
     ],
     [
       "UniqueRing67",
       53029,
-      "Somebody does have to get hurt."
+      "ต้องมีใครสักคนได้รับความเจ็บปวด"
     ],
     [
       "UniqueRing68",
       32355,
-      "All roads lead to that destined doom."
+      "เส้นทางข้างหน้าคือหนทางไปสู่ยมโลก"
     ],
     [
       "UniqueDagger20",
       45526,
-      "The shadow warrior moves like the wind;\r\nhis strikes land long after he is gone."
+      "นักรบแห่งเงาเคลื่อนไหวเฉกเช่นสายลม\r\n เขาจู่โจมผืนดินแล้วก็จากไปเหมือนกับสายลม"
     ],
     [
       "UniqueBodyDexInt13",
       5198,
-      "The Oriathans built their empire on naval mobility, which allowed\r\nthem to wage war wherever their enemy was weakest."
+      "ชาว Oriath สร้างอาณาจักรของตนผ่านเส้นทางการเดินเรือ\r\n และอนุญาตให้เหล่าทหารของตนทำสงครามกับศัตรูที่อ่อนแอกว่าเสมอ"
     ],
     [
       "UniqueBodyStr12",
       35820,
-      "The giant cares not for the ants."
+      "ราชสีห์ไม่ทางสนใจพวกหนู"
     ],
     [
       "UniqueHelmetStrDex8",
       20323,
-      "Expand one single ambition to crystal clarity... and beyond."
+      "อธิบายความทะเยอทะยานเพียงหนึ่งเดียวที่นำไปสู่คริสตัลแห่งความกระจ่าง.... และนอกเหนือจากนั้น"
     ],
     [
       "UniqueStaff27",
       43682,
-      "To stand at the confluence of the elements,\r\nthe master must achieve perfect balance."
+      "เพื่อยืนอยู่ในจุดสูงสุดขององค์ประกอบทั้งหมด\r\n ตัวต้นแบบจะต้องออกมาสมบูรณ์และสมดุลในเวลาเดียวกัน"
     ],
     [
       "UniqueHelmetDexInt15",
       19045,
-      "Obtaining information depends upon pretending one already has it."
+      "การที่จะได้รับข้อมูลนั้นเข้ามา ก็ต่อเมื่อแกล้งทำเป็นว่ามีข้อมูลนั้นอยู่แล้ว"
     ],
     [
       "UniqueShieldDexInt7",
       33640,
-      "The lightning fears not the flame."
+      "สายฟ้าไม่เคยกลัวเปลวไฟ"
     ],
     [
       "UniqueJewel152",
       45458,
-      "Maximum power fueled by science gone mad."
+      "พลังสูงสุดที่ขับเคลื่อนโดยวิทยาศาสตร์บ้าคลั่ง"
     ],
     [
       "UniqueJewel153",
       5891,
-      "Indiscriminate destruction fueled by science gone mad."
+      "การทำลายล้างตามอำเภอใจโดยนักวิทยาศาสตร์บ้าคลั่ง"
     ],
     [
       "UniqueShieldStrDex5",
       55544,
-      "Fragile, explosive, and punishing."
+      "เปราะบาง ระเบิด และการลงทัณฑ์"
     ],
     [
       "UniqueShieldStrDex6",
       5070,
-      "Never let the audience know your true form. Misdirect them,\r\nbeguile them. Strike when they least expect it."
+      "อย่าปล่อยให้พวกนั้นรู้ตัวตนที่แท้จริงของเจ้า จงหลอกลวง\r\n โกหกพวกเจ้านั้นไว้ และเข้าปะทะเมื่อรู้ว่าพวกนั้นไม่ระวังตัว"
     ],
     [
       "UniqueHelmetStrDex9",
       55858,
-      "The single well-placed arrow that changes the world\r\nmust be preceded by ten thousand practice shots."
+      "ลูกธนูที่ยิงออกมาเป็นหมื่นๆลูก\r\n อาจมีลูกเดียวที่เปลี่ยนแปลงโลกนี้ก็เป็นได้"
     ],
     [
       "UniqueBelt40",
       53517,
-      "Teach a man to burn, and you'll be warm for the rest of his life."
+      "สอนให้ผู้ชายเผาแล้วชีวิตเจ้าจะอบอุ่นไปตลอดกาล"
     ],
     [
       "UniqueAmulet65",
       50542,
-      "\"Remain poised. Remain balanced. Keep all the emotions of a lifetime caged.\r\nLet only your enemies see the truth of your rage.\""
+      "\"รักษาการทรงตัว รักษาสมดุล เก็บความรู้สึกทั้งหมดของชีวิตที่ผ่านมาไว้ข้างหลัง\r\n ปลดปล่อยให้ศัตรูของเจ้าได้เห็นความโกรธของเจ้า\""
     ],
     [
       "HeistUrnOfFarud",
       19774,
-      "\"The Faridun cannot earn burial in the sky.\r\nThey have other ways of keeping the dead.\""
+      "\"พวก Faridun ไม่เคยที่จะฝังศพบนท้องฟ้าได้\r\n พวกนั้นแค่หาทางรักษาสภาพศพไว้ในสภาพที่ดี\""
     ],
     [
       "HeistBoxofTripyxis",
       20584,
-      "\"Allegedly turns water to Lethe. That makes it my competition. \r\nI don't like competition.\""
+      "\"ตามที่บอกมาว่าเปลี่ยนน้ำให้กลายเป็นแม่น้ำได้ มันสร้างความกดดันนี่ให้กับข้า\r\nและข้าไม่ชอบการกดดันแบบนี้\""
     ],
     [
       "HeistIncenseofKeth",
       5160,
-      "\"Sap of the Aturi tree, known only to grow at the meeting point of the seven waters.\r\nNothing since its disappearance has smelled as wondrous.\""
+      "\"ไม้จากต้น Aturi รู้กันดีว่ามันโตมาจากแม่น้ำทั้ง 7 เท่านั้น\r\n และมันไม่เคยโผล่มาให้เห็นอีกหลังจากที่มันได้ทิ้งกลิ่นที่น่าพิศวงเอาไว้\""
     ],
     [
       "HeistCrestofEzomyr",
       49287,
-      "\"A symbol of my birthright and claim to my fiefdom. \r\nI must have it if I am to return my family to its rightful place.\""
+      "\"มันคือสิทธิ์ที่ได้รับโดยกำเนิดและข้าควรได้รับสิ่งนั้นให้กับข้า\r\n ข้าต้องการนำครอบครัวของข้ากลับมาในที่ๆ ควรจะเป็นของข้า\""
     ],
     [
       "HeistEzMyraeTome",
       20466,
-      "\"A true curiosity. Matches no known language, yet its illustrations hint at knowledge \r\nonly rediscovered hundreds of years after the death of its unknown author.\""
+      "\"ความอยากรู้อยากเห็น ไม่ตรงกับภาษาใดที่ข้ารู้จัก แต่ยังไงซะภาพส่วนใหญ่ที่แสดงขึ้นมากมันก็บอกใบ้ความรู้ในรอบหลายร้อยปี\r\n หลังจากผู้ตายได้ทำการวาดภาพมันออกมาโดยไม่รู้ว่ามันคืออะไร\""
     ],
     [
       "HeistHandofArimor",
       61396,
-      "\"Balabus Arimor was a little-known preacher during the days of Emperor Chitus,\r\nwho believed eternal life could be achieved through ritual sacrifice.\r\nWe shall see whether he was a prophet - or a charlatan.\""
+      "\"Balabus Arimor รู้จักกันในนามของนักเทศน์ในช่วงยุคของจักรพรรดิ Chitus \r\n ผู้คนเชื่อว่าชีวิตอันเป็นนิรันดร์สามารถทำได้ด้วยการบูชายัญตามพิธีกรรม \r\n เรามาลองดูกันดีกว่าว่ามันเป็น ศาสดา หรือพวกหลอกลวง\""
     ],
     [
       "HeistAbberathine Horns",
       53710,
-      "\"As warm as living flesh, and smelling strongly of sulphite.\r\nMorbid curiosity compels me to add it to my collection of oddities.\""
+      "\"อุ่นเหมือนยังสดและได้กลิ่นของซัลไฟต์รุนแรง\r\n ความอยากรู้อยากเห็นของข้า มันบังคับให้ข้าได้อยากเพิ่มลงไปยังงานสะสมสิ่งประหลาดของข้า\""
     ],
     [
       "ThiefsTrinketSculptureFlavour",
       27293,
-      "Rubbing the eel's head is said to bring smugglers good fortune."
+      "การลูบหัวปลาไหลว่ากันว่ามันจะนำโชคให้กับการลักลอบขนของ"
     ],
     [
       "UniqueHeistContract1",
       47761,
-      "\"If Jamanra has been resurrected the way so many other ancient heroes have returned,\r\nthen perhaps I can convince him to rise up and unite the Faridun once more!\""
+      "\"ถ้า Jamanra ได้ทำการชุบชีวิตเหล่านักรบโบราณให้กลับมา\r\n บางที ข้าควรจะไปโน้มน้าวให้เข้ารวมกลุ่มกับ Faridun อีกครั้ง!\""
     ],
     [
       "UniqueHeistContract2",
       43477,
-      "\"Some of my inventions don't live up to their names, but some work all\r\ntoo well. Let's hope that the Unbreakable is the former, not the latter.\""
+      "\"บางสิ่งประดิษฐ์ของข้าก็ไมไ่ด้ทำงานตามชื่อของพวกมัน\r\n แต่อย่างไรก็ตามมันก็ได้ผลดีอย่างที่คาดไว้ หวังว่าสิ่งที่ทำลายไม่ได้นั่นจะเป็นแค่อดีต\""
     ],
     [
       "UniqueHeistContract3",
       55150,
-      "\"A part of me still believes I can convince Nashta to give up her rebellious ways and come home. That part\r\nof me will forever be nine years of age, futilely chasing her as she runs off into the dunes yet again.\""
+      "\"ข้าคิดว่าตัวข้านั้นสามารถโน้มน้าวให้ Nashta นั้นเลิกหัวดื้อแล้วกลับมาบ้านให้ได้\r\n อดีตของข้าเหมือนกลับไปทำให้อายุเป็น 9 ขวบที่กำลังวิ่งไล่หล่อนไปอย่างไร้จุดหมายและหล่อนก็ทำการกระโดดลงไปยังเนินทราย\""
     ],
     [
       "UniqueHeistContract4",
       23360,
-      "\"There can be no freedom\r\nwhile hate still reigns.\""
+      "\"จะไม่มีทางเป็นอิสระได้หากตัวเจ้ากำลังโดนความเกลียดชังครอบงำ\""
     ],
     [
       "UniqueHeistContract5",
       28300,
-      "\"If Admiral Darnaw is stupid enough to send orders to his fleet members \r\nand not expect us to steal them, then he deserves what's coming to him!\""
+      "\"ถ้ากัปตัน Darnaw โง่พอที่จะออกคำสั่งไปยังสมาชิกทั้งหมดละก็\r\n มันก็จะไม่ง่ายเลยที่จะเข้าไปขโมยของ แต่เขาก็จะไม่รู้ว่าสิ่งที่กำลังจะเจอนั้นคืออะไรกันแน่!\""
     ],
     [
       "UniqueHeistContract6",
       62734,
-      "\"The Vox speak in threats.\r\nWe will answer them with action.\""
+      "\"ถ้า Vox พูดคุกคามพวกเรา เราจะทำการตอบโต้ด้วยการกระทำ\""
     ],
     [
       "UniqueJewel149",
       6955,
-      "Each blow of the hammer shapes the ingot,\r\neach strike stretching and sharpening;\r\nThe sabre's tip reaching out, grasping for life."
+      "เราต้องทุบมันด้วยฆ้อนเพื่อให้เกิดรูปร่าง การตีแต่ละครั้งก็เพื่อทำให้ยืดและได้รูปทรง\r\n ปลายดาบก็ต้องโค้งงอราวกับดาบนั้นมีชีวิต\r\n"
     ],
     [
       "UniqueJewel150",
       45114,
-      "Quenched, the blade hardens, becomes brittle.\r\nThe edge will not last forever,\r\nBut when it breaks, its service will continue."
+      "เปราะบาง ใบมีที่แข็งจะกลายเป็นของที่ไร้ประโยชน์\r\n ความคมของมันจะไม่มีทางอยู่ตลอดไป แต่เมื่อมันหัก มันจะยังคงสามารถใช้งานได้ต่อไป"
     ],
     [
       "UniqueJewel151",
       24568,
-      "Her apprentice spends hours working the steel,\r\nand the end result is melted for scrap.\r\nEach one made better than the last.\r\nEach one made more quickly.\r\nShe knows the path well."
+      "เด็กฝึกงานของเธอใช้เวลาไปหลายชั่วโมงในโรงตีเหล็ก\r\n และผลลัพธ์สุดท้ายจะถูกเหล็กหล่อหลอมจิตใจ\r\n บางครั้งก็ทำได้ดีกว่าครั้งก่อน\r\n บางครั้งก็ทำได้เร็วกว่าเดิม\r\n เธอรู้ว่ากำลังเดินทางเส้นไหน"
+    ],
+    [
+      "UniqueShieldDexInt8",
+      42567,
+      "การจัดการพลังงานดิบอย่างรอบคอบสามารถ\r\n ใช้ประโยชน์สูงสุดจากพลังที่เกินพิกัด"
+    ],
+    [
+      "UniqueRing69",
+      51378,
+      "นอกเหนือจากม่านแห่งความตาย ยังมีไฟที่ยังส่องแสง\r\n โดยผู้ที่มีแสงสว่างในยามค่ำคืน"
+    ],
+    [
+      "UniqueGlovesStrInt12",
+      14979,
+      "การเสียสละเลือดเรียกการแก้แค้นของพระองค์\r\n ให้ผู้ชอบธรรมเป็นพระหัตถ์ของพระเจ้า"
+    ],
+    [
+      "UniqueBelt41",
+      7746,
+      "ภาระหนักที่สุดไม่ได้อยู่ที่ผู้เสียชีวิต\r\n แต่สำหรับสิ่งที่ไม่เป็นเช่นนั้น"
+    ],
+    [
+      "UniqueHelmetStrInt20",
+      48682,
+      "\"สนใจที่จะทำให้สิ่งนี้น่าสนใจหรือไม่\""
+    ],
+    [
+      "UniqueDagger21",
+      53588,
+      "\"สาวผมสีบรอนซ์คนนั้นรู้วิธีที่จะลดขนาดใครบางคน!\"\r\n - Bertrand the Plush"
+    ],
+    [
+      "UniqueBodyDexInt14",
+      9858,
+      "ภายในเราแต่ละคนมีความมุ่งร้ายบริสุทธิ์\r\n รั้งไว้เพียงคำโกหกที่เราบอกตัวเอง"
+    ],
+    [
+      "UniqueBelt42a",
+      60094,
+      "นักคิดถูกทรมานหนักขึ้นตามตราบาปจากความผิดของเขา"
+    ],
+    [
+      "UniqueBelt42b_",
+      21864,
+      "นักคิดที่โหดร้ายพบความสนุกในการทรมานอย่างแม่นยำ"
+    ],
+    [
+      "UniqueBelt42c",
+      44904,
+      "ความสำเร็จที่ยิ่งใหญ่ที่สุดของนักคิดที่ขี้ขลาดคือการมีชีวิตรอด"
+    ],
+    [
+      "UniqueRing70",
+      5681,
+      "ยอมรับการแพร่ระบาด ปล่อยให้ติดเชื้อไปนานๆ\r\n จากนั้นนำเชื้อไปยังที่ไกลๆ"
+    ],
+    [
+      "UniqueHelmetStrInt21",
+      29453,
+      "ความบ้าคลั่งในยุคดึกดำบรรพ์รอคอยเสียงเรียก\r\n ของดวงดาวที่จะกลับมาและกลืนกินโลก"
+    ],
+    [
+      "UniqueBootsStrDex7",
+      3846,
+      "ทุกสิ่งที่ถูกรัก ได้ถูกเกลียด\r\n ไม่มีสิ่งได้หลงเหลือ แม้แต่ขี้เถ้า"
     ],
     [
       "UniqueOneHandSwordDemigods1",
       37580,
-      "Stories of heroism by the victor persist,\r\nfor no one survives to contest them."
+      "เรื่องราวของความกล้าหาญของผู้มีชัยยังคงอยู่\r\n เพราะไม่มีใครรอดจากการแข่งขัน"
     ],
     [
       "HeistGoldenIdol1",
       46707,
-      "\"I found the tomb in the first place, and they had the nerve to empty it without me! \r\nReckon it'll make a fine trophy for my efforts.\""
+      "\"ข้าได้พบเข้ากับโลงศพที่นี่เป็นครั้งแรก และข้าจะปล่อยให้มันหลุดมือไปไม่ได้!\r\n Reckon นี่มันจะเป็นของรางวัลที่ทำให้ข้าพอใจได้จากความพยายามของข้า\""
     ],
     [
       "HeistGoldenIdol2",
       9025,
-      "\"One must, as one should, admire the lasting works of those who came before.\r\nThe Vaal were the uncontested greatest architects until we,\r\nand Matatl soared above their best.\" "
+      "\"นี่เป็นสิ่งที่ได้ควรรับการชื่นชมจากผู้คนมาเป็นอันดับแรก\r\n Vaal เป็นสถาปัตยกรรมที่ยิ่งใหญ่มาก\r\n จนกระทั่ง Matatl สามารถทำงานได้และออกผลงานที่ดีกว่าออกมา\""
     ],
     [
       "HeistGoldenIdol3",
       19410,
-      "\"I believe she was a beautiful maiden. \r\nKind, virtuous and devout through-and-through.\r\nSuch a gift will set me apart from all other suitors.\""
+      "\"ข้าเชื่อว่าหล่อนนั้นเป็นสาวที่สวย\r\n ใจดี มีคุณธรรมและน่าศรัทธาตลอดเวลา\r\n เป็นดังของขวัญถ้าหากว่าข้าได้นางมาครอบครองเป็นคู่ชีวิต\""
     ],
     [
       "HeistGoldenIdol4",
       19274,
-      "\"Victims of war, the indebted, and the irredeemably shamed\r\nwere to live their lives in servitude. Some rose above their station. \r\nThis individual, it seems, was all but deified.\""
+      "\"เหยื่อของสงครามนั้นคือผู้ที่ได้รับความทรมานและอับอายโดยหาอะไรมาเทียบไม่ได้\r\n ต้องใช้ชีวิตแบบไร้อนาคต ความฝันกับอนาคตที่ดีได้ลอยหายไป\r\n ดูเหมือนว่าพวกนี้ ก็เป็นแบบเช่นนั้นเป็นแค่เหยื่อสงคราม\""
     ],
     [
       "HeistGoldenIdol5",
       21878,
-      "\"Heard if you put a drop of blood in its mouth,\r\nit'll whisper the secrets of immortality.\r\nDoesn't have to be your own blood, does it?\""
+      "\"เคยได้ยินมาว่า ถ้าหากค่อยๆหยดเลือดเข้าไปที่ปาก\r\n มันเป็นหนทางที่นำพาสู่ความเป็นอมตะ\r\n แต่จะต้องไม่ใช่เลือดของตัวเจ้าเอง ใช่มั้ย?\""
     ],
     [
       "HeistGoldenIdol6",
       41287,
-      "\"I'll give it to her and tell her\r\n'It once held the reflection of a Queen, and now it will once more.'\r\nAnton can cross the Vastiri on his family fruits \r\nif he thinks he loves her like I do.\""
+      "\"ข้าทั้งให้หล่อนและบอกหล่อนเสมอ\r\n ครั้งหนึ่งมันเคยเป็นภาพสะท้อนของราชินีและตอนนี้มันได้กลับมาอีกครั้ง '\r\n Aton สามารถก้าวข้ามครอบครัวของ Vastiri ได้\r\n ถ้าคิดว่าเขารักนางเหมือนกับที่นางรักเขา\""
     ],
     [
       "HeistGoldenIdol7_",
       39715,
-      "Once cast the reflections of royalty, now worth the sum of its parts."
+      "เมื่อแสดงภาพสะท้อนของราชวงศ์ ตอนนี้ก็คุ้มค่าจากผลรวมของส่วนต่างๆที่ได้ทำลงไป"
     ],
     [
       "HeistGoldenIdol8",
       34195,
-      "Ornately adorned and heavier than is practical."
+      "ช่างเป็นงานประดับที่สวยงามอย่างบอกไม่ถูก และยังสามารถใช้งานได้จริง"
     ],
     [
       "HeistGoldenIdol9",
       6507,
-      "A common figure adorning Vaal ruins, but exquisitely crafted from gold."
+      "รูปปั้นธรรมดาของ Vaal แต่มันถูกสร้างขึ้นอย่างปราณีตจากทอง"
     ],
     [
       "HeistGoldenIdol10",
       36244,
-      "The last shimmering face witnessed by many a sacrifice."
+      "ใบหน้าที่ส่องประกายโดยการเลียสละมากมายเพื่อได้เฉิดฉาย"
     ],
     [
       "HeistGoldenIdol11",
       19140,
-      "Silently keeps innumerable secrets whispered in moments of desperation. "
+      "จงเก็บความลับไว้ให้เงียบให้ได้มากที่สุด ค่อยๆกระซิบในช่วงเวลาที่สิ้นหวัง"
     ],
     [
       "HeistGoldenIdol12",
       62481,
-      "At once horrid and beautiful, awkward and alluring, silly and overwhelmingly mysterious."
+      "มันช่างน่าสยดสยองและสวยงานในเวลาเดียวกัน ช่างน่าอึดอัดและมีเสน่ห์ โง่เขลาและลึกลับเกินว่าที่จะจินตนาการ"
     ],
     [
       "HeistGoldenIdol13",
       22187,
-      "Dried blood remains trapped in its many deep grooves."
+      "เลือดที่แห้งติดยังอยู่ฝังลึกอยู่ไม่จางหายไปไหน"
     ],
     [
       "HeistIsla1",
       30997,
-      "My inventions, my babies, deserve to be in better hands!"
+      "เจ้าหญิงของข้าควรได้รับอัญมณีที่ใหญ่ที่สุด"
     ],
     [
       "HeistIsla2",
       49861,
-      "...the blueprints for my Extreme Warmth Beam, my Storm Wooing Rod,\r\nthe Mind Sublimator, and the Unbreakable...!"
+      "พิมพ์เขียวสำหรับลำแสงแห่งความอบอุ่นอันยิ่งใหญ่สำหรับข้า ไม้เท้า Storm Wooing ของข้า\r\n เป็นสิ่งที่เยียวยาจิตใจของข้าและเป็นสิ่งที่ไม่มีวันพังทลาย"
     ],
     [
       "HeistNenet1",
       61743,
-      "\"If we can prove Jamanra existed, then the Faridun may have a chance to rejoin the\r\nMaraketh. I, for one, would like to meet my parents. I have many questions...\""
+      "\"ถ้าสามารถพิสูจน์ได้ว่า Jamanra มีอยู่จริง ถ้าอย่างงั้น Feridun อาจจะมีโอกาศกลับมายิ่งใหญ่อีกครั้ง\r\n Maraketh ข้า อยากจะเจอหน้าพ่อแม่้สักครั้ง เพราะข้ามีคำถามมากมายที่อยากจะถาม\""
     ],
     [
       "HeistNiles1",
       49512,
-      "\"There is nothing quite so exquisite as a forced confession. The sufferer will\r\nsay anything to make the pain stop, and that's the point. Guilt is irrelevant.\""
+      "\"ไม่มีอะไรที่จะสวยงามไปกว่าการบังคับให้คายข้อมูลออกมาพวกที่ถูกทรมารจะพูดทุกอย่างหลังจากที่การทรมารมันจบลง\r\n การบอกสิ่งที่รู้เหล่านี้มันไม่บาปหรอก\""
     ],
     [
       "HeistNiles2",
       28632,
-      "\"It supposedly causes enormous plants to grow from almost any soil. The myth claims we\r\nneed to sacrifice a baby to make it function, but that's a bit grotesque, even for me.\""
+      "\"มันน่าจะคาดเดาได้ว่า พืชมากมายนั้นเติบโตมาจากดิน\r\n ตำนานกล่าวไว้ว่าเราจำเป็นต้องบูชายัญเด็กน้อยเพื่อให้มันได้ผล แต่มันค่อนข้างแปลกไปหน่อยสำหรับข้า\""
     ],
     [
       "HeistAdiyah1",
       22460,
-      "\"When hope was but a memory, the twin sister Sekhemas Solerai and Lundara arose to unite the Maraketh.\r\nThey wielded the essence of gold and silver. The Spear is one of the two weapons that forged us.\""
+      "\"เมื่อความหวังกลายเป็นแค่ความทรงจำ สองพี่น้อง Sekhemas และ Lundara Solerai ก็รวมตัวกันที่ Maraketh\r\n พวกเข้าใช้แก่นแท้เงินและทอง หอกที่เราใช้อยู่ก็เป็นส่วนหนึ่งของการสร้าง\""
     ],
     [
       "HeistAdiyah2",
       39369,
-      "\"Wraeclast is harsh, and the Plains of Vastiri are unforgiving. We Maraketh can\r\nill afford an internal war. We must prove that Nashta is behind these attacks.\""
+      "Wraeclast นั้นโหดเหี้ยมไป และ Plains แห่ง Vastiri นั้นจะไม่ให้อภัยแน่นอน\r\n Maraketh พร้อมทำสงคราม เราควรพิสูจน์ว่า Nashta น่าจะอยู่เบื้องหลังการโจมตีครั้งนี้"
     ],
     [
       "HeistKarst1",
       18751,
-      "\"They were me granddaddy's. \r\nCould break into any house as quick and silent as a Cardinal's fart.\""
+      "\"พวกนั้นแก่เหมือนกับญาติผู้ใหญ่ของเรา\r\n สามารถบุกเข้าไปบ้านหลังไหนก็ได้ ด้วยความรวดเร็วและเงียบกริบเหมือนกับการผายลมของ Cardinal\""
     ],
     [
       "HeistKarst2",
       57262,
-      "\"Traitorous scum took the life I could've had. \r\nI ain't usually the forgiving type, \r\nbut I feel in this case that I owe him a little gift.\""
+      "\"เจ้าพวกขยะที่ทรยศข้านั้นมันได้พรากชีวิตที่ดีไปจากข้า\r\n ปกติข้าไม่เคยให้อภัยอะไรง่ายขนาดนั้น\r\n แต่สำหรับครั้งนี้ข้าจะยกโทษให้ ถือซะว่าเป็นของขวัญเล็กๆน้อยๆจากข้า\""
     ],
     [
       "HeistKarst3_",
       60447,
-      "\"Never take credit for another man's work.\""
+      "\"ไม่เคยไปเอาหน้าจากงานของคนอื่น\""
     ],
     [
       "HeistTibbs1",
       37438,
-      "\"Loved her like she was my own daughter.\r\nI just want to know she's safe.\""
+      "\"รักหล่อนเหมือนลูกของข้า\r\n ข้าแต่ต้องการรับรู้ว่าตอนนี้หล่อนนั้นปลอดภัย\""
     ],
     [
       "HeistTibbs2",
       55558,
-      "\"Damn near everything I've earned. \r\nWorth every little bit.\""
+      "\"ให้ตายเถอะ เกือบจะได้ทุกอย่างมาครอบครองแล้ว\r\nอีกนิดเดียวก็จะคุ้มค่าแล้ว\""
     ],
     [
       "HeistHuck1",
       50642,
-      "\"Lost touch with a mate of mine when\r\nhe got recruited into some secret squad.\r\nJust want to see how he's doing.\""
+      "\"ไม่ได้ติดต่อกับเพื่อนข้ามานานแล้ว เมื่อเขาได้คัดเลือดมาให้เข้าร่วมปฏิบัติการลับ\r\n ข้าต้องการแค่อยากเห็นว่าเขาทำอะไรได้บ้าง\""
     ],
     [
       "HeistHuck2",
       13507,
-      "\"Enoch deserved better. \r\nThis is the least I can do.\""
+      "\"Enoch ควรได้รับอะไรที่ดีกว่านี้\r\n นี่เป็นสิ่งที่ข้าสามารถทำได้\""
     ],
     [
       "HeistVinderi1",
       10720,
-      "\"Just the usual highly-illegal compounds.\r\nDon't drop them. It's fine if you do, but don't.\""
+      "\"มันก็แค่สารประกอบที่ผิดกฏหมายแค่นั้นเอง\r\n อย่าวางพวกมันไว้ ไม่เป็นไรถ้าจะทำแบบนั้น แต่อย่าดีกว่า\""
     ],
     [
       "HeistVinderi2",
       60330,
-      "\"I wish I could say this was the first time I've forgotten to restock on this thing. \r\nI forget what it was, but I'm sure I'll remember by the time we need to get it.\r\nWas it beetles? Bottles? I think it began with 'B'.\r\nOr it had no 'B'.\""
+      "\"ข้าหวังว่าข้าจะสามารถบอกได้ว่านี่เป็นครั้งแรกสำหรับข้าที่ลืมใส่อะไรใหม่ๆ ลงไปกับสิ่งนี้\r\n ข้าลืมไปแล้วว่ามันคืออะไร แต่ข้าแน่ใจว่าข้าจำมันได้แน่นอนขอเวลาสักครู่\r\n ไม่แน่ใจว่ามันคือด้วงหรือขวด หรืออะไรสักอย่างนี่แหละที่มันคล้ายๆกับสิ่งนี้\""
     ],
     [
       "HeistGianna1",
       47355,
-      "\"I heard the script will send any who attempt to perform it mad,\r\nbut that other than that, it is very good.\""
+      "\"ข้าเคยได้ยินมาว่าบทที่เขียนขึ้นมา ใครก็ตามที่ทำตามบทมันจะกลายเป็นบ้า\r\n แต่นอกเหนื่อจากนั้นมันก็ไม่มีอะไรแย่\""
     ],
     [
       "HeistGianna2",
       2580,
-      "\"Make sure it'll fit a small man, or a very large child.\r\nAnd check for stains! Knew a few people who'd use them for-... \r\n...Just check for stains.\""
+      "\"ตรวจสอบให้แน่ใจว่ามันขนาดพอดีกับผู้ชายตัวเล็ก หรือ เด็กที่ตัวใหญ่ๆหน่อย\r\n และตรวจสอบให้ครบด้วย! ข้ารู้จักไม่กี่คนที่สามารถใช้งานมันได้ -........ แต่ยังไงซะก็ตรวจสอบให้มันดีๆด้วย\""
     ],
     [
       "HeistTullina1",
       7155,
-      "\"Let's just hope she wasn't wearing it when she wandered into the sea!\""
+      "\"หวังว่าหล่อนไม่ได้ลืมใส่สิ่งนั้นนะก่อนที่หล่อนจะก้าวเท้าลงทะเล!\""
     ],
     [
       "HeistTullina2",
       46555,
-      "\"It isn't fair to either of us to keep chasing this dream.\""
+      "\"มันไม่ยุติธรรมเลย หากเทียบกับการที่เราจะไล่ตามความฝันนี้ต่อไป\""
     ],
     [
       "Whakano1",
       33417,
-      "\"When you stop viewing someone as a fellow human being,\r\nthere's little you won't do to forward your agenda.\r\nThat is what we're dealing with.\""
+      "\"เมื่อเจ้าหยุดมองใครบางคนในฐานะมุนษย์\r\n แต่มันก็เป็นสิ่งเล็กๆน้อยๆเมื่อเทียบกับเป้าหมายของเจ้า\r\n นั่นแหละคือสิ่งที่เรากำลังเผชิญอยู่\""
     ],
     [
       "Whakano2",
       29849,
-      "\"Selfishness and hate fuel these kidnappings. \r\nIt's time we find who is leading them.\""
+      "\"ความเห็นแก่ตัวและการเกลียดชังจะเป็นเชื้อเพลิงนำไปสู่การลักพาตัว\r\n ถึงเวลาแล้วแหละที่ต้องตามหาผู้นำของพวกนั้น\""
     ],
     [
       "Faustus1",
       48429,
-      "\"Darnaw is stupid and confident.\r\nI am certain he will have recorded his misdeeds.\""
+      "\"Darnaw นั้นโง่และมั่นใจตัวเองเกินไป\r\n ข้ามั่นใจเลยว่า มันจะทำการจดบันทึกความผิดพลาดของตัวเองเอาไว้\""
     ],
     [
       "Faustus2",
       4826,
-      "\"Fidium's fealty to fairness \r\nmakes him the perfect pawn in my plan.\r\nOur plan. Perfect pawn in OUR plan.\""
+      "\"ความจงรักภักดีของ Fidium เพื่อความเป็นธรรม เพื่อทำให้พวกลูกสมุนนั้นทำตามแผนได้อย่างสมบูรณ์\r\n แผนของเราเอง และพวกลูกสมุนก็จะเป็นส่วนหนึ่งของแผน\""
     ],
     [
       "Kurai1",
       59741,
-      "\"A symbolic piece of history,\r\nfrom a time when people of all backgrounds\r\nunited against a common enemy.\""
+      "\"ชิ้นส่วนสัญลักษณ์ของประวัติศาสตร์\r\nจากเวลาที่ผ่านมานั้น ผู้คนที่พื้นที่นี้ได้\r\nรวมใจกันเป็นปรกปัก\""
     ],
     [
       "Kurai2",
       51584,
-      "\"An unusual request.\""
+      "\"มันเป็นคำขอที่จะเกินไปหน่อยนะ\""
     ],
     [
       "Kurai3",
       3278,
-      "\"I won't be bullied.\r\nWe must get Hana back.\""
+      "\"ข้าไม่ต้องการถูกกดขี่อีก\r\n พวกเราต้องไปนำตัว Hana กลับมาให้ได้\""
     ],
     [
       "HeistAdmiralProclarsPipe",
       61517,
-      "\"Admiral Proclar wreaked havoc on my smuggling routes for two full decades. Now that he's dead, \r\nit's a matter of thieves' honour to check whether my product was in his pipe.\""
+      "\"กัปตัน Proclar ได้สร้างความหายนะให้กับเส้นทางที่ลักลอบขนของของข้ามาเป็นเวลา 20 ปีเต็ม\r\n ตอนนี้มันได้ตายจากไปแล้ว\r\n มันเป็นเรื่องที่ดีสำหรับกลุ่มโจรอย่างพวกเรา จะไม่ได้ต้องถูกตรวจสอบเหมือนกับแต่ก่อนอีกแล้ว\""
     ],
     [
       "HeistAlchemicalChalice",
       39510,
-      "\"The chalice holds certain properties that make scientists quite possessive and irrational.\r\nIt's best if you don't ask too many questions about this one.\""
+      "\"จอกที่เต็มไปด้วยคุณสมบัติที่วิทยาศาสตร์ไม่สามารถพิสูจน์ได้ โดยมันไร้เหคุผลในหลักการทางวิทยาศาสตร์เมื่อมีผู้ถือครองมัน\r\n มันจะเป็นการดีกว่านี้ ถ้าเจ้าไม่ถามคำถามกับข้ามากไปกว่านี้\""
     ],
     [
       "HeistAncientSeal",
       14531,
-      "\"At first glance, this seal seems no more than an ornament. But when one\r\nlooks closer, one realizes the design is from no culture we yet know of.\""
+      "\"เมื่อมองครั้งแรก ตราสัญลักษณ์ก็ดูไม่ต่างจากเครื่องประดับทั่วไปเลยสักนิด\r\n แต่เมื่อดูดีๆแล้ว มันได้ถูกออกแบบมาเป็๋นอย่างดีจากวัฒนธรรมที่เราไม่เคยรู้จักมันมาก่อน\""
     ],
     [
       "HeistBloodOfInnocence",
       13663,
-      "\"In the early days of his religion, Innocence told his followers to drink of his blood and\r\nenjoy eternal life. If that power holds in his ancient ichor, I hope that it can resurrect as well.\""
+      "\"ในช่วงแรกๆของการนับถือศาสนาของเจ้านั่น\r\n พวกหยั่งรู้ได้บอกพวกที่ติดตามว่า การดื่มเลือดของเขานั้นจะนำพาไปสู่ชีวิตนิรันดร์\r\n ถ้าหากพลังนั้นมีอยู่ในวัตถุโบราณของ Ichor ข้าหวังว่ามันจะสามารถใช้งานในการคืนชีพได้\""
     ],
     [
       "HeistCelestialStone",
       45539,
-      "\"This unassuming rock reportedly fell from the sky a few centuries ago. Sounds impossible,\r\nbut the men who are guarding it obviously believe the tale, so I do, too.\""
+      "\"มีรายนงานว่า ได้มีศิลาแห่งความนอบน้อม ได้ตกลงมาจากท้องฟ้าเหมือนไม่กี่ร้อยปีที่แล้ว\r\n ฟังแล้วเหมือนเป็นไปไม่ได้เลย แต่เห็นได้ชัดว่าคนที่ดูแลเจ้าศิลานั่นจะเชื่ออะไรในสิ่งนี้มาก ข้าก็เชื่อเช่นนั้นเหมือนกัน\""
     ],
     [
       "HeistDekharasResolve",
       48817,
-      "\"A simple ornament from the days when Keth's trade empire was the\r\nglory of the world. Protectors at the massive toll gates wore these.\""
+      "\"เครื่องประดับที่เรียบงานแต่หรูหราตั้งแต่สมัยที่จักรพรรดิ Keth อาณาจักรที่ได้รุ่งเรื่องด้านการค้าขายของโลก\r\n ผู้ป้องกันประตูส่วนเข้าอาณาจักรส่วนใหญ่จะได้รับสิ่งนี้เก็บเอาไว้\""
     ],
     [
       "HeistHeartCoil",
       58684,
-      "\"There are very few devices in this world that can act as a heart for a\r\nmachine. This one is an ancient remnant of the work of Vaal engineers.\""
+      "\"มีอุปกรณ์น้อยมากในโลกนี้ ทำสามารถทำงานเหมือนกับหัวใจของเครื่องจักรได้\r\n แต่ผลงานชิ้นนี้ งานของวิศวกรที่ชื่อว่า Vaal เป็นผลงานเดียวที่หลงเหลืออยู่ตอนนี้จากสมัยโบราณ\""
     ],
     [
       "HeistEnigmaticAssemblyA",
       3291,
-      "\"I currently possess four-hundred and forty-four pieces of this ancient\r\nand puzzling device. A few seem to be missing. This part is crucial.\""
+      "\"ปัจจุบันข้าได้สะสมวัตถุโบราณทั้งหมด 400 กับอีก 44 ชิ้น เอาง่ายๆคือ 444 ชิ้นนั่นแหละและวัตถุปริศนาที่แก้ไขยังไม่ได้\r\n ดูเหมือนว่ามันจะหายไปบางส่วน และดันเป็นส่วนที่สำคัญมาก\""
     ],
     [
       "HeistEnigmaticAssemblyB",
       3449,
-      "\"There is no telling what this device may do when completed, but I\r\nhave made it my life's work. There must be a deeper meaning!\""
+      "\"บอกไม่ได้หรอกว่าอุปกรณ์นี้จะทำอะไรได้บ้างเมื่อข้าได้สร้างมันเสร็จ แต่ข้าได้ใช้เวลาทั้งชีวิตเพื่อสร้างมันขึ้นมา\r\nและมันยังต้องใช้ความละเอียดอ่อนมากด้วย !\""
     ],
     [
       "HeistEnigmaticAssemblyC",
       2140,
-      "\"I have spent my family's entire fortune in the pursuit of this device.\r\nAssembling it and turning it on is all I have left.\""
+      "\"ข้าได้ใช้โชคทั้งหมดของครอบครัวข้า ในการตามหาอุปกรณ์นี้\r\nการประกอบและเปิดเครื่อง มันคือทั้งหมดที่ข้าเหลืออยู่ในตอนนี้\""
     ],
     [
       "HeistEnigmaticAssemblyD",
       48165,
-      "\"My schematics are clear. Once the Enigmatic Assembly is complete, it\r\nwill be a weapon to rival the gods! It must be... it has to be...\""
+      "\"แผนผังของข้านั่นชัดเจน เมื่อ Enigmatic Assemmly นั้นสำเร็จสมบูรณ์\r\n มันจะกลายเป็นอาวุธสำหรับต่อกรกับเทพพระเจ้า มันก็คือ....... มันจะต้องเป็น......... \""
     ],
     [
       "HeistEldritchBlade",
       11673,
-      "\"The Eldritch Blade is one half of a pair. Together, the two are said to drive men\r\ninsane by revealing the truth of the world to them. I wish to know this truth.\""
+      "\"ดาบแห่ง Edritch เดิมทีมันเป็นดาบคู่มาก่อน\r\n ทั้งสองชิ้้นนั้นได้รับการกล่าวขานว่ามันถูกสร้างขึ้นจากชายผู้บ้าคลั่ง โดยการเปิดเผยความจริงให้กับโลกได้รู้ ฉันอยากจะรู้ความจริงเหมือนกัน\""
     ],
     [
       "HeistEmperorCaspiro",
       61367,
-      "\"Caspiro was a master of presentation. He maintained peace in Wraeclast through displays\r\nof strength that, sadly, had no meaning to the dark presence that dismembered him...\""
+      "\"Caspiro เป็นคนที่เชี่ยวชาญด้านการนำเสนอ\r\n เขาเป็นคนสร้างความสงบให้กับ Wraeclast ผ่านการแสดงความแข็งแกร่ง ความเศร้า\r\nไม่มีความหมายในความมืดมิดที่มันทำให้เขานั้นแตกสลาย........\""
     ],
     [
       "HeistEssenceBurner",
       34462,
-      "\"Trust in scientists to create tools for better drug distillation. They don't know the\r\nworth of the beautiful tools they have. Let's make sure it stays that way.\""
+      "\"ความเชื่อมั่นในวิทยาศาสตร์ คือการสร้างเครื่องมือสำหรับกลั่นยาดีๆ ขึ้นมาสักชิ้น\r\nพวกเขาไม่รู้หรอกว่าเขามีเครื่องมือที่สวยงามแค่ไหน อย่างไรก็จามมันก็ทำให้แน่ใจว่ามันจะเป็นเช่นนั้น\""
     ],
     [
       "HeistFlaskOfWelakath",
       29463,
-      "\"Long ago, a traitor was promised this mythical elixir. We consider her a fool for\r\nbelieving it exists, but if it does... I would certainly like to take a sip and find out.\""
+      "\"เมื่อนานมาแล้ว ได้มีผู้ทรยศได้ทำสัญญากับยาอายุวัฒนะในตำนาน\r\n เราจะถือว่าพวกเราเป็นคนโง่ที่เชื่ออะไรแบบนั้นว่ามันมีอยู่จริง แต่ถ้ามันมีอยู่จริง..........ข้าอยากจะลองจิบมันดูสักคำเพื่อพิสูจน์\""
     ],
     [
       "HeistForbiddenLamp",
       64959,
-      "\"The lamp is said to contain Aziza, the Fourth Servant of Water. I doubt the tale\r\nis true, but I cannot allow one of our artifacts to fall into Kondor's hands.\""
+      "\"ตะเกียงแห่ง Aziza ที่ประกอบไปด้วยผู้รับใช้แห่งแม่น้ำทั้งสี่\r\n ข้าสงสัยว่ามันน่าจะเป็นเรื่องจริง แต่ว่าข้าไม่สามารถจะปล่อยสิ่งประดิษฐ์นี่ให้ตกอยู่ในมือของ Kondor ได้\""
     ],
     [
       "HeistGoddessOfWater",
       11124,
-      "\"The relief depicts some sort of forgotten Maraketh goddess. I have no idea what\r\nthe context is. The important thing is that you steal it before Bazira does.\""
+      "\"ความบรรเทาได้แสดงถึงภาพของเทพพระเจ้า Maraketh ที่ถูกลืม\r\n ข้าไม่รู้ว่ามันเกิดขึ้นได้ยังไงความสำคัญคือมันได้ถูกขโมยไปก่อนที่ Bazira จะลงมือขโมยมัน\""
     ],
     [
       "HeistGoldenToucan",
       6619,
-      "\"It is said that the Golden Ibis was forged before time itself, before writing, or even\r\noral history. That's nonsense, of course, but it's still very old, and therefore noteworthy.\""
+      "\"ว่ากันว่า เจ้านกทองตัวนี้ ได้ถูกสร้างขึ้นมาก่อนตั้งนานแล้ว ก่อนที่จะมีการจดบันทึก\r\n เกิดก่อนเรื่องเล่าที่เจ้าได้ยินมา ซึ่งแน่นอนแหละว่ามันไร้สาระสุด ๆ แต่มันก็เก่ามากกว่าที่เราจะจิตนาการได้\""
     ],
     [
       "HeistImpossibleCrystal",
       39226,
-      "\"The world is governed by certain natural laws. Science and thaumaturgy are one\r\nand the same. But the crystal... it shouldn't exist. It's not from here. We must have it.\""
+      "\"โลกอยู่ภายใต้กฏของธรรมชาติทั้งนั้น นักวิทยาศาสตร์ก็ทำตามกฏนั้นเช่นกัน\r\n แค่ผลึกแก้วนั่น..... มันไม่อยู่ในกฏของธรรมชาติ มันไม่ควรจะอยู่ที่นี่ เราจะต้องมีมันไว้ครอบครอง\""
     ],
     [
       "HeistLivingIce",
       46673,
-      "\"Are we the only ones who understand the danger? The fools! Living ice absorbs heat\r\nand grows. We must control it properly, lest it spread across all of Wraeclast.\""
+      "\"นี่เราเป็นพวกเดียวที่เข้าใจถึงอันตรายนั่นรึเปล่า? บ้าบอ ! น้ำแข็งที่มีชีวิตทำการดูดซับพลังงานความร้อนและเติบโต\r\n เราต้องควบคุมมันไว้ให้ได้ อย่าปล่อยให้มันแพร่กระจายไปทั่ว Wraeclast\""
     ],
     [
       "HeistSealOfLunaris",
       40420,
-      "\"I have a suspicion that the Maraketh Sekhema of legend, Lundara, is the same historical\r\nfigure as the Azmeri and Eternal goddess Lunaris. The Seal may prove that.\""
+      "\"ข้าได้สงสัยว่าตำนานของ Maraketh Sekhema แห่ง Lundara เป็นคนบุคคล บุคคลเดียวที่สำคัญทางประวัติศาสตร์\r\n เช่นเดียวกันกับ Azmeri และ เทพเจ้า Eternal Lunaris ตราสัญลักษณ์นี่อาจจะพิสูจน์ว่ามันเป็นจริง \""
     ],
     [
       "HeistOrbalasFifthAdventure",
       31284,
-      "\"The relief was the first ever depiction of some Maraketh girl named Orbala undertaking her\r\nfifth great adventure. I don't particularly care about the story, I just don't want Bazira to have it.\""
+      "\"ความโล่งใจเป็นสิ่งแรกที่เราได้มองภาพของ เทพธิดา Maraketh ที่มีชื่อว่า Orbala ที่ทำหน้าที่ออกไปผจญภัยยังดินแดนทั้งห้า\r\n ข้าไม่ได้สนใจเรื่องราวที่เจ้าพูดมาหรอก แล้วข้าก็ไม่อยากให้ Bazira สนใจอะไรแบบนี้ด้วย\""
     ],
     [
       "HeistSeaPearlHeirloom",
       62434,
-      "\"My accursed father owes his children this heirloom. We deserve\r\nto know our culture, just like you full-blooded humans do.\""
+      "\"คำสาบจากรุ่นพ่อได้ตกทอดมายังรุ่นลูกของพวกนั้น\r\n พากเราควรได้รับรู้เกี่ยวกับวัฒนธรรมนั้น เจ้าเองก็มีเลือดแบบนี้อยู่ในตัวเช่นกัน\""
     ],
     [
       "HeistSealOfSolaris",
       47560,
-      "\"It is my belief that Solerai, from the Maraketh legend, is Solaris herself in another system of\r\nmyths. If I can prove that, I can begin piecing together a true history of the Winter of the World.\""
+      "\"มันคือความเชื่อของข้าเกี่ยวกับ Solerai ตำนานแห่ง Maraketh มันคือ Solaris หนึ่งในหนทางการพิสูจน์ความจริง\r\n ถ้าข้าสามารถพิสูจน์ได้ ข้าจะสามารถประติดประต่อความจริงเกี่ยวกับประวัตศาสตร์ฤดูหนาวของโลก\""
     ],
     [
       "HeistStaffOfTheFirstSinEater",
       30793,
-      "\"The history of the order of Sin Eaters is shrouded in secrecy and shame.\r\nNevertheless, history demands truth, even if it takes centuries to be revealed.\""
+      "\"ประวัติศาสตร์ของคำสั่งผู้เสพบาป เต็มไปด้วยความลับและความอับอาย\r\n อย่างไรก็ตาม ประวัติศาสตร์ยังต้องมีการพิสูจน์แม้ว่าต้องใช้เวลาหลายสิบปีในการเปิดค้นหาข้อมูล\""
     ],
     [
       "HeistOghamCandelabra",
       28041,
-      "\"Those Eternal bastards looted everything that wasn't bolted to the floor when we\r\nfinally drove them from our island! That candelabra belongs with us!\""
+      "\"พวกชั่วช้านั้นมันปล้นทุกสิ่งที่สามารถเอาไปได้ทั้งหมดเลย ในที่สุดพวกเราก็ไล่พวกมันออกไปจากเกาะนี่ได้! ขอให้แสงนำทางพวกเรา!\""
     ],
     [
       "HeistSwordOfTheInverseRelic",
       9219,
-      "\"By all accounts, the Sword of the Inverse Relic was found aged and rusted,\r\nbut is becoming less weathered over time. We really must study its properties.\""
+      "\"จากข้อมูลทั้งหมด ดาบของ Inverse Relic นั้นเก่ามากและเริ่มขึ้นสนิมแล้ว\r\n แต่สภาพมันดีเกินไปจากเวลาที่ผ่านมา เราน่าจะต้องศึกษาคุณสมบัติของดาบนี้ซะแล้ว\""
     ],
     [
       "HeistTuskedHominidSkull",
       10315,
-      "\"If the skull is real, and not a forgery, then it may show that my people are not the\r\nabominations others believe us to be. The word 'human' may have a broader meaning.\""
+      "\"ถ้ากระโหลกนี่เป็นของจริง และไม่ได้ปลอมแปลงขึ้นมา นั่นอาจจะแสดงให้เห็นว่าคนพวกนี้ไม่ได้น่ารังเกียจอย่างที่เราเข้าใจ\r\n คำว่า \"มนุษย์\" มันอาจจะมีความหมายที่กว้างจริง ๆ\""
     ],
     [
       "HeistUrnOfTheOriginalAshes",
       9799,
-      "\"A great fire once swept the land, and our leaders were turned to ash where they stood.\r\nThe urn contains exactly what you think it does, and serves as proof of our long lineage.\""
+      "\"ครั้งหนึ่งได้เกิดไฟไหม้ผืนแผ่นดิน และผู้นำของเราก็ได้กลายเป็นเถ้าธุลีในที่ๆ พวกเขาอยู่\r\nซากเถ้ากระดูกที่เจ้าคิดมันคือหลักฐานว่าเรายังมีเชื้อสายมาอย่างยาวนาน\""
+    ],
+    [
+      "WatchstoneMaven",
+      65260,
+      "มีเพียงวิญญาณที่ติดอยู่ภายในเท่านั้นที่สามารถเป็นพยานถึงความมืดมนของ Maven และพวกเขาไม่กล้าพูด"
+    ],
+    [
+      "MavenKey",
+      25406,
+      "คงเป็นเรื่องโง่เขลาที่จะเชื่อฟังคำเรียกร้องของ Maven\r\n นอกจากนี้ยังเป็นการโง่ที่จะไม่ทำ"
+    ],
+    [
+      "MavenTrial",
+      4342,
+      "สำหรับผู้ที่ต้องทนไม่ได้\r\n อาจพบความสุขที่วิปริต\r\n ในการเฝ้าดูการต่อสู้เพื่อความอยู่รอด"
+    ],
+    [
+      "MavenKeyFragment",
+      15548,
+      "สูงค่าแต่แสนอัตราย\r\nยั่วยวนเข้าสู่ความชั่วร้าย"
+    ],
+    [
+      "UniqueWatchstone11a",
+      5031,
+      "\"The village was locked within its walls,\r\nprotected from those who could do them harm,\r\nprotected from those who could save them.\""
+    ],
+    [
+      "UniqueWatchstone11b",
+      53618,
+      "\"Believing them to have discovered new lands,\r\nthey planted their flag in the dirt and called it their own.\r\nA gesture not taken with a great deal of pleasure\r\nby those who already dwelt there.\""
+    ],
+    [
+      "UniqueWatchstone11c",
+      3340,
+      "\"The first explorers took to the hills to discover the lay of the land,\r\nand watched with wonder as the land undulated, crashed and twisted.\""
+    ],
+    [
+      "UniqueWatchstone11d",
+      10001,
+      "\"Atop the highest peaks, the sunlight pierced but did not warm.\r\nThe air choked and did not nourish.\r\nAnd those that made the trek realised the folly of their desire for greatness.\""
+    ],
+    [
+      "UniqueWatchstone11e",
+      23060,
+      "\"Where once a mountain stood there was now but fields and dust.\r\nOne by one, the stones were moved and placed with intention,\r\nthe consequences borne by the destination and the origin.\""
+    ],
+    [
+      "UniqueWatchstone11f",
+      33164,
+      "\"The Shade walked the land with no end in sight,\r\nno purpose in mind,\r\nbut the one it invented to pass the time.\""
+    ],
+    [
+      "UniqueWatchstone11g",
+      33387,
+      "\"There were seasons in this strange new place, but not of sun and snow.\r\nSeasons of stone that rose and fell like waves.\r\nSeasons of structure and growth and madness and chaos.\r\nSeasons of birth and decay that seemed untethered to cause.\""
+    ],
+    [
+      "UniqueWatchstone11h",
+      63600,
+      "\"For a time, it was thought this place could seed an empire\r\ngreater than any in history.\r\nThe lands could be tamed, and commanded, they thought.\r\nBut control, like all things in that place, was an illusion.\""
     ]
   ]
 }

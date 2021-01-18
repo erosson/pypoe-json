@@ -179,72 +179,72 @@
       "",
       "Art/2DArt/UIImages/InGame/GenericRewardMapDevice5",
       "Audio/Sound Effects/UI/Atlas/Upgrade.ogg",
-      2299
+      2370
     ],
     [
       "AtlasMissionZana",
       "Has recibido una misión de Atlas de Zana",
       "Art/2DArt/UIImages/InGame/AtlasMissionNotificationZana",
-      910,
+      1084,
       3,
       2,
       "",
       "",
       "",
       "Audio/Sound Effects/UI/Atlas/Receive.ogg",
-      2299
+      2370
     ],
     [
       "AtlasMissionAlva",
       "Has recibido una misión de Atlas de Alva",
       "Art/2DArt/UIImages/InGame/AtlasMissionNotificationAlva",
-      910,
+      1084,
       3,
       2,
       "",
       "",
       "",
       "Audio/Sound Effects/UI/Atlas/Receive.ogg",
-      2299
+      2370
     ],
     [
       "AtlasMissionNiko",
       "Has recibido una misión de Atlas de Niko",
       "Art/2DArt/UIImages/InGame/AtlasMissionNotificationNiko",
-      910,
+      1084,
       3,
       2,
       "",
       "",
       "",
       "Audio/Sound Effects/UI/Atlas/Receive.ogg",
-      2299
+      2370
     ],
     [
       "AtlasMissionEinhar",
       "Has recibido una misión de Atlas de Einhar",
       "Art/2DArt/UIImages/InGame/AtlasMissionNotificationEinhar",
-      910,
+      1084,
       3,
       2,
       "",
       "",
       "",
       "Audio/Sound Effects/UI/Atlas/Receive.ogg",
-      2299
+      2370
     ],
     [
       "AtlasMissionJun",
       "Has recibido una misión de Atlas de Jun",
       "Art/2DArt/UIImages/InGame/AtlasMissionNotificationJun",
-      910,
+      1084,
       3,
       2,
       "",
       "",
       "",
       "Audio/Sound Effects/UI/Atlas/Receive.ogg",
-      2299
+      2370
     ],
     [
       "AtlasCitadelOutsideTopLeft",
@@ -257,7 +257,7 @@
       "",
       "Art/2DArt/UIImages/InGame/CitadelAwardDisplay",
       "Audio/Sound Effects/UI/Atlas/Citadel.ogg",
-      2299
+      2370
     ],
     [
       "AtlasCitadelInsideTopLeft",
@@ -270,7 +270,7 @@
       "",
       "Art/2DArt/UIImages/InGame/CitadelAwardDisplay",
       "Audio/Sound Effects/UI/Atlas/Citadel.ogg",
-      2299
+      2370
     ],
     [
       "AtlasCitadelInsideTopRight",
@@ -283,7 +283,7 @@
       "",
       "Art/2DArt/UIImages/InGame/CitadelAwardDisplay",
       "Audio/Sound Effects/UI/Atlas/Citadel.ogg",
-      2299
+      2370
     ],
     [
       "AtlasCitadelOutsideTopRight",
@@ -296,7 +296,7 @@
       "",
       "Art/2DArt/UIImages/InGame/CitadelAwardDisplay",
       "Audio/Sound Effects/UI/Atlas/Citadel.ogg",
-      2299
+      2370
     ],
     [
       "AtlasCitadelOutsideBottomLeft",
@@ -309,7 +309,7 @@
       "",
       "Art/2DArt/UIImages/InGame/CitadelAwardDisplay",
       "Audio/Sound Effects/UI/Atlas/Citadel.ogg",
-      2299
+      2370
     ],
     [
       "AtlasCitadelInsideBottomLeft",
@@ -322,7 +322,7 @@
       "",
       "Art/2DArt/UIImages/InGame/CitadelAwardDisplay",
       "Audio/Sound Effects/UI/Atlas/Citadel.ogg",
-      2299
+      2370
     ],
     [
       "AtlasCitadelInsideBottomRight",
@@ -335,7 +335,7 @@
       "",
       "Art/2DArt/UIImages/InGame/CitadelAwardDisplay",
       "Audio/Sound Effects/UI/Atlas/Citadel.ogg",
-      2299
+      2370
     ],
     [
       "AtlasCitadelOutsideBottomRight",
@@ -348,137 +348,150 @@
       "",
       "Art/2DArt/UIImages/InGame/CitadelAwardDisplay",
       "Audio/Sound Effects/UI/Atlas/Citadel.ogg",
-      2299
+      2370
     ],
     [
       "FavouredMapSlotUnlockedOutsideTopLeft",
       "Aldea de Haewark\nEspacio de mapa favorito desbloqueado",
       "Art/2DArt/UIImages/InGame/UnlockedFavouredMapNotification",
-      910,
+      1084,
       3,
       2,
       "",
       "",
       "Art/2DArt/UIImages/InGame/UnlockedFavouredMapHeader",
       "Audio/Sound Effects/UI/Atlas/Citadel.ogg",
-      2299
+      2370
     ],
     [
       "FavouredMapSlotUnlockedInsideTopLeft",
       "El final de Tirn\nEspacio de mapa favorito desbloqueado",
       "Art/2DArt/UIImages/InGame/UnlockedFavouredMapNotification",
-      910,
+      1084,
       3,
       2,
       "",
       "",
       "Art/2DArt/UIImages/InGame/UnlockedFavouredMapHeader",
       "Audio/Sound Effects/UI/Atlas/Citadel.ogg",
-      2299
+      2370
     ],
     [
       "FavouredMapSlotUnlockedInsideTopRight",
       "Lex Proxima\nEspacio de mapa favorito desbloqueado",
       "Art/2DArt/UIImages/InGame/UnlockedFavouredMapNotification",
-      910,
+      1084,
       3,
       2,
       "",
       "",
       "Art/2DArt/UIImages/InGame/UnlockedFavouredMapHeader",
       "Audio/Sound Effects/UI/Atlas/Citadel.ogg",
-      2299
+      2370
     ],
     [
       "FavouredMapSlotUnlockedOutsideTopRight",
       "Lex Ejoris\nEspacio de mapa favorito desbloqueado",
       "Art/2DArt/UIImages/InGame/UnlockedFavouredMapNotification",
-      910,
+      1084,
       3,
       2,
       "",
       "",
       "Art/2DArt/UIImages/InGame/UnlockedFavouredMapHeader",
       "Audio/Sound Effects/UI/Atlas/Citadel.ogg",
-      2299
+      2370
     ],
     [
       "FavouredMapSlotUnlockedOutsideBottomLeft",
       "Nuevo Vastir\nEspacio de mapa favorito desbloqueado",
       "Art/2DArt/UIImages/InGame/UnlockedFavouredMapNotification",
-      910,
+      1084,
       3,
       2,
       "",
       "",
       "Art/2DArt/UIImages/InGame/UnlockedFavouredMapHeader",
       "Audio/Sound Effects/UI/Atlas/Citadel.ogg",
-      2299
+      2370
     ],
     [
       "FavouredMapSlotUnlockedInsideBottomLeft",
       "Túmulos de Glennach\nEspacio de mapa favorito desbloqueado",
       "Art/2DArt/UIImages/InGame/UnlockedFavouredMapNotification",
-      910,
+      1084,
       3,
       2,
       "",
       "",
       "Art/2DArt/UIImages/InGame/UnlockedFavouredMapHeader",
       "Audio/Sound Effects/UI/Atlas/Citadel.ogg",
-      2299
+      2370
     ],
     [
       "FavouredMapSlotUnlockedInsideBottomRight",
       "El descanso de Valdo\nEspacio de mapa favorito desbloqueado",
       "Art/2DArt/UIImages/InGame/UnlockedFavouredMapNotification",
-      910,
+      1084,
       3,
       2,
       "",
       "",
       "Art/2DArt/UIImages/InGame/UnlockedFavouredMapHeader",
       "Audio/Sound Effects/UI/Atlas/Citadel.ogg",
-      2299
+      2370
     ],
     [
       "FavouredMapSlotUnlockedOutsideBottomRight",
       "Lira Arthain\nEspacio de mapa favorito desbloqueado",
       "Art/2DArt/UIImages/InGame/UnlockedFavouredMapNotification",
-      910,
+      1084,
       3,
       2,
       "",
       "",
       "Art/2DArt/UIImages/InGame/UnlockedFavouredMapHeader",
       "Audio/Sound Effects/UI/Atlas/Citadel.ogg",
-      2299
+      2370
+    ],
+    [
+      "HarvestCraftingBenchUnlocked",
+      "La decoración Mesa de fabricación herbaria ya está disponible en tu guarida",
+      "Art/2DArt/UIImages/InGame/GenericRewardBackground",
+      1084,
+      3,
+      2,
+      "",
+      "",
+      "Art/2DArt/UIImages/InGame/HorticraftingDisplay",
+      "Audio/Sound Effects/UI/Atlas/Citadel.ogg",
+      2370
     ],
     [
       "HarvestSeedStashUnlocked",
       "La decoración Reserva de semillas ya está disponible en tu guarida",
       "Art/2DArt/UIImages/InGame/GenericRewardBackground",
-      910,
+      1084,
       3,
       2,
       "",
       "",
       "Art/2DArt/UIImages/InGame/SeedStashDisplay",
       "Audio/Sound Effects/UI/Atlas/Citadel.ogg",
-      2299
+      2370
     ],
     [
       "HeistStashUnlocked",
       "La decoración Armario de Heist ya está disponible en tu guarida",
       "Art/2DArt/UIImages/InGame/GenericRewardBackground",
-      910,
+      1084,
       3,
       0,
       "",
       "",
       "Art/2DArt/UIImages/InGame/HeistStashDisplay",
       "Audio/Sound Effects/UI/Atlas/Citadel.ogg",
-      2299
+      2370
     ]
   ]
 }

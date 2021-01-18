@@ -566,6 +566,10 @@
       "Dein Konto wurde von einem GM stummgeschaltet. In {0} kannst du wieder sprechen."
     ],
     [
+      "MutedUntilSecondsConsole",
+      "Dein Konto wurde von einem GM stummgeschaltet. In {0} kannst du wieder sprechen."
+    ],
+    [
       "ObaPlayerJoined",
       "Ah, Ihr wollt Euch an meinem Schatz vergreifen und denkt, Ihr kommt dabei auch noch mit dem Leben davon? Sei es Mut oder Dummheit, mein Applaus gebührt Euch!"
     ],
@@ -1607,7 +1611,7 @@
     ],
     [
       "InteractErrorNoSignOfPurity",
-      "Hierfür benötigst du das Symbol der Reinheit."
+      "Hierfür benötigst du das Zeichen der Reinheit."
     ],
     [
       "InteractErrorCannotAccessEndgame",
@@ -2158,8 +2162,40 @@
       "Fehler: Du bist nicht der Ersteller der Instanz dieses Raubüberfalls."
     ],
     [
+      "ReceivedAtlasRespecPoint1",
+      "Du hast einen Atlas-Korrekturpunkt erhalten."
+    ],
+    [
+      "ReceivedAtlasRespecPointN",
+      "Du hast {0} Atlas-Korrekturpunkte erhalten."
+    ],
+    [
+      "ReceivedAtlasPassivePointN",
+      "Du hast {1} Atlas-Fertigkeitspunkte für {0} erhalten."
+    ],
+    [
+      "MavenNotEnoughBosses",
+      "Aktivierung fehlgeschlagen. Du hast aus dieser Atlasregion nicht genug Bosse gesammelt."
+    ],
+    [
+      "MavenCitadelNotUnlocked",
+      "Aktivierung fehlgeschlagen. Du hast die Zitadelle dieser Atlasregion noch nicht freigeschaltet."
+    ],
+    [
       "StashAffinityFailedNoRoom",
-      "In deinem Truhenfach mit der Zuweisung '{0}' ist nicht genug Platz für diesen Gegenstand."
+      "Dein Truhenfach mit der Zuweisung {0} hat nicht genug Platz für diesen Gegenstand."
+    ],
+    [
+      "FailedToAddMavenToMap",
+      "Die Seherin konnte nicht zur Karte herbeigerufen werden: {0}"
+    ],
+    [
+      "RitualFragmentNotValidForUse",
+      "Aktivierung fehlgeschlagen. Blutgefüllte Gefäße können nur in der Ritual-Liga verwendet werden."
+    ],
+    [
+      "MapDeviceInvalidQuestState",
+      "Aktivierung fehlgeschlagen. Du verfügst nicht über den erforderlichen Quest-Status."
     ]
   ]
 }

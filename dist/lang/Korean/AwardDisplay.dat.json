@@ -179,72 +179,72 @@
       "",
       "Art/2DArt/UIImages/InGame/GenericRewardMapDevice5",
       "Audio/Sound Effects/UI/Atlas/Upgrade.ogg",
-      2299
+      2370
     ],
     [
       "AtlasMissionZana",
       "자나로부터 아틀라스 임무를 받았습니다",
       "Art/2DArt/UIImages/InGame/AtlasMissionNotificationZana",
-      910,
+      1084,
       3,
       2,
       "",
       "",
       "",
       "Audio/Sound Effects/UI/Atlas/Receive.ogg",
-      2299
+      2370
     ],
     [
       "AtlasMissionAlva",
       "알바로부터 아틀라스 임무를 받았습니다",
       "Art/2DArt/UIImages/InGame/AtlasMissionNotificationAlva",
-      910,
+      1084,
       3,
       2,
       "",
       "",
       "",
       "Audio/Sound Effects/UI/Atlas/Receive.ogg",
-      2299
+      2370
     ],
     [
       "AtlasMissionNiko",
       "니코로부터 아틀라스 임무를 받았습니다",
       "Art/2DArt/UIImages/InGame/AtlasMissionNotificationNiko",
-      910,
+      1084,
       3,
       2,
       "",
       "",
       "",
       "Audio/Sound Effects/UI/Atlas/Receive.ogg",
-      2299
+      2370
     ],
     [
       "AtlasMissionEinhar",
       "아인하르로부터 아틀라스 임무를 받았습니다",
       "Art/2DArt/UIImages/InGame/AtlasMissionNotificationEinhar",
-      910,
+      1084,
       3,
       2,
       "",
       "",
       "",
       "Audio/Sound Effects/UI/Atlas/Receive.ogg",
-      2299
+      2370
     ],
     [
       "AtlasMissionJun",
       "준로부터 아틀라스 임무를 받았습니다",
       "Art/2DArt/UIImages/InGame/AtlasMissionNotificationJun",
-      910,
+      1084,
       3,
       2,
       "",
       "",
       "",
       "Audio/Sound Effects/UI/Atlas/Receive.ogg",
-      2299
+      2370
     ],
     [
       "AtlasCitadelOutsideTopLeft",
@@ -257,7 +257,7 @@
       "",
       "Art/2DArt/UIImages/InGame/CitadelAwardDisplay",
       "Audio/Sound Effects/UI/Atlas/Citadel.ogg",
-      2299
+      2370
     ],
     [
       "AtlasCitadelInsideTopLeft",
@@ -270,7 +270,7 @@
       "",
       "Art/2DArt/UIImages/InGame/CitadelAwardDisplay",
       "Audio/Sound Effects/UI/Atlas/Citadel.ogg",
-      2299
+      2370
     ],
     [
       "AtlasCitadelInsideTopRight",
@@ -283,7 +283,7 @@
       "",
       "Art/2DArt/UIImages/InGame/CitadelAwardDisplay",
       "Audio/Sound Effects/UI/Atlas/Citadel.ogg",
-      2299
+      2370
     ],
     [
       "AtlasCitadelOutsideTopRight",
@@ -296,7 +296,7 @@
       "",
       "Art/2DArt/UIImages/InGame/CitadelAwardDisplay",
       "Audio/Sound Effects/UI/Atlas/Citadel.ogg",
-      2299
+      2370
     ],
     [
       "AtlasCitadelOutsideBottomLeft",
@@ -309,7 +309,7 @@
       "",
       "Art/2DArt/UIImages/InGame/CitadelAwardDisplay",
       "Audio/Sound Effects/UI/Atlas/Citadel.ogg",
-      2299
+      2370
     ],
     [
       "AtlasCitadelInsideBottomLeft",
@@ -322,7 +322,7 @@
       "",
       "Art/2DArt/UIImages/InGame/CitadelAwardDisplay",
       "Audio/Sound Effects/UI/Atlas/Citadel.ogg",
-      2299
+      2370
     ],
     [
       "AtlasCitadelInsideBottomRight",
@@ -335,7 +335,7 @@
       "",
       "Art/2DArt/UIImages/InGame/CitadelAwardDisplay",
       "Audio/Sound Effects/UI/Atlas/Citadel.ogg",
-      2299
+      2370
     ],
     [
       "AtlasCitadelOutsideBottomRight",
@@ -348,137 +348,150 @@
       "",
       "Art/2DArt/UIImages/InGame/CitadelAwardDisplay",
       "Audio/Sound Effects/UI/Atlas/Citadel.ogg",
-      2299
+      2370
     ],
     [
       "FavouredMapSlotUnlockedOutsideTopLeft",
       "헤이워크 촌락\n선호하는 지도 슬롯을 잠금 해제했습니다",
       "Art/2DArt/UIImages/InGame/UnlockedFavouredMapNotification",
-      910,
+      1084,
       3,
       2,
       "",
       "",
       "Art/2DArt/UIImages/InGame/UnlockedFavouredMapHeader",
       "Audio/Sound Effects/UI/Atlas/Citadel.ogg",
-      2299
+      2370
     ],
     [
       "FavouredMapSlotUnlockedInsideTopLeft",
       "티른의 끝자락\n선호하는 지도 슬롯을 잠금 해제했습니다",
       "Art/2DArt/UIImages/InGame/UnlockedFavouredMapNotification",
-      910,
+      1084,
       3,
       2,
       "",
       "",
       "Art/2DArt/UIImages/InGame/UnlockedFavouredMapHeader",
       "Audio/Sound Effects/UI/Atlas/Citadel.ogg",
-      2299
+      2370
     ],
     [
       "FavouredMapSlotUnlockedInsideTopRight",
       "렉스 프록시마\n선호하는 지도 슬롯을 잠금 해제했습니다",
       "Art/2DArt/UIImages/InGame/UnlockedFavouredMapNotification",
-      910,
+      1084,
       3,
       2,
       "",
       "",
       "Art/2DArt/UIImages/InGame/UnlockedFavouredMapHeader",
       "Audio/Sound Effects/UI/Atlas/Citadel.ogg",
-      2299
+      2370
     ],
     [
       "FavouredMapSlotUnlockedOutsideTopRight",
       "렉스 에요리스\n선호하는 지도 슬롯을 잠금 해제했습니다",
       "Art/2DArt/UIImages/InGame/UnlockedFavouredMapNotification",
-      910,
+      1084,
       3,
       2,
       "",
       "",
       "Art/2DArt/UIImages/InGame/UnlockedFavouredMapHeader",
       "Audio/Sound Effects/UI/Atlas/Citadel.ogg",
-      2299
+      2370
     ],
     [
       "FavouredMapSlotUnlockedOutsideBottomLeft",
       "뉴 바스티르\n선호하는 지도 슬롯을 잠금 해제했습니다",
       "Art/2DArt/UIImages/InGame/UnlockedFavouredMapNotification",
-      910,
+      1084,
       3,
       2,
       "",
       "",
       "Art/2DArt/UIImages/InGame/UnlockedFavouredMapHeader",
       "Audio/Sound Effects/UI/Atlas/Citadel.ogg",
-      2299
+      2370
     ],
     [
       "FavouredMapSlotUnlockedInsideBottomLeft",
       "글렌나크 돌무덤\n선호하는 지도 슬롯을 잠금 해제했습니다",
       "Art/2DArt/UIImages/InGame/UnlockedFavouredMapNotification",
-      910,
+      1084,
       3,
       2,
       "",
       "",
       "Art/2DArt/UIImages/InGame/UnlockedFavouredMapHeader",
       "Audio/Sound Effects/UI/Atlas/Citadel.ogg",
-      2299
+      2370
     ],
     [
       "FavouredMapSlotUnlockedInsideBottomRight",
       "발도의 휴식처\n선호하는 지도 슬롯을 잠금 해제했습니다",
       "Art/2DArt/UIImages/InGame/UnlockedFavouredMapNotification",
-      910,
+      1084,
       3,
       2,
       "",
       "",
       "Art/2DArt/UIImages/InGame/UnlockedFavouredMapHeader",
       "Audio/Sound Effects/UI/Atlas/Citadel.ogg",
-      2299
+      2370
     ],
     [
       "FavouredMapSlotUnlockedOutsideBottomRight",
       "리라 아르타인\n선호하는 지도 슬롯을 잠금 해제했습니다",
       "Art/2DArt/UIImages/InGame/UnlockedFavouredMapNotification",
-      910,
+      1084,
       3,
       2,
       "",
       "",
       "Art/2DArt/UIImages/InGame/UnlockedFavouredMapHeader",
       "Audio/Sound Effects/UI/Atlas/Citadel.ogg",
-      2299
+      2370
+    ],
+    [
+      "HarvestCraftingBenchUnlocked",
+      "이제 푸르미 제작소 장식을 은신처에서 사용할 수 있습니다.",
+      "Art/2DArt/UIImages/InGame/GenericRewardBackground",
+      1084,
+      3,
+      2,
+      "",
+      "",
+      "Art/2DArt/UIImages/InGame/HorticraftingDisplay",
+      "Audio/Sound Effects/UI/Atlas/Citadel.ogg",
+      2370
     ],
     [
       "HarvestSeedStashUnlocked",
       "이제 씨앗 전리품 장식을 은신처에서 사용할 수 있습니다.",
       "Art/2DArt/UIImages/InGame/GenericRewardBackground",
-      910,
+      1084,
       3,
       2,
       "",
       "",
       "Art/2DArt/UIImages/InGame/SeedStashDisplay",
       "Audio/Sound Effects/UI/Atlas/Citadel.ogg",
-      2299
+      2370
     ],
     [
       "HeistStashUnlocked",
       "이제 강탈 사물함 장식을 은신처에서 사용할 수 있습니다.",
       "Art/2DArt/UIImages/InGame/GenericRewardBackground",
-      910,
+      1084,
       3,
       0,
       "",
       "",
       "Art/2DArt/UIImages/InGame/HeistStashDisplay",
       "Audio/Sound Effects/UI/Atlas/Citadel.ogg",
-      2299
+      2370
     ]
   ]
 }

@@ -1172,7 +1172,7 @@
     ],
     [
       "PassiveTreeErrorPassiveDoesNotExist",
-      "Kann Datei nicht lesen.\nDie Build-Datei basiert möglicherweise auf einer älteren Version des Fertigkeitenbaumes oder enthält fehlerhafte Daten.",
+      "Kann Datei nicht lesen.\nDie Build-Datei basiert möglicherweise auf einer älteren Version des Fertigkeitenbaums oder enthält fehlerhafte Daten.",
       "",
       -889520967,
       ""
@@ -2831,7 +2831,7 @@
     ],
     [
       "OptionsShowAllyNamesOnMapLabel",
-      "<size:28>{Verbündeten-Namen auf Karte anzeigen}",
+      "<size:27>{Verbündeten-Namen auf Karte anzeigen}",
       "",
       406459778,
       ""
@@ -3055,7 +3055,7 @@
     ],
     [
       "OptionsDialogueInChatPopup",
-      "Neben der Sprachausgabe zusätzliche Dialogausgabe im Chat.",
+      "Gibt zusätzlich zur Sprachausgabe von Charakteren und NSCs auch Dialoge im Chat aus.",
       "",
       1213515967,
       ""
@@ -6561,6 +6561,27 @@
       ""
     ],
     [
+      "ItemDescriptionMavenAlteration",
+      "Rechtsklicke auf diesen Gegenstand und linksklicke dann auf den Kartenapparat in deinem Versteck, um das Leuchtfeuer der Seherin anzubringen.",
+      "Benutze diesen Gegenstand mit dem Kartenapparat in deinem Versteck, um das Leuchtfeuer der Seherin anzubringen.",
+      1872848573,
+      ""
+    ],
+    [
+      "ItemFunctionMavenMap",
+      "Kann in einem persönlichen Kartenapparat benutzt werden.",
+      "",
+      295668964,
+      ""
+    ],
+    [
+      "ItemFunctionMavenMapCraftable",
+      "Kann in einem persönlichen Kartenapparat verwendet werden. Modifikatoren der Gegenstandsmenge wirken sich auf die Anzahl der fallengelassenen Belohnungen aus.",
+      "",
+      -867359568,
+      ""
+    ],
+    [
       "ItemFunctionBanditRespecAlira",
       "Erlangt Aliras Gunst.",
       "",
@@ -6614,6 +6635,13 @@
       "Gewährt einen passiven Fertigkeitspunkt und zwei passive Korrekturpunkte.",
       "",
       1883333709,
+      ""
+    ],
+    [
+      "ItemFunctionMavenAlteration",
+      "Hiermit lässt sich die Seherin zu einer Karte aus deinem Kartenapparat herbeirufen.",
+      "",
+      1854274428,
       ""
     ],
     [
@@ -8689,10 +8717,10 @@
       ""
     ],
     [
-      "ItemErrorNoTargetChest",
-      "Zieltruhe nicht gefunden.",
+      "ItemErrorNoTargetFound",
+      "Zielobjekt nicht gefunden.",
       "",
-      -374208601,
+      -1883872711,
       ""
     ],
     [
@@ -8714,6 +8742,13 @@
       "Ziel ist bereits identifiziert.",
       "",
       563966131,
+      ""
+    ],
+    [
+      "ItemErrorTargetNotMapDevice",
+      "Ziel ist nicht dein Kartenapparat.",
+      "",
+      1335405894,
       ""
     ],
     [
@@ -10733,6 +10768,13 @@
       ""
     ],
     [
+      "MissionTrackStrDexIntFailedBlight",
+      "Mission fehlgeschlagen. Ihr habt den Befall nicht aufgehalten.",
+      "",
+      -128708828,
+      ""
+    ],
+    [
       "MissionTrackStrDexIntComplete",
       "Mission abgeschlossen.",
       "",
@@ -10887,6 +10929,34 @@
       ""
     ],
     [
+      "MissionTrackStrDexIntCompleteHarvest",
+      "Schließt die Ernte ab.",
+      "",
+      1360686376,
+      ""
+    ],
+    [
+      "MissionTrackStrDexIntCompleteBlight1",
+      "Schließt die Blight-Begegnung ab.",
+      "",
+      -472106124,
+      ""
+    ],
+    [
+      "MissionTrackStrDexIntCompleteBlightN",
+      "Schließt die Blight-Begegnungen ab. ({0}/{1})",
+      "",
+      73086834,
+      ""
+    ],
+    [
+      "MissionTrackStrDexIntCompleteBlightedMap",
+      "Schließt die Blight-Begegnung ab.",
+      "",
+      942573496,
+      ""
+    ],
+    [
       "MissionTrackStrDexIntExiles",
       "Tötet die abtrünnigen Verbannten.",
       "",
@@ -10992,6 +11062,20 @@
       ""
     ],
     [
+      "MissionTrackStrDexIntPrepMetamorph",
+      "Sammelt Monsterproben für Tane\nErschafft den Metamorph und vernichtet ihn.",
+      "",
+      -1128887465,
+      ""
+    ],
+    [
+      "MissionTrackStrDexIntSlayMetamorph",
+      "Vernichtet den Metamorph.",
+      "",
+      1697176817,
+      ""
+    ],
+    [
       "MissionTrackStrDexIntUniqueStrongbox",
       "Öffnet den einzigartigen Tresor.",
       "",
@@ -11017,6 +11101,13 @@
       "Öffnet die Risse. ({0}/{1})",
       "",
       -370130764,
+      ""
+    ],
+    [
+      "MissionTrackStrDexIntDelirium",
+      "Öffnet den Spiegel des Deliriums.",
+      "",
+      1055064308,
       ""
     ],
     [
@@ -11931,7 +12022,7 @@
     ],
     [
       "ItemDescriptionHeistItem",
-      "Kann nur von Mitgliedern eines Raubüerfalls ausgerüstet werden.",
+      "Kann nur von Mitgliedern eines Raubüberfalls ausgerüstet werden.",
       "",
       1798313282,
       ""
@@ -12184,7 +12275,7 @@
     [
       "DivinationWindowTradeButton",
       "<size:25>{Eintauschen}",
-      "<<xbox_button_a>> Eintauschen",
+      "",
       -1840757987,
       ""
     ],
@@ -13198,7 +13289,7 @@
     ],
     [
       "MapModMultipleProjectiles",
-      "Auf dem Schlachtfeld ist nichts angsteinflößender, als ein Hagel Pfeile.",
+      "Auf dem Schlachtfeld ist nichts angsteinflößender als ein Hagel Pfeile.",
       "",
       -1219543426,
       ""
@@ -13939,6 +14030,13 @@
       ""
     ],
     [
+      "MavenPortalsDisabled",
+      "Die Macht der Seherin verhindert die Nutzung von Portalen.",
+      "",
+      966005961,
+      ""
+    ],
+    [
       "OptionsLanguageChangeNoRestart",
       "Du musst Path of Exile neu starten, damit deine Sprachauswahl angewendet wird.",
       "",
@@ -13947,7 +14045,7 @@
     ],
     [
       "ChallengesInformation",
-      "Du erhältst eine Harvest-Mikrotransaktion für je 12 abgeschlossene Herausforderungen.",
+      "Du erhältst eine Ritual-Mikrotransaktion für je 12 abgeschlossene Herausforderungen.",
       "",
       1156891019,
       ""
@@ -14122,7 +14220,7 @@
     ],
     [
       "ReminderTextTailwind",
-      "(Rückenwind erhöht Eure Aktionsgeschwindigkeit um 10%)",
+      "(Rückenwind erhöht die Aktionsgeschwindigkeit um 8%)",
       "",
       623969398,
       ""
@@ -14983,28 +15081,28 @@
     ],
     [
       "ProphecyQuestTrackerShadowQueen2",
-      "Ihr werdet den Foliant der Flüsterin finden und vernichten.",
+      "Ihr werdet den Folianten der Flüsterin finden und vernichten.",
       "",
       -1878300537,
       ""
     ],
     [
       "ProphecyQuestTrackerShadowQueen3",
-      "Ihr werdet Shavronne vernichten und den Foliant, den sie fallen lässt.",
+      "Ihr werdet Shavronne vernichten und den Folianten, den sie fallen lässt.",
       "",
       -1608829233,
       ""
     ],
     [
       "ProphecyQuestTrackerShadowQueen4",
-      "Ihr werdet den Foliant der Flüsterin vernichten.",
+      "Ihr werdet den Folianten der Flüsterin vernichten.",
       "",
       -1091199830,
       ""
     ],
     [
       "ProphecyQuestTrackerShadowQueen5",
-      "Ihr werdet den tödlichen Foliant der Flüsterin vernichten.",
+      "Ihr werdet den tödlichen Folianten der Flüsterin vernichten.",
       "",
       823928062,
       ""
@@ -15123,7 +15221,7 @@
     ],
     [
       "ProphecyQuestTrackerAncientRivalries3",
-      "Ihr werdet Kaom vernichten, während Ihr einen von Lioneyes Gegenständen verwendet.",
+      "Ihr werdet Kaom vernichten, während Ihr einen von Löwenauges Gegenständen verwendet.",
       "",
       -1118800383,
       ""
@@ -15963,7 +16061,7 @@
     ],
     [
       "ProphecyDestroyTome",
-      "Ihr werdet den flüsternden Foliant vernichten.",
+      "Ihr werdet den flüsternden Folianten vernichten.",
       "",
       -1623469460,
       ""
@@ -17552,7 +17650,7 @@
     ],
     [
       "ReminderTextFarShot",
-      "(Projektilangriffe nehmen über Entfernung an Schaden zu und verursachen bei Zielen bis zu 30 % erhöhten Angriffsschaden mit Treffern)",
+      "(Projektilangriffstreffer verursachen am Anfang ihrer Bewegung 20% weniger Schaden an Zielen und bis zu 60% mehr Schaden, je weiter sich das Projektil entfernt)",
       "",
       -35193492,
       ""
@@ -18399,7 +18497,7 @@
     ],
     [
       "ReminderTextCoveredInAshVariableDamgaeTaken",
-      "(Mit Asche bedeckt zu sein wendet 20% weniger Bewegungsgeschwindigkeit an und  erhöht den erlittenen Feuerschaden für 4 Sekunden)",
+      "(Mit Asche bedeckt zu sein wendet 20% weniger Bewegungsgeschwindigkeit an und erhöht den erlittenen Feuerschaden für 4 Sekunden)",
       "",
       -384177283,
       ""
@@ -22298,7 +22396,7 @@
     ],
     [
       "TutorialPanelRarityTiersContent3",
-      "\r\n\r\nManchmal findest du etwas von 'einzigartiger' Seltenheit. Einzigartig Gegenstände verfügen stets über die selben Mods, die jedoch stark von magischen oder seltenen Gegenständen abweichen können.\r\n\r\nZum Beispiel verändert dieser einzigartige Stab die Funktionsweise deiner Projektile:",
+      "\r\n\r\nManchmal findest du etwas von 'einzigartiger' Seltenheit. Einzigartig Gegenstände verfügen stets über dieselben Mods, die jedoch stark von magischen oder seltenen Gegenständen abweichen können.\r\n\r\nZum Beispiel verändert dieser einzigartige Stab die Funktionsweise deiner Projektile:",
       "",
       1038986521,
       ""
@@ -23495,7 +23593,7 @@
     ],
     [
       "TutorialPanelGlossaryContent68",
-      "Eine Grupppe besteht aus zwei oder mehr Spielern, die sich zusammengeschlossen haben. Alle Spieler einer Gruppe erhalten Erfahrungspunkte durch getötete Monster, sofern sie nahe genug sind. Spieler können ebenfalls per Chat miteinander schreiben.",
+      "Eine Gruppe besteht aus zwei oder mehr Spielern, die sich zusammengeschlossen haben. Alle Spieler einer Gruppe erhalten Erfahrungspunkte durch getötete Monster, sofern sie nahe genug sind. Spieler können ebenfalls per Chat miteinander schreiben.",
       "",
       -1642653912,
       ""
@@ -24097,7 +24195,7 @@
     ],
     [
       "TutorialPanelStatsAndModsWhatsImportantCaption3",
-      "Nicht schlecht! Während deines Fortschritts wirst du in der Lage sein, einige Lücken mithilfe von Werkbänken zu schließen, die du von den Vergessenen Meistern erhältst.",
+      "Nicht schlecht! Während deines Fortschritts wirst du in der Lage sein, einige Lücken mithilfe deiner Werkbank zu schließen, die du in deinem Versteck erhältst.",
       "",
       -1760340340,
       ""
@@ -24440,7 +24538,7 @@
     ],
     [
       "TutorialPanelPropheciesTitle1",
-      "         Prophezeiungen",
+      "          Prophezeiungen",
       "",
       -1491548796,
       ""
@@ -24902,7 +25000,7 @@
     ],
     [
       "TutorialPanelForsakenMastersContent5",
-      "Die Meister, die sich in deinem Versteck befinden, bieten dir jeden Tag eine neue Mission an. Tagesmissionen gleichen zwar den Missionen von Meistern, die dir zufällig begegnen, jedoch erhältst du für das Abschließen mehr Gunst und Ansehen. Sobald du die Tagesmission eines Meisters abgeschlossen hast, ändern sich außerdem die Gegenstände, die der Meister zum Verkauf anbietet.\r\n\r\nWenn du möchtest, dass deine Meister schnell eine neue Stufe erreichen, solltest Tagesmissionen so regelmäßig wie möglich abschließen.",
+      "Die Meister, die sich in deinem Versteck befinden, bieten dir jeden Tag eine neue Mission an. Tagesmissionen gleichen zwar den Missionen von Meistern, die dir zufällig begegnen, jedoch erhältst du für das Abschließen mehr Gunst und Ansehen. Sobald du die Tagesmission eines Meisters abgeschlossen hast, ändern sich außerdem die Gegenstände, die der Meister zum Verkauf anbietet.\r\n\r\nWenn du möchtest, dass deine Meister schnell eine neue Stufe erreichen, solltest du Tagesmissionen so regelmäßig wie möglich abschließen.",
       "",
       -1168873928,
       ""
@@ -25147,7 +25245,7 @@
     ],
     [
       "TutorialPanelDivinationCardsTitle",
-      "\r\n\t\t\t\t\r\n\t\t\t\tWeissagungskarten",
+      "\r\n\t\t\t\t\r\n\t\t\t\t     Weissagungskarten",
       "",
       670818270,
       ""
@@ -28038,7 +28136,7 @@
     ],
     [
       "TutorialPanelFlasksContent2",
-      "Fläschchen sind keine verbrauchbaren Gegenstände. Anders als Identifikationsrollen, verschwindet ein Fläschchen nicht, wenn du es benutzt. Stattdessen wird eine Anzahl an Fläschchenfüllungen verbraucht, die von der Art des Fläschchens abhängt. Sobald ein Fläschchen leer ist, kann es wiederbefüllt werden, um es wieder nutzen zu können. Es gibt normale, magische und einzigartige, doch keine seltene Fläschchen.\r\n\r\nGewöhnlich füllen sich Fläschchen wieder auf, indem du Monster tötest. Das bedeutet, dass du eigentlich immer über eine oder zwei reichlich gefüllte Fläschchen verfügst, wenn du dich fleißig im Kampf erprobst. Wenn du dich jedoch in einem Engpass befindest und deine Fläschchen leer sind, musst du entweder weiter vorsichtig Monster töten oder in die Stadt zurückkehren.\r\n\r\nFläschchen werden in jeder Stadt automatisch aufgefüllt, sodass es sich in brenzligen Situationen immer lohnt, ein Portal zu einer Stadt zu öffnen, um dort deine leeren Fläschchen aufzufüllen. Manche Fläschchen, wie zum Beispiel solche, die über den Präfix 'Des Chirurgen' verfügen, können auch unter anderen Bedingungen befüllt werden.",
+      "Fläschchen sind keine verbrauchbaren Gegenstände. Anders als Identifikationsrollen, verschwindet ein Fläschchen nicht, wenn du es benutzt. Stattdessen wird eine Anzahl an Fläschchenfüllungen verbraucht, die von der Art des Fläschchens abhängt. Sobald ein Fläschchen leer ist, kann es wiederbefüllt werden, um es wieder nutzen zu können. Es gibt normale, magische und einzigartige, doch keine seltenen Fläschchen.\r\n\r\nGewöhnlich füllen sich Fläschchen wieder auf, indem du Monster tötest. Das bedeutet, dass du eigentlich immer über eine oder zwei reichlich gefüllte Fläschchen verfügst, wenn du dich fleißig im Kampf erprobst. Wenn du dich jedoch in einem Engpass befindest und deine Fläschchen leer sind, musst du entweder weiter vorsichtig Monster töten oder in die Stadt zurückkehren.\r\n\r\nFläschchen werden in jeder Stadt automatisch aufgefüllt, sodass es sich in brenzligen Situationen immer lohnt, ein Portal zu einer Stadt zu öffnen, um dort deine leeren Fläschchen aufzufüllen. Manche Fläschchen, wie zum Beispiel solche, die über das Präfix 'Des Chirurgen' verfügen, können auch unter anderen Bedingungen befüllt werden.",
       "",
       -160952541,
       ""
@@ -30187,7 +30285,7 @@
     ],
     [
       "TencentLeagueInfoFrameDescription",
-      "Grow seeds into dangerous foes at Oshabi's Sacred Grove. Cultivate and reap monsters for powerful crafting benefits in the Harvest league.",
+      "Hire skilled thieves to help pull off risky Heists. Steal valuable artifacts with your trained crew as you plan towards a Grand Heist.",
       "",
       -1087608102,
       ""
@@ -30523,7 +30621,7 @@
     ],
     [
       "WarpToPlayerQuestError",
-      "Dir fehlt die erforderliche Quest, um dich zu diesem Spieler teleportieren zu können.",
+      "Dir fehlt die erforderliche Quest, um dich zu diesem Spieler zu teleportieren.",
       "",
       -1333507570,
       ""
@@ -31034,14 +31132,14 @@
     ],
     [
       "HideoutEditControlImport",
-      "Importieren",
+      "Import",
       "",
       133425402,
       ""
     ],
     [
       "HideoutEditControlExport",
-      "Exportieren",
+      "Export",
       "",
       149661134,
       ""
@@ -31062,14 +31160,14 @@
     ],
     [
       "HideoutEditControlEdit",
-      "Ändern",
+      "<size:28>{Ändern}",
       "",
       1775781567,
       ""
     ],
     [
       "HideoutEditControlReset",
-      "Standard benutzen",
+      "<size:28>{Standard benutzen}",
       "",
       -120143328,
       ""
@@ -31510,7 +31608,7 @@
     ],
     [
       "BetrayalChoiceActionSwapNPCJob",
-      "{1} wechselt zu '{2}'. {1} wechselt zu '{3}'.",
+      "{0} wechselt zu '{2}'. {1} wechselt zu '{3}'.",
       "",
       -1058413140,
       ""
@@ -31524,7 +31622,7 @@
     ],
     [
       "BetrayalChoiceActionRemoveNPCForOrg",
-      "{1} wird aus dem unsterblichen Syndikat entfernt",
+      "{1} wird aus dem unsterblichen Syndikat entfernt.",
       "",
       714258903,
       ""
@@ -31552,7 +31650,7 @@
     ],
     [
       "BetrayalChoiceActionNPCLeavesOrg",
-      "{0} wird aus dem unsterblichen Syndikat entfernt",
+      "{0} wird aus dem unsterblichen Syndikat entfernt.",
       "",
       -600981014,
       ""
@@ -32735,7 +32833,7 @@
     ],
     [
       "SynthesisMapSearchInfo",
-      "Hebt Blöcke innerhalb der Karte und Ablage hervor, die den eingegebenen Schlüsselwörtern entsprechen. Die Modifikatoren dieser Blöcke werden ebenfalls durchsucht.\n\nTipps:\n<default>{– Du kannst mehrere Schlüsselwörter eingeben, indem du sie mit einem Leerzeichen trennst.\n– Suche nach einer Blockstufe, indem du \"lvl:X\" eingibst.\n–  Du kannst <b>{STRG + F} als Shortcut verwenden.}",
+      "Hebt Blöcke innerhalb der Karte und Ablage hervor, die den eingegebenen Schlüsselwörtern entsprechen. Die Modifikatoren dieser Blöcke werden ebenfalls durchsucht.\n\nTipps:\n<default>{– Du kannst mehrere Schlüsselwörter eingeben, indem du sie mit einem Leerzeichen trennst.\n– Suche nach einer Blockstufe, indem du \"lvl:X\" eingibst.\n– Du kannst <b>{STRG + F} als Shortcut verwenden.}",
       "",
       -1150466249,
       ""
@@ -33140,10 +33238,59 @@
       ""
     ],
     [
+      "MapDeviceWarningQuestStateInvalid",
+      "Dir fehlt die erforderliche Quest, um dieses Gebiet zu betreten.",
+      "",
+      1233540811,
+      ""
+    ],
+    [
+      "MapDeviceWarningNotEnoughCollectedMapsForMaven",
+      "Die Seherin hat nicht genug Begegnungen mit Kartenbossen aus {0} bezeugt. {1}",
+      "",
+      -1769110154,
+      ""
+    ],
+    [
       "AltasNodePopupAreaContainsText",
       "Gebiet enthält {0}",
       "",
       -55886965,
+      ""
+    ],
+    [
+      "AddMavenErrorMapAlreadyCollected",
+      "Die Seherin hat die Begegnung mit diesem Kartenboss bereits bezeugt.",
+      "",
+      -1771648578,
+      ""
+    ],
+    [
+      "AddMavenErrorInvalidArea",
+      "Die Seherin hat kein Interesse an diesem Gebiet.",
+      "",
+      1213445134,
+      ""
+    ],
+    [
+      "AddMavenErrorInvalidUniqueMap",
+      "Die Seherin kann nicht zu dieser einzigartigen Karte herbeigerufen werden.",
+      "",
+      1912983059,
+      ""
+    ],
+    [
+      "AddMavenErrorInvalidQuestState",
+      "Die Seherin hat kein Interesse an dieser Region.",
+      "",
+      870222046,
+      ""
+    ],
+    [
+      "AddMavenErrorMapTooLowLevel",
+      "Der Level dieser Karte ist zu niedrig, um das Interesse der Seherin zu wecken.",
+      "",
+      1685682043,
       ""
     ],
     [
@@ -35073,7 +35220,7 @@
     ],
     [
       "GraphicsOptionsFramerateCap",
-      "Vordergrund-Bildratenbegrenzung",
+      "Vordergrund-Bildratenbegr.",
       "",
       -40899553,
       ""
@@ -35311,7 +35458,7 @@
     ],
     [
       "AtlasCentrepieceHover",
-      "<white>{{Erweckungsstufe: {0}}}\n\n<white>{{Die Erweckungsstufe wird erhöht, indem je vier Wächtersteine in einer beliebigen Zitadelle im Atlas eingefasst werden.}}\n<white>{{Erweckungsstufen gewähren Boni, die sich auf alle Karten auf dem Atlas auswirken.}}\n\n<default>{{Einzigartige Kartenbosse haben {1}% erhöhtes Leben}}\n<default>{{+{2}% Chance, dass einzigartige Kartenbosse eine zusätzliche verbundene Karte fallen lassen}}\n<default>{{+{3}% Chance, dass einzigartige Kartenbosse eine Wächterkarte des Schöpfers fallen lassen (Level 14+)}}\n<default>{{+{4}% Chance, dass einzigartige Kartenbosse eine Wächterkarte des Ältesten fallen lassen (Level 14+)}}\n<default>{{+{5}% Chance, dass einzigartige Kartenbosse einen zusätzlichen Atlas-Basistypen fallen lassen}}\n<default>{{+{6}% Chance, dass einzigartige Kartenbosse einen zusätzlichen einzigartigen Gegenstand fallen lassen}}\n<default>{{+{7}% Chance, dass einzigartige Kartenbosse zusätzliche Kartenwährungsgegenstände fallen lassen}}\n<default>{{Erhöhte Chance pro Erweckungsstufe, dass die Eroberer des Atlas zusätzliche Belohnungen fallen lassen}}\n<default>{{{8}% erhöhte Chance, dass beeinflusste Gegenstände in Karten fallen gelassen werden, die von den Eroberern des Atlas beeinflusst sind}}",
+      "<white>{{Erweckungsstufe: {0}}}\n\n<white>{{Die Erweckungsstufe erhöht sich für jede vier eingefassten Wächtersteine im Atlas.}}\n<white>{{Erweckungsstufen gewähren Boni, die sich auf alle Karten auf dem Atlas und auf die Prüfung der Seherin auswirken.}}\n\n<default>{{Einzigartiger Kartenboss hat {1}% erhöhtes Leben}}\n<default>{{+{2}% Chance, dass einzigartiger Kartenboss eine zusätzliche verbundene Karte fallen lässt}}\n<default>{{+{3}% Chance, dass einzigartiger Kartenboss eine Wächterkarte des Schöpfers fallen lässt (Level 14+)}}\n<default>{{+{4}% Chance, dass einzigartiger Kartenboss eine Wächterkarte des Ältesten fallen lässt (Level 14+)}}\n<default>{{+{5}% Chance, dass einzigartiger Kartenboss einen zusätzlichen Atlas-Basistypen fallen lässt }}\n<default>{{+{6}% Chance, dass einzigartiger Kartenboss einen zusätzlichen einzigartigen Gegenstand fallen lässt}}\n<default>{{+{7}% Chance, dass einzigartiger Kartenboss zusätzliche Kartenwährungsgegenstände fallen lässt}}\n<default>{{Erhöhte Chance pro Erweckungsstufe, dass die Eroberer des Atlas zusätzliche Belohnungen fallen lassen}}\n<default>{{{8}% erhöhte Chance, dass beeinflusste Gegenstände in Karten fallengelassen werden, die von den Eroberern des Atlas beeinflusst sind}}",
       "",
       241238803,
       ""
@@ -35472,7 +35619,7 @@
     ],
     [
       "WatchstoneDescriptionText",
-      "Fasse diesen Wächterstein in eine Zitadelle auf dem Atlas ein, um die Level der Karten in dieser Region zu erhöhen und um versteckte Karten aufzudecken. Es kann nur ein Wächterstein jedes Typs in jede Zitadelle eingefasst werden.",
+      "Fasse diesen Wächterstein in eine Zitadelle auf dem Atlas ein, um die Level der Karten in dieser Region zu erhöhen und um versteckte Karten aufzudecken. Es kann nur ein blutroter, viridiangrüner, kobaltblauer oder goldener Wächterstein in jede Zitadelle eingefasst werden.",
       "",
       1364401820,
       ""
@@ -35486,7 +35633,7 @@
     ],
     [
       "GraphicsOptionsBackgroundFramerateCap",
-      "Hintergrund-Bildratenbegrenzung",
+      "Hintergrund-Bildratenbegr.",
       "",
       -1657216798,
       ""
@@ -35598,7 +35745,7 @@
     ],
     [
       "CitadelAdjudicatorPopupInfo",
-      "Vom Kriegsherrn besetzt",
+      "Vom Kriegsfürst besetzt",
       "",
       1519217591,
       ""
@@ -35661,7 +35808,7 @@
     ],
     [
       "ExileNameAdjudicator",
-      "Kriegsherr",
+      "Kriegsfürst",
       "",
       1317544003,
       ""
@@ -35858,14 +36005,14 @@
     [
       "RegionProgressStageMiddlePopupInfo",
       "Gebiet enthält 30 zusätzliche {0}-Monstergruppen",
-      "Enthält enthält 30 zusätzliche {0}-Monstergruppen",
+      "Enthält 30 zusätzliche {0}-Monstergruppen",
       -515961068,
       ""
     ],
     [
       "RegionProgressStageLastPopupInfo",
       "Gebiet enthält 40 zusätzliche {0}-Monstergruppen",
-      "Enthält enthält 40 zusätzliche {0}-Monstergruppen",
+      "Enthält 40 zusätzliche {0}-Monstergruppen",
       -2059650242,
       ""
     ],
@@ -36417,7 +36564,7 @@
     ],
     [
       "HarvestCraftingUIInfo",
-      "Wähle die Modifikation aus, die du anwenden möchtest, und platziere dann den entsprechenden Gegenstand im Fenster. Modifikationen verbrauchen rohe Lebenskraft. Verbleibende Lebenskraft kann gespeichert und für das Kultivieren anderer Samen genutzt werden. Lebenskraft, die kondensiert wurde, kann nicht erneut für das Anfertigen verwendet werden. Alle Anfertigungsoptionen und rohe Lebenskraft gehen verloren, wenn der Heilige Hain von einem anderen Gebiet aus betreten wird.",
+      "Wähle die Modifikation aus, die du anwenden möchtest, und platziere dann den entsprechenden Gegenstand im Fenster. Alle Anfertigungsoptionen gehen verloren, wenn der Heilige Hain von einem anderen Gebiet aus betreten wird.",
       "",
       1000398599,
       ""
@@ -37012,7 +37159,7 @@
     ],
     [
       "ItemDescriptionPlantBoosterPlaced",
-      "[DNT] Control-click to return this Plant Booster to your inventory.",
+      "[UNUSED] Control-click to return this Plant Booster to your inventory.",
       "",
       874381046,
       ""
@@ -37446,7 +37593,7 @@
     ],
     [
       "HarvestCraftingToSiloPopup",
-      "Schickt eine Anfertigungsoption zum Speichern an eine verbundene Garten-Anfertigungsstation.",
+      "Schickt eine Anfertigungsoption zum Speichern an die Anfertigungsstation.",
       "Anfertigungsoption speichern",
       -1939641360,
       ""
@@ -37477,6 +37624,13 @@
       "Schalte zwischen deinem Hauptinventar und deiner Truhe um.\nTruhengegenstände können nur zum Anfertigen ausgewählt und von hier aus nicht in dein Inventar verschoben werden.",
       "",
       -1147455374,
+      ""
+    ],
+    [
+      "HarvestCraftingInventoryTogglePopupHideout",
+      "Schalte zwischen deinem Hauptinventar und deiner Truhe um.\nTruhengegenstände können zum Anfertigen ausgewählt werden.",
+      "",
+      466180397,
       ""
     ],
     [
@@ -37628,7 +37782,7 @@
     ],
     [
       "ReminderTextKeystoneTheImpaler",
-      "(Wenn Eure Treffer Gegner aufspießen, werden auch andere Gegner im Umkreis aufgespießt. Verursacht bei von Euch aufgespießten Gegnern 4 zusätzliche Aufspießungen. Gegner können 4 Sekunden lang nicht aufgespießt werden, nachdem sie von Euch aufgespießt wurden)",
+      "(Wenn Eure Treffer Gegner aufspießen, werden auch andere Gegner im Umkreis aufgespießt. Verursacht bei von Euch aufgespießten Gegnern 4 zusätzliche Aufspießungen. Gegner können 4 Sekunden lang nicht aufgespießt werden, nachdem sie von Euch aufgespießt wurden, und Ruf des Stahls kann keine Aufspießungen von ihnen entfernen)",
       "",
       -558981857,
       ""
@@ -37705,7 +37859,7 @@
     ],
     [
       "HarvestCraftingToSiloConfirmation",
-      "{0} Lebenskraft verbrauchen, um diese Anfertigungsoption an eine verbundene Garten-Anfertigungsstation zu senden?",
+      "Diese Anfertigungsoption an die Anfertigungsstation senden?",
       "",
       -1058249048,
       ""
@@ -37818,7 +37972,7 @@
     [
       "HarvestInventoryButtonDisabledPopup",
       "Schaltet zwischen deinem Hauptinventar und der Truhe um.\n<red>{Deaktiviert, während der Cursor oder das Fenster zum Anfertigen nicht leer sind.}",
-      "",
+      "<red>{Cursor und das Fenster zum Anfertigen müssen leer sein}",
       -1133560941,
       ""
     ],
@@ -38027,7 +38181,7 @@
     ],
     [
       "LeagueHardcoreHeist",
-      "Engagiert eine Crew von Dieben, führt mit ihnen riskante Raubüberfälle durch und stehlt wertvolle Belohnungen.\n\n<colour:red>{Ein in der Abgrund-Liga getöteter Hardcore-Charakter wird zu einem Standard-Charakter.}",
+      "Engagiert eine Crew von Dieben, führt mit ihnen riskante Raubüberfälle durch und stehlt wertvolle Belohnungen.\n\n<colour:red>{Ein in der Heist-Liga getöteter Hardcore-Charakter wird zu einem Standard-Charakter.}",
       "",
       873056333,
       ""
@@ -38915,13 +39069,6 @@
       ""
     ],
     [
-      "HeistSkillInteractText",
-      "{0} beginnen",
-      "",
-      -1001524034,
-      ""
-    ],
-    [
       "HeistHubWaypoint",
       "Der Gondoliere",
       "",
@@ -39476,7 +39623,7 @@
     ],
     [
       "HeistLeaveAreaConfirmation",
-      "Bist du sicher, dass du den Raubüberfall verlassen und zum Hafen der Abtrünnigen zurückkehren möchstest?",
+      "Bist du sicher, dass du den Raubüberfall verlassen und zum Hafen der Abtrünnigen zurückkehren möchtest?",
       "",
       -846151837,
       ""
@@ -39486,6 +39633,20 @@
       "(Max. Stufe)",
       "",
       -1454173346,
+      ""
+    ],
+    [
+      "HeistBlueprintWindowLegendTitle",
+      "Legende",
+      "",
+      548456986,
+      ""
+    ],
+    [
+      "HeistBlueprintWindowToggleLegend",
+      "Legende umschalten",
+      "",
+      -1197080731,
       ""
     ],
     [
@@ -39504,23 +39665,23 @@
     ],
     [
       "ItemDisplayHeistAlertLevelReduction",
-      "Reduktion der Alarmstufe",
+      "Reduzierung der Alarmstufe",
       "",
       -1812162573,
       ""
     ],
     [
       "ItemDisplayHeistLockdownTimeIncrease",
-      "Zeit bis zur Abriegelung",
+      "Zeit vor der Abriegelung",
       "",
       1719493589,
       ""
     ],
     [
-      "HeistCharacterSkillLevelModifiedByEquipment",
-      "{0} von der Ausrüstung",
+      "HeistStoragePanelSearchInfo",
+      "Hebt Gegenstände hervor, die mit den eingegebenen Schlüsselwörtern übereinstimmen.\n\nTipps:\n<default>{– Du kannst mehrere Schlüsselwörter eingeben, indem du sie mit einem Leerzeichen trennst.\n– Begriffe, die ein Leerzeichen enthalten, kannst du in Anführungszeichen setzen, damit sie wie ein Schlüsselwort behandelt werden. Bsp.: \"verringerte Alarmstufe\" oder \"erfordert Wahrnehmung\" \n– Suche nach einer Gegenstandsstufe, indem du \"ilvl:X\" eingibst.\n– Du kannst <b>{STRG + F} als Shortcut verwenden.}",
       "",
-      485678059,
+      855817334,
       ""
     ],
     [
@@ -39528,6 +39689,48 @@
       "Nicht kategorisiert",
       "",
       1579450915,
+      ""
+    ],
+    [
+      "DescriptionLabelFixedValueStat",
+      "<italic>{<rgb(170,170,170)>{ — Nicht skalierbarer Wert}}",
+      "",
+      1779730505,
+      ""
+    ],
+    [
+      "PassiveTreeCannotModifyWhileDead",
+      "Du kannst deine passiven Fertigkeiten nicht ändern, solange dein Charakter tot ist.",
+      "",
+      403750993,
+      ""
+    ],
+    [
+      "RitualStoneMonsterCount",
+      "Monster",
+      "",
+      -1465615632,
+      ""
+    ],
+    [
+      "RitualStoneVarieties",
+      "Monster:\n{0}",
+      "",
+      1991013785,
+      ""
+    ],
+    [
+      "RitualStoneNumOtherMonsters",
+      "{0} weitere Monster",
+      "",
+      -1714643609,
+      ""
+    ],
+    [
+      "RitualStoneLevel",
+      "Monsterstufe",
+      "",
+      220235298,
       ""
     ],
     [
@@ -39542,6 +39745,13 @@
       "Ordner löschen",
       "",
       -159684347,
+      ""
+    ],
+    [
+      "HeistCharacterSkillLevelModifiedByEquipment",
+      "{0} von der Ausrüstung",
+      "",
+      485678059,
       ""
     ],
     [
@@ -39573,6 +39783,377 @@
       ""
     ],
     [
+      "ItemErrorQuestState",
+      "Dir fehlt die erforderliche Quest, um diesen Gegenstand zu benutzen.",
+      "",
+      1734860859,
+      ""
+    ],
+    [
+      "ItemFilterRuleBaseType",
+      "Basistypen",
+      "",
+      -1458395552,
+      ""
+    ],
+    [
+      "ItemFilterRuleCJESPN",
+      "Cluster-Juwelen-Verzauberungen (kleine Passive)",
+      "",
+      -1069257219,
+      ""
+    ],
+    [
+      "ItemFilterRuleGemQualityType",
+      "Gemmenqualitätstypen",
+      "",
+      260938080,
+      ""
+    ],
+    [
+      "ItemFilterRuleMods",
+      "Mods",
+      "",
+      -862866519,
+      ""
+    ],
+    [
+      "ItemFilterRuleProphecies",
+      "Prophezeiungen",
+      "",
+      -674953992,
+      ""
+    ],
+    [
+      "ItemFilterErrorCannotOpenFile",
+      "Fehler beim Öffnen der Filterdatei: \"{0}\"",
+      "",
+      2059299633,
+      ""
+    ],
+    [
+      "ItemFilterErrorDownloadError",
+      "Fehler beim Download des Gegenstandsfilters.",
+      "",
+      1253260571,
+      ""
+    ],
+    [
+      "ItemFilterErrorJSONError",
+      "JSON-Parsing-Fehler",
+      "",
+      1801868329,
+      ""
+    ],
+    [
+      "ItemFilterErrorCreateBackupFile",
+      "Fehler beim Erzeugen der Filterdatei {0}.bak",
+      "",
+      632219470,
+      ""
+    ],
+    [
+      "ItemFilterErrorCreateTempFile",
+      "Fehler beim Erzeugen der Filterdatei {0}.tmp",
+      "",
+      644948399,
+      ""
+    ],
+    [
+      "ItemFilterErrorDeleteTempFile",
+      "Fehler beim Löschen der Filterdatei {0}.tmp",
+      "",
+      1721279864,
+      ""
+    ],
+    [
+      "ItemFilterErrorLine",
+      "Zeile {0}: {1}",
+      "",
+      1685743633,
+      ""
+    ],
+    [
+      "ItemFilterErrorMissingParameter",
+      "Erwarteter Parameter für Regel {0}",
+      "",
+      364040542,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidParameter",
+      "Parsing-Fehler des Parameters für Regel {0}: {1}",
+      "",
+      -1683601601,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidRule",
+      "Unbekannter Regeltyp {0}",
+      "",
+      840176699,
+      ""
+    ],
+    [
+      "ItemFilterErrorTooManyArguments",
+      "Zu viele Parameter",
+      "",
+      -958533439,
+      ""
+    ],
+    [
+      "ItemFilterErrorNegativeNumber",
+      "Integer \"{0}\" darf nicht negativ sein",
+      "",
+      903523824,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidNumber",
+      "Integer \"{0}\" nicht erkannt",
+      "",
+      -264591595,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidBoolean",
+      "Boolean \"{0}\" nicht erkannt",
+      "",
+      -95479572,
+      ""
+    ],
+    [
+      "ItemFilterErrorNoStringMatch",
+      "Keine {0} gefunden, die mit \"{1}\" übereinstimmen",
+      "",
+      849910734,
+      ""
+    ],
+    [
+      "ItemFilterErrorNoStringMatchExact",
+      "Keine {0} gefunden, die mit \"{1}\" exakt übereinstimmen",
+      "",
+      -96105334,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidRarity",
+      "Keine Seltenheit stimmt mit \"{0}\" überein",
+      "",
+      1777028210,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidItemClass",
+      "Keine Gegenstandsklasse stimmt mit \"{0}\" überein",
+      "",
+      -374456860,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidInfluence",
+      "Keine Einflusstypen stimmen mit \"{0}\" überein",
+      "",
+      -63850907,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidSockets",
+      "Ungültige Fassungsbezeichnung \"{0}. Gültige Buchstaben sind RGBWAD, gültige Zahlen sind 0-9",
+      "",
+      -1037787329,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidSoundNumber",
+      "Ungültige Sound-Zahl \"{0}\"",
+      "",
+      1976420515,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidSoundVolume",
+      "Ungültige Sound-Lautstärke \"{0}\", gültige Lautstärken sind zwischen {1} und {2}",
+      "",
+      -703145816,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidDropEffect",
+      "Ungültiger Effektname \"{0}\". Gültige Werte sind {{ {1} }}",
+      "",
+      1806994332,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidCustomAlerSound",
+      "Falsches Format: CustomAlertSound \"Dateipfad\" [volume]",
+      "",
+      -1943086820,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidSoundPath",
+      "Ungültiger Sound-Dateipfad \"{0}\"",
+      "",
+      -1457312148,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidMinimapIconData",
+      "Fehler beim Lesen der Minikarten-Icon-Daten",
+      "",
+      -263736446,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidMinimapIcon",
+      "Ungültiges Karten-Icon: \"{0} {1}\" ist ein ungültiges Icon.",
+      "",
+      -305641187,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidMinimapIconSize",
+      "Ungültige Größe: Bitte wähle zwischen {{ {0} }}. Standard: {1}",
+      "",
+      351673213,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidColourComponent",
+      "Fehler beim Lesen der Farbenkomponente",
+      "",
+      865496561,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidColourAlpha",
+      "Ungültiger Alpha-Wert \"{0}\" angegeben",
+      "",
+      -1130857854,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidFontSize",
+      "Fehler beim Lesen der Schriftgröße",
+      "",
+      1351409074,
+      ""
+    ],
+    [
+      "ItemFilterErrorRuleOutsideBlock",
+      "Regel außerhalb eines Regelsatz-Blocks gefunden",
+      "",
+      471547079,
+      ""
+    ],
+    [
+      "RitualRewardWindowTitle",
+      "Gaben",
+      "",
+      -1047919592,
+      ""
+    ],
+    [
+      "RitualRewardWindowPoints",
+      "{0} Tribut übrig",
+      "",
+      -243348613,
+      ""
+    ],
+    [
+      "RitualRewardWindowHelpPopup",
+      "Tötet Monster während eines Rituals, um Tribut zu erhalten. Tribut kann nach Abschluss des Rituals für Belohnungen eingetauscht werden.\nEinige Belohnungen werden erst nach dem Abschluss mehrerer Rituale aufgedeckt.\nRitual-Belohnungen wechseln pro Gebiet, sofern sie nicht aufbewahrt werden.",
+      "Tötet Monster während eines Rituals, um Tribut zu erhalten. Tribut kann nach Abschluss des Rituals für Belohnungen eingetauscht werden.\nEinige Belohnungen werden erst nach dem Abschluss mehrerer Rituale aufgedeckt.\nRitual-Belohnungen wechseln pro Gebiet, sofern sie nicht aufbewahrt werden.\nGegenstände mit einem <<ritual_suspended>> Icon wurden zuvor aufbewahrt und sind zum Teil bezahlt.",
+      925319988,
+      ""
+    ],
+    [
+      "RitualRewardWindowPrepayButton",
+      "Gegenstand aufbewahren",
+      "",
+      -1693884233,
+      ""
+    ],
+    [
+      "RitualRewardCurrencyName",
+      "Tribut",
+      "",
+      593432348,
+      ""
+    ],
+    [
+      "RitualObjectWorldDescriptionTitle",
+      "Ritual-Altar ({0})",
+      "",
+      502284760,
+      ""
+    ],
+    [
+      "RitualObjectWorldDescriptionBody",
+      "Interagiere hiermit, um mit dem Ritual zu beginnen",
+      "",
+      -473616467,
+      ""
+    ],
+    [
+      "RitualObjectWorldDescriptionRewardsBody",
+      "Interagiere hiermit, um die Gaben anzuzeigen",
+      "",
+      -1646456293,
+      ""
+    ],
+    [
+      "WarningChangingHideoutLosesPortals",
+      "Warnung: Der Wechsel deines Verstecks zerstört alle offenen Portale.",
+      "",
+      -64268714,
+      ""
+    ],
+    [
+      "LeagueStandardRitual",
+      "Entdeckt urzeitliche Altare und führt gefährliche Rituale durch, um wertvolle Belohnungen zu erbeuten.\n\n<colour:yellow>{Dies ist die laufende Liga in Path of Exile.}",
+      "",
+      -967808659,
+      ""
+    ],
+    [
+      "LeagueHardcoreRitual",
+      "Entdeckt urzeitliche Altare und führt gefährliche Rituale durch, um wertvolle Belohnungen zu erbeuten.\n\n<colour:red>{Ein in der Ritual-Liga getöteter Hardcore-Charakter wird zu einem Standard-Charakter.}",
+      "",
+      2030150804,
+      ""
+    ],
+    [
+      "LeagueStandardSSFRitual",
+      "Ritual Autark",
+      "",
+      1196121897,
+      ""
+    ],
+    [
+      "LeagueHardcoreSSFRitual",
+      "Ritual Autark HC",
+      "",
+      -1687185404,
+      ""
+    ],
+    [
+      "RitualRewardWindowPrepayButtonPopup",
+      "Entrichte 15% der ursprünglichen Kosten eines Gegenstands, um ihn aufzubewahren. Dieser Gegenstand wird mit einem Rabatt von 10% auf seine ursprünglichen Kosten in einem anderen Gebiet wiedererscheinen. Bei wertvolleren Gegenständen kann es länger dauern, bis sie wiedererscheinen.",
+      "",
+      -1224183722,
+      ""
+    ],
+    [
+      "RitualRewardWindowPrepaidItemPopup",
+      "Dieser Gegenstand wurde aufbewahrt und ist zum Teil bezahlt.",
+      "",
+      1054933146,
+      ""
+    ],
+    [
       "StashDeleteFolderButtonPopup",
       "Enthaltene Truhenfächer werden aus diesem Ordner entfernt",
       "",
@@ -39594,6 +40175,48 @@
       ""
     ],
     [
+      "RitualObjectWorldDescriptionRewardsTitle",
+      "Ritual-Belohnungen ({0})",
+      "",
+      2030529253,
+      ""
+    ],
+    [
+      "MavenBossRushObjectDescriptionTitle",
+      "Die Herausforderung der Seherin",
+      "",
+      157586887,
+      ""
+    ],
+    [
+      "MavenBossRushObjectDescriptionBody",
+      "Interagiere hiermit, um mit der Herausforderung zu beginnen",
+      "",
+      1957375823,
+      ""
+    ],
+    [
+      "MavenBossRushObjectDescriptionPassivesTitle",
+      "Das Geschenk der Seherin",
+      "",
+      -493163783,
+      ""
+    ],
+    [
+      "MavenBossRushObjectDescriptionPassivesBody",
+      "Interagiere hiermit, um passive Atlas-Punkte zuzuweisen",
+      "",
+      2023104665,
+      ""
+    ],
+    [
+      "AtlasPopupMapCollected",
+      "Die Seherin verfügt zurzeit über eine Neuschöpfung dieses Kartenbosses.",
+      "",
+      1517173982,
+      ""
+    ],
+    [
       "GraphicsOptionsDynamicResolutionFactor",
       "Auflösungsfaktor",
       "",
@@ -39608,6 +40231,111 @@
       ""
     ],
     [
+      "ReminderTextConvergence",
+      "(Konvergenz gewährt 30% mehr Elementarschaden und dauert 4 Sekunden an)",
+      "",
+      -110112724,
+      ""
+    ],
+    [
+      "HarvestHorticraftingStation",
+      "Anfertigungsstation",
+      "",
+      300768334,
+      ""
+    ],
+    [
+      "RitualRewardWindowRemainingEncounters",
+      "{0} Rituale übrig",
+      "",
+      -760824638,
+      ""
+    ],
+    [
+      "RitualRewardWindowRemainingEncounter",
+      "1 Ritual übrig",
+      "",
+      -581620698,
+      ""
+    ],
+    [
+      "GamepadLegendRitualSuspendItem",
+      "Gegenstand aufbewahren",
+      "",
+      1661103512,
+      ""
+    ],
+    [
+      "GamepadLegendRitualCancelPrepaySelection",
+      "Abbrechen",
+      "",
+      1448043609,
+      ""
+    ],
+    [
+      "GamepadLegendRitualConfirmPrepaySelection",
+      "Auswahl bestätigen",
+      "",
+      -495830768,
+      ""
+    ],
+    [
+      "GamepadLegendUseRitualFragment",
+      "",
+      "Ritualgefäß benutzen",
+      2046685588,
+      ""
+    ],
+    [
+      "ReminderTextGaleForce",
+      "(Jede Instanz von Sturmstärke dauert 4 Sekunden an. Maximum: 10 Sturmstärke)",
+      "",
+      -400489052,
+      ""
+    ],
+    [
+      "ReminderTextSacrificialZeal",
+      "(Aufopferungsbereitschaft gewährt zusätzlichen physischen Zauberschaden der 25% den Manakosten der Fertigkeit entspricht und lässt Euch physischen Schaden über Zeit erleiden, für 4 Sekunden)",
+      "",
+      -1996553147,
+      ""
+    ],
+    [
+      "ReminderTextFanaticism",
+      "(Fanatismus gewährt Zaubern, die Ihr selbst wirkt, 75% mehr Zaubergeschwindigkeit, 75% verringerte Manakosten und 75% vergrößerten Wirkungsbereich)",
+      "",
+      -2060325603,
+      ""
+    ],
+    [
+      "RitualRewardWindowRerollPopup",
+      "Würfeln, um neue Gaben zu erhalten.\nDies ist nur einmal pro Gebiet möglich.\nKosten: {0} Tribut",
+      "",
+      -1129636923,
+      ""
+    ],
+    [
+      "GamepadLegendAtlasRegionTree",
+      "",
+      "Region-Fertigkeitenbaum öffnen",
+      1439656462,
+      ""
+    ],
+    [
+      "RitualRewardWindowRerollConfirmationTitle",
+      "Gaben neu würfeln",
+      "",
+      -1823061932,
+      ""
+    ],
+    [
+      "RitualRewardWindowRerollConfirmationText",
+      "Bist du sicher, dass du die Gaben neu würfeln möchtest? Hierdurch werden alle derzeitigen Gaben ersetzt.\nKosten: {0} Tribut",
+      "",
+      -655453620,
+      ""
+    ],
+    [
       "EndlessDelveAscendancyEnabled",
       "Du kannst jetzt eine Aszendenzklasse wählen, indem du den Altar der Aszendenz im Minenlager benutzt.",
       "",
@@ -39616,16 +40344,275 @@
     ],
     [
       "EndlessDelveMoreAscendancyPoints",
-      "Du kannst jetzt zusätzliche Aszendenzpunkte zuweisen, indem du den Altar der Aszendenz im Minenlager benutzt.",
+      "Du kannst jetzt zwei zusätzliche Aszendenzpunkte erhalten, indem du den Altar der Aszendenz im Minenlager benutzt.",
       "",
       582274785,
       ""
     ],
     [
-      "StashOptionsOverrideAffinityTipText",
-      "Du kannst die Truhenfach-Zuweisung mit [Strg] + [Umschalt] + Linksklick umgehen.",
+      "GraphicsOptionsDoFLabel",
+      "Schärfentiefe",
       "",
+      -1831905225,
+      ""
+    ],
+    [
+      "GraphicsTabDoFPopup",
+      "Schärfentiefe<size:3>{\n}<size:29>{\r\nDiese Einstellung kontrolliert den Effekt der Schärfentiefe. Deaktiviere die Einstellung, um die Performance in manchen Situationen zu verbessern.}",
+      "",
+      -96013088,
+      ""
+    ],
+    [
+      "GraphicsOptionsDoFEnabled",
+      "Aktiviert",
+      "",
+      2137710707,
+      ""
+    ],
+    [
+      "GraphicsOptionsDoFDisabled",
+      "Deaktiviert (Standard)",
+      "",
+      -1117362787,
+      ""
+    ],
+    [
+      "ReminderTextRupture",
+      "(Ziele mit Fleischwunde erleiden für 3 Sekunden 25% mehr Schaden durch Bluten, und Bluten auf diesen Zielen läuft 25% schneller aus. Ein Ziel kann gleichzeitig bis zu 3 Fleischwunden haben)",
+      "",
+      816601661,
+      ""
+    ],
+    [
+      "ConsoleActionOpenOrganQuickSelect",
+      "",
+      "Schnellauswahl öffnen",
+      -1091845192,
+      ""
+    ],
+    [
+      "MarketSearchTalismans",
+      "Talismane",
+      "",
+      1414539890,
+      ""
+    ],
+    [
+      "MarketExtraTypeInfoFireAsCold",
+      "<fire>{Feuer- als Kälteschaden}",
+      "",
+      -394234010,
+      ""
+    ],
+    [
+      "MarketExtraTypeInfoFireAsLightning",
+      "<fire>{Feuer- als Blitzschaden}",
+      "",
+      -604917186,
+      ""
+    ],
+    [
+      "MarketExtraTypeInfoColdAsFire",
+      "<cold>{Kälte- als Feuerschaden}",
+      "",
+      -1579132513,
+      ""
+    ],
+    [
+      "MarketExtraTypeInfoColdAsLightning",
+      "<cold>{Kälte- als Blitzschaden}",
+      "",
+      764321560,
+      ""
+    ],
+    [
+      "MarketExtraTypeInfoLightningAsFire",
+      "<lightning>{Blitz- als Feuerschaden}",
+      "",
+      1817199778,
+      ""
+    ],
+    [
+      "MarketExtraTypeInfoLightningAsCold",
+      "<lightning>{Blitz- als Kälteschaden}",
+      "",
+      2032335341,
+      "B"
+    ],
+    [
+      "MarketExtraTypeInfoChargePower",
+      "Energie-Ladung",
+      "",
+      -674457239,
+      ""
+    ],
+    [
+      "MarketExtraTypeInfoChargeFrenzy",
+      "Raserei-Ladung",
+      "",
+      449393239,
+      ""
+    ],
+    [
+      "MarketExtraTypeInfoChargeEndurance",
+      "Widerstands-Ladung",
+      "",
+      -1590973156,
+      ""
+    ],
+    [
+      "NullAtlasRegionName",
+      "Die unergründeten Reiche",
+      "",
+      152238034,
+      ""
+    ],
+    [
+      "GamepadLegendToggleMavenMapDeviceOption",
+      "",
+      "Leuchtfeuer der Seherin umschalten",
+      -1777039069,
+      ""
+    ],
+    [
+      "StashOptionsOverrideAffinityTipText",
+      "Du kannst die Fach-Zuweisungen mit [Strg] + [Umschalt] + Linksklick umgehen.",
+      "Du kannst die Fach-Zuweisungen mit <<xbox_button_lstick>> + <<xbox_button_x>> umgehen.",
       845178960,
+      ""
+    ],
+    [
+      "TrinitySupportUIPopupText",
+      "Resonanz:\r\nTreffer mit Fertigkeiten, die durch 'Dreieinigkeit' unterstützt werden, bei dem der höchste Schadenstyp Elementarschaden ist, gewähren Euch Resonanz für die anderen Elemente\r\nVerliert 5 Resonanz pro Sekunde eines jeden Elements, das Ihr nicht erhaltet",
+      "",
+      1685101411,
+      ""
+    ],
+    [
+      "HarvestCraftingToSiloRemainingSlotCountText",
+      "{0} Speicherplatz übrig",
+      "",
+      598801849,
+      ""
+    ],
+    [
+      "HarvestCraftingToSiloRemainingSlotCountText1",
+      "1 Speicherplatz übrig",
+      "",
+      887465885,
+      ""
+    ],
+    [
+      "HarvestCraftingToSiloNoSlotsRemainingText",
+      "Anfertigungsstation voll",
+      "",
+      -617514705,
+      ""
+    ],
+    [
+      "RitualSuspendFailInsuffientPoints",
+      "Aufbewahren fehlgeschlagen: Nicht genug Tribut",
+      "",
+      -1190405238,
+      ""
+    ],
+    [
+      "RitualSuspendFailCostTooLow",
+      "Aufbewahren fehlgeschlagen: Gegenstand ist zu günstig, um ihn erneut aufzubewahren",
+      "",
+      324011400,
+      ""
+    ],
+    [
+      "ReminderTextResonance",
+      "(Maximal 50 Resonanz eines jeden Elements)",
+      "",
+      -813003549,
+      ""
+    ],
+    [
+      "RitualSuspendFailSuspendCapReached",
+      "Aufbewahren fehlgeschlagen: Du hast die maximale Anzahl an aufbewahrten Gegenständen erreicht",
+      "",
+      -1101304814,
+      ""
+    ],
+    [
+      "MavenAtlasProgressBarPopup",
+      "Die Mindestanzahl an Boss-Begegnungen, die in dieser Region absolviert werden müssen, während die Seherin anwesend ist, um ihre Einladung zu erhalten.",
+      "",
+      1846097875,
+      ""
+    ],
+    [
+      "ReminderTextScorchNonHitNoDuration",
+      "(Versengte Gegner haben -10% zu Elementarwiderständen)",
+      "",
+      -140290215,
+      ""
+    ],
+    [
+      "AddMavenErrorRegionTooLowLevel",
+      "Diese Region erfordert mehr Wächtersteine, um das Interesse der Seherin zu wecken.",
+      "",
+      -1380703710,
+      ""
+    ],
+    [
+      "GamepadToggleQuestGroupsExpansion",
+      "",
+      "Quest-Gruppen zuklappen",
+      1160203919,
+      ""
+    ],
+    [
+      "ReminderTextAll3Exposures",
+      "(Jede Anfälligkeit wendet für 4 Sekunden -10% auf den jeweiligen Widerstand an)",
+      "",
+      1136728958,
+      ""
+    ],
+    [
+      "MapDeviceWindowMavenOptionPopup",
+      "Ruft die Seherin, um diese Boss-Begegnung dieser Karte zu bezeugen und zu beeinflussen. Durch das Vernichten des Bosses kann die Seherin den Kampf in ihrem eigenen Reich replizieren.",
+      "",
+      -1104799411,
+      ""
+    ],
+    [
+      "ReminderTextTwo100PercentConversions",
+      "(Wenn beide Umwandlungen zutreffen, werden von beiden 50% umgewandelt)",
+      "",
+      2000692576,
+      ""
+    ],
+    [
+      "ReminderTextCrazyMinions",
+      "(Kreaturen, die das Flüstern hören, ignorieren Euch, erleiden 20% ihres maximalen Lebens als Chaosschaden pro Sekunde und verfügen über 50% erhöhte Angriffsgeschwindigkeit und Schaden)",
+      "",
+      1207418312,
+      ""
+    ],
+    [
+      "QuestTrackerDisplayPageXofX",
+      "Seite {0}/{1}",
+      "",
+      764292422,
+      ""
+    ],
+    [
+      "GamepadCycleQuestTrackerPages",
+      "Seiten wechseln",
+      "",
+      -2090493462,
+      ""
+    ],
+    [
+      "ReminderTextKeystoneBattlemage",
+      "(Erhaltet zusätzlichen Zauberschaden, der dem Schaden Eurer Haupthandwaffe entspricht)",
+      "",
+      153036445,
       ""
     ],
     [
@@ -39636,10 +40623,164 @@
       ""
     ],
     [
+      "RitualVesselFilledWithBlood",
+      "Blutgefülltes Gefäß erzeugt",
+      "",
+      1601161581,
+      ""
+    ],
+    [
+      "ReminderTextRecoup",
+      "(Nur Schaden von Treffern kann wiedergewonnen werden, über 4 Sekunden nach dem Treffer)",
+      "",
+      373401819,
+      ""
+    ],
+    [
+      "ReminderTextBrutalCharges",
+      "(Spieler haben pro Brutaler Ladung 10% erhöhte Betäubungsschwelle und 3% Chance, dreifachen Schaden zu verursachen)",
+      "",
+      -668456275,
+      ""
+    ],
+    [
+      "RemidnerTextAfflictionCharges",
+      "(Spieler verursachen pro Quälender Ladung 8% mehr Schaden mit Beeinträchtigungen und verfügen über 8% mehr Wirkung von nicht schädigenden Beeinträchtigungen)",
+      "",
+      -76223787,
+      ""
+    ],
+    [
+      "ReminderTextAbsorptionCharges",
+      "(Spieler gewinnen pro Absorbierender Ladung 12% des erlittenen Elementarschadens als Energieschild wieder)",
+      "",
+      1643195294,
+      ""
+    ],
+    [
+      "OpenWebpageConfirmationTitle",
+      "Webbrowser öffnen",
+      "",
+      -1829507658,
+      ""
+    ],
+    [
+      "OpenWebpageConfirmationText",
+      "Durch diese Aktion öffnet sich ein Webbrowser. Möchtest du fortfahren?",
+      "",
+      1387178060,
+      ""
+    ],
+    [
+      "XboxCannotOpenWebBrowser",
+      "",
+      "Der Webbrowser konnte aufgrund von Kontobeschränkungen nicht geöffnet werden. Bitte überprüfe dein Xbox Live Konto.",
+      -956463419,
+      "Der Webbrowser konnte aufgrund von Kontobeschränkungen nicht geöffnet werden. Bitte überprüfe dein Sony-Konto."
+    ],
+    [
+      "ItemDisplayMavenVoidAreas",
+      "Die Seherin muss bezeugen",
+      "",
+      -704489109,
+      ""
+    ],
+    [
+      "RitualUnknownItemDescriptionText",
+      "Schließe mehr Rituale in diesem Gebiet ab, um diesen Gegenstand aufzudecken",
+      "",
+      -2088343862,
+      ""
+    ],
+    [
+      "AtlasMapCollectedNotification",
+      "{0}: Abschluss von der Seherin bezeugt",
+      "",
+      742101080,
+      ""
+    ],
+    [
+      "StashTabEditorDeleteFolderConfirmation",
+      "Bist du sicher, dass du diesen Ordner löschen möchtest? Enthaltene Fächer werden aus dem Ordner verschoben.",
+      "",
+      -712219369,
+      ""
+    ],
+    [
+      "StashTabEditorFolderComboboxLabel",
+      "Ordner",
+      "",
+      490969194,
+      ""
+    ],
+    [
       "ShopDeliveryDefaultOptionText",
       "Wähle eine Option ...",
       "",
       -945224866,
+      ""
+    ],
+    [
+      "MapDeviceCannotAccessMavenArea",
+      "Ihr müsst Euch für würdig erweisen, bevor Euch die Seherin Zutritt zu ihrem Reich gewährt.",
+      "",
+      -912853467,
+      ""
+    ],
+    [
+      "MavenEnragedDefeated",
+      "Tötet die Seherin",
+      "",
+      822174344,
+      ""
+    ],
+    [
+      "GamepadIdentifyFailedNoScrolls",
+      "",
+      "Erfordert eine Identifikationsrolle",
+      2108996413,
+      ""
+    ],
+    [
+      "RitualPrepaidItemPriceIncreaseWarning",
+      "Der Preis dieses Gegenstands erhöht sich, wenn er das nächste Mal in einem Set von Ritualen auftaucht, es sei denn, er wird erneut aufbewahrt.",
+      "",
+      1872338701,
+      ""
+    ],
+    [
+      "RitualPrepaidItemExpireWarning",
+      "Dies ist das letzte Mal, dass dieser Gegenstand in einem Gebiet verfügbar ist, es sei denn, er wird erneut aufbewahrt.",
+      "",
+      1648404063,
+      ""
+    ],
+    [
+      "RitualBloodVesselErrorNoChainUse",
+      "Ritualgefäße können nicht in einem Ritual einer Karte geöffnet werden, die mit einem blutgefüllten Gefäß geöffnet wurde.",
+      "",
+      -384152075,
+      ""
+    ],
+    [
+      "RitualBloodVesselErrorNoRepeatUse",
+      "Ritualgefäße können nicht mehr als einmal an einem Ritual-Altar verwendet werden.",
+      "",
+      -1928526807,
+      ""
+    ],
+    [
+      "RitualBloodVesselErrorCompletedShrineOnly",
+      "Ritualgefäße können nur an einem abgeschlossenen Ritual-Altar verwendet werden.",
+      "",
+      672105890,
+      ""
+    ],
+    [
+      "RitualBloodVesselBonuses",
+      "Rituale haben 20% verbesserte Gaben-Belohnungen\nRituale beschwören Monster 20% schneller\nRituale haben 20% mehr maximale lebende Monster",
+      "",
+      558709536,
       ""
     ],
     [
@@ -39654,6 +40795,300 @@
       "Größe/Stil aktualisieren",
       "",
       -1068269876,
+      ""
+    ],
+    [
+      "RitualStoneFromArea",
+      "Aus",
+      "",
+      908780606,
+      ""
+    ],
+    [
+      "MagicNamePrefixPrefix",
+      "{1} {2} {0}",
+      "",
+      1297133979,
+      ""
+    ],
+    [
+      "MagicNameSuffixSuffix",
+      "{0} {1} {2}",
+      "",
+      22491679,
+      ""
+    ],
+    [
+      "ReminderTextRandomSafehouse",
+      "(Unterschlüpfe, die bereits ausfindig gemacht wurden, können immer noch zufällig ausgewählt werden)",
+      "",
+      -1968467377,
+      ""
+    ],
+    [
+      "ReminderTextWildExile",
+      "(Wilde abtrünnige Verbannte sind abtrünnige Verbannte, die zufällig in einem Gebiet erscheinen)",
+      "",
+      -590493488,
+      ""
+    ],
+    [
+      "ItemErrorOnlyOneModOfType",
+      "Gegenstand hat nur einen Modifikator dieses Typs.",
+      "",
+      510912154,
+      ""
+    ],
+    [
+      "MonsterDominatedBySirus",
+      "Beherrscht von Sirus",
+      "",
+      486421974,
+      ""
+    ],
+    [
+      "ReminderTextTornVeil",
+      "(Der Überlappungsradius ist die Reichweite, bei der sich Jenseits-Portale miteinander überlappen können, um Monster aus dem Jenseits zu beschwören)",
+      "",
+      -656101754,
+      ""
+    ],
+    [
+      "ReminderTextFaceToFace",
+      "(Zu den Legion-Generälen gehören: Königin Hyrri Ngamaku, General Marceus Löwenauge, Kardinal Sanctus Vox, Viper Napuatzi und Aukuna, die Schwarze Sekhema)",
+      "",
+      -899846240,
+      ""
+    ],
+    [
+      "ReminderTextProtractedBattle",
+      "(Monster in Stase führen keine Aktionen durch)",
+      "",
+      -562699462,
+      ""
+    ],
+    [
+      "ReminderTextResourceReallocation",
+      "(Nicht-residierende Architekten sind diejenigen, die getötet werden können, um den Incursion-Raum hochzustufen)",
+      "",
+      2074109385,
+      ""
+    ],
+    [
+      "ReminderTextContestedDevelopment",
+      "(Residierende Architekten sind diejenigen, die getötet werden können, um den Incursion-Raum zu verändern)",
+      "",
+      -652328456,
+      ""
+    ],
+    [
+      "ReminderTextShaperGuardians",
+      "(Zu den Wächtern des Schöpfers gehören: Wächter der Chimäre, Wächter des Minotauren, Wächter der Hydra und Wächter des Phönix)",
+      "",
+      -636781334,
+      ""
+    ],
+    [
+      "ReminderTextElderGuardians",
+      "(Zu den Wächtern des Ältesten gehören: Der Sklavenschinder, der Vernichter, der Unterdrücker und der Läuterer)",
+      "",
+      1841184613,
+      ""
+    ],
+    [
+      "ReminderTextAtlasConquerors",
+      "(Zu den Eroberern gehören: Baran der Kreuzritter, Veritania die Erlöserin, Al-Hezmin der Jäger und Drox der Kriegsfürst)",
+      "",
+      -872659269,
+      ""
+    ],
+    [
+      "ReminderTextBasicCurrency",
+      "(Basis-Währung beinhaltet sämtliche Währung, die von allen nicht-liga-spezifischen Inhalten fallen gelassen wird)",
+      "",
+      -1510178638,
+      ""
+    ],
+    [
+      "HiddenItemUnique",
+      "Ein zufälliger einzigartiger Gegenstand",
+      "",
+      616127428,
+      ""
+    ],
+    [
+      "HiddenItemCatalyst",
+      "Ein zufälliger Katalysator",
+      "",
+      -1674670898,
+      ""
+    ],
+    [
+      "HiddenItemMetamorphOrgan",
+      "Eine zufällige Metamorph-Probe",
+      "",
+      -369827255,
+      ""
+    ],
+    [
+      "HiddenItemFlask",
+      "Ein zufälliges Fläschchen",
+      "",
+      -827598796,
+      ""
+    ],
+    [
+      "HiddenItemAmulet",
+      "Ein zufälliges Amulett",
+      "",
+      -453029835,
+      ""
+    ],
+    [
+      "HiddenItemRing",
+      "Ein zufälliger Ring",
+      "",
+      -409235262,
+      ""
+    ],
+    [
+      "HiddenItemJewel",
+      "Ein zufälliges Juwel",
+      "",
+      376936073,
+      ""
+    ],
+    [
+      "HiddenItemTrinket",
+      "Ein zufälliges Schmuckstück",
+      "",
+      -1476087729,
+      ""
+    ],
+    [
+      "HiddenItemLeaguestone",
+      "Ein zufälliger Ligastein",
+      "",
+      -1400816055,
+      ""
+    ],
+    [
+      "HiddenItemContract",
+      "Ein zufälliger Auftrag",
+      "",
+      -723213175,
+      ""
+    ],
+    [
+      "HiddenItemBlueprint",
+      "Ein zufälliger Grundriss",
+      "",
+      334199702,
+      ""
+    ],
+    [
+      "HiddenItemMap",
+      "Eine zufällige Karte",
+      "",
+      1808770337,
+      ""
+    ],
+    [
+      "MapDeviceMapStatsWindowTitle",
+      "Zusätzliche Modifikatoren",
+      "",
+      -1590784975,
+      ""
+    ],
+    [
+      "MapDeviceMapStatsCategoryPassive",
+      "Atlasbaum-Modifikatoren",
+      "",
+      -856199857,
+      ""
+    ],
+    [
+      "MapDeviceMapStatsCategorySextant",
+      "Sextanten-Modifikatoren",
+      "",
+      1566825954,
+      ""
+    ],
+    [
+      "MapDeviceMapStatsCategoryWatchstone",
+      "Wächterstein-Modifikatoren",
+      "",
+      44690017,
+      ""
+    ],
+    [
+      "MapDeviceMapToggleStatsVisibility",
+      "",
+      "Modifikatorenanzeige umschalten",
+      898405231,
+      ""
+    ],
+    [
+      "MapDeviceMapToggleStatsCycleGroups",
+      "",
+      "Kategorien wechseln",
+      -1028117885,
+      ""
+    ],
+    [
+      "RitualOpenReawrdWindowButtonPopup",
+      "Ritual-Belohnungen anzeigen",
+      "",
+      -461650820,
+      ""
+    ],
+    [
+      "RitualRewardsWindowApplyItemFilter",
+      "Gegenstandsfilter anwenden",
+      "",
+      -880901990,
+      ""
+    ],
+    [
+      "MapStashWitnessedByMaven",
+      "Von der Seherin bezeugt",
+      "",
+      -1819385434,
+      ""
+    ],
+    [
+      "RitualShopFutureDiscount",
+      "Zukünftiger Rabatt:",
+      "",
+      -1760256378,
+      ""
+    ],
+    [
+      "RitualRewardWindowDeferFee",
+      "Aufbewahrungsgebühr:",
+      "",
+      440201030,
+      ""
+    ],
+    [
+      "RitualRewardWindowTotalDeferCost",
+      "Summe Aufbewahrungskosten:",
+      "",
+      2083974425,
+      ""
+    ],
+    [
+      "ReminderTextInfluencedItems",
+      "(Beeinflusste Gegenstände können über Modifikatoren verfügen, die man sonst nirgendwo finden kann)",
+      "",
+      -867369286,
+      ""
+    ],
+    [
+      "HarvestCraftOptionDisabledInHideout",
+      "You cannot use this crafting option in a Hideout.",
+      "",
+      -2078730669,
       ""
     ]
   ]

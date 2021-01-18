@@ -3055,7 +3055,7 @@
     ],
     [
       "OptionsDialogueInChatPopup",
-      "Outputs character dialogue to chat in addition to the audio.",
+      "Outputs character and NPC dialogue to chat in addition to the audio.",
       "",
       1213515967,
       ""
@@ -6561,6 +6561,27 @@
       ""
     ],
     [
+      "ItemDescriptionMavenAlteration",
+      "Right-click this item then left-click the Map Device in your Hideout to attach the Maven's Beacon.",
+      "Use this item on the Map Device in your Hideout to attach the Maven's Beacon.",
+      1872848573,
+      ""
+    ],
+    [
+      "ItemFunctionMavenMap",
+      "Can be used in a personal Map Device.",
+      "",
+      295668964,
+      ""
+    ],
+    [
+      "ItemFunctionMavenMapCraftable",
+      "Can be used in a personal Map Device. Modifiers to Item Quantity will affect the number of encounter rewards dropped.",
+      "",
+      -867359568,
+      ""
+    ],
+    [
       "ItemFunctionBanditRespecAlira",
       "Gains Alira's favour.",
       "",
@@ -6614,6 +6635,13 @@
       "Grants a Passive Skill Point and two Passive Respec Points",
       "",
       1883333709,
+      ""
+    ],
+    [
+      "ItemFunctionMavenAlteration",
+      "Allows you to call the Maven to a map from your Map Device.",
+      "",
+      1854274428,
       ""
     ],
     [
@@ -8689,10 +8717,10 @@
       ""
     ],
     [
-      "ItemErrorNoTargetChest",
-      "No target chest found.",
+      "ItemErrorNoTargetFound",
+      "No target object found.",
       "",
-      -374208601,
+      -1883872711,
       ""
     ],
     [
@@ -8714,6 +8742,13 @@
       "Target is already identified.",
       "",
       563966131,
+      ""
+    ],
+    [
+      "ItemErrorTargetNotMapDevice",
+      "Target is not your Map Device.",
+      "",
+      1335405894,
       ""
     ],
     [
@@ -10733,6 +10768,13 @@
       ""
     ],
     [
+      "MissionTrackStrDexIntFailedBlight",
+      "Mission failed. You failed to stop the Blight.",
+      "",
+      -128708828,
+      ""
+    ],
+    [
       "MissionTrackStrDexIntComplete",
       "Mission complete.",
       "",
@@ -10887,6 +10929,34 @@
       ""
     ],
     [
+      "MissionTrackStrDexIntCompleteHarvest",
+      "Complete the Harvest.",
+      "",
+      1360686376,
+      ""
+    ],
+    [
+      "MissionTrackStrDexIntCompleteBlight1",
+      "Complete the Blight encounter.",
+      "",
+      -472106124,
+      ""
+    ],
+    [
+      "MissionTrackStrDexIntCompleteBlightN",
+      "Complete the Blight encounters. ({0}/{1})",
+      "",
+      73086834,
+      ""
+    ],
+    [
+      "MissionTrackStrDexIntCompleteBlightedMap",
+      "Complete the Blight encounter.",
+      "",
+      942573496,
+      ""
+    ],
+    [
       "MissionTrackStrDexIntExiles",
       "Slay the Rogue Exiles.",
       "",
@@ -10992,6 +11062,20 @@
       ""
     ],
     [
+      "MissionTrackStrDexIntPrepMetamorph",
+      "Collect Monster Samples for Tane\nConstruct and slay the Metamorph.",
+      "",
+      -1128887465,
+      ""
+    ],
+    [
+      "MissionTrackStrDexIntSlayMetamorph",
+      "Slay the Metamorph.",
+      "",
+      1697176817,
+      ""
+    ],
+    [
       "MissionTrackStrDexIntUniqueStrongbox",
       "Open the Unique Strongbox.",
       "",
@@ -11017,6 +11101,13 @@
       "Open the Breaches. ({0}/{1})",
       "",
       -370130764,
+      ""
+    ],
+    [
+      "MissionTrackStrDexIntDelirium",
+      "Open the Delirium Mirror.",
+      "",
+      1055064308,
       ""
     ],
     [
@@ -12184,7 +12275,7 @@
     [
       "DivinationWindowTradeButton",
       "Trade",
-      "<<xbox_button_a>> Trade",
+      "",
       -1840757987,
       ""
     ],
@@ -13939,6 +14030,13 @@
       ""
     ],
     [
+      "MavenPortalsDisabled",
+      "The Maven's power prevents the use of portals.",
+      "",
+      966005961,
+      ""
+    ],
+    [
       "OptionsLanguageChangeNoRestart",
       "You must restart Path of Exile in order for your chosen language to take effect.",
       "",
@@ -13947,7 +14045,7 @@
     ],
     [
       "ChallengesInformation",
-      "You will earn a Heist microtransaction for every 12 challenges you complete.",
+      "You will earn a Ritual microtransaction for every 12 challenges you complete.",
       "",
       1156891019,
       ""
@@ -14122,7 +14220,7 @@
     ],
     [
       "ReminderTextTailwind",
-      "(Tailwind increases Action Speed by 10%)",
+      "(Tailwind increases Action Speed by 8%)",
       "",
       623969398,
       ""
@@ -14815,7 +14913,7 @@
     ],
     [
       "MonsterGoatmanFireShamanChampionInfoString",
-      "Casts Magma Orb\nCasts Fireball\nCasts Molten Shell",
+      "Casts Rolling Magma\nCasts Fireball\nCasts Molten Shell",
       "",
       -1120461354,
       ""
@@ -17552,7 +17650,7 @@
     ],
     [
       "ReminderTextFarShot",
-      "(Projectile Attacks gain Damage as they travel farther, dealing up to 30% more Attack Damage with Hits to targets)",
+      "(Projectile Attack Hits deal 20% less Damage to targets at the start of their movement, dealing up to 60% more Damage to targets as the projectile travels farther)",
       "",
       -35193492,
       ""
@@ -30187,7 +30285,7 @@
     ],
     [
       "TencentLeagueInfoFrameDescription",
-      "Grow seeds into dangerous foes at Oshabi's Sacred Grove. Cultivate and reap monsters for powerful crafting benefits in the Harvest league.",
+      "Hire skilled thieves to help pull off risky Heists. Steal valuable artifacts with your trained crew as you plan towards a Grand Heist.",
       "",
       -1087608102,
       ""
@@ -30453,7 +30551,7 @@
     ],
     [
       "GraphicsTabBloomStrengthPopup",
-      "Bloom<size:3>{\n}<size:29>{\r\nThis controls the amount of bloom you see from bright effects. It is a cosmetic settings and does not affect performance.}",
+      "Bloom<size:3>{\n}<size:29>{\r\nThis controls the amount of bloom you see from bright effects. It is a cosmetic setting and does not affect performance.}",
       "",
       -1039331254,
       ""
@@ -32091,7 +32189,7 @@
     ],
     [
       "BYOInvalidInput1",
-      "[DNT] CHANGE ME",
+      "[UNUSED] CHANGE ME",
       "",
       -1058392599,
       ""
@@ -33140,10 +33238,59 @@
       ""
     ],
     [
+      "MapDeviceWarningQuestStateInvalid",
+      "You do not have the required Quest State to access this area.",
+      "",
+      1233540811,
+      ""
+    ],
+    [
+      "MapDeviceWarningNotEnoughCollectedMapsForMaven",
+      "The Maven has not witnessed enough Map Boss Encounters from {0}. {1}",
+      "",
+      -1769110154,
+      ""
+    ],
+    [
       "AltasNodePopupAreaContainsText",
       "Area Contains {0}",
       "",
       -55886965,
+      ""
+    ],
+    [
+      "AddMavenErrorMapAlreadyCollected",
+      "The Maven has already witnessed this Map's boss encounter",
+      "",
+      -1771648578,
+      ""
+    ],
+    [
+      "AddMavenErrorInvalidArea",
+      "The Maven has no interest in this area",
+      "",
+      1213445134,
+      ""
+    ],
+    [
+      "AddMavenErrorInvalidUniqueMap",
+      "The Maven cannot be called to this Unique Map",
+      "",
+      1912983059,
+      ""
+    ],
+    [
+      "AddMavenErrorInvalidQuestState",
+      "The Maven is not yet interested in this Region",
+      "",
+      870222046,
+      ""
+    ],
+    [
+      "AddMavenErrorMapTooLowLevel",
+      "This map is too low level to hold the Maven's attention",
+      "",
+      1685682043,
       ""
     ],
     [
@@ -35311,7 +35458,7 @@
     ],
     [
       "AtlasCentrepieceHover",
-      "<white>{{Awakening Level: {0}}}\n\n<white>{{The Awakening Level increases for every four Watchstones socketed anywhere in the Atlas.}}\n<white>{{Awakening Levels grant bonuses which affect all Maps.}}\n\n<default>{{Unique Map Boss has {1}% more Life}}\n<default>{{+{2}% chance for an additional connected Map to drop from Unique Map Boss}}\n<default>{{+{3}% chance for a Shaper Guardian Map to drop from Unique Map Boss (Tier 14+)}}\n<default>{{+{4}% chance for an Elder Guardian Map to drop from Unique Map Boss (Tier 14+)}}\n<default>{{+{5}% chance for an additional Atlas Base Type to drop from Unique Map Boss}}\n<default>{{+{6}% chance for an additional Unique Item to drop from Unique Map Boss}}\n<default>{{+{7}% chance for additional Map Currency Items to drop from Unique Map Boss}}\n<default>{{Increased chance per Awakening Level for the Conquerors of the Atlas to drop additional rewards}}\n<default>{{{8}% increased chance for Influenced Items to drop in Maps influenced by the Conquerors of the Atlas}}",
+      "<white>{{Awakening Level: {0}}}\n\n<white>{{The Awakening Level increases for every four Watchstones socketed anywhere in the Atlas.}}\n<white>{{Awakening Levels grant bonuses which affect all Maps and The Maven's Crucible.}}\n\n<default>{{Unique Map Boss has {1}% more Life}}\n<default>{{+{2}% chance for an additional connected Map to drop from Unique Map Boss}}\n<default>{{+{3}% chance for a Shaper Guardian Map to drop from Unique Map Boss (Tier 14+)}}\n<default>{{+{4}% chance for an Elder Guardian Map to drop from Unique Map Boss (Tier 14+)}}\n<default>{{+{5}% chance for an additional Atlas Base Type to drop from Unique Map Boss}}\n<default>{{+{6}% chance for an additional Unique Item to drop from Unique Map Boss}}\n<default>{{+{7}% chance for additional Map Currency Items to drop from Unique Map Boss}}\n<default>{{Increased chance per Awakening Level for the Conquerors of the Atlas to drop additional rewards}}\n<default>{{{8}% increased chance for Influenced Items to drop in Maps influenced by the Conquerors of the Atlas}}",
       "",
       241238803,
       ""
@@ -35472,7 +35619,7 @@
     ],
     [
       "WatchstoneDescriptionText",
-      "Socket this into a Citadel on your Atlas to increase the Tier of Maps and reveal hidden Maps in that Citadel's Region. You can only socket one of each type of Watchstone into each Citadel.",
+      "Socket this into a Citadel on your Atlas to increase the Tier of Maps and reveal hidden Maps in that Citadel's Region. You can only socket one Crimson, Viridian, Cobalt or Golden Watchstone into each Citadel.",
       "",
       1364401820,
       ""
@@ -36417,7 +36564,7 @@
     ],
     [
       "HarvestCraftingUIInfo",
-      "Select the modification you wish to perform, then place the item you wish to modify in the item space. Modifications consume Raw Lifeforce. Any remaining Lifeforce can be condensed and stored for growing other seeds. Lifeforce that has been condensed can't be used for crafting again. All crafting options and Raw Lifeforce will be lost on visiting the Sacred Grove from another area.",
+      "Select the modification you wish to perform, then place the item you wish to modify in the item space. All crafting options will be lost on visiting the Sacred Grove from another area.",
       "",
       1000398599,
       ""
@@ -37012,7 +37159,7 @@
     ],
     [
       "ItemDescriptionPlantBoosterPlaced",
-      "[DNT] Control-click to return this Plant Booster to your inventory.",
+      "[UNUSED] Control-click to return this Plant Booster to your inventory.",
       "",
       874381046,
       ""
@@ -37446,7 +37593,7 @@
     ],
     [
       "HarvestCraftingToSiloPopup",
-      "Send crafting option to a connected Horticrafting Station for storage.",
+      "Send crafting option to your Horticrafting Station for storage.",
       "Save Crafting Option",
       -1939641360,
       ""
@@ -37477,6 +37624,13 @@
       "Toggle between your main inventory and stash.\nStash items can only be selected for crafting and cannot be moved into your inventory from here.",
       "",
       -1147455374,
+      ""
+    ],
+    [
+      "HarvestCraftingInventoryTogglePopupHideout",
+      "Toggle between your main inventory and stash.\nStash items can be selected for crafting.",
+      "",
+      466180397,
       ""
     ],
     [
@@ -37628,7 +37782,7 @@
     ],
     [
       "ReminderTextKeystoneTheImpaler",
-      "(When your Hits Impale Enemies, also Impale other Enemies near them. Inflict 4 additional Impales on Enemies you Impale. Enemies cannot be Impaled for 4 seconds after you Impale them)",
+      "(When your Hits Impale Enemies, also Impale other Enemies near them. Inflict 4 additional Impales on Enemies you Impale. For 4 seconds after you Impale Enemies, they cannot be Impaled again, and Impales cannot be Called from them)",
       "",
       -558981857,
       ""
@@ -37705,7 +37859,7 @@
     ],
     [
       "HarvestCraftingToSiloConfirmation",
-      "Consume {0} Lifeforce to send this crafting option to a connected Horticrafting Station?",
+      "Send this crafting option to your Horticrafting Station?",
       "",
       -1058249048,
       ""
@@ -37818,7 +37972,7 @@
     [
       "HarvestInventoryButtonDisabledPopup",
       "Toggle between your main inventory and stash.\n<red>{Disabled while the cursor or the crafting item space are not empty.}",
-      "",
+      "<red>{Cursor and crafting space must be empty}",
       -1133560941,
       ""
     ],
@@ -38769,7 +38923,7 @@
     ],
     [
       "ReminderTextKeystoneHexZoneKeystone",
-      "(Your Hex Curse Spells create a Hexed Area for 1 second if you Cast them yourself. Enemies in the Hexed Area are Hexed, and the Hex does not expire while in the Hexed Area. Hexes aplied this way do not gain Doom over time. Hexes in the Hexed Area gain up to maximum Doom when the Hexed Area ends)",
+      "(Your Hex Curse Spells create a Hexed Area for 1 second if you Cast them yourself. Enemies in the Hexed Area are Hexed, and the Hex does not expire while in the Hexed Area. Hexes applied this way do not gain Doom over time. Hexes in the Hexed Area gain up to maximum Doom when the Hexed Area ends)",
       "",
       -1751549202,
       ""
@@ -38912,13 +39066,6 @@
       "Epic purchase failed.",
       "",
       -363792823,
-      ""
-    ],
-    [
-      "HeistSkillInteractText",
-      "Begin {0}",
-      "",
-      -1001524034,
       ""
     ],
     [
@@ -39489,6 +39636,20 @@
       ""
     ],
     [
+      "HeistBlueprintWindowLegendTitle",
+      "Legend",
+      "",
+      548456986,
+      ""
+    ],
+    [
+      "HeistBlueprintWindowToggleLegend",
+      "Toggle Legend",
+      "",
+      -1197080731,
+      ""
+    ],
+    [
       "HeistContractNoRevealCharLevelTooHighPostContract",
       "This Contract's level was too low to grant Blueprint Reveals. Complete higher level Contracts to gain Blueprint Reveals.",
       "",
@@ -39517,10 +39678,10 @@
       ""
     ],
     [
-      "HeistCharacterSkillLevelModifiedByEquipment",
-      "{0} from Equipment",
+      "HeistStoragePanelSearchInfo",
+      "Highlights items that match the keywords you specify. \n\nTips:\n<default>{- Type multiple keywords by separating them with a space\n- Combine space-separated text into a single keyword by enclosing it in quotation marks. e.g \"alert level reduction\" or \"requires deception\" \n- Search for item level by typing ilvl:X\n- You can press <b>{CTRL + F} as a shortcut}",
       "",
-      485678059,
+      855817334,
       ""
     ],
     [
@@ -39528,6 +39689,48 @@
       "Uncategorised",
       "",
       1579450915,
+      ""
+    ],
+    [
+      "DescriptionLabelFixedValueStat",
+      "<italic>{<rgb(170,170,170)>{ — Unscalable Value}}",
+      "",
+      1779730505,
+      ""
+    ],
+    [
+      "PassiveTreeCannotModifyWhileDead",
+      "You cannot modify your passive skills while dead",
+      "",
+      403750993,
+      ""
+    ],
+    [
+      "RitualStoneMonsterCount",
+      "Monsters",
+      "",
+      -1465615632,
+      ""
+    ],
+    [
+      "RitualStoneVarieties",
+      "Monsters:\n{0}",
+      "",
+      1991013785,
+      ""
+    ],
+    [
+      "RitualStoneNumOtherMonsters",
+      "{0} Other Monsters",
+      "",
+      -1714643609,
+      ""
+    ],
+    [
+      "RitualStoneLevel",
+      "Monster Level",
+      "",
+      220235298,
       ""
     ],
     [
@@ -39542,6 +39745,13 @@
       "Delete Folder",
       "",
       -159684347,
+      ""
+    ],
+    [
+      "HeistCharacterSkillLevelModifiedByEquipment",
+      "{0} from Equipment",
+      "",
+      485678059,
       ""
     ],
     [
@@ -39573,6 +39783,377 @@
       ""
     ],
     [
+      "ItemErrorQuestState",
+      "You do not have the required quest state to use this item.",
+      "",
+      1734860859,
+      ""
+    ],
+    [
+      "ItemFilterRuleBaseType",
+      "base types",
+      "",
+      -1458395552,
+      ""
+    ],
+    [
+      "ItemFilterRuleCJESPN",
+      "cluster jewel enchantment small passive nodes",
+      "",
+      -1069257219,
+      ""
+    ],
+    [
+      "ItemFilterRuleGemQualityType",
+      "gem quality types",
+      "",
+      260938080,
+      ""
+    ],
+    [
+      "ItemFilterRuleMods",
+      "mods",
+      "",
+      -862866519,
+      ""
+    ],
+    [
+      "ItemFilterRuleProphecies",
+      "prophecies",
+      "",
+      -674953992,
+      ""
+    ],
+    [
+      "ItemFilterErrorCannotOpenFile",
+      "Failed to open filter file: \"{0}\"",
+      "",
+      2059299633,
+      ""
+    ],
+    [
+      "ItemFilterErrorDownloadError",
+      "Error trying to download item filter.",
+      "",
+      1253260571,
+      ""
+    ],
+    [
+      "ItemFilterErrorJSONError",
+      "Parse error in json",
+      "",
+      1801868329,
+      ""
+    ],
+    [
+      "ItemFilterErrorCreateBackupFile",
+      "Error trying to create {0}.bak filter file",
+      "",
+      632219470,
+      ""
+    ],
+    [
+      "ItemFilterErrorCreateTempFile",
+      "Error trying to create {0}.tmp filter file",
+      "",
+      644948399,
+      ""
+    ],
+    [
+      "ItemFilterErrorDeleteTempFile",
+      "Error trying to delete {0}.tmp filter file",
+      "",
+      1721279864,
+      ""
+    ],
+    [
+      "ItemFilterErrorLine",
+      "Line {0}: {1}",
+      "",
+      1685743633,
+      ""
+    ],
+    [
+      "ItemFilterErrorMissingParameter",
+      "Expected parameter for rule {0}",
+      "",
+      364040542,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidParameter",
+      "Unable to parse parameter for {0} rule: {1}",
+      "",
+      -1683601601,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidRule",
+      "Unknown rule type {0}",
+      "",
+      840176699,
+      ""
+    ],
+    [
+      "ItemFilterErrorTooManyArguments",
+      "Too many arguments",
+      "",
+      -958533439,
+      ""
+    ],
+    [
+      "ItemFilterErrorNegativeNumber",
+      "Integer \"{0}\" may not be negative",
+      "",
+      903523824,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidNumber",
+      "Integer \"{0}\" not recognised",
+      "",
+      -264591595,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidBoolean",
+      "Boolean \"{0}\" not recognised",
+      "",
+      -95479572,
+      ""
+    ],
+    [
+      "ItemFilterErrorNoStringMatch",
+      "No {0} found matching \"{1}\"",
+      "",
+      849910734,
+      ""
+    ],
+    [
+      "ItemFilterErrorNoStringMatchExact",
+      "No {0} found exactly matching \"{1}\"",
+      "",
+      -96105334,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidRarity",
+      "No Rarity matching \"{0}\"",
+      "",
+      1777028210,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidItemClass",
+      "No Item Classes matching \"{0}\"",
+      "",
+      -374456860,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidInfluence",
+      "No Influence types matching \"{0}\"",
+      "",
+      -63850907,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidSockets",
+      "Invalid Socket description \"{0}\". Valid letters are RGBWAD, valid numbers are 0-9",
+      "",
+      -1037787329,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidSoundNumber",
+      "Invalid sound number \"{0}\"",
+      "",
+      1976420515,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidSoundVolume",
+      "Invalid sound volume \"{0}\" should be between {1} and {2}",
+      "",
+      -703145816,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidDropEffect",
+      "Invalid effect name \"{0}\". Valid values are {{ {1} }}",
+      "",
+      1806994332,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidCustomAlerSound",
+      "Incorrect format: CustomAlertSound \"filepath\" [volume]",
+      "",
+      -1943086820,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidSoundPath",
+      "Invalid sound filepath \"{0}\"",
+      "",
+      -1457312148,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidMinimapIconData",
+      "Unable to read minimap icon data",
+      "",
+      -263736446,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidMinimapIcon",
+      "Invalid Map Icon: \"{0} {1}\" is an invalid icon.",
+      "",
+      -305641187,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidMinimapIconSize",
+      "Invalid Size: Please select from {{ {0} }}.  Defaulting to {1}",
+      "",
+      351673213,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidColourComponent",
+      "Unable to read colour component",
+      "",
+      865496561,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidColourAlpha",
+      "Invalid alpha value \"{0}\" specified",
+      "",
+      -1130857854,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidFontSize",
+      "Unable to read font size",
+      "",
+      1351409074,
+      ""
+    ],
+    [
+      "ItemFilterErrorRuleOutsideBlock",
+      "Rule found outside of a ruleset block",
+      "",
+      471547079,
+      ""
+    ],
+    [
+      "RitualRewardWindowTitle",
+      "Favours",
+      "",
+      -1047919592,
+      ""
+    ],
+    [
+      "RitualRewardWindowPoints",
+      "{0} Tribute Remaining",
+      "",
+      -243348613,
+      ""
+    ],
+    [
+      "RitualRewardWindowHelpPopup",
+      "Slay monsters during a Ritual to earn Tribute. Tribute can be spent on rewards after the Ritual is complete.\nSome rewards will only be revealed after completing several Rituals.\nRitual rewards change between areas unless they are deferred.",
+      "Slay monsters during a Ritual to earn Tribute. Tribute can be spent on rewards after the Ritual is complete.\nSome rewards will only be revealed after completing several Rituals.\nRitual rewards change between areas unless they are deferred.\nItems with a <<ritual_suspended>> icon were previously deferred and have been partially paid for.",
+      925319988,
+      ""
+    ],
+    [
+      "RitualRewardWindowPrepayButton",
+      "Defer Item",
+      "",
+      -1693884233,
+      ""
+    ],
+    [
+      "RitualRewardCurrencyName",
+      "Tribute",
+      "",
+      593432348,
+      ""
+    ],
+    [
+      "RitualObjectWorldDescriptionTitle",
+      "{0} Ritual Altar",
+      "",
+      502284760,
+      ""
+    ],
+    [
+      "RitualObjectWorldDescriptionBody",
+      "Interact to begin the Ritual",
+      "",
+      -473616467,
+      ""
+    ],
+    [
+      "RitualObjectWorldDescriptionRewardsBody",
+      "Interact to view Favours",
+      "",
+      -1646456293,
+      ""
+    ],
+    [
+      "WarningChangingHideoutLosesPortals",
+      "Warning: changing your Hideout will destroy all open Portals.",
+      "",
+      -64268714,
+      ""
+    ],
+    [
+      "LeagueStandardRitual",
+      "Discover ancient Altars and perform dangerous Rituals to earn valuable rewards.\n\n<colour:yellow>{This is the default Path of Exile league.}",
+      "",
+      -967808659,
+      ""
+    ],
+    [
+      "LeagueHardcoreRitual",
+      "Discover ancient Altars and perform dangerous Rituals to earn valuable rewards.\n\n<colour:red>{A character killed in Hardcore Ritual becomes a Standard character.}",
+      "",
+      2030150804,
+      ""
+    ],
+    [
+      "LeagueStandardSSFRitual",
+      "SSF Ritual",
+      "",
+      1196121897,
+      ""
+    ],
+    [
+      "LeagueHardcoreSSFRitual",
+      "SSF HC Ritual",
+      "",
+      -1687185404,
+      ""
+    ],
+    [
+      "RitualRewardWindowPrepayButtonPopup",
+      "Pay 15% of an item's original cost to defer that item. This item will reappear in a later area, discounted by 10% of its original cost. More valuable items can take longer to reappear.",
+      "",
+      -1224183722,
+      ""
+    ],
+    [
+      "RitualRewardWindowPrepaidItemPopup",
+      "This item was deferred and has been partially paid for.",
+      "",
+      1054933146,
+      ""
+    ],
+    [
       "StashDeleteFolderButtonPopup",
       "Contained Stashes will be moved out of this Folder",
       "",
@@ -39594,6 +40175,48 @@
       ""
     ],
     [
+      "RitualObjectWorldDescriptionRewardsTitle",
+      "{0} Ritual Rewards",
+      "",
+      2030529253,
+      ""
+    ],
+    [
+      "MavenBossRushObjectDescriptionTitle",
+      "The Maven's Challenge",
+      "",
+      157586887,
+      ""
+    ],
+    [
+      "MavenBossRushObjectDescriptionBody",
+      "Interact to begin the challenge",
+      "",
+      1957375823,
+      ""
+    ],
+    [
+      "MavenBossRushObjectDescriptionPassivesTitle",
+      "The Maven's Gift",
+      "",
+      -493163783,
+      ""
+    ],
+    [
+      "MavenBossRushObjectDescriptionPassivesBody",
+      "Interact to allocate Atlas passive points",
+      "",
+      2023104665,
+      ""
+    ],
+    [
+      "AtlasPopupMapCollected",
+      "The Maven currently holds a recreation of this map's Boss.",
+      "",
+      1517173982,
+      ""
+    ],
+    [
       "GraphicsOptionsDynamicResolutionFactor",
       "Resolution Factor",
       "",
@@ -39605,6 +40228,111 @@
       "When enabled and dynamic resolution is active, the game will use this fixed factor resolution instead of dynamically adjusting it.",
       "",
       705196355,
+      ""
+    ],
+    [
+      "ReminderTextConvergence",
+      "(Convergence grants 30% more Elemental Damage and lasts 4 seconds)",
+      "",
+      -110112724,
+      ""
+    ],
+    [
+      "HarvestHorticraftingStation",
+      "Horticrafting Station",
+      "",
+      300768334,
+      ""
+    ],
+    [
+      "RitualRewardWindowRemainingEncounters",
+      "{0} Rituals Remaining",
+      "",
+      -760824638,
+      ""
+    ],
+    [
+      "RitualRewardWindowRemainingEncounter",
+      "1 Ritual Remaining",
+      "",
+      -581620698,
+      ""
+    ],
+    [
+      "GamepadLegendRitualSuspendItem",
+      "Defer Item",
+      "",
+      1661103512,
+      ""
+    ],
+    [
+      "GamepadLegendRitualCancelPrepaySelection",
+      "Cancel",
+      "",
+      1448043609,
+      ""
+    ],
+    [
+      "GamepadLegendRitualConfirmPrepaySelection",
+      "Confirm Selection",
+      "",
+      -495830768,
+      ""
+    ],
+    [
+      "GamepadLegendUseRitualFragment",
+      "",
+      "Use Ritual Vessel",
+      2046685588,
+      ""
+    ],
+    [
+      "ReminderTextGaleForce",
+      "(Each instance of Gale Force lasts 4 seconds. Maximum 10 Gale Force)",
+      "",
+      -400489052,
+      ""
+    ],
+    [
+      "ReminderTextSacrificialZeal",
+      "(Sacrificial Zeal grants Added Spell Physical Damage equal to 25% of the Skill's Mana Cost, and causes you to take Physical Damage over Time, for 4 seconds)",
+      "",
+      -1996553147,
+      ""
+    ],
+    [
+      "ReminderTextFanaticism",
+      "(Fanaticism grants Spells you Cast yourself 75% more Cast Speed, 75% reduced mana cost and 75% increased Area of Effect)",
+      "",
+      -2060325603,
+      ""
+    ],
+    [
+      "RitualRewardWindowRerollPopup",
+      "Reroll to receive new Favours.\nThis can only be done once per area.\nCost: {0} Tribute",
+      "",
+      -1129636923,
+      ""
+    ],
+    [
+      "GamepadLegendAtlasRegionTree",
+      "",
+      "Open Region Passive Tree",
+      1439656462,
+      ""
+    ],
+    [
+      "RitualRewardWindowRerollConfirmationTitle",
+      "Reroll Favours",
+      "",
+      -1823061932,
+      ""
+    ],
+    [
+      "RitualRewardWindowRerollConfirmationText",
+      "Are you sure you want to reroll Favours? This will replace all current Favours.\nCost: {0} Tribute",
+      "",
+      -655453620,
       ""
     ],
     [
@@ -39622,10 +40350,269 @@
       ""
     ],
     [
+      "GraphicsOptionsDoFLabel",
+      "Depth Of Field",
+      "",
+      -1831905225,
+      ""
+    ],
+    [
+      "GraphicsTabDoFPopup",
+      "Depth Of Field<size:3>{\n}<size:29>{\r\nThis controls the Depth Of Field effect. Disable to improve performance in some scenes.}",
+      "",
+      -96013088,
+      ""
+    ],
+    [
+      "GraphicsOptionsDoFEnabled",
+      "Enabled",
+      "",
+      2137710707,
+      ""
+    ],
+    [
+      "GraphicsOptionsDoFDisabled",
+      "Disabled (Default)",
+      "",
+      -1117362787,
+      ""
+    ],
+    [
+      "ReminderTextRupture",
+      "(Ruptured targets take 25% more Damage from Bleeding, and Bleeding on them expires 25% more quickly, for 3 seconds. Up to 3 Ruptures can affect a target)",
+      "",
+      816601661,
+      ""
+    ],
+    [
+      "ConsoleActionOpenOrganQuickSelect",
+      "",
+      "Open Quick Select",
+      -1091845192,
+      ""
+    ],
+    [
+      "MarketSearchTalismans",
+      "Talismans",
+      "",
+      1414539890,
+      ""
+    ],
+    [
+      "MarketExtraTypeInfoFireAsCold",
+      "<fire>{Fire As Cold}",
+      "",
+      -394234010,
+      ""
+    ],
+    [
+      "MarketExtraTypeInfoFireAsLightning",
+      "<fire>{Fire As Lightning}",
+      "",
+      -604917186,
+      ""
+    ],
+    [
+      "MarketExtraTypeInfoColdAsFire",
+      "<cold>{Cold as Fire}",
+      "",
+      -1579132513,
+      ""
+    ],
+    [
+      "MarketExtraTypeInfoColdAsLightning",
+      "<cold>{Cold as Lightning}",
+      "",
+      764321560,
+      ""
+    ],
+    [
+      "MarketExtraTypeInfoLightningAsFire",
+      "<lightning>{Lightning as Fire}",
+      "",
+      1817199778,
+      ""
+    ],
+    [
+      "MarketExtraTypeInfoLightningAsCold",
+      "<lightning>{Lightning as Cold}",
+      "",
+      2032335341,
+      ""
+    ],
+    [
+      "MarketExtraTypeInfoChargePower",
+      "Power",
+      "",
+      -674457239,
+      ""
+    ],
+    [
+      "MarketExtraTypeInfoChargeFrenzy",
+      "Frenzy",
+      "",
+      449393239,
+      ""
+    ],
+    [
+      "MarketExtraTypeInfoChargeEndurance",
+      "Endurance",
+      "",
+      -1590973156,
+      ""
+    ],
+    [
+      "NullAtlasRegionName",
+      "The Uncharted Realms",
+      "",
+      152238034,
+      ""
+    ],
+    [
+      "GamepadLegendToggleMavenMapDeviceOption",
+      "",
+      "Toggle Maven's Beacon",
+      -1777039069,
+      ""
+    ],
+    [
       "StashOptionsOverrideAffinityTipText",
       "You can bypass Tab Affinities by using Ctrl + Shift + Left Click.",
-      "",
+      "You can bypass Tab Affinities by using <<xbox_button_lstick>> + <<xbox_button_x>>",
       845178960,
+      ""
+    ],
+    [
+      "TrinitySupportUIPopupText",
+      "Resonance:\r\nHits with Skills Supported by Trinity for which the highest Damage Type is Elemental cause you to gain Resonance of other Elements\r\nLose 5 Resonance per second of each Element you are not gaining",
+      "",
+      1685101411,
+      ""
+    ],
+    [
+      "HarvestCraftingToSiloRemainingSlotCountText",
+      "{0} storage slots remaining",
+      "",
+      598801849,
+      ""
+    ],
+    [
+      "HarvestCraftingToSiloRemainingSlotCountText1",
+      "1 storage slot remaining",
+      "",
+      887465885,
+      ""
+    ],
+    [
+      "HarvestCraftingToSiloNoSlotsRemainingText",
+      "Horticrafting Station full",
+      "",
+      -617514705,
+      ""
+    ],
+    [
+      "RitualSuspendFailInsuffientPoints",
+      "Deferring Failed: Insufficient Tribute",
+      "",
+      -1190405238,
+      ""
+    ],
+    [
+      "RitualSuspendFailCostTooLow",
+      "Deferring Failed: Item is too cheap to defer again",
+      "",
+      324011400,
+      ""
+    ],
+    [
+      "ReminderTextResonance",
+      "(Maximum 50 Resonance of each Element)",
+      "",
+      -813003549,
+      ""
+    ],
+    [
+      "RitualSuspendFailSuspendCapReached",
+      "Deferring Failed: You have reached the maximum amount of deferred items",
+      "",
+      -1101304814,
+      ""
+    ],
+    [
+      "MavenAtlasProgressBarPopup",
+      "The minimum number of boss encounters you must defeat in this region while the Maven is present in order to receive her invitation",
+      "",
+      1846097875,
+      ""
+    ],
+    [
+      "ReminderTextScorchNonHitNoDuration",
+      "(Scorched Enemies have -10% to Elemental Resistances)",
+      "",
+      -140290215,
+      ""
+    ],
+    [
+      "AddMavenErrorRegionTooLowLevel",
+      "This region requires more Watchstones to hold the Maven's interest.",
+      "",
+      -1380703710,
+      ""
+    ],
+    [
+      "GamepadToggleQuestGroupsExpansion",
+      "",
+      "Collapse Quest Groups",
+      1160203919,
+      ""
+    ],
+    [
+      "ReminderTextAll3Exposures",
+      "(Each Exposure applies -10% to the matching Resistance for 4 seconds)",
+      "",
+      1136728958,
+      ""
+    ],
+    [
+      "MapDeviceWindowMavenOptionPopup",
+      "Call the Maven to witness and affect this map's boss encounter. Defeating the boss encounter will allow the Maven to replicate the fight in her own realm.",
+      "",
+      -1104799411,
+      ""
+    ],
+    [
+      "ReminderTextTwo100PercentConversions",
+      "(If both conversions apply, each will convert 50%)",
+      "",
+      2000692576,
+      ""
+    ],
+    [
+      "ReminderTextCrazyMinions",
+      "(Minions which hear the whispers take 20% of their maximum life as chaos damage per second, have 50% increased attack speed and damage, and do not listen to you)",
+      "",
+      1207418312,
+      ""
+    ],
+    [
+      "QuestTrackerDisplayPageXofX",
+      "Page {0}/{1}",
+      "",
+      764292422,
+      ""
+    ],
+    [
+      "GamepadCycleQuestTrackerPages",
+      "Cycle Pages",
+      "",
+      -2090493462,
+      ""
+    ],
+    [
+      "ReminderTextKeystoneBattlemage",
+      "(Gain Added Spell Damage equal to the Damage of your Main Hand Weapon)",
+      "",
+      153036445,
       ""
     ],
     [
@@ -39636,10 +40623,164 @@
       ""
     ],
     [
+      "RitualVesselFilledWithBlood",
+      "Blood-filled Vessel created",
+      "",
+      1601161581,
+      ""
+    ],
+    [
+      "ReminderTextRecoup",
+      "(Only Damage from Hits can be Recouped, over 4 seconds following the Hit)",
+      "",
+      373401819,
+      ""
+    ],
+    [
+      "ReminderTextBrutalCharges",
+      "(Players have 3% chance to deal Triple Damage and 10% increased Stun Threshold per Brutal Charge)",
+      "",
+      -668456275,
+      ""
+    ],
+    [
+      "RemidnerTextAfflictionCharges",
+      "(Players have 8% more Damage with Ailments and 8% more Effect of Non-Damaging Ailments per Affliction Charge)",
+      "",
+      -76223787,
+      ""
+    ],
+    [
+      "ReminderTextAbsorptionCharges",
+      "(Players Recoup 12% of Elemental Damage taken as Energy Shield per Absorption Charge)",
+      "",
+      1643195294,
+      ""
+    ],
+    [
+      "OpenWebpageConfirmationTitle",
+      "Open Web Browser",
+      "",
+      -1829507658,
+      ""
+    ],
+    [
+      "OpenWebpageConfirmationText",
+      "This action will open a web browser. Do you wish to continue?",
+      "",
+      1387178060,
+      ""
+    ],
+    [
+      "XboxCannotOpenWebBrowser",
+      "",
+      "Cannot open the web browser due to account restrictions. Please check your Xbox Live account.",
+      -956463419,
+      "Cannot open the web browser due to account restrictions. Please check your Sony account."
+    ],
+    [
+      "ItemDisplayMavenVoidAreas",
+      "The Maven must Witness",
+      "",
+      -704489109,
+      ""
+    ],
+    [
+      "RitualUnknownItemDescriptionText",
+      "Complete more Rituals in this area to reveal this item",
+      "",
+      -2088343862,
+      ""
+    ],
+    [
+      "AtlasMapCollectedNotification",
+      "{0} Completion Witnessed by the Maven",
+      "",
+      742101080,
+      ""
+    ],
+    [
+      "StashTabEditorDeleteFolderConfirmation",
+      "Are you sure you wish to delete this folder? Contained Stashes will be moved out of the Folder.",
+      "",
+      -712219369,
+      ""
+    ],
+    [
+      "StashTabEditorFolderComboboxLabel",
+      "Folder",
+      "",
+      490969194,
+      ""
+    ],
+    [
       "ShopDeliveryDefaultOptionText",
       "Select an option...",
       "",
       -945224866,
+      ""
+    ],
+    [
+      "MapDeviceCannotAccessMavenArea",
+      "You must prove yourself capable before the Maven will allow you entry to her realm.",
+      "",
+      -912853467,
+      ""
+    ],
+    [
+      "MavenEnragedDefeated",
+      "kill The Maven",
+      "",
+      822174344,
+      ""
+    ],
+    [
+      "GamepadIdentifyFailedNoScrolls",
+      "",
+      "Requires a Scroll of Wisdom",
+      2108996413,
+      ""
+    ],
+    [
+      "RitualPrepaidItemPriceIncreaseWarning",
+      "This item's price will increase next time it appears in a set of Rituals, unless it is deferred again",
+      "",
+      1872338701,
+      ""
+    ],
+    [
+      "RitualPrepaidItemExpireWarning",
+      "This is the last time this item will be available from an area, unless it is deferred again",
+      "",
+      1648404063,
+      ""
+    ],
+    [
+      "RitualBloodVesselErrorNoChainUse",
+      "Ritual Vessels cannot be used in a map opened with a Blood-filled Vessel",
+      "",
+      -384152075,
+      ""
+    ],
+    [
+      "RitualBloodVesselErrorNoRepeatUse",
+      "Ritual Vessels cannot be used on a Ritual Altar more than once",
+      "",
+      -1928526807,
+      ""
+    ],
+    [
+      "RitualBloodVesselErrorCompletedShrineOnly",
+      "Ritual Vessels can only be used on a completed Ritual Altar",
+      "",
+      672105890,
+      ""
+    ],
+    [
+      "RitualBloodVesselBonuses",
+      "Rituals have 20% improved Favour Rewards\nRituals spawn Monsters 20% faster\nRituals have 20% more maximum monsters alive",
+      "",
+      558709536,
       ""
     ],
     [
@@ -39654,6 +40795,300 @@
       "Update Size/Style",
       "",
       -1068269876,
+      ""
+    ],
+    [
+      "RitualStoneFromArea",
+      "From",
+      "",
+      908780606,
+      ""
+    ],
+    [
+      "MagicNamePrefixPrefix",
+      "{1} {2} {0}",
+      "",
+      1297133979,
+      ""
+    ],
+    [
+      "MagicNameSuffixSuffix",
+      "{0} {1} {2}",
+      "",
+      22491679,
+      ""
+    ],
+    [
+      "ReminderTextRandomSafehouse",
+      "(Safehouses which have already been Located can still be randomly selected)",
+      "",
+      -1968467377,
+      ""
+    ],
+    [
+      "ReminderTextWildExile",
+      "(Wild Rogue Exiles are Rogue Exiles that are spawned randomly within the Area)",
+      "",
+      -590493488,
+      ""
+    ],
+    [
+      "ItemErrorOnlyOneModOfType",
+      "Item has only one modifier of the specified type",
+      "",
+      510912154,
+      ""
+    ],
+    [
+      "MonsterDominatedBySirus",
+      "Dominated by Sirus",
+      "",
+      486421974,
+      ""
+    ],
+    [
+      "ReminderTextTornVeil",
+      "(Merging Radius is the distance at which Beyond Portals can merge with one another to spawn Beyond Demons)",
+      "",
+      -656101754,
+      ""
+    ],
+    [
+      "ReminderTextFaceToFace",
+      "(Legion Generals are Queen Hyrri Ngamaku, General Marceus Lioneye, Cardinal Sanctus Vox, Viper Napuatzi and Aukuna, the Black Sekhema)",
+      "",
+      -899846240,
+      ""
+    ],
+    [
+      "ReminderTextProtractedBattle",
+      "(Monsters in Stasis do not take any actions)",
+      "",
+      -562699462,
+      ""
+    ],
+    [
+      "ReminderTextResourceReallocation",
+      "(Non-resident Architects are those that can be killed to upgrade the Incursion room)",
+      "",
+      2074109385,
+      ""
+    ],
+    [
+      "ReminderTextContestedDevelopment",
+      "(Resident Architects are those that can be killed to change the Incursion room)",
+      "",
+      -652328456,
+      ""
+    ],
+    [
+      "ReminderTextShaperGuardians",
+      "(Shaper Guardians are Guardian of the Chimera, Guardian of the Minotaur, Guardian of the Hydra and Guardian of the Phoenix)",
+      "",
+      -636781334,
+      ""
+    ],
+    [
+      "ReminderTextElderGuardians",
+      "(Elder Guardians are The Enslaver, The Eradicator, The Constrictor and The Purifier)",
+      "",
+      1841184613,
+      ""
+    ],
+    [
+      "ReminderTextAtlasConquerors",
+      "(Conquerors are Baran, the Crusader, Veritania, the Redeemer, Al-Hezmin, the Hunter and Drox, the Warlord)",
+      "",
+      -872659269,
+      ""
+    ],
+    [
+      "ReminderTextBasicCurrency",
+      "(Basic Currency includes any currency that drops from non-league content)",
+      "",
+      -1510178638,
+      ""
+    ],
+    [
+      "HiddenItemUnique",
+      "A random Unique Item",
+      "",
+      616127428,
+      ""
+    ],
+    [
+      "HiddenItemCatalyst",
+      "A random Catalyst",
+      "",
+      -1674670898,
+      ""
+    ],
+    [
+      "HiddenItemMetamorphOrgan",
+      "A random Metamorph Sample",
+      "",
+      -369827255,
+      ""
+    ],
+    [
+      "HiddenItemFlask",
+      "A random Flask",
+      "",
+      -827598796,
+      ""
+    ],
+    [
+      "HiddenItemAmulet",
+      "A random Amulet",
+      "",
+      -453029835,
+      ""
+    ],
+    [
+      "HiddenItemRing",
+      "A random Ring",
+      "",
+      -409235262,
+      ""
+    ],
+    [
+      "HiddenItemJewel",
+      "A random Jewel",
+      "",
+      376936073,
+      ""
+    ],
+    [
+      "HiddenItemTrinket",
+      "A random Trinket",
+      "",
+      -1476087729,
+      ""
+    ],
+    [
+      "HiddenItemLeaguestone",
+      "A random Leaguestone",
+      "",
+      -1400816055,
+      ""
+    ],
+    [
+      "HiddenItemContract",
+      "A random Contract",
+      "",
+      -723213175,
+      ""
+    ],
+    [
+      "HiddenItemBlueprint",
+      "A random Blueprint",
+      "",
+      334199702,
+      ""
+    ],
+    [
+      "HiddenItemMap",
+      "A random Map",
+      "",
+      1808770337,
+      ""
+    ],
+    [
+      "MapDeviceMapStatsWindowTitle",
+      "Additional Modifiers",
+      "",
+      -1590784975,
+      ""
+    ],
+    [
+      "MapDeviceMapStatsCategoryPassive",
+      "Atlas Tree Modifiers",
+      "",
+      -856199857,
+      ""
+    ],
+    [
+      "MapDeviceMapStatsCategorySextant",
+      "Sextant Modifiers",
+      "",
+      1566825954,
+      ""
+    ],
+    [
+      "MapDeviceMapStatsCategoryWatchstone",
+      "Watchstone Modifiers",
+      "",
+      44690017,
+      ""
+    ],
+    [
+      "MapDeviceMapToggleStatsVisibility",
+      "",
+      "Toggle Modifiers Display",
+      898405231,
+      ""
+    ],
+    [
+      "MapDeviceMapToggleStatsCycleGroups",
+      "",
+      "Cycle Categories",
+      -1028117885,
+      ""
+    ],
+    [
+      "RitualOpenReawrdWindowButtonPopup",
+      "Show Ritual Rewards",
+      "",
+      -461650820,
+      ""
+    ],
+    [
+      "RitualRewardsWindowApplyItemFilter",
+      "Apply Item Filter",
+      "",
+      -880901990,
+      ""
+    ],
+    [
+      "MapStashWitnessedByMaven",
+      "Witnessed by The Maven",
+      "",
+      -1819385434,
+      ""
+    ],
+    [
+      "RitualShopFutureDiscount",
+      "Future Discount:",
+      "",
+      -1760256378,
+      ""
+    ],
+    [
+      "RitualRewardWindowDeferFee",
+      "Deferral Fee:",
+      "",
+      440201030,
+      ""
+    ],
+    [
+      "RitualRewardWindowTotalDeferCost",
+      "Total Deferral Cost:",
+      "",
+      2083974425,
+      ""
+    ],
+    [
+      "ReminderTextInfluencedItems",
+      "(Influenced Items can have modifiers not found anywhere else)",
+      "",
+      -867369286,
+      ""
+    ],
+    [
+      "HarvestCraftOptionDisabledInHideout",
+      "You cannot use this crafting option in a Hideout.",
+      "",
+      -2078730669,
       ""
     ]
   ]

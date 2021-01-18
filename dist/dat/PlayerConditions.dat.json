@@ -160,7 +160,7 @@
       1,
       null,
       [
-        3054
+        3055
       ],
       false,
       1,
@@ -174,7 +174,7 @@
       1,
       null,
       [
-        3604
+        3605
       ],
       false,
       1,
@@ -184,7 +184,7 @@
     [
       "IsCoveredInSpiders",
       [
-        756
+        757
       ],
       false,
       1,
@@ -198,7 +198,7 @@
     [
       "HasWebbedX5",
       [
-        817
+        818
       ],
       false,
       5,
@@ -212,7 +212,7 @@
     [
       "IsWebbed",
       [
-        817
+        818
       ],
       false,
       1,
@@ -226,7 +226,7 @@
     [
       "HasGoddessBeam",
       [
-        699
+        700
       ],
       false,
       1,
@@ -240,7 +240,7 @@
     [
       "IsFirebombed",
       [
-        715
+        716
       ],
       false,
       1,
@@ -254,7 +254,7 @@
     [
       "HasGraspingVinesX10",
       [
-        953
+        954
       ],
       false,
       10,
@@ -272,7 +272,7 @@
       1,
       null,
       [
-        1932
+        1933
       ],
       false,
       5,
@@ -282,7 +282,7 @@
     [
       "HasPietysRage",
       [
-        399
+        400
       ],
       false,
       1,
@@ -296,8 +296,8 @@
     [
       "IsJudged",
       [
-        488,
-        489
+        489,
+        490
       ],
       false,
       1,
@@ -395,9 +395,9 @@
     [
       "HasEffluentX10",
       [
-        807,
         808,
-        809
+        809,
+        810
       ],
       false,
       10,
@@ -415,7 +415,7 @@
       1,
       null,
       [
-        2344
+        2346
       ],
       false,
       1,
@@ -495,13 +495,13 @@
     [
       "HasTempleTempestBuff",
       [
-        424,
         425,
-        417,
-        419,
-        440,
-        435,
-        423
+        426,
+        418,
+        420,
+        441,
+        436,
+        424
       ],
       false,
       1,
@@ -515,7 +515,7 @@
     [
       "HasTempleExposure",
       [
-        1128
+        1129
       ],
       false,
       1,
@@ -543,7 +543,7 @@
     [
       "AffectedByDarkVortex",
       [
-        863
+        864
       ],
       false,
       1,
@@ -557,7 +557,7 @@
     [
       "AffectedByMonsterConsecratedGround",
       [
-        1235
+        1236
       ],
       false,
       1,
@@ -589,7 +589,7 @@
       1,
       null,
       [
-        2048
+        2049
       ],
       false,
       1,
@@ -599,7 +599,7 @@
     [
       "HasQuicksandX10",
       [
-        921
+        922
       ],
       false,
       10,
@@ -634,7 +634,7 @@
       false,
       1,
       [
-        3609
+        3726
       ],
       false
     ],
@@ -648,7 +648,7 @@
       false,
       1,
       [
-        3608
+        3725
       ],
       false
     ],
@@ -662,8 +662,8 @@
       false,
       1,
       [
-        3608,
-        3609
+        3725,
+        3726
       ],
       true
     ],
@@ -688,7 +688,7 @@
       1,
       null,
       [
-        3437
+        3438
       ],
       false,
       1,
@@ -698,10 +698,66 @@
     [
       "HasEmberstorm",
       [
-        1611
+        1612
       ],
       false,
       1,
+      null,
+      [],
+      false,
+      1,
+      [],
+      false
+    ],
+    [
+      "HasBoneRoil",
+      [
+        576
+      ],
+      false,
+      1,
+      null,
+      [],
+      false,
+      1,
+      [],
+      false
+    ],
+    [
+      "HasDoedresTorment",
+      [
+        883
+      ],
+      false,
+      5,
+      null,
+      [],
+      false,
+      1,
+      [],
+      false
+    ],
+    [
+      "HasDoedresWithering",
+      [
+        884
+      ],
+      false,
+      5,
+      null,
+      [],
+      false,
+      1,
+      [],
+      false
+    ],
+    [
+      "HasDoedresSuffering",
+      [
+        885
+      ],
+      false,
+      5,
       null,
       [],
       false,

@@ -114,6 +114,13 @@
       1
     ],
     [
+      "AreaTransition",
+      "Metadata/MiscellaneousObjects/AreaTransition",
+      [],
+      726109394,
+      1
+    ],
+    [
       "ColdSnap",
       "Metadata/Effects/Spells/coldsnap/cold_snap",
       [],
@@ -901,15 +908,6 @@
       4
     ],
     [
-      "BreachClientObject",
-      "Metadata/MiscellaneousObjects/Breach/BreachClientObject",
-      [
-        29
-      ],
-      -243030025,
-      4
-    ],
-    [
       "BreachLargeChestMarker",
       "Metadata/MiscellaneousObjects/Breach/LargeChestMarker",
       [
@@ -1512,6 +1510,13 @@
       4
     ],
     [
+      "RainOfSporesBloomPodSuffering",
+      "Metadata/Effects/Microtransactions/Spells/toxic_rain_suffering/BloomPod",
+      [],
+      -1610035307,
+      4
+    ],
+    [
       "DelveSpiderWeb",
       "Metadata/Effects/Spells/ground_effects/spider_web/DelveSpiderWeb",
       [],
@@ -2056,6 +2061,13 @@
       "Metadata/Monsters/LeagueSynthesis/BossArenaObjects/Voidsand",
       [],
       -1848026013,
+      4
+    ],
+    [
+      "MavenBrainVoidsand",
+      "Metadata/Monsters/TheCollector/Voidsand",
+      [],
+      968302665,
       4
     ],
     [
@@ -2693,7 +2705,7 @@
       "Metadata/MiscellaneousObjects/FairgravesStash",
       [],
       1560741026,
-      1
+      4
     ],
     [
       "AfflictionRotatingColdOrbs",
@@ -2707,7 +2719,7 @@
       "Metadata/MiscellaneousObjects/FairgravesGuildStash",
       [],
       35610969,
-      1
+      4
     ],
     [
       "AfflictionDemonLightningGigaBallGround",
@@ -2759,75 +2771,38 @@
       4
     ],
     [
-      "HarvestObjectGhost",
-      "Metadata/MiscellaneousObjects/Harvest/ObjectGhost",
-      [
-        53
-      ],
-      -650149017,
-      4
-    ],
-    [
-      "HarvestPlacedObject",
-      "Metadata/MiscellaneousObjects/Harvest/PlacedObject",
-      [
-        53
-      ],
-      1186893829,
-      4
-    ],
-    [
       "HarvestMonsterSeed",
       "Metadata/MiscellaneousObjects/Harvest/MonsterSeed",
-      [
-        53
-      ],
+      [],
       -1757200069,
       4
     ],
     [
       "HarvestExtractor",
       "Metadata/MiscellaneousObjects/Harvest/Extractor",
-      [
-        53
-      ],
+      [],
       1090149058,
       4
     ],
     [
       "HarvestIrrigator",
       "Metadata/MiscellaneousObjects/Harvest/Irrigator",
-      [
-        53
-      ],
+      [],
       609926187,
       4
     ],
     [
       "HarvestPole",
       "Metadata/MiscellaneousObjects/Harvest/Pole",
-      [
-        53
-      ],
+      [],
       2065906538,
       4
     ],
     [
       "HarvestStorageTank",
       "Metadata/MiscellaneousObjects/Harvest/StorageTank",
-      [
-        53
-      ],
+      [],
       1601930133,
-      4
-    ],
-    [
-      "HarvestStorageTank2",
-      "Metadata/MiscellaneousObjects/Harvest/StorageTankAdvanced",
-      [
-        53
-      ],
-      -1223643929,
       4
     ],
     [
@@ -2903,9 +2878,7 @@
     [
       "HarvestPipe",
       "Metadata/MiscellaneousObjects/Harvest/HarvestPipeBeamEffect",
-      [
-        53
-      ],
+      [],
       -1900619567,
       4
     ],
@@ -3002,9 +2975,7 @@
     [
       "HarvestRootPathOshabi",
       "Metadata/MiscellaneousObjects/Harvest/RootPath/RootPathOshabi",
-      [
-        53
-      ],
+      [],
       -59885889,
       4
     ],
@@ -3020,15 +2991,6 @@
       "Metadata/Monsters/LeagueHarvest/Green/Objects/HarvestGreenExplodingPodDevourer",
       [],
       -140551084,
-      4
-    ],
-    [
-      "HarvestCraftingSilo",
-      "Metadata/MiscellaneousObjects/Harvest/CraftingSilo",
-      [
-        53
-      ],
-      1861310120,
       4
     ],
     [
@@ -3107,15 +3069,6 @@
         54
       ],
       -741990845,
-      4
-    ],
-    [
-      "HarvestPlantBooster",
-      "Metadata/MiscellaneousObjects/Harvest/HarvestPlantBooster",
-      [
-        53
-      ],
-      947350579,
       4
     ],
     [
@@ -3374,14 +3327,14 @@
       "Metadata/MiscellaneousObjects/TwilightStash",
       [],
       -1136483910,
-      1
+      4
     ],
     [
       "MicrotransactionTwilightGuildStash",
       "Metadata/MiscellaneousObjects/TwilightGuildStash",
       [],
       -1611086124,
-      1
+      4
     ],
     [
       "HeistTwinsIceRainMarker",
@@ -3391,10 +3344,10 @@
       4
     ],
     [
-      "HeistTwinsFireArrowDownTemporary",
-      "Metadata/Monsters/LeagueHeist/Boss/VicVoxFireWallTemp",
+      "OilArrowGround",
+      "Metadata/MiscellaneousObjects/OilArrowGround",
       [],
-      541954377,
+      -914811191,
       4
     ],
     [
@@ -3405,10 +3358,185 @@
       4
     ],
     [
+      "WaterSphere",
+      "Metadata/Monsters/Anomalies/WaterSphere",
+      [],
+      1807777597,
+      4
+    ],
+    [
+      "HeistTwinsFireArrowDownTemporary",
+      "Metadata/Monsters/LeagueHeist/Boss/VicVoxFireWallTemp",
+      [],
+      541954377,
+      4
+    ],
+    [
       "HeistFreidrichBloodPoolController",
       "Metadata/Monsters/LeagueHeist/Boss/FreidrichPool",
       [],
       -813315231,
+      4
+    ],
+    [
+      "HarvestBossVinePathGreenMapBoss",
+      "Metadata/MiscellaneousObjects/Harvest/RootPath/RootPathGreenMapBoss",
+      [],
+      1853600504,
+      4
+    ],
+    [
+      "HarvestBossVinePathRedMapBoss",
+      "Metadata/MiscellaneousObjects/Harvest/RootPath/RootPathRedMapBoss",
+      [],
+      -1892682876,
+      4
+    ],
+    [
+      "HarvestBossVinePathBlueMapBoss",
+      "Metadata/MiscellaneousObjects/Harvest/RootPath/RootPathBlueMapBoss",
+      [],
+      -345863329,
+      4
+    ],
+    [
+      "IceSaplingRune",
+      "Metadata/Monsters/SaplingMonster/Objects/IceSaplingRune",
+      [],
+      -83253052,
+      4
+    ],
+    [
+      "MicrotransactionEliteFaithswornPortal",
+      "Metadata/MiscellaneousObjects/Portals/EliteFaithswornPortal",
+      [],
+      -1436902000,
+      4
+    ],
+    [
+      "DominusStandaloneSpawner",
+      "Metadata/Monsters/Demonmodular/TowerSpawners/TowerSpawnerPortalsMapStandalone",
+      [],
+      -753833713,
+      4
+    ],
+    [
+      "BrutusStandaloneCageSpawner",
+      "Metadata/Monsters/Brute/BruteCageSpawner",
+      [],
+      1303617864,
+      4
+    ],
+    [
+      "FireFuryStandaloneLavaGroundWarpTarget",
+      "Metadata/Monsters/Seawitch/FireFuryStandaloneLavaGround",
+      [],
+      1574521780,
+      4
+    ],
+    [
+      "IceSaplingRuneOrb",
+      "Metadata/Monsters/SaplingMonster/Objects/IceSaplingRuneOrb",
+      [],
+      -449379882,
+      4
+    ],
+    [
+      "TeleportMarker",
+      "Metadata/MiscellaneousObjects/TeleportMarker",
+      [],
+      -1171505017,
+      4
+    ],
+    [
+      "StandaloneShavronneTeleportMarker",
+      "Metadata/Monsters/Shavronne/ShavronneStandaloneTeleportMarker",
+      [],
+      -395600683,
+      4
+    ],
+    [
+      "StandaloneHydraTurret1",
+      "Metadata/Monsters/Hydra/HydraTurret1Standalone",
+      [],
+      486752394,
+      4
+    ],
+    [
+      "StandaloneHydraTurret2",
+      "Metadata/Monsters/Hydra/HydraTurret2Standalone",
+      [],
+      2082953781,
+      4
+    ],
+    [
+      "DespairBearStandaloneCrack1",
+      "Metadata/Monsters/DespairBear/BearCrackStandalone",
+      [],
+      -1990194510,
+      4
+    ],
+    [
+      "DespairBearStandaloneCrack2",
+      "Metadata/Monsters/DespairBear/BearCrackStandalone2",
+      [],
+      1521732157,
+      4
+    ],
+    [
+      "GeneralAdusStandaloneLightningPillar",
+      "Metadata/Monsters/GeneralAdus/LightningGridAdusStandalone",
+      [],
+      -249967480,
+      4
+    ],
+    [
+      "VilentaBombTossObjectMap",
+      "Metadata/Effects/Spells/monsters_effects/Vilenta/bomb_toss/VilentaBombTossObjectMap",
+      [],
+      -1473041338,
+      4
+    ],
+    [
+      "MicrotransactionDespairPortal",
+      "Metadata/MiscellaneousObjects/Portals/DespairPortal",
+      [],
+      857462456,
+      4
+    ],
+    [
+      "SwampBehemothPod1",
+      "Metadata/Monsters/BeehiveBehemoth/Objects/VinePod",
+      [],
+      906296445,
+      4
+    ],
+    [
+      "SwampBehemothPod2",
+      "Metadata/Monsters/BeehiveBehemoth/Objects/VinePod2",
+      [],
+      -515734651,
+      4
+    ],
+    [
+      "SwampBehemothPod3",
+      "Metadata/Monsters/BeehiveBehemoth/Objects/VinePod3",
+      [],
+      995529647,
+      4
+    ],
+    [
+      "MicrotransactionMiseryPortal",
+      "Metadata/MiscellaneousObjects/Portals/MiseryPortal",
+      [],
+      -1402624442,
+      4
+    ],
+    [
+      "StandaloneKitavaXNuke",
+      "Metadata/Monsters/KitavaBoss/KitavaFinalMapStandaloneXNukeMarker",
+      [],
+      -1391484963,
       4
     ],
     [
@@ -3447,11 +3575,39 @@
       4
     ],
     [
-      "MicrotransactionEliteFaithswornPortal",
-      "Metadata/MiscellaneousObjects/Portals/EliteFaithswornPortal",
+      "DjinnTrackingSlam",
+      "Metadata/Effects/Spells/monsters_effects/AtlasofWorldsBosses/Djinn_demon/TrackingEffect",
       [],
-      -1436902000,
+      681873012,
       4
+    ],
+    [
+      "MicrotransactionSufferingPortal",
+      "Metadata/MiscellaneousObjects/Portals/SufferingPortalEffect",
+      [],
+      830843312,
+      4
+    ],
+    [
+      "OrionGeyserObjectInfluence",
+      "Metadata/Monsters/AtlasExiles/OrionArenaObjects/OrionGeyserObjectInfluence",
+      [],
+      -16930470,
+      4
+    ],
+    [
+      "MicrotransactionWarlordStash",
+      "Metadata/MiscellaneousObjects/WarlordStash",
+      [],
+      -1495882922,
+      1
+    ],
+    [
+      "MicrotransactionWarlordGuildStash",
+      "Metadata/MiscellaneousObjects/WarlordGuildStash",
+      [],
+      -1351062006,
+      1
     ]
   ]
 }

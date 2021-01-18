@@ -1944,7 +1944,7 @@
       "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel1",
       "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Heading1",
       [],
-      "In  <italic>{Path of Exile: Heist} engagiert ihr meisterhafte Diebe, die euch dabei helfen, riskante Raubüberfälle durchzuführen. Stehlt wertvolle Artefakte, finanziert damit die Ausrüstung und Ausbildung eurer Crew und plant so den ganz großen Coup.\n\nUnsere September-Erweiterung enthält die Heist-Herausforderungsliga, neun neue Fertigkeiten- und Unterstützungsgemmen sowie die Überarbeitung von Flüchen, Stahl-Fertigkeiten und einigen Zaubern. Bei einem großen Coup könnt ihr außerdem zahlreiche neue Belohnungen erbeuten, wie etwa Verzauberungen für Waffen und Körperrüstungen, besondere Schmuckstücke, Gemmen mit alternativer Qualität sowie Repliken von einzigartigen Gegenständen.",
+      "In <italic>{Path of Exile: Heist} engagiert ihr meisterhafte Diebe, die euch dabei helfen, riskante Raubüberfälle durchzuführen. Stehlt wertvolle Artefakte, finanziert damit die Ausrüstung und Ausbildung eurer Crew und plant so den ganz großen Coup.\n\nUnsere September-Erweiterung enthält die Heist-Herausforderungsliga, neun neue Fertigkeiten- und Unterstützungsgemmen sowie die Überarbeitung von Flüchen, Stahl-Fertigkeiten und einigen Zaubern. Bei einem großen Coup könnt ihr außerdem zahlreiche neue Belohnungen erbeuten, wie etwa Verzauberungen für Waffen und Körperrüstungen, besondere Schmuckstücke, Gemmen mit alternativer Qualität sowie Repliken von einzigartigen Gegenständen.",
       "Heist",
       false,
       [],
@@ -2257,6 +2257,282 @@
       [],
       "",
       "Art/2DArt/UIImages/Login/LeagueInfo/Heist/textbackground",
+      true
+    ],
+    [
+      "EchoesTrailer",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/ThumbnailTrailer",
+      "",
+      [],
+      "",
+      "Echoes",
+      false,
+      [],
+      [],
+      "http://web.poecdn.com/public/videos/EchoesTrailer_En.bk2",
+      "",
+      false
+    ],
+    [
+      "Echoes1",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel1",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Heading1",
+      [],
+      "In <italic>{Path of Exile: Echos des Atlas} erhaltet ihr noch mehr Kontrolle über das Endgame in Path of Exile: Baut den Fertigkeitenbaum jeder Region eures Atlas aus, fertigt Wächtersteine für bestimmte Belohnungen an, kämpft gleichzeitig gegen bis zu zehn Kartenbosse und stellt euch der neuen ultimativen Herausforderung des Atlas: die Seherin.\n\nNeben diesen neuen Endgame-Inhalten könnt ihr in der actiongeladenen Ritual-Liga gefährliche, aber auch lohnenswerte Rituale durchführen, neunzehn verbesserte Aszendenzklassen ausprobieren, mächtige neue Gegenstände entdecken und vieles mehr.",
+      "Echoes",
+      false,
+      [],
+      [],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/textbackground",
+      false
+    ],
+    [
+      "Echoes2",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel2",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Heading2",
+      [],
+      "<italic>{Der Älteste wurde eingeschlossen, doch sein Verschwinden blieb nicht lange unbemerkt: Wesen fernab der Grenzen des Atlas der Welten haben ihre Blicke in unsere Richtung gelenkt. Der erste dieser Besucher ist ein Wesen, genannt: Die Seherin. Sie ist begierig darauf, euch dabei zuzusehen, wie ihr euch den gefährlichsten Gegnern des Atlas stellt. Nehmt ihre Herausforderung an und stellt euer Talent und euer Durchhaltevermögen auf die Probe. Erweist ihr euch als würdig, wird sie euch eine Kostprobe ihrer unbändigen Macht gewähren.}",
+      "Echoes",
+      true,
+      [],
+      [],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/textbackground",
+      false
+    ],
+    [
+      "Echoes3",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel3",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Heading3",
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel3/Screenshot1",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel3/Screenshot2",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel3/Screenshot3"
+      ],
+      "Bezwingt ihr im Beisein der Seherin drei Kartenbosse, verdient ihr euch eine Einladung in ihr Reich, wo ihr euch diesen Bossen erneut stellen müsst – und zwar allen gleichzeitig. Nachdem ihr eure Stärke bewiesen habt, fordert sie euch zu vier Bossen heraus, dann fünf, dann sechs und schließlich zehn. Erst dann könnt ihr euch der neuen ultimativen Herausforderung des Atlas stellen: der Seherin selbst.",
+      "Echoes",
+      false,
+      [],
+      [],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/textbackground",
+      false
+    ],
+    [
+      "Echoes4",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel4",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Heading4",
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel4/Screenshot1",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel4/Screenshot2",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel4/Screenshot3"
+      ],
+      "Übernehmt die Kontrolle über euren Atlas, schaltet regionale Fertigkeitenbäume frei und verstärkt damit die Inhalte und Belohnungen, die ihr in diesen Regionen entdeckt.",
+      "Echoes",
+      true,
+      [],
+      [],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/textbackground",
+      false
+    ],
+    [
+      "Echoes5",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel5",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Heading5",
+      [],
+      "Echos des Atlas führt drei neue Arten von Wächtersteinen ein, die angefertigt werden können. Diese wertvollen Endgame-Gegenstände ermöglichen es, euren Atlas aufzuwerten und den Fokus auf bestimmte Belohnungen zu legen, die ihr in Karten erbeutet. Spieler, die diese mächtigen Belohnungen finden, werden feststellen, dass diese eindeutig besser sind als reguläre Wächtersteine: Sie können gehandelt werden, sie werden durch die Verwendung nicht verbraucht und ihre Boni können gestapelt werden.\n\nEine weitere Endgame-Belohnung, die Sphäre der Seherin, wirkt sich auf Gegenstände aus, die über zwei oder mehr Einfluss-Modifikatoren verfügen. Wenn ihr diese Sphäre auf einen solchen Gegenstand anwendet, wird einer dieser Einfluss-Modifikatoren aufgewertet und der andere entfernt. Wird ein Einfluss-Modifikator vom derzeit höchsten Level aufgewertet, wird daraus ein neuer <italic>{erhabener} Level.",
+      "Echoes",
+      false,
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/AukunasPlatinumNewVastirWatchstoneofTreacherousRealms",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/PackedTitaniumLexProximaWatchstoneofGeomancy",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/EssentialChromiumLexProximaWatchstoneofVersatility",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/MavensOrb",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/BrambleWard"
+      ],
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/AukunasPlatinumNewVastirWatchstoneHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/PackedTitaniumLexProximaWatchstoneHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/EssentialChromiumLexProximaWatchstoneHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/MavenOrbHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/BrambleWardBodyHover"
+      ],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/textbackground",
+      false
+    ],
+    [
+      "Echoes6",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel6",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Heading6",
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel6/Screenshot1",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel6/Screenshot2",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel6/Screenshot3"
+      ],
+      "Elf neue Karten und herausfordernde Bosse warten im Atlas darauf, entdeckt zu werden. Hierzu gehören unerbittliche Umgebungen wie <italic>{der Meeresgrund, die Flussgabelung, Gefrorene Hütten und die Grabmulde}.",
+      "Echoes",
+      true,
+      [],
+      [],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/textbackground",
+      false
+    ],
+    [
+      "Echoes7",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel7",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Heading7",
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel7/Screenshot1",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel7/Screenshot2",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel7/Screenshot3"
+      ],
+      "<italic>{Bizarre Gebilde aus Fleisch, Blut und Sehnen sind nun überall in Wraeclast verteilt. Während ihr Ursprung und ihre Bestimmung nicht bekannt sind, scheint es sie nach Blut und Tod zu dürsten, deren Befriedigung sie großzügig entlohnen.}\n\nRitual ist eine Kampf-Liga, die euch den arkanen Mächten des Ritual-Altars und den stärker werdenden Wellen an Monstern aussetzt, gegen die ihr euch innerhalb des Ritualkreises stellen müsst. Jedes nachfolgende Ritual in einem Gebiet ist schwieriger und bietet bessere Belohnungen als das vorherige.",
+      "Echoes",
+      false,
+      [],
+      [],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/textbackground",
+      false
+    ],
+    [
+      "Echoes8",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel8",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Heading8",
+      [],
+      "Durch das Töten von Monstern während eines Rituals erhaltet ihr sogenannten Tribut, den ihr gegen eine Auswahl an verlockenden Gegenständen und Belohnungen eintauschen könnt. Unter diesen Belohnungen findet ihr auch neue Basistypen, die mächtige neue implizite Modifikatoren, aber auch bestimmte Kehrseiten aufweisen. Ihr könnt auch Tribut dafür aufwenden, die Auswahl der Belohnungen neu auswürfeln zu lassen oder bestimmte Gegenstände für später aufzubewahren.",
+      "Echoes",
+      true,
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/StormriderBoots",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/PenitentMask",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/NexusGloves"
+      ],
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/StormriderHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/PenitentHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/NexusHover"
+      ],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/textbackground",
+      false
+    ],
+    [
+      "Echoes9",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel9",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Heading9",
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel9/Screenshot1",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel9/Screenshot2",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel9/Screenshot3"
+      ],
+      "Im Endgame könnt ihr handelbare Ritualgefäße erhalten, in die ihr die Monster aus einem Ritual einsperren könnt. Ihr könnt bis zu vier dieser Gefäße zusammen mit einer Karte in den Kartenapparat legen, um die Monster der Rituale in der Karte durch die Monster aus dem Gefäß zu ergänzen, um damit sowohl die Schwierigkeit als auch die Belohnungen dieser Rituale zu erhöhen.\n\nDarüber hinaus kann man mit diesen Gefäßen die Monsterdichte in vollgepackten Karten, die Mechaniken wie Beyond oder Delirium enthalten, noch weiter erhöhen.",
+      "Echoes",
+      false,
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/RitualVessel",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/BloodfilledVessel"
+      ],
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/RitualVesselHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/BloodfilledVesselHover"
+      ],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/textbackground",
+      false
+    ],
+    [
+      "Echoes10",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel10",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Heading10",
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel10/Screenshot1",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel10/Screenshot2",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel10/Screenshot3"
+      ],
+      "Neben den numerischen Änderungen, die wir an jeder Aszendenzklasse vorgenommen haben, wurden die Scharfschützin, der Inquisitor und die Elementaristin umfangreich überarbeitet. Das Ziel dieser Änderungen besteht darin, die Macht innerhalb jeder Aszendenz neu zu verteilen und zahlreiche neue Wege zu eröffnen, in Path of Exile mächtige Charaktere aufzubauen.",
+      "Echoes",
+      true,
+      [],
+      [],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/textbackground",
+      false
+    ],
+    [
+      "Echoes11",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel11",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Heading11",
+      [],
+      "Einer der wichtigsten Bestandteile einer Path of Exile Erweiterung sind die Gegenstände! Neben den veränderbaren Wächtersteinen, der Sphäre der Seherin und den zahlreichen neuen Basistypen, haben wir auch die Fertigkeitengemme Hydrosphäre und die Unterstützungsgemme Dreieinigkeit eingeführt, sowie 13 neue einzigartige Gegenstände und einige Weissagungskarten, die von unseren Unterstützern entworfen wurden.",
+      "Echoes",
+      false,
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/Blackflame",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/LegacyofFury",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/HandoftheFervent",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/FatefulMeeting",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/Acclimatisation",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/Hydrosphere",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/TrinitySupport"
+      ],
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/BlackflameRingHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/LegacyofFuryHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/HandoftheFerventHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/FatefulMeetingHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/AcclimatisationHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/HydrosphereHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/TrinitySupportHover"
+      ],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/textbackground",
+      false
+    ],
+    [
+      "Echoes12",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel12",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Heading12",
+      [],
+      "Harvest ist zurück! Statt euren eigenen Heiligen Hain bepflanzen und verwalten zu müssen, werdet ihr Portale zu fertigen Gärten mit mehreren Parzellen entdecken, die bereit für die Ernte sind. Wägt die Schwierigkeit der Begegnung gut gegenüber den Anfertigungsoptionen ab, bevor ihr eure Wahl trefft. Wenn ihr die beschworenen Monster tötet, erhaltet ihr Lebenskraft, die ihr zum Anfertigen und Verbessern eurer Gegenstände verwenden könnt.",
+      "Echoes",
+      true,
+      [],
+      [],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/textbackground",
+      false
+    ],
+    [
+      "Echoes13",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel13",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Heading13",
+      [],
+      "In <italic>{Echos des Atlas} werden Heist-Aufträge ab Akt 6 fallen gelassen. Abtrünnige verbessern ihre Fertigkeiten jetzt schneller, Signa werden in größeren Stapeln fallen gelassen und Quest-Aufträge sind jetzt in der nächsten Räuber-Schatztruhe enthalten, sobald diese Quest verfügbar ist.",
+      "Echoes",
+      false,
+      [],
+      [],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/textbackground",
+      false
+    ],
+    [
+      "Echoes14",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel14",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Heading14",
+      [],
+      "Neben den kürzlich veröffentlichten Universellen Paketen bringen wir zum Start von Echos des Atlas und der Ritual-Liga auch zwei neue Sets an Unterstützerpaketen heraus: Die Abtrünniger- und Glaubenshüter-Unterstützerpakete sind jeweils in zwei Preiskategorien verfügbar und enthalten jede Menge Punkte und mehrere exklusive Mikrotransaktionen wie Rüstungssets und Charaktereffekte.\n\n<italic>{Path of Exile: Echos des Atlas} erscheint am 15. Januar auf dem PC und am 20. Januar auf der Xbox One und PlayStation 4.",
+      "Echoes",
+      true,
+      [],
+      [],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/textbackground",
       true
     ]
   ]

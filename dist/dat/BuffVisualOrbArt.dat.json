@@ -119,14 +119,6 @@
     ],
     [
       "ChargeEnduranceElder",
-      1751,
-      [],
-      [],
-      "orb_finish",
-      ""
-    ],
-    [
-      "ChargeFrenzyElder",
       1752,
       [],
       [],
@@ -134,8 +126,16 @@
       ""
     ],
     [
+      "ChargeFrenzyElder",
+      1753,
+      [],
+      [],
+      "orb_finish",
+      ""
+    ],
+    [
       "ChargePowerElder",
-      1750,
+      1751,
       [],
       [],
       "orb_finish",
@@ -143,7 +143,7 @@
     ],
     [
       "ChargePowerAlternate",
-      662,
+      663,
       [],
       [],
       "orb_finish",
@@ -151,7 +151,7 @@
     ],
     [
       "ChargeFrenzyBloodDance",
-      4083,
+      4090,
       [],
       [],
       "orb_finish",
@@ -159,7 +159,7 @@
     ],
     [
       "ChargeFrenzySuper",
-      827,
+      828,
       [],
       [],
       "orb_finish",
@@ -167,7 +167,7 @@
     ],
     [
       "ChargeSpirit",
-      1654,
+      1655,
       [],
       [],
       "orb_finish",
@@ -175,7 +175,7 @@
     ],
     [
       "ChargeSiphoning",
-      1792,
+      1793,
       [],
       [],
       "orb_finish",
@@ -183,7 +183,7 @@
     ],
     [
       "ChargeVoid",
-      1795,
+      1796,
       [],
       [],
       "orb_finish",
@@ -191,7 +191,7 @@
     ],
     [
       "ChargeDivine",
-      2859,
+      2865,
       [],
       [],
       "orb_finish",
@@ -199,7 +199,31 @@
     ],
     [
       "ChargeInspiration",
-      3426,
+      3432,
+      [],
+      [],
+      "orb_finish",
+      ""
+    ],
+    [
+      "ChargeBrutal",
+      5026,
+      [],
+      [],
+      "orb_finish",
+      ""
+    ],
+    [
+      "ChargeAffliction",
+      5027,
+      [],
+      [],
+      "orb_finish",
+      ""
+    ],
+    [
+      "ChargeAbsorption",
+      5028,
       [],
       [],
       "orb_finish",
@@ -207,7 +231,7 @@
     ],
     [
       "BloodlinesChargeZeal",
-      464,
+      465,
       [],
       [],
       "orb_finish",
@@ -215,7 +239,7 @@
     ],
     [
       "BloodlinesChargeVigor",
-      465,
+      466,
       [],
       [],
       "orb_finish",
@@ -231,7 +255,7 @@
     ],
     [
       "CurseTemporalChainsNew",
-      4485,
+      4492,
       [
         "hargeEndurance",
         "ance"
@@ -245,7 +269,7 @@
     ],
     [
       "IzaroTemporalChains",
-      824,
+      825,
       [],
       [],
       "orb_finish",
@@ -253,7 +277,7 @@
     ],
     [
       "IzaroDeathTemporalChains",
-      847,
+      848,
       [],
       [],
       "orb_finish",
@@ -277,7 +301,7 @@
     ],
     [
       "IzaroVulnerabilityOrb",
-      826,
+      827,
       [],
       [],
       "orb_finish",
@@ -285,7 +309,7 @@
     ],
     [
       "IzaroDeathVulnerabilityOrb",
-      849,
+      850,
       [],
       [],
       "orb_finish",
@@ -301,7 +325,7 @@
     ],
     [
       "IzaroElementalWeaknessOrb",
-      825,
+      826,
       [],
       [],
       "orb_finish",
@@ -309,7 +333,7 @@
     ],
     [
       "IzaroDeathElementalWeaknessOrb",
-      848,
+      849,
       [],
       [],
       "orb_finish",
@@ -341,7 +365,7 @@
     ],
     [
       "CurseChaosWeakness",
-      1739,
+      1740,
       [],
       [],
       "orb_finish",
@@ -357,7 +381,7 @@
     ],
     [
       "CurseSilence",
-      261,
+      262,
       [],
       [],
       "orb_finish",
@@ -397,7 +421,7 @@
     ],
     [
       "FlaskCurseImmunity",
-      140,
+      141,
       [],
       [],
       "orb_finish",
@@ -405,7 +429,7 @@
     ],
     [
       "DoedreRedOrb",
-      1378,
+      1379,
       [],
       [],
       "orb_finish",
@@ -413,7 +437,7 @@
     ],
     [
       "DoedreGreenOrb",
-      1377,
+      1378,
       [],
       [],
       "orb_finish",
@@ -421,7 +445,7 @@
     ],
     [
       "DoedrePurpleOrb",
-      1376,
+      1377,
       [],
       [],
       "orb_finish",
@@ -429,94 +453,6 @@
     ],
     [
       "ShrinePlus",
-      243,
-      [],
-      [],
-      "orb_finish",
-      ""
-    ],
-    [
-      "ShrineFist",
-      242,
-      [],
-      [],
-      "orb_finish",
-      ""
-    ],
-    [
-      "ShrineSword",
-      245,
-      [],
-      [],
-      "orb_finish",
-      ""
-    ],
-    [
-      "ShrineWing",
-      241,
-      [],
-      [],
-      "orb_finish",
-      ""
-    ],
-    [
-      "ShrineThorns",
-      299,
-      [],
-      [],
-      "orb_finish",
-      ""
-    ],
-    [
-      "ShrineFire",
-      246,
-      [],
-      [],
-      "orb_finish",
-      ""
-    ],
-    [
-      "ShrineLightning",
-      248,
-      [],
-      [],
-      "orb_finish",
-      ""
-    ],
-    [
-      "ShrineArc",
-      250,
-      [],
-      [],
-      "orb_finish",
-      ""
-    ],
-    [
-      "ShrineCold",
-      247,
-      [],
-      [],
-      "orb_finish",
-      ""
-    ],
-    [
-      "ShrineSmoke",
-      300,
-      [],
-      [],
-      "orb_finish",
-      ""
-    ],
-    [
-      "ShrineMassive",
-      309,
-      [],
-      [],
-      "orb_finish",
-      ""
-    ],
-    [
-      "ShrineShield",
       244,
       [],
       [],
@@ -524,39 +460,47 @@
       ""
     ],
     [
-      "ShrineResistance",
-      297,
+      "ShrineFist",
+      243,
       [],
       [],
       "orb_finish",
       ""
     ],
     [
-      "ShrineGodMode",
-      311,
+      "ShrineSword",
+      246,
       [],
       [],
       "orb_finish",
       ""
     ],
     [
-      "ShrineEchoing",
-      310,
+      "ShrineWing",
+      242,
       [],
       [],
       "orb_finish",
       ""
     ],
     [
-      "ShrineCurse",
-      298,
+      "ShrineThorns",
+      300,
       [],
       [],
       "orb_finish",
       ""
     ],
     [
-      "ShrineSkeletons",
+      "ShrineFire",
+      247,
+      [],
+      [],
+      "orb_finish",
+      ""
+    ],
+    [
+      "ShrineLightning",
       249,
       [],
       [],
@@ -564,8 +508,88 @@
       ""
     ],
     [
+      "ShrineArc",
+      251,
+      [],
+      [],
+      "orb_finish",
+      ""
+    ],
+    [
+      "ShrineCold",
+      248,
+      [],
+      [],
+      "orb_finish",
+      ""
+    ],
+    [
+      "ShrineSmoke",
+      301,
+      [],
+      [],
+      "orb_finish",
+      ""
+    ],
+    [
+      "ShrineMassive",
+      310,
+      [],
+      [],
+      "orb_finish",
+      ""
+    ],
+    [
+      "ShrineShield",
+      245,
+      [],
+      [],
+      "orb_finish",
+      ""
+    ],
+    [
+      "ShrineResistance",
+      298,
+      [],
+      [],
+      "orb_finish",
+      ""
+    ],
+    [
+      "ShrineGodMode",
+      312,
+      [],
+      [],
+      "orb_finish",
+      ""
+    ],
+    [
+      "ShrineEchoing",
+      311,
+      [],
+      [],
+      "orb_finish",
+      ""
+    ],
+    [
+      "ShrineCurse",
+      299,
+      [],
+      [],
+      "orb_finish",
+      ""
+    ],
+    [
+      "ShrineSkeletons",
+      250,
+      [],
+      [],
+      "orb_finish",
+      ""
+    ],
+    [
       "ShrineResonating",
-      2964,
+      2970,
       [],
       [],
       "orb_finish",
@@ -581,7 +605,7 @@
     ],
     [
       "BlindOrbSand",
-      3008,
+      3014,
       [],
       [],
       "orb_finish",
@@ -589,7 +613,7 @@
     ],
     [
       "CorruptedBloodNonPlayer",
-      3464,
+      3470,
       [],
       [],
       "orb_finish",
@@ -597,7 +621,7 @@
     ],
     [
       "CorruptedBloodPlayer",
-      3465,
+      3471,
       [],
       [],
       "orb_finish",
@@ -605,7 +629,7 @@
     ],
     [
       "Stun",
-      409,
+      410,
       [],
       [],
       "orb_finish",
@@ -613,7 +637,7 @@
     ],
     [
       "Debilitate",
-      4332,
+      4339,
       [],
       [],
       "",
@@ -621,7 +645,7 @@
     ],
     [
       "DebilitateCelestial",
-      4397,
+      4404,
       [],
       [],
       "",
@@ -629,7 +653,7 @@
     ],
     [
       "Maleditction",
-      4333,
+      4340,
       [],
       [],
       "",
@@ -637,7 +661,7 @@
     ],
     [
       "TormentTouched",
-      469,
+      470,
       [],
       [],
       "orb_finish",
@@ -645,7 +669,7 @@
     ],
     [
       "PietysRage",
-      568,
+      569,
       [],
       [],
       "orb_finish",
@@ -653,7 +677,7 @@
     ],
     [
       "Bonespire",
-      782,
+      783,
       [],
       [],
       "orb_finish",
@@ -661,7 +685,7 @@
     ],
     [
       "AtlasAdjudicatorCharges",
-      3700,
+      3707,
       [],
       [],
       "orb_finish",
@@ -669,7 +693,7 @@
     ],
     [
       "SeaWitchScreechOrb",
-      321,
+      322,
       [],
       [],
       "orb_finish",
@@ -693,23 +717,15 @@
     ],
     [
       "Deathmark",
-      3427,
+      3433,
       [],
       [],
       "",
       ""
     ],
     [
-      "PenanceBrandOrb",
-      4033,
-      [],
-      [],
-      "orb_finish",
-      ""
-    ],
-    [
       "WintertideBrandOrb",
-      4160,
+      4167,
       [],
       [],
       "orb_finish",
@@ -717,7 +733,7 @@
     ],
     [
       "HackyInvisibleSymbol",
-      2217,
+      2218,
       [],
       [],
       "",
@@ -725,104 +741,6 @@
     ],
     [
       "CurseEnfeebleNew",
-      4554,
-      [
-        "hargeEndurance",
-        "ance"
-      ],
-      [
-        "stage2",
-        "stage3"
-      ],
-      "fadeout",
-      "hexproof"
-    ],
-    [
-      "CursePunishmentNew",
-      4555,
-      [
-        "hargeEndurance",
-        "ance"
-      ],
-      [
-        "stage2",
-        "stage3"
-      ],
-      "fadeout",
-      "hexproof"
-    ],
-    [
-      "CurseFlammabilityNew",
-      4556,
-      [
-        "hargeEndurance",
-        "ance"
-      ],
-      [
-        "stage2",
-        "stage3"
-      ],
-      "fadeout",
-      "hexproof"
-    ],
-    [
-      "CurseFrostbiteNew",
-      4557,
-      [
-        "hargeEndurance",
-        "ance"
-      ],
-      [
-        "stage2",
-        "stage3"
-      ],
-      "fadeout",
-      "hexproof"
-    ],
-    [
-      "CurseConductivityNew",
-      4558,
-      [
-        "hargeEndurance",
-        "ance"
-      ],
-      [
-        "stage2",
-        "stage3"
-      ],
-      "fadeout",
-      "hexproof"
-    ],
-    [
-      "CurseElementalWeaknessNew",
-      4559,
-      [
-        "hargeEndurance",
-        "ance"
-      ],
-      [
-        "stage2",
-        "stage3"
-      ],
-      "fadeout",
-      "hexproof"
-    ],
-    [
-      "CurseVulnerabilityNew",
-      4560,
-      [
-        "hargeEndurance",
-        "ance"
-      ],
-      [
-        "stage2",
-        "stage3"
-      ],
-      "fadeout",
-      "hexproof"
-    ],
-    [
-      "CurseDespairNew",
       4561,
       [
         "hargeEndurance",
@@ -836,8 +754,106 @@
       "hexproof"
     ],
     [
+      "CursePunishmentNew",
+      4562,
+      [
+        "hargeEndurance",
+        "ance"
+      ],
+      [
+        "stage2",
+        "stage3"
+      ],
+      "fadeout",
+      "hexproof"
+    ],
+    [
+      "CurseFlammabilityNew",
+      4563,
+      [
+        "hargeEndurance",
+        "ance"
+      ],
+      [
+        "stage2",
+        "stage3"
+      ],
+      "fadeout",
+      "hexproof"
+    ],
+    [
+      "CurseFrostbiteNew",
+      4564,
+      [
+        "hargeEndurance",
+        "ance"
+      ],
+      [
+        "stage2",
+        "stage3"
+      ],
+      "fadeout",
+      "hexproof"
+    ],
+    [
+      "CurseConductivityNew",
+      4565,
+      [
+        "hargeEndurance",
+        "ance"
+      ],
+      [
+        "stage2",
+        "stage3"
+      ],
+      "fadeout",
+      "hexproof"
+    ],
+    [
+      "CurseElementalWeaknessNew",
+      4566,
+      [
+        "hargeEndurance",
+        "ance"
+      ],
+      [
+        "stage2",
+        "stage3"
+      ],
+      "fadeout",
+      "hexproof"
+    ],
+    [
+      "CurseVulnerabilityNew",
+      4567,
+      [
+        "hargeEndurance",
+        "ance"
+      ],
+      [
+        "stage2",
+        "stage3"
+      ],
+      "fadeout",
+      "hexproof"
+    ],
+    [
+      "CurseDespairNew",
+      4568,
+      [
+        "hargeEndurance",
+        "ance"
+      ],
+      [
+        "stage2",
+        "stage3"
+      ],
+      "fadeout",
+      "hexproof"
+    ],
+    [
       "SteelOrb",
-      4672,
+      4679,
       [],
       [],
       "end_01",
@@ -845,7 +861,7 @@
     ],
     [
       "HeistConversionOrb",
-      4726,
+      4733,
       [],
       [],
       "",
@@ -853,10 +869,18 @@
     ],
     [
       "SteelOrbTemple",
-      4763,
+      4770,
       [],
       [],
       "end_01",
+      ""
+    ],
+    [
+      "FanatacismCharge",
+      4956,
+      [],
+      [],
+      "orb_finish",
       ""
     ]
   ]

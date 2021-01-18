@@ -521,7 +521,7 @@
     [
       95,
       194,
-      "Curse On Hit"
+      "Hextouch"
     ],
     [
       96,
@@ -712,6 +712,11 @@
       133,
       496,
       "Impending Doom"
+    ],
+    [
+      134,
+      501,
+      "Trinity"
     ]
   ]
 }

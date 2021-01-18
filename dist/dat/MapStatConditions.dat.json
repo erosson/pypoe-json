@@ -80,21 +80,21 @@
   "data": [
     [
       "IsMagic",
-      1957,
+      1958,
       0,
       1,
       1
     ],
     [
       "IsRare",
-      1957,
+      1958,
       0,
       2,
       2
     ],
     [
       "IsUnique",
-      1957,
+      1958,
       0,
       3,
       3
@@ -115,7 +115,7 @@
     ],
     [
       "IsCorrupted",
-      2536,
+      2538,
       1,
       1,
       1
@@ -129,7 +129,7 @@
     ],
     [
       "Has10TotalMods",
-      6533,
+      6532,
       1,
       10,
       10
@@ -143,56 +143,56 @@
     ],
     [
       "HasZanaMod",
-      7732,
+      7731,
       1,
       1,
       1
     ],
     [
       "HasCraftedMods",
-      7733,
+      7732,
       1,
       1,
       1
     ],
     [
       "HasShaperInfluence",
-      6870,
+      6869,
       0,
       1,
       1
     ],
     [
       "HasElderInfluence",
-      6870,
+      6869,
       0,
       2,
       2
     ],
     [
       "HasShaperOrElderInfluence",
-      6870,
+      6869,
       0,
       1,
       2
     ],
     [
       "IsWhiteTier",
-      10084,
+      10073,
       0,
       1,
       5
     ],
     [
       "IsYellowTier",
-      10084,
+      10073,
       0,
       6,
       10
     ],
     [
       "IsRedTier",
-      10084,
+      10073,
       0,
       11,
       16
@@ -318,35 +318,42 @@
     ],
     [
       "HasPossessedRustedScarabSextant",
-      9400,
+      9391,
       1,
       1,
       1
     ],
     [
       "HasPossessedPolishedScarabSextant",
-      9401,
+      9392,
       1,
       1,
       1
     ],
     [
       "HasPossessedGildedScarabSextant",
-      9402,
+      9393,
+      1,
+      1,
+      1
+    ],
+    [
+      "HasPossessedWingedScarabSextant",
+      9394,
       1,
       1,
       1
     ],
     [
       "HasPossessedUniqueDropSextant",
-      9403,
+      9395,
       1,
       1,
       1
     ],
     [
       "HasPossessedMapDropSextant",
-      9404,
+      9396,
       1,
       1,
       1
@@ -360,63 +367,63 @@
     ],
     [
       "HasCurrencyShardSextant",
-      9408,
+      9400,
       1,
       1,
       1
     ],
     [
       "HasVaalMonstersSextant",
-      9432,
+      9425,
       1,
       1,
       1
     ],
     [
       "HasBeyondSextant",
-      9424,
+      9416,
       1,
       1,
       1
     ],
     [
       "HasTormentBetrayersSextant",
-      9461,
+      9454,
       1,
       1,
       1
     ],
     [
       "HasTormentHereticsSextant",
-      9462,
+      9455,
       1,
       1,
       1
     ],
     [
       "HasTormentGraverobbersSextant",
-      9460,
+      9453,
       1,
       1,
       1
     ],
     [
       "HasCorruptEssenceSextant",
-      9880,
+      9871,
       1,
       1,
       1
     ],
     [
       "HasTempests",
-      3137,
+      3138,
       1,
       1,
       1
     ],
     [
       "HasLegionSextant",
-      9421,
+      9413,
       1,
       1,
       1
@@ -430,28 +437,28 @@
     ],
     [
       "IsDeliriumMap",
-      11590,
+      11571,
       1,
       1,
       1
     ],
     [
       "IsMaximumDelirium",
-      11590,
+      11571,
       1,
       100,
       100
     ],
     [
       "AwakeningLevel8",
-      10780,
+      10762,
       1,
       8,
       8
     ],
     [
       "ContainsElderGuardian",
-      6589,
+      6588,
       1,
       1,
       1

@@ -566,6 +566,10 @@
       "Your account has been muted by a GM. You will be able to talk again in {0}."
     ],
     [
+      "MutedUntilSecondsConsole",
+      "Your account has been muted by a GM. You will be able to talk again in {0}."
+    ],
+    [
       "ObaPlayerJoined",
       "You must be brave or stupid to think you might loot my treasure and live. Either way, I applaud you!"
     ],
@@ -2158,8 +2162,40 @@
       "Error: You are not the owner of this Heist"
     ],
     [
+      "ReceivedAtlasRespecPoint1",
+      "You have received an Atlas Passive Respec Point."
+    ],
+    [
+      "ReceivedAtlasRespecPointN",
+      "You have received {0} Atlas Passive Respec Points."
+    ],
+    [
+      "ReceivedAtlasPassivePointN",
+      "You have received {1} Atlas Skill Points for {0}."
+    ],
+    [
+      "MavenNotEnoughBosses",
+      "Activation failed. You have not collected enough bosses from this Atlas Region."
+    ],
+    [
+      "MavenCitadelNotUnlocked",
+      "Activation failed. You have not unlocked the Citadel for this Atlas Region."
+    ],
+    [
       "StashAffinityFailedNoRoom",
       "Your Stash Tab with the {0} Affinity does not have enough space for this item."
+    ],
+    [
+      "FailedToAddMavenToMap",
+      "Failed to add the Maven to Map because: {0}"
+    ],
+    [
+      "RitualFragmentNotValidForUse",
+      "Activation failed. Blood-Soaked Effigies can only be used in Ritual League."
+    ],
+    [
+      "MapDeviceInvalidQuestState",
+      "Activation failed. You do not have the required quest state."
     ]
   ]
 }

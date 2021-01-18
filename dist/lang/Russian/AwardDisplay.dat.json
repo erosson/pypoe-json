@@ -179,72 +179,72 @@
       "",
       "Art/2DArt/UIImages/InGame/GenericRewardMapDevice5",
       "Audio/Sound Effects/UI/Atlas/Upgrade.ogg",
-      2299
+      2370
     ],
     [
       "AtlasMissionZana",
       "Получено задание Атласа от Заны",
       "Art/2DArt/UIImages/InGame/AtlasMissionNotificationZana",
-      910,
+      1084,
       3,
       2,
       "",
       "",
       "",
       "Audio/Sound Effects/UI/Atlas/Receive.ogg",
-      2299
+      2370
     ],
     [
       "AtlasMissionAlva",
       "Получено задание Атласа от Альвы",
       "Art/2DArt/UIImages/InGame/AtlasMissionNotificationAlva",
-      910,
+      1084,
       3,
       2,
       "",
       "",
       "",
       "Audio/Sound Effects/UI/Atlas/Receive.ogg",
-      2299
+      2370
     ],
     [
       "AtlasMissionNiko",
       "Получено задание Атласа от Нико",
       "Art/2DArt/UIImages/InGame/AtlasMissionNotificationNiko",
-      910,
+      1084,
       3,
       2,
       "",
       "",
       "",
       "Audio/Sound Effects/UI/Atlas/Receive.ogg",
-      2299
+      2370
     ],
     [
       "AtlasMissionEinhar",
       "Получено задание Атласа от Эйнара",
       "Art/2DArt/UIImages/InGame/AtlasMissionNotificationEinhar",
-      910,
+      1084,
       3,
       2,
       "",
       "",
       "",
       "Audio/Sound Effects/UI/Atlas/Receive.ogg",
-      2299
+      2370
     ],
     [
       "AtlasMissionJun",
       "Получено задание Атласа от Джун",
       "Art/2DArt/UIImages/InGame/AtlasMissionNotificationJun",
-      910,
+      1084,
       3,
       2,
       "",
       "",
       "",
       "Audio/Sound Effects/UI/Atlas/Receive.ogg",
-      2299
+      2370
     ],
     [
       "AtlasCitadelOutsideTopLeft",
@@ -257,7 +257,7 @@
       "",
       "Art/2DArt/UIImages/InGame/CitadelAwardDisplay",
       "Audio/Sound Effects/UI/Atlas/Citadel.ogg",
-      2299
+      2370
     ],
     [
       "AtlasCitadelInsideTopLeft",
@@ -270,7 +270,7 @@
       "",
       "Art/2DArt/UIImages/InGame/CitadelAwardDisplay",
       "Audio/Sound Effects/UI/Atlas/Citadel.ogg",
-      2299
+      2370
     ],
     [
       "AtlasCitadelInsideTopRight",
@@ -283,7 +283,7 @@
       "",
       "Art/2DArt/UIImages/InGame/CitadelAwardDisplay",
       "Audio/Sound Effects/UI/Atlas/Citadel.ogg",
-      2299
+      2370
     ],
     [
       "AtlasCitadelOutsideTopRight",
@@ -296,7 +296,7 @@
       "",
       "Art/2DArt/UIImages/InGame/CitadelAwardDisplay",
       "Audio/Sound Effects/UI/Atlas/Citadel.ogg",
-      2299
+      2370
     ],
     [
       "AtlasCitadelOutsideBottomLeft",
@@ -309,7 +309,7 @@
       "",
       "Art/2DArt/UIImages/InGame/CitadelAwardDisplay",
       "Audio/Sound Effects/UI/Atlas/Citadel.ogg",
-      2299
+      2370
     ],
     [
       "AtlasCitadelInsideBottomLeft",
@@ -322,7 +322,7 @@
       "",
       "Art/2DArt/UIImages/InGame/CitadelAwardDisplay",
       "Audio/Sound Effects/UI/Atlas/Citadel.ogg",
-      2299
+      2370
     ],
     [
       "AtlasCitadelInsideBottomRight",
@@ -335,7 +335,7 @@
       "",
       "Art/2DArt/UIImages/InGame/CitadelAwardDisplay",
       "Audio/Sound Effects/UI/Atlas/Citadel.ogg",
-      2299
+      2370
     ],
     [
       "AtlasCitadelOutsideBottomRight",
@@ -348,137 +348,150 @@
       "",
       "Art/2DArt/UIImages/InGame/CitadelAwardDisplay",
       "Audio/Sound Effects/UI/Atlas/Citadel.ogg",
-      2299
+      2370
     ],
     [
       "FavouredMapSlotUnlockedOutsideTopLeft",
       "Деревня Хейварк\nСлот предпочитаемой карты разблокирован",
       "Art/2DArt/UIImages/InGame/UnlockedFavouredMapNotification",
-      910,
+      1084,
       3,
       2,
       "",
       "",
       "Art/2DArt/UIImages/InGame/UnlockedFavouredMapHeader",
       "Audio/Sound Effects/UI/Atlas/Citadel.ogg",
-      2299
+      2370
     ],
     [
       "FavouredMapSlotUnlockedInsideTopLeft",
       "Предел Тирна\nСлот предпочитаемой карты разблокирован",
       "Art/2DArt/UIImages/InGame/UnlockedFavouredMapNotification",
-      910,
+      1084,
       3,
       2,
       "",
       "",
       "Art/2DArt/UIImages/InGame/UnlockedFavouredMapHeader",
       "Audio/Sound Effects/UI/Atlas/Citadel.ogg",
-      2299
+      2370
     ],
     [
       "FavouredMapSlotUnlockedInsideTopRight",
       "Лекс Проксима\nСлот предпочитаемой карты разблокирован",
       "Art/2DArt/UIImages/InGame/UnlockedFavouredMapNotification",
-      910,
+      1084,
       3,
       2,
       "",
       "",
       "Art/2DArt/UIImages/InGame/UnlockedFavouredMapHeader",
       "Audio/Sound Effects/UI/Atlas/Citadel.ogg",
-      2299
+      2370
     ],
     [
       "FavouredMapSlotUnlockedOutsideTopRight",
       "Лекс Эйорис\nСлот предпочитаемой карты разблокирован",
       "Art/2DArt/UIImages/InGame/UnlockedFavouredMapNotification",
-      910,
+      1084,
       3,
       2,
       "",
       "",
       "Art/2DArt/UIImages/InGame/UnlockedFavouredMapHeader",
       "Audio/Sound Effects/UI/Atlas/Citadel.ogg",
-      2299
+      2370
     ],
     [
       "FavouredMapSlotUnlockedOutsideBottomLeft",
       "Новый Вастир\nСлот предпочитаемой карты разблокирован",
       "Art/2DArt/UIImages/InGame/UnlockedFavouredMapNotification",
-      910,
+      1084,
       3,
       2,
       "",
       "",
       "Art/2DArt/UIImages/InGame/UnlockedFavouredMapHeader",
       "Audio/Sound Effects/UI/Atlas/Citadel.ogg",
-      2299
+      2370
     ],
     [
       "FavouredMapSlotUnlockedInsideBottomLeft",
       "Пирамиды Гленнаха\nСлот предпочитаемой карты разблокирован",
       "Art/2DArt/UIImages/InGame/UnlockedFavouredMapNotification",
-      910,
+      1084,
       3,
       2,
       "",
       "",
       "Art/2DArt/UIImages/InGame/UnlockedFavouredMapHeader",
       "Audio/Sound Effects/UI/Atlas/Citadel.ogg",
-      2299
+      2370
     ],
     [
       "FavouredMapSlotUnlockedInsideBottomRight",
       "Покой Валдо\nСлот предпочитаемой карты разблокирован",
       "Art/2DArt/UIImages/InGame/UnlockedFavouredMapNotification",
-      910,
+      1084,
       3,
       2,
       "",
       "",
       "Art/2DArt/UIImages/InGame/UnlockedFavouredMapHeader",
       "Audio/Sound Effects/UI/Atlas/Citadel.ogg",
-      2299
+      2370
     ],
     [
       "FavouredMapSlotUnlockedOutsideBottomRight",
       "Лира Артейн\nСлот предпочитаемой карты разблокирован",
       "Art/2DArt/UIImages/InGame/UnlockedFavouredMapNotification",
-      910,
+      1084,
       3,
       2,
       "",
       "",
       "Art/2DArt/UIImages/InGame/UnlockedFavouredMapHeader",
       "Audio/Sound Effects/UI/Atlas/Citadel.ogg",
-      2299
+      2370
+    ],
+    [
+      "HarvestCraftingBenchUnlocked",
+      "В вашем убежище теперь в качестве декорации доступна плодоремесленная установка",
+      "Art/2DArt/UIImages/InGame/GenericRewardBackground",
+      1084,
+      3,
+      2,
+      "",
+      "",
+      "Art/2DArt/UIImages/InGame/HorticraftingDisplay",
+      "Audio/Sound Effects/UI/Atlas/Citadel.ogg",
+      2370
     ],
     [
       "HarvestSeedStashUnlocked",
       "Cундук с семенами теперь доступен в вашем убежище",
       "Art/2DArt/UIImages/InGame/GenericRewardBackground",
-      910,
+      1084,
       3,
       2,
       "",
       "",
       "Art/2DArt/UIImages/InGame/SeedStashDisplay",
       "Audio/Sound Effects/UI/Atlas/Citadel.ogg",
-      2299
+      2370
     ],
     [
       "HeistStashUnlocked",
       "Декоративный сундук Кражи теперь доступен в вашем убежище",
       "Art/2DArt/UIImages/InGame/GenericRewardBackground",
-      910,
+      1084,
       3,
       0,
       "",
       "",
       "Art/2DArt/UIImages/InGame/HeistStashDisplay",
       "Audio/Sound Effects/UI/Atlas/Citadel.ogg",
-      2299
+      2370
     ]
   ]
 }

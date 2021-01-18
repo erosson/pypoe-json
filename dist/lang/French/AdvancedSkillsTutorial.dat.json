@@ -799,6 +799,26 @@
       [
         1
       ]
+    ],
+    [
+      "SplittingSteel",
+      [
+        193,
+        194,
+        195
+      ],
+      [
+        196,
+        197,
+        198
+      ],
+      "Envoie un pic d'acier à partir de votre arme qui explose à l'impact en infligeant des Dégâts de zone. Servez-vous de l'aptitude Appel de l'acier provenant de cette Gemme afin de générer des Éclats d'acier qui seront envoyés avec votre Acier à fragmentation et exploseront en de multiples fragments qui blesseront les ennemis à proximité.",
+      "http://web.poecdn.com/public/videos/ShatteringSteel/ESplitIntro.bk2",
+      493,
+      "http://down.qq.com/poe/videos/tutorial/TSplitIntro.bk2",
+      [
+        4
+      ]
     ]
   ]
 }

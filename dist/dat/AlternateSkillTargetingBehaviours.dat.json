@@ -111,7 +111,7 @@
     [
       "ConsoleMovementMaxDistance",
       80,
-      4707,
+      4721,
       0,
       0,
       0,
@@ -122,7 +122,7 @@
     [
       "ConsoleFiftyUnitsDistance",
       50,
-      4707,
+      4721,
       0,
       0,
       0,
@@ -133,7 +133,7 @@
     [
       "ConsoleAtFeet",
       5,
-      4707,
+      4721,
       5,
       0,
       0,
@@ -145,7 +145,7 @@
     [
       "ConsoleAtFeetNormalSelfcast",
       0,
-      4707,
+      4721,
       5,
       5,
       5,
@@ -157,7 +157,7 @@
     [
       "ConsoleQuickDodge",
       80,
-      4707,
+      4721,
       0,
       0,
       0,
@@ -168,7 +168,7 @@
     [
       "ConsoleFiftyUnitsDistanceRespectTarget",
       50,
-      4707,
+      4721,
       0,
       0,
       0,
@@ -180,7 +180,7 @@
     [
       "ConsoleForceLocationMaxDistance",
       80,
-      4707,
+      4721,
       0,
       0,
       0,
@@ -192,7 +192,7 @@
     [
       "ConsoleFiftyFiveUnitsDistanceRespectTarget",
       55,
-      4707,
+      4721,
       0,
       0,
       0,

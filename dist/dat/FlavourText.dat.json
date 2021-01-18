@@ -791,7 +791,7 @@
     [
       "UniqueDagger4x",
       22617,
-      "\"There is something incredibly satisfying about impaling test subjects with Ethereal Knives. Perhaps it is the sound - the spell, the screams, or both.\" \r\n- Researcher Olesya"
+      "\"There is something incredibly satisfying about impaling test\r\nsubjects with Ethereal Knives. Perhaps it is the sound -\r\nthe spell, the screams, or both.\"  - Researcher Olesya"
     ],
     [
       "UniqueMap2",
@@ -1651,7 +1651,7 @@
     [
       "UniqueHelmetStrInt4x",
       21143,
-      "\"Prototype #722 might look like a helmet, but I believe it to be something else entirely.\r\nThe visions it shows the wearer... are beyond mortal endurance...\""
+      "\"Prototype #722 might look like a helmet, but I believe it to be something else\r\nentirely. The visions it shows the wearer... are beyond mortal endurance...\""
     ],
     [
       "UniqueFishingRod1",
@@ -2071,7 +2071,7 @@
     [
       "UniqueOneHandAxe5",
       35728,
-      "\"Hey, you with the hands. Got a deal for you. \r\nGive me a bit of life and I'll give you more death than you can poke a stick at. \r\nYou in?\""
+      "\"More blood... hack open flesh... must drink...\""
     ],
     [
       "UniqueGlovesStrInt2",
@@ -5441,7 +5441,7 @@
     [
       "UniqueBootsStr7x",
       12002,
-      "\"Researchers will please refrain from combining our prototypes with existing relics of power.\r\nThe temptation is obvious, but the results can be... unpredictable.\" \r\n- Administrator Qotra"
+      "\"Researchers will please refrain from combining our prototypes with existing relics\r\nof power. The temptation is obvious, but the results can be... unpredictable.\" \r\n- Administrator Qotra"
     ],
     [
       "UniqueTwoHandAxe11",
@@ -6692,6 +6692,81 @@
       "DivinationCardTheJournalist",
       21958,
       "A good spy doesn't forget she's gone undercover."
+    ],
+    [
+      "DivinationCardHauntingShadows",
+      31356,
+      "In the dead of night you may elude your shadows,\r\nbut they will always find you by dawn."
+    ],
+    [
+      "DivinationCardAcclimatisation",
+      6686,
+      "The world is ever-changing.\r\nOnce-lush woods now lost beneath shifting sands,\r\nGreat cities now drown beneath turbulent waters.\r\nAdapt or perish."
+    ],
+    [
+      "DivinationCardTheWhiteout",
+      65530,
+      "<size:25>{They thought winter had come early,\r\nthat snow blanketed the land,\r\nbut in truth, all their chickens\r\nhad come home to roost.}"
+    ],
+    [
+      "DivinationCardSocietysRemorse",
+      23082,
+      "<size:28>{We live to dream of worlds we aren't in,\r\na false narrative that we use to fill our souls\r\nwith doubt;\r\nThe world is already beautiful,\r\nthere's no need to dream.}"
+    ],
+    [
+      "DivinationCardDyingLight",
+      61967,
+      "Even the brightest eventually fade to darkness."
+    ],
+    [
+      "DivinationCardFatefulMeeting",
+      48206,
+      "<size:26>{Some people act as beacons, illuminating the path for others. I was lucky to meet one such person.\r\n\r\n- Anton to Zhenya}"
+    ],
+    [
+      "DivinationCardTheAstromancer_",
+      50690,
+      "<size:24>{They would say that he was a dangerous man,\r\nunbound by the sense of morality,\r\nbut what does this matter,\r\nwhen his love for humanity is undeniable\r\nand completion of his work would benefit everyone?}"
+    ],
+    [
+      "DivinationCardKeepersCorruption",
+      62509,
+      "With great power comes...\r\n\r\n...Even greater power."
+    ],
+    [
+      "DivinationCardRecklessAmbition",
+      60655,
+      "Why settle when more is never enough."
+    ],
+    [
+      "DivinationCardLoveThroughIce",
+      49986,
+      "\"I know one lady for whose sake I will rip out my heart\"\r\n\r\n- Derrok, the Dreamer"
+    ],
+    [
+      "DivinationCardDrapedInDreams",
+      28016,
+      "The suit I wear,\r\nIs heavy and bare.\r\nA canvas, it seems, breathing life into dreams."
+    ],
+    [
+      "DivinationCardThePatient",
+      35413,
+      "I have a headache, can anyone find me a nurse?"
+    ],
+    [
+      "DivinationCardTheLongWatch",
+      10729,
+      "<size:26>{The rain pelts down, Mud grasping at his feet, as thoughts of those in his care bolster his resolve.}"
+    ],
+    [
+      "DivinationCardTheBearWoman",
+      50113,
+      "<size:24>{For the blessed bear in the cave,\r\nA hundred days pass in silence and darkness,\r\nuntil moon begins its fourth passage,\r\nthe bear sheds her beastly fur,\r\nand is reborn, human and whole.}"
+    ],
+    [
+      "DivinationCardBrotherhoodInExile",
+      57908,
+      "<size:25>{Seeking shelter from the night,\r\nin the warmth of the run-down inn,\r\nerstwhile foes put aside the fight,\r\nto bond over whiskey and gin.}"
     ],
     [
       "UniqueShieldStr11",
@@ -9144,6 +9219,61 @@
       "Life's wet, reproductive stink abates, relenting to death's chaste ritual of decay."
     ],
     [
+      "MapWorldsDrySea",
+      53637,
+      "Where once waves crashed with crushing force,\r\nbrittle wooden bones tell tall tales."
+    ],
+    [
+      "MapWorldsStagnation_",
+      48254,
+      "Aided by unrelenting rain,\r\nrot devours new life at the first fumble."
+    ],
+    [
+      "MapWorldsBramblefall",
+      25038,
+      "The faintest traces of civilisation\r\ndefiantly resist nature's scouring tendrils.\r\nAn admirable, but futile, effort."
+    ],
+    [
+      "MapWorldsFrozenCabins",
+      51403,
+      "The fleet lay stranded in the winter wastes,\r\nthose aboard to never again see the light of day."
+    ],
+    [
+      "MapWorldsBurn",
+      23867,
+      "Does the land reject the dead,\r\nor do the dead reject their fate?"
+    ],
+    [
+      "MapWorldsCrimsonTownship",
+      10687,
+      "Rain will wash away the stains,\r\nbut the madness and memories will never fade."
+    ],
+    [
+      "MapWorldsForkingRiver",
+      29382,
+      "Great stone towers tore at the natural order\r\nand were promptly put in their place."
+    ],
+    [
+      "MapWorldsThaumaturgistsLair",
+      51477,
+      "Ever does man look to emulate his creator,\r\nonly to match his indifference."
+    ],
+    [
+      "MapWorldsColdRiver",
+      9863,
+      "Ice forges a fickle path,\r\nas those beneath its veil can attest."
+    ],
+    [
+      "MapWorldsForbiddenWoods",
+      26156,
+      "Every instinct wills you to sleep through the bitter cold; a certain death.\r\nThose that yet survive must fight through every aching movement."
+    ],
+    [
+      "MapWorldsSilo",
+      24497,
+      "Grim blessings whispered in the deepest, most secret of places."
+    ],
+    [
       "MapWorldsChimera",
       14512,
       "One of my captors hid a beast within his heart. Now his true self can be seen by all."
@@ -9496,7 +9626,7 @@
     [
       "UniqueJewel142",
       29148,
-      "Maids used to threaten to send misbehaving children of nobility to the pits beneath the Grand Arena.\r\nFor the children of slaves, it was more than just a threat."
+      "Maids used to threaten to send misbehaving children of\r\nnobility to the pits beneath the Grand Arena.\r\nFor the children of slaves, it was more than just a threat."
     ],
     [
       "UniqueJewel143",
@@ -9566,7 +9696,7 @@
     [
       "UniqueHelmetStrInt18x",
       52782,
-      "\"I believed I understood Prototype #112 quite fully, until a test subject with Azmeri ancestry donned it. I will be haunted by the results for the rest of my life.\" \r\n- Researcher Graven"
+      "\"I believed I understood Prototype #112 quite fully, until a test subject\r\nwith Azmeri ancestry donned it. I will be haunted by the results\r\nfor the rest of my life.\"  - Researcher Graven"
     ],
     [
       "UniqueGlovesDex6",
@@ -9586,7 +9716,7 @@
     [
       "UniqueShieldStrInt13",
       40776,
-      "Chitus' success stemmed from his cunning, taking calculated risks so that greater dangers could be averted."
+      "Chitus' success stemmed from his cunning, taking calculated\r\nrisks so that greater dangers could be averted."
     ],
     [
       "UniqueAmulet62",
@@ -9877,6 +10007,71 @@
       "UniqueJewel151",
       24568,
       "Her apprentice spends hours working the steel,\r\nand the end result is melted for scrap.\r\nEach one made better than the last.\r\nEach one made more quickly.\r\nShe knows the path well."
+    ],
+    [
+      "UniqueShieldDexInt8",
+      42567,
+      "Horrific experiments with corrupted flesh require careful management."
+    ],
+    [
+      "UniqueRing69",
+      51378,
+      "Beyond the veil of death, there burns a fire\r\nby whose light night is borne."
+    ],
+    [
+      "UniqueGlovesStrInt12",
+      14979,
+      "A sacrifice of blood calls forth His vengeance.\r\nLet the righteous become the Hand of God."
+    ],
+    [
+      "UniqueBelt41",
+      7746,
+      "The burden falls heaviest not on those that died,\r\nbut on those that did not."
+    ],
+    [
+      "UniqueHelmetStrInt20",
+      48682,
+      "\"Her sisters eternally fought for that shining apex in the skies,\r\nbut Viridi instead found strength in humility.\"\r\n- Azmerian Creation Myth"
+    ],
+    [
+      "UniqueDagger21",
+      53588,
+      "\"That bronze girl sure knows how to cut someone down to size!\"\r\n– Bertrand the Plush"
+    ],
+    [
+      "UniqueBodyDexInt14",
+      9858,
+      "Within each of us exists a being of pure malice,\r\nheld back only by the lies we tell ourselves."
+    ],
+    [
+      "UniqueBelt42a",
+      60094,
+      "The tortured thinker is made heavier by the weight of his guilt."
+    ],
+    [
+      "UniqueBelt42b_",
+      21864,
+      "The cruel thinker finds glee in torture most precise."
+    ],
+    [
+      "UniqueBelt42c",
+      44904,
+      "The cowardly thinker's greatest success is simply surviving."
+    ],
+    [
+      "UniqueRing70",
+      5681,
+      "Accept the infection, let it take hold.\r\nThen carry it far and wide."
+    ],
+    [
+      "UniqueHelmetStrInt21",
+      29453,
+      "Primordial rage slumbers, waiting for the call\r\nof the stars to return and swallow the world."
+    ],
+    [
+      "UniqueBootsStrDex7",
+      3846,
+      "All that was loved, all that was hated -\r\nnaught remains but ash."
     ],
     [
       "UniqueOneHandSwordDemigods1",
@@ -10227,6 +10422,66 @@
       "HeistUrnOfTheOriginalAshes",
       9799,
       "\"A great fire once swept the land, and our leaders were turned to ash where they stood.\r\nThe urn contains exactly what you think it does, and serves as proof of our long lineage.\""
+    ],
+    [
+      "WatchstoneMaven",
+      65260,
+      "Only the souls trapped within can bear witness to the Maven's dark proclivities, and they dare not speak up."
+    ],
+    [
+      "MavenKey",
+      25406,
+      "It would be foolish to obey the Maven's demands.\r\nIt would also be foolish not to."
+    ],
+    [
+      "MavenTrial",
+      4342,
+      "For those who must not endure it,\r\nthere may be found a perverse joy \r\nin watching the struggle for survival."
+    ],
+    [
+      "MavenKeyFragment",
+      15548,
+      "Precious and perilous,\r\nTantalising and terrible."
+    ],
+    [
+      "UniqueWatchstone11a",
+      5031,
+      "\"The village was locked within its walls,\r\nprotected from those who could do them harm,\r\nprotected from those who could save them.\""
+    ],
+    [
+      "UniqueWatchstone11b",
+      53618,
+      "\"Believing them to have discovered new lands,\r\nthey planted their flag in the dirt and called it their own.\r\nA gesture not taken with a great deal of pleasure\r\nby those who already dwelt there.\""
+    ],
+    [
+      "UniqueWatchstone11c",
+      3340,
+      "\"The first explorers took to the hills to discover the lay of the land,\r\nand watched with wonder as the land undulated, crashed and twisted.\""
+    ],
+    [
+      "UniqueWatchstone11d",
+      10001,
+      "\"Atop the highest peaks, the sunlight pierced but did not warm.\r\nThe air choked and did not nourish.\r\nAnd those that made the trek realised the folly of their desire for greatness.\""
+    ],
+    [
+      "UniqueWatchstone11e",
+      23060,
+      "\"Where once a mountain stood there was now but fields and dust.\r\nOne by one, the stones were moved and placed with intention,\r\nthe consequences borne by the destination and the origin.\""
+    ],
+    [
+      "UniqueWatchstone11f",
+      33164,
+      "\"The Shade walked the land with no end in sight,\r\nno purpose in mind,\r\nbut the one it invented to pass the time.\""
+    ],
+    [
+      "UniqueWatchstone11g",
+      33387,
+      "\"There were seasons in this strange new place, but not of sun and snow.\r\nSeasons of stone that rose and fell like waves.\r\nSeasons of structure and growth and madness and chaos.\r\nSeasons of birth and decay that seemed untethered to cause.\""
+    ],
+    [
+      "UniqueWatchstone11h",
+      63600,
+      "\"For a time, it was thought this place could seed an empire\r\ngreater than any in history.\r\nThe lands could be tamed, and commanded, they thought.\r\nBut control, like all things in that place, was an illusion.\""
     ]
   ]
 }

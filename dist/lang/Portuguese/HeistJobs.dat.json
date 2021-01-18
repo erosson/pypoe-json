@@ -191,11 +191,11 @@
       0.25,
       0,
       "Art/2DArt/UIImages/InGame/Heist/Blueprints/MapGeneration/LockpickSkillRequiredIcon",
-      12609,
-      13182,
-      13187,
-      13196,
-      13228
+      12588,
+      13160,
+      13165,
+      13174,
+      13206
     ],
     [
       "BruteForce",
@@ -205,11 +205,11 @@
       0.25,
       0,
       "Art/2DArt/UIImages/InGame/Heist/Blueprints/MapGeneration/BruteforceSkillMap",
-      12610,
-      13183,
-      13188,
-      13197,
-      13229
+      12589,
+      13161,
+      13166,
+      13175,
+      13207
     ],
     [
       "Perception",
@@ -219,11 +219,11 @@
       0.25,
       0,
       "Art/2DArt/UIImages/InGame/Heist/Blueprints/MapGeneration/PerceptionSkillMap",
-      12611,
+      12590,
       null,
-      13189,
-      13198,
-      13230
+      13167,
+      13176,
+      13208
     ],
     [
       "Demolition",
@@ -233,11 +233,11 @@
       0.25,
       0,
       "Art/2DArt/UIImages/InGame/Heist/Blueprints/MapGeneration/DemolitionSkillMap",
-      12612,
-      13184,
-      13190,
-      13199,
-      13231
+      12591,
+      13162,
+      13168,
+      13177,
+      13209
     ],
     [
       "CounterThaumaturge",
@@ -247,11 +247,11 @@
       0.25,
       0,
       "Art/2DArt/UIImages/InGame/Heist/Blueprints/MapGeneration/CounterThaumaturgySkillMap",
-      12613,
-      13185,
-      13191,
-      13200,
-      13232
+      12592,
+      13163,
+      13169,
+      13178,
+      13210
     ],
     [
       "TrapDisarmament",
@@ -261,11 +261,11 @@
       0.25,
       0,
       "Art/2DArt/UIImages/InGame/Heist/Blueprints/MapGeneration/TrapDisarmamentSkillMap",
-      12614,
+      12593,
       null,
-      13192,
-      13201,
-      13233
+      13170,
+      13179,
+      13211
     ],
     [
       "Agility",
@@ -275,11 +275,11 @@
       0.25,
       0,
       "Art/2DArt/UIImages/InGame/Heist/Blueprints/MapGeneration/AcrobaticsSkillMap",
-      12615,
+      12594,
       null,
-      13193,
-      13202,
-      13234
+      13171,
+      13180,
+      13212
     ],
     [
       "Deception",
@@ -289,11 +289,11 @@
       0.25,
       0,
       "Art/2DArt/UIImages/InGame/Heist/Blueprints/MapGeneration/DeceptionSkillMap",
-      12616,
+      12595,
       null,
-      13194,
-      13203,
-      13235
+      13172,
+      13181,
+      13213
     ],
     [
       "Engineering",
@@ -303,11 +303,11 @@
       0.25,
       0,
       "Art/2DArt/UIImages/InGame/Heist/Blueprints/MapGeneration/EngineeringSkillMap",
-      12617,
-      13186,
-      13195,
-      13204,
-      13236
+      12596,
+      13164,
+      13173,
+      13182,
+      13214
     ]
   ]
 }

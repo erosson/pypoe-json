@@ -110,7 +110,7 @@
   "data": [
     [
       "ScionMovementSpeed",
-      481,
+      482,
       [
         8
       ],
@@ -125,7 +125,7 @@
     ],
     [
       "OccultistWitherNearbyEnemies",
-      1212,
+      1213,
       [
         15000
       ],
@@ -138,7 +138,7 @@
     ],
     [
       "ScionAuguryOfPenitence",
-      561,
+      562,
       [
         10
       ],
@@ -151,7 +151,7 @@
     ],
     [
       "OccultistPowerChargeOnManaSpent",
-      911,
+      912,
       [],
       null,
       0,
@@ -162,7 +162,7 @@
     ],
     [
       "OccultistNearbyEnemiesColdChaosResistLifeRegen",
-      609,
+      610,
       [
         -20,
         -100,
@@ -177,7 +177,7 @@
     ],
     [
       "ChampionMovementSpeed",
-      480,
+      481,
       [
         12
       ],
@@ -192,7 +192,7 @@
     ],
     [
       "JuggernautPhysDamagePreventedAsLifeRegen",
-      1051,
+      1052,
       [],
       null,
       0,
@@ -201,7 +201,7 @@
     ],
     [
       "OccultistFreezeNearbyChilledEnemies",
-      1213,
+      1214,
       [
         600,
         600
@@ -215,7 +215,7 @@
     ],
     [
       "ChampionFortify",
-      386,
+      387,
       [
         -20,
         1
@@ -229,7 +229,7 @@
     ],
     [
       "PendulumOfDestruction",
-      1032,
+      1033,
       [],
       null,
       0,
@@ -238,7 +238,7 @@
     ],
     [
       "ChieftanPhysicalAsFireCycle",
-      1038,
+      1039,
       [
         100
       ],
@@ -251,7 +251,7 @@
     ],
     [
       "ChampionDamageAgainstImpaled",
-      1217,
+      1218,
       [
         6,
         12
@@ -267,7 +267,7 @@
     ],
     [
       "SaboteurBlind",
-      1485,
+      1486,
       [],
       null,
       35,
@@ -280,7 +280,7 @@
     ],
     [
       "AuguryOfPenitence",
-      560,
+      561,
       [
         16,
         -8
@@ -294,7 +294,7 @@
     ],
     [
       "OccultistNearbyChilledEnemiesReducedHitDamage",
-      1215,
+      1216,
       [
         -10
       ],
@@ -307,7 +307,7 @@
     ],
     [
       "OccultistNearbyHinderedEnemiesReducedDotDamage",
-      1216,
+      1217,
       [
         -15
       ],
@@ -320,7 +320,7 @@
     ],
     [
       "TricksterGhostDance",
-      1249,
+      1250,
       [],
       null,
       0,
@@ -331,7 +331,7 @@
     ],
     [
       "SlayerCritMultiplier",
-      1308,
+      1309,
       [
         -30
       ],
@@ -344,10 +344,9 @@
     ],
     [
       "GuardianDamageSpeedAreaIntimidate",
-      1329,
+      1330,
       [
-        30,
-        15,
+        20,
         30,
         100,
         100
@@ -362,7 +361,7 @@
     ],
     [
       "AfflictionNearbyEnemiesChilled",
-      1485,
+      1486,
       [],
       null,
       30,
@@ -375,7 +374,7 @@
     ],
     [
       "AfflictionNearbyEnemiesFireExposure",
-      1485,
+      1486,
       [],
       null,
       30,
@@ -389,9 +388,41 @@
     ],
     [
       "ReplenishingPresenceLifeRegenAura",
-      1530,
+      1531,
       [
         60
+      ],
+      null,
+      60,
+      [
+        1,
+        2,
+        10
+      ],
+      []
+    ],
+    [
+      "DeadeyeTailwind",
+      1060,
+      [
+        1,
+        -8
+      ],
+      null,
+      60,
+      [
+        1,
+        2,
+        10
+      ],
+      []
+    ],
+    [
+      "ScionTailwind",
+      1060,
+      [
+        1,
+        -8
       ],
       null,
       60,

@@ -260,10 +260,10 @@
       "",
       "",
       null,
-      910,
+      1084,
       "[DNT] Navali",
       null,
-      910
+      1084
     ],
     [
       "Einhar",
@@ -285,7 +285,7 @@
       598,
       "Gebiet enthält mächtige Bestien, die Einhar für Euch einfängt.",
       4,
-      910
+      1084
     ],
     [
       "Alva",
@@ -307,7 +307,7 @@
       599,
       "Gebiet enthält Inkursionen zum Tempel von Atzoatl, die von Alva geöffnet werden.",
       2,
-      910
+      1084
     ],
     [
       "Helena",
@@ -326,10 +326,10 @@
       "",
       "",
       null,
-      910,
+      1084,
       "[DNT] Helena",
       null,
-      910
+      1084
     ],
     [
       "Niko",
@@ -351,7 +351,7 @@
       600,
       "Gebiet enthält Ansammlungen voltaxischen Sulfits, das Niko für Euch abbaut.",
       3,
-      910
+      1084
     ],
     [
       "Jun",
@@ -373,12 +373,12 @@
       601,
       "Gebiet enthält Aktivitäten des Unsterblichen Syndikats, gegen das Jun mit Euch kämpft.",
       5,
-      910
+      1084
     ],
     [
       "Zana",
       0,
-      10374,
+      10461,
       0,
       [
         33,
@@ -392,7 +392,7 @@
       ],
       [],
       [],
-      17,
+      18,
       "Schließt neue Karten im Atlas ab, um Zanas Dekorationsstufe zu erhöhen.",
       "Ihr müsst {0} Karten im Atlas abgeschlossen haben, um Zanas Dekorationsstufe zu erhöhen.",
       4210,

@@ -799,6 +799,26 @@
       [
         1
       ]
+    ],
+    [
+      "SplittingSteel",
+      [
+        193,
+        194,
+        195
+      ],
+      [
+        196,
+        197,
+        198
+      ],
+      "Throw a splitting bolt of steel from your weapon that explodes on impact, dealing damage in an area. Use the Call of Steel ability from this gem to create Steel Shards that launch with Splitting Steel, exploding into multiple shards to damage nearby enemies.",
+      "http://web.poecdn.com/public/videos/ShatteringSteel/ESplitIntro.bk2",
+      493,
+      "http://down.qq.com/poe/videos/tutorial/TSplitIntro.bk2",
+      [
+        4
+      ]
     ]
   ]
 }

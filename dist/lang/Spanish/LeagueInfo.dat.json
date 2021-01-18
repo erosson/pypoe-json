@@ -2258,6 +2258,282 @@
       "",
       "Art/2DArt/UIImages/Login/LeagueInfo/Heist/textbackground",
       true
+    ],
+    [
+      "EchoesTrailer",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/ThumbnailTrailer",
+      "",
+      [],
+      "",
+      "Echoes",
+      false,
+      [],
+      [],
+      "http://web.poecdn.com/public/videos/EchoesTrailer_En.bk2",
+      "",
+      false
+    ],
+    [
+      "Echoes1",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel1",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Heading1",
+      [],
+      "En <italic>{Path of Exile: Ecos del Atlas}, ganarás aún más control sobre tu experiencia en el final del juego de Path of Exile. Especializa cada región de tu Atlas con su propio árbol de pasivas, fabrica Rocas del vigilante para refinar tus recompensas, elige hasta diez jefes de mapa para enfrentar simultáneamente y desafía al nuevo jefe final del Atlas: la Especialista.n\nMientras experimentas este nuevo contenido del final del juego, podrás llevar a cabo rituales peligrosos y gratificantes en la emocionante liga Ritual, explorar las diecinueve clases de ascendencia mejoradas, descubrir nuevos y poderosos objetos únicos, y mucho más.",
+      "Echoes",
+      false,
+      [],
+      [],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/textbackground",
+      false
+    ],
+    [
+      "Echoes2",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel2",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Heading2",
+      [],
+      "<italic>{Cuando el Antiguo fue sellado, algunas entidades de los confines más alejados del Atlas de Mundos lo notaron y dirigieron su atención hacia nosotros. El primero de esos visitantes es una entidad llamada la Especialista. Ella desea profundamente presenciar tus luchas por sobrevivir contra los enemigos más poderosos del Atlas. Acepta su desafío para poner a prueba tus talentos y tu mortalidad. Si muestras que eres digno, te ofrecerá un poco de su vasto poder.}",
+      "Echoes",
+      true,
+      [],
+      [],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/textbackground",
+      false
+    ],
+    [
+      "Echoes3",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel3",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Heading3",
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel3/Screenshot1",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel3/Screenshot2",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel3/Screenshot3"
+      ],
+      "Al matar a tres jefes de mapa en presencia de la Especialista, ganarás una invitación a su reino, donde solicitará que derrotes a estos jefes simultáneamente. Cuando pruebes tu valía, te retará a que derrotes cuatro jefes a la vez, luego cinco, después seis y finalmente diez. Solo entonces podrás enfrentarte al nuevo jefe final del Atlas: la mismísima Especialista.",
+      "Echoes",
+      false,
+      [],
+      [],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/textbackground",
+      false
+    ],
+    [
+      "Echoes4",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel4",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Heading4",
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel4/Screenshot1",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel4/Screenshot2",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel4/Screenshot3"
+      ],
+      "Toma el control de tu Atlas desbloqueando árboles de pasivas regionales que potenciarán el contenido que encontrarás y las recompensas que recibirás mientras exploras el Atlas.",
+      "Echoes",
+      true,
+      [],
+      [],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/textbackground",
+      false
+    ],
+    [
+      "Echoes5",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel5",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Heading5",
+      [],
+      "Ecos del Atlas incorpora tres tipos de Rocas del vigilante fabricables. Estos valiosos objetos del final del juego te permitirán mejorar tu Atlas y potenciar los tipos de recompensas que encontrarás en los mapas. Los jugadores que puedan obtener estas poderosas recompensas notarán que son estrictamente mejores que las Rocas del vigilante regulares: se pueden comerciar, no expiran cuando las usas, y sus beneficios se pueden acumular.\n\nOtra de las recompensas del final del juego, el Orbe de la Especialista, afecta a los objetos que tienen dos o más modificadores de influencia. Cuando lo uses en un objeto así, mejorará aleatoriamente uno de los modificadores de influencia y eliminará los otros. Si el modificador que está siendo mejorado ya es de grado máximo, se mejorará a un nuevo grado elevado.",
+      "Echoes",
+      false,
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/AukunasPlatinumNewVastirWatchstoneofTreacherousRealms",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/PackedTitaniumLexProximaWatchstoneofGeomancy",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/EssentialChromiumLexProximaWatchstoneofVersatility",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/MavensOrb",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/BrambleWard"
+      ],
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/AukunasPlatinumNewVastirWatchstoneHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/PackedTitaniumLexProximaWatchstoneHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/EssentialChromiumLexProximaWatchstoneHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/MavenOrbHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/BrambleWardBodyHover"
+      ],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/textbackground",
+      false
+    ],
+    [
+      "Echoes6",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel6",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Heading6",
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel6/Screenshot1",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel6/Screenshot2",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel6/Screenshot3"
+      ],
+      "Hemos agregado once mapas nuevos y encuentros contra jefes desafiantes al Atlas. Estos incluyen lugares implacables como <italic>{el Mar seco, el Río bifurcado, las Cabinas congeladas} y <italic>{la Hondonada fúnebre}.",
+      "Echoes",
+      true,
+      [],
+      [],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/textbackground",
+      false
+    ],
+    [
+      "Echoes7",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel7",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Heading7",
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel7/Screenshot1",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel7/Screenshot2",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel7/Screenshot3"
+      ],
+      "<italic>{Hay espirales retorcidas de carne, sangre y vísceras esparcidas por las tierras de Wraeclast. Aunque sus orígenes y propósitos son desconocidos, parecen tener sed de sangre y muerte y están dispuestas a recompensar con abundancia a quienes logren saciarla.}\n\nRitual es una liga de combate que te enfrenta a los poderes arcanos del Altar de ritual y también contra las oleadas de monstruos de creciente intensidad, todo mientras estás encerrado dentro del círculo del ritual. Cada ritual sucesivo en la misma área aumentará en dificultad, pero ofrecerá mejores recompensas.",
+      "Echoes",
+      false,
+      [],
+      [],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/textbackground",
+      false
+    ],
+    [
+      "Echoes8",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel8",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Heading8",
+      [],
+      "A medida que matas monstruos durante un ritual, ganarás tributo, que podrás gastar en una variedad de tentadores objetos y recompensas. Entre estas recompensas, podrás obtener nuevos tipos base de Ritual, que combinan mods. implícitos poderosos con desventajas desafiantes. Podrás consumir parte de tu tributo para aleatorizar las recompensas disponibles o bien para reservar alguna de ellas para más adelante.",
+      "Echoes",
+      true,
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/StormriderBoots",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/PenitentMask",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/NexusGloves"
+      ],
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/StormriderHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/PenitentHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/NexusHover"
+      ],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/textbackground",
+      false
+    ],
+    [
+      "Echoes9",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel9",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Heading9",
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel9/Screenshot1",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel9/Screenshot2",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel9/Screenshot3"
+      ],
+      "En el final del juego, podrás obtener recipientes comerciables de Ritual que te permitirán convertir a los monstruos de un ritual en un objeto. Podrás colocar hasta cuatro recipientes en el artefacto de mapas para agregar sus monstruos a los rituales presentes en el mapa que hayas colocado junto con los recipientes. De esta forma, aumentarás significativamente la dificultad y las recompensas de los rituales que encuentres.\n\nLos recipientes también aumentan considerablemente la densidad de los monstruos, que puede dar muchas recompensas en mapas llevados al máximo que contengan mecánicas como Beyond y Delirium.",
+      "Echoes",
+      false,
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/RitualVessel",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/BloodfilledVessel"
+      ],
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/RitualVesselHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/BloodfilledVesselHover"
+      ],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/textbackground",
+      false
+    ],
+    [
+      "Echoes10",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel10",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Heading10",
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel10/Screenshot1",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel10/Screenshot2",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel10/Screenshot3"
+      ],
+      "Además de rebalancear numéricamente todas las clases de ascendencia, hemos rediseñado significativamente a la Tiradora, al Inquisidor y a la Elementalista. El objetivo de estos rediseños ha sido redistribuir el poder dentro del árbol de pasivas de cada ascendencia para que haya muchas formas nuevas de crear personajes poderosos en Path of Exile.",
+      "Echoes",
+      true,
+      [],
+      [],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/textbackground",
+      false
+    ],
+    [
+      "Echoes11",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel11",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Heading11",
+      [],
+      "¡Los objetos son una de las características principales de las expansiones de Path of Exile! Además de las nuevas Rocas del vigilante fabricables, el Orbe de la Especialista y los varios tipos base de Ritual, también hemos incorporado la gema de habilidad Hidrosfera, la gema de asistencia de Trinidad, 13 objetos únicos nuevos y una buena cantidad de cartas de adivinación diseñadas por nuestros colaboradores. ",
+      "Echoes",
+      false,
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/Blackflame",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/LegacyofFury",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/HandoftheFervent",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/FatefulMeeting",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/Acclimatisation",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/Hydrosphere",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/TrinitySupport"
+      ],
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/BlackflameRingHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/LegacyofFuryHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/HandoftheFerventHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/FatefulMeetingHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/AcclimatisationHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/HydrosphereHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/TrinitySupportHover"
+      ],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/textbackground",
+      false
+    ],
+    [
+      "Echoes12",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel12",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Heading12",
+      [],
+      "Harvest está de vuelta. En lugar de tener que plantar y manejar tu propio Huerto sagrado, descubrirás portales a jardines ya establecidos con varios sets de cultivos listos para cosechar. De cada par de opciones podrás elegir una, así que considera cuidadosamente la dificultad del encuentro y los resultados de la fabricación antes de tomar una decisión. Si puedes derrotar a los monstruos que aparezcan, recibirás fuerza vital para mejorar enormemente tus objetos.  ",
+      "Echoes",
+      true,
+      [],
+      [],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/textbackground",
+      false
+    ],
+    [
+      "Echoes13",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel13",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Heading13",
+      [],
+      "En <italic>{Ecos del Atlas}, los contratos de Heist comenzarán a caer como botín a partir del acto seis. Los renegados subirán el nivel de sus habilidades más rápido, las monedas caerán con tamaños de pila más grandes, y los contratos de misión caerán en el siguiente Alijo del contrabandista que abras después de que dicha misión se habilite.",
+      "Echoes",
+      false,
+      [],
+      [],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/textbackground",
+      false
+    ],
+    [
+      "Echoes14",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel14",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Heading14",
+      [],
+      "Además de los nuevos Paquetes Universales, también lanzaremos dos sets nuevos de paquetes de colaborador para celebrar el lanzamiento de Ecos del Atlas y la liga Ritual: los paquetes de Renegado y de Guerrero de fe. Hay dos valores disponibles para cada uno, y contienen una gran cantidad de puntos y muchas microtransacciones exclusivas, como sets de armadura y efectos para el personaje.\n\n<italic>{Path of Exile: Ecos del Atlas} estará disponible el 15 de enero (PST) en PC y el 20 de enero (PST) en Xbox y PlayStation.",
+      "Echoes",
+      true,
+      [],
+      [],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/textbackground",
+      true
     ]
   ]
 }

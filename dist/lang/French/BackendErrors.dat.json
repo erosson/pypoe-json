@@ -563,7 +563,11 @@
     ],
     [
       "MutedUntilSeconds",
-      "Votre compte a été mis en sourdine par un GM. Vous pourrez parler à nouveau dans {0}."
+      "Votre compte a été mis en sourdine par un GM. Vous pourrez parler de nouveau dans {0}."
+    ],
+    [
+      "MutedUntilSecondsConsole",
+      "Votre compte a été mis en sourdine par un GM. Vous pourrez parler de nouveau dans {0}."
     ],
     [
       "ObaPlayerJoined",
@@ -575,7 +579,7 @@
     ],
     [
       "ObaBeginDeathCount",
-      "La corruption s'étend. Dépêche-toi avant qu'elle ne te consume comme elle m'a consummé."
+      "La corruption s'étend. Dépêche-toi avant qu'elle ne te dévore comme elle m'a dévoré."
     ],
     [
       "ObaFinalCountdown",
@@ -815,11 +819,11 @@
     ],
     [
       "ReceivedRespecPoint1",
-      "Vous avez reçu 1 point de Respécialisation de passif."
+      "Vous avez reçu 1 point de Respécialisation de Passif."
     ],
     [
       "ReceivedRespecPointN",
-      "Vous avez reçu {0} points de Respécialisation de passif."
+      "Vous avez reçu {0} points de Respécialisation de Passif."
     ],
     [
       "ReceivedPassivePoint1",
@@ -2158,8 +2162,40 @@
       "Erreur : vous n'êtes pas le propriétaire de ce Casse."
     ],
     [
+      "ReceivedAtlasRespecPoint1",
+      "Vous avez reçu 1 point de Respécialisation de Passif de l'Atlas."
+    ],
+    [
+      "ReceivedAtlasRespecPointN",
+      "Vous avez reçu {0} points de Respécialisation de Passif de l'Atlas."
+    ],
+    [
+      "ReceivedAtlasPassivePointN",
+      "Vous avez reçu {1} points de Passif de l'Atlas pour {0}."
+    ],
+    [
+      "MavenNotEnoughBosses",
+      "Activation échouée. Vous devez récolter plus de boss de cette Région de l'Atlas."
+    ],
+    [
+      "MavenCitadelNotUnlocked",
+      "L'activation a échoué : vous n'avez pas débloqué la Citadelle de cette Région de l'Atlas."
+    ],
+    [
       "StashAffinityFailedNoRoom",
       "Il n'y a pas assez de place dans d'Onglet de Réserve cible (Préférence : {0}) pour accueillir cet objet."
+    ],
+    [
+      "FailedToAddMavenToMap",
+      "La Prodige n'a pas pu être convoquée à la Carte. Raison : {0}"
+    ],
+    [
+      "RitualFragmentNotValidForUse",
+      "Activation échouée : les Effigies maculées de sang ne s'utilisent qu'en ligue Ritual."
+    ],
+    [
+      "MapDeviceInvalidQuestState",
+      "Activation échouée : vous n'avez pas le statut de quête requis."
     ]
   ]
 }

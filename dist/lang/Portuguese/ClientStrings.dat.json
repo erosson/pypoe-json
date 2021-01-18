@@ -3055,7 +3055,7 @@
     ],
     [
       "OptionsDialogueInChatPopup",
-      "Gera diálogo de personagem no chat além do áudio.",
+      "Gera diálogo de personagens e NPCs no chat além do áudio.",
       "",
       1213515967,
       ""
@@ -6561,6 +6561,27 @@
       ""
     ],
     [
+      "ItemDescriptionMavenAlteration",
+      "Clique com o botão direito neste item e então com o esquerdo no Dispositivo de Mapas em seu Refúgio para adicionar o Sinalizador de Maven.",
+      "Use este item no Dispositivo de Mapas em seu Refúgio para adicionar o Sinalizador de Maven.",
+      1872848573,
+      ""
+    ],
+    [
+      "ItemFunctionMavenMap",
+      "Pode ser usado em um Dispositivo de Mapas pessoal.",
+      "",
+      295668964,
+      ""
+    ],
+    [
+      "ItemFunctionMavenMapCraftable",
+      "Can be used in a personal Map Device. Modifiers to Item Quantity will affect the number of encounter rewards dropped.",
+      "",
+      -867359568,
+      ""
+    ],
+    [
       "ItemFunctionBanditRespecAlira",
       "Obtém o favor de Alira.",
       "",
@@ -6614,6 +6635,13 @@
       "Concede um Ponto de Habilidade Passiva e dois Pontos de Restituição de Passivas.",
       "",
       1883333709,
+      ""
+    ],
+    [
+      "ItemFunctionMavenAlteration",
+      "Permite que você chame a Maven à um mapa no seu Dispositivo de Mapas.",
+      "",
+      1854274428,
       ""
     ],
     [
@@ -8689,10 +8717,10 @@
       ""
     ],
     [
-      "ItemErrorNoTargetChest",
-      "Nenhum baú alvo encontrado.",
+      "ItemErrorNoTargetFound",
+      "Nenhum objeto alvo encontrado.",
       "",
-      -374208601,
+      -1883872711,
       ""
     ],
     [
@@ -8714,6 +8742,13 @@
       "O alvo já foi identificado.",
       "",
       563966131,
+      ""
+    ],
+    [
+      "ItemErrorTargetNotMapDevice",
+      "Alvo não é seu Dispositivo de Mapas.",
+      "",
+      1335405894,
       ""
     ],
     [
@@ -10733,6 +10768,13 @@
       ""
     ],
     [
+      "MissionTrackStrDexIntFailedBlight",
+      "Missão falhou. Você falhou em parar a Praga.",
+      "",
+      -128708828,
+      ""
+    ],
+    [
       "MissionTrackStrDexIntComplete",
       "Missão completa. ",
       "",
@@ -10887,6 +10929,34 @@
       ""
     ],
     [
+      "MissionTrackStrDexIntCompleteHarvest",
+      "Complete a Colheita.",
+      "",
+      1360686376,
+      ""
+    ],
+    [
+      "MissionTrackStrDexIntCompleteBlight1",
+      "Complete o encontro Blight.",
+      "",
+      -472106124,
+      ""
+    ],
+    [
+      "MissionTrackStrDexIntCompleteBlightN",
+      "Complete os encontros Blight. ({0}/{1})",
+      "",
+      73086834,
+      ""
+    ],
+    [
+      "MissionTrackStrDexIntCompleteBlightedMap",
+      "Complete o encontro Blight.",
+      "",
+      942573496,
+      ""
+    ],
+    [
       "MissionTrackStrDexIntExiles",
       "Mate os Exilados Renegados.",
       "",
@@ -10992,6 +11062,20 @@
       ""
     ],
     [
+      "MissionTrackStrDexIntPrepMetamorph",
+      "Colete Amostras de Monstros para Tane\nConstrua e mate o Metamorfo.",
+      "",
+      -1128887465,
+      ""
+    ],
+    [
+      "MissionTrackStrDexIntSlayMetamorph",
+      "Mate o Metamorfo.",
+      "",
+      1697176817,
+      ""
+    ],
+    [
       "MissionTrackStrDexIntUniqueStrongbox",
       "Abra um Cofre Único.",
       "",
@@ -11017,6 +11101,13 @@
       "Abra as Fendas. ({0}/{1})",
       "",
       -370130764,
+      ""
+    ],
+    [
+      "MissionTrackStrDexIntDelirium",
+      "Abra o Espelho do Delírio.",
+      "",
+      1055064308,
       ""
     ],
     [
@@ -12184,7 +12275,7 @@
     [
       "DivinationWindowTradeButton",
       "Negociar",
-      "<<xbox_button_a>> Negociar",
+      "",
       -1840757987,
       ""
     ],
@@ -13939,6 +14030,13 @@
       ""
     ],
     [
+      "MavenPortalsDisabled",
+      "O poder de Maven impede o uso de portais.",
+      "",
+      966005961,
+      ""
+    ],
+    [
       "OptionsLanguageChangeNoRestart",
       "Você deve reiniciar o Path of Exile para que o idioma selecionado entre em efeito.",
       "",
@@ -13947,7 +14045,7 @@
     ],
     [
       "ChallengesInformation",
-      "Você ganhará uma microtransação Heist a cada 12 desafios completados.",
+      "Você ganhará uma microtransação Ritual a cada 12 desafios completados.",
       "",
       1156891019,
       ""
@@ -14122,7 +14220,7 @@
     ],
     [
       "ReminderTextTailwind",
-      "(Vento Favorável o faz 10% mais rápido)",
+      "(Vento Favorável aumenta a Velocidade de Ação em 8%)",
       "",
       623969398,
       ""
@@ -14815,7 +14913,7 @@
     ],
     [
       "MonsterGoatmanFireShamanChampionInfoString",
-      "Conjura Orbe de Magma\nConjura Bola de Fogo\nConjura Escudo Flamejante",
+      "Conjura Bola de Magma\nConjura Bola de Fogo\nConjura Escudo Flamejante",
       "",
       -1120461354,
       ""
@@ -17552,7 +17650,7 @@
     ],
     [
       "ReminderTextFarShot",
-      "(Ataques de Projéteis ganham Dano conforme viajam adiante, causando até 30% mais Dano de Ataque com Acertos em alvos)",
+      "(Acertos de Ataques de Projéteis causam 20% menos Dano aos alvos no início de sua movimentação, causando até 60% mais Dano aos alvos na medida em que viaja adiante)",
       "",
       -35193492,
       ""
@@ -33140,10 +33238,59 @@
       ""
     ],
     [
+      "MapDeviceWarningQuestStateInvalid",
+      "Você não possui o estado de missões requisitado para acessar esta área.",
+      "",
+      1233540811,
+      ""
+    ],
+    [
+      "MapDeviceWarningNotEnoughCollectedMapsForMaven",
+      "A Maven não testemunhou Encontros com Chefes de Mapas suficientes em {0}. {1}",
+      "",
+      -1769110154,
+      ""
+    ],
+    [
       "AltasNodePopupAreaContainsText",
       "Área Contém {0}",
       "",
       -55886965,
+      ""
+    ],
+    [
+      "AddMavenErrorMapAlreadyCollected",
+      "A Maven já testemunhou o encontro com o chefe deste Mapa",
+      "",
+      -1771648578,
+      ""
+    ],
+    [
+      "AddMavenErrorInvalidArea",
+      "A Maven não tem interesse neste área",
+      "",
+      1213445134,
+      ""
+    ],
+    [
+      "AddMavenErrorInvalidUniqueMap",
+      "A Maven não pode ser chamada para este Mapa Único",
+      "",
+      1912983059,
+      ""
+    ],
+    [
+      "AddMavenErrorInvalidQuestState",
+      "A Maven não está interessada nesta Região",
+      "",
+      870222046,
+      ""
+    ],
+    [
+      "AddMavenErrorMapTooLowLevel",
+      "Este mapa tem nível baixo demais para conter a atenção da Maven",
+      "",
+      1685682043,
       ""
     ],
     [
@@ -36417,7 +36564,7 @@
     ],
     [
       "HarvestCraftingUIInfo",
-      "Selecione a modificação que deseja executar, então ponha o item que desaja modificar no espaço para o item. Modificações consomem Força Vital Bruta. Qualquer Força Vital restante pode ser condensada e guardada para o plantio de outras sementes. Força Vital que tenha sido condensada não pode ser usada para criação novamente. Todas as opções de criação e Força Vital Bruta serão perdidas ao visitar o Bosque Sagrado em outra área.",
+      "Selecione a modificação que deseja executar, então coloque o item que deseja modificar no espaço para item. Todas as opções de criação serão perdidas ao visitar o Bosque Sagrado em outra área.",
       "",
       1000398599,
       ""
@@ -37012,7 +37159,7 @@
     ],
     [
       "ItemDescriptionPlantBoosterPlaced",
-      "[DNT] Control-click to return this Plant Booster to your inventory.",
+      "[UNUSED] Control-click to return this Plant Booster to your inventory.",
       "",
       874381046,
       ""
@@ -37446,7 +37593,7 @@
     ],
     [
       "HarvestCraftingToSiloPopup",
-      "Enviar opção de criação até uma Estação de Horticultura pra guardar.",
+      "Envie opção de criação até a sua Estação de Horticultura pra armazenar.",
       "Salvar Opção de Criação",
       -1939641360,
       ""
@@ -37477,6 +37624,13 @@
       "Escolha entre seu inventário principal e baú.\nItens do baú só podem ser selecionados para criação e não podem ser movidos para seu inventário aqui.",
       "",
       -1147455374,
+      ""
+    ],
+    [
+      "HarvestCraftingInventoryTogglePopupHideout",
+      "Muda entre seu inventário principal e baú.\nItens do baú podem ser selecionados para criação.",
+      "",
+      466180397,
       ""
     ],
     [
@@ -37705,7 +37859,7 @@
     ],
     [
       "HarvestCraftingToSiloConfirmation",
-      "Consumir {0} Forças Vitais para enviar esta opção de criação para uma Estação de Horticultura conectada?",
+      "Enviar esta opção de criação até sua Estação de Horticultura?",
       "",
       -1058249048,
       ""
@@ -37818,7 +37972,7 @@
     [
       "HarvestInventoryButtonDisabledPopup",
       "Escolha entre seu inventário principal e baú.\n<red>{Desabilitado enquanto o cursor ou o espaço de criação de item não estiver vazio.}",
-      "",
+      "<red>{Cursor e espaço de criação precisam estar vazios)",
       -1133560941,
       ""
     ],
@@ -38769,7 +38923,7 @@
     ],
     [
       "ReminderTextKeystoneHexZoneKeystone",
-      "(Suas Magias de Maldição Feitiços criam uma Área Enfeitiçada por 1 segundo se você as conjurar manualmente. Inimigos na Área Enfeitiçada são Enfeitiçados e o Feitiço não expira enquanto estiver na Área Enfeitiçada. Feitiços aplicados desta forma não ganham Destruição com o tempo. Feitiços na Área Enfeitiçada ganham até o máximo de Destruição após o término da Área Enfeitiçada)",
+      "(Suas Magias de Maldição Feitiços criam uma Área Enfeitiçada por 1 segundo se você as conjurar manualmente. Inimigos na Área Enfeitiçada são Enfeitiçados e o Feitiço não expira enquanto estiverem na Área Enfeitiçada. Feitiços aplicados desta forma não ganham Destruição com o tempo. Feitiços na Área Enfeitiçada ganham até o máximo de Destruição após o término da Área Enfeitiçada)",
       "",
       -1751549202,
       ""
@@ -38912,13 +39066,6 @@
       "Falha na Compra Epic.",
       "",
       -363792823,
-      ""
-    ],
-    [
-      "HeistSkillInteractText",
-      "Iniciar {0}",
-      "",
-      -1001524034,
       ""
     ],
     [
@@ -39489,6 +39636,20 @@
       ""
     ],
     [
+      "HeistBlueprintWindowLegendTitle",
+      "Lenda",
+      "",
+      548456986,
+      ""
+    ],
+    [
+      "HeistBlueprintWindowToggleLegend",
+      "Ativar Lenda",
+      "",
+      -1197080731,
+      ""
+    ],
+    [
       "HeistContractNoRevealCharLevelTooHighPostContract",
       "O nível deste contrato era baixo demais para conceder Revelações à Planta. Complete Contratos de nível maior para ganhar Revelações de Planta.",
       "",
@@ -39517,10 +39678,10 @@
       ""
     ],
     [
-      "HeistCharacterSkillLevelModifiedByEquipment",
-      "{0} do Equipamento",
+      "HeistStoragePanelSearchInfo",
+      "Destaca itens que combinem com as palavras chave que você especificar. \n\nDicas:\n<default>{- Digite várias palavras separando-as com espaço\n-Combine o texto separado com espaço em uma única palavra colocando-as entre aspas. Ex: \"redução nível alerta\" ou \"exige enganação\" \n- Busque pelo nível do item digitando ilvl:X\n- Você pode pressionar <b>{CTRL+F} como atalho}",
       "",
-      485678059,
+      855817334,
       ""
     ],
     [
@@ -39528,6 +39689,48 @@
       "Sem Categoria",
       "",
       1579450915,
+      ""
+    ],
+    [
+      "DescriptionLabelFixedValueStat",
+      "<italic>{<rgb(170,170,170)>{ — Valor não escalável}}",
+      "",
+      1779730505,
+      ""
+    ],
+    [
+      "PassiveTreeCannotModifyWhileDead",
+      "Você não pode modificar suas habilidades passivas enquanto morto",
+      "",
+      403750993,
+      ""
+    ],
+    [
+      "RitualStoneMonsterCount",
+      "Monstros",
+      "",
+      -1465615632,
+      ""
+    ],
+    [
+      "RitualStoneVarieties",
+      "Monstros:\n{0}",
+      "",
+      1991013785,
+      ""
+    ],
+    [
+      "RitualStoneNumOtherMonsters",
+      "{0} Outros Monstros",
+      "",
+      -1714643609,
+      ""
+    ],
+    [
+      "RitualStoneLevel",
+      "Nível dos Monstros",
+      "",
+      220235298,
       ""
     ],
     [
@@ -39542,6 +39745,13 @@
       "Deletar Pasta",
       "",
       -159684347,
+      ""
+    ],
+    [
+      "HeistCharacterSkillLevelModifiedByEquipment",
+      "{0} do Equipamento",
+      "",
+      485678059,
       ""
     ],
     [
@@ -39573,6 +39783,377 @@
       ""
     ],
     [
+      "ItemErrorQuestState",
+      "Você não tem o estado de missões exigido para usar este item.",
+      "",
+      1734860859,
+      ""
+    ],
+    [
+      "ItemFilterRuleBaseType",
+      "tipos base",
+      "",
+      -1458395552,
+      ""
+    ],
+    [
+      "ItemFilterRuleCJESPN",
+      "encantamento de joias ramificadoras em nódulos de passivas pequenas",
+      "",
+      -1069257219,
+      ""
+    ],
+    [
+      "ItemFilterRuleGemQualityType",
+      "tipos de qualidade de gemas",
+      "",
+      260938080,
+      ""
+    ],
+    [
+      "ItemFilterRuleMods",
+      "mods",
+      "",
+      -862866519,
+      ""
+    ],
+    [
+      "ItemFilterRuleProphecies",
+      "profecias",
+      "",
+      -674953992,
+      ""
+    ],
+    [
+      "ItemFilterErrorCannotOpenFile",
+      "Falhar ao abrir o arquivo: \"{0}\"",
+      "",
+      2059299633,
+      ""
+    ],
+    [
+      "ItemFilterErrorDownloadError",
+      "Erro ao tentar baixar o filtro de itens.",
+      "",
+      1253260571,
+      ""
+    ],
+    [
+      "ItemFilterErrorJSONError",
+      "Erro de parse no json",
+      "",
+      1801868329,
+      ""
+    ],
+    [
+      "ItemFilterErrorCreateBackupFile",
+      "Erro ao tentar criar o arquivo de filtro {0}.bak",
+      "",
+      632219470,
+      ""
+    ],
+    [
+      "ItemFilterErrorCreateTempFile",
+      "Erro ao tentar criar o arquivo de filtro {0}.tmp",
+      "",
+      644948399,
+      ""
+    ],
+    [
+      "ItemFilterErrorDeleteTempFile",
+      "Erro ao tentar criar o arquivo de filtro {0}.tmp",
+      "",
+      1721279864,
+      ""
+    ],
+    [
+      "ItemFilterErrorLine",
+      "Linha {0}: {1}",
+      "",
+      1685743633,
+      ""
+    ],
+    [
+      "ItemFilterErrorMissingParameter",
+      "Parâmetro esperado para a regra {0}",
+      "",
+      364040542,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidParameter",
+      "Não foi possível analisar o parâmetro para a regra {0}: {1}",
+      "",
+      -1683601601,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidRule",
+      "Tipo de regra desconhecido {0}",
+      "",
+      840176699,
+      ""
+    ],
+    [
+      "ItemFilterErrorTooManyArguments",
+      "Argumentos demais",
+      "",
+      -958533439,
+      ""
+    ],
+    [
+      "ItemFilterErrorNegativeNumber",
+      "Totalidade \"{0}\" não pode ser negativa",
+      "",
+      903523824,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidNumber",
+      "Totalidade \"{0}\" não reconhecida",
+      "",
+      -264591595,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidBoolean",
+      "Boleano \"{0}\" não reconhecido",
+      "",
+      -95479572,
+      ""
+    ],
+    [
+      "ItemFilterErrorNoStringMatch",
+      "Nenhum {0} encontrado combinando com \"{1}\"",
+      "",
+      849910734,
+      ""
+    ],
+    [
+      "ItemFilterErrorNoStringMatchExact",
+      "Nenhum {0} encontrado com combinação específica para \"{1}\"",
+      "",
+      -96105334,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidRarity",
+      "Nenhuma Raridade combinando com \"{0}\"",
+      "",
+      1777028210,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidItemClass",
+      "Nenhuma Classe de Item combinando com \"{0}\"",
+      "",
+      -374456860,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidInfluence",
+      "Nenhum tipo de influência combinando com \"{0}\"",
+      "",
+      -63850907,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidSockets",
+      "Descrição de Encaixe Inválida \"{0}\". Letras válidas são RGBWAD, números válidos vão de 0-9",
+      "",
+      -1037787329,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidSoundNumber",
+      "Número de som inválido \"{0}\"",
+      "",
+      1976420515,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidSoundVolume",
+      "Volume de som inválido \"{0}\". Deve estar entre {1} e {2}",
+      "",
+      -703145816,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidDropEffect",
+      "Nome de efeito inválido \"{0}\". Valores válidos são {{ {1} }}",
+      "",
+      1806994332,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidCustomAlerSound",
+      "Formato incorreto: CustomAlertSound \"caminho\" [volume]",
+      "",
+      -1943086820,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidSoundPath",
+      "Caminho do arquivo de som inválido \"{0}\"",
+      "",
+      -1457312148,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidMinimapIconData",
+      "Impossível ler informações de ícones do minimapa",
+      "",
+      -263736446,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidMinimapIcon",
+      "Ícone de Mapa inválido: \"{0} {1}\" é um ícone válido.",
+      "",
+      -305641187,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidMinimapIconSize",
+      "Tamanho inválido: Por favor selecione {{ {0} }}. Padrão é {1}",
+      "",
+      351673213,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidColourComponent",
+      "Impossível ler o componente de cor",
+      "",
+      865496561,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidColourAlpha",
+      "Valor alfa especificado inválido \"{0}\"",
+      "",
+      -1130857854,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidFontSize",
+      "Impossível ler o tamanho da fonte",
+      "",
+      1351409074,
+      ""
+    ],
+    [
+      "ItemFilterErrorRuleOutsideBlock",
+      "Regra encontrada for a do bloco de regras",
+      "",
+      471547079,
+      ""
+    ],
+    [
+      "RitualRewardWindowTitle",
+      "Favores",
+      "",
+      -1047919592,
+      ""
+    ],
+    [
+      "RitualRewardWindowPoints",
+      "{0} Tributos Restantes",
+      "",
+      -243348613,
+      ""
+    ],
+    [
+      "RitualRewardWindowHelpPopup",
+      "Mate monstros durante um Ritual para ganhar Tributos. Tributos podem ser gastos em recompensas após o término do Ritual.\nAlgumas recompensas só podem ser reveladas após o término de vários Rituais.\nRecompensas de Rituais mudam entre as áreas a menos que sejam adiadas.",
+      "Mate monstros durante um Ritual para ganhar Tributos. Tributos podem ser gastos em recompensas após o término do Ritual.\nAlgumas recompensas só podem ser reveladas após o término de vários Rituais.\nRecompensas de Rituais mudam entre as áreas a menos que sejam adiadas.\nItens com um ícone <<ritual_suspended>> foram adiados anteriormente e já foram parcialmente pagos.",
+      925319988,
+      ""
+    ],
+    [
+      "RitualRewardWindowPrepayButton",
+      "Adiar Item",
+      "",
+      -1693884233,
+      ""
+    ],
+    [
+      "RitualRewardCurrencyName",
+      "Tributo",
+      "",
+      593432348,
+      ""
+    ],
+    [
+      "RitualObjectWorldDescriptionTitle",
+      "{0} Altar Ritualístico",
+      "",
+      502284760,
+      ""
+    ],
+    [
+      "RitualObjectWorldDescriptionBody",
+      "Interaja para iniciar o Ritual",
+      "",
+      -473616467,
+      ""
+    ],
+    [
+      "RitualObjectWorldDescriptionRewardsBody",
+      "Interaja para ver os Favores",
+      "",
+      -1646456293,
+      ""
+    ],
+    [
+      "WarningChangingHideoutLosesPortals",
+      "Aviso: mudar seu Refúgio destruirá todos os Portais abertos.",
+      "",
+      -64268714,
+      ""
+    ],
+    [
+      "LeagueStandardRitual",
+      "Descubra Altares antigos e execute Rituais perigosos para receber recompensas valiosas.\n\n<colour:yellow>{Esta é a liga padrão do Path of Exile}",
+      "",
+      -967808659,
+      ""
+    ],
+    [
+      "LeagueHardcoreRitual",
+      "Descubra Altares antigos e execute Rituais perigosos para receber recompensas valiosas.\n\n<colour:red>{Um personagem morto na Ritual Extrema se torna um personagem do modo Normal}",
+      "",
+      2030150804,
+      ""
+    ],
+    [
+      "LeagueStandardSSFRitual",
+      "Ritual SSF",
+      "",
+      1196121897,
+      ""
+    ],
+    [
+      "LeagueHardcoreSSFRitual",
+      "Ritual SSF HC",
+      "",
+      -1687185404,
+      ""
+    ],
+    [
+      "RitualRewardWindowPrepayButtonPopup",
+      "Pague 15% do custo original do item para Adiar tal item. Este item aparecerá novamente em uma área diferente com custo menor.",
+      "",
+      -1224183722,
+      ""
+    ],
+    [
+      "RitualRewardWindowPrepaidItemPopup",
+      "Este item foi adiado e parcialmente pago.",
+      "",
+      1054933146,
+      ""
+    ],
+    [
       "StashDeleteFolderButtonPopup",
       "Abas contidas serão movidas para esta Pasta",
       "",
@@ -39594,6 +40175,48 @@
       ""
     ],
     [
+      "RitualObjectWorldDescriptionRewardsTitle",
+      "{0} Recompensas Ritual",
+      "",
+      2030529253,
+      ""
+    ],
+    [
+      "MavenBossRushObjectDescriptionTitle",
+      "O Desafio Maven",
+      "",
+      157586887,
+      ""
+    ],
+    [
+      "MavenBossRushObjectDescriptionBody",
+      "Interaja para iniciar o desafio",
+      "",
+      1957375823,
+      ""
+    ],
+    [
+      "MavenBossRushObjectDescriptionPassivesTitle",
+      "Presente de Maven",
+      "",
+      -493163783,
+      ""
+    ],
+    [
+      "MavenBossRushObjectDescriptionPassivesBody",
+      "Interaja para alocar pontos passivos do Atlas",
+      "",
+      2023104665,
+      ""
+    ],
+    [
+      "AtlasPopupMapCollected",
+      "O Maven atualmente possui uma recriação do Chefe deste mapa.",
+      "",
+      1517173982,
+      ""
+    ],
+    [
       "GraphicsOptionsDynamicResolutionFactor",
       "Fator de Resolução",
       "",
@@ -39602,30 +40225,394 @@
     ],
     [
       "GraphicsOptionsDynamicResolutionFactorTooltip",
-      "Quanto ativado e a resolução dinâmica estiver ativa, o jogo usará isso para corritir o fator de resolução ao invés de ajustá-la de forma dinâmica.",
+      "Quando ativado e a resolução dinâmica estiver ativada, o jogo usará este fator de resolução fixo ao invés de ajustá-la de forma dinâmica.",
       "",
       705196355,
       ""
     ],
     [
+      "ReminderTextConvergence",
+      "(Convergência concede 30% mais Dano Elemental e dura 4 segundos)",
+      "",
+      -110112724,
+      ""
+    ],
+    [
+      "HarvestHorticraftingStation",
+      "Estação de Horticultura",
+      "",
+      300768334,
+      ""
+    ],
+    [
+      "RitualRewardWindowRemainingEncounters",
+      "{0} Rituais Restantes",
+      "",
+      -760824638,
+      ""
+    ],
+    [
+      "RitualRewardWindowRemainingEncounter",
+      "1 Ritual Restante",
+      "",
+      -581620698,
+      ""
+    ],
+    [
+      "GamepadLegendRitualSuspendItem",
+      "Adiar Item",
+      "",
+      1661103512,
+      ""
+    ],
+    [
+      "GamepadLegendRitualCancelPrepaySelection",
+      "Cancelar",
+      "",
+      1448043609,
+      ""
+    ],
+    [
+      "GamepadLegendRitualConfirmPrepaySelection",
+      "Confirmar Seleção",
+      "",
+      -495830768,
+      ""
+    ],
+    [
+      "GamepadLegendUseRitualFragment",
+      "",
+      "Use o Recipiente Ritualístico",
+      2046685588,
+      ""
+    ],
+    [
+      "ReminderTextGaleForce",
+      "(Cada instância da Força da Ventania dura 4 segundos. Máximo de 10 Forças da Ventania)",
+      "",
+      -400489052,
+      ""
+    ],
+    [
+      "ReminderTextSacrificialZeal",
+      "(Fervor Sacrificial concede Dano Mágico Físico Adicional igual a 25% do Custo de Mana da Habilidade, e faz com que você sofra Dano Físico Degenerativo, por 4 segundos)",
+      "",
+      -1996553147,
+      ""
+    ],
+    [
+      "ReminderTextFanaticism",
+      "(Fanatismo concede às Magias Conjuradas por você 75% mais Velocidade de Conjuração, 75% de redução do custo de mana e Efeito em Área aumentado em 75%)",
+      "",
+      -2060325603,
+      ""
+    ],
+    [
+      "RitualRewardWindowRerollPopup",
+      "Rerole para ver novos Itens.\n Isso só pode ser feito uma vez por área.\nCusta: {0} Tributos",
+      "",
+      -1129636923,
+      ""
+    ],
+    [
+      "GamepadLegendAtlasRegionTree",
+      "",
+      "Abra a Árvore Passiva da Região",
+      1439656462,
+      ""
+    ],
+    [
+      "RitualRewardWindowRerollConfirmationTitle",
+      "Rerola Favores",
+      "",
+      -1823061932,
+      ""
+    ],
+    [
+      "RitualRewardWindowRerollConfirmationText",
+      "Tem certeza que quer rerolar os Favores? Isso substituirá todos os Favores atuais.\nCusto: {0} Tributos",
+      "",
+      -655453620,
+      ""
+    ],
+    [
       "EndlessDelveAscendancyEnabled",
-      "Agora você pode escolher uma classe Ascendente usando o Altar da Ascensão no Acampamento da Mina.",
+      "Você pode escolher uma classe Ascendente usando o Altar da Ascensão no Acampamento da Mina.",
       "",
       818171352,
       ""
     ],
     [
       "EndlessDelveMoreAscendancyPoints",
-      "Agora você pode ganhar Pontos de Habilidade Adicionais usando o Altar da Ascensão no Acampamento da Mina.",
+      "Agora você pode ganhar Pontos de Ascensão adicionais usando o Altar da Ascensão no Acampamento da Mina.",
       "",
       582274785,
       ""
     ],
     [
-      "StashOptionsOverrideAffinityTipText",
-      "Você pode ignorar as Afinidades de Abas usando CTRL + SHIFT + Clique Esquerdo.",
+      "GraphicsOptionsDoFLabel",
+      "Profundidade",
       "",
+      -1831905225,
+      ""
+    ],
+    [
+      "GraphicsTabDoFPopup",
+      "Profundidade<size:3>{\n}<size:29>{\r\nIsso controla o efeito de Profundidade. Desabilite para melhorar a performance em algumas cenas.}",
+      "",
+      -96013088,
+      ""
+    ],
+    [
+      "GraphicsOptionsDoFEnabled",
+      "Ativado",
+      "",
+      2137710707,
+      ""
+    ],
+    [
+      "GraphicsOptionsDoFDisabled",
+      "Desativado (Padrão)",
+      "",
+      -1117362787,
+      ""
+    ],
+    [
+      "ReminderTextRupture",
+      "(Alvos rompidos sofrem 25% mais Dano de Sangramento, e o Sangramento neles expira 25% mais rápido, por 3 segundos. Até 3 Rompimentos podem afetar um alvo)",
+      "",
+      816601661,
+      ""
+    ],
+    [
+      "ConsoleActionOpenOrganQuickSelect",
+      "",
+      "Abrir Seleção Rápida",
+      -1091845192,
+      ""
+    ],
+    [
+      "MarketSearchTalismans",
+      "Talismãs",
+      "",
+      1414539890,
+      ""
+    ],
+    [
+      "MarketExtraTypeInfoFireAsCold",
+      "<fire>{Fogo como Gelo}",
+      "",
+      -394234010,
+      ""
+    ],
+    [
+      "MarketExtraTypeInfoFireAsLightning",
+      "<fire>{Fogo como Raio}",
+      "",
+      -604917186,
+      ""
+    ],
+    [
+      "MarketExtraTypeInfoColdAsFire",
+      "<cold>{Gelo como Fogo}",
+      "",
+      -1579132513,
+      ""
+    ],
+    [
+      "MarketExtraTypeInfoColdAsLightning",
+      "<cold>{Gelo como Raio}",
+      "",
+      764321560,
+      ""
+    ],
+    [
+      "MarketExtraTypeInfoLightningAsFire",
+      "<lightning>{Raio como Fogo}",
+      "",
+      1817199778,
+      ""
+    ],
+    [
+      "MarketExtraTypeInfoLightningAsCold",
+      "<lightning>{Raio como Gelo}",
+      "",
+      2032335341,
+      "B"
+    ],
+    [
+      "MarketExtraTypeInfoChargePower",
+      "Poder",
+      "",
+      -674457239,
+      ""
+    ],
+    [
+      "MarketExtraTypeInfoChargeFrenzy",
+      "Frenesi",
+      "",
+      449393239,
+      ""
+    ],
+    [
+      "MarketExtraTypeInfoChargeEndurance",
+      "Tolerância",
+      "",
+      -1590973156,
+      ""
+    ],
+    [
+      "NullAtlasRegionName",
+      "Os Reinos Desconhecidos",
+      "",
+      152238034,
+      ""
+    ],
+    [
+      "GamepadLegendToggleMavenMapDeviceOption",
+      "",
+      "Ative o Sinalizador da Maven",
+      -1777039069,
+      ""
+    ],
+    [
+      "StashOptionsOverrideAffinityTipText",
+      "Você pode ignorar as Afinidades de Abas usando Ctrl + Shift + Clique Esquerdo.",
+      "Você pode ignorar as Afinidades de Abas usando <<xbox_button_lstick>> + <<xbox_button_x>>",
       845178960,
+      ""
+    ],
+    [
+      "TrinitySupportUIPopupText",
+      "Ressonância:\r\nAcertos com Habilidades Suportadas pela Trindade para a qual o Maior Dano é Elemental faz com que você ganhe Ressonância dos outros Elementos\r\nPerde 5 Ressonâncias por segundo de cada Elemento que não estiver ganhando",
+      "",
+      1685101411,
+      ""
+    ],
+    [
+      "HarvestCraftingToSiloRemainingSlotCountText",
+      "{0} espaços de armazenamento restantes",
+      "",
+      598801849,
+      ""
+    ],
+    [
+      "HarvestCraftingToSiloRemainingSlotCountText1",
+      "1 espaço de armazenamento restante",
+      "",
+      887465885,
+      ""
+    ],
+    [
+      "HarvestCraftingToSiloNoSlotsRemainingText",
+      "Estação de Horticultura cheia",
+      "",
+      -617514705,
+      ""
+    ],
+    [
+      "RitualSuspendFailInsuffientPoints",
+      "Falha ao Adiar: Tributos Insuficientes",
+      "",
+      -1190405238,
+      ""
+    ],
+    [
+      "RitualSuspendFailCostTooLow",
+      "Falha ao Adiar: Item é barato demais para adiados novamente",
+      "",
+      324011400,
+      ""
+    ],
+    [
+      "ReminderTextResonance",
+      "(Máximo de 50 Ressonâncias de cada Elemento)",
+      "",
+      -813003549,
+      ""
+    ],
+    [
+      "RitualSuspendFailSuspendCapReached",
+      "Falha ao Adiar: Você atingiu a quantidade máxima de itens adiados",
+      "",
+      -1101304814,
+      ""
+    ],
+    [
+      "MavenAtlasProgressBarPopup",
+      "O número mínimo de encontros com chefes que você precisa derrotar nesta região enquanto a Maven estiver presente para receber seu convite.",
+      "",
+      1846097875,
+      ""
+    ],
+    [
+      "ReminderTextScorchNonHitNoDuration",
+      "(Inimigos Causticados têm -10% de Resistências Elementais)",
+      "",
+      -140290215,
+      ""
+    ],
+    [
+      "AddMavenErrorRegionTooLowLevel",
+      "Esta região exige mais Pedras Sentinela para manter o interesse de Maven.",
+      "",
+      -1380703710,
+      ""
+    ],
+    [
+      "GamepadToggleQuestGroupsExpansion",
+      "",
+      "Fechar Grupos de Missões",
+      1160203919,
+      ""
+    ],
+    [
+      "ReminderTextAll3Exposures",
+      "(Cada Exposição aplica -10% à Resistência correspondente por 4 segundos)",
+      "",
+      1136728958,
+      ""
+    ],
+    [
+      "MapDeviceWindowMavenOptionPopup",
+      "Chame a Maven para testemunhar e afetar o encontro com o chefe deste mapa. Derrotar o encontro com o chefe permitirá que a Maven recrie a luta em seu próprio reino.",
+      "",
+      -1104799411,
+      ""
+    ],
+    [
+      "ReminderTextTwo100PercentConversions",
+      "(Se ambas conversões forem aplicadas, cada uma covnerterá 50%)",
+      "",
+      2000692576,
+      ""
+    ],
+    [
+      "ReminderTextCrazyMinions",
+      "(Lacaios que ouvirem os sussurros sofrem 20% de sua vida máxima como dano de caos por segundo, tendo sua velocidade de ataque aumentada em 50% e não mais ouvindo você)",
+      "",
+      1207418312,
+      ""
+    ],
+    [
+      "QuestTrackerDisplayPageXofX",
+      "Página {0}/{1}",
+      "",
+      764292422,
+      ""
+    ],
+    [
+      "GamepadCycleQuestTrackerPages",
+      "Passar Páginas",
+      "",
+      -2090493462,
+      ""
+    ],
+    [
+      "ReminderTextKeystoneBattlemage",
+      "(Ganhe Dano Mágico Adicional igual ao Dano da sua Arma da Mão Principal)",
+      "",
+      153036445,
       ""
     ],
     [
@@ -39636,10 +40623,164 @@
       ""
     ],
     [
+      "RitualVesselFilledWithBlood",
+      "Recipiente Cheio de Sangue criado",
+      "",
+      1601161581,
+      ""
+    ],
+    [
+      "ReminderTextRecoup",
+      "(Somente o Dano de Acertos pode ser Recuperado, durante 4 segundos após o Acerto)",
+      "",
+      373401819,
+      ""
+    ],
+    [
+      "ReminderTextBrutalCharges",
+      "(Jogadores têm 3% de chance de causar Dano Triplicado e Ponto de Atordoamento aumentado em 10% por Carga Brutal)",
+      "",
+      -668456275,
+      ""
+    ],
+    [
+      "RemidnerTextAfflictionCharges",
+      "(Jogadores têm 8% mais Dano com Afecções e 8% mais Efeito de Afecções não Danificadoras por Carga de Aflição)",
+      "",
+      -76223787,
+      ""
+    ],
+    [
+      "ReminderTextAbsorptionCharges",
+      "(Jogadores Recuperam 12% do Dano Elemental sofrido como Escudo de Energia por Carga de Absorção)",
+      "",
+      1643195294,
+      ""
+    ],
+    [
+      "OpenWebpageConfirmationTitle",
+      "Abre o Navegador Web",
+      "",
+      -1829507658,
+      ""
+    ],
+    [
+      "OpenWebpageConfirmationText",
+      "Esta ação abrirá um navegador web. Deseja continuar?",
+      "",
+      1387178060,
+      ""
+    ],
+    [
+      "XboxCannotOpenWebBrowser",
+      "",
+      "Não pode abrir o navegador web devido à restrições na conta. Por favor verifique sua conta Xbox Live.",
+      -956463419,
+      "Não pode abrir o browser web devido à restrições na conta. Por favor verifique sua conta Sony."
+    ],
+    [
+      "ItemDisplayMavenVoidAreas",
+      "A Maven precisa Testemunhar",
+      "",
+      -704489109,
+      ""
+    ],
+    [
+      "RitualUnknownItemDescriptionText",
+      "Complete mais Rituais nesta área para revelar este item",
+      "",
+      -2088343862,
+      ""
+    ],
+    [
+      "AtlasMapCollectedNotification",
+      "{0} Términos Testemunhados pela Maven",
+      "",
+      742101080,
+      ""
+    ],
+    [
+      "StashTabEditorDeleteFolderConfirmation",
+      "Tem certeza que quer deletar esta pasta? Abas contidas serão movidos para fora da Pasta.",
+      "",
+      -712219369,
+      ""
+    ],
+    [
+      "StashTabEditorFolderComboboxLabel",
+      "Pasta",
+      "",
+      490969194,
+      ""
+    ],
+    [
       "ShopDeliveryDefaultOptionText",
       "Selecione uma opção…",
       "",
       -945224866,
+      ""
+    ],
+    [
+      "MapDeviceCannotAccessMavenArea",
+      "Você precisa provar sua capacidade antes da Maven permitir que você entre em seu reino.",
+      "",
+      -912853467,
+      ""
+    ],
+    [
+      "MavenEnragedDefeated",
+      "Mate A Maven",
+      "",
+      822174344,
+      ""
+    ],
+    [
+      "GamepadIdentifyFailedNoScrolls",
+      "",
+      "Requer um Pergaminho da Sabedoria",
+      2108996413,
+      ""
+    ],
+    [
+      "RitualPrepaidItemPriceIncreaseWarning",
+      "O preço deste item aumentará na próxima vez que ele aparecer em uma sequência de Rituais, a menos que você o adie novamente",
+      "",
+      1872338701,
+      ""
+    ],
+    [
+      "RitualPrepaidItemExpireWarning",
+      "Esta é a última vez que este item estará disponível nesta área, a menos que for adiado novamente",
+      "",
+      1648404063,
+      ""
+    ],
+    [
+      "RitualBloodVesselErrorNoChainUse",
+      "Recipientes Ritualísticos não podem ser usados em um mapa aberto com um Recipiente cheio de Sangue",
+      "",
+      -384152075,
+      ""
+    ],
+    [
+      "RitualBloodVesselErrorNoRepeatUse",
+      "Recipientes Ritualísticos não podem ser usados em um Altar Ritualístico mais de uma vez",
+      "",
+      -1928526807,
+      ""
+    ],
+    [
+      "RitualBloodVesselErrorCompletedShrineOnly",
+      "Recipientes Ritualísticos só podem ser usados em um Altar Ritualístico finalizado",
+      "",
+      672105890,
+      ""
+    ],
+    [
+      "RitualBloodVesselBonuses",
+      "Rituais têm Recompensas de Favores melhoradas em 20%\nRituais criam Monstros 20% mais rápido\nRituais têm 20% mais máximo de monstros vivos",
+      "",
+      558709536,
       ""
     ],
     [
@@ -39654,6 +40795,300 @@
       "Atualizar Tamanho/Estilo",
       "",
       -1068269876,
+      ""
+    ],
+    [
+      "RitualStoneFromArea",
+      "Área: ",
+      "",
+      908780606,
+      ""
+    ],
+    [
+      "MagicNamePrefixPrefix",
+      "{1} {2} {0}",
+      "",
+      1297133979,
+      ""
+    ],
+    [
+      "MagicNameSuffixSuffix",
+      "{0} {1} {2}",
+      "",
+      22491679,
+      ""
+    ],
+    [
+      "ReminderTextRandomSafehouse",
+      "(Quarteis que já foram Localizados ainda podem ser selecionados aleatoriamente)",
+      "",
+      -1968467377,
+      ""
+    ],
+    [
+      "ReminderTextWildExile",
+      "(Exilados Renegados Selvagens são Exilados Renegados que aparecem aleatoriamente dentro de uma Área)",
+      "",
+      -590493488,
+      ""
+    ],
+    [
+      "ItemErrorOnlyOneModOfType",
+      "Item só possui um modificador do tipo especificado",
+      "",
+      510912154,
+      ""
+    ],
+    [
+      "MonsterDominatedBySirus",
+      "Dominado por Sirus",
+      "",
+      486421974,
+      ""
+    ],
+    [
+      "ReminderTextTornVeil",
+      "(Raio de Fusão é a distância com a qual cada Portal Beyond pode emergir junto com outro para criar Demônios Beyond)",
+      "",
+      -656101754,
+      ""
+    ],
+    [
+      "ReminderTextFaceToFace",
+      "(Generais Legion incluem a Rainha Hyrri Ngamaku, General Marceus Lioneye, Cardeal Sanctus Vox, Víbora Napuatzi e Aukuna e a Sekhema Negra)",
+      "",
+      -899846240,
+      ""
+    ],
+    [
+      "ReminderTextProtractedBattle",
+      "(Monstros em Estase não tomam nenhuma ação)",
+      "",
+      -562699462,
+      ""
+    ],
+    [
+      "ReminderTextResourceReallocation",
+      "(Arquitetos não residentes são aqueles que podem ser mortos para aprimorar o salão da Incursão)",
+      "",
+      2074109385,
+      ""
+    ],
+    [
+      "ReminderTextContestedDevelopment",
+      "(Arquitetos Residentes são aqueles que podem ser mortos para mudar o salão da Incursão)",
+      "",
+      -652328456,
+      ""
+    ],
+    [
+      "ReminderTextShaperGuardians",
+      "(Os Guardiões do Criador incluem o Guardião do Quimera, Guardião do Minotauro, Guardião da Hidra e Guardião da Fênix\nOs Guardiões do Ancião incluem O Escravizador, O Erradicador, O Constritor e o Purificador\n\nItens Influenciados podem ter modificadores que não são encontrados em nenhum outro lugar)",
+      "",
+      -636781334,
+      ""
+    ],
+    [
+      "ReminderTextElderGuardians",
+      "(Elder Guardians are The Enslaver, The Eradicator, The Constrictor and The Purifier)",
+      "",
+      1841184613,
+      ""
+    ],
+    [
+      "ReminderTextAtlasConquerors",
+      "(Conquistadores incluem Baran, o Cruzado, Veritania, a Redentora, Al-Hezmin, o Caçador e Drox, o Senhor da Guerra)",
+      "",
+      -872659269,
+      ""
+    ],
+    [
+      "ReminderTextBasicCurrency",
+      "(Itens Monetários Básicos incluem itens monetários que caem de conteúdos diferentes da liga)",
+      "",
+      -1510178638,
+      ""
+    ],
+    [
+      "HiddenItemUnique",
+      "Um Item Único aleatório",
+      "",
+      616127428,
+      ""
+    ],
+    [
+      "HiddenItemCatalyst",
+      "Um Catalisador aleatório",
+      "",
+      -1674670898,
+      ""
+    ],
+    [
+      "HiddenItemMetamorphOrgan",
+      "Uma Amostra Metamorfa aleatória",
+      "",
+      -369827255,
+      ""
+    ],
+    [
+      "HiddenItemFlask",
+      "Um Frasco aleatório",
+      "",
+      -827598796,
+      ""
+    ],
+    [
+      "HiddenItemAmulet",
+      "Um Amuleto aleatório",
+      "",
+      -453029835,
+      ""
+    ],
+    [
+      "HiddenItemRing",
+      "Um Anel aleatório",
+      "",
+      -409235262,
+      ""
+    ],
+    [
+      "HiddenItemJewel",
+      "Uma Joia aleatória",
+      "",
+      376936073,
+      ""
+    ],
+    [
+      "HiddenItemTrinket",
+      "Um Acessório aleatório",
+      "",
+      -1476087729,
+      ""
+    ],
+    [
+      "HiddenItemLeaguestone",
+      "Uma Pedra de Liga aleatória",
+      "",
+      -1400816055,
+      ""
+    ],
+    [
+      "HiddenItemContract",
+      "Um Contrato aleatório",
+      "",
+      -723213175,
+      ""
+    ],
+    [
+      "HiddenItemBlueprint",
+      "Uma Planta aleatória",
+      "",
+      334199702,
+      ""
+    ],
+    [
+      "HiddenItemMap",
+      "Um Mapa aleatório",
+      "",
+      1808770337,
+      ""
+    ],
+    [
+      "MapDeviceMapStatsWindowTitle",
+      "Modificadores Adicionais",
+      "",
+      -1590784975,
+      ""
+    ],
+    [
+      "MapDeviceMapStatsCategoryPassive",
+      "Modificadores da Árvore do Atlas",
+      "",
+      -856199857,
+      ""
+    ],
+    [
+      "MapDeviceMapStatsCategorySextant",
+      "Modificadores de Sextante",
+      "",
+      1566825954,
+      ""
+    ],
+    [
+      "MapDeviceMapStatsCategoryWatchstone",
+      "Modificadores de Pedras Sentinela",
+      "",
+      44690017,
+      ""
+    ],
+    [
+      "MapDeviceMapToggleStatsVisibility",
+      "",
+      "Ativar Mostruário de Modificadores",
+      898405231,
+      ""
+    ],
+    [
+      "MapDeviceMapToggleStatsCycleGroups",
+      "",
+      "Mudar Categorias",
+      -1028117885,
+      ""
+    ],
+    [
+      "RitualOpenReawrdWindowButtonPopup",
+      "Mostrar Recompensas Ritual",
+      "",
+      -461650820,
+      ""
+    ],
+    [
+      "RitualRewardsWindowApplyItemFilter",
+      "Aplicar Filtro de Itens",
+      "",
+      -880901990,
+      ""
+    ],
+    [
+      "MapStashWitnessedByMaven",
+      "Witnessed by The Maven",
+      "",
+      -1819385434,
+      ""
+    ],
+    [
+      "RitualShopFutureDiscount",
+      "Future Discount:",
+      "",
+      -1760256378,
+      ""
+    ],
+    [
+      "RitualRewardWindowDeferFee",
+      "Deferral Fee:",
+      "",
+      440201030,
+      ""
+    ],
+    [
+      "RitualRewardWindowTotalDeferCost",
+      "Total Deferral Cost:",
+      "",
+      2083974425,
+      ""
+    ],
+    [
+      "ReminderTextInfluencedItems",
+      "(Influenced Items can have modifiers not found anywhere else)",
+      "",
+      -867369286,
+      ""
+    ],
+    [
+      "HarvestCraftOptionDisabledInHideout",
+      "You cannot use this crafting option in a Hideout.",
+      "",
+      -2078730669,
       ""
     ]
   ]

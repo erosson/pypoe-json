@@ -515,7 +515,7 @@
       14,
       14,
       [
-        2129
+        2135
       ],
       "Glaubt Ihr, dass Ihr barbarisch genug seid für das Land der Verdammten, Marodeur? \r\n\r\nWir boten Euch die Wahrheit, doch Ihr wolltet lieber an Eurem lächerlichen Aberglauben festhalten. Wir boten Euch den Dienst an Gott, doch Ihr habt Eure Kräfte mit Trotz und Widerstand vergeudet. \r\n\r\nWraeclast wird Euch etwas ganz anderes bieten - eine Lehre in wahrer Barbarei.",
       100,
@@ -525,16 +525,16 @@
       1,
       2,
       "Audio/Dialogue/NPC/DominusGlyph/Dom_Intro_Marauder.ogg",
-      3415,
+      3532,
       77,
       "Charakterzüge: Stärke, Nahkampf",
       335,
       240,
       335,
-      3577,
+      3694,
       1,
       [
-        1025
+        1028
       ]
     ],
     [
@@ -554,7 +554,7 @@
       14,
       32,
       [
-        2129
+        2135
       ],
       "Warum nur suchen diejenigen mit findigem Geist stets nach Erfüllung im Finsteren und Schlechten? \r\n\r\nInnocence ist unser Vater, Oriath unsere Mutter. Wenn eine Tochter vom rechten Wege abkommt, macht sie sich selbst zur Waise.\r\n\r\nMerkt Euch gut, was Euch Wraeclast lehren wird. Denn nur so könnt Ihr Euch die Hoffnung auf Heimkehr erhalten.",
       0,
@@ -564,16 +564,16 @@
       1,
       2,
       "Audio/Dialogue/NPC/DominusGlyph/Dom_Intro_Witch.ogg",
-      3250,
+      3367,
       70,
       "Charakterzüge: Intelligenz, Zauber",
       337,
       281,
       337,
-      3250,
+      3367,
       2,
       [
-        3722
+        3742
       ]
     ],
     [
@@ -593,7 +593,7 @@
       20,
       20,
       [
-        2129
+        2135
       ],
       "Eine Adelstochter, die absolute Vollkommenheit aus Verstand, Körper und Anmut. Die ganze Pracht unserer Zivilisation, unsere Hoffnung, unser Licht.\r\n\r\nDoch Ihr hattet für uns nur Mord und Finsternis übrig.\r\n\r\nMöge Wraeclast Euch mit offenen Armen empfangen – wir sind Eurer Anwesenheit längst überdrüssig.",
       207,
@@ -603,7 +603,7 @@
       1,
       2,
       "Audio/Dialogue/NPC/DominusGlyph/Dom_Intro_Scion.ogg",
-      3362,
+      3479,
       70,
       "Charakterzüge: Stärke, Geschick, Intelligenz",
       336,
@@ -630,7 +630,7 @@
       32,
       14,
       [
-        2129
+        2135
       ],
       "Heimlich, flink und leise nahmt Ihr Euch, was nicht Euer war.\r\n\r\nWie eine Krähe, die unsere Früchte stiehlt. Ein streunender Hund, der unsere Schafe reißt.\r\n\r\nOriath wird von Menschen bewohnt und nicht von Tieren. Erinnert Euch daran, Waldläuferin, wenn Wraeclast Euch das wahre Tier zeigt.",
       138,
@@ -640,17 +640,17 @@
       1,
       2,
       "Audio/Dialogue/NPC/DominusGlyph/Dom_Intro_Ranger.ogg",
-      3471,
+      3588,
       70,
       "Charakterzüge: Geschick, Fernkampf",
       69,
       45,
       69,
-      3471,
+      3588,
       2,
       [
-        1025,
-        2409
+        1028,
+        2423
       ]
     ],
     [
@@ -670,7 +670,7 @@
       23,
       14,
       [
-        2129
+        2135
       ],
       "Schnelligkeit und Kraft waren Eure Gaben. Doch was habt Ihr damit angestellt, Duellant? Ihr nährtet nur Eure Selbstgefälligkeit damit.\r\n\r\nDie Sünde hat Euch hierhergeführt, Eure Spuren getränkt mit dem Blut willkürlichen Mordens.\r\n\r\nIhr habt die Ehre der großen Arena beschmutzt. Soll nun Wraeclast Euch das Publikum stellen – und Eure Feinde.",
       18,
@@ -680,16 +680,16 @@
       1,
       2,
       "Audio/Dialogue/NPC/DominusGlyph/Dom_Intro_Duelist.ogg",
-      3362,
+      3479,
       77,
       "Charakterzüge: Stärke, Geschick",
       324,
       18,
       324,
-      3362,
+      3479,
       1,
       [
-        1025
+        1028
       ]
     ],
     [
@@ -709,7 +709,7 @@
       23,
       23,
       [
-        2129
+        2135
       ],
       "Eure Schnelligkeit und Euer scharfer Verstand waren Euch in die Wiege gelegt. Doch wie habt Ihr es gedankt? Mit dem Blut Unschuldiger.\r\n\r\nEuer Handwerk ist das eines Jägers, Euer Geschäft das eines Schlächters. So viele Leben habt Ihr genommen, für einen vollen Beutel.\r\n\r\nDie Vergebung wird Euch in Wraeclast teuer zu stehen kommen.",
       79,
@@ -719,16 +719,16 @@
       1,
       2,
       "Audio/Dialogue/NPC/DominusGlyph/Dom_Intro_Shadow.ogg",
-      3273,
+      3390,
       77,
       "Charakterzüge: Geschick, Intelligenz",
       325,
       301,
       337,
-      3250,
+      3367,
       3,
       [
-        2080
+        2094
       ]
     ],
     [
@@ -748,7 +748,7 @@
       14,
       23,
       [
-        2129
+        2135
       ],
       "Ihr gabt Euer Leben und Eure Seele Gott und dem Orden der Templer. Über Jahre habt Ihr Euer Leben dem Glauben verschrieben, nur damit Ihr alles mit einem einzigen Akt der Sünde zunichtemacht?\r\n\r\nWelch' unvorstellbare Torheit, wenn man den Glauben verliert, obwohl er das Einzige ist, das einem geblieben ist?\r\n\r\nIhr wart einst ein Auserwählter Gottes. Ein Templer. Nun seid Ihr ein Auserwählter Wraeclasts. Ein Verbannter.",
       73,
@@ -758,16 +758,16 @@
       1,
       2,
       "Audio/Dialogue/NPC/DominusGlyph/Dom_Intro_Templar.ogg",
-      3443,
+      3560,
       77,
       "Charakterzüge: Stärke, Intelligenz",
       140,
       379,
       140,
-      3443,
+      3560,
       1,
       [
-        3722
+        3742
       ]
     ]
   ]

@@ -2250,6 +2250,282 @@
       "",
       "Art/2DArt/UIImages/Login/LeagueInfo/Heist/textbackground",
       true
+    ],
+    [
+      "EchoesTrailer",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/ThumbnailTrailer",
+      "",
+      [],
+      "",
+      "Echoes",
+      false,
+      [],
+      [],
+      "http://web.poecdn.com/public/videos/EchoesTrailer_En.bk2",
+      "",
+      false
+    ],
+    [
+      "Echoes1",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel1",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Heading1",
+      [],
+      "В <italic>{Path of Exile: Отголоски Атласа} вы получите ещё больший контроль над вашей высокоуровневой игрой в Path of Exile и сможете специализировать каждый регион вашего Атласа благодаря отдельным древам пассивных умений и ремесленной обработке Камней Хранителей с подгонкой наград под ваши нужды, а также сразитесь с вплоть до десятью выбранными боссами карт одновременно и бросите вызов новому верховному боссу всего Атласа: Мейвен.\n\nПомимо вышеназванного контента для поздней стадии игры, в динамичной лиге Ритуал вы будете проводить опасные ритуалы, сулящие ценные награды, изучите девятнадцать улучшенных классов Восхождения, обнаружите могущественные новые предметы и многое другое.",
+      "Echoes",
+      false,
+      [],
+      [],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/textbackground",
+      false
+    ],
+    [
+      "Echoes2",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel2",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Heading2",
+      [],
+      "<italic>{Когда Древний был изгнан, сущности далеко за пределами Атласа миров заметили это и обратили своё внимание к нам. Первой гостьей стала сущность, которую называют Мейвен. Ей не терпится увидеть, как вы боретесь за выживание в битве с наиболее опасными созданиями Атласа. Примите её предложение, чтобы подвергнуть испытанию ваши способности и жизнь. Если докажете, что достойны, она даст вам испробовать своего бескрайнего могущества.}",
+      "Echoes",
+      true,
+      [],
+      [],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/textbackground",
+      false
+    ],
+    [
+      "Echoes3",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel3",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Heading3",
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel3/Screenshot1",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel3/Screenshot2",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel3/Screenshot3"
+      ],
+      "Сразив трёх боссов карт в присутствии Мейвен, вы заслужите приглашение в её мир, где она потребует от вас победить этих боссов одновременно. Когда вы продемонстрируете свою силу, Мейвен вызовет вас на бой с четырьмя боссами, затем пятью, шестью и, наконец, с десятью боссами разом. И только после этого вы сможете сразиться с новым верховным боссом Атласа: самой Мейвен.",
+      "Echoes",
+      false,
+      [],
+      [],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/textbackground",
+      false
+    ],
+    [
+      "Echoes4",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel4",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Heading4",
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel4/Screenshot1",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel4/Screenshot2",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel4/Screenshot3"
+      ],
+      "Возьмите управление Атласом в свои руки, разблокировав региональные древа пассивных умений, которые усиливают встречаемый вами контент и увеличивают получаемые награды за исследование соответствующих регионов.",
+      "Echoes",
+      true,
+      [],
+      [],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/textbackground",
+      false
+    ],
+    [
+      "Echoes5",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel5",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Heading5",
+      [],
+      "В Отголосках Атласа появятся три типа Камней Хранителей, которые можно изменять при помощи ремесла. Эти ценные высокоуровневые предметы позволят вам улучшить ваш Атлас и награды, которые вы находите на картах. Игроки, которые смогут заполучить эти могущественные предметы, обнаружат, что они во всём лучше обычных Камней: ими можно торговать, они не тратятся при использовании и их усиления могут складываться друг с другом.\n\nДругая новая высокоуровневая награда, сфера Мейвен, действует на предметы с двумя и более свойствами влияния. При использовании на подобном предмете одно случайно выбранное свойство влияния будет улучшено, а остальные – удалены. Если улучшаемым окажется свойство, уже имеющее наивысший уровень, то оно перейдёт на новый, возвышенный, уровень.",
+      "Echoes",
+      false,
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/AukunasPlatinumNewVastirWatchstoneofTreacherousRealms",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/PackedTitaniumLexProximaWatchstoneofGeomancy",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/EssentialChromiumLexProximaWatchstoneofVersatility",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/MavensOrb",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/BrambleWard"
+      ],
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/AukunasPlatinumNewVastirWatchstoneHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/PackedTitaniumLexProximaWatchstoneHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/EssentialChromiumLexProximaWatchstoneHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/MavenOrbHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/BrambleWardBodyHover"
+      ],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/textbackground",
+      false
+    ],
+    [
+      "Echoes6",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel6",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Heading6",
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel6/Screenshot1",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel6/Screenshot2",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel6/Screenshot3"
+      ],
+      "В Атлас добавлены одиннадцать новых карт и опасных боссов. Среди них такие не прощающие ошибок места, как <italic>{Высохшее море, Речная развилка, Замёрзшие хижины} и <italic>{Могильная низина}.",
+      "Echoes",
+      true,
+      [],
+      [],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/textbackground",
+      false
+    ],
+    [
+      "Echoes7",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel7",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Heading7",
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel7/Screenshot1",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel7/Screenshot2",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel7/Screenshot3"
+      ],
+      "<italic>{Исковерканные шпили из плоти, крови и сухожилий теперь разбросаны по территории Рэкласта. Их происхождение и смысл неизвестны, но они, похоже, жаждут крови и смерти, и готовы щедро вознаградить того, кто сможет утолить эту жажду.}\n\nРитуал – это лига сражений, сталкивающая вас с колдовскими силами ритуального алтаря и наступающими волнами монстров, заключенными в ритуальном круге. Каждый последующий ритуал в области сложнее и сулит лучшие награды.",
+      "Echoes",
+      false,
+      [],
+      [],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/textbackground",
+      false
+    ],
+    [
+      "Echoes8",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel8",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Heading8",
+      [],
+      "Убивая монстров во время ритуала, вы будете зарабатывать дань, которую можно потратить на разнообразные соблазнительные предметы и награды. Помимо них, вам могут предложить новые предметы базовых типов Ритуала, сочетающие очень мощные собственные свойства с непростыми изъянами. Вы можете употребить часть дани на то, чтобы обновить список предложенных вам даров, или чтобы на время отложить избранные награды.",
+      "Echoes",
+      true,
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/StormriderBoots",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/PenitentMask",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/NexusGloves"
+      ],
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/StormriderHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/PenitentHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/NexusHover"
+      ],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/textbackground",
+      false
+    ],
+    [
+      "Echoes9",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel9",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Heading9",
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel9/Screenshot1",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel9/Screenshot2",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel9/Screenshot3"
+      ],
+      "На позднем этапе игры вы сможете получить ритуальные сосуды, которые можно передавать другим игрокам и которые позволяют заключить в них ритуальных монстров. Вы сможете поместить до четырёх сосудов в Машину картоходца вместе с картой, чтобы добавить запечатанных монстров к находящимся на ней ритуалам, существенно повышая как сложность, так и награду за проведение данных ритуалов.\n\nКроме того, сосуды значительно увеличивают кучность монстров, что на максимально наполненных картах с механиками наподобие Иномирья и Делириума может очень хорошо окупиться.",
+      "Echoes",
+      false,
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/RitualVessel",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/BloodfilledVessel"
+      ],
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/RitualVesselHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/BloodfilledVesselHover"
+      ],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/textbackground",
+      false
+    ],
+    [
+      "Echoes10",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel10",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Heading10",
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel10/Screenshot1",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel10/Screenshot2",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel10/Screenshot3"
+      ],
+      "Помимо численных изменений баланса в каждом классе Восхождения, мы существенно переработали Снайпера, Инквизитора и Мага стихий. Целью данных перемен было перераспределение силы в рамках каждого древа Восхождения так, чтобы появилось много новых путей создания могучих героев Path of Exile.",
+      "Echoes",
+      true,
+      [],
+      [],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/textbackground",
+      false
+    ],
+    [
+      "Echoes11",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel11",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Heading11",
+      [],
+      "Одной из ключевых черт дополнения Path of Exile являются предметы! Кроме новых обрабатываемых Камней Хранителей, сферы Мейвен и множества базовых типов Ритуала, мы также добавили камень умения Гидросфера, камень поддержки Триединство, 13 новых уникальных предметов и веер гадальных карт, придуманных нашими игроками-спонсорами.",
+      "Echoes",
+      false,
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/Blackflame",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/LegacyofFury",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/HandoftheFervent",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/FatefulMeeting",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/Acclimatisation",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/Hydrosphere",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/TrinitySupport"
+      ],
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/BlackflameRingHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/LegacyofFuryHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/HandoftheFerventHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/FatefulMeetingHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/AcclimatisationHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/HydrosphereHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/item hovers/TrinitySupportHover"
+      ],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/textbackground",
+      false
+    ],
+    [
+      "Echoes12",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel12",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Heading12",
+      [],
+      "Жатва вернулась в игру. Вместо того, чтобы высаживать и ухаживать за собственной Священной рощей, вы будете встречать порталы в уже разбитые сады с рядами растений, готовыми к жатве. Тщательно взвешивайте сложность схватки против доступных ремесленных рецептов в каждой паре вариантов, прежде чем сделать выбор. Если сумеете перебить появившихся монстров, то в награду получите жизненную силу, которую можно использовать для серьёзного улучшения ваших предметов.",
+      "Echoes",
+      true,
+      [],
+      [],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/textbackground",
+      false
+    ],
+    [
+      "Echoes13",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel13",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Heading13",
+      [],
+      "В <italic>{Отголосках Атласа} контракты Кражи выпадают начиная с 6 Акта. Навыки наёмников растут быстрее, жетоны выпадают в большем количестве, а контракты для заданий теперь находятся в очередном тайнике контрабандиста как только соответствующее задание станет доступно.",
+      "Echoes",
+      false,
+      [],
+      [],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/textbackground",
+      false
+    ],
+    [
+      "Echoes14",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel14",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Heading14",
+      [],
+      "В дополнение к недавно добавленным Основным наборам, в честь запуска Отголосков Атласа и лиги Ритуал мы выпускаем два новых набора поддержки: Отступника и Веропоклонника. Оба набора представлены в двух версиях, из которых вы получите большое количество монет и несколько эксклюзивных микротранзакций наподобие наборов доспехов и эффектов для персонажа.\n\nЗапуск <italic>{Path of Exile: Отголоски Атласа} состоится 15 января на ПК и 20 января на Xbox и PlayStation.",
+      "Echoes",
+      true,
+      [],
+      [],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/textbackground",
+      true
     ]
   ]
 }

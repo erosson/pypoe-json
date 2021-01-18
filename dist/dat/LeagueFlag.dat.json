@@ -384,6 +384,22 @@
     [
       "HeistHardcoreSSF",
       "Art/2DArt/UIImages/Common/LeagueHeistHCSSF"
+    ],
+    [
+      "RitualStandard",
+      "Art/2DArt/UIImages/Common/LeagueRitual"
+    ],
+    [
+      "RitualHardcore",
+      "Art/2DArt/UIImages/Common/LeagueRitualHC"
+    ],
+    [
+      "RitualStandardSSF",
+      "Art/2DArt/UIImages/Common/LeagueRitualSSF"
+    ],
+    [
+      "RitualHardcoreSSF",
+      "Art/2DArt/UIImages/Common/LeagueRitualHCSSF"
     ]
   ]
 }

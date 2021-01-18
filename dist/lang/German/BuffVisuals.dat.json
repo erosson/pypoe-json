@@ -811,7 +811,7 @@
       [],
       [],
       [
-        71
+        74
       ]
     ],
     [
@@ -1287,7 +1287,7 @@
       [],
       [],
       [
-        36
+        39
       ]
     ],
     [
@@ -1345,7 +1345,7 @@
       [],
       [],
       [
-        72
+        75
       ]
     ],
     [
@@ -1516,7 +1516,7 @@
       "Art/2DArt/SkillIcons/temporalchains.dds",
       [],
       [
-        "Metadata/Effects/Spells/curse_aura/temporal_chains/temporalChains.epk"
+        "Metadata/Effects/Spells/supports/blasphemy/temporal_chains.epk"
       ],
       [],
       true,
@@ -1530,7 +1530,7 @@
       [],
       [],
       [
-        16
+        19
       ]
     ],
     [
@@ -1554,7 +1554,7 @@
       [],
       [],
       [
-        16
+        19
       ]
     ],
     [
@@ -1562,29 +1562,7 @@
       "Art/2DArt/SkillIcons/elementalweakness.dds",
       [],
       [
-        "Metadata/Effects/Spells/curse_aura/reduce_resistances/reduceResistances.epk"
-      ],
-      [],
-      true,
-      "",
-      null,
-      null,
-      "",
-      "",
-      false,
-      "",
-      [],
-      [],
-      [
-        23
-      ]
-    ],
-    [
-      "curse_fire_weakness",
-      "Art/2DArt/SkillIcons/Flammability.dds",
-      [],
-      [
-        "Metadata/Effects/Spells/curse_aura/flammability/flammability.epk"
+        "Metadata/Effects/Spells/supports/blasphemy/ele_weakness.epk"
       ],
       [],
       true,
@@ -1602,11 +1580,11 @@
       ]
     ],
     [
-      "curse_cold_weakness",
-      "Art/2DArt/SkillIcons/Frostbite.dds",
+      "curse_fire_weakness",
+      "Art/2DArt/SkillIcons/Flammability.dds",
       [],
       [
-        "Metadata/Effects/Spells/curse_aura/frostbite/frostbite.epk"
+        "Metadata/Effects/Spells/supports/blasphemy/flammability.epk"
       ],
       [],
       true,
@@ -1620,7 +1598,29 @@
       [],
       [],
       [
-        27
+        29
+      ]
+    ],
+    [
+      "curse_cold_weakness",
+      "Art/2DArt/SkillIcons/Frostbite.dds",
+      [],
+      [
+        "Metadata/Effects/Spells/supports/blasphemy/frostbite.epk"
+      ],
+      [],
+      true,
+      "",
+      null,
+      null,
+      "",
+      "",
+      false,
+      "",
+      [],
+      [],
+      [
+        30
       ]
     ],
     [
@@ -1644,7 +1644,7 @@
       [],
       [],
       [
-        27
+        30
       ]
     ],
     [
@@ -1652,7 +1652,7 @@
       "Art/2DArt/SkillIcons/Conductivity.dds",
       [],
       [
-        "Metadata/Effects/Spells/curse_aura/conductivity/conductivity.epk"
+        "Metadata/Effects/Spells/supports/blasphemy/conductivity.epk"
       ],
       [],
       true,
@@ -1666,7 +1666,7 @@
       [],
       [],
       [
-        28
+        31
       ]
     ],
     [
@@ -1690,7 +1690,7 @@
       [],
       [],
       [
-        28
+        31
       ]
     ],
     [
@@ -1714,7 +1714,7 @@
       [],
       [],
       [
-        32
+        35
       ]
     ],
     [
@@ -1722,7 +1722,7 @@
       "Art/2DArt/SkillIcons/punishment.dds",
       [],
       [
-        "Metadata/Effects/Spells/curse_aura/punishment/punishment.epk"
+        "Metadata/Effects/Spells/supports/blasphemy/punishment.epk"
       ],
       [],
       true,
@@ -1736,7 +1736,7 @@
       [],
       [],
       [
-        30
+        33
       ]
     ],
     [
@@ -1744,7 +1744,7 @@
       "Art/2DArt/SkillIcons/enfeeble.dds",
       [],
       [
-        "Metadata/Effects/Spells/curse_aura/enfeeble/enfeeble.epk"
+        "Metadata/Effects/Spells/supports/blasphemy/enfeeble.epk"
       ],
       [],
       true,
@@ -1758,7 +1758,7 @@
       [],
       [],
       [
-        19
+        22
       ]
     ],
     [
@@ -1782,7 +1782,7 @@
       [],
       [],
       [
-        19
+        22
       ]
     ],
     [
@@ -1806,7 +1806,7 @@
       [],
       [],
       [
-        33
+        36
       ]
     ],
     [
@@ -1830,7 +1830,7 @@
       [],
       [],
       [
-        34
+        37
       ]
     ],
     [
@@ -1838,7 +1838,7 @@
       "Art/2DArt/SkillIcons/vulnerability.dds",
       [],
       [
-        "Metadata/Effects/Spells/curse_aura/vulnerability/vulnerability.epk"
+        "Metadata/Effects/Spells/supports/blasphemy/vulnerability.epk"
       ],
       [],
       true,
@@ -1852,7 +1852,7 @@
       [],
       [],
       [
-        20
+        23
       ]
     ],
     [
@@ -1876,7 +1876,7 @@
       [],
       [],
       [
-        20
+        23
       ]
     ],
     [
@@ -1900,7 +1900,7 @@
       [],
       [],
       [
-        35
+        38
       ]
     ],
     [
@@ -1924,7 +1924,7 @@
       [],
       [],
       [
-        16
+        19
       ]
     ],
     [
@@ -1948,7 +1948,7 @@
       [],
       [],
       [
-        20
+        23
       ]
     ],
     [
@@ -1972,7 +1972,7 @@
       [],
       [],
       [
-        19
+        22
       ]
     ],
     [
@@ -3896,7 +3896,7 @@
       [],
       [],
       [
-        58
+        61
       ]
     ],
     [
@@ -3918,7 +3918,7 @@
       [],
       [],
       [
-        58
+        61
       ]
     ],
     [
@@ -4910,7 +4910,7 @@
       [],
       [],
       [
-        59
+        62
       ]
     ],
     [
@@ -4984,7 +4984,7 @@
       [],
       [],
       [
-        61
+        64
       ]
     ],
     [
@@ -5004,7 +5004,7 @@
       [],
       [],
       [
-        40
+        43
       ]
     ],
     [
@@ -5024,7 +5024,7 @@
       [],
       [],
       [
-        41
+        44
       ]
     ],
     [
@@ -5044,7 +5044,7 @@
       [],
       [],
       [
-        42
+        45
       ]
     ],
     [
@@ -5064,7 +5064,7 @@
       [],
       [],
       [
-        43
+        46
       ]
     ],
     [
@@ -5084,7 +5084,7 @@
       [],
       [],
       [
-        44
+        47
       ]
     ],
     [
@@ -5104,7 +5104,7 @@
       [],
       [],
       [
-        45
+        48
       ]
     ],
     [
@@ -5124,7 +5124,7 @@
       [],
       [],
       [
-        46
+        49
       ]
     ],
     [
@@ -5144,7 +5144,7 @@
       [],
       [],
       [
-        47
+        50
       ]
     ],
     [
@@ -5164,7 +5164,7 @@
       [],
       [],
       [
-        48
+        51
       ]
     ],
     [
@@ -5184,7 +5184,7 @@
       [],
       [],
       [
-        49
+        52
       ]
     ],
     [
@@ -5204,7 +5204,7 @@
       [],
       [],
       [
-        50
+        53
       ]
     ],
     [
@@ -5224,7 +5224,7 @@
       [],
       [],
       [
-        51
+        54
       ]
     ],
     [
@@ -5244,7 +5244,7 @@
       [],
       [],
       [
-        52
+        55
       ]
     ],
     [
@@ -5264,7 +5264,7 @@
       [],
       [],
       [
-        53
+        56
       ]
     ],
     [
@@ -5284,7 +5284,7 @@
       [],
       [],
       [
-        54
+        57
       ]
     ],
     [
@@ -5304,7 +5304,7 @@
       [],
       [],
       [
-        55
+        58
       ]
     ],
     [
@@ -5324,7 +5324,7 @@
       [],
       [],
       [
-        56
+        59
       ]
     ],
     [
@@ -5348,7 +5348,7 @@
       [],
       [],
       [
-        76
+        78
       ]
     ],
     [
@@ -5612,7 +5612,7 @@
       [],
       [],
       [
-        31
+        34
       ]
     ],
     [
@@ -5956,7 +5956,7 @@
       [],
       [],
       [
-        70
+        73
       ]
     ],
     [
@@ -6896,7 +6896,7 @@
       [],
       [],
       [
-        62
+        65
       ]
     ],
     [
@@ -7391,7 +7391,7 @@
       [],
       [],
       [
-        14
+        17
       ]
     ],
     [
@@ -7413,7 +7413,7 @@
       [],
       [],
       [
-        15
+        18
       ]
     ],
     [
@@ -7479,7 +7479,7 @@
       [],
       [],
       [
-        66
+        69
       ]
     ],
     [
@@ -8317,7 +8317,7 @@
       [],
       [],
       [
-        67
+        70
       ]
     ],
     [
@@ -9351,7 +9351,7 @@
       [],
       [],
       [
-        19
+        22
       ]
     ],
     [
@@ -9375,7 +9375,7 @@
       [],
       [],
       [
-        16
+        19
       ]
     ],
     [
@@ -9399,7 +9399,7 @@
       [],
       [],
       [
-        20
+        23
       ]
     ],
     [
@@ -10821,7 +10821,7 @@
       [],
       [],
       [
-        68
+        71
       ]
     ],
     [
@@ -11383,7 +11383,7 @@
       [],
       [],
       [
-        17
+        20
       ]
     ],
     [
@@ -11405,7 +11405,7 @@
       [],
       [],
       [
-        24
+        27
       ]
     ],
     [
@@ -11427,7 +11427,7 @@
       [],
       [],
       [
-        21
+        24
       ]
     ],
     [
@@ -11569,7 +11569,7 @@
       [],
       [],
       [
-        18
+        21
       ]
     ],
     [
@@ -11589,7 +11589,7 @@
       [],
       [],
       [
-        25
+        28
       ]
     ],
     [
@@ -11609,7 +11609,7 @@
       [],
       [],
       [
-        22
+        25
       ]
     ],
     [
@@ -12479,7 +12479,7 @@
       [],
       [],
       [
-        16
+        19
       ]
     ],
     [
@@ -14289,7 +14289,7 @@
       [],
       [],
       [
-        37
+        40
       ]
     ],
     [
@@ -14315,7 +14315,7 @@
       [],
       [],
       [
-        38
+        41
       ]
     ],
     [
@@ -14341,7 +14341,7 @@
       [],
       [],
       [
-        39
+        42
       ]
     ],
     [
@@ -14367,7 +14367,7 @@
       [],
       [],
       [
-        37
+        40
       ]
     ],
     [
@@ -14393,7 +14393,7 @@
       [],
       [],
       [
-        38
+        41
       ]
     ],
     [
@@ -14419,7 +14419,7 @@
       [],
       [],
       [
-        39
+        42
       ]
     ],
     [
@@ -14849,7 +14849,7 @@
       [],
       [],
       [
-        27
+        30
       ]
     ],
     [
@@ -15786,7 +15786,7 @@
       false,
       "",
       null,
-      1849,
+      1850,
       "",
       "",
       false,
@@ -15861,7 +15861,7 @@
       [],
       false,
       "",
-      1784,
+      1785,
       null,
       "",
       "",
@@ -15976,7 +15976,7 @@
       "Art/2DArt/SkillIcons/Despair.dds",
       [],
       [
-        "Metadata/Effects/Spells/curse_aura/chaos_curse/newchaoscurse.epk"
+        "Metadata/Effects/Spells/supports/blasphemy/despair.epk"
       ],
       [],
       true,
@@ -15990,7 +15990,7 @@
       [],
       [],
       [
-        29
+        32
       ]
     ],
     [
@@ -20246,6 +20246,26 @@
       []
     ],
     [
+      "quicksand_display_buff_maven",
+      "Art/2DArt/BuffIcons/SynthesisVoidSand.dds",
+      [
+        "Metadata/Effects/Spells/monsters_effects/AtlasofWorldsBosses/Maven/brain/void_zone/epk/void_zone.epk"
+      ],
+      [],
+      [],
+      false,
+      "Gravitationsströmung",
+      null,
+      null,
+      "Ihr seid verlangsamt und erleidet Kälteschaden über Zeit.",
+      "",
+      false,
+      "",
+      [],
+      [],
+      []
+    ],
+    [
       "dark_ritual",
       "Art/2DArt/SkillIcons/DarkRitual.dds",
       [
@@ -21436,7 +21456,7 @@
       [],
       [],
       [
-        57
+        60
       ]
     ],
     [
@@ -21456,7 +21476,7 @@
       [],
       [],
       [
-        55
+        58
       ]
     ],
     [
@@ -21716,7 +21736,7 @@
       [],
       [],
       [
-        60
+        63
       ]
     ],
     [
@@ -22744,7 +22764,7 @@
       [],
       [],
       [
-        73
+        76
       ]
     ],
     [
@@ -24228,7 +24248,7 @@
       [],
       [],
       [
-        69
+        72
       ]
     ],
     [
@@ -26595,9 +26615,7 @@
       "",
       [],
       [],
-      [
-        74
-      ]
+      []
     ],
     [
       "ground_fire_burn_demonic",
@@ -26941,9 +26959,7 @@
       "",
       [],
       [],
-      [
-        74
-      ]
+      []
     ],
     [
       "winter_brand_primary",
@@ -27086,7 +27102,7 @@
       [],
       [],
       [
-        75
+        77
       ]
     ],
     [
@@ -27236,7 +27252,7 @@
       [],
       [],
       [
-        63
+        66
       ]
     ],
     [
@@ -27256,7 +27272,7 @@
       [],
       [],
       [
-        65
+        68
       ]
     ],
     [
@@ -27752,7 +27768,7 @@
       [],
       [],
       [
-        64
+        67
       ]
     ],
     [
@@ -28360,7 +28376,7 @@
       [],
       [],
       [
-        77
+        79
       ]
     ],
     [
@@ -28506,7 +28522,7 @@
       [],
       [],
       [
-        78
+        80
       ]
     ],
     [
@@ -28588,7 +28604,7 @@
       [],
       [],
       [
-        79
+        81
       ]
     ],
     [
@@ -28701,7 +28717,7 @@
       [],
       false,
       "",
-      4793,
+      4800,
       null,
       "",
       "",
@@ -28719,6 +28735,94 @@
       ],
       [],
       [],
+      false,
+      "",
+      null,
+      null,
+      "",
+      "",
+      false,
+      "",
+      [],
+      [],
+      []
+    ],
+    [
+      "player_aura_dual_dragon_mtx",
+      "",
+      [],
+      [
+        "Metadata/Effects/Microtransactions/Spells/auras/dragon/combined/CombinedDragonAura.epk"
+      ],
+      [],
+      false,
+      "",
+      null,
+      null,
+      "",
+      "",
+      false,
+      "",
+      [],
+      [],
+      []
+    ],
+    [
+      "ritual_rune_buff_initial",
+      "",
+      [
+        "Metadata/Effects/Spells/monsters_effects/League_Ritual/ritual_rune/pre_ritual_buff.epk"
+      ],
+      [
+        "Metadata/Effects/StatusAilments/NoEffect.epk"
+      ],
+      [
+        55
+      ],
+      false,
+      "",
+      null,
+      null,
+      "",
+      "",
+      false,
+      "",
+      [],
+      [],
+      []
+    ],
+    [
+      "ritual_corpse_sink",
+      "",
+      [
+        "Metadata/Effects/Spells/monsters_effects/League_Ritual/ritual_rune/corpse_fadeout.epk"
+      ],
+      [],
+      [
+        55
+      ],
+      false,
+      "",
+      null,
+      null,
+      "",
+      "",
+      false,
+      "",
+      [],
+      [],
+      []
+    ],
+    [
+      "ritual_monster_emerge",
+      "",
+      [
+        "Metadata/Effects/Spells/monsters_effects/League_Ritual/ritual_rune/corpse_fadein.epk"
+      ],
+      [],
+      [
+        55
+      ],
       false,
       "",
       null,
@@ -28758,6 +28862,46 @@
         "Metadata/Effects/Spells/monsters_effects/League_Heist/bosses/twins/ice_enrage.epk"
       ],
       [],
+      [],
+      false,
+      "",
+      null,
+      null,
+      "",
+      "",
+      false,
+      "",
+      [],
+      [],
+      []
+    ],
+    [
+      "player_aura_misery",
+      "",
+      [],
+      [
+        "Metadata/Effects/Microtransactions/Aura/warlord_misery/Misery_Aura.epk"
+      ],
+      [],
+      false,
+      "",
+      null,
+      null,
+      "",
+      "",
+      false,
+      "",
+      [],
+      [],
+      []
+    ],
+    [
+      "player_aura_suffering",
+      "",
+      [],
+      [
+        "Metadata/Effects/Microtransactions/Aura/warlord_suffering/Suffering_Aura.epk"
+      ],
       [],
       false,
       "",
@@ -28872,6 +29016,938 @@
       []
     ],
     [
+      "oil_arrow_fire_exposure",
+      "",
+      [
+        "Metadata/Effects/Spells/oil_arrow/EPKs/fire_exposure_idle.epk"
+      ],
+      [],
+      [],
+      false,
+      "",
+      null,
+      null,
+      "",
+      "",
+      false,
+      "",
+      [],
+      [],
+      []
+    ],
+    [
+      "pirate_boss_ghostfire_degen",
+      "Art/2DArt/BuffIcons/GhostfireBuff.dds",
+      [
+        "Metadata/Effects/Spells/monsters_effects/frozen_cabins/ghostflame_debuff.epk"
+      ],
+      [
+        "Metadata/Effects/StatusAilments/NoEffect.epk"
+      ],
+      [],
+      false,
+      "",
+      null,
+      null,
+      "",
+      "",
+      false,
+      "",
+      [],
+      [],
+      []
+    ],
+    [
+      "crimson_priest_boss_degen",
+      "Art/2DArt/BuffIcons/BloodCloudDebuff.dds",
+      [
+        "Metadata/Effects/Spells/monsters_effects/AtlasofWorldsBosses/CrimsonPriest/EPKs/minion_heartstopper.epk"
+      ],
+      [
+        "Metadata/Effects/StatusAilments/NoEffect.epk"
+      ],
+      [],
+      false,
+      "",
+      null,
+      null,
+      "",
+      "Metadata/Effects/Spells/monsters_effects/AtlasofWorldsBosses/CrimsonPriest/EPKs/player_heartstopper.epk",
+      false,
+      "",
+      [],
+      [],
+      []
+    ],
+    [
+      "ritual_rune_buff_fire1",
+      "",
+      [
+        "Metadata/Effects/Spells/monsters_effects/League_Ritual/ritual_rune/runetypes/MonsterFire1.epk"
+      ],
+      [
+        "Metadata/Effects/StatusAilments/NoEffect.epk"
+      ],
+      [
+        55
+      ],
+      false,
+      "",
+      null,
+      null,
+      "",
+      "",
+      false,
+      "",
+      [],
+      [],
+      []
+    ],
+    [
+      "ritual_rune_buff_cold1",
+      "",
+      [
+        "Metadata/Effects/Spells/monsters_effects/League_Ritual/ritual_rune/runetypes/MonsterCold1.epk"
+      ],
+      [
+        "Metadata/Effects/StatusAilments/NoEffect.epk"
+      ],
+      [
+        55
+      ],
+      false,
+      "",
+      null,
+      null,
+      "",
+      "",
+      false,
+      "",
+      [],
+      [],
+      []
+    ],
+    [
+      "ritual_rune_buff_chaos_purple1",
+      "",
+      [
+        "Metadata/Effects/Spells/monsters_effects/League_Ritual/ritual_rune/runetypes/MonsterChaosPurple1.epk"
+      ],
+      [
+        "Metadata/Effects/StatusAilments/NoEffect.epk"
+      ],
+      [
+        55
+      ],
+      false,
+      "",
+      null,
+      null,
+      "",
+      "",
+      false,
+      "",
+      [],
+      [],
+      []
+    ],
+    [
+      "elementalist_convergence",
+      "Art/2DArt/SkillIcons/passives/Elementalist/PendulumOfDestruction.dds",
+      [
+        "Metadata/Effects/StatusAilments/convergence/convergence.epk"
+      ],
+      [],
+      [],
+      true,
+      "",
+      null,
+      null,
+      "",
+      "",
+      false,
+      "",
+      [],
+      [],
+      []
+    ],
+    [
+      "aegis_primal",
+      "Art/2DArt/BuffIcons/PrimalAegis.dds",
+      [],
+      [],
+      [],
+      false,
+      "",
+      null,
+      null,
+      "",
+      "",
+      false,
+      "",
+      [],
+      [],
+      []
+    ],
+    [
+      "flame_golem_respawn",
+      "Art/2DArt/SkillIcons/FireElementalSummonInactive.dds",
+      [],
+      [],
+      [],
+      false,
+      "",
+      null,
+      null,
+      "",
+      "",
+      false,
+      "",
+      [],
+      [],
+      []
+    ],
+    [
+      "ice_golem_respawn",
+      "Art/2DArt/SkillIcons/IceElementalSummonInactive.dds",
+      [],
+      [],
+      [],
+      false,
+      "",
+      null,
+      null,
+      "",
+      "",
+      false,
+      "",
+      [],
+      [],
+      []
+    ],
+    [
+      "lightning_golem_respawn",
+      "Art/2DArt/SkillIcons/LightningGolemInactive.dds",
+      [],
+      [],
+      [],
+      false,
+      "",
+      null,
+      null,
+      "",
+      "",
+      false,
+      "",
+      [],
+      [],
+      []
+    ],
+    [
+      "stone_golem_respawn",
+      "Art/2DArt/SkillIcons/RockGolemSummonInactive.dds",
+      [],
+      [],
+      [],
+      false,
+      "",
+      null,
+      null,
+      "",
+      "",
+      false,
+      "",
+      [],
+      [],
+      []
+    ],
+    [
+      "chaos_golem_respawn",
+      "Art/2DArt/SkillIcons/ChaosElementalSummonInactive.dds",
+      [],
+      [],
+      [],
+      false,
+      "",
+      null,
+      null,
+      "",
+      "",
+      false,
+      "",
+      [],
+      [],
+      []
+    ],
+    [
+      "carrion_golem_respawn",
+      "Art/2DArt/SkillIcons/SummonCarrionGolemInactive.dds",
+      [],
+      [],
+      [],
+      false,
+      "",
+      null,
+      null,
+      "",
+      "",
+      false,
+      "",
+      [],
+      [],
+      []
+    ],
+    [
+      "gathering_winds_stacks",
+      "Art/2DArt/BuffIcons/GaleForceBuff.dds",
+      [],
+      [],
+      [],
+      false,
+      "",
+      null,
+      null,
+      "",
+      "",
+      false,
+      "",
+      [],
+      [],
+      []
+    ],
+    [
+      "sacrificial_zeal",
+      "Art/2DArt/BuffIcons/GripofSacrificeBuff.dds",
+      [],
+      [],
+      [],
+      false,
+      "",
+      null,
+      null,
+      "",
+      "",
+      false,
+      "",
+      [],
+      [],
+      []
+    ],
+    [
+      "fanatacism_charge",
+      "Art/2DArt/SkillIcons/passives/fanatacismcharge.dds",
+      [],
+      [],
+      [],
+      true,
+      "",
+      null,
+      null,
+      "",
+      "",
+      false,
+      "",
+      [],
+      [],
+      [
+        82
+      ]
+    ],
+    [
+      "fanatacism",
+      "Art/2DArt/BuffIcons/FanatascismBuffIcon.dds",
+      [
+        "Metadata/Effects/Spells/ascendancy_classes/inquisitor/fanaticism_power.epk"
+      ],
+      [],
+      [],
+      true,
+      "",
+      null,
+      null,
+      "",
+      "",
+      false,
+      "",
+      [],
+      [],
+      []
+    ],
+    [
+      "rupture",
+      "Art/2DArt/SkillIcons/SpectralRagingSpirit.dds",
+      [
+        "Metadata/Effects/StatusAilments/rupture/rupture_02.epk"
+      ],
+      [],
+      [],
+      true,
+      "",
+      null,
+      null,
+      "",
+      "",
+      false,
+      "",
+      [],
+      [],
+      []
+    ],
+    [
+      "despair_herald_of_light",
+      "Art/2DArt/SkillIcons/HeraldOfLight.dds",
+      [
+        "Metadata/Effects/Microtransactions/Spells/heralds/warlord/purity.epk"
+      ],
+      [],
+      [],
+      false,
+      "",
+      null,
+      null,
+      "",
+      "",
+      false,
+      "",
+      [],
+      [],
+      []
+    ],
+    [
+      "despair_herald_of_agony",
+      "Art/2DArt/SkillIcons/HeraldOfAgony.dds",
+      [
+        "Metadata/Effects/Microtransactions/Spells/heralds/warlord/agony.epk"
+      ],
+      [],
+      [],
+      false,
+      "",
+      null,
+      null,
+      "",
+      "",
+      false,
+      "",
+      [],
+      [],
+      []
+    ],
+    [
+      "despair_herald_of_ash",
+      "Art/2DArt/BuffIcons/HeraldofAsh.dds",
+      [
+        "Metadata/Effects/Microtransactions/Spells/heralds/warlord/ash.epk"
+      ],
+      [],
+      [],
+      false,
+      "",
+      null,
+      null,
+      "",
+      "",
+      false,
+      "",
+      [],
+      [],
+      []
+    ],
+    [
+      "despair_herald_of_thunder",
+      "Art/2DArt/BuffIcons/HeraldofThunder.dds",
+      [
+        "Metadata/Effects/Microtransactions/Spells/heralds/warlord/thunder.epk"
+      ],
+      [],
+      [],
+      false,
+      "",
+      null,
+      null,
+      "",
+      "",
+      false,
+      "",
+      [],
+      [],
+      []
+    ],
+    [
+      "despair_herald_of_ice",
+      "Art/2DArt/BuffIcons/HeraldofIce.dds",
+      [
+        "Metadata/Effects/Microtransactions/Spells/heralds/warlord/ice.epk"
+      ],
+      [],
+      [],
+      false,
+      "",
+      null,
+      null,
+      "",
+      "",
+      false,
+      "",
+      [],
+      [],
+      []
+    ],
+    [
+      "despair_herald_of_thunder_active",
+      "",
+      [
+        "Metadata/Effects/Microtransactions/Spells/heralds/warlord/thunder_charged.epk"
+      ],
+      [],
+      [],
+      false,
+      "",
+      null,
+      null,
+      "",
+      "",
+      false,
+      "",
+      [],
+      [],
+      []
+    ],
+    [
+      "ignited_despair",
+      "Art/2DArt/BuffIcons/buffonfire.dds",
+      [
+        "Metadata/Effects/Microtransactions/Spells/heralds/warlord/ash_ignite.epk"
+      ],
+      [
+        "Metadata/Effects/Spells/supports/aurafy/fire.epk"
+      ],
+      [],
+      false,
+      "",
+      null,
+      null,
+      "",
+      "",
+      false,
+      "",
+      [],
+      [],
+      []
+    ],
+    [
+      "atlas_sulphite_mined_buff",
+      "Art/2DArt/BuffIcons/buffonfire.dds",
+      [],
+      [],
+      [],
+      false,
+      "",
+      null,
+      null,
+      "",
+      "",
+      false,
+      "",
+      [],
+      [],
+      []
+    ],
+    [
+      "ignite_unique_blackflame",
+      "Art/2DArt/BuffIcons/buffonfire.dds",
+      [
+        "Metadata/Effects/StatusAilments/Ignited_blackflame_01.epk",
+        "Metadata/Effects/StatusAilments/Ignited_blackflame_01.epk",
+        "Metadata/Effects/StatusAilments/monsters/large_monsters/Ignited_blackflame_01.epk"
+      ],
+      [
+        "Metadata/Effects/Spells/supports/aurafy/Ignited_blackflame_01.epk",
+        "Metadata/Effects/Spells/supports/aurafy/Ignited_blackflame_01.epk",
+        "Metadata/Effects/Spells/supports/aurafy/Ignited_blackflame_Large_01.epk"
+      ],
+      [],
+      false,
+      "",
+      null,
+      null,
+      "",
+      "",
+      false,
+      "",
+      [],
+      [],
+      []
+    ],
+    [
+      "ritual_rune_buff_lightning1",
+      "",
+      [
+        "Metadata/Effects/Spells/monsters_effects/League_Ritual/ritual_rune/runetypes/MonsterLightning1.epk"
+      ],
+      [
+        "Metadata/Effects/StatusAilments/NoEffect.epk"
+      ],
+      [
+        55
+      ],
+      false,
+      "",
+      null,
+      null,
+      "",
+      "",
+      false,
+      "",
+      [],
+      [],
+      []
+    ],
+    [
+      "ritual_rune_buff_physical_blood1",
+      "",
+      [
+        "Metadata/Effects/Spells/monsters_effects/League_Ritual/ritual_rune/runetypes/MonsterPhysicalBlood1.epk"
+      ],
+      [
+        "Metadata/Effects/StatusAilments/NoEffect.epk"
+      ],
+      [
+        55
+      ],
+      false,
+      "",
+      null,
+      null,
+      "",
+      "",
+      false,
+      "",
+      [],
+      [],
+      []
+    ],
+    [
+      "ritual_rune_buff_chaos_green1",
+      "",
+      [
+        "Metadata/Effects/Spells/monsters_effects/League_Ritual/ritual_rune/runetypes/MonsterChaosGreen1.epk"
+      ],
+      [
+        "Metadata/Effects/StatusAilments/NoEffect.epk"
+      ],
+      [
+        55
+      ],
+      false,
+      "",
+      null,
+      null,
+      "",
+      "",
+      false,
+      "",
+      [],
+      [],
+      []
+    ],
+    [
+      "ritual_rune_buff_generic_charges1",
+      "",
+      [
+        "Metadata/Effects/StatusAilments/NoEffect.epk"
+      ],
+      [
+        "Metadata/Effects/StatusAilments/NoEffect.epk"
+      ],
+      [
+        55
+      ],
+      false,
+      "",
+      null,
+      null,
+      "",
+      "",
+      false,
+      "",
+      [],
+      [],
+      []
+    ],
+    [
+      "ritual_rune_buff_generic_energy_shield1",
+      "",
+      [
+        "Metadata/Effects/Spells/monsters_effects/League_Ritual/ritual_rune/runetypes/MonsterGenericES.epk"
+      ],
+      [
+        "Metadata/Effects/StatusAilments/NoEffect.epk"
+      ],
+      [
+        55
+      ],
+      false,
+      "",
+      null,
+      null,
+      "",
+      "",
+      false,
+      "",
+      [],
+      [],
+      []
+    ],
+    [
+      "ritual_rune_buff_generic_life1",
+      "",
+      [
+        "Metadata/Effects/Spells/monsters_effects/League_Ritual/ritual_rune/runetypes/MonsterGenericLife.epk"
+      ],
+      [
+        "Metadata/Effects/StatusAilments/NoEffect.epk"
+      ],
+      [
+        55
+      ],
+      false,
+      "",
+      null,
+      null,
+      "",
+      "",
+      false,
+      "",
+      [],
+      [],
+      []
+    ],
+    [
+      "ritual_rune_buff_generic_fortify1",
+      "",
+      [
+        "Metadata/Effects/Spells/monsters_effects/League_Ritual/ritual_rune/runetypes/MonsterGenericFortify.epk"
+      ],
+      [
+        "Metadata/Effects/StatusAilments/NoEffect.epk"
+      ],
+      [
+        55
+      ],
+      false,
+      "",
+      null,
+      null,
+      "",
+      "",
+      false,
+      "",
+      [],
+      [],
+      []
+    ],
+    [
+      "ritual_rune_buff_generic_massive1",
+      "",
+      [
+        "Metadata/Effects/StatusAilments/NoEffect.epk"
+      ],
+      [
+        "Metadata/Effects/StatusAilments/NoEffect.epk"
+      ],
+      [
+        55
+      ],
+      false,
+      "",
+      null,
+      null,
+      "",
+      "",
+      false,
+      "",
+      [],
+      [],
+      []
+    ],
+    [
+      "ritual_rune_buff_generic_speed1",
+      "",
+      [
+        "Metadata/Effects/Spells/monsters_effects/League_Ritual/ritual_rune/runetypes/MonsterGenericSpeed.epk"
+      ],
+      [
+        "Metadata/Effects/StatusAilments/NoEffect.epk"
+      ],
+      [
+        55
+      ],
+      false,
+      "",
+      null,
+      null,
+      "",
+      "",
+      false,
+      "",
+      [],
+      [],
+      []
+    ],
+    [
+      "ritual_rune_buff_necromantic1",
+      "",
+      [
+        "Metadata/Effects/StatusAilments/NoEffect.epk"
+      ],
+      [
+        "Metadata/Effects/StatusAilments/NoEffect.epk"
+      ],
+      [
+        55
+      ],
+      false,
+      "",
+      null,
+      null,
+      "",
+      "",
+      false,
+      "",
+      [],
+      [],
+      []
+    ],
+    [
+      "ritual_rune_buff_vaal1",
+      "",
+      [
+        "Metadata/Effects/Spells/monsters_effects/League_Ritual/ritual_rune/runetypes/MonsterVaal1.epk"
+      ],
+      [
+        "Metadata/Effects/StatusAilments/NoEffect.epk"
+      ],
+      [
+        55
+      ],
+      false,
+      "",
+      null,
+      null,
+      "",
+      "",
+      false,
+      "",
+      [],
+      [],
+      []
+    ],
+    [
+      "ritual_rune_buff_golden1",
+      "",
+      [
+        "Metadata/Effects/Spells/monsters_effects/League_Ritual/ritual_rune/runetypes/MonsterGolden1.epk"
+      ],
+      [
+        "Metadata/Effects/StatusAilments/NoEffect.epk"
+      ],
+      [
+        55
+      ],
+      false,
+      "",
+      null,
+      null,
+      "",
+      "",
+      false,
+      "",
+      [],
+      [],
+      []
+    ],
+    [
+      "ritual_ice_beam",
+      "Art/2DArt/BuffIcons/ChillingBeam.dds",
+      [
+        "Metadata/Effects/StatusAilments/Chilled.epk"
+      ],
+      [],
+      [],
+      false,
+      "",
+      null,
+      null,
+      "",
+      "",
+      false,
+      "",
+      [],
+      [],
+      []
+    ],
+    [
+      "ritual_golden_coin_buff",
+      "Art/2DArt/BuffIcons/CoinShowerBuff.dds",
+      [
+        "Metadata/Effects/Environment/tempest_league/basic_colour/yellow/increaseddrop.epk"
+      ],
+      [],
+      [],
+      false,
+      "",
+      null,
+      null,
+      "",
+      "",
+      false,
+      "",
+      [],
+      [],
+      []
+    ],
+    [
+      "maven_boss_buff",
+      "Art/2DArt/BuffIcons/nobuff.dds",
+      [
+        "Metadata/Effects/StatusAilments/Ignited.epk"
+      ],
+      [],
+      [],
+      false,
+      "",
+      null,
+      null,
+      "",
+      "",
+      false,
+      "",
+      [],
+      [],
+      []
+    ],
+    [
+      "vampiric_icon",
+      "Art/2DArt/SkillIcons/JackTheAxe.dds",
+      [
+        "Metadata/Effects/Spells/vampiric_icon/player_buff.epk"
+      ],
+      [],
+      [],
+      false,
+      "",
+      null,
+      null,
+      "",
+      "",
+      false,
+      "",
+      [],
+      [],
+      []
+    ],
+    [
       "demigods_increased_item_rarity_aura",
       "Art/2DArt/BuffIcons/DemigodAura.dds",
       [
@@ -28880,6 +29956,498 @@
       [
         "Metadata/Effects/Microtransactions/Misc/uniques/Aura/Demigods/Gold/gold_aura.epk"
       ],
+      [],
+      false,
+      "",
+      null,
+      null,
+      "",
+      "",
+      false,
+      "",
+      [],
+      [],
+      []
+    ],
+    [
+      "brutal_charge",
+      "Art/2DArt/BuffIcons/brutalcharge.dds",
+      [],
+      [],
+      [],
+      false,
+      "",
+      null,
+      null,
+      "",
+      "",
+      false,
+      "",
+      [],
+      [],
+      [
+        14
+      ]
+    ],
+    [
+      "affliction_charge",
+      "Art/2DArt/BuffIcons/afflictioncharge.dds",
+      [],
+      [],
+      [],
+      false,
+      "",
+      null,
+      null,
+      "",
+      "",
+      false,
+      "",
+      [],
+      [],
+      [
+        15
+      ]
+    ],
+    [
+      "absorption_charge",
+      "Art/2DArt/BuffIcons/absorptioncharge.dds",
+      [],
+      [],
+      [],
+      false,
+      "",
+      null,
+      null,
+      "",
+      "",
+      false,
+      "",
+      [],
+      [],
+      [
+        16
+      ]
+    ],
+    [
+      "wet",
+      "Art/2DArt/SkillIcons/Hydrosphere.dds",
+      [],
+      [],
+      [],
+      false,
+      "",
+      null,
+      null,
+      "",
+      "",
+      false,
+      "",
+      [],
+      [],
+      []
+    ],
+    [
+      "crazy",
+      "",
+      [
+        "Metadata/Effects/Microtransactions/Misc/misc_unique_effects/minion_crazy/minion_crazy.epk"
+      ],
+      [],
+      [],
+      false,
+      "",
+      null,
+      null,
+      "",
+      "",
+      false,
+      "",
+      [],
+      [],
+      []
+    ],
+    [
+      "thaumaturgy_grow_buff",
+      "",
+      [],
+      [],
+      [],
+      false,
+      "",
+      null,
+      null,
+      "",
+      "",
+      false,
+      "",
+      [],
+      [],
+      []
+    ],
+    [
+      "ritual_blood_totem_degen",
+      "Art/2DArt/BuffIcons/BloodTotemEffigyBuff.dds",
+      [
+        "Metadata/Effects/Spells/monsters_effects/League_Ritual/blood_ritual/blood_debuff.epk"
+      ],
+      [],
+      [],
+      false,
+      "",
+      null,
+      null,
+      "",
+      "",
+      false,
+      "",
+      [],
+      [],
+      []
+    ],
+    [
+      "behemoth_swamp_gas",
+      "Art/2DArt/BuffIcons/CausticCloud.dds",
+      [],
+      [],
+      [],
+      false,
+      "",
+      null,
+      null,
+      "",
+      "",
+      false,
+      "",
+      [],
+      [],
+      []
+    ],
+    [
+      "ritual_grow_buff",
+      "",
+      [
+        "Metadata/Effects/Spells/monsters_effects/League_Ritual/big_ritual/big.epk"
+      ],
+      [],
+      [],
+      false,
+      "",
+      null,
+      null,
+      "",
+      "",
+      false,
+      "",
+      [],
+      [],
+      []
+    ],
+    [
+      "maven_boss_heal",
+      "Art/2DArt/BuffIcons/nobuff.dds",
+      [
+        "Metadata/Effects/Spells/monsters_effects/AtlasofWorldsBosses/Maven/buffs/heal/beam/heal.epk"
+      ],
+      [],
+      [],
+      false,
+      "",
+      null,
+      null,
+      "",
+      "",
+      false,
+      "",
+      [],
+      [],
+      []
+    ],
+    [
+      "quicksand_display_buff_ritual",
+      "Art/2DArt/SkillIcons/BloodQuicksand.dds",
+      [
+        "Metadata/Effects/Spells/monsters_effects/League_Ritual/life_ritual/blood_pool.epk"
+      ],
+      [],
+      [],
+      false,
+      "Erstickender Nebel",
+      null,
+      null,
+      "Ihr seid verlangsamt und eure Lebenswiederherstellung ist verringert.",
+      "",
+      false,
+      "",
+      [],
+      [],
+      []
+    ],
+    [
+      "quick_guard_maven",
+      "Art/2DArt/BuffIcons/QuickGuard.dds",
+      [
+        "Metadata/Effects/Spells/monsters_effects/AtlasofWorldsBosses/Maven/buffs/guard_skill/Iron_Skin.epk"
+      ],
+      [],
+      [],
+      false,
+      "",
+      null,
+      null,
+      "",
+      "",
+      false,
+      "",
+      [],
+      [],
+      []
+    ],
+    [
+      "quicksand_display_buff_swamp_behemoth",
+      "Art/2DArt/BuffIcons/CausticCloud.dds",
+      [
+        "Metadata/Effects/Spells/monsters_effects/AtlasofWorldsBosses/SwampBehemoth/mud_sink.epk"
+      ],
+      [],
+      [],
+      false,
+      "Giftiger Sumpf",
+      null,
+      null,
+      "Ihr seid verlangsamt und erleidet Chaosschaden über Zeit.",
+      "",
+      false,
+      "",
+      [],
+      [],
+      []
+    ],
+    [
+      "ritual_totem_defences_buff",
+      "",
+      [
+        "Metadata/Effects/Spells/monsters_effects/League_Ritual/fortify_ritual/AuraFortify.epk"
+      ],
+      [
+        "Metadata/Effects/StatusAilments/NoEffect.epk"
+      ],
+      [],
+      false,
+      "",
+      null,
+      null,
+      "",
+      "",
+      false,
+      "",
+      [],
+      [],
+      []
+    ],
+    [
+      "ritual_speed_daemon",
+      "Art/2DArt/SkillIcons/SpeedDaemon.dds",
+      [],
+      [],
+      [],
+      false,
+      "",
+      null,
+      null,
+      "",
+      "Metadata/Effects/Spells/monsters_effects/League_Ritual/ritual_rune/runetypes/MonsterGenericSpeed.epk",
+      false,
+      "",
+      [],
+      [],
+      []
+    ],
+    [
+      "ritual_chaos_vines",
+      "Art/2DArt/SkillIcons/ChaosVines.dds",
+      [
+        "Metadata/Effects/StatusAilments/NoEffect.epk"
+      ],
+      [
+        "Metadata/Effects/StatusAilments/NoEffect.epk"
+      ],
+      [],
+      false,
+      "",
+      null,
+      null,
+      "",
+      "",
+      false,
+      "",
+      [],
+      [],
+      []
+    ],
+    [
+      "unhinge",
+      "Art/2DArt/SkillIcons/UnhingeSkill.dds",
+      [],
+      [],
+      [],
+      false,
+      "",
+      null,
+      null,
+      "",
+      "",
+      false,
+      "",
+      [],
+      [],
+      []
+    ],
+    [
+      "maven_decay_on_hit",
+      "Art/2DArt/BuffIcons/nobuff.dds",
+      [
+        "Metadata/Effects/Spells/monsters_effects/AtlasofWorldsBosses/Maven/buffs/infused_weapons/power_up.epk"
+      ],
+      [],
+      [],
+      false,
+      "",
+      null,
+      null,
+      "",
+      "",
+      false,
+      "",
+      [],
+      [],
+      []
+    ],
+    [
+      "maven_clone_visual",
+      "Art/2DArt/BuffIcons/nobuff.dds",
+      [
+        "Metadata/Effects/Spells/monsters_effects/AtlasofWorldsBosses/Maven/buffs/cosmic_double/EPKs/cosmic_double_maps.epk"
+      ],
+      [],
+      [],
+      false,
+      "",
+      null,
+      null,
+      "",
+      "",
+      false,
+      "",
+      [],
+      [],
+      []
+    ],
+    [
+      "sirus_influence",
+      "Art/2DArt/BuffIcons/nobuff.dds",
+      [
+        "Metadata/Effects/Spells/monsters_effects/AtlasExiles/Orion/epk/orion_influence.epk"
+      ],
+      [],
+      [],
+      false,
+      "",
+      null,
+      null,
+      "",
+      "",
+      false,
+      "",
+      [],
+      [],
+      []
+    ],
+    [
+      "maven_minion_fade_in",
+      "",
+      [
+        "Metadata/Effects/Spells/monsters_effects/AtlasofWorldsBosses/Maven/minion_phase/monster_fadein/monster_fadein.epk"
+      ],
+      [],
+      [],
+      false,
+      "",
+      null,
+      null,
+      "",
+      "",
+      false,
+      "",
+      [],
+      [],
+      []
+    ],
+    [
+      "maven_frosty_ground",
+      "",
+      [],
+      [],
+      [],
+      false,
+      "Gefrorener Boden",
+      null,
+      null,
+      "Ihr erleidet Kälteschaden von Gefrorenem Boden.",
+      "",
+      false,
+      "",
+      [],
+      [],
+      []
+    ],
+    [
+      "maven_memory_game_degen",
+      "Art/2DArt/BuffIcons/MavenBuff.dds",
+      [
+        "Metadata/Effects/Spells/monsters_effects/AtlasofWorldsBosses/Maven/memory_game/debuff/epk/memorygame_debuff.epk"
+      ],
+      [],
+      [],
+      false,
+      "",
+      null,
+      null,
+      "",
+      "",
+      false,
+      "",
+      [],
+      [],
+      []
+    ],
+    [
+      "maven_decay",
+      "Art/2DArt/BuffIcons/Decay.dds",
+      [
+        "Metadata/Effects/Spells/monsters_effects/AtlasofWorldsBosses/Maven/buffs/infused_weapons/player_debuff.epk"
+      ],
+      [],
+      [],
+      false,
+      "Räumlicher Zerfall",
+      null,
+      null,
+      "Ihr erleidet Chaosschaden über Zeit.",
+      "",
+      false,
+      "",
+      [],
+      [],
+      []
+    ],
+    [
+      "maven_stasis_monster_emerge",
+      "",
+      [
+        "Metadata/Effects/Spells/monsters_effects/AtlasofWorldsBosses/Maven/stasis_pod/monster_emerge.epk"
+      ],
+      [],
       [],
       false,
       "",
