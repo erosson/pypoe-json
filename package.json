@@ -7,7 +7,7 @@
   "license": "MIT",
   "private": true,
   "scripts": {
-    "pypoe:pull": "git subtree pull --squash --prefix=third-party/PyPoE https://github.com/OmegaK2/PyPoE.git dev",
+    "pypoe:pull": "git subtree pull --squash --prefix=third-party/PyPoE https://github.com/erosson/PyPoE.git dev",
     "steampull:pull": "git subtree pull --squash --prefix=third-party/steampull https://github.com/erosson/steampull.git master",
     "install": "bash scripts/install",
     "fetch:auth": "bash -c \"[ -f auth.env ] && . auth.env ; ./third-party/steampull/steampull auth\"",

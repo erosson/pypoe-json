@@ -22,17 +22,10 @@ ASSETS_PATH="`pwd`/assets/content/depot"
 pypoe_exporter config set ggpk_path "$ASSETS_PATH"
 
 # Build a list of dat files
-cp patch/index_dat.py third-party/PyPoE/PyPoE/index_dat.py
 python third-party/PyPoE/PyPoE/index_dat.py > dist/list.json
-rm -f third-party/PyPoE/PyPoE/index_dat.py
 
-# Apply a PyPoE patch that skips files with errors. Too underdeveloped for a
-# PyPoE pull request - it'd need a cli flag, at least - so I'll maintain a patch
-# file for now.
 echo "building dist/all.json..."
-git apply third-party/PyPoE.patch
 pypoe_exporter dat json dist/all.json 2>/dev/null
-git checkout third-party/PyPoE
 
 # Split all.json into a file per dat file
 echo "building dist/dat/..."
@@ -42,9 +35,7 @@ node scripts/dist-dat.js dist/all.json dist/dat
 cp scripts/lang.json dist/lang.json
 for lang in `node --eval="require('./dist/lang.json').forEach(l => console.log(l))"`; do
   echo "building dist/all-$lang.json..."
-  git apply third-party/PyPoE.patch
   pypoe_exporter dat json dist/all-$lang.json --lang $lang 2>/dev/null
-  git checkout third-party/PyPoE
 
   echo "building dist/lang/$lang/..."
   node scripts/dist-dat.js dist/all-$lang.json dist/lang/$lang
