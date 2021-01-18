@@ -1,1 +1,103 @@
-{"filename":"SummonedSpecificBarrels.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":true,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"ChestsKey","rowid":1,"type":"ulong","key":"Chests.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Key1","rowid":2,"type":"ulong","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown0","rowid":3,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Key2","rowid":4,"type":"ulong","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["Barrel1",7,322,1,null],["BarrelExplode",5,322,1,null],["BarrelTar",6,322,1,null]]}
+{
+  "filename": "SummonedSpecificBarrels.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "ChestsKey",
+      "rowid": 1,
+      "type": "ulong",
+      "key": "Chests.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Key1",
+      "rowid": 2,
+      "type": "ulong",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown0",
+      "rowid": 3,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Key2",
+      "rowid": 4,
+      "type": "ulong",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "Barrel1",
+      7,
+      322,
+      1,
+      null
+    ],
+    [
+      "BarrelExplode",
+      5,
+      322,
+      1,
+      null
+    ],
+    [
+      "BarrelTar",
+      6,
+      322,
+      1,
+      null
+    ]
+  ]
+}

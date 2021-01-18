@@ -1,1 +1,317 @@
-{"filename":"Ascendancy.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":true,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"ClassNo","rowid":1,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"CharactersKey","rowid":2,"type":"ulong","key":"Characters.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"CoordinateRect","rowid":3,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":"Coordinates in \"x1, y1, x2, y2\" format"},{"name":"RGBFlavourTextColour","rowid":4,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Name","rowid":5,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"FlavourText","rowid":6,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"OGGFile","rowid":7,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":true,"file_ext":".ogg","display":null,"display_type":"{0}","description":null}],"data":[["Juggernaut",1,0,"215,165,1063,436","175,90,50","Покоритель","    Победителя от \r\nпобеждённого отличает \r\nтолько упорство.","Audio/Dialogue/NPC/Izaro/Iz_18_AscClass_01_Marauder_01_Juggernaught.ogg"],["Berserker",2,0,"760,345,976,429","175,90,50","Берсерк","Дикари всегда \r\nдействуют быстро \r\nи прямолинейно.","Audio/Dialogue/NPC/Izaro/Iz_18_AscClass_01_Marauder_02_Berserker.ogg"],["Chieftain",3,0,"185,245,1076,449","175,90,50","Вождь","Предки говорят через \r\nтвои сжатые кулаки.","Audio/Dialogue/NPC/Izaro/Iz_18_AscClass_01_Marauder_03_Chieftain.ogg"],["Raider",1,3,"365,965,900,1250","124,179,118","Налётчик","Охотница перенимает немало \r\nуловок у своей добычи.","Audio/Dialogue/NPC/Izaro/Iz_18_AscClass_03_Ranger_01_Raider.ogg"],["Deadeye",2,3,"365,965,900,1250","124,179,118","Снайпер","Женщина может изменить мир \r\nодним метким выстрелом.","Audio/Dialogue/NPC/Izaro/Iz_18_AscClass_03_Ranger_02_Deadeye.ogg"],["Pathfinder",3,3,"265,975,900,1250","124,179,118","Следопыт","В глуши много опасных и желанных мест. \r\nНадо уметь обходить одни и \r\nнаходить другие.","Audio/Dialogue/NPC/Izaro/Iz_18_AscClass_03_Ranger_03_Pathfinder.ogg"],["Occultist",1,1,"665,385,906,389","154,195,201","Оккультист","Если сбросить оковы \r\nстраха, можно вкусить \r\nзапретный плод.","Audio/Dialogue/NPC/Izaro/Iz_18_AscClass_05_Witch_01_Occultist.ogg"],["Elementalist",2,1,"125,475,510,768","154,195,201","Маг стихий","Если сильный волей посеет ветер, \r\nбурю не сдержат и крепчайшие \r\nстены.","Audio/Dialogue/NPC/Izaro/Iz_18_AscClass_05_Witch_02_Elementalist.ogg"],["Necromancer",3,1,"720,303,1000,1000","154,195,201","Некромант","Познай смиренную \r\nсилу посмертия.","Audio/Dialogue/NPC/Izaro/Iz_18_AscClass_05_Witch_03_Necromancer.ogg"],["Slayer",1,4,"470,310,976,429","150,175,200","Рубака","Ни судьи, ни присяжных.\r\nТолько палач.","Audio/Dialogue/NPC/Izaro/Iz_18_AscClass_02_Duelist_01_Slayer.ogg"],["Gladiator",2,4,"670,395,976,429","150,175,200","Гладиатор","Подними руки вверх\r\nпод крики толпы и \r\nпоклянись в верности \r\nславе.","Audio/Dialogue/NPC/Izaro/Iz_18_AscClass_02_Duelist_02_Gladiator.ogg"],["Champion",3,4,"735,625,976,429","150,175,200","Чемпион","Защищай то, что\r\nлюбишь. Тот, кому не\r\nза что сражаться, \r\nумирает впустую.","Audio/Dialogue/NPC/Izaro/Iz_18_AscClass_02_Duelist_03_Champion.ogg"],["Inquisitor",1,6,"335,940,976,429","207,189,138","Инквизитор","У правды есть привычка \r\nускользать, но Бог даровал \r\nнам все инструменты для \r\nеё поимки.","Audio/Dialogue/NPC/Izaro/Iz_18_AscClass_06_Templar_01_Inquisitor.ogg"],["Hierophant",2,6,"100,720,936,399","207,189,138","Иерофант","<size:50>{Из чаши Господней пей \r\nполными глотками, \r\nибо не опустеет она \r\nв руках истинно верующего.}","Audio/Dialogue/NPC/Izaro/Iz_18_AscClass_06_Templar_02_Hierophant.ogg"],["Guardian",3,6,"170,780,976,429","207,189,138","Защитник","<size:50>{Стадо, ведомое верующим \r\nи почитаемым пастырем, \r\nспособно растоптать \r\nволка.}","Audio/Dialogue/NPC/Izaro/Iz_18_AscClass_06_Templar_03_Guardian.ogg"],["Assassin",1,5,"650,845,976,429","114,129,141","Убийца","Смерть — это званый обед, \r\nсписок блюд которого \r\nсоставляет убийца.","Audio/Dialogue/NPC/Izaro/Iz_18_AscClass_04_Shadow_01_Assassin.ogg"],["Trickster",2,5,"315,150,976,429","114,129,141","Плут","Умереть могут все, \r\nно некоторых надо слегка \r\nк этому подтолкнуть.","Audio/Dialogue/NPC/Izaro/Iz_18_AscClass_04_Shadow_02_Trickster.ogg"],["Saboteur",3,5,"355,970,976,429","114,129,141","Диверсант","Истинный художник производит \r\nнеизгладимое впечатление и без \r\nличного присутствия.","Audio/Dialogue/NPC/Izaro/Iz_18_AscClass_04_Shadow_03_Saboteur.ogg"],["Ascendant",1,2,"305,925,976,429","90,90,90","Вознесшаяся","","Audio/Dialogue/NPC/Izaro/Iz_18_AscClass_07_Scion_01_Ascendant.ogg"]]}
+{
+  "filename": "Ascendancy.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "ClassNo",
+      "rowid": 1,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "CharactersKey",
+      "rowid": 2,
+      "type": "ulong",
+      "key": "Characters.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "CoordinateRect",
+      "rowid": 3,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": "Coordinates in \"x1, y1, x2, y2\" format"
+    },
+    {
+      "name": "RGBFlavourTextColour",
+      "rowid": 4,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Name",
+      "rowid": 5,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "FlavourText",
+      "rowid": 6,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "OGGFile",
+      "rowid": 7,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": true,
+      "file_ext": ".ogg",
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "Juggernaut",
+      1,
+      0,
+      "215,165,1063,436",
+      "175,90,50",
+      "Покоритель",
+      "    Победителя от \r\nпобеждённого отличает \r\nтолько упорство.",
+      "Audio/Dialogue/NPC/Izaro/Iz_18_AscClass_01_Marauder_01_Juggernaught.ogg"
+    ],
+    [
+      "Berserker",
+      2,
+      0,
+      "760,345,976,429",
+      "175,90,50",
+      "Берсерк",
+      "Дикари всегда \r\nдействуют быстро \r\nи прямолинейно.",
+      "Audio/Dialogue/NPC/Izaro/Iz_18_AscClass_01_Marauder_02_Berserker.ogg"
+    ],
+    [
+      "Chieftain",
+      3,
+      0,
+      "185,245,1076,449",
+      "175,90,50",
+      "Вождь",
+      "Предки говорят через \r\nтвои сжатые кулаки.",
+      "Audio/Dialogue/NPC/Izaro/Iz_18_AscClass_01_Marauder_03_Chieftain.ogg"
+    ],
+    [
+      "Raider",
+      1,
+      3,
+      "365,965,900,1250",
+      "124,179,118",
+      "Налётчик",
+      "Охотница перенимает немало \r\nуловок у своей добычи.",
+      "Audio/Dialogue/NPC/Izaro/Iz_18_AscClass_03_Ranger_01_Raider.ogg"
+    ],
+    [
+      "Deadeye",
+      2,
+      3,
+      "365,965,900,1250",
+      "124,179,118",
+      "Снайпер",
+      "Женщина может изменить мир \r\nодним метким выстрелом.",
+      "Audio/Dialogue/NPC/Izaro/Iz_18_AscClass_03_Ranger_02_Deadeye.ogg"
+    ],
+    [
+      "Pathfinder",
+      3,
+      3,
+      "265,975,900,1250",
+      "124,179,118",
+      "Следопыт",
+      "В глуши много опасных и желанных мест. \r\nНадо уметь обходить одни и \r\nнаходить другие.",
+      "Audio/Dialogue/NPC/Izaro/Iz_18_AscClass_03_Ranger_03_Pathfinder.ogg"
+    ],
+    [
+      "Occultist",
+      1,
+      1,
+      "665,385,906,389",
+      "154,195,201",
+      "Оккультист",
+      "Если сбросить оковы \r\nстраха, можно вкусить \r\nзапретный плод.",
+      "Audio/Dialogue/NPC/Izaro/Iz_18_AscClass_05_Witch_01_Occultist.ogg"
+    ],
+    [
+      "Elementalist",
+      2,
+      1,
+      "125,475,510,768",
+      "154,195,201",
+      "Маг стихий",
+      "Если сильный волей посеет ветер, \r\nбурю не сдержат и крепчайшие \r\nстены.",
+      "Audio/Dialogue/NPC/Izaro/Iz_18_AscClass_05_Witch_02_Elementalist.ogg"
+    ],
+    [
+      "Necromancer",
+      3,
+      1,
+      "720,303,1000,1000",
+      "154,195,201",
+      "Некромант",
+      "Познай смиренную \r\nсилу посмертия.",
+      "Audio/Dialogue/NPC/Izaro/Iz_18_AscClass_05_Witch_03_Necromancer.ogg"
+    ],
+    [
+      "Slayer",
+      1,
+      4,
+      "470,310,976,429",
+      "150,175,200",
+      "Рубака",
+      "Ни судьи, ни присяжных.\r\nТолько палач.",
+      "Audio/Dialogue/NPC/Izaro/Iz_18_AscClass_02_Duelist_01_Slayer.ogg"
+    ],
+    [
+      "Gladiator",
+      2,
+      4,
+      "670,395,976,429",
+      "150,175,200",
+      "Гладиатор",
+      "Подними руки вверх\r\nпод крики толпы и \r\nпоклянись в верности \r\nславе.",
+      "Audio/Dialogue/NPC/Izaro/Iz_18_AscClass_02_Duelist_02_Gladiator.ogg"
+    ],
+    [
+      "Champion",
+      3,
+      4,
+      "735,625,976,429",
+      "150,175,200",
+      "Чемпион",
+      "Защищай то, что\r\nлюбишь. Тот, кому не\r\nза что сражаться, \r\nумирает впустую.",
+      "Audio/Dialogue/NPC/Izaro/Iz_18_AscClass_02_Duelist_03_Champion.ogg"
+    ],
+    [
+      "Inquisitor",
+      1,
+      6,
+      "335,940,976,429",
+      "207,189,138",
+      "Инквизитор",
+      "У правды есть привычка \r\nускользать, но Бог даровал \r\nнам все инструменты для \r\nеё поимки.",
+      "Audio/Dialogue/NPC/Izaro/Iz_18_AscClass_06_Templar_01_Inquisitor.ogg"
+    ],
+    [
+      "Hierophant",
+      2,
+      6,
+      "100,720,936,399",
+      "207,189,138",
+      "Иерофант",
+      "<size:50>{Из чаши Господней пей \r\nполными глотками, \r\nибо не опустеет она \r\nв руках истинно верующего.}",
+      "Audio/Dialogue/NPC/Izaro/Iz_18_AscClass_06_Templar_02_Hierophant.ogg"
+    ],
+    [
+      "Guardian",
+      3,
+      6,
+      "170,780,976,429",
+      "207,189,138",
+      "Защитник",
+      "<size:50>{Стадо, ведомое верующим \r\nи почитаемым пастырем, \r\nспособно растоптать \r\nволка.}",
+      "Audio/Dialogue/NPC/Izaro/Iz_18_AscClass_06_Templar_03_Guardian.ogg"
+    ],
+    [
+      "Assassin",
+      1,
+      5,
+      "650,845,976,429",
+      "114,129,141",
+      "Убийца",
+      "Смерть — это званый обед, \r\nсписок блюд которого \r\nсоставляет убийца.",
+      "Audio/Dialogue/NPC/Izaro/Iz_18_AscClass_04_Shadow_01_Assassin.ogg"
+    ],
+    [
+      "Trickster",
+      2,
+      5,
+      "315,150,976,429",
+      "114,129,141",
+      "Плут",
+      "Умереть могут все, \r\nно некоторых надо слегка \r\nк этому подтолкнуть.",
+      "Audio/Dialogue/NPC/Izaro/Iz_18_AscClass_04_Shadow_02_Trickster.ogg"
+    ],
+    [
+      "Saboteur",
+      3,
+      5,
+      "355,970,976,429",
+      "114,129,141",
+      "Диверсант",
+      "Истинный художник производит \r\nнеизгладимое впечатление и без \r\nличного присутствия.",
+      "Audio/Dialogue/NPC/Izaro/Iz_18_AscClass_04_Shadow_03_Saboteur.ogg"
+    ],
+    [
+      "Ascendant",
+      1,
+      2,
+      "305,925,976,429",
+      "90,90,90",
+      "Вознесшаяся",
+      "",
+      "Audio/Dialogue/NPC/Izaro/Iz_18_AscClass_07_Scion_01_Ascendant.ogg"
+    ]
+  ]
+}

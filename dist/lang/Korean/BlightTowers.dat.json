@@ -1,1 +1,1137 @@
-{"filename":"BlightTowers.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":true,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Name","rowid":1,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Description","rowid":2,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Icon","rowid":3,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":true,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown4","rowid":4,"type":"ref|list|int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown5","rowid":5,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Tier","rowid":6,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Radius","rowid":7,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown8","rowid":8,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"SpendResourceAchievementItemsKey","rowid":9,"type":"ulong","key":"AchievementItems.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"StatsKey","rowid":10,"type":"ulong","key":"Stats.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"StatsKeys","rowid":11,"type":"ref|list|ulong","key":"Stats.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Keys0","rowid":12,"type":"ref|list|ulong","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Flag0","rowid":13,"type":"bool","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["EmptyNode","탑 토대","카시아의 탑 하나를 설치할 수 있는 동력 기반.","Art/2DArt/UIImages/InGame/Placeholder/temp_league_prototype_placeholder",[1,6,11,16,21,26],1487001455,"",0,-1,null,null,[],[],false],["ChillingTower1","냉각의 탑 Mk I","피해: 낮음\r\n주변의 적 냉각 및 피해\r\n\r\n동일 유형의 역병 걸린 몬스터에 대해 효과 없음","Art/2DArt/UIImages/InGame/Blight/Tower Icons/IconCold",[2],-1090896293,"I",35,3,null,10502,[10501,10503,10504,10505,12262],[24,3577,199,10505,12267],false],["ChillingTower2","냉각의 탑 Mk II","피해 증가\r\n냉각 효과 증가\r\n대상 숫자 증가","Art/2DArt/UIImages/InGame/Blight/Tower Icons/IconCold",[3],1371628040,"II",35,3,null,10502,[10501,10503,10504,10505,12262],[24,3577,199,10505,12267],false],["ChillingTower3","냉각의 탑 Mk III","피해 증가\r\n냉각 효과 증가\r\n대상 숫자 증가","Art/2DArt/UIImages/InGame/Blight/Tower Icons/IconCold",[4,5],-48389433,"III",35,3,null,10502,[10501,10503,10504,10505,12262],[24,3577,199,10505,12267],false],["FreezingTower","동결탄 탑","피해: 매우 높음\r\n적을 동결시키는 관통 투사체 하나 발사\r\n\r\n동일 유형의 역병 걸린 몬스터에 대해 효과 없음","Art/2DArt/UIImages/InGame/Blight/Tower Icons/IconFreezing",[],-632665268,"IV",75,4,null,10507,[10506,10508,10509,12251,12262],[24,10508,173,8719,12267],false],["IcePrisonTower","빙하 창살 탑","피해 없음\r\n적 투옥\r\n\r\n동일 유형의 역병 걸린 몬스터에 대해 효과 없음","Art/2DArt/UIImages/InGame/Blight/Tower Icons/IconIcePrison",[],1141601187,"IV",60,5,null,10511,[10510,10512,10513,12252,12262],[215,10512,3355,434,12267],false],["ShockingTower1","충격 폭발 탑 Mk I","피해 낮음\r\n감전 지대 생성\r\n충격 폭발 시전\r\n\r\n동일 유형의 역병 걸린 몬스터에 대해 효과 없음","Art/2DArt/UIImages/InGame/Blight/Tower Icons/IconLightning",[7],1459477666,"I",20,6,null,10492,[10493,10514,10515,10516,10517,12262],[24,10514,3578,10585,2285,12267],true],["ShockingTower2","충격 폭발 탑 Mk II","피해 증가\r\n감전 확률 증가\r\n효과 범위 증가","Art/2DArt/UIImages/InGame/Blight/Tower Icons/IconLightning",[8],1368253867,"II",25,6,null,10492,[10493,10514,10515,10516,10517,12262],[24,10514,3578,10585,2285,12267],true],["ShockingTower3","충격 폭발 탑 Mk III","피해 증가\r\n감전 확률 증가\r\n효과 범위 증가","Art/2DArt/UIImages/InGame/Blight/Tower Icons/IconLightning",[9,10],94056515,"III",30,6,null,10492,[10493,10514,10515,10516,10517,12262],[24,10514,3578,10585,2285,12267],true],["LightningStormTower","번개 폭풍 탑","피해: 높음\r\n탑 주변을 빠르게 타격하는 번개\r\n\r\n동일 유형의 역병 걸린 몬스터에 대해 효과 없음","Art/2DArt/UIImages/InGame/Blight/Tower Icons/IconLightningStorm",[],1277124932,"IV",45,7,null,10519,[10518,10578,10521,12253,12262],[24,10520,212,12253,12267],true],["ArcingTower","연쇄 번개 탑","피해: 중간\r\n연쇄 번개 시전\r\n\r\n동일 유형의 역병 걸린 몬스터에 대해 효과 없음","Art/2DArt/UIImages/InGame/Blight/Tower Icons/IconArcing",[],-1027797953,"IV",45,8,null,10523,[10522,10524,10525,12254,12262],[24,2285,172,8720,12267],false],["BuffTower1","강화의 탑 Mk I","다른 탑들의 효율성 향상\r\n적에게 주는 피해 없음","Art/2DArt/UIImages/InGame/Blight/Tower Icons/IconBuff",[12],-1750551302,"I",35,15,null,10527,[10526,10528,10529,10530,12262],[4553,216,10529,10530,12267],true],["BuffTower2","강화의 탑 Mk II","다른 탑들의 효율성 향상\r\n적에게 주는 피해 없음","Art/2DArt/UIImages/InGame/Blight/Tower Icons/IconBuff",[13],-2021019078,"II",45,15,null,10527,[10526,10528,10529,10530,12262],[4553,216,10529,10530,12267],true],["BuffTower3","강화의 탑 Mk III","다른 탑들의 효율성 향상\r\n적에게 주는 피해 없음","Art/2DArt/UIImages/InGame/Blight/Tower Icons/IconBuff",[14,15],1692746775,"III",55,15,null,10527,[10526,10528,10529,10530,12262],[4553,216,10529,10530,12267],true],["BuffPlayersTower","부여의 탑","범위 내 플레이어의 효율성 향상\r\n적에게 주는 피해 없음","Art/2DArt/UIImages/InGame/Blight/Tower Icons/IconBuffPlayer",[],-720723365,"IV",55,16,null,10532,[10531,10533,10534,12255,12262],[4553,10533,10534,12255,12267],true],["WeakenEnemiesTower","질식의 탑","범위 내 적 약화\r\n적에게 주는 피해 없음","Art/2DArt/UIImages/InGame/Blight/Tower Icons/IconWeakining",[],1166693452,"IV",55,17,null,10536,[10535,10537,10538,12256,12262],[4553,10537,10538,12256,12267],true],["StunningTower1","지진의 탑 Mk I","피해: 낮음\r\n3회 반복\r\n항상 기절\r\n주변의 적 피해 및 기절\r\n\r\n동일 유형의 역병 걸린 몬스터에 대해 효과 없음","Art/2DArt/UIImages/InGame/Blight/Tower Icons/IconPhysical",[17],-239063143,"I",45,9,null,10540,[10539,10541,10542,10543,12262],[24,341,7786,10584,12267],false],["StunningTower2","지진의 탑 Mk II","5회 반복","Art/2DArt/UIImages/InGame/Blight/Tower Icons/IconPhysical",[18],242248516,"II",45,9,null,10540,[10539,10541,10542,10543,12262],[24,341,7786,10584,12267],false],["StunningTower3","지진의 탑 Mk II","7회 반복","Art/2DArt/UIImages/InGame/Blight/Tower Icons/IconPhysical",[19,20],-854560930,"III",45,9,null,10540,[10539,10541,10542,10543,12262],[24,341,7786,10584,12267],false],["TemporalTower","시간의 탑","몬스터 지속적 감속\r\n주변의 적 피해 및 기절\r\n\r\n동일 유형의 역병 걸린 몬스터에 대해 효과 없음","Art/2DArt/UIImages/InGame/Blight/Tower Icons/IconTemporal",[],1524497081,"IV",45,10,null,10545,[10544,10546,10547,12257,12262],[4553,10581,10582,12257],true],["PetrificationTower","돌의 응시 탑","몬스터 주기적 석화\r\n주변의 적 피해 및 기절\r\n\r\n동일 유형의 역병 걸린 몬스터에 대해 효과 없음","Art/2DArt/UIImages/InGame/Blight/Tower Icons/IconPetrification",[],-241524287,"IV",45,11,null,10549,[10548,10550,10551,12266,12262],[215,3355,10580,12268,12267],false],["MinionTower1","소환의 탑 Mk I","소환수 3마리 소환\r\n소환수 피해: 낮음\r\n소환수 생명력: 낮음\r\n이전 소환수 사망 시 소환 가능\r\n\r\n동일 유형의 역병 걸린 몬스터에 대해 효과 없음","Art/2DArt/UIImages/InGame/Blight/Tower Icons/IconMinion",[22],93106736,"I",30,12,null,10553,[10552,10554,10555,10556,10553,12262],[488,617,159,10579,11739,12267],false],["MinionTower2","소환의 탑 Mk II","소환수 5마리 소환","Art/2DArt/UIImages/InGame/Blight/Tower Icons/IconMinion",[23],499014349,"II",30,12,null,10553,[10552,10554,10555,10556,10553,12262],[488,617,159,10579,11739,12267],false],["MinionTower3","소환의 탑 Mk III","소환수 7마리 소환","Art/2DArt/UIImages/InGame/Blight/Tower Icons/IconMinion",[24,25],1389469754,"III",30,12,null,10553,[10552,10554,10555,10556,10553,12262],[488,617,159,10579,11739,12267],false],["FlyingMinionTower","정찰병 탑","비행 소환수 10마리 소환\r\n소환수 피해: 높음\r\n소환수 생명력: 낮음\r\n이전 소환수 사망 시 소환 가능\r\n\r\n동일 유형의 역병 걸린 몬스터에 대해 효과 없음","Art/2DArt/UIImages/InGame/Blight/Tower Icons/IconFlyingMinion",[],1443410162,"IV",75,13,null,10558,[10557,10559,10560,10558,12258,12262],[488,617,159,11739,12264,12267],false],["TankyMinionTower","파수꾼 탑","끈질긴 소환수 1마리 소환\r\n소환수 피해: 낮음\r\n소환수 생명력: 높음\r\n이전 소환수 사망 시 소환 가능\r\n\r\n동일 유형의 역병 걸린 몬스터에 대해 효과 없음","Art/2DArt/UIImages/InGame/Blight/Tower Icons/IconTankyMinion",[],467940328,"IV",45,14,null,10562,[10561,10563,10564,10562,12259,12262],[488,617,159,11739,3134,12267],false],["FlameTower1","화염구 탑 Mk I","피해: 중간\r\n화염구 시전\r\n\r\n동일 유형의 역병 걸린 몬스터에 대해 효과 없음","Art/2DArt/UIImages/InGame/Blight/Tower Icons/IconFire",[27],172162436,"I",45,0,null,10566,[10565,10567,10568,10569,12262],[24,216,173,1782,12267],false],["FlameTower2","화염구 탑 Mk II","화염구 3개 시전","Art/2DArt/UIImages/InGame/Blight/Tower Icons/IconFire",[28],1399853640,"II",60,0,null,10566,[10565,10567,10568,10569,12262],[24,216,173,1782,12267],false],["FlameTower3","화염구 탑 Mk III","화염구 5개 시전","Art/2DArt/UIImages/InGame/Blight/Tower Icons/IconFire",[29,30],155134479,"III",75,0,null,10566,[10565,10567,10568,10569,12262],[24,216,173,1782,12267],false],["FlamethrowerTower","화염방사기 탑","피해: 높음\r\n불줄기 시전\r\n\r\n동일 유형의 역병 걸린 몬스터에 대해 효과 없음","Art/2DArt/UIImages/InGame/Blight/Tower Icons/IconFlamethrower",[],-1733718789,"IV",45,1,null,10571,[10570,10572,10573,12260,12262],[24,10572,216,8718,12267],true],["MeteorTower","유성 탑","피해: 매우 높음\r\n하늘에서 유성 낙하\r\n\r\n동일 유형의 역병 걸린 몬스터에 대해 효과 없음","Art/2DArt/UIImages/InGame/Blight/Tower Icons/IconMeteor",[],-741826316,"IV",100,2,null,10575,[10574,10576,10577,12261,12262],[24,197,10583,1826,12267],false]]}
+{
+  "filename": "BlightTowers.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Name",
+      "rowid": 1,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Description",
+      "rowid": 2,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Icon",
+      "rowid": 3,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": true,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown4",
+      "rowid": 4,
+      "type": "ref|list|int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown5",
+      "rowid": 5,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Tier",
+      "rowid": 6,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Radius",
+      "rowid": 7,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown8",
+      "rowid": 8,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "SpendResourceAchievementItemsKey",
+      "rowid": 9,
+      "type": "ulong",
+      "key": "AchievementItems.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "StatsKey",
+      "rowid": 10,
+      "type": "ulong",
+      "key": "Stats.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "StatsKeys",
+      "rowid": 11,
+      "type": "ref|list|ulong",
+      "key": "Stats.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Keys0",
+      "rowid": 12,
+      "type": "ref|list|ulong",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Flag0",
+      "rowid": 13,
+      "type": "bool",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "EmptyNode",
+      "탑 토대",
+      "카시아의 탑 하나를 설치할 수 있는 동력 기반.",
+      "Art/2DArt/UIImages/InGame/Placeholder/temp_league_prototype_placeholder",
+      [
+        1,
+        6,
+        11,
+        16,
+        21,
+        26
+      ],
+      1487001455,
+      "",
+      0,
+      -1,
+      null,
+      null,
+      [],
+      [],
+      false
+    ],
+    [
+      "ChillingTower1",
+      "냉각의 탑 Mk I",
+      "피해: 낮음\r\n주변의 적 냉각 및 피해\r\n\r\n동일 유형의 역병 걸린 몬스터에 대해 효과 없음",
+      "Art/2DArt/UIImages/InGame/Blight/Tower Icons/IconCold",
+      [
+        2
+      ],
+      -1090896293,
+      "I",
+      35,
+      3,
+      null,
+      10502,
+      [
+        10501,
+        10503,
+        10504,
+        10505,
+        12262
+      ],
+      [
+        24,
+        3577,
+        199,
+        10505,
+        12267
+      ],
+      false
+    ],
+    [
+      "ChillingTower2",
+      "냉각의 탑 Mk II",
+      "피해 증가\r\n냉각 효과 증가\r\n대상 숫자 증가",
+      "Art/2DArt/UIImages/InGame/Blight/Tower Icons/IconCold",
+      [
+        3
+      ],
+      1371628040,
+      "II",
+      35,
+      3,
+      null,
+      10502,
+      [
+        10501,
+        10503,
+        10504,
+        10505,
+        12262
+      ],
+      [
+        24,
+        3577,
+        199,
+        10505,
+        12267
+      ],
+      false
+    ],
+    [
+      "ChillingTower3",
+      "냉각의 탑 Mk III",
+      "피해 증가\r\n냉각 효과 증가\r\n대상 숫자 증가",
+      "Art/2DArt/UIImages/InGame/Blight/Tower Icons/IconCold",
+      [
+        4,
+        5
+      ],
+      -48389433,
+      "III",
+      35,
+      3,
+      null,
+      10502,
+      [
+        10501,
+        10503,
+        10504,
+        10505,
+        12262
+      ],
+      [
+        24,
+        3577,
+        199,
+        10505,
+        12267
+      ],
+      false
+    ],
+    [
+      "FreezingTower",
+      "동결탄 탑",
+      "피해: 매우 높음\r\n적을 동결시키는 관통 투사체 하나 발사\r\n\r\n동일 유형의 역병 걸린 몬스터에 대해 효과 없음",
+      "Art/2DArt/UIImages/InGame/Blight/Tower Icons/IconFreezing",
+      [],
+      -632665268,
+      "IV",
+      75,
+      4,
+      null,
+      10507,
+      [
+        10506,
+        10508,
+        10509,
+        12251,
+        12262
+      ],
+      [
+        24,
+        10508,
+        173,
+        8719,
+        12267
+      ],
+      false
+    ],
+    [
+      "IcePrisonTower",
+      "빙하 창살 탑",
+      "피해 없음\r\n적 투옥\r\n\r\n동일 유형의 역병 걸린 몬스터에 대해 효과 없음",
+      "Art/2DArt/UIImages/InGame/Blight/Tower Icons/IconIcePrison",
+      [],
+      1141601187,
+      "IV",
+      60,
+      5,
+      null,
+      10511,
+      [
+        10510,
+        10512,
+        10513,
+        12252,
+        12262
+      ],
+      [
+        215,
+        10512,
+        3355,
+        434,
+        12267
+      ],
+      false
+    ],
+    [
+      "ShockingTower1",
+      "충격 폭발 탑 Mk I",
+      "피해 낮음\r\n감전 지대 생성\r\n충격 폭발 시전\r\n\r\n동일 유형의 역병 걸린 몬스터에 대해 효과 없음",
+      "Art/2DArt/UIImages/InGame/Blight/Tower Icons/IconLightning",
+      [
+        7
+      ],
+      1459477666,
+      "I",
+      20,
+      6,
+      null,
+      10492,
+      [
+        10493,
+        10514,
+        10515,
+        10516,
+        10517,
+        12262
+      ],
+      [
+        24,
+        10514,
+        3578,
+        10585,
+        2285,
+        12267
+      ],
+      true
+    ],
+    [
+      "ShockingTower2",
+      "충격 폭발 탑 Mk II",
+      "피해 증가\r\n감전 확률 증가\r\n효과 범위 증가",
+      "Art/2DArt/UIImages/InGame/Blight/Tower Icons/IconLightning",
+      [
+        8
+      ],
+      1368253867,
+      "II",
+      25,
+      6,
+      null,
+      10492,
+      [
+        10493,
+        10514,
+        10515,
+        10516,
+        10517,
+        12262
+      ],
+      [
+        24,
+        10514,
+        3578,
+        10585,
+        2285,
+        12267
+      ],
+      true
+    ],
+    [
+      "ShockingTower3",
+      "충격 폭발 탑 Mk III",
+      "피해 증가\r\n감전 확률 증가\r\n효과 범위 증가",
+      "Art/2DArt/UIImages/InGame/Blight/Tower Icons/IconLightning",
+      [
+        9,
+        10
+      ],
+      94056515,
+      "III",
+      30,
+      6,
+      null,
+      10492,
+      [
+        10493,
+        10514,
+        10515,
+        10516,
+        10517,
+        12262
+      ],
+      [
+        24,
+        10514,
+        3578,
+        10585,
+        2285,
+        12267
+      ],
+      true
+    ],
+    [
+      "LightningStormTower",
+      "번개 폭풍 탑",
+      "피해: 높음\r\n탑 주변을 빠르게 타격하는 번개\r\n\r\n동일 유형의 역병 걸린 몬스터에 대해 효과 없음",
+      "Art/2DArt/UIImages/InGame/Blight/Tower Icons/IconLightningStorm",
+      [],
+      1277124932,
+      "IV",
+      45,
+      7,
+      null,
+      10519,
+      [
+        10518,
+        10578,
+        10521,
+        12253,
+        12262
+      ],
+      [
+        24,
+        10520,
+        212,
+        12253,
+        12267
+      ],
+      true
+    ],
+    [
+      "ArcingTower",
+      "연쇄 번개 탑",
+      "피해: 중간\r\n연쇄 번개 시전\r\n\r\n동일 유형의 역병 걸린 몬스터에 대해 효과 없음",
+      "Art/2DArt/UIImages/InGame/Blight/Tower Icons/IconArcing",
+      [],
+      -1027797953,
+      "IV",
+      45,
+      8,
+      null,
+      10523,
+      [
+        10522,
+        10524,
+        10525,
+        12254,
+        12262
+      ],
+      [
+        24,
+        2285,
+        172,
+        8720,
+        12267
+      ],
+      false
+    ],
+    [
+      "BuffTower1",
+      "강화의 탑 Mk I",
+      "다른 탑들의 효율성 향상\r\n적에게 주는 피해 없음",
+      "Art/2DArt/UIImages/InGame/Blight/Tower Icons/IconBuff",
+      [
+        12
+      ],
+      -1750551302,
+      "I",
+      35,
+      15,
+      null,
+      10527,
+      [
+        10526,
+        10528,
+        10529,
+        10530,
+        12262
+      ],
+      [
+        4553,
+        216,
+        10529,
+        10530,
+        12267
+      ],
+      true
+    ],
+    [
+      "BuffTower2",
+      "강화의 탑 Mk II",
+      "다른 탑들의 효율성 향상\r\n적에게 주는 피해 없음",
+      "Art/2DArt/UIImages/InGame/Blight/Tower Icons/IconBuff",
+      [
+        13
+      ],
+      -2021019078,
+      "II",
+      45,
+      15,
+      null,
+      10527,
+      [
+        10526,
+        10528,
+        10529,
+        10530,
+        12262
+      ],
+      [
+        4553,
+        216,
+        10529,
+        10530,
+        12267
+      ],
+      true
+    ],
+    [
+      "BuffTower3",
+      "강화의 탑 Mk III",
+      "다른 탑들의 효율성 향상\r\n적에게 주는 피해 없음",
+      "Art/2DArt/UIImages/InGame/Blight/Tower Icons/IconBuff",
+      [
+        14,
+        15
+      ],
+      1692746775,
+      "III",
+      55,
+      15,
+      null,
+      10527,
+      [
+        10526,
+        10528,
+        10529,
+        10530,
+        12262
+      ],
+      [
+        4553,
+        216,
+        10529,
+        10530,
+        12267
+      ],
+      true
+    ],
+    [
+      "BuffPlayersTower",
+      "부여의 탑",
+      "범위 내 플레이어의 효율성 향상\r\n적에게 주는 피해 없음",
+      "Art/2DArt/UIImages/InGame/Blight/Tower Icons/IconBuffPlayer",
+      [],
+      -720723365,
+      "IV",
+      55,
+      16,
+      null,
+      10532,
+      [
+        10531,
+        10533,
+        10534,
+        12255,
+        12262
+      ],
+      [
+        4553,
+        10533,
+        10534,
+        12255,
+        12267
+      ],
+      true
+    ],
+    [
+      "WeakenEnemiesTower",
+      "질식의 탑",
+      "범위 내 적 약화\r\n적에게 주는 피해 없음",
+      "Art/2DArt/UIImages/InGame/Blight/Tower Icons/IconWeakining",
+      [],
+      1166693452,
+      "IV",
+      55,
+      17,
+      null,
+      10536,
+      [
+        10535,
+        10537,
+        10538,
+        12256,
+        12262
+      ],
+      [
+        4553,
+        10537,
+        10538,
+        12256,
+        12267
+      ],
+      true
+    ],
+    [
+      "StunningTower1",
+      "지진의 탑 Mk I",
+      "피해: 낮음\r\n3회 반복\r\n항상 기절\r\n주변의 적 피해 및 기절\r\n\r\n동일 유형의 역병 걸린 몬스터에 대해 효과 없음",
+      "Art/2DArt/UIImages/InGame/Blight/Tower Icons/IconPhysical",
+      [
+        17
+      ],
+      -239063143,
+      "I",
+      45,
+      9,
+      null,
+      10540,
+      [
+        10539,
+        10541,
+        10542,
+        10543,
+        12262
+      ],
+      [
+        24,
+        341,
+        7786,
+        10584,
+        12267
+      ],
+      false
+    ],
+    [
+      "StunningTower2",
+      "지진의 탑 Mk II",
+      "5회 반복",
+      "Art/2DArt/UIImages/InGame/Blight/Tower Icons/IconPhysical",
+      [
+        18
+      ],
+      242248516,
+      "II",
+      45,
+      9,
+      null,
+      10540,
+      [
+        10539,
+        10541,
+        10542,
+        10543,
+        12262
+      ],
+      [
+        24,
+        341,
+        7786,
+        10584,
+        12267
+      ],
+      false
+    ],
+    [
+      "StunningTower3",
+      "지진의 탑 Mk II",
+      "7회 반복",
+      "Art/2DArt/UIImages/InGame/Blight/Tower Icons/IconPhysical",
+      [
+        19,
+        20
+      ],
+      -854560930,
+      "III",
+      45,
+      9,
+      null,
+      10540,
+      [
+        10539,
+        10541,
+        10542,
+        10543,
+        12262
+      ],
+      [
+        24,
+        341,
+        7786,
+        10584,
+        12267
+      ],
+      false
+    ],
+    [
+      "TemporalTower",
+      "시간의 탑",
+      "몬스터 지속적 감속\r\n주변의 적 피해 및 기절\r\n\r\n동일 유형의 역병 걸린 몬스터에 대해 효과 없음",
+      "Art/2DArt/UIImages/InGame/Blight/Tower Icons/IconTemporal",
+      [],
+      1524497081,
+      "IV",
+      45,
+      10,
+      null,
+      10545,
+      [
+        10544,
+        10546,
+        10547,
+        12257,
+        12262
+      ],
+      [
+        4553,
+        10581,
+        10582,
+        12257
+      ],
+      true
+    ],
+    [
+      "PetrificationTower",
+      "돌의 응시 탑",
+      "몬스터 주기적 석화\r\n주변의 적 피해 및 기절\r\n\r\n동일 유형의 역병 걸린 몬스터에 대해 효과 없음",
+      "Art/2DArt/UIImages/InGame/Blight/Tower Icons/IconPetrification",
+      [],
+      -241524287,
+      "IV",
+      45,
+      11,
+      null,
+      10549,
+      [
+        10548,
+        10550,
+        10551,
+        12266,
+        12262
+      ],
+      [
+        215,
+        3355,
+        10580,
+        12268,
+        12267
+      ],
+      false
+    ],
+    [
+      "MinionTower1",
+      "소환의 탑 Mk I",
+      "소환수 3마리 소환\r\n소환수 피해: 낮음\r\n소환수 생명력: 낮음\r\n이전 소환수 사망 시 소환 가능\r\n\r\n동일 유형의 역병 걸린 몬스터에 대해 효과 없음",
+      "Art/2DArt/UIImages/InGame/Blight/Tower Icons/IconMinion",
+      [
+        22
+      ],
+      93106736,
+      "I",
+      30,
+      12,
+      null,
+      10553,
+      [
+        10552,
+        10554,
+        10555,
+        10556,
+        10553,
+        12262
+      ],
+      [
+        488,
+        617,
+        159,
+        10579,
+        11739,
+        12267
+      ],
+      false
+    ],
+    [
+      "MinionTower2",
+      "소환의 탑 Mk II",
+      "소환수 5마리 소환",
+      "Art/2DArt/UIImages/InGame/Blight/Tower Icons/IconMinion",
+      [
+        23
+      ],
+      499014349,
+      "II",
+      30,
+      12,
+      null,
+      10553,
+      [
+        10552,
+        10554,
+        10555,
+        10556,
+        10553,
+        12262
+      ],
+      [
+        488,
+        617,
+        159,
+        10579,
+        11739,
+        12267
+      ],
+      false
+    ],
+    [
+      "MinionTower3",
+      "소환의 탑 Mk III",
+      "소환수 7마리 소환",
+      "Art/2DArt/UIImages/InGame/Blight/Tower Icons/IconMinion",
+      [
+        24,
+        25
+      ],
+      1389469754,
+      "III",
+      30,
+      12,
+      null,
+      10553,
+      [
+        10552,
+        10554,
+        10555,
+        10556,
+        10553,
+        12262
+      ],
+      [
+        488,
+        617,
+        159,
+        10579,
+        11739,
+        12267
+      ],
+      false
+    ],
+    [
+      "FlyingMinionTower",
+      "정찰병 탑",
+      "비행 소환수 10마리 소환\r\n소환수 피해: 높음\r\n소환수 생명력: 낮음\r\n이전 소환수 사망 시 소환 가능\r\n\r\n동일 유형의 역병 걸린 몬스터에 대해 효과 없음",
+      "Art/2DArt/UIImages/InGame/Blight/Tower Icons/IconFlyingMinion",
+      [],
+      1443410162,
+      "IV",
+      75,
+      13,
+      null,
+      10558,
+      [
+        10557,
+        10559,
+        10560,
+        10558,
+        12258,
+        12262
+      ],
+      [
+        488,
+        617,
+        159,
+        11739,
+        12264,
+        12267
+      ],
+      false
+    ],
+    [
+      "TankyMinionTower",
+      "파수꾼 탑",
+      "끈질긴 소환수 1마리 소환\r\n소환수 피해: 낮음\r\n소환수 생명력: 높음\r\n이전 소환수 사망 시 소환 가능\r\n\r\n동일 유형의 역병 걸린 몬스터에 대해 효과 없음",
+      "Art/2DArt/UIImages/InGame/Blight/Tower Icons/IconTankyMinion",
+      [],
+      467940328,
+      "IV",
+      45,
+      14,
+      null,
+      10562,
+      [
+        10561,
+        10563,
+        10564,
+        10562,
+        12259,
+        12262
+      ],
+      [
+        488,
+        617,
+        159,
+        11739,
+        3134,
+        12267
+      ],
+      false
+    ],
+    [
+      "FlameTower1",
+      "화염구 탑 Mk I",
+      "피해: 중간\r\n화염구 시전\r\n\r\n동일 유형의 역병 걸린 몬스터에 대해 효과 없음",
+      "Art/2DArt/UIImages/InGame/Blight/Tower Icons/IconFire",
+      [
+        27
+      ],
+      172162436,
+      "I",
+      45,
+      0,
+      null,
+      10566,
+      [
+        10565,
+        10567,
+        10568,
+        10569,
+        12262
+      ],
+      [
+        24,
+        216,
+        173,
+        1782,
+        12267
+      ],
+      false
+    ],
+    [
+      "FlameTower2",
+      "화염구 탑 Mk II",
+      "화염구 3개 시전",
+      "Art/2DArt/UIImages/InGame/Blight/Tower Icons/IconFire",
+      [
+        28
+      ],
+      1399853640,
+      "II",
+      60,
+      0,
+      null,
+      10566,
+      [
+        10565,
+        10567,
+        10568,
+        10569,
+        12262
+      ],
+      [
+        24,
+        216,
+        173,
+        1782,
+        12267
+      ],
+      false
+    ],
+    [
+      "FlameTower3",
+      "화염구 탑 Mk III",
+      "화염구 5개 시전",
+      "Art/2DArt/UIImages/InGame/Blight/Tower Icons/IconFire",
+      [
+        29,
+        30
+      ],
+      155134479,
+      "III",
+      75,
+      0,
+      null,
+      10566,
+      [
+        10565,
+        10567,
+        10568,
+        10569,
+        12262
+      ],
+      [
+        24,
+        216,
+        173,
+        1782,
+        12267
+      ],
+      false
+    ],
+    [
+      "FlamethrowerTower",
+      "화염방사기 탑",
+      "피해: 높음\r\n불줄기 시전\r\n\r\n동일 유형의 역병 걸린 몬스터에 대해 효과 없음",
+      "Art/2DArt/UIImages/InGame/Blight/Tower Icons/IconFlamethrower",
+      [],
+      -1733718789,
+      "IV",
+      45,
+      1,
+      null,
+      10571,
+      [
+        10570,
+        10572,
+        10573,
+        12260,
+        12262
+      ],
+      [
+        24,
+        10572,
+        216,
+        8718,
+        12267
+      ],
+      true
+    ],
+    [
+      "MeteorTower",
+      "유성 탑",
+      "피해: 매우 높음\r\n하늘에서 유성 낙하\r\n\r\n동일 유형의 역병 걸린 몬스터에 대해 효과 없음",
+      "Art/2DArt/UIImages/InGame/Blight/Tower Icons/IconMeteor",
+      [],
+      -741826316,
+      "IV",
+      100,
+      2,
+      null,
+      10575,
+      [
+        10574,
+        10576,
+        10577,
+        12261,
+        12262
+      ],
+      [
+        24,
+        197,
+        10583,
+        1826,
+        12267
+      ],
+      false
+    ]
+  ]
+}

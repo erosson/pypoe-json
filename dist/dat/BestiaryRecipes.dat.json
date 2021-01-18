@@ -1,1 +1,753 @@
-{"filename":"BestiaryRecipes.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":true,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Description","rowid":1,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"BestiaryRecipeComponentKeys","rowid":2,"type":"ref|list|ulong","key":"BestiaryRecipeComponent.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Notes","rowid":3,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"HintText","rowid":4,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Flag0","rowid":5,"type":"bool","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"AchievementItemsKeys","rowid":6,"type":"ref|list|ulong","key":"AchievementItems.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Flag1","rowid":7,"type":"bool","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown1","rowid":8,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["EinharMasterCraft1","A Stack of 8 Chromatic Orbs",[16],"","Create Currency Items",false,[],true,0],["EinharMasterCraft2","A Stack of 4 Jeweller's Orbs",[32],"","Create Currency Items",false,[],true,0],["EinharMasterCraft3","Orb of Fusing",[31],"","Create Currency Items",false,[],true,0],["EinharMasterCraft4","Item",[33],"","Create a Unique",false,[],true,0],["EinharMasterCraft5","Ring",[1],"","Create a Unique",false,[],true,0],["EinharMasterCraft6","Amulet",[4],"","Create a Unique",false,[],true,0],["EinharMasterCraft7","Belt",[5],"","Create a Unique",false,[],true,0],["EinharMasterCraft8","Flask",[6],"","Create a Unique",false,[],true,0],["EinharMasterCraft9","Helmet",[10],"","Create a Unique",false,[],true,0],["EinharMasterCraft10","Body Armour",[11],"","Create a Unique",false,[],true,0],["EinharMasterCraft11","Boots",[14],"","Create a Unique",false,[],true,0],["EinharMasterCraft12","Gloves",[26],"","Create a Unique",false,[],true,0],["EinharMasterCraft13","Jewel",[29],"","Create a Unique",false,[],true,0],["EinharMasterCraft14","Claw or Dagger",[30],"","Create a Unique",false,[],true,0],["EinharMasterCraft15","Mace or Sceptre",[18],"","Create a Unique",false,[],true,0],["EinharMasterCraft16","Shield or Quiver",[23],"","Create a Unique",false,[],true,0],["EinharMasterCraft17","Sword",[19],"","Create a Unique",false,[],true,0],["EinharMasterCraft18","Staff",[21],"","Create a Unique",false,[],true,0],["EinharMasterCraft19","Axe",[35],"","Create a Unique",false,[],true,0],["EinharMasterCraft20","Bow",[13],"","Create a Unique",false,[],true,0],["EinharMasterCraft21","Wand",[22],"","Create a Unique",false,[],true,0],["EinharMasterCraft22","Map",[12],"","Create a Unique",false,[],true,0],["EinharMasterCraft23","23% Quality Corrupted Gem",[8],"","Create an Item",false,[],false,1],["EinharMasterCraft24","Level 21 Corrupted Gem",[9],"","Create an Item",false,[],false,1],["EinharMasterCraft25","Fully-linked Six-socket Rare",[15],"","Create an Item",false,[],false,1],["EinharMasterCraft26","A Stack of 10 Random Currency",[20],"","Create an Item",false,[],false,1],["EinharMasterCraft27","Of a Magic Item",[36],"","Create an Imprint",false,[],false,1],["EinharMasterCraft28","To have 30% Quality",[28],"","Corrupt an Armour or Weapon",false,[],false,1],["EinharMasterCraft29","Both Implicit and Explicit Mods of a Rare Item",[2],"Numeric values of all mods are changed","Reroll Mod Values",false,[],false,1],["EinharMasterCraft30","Add a Suffix, Remove a Random Prefix",[3],"Only works on rare items","Modify Mods on an Item",false,[],false,1],["EinharMasterCraft31","Add a Prefix, Remove a Random Suffix",[7],"Only works on rare items","Modify Mods on an Item",false,[],false,1],["EinharMasterCraft32","With Half the Mods on Each Item",[24],"Does not work on Shaped or Elder items","Split an Item Into Two",false,[],false,1],["EinharMasterCraft33","Into Another Random Unique Item",[27],"","Convert this Unique Item",false,[],false,1],["EinharMasterCraftFlask1","Adds \"of Heat\"",[184],"Requires Flask to have no existing Suffix","Add a Mod to a Flask",false,[],false,1],["EinharMasterCraftFlask2","Adds \"of Dousing\"",[184],"Requires Flask to have no existing Suffix","Add a Mod to a Flask",false,[],false,1],["EinharMasterCraftFlask3","Adds \"of Staunching\"",[184],"Requires Flask to have no existing Suffix","Add a Mod to a Flask",false,[],false,1],["EinharMasterCraftFlask4","Adds \"of Grounding\"",[184],"Requires Flask to have no existing Suffix","Add a Mod to a Flask",false,[],false,1],["EinharMasterCraftFlask5","Adds \"of Curing\"",[184],"Requires Flask to have no existing Suffix","Add a Mod to a Flask",false,[],false,1],["EinharMasterCraftFlask6","Adds \"of Warding\"",[184],"Requires Flask to have no existing Suffix","Add a Mod to a Flask",false,[],false,1],["EinharMasterCraft34","to Farrul's Den",[0],"","Open a Portal",false,[],false,1],["EinharMasterCraft35","to Saqawal's Roost",[17],"","Open a Portal",false,[],false,1],["EinharMasterCraft36","to Fenumus' Lair",[25],"","Open a Portal",false,[],false,1],["EinharMasterCraft37","to Craiceann's Cove",[34],"","Open a Portal",false,[],true,1],["EinharMasterCraft38","Aspect of the Cat skill",[107],"","Craft an Aspect Skill onto an Item",false,[],true,1],["EinharMasterCraft39","Aspect of the Avian skill",[108],"","Craft an Aspect Skill onto an Item",false,[],true,1],["EinharMasterCraft40","Aspect of the Spider skill",[109],"","Craft an Aspect Skill onto an Item",false,[],true,1],["EinharMasterCraft41","Aspect of the Crab skill",[110],"","Craft an Aspect Skill onto an Item",false,[],false,1]]}
+{
+  "filename": "BestiaryRecipes.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Description",
+      "rowid": 1,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "BestiaryRecipeComponentKeys",
+      "rowid": 2,
+      "type": "ref|list|ulong",
+      "key": "BestiaryRecipeComponent.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Notes",
+      "rowid": 3,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "HintText",
+      "rowid": 4,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Flag0",
+      "rowid": 5,
+      "type": "bool",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "AchievementItemsKeys",
+      "rowid": 6,
+      "type": "ref|list|ulong",
+      "key": "AchievementItems.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Flag1",
+      "rowid": 7,
+      "type": "bool",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown1",
+      "rowid": 8,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "EinharMasterCraft1",
+      "A Stack of 8 Chromatic Orbs",
+      [
+        16
+      ],
+      "",
+      "Create Currency Items",
+      false,
+      [],
+      true,
+      0
+    ],
+    [
+      "EinharMasterCraft2",
+      "A Stack of 4 Jeweller's Orbs",
+      [
+        32
+      ],
+      "",
+      "Create Currency Items",
+      false,
+      [],
+      true,
+      0
+    ],
+    [
+      "EinharMasterCraft3",
+      "Orb of Fusing",
+      [
+        31
+      ],
+      "",
+      "Create Currency Items",
+      false,
+      [],
+      true,
+      0
+    ],
+    [
+      "EinharMasterCraft4",
+      "Item",
+      [
+        33
+      ],
+      "",
+      "Create a Unique",
+      false,
+      [],
+      true,
+      0
+    ],
+    [
+      "EinharMasterCraft5",
+      "Ring",
+      [
+        1
+      ],
+      "",
+      "Create a Unique",
+      false,
+      [],
+      true,
+      0
+    ],
+    [
+      "EinharMasterCraft6",
+      "Amulet",
+      [
+        4
+      ],
+      "",
+      "Create a Unique",
+      false,
+      [],
+      true,
+      0
+    ],
+    [
+      "EinharMasterCraft7",
+      "Belt",
+      [
+        5
+      ],
+      "",
+      "Create a Unique",
+      false,
+      [],
+      true,
+      0
+    ],
+    [
+      "EinharMasterCraft8",
+      "Flask",
+      [
+        6
+      ],
+      "",
+      "Create a Unique",
+      false,
+      [],
+      true,
+      0
+    ],
+    [
+      "EinharMasterCraft9",
+      "Helmet",
+      [
+        10
+      ],
+      "",
+      "Create a Unique",
+      false,
+      [],
+      true,
+      0
+    ],
+    [
+      "EinharMasterCraft10",
+      "Body Armour",
+      [
+        11
+      ],
+      "",
+      "Create a Unique",
+      false,
+      [],
+      true,
+      0
+    ],
+    [
+      "EinharMasterCraft11",
+      "Boots",
+      [
+        14
+      ],
+      "",
+      "Create a Unique",
+      false,
+      [],
+      true,
+      0
+    ],
+    [
+      "EinharMasterCraft12",
+      "Gloves",
+      [
+        26
+      ],
+      "",
+      "Create a Unique",
+      false,
+      [],
+      true,
+      0
+    ],
+    [
+      "EinharMasterCraft13",
+      "Jewel",
+      [
+        29
+      ],
+      "",
+      "Create a Unique",
+      false,
+      [],
+      true,
+      0
+    ],
+    [
+      "EinharMasterCraft14",
+      "Claw or Dagger",
+      [
+        30
+      ],
+      "",
+      "Create a Unique",
+      false,
+      [],
+      true,
+      0
+    ],
+    [
+      "EinharMasterCraft15",
+      "Mace or Sceptre",
+      [
+        18
+      ],
+      "",
+      "Create a Unique",
+      false,
+      [],
+      true,
+      0
+    ],
+    [
+      "EinharMasterCraft16",
+      "Shield or Quiver",
+      [
+        23
+      ],
+      "",
+      "Create a Unique",
+      false,
+      [],
+      true,
+      0
+    ],
+    [
+      "EinharMasterCraft17",
+      "Sword",
+      [
+        19
+      ],
+      "",
+      "Create a Unique",
+      false,
+      [],
+      true,
+      0
+    ],
+    [
+      "EinharMasterCraft18",
+      "Staff",
+      [
+        21
+      ],
+      "",
+      "Create a Unique",
+      false,
+      [],
+      true,
+      0
+    ],
+    [
+      "EinharMasterCraft19",
+      "Axe",
+      [
+        35
+      ],
+      "",
+      "Create a Unique",
+      false,
+      [],
+      true,
+      0
+    ],
+    [
+      "EinharMasterCraft20",
+      "Bow",
+      [
+        13
+      ],
+      "",
+      "Create a Unique",
+      false,
+      [],
+      true,
+      0
+    ],
+    [
+      "EinharMasterCraft21",
+      "Wand",
+      [
+        22
+      ],
+      "",
+      "Create a Unique",
+      false,
+      [],
+      true,
+      0
+    ],
+    [
+      "EinharMasterCraft22",
+      "Map",
+      [
+        12
+      ],
+      "",
+      "Create a Unique",
+      false,
+      [],
+      true,
+      0
+    ],
+    [
+      "EinharMasterCraft23",
+      "23% Quality Corrupted Gem",
+      [
+        8
+      ],
+      "",
+      "Create an Item",
+      false,
+      [],
+      false,
+      1
+    ],
+    [
+      "EinharMasterCraft24",
+      "Level 21 Corrupted Gem",
+      [
+        9
+      ],
+      "",
+      "Create an Item",
+      false,
+      [],
+      false,
+      1
+    ],
+    [
+      "EinharMasterCraft25",
+      "Fully-linked Six-socket Rare",
+      [
+        15
+      ],
+      "",
+      "Create an Item",
+      false,
+      [],
+      false,
+      1
+    ],
+    [
+      "EinharMasterCraft26",
+      "A Stack of 10 Random Currency",
+      [
+        20
+      ],
+      "",
+      "Create an Item",
+      false,
+      [],
+      false,
+      1
+    ],
+    [
+      "EinharMasterCraft27",
+      "Of a Magic Item",
+      [
+        36
+      ],
+      "",
+      "Create an Imprint",
+      false,
+      [],
+      false,
+      1
+    ],
+    [
+      "EinharMasterCraft28",
+      "To have 30% Quality",
+      [
+        28
+      ],
+      "",
+      "Corrupt an Armour or Weapon",
+      false,
+      [],
+      false,
+      1
+    ],
+    [
+      "EinharMasterCraft29",
+      "Both Implicit and Explicit Mods of a Rare Item",
+      [
+        2
+      ],
+      "Numeric values of all mods are changed",
+      "Reroll Mod Values",
+      false,
+      [],
+      false,
+      1
+    ],
+    [
+      "EinharMasterCraft30",
+      "Add a Suffix, Remove a Random Prefix",
+      [
+        3
+      ],
+      "Only works on rare items",
+      "Modify Mods on an Item",
+      false,
+      [],
+      false,
+      1
+    ],
+    [
+      "EinharMasterCraft31",
+      "Add a Prefix, Remove a Random Suffix",
+      [
+        7
+      ],
+      "Only works on rare items",
+      "Modify Mods on an Item",
+      false,
+      [],
+      false,
+      1
+    ],
+    [
+      "EinharMasterCraft32",
+      "With Half the Mods on Each Item",
+      [
+        24
+      ],
+      "Does not work on Shaped or Elder items",
+      "Split an Item Into Two",
+      false,
+      [],
+      false,
+      1
+    ],
+    [
+      "EinharMasterCraft33",
+      "Into Another Random Unique Item",
+      [
+        27
+      ],
+      "",
+      "Convert this Unique Item",
+      false,
+      [],
+      false,
+      1
+    ],
+    [
+      "EinharMasterCraftFlask1",
+      "Adds \"of Heat\"",
+      [
+        184
+      ],
+      "Requires Flask to have no existing Suffix",
+      "Add a Mod to a Flask",
+      false,
+      [],
+      false,
+      1
+    ],
+    [
+      "EinharMasterCraftFlask2",
+      "Adds \"of Dousing\"",
+      [
+        184
+      ],
+      "Requires Flask to have no existing Suffix",
+      "Add a Mod to a Flask",
+      false,
+      [],
+      false,
+      1
+    ],
+    [
+      "EinharMasterCraftFlask3",
+      "Adds \"of Staunching\"",
+      [
+        184
+      ],
+      "Requires Flask to have no existing Suffix",
+      "Add a Mod to a Flask",
+      false,
+      [],
+      false,
+      1
+    ],
+    [
+      "EinharMasterCraftFlask4",
+      "Adds \"of Grounding\"",
+      [
+        184
+      ],
+      "Requires Flask to have no existing Suffix",
+      "Add a Mod to a Flask",
+      false,
+      [],
+      false,
+      1
+    ],
+    [
+      "EinharMasterCraftFlask5",
+      "Adds \"of Curing\"",
+      [
+        184
+      ],
+      "Requires Flask to have no existing Suffix",
+      "Add a Mod to a Flask",
+      false,
+      [],
+      false,
+      1
+    ],
+    [
+      "EinharMasterCraftFlask6",
+      "Adds \"of Warding\"",
+      [
+        184
+      ],
+      "Requires Flask to have no existing Suffix",
+      "Add a Mod to a Flask",
+      false,
+      [],
+      false,
+      1
+    ],
+    [
+      "EinharMasterCraft34",
+      "to Farrul's Den",
+      [
+        0
+      ],
+      "",
+      "Open a Portal",
+      false,
+      [],
+      false,
+      1
+    ],
+    [
+      "EinharMasterCraft35",
+      "to Saqawal's Roost",
+      [
+        17
+      ],
+      "",
+      "Open a Portal",
+      false,
+      [],
+      false,
+      1
+    ],
+    [
+      "EinharMasterCraft36",
+      "to Fenumus' Lair",
+      [
+        25
+      ],
+      "",
+      "Open a Portal",
+      false,
+      [],
+      false,
+      1
+    ],
+    [
+      "EinharMasterCraft37",
+      "to Craiceann's Cove",
+      [
+        34
+      ],
+      "",
+      "Open a Portal",
+      false,
+      [],
+      true,
+      1
+    ],
+    [
+      "EinharMasterCraft38",
+      "Aspect of the Cat skill",
+      [
+        107
+      ],
+      "",
+      "Craft an Aspect Skill onto an Item",
+      false,
+      [],
+      true,
+      1
+    ],
+    [
+      "EinharMasterCraft39",
+      "Aspect of the Avian skill",
+      [
+        108
+      ],
+      "",
+      "Craft an Aspect Skill onto an Item",
+      false,
+      [],
+      true,
+      1
+    ],
+    [
+      "EinharMasterCraft40",
+      "Aspect of the Spider skill",
+      [
+        109
+      ],
+      "",
+      "Craft an Aspect Skill onto an Item",
+      false,
+      [],
+      true,
+      1
+    ],
+    [
+      "EinharMasterCraft41",
+      "Aspect of the Crab skill",
+      [
+        110
+      ],
+      "",
+      "Craft an Aspect Skill onto an Item",
+      false,
+      [],
+      false,
+      1
+    ]
+  ]
+}

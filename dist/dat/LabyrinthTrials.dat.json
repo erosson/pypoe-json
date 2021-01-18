@@ -1,1 +1,274 @@
-{"filename":"LabyrinthTrials.dat","header":[{"name":"WorldAreas","rowid":0,"type":"ulong","key":"WorldAreas.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown2","rowid":1,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown3","rowid":2,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown4","rowid":3,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"NPCTextAudioKey","rowid":4,"type":"ulong","key":"NPCTextAudio.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown7","rowid":5,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown8","rowid":6,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[[11,263,151,275,1003,"R_top","L_top"],[23,265,151,363,1005,"R_mid","L_mid"],[26,264,151,451,1004,"R_btm","L_btm"],[41,266,548,275,1006,"L_top","R_top"],[43,268,548,363,1008,"L_mid","R_mid"],[52,267,548,451,1007,"L_btm","R_btm"],[89,269,151,275,1003,"R_top","L_top"],[103,271,151,363,1005,"R_mid","L_mid"],[105,270,151,451,1004,"R_btm","L_btm"],[121,272,548,275,1006,"L_top","R_top"],[139,273,548,363,1008,"L_mid","R_mid"],[153,274,548,451,1007,"L_btm","R_btm"],[740,281,151,275,1003,"R_top","L_top"],[739,283,151,363,1005,"R_mid","L_mid"],[737,282,151,451,1004,"R_btm","L_btm"],[738,284,548,275,1006,"L_top","R_top"],[742,286,548,363,1008,"L_mid","R_mid"],[741,285,548,451,1007,"L_btm","R_btm"]]}
+{
+  "filename": "LabyrinthTrials.dat",
+  "header": [
+    {
+      "name": "WorldAreas",
+      "rowid": 0,
+      "type": "ulong",
+      "key": "WorldAreas.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown2",
+      "rowid": 1,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown3",
+      "rowid": 2,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown4",
+      "rowid": 3,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "NPCTextAudioKey",
+      "rowid": 4,
+      "type": "ulong",
+      "key": "NPCTextAudio.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown7",
+      "rowid": 5,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown8",
+      "rowid": 6,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      11,
+      263,
+      151,
+      275,
+      1003,
+      "R_top",
+      "L_top"
+    ],
+    [
+      23,
+      265,
+      151,
+      363,
+      1005,
+      "R_mid",
+      "L_mid"
+    ],
+    [
+      26,
+      264,
+      151,
+      451,
+      1004,
+      "R_btm",
+      "L_btm"
+    ],
+    [
+      41,
+      266,
+      548,
+      275,
+      1006,
+      "L_top",
+      "R_top"
+    ],
+    [
+      43,
+      268,
+      548,
+      363,
+      1008,
+      "L_mid",
+      "R_mid"
+    ],
+    [
+      52,
+      267,
+      548,
+      451,
+      1007,
+      "L_btm",
+      "R_btm"
+    ],
+    [
+      89,
+      269,
+      151,
+      275,
+      1003,
+      "R_top",
+      "L_top"
+    ],
+    [
+      103,
+      271,
+      151,
+      363,
+      1005,
+      "R_mid",
+      "L_mid"
+    ],
+    [
+      105,
+      270,
+      151,
+      451,
+      1004,
+      "R_btm",
+      "L_btm"
+    ],
+    [
+      121,
+      272,
+      548,
+      275,
+      1006,
+      "L_top",
+      "R_top"
+    ],
+    [
+      139,
+      273,
+      548,
+      363,
+      1008,
+      "L_mid",
+      "R_mid"
+    ],
+    [
+      153,
+      274,
+      548,
+      451,
+      1007,
+      "L_btm",
+      "R_btm"
+    ],
+    [
+      740,
+      281,
+      151,
+      275,
+      1003,
+      "R_top",
+      "L_top"
+    ],
+    [
+      739,
+      283,
+      151,
+      363,
+      1005,
+      "R_mid",
+      "L_mid"
+    ],
+    [
+      737,
+      282,
+      151,
+      451,
+      1004,
+      "R_btm",
+      "L_btm"
+    ],
+    [
+      738,
+      284,
+      548,
+      275,
+      1006,
+      "L_top",
+      "R_top"
+    ],
+    [
+      742,
+      286,
+      548,
+      363,
+      1008,
+      "L_mid",
+      "R_mid"
+    ],
+    [
+      741,
+      285,
+      548,
+      451,
+      1007,
+      "L_btm",
+      "R_btm"
+    ]
+  ]
+}

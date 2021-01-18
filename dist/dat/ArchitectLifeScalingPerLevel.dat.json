@@ -1,1 +1,209 @@
-{"filename":"ArchitectLifeScalingPerLevel.dat","header":[{"name":"Level","rowid":0,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"MoreLife","rowid":1,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[[3,-52],[4,-52],[5,-52],[6,-52],[7,-52],[8,-52],[9,-52],[10,-52],[11,-46],[12,-41],[13,-34],[14,-28],[15,-22],[16,-16],[17,-8],[18,-4],[64,4],[65,10],[66,18],[67,18],[68,29],[69,38],[70,48],[71,61],[72,76],[73,94],[74,114],[75,134],[76,158],[77,188],[78,217],[79,248],[80,286],[81,327],[82,372],[83,382],[84,395],[85,408],[86,413],[87,418],[88,422],[89,426],[90,431]]}
+{
+  "filename": "ArchitectLifeScalingPerLevel.dat",
+  "header": [
+    {
+      "name": "Level",
+      "rowid": 0,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "MoreLife",
+      "rowid": 1,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      3,
+      -52
+    ],
+    [
+      4,
+      -52
+    ],
+    [
+      5,
+      -52
+    ],
+    [
+      6,
+      -52
+    ],
+    [
+      7,
+      -52
+    ],
+    [
+      8,
+      -52
+    ],
+    [
+      9,
+      -52
+    ],
+    [
+      10,
+      -52
+    ],
+    [
+      11,
+      -46
+    ],
+    [
+      12,
+      -41
+    ],
+    [
+      13,
+      -34
+    ],
+    [
+      14,
+      -28
+    ],
+    [
+      15,
+      -22
+    ],
+    [
+      16,
+      -16
+    ],
+    [
+      17,
+      -8
+    ],
+    [
+      18,
+      -4
+    ],
+    [
+      64,
+      4
+    ],
+    [
+      65,
+      10
+    ],
+    [
+      66,
+      18
+    ],
+    [
+      67,
+      18
+    ],
+    [
+      68,
+      29
+    ],
+    [
+      69,
+      38
+    ],
+    [
+      70,
+      48
+    ],
+    [
+      71,
+      61
+    ],
+    [
+      72,
+      76
+    ],
+    [
+      73,
+      94
+    ],
+    [
+      74,
+      114
+    ],
+    [
+      75,
+      134
+    ],
+    [
+      76,
+      158
+    ],
+    [
+      77,
+      188
+    ],
+    [
+      78,
+      217
+    ],
+    [
+      79,
+      248
+    ],
+    [
+      80,
+      286
+    ],
+    [
+      81,
+      327
+    ],
+    [
+      82,
+      372
+    ],
+    [
+      83,
+      382
+    ],
+    [
+      84,
+      395
+    ],
+    [
+      85,
+      408
+    ],
+    [
+      86,
+      413
+    ],
+    [
+      87,
+      418
+    ],
+    [
+      88,
+      422
+    ],
+    [
+      89,
+      426
+    ],
+    [
+      90,
+      431
+    ]
+  ]
+}

@@ -1,1 +1,117 @@
-{"filename":"PassiveSkillStatCategories.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":"True","file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Name","rowid":1,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["Attributes","ค่าสเตตัส"],["Damage","ความเสียหาย"],["Ailments","สถานะเจ็บป่วย"],["Skill Speed","ความเร็วสกิล"],["Critical Strikes","การโจมตีคริติคอล"],["Accuracy","ความแม่นยำ"],["Other Offensive Stats","สเตตัสโจมตีอื่นๆ"],["Life","พลังชีวิต"],["Mana","มานา"],["Defences","ค่าป้องกัน"],["Resistances","ค่าต่อต้าน"],["Other Survivability Stats","ค่าป้องกันอื่นๆ"],["Minions","มิเนียน"],["Totems","โทเทม"],["Traps","กับดัก"],["Mines","กับระเบิด"],["Charges","ชาร์จ"],["Flasks","ขวดยา"],["Misc","อื่นๆ"],["Ascendancy","Ascendancy"]]}
+{
+  "filename": "PassiveSkillStatCategories.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": "True",
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Name",
+      "rowid": 1,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "Attributes",
+      "ค่าสเตตัส"
+    ],
+    [
+      "Damage",
+      "ความเสียหาย"
+    ],
+    [
+      "Ailments",
+      "สถานะเจ็บป่วย"
+    ],
+    [
+      "Skill Speed",
+      "ความเร็วสกิล"
+    ],
+    [
+      "Critical Strikes",
+      "การโจมตีคริติคอล"
+    ],
+    [
+      "Accuracy",
+      "ความแม่นยำ"
+    ],
+    [
+      "Other Offensive Stats",
+      "สเตตัสโจมตีอื่นๆ"
+    ],
+    [
+      "Life",
+      "พลังชีวิต"
+    ],
+    [
+      "Mana",
+      "มานา"
+    ],
+    [
+      "Defences",
+      "ค่าป้องกัน"
+    ],
+    [
+      "Resistances",
+      "ค่าต่อต้าน"
+    ],
+    [
+      "Other Survivability Stats",
+      "ค่าป้องกันอื่นๆ"
+    ],
+    [
+      "Minions",
+      "มิเนียน"
+    ],
+    [
+      "Totems",
+      "โทเทม"
+    ],
+    [
+      "Traps",
+      "กับดัก"
+    ],
+    [
+      "Mines",
+      "กับระเบิด"
+    ],
+    [
+      "Charges",
+      "ชาร์จ"
+    ],
+    [
+      "Flasks",
+      "ขวดยา"
+    ],
+    [
+      "Misc",
+      "อื่นๆ"
+    ],
+    [
+      "Ascendancy",
+      "Ascendancy"
+    ]
+  ]
+}

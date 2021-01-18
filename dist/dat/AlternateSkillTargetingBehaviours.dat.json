@@ -1,1 +1,205 @@
-{"filename":"AlternateSkillTargetingBehaviours.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":true,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown4","rowid":1,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Key0","rowid":2,"type":"ulong","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown0","rowid":3,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown1","rowid":4,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown2","rowid":5,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown3","rowid":6,"type":"ref|list|int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["ConsoleMovementMaxDistance",80,4707,0,0,0,[0]],["ConsoleFiftyUnitsDistance",50,4707,0,0,0,[0]],["ConsoleAtFeet",5,4707,5,0,0,[0,3]],["ConsoleAtFeetNormalSelfcast",0,4707,5,5,5,[0,3]],["ConsoleQuickDodge",80,4707,0,0,0,[1]],["ConsoleFiftyUnitsDistanceRespectTarget",50,4707,0,0,0,[0,2]],["ConsoleForceLocationMaxDistance",80,4707,0,0,0,[3,0]],["ConsoleFiftyFiveUnitsDistanceRespectTarget",55,4707,0,0,0,[0,2]]]}
+{
+  "filename": "AlternateSkillTargetingBehaviours.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown4",
+      "rowid": 1,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Key0",
+      "rowid": 2,
+      "type": "ulong",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown0",
+      "rowid": 3,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown1",
+      "rowid": 4,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown2",
+      "rowid": 5,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown3",
+      "rowid": 6,
+      "type": "ref|list|int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "ConsoleMovementMaxDistance",
+      80,
+      4707,
+      0,
+      0,
+      0,
+      [
+        0
+      ]
+    ],
+    [
+      "ConsoleFiftyUnitsDistance",
+      50,
+      4707,
+      0,
+      0,
+      0,
+      [
+        0
+      ]
+    ],
+    [
+      "ConsoleAtFeet",
+      5,
+      4707,
+      5,
+      0,
+      0,
+      [
+        0,
+        3
+      ]
+    ],
+    [
+      "ConsoleAtFeetNormalSelfcast",
+      0,
+      4707,
+      5,
+      5,
+      5,
+      [
+        0,
+        3
+      ]
+    ],
+    [
+      "ConsoleQuickDodge",
+      80,
+      4707,
+      0,
+      0,
+      0,
+      [
+        1
+      ]
+    ],
+    [
+      "ConsoleFiftyUnitsDistanceRespectTarget",
+      50,
+      4707,
+      0,
+      0,
+      0,
+      [
+        0,
+        2
+      ]
+    ],
+    [
+      "ConsoleForceLocationMaxDistance",
+      80,
+      4707,
+      0,
+      0,
+      0,
+      [
+        3,
+        0
+      ]
+    ],
+    [
+      "ConsoleFiftyFiveUnitsDistanceRespectTarget",
+      55,
+      4707,
+      0,
+      0,
+      0,
+      [
+        0,
+        2
+      ]
+    ]
+  ]
+}

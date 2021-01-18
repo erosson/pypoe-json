@@ -1,1 +1,521 @@
-{"filename":"Commands.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":true,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Command","rowid":1,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Flag0","rowid":2,"type":"bool","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Command2","rowid":3,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Description","rowid":4,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Flag1","rowid":5,"type":"bool","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["PerformDance","dance",true,"dance","",true],["ShowTimePlayed","played",true,"played","/played displays how long you have played this character for",true],["ShowCharacterAge","age",true,"age","/age displays how long ago you created this character",true],["ShowMonstersRemaining","remaining",true,"remaining","/remaining displays the number of monsters remaining in the area",true],["ShowDeaths","deaths",true,"deaths","/deaths displays how many deaths you have incurred",true],["ShowPvPStats","pvp",true,"pvp","",false],["ShowLadder","ladder",true,"ladder","/ladder shows the top ten characters on the current ladder",true],["ForceResync","oos",true,"oos","",true],["DestroyCursorItem","destroy",true,"destroy","/destroy destroys the item on your cursor (be careful!)",true],["Whois","whois",true,"whois","/whois displays some information about a character by name",true],["ShowHelp","help",false,"help","",true],["ShowCursorItemLevel","itemlevel",true,"itemlevel","/itemlevel displays the level of an item on your cursor",true],["FixMyHelmet","fixmyhelmet",true,"fixmyhelmet","",true],["ReportBug","bug",true,"bug","/bug reports a bug and gives you the report reference number",true],["Debug","debug",true,"debug","",true],["Ignore1","ignore",false,"ignore","/ignore ignores an account by character name",true],["Ignore2","squelch",false,"squelch","",true],["Unignore1","unignore",false,"unignore","/unignore stops ignoring an account by character name",true],["Unignore2","unsquelch",false,"unsquelch","",true],["ClearIgnoreList","clear_ignore_list",false,"clear_ignore_list","/clear_ignore_list removes all accounts from your ignore list",true],["SetStatus","status",false,"status","",true],["ShowPassives","passives",false,"passives","/passives displays a breakdown of your passive skill points",true],["InviteToParty","invite",false,"invite","/invite invites someone to your party by name",false],["AddFriend","friend",false,"friend","/friend adds a friend to your list by name",false],["RemoveFriend","unfriend",false,"unfriend","",false],["AcceptFriend","accept",false,"accept","",false],["KickPartyMember","kick",false,"kick","",true],["SetPartyDescription","party_description",false,"party_description","",true],["InitiateTrade","tradewith",false,"tradewith","",true],["ClearMessage1","cls",false,"cls","",true],["ClearMessage2","clear",false,"clear","",true],["ToggleNoChat1","nochat",false,"nochat","",true],["ToggleNoChat2","togglenochat",false,"togglenochat","",true],["AutoReply","autoreply",true,"autoreply","/autoreply [message] Autoreply to whispers with a custom message.",true],["SetAFK","afk",true,"afk","/afk [message] Autoreply to whispers that you are AFK. Performing any action, including chatting, will cancel AFK mode.",true],["DoNotDisturb1","dnd",true,"dnd","/dnd [message] Autoreply to whispers that you are DND and ignore all incoming messages.",true],["DoNotDisturb2","donotdisturb",true,"donotdisturb","",true],["ExitToCharacterSelection","exit",false,"exit","",true],["SpectatePvP","spectate",true,"spectate","",false],["SpectatePvPReturn","town",true,"town","",true],["SetGlobalChatChannel","global",false,"global","/global X changes to global chat channel X.",true],["SetTradeChatChannel","trade",false,"trade","/trade X changes to trade chat channel X.",true],["RecheckAchievements","recheck_achievements",true,"recheck_achievements","/recheck_achievements Forces a recheck of certain achievements",true],["WarpToHideout","hideout",true,"hideout","",true],["ResetExperiencePerHour","reset_xp",false,"reset_xp","/reset_xp Resets your experience per hour calculation.",true],["WarpToMenagerie","menagerie",true,"menagerie","",true],["WarpToDelveMineHub","delve",true,"delve","",true],["SaveHideout","save_hideout",true,"save_hideout","/save_hideout Saves the current Hideout layout to a file that can be later loaded or shared.",false],["RecoverOldCraftingBenchItem","recoveroldcraftingbenchitem",true,"recoveroldcraftingbenchitem","",true],["WarpToSynthesisHub","synthesis",true,"synthesis","",true],["WarpToMetamorphosisLab","metamorph",true,"metamorph","",true],["WarpToHarvestGrove","harvest",true,"harvest","",true],["ForceResyncPlayer","oosme",true,"oosme","",true]]}
+{
+  "filename": "Commands.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Command",
+      "rowid": 1,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Flag0",
+      "rowid": 2,
+      "type": "bool",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Command2",
+      "rowid": 3,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Description",
+      "rowid": 4,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Flag1",
+      "rowid": 5,
+      "type": "bool",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "PerformDance",
+      "dance",
+      true,
+      "dance",
+      "",
+      true
+    ],
+    [
+      "ShowTimePlayed",
+      "played",
+      true,
+      "played",
+      "/played displays how long you have played this character for",
+      true
+    ],
+    [
+      "ShowCharacterAge",
+      "age",
+      true,
+      "age",
+      "/age displays how long ago you created this character",
+      true
+    ],
+    [
+      "ShowMonstersRemaining",
+      "remaining",
+      true,
+      "remaining",
+      "/remaining displays the number of monsters remaining in the area",
+      true
+    ],
+    [
+      "ShowDeaths",
+      "deaths",
+      true,
+      "deaths",
+      "/deaths displays how many deaths you have incurred",
+      true
+    ],
+    [
+      "ShowPvPStats",
+      "pvp",
+      true,
+      "pvp",
+      "",
+      false
+    ],
+    [
+      "ShowLadder",
+      "ladder",
+      true,
+      "ladder",
+      "/ladder shows the top ten characters on the current ladder",
+      true
+    ],
+    [
+      "ForceResync",
+      "oos",
+      true,
+      "oos",
+      "",
+      true
+    ],
+    [
+      "DestroyCursorItem",
+      "destroy",
+      true,
+      "destroy",
+      "/destroy destroys the item on your cursor (be careful!)",
+      true
+    ],
+    [
+      "Whois",
+      "whois",
+      true,
+      "whois",
+      "/whois displays some information about a character by name",
+      true
+    ],
+    [
+      "ShowHelp",
+      "help",
+      false,
+      "help",
+      "",
+      true
+    ],
+    [
+      "ShowCursorItemLevel",
+      "itemlevel",
+      true,
+      "itemlevel",
+      "/itemlevel displays the level of an item on your cursor",
+      true
+    ],
+    [
+      "FixMyHelmet",
+      "fixmyhelmet",
+      true,
+      "fixmyhelmet",
+      "",
+      true
+    ],
+    [
+      "ReportBug",
+      "bug",
+      true,
+      "bug",
+      "/bug reports a bug and gives you the report reference number",
+      true
+    ],
+    [
+      "Debug",
+      "debug",
+      true,
+      "debug",
+      "",
+      true
+    ],
+    [
+      "Ignore1",
+      "ignore",
+      false,
+      "ignore",
+      "/ignore ignores an account by character name",
+      true
+    ],
+    [
+      "Ignore2",
+      "squelch",
+      false,
+      "squelch",
+      "",
+      true
+    ],
+    [
+      "Unignore1",
+      "unignore",
+      false,
+      "unignore",
+      "/unignore stops ignoring an account by character name",
+      true
+    ],
+    [
+      "Unignore2",
+      "unsquelch",
+      false,
+      "unsquelch",
+      "",
+      true
+    ],
+    [
+      "ClearIgnoreList",
+      "clear_ignore_list",
+      false,
+      "clear_ignore_list",
+      "/clear_ignore_list removes all accounts from your ignore list",
+      true
+    ],
+    [
+      "SetStatus",
+      "status",
+      false,
+      "status",
+      "",
+      true
+    ],
+    [
+      "ShowPassives",
+      "passives",
+      false,
+      "passives",
+      "/passives displays a breakdown of your passive skill points",
+      true
+    ],
+    [
+      "InviteToParty",
+      "invite",
+      false,
+      "invite",
+      "/invite invites someone to your party by name",
+      false
+    ],
+    [
+      "AddFriend",
+      "friend",
+      false,
+      "friend",
+      "/friend adds a friend to your list by name",
+      false
+    ],
+    [
+      "RemoveFriend",
+      "unfriend",
+      false,
+      "unfriend",
+      "",
+      false
+    ],
+    [
+      "AcceptFriend",
+      "accept",
+      false,
+      "accept",
+      "",
+      false
+    ],
+    [
+      "KickPartyMember",
+      "kick",
+      false,
+      "kick",
+      "",
+      true
+    ],
+    [
+      "SetPartyDescription",
+      "party_description",
+      false,
+      "party_description",
+      "",
+      true
+    ],
+    [
+      "InitiateTrade",
+      "tradewith",
+      false,
+      "tradewith",
+      "",
+      true
+    ],
+    [
+      "ClearMessage1",
+      "cls",
+      false,
+      "cls",
+      "",
+      true
+    ],
+    [
+      "ClearMessage2",
+      "clear",
+      false,
+      "clear",
+      "",
+      true
+    ],
+    [
+      "ToggleNoChat1",
+      "nochat",
+      false,
+      "nochat",
+      "",
+      true
+    ],
+    [
+      "ToggleNoChat2",
+      "togglenochat",
+      false,
+      "togglenochat",
+      "",
+      true
+    ],
+    [
+      "AutoReply",
+      "autoreply",
+      true,
+      "autoreply",
+      "/autoreply [message] Autoreply to whispers with a custom message.",
+      true
+    ],
+    [
+      "SetAFK",
+      "afk",
+      true,
+      "afk",
+      "/afk [message] Autoreply to whispers that you are AFK. Performing any action, including chatting, will cancel AFK mode.",
+      true
+    ],
+    [
+      "DoNotDisturb1",
+      "dnd",
+      true,
+      "dnd",
+      "/dnd [message] Autoreply to whispers that you are DND and ignore all incoming messages.",
+      true
+    ],
+    [
+      "DoNotDisturb2",
+      "donotdisturb",
+      true,
+      "donotdisturb",
+      "",
+      true
+    ],
+    [
+      "ExitToCharacterSelection",
+      "exit",
+      false,
+      "exit",
+      "",
+      true
+    ],
+    [
+      "SpectatePvP",
+      "spectate",
+      true,
+      "spectate",
+      "",
+      false
+    ],
+    [
+      "SpectatePvPReturn",
+      "town",
+      true,
+      "town",
+      "",
+      true
+    ],
+    [
+      "SetGlobalChatChannel",
+      "global",
+      false,
+      "global",
+      "/global X changes to global chat channel X.",
+      true
+    ],
+    [
+      "SetTradeChatChannel",
+      "trade",
+      false,
+      "trade",
+      "/trade X changes to trade chat channel X.",
+      true
+    ],
+    [
+      "RecheckAchievements",
+      "recheck_achievements",
+      true,
+      "recheck_achievements",
+      "/recheck_achievements Forces a recheck of certain achievements",
+      true
+    ],
+    [
+      "WarpToHideout",
+      "hideout",
+      true,
+      "hideout",
+      "",
+      true
+    ],
+    [
+      "ResetExperiencePerHour",
+      "reset_xp",
+      false,
+      "reset_xp",
+      "/reset_xp Resets your experience per hour calculation.",
+      true
+    ],
+    [
+      "WarpToMenagerie",
+      "menagerie",
+      true,
+      "menagerie",
+      "",
+      true
+    ],
+    [
+      "WarpToDelveMineHub",
+      "delve",
+      true,
+      "delve",
+      "",
+      true
+    ],
+    [
+      "SaveHideout",
+      "save_hideout",
+      true,
+      "save_hideout",
+      "/save_hideout Saves the current Hideout layout to a file that can be later loaded or shared.",
+      false
+    ],
+    [
+      "RecoverOldCraftingBenchItem",
+      "recoveroldcraftingbenchitem",
+      true,
+      "recoveroldcraftingbenchitem",
+      "",
+      true
+    ],
+    [
+      "WarpToSynthesisHub",
+      "synthesis",
+      true,
+      "synthesis",
+      "",
+      true
+    ],
+    [
+      "WarpToMetamorphosisLab",
+      "metamorph",
+      true,
+      "metamorph",
+      "",
+      true
+    ],
+    [
+      "WarpToHarvestGrove",
+      "harvest",
+      true,
+      "harvest",
+      "",
+      true
+    ],
+    [
+      "ForceResyncPlayer",
+      "oosme",
+      true,
+      "oosme",
+      "",
+      true
+    ]
+  ]
+}

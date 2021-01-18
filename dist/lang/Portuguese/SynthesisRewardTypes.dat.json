@@ -1,1 +1,709 @@
-{"filename":"SynthesisRewardTypes.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":true,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Description","rowid":1,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"ArtFile","rowid":2,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":true,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"AchievementItemsKey","rowid":3,"type":"ulong","key":"AchievementItems.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["Currency","Contém de 2 a 3 Baús Sintetizados com Itens Monetários","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIcon",null],["Currency2","Contém de 3 a 4 Baús Sintetizados com Itens Monetários","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIcon",null],["Currency3","Contém de 4 a 5 Baús Sintetizados com Itens Monetários","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIcon",null],["CurrencyHigh3","Contém de 2 a 3 Baús Sintetizados com Itens Monetários valiosos\r\nContém 2 Baús Sintetizados com Itens Monetários","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIconTier2",null],["Currency4","Contém de 5 a 6 Baús Sintetizados com Itens Monetários","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIcon",null],["CurrencyHigh4","Contém de 3 a 4 Baús Sintetizados com Itens Monetários valiosos\r\nContém 2 Baús Sintetizados com Itens Monetários","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIconTier2",null],["CurrencyEpic4","Contém um Baú Sintetizado com Itens Monetários valiosos\r\nContém de 4 a 5 Baús Sintetizados com Itens Monetários","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIconTier3",null],["Currency5","Contém de 6 a 7 Baús Sintetizados com Itens Monetários","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIcon",null],["CurrencyHigh5","Contém de 4 a 5 Baús Sintetizados com Itens Monetários valiosos\r\nContém 2 Baús Sintetizados com Itens Monetários","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIconTier2",null],["CurrencyEpic5","Contém um Baú Sintetizado com Itens Monetários valiosos\r\nContém de 5 a 6 Baús Sintetizados com Itens Monetários","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIconTier3",null],["Uniques","Contém um Baú Sintetizado com um Item Único\r\nContém de 1 a 2 Baús Sintetizados com Itens Trincados","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/UniqueItemRewardIcon",null],["Uniques2","Contém um Baú Sintetizado com um Item Único\r\nContém de 2 a 3 Baús Sintetizados com Itens Trincados","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/UniqueItemRewardIcon",null],["Uniques3","Contém 2 Baús Sintetizados com um Item Único\r\nContém de 2 a 3 Baús Sintetizados com Itens Trincados","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/UniqueItemRewardIcon",null],["Uniques4","Contém 2 Baús Sintetizados com um Item Único\r\nContém de 3 a 4 Baús Sintetizados com Itens Trincados","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/UniqueItemRewardIcon",null],["Uniques5","Contém 3 Baús Sintetizados com um Item Único\r\nContém de 3 a 4 Baús Sintetizados com Itens Trincados","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/UniqueItemRewardIcon",null],["UniquesHigh5","Contém 1 Baú Sintetizado com um Item Único valioso\r\nContém de 3 a 4 Baús Sintetizados com um Item Único","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/UniqueItemRewardIconTier2",null],["FracturedItems3","Contém de 2 a 3 Baús Sintetizados com Itens Trincados valiosos","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/FracturedItemRewardIconTier3",null],["Gems","Contém de 1 a 2 Baús Sintetizados com Gemas","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/SkillGemItemRewardIcon",null],["Gems2","Contém de 2 a 3 Baús Sintetizados com Gemas","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/SkillGemItemRewardIcon",null],["Gems3","Contém de 3 a 4 Baús Sintetizados com Gemas","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/SkillGemItemRewardIcon",null],["GemsHigh3","Contém de 2 a 3 Baús Sintetizados com Gemas valiosas\r\nContém de 1 a 2 Baús Sintetizados com Gemas","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/SkillGemItemRewardIconTier2",null],["Maps","Contém de 1 a 2 Baús Sintetizados com Mapas","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/MapItemRewardIcon",null],["Maps2","Contém de 2 a 3 Baús Sintetizados com Mapas","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/MapItemRewardIcon",null],["Maps3","Contém de 3 a 4 Baús Sintetizados com Mapas","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/MapItemRewardIcon",null],["Trinkets","Contém de 1 a 2 Baús Sintetizados com Acessórios\r\nContém 1 Baú Sintetizado com Acessórios Trincados","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",null],["Trinkets2","Contém de 2 a 3 Baús Sintetizados com Acessórios\r\nContém 1 Baú Sintetizado com Acessórios Trincados","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",null],["Trinkets3","Contém de 3 a 4 Baús Sintetizados com Acessórios\r\nContém 1 Baú Sintetizado com Acessórios Trincados","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",null],["TrinketsHigh3","Contém de 2 a 3 Baús Sintetizados com Acessórios\r\nContém 2 Baú Sintetizado com Acessórios Trincados","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",null],["Trinkets4","Contém de 4 a 5 Baús Sintetizados com Acessórios\r\nContém 1 Baú Sintetizado com Acessórios Trincados","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",null],["TrinketsHigh4","Contém 3 Baús Sintetizados com Acessórios valiosos\r\nContém 3 Baús Sintetizados com Acessórios","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",null],["TrinketsEpic4","Contém 1 Baú Sintetizado com Acessórios muito valiosos\r\nContém de 4 a 5 Baús Sintetizados com Acessórios Trincados","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",null],["Trinkets5","Contém de 4 a 5 Baús Sintetizados com Acessórios\r\nContém 2 Baú Sintetizado com Acessórios Trincados","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",null],["TrinketsHigh5","Contém de 3 a 4 Baús Sintetizados com Acessórios\r\nContém 4 Baú Sintetizado com Acessórios Trincados","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",null],["TrinketsEpic5","Contém 1 Baú Sintetizado com Acessórios muito valiosos\r\nContém de 5 a 6 Baús Sintetizados com Acessórios Trincados","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",null],["Abyss","Contém de 2 a 3 Baús Sintetizados com Itens Abissais","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/AbyssItemRewardIcon",null],["Abyss2","Contém de 3 a 4 Baús Sintetizados com Itens Abissais","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/AbyssItemRewardIcon",null],["AbyssHigh2","Contém de 3 a 4 Baús Sintetizados com Itens Abissais valiosos","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/AbyssItemRewardIconTier2",null],["Armour","Contém de 1 a 2 Baús Sintetizados com Armaduras\r\nContém 1 Baú Sintetizado com Armaduras Trincadas","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",null],["Armour2","Contém de 2 a 3 Baús Sintetizados com Armaduras\r\nContém 1 Baú Sintetizado com Armaduras Trincadas","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",null],["Armour3","Contém de 3 a 4 Baús Sintetizados com Armaduras\r\nContém 1 Baú Sintetizado com Armaduras Trincadas","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",null],["ArmourHigh3","Contém de 2 a 3 Baús Sintetizados com Armaduras\r\nContém 2 Baú Sintetizado com Armaduras Trincadas","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",null],["Armour4","Contém de 4 a 5 Baús Sintetizados com Armaduras\r\nContém 1 Baú Sintetizado com Armaduras Trincadas","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",null],["ArmourHigh4","Contém 3 Baús Sintetizados com Armaduras\r\nContém 3 Baú Sintetizado com Armaduras Trincadas","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",null],["ArmourEpic4","Contém 1 Baú Sintetizado com Armaduras muito valiosas\r\nContém 2 Baús Sintetizados com Armaduras valiosas","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",null],["Armour5","Contém de 4 a 5 Baús Sintetizados com Armaduras\r\nContém 2 Baú Sintetizado com Armaduras Trincadas","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",null],["ArmourHigh5","Contém de 3 a 4 Baús Sintetizados com Armaduras\r\nContém 4 Baú Sintetizado com Armaduras Trincadas","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",null],["ArmourEpic5","Contém 1 Baú Sintetizado com Armaduras muito valiosas\r\nContém 3 Baús Sintetizados com Armaduras valiosas","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",null],["Weapons","Contém de 1 a 2 Baús Sintetizados com Armas\r\nContém 1 Baú Sintetizado com Armas Trincadas","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",null],["Weapons2","Contém de 2 a 3 Baús Sintetizados com Armas\r\nContém 1 Baú Sintetizado com Armas Trincadas","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",null],["Weapons3","Contém de 3 a 4 Baús Sintetizados com Armas\r\nContém 1 Baú Sintetizado com Armas Trincadas","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",null],["WeaponsHigh3","Contém de 2 a 3 Baús Sintetizados com Armas\r\nContém 2 Baú Sintetizado com Armas Trincadas","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",null],["Weapons4","Contém de 4 a 5 Baús Sintetizados com Armas\r\nContém 1 Baú Sintetizado com Armas Trincadas","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",null],["WeaponsHigh4","Contém 3 Baús Sintetizados com Armas valiosas\r\nContém 3 Baús Sintetizados com Armas Trincadas","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",null],["WeaponsEpic4","Contém um Baú Sintetizado com Armas muito valiosas\r\nContém de 4 a 5 Baús Sintetizados com Armas valiosas","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",null],["Weapons5","Contém de 4 a 5 Baús Sintetizados com Armas\r\nContém 2 Baú Sintetizado com Armas Trincadas","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",null],["WeaponsHigh5","Contém de 3 a 4 Baús Sintetizados com Armas valiosas\r\nContém 4 Baús Sintetizados com Armas Trincadas","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",null],["WeaponsEpic5","Contém 1 Baú Sintetizado com Armas muito valiosas\r\nContém 3 Baús Sintetizados com Armas Valiosas","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",null],["Perandus","Contém de 2 a 3 Baús Sintetizados com Itens Perandus","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PerandusItemRewardIcon",null],["Perandus2","Contém de 3 a 4 Baús Sintetizados com Itens Perandus","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PerandusItemRewardIcon",null],["Perandus3","Contém de 4 a 5 Baús Sintetizados com Itens Perandus","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PerandusItemRewardIcon",null],["Perandus4","Contém de 5 a 6 Baús Sintetizados com Itens Perandus","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PerandusItemRewardIcon",null],["Harbinger","Contém 1 Baús Sintetizados com Itens de Emissários Valiosos\r\nContém 1 a 2 Baús Sintetizados com itens Emissários","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/HarbingerItemRewardIcon",null],["Harbinger2","Contém 1 Baús Sintetizados com Itens de Emissários Valiosos\r\nContém 2 a 3 Baús Sintetizados com itens Emissários","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/HarbingerItemRewardIcon",null],["Harbinger3","Contém 2 Baús Sintetizados com Itens de Emissários Valiosos\r\nContém 2 a 3 Baús Sintetizados com itens Emissários","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/HarbingerItemRewardIcon",null],["Breach","Contém 1 Baús Sintetizados com Itens de Fenda valiosos\r\nContém 1 a 2 Baús Sintetizados com itens Fenda","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/BreachItemRewardIcon",null],["Breach2","Contém 1 Baús Sintetizados com Itens de Fenda Valiosos\r\nContém 2 a 3 Baús Sintetizados com itens Fenda ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/BreachItemRewardIcon",null],["Breach3","Contém 2 Baús Sintetizados com Itens de Fenda valiosos\r\nContém 2 a 3 Baús Sintetizados com itens Fenda","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/BreachItemRewardIcon",null],["Essences","Contém de 1 a 2 Baús Sintetizados com Itens de Essências","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/EssencesItemRewardIcon",null],["Essences2","Contém de 2 a 3 Baús Sintetizados com Itens de Essências","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/EssencesItemRewardIcon",null],["Essences3","Contém de 3 a 4 Baús Sintetizados com Itens de Essências","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/EssencesItemRewardIcon",null],["EssencesHigh3","Contém um Baú Sintetizado com Itens de Essências valiosos\r\nContém de 3 a 4 Baús Sintetizados com Itens de Essências","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/EssencesItemRewardIconTier2",null],["Essences4","Contém de 4 a 5 Baús Sintetizados com Itens de Essências","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/EssencesItemRewardIcon",null],["EssencesHigh4","Contém 2 Baús Sintetizados com Itens de Essências valiosos\r\nContém de 3 a 4 Baús Sintetizados com Itens de Essências","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/EssencesItemRewardIconTier2",null],["Fragments","Contém de 1 a 2 Baús Sintetizados com Itens Fragmentos","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/FragmentsItemRewardIcon",null],["Fragments2","Contém de 2 a 3 Baús Sintetizados com Itens Fragmentos","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/FragmentsItemRewardIcon",null],["Fragments3","Contém de 3 a 4 Baús Sintetizados com Itens Fragmentos","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/FragmentsItemRewardIcon",null],["FragmentsHigh3","Contém um Baú Sintetizado com Itens Fragmentos valiosos\r\nContém de 2 a 3 Baús Sintetizados com Itens Fragmentos","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/FragmentsItemRewardIconTier2",null],["Scarabs","Contém de 2 a 3 Baús Sintetizados com Escaravelhos","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ScarabItemRewardIcon",null],["Scarabs2","Contém de 1 a 2 Baús Sintetizados com Escaravelhos valiosos\r\nContém de 1 a 2 Baús Sintetizados com Escaravelhos","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ScarabItemRewardIconTier2",null],["Scarabs3","Contém de 1 a 2 Baús Sintetizados com Escaravelhos muito valiosos\r\nContém de 1 a 2 Baús Sintetizados com Escaravelhos valiosos","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ScarabItemRewardIconTier3",null],["Fossils","Contém de 2 a 3 Baús Sintetizados com Fósseis","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/FossilItemRewardIcon",null],["Fossils2","Contém de 1 a 2 Baús Sintetizados com Fósseis valiosos\r\nContém de 1 a 2 Baús Sintetizados com Fósseis","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/FossilItemRewardIconTier2",null],["Fossils3","Contém de 1 a 2 Baús Sintetizados com Fósseis muito valiosos\r\nContém de 1 a 2 Baús Sintetizados com Fósseis valiosos","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/FossilItemRewardIconTier3",null],["Prophecies","Contém de 2 a 3 Baús Sintetizados com Profecias","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PropheciesItemRewardIcon",null],["Prophecies2","Contém de 3 a 4 Baús Sintetizados com Profecias","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PropheciesItemRewardIcon",null],["Prophecies3","Contém de 4 a 5 Baús Sintetizados com Profecias","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PropheciesItemRewardIcon",null],["PropheciesHigh3","Contém um Baú Sintetizado com Profecias valiosas\r\nContém de 3 a 4 Baús Sintetizados com Profecias","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PropheciesItemRewardIconTier2",null],["Prophecies4","Contém de 5 a 6 Baús Sintetizados com Profecias","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PropheciesItemRewardIcon",null],["PropheciesHigh4","Contém 2 Baús Sintetizados com Profecias valiosas\r\nContém de 3 a 4 Baús Sintetizados com Profecias","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PropheciesItemRewardIconTier2",null],["DivinationCards","Contém de 1 a 2 Baús Sintetizados com Cartas de Adivinhação","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/DivinationCardsItemRewardIcon",null],["DivinationCards2","Contém de 2 a 3 Baús Sintetizados com Cartas de Adivinhação","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/DivinationCardsItemRewardIcon",null],["DivinationCards3","Contém de 3 a 4 Baús Sintetizados com Cartas de Adivinhação","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/DivinationCardsItemRewardIcon",null],["DivinationCards4","Contém de 4 a 5 Baús Sintetizados com Cartas de Adivinhação","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/DivinationCardsItemRewardIcon",null],["Generic","Contém de 3 a 4 Baús Sintetizados\r\nContém 1 Baú Sintetizado com Itens Trincados","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/GenericItemRewardIcon",null],["Generic2","Contém de 4 a 5 Baús Sintetizados\r\nContém 1 Baú Sintetizado com Itens Trincados","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/GenericItemRewardIcon",null],["Generic3","Contém de 5 a 6 Baús Sintetizados\r\nContém 2 Baú Sintetizado com Itens Trincados","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/GenericItemRewardIcon",null],["Generic4","Contém de 6 a 8 Baús Sintetizados\r\nContém 2 Baú Sintetizado com Itens Trincados","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/GenericItemRewardIcon",null],["Generic5","Contém de 6 a 8 Baús Sintetizados\r\nContém 3 Baú Sintetizado com Itens Trincados","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/GenericItemRewardIcon",null],["Talismans","Contém de 1 a 2 Baús Sintetizados com Itens da Talismã","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TalismansItemRewardIcon",null],["Talismans2","Contém de 2 a 3 Baús Sintetizados com Itens da Talismã","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TalismansItemRewardIcon",null],["Talismans3","Contém de 3 a 4 Baús Sintetizados com Itens da Talismã","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TalismansItemRewardIcon",null],["Labyrinth","Contém de 1 a 2 Baús Sintetizados com Itens do Labirinto","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/LabyrinthItemRewardIcon",null],["Labyrinth2","Contém de 2 a 3 Baús Sintetizados com Itens do Labirinto","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/LabyrinthItemRewardIcon",null],["Labyrinth3","Contém de 3 a 4 Baús Sintetizados com Itens do Labirinto","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/LabyrinthItemRewardIcon",null],["Labyrinth4","Contém de 4 a 5 Baús Sintetizados com Itens do Labirinto","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/LabyrinthItemRewardIcon",null],["GlobalMod1","Contém um Modificador de Memória","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/GlobalModTier1",null],["GlobalMod2","Contém múltiplos Modificadores de Memória","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/GlobalModTier2",null]]}
+{
+  "filename": "SynthesisRewardTypes.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Description",
+      "rowid": 1,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "ArtFile",
+      "rowid": 2,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": true,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "AchievementItemsKey",
+      "rowid": 3,
+      "type": "ulong",
+      "key": "AchievementItems.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "Currency",
+      "Contém de 2 a 3 Baús Sintetizados com Itens Monetários",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIcon",
+      null
+    ],
+    [
+      "Currency2",
+      "Contém de 3 a 4 Baús Sintetizados com Itens Monetários",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIcon",
+      null
+    ],
+    [
+      "Currency3",
+      "Contém de 4 a 5 Baús Sintetizados com Itens Monetários",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIcon",
+      null
+    ],
+    [
+      "CurrencyHigh3",
+      "Contém de 2 a 3 Baús Sintetizados com Itens Monetários valiosos\r\nContém 2 Baús Sintetizados com Itens Monetários",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIconTier2",
+      null
+    ],
+    [
+      "Currency4",
+      "Contém de 5 a 6 Baús Sintetizados com Itens Monetários",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIcon",
+      null
+    ],
+    [
+      "CurrencyHigh4",
+      "Contém de 3 a 4 Baús Sintetizados com Itens Monetários valiosos\r\nContém 2 Baús Sintetizados com Itens Monetários",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIconTier2",
+      null
+    ],
+    [
+      "CurrencyEpic4",
+      "Contém um Baú Sintetizado com Itens Monetários valiosos\r\nContém de 4 a 5 Baús Sintetizados com Itens Monetários",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIconTier3",
+      null
+    ],
+    [
+      "Currency5",
+      "Contém de 6 a 7 Baús Sintetizados com Itens Monetários",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIcon",
+      null
+    ],
+    [
+      "CurrencyHigh5",
+      "Contém de 4 a 5 Baús Sintetizados com Itens Monetários valiosos\r\nContém 2 Baús Sintetizados com Itens Monetários",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIconTier2",
+      null
+    ],
+    [
+      "CurrencyEpic5",
+      "Contém um Baú Sintetizado com Itens Monetários valiosos\r\nContém de 5 a 6 Baús Sintetizados com Itens Monetários",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIconTier3",
+      null
+    ],
+    [
+      "Uniques",
+      "Contém um Baú Sintetizado com um Item Único\r\nContém de 1 a 2 Baús Sintetizados com Itens Trincados",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/UniqueItemRewardIcon",
+      null
+    ],
+    [
+      "Uniques2",
+      "Contém um Baú Sintetizado com um Item Único\r\nContém de 2 a 3 Baús Sintetizados com Itens Trincados",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/UniqueItemRewardIcon",
+      null
+    ],
+    [
+      "Uniques3",
+      "Contém 2 Baús Sintetizados com um Item Único\r\nContém de 2 a 3 Baús Sintetizados com Itens Trincados",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/UniqueItemRewardIcon",
+      null
+    ],
+    [
+      "Uniques4",
+      "Contém 2 Baús Sintetizados com um Item Único\r\nContém de 3 a 4 Baús Sintetizados com Itens Trincados",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/UniqueItemRewardIcon",
+      null
+    ],
+    [
+      "Uniques5",
+      "Contém 3 Baús Sintetizados com um Item Único\r\nContém de 3 a 4 Baús Sintetizados com Itens Trincados",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/UniqueItemRewardIcon",
+      null
+    ],
+    [
+      "UniquesHigh5",
+      "Contém 1 Baú Sintetizado com um Item Único valioso\r\nContém de 3 a 4 Baús Sintetizados com um Item Único",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/UniqueItemRewardIconTier2",
+      null
+    ],
+    [
+      "FracturedItems3",
+      "Contém de 2 a 3 Baús Sintetizados com Itens Trincados valiosos",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/FracturedItemRewardIconTier3",
+      null
+    ],
+    [
+      "Gems",
+      "Contém de 1 a 2 Baús Sintetizados com Gemas",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/SkillGemItemRewardIcon",
+      null
+    ],
+    [
+      "Gems2",
+      "Contém de 2 a 3 Baús Sintetizados com Gemas",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/SkillGemItemRewardIcon",
+      null
+    ],
+    [
+      "Gems3",
+      "Contém de 3 a 4 Baús Sintetizados com Gemas",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/SkillGemItemRewardIcon",
+      null
+    ],
+    [
+      "GemsHigh3",
+      "Contém de 2 a 3 Baús Sintetizados com Gemas valiosas\r\nContém de 1 a 2 Baús Sintetizados com Gemas",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/SkillGemItemRewardIconTier2",
+      null
+    ],
+    [
+      "Maps",
+      "Contém de 1 a 2 Baús Sintetizados com Mapas",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/MapItemRewardIcon",
+      null
+    ],
+    [
+      "Maps2",
+      "Contém de 2 a 3 Baús Sintetizados com Mapas",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/MapItemRewardIcon",
+      null
+    ],
+    [
+      "Maps3",
+      "Contém de 3 a 4 Baús Sintetizados com Mapas",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/MapItemRewardIcon",
+      null
+    ],
+    [
+      "Trinkets",
+      "Contém de 1 a 2 Baús Sintetizados com Acessórios\r\nContém 1 Baú Sintetizado com Acessórios Trincados",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",
+      null
+    ],
+    [
+      "Trinkets2",
+      "Contém de 2 a 3 Baús Sintetizados com Acessórios\r\nContém 1 Baú Sintetizado com Acessórios Trincados",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",
+      null
+    ],
+    [
+      "Trinkets3",
+      "Contém de 3 a 4 Baús Sintetizados com Acessórios\r\nContém 1 Baú Sintetizado com Acessórios Trincados",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",
+      null
+    ],
+    [
+      "TrinketsHigh3",
+      "Contém de 2 a 3 Baús Sintetizados com Acessórios\r\nContém 2 Baú Sintetizado com Acessórios Trincados",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",
+      null
+    ],
+    [
+      "Trinkets4",
+      "Contém de 4 a 5 Baús Sintetizados com Acessórios\r\nContém 1 Baú Sintetizado com Acessórios Trincados",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",
+      null
+    ],
+    [
+      "TrinketsHigh4",
+      "Contém 3 Baús Sintetizados com Acessórios valiosos\r\nContém 3 Baús Sintetizados com Acessórios",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",
+      null
+    ],
+    [
+      "TrinketsEpic4",
+      "Contém 1 Baú Sintetizado com Acessórios muito valiosos\r\nContém de 4 a 5 Baús Sintetizados com Acessórios Trincados",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",
+      null
+    ],
+    [
+      "Trinkets5",
+      "Contém de 4 a 5 Baús Sintetizados com Acessórios\r\nContém 2 Baú Sintetizado com Acessórios Trincados",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",
+      null
+    ],
+    [
+      "TrinketsHigh5",
+      "Contém de 3 a 4 Baús Sintetizados com Acessórios\r\nContém 4 Baú Sintetizado com Acessórios Trincados",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",
+      null
+    ],
+    [
+      "TrinketsEpic5",
+      "Contém 1 Baú Sintetizado com Acessórios muito valiosos\r\nContém de 5 a 6 Baús Sintetizados com Acessórios Trincados",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",
+      null
+    ],
+    [
+      "Abyss",
+      "Contém de 2 a 3 Baús Sintetizados com Itens Abissais",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/AbyssItemRewardIcon",
+      null
+    ],
+    [
+      "Abyss2",
+      "Contém de 3 a 4 Baús Sintetizados com Itens Abissais",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/AbyssItemRewardIcon",
+      null
+    ],
+    [
+      "AbyssHigh2",
+      "Contém de 3 a 4 Baús Sintetizados com Itens Abissais valiosos",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/AbyssItemRewardIconTier2",
+      null
+    ],
+    [
+      "Armour",
+      "Contém de 1 a 2 Baús Sintetizados com Armaduras\r\nContém 1 Baú Sintetizado com Armaduras Trincadas",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",
+      null
+    ],
+    [
+      "Armour2",
+      "Contém de 2 a 3 Baús Sintetizados com Armaduras\r\nContém 1 Baú Sintetizado com Armaduras Trincadas",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",
+      null
+    ],
+    [
+      "Armour3",
+      "Contém de 3 a 4 Baús Sintetizados com Armaduras\r\nContém 1 Baú Sintetizado com Armaduras Trincadas",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",
+      null
+    ],
+    [
+      "ArmourHigh3",
+      "Contém de 2 a 3 Baús Sintetizados com Armaduras\r\nContém 2 Baú Sintetizado com Armaduras Trincadas",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",
+      null
+    ],
+    [
+      "Armour4",
+      "Contém de 4 a 5 Baús Sintetizados com Armaduras\r\nContém 1 Baú Sintetizado com Armaduras Trincadas",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",
+      null
+    ],
+    [
+      "ArmourHigh4",
+      "Contém 3 Baús Sintetizados com Armaduras\r\nContém 3 Baú Sintetizado com Armaduras Trincadas",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",
+      null
+    ],
+    [
+      "ArmourEpic4",
+      "Contém 1 Baú Sintetizado com Armaduras muito valiosas\r\nContém 2 Baús Sintetizados com Armaduras valiosas",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",
+      null
+    ],
+    [
+      "Armour5",
+      "Contém de 4 a 5 Baús Sintetizados com Armaduras\r\nContém 2 Baú Sintetizado com Armaduras Trincadas",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",
+      null
+    ],
+    [
+      "ArmourHigh5",
+      "Contém de 3 a 4 Baús Sintetizados com Armaduras\r\nContém 4 Baú Sintetizado com Armaduras Trincadas",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",
+      null
+    ],
+    [
+      "ArmourEpic5",
+      "Contém 1 Baú Sintetizado com Armaduras muito valiosas\r\nContém 3 Baús Sintetizados com Armaduras valiosas",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",
+      null
+    ],
+    [
+      "Weapons",
+      "Contém de 1 a 2 Baús Sintetizados com Armas\r\nContém 1 Baú Sintetizado com Armas Trincadas",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",
+      null
+    ],
+    [
+      "Weapons2",
+      "Contém de 2 a 3 Baús Sintetizados com Armas\r\nContém 1 Baú Sintetizado com Armas Trincadas",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",
+      null
+    ],
+    [
+      "Weapons3",
+      "Contém de 3 a 4 Baús Sintetizados com Armas\r\nContém 1 Baú Sintetizado com Armas Trincadas",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",
+      null
+    ],
+    [
+      "WeaponsHigh3",
+      "Contém de 2 a 3 Baús Sintetizados com Armas\r\nContém 2 Baú Sintetizado com Armas Trincadas",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",
+      null
+    ],
+    [
+      "Weapons4",
+      "Contém de 4 a 5 Baús Sintetizados com Armas\r\nContém 1 Baú Sintetizado com Armas Trincadas",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",
+      null
+    ],
+    [
+      "WeaponsHigh4",
+      "Contém 3 Baús Sintetizados com Armas valiosas\r\nContém 3 Baús Sintetizados com Armas Trincadas",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",
+      null
+    ],
+    [
+      "WeaponsEpic4",
+      "Contém um Baú Sintetizado com Armas muito valiosas\r\nContém de 4 a 5 Baús Sintetizados com Armas valiosas",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",
+      null
+    ],
+    [
+      "Weapons5",
+      "Contém de 4 a 5 Baús Sintetizados com Armas\r\nContém 2 Baú Sintetizado com Armas Trincadas",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",
+      null
+    ],
+    [
+      "WeaponsHigh5",
+      "Contém de 3 a 4 Baús Sintetizados com Armas valiosas\r\nContém 4 Baús Sintetizados com Armas Trincadas",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",
+      null
+    ],
+    [
+      "WeaponsEpic5",
+      "Contém 1 Baú Sintetizado com Armas muito valiosas\r\nContém 3 Baús Sintetizados com Armas Valiosas",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",
+      null
+    ],
+    [
+      "Perandus",
+      "Contém de 2 a 3 Baús Sintetizados com Itens Perandus",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PerandusItemRewardIcon",
+      null
+    ],
+    [
+      "Perandus2",
+      "Contém de 3 a 4 Baús Sintetizados com Itens Perandus",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PerandusItemRewardIcon",
+      null
+    ],
+    [
+      "Perandus3",
+      "Contém de 4 a 5 Baús Sintetizados com Itens Perandus",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PerandusItemRewardIcon",
+      null
+    ],
+    [
+      "Perandus4",
+      "Contém de 5 a 6 Baús Sintetizados com Itens Perandus",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PerandusItemRewardIcon",
+      null
+    ],
+    [
+      "Harbinger",
+      "Contém 1 Baús Sintetizados com Itens de Emissários Valiosos\r\nContém 1 a 2 Baús Sintetizados com itens Emissários",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/HarbingerItemRewardIcon",
+      null
+    ],
+    [
+      "Harbinger2",
+      "Contém 1 Baús Sintetizados com Itens de Emissários Valiosos\r\nContém 2 a 3 Baús Sintetizados com itens Emissários",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/HarbingerItemRewardIcon",
+      null
+    ],
+    [
+      "Harbinger3",
+      "Contém 2 Baús Sintetizados com Itens de Emissários Valiosos\r\nContém 2 a 3 Baús Sintetizados com itens Emissários",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/HarbingerItemRewardIcon",
+      null
+    ],
+    [
+      "Breach",
+      "Contém 1 Baús Sintetizados com Itens de Fenda valiosos\r\nContém 1 a 2 Baús Sintetizados com itens Fenda",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/BreachItemRewardIcon",
+      null
+    ],
+    [
+      "Breach2",
+      "Contém 1 Baús Sintetizados com Itens de Fenda Valiosos\r\nContém 2 a 3 Baús Sintetizados com itens Fenda ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/BreachItemRewardIcon",
+      null
+    ],
+    [
+      "Breach3",
+      "Contém 2 Baús Sintetizados com Itens de Fenda valiosos\r\nContém 2 a 3 Baús Sintetizados com itens Fenda",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/BreachItemRewardIcon",
+      null
+    ],
+    [
+      "Essences",
+      "Contém de 1 a 2 Baús Sintetizados com Itens de Essências",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/EssencesItemRewardIcon",
+      null
+    ],
+    [
+      "Essences2",
+      "Contém de 2 a 3 Baús Sintetizados com Itens de Essências",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/EssencesItemRewardIcon",
+      null
+    ],
+    [
+      "Essences3",
+      "Contém de 3 a 4 Baús Sintetizados com Itens de Essências",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/EssencesItemRewardIcon",
+      null
+    ],
+    [
+      "EssencesHigh3",
+      "Contém um Baú Sintetizado com Itens de Essências valiosos\r\nContém de 3 a 4 Baús Sintetizados com Itens de Essências",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/EssencesItemRewardIconTier2",
+      null
+    ],
+    [
+      "Essences4",
+      "Contém de 4 a 5 Baús Sintetizados com Itens de Essências",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/EssencesItemRewardIcon",
+      null
+    ],
+    [
+      "EssencesHigh4",
+      "Contém 2 Baús Sintetizados com Itens de Essências valiosos\r\nContém de 3 a 4 Baús Sintetizados com Itens de Essências",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/EssencesItemRewardIconTier2",
+      null
+    ],
+    [
+      "Fragments",
+      "Contém de 1 a 2 Baús Sintetizados com Itens Fragmentos",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/FragmentsItemRewardIcon",
+      null
+    ],
+    [
+      "Fragments2",
+      "Contém de 2 a 3 Baús Sintetizados com Itens Fragmentos",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/FragmentsItemRewardIcon",
+      null
+    ],
+    [
+      "Fragments3",
+      "Contém de 3 a 4 Baús Sintetizados com Itens Fragmentos",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/FragmentsItemRewardIcon",
+      null
+    ],
+    [
+      "FragmentsHigh3",
+      "Contém um Baú Sintetizado com Itens Fragmentos valiosos\r\nContém de 2 a 3 Baús Sintetizados com Itens Fragmentos",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/FragmentsItemRewardIconTier2",
+      null
+    ],
+    [
+      "Scarabs",
+      "Contém de 2 a 3 Baús Sintetizados com Escaravelhos",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ScarabItemRewardIcon",
+      null
+    ],
+    [
+      "Scarabs2",
+      "Contém de 1 a 2 Baús Sintetizados com Escaravelhos valiosos\r\nContém de 1 a 2 Baús Sintetizados com Escaravelhos",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ScarabItemRewardIconTier2",
+      null
+    ],
+    [
+      "Scarabs3",
+      "Contém de 1 a 2 Baús Sintetizados com Escaravelhos muito valiosos\r\nContém de 1 a 2 Baús Sintetizados com Escaravelhos valiosos",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ScarabItemRewardIconTier3",
+      null
+    ],
+    [
+      "Fossils",
+      "Contém de 2 a 3 Baús Sintetizados com Fósseis",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/FossilItemRewardIcon",
+      null
+    ],
+    [
+      "Fossils2",
+      "Contém de 1 a 2 Baús Sintetizados com Fósseis valiosos\r\nContém de 1 a 2 Baús Sintetizados com Fósseis",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/FossilItemRewardIconTier2",
+      null
+    ],
+    [
+      "Fossils3",
+      "Contém de 1 a 2 Baús Sintetizados com Fósseis muito valiosos\r\nContém de 1 a 2 Baús Sintetizados com Fósseis valiosos",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/FossilItemRewardIconTier3",
+      null
+    ],
+    [
+      "Prophecies",
+      "Contém de 2 a 3 Baús Sintetizados com Profecias",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PropheciesItemRewardIcon",
+      null
+    ],
+    [
+      "Prophecies2",
+      "Contém de 3 a 4 Baús Sintetizados com Profecias",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PropheciesItemRewardIcon",
+      null
+    ],
+    [
+      "Prophecies3",
+      "Contém de 4 a 5 Baús Sintetizados com Profecias",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PropheciesItemRewardIcon",
+      null
+    ],
+    [
+      "PropheciesHigh3",
+      "Contém um Baú Sintetizado com Profecias valiosas\r\nContém de 3 a 4 Baús Sintetizados com Profecias",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PropheciesItemRewardIconTier2",
+      null
+    ],
+    [
+      "Prophecies4",
+      "Contém de 5 a 6 Baús Sintetizados com Profecias",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PropheciesItemRewardIcon",
+      null
+    ],
+    [
+      "PropheciesHigh4",
+      "Contém 2 Baús Sintetizados com Profecias valiosas\r\nContém de 3 a 4 Baús Sintetizados com Profecias",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PropheciesItemRewardIconTier2",
+      null
+    ],
+    [
+      "DivinationCards",
+      "Contém de 1 a 2 Baús Sintetizados com Cartas de Adivinhação",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/DivinationCardsItemRewardIcon",
+      null
+    ],
+    [
+      "DivinationCards2",
+      "Contém de 2 a 3 Baús Sintetizados com Cartas de Adivinhação",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/DivinationCardsItemRewardIcon",
+      null
+    ],
+    [
+      "DivinationCards3",
+      "Contém de 3 a 4 Baús Sintetizados com Cartas de Adivinhação",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/DivinationCardsItemRewardIcon",
+      null
+    ],
+    [
+      "DivinationCards4",
+      "Contém de 4 a 5 Baús Sintetizados com Cartas de Adivinhação",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/DivinationCardsItemRewardIcon",
+      null
+    ],
+    [
+      "Generic",
+      "Contém de 3 a 4 Baús Sintetizados\r\nContém 1 Baú Sintetizado com Itens Trincados",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/GenericItemRewardIcon",
+      null
+    ],
+    [
+      "Generic2",
+      "Contém de 4 a 5 Baús Sintetizados\r\nContém 1 Baú Sintetizado com Itens Trincados",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/GenericItemRewardIcon",
+      null
+    ],
+    [
+      "Generic3",
+      "Contém de 5 a 6 Baús Sintetizados\r\nContém 2 Baú Sintetizado com Itens Trincados",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/GenericItemRewardIcon",
+      null
+    ],
+    [
+      "Generic4",
+      "Contém de 6 a 8 Baús Sintetizados\r\nContém 2 Baú Sintetizado com Itens Trincados",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/GenericItemRewardIcon",
+      null
+    ],
+    [
+      "Generic5",
+      "Contém de 6 a 8 Baús Sintetizados\r\nContém 3 Baú Sintetizado com Itens Trincados",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/GenericItemRewardIcon",
+      null
+    ],
+    [
+      "Talismans",
+      "Contém de 1 a 2 Baús Sintetizados com Itens da Talismã",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TalismansItemRewardIcon",
+      null
+    ],
+    [
+      "Talismans2",
+      "Contém de 2 a 3 Baús Sintetizados com Itens da Talismã",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TalismansItemRewardIcon",
+      null
+    ],
+    [
+      "Talismans3",
+      "Contém de 3 a 4 Baús Sintetizados com Itens da Talismã",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TalismansItemRewardIcon",
+      null
+    ],
+    [
+      "Labyrinth",
+      "Contém de 1 a 2 Baús Sintetizados com Itens do Labirinto",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/LabyrinthItemRewardIcon",
+      null
+    ],
+    [
+      "Labyrinth2",
+      "Contém de 2 a 3 Baús Sintetizados com Itens do Labirinto",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/LabyrinthItemRewardIcon",
+      null
+    ],
+    [
+      "Labyrinth3",
+      "Contém de 3 a 4 Baús Sintetizados com Itens do Labirinto",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/LabyrinthItemRewardIcon",
+      null
+    ],
+    [
+      "Labyrinth4",
+      "Contém de 4 a 5 Baús Sintetizados com Itens do Labirinto",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/LabyrinthItemRewardIcon",
+      null
+    ],
+    [
+      "GlobalMod1",
+      "Contém um Modificador de Memória",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/GlobalModTier1",
+      null
+    ],
+    [
+      "GlobalMod2",
+      "Contém múltiplos Modificadores de Memória",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/GlobalModTier2",
+      null
+    ]
+  ]
+}

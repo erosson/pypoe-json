@@ -1,1 +1,317 @@
-{"filename":"Ascendancy.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":true,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"ClassNo","rowid":1,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"CharactersKey","rowid":2,"type":"ulong","key":"Characters.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"CoordinateRect","rowid":3,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":"Coordinates in \"x1, y1, x2, y2\" format"},{"name":"RGBFlavourTextColour","rowid":4,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Name","rowid":5,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"FlavourText","rowid":6,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"OGGFile","rowid":7,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":true,"file_ext":".ogg","display":null,"display_type":"{0}","description":null}],"data":[["Juggernaut",1,0,"215,165,1063,436","175,90,50","Colosse","     Une seule chose sépare le conquérant \r\ndu conquis : la persévérance.","Audio/Dialogue/NPC/Izaro/Iz_18_AscClass_01_Marauder_01_Juggernaught.ogg"],["Berserker",2,0,"760,345,976,429","175,90,50","Berserker","<size:50>{La voie brutale reste \r\nla plus directe \net la plus sûre.}","Audio/Dialogue/NPC/Izaro/Iz_18_AscClass_01_Marauder_02_Berserker.ogg"],["Chieftain",3,0,"185,245,1076,449","175,90,50","Chef tribal","  Les Ancêtres parlent \r\nà travers vos poings.","Audio/Dialogue/NPC/Izaro/Iz_18_AscClass_01_Marauder_03_Chieftain.ogg"],["Raider",1,3,"365,965,900,1250","124,179,118","Furie","Nulle chasse n'est\r\nachevée sans éviscération.","Audio/Dialogue/NPC/Izaro/Iz_18_AscClass_03_Ranger_01_Raider.ogg"],["Deadeye",2,3,"365,965,900,1250","124,179,118","Archère d'élite","Une femme peut changer le monde\r\n     d'une seule flèche bien placée.","Audio/Dialogue/NPC/Izaro/Iz_18_AscClass_03_Ranger_02_Deadeye.ogg"],["Pathfinder",3,3,"265,975,900,1250","124,179,118","Exploratrice","La nature regorge de poisons et de baumes\r\n              pour qui sait où les trouver.","Audio/Dialogue/NPC/Izaro/Iz_18_AscClass_03_Ranger_03_Pathfinder.ogg"],["Occultist",1,1,"665,385,906,389","154,195,201","Occultiste","   Libérez-vous des \r\nchaînes de la peur pour \r\n  étreindre l'interdit.","Audio/Dialogue/NPC/Izaro/Iz_18_AscClass_05_Witch_01_Occultist.ogg"],["Elementalist",2,1,"125,475,510,768","154,195,201","Élémentaliste","Nourrissez une tempête de vos plus \r\nfarouches desseins, et nul rempart \r\nne saura y résister.","Audio/Dialogue/NPC/Izaro/Iz_18_AscClass_05_Witch_02_Elementalist.ogg"],["Necromancer",3,1,"720,303,1000,1000","154,195,201","Nécromancienne","Embrassez la douce \r\npuissance de la non-vie.","Audio/Dialogue/NPC/Izaro/Iz_18_AscClass_05_Witch_03_Necromancer.ogg"],["Slayer",1,4,"470,310,976,429","150,175,200","Sanguinaire"," Ni juge, ni juré ;\r\nseulement le bourreau.","Audio/Dialogue/NPC/Izaro/Iz_18_AscClass_02_Duelist_01_Slayer.ogg"],["Gladiator",2,4,"670,395,976,429","150,175,200","Gladiateur","Levez les bras sous les \r\nacclamations de la foule et \r\nprêtez allégeance à la gloire.","Audio/Dialogue/NPC/Izaro/Iz_18_AscClass_02_Duelist_02_Gladiator.ogg"],["Champion",3,4,"735,625,976,429","150,175,200","Champion","Défendez ce qui \r\n  vous est cher. Celui qui\r\n    se battra sans cause \r\n       périra pour rien.","Audio/Dialogue/NPC/Izaro/Iz_18_AscClass_02_Duelist_03_Champion.ogg"],["Inquisitor",1,6,"335,940,976,429","207,189,138","Inquisiteur","<size:52>{  La vérité est certes élusive,\nmais Dieu nous a fourni tous les\noutils nécessaires pour la trouver.}","Audio/Dialogue/NPC/Izaro/Iz_18_AscClass_06_Templar_01_Inquisitor.ogg"],["Hierophant",2,6,"100,720,936,399","207,189,138","Hiérophante","<size:45>{Buvez à la coupe de Dieu sans\r\n retenue, car elle demeurera \r\n toujours pleine pour les fidèles.}","Audio/Dialogue/NPC/Izaro/Iz_18_AscClass_06_Templar_02_Hierophant.ogg"],["Guardian",3,6,"170,780,976,429","207,189,138","Gardien","<size:48>{Uni par la foi \r\n et le respect, le troupeau \r\n l'emportera toujours sur le loup.}","Audio/Dialogue/NPC/Izaro/Iz_18_AscClass_06_Templar_03_Guardian.ogg"],["Assassin",1,5,"650,845,976,429","114,129,141","Assassin","La mort est un banquet, \r\n et c'est au meurtrier \r\n d'en composer le menu.","Audio/Dialogue/NPC/Izaro/Iz_18_AscClass_04_Shadow_01_Assassin.ogg"],["Trickster",2,5,"315,150,976,429","114,129,141","Roublard","<size:43>{ Tout le monde sait comment mourir. \r\n Certains ont juste besoin d'un coup de pouce \r\npour y parvenir.}","Audio/Dialogue/NPC/Izaro/Iz_18_AscClass_04_Shadow_02_Trickster.ogg"],["Saboteur",3,5,"355,970,976,429","114,129,141","Saboteur","<size:45>{Nul besoin pour l'artiste d'être présent \r\nsur les lieux pour marquer les esprits.}","Audio/Dialogue/NPC/Izaro/Iz_18_AscClass_04_Shadow_03_Saboteur.ogg"],["Ascendant",1,2,"305,925,976,429","90,90,90","Ascendante","","Audio/Dialogue/NPC/Izaro/Iz_18_AscClass_07_Scion_01_Ascendant.ogg"]]}
+{
+  "filename": "Ascendancy.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "ClassNo",
+      "rowid": 1,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "CharactersKey",
+      "rowid": 2,
+      "type": "ulong",
+      "key": "Characters.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "CoordinateRect",
+      "rowid": 3,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": "Coordinates in \"x1, y1, x2, y2\" format"
+    },
+    {
+      "name": "RGBFlavourTextColour",
+      "rowid": 4,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Name",
+      "rowid": 5,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "FlavourText",
+      "rowid": 6,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "OGGFile",
+      "rowid": 7,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": true,
+      "file_ext": ".ogg",
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "Juggernaut",
+      1,
+      0,
+      "215,165,1063,436",
+      "175,90,50",
+      "Colosse",
+      "     Une seule chose sépare le conquérant \r\ndu conquis : la persévérance.",
+      "Audio/Dialogue/NPC/Izaro/Iz_18_AscClass_01_Marauder_01_Juggernaught.ogg"
+    ],
+    [
+      "Berserker",
+      2,
+      0,
+      "760,345,976,429",
+      "175,90,50",
+      "Berserker",
+      "<size:50>{La voie brutale reste \r\nla plus directe \net la plus sûre.}",
+      "Audio/Dialogue/NPC/Izaro/Iz_18_AscClass_01_Marauder_02_Berserker.ogg"
+    ],
+    [
+      "Chieftain",
+      3,
+      0,
+      "185,245,1076,449",
+      "175,90,50",
+      "Chef tribal",
+      "  Les Ancêtres parlent \r\nà travers vos poings.",
+      "Audio/Dialogue/NPC/Izaro/Iz_18_AscClass_01_Marauder_03_Chieftain.ogg"
+    ],
+    [
+      "Raider",
+      1,
+      3,
+      "365,965,900,1250",
+      "124,179,118",
+      "Furie",
+      "Nulle chasse n'est\r\nachevée sans éviscération.",
+      "Audio/Dialogue/NPC/Izaro/Iz_18_AscClass_03_Ranger_01_Raider.ogg"
+    ],
+    [
+      "Deadeye",
+      2,
+      3,
+      "365,965,900,1250",
+      "124,179,118",
+      "Archère d'élite",
+      "Une femme peut changer le monde\r\n     d'une seule flèche bien placée.",
+      "Audio/Dialogue/NPC/Izaro/Iz_18_AscClass_03_Ranger_02_Deadeye.ogg"
+    ],
+    [
+      "Pathfinder",
+      3,
+      3,
+      "265,975,900,1250",
+      "124,179,118",
+      "Exploratrice",
+      "La nature regorge de poisons et de baumes\r\n              pour qui sait où les trouver.",
+      "Audio/Dialogue/NPC/Izaro/Iz_18_AscClass_03_Ranger_03_Pathfinder.ogg"
+    ],
+    [
+      "Occultist",
+      1,
+      1,
+      "665,385,906,389",
+      "154,195,201",
+      "Occultiste",
+      "   Libérez-vous des \r\nchaînes de la peur pour \r\n  étreindre l'interdit.",
+      "Audio/Dialogue/NPC/Izaro/Iz_18_AscClass_05_Witch_01_Occultist.ogg"
+    ],
+    [
+      "Elementalist",
+      2,
+      1,
+      "125,475,510,768",
+      "154,195,201",
+      "Élémentaliste",
+      "Nourrissez une tempête de vos plus \r\nfarouches desseins, et nul rempart \r\nne saura y résister.",
+      "Audio/Dialogue/NPC/Izaro/Iz_18_AscClass_05_Witch_02_Elementalist.ogg"
+    ],
+    [
+      "Necromancer",
+      3,
+      1,
+      "720,303,1000,1000",
+      "154,195,201",
+      "Nécromancienne",
+      "Embrassez la douce \r\npuissance de la non-vie.",
+      "Audio/Dialogue/NPC/Izaro/Iz_18_AscClass_05_Witch_03_Necromancer.ogg"
+    ],
+    [
+      "Slayer",
+      1,
+      4,
+      "470,310,976,429",
+      "150,175,200",
+      "Sanguinaire",
+      " Ni juge, ni juré ;\r\nseulement le bourreau.",
+      "Audio/Dialogue/NPC/Izaro/Iz_18_AscClass_02_Duelist_01_Slayer.ogg"
+    ],
+    [
+      "Gladiator",
+      2,
+      4,
+      "670,395,976,429",
+      "150,175,200",
+      "Gladiateur",
+      "Levez les bras sous les \r\nacclamations de la foule et \r\nprêtez allégeance à la gloire.",
+      "Audio/Dialogue/NPC/Izaro/Iz_18_AscClass_02_Duelist_02_Gladiator.ogg"
+    ],
+    [
+      "Champion",
+      3,
+      4,
+      "735,625,976,429",
+      "150,175,200",
+      "Champion",
+      "Défendez ce qui \r\n  vous est cher. Celui qui\r\n    se battra sans cause \r\n       périra pour rien.",
+      "Audio/Dialogue/NPC/Izaro/Iz_18_AscClass_02_Duelist_03_Champion.ogg"
+    ],
+    [
+      "Inquisitor",
+      1,
+      6,
+      "335,940,976,429",
+      "207,189,138",
+      "Inquisiteur",
+      "<size:52>{  La vérité est certes élusive,\nmais Dieu nous a fourni tous les\noutils nécessaires pour la trouver.}",
+      "Audio/Dialogue/NPC/Izaro/Iz_18_AscClass_06_Templar_01_Inquisitor.ogg"
+    ],
+    [
+      "Hierophant",
+      2,
+      6,
+      "100,720,936,399",
+      "207,189,138",
+      "Hiérophante",
+      "<size:45>{Buvez à la coupe de Dieu sans\r\n retenue, car elle demeurera \r\n toujours pleine pour les fidèles.}",
+      "Audio/Dialogue/NPC/Izaro/Iz_18_AscClass_06_Templar_02_Hierophant.ogg"
+    ],
+    [
+      "Guardian",
+      3,
+      6,
+      "170,780,976,429",
+      "207,189,138",
+      "Gardien",
+      "<size:48>{Uni par la foi \r\n et le respect, le troupeau \r\n l'emportera toujours sur le loup.}",
+      "Audio/Dialogue/NPC/Izaro/Iz_18_AscClass_06_Templar_03_Guardian.ogg"
+    ],
+    [
+      "Assassin",
+      1,
+      5,
+      "650,845,976,429",
+      "114,129,141",
+      "Assassin",
+      "La mort est un banquet, \r\n et c'est au meurtrier \r\n d'en composer le menu.",
+      "Audio/Dialogue/NPC/Izaro/Iz_18_AscClass_04_Shadow_01_Assassin.ogg"
+    ],
+    [
+      "Trickster",
+      2,
+      5,
+      "315,150,976,429",
+      "114,129,141",
+      "Roublard",
+      "<size:43>{ Tout le monde sait comment mourir. \r\n Certains ont juste besoin d'un coup de pouce \r\npour y parvenir.}",
+      "Audio/Dialogue/NPC/Izaro/Iz_18_AscClass_04_Shadow_02_Trickster.ogg"
+    ],
+    [
+      "Saboteur",
+      3,
+      5,
+      "355,970,976,429",
+      "114,129,141",
+      "Saboteur",
+      "<size:45>{Nul besoin pour l'artiste d'être présent \r\nsur les lieux pour marquer les esprits.}",
+      "Audio/Dialogue/NPC/Izaro/Iz_18_AscClass_04_Shadow_03_Saboteur.ogg"
+    ],
+    [
+      "Ascendant",
+      1,
+      2,
+      "305,925,976,429",
+      "90,90,90",
+      "Ascendante",
+      "",
+      "Audio/Dialogue/NPC/Izaro/Iz_18_AscClass_07_Scion_01_Ascendant.ogg"
+    ]
+  ]
+}

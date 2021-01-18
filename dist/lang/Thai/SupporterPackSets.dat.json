@@ -1,1 +1,1244 @@
-{"filename":"SupporterPackSets.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":true,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"FormatTitle","rowid":1,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Background","rowid":2,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Time0","rowid":3,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Time1","rowid":4,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"ShopPackagePlatformKey","rowid":5,"type":"ref|list|int","key":null,"key_id":null,"key_offset":0,"enum":"SHOP_PACKAGE_PLATFORM","unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown0","rowid":6,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["ClosedBeta","Closed Beta Packs","","2011-11-29T00:00:00Z","2011-11-29T00:00:00Z",[1],""],["OpenBeta","Open Beta Packs","","2012-11-29T00:00:00Z","2012-11-29T00:00:00Z",[1],""],["Release","Release Packs","","2013-11-29T00:00:00Z","2013-11-29T00:00:00Z",[1],""],["ForsakenMasters","Forsaken Masters Supporter Packs","","2014-08-08T00:00:00Z","2014-08-08T00:00:00Z",[1],""],["TheAwakening","<fg:rgb(255,251,99)>{<glow:rgb(227,125,1)>{The Awakening Supporter Packs}}","Art/2DArt/Shop/pack/awakening/SteamBackground","2015-04-29T00:00:00Z","2015-04-29T00:00:00Z",[1],""],["Prophecy","<fg:rgb(41,201,192)>{<glow:rgb(0,91,56)>{Prophecy Supporter Pack}}","Art/2DArt/Shop/pack/ascendancy/SteamBackground","2016-05-19T00:00:00Z","2016-05-19T00:00:00Z",[1],""],["Ascendancy","<fg:rgb(41,201,192)>{<glow:rgb(0,91,56)>{Ascendancy Supporter Packs}}","Art/2DArt/Shop/pack/ascendancy/SteamBackground","2015-11-27T00:00:00Z","2015-11-27T00:00:00Z",[1],""],["AtlasOfWorlds","<fg:rgb(255,233,200)>{<glow:rgb(0,0,0)>{Atlas of Worlds Supporter Packs}}","Art/2DArt/Shop/pack/atlas/SteamBackground","2017-06-06T00:00:00Z","2016-08-01T00:00:00Z",[1],""],["Breach","<fg:rgb(200,200,250)>{<glow:rgb(0,0,0)>{Breach Supporter Packs}}","Art/2DArt/Shop/pack/atlas/SteamBackground","2017-02-16T00:00:00Z","2016-08-02T00:00:00Z",[1],""],["Classic","<fg:rgb(200,200,250)>{<glow:rgb(0,0,0)>{Legacy Supporter Packs}}","Art/2DArt/Shop/pack/oriath/SteamBackground","2017-08-04T18:00:00Z","2017-02-16T00:00:00Z",[1],""],["Oriath","<fg:rgb(200,200,250)>{<glow:rgb(0,0,0)>{Oriath Supporter Packs}}","Art/2DArt/Shop/pack/oriath/SteamBackground","2017-11-15T20:00:00Z","2017-06-06T00:00:00Z",[1],""],["FirstBlood","<fg:rgb(200,200,250)>{<glow:rgb(0,0,0)>{First Blood Pack}}","Art/2DArt/Shop/pack/atlas/SteamBackground","","2018-03-18T00:00:01Z",[1],""],["OriathXbox","<fg:rgb(200,200,250)>{<glow:rgb(0,0,0)>{Oriath Supporter Packs}}","Art/2DArt/Shop/pack/oriath/SteamBackground","2018-02-07T00:00:00Z","2017-06-06T00:00:00Z",[2],""],["Harbinger","<fg:rgb(200,200,250)>{<glow:rgb(0,0,0)>{Harbinger Supporter Packs}}","","2017-08-20T20:00:00Z","2017-08-04T00:00:00Z",[1],""],["HarbingerXbox","<fg:rgb(200,200,250)>{<glow:rgb(0,0,0)>{Harbinger Supporter Packs}}","","2018-02-07T00:00:00Z","2017-08-04T00:00:00Z",[2],""],["WarForTheAtlas","<fg:rgb(200,200,250)>{<glow:rgb(0,0,0)>{War for the Atlas}}","Art/2DArt/Shop/pack/War/SteamPackBGWar","2015-01-01T00:00:00Z","2017-11-15T20:00:00Z",[1],"Art/2DArt/UIImages/InGame/Shop/Supporter Pack Titles/War/WarPackTitles"],["WarForTheAtlasXbox","<fg:rgb(200,200,250)>{<glow:rgb(0,0,0)>{War for the Atlas}}","Art/2DArt/Shop/pack/War/SteamBackground","2015-01-01T00:00:00Z","2017-11-15T20:00:00Z",[2,3],""],["Abyss","<fg:rgb(200,200,250)>{<glow:rgb(0,0,0)>{Abyss}}","Art/2DArt/Shop/pack/War/SteamBackground","2018-02-14T00:00:01Z","2017-11-15T20:00:01Z",[1],""],["AbyssXbox","<fg:rgb(200,200,250)>{<glow:rgb(0,0,0)>{Abyss}}","Art/2DArt/Shop/pack/War/SteamBackground","2018-02-14T00:00:01Z","2017-11-15T20:00:01Z",[2],""],["Bestiary","<fg:rgb(200,200,250)>{<glow:rgb(0,0,0)>{Bestiary}}","Art/2DArt/Shop/pack/War/SteamBackground","2018-05-10T00:00:00Z","2018-02-14T00:00:01Z",[1],""],["BestiaryHarpy","","","","",[1],""],["BestiaryManticore","","","","",[1],""],["BestiaryXbox","","Art/2DArt/Shop/pack/War/SteamBackground","2018-06-04T00:00:00Z","2018-02-14T00:00:01Z",[2],""],["BestiaryHarpyXbox","","","","",[2],""],["BestiaryManticoreXbox","","","","",[2],""],["FirstBloodXbox","<fg:rgb(200,200,250)>{<glow:rgb(0,0,0)>{First Blood Pack}}","Art/2DArt/Shop/pack/atlas/SteamBackground","","2017-06-20T00:00:00Z",[2,3],""],["Incursion","<fg:rgb(200,200,250)>{<glow:rgb(0,0,0)>{Incursion}}","Art/2DArt/Shop/pack/incursion/SteamPackBGIncursion","2018-08-09T00:00:00Z","2018-05-10T00:00:00Z",[1],"Art/2DArt/UIImages/InGame/Shop/Supporter Pack Titles/Incursion/IncursionSupporterPacks"],["IncursionConquest","","","","",[1],""],["IncursionCouncil","","","","",[1],""],["IncursionXbox","<fg:rgb(200,200,250)>{<glow:rgb(0,0,0)>{Incursion}}","Art/2DArt/Shop/pack/atlas/SteamBackground","2018-08-09T00:00:00Z","2018-05-10T00:00:00Z",[2],""],["IncursionConquestXbox","","","","",[2],""],["IncursionCouncilXbox","","","","",[2],""],["Delve","<fg:rgb(200,200,250)>{<glow:rgb(0,0,0)>{Delve}}","Art/2DArt/Shop/pack/Delve/SteamPackBGIncursion","2018-11-12T20:00:00Z","2018-08-08T21:00:00Z",[1],"Art/2DArt/UIImages/InGame/Shop/Supporter Pack Titles/Delve/DelveSupporterPacks"],["DelveStalker","","","","",[1],""],["DelveForge","","","","",[1],""],["DelveXbox","<fg:rgb(200,200,250)>{<glow:rgb(0,0,0)>{Delve}}","","2018-11-12T20:00:00Z","2018-08-08T21:00:00Z",[2],""],["DelveStalkerXbox","","","","",[2],""],["DelveForgeXbox","","","","",[2],""],["Betrayal","<fg:rgb(200,200,250)>{<glow:rgb(0,0,0)>{Betrayal}}","Art/2DArt/Shop/pack/betrayal/SteamPackBGBetrayal","2018-01-01T00:00:00Z","2018-11-12T20:00:00Z",[1],"Art/2DArt/UIImages/InGame/Shop/Supporter Pack Titles/Betrayal/BetrayalSupporterPacks"],["BetrayalUndertaker","","","","",[1],""],["BetrayalSoulstealer","","","","",[1],""],["BetrayalConsole","<fg:rgb(200,200,250)>{<glow:rgb(0,0,0)>{Betrayal}}","Art/2DArt/Shop/pack/betrayal/SteamPackBGBetrayal","2018-01-01T00:00:00Z","2018-11-06T21:00:00Z",[2,3],""],["BetrayalUndertakerConsole","","","","",[2,3],""],["BetrayalSoulstealerConsole","","","","",[2,3],""],["Core","<fg:rgb(200,200,250)>{<glow:rgb(0,0,0)>{Core}}","Art/2DArt/Shop/pack/core/SteamPackBGCore","2019-12-18T21:00:00Z","2018-12-07T19:00:00Z",[1],"Art/2DArt/UIImages/InGame/Shop/Supporter Pack Titles/Core/CoreSupporterPacks"],["CoreConsole","<fg:rgb(200,200,250)>{<glow:rgb(0,0,0)>{Core}}","Art/2DArt/Shop/pack/core/SteamPackBGCore","2020-01-01T00:00:00Z","2018-12-07T19:00:00Z",[2,3],""],["Synthesis","<fg:rgb(200,200,250)>{<glow:rgb(0,0,0)>{Synthesis}}","Art/2DArt/Shop/pack/Synthesis/SteamPackSynthesisBG","2019-05-20T21:00:00Z","2019-02-18T20:00:00Z",[1],"Art/2DArt/UIImages/InGame/Shop/Supporter Pack Titles/Synthesis/SynthesisSupporterPacks"],["SynthesisSun","","","","",[1],""],["SynthesisDoom","","","","",[1],""],["SynthesisConsole","<fg:rgb(200,200,250)>{<glow:rgb(0,0,0)>{Synthesis}}","","2019-05-28T23:00:00Z","2019-02-18T20:00:00Z",[2,3],""],["SynthesisSunConsole","","","","",[2,3],""],["SynthesisDoomConsole","","","","",[2,3],""],["Exilecon","","","","2019-01-21T20:00:00Z",[1],""],["PSBundles","<fg:rgb(200,200,250)>{<glow:rgb(0,0,0)>{PS+ Bundles}}","","2026-01-01T00:00:00Z","2019-01-21T20:00:00Z",[3],""],["Legion","<fg:rgb(200,200,250)>{<glow:rgb(0,0,0)>{Legion}}","Art/2DArt/Shop/pack/Legion/SteamPackLegionBG","2019-06-22T21:00:00Z","2019-05-20T21:00:00Z",[1],"Art/2DArt/UIImages/InGame/Shop/Supporter Pack Titles/Legion/LegionSupporterPacks"],["LegionCult","","","","",[1],""],["LegionBlood","","","","",[1],""],["LegionConsole","<fg:rgb(200,200,250)>{<glow:rgb(0,0,0)>{Legion}}","","2019-08-29T23:00:00Z","2019-05-20T21:00:00Z",[2,3],""],["LegionCultConsole","","","","",[2,3],""],["LegionBloodConsole","","","","",[2,3],""],["Blight","<fg:rgb(200,200,250)>{<glow:rgb(0,0,0)>{ไบล์ท}}","Art/2DArt/Shop/pack/blight/SteamPackBlightBG","2019-11-27T01:00:00Z","2019-08-21T21:00:00Z",[1],"Art/2DArt/UIImages/InGame/Shop/Supporter Pack Titles/Blight/BlightSupporterPacks"],["BlightLich","","","","",[1],""],["BlightSentinel","","","","",[1],""],["BlightConsole","<fg:rgb(200,200,250)>{<glow:rgb(0,0,0)>{ไบล์ท}}","","2019-11-27T01:00:00Z","2019-08-27T23:00:00Z",[2,3],""],["BlightLichConsole","","","","",[2,3],""],["BlightSentinelConsole","","","","",[2,3],""],["Metamorph","<fg:rgb(200,200,250)>{<glow:rgb(0,0,0)>{Metamorph}}","","2020-02-24T20:00:00Z","2019-11-27T01:00:00Z",[1],"Art/2DArt/UIImages/InGame/Shop/Supporter Pack Titles/Metamorph/MetamorphSupporterPacks"],["MetamorphosisDamanation","","","","",[1],""],["MetamorphosisSanctum","","","","",[1],""],["MetamorphosisConsole","<fg:rgb(200,200,250)>{<glow:rgb(0,0,0)>{Metamorph}}","","2020-03-17T00:00:00Z","2019-08-28T23:00:00Z",[2,3],""],["MetamorphosisDamnationConsole","","","","",[2,3],""],["MetamorphosisSanctumConsole","","","","",[2,3],""],["Core2020","<fg:rgb(200,200,250)>{<glow:rgb(0,0,0)>{Core}}","Art/2DArt/Shop/pack/core/SteamPackBGCore","2021-01-01T00:00:00Z","2019-12-18T21:00:00Z",[1],"Art/2DArt/UIImages/InGame/Shop/Supporter Pack Titles/Core2/Core2SupporterPacks"],["Core2020Console","<fg:rgb(200,200,250)>{<glow:rgb(0,0,0)>{Core}}","Art/2DArt/Shop/pack/core/SteamPackBGCore","2021-01-01T00:00:00Z","2020-01-01T24:00:00Z",[2,3],""],["Delirium","<fg:rgb(200,200,250)>{<glow:rgb(0,0,0)>{Delirium}}","Art/2DArt/Shop/pack/delirium/SteamPackDeliriumBG","2020-06-01T21:00:00Z","2020-02-24T20:00:00Z",[1],"Art/2DArt/UIImages/InGame/Shop/Supporter Pack Titles/Delirium/DeliriumSupporterPacks"],["DeliriumDarkseer","","","","",[1],""],["DeliriumFateweaver","","","","",[1],""],["DeliriumConsole","<fg:rgb(200,200,250)>{<glow:rgb(0,0,0)>{Delirium}}","Art/2DArt/Shop/pack/delirium/SteamPackDeliriumBG","2020-06-01T21:00:00Z","2020-02-24T20:00:00Z",[2,3],""],["DeliriumDarkseerConsole","","","","",[2,3],""],["DelirumFateweaverConsole","","","","",[2,3],""],["Harvest","<fg:rgb(200,200,250)>{<glow:rgb(0,0,0)>{Harvest}}","Art/2DArt/Shop/pack/Harvest/SteamPackHarvestBG","2021-01-01T00:00:00Z","2020-06-01T21:00:00Z",[1],"Art/2DArt/UIImages/InGame/Shop/Supporter Pack Titles/Harvest/HarvestSupporterPacks"],["HarvestMalice","","","","",[1],""],["HarvestBenevolence","","","","",[1],""],["HarvestConsole","<fg:rgb(200,200,250)>{<glow:rgb(0,0,0)>{Harvest}}","Art/2DArt/Shop/pack/Harvest/SteamPackHarvestBG","2021-01-01T00:00:00Z","2020-02-24T20:00:00Z",[2,3],""],["HarvestMaliceConsole","","","","",[2,3],""],["HarvestBenevolenceConsole","","","","",[2,3],""],["Heist","<fg:rgb(200,200,250)>{<glow:rgb(0,0,0)>{Heist}}","Art/2DArt/Shop/pack/Heist/SteamPackHeistBG","2021-01-01T00:00:00Z","2020-06-02T21:00:00Z",[1],"Art/2DArt/UIImages/InGame/Shop/Supporter Pack Titles/Heist/HeistSupporterPacks"],["HeistSpellblade","","","","",[1],""],["HeistEagle","","","","",[1],""],["HeistConsole","<fg:rgb(200,200,250)>{<glow:rgb(0,0,0)>{Heist}}","Art/2DArt/Shop/pack/Heist/SteamPackHeistBG","2021-01-01T00:00:00Z","2020-06-02T21:00:00Z",[2,3],""],["HeistSpellbladeConsole","","","","",[2,3],""],["HeistEagleConsole","","","","",[2,3],""],["Ritual","<fg:rgb(200,200,250)>{<glow:rgb(0,0,0)>{Ritual}}","Art/2DArt/Shop/pack/ritual/SteamPackRitualBG","2021-01-01T00:00:00Z","2020-06-02T21:00:00Z",[1],"Art/2DArt/UIImages/InGame/Shop/Supporter Pack Titles/Ritual/RitualSupporterPacks"],["RitualRenegade","","","","",[1],""],["RitualFaithsworn","","","","",[1],""],["RitualConsole","<fg:rgb(200,200,250)>{<glow:rgb(0,0,0)>{Ritual}}","Art/2DArt/Shop/pack/Heist/SteamPackHeistBG","2021-01-01T00:00:00Z","2020-06-02T21:00:00Z",[2,3],""],["RitualRenegadeConsole","","","","",[2,3],""],["RitualFaithswornConsole","","","","",[2,3],""],["Core2021","<fg:rgb(200,200,250)>{<glow:rgb(0,0,0)>{Core}}","Art/2DArt/Shop/pack/core3/SteamPackBGCore3","2021-01-01T00:00:00Z","2019-12-18T21:00:00Z",[1],"Art/2DArt/UIImages/InGame/Shop/Supporter Pack Titles/Core3/Core3SupporterPacks"],["Core2021Console","<fg:rgb(200,200,250)>{<glow:rgb(0,0,0)>{Core}}","Art/2DArt/Shop/pack/core3/SteamPackBGCore3","2021-01-01T00:00:00Z","2020-01-01T24:00:00Z",[2,3],""]]}
+{
+  "filename": "SupporterPackSets.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "FormatTitle",
+      "rowid": 1,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Background",
+      "rowid": 2,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Time0",
+      "rowid": 3,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Time1",
+      "rowid": 4,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "ShopPackagePlatformKey",
+      "rowid": 5,
+      "type": "ref|list|int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": "SHOP_PACKAGE_PLATFORM",
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown0",
+      "rowid": 6,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "ClosedBeta",
+      "Closed Beta Packs",
+      "",
+      "2011-11-29T00:00:00Z",
+      "2011-11-29T00:00:00Z",
+      [
+        1
+      ],
+      ""
+    ],
+    [
+      "OpenBeta",
+      "Open Beta Packs",
+      "",
+      "2012-11-29T00:00:00Z",
+      "2012-11-29T00:00:00Z",
+      [
+        1
+      ],
+      ""
+    ],
+    [
+      "Release",
+      "Release Packs",
+      "",
+      "2013-11-29T00:00:00Z",
+      "2013-11-29T00:00:00Z",
+      [
+        1
+      ],
+      ""
+    ],
+    [
+      "ForsakenMasters",
+      "Forsaken Masters Supporter Packs",
+      "",
+      "2014-08-08T00:00:00Z",
+      "2014-08-08T00:00:00Z",
+      [
+        1
+      ],
+      ""
+    ],
+    [
+      "TheAwakening",
+      "<fg:rgb(255,251,99)>{<glow:rgb(227,125,1)>{The Awakening Supporter Packs}}",
+      "Art/2DArt/Shop/pack/awakening/SteamBackground",
+      "2015-04-29T00:00:00Z",
+      "2015-04-29T00:00:00Z",
+      [
+        1
+      ],
+      ""
+    ],
+    [
+      "Prophecy",
+      "<fg:rgb(41,201,192)>{<glow:rgb(0,91,56)>{Prophecy Supporter Pack}}",
+      "Art/2DArt/Shop/pack/ascendancy/SteamBackground",
+      "2016-05-19T00:00:00Z",
+      "2016-05-19T00:00:00Z",
+      [
+        1
+      ],
+      ""
+    ],
+    [
+      "Ascendancy",
+      "<fg:rgb(41,201,192)>{<glow:rgb(0,91,56)>{Ascendancy Supporter Packs}}",
+      "Art/2DArt/Shop/pack/ascendancy/SteamBackground",
+      "2015-11-27T00:00:00Z",
+      "2015-11-27T00:00:00Z",
+      [
+        1
+      ],
+      ""
+    ],
+    [
+      "AtlasOfWorlds",
+      "<fg:rgb(255,233,200)>{<glow:rgb(0,0,0)>{Atlas of Worlds Supporter Packs}}",
+      "Art/2DArt/Shop/pack/atlas/SteamBackground",
+      "2017-06-06T00:00:00Z",
+      "2016-08-01T00:00:00Z",
+      [
+        1
+      ],
+      ""
+    ],
+    [
+      "Breach",
+      "<fg:rgb(200,200,250)>{<glow:rgb(0,0,0)>{Breach Supporter Packs}}",
+      "Art/2DArt/Shop/pack/atlas/SteamBackground",
+      "2017-02-16T00:00:00Z",
+      "2016-08-02T00:00:00Z",
+      [
+        1
+      ],
+      ""
+    ],
+    [
+      "Classic",
+      "<fg:rgb(200,200,250)>{<glow:rgb(0,0,0)>{Legacy Supporter Packs}}",
+      "Art/2DArt/Shop/pack/oriath/SteamBackground",
+      "2017-08-04T18:00:00Z",
+      "2017-02-16T00:00:00Z",
+      [
+        1
+      ],
+      ""
+    ],
+    [
+      "Oriath",
+      "<fg:rgb(200,200,250)>{<glow:rgb(0,0,0)>{Oriath Supporter Packs}}",
+      "Art/2DArt/Shop/pack/oriath/SteamBackground",
+      "2017-11-15T20:00:00Z",
+      "2017-06-06T00:00:00Z",
+      [
+        1
+      ],
+      ""
+    ],
+    [
+      "FirstBlood",
+      "<fg:rgb(200,200,250)>{<glow:rgb(0,0,0)>{First Blood Pack}}",
+      "Art/2DArt/Shop/pack/atlas/SteamBackground",
+      "",
+      "2018-03-18T00:00:01Z",
+      [
+        1
+      ],
+      ""
+    ],
+    [
+      "OriathXbox",
+      "<fg:rgb(200,200,250)>{<glow:rgb(0,0,0)>{Oriath Supporter Packs}}",
+      "Art/2DArt/Shop/pack/oriath/SteamBackground",
+      "2018-02-07T00:00:00Z",
+      "2017-06-06T00:00:00Z",
+      [
+        2
+      ],
+      ""
+    ],
+    [
+      "Harbinger",
+      "<fg:rgb(200,200,250)>{<glow:rgb(0,0,0)>{Harbinger Supporter Packs}}",
+      "",
+      "2017-08-20T20:00:00Z",
+      "2017-08-04T00:00:00Z",
+      [
+        1
+      ],
+      ""
+    ],
+    [
+      "HarbingerXbox",
+      "<fg:rgb(200,200,250)>{<glow:rgb(0,0,0)>{Harbinger Supporter Packs}}",
+      "",
+      "2018-02-07T00:00:00Z",
+      "2017-08-04T00:00:00Z",
+      [
+        2
+      ],
+      ""
+    ],
+    [
+      "WarForTheAtlas",
+      "<fg:rgb(200,200,250)>{<glow:rgb(0,0,0)>{War for the Atlas}}",
+      "Art/2DArt/Shop/pack/War/SteamPackBGWar",
+      "2015-01-01T00:00:00Z",
+      "2017-11-15T20:00:00Z",
+      [
+        1
+      ],
+      "Art/2DArt/UIImages/InGame/Shop/Supporter Pack Titles/War/WarPackTitles"
+    ],
+    [
+      "WarForTheAtlasXbox",
+      "<fg:rgb(200,200,250)>{<glow:rgb(0,0,0)>{War for the Atlas}}",
+      "Art/2DArt/Shop/pack/War/SteamBackground",
+      "2015-01-01T00:00:00Z",
+      "2017-11-15T20:00:00Z",
+      [
+        2,
+        3
+      ],
+      ""
+    ],
+    [
+      "Abyss",
+      "<fg:rgb(200,200,250)>{<glow:rgb(0,0,0)>{Abyss}}",
+      "Art/2DArt/Shop/pack/War/SteamBackground",
+      "2018-02-14T00:00:01Z",
+      "2017-11-15T20:00:01Z",
+      [
+        1
+      ],
+      ""
+    ],
+    [
+      "AbyssXbox",
+      "<fg:rgb(200,200,250)>{<glow:rgb(0,0,0)>{Abyss}}",
+      "Art/2DArt/Shop/pack/War/SteamBackground",
+      "2018-02-14T00:00:01Z",
+      "2017-11-15T20:00:01Z",
+      [
+        2
+      ],
+      ""
+    ],
+    [
+      "Bestiary",
+      "<fg:rgb(200,200,250)>{<glow:rgb(0,0,0)>{Bestiary}}",
+      "Art/2DArt/Shop/pack/War/SteamBackground",
+      "2018-05-10T00:00:00Z",
+      "2018-02-14T00:00:01Z",
+      [
+        1
+      ],
+      ""
+    ],
+    [
+      "BestiaryHarpy",
+      "",
+      "",
+      "",
+      "",
+      [
+        1
+      ],
+      ""
+    ],
+    [
+      "BestiaryManticore",
+      "",
+      "",
+      "",
+      "",
+      [
+        1
+      ],
+      ""
+    ],
+    [
+      "BestiaryXbox",
+      "",
+      "Art/2DArt/Shop/pack/War/SteamBackground",
+      "2018-06-04T00:00:00Z",
+      "2018-02-14T00:00:01Z",
+      [
+        2
+      ],
+      ""
+    ],
+    [
+      "BestiaryHarpyXbox",
+      "",
+      "",
+      "",
+      "",
+      [
+        2
+      ],
+      ""
+    ],
+    [
+      "BestiaryManticoreXbox",
+      "",
+      "",
+      "",
+      "",
+      [
+        2
+      ],
+      ""
+    ],
+    [
+      "FirstBloodXbox",
+      "<fg:rgb(200,200,250)>{<glow:rgb(0,0,0)>{First Blood Pack}}",
+      "Art/2DArt/Shop/pack/atlas/SteamBackground",
+      "",
+      "2017-06-20T00:00:00Z",
+      [
+        2,
+        3
+      ],
+      ""
+    ],
+    [
+      "Incursion",
+      "<fg:rgb(200,200,250)>{<glow:rgb(0,0,0)>{Incursion}}",
+      "Art/2DArt/Shop/pack/incursion/SteamPackBGIncursion",
+      "2018-08-09T00:00:00Z",
+      "2018-05-10T00:00:00Z",
+      [
+        1
+      ],
+      "Art/2DArt/UIImages/InGame/Shop/Supporter Pack Titles/Incursion/IncursionSupporterPacks"
+    ],
+    [
+      "IncursionConquest",
+      "",
+      "",
+      "",
+      "",
+      [
+        1
+      ],
+      ""
+    ],
+    [
+      "IncursionCouncil",
+      "",
+      "",
+      "",
+      "",
+      [
+        1
+      ],
+      ""
+    ],
+    [
+      "IncursionXbox",
+      "<fg:rgb(200,200,250)>{<glow:rgb(0,0,0)>{Incursion}}",
+      "Art/2DArt/Shop/pack/atlas/SteamBackground",
+      "2018-08-09T00:00:00Z",
+      "2018-05-10T00:00:00Z",
+      [
+        2
+      ],
+      ""
+    ],
+    [
+      "IncursionConquestXbox",
+      "",
+      "",
+      "",
+      "",
+      [
+        2
+      ],
+      ""
+    ],
+    [
+      "IncursionCouncilXbox",
+      "",
+      "",
+      "",
+      "",
+      [
+        2
+      ],
+      ""
+    ],
+    [
+      "Delve",
+      "<fg:rgb(200,200,250)>{<glow:rgb(0,0,0)>{Delve}}",
+      "Art/2DArt/Shop/pack/Delve/SteamPackBGIncursion",
+      "2018-11-12T20:00:00Z",
+      "2018-08-08T21:00:00Z",
+      [
+        1
+      ],
+      "Art/2DArt/UIImages/InGame/Shop/Supporter Pack Titles/Delve/DelveSupporterPacks"
+    ],
+    [
+      "DelveStalker",
+      "",
+      "",
+      "",
+      "",
+      [
+        1
+      ],
+      ""
+    ],
+    [
+      "DelveForge",
+      "",
+      "",
+      "",
+      "",
+      [
+        1
+      ],
+      ""
+    ],
+    [
+      "DelveXbox",
+      "<fg:rgb(200,200,250)>{<glow:rgb(0,0,0)>{Delve}}",
+      "",
+      "2018-11-12T20:00:00Z",
+      "2018-08-08T21:00:00Z",
+      [
+        2
+      ],
+      ""
+    ],
+    [
+      "DelveStalkerXbox",
+      "",
+      "",
+      "",
+      "",
+      [
+        2
+      ],
+      ""
+    ],
+    [
+      "DelveForgeXbox",
+      "",
+      "",
+      "",
+      "",
+      [
+        2
+      ],
+      ""
+    ],
+    [
+      "Betrayal",
+      "<fg:rgb(200,200,250)>{<glow:rgb(0,0,0)>{Betrayal}}",
+      "Art/2DArt/Shop/pack/betrayal/SteamPackBGBetrayal",
+      "2018-01-01T00:00:00Z",
+      "2018-11-12T20:00:00Z",
+      [
+        1
+      ],
+      "Art/2DArt/UIImages/InGame/Shop/Supporter Pack Titles/Betrayal/BetrayalSupporterPacks"
+    ],
+    [
+      "BetrayalUndertaker",
+      "",
+      "",
+      "",
+      "",
+      [
+        1
+      ],
+      ""
+    ],
+    [
+      "BetrayalSoulstealer",
+      "",
+      "",
+      "",
+      "",
+      [
+        1
+      ],
+      ""
+    ],
+    [
+      "BetrayalConsole",
+      "<fg:rgb(200,200,250)>{<glow:rgb(0,0,0)>{Betrayal}}",
+      "Art/2DArt/Shop/pack/betrayal/SteamPackBGBetrayal",
+      "2018-01-01T00:00:00Z",
+      "2018-11-06T21:00:00Z",
+      [
+        2,
+        3
+      ],
+      ""
+    ],
+    [
+      "BetrayalUndertakerConsole",
+      "",
+      "",
+      "",
+      "",
+      [
+        2,
+        3
+      ],
+      ""
+    ],
+    [
+      "BetrayalSoulstealerConsole",
+      "",
+      "",
+      "",
+      "",
+      [
+        2,
+        3
+      ],
+      ""
+    ],
+    [
+      "Core",
+      "<fg:rgb(200,200,250)>{<glow:rgb(0,0,0)>{Core}}",
+      "Art/2DArt/Shop/pack/core/SteamPackBGCore",
+      "2019-12-18T21:00:00Z",
+      "2018-12-07T19:00:00Z",
+      [
+        1
+      ],
+      "Art/2DArt/UIImages/InGame/Shop/Supporter Pack Titles/Core/CoreSupporterPacks"
+    ],
+    [
+      "CoreConsole",
+      "<fg:rgb(200,200,250)>{<glow:rgb(0,0,0)>{Core}}",
+      "Art/2DArt/Shop/pack/core/SteamPackBGCore",
+      "2020-01-01T00:00:00Z",
+      "2018-12-07T19:00:00Z",
+      [
+        2,
+        3
+      ],
+      ""
+    ],
+    [
+      "Synthesis",
+      "<fg:rgb(200,200,250)>{<glow:rgb(0,0,0)>{Synthesis}}",
+      "Art/2DArt/Shop/pack/Synthesis/SteamPackSynthesisBG",
+      "2019-05-20T21:00:00Z",
+      "2019-02-18T20:00:00Z",
+      [
+        1
+      ],
+      "Art/2DArt/UIImages/InGame/Shop/Supporter Pack Titles/Synthesis/SynthesisSupporterPacks"
+    ],
+    [
+      "SynthesisSun",
+      "",
+      "",
+      "",
+      "",
+      [
+        1
+      ],
+      ""
+    ],
+    [
+      "SynthesisDoom",
+      "",
+      "",
+      "",
+      "",
+      [
+        1
+      ],
+      ""
+    ],
+    [
+      "SynthesisConsole",
+      "<fg:rgb(200,200,250)>{<glow:rgb(0,0,0)>{Synthesis}}",
+      "",
+      "2019-05-28T23:00:00Z",
+      "2019-02-18T20:00:00Z",
+      [
+        2,
+        3
+      ],
+      ""
+    ],
+    [
+      "SynthesisSunConsole",
+      "",
+      "",
+      "",
+      "",
+      [
+        2,
+        3
+      ],
+      ""
+    ],
+    [
+      "SynthesisDoomConsole",
+      "",
+      "",
+      "",
+      "",
+      [
+        2,
+        3
+      ],
+      ""
+    ],
+    [
+      "Exilecon",
+      "",
+      "",
+      "",
+      "2019-01-21T20:00:00Z",
+      [
+        1
+      ],
+      ""
+    ],
+    [
+      "PSBundles",
+      "<fg:rgb(200,200,250)>{<glow:rgb(0,0,0)>{PS+ Bundles}}",
+      "",
+      "2026-01-01T00:00:00Z",
+      "2019-01-21T20:00:00Z",
+      [
+        3
+      ],
+      ""
+    ],
+    [
+      "Legion",
+      "<fg:rgb(200,200,250)>{<glow:rgb(0,0,0)>{Legion}}",
+      "Art/2DArt/Shop/pack/Legion/SteamPackLegionBG",
+      "2019-06-22T21:00:00Z",
+      "2019-05-20T21:00:00Z",
+      [
+        1
+      ],
+      "Art/2DArt/UIImages/InGame/Shop/Supporter Pack Titles/Legion/LegionSupporterPacks"
+    ],
+    [
+      "LegionCult",
+      "",
+      "",
+      "",
+      "",
+      [
+        1
+      ],
+      ""
+    ],
+    [
+      "LegionBlood",
+      "",
+      "",
+      "",
+      "",
+      [
+        1
+      ],
+      ""
+    ],
+    [
+      "LegionConsole",
+      "<fg:rgb(200,200,250)>{<glow:rgb(0,0,0)>{Legion}}",
+      "",
+      "2019-08-29T23:00:00Z",
+      "2019-05-20T21:00:00Z",
+      [
+        2,
+        3
+      ],
+      ""
+    ],
+    [
+      "LegionCultConsole",
+      "",
+      "",
+      "",
+      "",
+      [
+        2,
+        3
+      ],
+      ""
+    ],
+    [
+      "LegionBloodConsole",
+      "",
+      "",
+      "",
+      "",
+      [
+        2,
+        3
+      ],
+      ""
+    ],
+    [
+      "Blight",
+      "<fg:rgb(200,200,250)>{<glow:rgb(0,0,0)>{ไบล์ท}}",
+      "Art/2DArt/Shop/pack/blight/SteamPackBlightBG",
+      "2019-11-27T01:00:00Z",
+      "2019-08-21T21:00:00Z",
+      [
+        1
+      ],
+      "Art/2DArt/UIImages/InGame/Shop/Supporter Pack Titles/Blight/BlightSupporterPacks"
+    ],
+    [
+      "BlightLich",
+      "",
+      "",
+      "",
+      "",
+      [
+        1
+      ],
+      ""
+    ],
+    [
+      "BlightSentinel",
+      "",
+      "",
+      "",
+      "",
+      [
+        1
+      ],
+      ""
+    ],
+    [
+      "BlightConsole",
+      "<fg:rgb(200,200,250)>{<glow:rgb(0,0,0)>{ไบล์ท}}",
+      "",
+      "2019-11-27T01:00:00Z",
+      "2019-08-27T23:00:00Z",
+      [
+        2,
+        3
+      ],
+      ""
+    ],
+    [
+      "BlightLichConsole",
+      "",
+      "",
+      "",
+      "",
+      [
+        2,
+        3
+      ],
+      ""
+    ],
+    [
+      "BlightSentinelConsole",
+      "",
+      "",
+      "",
+      "",
+      [
+        2,
+        3
+      ],
+      ""
+    ],
+    [
+      "Metamorph",
+      "<fg:rgb(200,200,250)>{<glow:rgb(0,0,0)>{Metamorph}}",
+      "",
+      "2020-02-24T20:00:00Z",
+      "2019-11-27T01:00:00Z",
+      [
+        1
+      ],
+      "Art/2DArt/UIImages/InGame/Shop/Supporter Pack Titles/Metamorph/MetamorphSupporterPacks"
+    ],
+    [
+      "MetamorphosisDamanation",
+      "",
+      "",
+      "",
+      "",
+      [
+        1
+      ],
+      ""
+    ],
+    [
+      "MetamorphosisSanctum",
+      "",
+      "",
+      "",
+      "",
+      [
+        1
+      ],
+      ""
+    ],
+    [
+      "MetamorphosisConsole",
+      "<fg:rgb(200,200,250)>{<glow:rgb(0,0,0)>{Metamorph}}",
+      "",
+      "2020-03-17T00:00:00Z",
+      "2019-08-28T23:00:00Z",
+      [
+        2,
+        3
+      ],
+      ""
+    ],
+    [
+      "MetamorphosisDamnationConsole",
+      "",
+      "",
+      "",
+      "",
+      [
+        2,
+        3
+      ],
+      ""
+    ],
+    [
+      "MetamorphosisSanctumConsole",
+      "",
+      "",
+      "",
+      "",
+      [
+        2,
+        3
+      ],
+      ""
+    ],
+    [
+      "Core2020",
+      "<fg:rgb(200,200,250)>{<glow:rgb(0,0,0)>{Core}}",
+      "Art/2DArt/Shop/pack/core/SteamPackBGCore",
+      "2021-01-01T00:00:00Z",
+      "2019-12-18T21:00:00Z",
+      [
+        1
+      ],
+      "Art/2DArt/UIImages/InGame/Shop/Supporter Pack Titles/Core2/Core2SupporterPacks"
+    ],
+    [
+      "Core2020Console",
+      "<fg:rgb(200,200,250)>{<glow:rgb(0,0,0)>{Core}}",
+      "Art/2DArt/Shop/pack/core/SteamPackBGCore",
+      "2021-01-01T00:00:00Z",
+      "2020-01-01T24:00:00Z",
+      [
+        2,
+        3
+      ],
+      ""
+    ],
+    [
+      "Delirium",
+      "<fg:rgb(200,200,250)>{<glow:rgb(0,0,0)>{Delirium}}",
+      "Art/2DArt/Shop/pack/delirium/SteamPackDeliriumBG",
+      "2020-06-01T21:00:00Z",
+      "2020-02-24T20:00:00Z",
+      [
+        1
+      ],
+      "Art/2DArt/UIImages/InGame/Shop/Supporter Pack Titles/Delirium/DeliriumSupporterPacks"
+    ],
+    [
+      "DeliriumDarkseer",
+      "",
+      "",
+      "",
+      "",
+      [
+        1
+      ],
+      ""
+    ],
+    [
+      "DeliriumFateweaver",
+      "",
+      "",
+      "",
+      "",
+      [
+        1
+      ],
+      ""
+    ],
+    [
+      "DeliriumConsole",
+      "<fg:rgb(200,200,250)>{<glow:rgb(0,0,0)>{Delirium}}",
+      "Art/2DArt/Shop/pack/delirium/SteamPackDeliriumBG",
+      "2020-06-01T21:00:00Z",
+      "2020-02-24T20:00:00Z",
+      [
+        2,
+        3
+      ],
+      ""
+    ],
+    [
+      "DeliriumDarkseerConsole",
+      "",
+      "",
+      "",
+      "",
+      [
+        2,
+        3
+      ],
+      ""
+    ],
+    [
+      "DelirumFateweaverConsole",
+      "",
+      "",
+      "",
+      "",
+      [
+        2,
+        3
+      ],
+      ""
+    ],
+    [
+      "Harvest",
+      "<fg:rgb(200,200,250)>{<glow:rgb(0,0,0)>{Harvest}}",
+      "Art/2DArt/Shop/pack/Harvest/SteamPackHarvestBG",
+      "2021-01-01T00:00:00Z",
+      "2020-06-01T21:00:00Z",
+      [
+        1
+      ],
+      "Art/2DArt/UIImages/InGame/Shop/Supporter Pack Titles/Harvest/HarvestSupporterPacks"
+    ],
+    [
+      "HarvestMalice",
+      "",
+      "",
+      "",
+      "",
+      [
+        1
+      ],
+      ""
+    ],
+    [
+      "HarvestBenevolence",
+      "",
+      "",
+      "",
+      "",
+      [
+        1
+      ],
+      ""
+    ],
+    [
+      "HarvestConsole",
+      "<fg:rgb(200,200,250)>{<glow:rgb(0,0,0)>{Harvest}}",
+      "Art/2DArt/Shop/pack/Harvest/SteamPackHarvestBG",
+      "2021-01-01T00:00:00Z",
+      "2020-02-24T20:00:00Z",
+      [
+        2,
+        3
+      ],
+      ""
+    ],
+    [
+      "HarvestMaliceConsole",
+      "",
+      "",
+      "",
+      "",
+      [
+        2,
+        3
+      ],
+      ""
+    ],
+    [
+      "HarvestBenevolenceConsole",
+      "",
+      "",
+      "",
+      "",
+      [
+        2,
+        3
+      ],
+      ""
+    ],
+    [
+      "Heist",
+      "<fg:rgb(200,200,250)>{<glow:rgb(0,0,0)>{Heist}}",
+      "Art/2DArt/Shop/pack/Heist/SteamPackHeistBG",
+      "2021-01-01T00:00:00Z",
+      "2020-06-02T21:00:00Z",
+      [
+        1
+      ],
+      "Art/2DArt/UIImages/InGame/Shop/Supporter Pack Titles/Heist/HeistSupporterPacks"
+    ],
+    [
+      "HeistSpellblade",
+      "",
+      "",
+      "",
+      "",
+      [
+        1
+      ],
+      ""
+    ],
+    [
+      "HeistEagle",
+      "",
+      "",
+      "",
+      "",
+      [
+        1
+      ],
+      ""
+    ],
+    [
+      "HeistConsole",
+      "<fg:rgb(200,200,250)>{<glow:rgb(0,0,0)>{Heist}}",
+      "Art/2DArt/Shop/pack/Heist/SteamPackHeistBG",
+      "2021-01-01T00:00:00Z",
+      "2020-06-02T21:00:00Z",
+      [
+        2,
+        3
+      ],
+      ""
+    ],
+    [
+      "HeistSpellbladeConsole",
+      "",
+      "",
+      "",
+      "",
+      [
+        2,
+        3
+      ],
+      ""
+    ],
+    [
+      "HeistEagleConsole",
+      "",
+      "",
+      "",
+      "",
+      [
+        2,
+        3
+      ],
+      ""
+    ],
+    [
+      "Ritual",
+      "<fg:rgb(200,200,250)>{<glow:rgb(0,0,0)>{Ritual}}",
+      "Art/2DArt/Shop/pack/ritual/SteamPackRitualBG",
+      "2021-01-01T00:00:00Z",
+      "2020-06-02T21:00:00Z",
+      [
+        1
+      ],
+      "Art/2DArt/UIImages/InGame/Shop/Supporter Pack Titles/Ritual/RitualSupporterPacks"
+    ],
+    [
+      "RitualRenegade",
+      "",
+      "",
+      "",
+      "",
+      [
+        1
+      ],
+      ""
+    ],
+    [
+      "RitualFaithsworn",
+      "",
+      "",
+      "",
+      "",
+      [
+        1
+      ],
+      ""
+    ],
+    [
+      "RitualConsole",
+      "<fg:rgb(200,200,250)>{<glow:rgb(0,0,0)>{Ritual}}",
+      "Art/2DArt/Shop/pack/Heist/SteamPackHeistBG",
+      "2021-01-01T00:00:00Z",
+      "2020-06-02T21:00:00Z",
+      [
+        2,
+        3
+      ],
+      ""
+    ],
+    [
+      "RitualRenegadeConsole",
+      "",
+      "",
+      "",
+      "",
+      [
+        2,
+        3
+      ],
+      ""
+    ],
+    [
+      "RitualFaithswornConsole",
+      "",
+      "",
+      "",
+      "",
+      [
+        2,
+        3
+      ],
+      ""
+    ],
+    [
+      "Core2021",
+      "<fg:rgb(200,200,250)>{<glow:rgb(0,0,0)>{Core}}",
+      "Art/2DArt/Shop/pack/core3/SteamPackBGCore3",
+      "2021-01-01T00:00:00Z",
+      "2019-12-18T21:00:00Z",
+      [
+        1
+      ],
+      "Art/2DArt/UIImages/InGame/Shop/Supporter Pack Titles/Core3/Core3SupporterPacks"
+    ],
+    [
+      "Core2021Console",
+      "<fg:rgb(200,200,250)>{<glow:rgb(0,0,0)>{Core}}",
+      "Art/2DArt/Shop/pack/core3/SteamPackBGCore3",
+      "2021-01-01T00:00:00Z",
+      "2020-01-01T24:00:00Z",
+      [
+        2,
+        3
+      ],
+      ""
+    ]
+  ]
+}

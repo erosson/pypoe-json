@@ -1,1 +1,89 @@
-{"filename":"OnKillAchievements.dat","header":[{"name":"MonsterVarietiesKey","rowid":0,"type":"ulong","key":"MonsterVarieties.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Key0","rowid":1,"type":"ulong","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[[135,1],[132,1],[1246,1],[3449,1],[4377,1],[4528,1],[4477,1],[4463,1],[4862,1],[4537,1],[4992,3],[4993,3],[4994,3]]}
+{
+  "filename": "OnKillAchievements.dat",
+  "header": [
+    {
+      "name": "MonsterVarietiesKey",
+      "rowid": 0,
+      "type": "ulong",
+      "key": "MonsterVarieties.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Key0",
+      "rowid": 1,
+      "type": "ulong",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      135,
+      1
+    ],
+    [
+      132,
+      1
+    ],
+    [
+      1246,
+      1
+    ],
+    [
+      3449,
+      1
+    ],
+    [
+      4377,
+      1
+    ],
+    [
+      4528,
+      1
+    ],
+    [
+      4477,
+      1
+    ],
+    [
+      4463,
+      1
+    ],
+    [
+      4862,
+      1
+    ],
+    [
+      4537,
+      1
+    ],
+    [
+      4992,
+      3
+    ],
+    [
+      4993,
+      3
+    ],
+    [
+      4994,
+      3
+    ]
+  ]
+}

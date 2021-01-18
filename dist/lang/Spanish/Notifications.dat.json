@@ -1,1 +1,487 @@
-{"filename":"Notifications.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":true,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Flag0","rowid":1,"type":"bool","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Flag1","rowid":2,"type":"bool","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Message","rowid":3,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown2","rowid":4,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown3","rowid":5,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Flag2","rowid":6,"type":"bool","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Flag3","rowid":7,"type":"bool","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["FriendRequest",true,true,"Solicitud de Amistad","",0,true,false],["FriendNowOnline",false,true,"Un Amigo se ha Conectado","",1,true,false],["FriendNowOffline",false,true,"Un Amigo se ha Desconectado","",2,true,false],["FriendAreaChanged",false,false,"Un Amigo ha Cambiado de Área","",3,true,false],["FriendLevelChanged",false,false,"Un Amigo ha Cambiado de Nivel","",4,true,false],["FriendStatusMessageChanged",true,true,"Un Amigo ha Cambiado de Estado","",5,true,false],["PartyInvite",true,true,"Te Invitaron a un Grupo","",6,true,false],["PartyJoined",false,true,"Te Uniste a un Grupo","",7,true,true],["PartyLeft",false,true,"Abandonaste el Grupo","",8,true,true],["PartyMemberInvited",false,true,"Se ha Invitado a un Compañero al Grupo","",9,true,false],["PartyMemberJoined",false,true,"Un Compañero se ha Unido al Grupo","",10,true,true],["PartyMemberLeft",false,true,"Un Compañero abandonó el Grupo","",11,true,true],["PartyMemberPromotedToLeader",false,true,"Se ha Promovido a un Compañero del Grupo","",12,true,false],["GuildInvite",true,true,"Invitación a Hermandad","",13,true,true],["GuildJoined",false,true,"Te has unido a la Hermandad","",14,true,true],["GuildLeft",false,true,"Has abandonado la Hermandad","",15,true,true],["GuildRankChanged",false,true,"Tu Rango de Hermandad ha Cambiado","",16,true,true],["GuildMemberInvited",true,true,"Se ha Invitado a un Compañero a la Hermandad","",17,true,true],["GuildMemberJoined",true,true,"Un Compañero se ha Unido a la Hermandad","",18,true,true],["GuildMemberLeft",true,true,"Un Compañero Abandonó la Hermandad","",19,true,true],["GuildMemberRankChanged",true,true,"Compañero Cambió de Rango de Hermandad","",20,true,true],["GiftReceived",true,true,"Regalo Recibido","",21,true,false],["TradeRequest",true,true,"Solicitud de Comercio","",22,true,true],["AchievementComplete",false,true,"Logro Completado","",23,true,true],["AchievementItemComplete",false,true,"Objeto de logro completado","Muestra una notificación cuando parte del logo es completado",24,true,true],["AchievementItemFailed",false,true,"El objeto de logro en seguimiento ha fallado","",24,true,true],["PVPDuelChallenge",true,true,"Desafío de Duelo JcJ","",25,true,false],["PVPEvent",true,true,"Evento JcJ","",26,true,false],["LeagueEvent",true,true,"Evento de Liga","",27,true,true],["MarketNotifications",true,true,"Notificaciones de Mercado","Muestra una notificación cuando recibes ofertas, cuando son aceptadas o cuando son rechazadas.",28,true,true],["BestiaryRecipeNotification",true,true,"Receta de Bestiario","",29,true,true],["RewardNotifications",true,true,"Notificaciones de recompensas","Muestra las notificaciones de las recompensas de los desafíos.",30,true,true],["LeagueInGame",true,true,"Notificaciones de Harvest dentro del juego","Muestra las notificaciones relacionadas con Harvest de dentro del juego",31,true,true],["ConsoleServerMessages",false,false,"Mensajes del servidor","Muestra los mensajes del servidor como ventanas emergentes y en la ventana del chat",32,true,true],["ConsolePlayerLevelUp",false,false,"Has subido de nivel","",33,true,true],["ConsoleGemLevelUp",false,false,"La gema de habilidad subió de nivel","",34,true,true]]}
+{
+  "filename": "Notifications.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Flag0",
+      "rowid": 1,
+      "type": "bool",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Flag1",
+      "rowid": 2,
+      "type": "bool",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Message",
+      "rowid": 3,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown2",
+      "rowid": 4,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown3",
+      "rowid": 5,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Flag2",
+      "rowid": 6,
+      "type": "bool",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Flag3",
+      "rowid": 7,
+      "type": "bool",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "FriendRequest",
+      true,
+      true,
+      "Solicitud de Amistad",
+      "",
+      0,
+      true,
+      false
+    ],
+    [
+      "FriendNowOnline",
+      false,
+      true,
+      "Un Amigo se ha Conectado",
+      "",
+      1,
+      true,
+      false
+    ],
+    [
+      "FriendNowOffline",
+      false,
+      true,
+      "Un Amigo se ha Desconectado",
+      "",
+      2,
+      true,
+      false
+    ],
+    [
+      "FriendAreaChanged",
+      false,
+      false,
+      "Un Amigo ha Cambiado de Área",
+      "",
+      3,
+      true,
+      false
+    ],
+    [
+      "FriendLevelChanged",
+      false,
+      false,
+      "Un Amigo ha Cambiado de Nivel",
+      "",
+      4,
+      true,
+      false
+    ],
+    [
+      "FriendStatusMessageChanged",
+      true,
+      true,
+      "Un Amigo ha Cambiado de Estado",
+      "",
+      5,
+      true,
+      false
+    ],
+    [
+      "PartyInvite",
+      true,
+      true,
+      "Te Invitaron a un Grupo",
+      "",
+      6,
+      true,
+      false
+    ],
+    [
+      "PartyJoined",
+      false,
+      true,
+      "Te Uniste a un Grupo",
+      "",
+      7,
+      true,
+      true
+    ],
+    [
+      "PartyLeft",
+      false,
+      true,
+      "Abandonaste el Grupo",
+      "",
+      8,
+      true,
+      true
+    ],
+    [
+      "PartyMemberInvited",
+      false,
+      true,
+      "Se ha Invitado a un Compañero al Grupo",
+      "",
+      9,
+      true,
+      false
+    ],
+    [
+      "PartyMemberJoined",
+      false,
+      true,
+      "Un Compañero se ha Unido al Grupo",
+      "",
+      10,
+      true,
+      true
+    ],
+    [
+      "PartyMemberLeft",
+      false,
+      true,
+      "Un Compañero abandonó el Grupo",
+      "",
+      11,
+      true,
+      true
+    ],
+    [
+      "PartyMemberPromotedToLeader",
+      false,
+      true,
+      "Se ha Promovido a un Compañero del Grupo",
+      "",
+      12,
+      true,
+      false
+    ],
+    [
+      "GuildInvite",
+      true,
+      true,
+      "Invitación a Hermandad",
+      "",
+      13,
+      true,
+      true
+    ],
+    [
+      "GuildJoined",
+      false,
+      true,
+      "Te has unido a la Hermandad",
+      "",
+      14,
+      true,
+      true
+    ],
+    [
+      "GuildLeft",
+      false,
+      true,
+      "Has abandonado la Hermandad",
+      "",
+      15,
+      true,
+      true
+    ],
+    [
+      "GuildRankChanged",
+      false,
+      true,
+      "Tu Rango de Hermandad ha Cambiado",
+      "",
+      16,
+      true,
+      true
+    ],
+    [
+      "GuildMemberInvited",
+      true,
+      true,
+      "Se ha Invitado a un Compañero a la Hermandad",
+      "",
+      17,
+      true,
+      true
+    ],
+    [
+      "GuildMemberJoined",
+      true,
+      true,
+      "Un Compañero se ha Unido a la Hermandad",
+      "",
+      18,
+      true,
+      true
+    ],
+    [
+      "GuildMemberLeft",
+      true,
+      true,
+      "Un Compañero Abandonó la Hermandad",
+      "",
+      19,
+      true,
+      true
+    ],
+    [
+      "GuildMemberRankChanged",
+      true,
+      true,
+      "Compañero Cambió de Rango de Hermandad",
+      "",
+      20,
+      true,
+      true
+    ],
+    [
+      "GiftReceived",
+      true,
+      true,
+      "Regalo Recibido",
+      "",
+      21,
+      true,
+      false
+    ],
+    [
+      "TradeRequest",
+      true,
+      true,
+      "Solicitud de Comercio",
+      "",
+      22,
+      true,
+      true
+    ],
+    [
+      "AchievementComplete",
+      false,
+      true,
+      "Logro Completado",
+      "",
+      23,
+      true,
+      true
+    ],
+    [
+      "AchievementItemComplete",
+      false,
+      true,
+      "Objeto de logro completado",
+      "Muestra una notificación cuando parte del logo es completado",
+      24,
+      true,
+      true
+    ],
+    [
+      "AchievementItemFailed",
+      false,
+      true,
+      "El objeto de logro en seguimiento ha fallado",
+      "",
+      24,
+      true,
+      true
+    ],
+    [
+      "PVPDuelChallenge",
+      true,
+      true,
+      "Desafío de Duelo JcJ",
+      "",
+      25,
+      true,
+      false
+    ],
+    [
+      "PVPEvent",
+      true,
+      true,
+      "Evento JcJ",
+      "",
+      26,
+      true,
+      false
+    ],
+    [
+      "LeagueEvent",
+      true,
+      true,
+      "Evento de Liga",
+      "",
+      27,
+      true,
+      true
+    ],
+    [
+      "MarketNotifications",
+      true,
+      true,
+      "Notificaciones de Mercado",
+      "Muestra una notificación cuando recibes ofertas, cuando son aceptadas o cuando son rechazadas.",
+      28,
+      true,
+      true
+    ],
+    [
+      "BestiaryRecipeNotification",
+      true,
+      true,
+      "Receta de Bestiario",
+      "",
+      29,
+      true,
+      true
+    ],
+    [
+      "RewardNotifications",
+      true,
+      true,
+      "Notificaciones de recompensas",
+      "Muestra las notificaciones de las recompensas de los desafíos.",
+      30,
+      true,
+      true
+    ],
+    [
+      "LeagueInGame",
+      true,
+      true,
+      "Notificaciones de Harvest dentro del juego",
+      "Muestra las notificaciones relacionadas con Harvest de dentro del juego",
+      31,
+      true,
+      true
+    ],
+    [
+      "ConsoleServerMessages",
+      false,
+      false,
+      "Mensajes del servidor",
+      "Muestra los mensajes del servidor como ventanas emergentes y en la ventana del chat",
+      32,
+      true,
+      true
+    ],
+    [
+      "ConsolePlayerLevelUp",
+      false,
+      false,
+      "Has subido de nivel",
+      "",
+      33,
+      true,
+      true
+    ],
+    [
+      "ConsoleGemLevelUp",
+      false,
+      false,
+      "La gema de habilidad subió de nivel",
+      "",
+      34,
+      true,
+      true
+    ]
+  ]
+}

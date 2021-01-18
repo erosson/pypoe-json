@@ -1,1 +1,247 @@
-{"filename":"BestiaryGroups.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":true,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Description","rowid":1,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Illustraiton","rowid":2,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Name","rowid":3,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Icon","rowid":4,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":true,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"IconSmall","rowid":5,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":true,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"BestiaryFamiliesKey","rowid":6,"type":"ulong","key":"BestiaryFamilies.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"AchievementItemsKeys","rowid":7,"type":"ref|list|ulong","key":"AchievementItems.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["Felines","\"Devoradores de hombres. Depredadores. Abandona la idea infantil de acoger a estas hermosas bestias, pues son poderosas y violentas. Desgarrarán en pedazos a todo aquel que se les acerque sin respeto\".","Art/2DArt/UIImages/InGame/Bestiary/Illustrations/Felines","Felinos","Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/GroupFeline","Art/2DArt/UIImages/InGame/Bestiary/ItemIcons/Felines",0,[]],["Primates","\"Hay una inteligencia detrás de los ojos de los primates, una sensibilidad que atrae. Pero no existe empatía. No hay bondad. Solo odio y furia, un deseo de mutilar y matar\".","Art/2DArt/UIImages/InGame/Bestiary/Illustrations/Primates","Primates","Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/GroupPrimate","Art/2DArt/UIImages/InGame/Bestiary/ItemIcons/Primates",0,[]],["Canines","\"Compadécete del hombre al que cazan. No hay lugar donde pueda esconderse, ningún lugar al que pueda huir: unos ladridos enloquecidos lo perseguirán, y los canes siempre lo olfatearán\".","Art/2DArt/UIImages/InGame/Bestiary/Illustrations/Founds","Caninos","Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/GroupCanine","Art/2DArt/UIImages/InGame/Bestiary/ItemIcons/Canines",0,[]],["Ursa","\"Montañas enmarañadas de músculo y pelo, no solamente devoran hombres, sino que también devoran a los devoradores de hombres. Los Ursas se aventuran fuera de sus madrigueras, merodeando a través de tierras boscosas, envejeciendo, sedientos de sangre caliente y carne dulce\".","Art/2DArt/UIImages/InGame/Bestiary/Illustrations/Ursa","Ursas","Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/GroupUrsa","Art/2DArt/UIImages/InGame/Bestiary/ItemIcons/Ursa",0,[]],["Large Mammals","\"Las abominaciones no tienen derecho a existir. Cuando un hombre las ve, su espíritu tiembla y el aire que lo rodea estalla y se agrieta, como si el propio universo estuviera enfurecido ante esta presencia antinatural\".","Art/2DArt/UIImages/InGame/Bestiary/Illustrations/Unnaturals","Antinaturales","Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/GroupUnnaturals","Art/2DArt/UIImages/InGame/Bestiary/ItemIcons/Unnaturals",0,[]],["Avians","\"Los antiguos los contemplaban y los creían dioses, pues solo los dioses podían ascender a semejante altura. Tal es el don del linaje aviar, pero no te dejes engañar, porque aunque su plumaje sea brillante y su canto cautivador, sus garras albergan un poder letal e innecesario\".","Art/2DArt/UIImages/InGame/Bestiary/Illustrations/Avians","Aves","Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/GroupAvian","Art/2DArt/UIImages/InGame/Bestiary/ItemIcons/Avians",1,[]],["Reptiles","\"Antaño, sus antepasados gobernaban este mundo. Pero destronados por la arrogancia del hombre, su sangre fría hierve y sus lenguas bífidas aparecen y desaparecen, saboreando el aire. Tomarán su libra de carne y traerán miseria a cualquiera que intente detenerlos\".","Art/2DArt/UIImages/InGame/Bestiary/Illustrations/Reptiles","Reptiles","Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/GroupReptiles","Art/2DArt/UIImages/InGame/Bestiary/ItemIcons/Reptiles",1,[]],["Insects","\"Las masas de enjambres de probóscides errantes y mandíbulas chasqueantes nacieron de las tinieblas, destinadas a plagar para siempre el mundo conocido. Aquellos que devoran la cosecha traen pobreza y venenos dolorosos\".","Art/2DArt/UIImages/InGame/Bestiary/Illustrations/Insects","Insectos","Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/GroupInsect","Art/2DArt/UIImages/InGame/Bestiary/ItemIcons/Insects",2,[]],["Arachnids","\" 'Pequeños dioses de muerte' los llaman aquellos que los conocen de cerca y les temen. Los Arácnidos hacen sus nidos dentro de las blanquecinas calaveras de los muertos, y esperan en la oscuridad su momento de envenenar el mundo\".","Art/2DArt/UIImages/InGame/Bestiary/Illustrations/Arachnids","Arácnidos","Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/GroupArachnid","Art/2DArt/UIImages/InGame/Bestiary/ItemIcons/Arachnids",2,[]],["Cephalopod","\"Pesadillas brotan desde el vacío tentacular. Un odio espeluznante emana de diversos apéndices, y el agarre succionante de su despiadado apretón arrastrará a un hombre lejos hacia las profanas profundidades\".","Art/2DArt/UIImages/InGame/Bestiary/Illustrations/Cephalopods","Cefalópodos","Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/GroupCephalopod","Art/2DArt/UIImages/InGame/Bestiary/ItemIcons/Cephalopod",3,[]],["Crustaceans","\"Algunos dicen que los crustáceos nacen de las almas de los hombres muertos, de aquellos guerreros que lucharon y murieron. Pues el cangrejo se forma con su armadura intacta: su espada se convierte en sus pinzas y su escudo en su piel\".","Art/2DArt/UIImages/InGame/Bestiary/Illustrations/Crustaceans","Crustáceos","Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/GroupCrustacean","Art/2DArt/UIImages/InGame/Bestiary/ItemIcons/Crustaceans",3,[]],["Amphibians","\"Al ser de lodo y pantano, el anfibio es una criatura apestosa. Ten cuidado de su sorprendente habilidad para respirar tanto fuera como dentro del agua, pues gracias a este truco atraerán a su presa y la dejarán hundirse al mortal apresamiento de una turbia ciénaga\".","Art/2DArt/UIImages/InGame/Bestiary/Illustrations/Amphibians","Anfibios","Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/GroupAmphibian","Art/2DArt/UIImages/InGame/Bestiary/ItemIcons/Amphibians",3,[]]]}
+{
+  "filename": "BestiaryGroups.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Description",
+      "rowid": 1,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Illustraiton",
+      "rowid": 2,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Name",
+      "rowid": 3,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Icon",
+      "rowid": 4,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": true,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "IconSmall",
+      "rowid": 5,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": true,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "BestiaryFamiliesKey",
+      "rowid": 6,
+      "type": "ulong",
+      "key": "BestiaryFamilies.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "AchievementItemsKeys",
+      "rowid": 7,
+      "type": "ref|list|ulong",
+      "key": "AchievementItems.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "Felines",
+      "\"Devoradores de hombres. Depredadores. Abandona la idea infantil de acoger a estas hermosas bestias, pues son poderosas y violentas. Desgarrarán en pedazos a todo aquel que se les acerque sin respeto\".",
+      "Art/2DArt/UIImages/InGame/Bestiary/Illustrations/Felines",
+      "Felinos",
+      "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/GroupFeline",
+      "Art/2DArt/UIImages/InGame/Bestiary/ItemIcons/Felines",
+      0,
+      []
+    ],
+    [
+      "Primates",
+      "\"Hay una inteligencia detrás de los ojos de los primates, una sensibilidad que atrae. Pero no existe empatía. No hay bondad. Solo odio y furia, un deseo de mutilar y matar\".",
+      "Art/2DArt/UIImages/InGame/Bestiary/Illustrations/Primates",
+      "Primates",
+      "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/GroupPrimate",
+      "Art/2DArt/UIImages/InGame/Bestiary/ItemIcons/Primates",
+      0,
+      []
+    ],
+    [
+      "Canines",
+      "\"Compadécete del hombre al que cazan. No hay lugar donde pueda esconderse, ningún lugar al que pueda huir: unos ladridos enloquecidos lo perseguirán, y los canes siempre lo olfatearán\".",
+      "Art/2DArt/UIImages/InGame/Bestiary/Illustrations/Founds",
+      "Caninos",
+      "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/GroupCanine",
+      "Art/2DArt/UIImages/InGame/Bestiary/ItemIcons/Canines",
+      0,
+      []
+    ],
+    [
+      "Ursa",
+      "\"Montañas enmarañadas de músculo y pelo, no solamente devoran hombres, sino que también devoran a los devoradores de hombres. Los Ursas se aventuran fuera de sus madrigueras, merodeando a través de tierras boscosas, envejeciendo, sedientos de sangre caliente y carne dulce\".",
+      "Art/2DArt/UIImages/InGame/Bestiary/Illustrations/Ursa",
+      "Ursas",
+      "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/GroupUrsa",
+      "Art/2DArt/UIImages/InGame/Bestiary/ItemIcons/Ursa",
+      0,
+      []
+    ],
+    [
+      "Large Mammals",
+      "\"Las abominaciones no tienen derecho a existir. Cuando un hombre las ve, su espíritu tiembla y el aire que lo rodea estalla y se agrieta, como si el propio universo estuviera enfurecido ante esta presencia antinatural\".",
+      "Art/2DArt/UIImages/InGame/Bestiary/Illustrations/Unnaturals",
+      "Antinaturales",
+      "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/GroupUnnaturals",
+      "Art/2DArt/UIImages/InGame/Bestiary/ItemIcons/Unnaturals",
+      0,
+      []
+    ],
+    [
+      "Avians",
+      "\"Los antiguos los contemplaban y los creían dioses, pues solo los dioses podían ascender a semejante altura. Tal es el don del linaje aviar, pero no te dejes engañar, porque aunque su plumaje sea brillante y su canto cautivador, sus garras albergan un poder letal e innecesario\".",
+      "Art/2DArt/UIImages/InGame/Bestiary/Illustrations/Avians",
+      "Aves",
+      "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/GroupAvian",
+      "Art/2DArt/UIImages/InGame/Bestiary/ItemIcons/Avians",
+      1,
+      []
+    ],
+    [
+      "Reptiles",
+      "\"Antaño, sus antepasados gobernaban este mundo. Pero destronados por la arrogancia del hombre, su sangre fría hierve y sus lenguas bífidas aparecen y desaparecen, saboreando el aire. Tomarán su libra de carne y traerán miseria a cualquiera que intente detenerlos\".",
+      "Art/2DArt/UIImages/InGame/Bestiary/Illustrations/Reptiles",
+      "Reptiles",
+      "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/GroupReptiles",
+      "Art/2DArt/UIImages/InGame/Bestiary/ItemIcons/Reptiles",
+      1,
+      []
+    ],
+    [
+      "Insects",
+      "\"Las masas de enjambres de probóscides errantes y mandíbulas chasqueantes nacieron de las tinieblas, destinadas a plagar para siempre el mundo conocido. Aquellos que devoran la cosecha traen pobreza y venenos dolorosos\".",
+      "Art/2DArt/UIImages/InGame/Bestiary/Illustrations/Insects",
+      "Insectos",
+      "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/GroupInsect",
+      "Art/2DArt/UIImages/InGame/Bestiary/ItemIcons/Insects",
+      2,
+      []
+    ],
+    [
+      "Arachnids",
+      "\" 'Pequeños dioses de muerte' los llaman aquellos que los conocen de cerca y les temen. Los Arácnidos hacen sus nidos dentro de las blanquecinas calaveras de los muertos, y esperan en la oscuridad su momento de envenenar el mundo\".",
+      "Art/2DArt/UIImages/InGame/Bestiary/Illustrations/Arachnids",
+      "Arácnidos",
+      "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/GroupArachnid",
+      "Art/2DArt/UIImages/InGame/Bestiary/ItemIcons/Arachnids",
+      2,
+      []
+    ],
+    [
+      "Cephalopod",
+      "\"Pesadillas brotan desde el vacío tentacular. Un odio espeluznante emana de diversos apéndices, y el agarre succionante de su despiadado apretón arrastrará a un hombre lejos hacia las profanas profundidades\".",
+      "Art/2DArt/UIImages/InGame/Bestiary/Illustrations/Cephalopods",
+      "Cefalópodos",
+      "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/GroupCephalopod",
+      "Art/2DArt/UIImages/InGame/Bestiary/ItemIcons/Cephalopod",
+      3,
+      []
+    ],
+    [
+      "Crustaceans",
+      "\"Algunos dicen que los crustáceos nacen de las almas de los hombres muertos, de aquellos guerreros que lucharon y murieron. Pues el cangrejo se forma con su armadura intacta: su espada se convierte en sus pinzas y su escudo en su piel\".",
+      "Art/2DArt/UIImages/InGame/Bestiary/Illustrations/Crustaceans",
+      "Crustáceos",
+      "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/GroupCrustacean",
+      "Art/2DArt/UIImages/InGame/Bestiary/ItemIcons/Crustaceans",
+      3,
+      []
+    ],
+    [
+      "Amphibians",
+      "\"Al ser de lodo y pantano, el anfibio es una criatura apestosa. Ten cuidado de su sorprendente habilidad para respirar tanto fuera como dentro del agua, pues gracias a este truco atraerán a su presa y la dejarán hundirse al mortal apresamiento de una turbia ciénaga\".",
+      "Art/2DArt/UIImages/InGame/Bestiary/Illustrations/Amphibians",
+      "Anfibios",
+      "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/GroupAmphibian",
+      "Art/2DArt/UIImages/InGame/Bestiary/ItemIcons/Amphibians",
+      3,
+      []
+    ]
+  ]
+}

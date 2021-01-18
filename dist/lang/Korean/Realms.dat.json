@@ -1,1 +1,708 @@
-{"filename":"Realms.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":true,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Name","rowid":1,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Server","rowid":2,"type":"ref|list|ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"IsEnabled","rowid":3,"type":"bool","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Server2","rowid":4,"type":"ref|list|ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"ShortName","rowid":5,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Data0","rowid":6,"type":"ref|list|int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown0","rowid":7,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown1","rowid":8,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"IsGammaRealm","rowid":9,"type":"bool","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown2","rowid":10,"type":"ref|list|int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["America","텍사스 (미국)",["dal01.login.pathofexile.com"],true,[],"US",[12,11],0,0,false,[124]],["Europe","암스테르담 (EU)",["ams01.login.pathofexile.com"],true,[],"EU",[9,10],1,3,false,[306]],["Singapore","싱가포르",["sng01.login.pathofexile.com"],true,[],"SG",[3,0],0,7,false,[482]],["Australia","오스트레일리아",["mel01.login.pathofexile.com"],true,[],"AU",[2,0],0,8,false,[664]],["SingaporeGA","싱가포르/말레이시아",[],false,["sg","my","singapore","malaysia","singapore/malaysia"],"SG",[],4,9,false,[]],["PhilippinesGA","필리핀",[],false,["ph","philippines"],"PH",[],5,10,false,[]],["TaiwanGA","대만",[],false,["tw","taiwan"],"TW",[],6,11,false,[]],["ThailandGA","태국",[],false,["th","thailand"],"TH",[],7,12,false,[]],["RussiaGA","모스크바",[],false,["ru","russia"],"RU",[],8,13,false,[]],["London","런던 (EU)",["lon01.login.pathofexile.com"],true,[],"LON",[1,10,16],1,4,false,[1320]],["Frankfurt","프랑크푸르트 (EU)",["fra01.login.pathofexile.com"],true,[],"FRA",[1,9,16],1,5,false,[1518]],["WashingtonDC","워싱턴 D.C. (미국)",["wdc01.login.pathofexile.com"],true,[],"WDC",[0,12],0,1,false,[1722]],["SanJose","캘리포니아 (미국)",["sjc01.login.pathofexile.com"],true,[],"SJC",[0,11],0,2,false,[1910]],["RussiaNO","노보시비르스크",[],false,[],"RUNO",[],8,14,false,[]],["RussiaVL","블라디보스토크",[],false,[],"RUVL",[],8,15,false,[]],["RussiaAL","알마티",[],false,[],"RUAL",[],8,16,false,[]],["Milan","밀라노 (EU)",["mil01.login.pathofexile.com"],true,[],"MIL",[10,1,9],1,6,false,[2236]],["Brazil","상파울루 (브라질)",["sao01.login.pathofexile.com"],true,[],"BR",[0,11],0,17,false,[2420]],["Paris","파리 (EU)",["par01.login.pathofexile.com"],true,[],"PAR",[10,1,9],1,18,false,[2600]],["Miami","마이애미 (미국)",["mia.login.pathofexile.com"],false,[],"",[0],0,19,false,[2768]],["Russia","모스크바 (러시아)",["mos01.login.pathofexile.com"],true,[],"RU",[10,1,9],1,20,false,[2948]],["Aotearoa","오클랜드 (뉴질랜드)",["akl01.login.pathofexile.com"],false,[],"NZ",[3],0,21,false,[3132]],["SingaporeGamma","싱가포르",["sg.gamma.pathofexile.com"],true,[],"SGG",[23],0,100,true,[]],["SanJoseGamma","캘리포니아",["sjc.gamma.pathofexile.com"],true,[],"SJCG",[22],0,101,true,[]],["LondonGamma","런던",["lon.gamma.pathofexile.com"],true,[],"LONG",[23],0,102,true,[]],["AustraliaGamma","오스트레일리아",["au.gamma.pathofexile.com"],true,[],"AUG",[23],0,103,true,[]],["Japan","일본",["tok01.login.pathofexile.com"],true,[],"JPN",[2,3,12,0],0,22,false,[3734]],["Korea","서울 (한국)",["seo01.login.pathofexile.com"],true,[],"KR",[26,0],27,23,false,[3908]],["Canada","캐나다 (동부)",["tor01.login.pathofexile.com"],true,[],"TOR",[11,0,12],0,24,false,[4092]]]}
+{
+  "filename": "Realms.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Name",
+      "rowid": 1,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Server",
+      "rowid": 2,
+      "type": "ref|list|ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "IsEnabled",
+      "rowid": 3,
+      "type": "bool",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Server2",
+      "rowid": 4,
+      "type": "ref|list|ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "ShortName",
+      "rowid": 5,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Data0",
+      "rowid": 6,
+      "type": "ref|list|int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown0",
+      "rowid": 7,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown1",
+      "rowid": 8,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "IsGammaRealm",
+      "rowid": 9,
+      "type": "bool",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown2",
+      "rowid": 10,
+      "type": "ref|list|int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "America",
+      "텍사스 (미국)",
+      [
+        "dal01.login.pathofexile.com"
+      ],
+      true,
+      [],
+      "US",
+      [
+        12,
+        11
+      ],
+      0,
+      0,
+      false,
+      [
+        124
+      ]
+    ],
+    [
+      "Europe",
+      "암스테르담 (EU)",
+      [
+        "ams01.login.pathofexile.com"
+      ],
+      true,
+      [],
+      "EU",
+      [
+        9,
+        10
+      ],
+      1,
+      3,
+      false,
+      [
+        306
+      ]
+    ],
+    [
+      "Singapore",
+      "싱가포르",
+      [
+        "sng01.login.pathofexile.com"
+      ],
+      true,
+      [],
+      "SG",
+      [
+        3,
+        0
+      ],
+      0,
+      7,
+      false,
+      [
+        482
+      ]
+    ],
+    [
+      "Australia",
+      "오스트레일리아",
+      [
+        "mel01.login.pathofexile.com"
+      ],
+      true,
+      [],
+      "AU",
+      [
+        2,
+        0
+      ],
+      0,
+      8,
+      false,
+      [
+        664
+      ]
+    ],
+    [
+      "SingaporeGA",
+      "싱가포르/말레이시아",
+      [],
+      false,
+      [
+        "sg",
+        "my",
+        "singapore",
+        "malaysia",
+        "singapore/malaysia"
+      ],
+      "SG",
+      [],
+      4,
+      9,
+      false,
+      []
+    ],
+    [
+      "PhilippinesGA",
+      "필리핀",
+      [],
+      false,
+      [
+        "ph",
+        "philippines"
+      ],
+      "PH",
+      [],
+      5,
+      10,
+      false,
+      []
+    ],
+    [
+      "TaiwanGA",
+      "대만",
+      [],
+      false,
+      [
+        "tw",
+        "taiwan"
+      ],
+      "TW",
+      [],
+      6,
+      11,
+      false,
+      []
+    ],
+    [
+      "ThailandGA",
+      "태국",
+      [],
+      false,
+      [
+        "th",
+        "thailand"
+      ],
+      "TH",
+      [],
+      7,
+      12,
+      false,
+      []
+    ],
+    [
+      "RussiaGA",
+      "모스크바",
+      [],
+      false,
+      [
+        "ru",
+        "russia"
+      ],
+      "RU",
+      [],
+      8,
+      13,
+      false,
+      []
+    ],
+    [
+      "London",
+      "런던 (EU)",
+      [
+        "lon01.login.pathofexile.com"
+      ],
+      true,
+      [],
+      "LON",
+      [
+        1,
+        10,
+        16
+      ],
+      1,
+      4,
+      false,
+      [
+        1320
+      ]
+    ],
+    [
+      "Frankfurt",
+      "프랑크푸르트 (EU)",
+      [
+        "fra01.login.pathofexile.com"
+      ],
+      true,
+      [],
+      "FRA",
+      [
+        1,
+        9,
+        16
+      ],
+      1,
+      5,
+      false,
+      [
+        1518
+      ]
+    ],
+    [
+      "WashingtonDC",
+      "워싱턴 D.C. (미국)",
+      [
+        "wdc01.login.pathofexile.com"
+      ],
+      true,
+      [],
+      "WDC",
+      [
+        0,
+        12
+      ],
+      0,
+      1,
+      false,
+      [
+        1722
+      ]
+    ],
+    [
+      "SanJose",
+      "캘리포니아 (미국)",
+      [
+        "sjc01.login.pathofexile.com"
+      ],
+      true,
+      [],
+      "SJC",
+      [
+        0,
+        11
+      ],
+      0,
+      2,
+      false,
+      [
+        1910
+      ]
+    ],
+    [
+      "RussiaNO",
+      "노보시비르스크",
+      [],
+      false,
+      [],
+      "RUNO",
+      [],
+      8,
+      14,
+      false,
+      []
+    ],
+    [
+      "RussiaVL",
+      "블라디보스토크",
+      [],
+      false,
+      [],
+      "RUVL",
+      [],
+      8,
+      15,
+      false,
+      []
+    ],
+    [
+      "RussiaAL",
+      "알마티",
+      [],
+      false,
+      [],
+      "RUAL",
+      [],
+      8,
+      16,
+      false,
+      []
+    ],
+    [
+      "Milan",
+      "밀라노 (EU)",
+      [
+        "mil01.login.pathofexile.com"
+      ],
+      true,
+      [],
+      "MIL",
+      [
+        10,
+        1,
+        9
+      ],
+      1,
+      6,
+      false,
+      [
+        2236
+      ]
+    ],
+    [
+      "Brazil",
+      "상파울루 (브라질)",
+      [
+        "sao01.login.pathofexile.com"
+      ],
+      true,
+      [],
+      "BR",
+      [
+        0,
+        11
+      ],
+      0,
+      17,
+      false,
+      [
+        2420
+      ]
+    ],
+    [
+      "Paris",
+      "파리 (EU)",
+      [
+        "par01.login.pathofexile.com"
+      ],
+      true,
+      [],
+      "PAR",
+      [
+        10,
+        1,
+        9
+      ],
+      1,
+      18,
+      false,
+      [
+        2600
+      ]
+    ],
+    [
+      "Miami",
+      "마이애미 (미국)",
+      [
+        "mia.login.pathofexile.com"
+      ],
+      false,
+      [],
+      "",
+      [
+        0
+      ],
+      0,
+      19,
+      false,
+      [
+        2768
+      ]
+    ],
+    [
+      "Russia",
+      "모스크바 (러시아)",
+      [
+        "mos01.login.pathofexile.com"
+      ],
+      true,
+      [],
+      "RU",
+      [
+        10,
+        1,
+        9
+      ],
+      1,
+      20,
+      false,
+      [
+        2948
+      ]
+    ],
+    [
+      "Aotearoa",
+      "오클랜드 (뉴질랜드)",
+      [
+        "akl01.login.pathofexile.com"
+      ],
+      false,
+      [],
+      "NZ",
+      [
+        3
+      ],
+      0,
+      21,
+      false,
+      [
+        3132
+      ]
+    ],
+    [
+      "SingaporeGamma",
+      "싱가포르",
+      [
+        "sg.gamma.pathofexile.com"
+      ],
+      true,
+      [],
+      "SGG",
+      [
+        23
+      ],
+      0,
+      100,
+      true,
+      []
+    ],
+    [
+      "SanJoseGamma",
+      "캘리포니아",
+      [
+        "sjc.gamma.pathofexile.com"
+      ],
+      true,
+      [],
+      "SJCG",
+      [
+        22
+      ],
+      0,
+      101,
+      true,
+      []
+    ],
+    [
+      "LondonGamma",
+      "런던",
+      [
+        "lon.gamma.pathofexile.com"
+      ],
+      true,
+      [],
+      "LONG",
+      [
+        23
+      ],
+      0,
+      102,
+      true,
+      []
+    ],
+    [
+      "AustraliaGamma",
+      "오스트레일리아",
+      [
+        "au.gamma.pathofexile.com"
+      ],
+      true,
+      [],
+      "AUG",
+      [
+        23
+      ],
+      0,
+      103,
+      true,
+      []
+    ],
+    [
+      "Japan",
+      "일본",
+      [
+        "tok01.login.pathofexile.com"
+      ],
+      true,
+      [],
+      "JPN",
+      [
+        2,
+        3,
+        12,
+        0
+      ],
+      0,
+      22,
+      false,
+      [
+        3734
+      ]
+    ],
+    [
+      "Korea",
+      "서울 (한국)",
+      [
+        "seo01.login.pathofexile.com"
+      ],
+      true,
+      [],
+      "KR",
+      [
+        26,
+        0
+      ],
+      27,
+      23,
+      false,
+      [
+        3908
+      ]
+    ],
+    [
+      "Canada",
+      "캐나다 (동부)",
+      [
+        "tor01.login.pathofexile.com"
+      ],
+      true,
+      [],
+      "TOR",
+      [
+        11,
+        0,
+        12
+      ],
+      0,
+      24,
+      false,
+      [
+        4092
+      ]
+    ]
+  ]
+}

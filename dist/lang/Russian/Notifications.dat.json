@@ -1,1 +1,487 @@
-{"filename":"Notifications.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":true,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Flag0","rowid":1,"type":"bool","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Flag1","rowid":2,"type":"bool","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Message","rowid":3,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown2","rowid":4,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown3","rowid":5,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Flag2","rowid":6,"type":"bool","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Flag3","rowid":7,"type":"bool","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["FriendRequest",true,true,"Запрос в друзья","",0,true,false],["FriendNowOnline",false,true,"Друг вошёл в игру","",1,true,false],["FriendNowOffline",false,true,"Друг вышел из игры","",2,true,false],["FriendAreaChanged",false,false,"Друг вошёл в область","",3,true,false],["FriendLevelChanged",false,false,"Друг получил уровень","",4,true,false],["FriendStatusMessageChanged",true,true,"Друг изменил статус","",5,true,false],["PartyInvite",true,true,"Приглашён в группу","",6,true,false],["PartyJoined",false,true,"Вступил в группу","",7,true,true],["PartyLeft",false,true,"Покинул группу","",8,true,true],["PartyMemberInvited",false,true,"Игрок приглашён в группу","",9,true,false],["PartyMemberJoined",false,true,"Игрок вступил в группу","",10,true,true],["PartyMemberLeft",false,true,"Игрок покинул группу","",11,true,true],["PartyMemberPromotedToLeader",false,true,"Изменение статуса игрока в группе","",12,true,false],["GuildInvite",true,true,"Приглашение в гильдию","",13,true,true],["GuildJoined",false,true,"Вступил в гильдию","",14,true,true],["GuildLeft",false,true,"Покинул гильдию","",15,true,true],["GuildRankChanged",false,true,"Изменение статуса в гильдии","",16,true,true],["GuildMemberInvited",true,true,"Игрок приглашён в гильдию","",17,true,true],["GuildMemberJoined",true,true,"Игрок вступил в гильдию","",18,true,true],["GuildMemberLeft",true,true,"Игрок покинул гильдию","",19,true,true],["GuildMemberRankChanged",true,true,"Изменение статуса игрока в гильдии","",20,true,true],["GiftReceived",true,true,"Получен подарок","",21,true,false],["TradeRequest",true,true,"Запрос на торговлю","",22,true,true],["AchievementComplete",false,true,"Достижение выполнено","",23,true,true],["AchievementItemComplete",false,true,"Часть достижения выполнена","Показывает уведомление при выполнении части достижения",24,true,true],["AchievementItemFailed",false,true,"Не выполнено условие отслеживаемого достижения","",24,true,true],["PVPDuelChallenge",true,true,"Вызов на дуэль","",25,true,false],["PVPEvent",true,true,"PVP событие","",26,true,false],["LeagueEvent",true,true,"Событие","",27,true,true],["MarketNotifications",true,true,"Уведомления рынка","Показывает уведомление при получении предложений, когда они приняты или отклонены.",28,true,true],["BestiaryRecipeNotification",true,true,"Рецепты Бестиария","",29,true,true],["RewardNotifications",true,true,"Уведомления о наградах","Показывает уведомление при получении награды за выполнений испытаний.",30,true,true],["LeagueInGame",true,true,"Внутриигровые уведомления Жатвы","Показыает внутриигровые уведомления Жатвы",31,true,true],["ConsoleServerMessages",false,false,"Серверные сообщения","Дублирует всплывающие серверные сообщения в окне чата ",32,true,true],["ConsolePlayerLevelUp",false,false,"Повышение уровня","",33,true,true],["ConsoleGemLevelUp",false,false,"Повышение уровня камня","",34,true,true]]}
+{
+  "filename": "Notifications.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Flag0",
+      "rowid": 1,
+      "type": "bool",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Flag1",
+      "rowid": 2,
+      "type": "bool",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Message",
+      "rowid": 3,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown2",
+      "rowid": 4,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown3",
+      "rowid": 5,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Flag2",
+      "rowid": 6,
+      "type": "bool",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Flag3",
+      "rowid": 7,
+      "type": "bool",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "FriendRequest",
+      true,
+      true,
+      "Запрос в друзья",
+      "",
+      0,
+      true,
+      false
+    ],
+    [
+      "FriendNowOnline",
+      false,
+      true,
+      "Друг вошёл в игру",
+      "",
+      1,
+      true,
+      false
+    ],
+    [
+      "FriendNowOffline",
+      false,
+      true,
+      "Друг вышел из игры",
+      "",
+      2,
+      true,
+      false
+    ],
+    [
+      "FriendAreaChanged",
+      false,
+      false,
+      "Друг вошёл в область",
+      "",
+      3,
+      true,
+      false
+    ],
+    [
+      "FriendLevelChanged",
+      false,
+      false,
+      "Друг получил уровень",
+      "",
+      4,
+      true,
+      false
+    ],
+    [
+      "FriendStatusMessageChanged",
+      true,
+      true,
+      "Друг изменил статус",
+      "",
+      5,
+      true,
+      false
+    ],
+    [
+      "PartyInvite",
+      true,
+      true,
+      "Приглашён в группу",
+      "",
+      6,
+      true,
+      false
+    ],
+    [
+      "PartyJoined",
+      false,
+      true,
+      "Вступил в группу",
+      "",
+      7,
+      true,
+      true
+    ],
+    [
+      "PartyLeft",
+      false,
+      true,
+      "Покинул группу",
+      "",
+      8,
+      true,
+      true
+    ],
+    [
+      "PartyMemberInvited",
+      false,
+      true,
+      "Игрок приглашён в группу",
+      "",
+      9,
+      true,
+      false
+    ],
+    [
+      "PartyMemberJoined",
+      false,
+      true,
+      "Игрок вступил в группу",
+      "",
+      10,
+      true,
+      true
+    ],
+    [
+      "PartyMemberLeft",
+      false,
+      true,
+      "Игрок покинул группу",
+      "",
+      11,
+      true,
+      true
+    ],
+    [
+      "PartyMemberPromotedToLeader",
+      false,
+      true,
+      "Изменение статуса игрока в группе",
+      "",
+      12,
+      true,
+      false
+    ],
+    [
+      "GuildInvite",
+      true,
+      true,
+      "Приглашение в гильдию",
+      "",
+      13,
+      true,
+      true
+    ],
+    [
+      "GuildJoined",
+      false,
+      true,
+      "Вступил в гильдию",
+      "",
+      14,
+      true,
+      true
+    ],
+    [
+      "GuildLeft",
+      false,
+      true,
+      "Покинул гильдию",
+      "",
+      15,
+      true,
+      true
+    ],
+    [
+      "GuildRankChanged",
+      false,
+      true,
+      "Изменение статуса в гильдии",
+      "",
+      16,
+      true,
+      true
+    ],
+    [
+      "GuildMemberInvited",
+      true,
+      true,
+      "Игрок приглашён в гильдию",
+      "",
+      17,
+      true,
+      true
+    ],
+    [
+      "GuildMemberJoined",
+      true,
+      true,
+      "Игрок вступил в гильдию",
+      "",
+      18,
+      true,
+      true
+    ],
+    [
+      "GuildMemberLeft",
+      true,
+      true,
+      "Игрок покинул гильдию",
+      "",
+      19,
+      true,
+      true
+    ],
+    [
+      "GuildMemberRankChanged",
+      true,
+      true,
+      "Изменение статуса игрока в гильдии",
+      "",
+      20,
+      true,
+      true
+    ],
+    [
+      "GiftReceived",
+      true,
+      true,
+      "Получен подарок",
+      "",
+      21,
+      true,
+      false
+    ],
+    [
+      "TradeRequest",
+      true,
+      true,
+      "Запрос на торговлю",
+      "",
+      22,
+      true,
+      true
+    ],
+    [
+      "AchievementComplete",
+      false,
+      true,
+      "Достижение выполнено",
+      "",
+      23,
+      true,
+      true
+    ],
+    [
+      "AchievementItemComplete",
+      false,
+      true,
+      "Часть достижения выполнена",
+      "Показывает уведомление при выполнении части достижения",
+      24,
+      true,
+      true
+    ],
+    [
+      "AchievementItemFailed",
+      false,
+      true,
+      "Не выполнено условие отслеживаемого достижения",
+      "",
+      24,
+      true,
+      true
+    ],
+    [
+      "PVPDuelChallenge",
+      true,
+      true,
+      "Вызов на дуэль",
+      "",
+      25,
+      true,
+      false
+    ],
+    [
+      "PVPEvent",
+      true,
+      true,
+      "PVP событие",
+      "",
+      26,
+      true,
+      false
+    ],
+    [
+      "LeagueEvent",
+      true,
+      true,
+      "Событие",
+      "",
+      27,
+      true,
+      true
+    ],
+    [
+      "MarketNotifications",
+      true,
+      true,
+      "Уведомления рынка",
+      "Показывает уведомление при получении предложений, когда они приняты или отклонены.",
+      28,
+      true,
+      true
+    ],
+    [
+      "BestiaryRecipeNotification",
+      true,
+      true,
+      "Рецепты Бестиария",
+      "",
+      29,
+      true,
+      true
+    ],
+    [
+      "RewardNotifications",
+      true,
+      true,
+      "Уведомления о наградах",
+      "Показывает уведомление при получении награды за выполнений испытаний.",
+      30,
+      true,
+      true
+    ],
+    [
+      "LeagueInGame",
+      true,
+      true,
+      "Внутриигровые уведомления Жатвы",
+      "Показыает внутриигровые уведомления Жатвы",
+      31,
+      true,
+      true
+    ],
+    [
+      "ConsoleServerMessages",
+      false,
+      false,
+      "Серверные сообщения",
+      "Дублирует всплывающие серверные сообщения в окне чата ",
+      32,
+      true,
+      true
+    ],
+    [
+      "ConsolePlayerLevelUp",
+      false,
+      false,
+      "Повышение уровня",
+      "",
+      33,
+      true,
+      true
+    ],
+    [
+      "ConsoleGemLevelUp",
+      false,
+      false,
+      "Повышение уровня камня",
+      "",
+      34,
+      true,
+      true
+    ]
+  ]
+}

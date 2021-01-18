@@ -1,1 +1,1687 @@
-{"filename":"EventSeasonRewards.dat","header":[{"name":"EventSeasonKey","rowid":0,"type":"ulong","key":"EventSeason.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Point","rowid":1,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"RewardCommand","rowid":2,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[[0,7,"unique UniqueBelt1 1 100 AlternateArtWurmsMolt"],[0,14,"unique UniqueQuiver1a 1 100 AlternateArtBlackgleam"],[0,26,"unique UniqueBodyInt5 1 100 AlternateArtThousandRibbons"],[0,50,"Metadata/Items/Rings/Ring15 1 100 AlternateArtUnsetRing"],[0,80,"unique UniqueOneHandSword5 1 100 AlternateArtPrismaticEclipse"],[0,135,"unique UniqueFlask4 1 100 AlternateArtLaviangasSpirit"],[0,220,"unique UniqueRing7 1 100 AlternateArtThiefsTorment"],[0,360,"unique UniqueAmulet1 1 100 AlternateArtStoneOfLazhwar"],[0,600,"unique UniqueHelmetDex4 1 100 AlternateArtStarkonjasHead"],[0,1000,"unique UniqueBelt7 1 100 AlternateArtHeadhunter"],[1,1,"unique UniqueBelt1 1 100 AlternateArtWurmsMolt"],[1,7,"unique UniqueOneHandSword1 1 100 AlternateArtUniqueRedbeak"],[1,14,"unique UniqueQuiver1a 1 100 AlternateArtBlackgleam"],[1,23,"unique UniqueBodyInt5 1 100 AlternateArtThousandRibbons"],[1,33,"unique UniqueHelmetDex3 1 100 AlternateArtUniqueGoldrim"],[1,44,"Metadata/Items/Rings/Ring15 1 100 AlternateArtUnsetRing"],[1,56,"unique UniqueOneHandSword5 1 100 AlternateArtPrismaticEclipse"],[1,69,"unique UniqueGlovesDexInt2 1 100 AlternateArtUniqueFacebreaker"],[1,84,"unique UniqueFlask4 1 100 AlternateArtLaviangasSpirit"],[1,100,"unique UniqueRing7 1 100 AlternateArtThiefsTorment"],[1,135,"unique UniqueBootsInt2 1 100 AlternateArtUniqueWanderlust"],[1,200,"unique UniqueAmulet1 1 100 AlternateArtStoneOfLazhwar"],[1,320,"unique UniqueHelmetDex4 1 100 AlternateArtStarkonjasHead"],[1,460,"unique UniqueBelt7 1 100 AlternateArtHeadhunter"],[2,7,"unique UniqueWand4 1 100 AlternateArtLifesprig"],[2,14,"unique UniqueStaff3 1 100 AlternateArtPillarOfTheCagedGod"],[2,26,"unique UniqueRing18 1 100 AlternateArtBereksPass"],[2,50,"Metadata/Items/Rings/Ring8 1 100 AlternateArtPrismaticRing"],[2,80,"unique UniqueHelmetDexInt4 1 100 AlternateArtThreeDragons"],[2,135,"unique UniqueBelt8 1 100 AlternateArtImmortalFlesh"],[2,220,"unique UniqueRing5 1 100 AlternateArtDreamFragments2"],[2,360,"unique UniqueRing19 1 100 AlternateArtBereksGrip"],[2,600,"unique UniqueShieldStrInt1 1 100 AlternateArtSaffellsFrame"],[2,1000,"unique UniqueRing20 1 100 AlternateArtBereksRespite"],[3,1,"unique UniqueWand4 1 100 AlternateArtLifesprig"],[3,7,"unique UniqueAmulet5 1 100 AlternateArtUniqueKaruiWard"],[3,14,"unique UniqueStaff3 1 100 AlternateArtPillarOfTheCagedGod"],[3,26,"unique UniqueRing18 1 100 AlternateArtBereksPass"],[3,33,"unique UniqueTwoHandSword2 1 100 AlternateArtUniqueShiversting"],[3,44,"Metadata/Items/Rings/Ring8 1 100 AlternateArtPrismaticRing"],[3,56,"unique UniqueHelmetDexInt4 1 100 AlternateArtThreeDragons"],[3,69,"unique UniqueBow3 1 100 AlternateArtUniqueDeathsHarp"],[3,84,"unique UniqueBelt8 1 100 AlternateArtImmortalFlesh"],[3,100,"unique UniqueRing5 1 100 AlternateArtDreamFragments2"],[3,135,"unique UniqueBodyInt6 1 100 AlternateArtUniqueTabulaRasa"],[3,200,"unique UniqueRing19 1 100 AlternateArtBereksGrip"],[3,320,"unique UniqueShieldStrInt1 1 100 AlternateArtSaffellsFrame"],[3,460,"unique UniqueRing20 1 100 AlternateArtBereksRespite"],[4,10,"unique UniqueStaff4 1 100 AlternateArtUniqueFencoil"],[4,40,"Metadata/Items/Rings/Ring5 1 100 AlternateArtTopazRing"],[4,100,"unique UniqueRing15 1 100 AlternateArtUniquePyre"],[4,250,"unique UniqueFlask7 1 100 AlternateArtUniqueRumisConcoction"],[4,500,"unique UniqueHelmetStrDex4 1 100 AlternateArtUniqueBringerOfRain_"],[4,1000,"unique UniqueAmulet14 1 100 AlternateArtUniqueVollsDevotion"],[5,5,"unique UniqueStaff4 1 100 AlternateArtUniqueFencoil"],[5,20,"Metadata/Items/Rings/Ring5 1 100 AlternateArtTopazRing"],[5,60,"unique UniqueBow8 1 100 AlternateArtStormcloud"],[5,120,"unique UniqueRing15 1 100 AlternateArtUniquePyre"],[5,240,"unique UniqueFlask7 1 100 AlternateArtUniqueRumisConcoction"],[5,380,"unique UniqueHelmetStrDex4 1 100 AlternateArtUniqueBringerOfRain_"],[5,700,"unique UniqueAmulet14 1 100 AlternateArtUniqueVollsDevotion"],[6,7,"unique UniqueStaff4 1 100 AlternateArtUniqueFencoil"],[6,28,"Metadata/Items/Rings/Ring5 1 100 AlternateArtTopazRing"],[6,60,"unique UniqueBow8 1 100 AlternateArtStormcloud"],[6,120,"unique UniqueRing15 1 100 AlternateArtUniquePyre"],[6,240,"unique UniqueFlask7 1 100 AlternateArtUniqueRumisConcoction"],[6,360,"unique UniqueBodyInt6 1 100 AlternateArtUniqueTabulaRasa"],[6,480,"unique UniqueHelmetStrDex4 1 100 AlternateArtUniqueBringerOfRain_"],[6,800,"unique UniqueAmulet14 1 100 AlternateArtUniqueVollsDevotion"],[7,10,"unique UniqueHelmetStrInt3 1 100 AlternateArtMindspiral"],[7,40,"Metadata/Items/Belts/Belt1 1 100 AlternateArtRusticSash"],[7,100,"unique UniqueAmulet16 1 100 AlternateArtTheAnvil"],[7,250,"unique UniqueDagger3 1 100 AlternateArtUngilsGauche"],[7,500,"unique UniqueAmulet13 1 100 AlternateArtDaressosSalute"],[7,1000,"unique UniqueRing5 1 100 AlternateArtDreamFragments"],[8,10,"unique UniqueHelmetStrInt3 1 100 AlternateArtMindspiral"],[8,40,"Metadata/Items/Belts/Belt1 1 100 AlternateArtRusticSash"],[8,100,"unique UniqueAmulet16 1 100 AlternateArtTheAnvil"],[8,250,"unique UniqueDagger3 1 100 AlternateArtUngilsGauche"],[8,500,"unique UniqueAmulet13 1 100 AlternateArtDaressosSalute"],[8,1000,"unique UniqueRing5 1 100 AlternateArtDreamFragments"],[9,10,"unique UniqueAmulet1 1 100 AlternateArtUniqueStoneOfLazhwar2"],[9,40,"Metadata/Items/Rings/Ring6 1 100 AlternateArtSapphireRing"],[9,100,"unique UniqueClaw7 1 100 AlternateArtUniqueCybilsPaw"],[9,250,"unique UniqueRing4 1 100 AlternateArtUniqueDoedresDamning"],[9,500,"unique UniqueHelmetDex5 1 100 AlternateArtUniqueAlphasHowl"],[9,1000,"unique UniqueFlask8 1 100 AlternateArtUniqueTasteOfHate"],[10,7,"unique UniqueAmulet1 1 100 AlternateArtUniqueStoneOfLazhwar2"],[10,25,"Metadata/Items/Rings/Ring6 1 100 AlternateArtSapphireRing"],[10,50,"unique UniqueClaw7 1 100 AlternateArtUniqueCybilsPaw"],[10,125,"unique UniqueRing4 1 100 AlternateArtUniqueDoedresDamning"],[10,250,"unique UniqueHelmetDex5 1 100 AlternateArtUniqueAlphasHowl"],[10,500,"unique UniqueFlask8 1 100 AlternateArtUniqueTasteOfHate"],[11,10,"unique UniqueHelmetStrInt3 1 100 AlternateArtMindspiral"],[11,40,"Metadata/Items/Belts/Belt1 1 100 AlternateArtRusticSash"],[11,100,"unique UniqueAmulet16 1 100 AlternateArtTheAnvil"],[11,250,"unique UniqueDagger3 1 100 AlternateArtUngilsGauche"],[11,500,"unique UniqueAmulet13 1 100 AlternateArtDaressosSalute"],[11,1000,"unique UniqueRing5 1 100 AlternateArtDreamFragments"],[12,5,"unique UniqueAmulet1 1 100 AlternateArtUniqueStoneOfLazhwar2"],[12,20,"Metadata/Items/Rings/Ring6 1 100 AlternateArtSapphireRing"],[12,50,"unique UniqueClaw7 1 100 AlternateArtUniqueCybilsPaw"],[12,125,"unique UniqueRing4 1 100 AlternateArtUniqueDoedresDamning"],[12,250,"unique UniqueHelmetDex5 1 100 AlternateArtUniqueAlphasHowl"],[12,500,"unique UniqueFlask8 1 100 AlternateArtUniqueTasteOfHate"],[13,10,"unique UniqueRing24 1 100 AlternateArtUniqueMokousEmbrace"],[13,40,"Metadata/Items/Belts/Belt1 1 100 AlternateArtRusticSash2"],[13,100,"unique UniqueGlovesDex2 1 100 AlternateArtUniqueMaligarosVirtuosity_"],[13,250,"unique UniqueRing25 1 100 AlternateArtUniqueMalachaisArtifice"],[13,500,"unique UniqueDagger8 1 100 AlternateArtUniqueBinosKitchenKnife"],[13,1000,"unique UniqueAmulet20 1 100 AlternateArtUniqueWarpedTimepiece"],[14,10,"unique UniqueBootsInt2 1 100 AlternateArtUniqueWanderlust2"],[14,40,"Metadata/Items/Rings/Ring2 1 100 AlternateArtCoralRing2"],[14,100,"unique UniqueTwoHandMace2 1 100 AlternateArtUniqueGeofrisBaptism"],[14,250,"unique UniqueRing26 1 100 AlternateArtUniqueKikazaru"],[14,400,"unique UniqueBelt4 1 100 AlternateArtUniqueMeginordsGirdle2"],[14,800,"unique UniqueAmulet10 1 100 AlternateArtUniqueAtzirisFoible2"],[15,10,"unique UniqueBootsInt2 1 100 AlternateArtUniqueWanderlust2"],[15,40,"Metadata/Items/Rings/Ring2 1 100 AlternateArtCoralRing2"],[15,100,"unique UniqueTwoHandMace2 1 100 AlternateArtUniqueGeofrisBaptism"],[15,250,"unique UniqueRing26 1 100 AlternateArtUniqueKikazaru"],[15,400,"unique UniqueBelt4 1 100 AlternateArtUniqueMeginordsGirdle2"],[15,800,"unique UniqueAmulet10 1 100 AlternateArtUniqueAtzirisFoible2"],[16,5,"unique UniqueRing24 1 100 AlternateArtUniqueMokousEmbrace"],[16,20,"Metadata/Items/Belts/Belt1 1 100 AlternateArtRusticSash2"],[16,50,"unique UniqueGlovesDex2 1 100 AlternateArtUniqueMaligarosVirtuosity_"],[16,125,"unique UniqueRing25 1 100 AlternateArtUniqueMalachaisArtifice"],[16,250,"unique UniqueDagger8 1 100 AlternateArtUniqueBinosKitchenKnife"],[16,500,"unique UniqueAmulet20 1 100 AlternateArtUniqueWarpedTimepiece"],[17,5,"unique UniqueBootsInt2 1 100 AlternateArtUniqueWanderlust2"],[17,20,"Metadata/Items/Rings/Ring2 1 100 AlternateArtCoralRing2"],[17,50,"unique UniqueTwoHandMace2 1 100 AlternateArtUniqueGeofrisBaptism"],[17,125,"unique UniqueRing26 1 100 AlternateArtUniqueKikazaru"],[17,200,"unique UniqueBelt4 1 100 AlternateArtUniqueMeginordsGirdle2"],[17,400,"unique UniqueAmulet10 1 100 AlternateArtUniqueAtzirisFoible2"],[18,3,"unique UniqueRing24 1 100 AlternateArtUniqueMokousEmbrace"],[18,10,"Metadata/Items/Belts/Belt1 1 100 AlternateArtRusticSash2"],[18,30,"unique UniqueGlovesDex2 1 100 AlternateArtUniqueMaligarosVirtuosity_"],[18,80,"unique UniqueRing25 1 100 AlternateArtUniqueMalachaisArtifice"],[18,150,"unique UniqueDagger8 1 100 AlternateArtUniqueBinosKitchenKnife"],[18,300,"unique UniqueAmulet20 1 100 AlternateArtUniqueWarpedTimepiece"],[19,5,"unique UniqueRing24 1 100 AlternateArtUniqueMokousEmbrace "],[19,20,"Metadata/Items/Belts/Belt1 1 100 AlternateArtRusticSash2 "],[19,50,"unique UniqueGlovesDex2 1 100 AlternateArtUniqueMaligarosVirtuosity_ "],[19,125,"unique UniqueRing25 1 100 AlternateArtUniqueMalachaisArtifice "],[19,250,"unique UniqueOneHandSword5 1 100 AlternateArtPrismaticEclipse"],[19,500,"unique UniqueDagger8 1 100 AlternateArtUniqueBinosKitchenKnife "],[19,750,"unique UniqueAmulet20 1 100 AlternateArtUniqueWarpedTimepiece"],[20,10,"unique UniqueAmulet18 1 100 AlternateArtUniqueUngilsHarmony"],[20,40,"Metadata/Items/Rings/Ring13 1 100 AlternateArtTwoStoneRing_"],[20,100,"unique UniqueTwoHandSword7 1 100 AlternateArtUniqueEdgeOfMadness"],[20,250,"unique UniqueAmulet19 1 100 AlternateArtUniqueRashkaldorsPatience"],[20,500,"unique UniqueShieldInt1 1 100 AlternateArtUniqueRathpithGlobe"],[20,1000,"unique UniqueRing38 1 100 AlternateArtUniqueEmberwake"],[21,5,"unique UniqueRing24 1 100 AlternateArtUniqueMokousEmbrace"],[21,20,"Metadata/Items/Belts/Belt1 1 100 AlternateArtRusticSash2"],[21,50,"unique UniqueGlovesDex2 1 100 AlternateArtUniqueMaligarosVirtuosity_"],[21,125,"unique UniqueRing25 1 100 AlternateArtUniqueMalachaisArtifice"],[21,250,"unique UniqueDagger8 1 100 AlternateArtUniqueBinosKitchenKnife"],[21,500,"unique UniqueAmulet20 1 100 AlternateArtUniqueWarpedTimepiece"],[22,7,"unique UniqueAmulet18 1 100 AlternateArtUniqueUngilsHarmony"],[22,20,"Metadata/Items/Rings/Ring13 1 100 AlternateArtTwoStoneRing_"],[22,50,"unique UniqueTwoHandSword7 1 100 AlternateArtUniqueEdgeOfMadness"],[22,120,"unique UniqueAmulet19 1 100 AlternateArtUniqueRashkaldorsPatience"],[22,250,"unique UniqueShieldInt1 1 100 AlternateArtUniqueRathpithGlobe"],[22,500,"unique UniqueRing38 1 100 AlternateArtUniqueEmberwake"],[23,10,"unique UniqueAmulet18 1 100 AlternateArtUniqueUngilsHarmony"],[23,30,"Metadata/Items/Rings/Ring13 1 100 AlternateArtTwoStoneRing_"],[23,60,"unique UniqueRing15 1 100 AlternateArtUniquePyre"],[23,90,"unique UniqueStaff1 1 100 AlternateArtUniqueTheSearingTouch"],[23,120,"unique UniqueTwoHandSword7 1 100 AlternateArtUniqueEdgeOfMadness"],[23,250,"unique UniqueAmulet19 1 100 AlternateArtUniqueRashkaldorsPatience"],[23,500,"unique UniqueShieldInt1 1 100 AlternateArtUniqueRathpithGlobe"],[23,750,"unique UniqueRing38 1 100 AlternateArtUniqueEmberwake"],[24,5,"unique UniqueAmulet18 1 100 AlternateArtUniqueUngilsHarmony"],[24,20,"Metadata/Items/Rings/Ring13 1 100 AlternateArtTwoStoneRing_"],[24,50,"unique UniqueTwoHandSword7 1 100 AlternateArtUniqueEdgeOfMadness"],[24,125,"unique UniqueAmulet19 1 100 AlternateArtUniqueRashkaldorsPatience"],[24,250,"unique UniqueShieldInt1 1 100 AlternateArtUniqueRathpithGlobe"],[24,500,"unique UniqueRing38 1 100 AlternateArtUniqueEmberwake"],[25,10,"unique UniqueStaff9 1 100 AlternateArtUniqueTheBloodThorn"],[25,40,"Metadata/Items/Jewels/JewelStr 1 100 AlternateArtJewelStr"],[25,100,"unique UniqueRing12 1 100 AlternateArtUniqueDeathRush"],[25,250,"unique UniqueBootsDex4 1 100 AlternateArtUniqueTheBloodDance"],[25,500,"unique UniqueGlovesDexInt6 1 100 AlternateArtUniqueShadowsAndDust"],[25,1000,"unique UniqueAmulet25 1 100 AlternateArtUniqueBloodchoke"],[26,10,"unique UniqueStaff9 1 100 AlternateArtUniqueTheBloodThorn"],[26,30,"Metadata/Items/Jewels/JewelStr 1 100 AlternateArtJewelStr"],[26,70,"unique UniqueRing12 1 100 AlternateArtUniqueDeathRush"],[26,150,"unique UniqueBootsDex4 1 100 AlternateArtUniqueTheBloodDance"],[26,300,"unique UniqueGlovesDexInt6 1 100 AlternateArtUniqueShadowsAndDust"],[26,600,"unique UniqueAmulet25 1 100 AlternateArtUniqueBloodchoke"],[27,5,"unique UniqueStaff9 1 100 AlternateArtUniqueTheBloodThorn"],[27,20,"Metadata/Items/Jewels/JewelStr 1 100 AlternateArtJewelStr"],[27,50,"unique UniqueRing12 1 100 AlternateArtUniqueDeathRush"],[27,125,"unique UniqueBootsDex4 1 100 AlternateArtUniqueTheBloodDance"],[27,250,"unique UniqueGlovesDexInt6 1 100 AlternateArtUniqueShadowsAndDust"],[27,500,"unique UniqueAmulet25 1 100 AlternateArtUniqueBloodchoke"],[28,10,"unique UniqueMap3 1 100 UniqueMap3"],[28,30,"Metadata/Items/Rings/Ring2 1 100 AlternateArtCoralRing2"],[28,60,"unique UniqueBow3 1 100 AlternateArtUniqueDeathsHarp"],[28,90,"unique UniqueTwoHandAxe2 1 100 AlternateArtUniqueReapersPursuit"],[28,120,"unique UniqueBodyInt6 1 100 AlternateArtUniqueTabulaRasa"],[28,180,"unique UniqueBelt4 1 100 AlternateArtMeginordsGirdle"],[28,250,"unique UniqueGlovesDexInt6 1 100 AlternateArtUniqueShadowsAndDust"],[28,500,"unique UniqueAmulet25 1 100 AlternateArtUniqueBloodchoke"],[29,10,"unique UniqueOneHandSword12 1 100 AlternateArtUniqueThePrincess"],[29,40,"Metadata/Items/Weapons/TwoHandWeapons/Staves/StaffM3 1 100 AlternateArtEclipseStaff"],[29,100,"unique UniqueShieldDex2 1 100 AlternateArtUniqueCrestOfPerandus"],[29,250,"unique UniqueFlask4 1 100 AlternateArtUniqueLaviangasSpirit"],[29,500,"unique UniqueOneHandAxe1 1 100 AlternateArtUniqueSoulTaker"],[29,1000,"unique UniqueBelt18 1 100 AlternateArtUniqueSoulthirst"],[30,5,"unique UniqueBootsInt2 1 100 AlternateArtUniqueWanderlust2"],[30,20,"Metadata/Items/Rings/Ring2 1 100 AlternateArtCoralRing2"],[30,50,"unique UniqueTwoHandMace2 1 100 AlternateArtUniqueGeofrisBaptism"],[30,125,"unique UniqueRing26 1 100 AlternateArtUniqueKikazaru"],[30,250,"unique UniqueBelt4 1 100 AlternateArtUniqueMeginordsGirdle2"],[30,500,"unique UniqueAmulet10 1 100 AlternateArtUniqueAtzirisFoible2"],[31,10,"unique UniqueOneHandSword12 1 100 AlternateArtUniqueThePrincess"],[31,40,"unique UniqueAmulet16 1 100 AlternateArtTheAnvil"],[31,70,"unique UniqueMap2_2 1 100 UniqueMap2"],[31,100,"Metadata/Items/Weapons/TwoHandWeapons/Staves/StaffM3 1 100 AlternateArtEclipseStaff"],[31,150,"unique UniqueShieldDex2 1 100 AlternateArtUniqueCrestOfPerandus"],[31,250,"unique UniqueFlask4 1 100 AlternateArtUniqueLaviangasSpirit"],[31,500,"unique UniqueOneHandAxe1 1 100 AlternateArtUniqueSoulTaker"],[31,1000,"unique UniqueBelt18 1 100 AlternateArtUniqueSoulthirst"],[32,10,"unique UniqueOneHandSword12 1 100 AlternateArtUniqueThePrincess"],[32,40,"Metadata/Items/Weapons/TwoHandWeapons/Staves/StaffM3 1 100 AlternateArtEclipseStaff"],[32,100,"unique UniqueShieldDex2 1 100 AlternateArtUniqueCrestOfPerandus"],[32,250,"unique UniqueFlask4 1 100 AlternateArtUniqueLaviangasSpirit"],[32,500,"unique UniqueOneHandAxe1 1 100 AlternateArtUniqueSoulTaker"],[32,1000,"unique UniqueBelt18 1 100 AlternateArtUniqueSoulthirst"],[33,10,"unique UniqueOneHandSword12 1 100 AlternateArtUniqueThePrincess"],[33,40,"Metadata/Items/Weapons/TwoHandWeapons/Staves/StaffM3 1 100 AlternateArtEclipseStaff"],[33,100,"unique UniqueShieldDex2 1 100 AlternateArtUniqueCrestOfPerandus"],[33,250,"unique UniqueFlask4 1 100 AlternateArtUniqueLaviangasSpirit"],[33,500,"unique UniqueOneHandAxe1 1 100 AlternateArtUniqueSoulTaker"],[33,1000,"unique UniqueBelt18 1 100 AlternateArtUniqueSoulthirst"],[34,10,"unique UniqueQuiver5 1 100 AlternateArtUniqueAsphyxiasWrath"],[34,40,"Metadata/Items/Rings/Ring6 1 100 AlternateArtSapphireRing2"],[34,100,"unique UniqueStaff12 1 100 AlternateArtUniqueTheWhisperingIce"],[34,250,"unique UniqueBelt14 1 100 AlternateArtUniqueDyadianDawn"],[34,500,"unique UniqueRing34 1 100 AlternateArtUniqueCallOfTheBrotherhood"],[34,1000,"unique UniqueAmulet29 1 100 AlternateArtUniqueWinterheart"],[35,10,"unique UniqueOneHandSword12 1 100 AlternateArtUniqueThePrincess"],[35,30,"Metadata/Items/Weapons/TwoHandWeapons/Staves/StaffM3 1 100 AlternateArtEclipseStaff"],[35,70,"unique UniqueShieldDex2 1 100 AlternateArtUniqueCrestOfPerandus"],[35,125,"unique UniqueFlask4 1 100 AlternateArtUniqueLaviangasSpirit"],[35,250,"unique UniqueOneHandAxe1 1 100 AlternateArtUniqueSoulTaker"],[35,500,"unique UniqueBelt18 1 100 AlternateArtUniqueSoulthirst"],[36,5,"unique UniqueStaff9 1 100 AlternateArtUniqueTheBloodThorn"],[36,20,"Metadata/Items/Jewels/JewelStr 1 100 AlternateArtJewelStr"],[36,50,"unique UniqueRing12 1 100 AlternateArtUniqueDeathRush"],[36,125,"unique UniqueBootsDex4 1 100 AlternateArtUniqueTheBloodDance"],[36,250,"unique UniqueGlovesDexInt6 1 100 AlternateArtUniqueShadowsAndDust"],[36,500,"unique UniqueAmulet25 1 100 AlternateArtUniqueBloodchoke"],[37,10,"unique UniqueQuiver5 1 100 AlternateArtUniqueAsphyxiasWrath"],[37,40,"Metadata/Items/Rings/Ring6 1 100 AlternateArtSapphireRing2"],[37,100,"unique UniqueStaff12 1 100 AlternateArtUniqueTheWhisperingIce"],[37,250,"unique UniqueBelt14 1 100 AlternateArtUniqueDyadianDawn"],[37,500,"unique UniqueRing34 1 100 AlternateArtUniqueCallOfTheBrotherhood"],[37,1000,"unique UniqueAmulet29 1 100 AlternateArtUniqueWinterheart"],[38,10,"unique UniqueQuiver5 1 100 AlternateArtUniqueAsphyxiasWrath"],[38,40,"Metadata/Items/Rings/Ring6 1 100 AlternateArtSapphireRing2"],[38,100,"unique UniqueStaff12 1 100 AlternateArtUniqueTheWhisperingIce"],[38,175,"unique UniqueRing18 1 100 AlternateArtBereksPass"],[38,250,"unique UniqueBelt14 1 100 AlternateArtUniqueDyadianDawn"],[38,350,"unique UniqueRing19 1 100 AlternateArtBereksGrip"],[38,500,"unique UniqueRing34 1 100 AlternateArtUniqueCallOfTheBrotherhood"],[38,600,"unique UniqueStaff2 1 100 AlternateArtUniqueTarynsShiver"],[38,800,"unique UniqueRing20 1 100 AlternateArtBereksRespite"],[38,1000,"unique UniqueAmulet29 1 100 AlternateArtUniqueWinterheart"],[39,10,"unique UniqueQuiver5 1 100 AlternateArtUniqueAsphyxiasWrath"],[39,40,"Metadata/Items/Rings/Ring6 1 100 AlternateArtSapphireRing2"],[39,100,"unique UniqueStaff12 1 100 AlternateArtUniqueTheWhisperingIce"],[39,150,"unique UniqueBelt14 1 100 AlternateArtUniqueDyadianDawn"],[39,250,"unique UniqueRing34 1 100 AlternateArtUniqueCallOfTheBrotherhood"],[39,500,"unique UniqueAmulet29 1 100 AlternateArtUniqueWinterheart"],[40,7,"unique UniqueQuiver5 1 100 AlternateArtUniqueAsphyxiasWrath"],[40,30,"Metadata/Items/Rings/Ring6 1 100 AlternateArtSapphireRing2"],[40,75,"unique UniqueStaff12 1 100 AlternateArtUniqueTheWhisperingIce"],[40,185,"unique UniqueBelt14 1 100 AlternateArtUniqueDyadianDawn"],[40,375,"unique UniqueRing34 1 100 AlternateArtUniqueCallOfTheBrotherhood"],[40,750,"unique UniqueAmulet29 1 100 AlternateArtUniqueWinterheart"],[41,7,"unique UniqueQuiver5 1 100 AlternateArtUniqueAsphyxiasWrath"],[41,30,"Metadata/Items/Rings/Ring6 1 100 AlternateArtSapphireRing2"],[41,75,"unique UniqueStaff12 1 100 AlternateArtUniqueTheWhisperingIce"],[41,185,"unique UniqueBelt14 1 100 AlternateArtUniqueDyadianDawn"],[41,280,"unique UniqueRing34 1 100 AlternateArtUniqueCallOfTheBrotherhood"],[41,375,"unique UniqueAmulet29 1 100 AlternateArtUniqueWinterheart"],[42,10,"unique UniqueAmulet34 1 100 AlternateArtUniqueNgamahuTiki"],[42,40,"unique UniqueTalisman1 1 100 AlternateArtUniqueNightsHold"],[42,100,"unique UniqueAmulet22 1 100 AlternateArtUniqueTearOfPurity"],[42,250,"unique UniqueAmulet15 1 100 AlternateArtUniqueVictariosAcuity"],[42,500,"unique UniqueTalisman3 1 100 AlternateArtUniqueNaturalHierachy"],[42,1000,"unique UniqueAmulet14 1 100 AlternateArtUniqueVollsDevotion_"],[43,10,"unique UniqueAmulet34 1 100 AlternateArtUniqueNgamahuTiki"],[43,40,"unique UniqueTalisman1 1 100 AlternateArtUniqueNightsHold"],[43,100,"unique UniqueAmulet22 1 100 AlternateArtUniqueTearOfPurity"],[43,200,"unique UniqueAmulet15 1 100 AlternateArtUniqueVictariosAcuity"],[43,400,"unique UniqueAmulet13 1 100 AlternateArtDaressosSalute"],[43,650,"unique UniqueTalisman3 1 100 AlternateArtUniqueNaturalHierachy"],[43,1000,"unique UniqueAmulet14 1 100 AlternateArtUniqueVollsDevotion_"],[44,10,"unique UniqueAmulet34 1 100 AlternateArtUniqueNgamahuTiki"],[44,40,"unique UniqueTalisman1 1 100 AlternateArtUniqueNightsHold"],[44,100,"unique UniqueAmulet22 1 100 AlternateArtUniqueTearOfPurity"],[44,250,"unique UniqueAmulet15 1 100 AlternateArtUniqueVictariosAcuity"],[44,500,"unique UniqueTalisman3 1 100 AlternateArtUniqueNaturalHierachy"],[44,1000,"unique UniqueAmulet14 1 100 AlternateArtUniqueVollsDevotion_"],[45,10,"unique UniqueAmulet34 1 100 AlternateArtUniqueNgamahuTiki"],[45,40,"unique UniqueTalisman1 1 100 AlternateArtUniqueNightsHold"],[45,100,"unique UniqueAmulet22 1 100 AlternateArtUniqueTearOfPurity"],[45,250,"unique UniqueAmulet15 1 100 AlternateArtUniqueVictariosAcuity"],[45,400,"unique UniqueTalisman3 1 100 AlternateArtUniqueNaturalHierachy"],[45,800,"unique UniqueAmulet14 1 100 AlternateArtUniqueVollsDevotion_"],[46,7,"unique UniqueAmulet34 1 100 AlternateArtUniqueNgamahuTiki"],[46,20,"unique UniqueTalisman1 1 100 AlternateArtUniqueNightsHold"],[46,50,"unique UniqueAmulet22 1 100 AlternateArtUniqueTearOfPurity"],[46,125,"unique UniqueAmulet15 1 100 AlternateArtUniqueVictariosAcuity"],[46,250,"unique UniqueTalisman3 1 100 AlternateArtUniqueNaturalHierachy"],[46,500,"unique UniqueAmulet14 1 100 AlternateArtUniqueVollsDevotion_"],[47,10,"unique UniqueAmulet34 1 100 AlternateArtUniqueNgamahuTiki"],[47,25,"unique UniqueTalisman1 1 100 AlternateArtUniqueNightsHold"],[47,50,"unique UniqueAmulet22 1 100 AlternateArtUniqueTearOfPurity"],[47,80,"unique UniqueAmulet15 1 100 AlternateArtUniqueVictariosAcuity"],[47,125,"unique UniqueTalisman3 1 100 AlternateArtUniqueNaturalHierachy"],[47,200,"unique UniqueAmulet14 1 100 AlternateArtUniqueVollsDevotion_"]]}
+{
+  "filename": "EventSeasonRewards.dat",
+  "header": [
+    {
+      "name": "EventSeasonKey",
+      "rowid": 0,
+      "type": "ulong",
+      "key": "EventSeason.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Point",
+      "rowid": 1,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "RewardCommand",
+      "rowid": 2,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      0,
+      7,
+      "unique UniqueBelt1 1 100 AlternateArtWurmsMolt"
+    ],
+    [
+      0,
+      14,
+      "unique UniqueQuiver1a 1 100 AlternateArtBlackgleam"
+    ],
+    [
+      0,
+      26,
+      "unique UniqueBodyInt5 1 100 AlternateArtThousandRibbons"
+    ],
+    [
+      0,
+      50,
+      "Metadata/Items/Rings/Ring15 1 100 AlternateArtUnsetRing"
+    ],
+    [
+      0,
+      80,
+      "unique UniqueOneHandSword5 1 100 AlternateArtPrismaticEclipse"
+    ],
+    [
+      0,
+      135,
+      "unique UniqueFlask4 1 100 AlternateArtLaviangasSpirit"
+    ],
+    [
+      0,
+      220,
+      "unique UniqueRing7 1 100 AlternateArtThiefsTorment"
+    ],
+    [
+      0,
+      360,
+      "unique UniqueAmulet1 1 100 AlternateArtStoneOfLazhwar"
+    ],
+    [
+      0,
+      600,
+      "unique UniqueHelmetDex4 1 100 AlternateArtStarkonjasHead"
+    ],
+    [
+      0,
+      1000,
+      "unique UniqueBelt7 1 100 AlternateArtHeadhunter"
+    ],
+    [
+      1,
+      1,
+      "unique UniqueBelt1 1 100 AlternateArtWurmsMolt"
+    ],
+    [
+      1,
+      7,
+      "unique UniqueOneHandSword1 1 100 AlternateArtUniqueRedbeak"
+    ],
+    [
+      1,
+      14,
+      "unique UniqueQuiver1a 1 100 AlternateArtBlackgleam"
+    ],
+    [
+      1,
+      23,
+      "unique UniqueBodyInt5 1 100 AlternateArtThousandRibbons"
+    ],
+    [
+      1,
+      33,
+      "unique UniqueHelmetDex3 1 100 AlternateArtUniqueGoldrim"
+    ],
+    [
+      1,
+      44,
+      "Metadata/Items/Rings/Ring15 1 100 AlternateArtUnsetRing"
+    ],
+    [
+      1,
+      56,
+      "unique UniqueOneHandSword5 1 100 AlternateArtPrismaticEclipse"
+    ],
+    [
+      1,
+      69,
+      "unique UniqueGlovesDexInt2 1 100 AlternateArtUniqueFacebreaker"
+    ],
+    [
+      1,
+      84,
+      "unique UniqueFlask4 1 100 AlternateArtLaviangasSpirit"
+    ],
+    [
+      1,
+      100,
+      "unique UniqueRing7 1 100 AlternateArtThiefsTorment"
+    ],
+    [
+      1,
+      135,
+      "unique UniqueBootsInt2 1 100 AlternateArtUniqueWanderlust"
+    ],
+    [
+      1,
+      200,
+      "unique UniqueAmulet1 1 100 AlternateArtStoneOfLazhwar"
+    ],
+    [
+      1,
+      320,
+      "unique UniqueHelmetDex4 1 100 AlternateArtStarkonjasHead"
+    ],
+    [
+      1,
+      460,
+      "unique UniqueBelt7 1 100 AlternateArtHeadhunter"
+    ],
+    [
+      2,
+      7,
+      "unique UniqueWand4 1 100 AlternateArtLifesprig"
+    ],
+    [
+      2,
+      14,
+      "unique UniqueStaff3 1 100 AlternateArtPillarOfTheCagedGod"
+    ],
+    [
+      2,
+      26,
+      "unique UniqueRing18 1 100 AlternateArtBereksPass"
+    ],
+    [
+      2,
+      50,
+      "Metadata/Items/Rings/Ring8 1 100 AlternateArtPrismaticRing"
+    ],
+    [
+      2,
+      80,
+      "unique UniqueHelmetDexInt4 1 100 AlternateArtThreeDragons"
+    ],
+    [
+      2,
+      135,
+      "unique UniqueBelt8 1 100 AlternateArtImmortalFlesh"
+    ],
+    [
+      2,
+      220,
+      "unique UniqueRing5 1 100 AlternateArtDreamFragments2"
+    ],
+    [
+      2,
+      360,
+      "unique UniqueRing19 1 100 AlternateArtBereksGrip"
+    ],
+    [
+      2,
+      600,
+      "unique UniqueShieldStrInt1 1 100 AlternateArtSaffellsFrame"
+    ],
+    [
+      2,
+      1000,
+      "unique UniqueRing20 1 100 AlternateArtBereksRespite"
+    ],
+    [
+      3,
+      1,
+      "unique UniqueWand4 1 100 AlternateArtLifesprig"
+    ],
+    [
+      3,
+      7,
+      "unique UniqueAmulet5 1 100 AlternateArtUniqueKaruiWard"
+    ],
+    [
+      3,
+      14,
+      "unique UniqueStaff3 1 100 AlternateArtPillarOfTheCagedGod"
+    ],
+    [
+      3,
+      26,
+      "unique UniqueRing18 1 100 AlternateArtBereksPass"
+    ],
+    [
+      3,
+      33,
+      "unique UniqueTwoHandSword2 1 100 AlternateArtUniqueShiversting"
+    ],
+    [
+      3,
+      44,
+      "Metadata/Items/Rings/Ring8 1 100 AlternateArtPrismaticRing"
+    ],
+    [
+      3,
+      56,
+      "unique UniqueHelmetDexInt4 1 100 AlternateArtThreeDragons"
+    ],
+    [
+      3,
+      69,
+      "unique UniqueBow3 1 100 AlternateArtUniqueDeathsHarp"
+    ],
+    [
+      3,
+      84,
+      "unique UniqueBelt8 1 100 AlternateArtImmortalFlesh"
+    ],
+    [
+      3,
+      100,
+      "unique UniqueRing5 1 100 AlternateArtDreamFragments2"
+    ],
+    [
+      3,
+      135,
+      "unique UniqueBodyInt6 1 100 AlternateArtUniqueTabulaRasa"
+    ],
+    [
+      3,
+      200,
+      "unique UniqueRing19 1 100 AlternateArtBereksGrip"
+    ],
+    [
+      3,
+      320,
+      "unique UniqueShieldStrInt1 1 100 AlternateArtSaffellsFrame"
+    ],
+    [
+      3,
+      460,
+      "unique UniqueRing20 1 100 AlternateArtBereksRespite"
+    ],
+    [
+      4,
+      10,
+      "unique UniqueStaff4 1 100 AlternateArtUniqueFencoil"
+    ],
+    [
+      4,
+      40,
+      "Metadata/Items/Rings/Ring5 1 100 AlternateArtTopazRing"
+    ],
+    [
+      4,
+      100,
+      "unique UniqueRing15 1 100 AlternateArtUniquePyre"
+    ],
+    [
+      4,
+      250,
+      "unique UniqueFlask7 1 100 AlternateArtUniqueRumisConcoction"
+    ],
+    [
+      4,
+      500,
+      "unique UniqueHelmetStrDex4 1 100 AlternateArtUniqueBringerOfRain_"
+    ],
+    [
+      4,
+      1000,
+      "unique UniqueAmulet14 1 100 AlternateArtUniqueVollsDevotion"
+    ],
+    [
+      5,
+      5,
+      "unique UniqueStaff4 1 100 AlternateArtUniqueFencoil"
+    ],
+    [
+      5,
+      20,
+      "Metadata/Items/Rings/Ring5 1 100 AlternateArtTopazRing"
+    ],
+    [
+      5,
+      60,
+      "unique UniqueBow8 1 100 AlternateArtStormcloud"
+    ],
+    [
+      5,
+      120,
+      "unique UniqueRing15 1 100 AlternateArtUniquePyre"
+    ],
+    [
+      5,
+      240,
+      "unique UniqueFlask7 1 100 AlternateArtUniqueRumisConcoction"
+    ],
+    [
+      5,
+      380,
+      "unique UniqueHelmetStrDex4 1 100 AlternateArtUniqueBringerOfRain_"
+    ],
+    [
+      5,
+      700,
+      "unique UniqueAmulet14 1 100 AlternateArtUniqueVollsDevotion"
+    ],
+    [
+      6,
+      7,
+      "unique UniqueStaff4 1 100 AlternateArtUniqueFencoil"
+    ],
+    [
+      6,
+      28,
+      "Metadata/Items/Rings/Ring5 1 100 AlternateArtTopazRing"
+    ],
+    [
+      6,
+      60,
+      "unique UniqueBow8 1 100 AlternateArtStormcloud"
+    ],
+    [
+      6,
+      120,
+      "unique UniqueRing15 1 100 AlternateArtUniquePyre"
+    ],
+    [
+      6,
+      240,
+      "unique UniqueFlask7 1 100 AlternateArtUniqueRumisConcoction"
+    ],
+    [
+      6,
+      360,
+      "unique UniqueBodyInt6 1 100 AlternateArtUniqueTabulaRasa"
+    ],
+    [
+      6,
+      480,
+      "unique UniqueHelmetStrDex4 1 100 AlternateArtUniqueBringerOfRain_"
+    ],
+    [
+      6,
+      800,
+      "unique UniqueAmulet14 1 100 AlternateArtUniqueVollsDevotion"
+    ],
+    [
+      7,
+      10,
+      "unique UniqueHelmetStrInt3 1 100 AlternateArtMindspiral"
+    ],
+    [
+      7,
+      40,
+      "Metadata/Items/Belts/Belt1 1 100 AlternateArtRusticSash"
+    ],
+    [
+      7,
+      100,
+      "unique UniqueAmulet16 1 100 AlternateArtTheAnvil"
+    ],
+    [
+      7,
+      250,
+      "unique UniqueDagger3 1 100 AlternateArtUngilsGauche"
+    ],
+    [
+      7,
+      500,
+      "unique UniqueAmulet13 1 100 AlternateArtDaressosSalute"
+    ],
+    [
+      7,
+      1000,
+      "unique UniqueRing5 1 100 AlternateArtDreamFragments"
+    ],
+    [
+      8,
+      10,
+      "unique UniqueHelmetStrInt3 1 100 AlternateArtMindspiral"
+    ],
+    [
+      8,
+      40,
+      "Metadata/Items/Belts/Belt1 1 100 AlternateArtRusticSash"
+    ],
+    [
+      8,
+      100,
+      "unique UniqueAmulet16 1 100 AlternateArtTheAnvil"
+    ],
+    [
+      8,
+      250,
+      "unique UniqueDagger3 1 100 AlternateArtUngilsGauche"
+    ],
+    [
+      8,
+      500,
+      "unique UniqueAmulet13 1 100 AlternateArtDaressosSalute"
+    ],
+    [
+      8,
+      1000,
+      "unique UniqueRing5 1 100 AlternateArtDreamFragments"
+    ],
+    [
+      9,
+      10,
+      "unique UniqueAmulet1 1 100 AlternateArtUniqueStoneOfLazhwar2"
+    ],
+    [
+      9,
+      40,
+      "Metadata/Items/Rings/Ring6 1 100 AlternateArtSapphireRing"
+    ],
+    [
+      9,
+      100,
+      "unique UniqueClaw7 1 100 AlternateArtUniqueCybilsPaw"
+    ],
+    [
+      9,
+      250,
+      "unique UniqueRing4 1 100 AlternateArtUniqueDoedresDamning"
+    ],
+    [
+      9,
+      500,
+      "unique UniqueHelmetDex5 1 100 AlternateArtUniqueAlphasHowl"
+    ],
+    [
+      9,
+      1000,
+      "unique UniqueFlask8 1 100 AlternateArtUniqueTasteOfHate"
+    ],
+    [
+      10,
+      7,
+      "unique UniqueAmulet1 1 100 AlternateArtUniqueStoneOfLazhwar2"
+    ],
+    [
+      10,
+      25,
+      "Metadata/Items/Rings/Ring6 1 100 AlternateArtSapphireRing"
+    ],
+    [
+      10,
+      50,
+      "unique UniqueClaw7 1 100 AlternateArtUniqueCybilsPaw"
+    ],
+    [
+      10,
+      125,
+      "unique UniqueRing4 1 100 AlternateArtUniqueDoedresDamning"
+    ],
+    [
+      10,
+      250,
+      "unique UniqueHelmetDex5 1 100 AlternateArtUniqueAlphasHowl"
+    ],
+    [
+      10,
+      500,
+      "unique UniqueFlask8 1 100 AlternateArtUniqueTasteOfHate"
+    ],
+    [
+      11,
+      10,
+      "unique UniqueHelmetStrInt3 1 100 AlternateArtMindspiral"
+    ],
+    [
+      11,
+      40,
+      "Metadata/Items/Belts/Belt1 1 100 AlternateArtRusticSash"
+    ],
+    [
+      11,
+      100,
+      "unique UniqueAmulet16 1 100 AlternateArtTheAnvil"
+    ],
+    [
+      11,
+      250,
+      "unique UniqueDagger3 1 100 AlternateArtUngilsGauche"
+    ],
+    [
+      11,
+      500,
+      "unique UniqueAmulet13 1 100 AlternateArtDaressosSalute"
+    ],
+    [
+      11,
+      1000,
+      "unique UniqueRing5 1 100 AlternateArtDreamFragments"
+    ],
+    [
+      12,
+      5,
+      "unique UniqueAmulet1 1 100 AlternateArtUniqueStoneOfLazhwar2"
+    ],
+    [
+      12,
+      20,
+      "Metadata/Items/Rings/Ring6 1 100 AlternateArtSapphireRing"
+    ],
+    [
+      12,
+      50,
+      "unique UniqueClaw7 1 100 AlternateArtUniqueCybilsPaw"
+    ],
+    [
+      12,
+      125,
+      "unique UniqueRing4 1 100 AlternateArtUniqueDoedresDamning"
+    ],
+    [
+      12,
+      250,
+      "unique UniqueHelmetDex5 1 100 AlternateArtUniqueAlphasHowl"
+    ],
+    [
+      12,
+      500,
+      "unique UniqueFlask8 1 100 AlternateArtUniqueTasteOfHate"
+    ],
+    [
+      13,
+      10,
+      "unique UniqueRing24 1 100 AlternateArtUniqueMokousEmbrace"
+    ],
+    [
+      13,
+      40,
+      "Metadata/Items/Belts/Belt1 1 100 AlternateArtRusticSash2"
+    ],
+    [
+      13,
+      100,
+      "unique UniqueGlovesDex2 1 100 AlternateArtUniqueMaligarosVirtuosity_"
+    ],
+    [
+      13,
+      250,
+      "unique UniqueRing25 1 100 AlternateArtUniqueMalachaisArtifice"
+    ],
+    [
+      13,
+      500,
+      "unique UniqueDagger8 1 100 AlternateArtUniqueBinosKitchenKnife"
+    ],
+    [
+      13,
+      1000,
+      "unique UniqueAmulet20 1 100 AlternateArtUniqueWarpedTimepiece"
+    ],
+    [
+      14,
+      10,
+      "unique UniqueBootsInt2 1 100 AlternateArtUniqueWanderlust2"
+    ],
+    [
+      14,
+      40,
+      "Metadata/Items/Rings/Ring2 1 100 AlternateArtCoralRing2"
+    ],
+    [
+      14,
+      100,
+      "unique UniqueTwoHandMace2 1 100 AlternateArtUniqueGeofrisBaptism"
+    ],
+    [
+      14,
+      250,
+      "unique UniqueRing26 1 100 AlternateArtUniqueKikazaru"
+    ],
+    [
+      14,
+      400,
+      "unique UniqueBelt4 1 100 AlternateArtUniqueMeginordsGirdle2"
+    ],
+    [
+      14,
+      800,
+      "unique UniqueAmulet10 1 100 AlternateArtUniqueAtzirisFoible2"
+    ],
+    [
+      15,
+      10,
+      "unique UniqueBootsInt2 1 100 AlternateArtUniqueWanderlust2"
+    ],
+    [
+      15,
+      40,
+      "Metadata/Items/Rings/Ring2 1 100 AlternateArtCoralRing2"
+    ],
+    [
+      15,
+      100,
+      "unique UniqueTwoHandMace2 1 100 AlternateArtUniqueGeofrisBaptism"
+    ],
+    [
+      15,
+      250,
+      "unique UniqueRing26 1 100 AlternateArtUniqueKikazaru"
+    ],
+    [
+      15,
+      400,
+      "unique UniqueBelt4 1 100 AlternateArtUniqueMeginordsGirdle2"
+    ],
+    [
+      15,
+      800,
+      "unique UniqueAmulet10 1 100 AlternateArtUniqueAtzirisFoible2"
+    ],
+    [
+      16,
+      5,
+      "unique UniqueRing24 1 100 AlternateArtUniqueMokousEmbrace"
+    ],
+    [
+      16,
+      20,
+      "Metadata/Items/Belts/Belt1 1 100 AlternateArtRusticSash2"
+    ],
+    [
+      16,
+      50,
+      "unique UniqueGlovesDex2 1 100 AlternateArtUniqueMaligarosVirtuosity_"
+    ],
+    [
+      16,
+      125,
+      "unique UniqueRing25 1 100 AlternateArtUniqueMalachaisArtifice"
+    ],
+    [
+      16,
+      250,
+      "unique UniqueDagger8 1 100 AlternateArtUniqueBinosKitchenKnife"
+    ],
+    [
+      16,
+      500,
+      "unique UniqueAmulet20 1 100 AlternateArtUniqueWarpedTimepiece"
+    ],
+    [
+      17,
+      5,
+      "unique UniqueBootsInt2 1 100 AlternateArtUniqueWanderlust2"
+    ],
+    [
+      17,
+      20,
+      "Metadata/Items/Rings/Ring2 1 100 AlternateArtCoralRing2"
+    ],
+    [
+      17,
+      50,
+      "unique UniqueTwoHandMace2 1 100 AlternateArtUniqueGeofrisBaptism"
+    ],
+    [
+      17,
+      125,
+      "unique UniqueRing26 1 100 AlternateArtUniqueKikazaru"
+    ],
+    [
+      17,
+      200,
+      "unique UniqueBelt4 1 100 AlternateArtUniqueMeginordsGirdle2"
+    ],
+    [
+      17,
+      400,
+      "unique UniqueAmulet10 1 100 AlternateArtUniqueAtzirisFoible2"
+    ],
+    [
+      18,
+      3,
+      "unique UniqueRing24 1 100 AlternateArtUniqueMokousEmbrace"
+    ],
+    [
+      18,
+      10,
+      "Metadata/Items/Belts/Belt1 1 100 AlternateArtRusticSash2"
+    ],
+    [
+      18,
+      30,
+      "unique UniqueGlovesDex2 1 100 AlternateArtUniqueMaligarosVirtuosity_"
+    ],
+    [
+      18,
+      80,
+      "unique UniqueRing25 1 100 AlternateArtUniqueMalachaisArtifice"
+    ],
+    [
+      18,
+      150,
+      "unique UniqueDagger8 1 100 AlternateArtUniqueBinosKitchenKnife"
+    ],
+    [
+      18,
+      300,
+      "unique UniqueAmulet20 1 100 AlternateArtUniqueWarpedTimepiece"
+    ],
+    [
+      19,
+      5,
+      "unique UniqueRing24 1 100 AlternateArtUniqueMokousEmbrace "
+    ],
+    [
+      19,
+      20,
+      "Metadata/Items/Belts/Belt1 1 100 AlternateArtRusticSash2 "
+    ],
+    [
+      19,
+      50,
+      "unique UniqueGlovesDex2 1 100 AlternateArtUniqueMaligarosVirtuosity_ "
+    ],
+    [
+      19,
+      125,
+      "unique UniqueRing25 1 100 AlternateArtUniqueMalachaisArtifice "
+    ],
+    [
+      19,
+      250,
+      "unique UniqueOneHandSword5 1 100 AlternateArtPrismaticEclipse"
+    ],
+    [
+      19,
+      500,
+      "unique UniqueDagger8 1 100 AlternateArtUniqueBinosKitchenKnife "
+    ],
+    [
+      19,
+      750,
+      "unique UniqueAmulet20 1 100 AlternateArtUniqueWarpedTimepiece"
+    ],
+    [
+      20,
+      10,
+      "unique UniqueAmulet18 1 100 AlternateArtUniqueUngilsHarmony"
+    ],
+    [
+      20,
+      40,
+      "Metadata/Items/Rings/Ring13 1 100 AlternateArtTwoStoneRing_"
+    ],
+    [
+      20,
+      100,
+      "unique UniqueTwoHandSword7 1 100 AlternateArtUniqueEdgeOfMadness"
+    ],
+    [
+      20,
+      250,
+      "unique UniqueAmulet19 1 100 AlternateArtUniqueRashkaldorsPatience"
+    ],
+    [
+      20,
+      500,
+      "unique UniqueShieldInt1 1 100 AlternateArtUniqueRathpithGlobe"
+    ],
+    [
+      20,
+      1000,
+      "unique UniqueRing38 1 100 AlternateArtUniqueEmberwake"
+    ],
+    [
+      21,
+      5,
+      "unique UniqueRing24 1 100 AlternateArtUniqueMokousEmbrace"
+    ],
+    [
+      21,
+      20,
+      "Metadata/Items/Belts/Belt1 1 100 AlternateArtRusticSash2"
+    ],
+    [
+      21,
+      50,
+      "unique UniqueGlovesDex2 1 100 AlternateArtUniqueMaligarosVirtuosity_"
+    ],
+    [
+      21,
+      125,
+      "unique UniqueRing25 1 100 AlternateArtUniqueMalachaisArtifice"
+    ],
+    [
+      21,
+      250,
+      "unique UniqueDagger8 1 100 AlternateArtUniqueBinosKitchenKnife"
+    ],
+    [
+      21,
+      500,
+      "unique UniqueAmulet20 1 100 AlternateArtUniqueWarpedTimepiece"
+    ],
+    [
+      22,
+      7,
+      "unique UniqueAmulet18 1 100 AlternateArtUniqueUngilsHarmony"
+    ],
+    [
+      22,
+      20,
+      "Metadata/Items/Rings/Ring13 1 100 AlternateArtTwoStoneRing_"
+    ],
+    [
+      22,
+      50,
+      "unique UniqueTwoHandSword7 1 100 AlternateArtUniqueEdgeOfMadness"
+    ],
+    [
+      22,
+      120,
+      "unique UniqueAmulet19 1 100 AlternateArtUniqueRashkaldorsPatience"
+    ],
+    [
+      22,
+      250,
+      "unique UniqueShieldInt1 1 100 AlternateArtUniqueRathpithGlobe"
+    ],
+    [
+      22,
+      500,
+      "unique UniqueRing38 1 100 AlternateArtUniqueEmberwake"
+    ],
+    [
+      23,
+      10,
+      "unique UniqueAmulet18 1 100 AlternateArtUniqueUngilsHarmony"
+    ],
+    [
+      23,
+      30,
+      "Metadata/Items/Rings/Ring13 1 100 AlternateArtTwoStoneRing_"
+    ],
+    [
+      23,
+      60,
+      "unique UniqueRing15 1 100 AlternateArtUniquePyre"
+    ],
+    [
+      23,
+      90,
+      "unique UniqueStaff1 1 100 AlternateArtUniqueTheSearingTouch"
+    ],
+    [
+      23,
+      120,
+      "unique UniqueTwoHandSword7 1 100 AlternateArtUniqueEdgeOfMadness"
+    ],
+    [
+      23,
+      250,
+      "unique UniqueAmulet19 1 100 AlternateArtUniqueRashkaldorsPatience"
+    ],
+    [
+      23,
+      500,
+      "unique UniqueShieldInt1 1 100 AlternateArtUniqueRathpithGlobe"
+    ],
+    [
+      23,
+      750,
+      "unique UniqueRing38 1 100 AlternateArtUniqueEmberwake"
+    ],
+    [
+      24,
+      5,
+      "unique UniqueAmulet18 1 100 AlternateArtUniqueUngilsHarmony"
+    ],
+    [
+      24,
+      20,
+      "Metadata/Items/Rings/Ring13 1 100 AlternateArtTwoStoneRing_"
+    ],
+    [
+      24,
+      50,
+      "unique UniqueTwoHandSword7 1 100 AlternateArtUniqueEdgeOfMadness"
+    ],
+    [
+      24,
+      125,
+      "unique UniqueAmulet19 1 100 AlternateArtUniqueRashkaldorsPatience"
+    ],
+    [
+      24,
+      250,
+      "unique UniqueShieldInt1 1 100 AlternateArtUniqueRathpithGlobe"
+    ],
+    [
+      24,
+      500,
+      "unique UniqueRing38 1 100 AlternateArtUniqueEmberwake"
+    ],
+    [
+      25,
+      10,
+      "unique UniqueStaff9 1 100 AlternateArtUniqueTheBloodThorn"
+    ],
+    [
+      25,
+      40,
+      "Metadata/Items/Jewels/JewelStr 1 100 AlternateArtJewelStr"
+    ],
+    [
+      25,
+      100,
+      "unique UniqueRing12 1 100 AlternateArtUniqueDeathRush"
+    ],
+    [
+      25,
+      250,
+      "unique UniqueBootsDex4 1 100 AlternateArtUniqueTheBloodDance"
+    ],
+    [
+      25,
+      500,
+      "unique UniqueGlovesDexInt6 1 100 AlternateArtUniqueShadowsAndDust"
+    ],
+    [
+      25,
+      1000,
+      "unique UniqueAmulet25 1 100 AlternateArtUniqueBloodchoke"
+    ],
+    [
+      26,
+      10,
+      "unique UniqueStaff9 1 100 AlternateArtUniqueTheBloodThorn"
+    ],
+    [
+      26,
+      30,
+      "Metadata/Items/Jewels/JewelStr 1 100 AlternateArtJewelStr"
+    ],
+    [
+      26,
+      70,
+      "unique UniqueRing12 1 100 AlternateArtUniqueDeathRush"
+    ],
+    [
+      26,
+      150,
+      "unique UniqueBootsDex4 1 100 AlternateArtUniqueTheBloodDance"
+    ],
+    [
+      26,
+      300,
+      "unique UniqueGlovesDexInt6 1 100 AlternateArtUniqueShadowsAndDust"
+    ],
+    [
+      26,
+      600,
+      "unique UniqueAmulet25 1 100 AlternateArtUniqueBloodchoke"
+    ],
+    [
+      27,
+      5,
+      "unique UniqueStaff9 1 100 AlternateArtUniqueTheBloodThorn"
+    ],
+    [
+      27,
+      20,
+      "Metadata/Items/Jewels/JewelStr 1 100 AlternateArtJewelStr"
+    ],
+    [
+      27,
+      50,
+      "unique UniqueRing12 1 100 AlternateArtUniqueDeathRush"
+    ],
+    [
+      27,
+      125,
+      "unique UniqueBootsDex4 1 100 AlternateArtUniqueTheBloodDance"
+    ],
+    [
+      27,
+      250,
+      "unique UniqueGlovesDexInt6 1 100 AlternateArtUniqueShadowsAndDust"
+    ],
+    [
+      27,
+      500,
+      "unique UniqueAmulet25 1 100 AlternateArtUniqueBloodchoke"
+    ],
+    [
+      28,
+      10,
+      "unique UniqueMap3 1 100 UniqueMap3"
+    ],
+    [
+      28,
+      30,
+      "Metadata/Items/Rings/Ring2 1 100 AlternateArtCoralRing2"
+    ],
+    [
+      28,
+      60,
+      "unique UniqueBow3 1 100 AlternateArtUniqueDeathsHarp"
+    ],
+    [
+      28,
+      90,
+      "unique UniqueTwoHandAxe2 1 100 AlternateArtUniqueReapersPursuit"
+    ],
+    [
+      28,
+      120,
+      "unique UniqueBodyInt6 1 100 AlternateArtUniqueTabulaRasa"
+    ],
+    [
+      28,
+      180,
+      "unique UniqueBelt4 1 100 AlternateArtMeginordsGirdle"
+    ],
+    [
+      28,
+      250,
+      "unique UniqueGlovesDexInt6 1 100 AlternateArtUniqueShadowsAndDust"
+    ],
+    [
+      28,
+      500,
+      "unique UniqueAmulet25 1 100 AlternateArtUniqueBloodchoke"
+    ],
+    [
+      29,
+      10,
+      "unique UniqueOneHandSword12 1 100 AlternateArtUniqueThePrincess"
+    ],
+    [
+      29,
+      40,
+      "Metadata/Items/Weapons/TwoHandWeapons/Staves/StaffM3 1 100 AlternateArtEclipseStaff"
+    ],
+    [
+      29,
+      100,
+      "unique UniqueShieldDex2 1 100 AlternateArtUniqueCrestOfPerandus"
+    ],
+    [
+      29,
+      250,
+      "unique UniqueFlask4 1 100 AlternateArtUniqueLaviangasSpirit"
+    ],
+    [
+      29,
+      500,
+      "unique UniqueOneHandAxe1 1 100 AlternateArtUniqueSoulTaker"
+    ],
+    [
+      29,
+      1000,
+      "unique UniqueBelt18 1 100 AlternateArtUniqueSoulthirst"
+    ],
+    [
+      30,
+      5,
+      "unique UniqueBootsInt2 1 100 AlternateArtUniqueWanderlust2"
+    ],
+    [
+      30,
+      20,
+      "Metadata/Items/Rings/Ring2 1 100 AlternateArtCoralRing2"
+    ],
+    [
+      30,
+      50,
+      "unique UniqueTwoHandMace2 1 100 AlternateArtUniqueGeofrisBaptism"
+    ],
+    [
+      30,
+      125,
+      "unique UniqueRing26 1 100 AlternateArtUniqueKikazaru"
+    ],
+    [
+      30,
+      250,
+      "unique UniqueBelt4 1 100 AlternateArtUniqueMeginordsGirdle2"
+    ],
+    [
+      30,
+      500,
+      "unique UniqueAmulet10 1 100 AlternateArtUniqueAtzirisFoible2"
+    ],
+    [
+      31,
+      10,
+      "unique UniqueOneHandSword12 1 100 AlternateArtUniqueThePrincess"
+    ],
+    [
+      31,
+      40,
+      "unique UniqueAmulet16 1 100 AlternateArtTheAnvil"
+    ],
+    [
+      31,
+      70,
+      "unique UniqueMap2_2 1 100 UniqueMap2"
+    ],
+    [
+      31,
+      100,
+      "Metadata/Items/Weapons/TwoHandWeapons/Staves/StaffM3 1 100 AlternateArtEclipseStaff"
+    ],
+    [
+      31,
+      150,
+      "unique UniqueShieldDex2 1 100 AlternateArtUniqueCrestOfPerandus"
+    ],
+    [
+      31,
+      250,
+      "unique UniqueFlask4 1 100 AlternateArtUniqueLaviangasSpirit"
+    ],
+    [
+      31,
+      500,
+      "unique UniqueOneHandAxe1 1 100 AlternateArtUniqueSoulTaker"
+    ],
+    [
+      31,
+      1000,
+      "unique UniqueBelt18 1 100 AlternateArtUniqueSoulthirst"
+    ],
+    [
+      32,
+      10,
+      "unique UniqueOneHandSword12 1 100 AlternateArtUniqueThePrincess"
+    ],
+    [
+      32,
+      40,
+      "Metadata/Items/Weapons/TwoHandWeapons/Staves/StaffM3 1 100 AlternateArtEclipseStaff"
+    ],
+    [
+      32,
+      100,
+      "unique UniqueShieldDex2 1 100 AlternateArtUniqueCrestOfPerandus"
+    ],
+    [
+      32,
+      250,
+      "unique UniqueFlask4 1 100 AlternateArtUniqueLaviangasSpirit"
+    ],
+    [
+      32,
+      500,
+      "unique UniqueOneHandAxe1 1 100 AlternateArtUniqueSoulTaker"
+    ],
+    [
+      32,
+      1000,
+      "unique UniqueBelt18 1 100 AlternateArtUniqueSoulthirst"
+    ],
+    [
+      33,
+      10,
+      "unique UniqueOneHandSword12 1 100 AlternateArtUniqueThePrincess"
+    ],
+    [
+      33,
+      40,
+      "Metadata/Items/Weapons/TwoHandWeapons/Staves/StaffM3 1 100 AlternateArtEclipseStaff"
+    ],
+    [
+      33,
+      100,
+      "unique UniqueShieldDex2 1 100 AlternateArtUniqueCrestOfPerandus"
+    ],
+    [
+      33,
+      250,
+      "unique UniqueFlask4 1 100 AlternateArtUniqueLaviangasSpirit"
+    ],
+    [
+      33,
+      500,
+      "unique UniqueOneHandAxe1 1 100 AlternateArtUniqueSoulTaker"
+    ],
+    [
+      33,
+      1000,
+      "unique UniqueBelt18 1 100 AlternateArtUniqueSoulthirst"
+    ],
+    [
+      34,
+      10,
+      "unique UniqueQuiver5 1 100 AlternateArtUniqueAsphyxiasWrath"
+    ],
+    [
+      34,
+      40,
+      "Metadata/Items/Rings/Ring6 1 100 AlternateArtSapphireRing2"
+    ],
+    [
+      34,
+      100,
+      "unique UniqueStaff12 1 100 AlternateArtUniqueTheWhisperingIce"
+    ],
+    [
+      34,
+      250,
+      "unique UniqueBelt14 1 100 AlternateArtUniqueDyadianDawn"
+    ],
+    [
+      34,
+      500,
+      "unique UniqueRing34 1 100 AlternateArtUniqueCallOfTheBrotherhood"
+    ],
+    [
+      34,
+      1000,
+      "unique UniqueAmulet29 1 100 AlternateArtUniqueWinterheart"
+    ],
+    [
+      35,
+      10,
+      "unique UniqueOneHandSword12 1 100 AlternateArtUniqueThePrincess"
+    ],
+    [
+      35,
+      30,
+      "Metadata/Items/Weapons/TwoHandWeapons/Staves/StaffM3 1 100 AlternateArtEclipseStaff"
+    ],
+    [
+      35,
+      70,
+      "unique UniqueShieldDex2 1 100 AlternateArtUniqueCrestOfPerandus"
+    ],
+    [
+      35,
+      125,
+      "unique UniqueFlask4 1 100 AlternateArtUniqueLaviangasSpirit"
+    ],
+    [
+      35,
+      250,
+      "unique UniqueOneHandAxe1 1 100 AlternateArtUniqueSoulTaker"
+    ],
+    [
+      35,
+      500,
+      "unique UniqueBelt18 1 100 AlternateArtUniqueSoulthirst"
+    ],
+    [
+      36,
+      5,
+      "unique UniqueStaff9 1 100 AlternateArtUniqueTheBloodThorn"
+    ],
+    [
+      36,
+      20,
+      "Metadata/Items/Jewels/JewelStr 1 100 AlternateArtJewelStr"
+    ],
+    [
+      36,
+      50,
+      "unique UniqueRing12 1 100 AlternateArtUniqueDeathRush"
+    ],
+    [
+      36,
+      125,
+      "unique UniqueBootsDex4 1 100 AlternateArtUniqueTheBloodDance"
+    ],
+    [
+      36,
+      250,
+      "unique UniqueGlovesDexInt6 1 100 AlternateArtUniqueShadowsAndDust"
+    ],
+    [
+      36,
+      500,
+      "unique UniqueAmulet25 1 100 AlternateArtUniqueBloodchoke"
+    ],
+    [
+      37,
+      10,
+      "unique UniqueQuiver5 1 100 AlternateArtUniqueAsphyxiasWrath"
+    ],
+    [
+      37,
+      40,
+      "Metadata/Items/Rings/Ring6 1 100 AlternateArtSapphireRing2"
+    ],
+    [
+      37,
+      100,
+      "unique UniqueStaff12 1 100 AlternateArtUniqueTheWhisperingIce"
+    ],
+    [
+      37,
+      250,
+      "unique UniqueBelt14 1 100 AlternateArtUniqueDyadianDawn"
+    ],
+    [
+      37,
+      500,
+      "unique UniqueRing34 1 100 AlternateArtUniqueCallOfTheBrotherhood"
+    ],
+    [
+      37,
+      1000,
+      "unique UniqueAmulet29 1 100 AlternateArtUniqueWinterheart"
+    ],
+    [
+      38,
+      10,
+      "unique UniqueQuiver5 1 100 AlternateArtUniqueAsphyxiasWrath"
+    ],
+    [
+      38,
+      40,
+      "Metadata/Items/Rings/Ring6 1 100 AlternateArtSapphireRing2"
+    ],
+    [
+      38,
+      100,
+      "unique UniqueStaff12 1 100 AlternateArtUniqueTheWhisperingIce"
+    ],
+    [
+      38,
+      175,
+      "unique UniqueRing18 1 100 AlternateArtBereksPass"
+    ],
+    [
+      38,
+      250,
+      "unique UniqueBelt14 1 100 AlternateArtUniqueDyadianDawn"
+    ],
+    [
+      38,
+      350,
+      "unique UniqueRing19 1 100 AlternateArtBereksGrip"
+    ],
+    [
+      38,
+      500,
+      "unique UniqueRing34 1 100 AlternateArtUniqueCallOfTheBrotherhood"
+    ],
+    [
+      38,
+      600,
+      "unique UniqueStaff2 1 100 AlternateArtUniqueTarynsShiver"
+    ],
+    [
+      38,
+      800,
+      "unique UniqueRing20 1 100 AlternateArtBereksRespite"
+    ],
+    [
+      38,
+      1000,
+      "unique UniqueAmulet29 1 100 AlternateArtUniqueWinterheart"
+    ],
+    [
+      39,
+      10,
+      "unique UniqueQuiver5 1 100 AlternateArtUniqueAsphyxiasWrath"
+    ],
+    [
+      39,
+      40,
+      "Metadata/Items/Rings/Ring6 1 100 AlternateArtSapphireRing2"
+    ],
+    [
+      39,
+      100,
+      "unique UniqueStaff12 1 100 AlternateArtUniqueTheWhisperingIce"
+    ],
+    [
+      39,
+      150,
+      "unique UniqueBelt14 1 100 AlternateArtUniqueDyadianDawn"
+    ],
+    [
+      39,
+      250,
+      "unique UniqueRing34 1 100 AlternateArtUniqueCallOfTheBrotherhood"
+    ],
+    [
+      39,
+      500,
+      "unique UniqueAmulet29 1 100 AlternateArtUniqueWinterheart"
+    ],
+    [
+      40,
+      7,
+      "unique UniqueQuiver5 1 100 AlternateArtUniqueAsphyxiasWrath"
+    ],
+    [
+      40,
+      30,
+      "Metadata/Items/Rings/Ring6 1 100 AlternateArtSapphireRing2"
+    ],
+    [
+      40,
+      75,
+      "unique UniqueStaff12 1 100 AlternateArtUniqueTheWhisperingIce"
+    ],
+    [
+      40,
+      185,
+      "unique UniqueBelt14 1 100 AlternateArtUniqueDyadianDawn"
+    ],
+    [
+      40,
+      375,
+      "unique UniqueRing34 1 100 AlternateArtUniqueCallOfTheBrotherhood"
+    ],
+    [
+      40,
+      750,
+      "unique UniqueAmulet29 1 100 AlternateArtUniqueWinterheart"
+    ],
+    [
+      41,
+      7,
+      "unique UniqueQuiver5 1 100 AlternateArtUniqueAsphyxiasWrath"
+    ],
+    [
+      41,
+      30,
+      "Metadata/Items/Rings/Ring6 1 100 AlternateArtSapphireRing2"
+    ],
+    [
+      41,
+      75,
+      "unique UniqueStaff12 1 100 AlternateArtUniqueTheWhisperingIce"
+    ],
+    [
+      41,
+      185,
+      "unique UniqueBelt14 1 100 AlternateArtUniqueDyadianDawn"
+    ],
+    [
+      41,
+      280,
+      "unique UniqueRing34 1 100 AlternateArtUniqueCallOfTheBrotherhood"
+    ],
+    [
+      41,
+      375,
+      "unique UniqueAmulet29 1 100 AlternateArtUniqueWinterheart"
+    ],
+    [
+      42,
+      10,
+      "unique UniqueAmulet34 1 100 AlternateArtUniqueNgamahuTiki"
+    ],
+    [
+      42,
+      40,
+      "unique UniqueTalisman1 1 100 AlternateArtUniqueNightsHold"
+    ],
+    [
+      42,
+      100,
+      "unique UniqueAmulet22 1 100 AlternateArtUniqueTearOfPurity"
+    ],
+    [
+      42,
+      250,
+      "unique UniqueAmulet15 1 100 AlternateArtUniqueVictariosAcuity"
+    ],
+    [
+      42,
+      500,
+      "unique UniqueTalisman3 1 100 AlternateArtUniqueNaturalHierachy"
+    ],
+    [
+      42,
+      1000,
+      "unique UniqueAmulet14 1 100 AlternateArtUniqueVollsDevotion_"
+    ],
+    [
+      43,
+      10,
+      "unique UniqueAmulet34 1 100 AlternateArtUniqueNgamahuTiki"
+    ],
+    [
+      43,
+      40,
+      "unique UniqueTalisman1 1 100 AlternateArtUniqueNightsHold"
+    ],
+    [
+      43,
+      100,
+      "unique UniqueAmulet22 1 100 AlternateArtUniqueTearOfPurity"
+    ],
+    [
+      43,
+      200,
+      "unique UniqueAmulet15 1 100 AlternateArtUniqueVictariosAcuity"
+    ],
+    [
+      43,
+      400,
+      "unique UniqueAmulet13 1 100 AlternateArtDaressosSalute"
+    ],
+    [
+      43,
+      650,
+      "unique UniqueTalisman3 1 100 AlternateArtUniqueNaturalHierachy"
+    ],
+    [
+      43,
+      1000,
+      "unique UniqueAmulet14 1 100 AlternateArtUniqueVollsDevotion_"
+    ],
+    [
+      44,
+      10,
+      "unique UniqueAmulet34 1 100 AlternateArtUniqueNgamahuTiki"
+    ],
+    [
+      44,
+      40,
+      "unique UniqueTalisman1 1 100 AlternateArtUniqueNightsHold"
+    ],
+    [
+      44,
+      100,
+      "unique UniqueAmulet22 1 100 AlternateArtUniqueTearOfPurity"
+    ],
+    [
+      44,
+      250,
+      "unique UniqueAmulet15 1 100 AlternateArtUniqueVictariosAcuity"
+    ],
+    [
+      44,
+      500,
+      "unique UniqueTalisman3 1 100 AlternateArtUniqueNaturalHierachy"
+    ],
+    [
+      44,
+      1000,
+      "unique UniqueAmulet14 1 100 AlternateArtUniqueVollsDevotion_"
+    ],
+    [
+      45,
+      10,
+      "unique UniqueAmulet34 1 100 AlternateArtUniqueNgamahuTiki"
+    ],
+    [
+      45,
+      40,
+      "unique UniqueTalisman1 1 100 AlternateArtUniqueNightsHold"
+    ],
+    [
+      45,
+      100,
+      "unique UniqueAmulet22 1 100 AlternateArtUniqueTearOfPurity"
+    ],
+    [
+      45,
+      250,
+      "unique UniqueAmulet15 1 100 AlternateArtUniqueVictariosAcuity"
+    ],
+    [
+      45,
+      400,
+      "unique UniqueTalisman3 1 100 AlternateArtUniqueNaturalHierachy"
+    ],
+    [
+      45,
+      800,
+      "unique UniqueAmulet14 1 100 AlternateArtUniqueVollsDevotion_"
+    ],
+    [
+      46,
+      7,
+      "unique UniqueAmulet34 1 100 AlternateArtUniqueNgamahuTiki"
+    ],
+    [
+      46,
+      20,
+      "unique UniqueTalisman1 1 100 AlternateArtUniqueNightsHold"
+    ],
+    [
+      46,
+      50,
+      "unique UniqueAmulet22 1 100 AlternateArtUniqueTearOfPurity"
+    ],
+    [
+      46,
+      125,
+      "unique UniqueAmulet15 1 100 AlternateArtUniqueVictariosAcuity"
+    ],
+    [
+      46,
+      250,
+      "unique UniqueTalisman3 1 100 AlternateArtUniqueNaturalHierachy"
+    ],
+    [
+      46,
+      500,
+      "unique UniqueAmulet14 1 100 AlternateArtUniqueVollsDevotion_"
+    ],
+    [
+      47,
+      10,
+      "unique UniqueAmulet34 1 100 AlternateArtUniqueNgamahuTiki"
+    ],
+    [
+      47,
+      25,
+      "unique UniqueTalisman1 1 100 AlternateArtUniqueNightsHold"
+    ],
+    [
+      47,
+      50,
+      "unique UniqueAmulet22 1 100 AlternateArtUniqueTearOfPurity"
+    ],
+    [
+      47,
+      80,
+      "unique UniqueAmulet15 1 100 AlternateArtUniqueVictariosAcuity"
+    ],
+    [
+      47,
+      125,
+      "unique UniqueTalisman3 1 100 AlternateArtUniqueNaturalHierachy"
+    ],
+    [
+      47,
+      200,
+      "unique UniqueAmulet14 1 100 AlternateArtUniqueVollsDevotion_"
+    ]
+  ]
+}

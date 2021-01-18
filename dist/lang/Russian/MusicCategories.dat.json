@@ -1,1 +1,169 @@
-{"filename":"MusicCategories.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":"True","file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Name","rowid":1,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Order","rowid":2,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Flag0","rowid":3,"type":"byte","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["Boss","Битвы с боссом",10,0],["Town","Города",11,1],["Act1","Акт I",0,0],["Act2","Акт II",1,0],["Act3","Акт III",2,0],["Act4","Акт IV",3,0],["Act5","Акт V",4,0],["Act6","Акт VI",5,0],["Act7","Акт VII",6,0],["Act8","Акт VIII",7,0],["Act9","Акт IX",8,0],["Act10","Акт X",9,0],["Map","Уникальные карты",13,0],["Expansions","Дополнения",12,0],["Other","Другое",14,0],["Hideouts","Убежища",15,0],["Trailers","Трейлеры",16,0]]}
+{
+  "filename": "MusicCategories.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": "True",
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Name",
+      "rowid": 1,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Order",
+      "rowid": 2,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Flag0",
+      "rowid": 3,
+      "type": "byte",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "Boss",
+      "Битвы с боссом",
+      10,
+      0
+    ],
+    [
+      "Town",
+      "Города",
+      11,
+      1
+    ],
+    [
+      "Act1",
+      "Акт I",
+      0,
+      0
+    ],
+    [
+      "Act2",
+      "Акт II",
+      1,
+      0
+    ],
+    [
+      "Act3",
+      "Акт III",
+      2,
+      0
+    ],
+    [
+      "Act4",
+      "Акт IV",
+      3,
+      0
+    ],
+    [
+      "Act5",
+      "Акт V",
+      4,
+      0
+    ],
+    [
+      "Act6",
+      "Акт VI",
+      5,
+      0
+    ],
+    [
+      "Act7",
+      "Акт VII",
+      6,
+      0
+    ],
+    [
+      "Act8",
+      "Акт VIII",
+      7,
+      0
+    ],
+    [
+      "Act9",
+      "Акт IX",
+      8,
+      0
+    ],
+    [
+      "Act10",
+      "Акт X",
+      9,
+      0
+    ],
+    [
+      "Map",
+      "Уникальные карты",
+      13,
+      0
+    ],
+    [
+      "Expansions",
+      "Дополнения",
+      12,
+      0
+    ],
+    [
+      "Other",
+      "Другое",
+      14,
+      0
+    ],
+    [
+      "Hideouts",
+      "Убежища",
+      15,
+      0
+    ],
+    [
+      "Trailers",
+      "Трейлеры",
+      16,
+      0
+    ]
+  ]
+}

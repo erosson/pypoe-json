@@ -1,1 +1,277 @@
-{"filename":"ShopCountry.dat","header":[{"name":"CountryTwoLetterCode","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Country","rowid":1,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"ShopCurrencyKey","rowid":2,"type":"ulong","key":"ShopCurrency.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["US","미국",0],["BR","브라질",1],["RU","러시아",2],["TH","태국",3],["DE","독일",4],["FR","프랑스",4],["ES","스페인",4],["AT","오스트리아",4],["BE","벨기에",4],["BG","불가리아",4],["HR","크로아티아",4],["CY","사이프러스",4],["CZ","체코 공화국",4],["DK","덴마크",4],["EE","에스토니아",4],["FI","핀란드",4],["GB","영국",4],["GR","그리스",4],["HU","헝가리",4],["IE","아일랜드",4],["IT","이탈리아",4],["LV","라트비아",4],["LT","리투아니아",4],["LU","룩셈부르크",4],["MT","말타",4],["NL","네덜란드",4],["PL","폴란드",4],["PT","포르투갈",4],["RO","루마니아",4],["SK","슬로바키아",4],["SI","슬로베니아",4],["SE","스웨덴",4],["NZ","뉴질랜드",5],["KR","대한민국",6],["UA","우크라이나",2],["BY","벨로루시",2],["KZ","카자흐스탄",2],["MD","몰도바 공화국",2],["GE","조지아",2],["AM","아르메니아",2],["UZ","우즈베키스탄",2],["KG","키르기스스탄",2],["AZ","아제르바이잔",2],["TJ","타지키스탄",2],["TM","투르크메니스탄",2]]}
+{
+  "filename": "ShopCountry.dat",
+  "header": [
+    {
+      "name": "CountryTwoLetterCode",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Country",
+      "rowid": 1,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "ShopCurrencyKey",
+      "rowid": 2,
+      "type": "ulong",
+      "key": "ShopCurrency.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "US",
+      "미국",
+      0
+    ],
+    [
+      "BR",
+      "브라질",
+      1
+    ],
+    [
+      "RU",
+      "러시아",
+      2
+    ],
+    [
+      "TH",
+      "태국",
+      3
+    ],
+    [
+      "DE",
+      "독일",
+      4
+    ],
+    [
+      "FR",
+      "프랑스",
+      4
+    ],
+    [
+      "ES",
+      "스페인",
+      4
+    ],
+    [
+      "AT",
+      "오스트리아",
+      4
+    ],
+    [
+      "BE",
+      "벨기에",
+      4
+    ],
+    [
+      "BG",
+      "불가리아",
+      4
+    ],
+    [
+      "HR",
+      "크로아티아",
+      4
+    ],
+    [
+      "CY",
+      "사이프러스",
+      4
+    ],
+    [
+      "CZ",
+      "체코 공화국",
+      4
+    ],
+    [
+      "DK",
+      "덴마크",
+      4
+    ],
+    [
+      "EE",
+      "에스토니아",
+      4
+    ],
+    [
+      "FI",
+      "핀란드",
+      4
+    ],
+    [
+      "GB",
+      "영국",
+      4
+    ],
+    [
+      "GR",
+      "그리스",
+      4
+    ],
+    [
+      "HU",
+      "헝가리",
+      4
+    ],
+    [
+      "IE",
+      "아일랜드",
+      4
+    ],
+    [
+      "IT",
+      "이탈리아",
+      4
+    ],
+    [
+      "LV",
+      "라트비아",
+      4
+    ],
+    [
+      "LT",
+      "리투아니아",
+      4
+    ],
+    [
+      "LU",
+      "룩셈부르크",
+      4
+    ],
+    [
+      "MT",
+      "말타",
+      4
+    ],
+    [
+      "NL",
+      "네덜란드",
+      4
+    ],
+    [
+      "PL",
+      "폴란드",
+      4
+    ],
+    [
+      "PT",
+      "포르투갈",
+      4
+    ],
+    [
+      "RO",
+      "루마니아",
+      4
+    ],
+    [
+      "SK",
+      "슬로바키아",
+      4
+    ],
+    [
+      "SI",
+      "슬로베니아",
+      4
+    ],
+    [
+      "SE",
+      "스웨덴",
+      4
+    ],
+    [
+      "NZ",
+      "뉴질랜드",
+      5
+    ],
+    [
+      "KR",
+      "대한민국",
+      6
+    ],
+    [
+      "UA",
+      "우크라이나",
+      2
+    ],
+    [
+      "BY",
+      "벨로루시",
+      2
+    ],
+    [
+      "KZ",
+      "카자흐스탄",
+      2
+    ],
+    [
+      "MD",
+      "몰도바 공화국",
+      2
+    ],
+    [
+      "GE",
+      "조지아",
+      2
+    ],
+    [
+      "AM",
+      "아르메니아",
+      2
+    ],
+    [
+      "UZ",
+      "우즈베키스탄",
+      2
+    ],
+    [
+      "KG",
+      "키르기스스탄",
+      2
+    ],
+    [
+      "AZ",
+      "아제르바이잔",
+      2
+    ],
+    [
+      "TJ",
+      "타지키스탄",
+      2
+    ],
+    [
+      "TM",
+      "투르크메니스탄",
+      2
+    ]
+  ]
+}

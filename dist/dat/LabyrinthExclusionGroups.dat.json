@@ -1,1 +1,25 @@
-{"filename":"LabyrinthExclusionGroups.dat","header":[{"name":"Unknown1","rowid":0,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[[8]]}
+{
+  "filename": "LabyrinthExclusionGroups.dat",
+  "header": [
+    {
+      "name": "Unknown1",
+      "rowid": 0,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      8
+    ]
+  ]
+}

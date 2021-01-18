@@ -1,1 +1,6012 @@
-{"filename":"DelveFeatures.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":true,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Name","rowid":1,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"SpawnWeight","rowid":2,"type":"ref|list|int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"WorldAreasKey","rowid":3,"type":"ulong","key":"WorldAreas.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Image","rowid":4,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":true,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"AchievementItemsKeys","rowid":5,"type":"ref|list|ulong","key":"AchievementItems.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"MinTier","rowid":6,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Type","rowid":7,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"MinDepth","rowid":8,"type":"ref|list|int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Description","rowid":9,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown0","rowid":10,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Data1","rowid":11,"type":"ref|list|int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Data2","rowid":12,"type":"ref|list|int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Data3","rowid":13,"type":"ref|list|int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["Nothing","",[0],null,"",[],0,"MineEntrance",[],"",0,[],[0],[]],["MineEntrance","광산 입구",[0],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/MineEntrance",[],0,"MineEntrance",[],"",0,[],[0],[]],["ObstructionNorth","",[0],null,"",[],0,"MineEntrance",[],"",0,[],[0],[]],["ObstructionEast","",[0],null,"",[],0,"MineEntrance",[],"",0,[],[0],[]],["ObstructionSouth","",[0],null,"",[],0,"MineEntrance",[],"",0,[],[0],[]],["ObstructionWest","",[0],null,"",[],0,"MineEntrance",[],"",0,[],[0],[]],["DarkChest","",[0],null,"",[],0,"MineEntrance",[],"",0,[],[0],[]],["Azurite1_Q","남동석 공동",[0],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/AzuriteVein",[],0,"MineEntrance",[],"남동석 포함",0,[],[0],[]],["Breach","속삭이는 회랑",[100],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Breach",[],2,"\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000균열 포함",[10],"균열 포함",0,[0],[0],[0,4]],["Harbinger","룬 문자 암굴",[100],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Harbinger",[],2,"\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000균열 포함",[10],"선구자 포함",0,[0],[0],[0,4]],["Azurite1_1","남동석 공동",[500],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/AzuriteVein",[],1,"",[],"남동석 포함",0,[],[0],[0]],["Azurite1_2","남동석 공동",[500],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/AzuriteVein",[],1,"",[],"남동석 포함",0,[],[0],[0]],["Azurite1_3","남동석 공동",[500],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/AzuriteVein",[],1,"",[],"남동석 포함",0,[],[0],[0]],["Azurite1_4","남동석 공동",[500],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/AzuriteVein",[],1,"",[],"남동석 포함",0,[],[0],[0]],["Azurite2_1","남동석 금고실",[300],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/AzuriteVeinII",[],1,"\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",[20],"남동석 포함",0,[0],[0],[0]],["Azurite2_2","남동석 금고실",[300],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/AzuriteVeinII",[],1,"\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",[20],"남동석 포함",0,[0],[0],[0]],["Azurite2_3","남동석 금고실",[300],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/AzuriteVeinII",[],1,"\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",[20],"남동석 포함",0,[0],[0],[0]],["Azurite2_4","남동석 금고실",[300],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/AzuriteVeinII",[],1,"\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",[20],"남동석 포함",0,[0],[0],[0]],["Azurite3_1","남동석 균열",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/AzuriteVeinIII",[],1,"\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",[40,35],"남동석 포함",0,[0,4],[0],[0]],["Azurite3_2","남동석 균열",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/AzuriteVeinIII",[],1,"\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",[40,35],"남동석 포함",0,[0,4],[0],[0]],["Azurite3_3","남동석 균열",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/AzuriteVeinIII",[],1,"\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",[40,35],"남동석 포함",0,[0,4],[0],[0]],["FungalCavernsFossil","으스스한 무덤",[100],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Fossil",[],1,"\u0004\u0000\u0004\u0000S\u00004\u0000#\u0000화석 포함",[83,52,35],"화석 포함",0,[0,3,4],[0],[0]],["PetrifiedForestFossil","돌나무 동혈",[100],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Fossil",[],1,"\u0004\u0000\u0004\u0000S\u00004\u0000#\u0000화석 포함",[83,52,35],"화석 포함",0,[0,3,4],[0],[0]],["AbyssalDepthsFossil","수정 첨탑",[100],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Fossil",[],1,"\u0004\u0000\u0004\u0000S\u00004\u0000#\u0000화석 포함",[83,52,35],"화석 포함",0,[0,3,4],[0],[0]],["FrozenHollowFossil","오래된 암굴",[100],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Fossil",[],1,"\u0004\u0000\u0004\u0000S\u00004\u0000#\u0000화석 포함",[83,52,35],"화석 포함",0,[0,3,4],[0],[0]],["MagmaFissureFossil","녹아내린 공동",[100],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Fossil",[],1,"\u0004\u0000\u0004\u0000S\u00004\u0000#\u0000화석 포함",[83,52,35],"화석 포함",0,[0,3,4],[0],[0]],["SulphurVentsFossil","축축한 균열",[100],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Fossil",[],1,"\u0004\u0000\u0004\u0000S\u00004\u0000#\u0000화석 포함",[83,52,35],"화석 포함",0,[0,3,4],[0],[0]],["WolvesGeneric","울부짖는 굴",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",[],1,"",[],"아이템 포함",0,[],[0],[0]],["WolvesArmour","울부짖는 굴",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",[],1,"",[],"방어구 포함",0,[],[0],[0]],["WolvesWeapon","울부짖는 굴",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",[],1,"",[],"무기 포함",0,[],[0],[0]],["WolvesTrinkets","울부짖는 굴",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",[],1,"\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",[],"장신구 포함",0,[],[0],[0]],["WolvesGems","울부짖는 굴",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Gems",[],1,"\u0002\u0000\u0002\u0000젬 포함",[],"젬 포함",0,[],[0],[0]],["WolvesCurrency","울부짖는 굴",[150],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",[],1,"\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",[],"화폐 포함",0,[],[0],[0]],["ExilesArmour","밀수업자의 보관함",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",[],1,"",[],"방어구 포함",0,[],[0],[0]],["ExilesWeapon","밀수업자의 보관함",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",[],1,"",[],"무기 포함",0,[],[0],[0]],["ExilesMaps","밀수업자의 보관함",[75],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Maps",[],1,"\u0003\u0000\u0004\u0000지도 포함",[83,52,35],"지도 포함",0,[0,3,4],[0],[0]],["ExilesFossils","밀수업자의 보관함",[100],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Fossil",[],2,"\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000균열 포함",[15],"화석 포함",0,[0],[0],[0,4]],["IceGolemGeneric","위태로운 돌덩이",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",[],1,"",[],"아이템 포함",0,[],[0],[0]],["IceGolemGems","위태로운 돌덩이",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Gems",[],1,"\u0002\u0000\u0002\u0000젬 포함",[],"젬 포함",0,[],[0],[0]],["IceGolemCold","위태로운 돌덩이",[100],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Cold",[],2,"\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000균열 포함",[50],"냉기 아이템 포함",0,[1],[0],[0,4]],["FireGolemGeneric","위태로운 돌덩이",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",[],1,"",[],"아이템 포함",0,[],[0],[0]],["FireGolemGems","위태로운 돌덩이",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Gems",[],1,"\u0002\u0000\u0002\u0000젬 포함",[],"젬 포함",0,[],[0],[0]],["FireGolemFire","위태로운 돌덩이",[100],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Fire",[],2,"\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000균열 포함",[50],"화염 아이템 포함",0,[1],[0],[0,4]],["MantleHellionsGeneric","무더운 토굴",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",[],1,"",[],"아이템 포함",0,[],[0],[0]],["MantleHellionsArmour","무더운 토굴",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",[],1,"",[],"방어구 포함",0,[],[0],[0]],["MantleHellionsWeapon","무더운 토굴",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",[],1,"",[],"무기 포함",0,[],[0],[0]],["MantleHellionsTrinkets","무더운 토굴",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",[],1,"\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",[],"장신구 포함",0,[],[0],[0]],["MantleHellionsCurrency","무더운 토굴",[150],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",[],1,"\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",[],"화폐 포함",0,[],[0],[0]],["MantleHellionsFire","무더운 토굴",[100],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Fire",[],2,"\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000균열 포함",[50],"화염 아이템 포함",0,[0],[0],[0,4]],["MantleCampsiteGeneric","그슬린 야영지",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",[],1,"",[],"아이템 포함",0,[],[0],[0]],["MantleCampsiteArmour","그슬린 야영지",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",[],1,"",[],"방어구 포함",0,[],[0],[0]],["MantleCampsiteWeapon","그슬린 야영지",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",[],1,"",[],"무기 포함",0,[],[0],[0]],["MantleCampsiteTrinkets","그슬린 야영지",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",[],1,"\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",[],"장신구 포함",0,[],[0],[0]],["MantleCampsiteCurrency","그슬린 야영지",[150],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",[],1,"\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",[],"화폐 포함",0,[],[0],[0]],["MantleCampsiteMaps","그슬린 야영지",[75],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Maps",[],1,"\u0003\u0000\u0004\u0000지도 포함",[83,52,35],"지도 포함",0,[0,3,4],[0],[0]],["MantleSkeletonGeneric","그을린 무덤",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",[],1,"",[],"아이템 포함",0,[],[0],[0]],["MantleSkeletonArmour","그을린 무덤",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",[],1,"",[],"방어구 포함",0,[],[0],[0]],["MantleSkeletonWeapon","그을린 무덤",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",[],1,"",[],"무기 포함",0,[],[0],[0]],["MantleSkeletonTrinkets","그을린 무덤",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",[],1,"\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",[],"장신구 포함",0,[],[0],[0]],["MantleSkeletonGems","그을린 무덤",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Gems",[],1,"\u0002\u0000\u0002\u0000젬 포함",[],"젬 포함",0,[],[0],[0]],["MantleSkeletonCurrency","그을린 무덤",[150],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",[],1,"\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",[],"화폐 포함",0,[],[0],[0]],["MantleSkeletonMaps","그을린 무덤",[75],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Maps",[],1,"\u0003\u0000\u0004\u0000지도 포함",[83,52,35],"지도 포함",0,[0,3,4],[0],[0]],["VaalChamberTier0","허물어진 방",[100],389,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/VaalCity",[],0,"MineEntrance",[],"내용물 미상",0,[],[0],[]],["VaalChamberTier1","허물어진 방",[100],389,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/VaalCity",[],1,"\u0001\u0000\u0001\u0000VaalChamberTier2",[],"내용물 미상",0,[],[0],[0]],["VaalChamberTier2","허물어진 방",[25000],389,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/VaalCity",[],1,"\u0002\u0000\u0002\u0000젬 포함",[],"내용물 미상",0,[],[0],[0]],["VaalChamberTier3","허물어진 방",[5000],389,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/VaalCity",[],1,"\u0003\u0000\u0003\u0000VaalChamberTier4",[],"내용물 미상",0,[],[0],[0]],["VaalChamberTier4","허물어진 방",[1],389,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/VaalCity",[],1,"\u0004\u0000\u0004\u0000S\u00004\u0000#\u0000화석 포함",[],"내용물 미상",0,[],[0],[0]],["ProtoVaalChamberTier0","원시시대의 방",[100],390,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/ProtoVaalCity",[],0,"MineEntrance",[],"내용물 미상",0,[],[0],[]],["ProtoVaalChamberTier1","원시시대의 방",[100],390,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/ProtoVaalCity",[],1,"\u0001\u0000\u0001\u0000VaalChamberTier2",[],"내용물 미상",0,[],[0],[0]],["ProtoVaalChamberTier2","원시시대의 방",[75000],390,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/ProtoVaalCity",[],1,"\u0002\u0000\u0002\u0000젬 포함",[],"내용물 미상",0,[],[0],[0]],["ProtoVaalChamberTier3","원시시대의 방",[10000],390,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/ProtoVaalCity",[],1,"\u0003\u0000\u0003\u0000VaalChamberTier4",[],"내용물 미상",0,[],[0],[0]],["ProtoVaalChamberTier4","원시시대의 방",[1],390,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/ProtoVaalCity",[],1,"\u0004\u0000\u0004\u0000S\u00004\u0000#\u0000화석 포함",[],"내용물 미상",0,[],[0],[0]],["AbyssalChamberTier0","심연의 방",[100],391,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/AbyssalCity",[],0,"MineEntrance",[],"내용물 미상",0,[],[0],[]],["AbyssalChamberTier1","심연의 방",[100],391,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/AbyssalCity",[],1,"\u0001\u0000\u0001\u0000VaalChamberTier2",[],"내용물 미상",0,[],[0],[0]],["AbyssalChamberTier2","심연의 방",[42500],391,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/AbyssalCity",[],1,"\u0002\u0000\u0002\u0000젬 포함",[],"내용물 미상",0,[],[0],[0]],["AbyssalChamberTier3","심연의 방",[7500],391,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/AbyssalCity",[],1,"\u0003\u0000\u0003\u0000VaalChamberTier4",[],"내용물 미상",0,[],[0],[0]],["AbyssalChamberTier4","심연의 방",[1],391,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/AbyssalCity",[],1,"\u0004\u0000\u0004\u0000S\u00004\u0000#\u0000화석 포함",[],"내용물 미상",0,[],[0],[0]],["AbyssalBoss","리치의 무덤",[7500,13500],387,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/BossAbyss",[],1,"\u0002\u0000\u0004\u0000\u0000n\u0000ProtoVaalBoss",[150,110],"내용물 미상",1,[0,4],[0,2],[0]],["ProtoVaalBoss","수정 왕의 왕좌",[10000,20000],388,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/BossProtoVaal",[],1,"\u0002\u0000\u0004\u0000\u0000n\u0000ProtoVaalBoss",[250,171],"내용물 미상",1,[0,4],[0,2],[0]],["VaalBoss","위대한 건축가의 사원",[5000,8000],386,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/BossVaalCity",[],1,"\u0002\u0000\u0004\u0000\u0000n\u0000ProtoVaalBoss",[83,52,35],"내용물 미상",1,[0,3,4],[0,2],[0]],["Prospero","프로스페로의 보관처",[100],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Prospero",[],2,"\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000균열 포함",[83,52,35],"내용물 미상",0,[0,3,4],[0],[0,4]],["MantleFireWarbands1","적검단 은거지",[100],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/WarbandFire",[],2,"\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000균열 포함",[50],"화염 아이템 포함",0,[0],[0],[0,4]],["MantleFireWarbands2","적검단 기지",[100],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/WarbandFire",[],2,"\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000균열 포함",[83,52,35],"화염 아이템 포함",0,[0,3,4],[0],[0,4]],["IceCavesColdWarbands1","고요한 바람단 은거지",[100],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/WarbandCold",[],2,"\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000균열 포함",[50],"냉기 아이템 포함",0,[0],[0],[0,4]],["IceCavesColdWarbands2","고요한 바람단 기지",[100],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/WarbandCold",[],2,"\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000균열 포함",[83,52,35],"냉기 아이템 포함",0,[0,3,4],[0],[0,4]],["IceCavesEssence1","차디찬 소굴",[100],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/EssenceEncounter",[],1,"\u0002\u0000\u0002\u0000젬 포함",[],"에센스 포함",0,[],[0],[0]],["IceCavesPiratesGeneric","차디찬 소굴",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",[],1,"",[],"아이템 포함",0,[],[0],[0]],["IceCavesPiratesArmour","차디찬 소굴",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",[],1,"",[],"방어구 포함",0,[],[0],[0]],["IceCavesPiratesWeapon","차디찬 소굴",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",[],1,"",[],"무기 포함",0,[],[0],[0]],["IceCavesPiratesTrinkets","차디찬 소굴",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",[],1,"\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",[],"장신구 포함",0,[],[0],[0]],["IceCavesPiratesCurrency","차디찬 소굴",[150],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",[],1,"\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",[],"화폐 포함",0,[],[0],[0]],["IceCavesPiratesCold","차디찬 소굴",[100],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Cold",[],2,"\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000균열 포함",[50],"냉기 아이템 포함",0,[0],[0],[0,4]],["IceCavesCampsiteGeneric","허름한 야영지",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",[],1,"",[],"아이템 포함",0,[],[0],[0]],["IceCavesCampsiteArmour","허름한 야영지",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",[],1,"",[],"방어구 포함",0,[],[0],[0]],["IceCavesCampsiteWeapon","허름한 야영지",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",[],1,"",[],"무기 포함",0,[],[0],[0]],["IceCavesCampsiteTrinkets","허름한 야영지",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",[],1,"\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",[],"장신구 포함",0,[],[0],[0]],["IceCavesCampsiteCurrency","허름한 야영지",[150],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",[],1,"\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",[],"화폐 포함",0,[],[0],[0]],["IceCavesCampsiteMaps","허름한 야영지",[75],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Maps",[],1,"\u0003\u0000\u0004\u0000지도 포함",[83,52,35],"지도 포함",0,[0,3,4],[0],[0]],["IceCavesSkeletonGeneric","얼어붙은 무덤",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",[],1,"",[],"아이템 포함",0,[],[0],[0]],["IceCavesSkeletonArmour","얼어붙은 무덤",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",[],1,"",[],"방어구 포함",0,[],[0],[0]],["IceCavesSkeletonWeapon","얼어붙은 무덤",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",[],1,"",[],"무기 포함",0,[],[0],[0]],["IceCavesSkeletonTrinkets","얼어붙은 무덤",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",[],1,"\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",[],"장신구 포함",0,[],[0],[0]],["IceCavesSkeletonGems","얼어붙은 무덤",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Gems",[],1,"\u0002\u0000\u0002\u0000젬 포함",[],"젬 포함",0,[],[0],[0]],["IceCavesSkeletonCurrency","얼어붙은 무덤",[150],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",[],1,"\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",[],"화폐 포함",0,[],[0],[0]],["IceCavesSkeletonMaps","얼어붙은 무덤",[75],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Maps",[],1,"\u0003\u0000\u0004\u0000지도 포함",[83,52,35],"지도 포함",0,[0,3,4],[0],[0]],["SulphurLightningWarbands1","부패한 염수단 은거지",[100],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/WarbandLightning",[],2,"\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000균열 포함",[50],"번개 아이템 포함",0,[0],[0],[0,4]],["SulphurLightningWarbands2","부패한 염수단 기지",[100],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/WarbandLightning",[],2,"\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000균열 포함",[83,52,35],"번개 아이템 포함",0,[0,3,4],[0],[0,4]],["SulphurCrabsGeneric","축축한 벌집",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",[],1,"",[],"아이템 포함",0,[],[0],[0]],["SulphurCrabsArmour","축축한 벌집",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",[],1,"",[],"방어구 포함",0,[],[0],[0]],["SulphurCrabsWeapon","축축한 벌집",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",[],1,"",[],"무기 포함",0,[],[0],[0]],["SulphurCrabsTrinkets","축축한 벌집",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",[],1,"\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",[],"장신구 포함",0,[],[0],[0]],["SulphurCrabsCurrency","축축한 벌집",[150],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",[],1,"\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",[],"화폐 포함",0,[],[0],[0]],["SulphurCampsiteGeneric","초라한 야영지",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",[],1,"",[],"아이템 포함",0,[],[0],[0]],["SulphurCampsiteArmour","초라한 야영지",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",[],1,"",[],"방어구 포함",0,[],[0],[0]],["SulphurCampsiteWeapon","초라한 야영지",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",[],1,"",[],"무기 포함",0,[],[0],[0]],["SulphurCampsiteTrinkets","초라한 야영지",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",[],1,"\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",[],"장신구 포함",0,[],[0],[0]],["SulphurCampsiteCurrency","초라한 야영지",[150],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",[],1,"\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",[],"화폐 포함",0,[],[0],[0]],["SulphurCampsiteMaps","초라한 야영지",[75],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Maps",[],1,"\u0003\u0000\u0004\u0000지도 포함",[83,52,35],"지도 포함",0,[0,3,4],[0],[0]],["SulphurSandTrinkets","먼지 분출구",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",[],1,"\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",[],"장신구 포함",0,[],[0],[0]],["SulphurSandCurrency","먼지 분출구",[150],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",[],1,"\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",[],"화폐 포함",0,[],[0],[0]],["SulphurSandMaps","먼지 분출구",[75],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Maps",[],1,"\u0003\u0000\u0004\u0000지도 포함",[83,52,35],"지도 포함",0,[0,3,4],[0],[0]],["LightningGolemsGeneric","위태로운 돌덩이",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",[],1,"",[],"아이템 포함",0,[],[0],[0]],["LightningGolemsGems","위태로운 돌덩이",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Gems",[],1,"\u0002\u0000\u0002\u0000젬 포함",[],"젬 포함",0,[],[0],[0]],["LightningGolemsLightning","위태로운 돌덩이",[100],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Lightning",[],2,"\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000균열 포함",[50],"번개 아이템 포함",0,[0],[0],[0,4]],["CavernsChaosWarbands1","탈주자 야영지",[100],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/WarbandChaos",[],2,"\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000균열 포함",[83,52,35],"카오스 아이템 포함",0,[0,3,4],[0],[0,4]],["MineSandTrinkets","먼지 쌓인 방",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",[],1,"\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",[],"장신구 포함",0,[],[0],[0]],["MineSandCurrency","먼지 쌓인 방",[150],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",[],1,"\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",[],"화폐 포함",0,[],[0],[0]],["MineAnimatedWeapon","메아리치는 암굴",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",[],1,"",[],"무기 포함",0,[],[0],[0]],["MineAnimatedArmour","메아리치는 암굴",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",[],1,"",[],"방어구 포함",0,[],[0],[0]],["MineSkeletonGeneric","매장된 야영지",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",[],1,"",[],"아이템 포함",0,[],[0],[0]],["MineSkeletonArmour","매장된 야영지",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",[],1,"",[],"방어구 포함",0,[],[0],[0]],["MineSkeletonWeapon","매장된 야영지",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",[],1,"",[],"무기 포함",0,[],[0],[0]],["MineSkeletonTrinkets","매장된 야영지",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",[],1,"\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",[],"장신구 포함",0,[],[0],[0]],["MineSkeletonGems","매장된 야영지",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Gems",[],1,"\u0002\u0000\u0002\u0000젬 포함",[],"젬 포함",0,[],[0],[0]],["MineSkeletonCurrency","매장된 야영지",[150],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",[],1,"\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",[],"화폐 포함",0,[],[0],[0]],["MineRockGolemGeneric","위태로운 돌덩이",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",[],1,"",[],"아이템 포함",0,[],[0],[0]],["MineRockGolemGems","위태로운 돌덩이",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Gems",[],1,"\u0002\u0000\u0002\u0000젬 포함",[],"젬 포함",0,[],[0],[0]],["MineChaosGolemGeneric","위태로운 돌덩이",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",[],1,"",[],"아이템 포함",0,[],[0],[0]],["MineChaosGolemGems","위태로운 돌덩이",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Gems",[],1,"\u0002\u0000\u0002\u0000젬 포함",[],"젬 포함",0,[],[0],[0]],["MineAmplifierGeneric","버려진 증폭기",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",[],1,"",[],"아이템 포함",0,[],[0],[0]],["MineAmplifierArmour","버려진 증폭기",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",[],1,"",[],"방어구 포함",0,[],[0],[0]],["MineAmplifierWeapons","버려진 증폭기",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",[],1,"",[],"무기 포함",0,[],[0],[0]],["MineAmplifierTrinkets","버려진 증폭기",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",[],1,"\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",[],"장신구 포함",0,[],[0],[0]],["MineAmplifierGems","버려진 증폭기",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Gems",[],1,"\u0002\u0000\u0002\u0000젬 포함",[],"젬 포함",0,[],[0],[0]],["MineAmplifierCurrency","버려진 증폭기",[150],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",[],1,"\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",[],"화폐 포함",0,[],[0],[0]],["MineSpiderGeneric","거미줄 덮인 갱도",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",[],1,"",[],"아이템 포함",0,[],[0],[0]],["MineSpiderTrinkets","거미줄 덮인 갱도",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",[],1,"\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",[],"장신구 포함",0,[],[0],[0]],["MineSpiderCurrency","거미줄 덮인 갱도",[150],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",[],1,"\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",[],"화폐 포함",0,[],[0],[0]],["MineCampsiteGeneric","버려진 야영지",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",[],1,"",[],"아이템 포함",0,[],[0],[0]],["MineCampsiteArmour","버려진 야영지",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",[],1,"",[],"방어구 포함",0,[],[0],[0]],["MineCampsiteWeapon","버려진 야영지",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",[],1,"",[],"무기 포함",0,[],[0],[0]],["MineCampsiteTrinkets","버려진 야영지",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",[],1,"\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",[],"장신구 포함",0,[],[0],[0]],["MineCampsiteCurrency","버려진 야영지",[150],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",[],1,"\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",[],"화폐 포함",0,[],[0],[0]],["Beyond","고동치는 석굴",[100],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Beyond",[],1,"\u0002\u0000\u0002\u0000젬 포함",[10],"이계 몬스터들 포함",0,[0],[0],[0]],["ForestRhoaGeneric","포개어진 대지",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",[],1,"",[],"아이템 포함",0,[],[0],[0]],["ForestRhoaArmour","포개어진 대지",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",[],1,"",[],"방어구 포함",0,[],[0],[0]],["ForestRhoaWeapon","포개어진 대지",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",[],1,"",[],"무기 포함",0,[],[0],[0]],["ForestRhoaTrinkets","포개어진 대지",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",[],1,"\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",[],"장신구 포함",0,[],[0],[0]],["ForestRhoaCurrency","포개어진 대지",[150],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",[],1,"\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",[],"화폐 포함",0,[],[0],[0]],["ForestRhoaBlood","포개어진 대지",[100],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Blood",[],2,"\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000균열 포함",[50],"물리 아이템 포함",0,[0],[0],[0,4]],["ForestCampsiteGeneric","텅 빈 야영지",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",[],1,"",[],"아이템 포함",0,[],[0],[0]],["ForestCampsiteArmour","텅 빈 야영지",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",[],1,"",[],"방어구 포함",0,[],[0],[0]],["ForestCampsiteWeapon","텅 빈 야영지",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",[],1,"",[],"무기 포함",0,[],[0],[0]],["ForestCampsiteTrinkets","텅 빈 야영지",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",[],1,"\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",[],"장신구 포함",0,[],[0],[0]],["ForestCampsiteCurrency","텅 빈 야영지",[150],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",[],1,"\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",[],"화폐 포함",0,[],[0],[0]],["ForestCampsiteMaps","텅 빈 야영지",[75],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Maps",[],1,"\u0003\u0000\u0004\u0000지도 포함",[83,52,35],"지도 포함",0,[0,3,4],[0],[0]],["ForestTalisman","의식의 대지",[100],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Talisman",[],2,"\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000균열 포함",[],"부적 포함",0,[],[0],[0,4]],["ForestSandTrinkets","먼지 쌓인 수목원",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",[],1,"\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",[],"장신구 포함",0,[],[0],[0]],["ForestSandCurrency","먼지 쌓인 수목원",[150],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",[],1,"\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",[],"화폐 포함",0,[],[0],[0]],["ForestSandMaps","먼지 쌓인 수목원",[75],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Maps",[],1,"\u0003\u0000\u0004\u0000지도 포함",[83,52,35],"지도 포함",0,[0,3,4],[0],[0]],["ForestNecromancerGeneric","으스스한 잡목림",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",[],1,"",[],"아이템 포함",0,[],[0],[0]],["ForestNecromancerTinkets","으스스한 잡목림",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",[],1,"\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",[],"장신구 포함",0,[],[0],[0]],["ForestNecromancerCurrency","으스스한 잡목림",[150],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",[],1,"\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",[],"화폐 포함",0,[],[0],[0]],["ForestNecromancerMinions","으스스한 잡목림",[100],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Minion",[],2,"\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000균열 포함",[50],"소환수 혹은 오라 아이템 포함",0,[0],[0],[0,4]],["ForestDropbearsGeneric","으르렁거리는 수목원",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",[],1,"",[],"아이템 포함",0,[],[0],[0]],["ForestDropbearsArmour","으르렁거리는 수목원",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",[],1,"",[],"방어구 포함",0,[],[0],[0]],["ForestDropbearsWeapon","으르렁거리는 수목원",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",[],1,"",[],"무기 포함",0,[],[0],[0]],["ForestDropbearsTrinkets","으르렁거리는 수목원",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",[],1,"\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",[],"장신구 포함",0,[],[0],[0]],["ForestDropbearsCurrency","으르렁거리는 수목원",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",[],1,"\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",[],"화폐 포함",0,[],[0],[0]],["ForestDevourersGeneric","감염된 잡목림",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",[],1,"",[],"아이템 포함",0,[],[0],[0]],["ForestDevourersArmour","감염된 잡목림",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",[],1,"",[],"방어구 포함",0,[],[0],[0]],["ForestDevourersWeapon","감염된 잡목림",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",[],1,"",[],"무기 포함",0,[],[0],[0]],["ForestDevourersTrinkets","감염된 잡목림",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",[],1,"\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",[],"장신구 포함",0,[],[0],[0]],["ForestDevourersCurrency","감염된 잡목림",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",[],1,"\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",[],"화폐 포함",0,[],[0],[0]],["CavernsNecromancerGeneric","네크로맨서의 발굴물",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",[],1,"",[],"아이템 포함",0,[],[0],[0]],["CavernsNecromancerTrinkets","네크로맨서의 발굴물",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",[],1,"\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",[],"장신구 포함",0,[],[0],[0]],["CavernsNecromancerCurrency","네크로맨서의 발굴물",[150],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",[],1,"\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",[],"화폐 포함",0,[],[0],[0]],["CavernsNecromancerMinions","네크로맨서의 발굴물",[100],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Minion",[],2,"\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000균열 포함",[50],"소환수 혹은 오라 아이템 포함",0,[0],[0],[0,4]],["CavernsBeastGeneric","야수 토굴",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",[],1,"",[],"아이템 포함",0,[],[0],[0]],["CavernsBeastArmour","야수 토굴",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",[],1,"",[],"방어구 포함",0,[],[0],[0]],["CavernsBeastWeapon","야수 토굴",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",[],1,"",[],"무기 포함",0,[],[0],[0]],["CavernsBeastTrinkets","야수 토굴",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",[],1,"\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",[],"장신구 포함",0,[],[0],[0]],["CavernsBeastCurrency","야수 토굴",[150],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",[],1,"\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",[],"화폐 포함",0,[],[0],[0]],["CavernsBeastMinions","야수 토굴",[100],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Minion",[],2,"\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000균열 포함",[50],"소환수 혹은 오라 아이템 포함",0,[1],[0],[0,4]],["CavernsMossMonsterGeneric","움직이지 않는 바위",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",[],1,"",[],"아이템 포함",0,[],[0],[0]],["CavernsMossMonsterTrinkets","움직이지 않는 바위",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",[],1,"\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",[],"장신구 포함",0,[],[0],[0]],["CavernsMossMonsterCurrency","움직이지 않는 바위",[150],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",[],1,"\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",[],"화폐 포함",0,[],[0],[0]],["CavernsMossMonsterGems","움직이지 않는 바위",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Gems",[],1,"\u0002\u0000\u0002\u0000젬 포함",[],"젬 포함",0,[],[0],[0]],["CavernsRockGolemGeneric","위태로운 돌덩이",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",[],1,"",[],"아이템 포함",0,[],[0],[0]],["CavernsRockGolemGems","위태로운 돌덩이",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Gems",[],1,"\u0002\u0000\u0002\u0000젬 포함",[],"젬 포함",0,[],[0],[0]],["CavernsChaosGolemGeneric","위태로운 돌덩이",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",[],1,"",[],"아이템 포함",0,[],[0],[0]],["CavernsChaosGolemGems","위태로운 돌덩이",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Gems",[],1,"\u0002\u0000\u0002\u0000젬 포함",[],"젬 포함",0,[],[0],[0]],["CavernsChaosGolemChaos","위태로운 돌덩이",[100],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chaos",[],2,"\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000균열 포함",[50],"카오스 아이템 포함",0,[0],[0],[0,4]],["Strongbox","지하 보관함",[100],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Strongbox",[],2,"\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000균열 포함",[],"금고 포함",0,[],[0],[0,4]],["CavernsBestiaryYellow","메아리 소굴",[100],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Bestiary",[],2,"\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000균열 포함",[50],"동물성 아이템 포함",0,[0],[0],[0,4]],["CavernsBestiaryRed","메아리 소굴",[100],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Bestiary",[],2,"\u0004\u0000\u0004\u0000\u0003\u0000\u0004\u0000CavernsCampsiteGeneric",[50],"동물성 아이템 포함",0,[0],[0],[0,4]],["CavernsCampsiteGeneric","곰팡이 슨 야영지",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",[],1,"",[],"아이템 포함",0,[],[0],[0]],["CavernsCampsiteArmour","곰팡이 슨 야영지",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",[],1,"",[],"방어구 포함",0,[],[0],[0]],["CavernsCampsiteWeapons","곰팡이 슨 야영지",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",[],1,"",[],"무기 포함",0,[],[0],[0]],["CavernsCampsiteTrinkets","곰팡이 슨 야영지",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",[],1,"\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",[],"장신구 포함",0,[],[0],[0]],["CavernsCampsiteCurrency","곰팡이 슨 야영지",[150],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",[],1,"\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",[],"화폐 포함",0,[],[0],[0]],["CavernsSkeletonGeneric","곰팡이 슨 묘지",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",[],1,"",[],"아이템 포함",0,[],[0],[0]],["CavernsSkeletonArmour","곰팡이 슨 묘지",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",[],1,"",[],"방어구 포함",0,[],[0],[0]],["CavernsSkeletonWeapon","곰팡이 슨 묘지",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",[],1,"",[],"무기 포함",0,[],[0],[0]],["CavernsSkeletonTrinkets","곰팡이 슨 묘지",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",[],1,"\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",[],"장신구 포함",0,[],[0],[0]],["CavernsSkeletonGems","곰팡이 슨 묘지",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Gems",[],1,"\u0002\u0000\u0002\u0000젬 포함",[],"젬 포함",0,[],[0],[0]],["CavernsSkeletonCurrency","곰팡이 슨 묘지",[150],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",[],1,"\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",[],"화폐 포함",0,[],[0],[0]],["CavernsSkeletonMaps","곰팡이 슨 묘지",[75],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Maps",[],1,"\u0003\u0000\u0004\u0000지도 포함",[83,52,35],"지도 포함",0,[0,3,4],[0],[0]],["CavernsDropbearsGeneric","으르렁거리는 굴",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",[],1,"",[],"아이템 포함",0,[],[0],[0]],["CavernsDropbearsArmour","으르렁거리는 굴",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",[],1,"",[],"방어구 포함",0,[],[0],[0]],["CavernsDropbearsWeapon","으르렁거리는 굴",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",[],1,"",[],"무기 포함",0,[],[0],[0]],["CavernsDropbearsTrinkets","으르렁거리는 굴",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",[],1,"\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",[],"장신구 포함",0,[],[0],[0]],["CavernsDropbearsCurrency","으르렁거리는 굴",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",[],1,"\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",[],"화폐 포함",0,[],[0],[0]],["CavernsDevourersGeneric","감염된 땅굴",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",[],1,"",[],"아이템 포함",0,[],[0],[0]],["CavernsDevourersArmour","감염된 땅굴",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",[],1,"",[],"방어구 포함",0,[],[0],[0]],["CavernsDevourersWeapon","감염된 땅굴",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",[],1,"",[],"무기 포함",0,[],[0],[0]],["CavernsDevourersTrinkets","감염된 땅굴",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",[],1,"\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",[],"장신구 포함",0,[],[0],[0]],["CavernsDevourersCurrency","감염된 땅굴",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",[],1,"\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",[],"화폐 포함",0,[],[0],[0]],["AbyssalDepthsGhostGeneric","으스스한 유적",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",[],1,"",[42],"아이템 포함",0,[0],[0],[0]],["AbyssalDepthsGhostArmour","으스스한 유적",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",[],1,"",[42],"방어구 포함",0,[0],[0],[0]],["AbyssalDepthsGhostWeapons","으스스한 유적",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",[],1,"",[42],"무기 포함",0,[0],[0],[0]],["AbyssalDepthsGhostTrinkets","으스스한 유적",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",[],1,"\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",[42],"장신구 포함",0,[0],[0],[0]],["AbyssalDepthsGhostCurrency","으스스한 유적",[150],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",[],1,"\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",[42],"화폐 포함",0,[0],[0],[0]],["AbyssalDepthsGhostCurse","으스스한 유적",[100],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Curse",[],2,"\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000균열 포함",[50],"마나 혹은 저주 아이템 포함",0,[0],[0],[0,4]],["AbyssalDepthsAbyss","으스스한 유적",[100],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/AbyssEncounter",[],2,"\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000균열 포함",[50],"심연 아이템 포함",0,[0],[0],[0,4]],["AbyssalDepthsCampsiteGeneric","황폐한 야영지",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",[],1,"",[],"아이템 포함",0,[],[0],[0]],["AbyssalDepthsCampsiteArmour","황폐한 야영지",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",[],1,"",[],"방어구 포함",0,[],[0],[0]],["AbyssalDepthsCampsiteWeapon","황폐한 야영지",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",[],1,"",[],"무기 포함",0,[],[0],[0]],["AbyssalDepthsCampsiteTrinkets","황폐한 야영지",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",[],1,"\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",[],"장신구 포함",0,[],[0],[0]],["AbyssalDepthsCampsiteCurrency","황폐한 야영지",[150],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",[],1,"\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",[],"화폐 포함",0,[],[0],[0]],["AbyssalDepthsCampsiteMaps","황폐한 야영지",[75],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Maps",[],1,"\u0003\u0000\u0004\u0000지도 포함",[83,52,35],"지도 포함",0,[0,3,4],[0],[0]],["AbyssalDepthsNecromancerGeneric","네크로맨서의 발굴물",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",[],1,"",[],"아이템 포함",0,[],[0],[0]],["AbyssalDepthsNecromancerTrinkets","네크로맨서의 발굴물",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",[],1,"\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",[],"장신구 포함",0,[],[0],[0]],["AbyssalDepthsNecromancerCurrency","네크로맨서의 발굴물",[150],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",[],1,"\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",[],"화폐 포함",0,[],[0],[0]],["AbyssalDepthsNecromancerMinions","네크로맨서의 발굴물",[100],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Minion",[],2,"\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000균열 포함",[50],"소환수 혹은 오라 아이템 포함",0,[0],[0],[0,4]],["AbyssalDepthsCultists","엉망이 된 성소",[100],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/AbyssEncounter",[],2,"\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000균열 포함",[50],"심연 아이템 포함",0,[0],[0],[0,4]],["Legion","매장된 기둥",[100],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Legion",[],1,"\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",[0,35],"군단 인카운터 포함",0,[4,5],[4],[4]]]}
+{
+  "filename": "DelveFeatures.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Name",
+      "rowid": 1,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "SpawnWeight",
+      "rowid": 2,
+      "type": "ref|list|int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "WorldAreasKey",
+      "rowid": 3,
+      "type": "ulong",
+      "key": "WorldAreas.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Image",
+      "rowid": 4,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": true,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "AchievementItemsKeys",
+      "rowid": 5,
+      "type": "ref|list|ulong",
+      "key": "AchievementItems.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "MinTier",
+      "rowid": 6,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Type",
+      "rowid": 7,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "MinDepth",
+      "rowid": 8,
+      "type": "ref|list|int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Description",
+      "rowid": 9,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown0",
+      "rowid": 10,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Data1",
+      "rowid": 11,
+      "type": "ref|list|int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Data2",
+      "rowid": 12,
+      "type": "ref|list|int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Data3",
+      "rowid": 13,
+      "type": "ref|list|int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "Nothing",
+      "",
+      [
+        0
+      ],
+      null,
+      "",
+      [],
+      0,
+      "MineEntrance",
+      [],
+      "",
+      0,
+      [],
+      [
+        0
+      ],
+      []
+    ],
+    [
+      "MineEntrance",
+      "광산 입구",
+      [
+        0
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/MineEntrance",
+      [],
+      0,
+      "MineEntrance",
+      [],
+      "",
+      0,
+      [],
+      [
+        0
+      ],
+      []
+    ],
+    [
+      "ObstructionNorth",
+      "",
+      [
+        0
+      ],
+      null,
+      "",
+      [],
+      0,
+      "MineEntrance",
+      [],
+      "",
+      0,
+      [],
+      [
+        0
+      ],
+      []
+    ],
+    [
+      "ObstructionEast",
+      "",
+      [
+        0
+      ],
+      null,
+      "",
+      [],
+      0,
+      "MineEntrance",
+      [],
+      "",
+      0,
+      [],
+      [
+        0
+      ],
+      []
+    ],
+    [
+      "ObstructionSouth",
+      "",
+      [
+        0
+      ],
+      null,
+      "",
+      [],
+      0,
+      "MineEntrance",
+      [],
+      "",
+      0,
+      [],
+      [
+        0
+      ],
+      []
+    ],
+    [
+      "ObstructionWest",
+      "",
+      [
+        0
+      ],
+      null,
+      "",
+      [],
+      0,
+      "MineEntrance",
+      [],
+      "",
+      0,
+      [],
+      [
+        0
+      ],
+      []
+    ],
+    [
+      "DarkChest",
+      "",
+      [
+        0
+      ],
+      null,
+      "",
+      [],
+      0,
+      "MineEntrance",
+      [],
+      "",
+      0,
+      [],
+      [
+        0
+      ],
+      []
+    ],
+    [
+      "Azurite1_Q",
+      "남동석 공동",
+      [
+        0
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/AzuriteVein",
+      [],
+      0,
+      "MineEntrance",
+      [],
+      "남동석 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      []
+    ],
+    [
+      "Breach",
+      "속삭이는 회랑",
+      [
+        100
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Breach",
+      [],
+      2,
+      "\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000균열 포함",
+      [
+        10
+      ],
+      "균열 포함",
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0,
+        4
+      ]
+    ],
+    [
+      "Harbinger",
+      "룬 문자 암굴",
+      [
+        100
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Harbinger",
+      [],
+      2,
+      "\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000균열 포함",
+      [
+        10
+      ],
+      "선구자 포함",
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0,
+        4
+      ]
+    ],
+    [
+      "Azurite1_1",
+      "남동석 공동",
+      [
+        500
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/AzuriteVein",
+      [],
+      1,
+      "",
+      [],
+      "남동석 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "Azurite1_2",
+      "남동석 공동",
+      [
+        500
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/AzuriteVein",
+      [],
+      1,
+      "",
+      [],
+      "남동석 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "Azurite1_3",
+      "남동석 공동",
+      [
+        500
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/AzuriteVein",
+      [],
+      1,
+      "",
+      [],
+      "남동석 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "Azurite1_4",
+      "남동석 공동",
+      [
+        500
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/AzuriteVein",
+      [],
+      1,
+      "",
+      [],
+      "남동석 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "Azurite2_1",
+      "남동석 금고실",
+      [
+        300
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/AzuriteVeinII",
+      [],
+      1,
+      "\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",
+      [
+        20
+      ],
+      "남동석 포함",
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "Azurite2_2",
+      "남동석 금고실",
+      [
+        300
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/AzuriteVeinII",
+      [],
+      1,
+      "\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",
+      [
+        20
+      ],
+      "남동석 포함",
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "Azurite2_3",
+      "남동석 금고실",
+      [
+        300
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/AzuriteVeinII",
+      [],
+      1,
+      "\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",
+      [
+        20
+      ],
+      "남동석 포함",
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "Azurite2_4",
+      "남동석 금고실",
+      [
+        300
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/AzuriteVeinII",
+      [],
+      1,
+      "\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",
+      [
+        20
+      ],
+      "남동석 포함",
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "Azurite3_1",
+      "남동석 균열",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/AzuriteVeinIII",
+      [],
+      1,
+      "\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",
+      [
+        40,
+        35
+      ],
+      "남동석 포함",
+      0,
+      [
+        0,
+        4
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "Azurite3_2",
+      "남동석 균열",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/AzuriteVeinIII",
+      [],
+      1,
+      "\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",
+      [
+        40,
+        35
+      ],
+      "남동석 포함",
+      0,
+      [
+        0,
+        4
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "Azurite3_3",
+      "남동석 균열",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/AzuriteVeinIII",
+      [],
+      1,
+      "\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",
+      [
+        40,
+        35
+      ],
+      "남동석 포함",
+      0,
+      [
+        0,
+        4
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "FungalCavernsFossil",
+      "으스스한 무덤",
+      [
+        100
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Fossil",
+      [],
+      1,
+      "\u0004\u0000\u0004\u0000S\u00004\u0000#\u0000화석 포함",
+      [
+        83,
+        52,
+        35
+      ],
+      "화석 포함",
+      0,
+      [
+        0,
+        3,
+        4
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "PetrifiedForestFossil",
+      "돌나무 동혈",
+      [
+        100
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Fossil",
+      [],
+      1,
+      "\u0004\u0000\u0004\u0000S\u00004\u0000#\u0000화석 포함",
+      [
+        83,
+        52,
+        35
+      ],
+      "화석 포함",
+      0,
+      [
+        0,
+        3,
+        4
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "AbyssalDepthsFossil",
+      "수정 첨탑",
+      [
+        100
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Fossil",
+      [],
+      1,
+      "\u0004\u0000\u0004\u0000S\u00004\u0000#\u0000화석 포함",
+      [
+        83,
+        52,
+        35
+      ],
+      "화석 포함",
+      0,
+      [
+        0,
+        3,
+        4
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "FrozenHollowFossil",
+      "오래된 암굴",
+      [
+        100
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Fossil",
+      [],
+      1,
+      "\u0004\u0000\u0004\u0000S\u00004\u0000#\u0000화석 포함",
+      [
+        83,
+        52,
+        35
+      ],
+      "화석 포함",
+      0,
+      [
+        0,
+        3,
+        4
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MagmaFissureFossil",
+      "녹아내린 공동",
+      [
+        100
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Fossil",
+      [],
+      1,
+      "\u0004\u0000\u0004\u0000S\u00004\u0000#\u0000화석 포함",
+      [
+        83,
+        52,
+        35
+      ],
+      "화석 포함",
+      0,
+      [
+        0,
+        3,
+        4
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "SulphurVentsFossil",
+      "축축한 균열",
+      [
+        100
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Fossil",
+      [],
+      1,
+      "\u0004\u0000\u0004\u0000S\u00004\u0000#\u0000화석 포함",
+      [
+        83,
+        52,
+        35
+      ],
+      "화석 포함",
+      0,
+      [
+        0,
+        3,
+        4
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "WolvesGeneric",
+      "울부짖는 굴",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",
+      [],
+      1,
+      "",
+      [],
+      "아이템 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "WolvesArmour",
+      "울부짖는 굴",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",
+      [],
+      1,
+      "",
+      [],
+      "방어구 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "WolvesWeapon",
+      "울부짖는 굴",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",
+      [],
+      1,
+      "",
+      [],
+      "무기 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "WolvesTrinkets",
+      "울부짖는 굴",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",
+      [],
+      1,
+      "\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",
+      [],
+      "장신구 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "WolvesGems",
+      "울부짖는 굴",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Gems",
+      [],
+      1,
+      "\u0002\u0000\u0002\u0000젬 포함",
+      [],
+      "젬 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "WolvesCurrency",
+      "울부짖는 굴",
+      [
+        150
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",
+      [],
+      1,
+      "\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",
+      [],
+      "화폐 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "ExilesArmour",
+      "밀수업자의 보관함",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",
+      [],
+      1,
+      "",
+      [],
+      "방어구 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "ExilesWeapon",
+      "밀수업자의 보관함",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",
+      [],
+      1,
+      "",
+      [],
+      "무기 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "ExilesMaps",
+      "밀수업자의 보관함",
+      [
+        75
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Maps",
+      [],
+      1,
+      "\u0003\u0000\u0004\u0000지도 포함",
+      [
+        83,
+        52,
+        35
+      ],
+      "지도 포함",
+      0,
+      [
+        0,
+        3,
+        4
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "ExilesFossils",
+      "밀수업자의 보관함",
+      [
+        100
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Fossil",
+      [],
+      2,
+      "\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000균열 포함",
+      [
+        15
+      ],
+      "화석 포함",
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0,
+        4
+      ]
+    ],
+    [
+      "IceGolemGeneric",
+      "위태로운 돌덩이",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",
+      [],
+      1,
+      "",
+      [],
+      "아이템 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "IceGolemGems",
+      "위태로운 돌덩이",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Gems",
+      [],
+      1,
+      "\u0002\u0000\u0002\u0000젬 포함",
+      [],
+      "젬 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "IceGolemCold",
+      "위태로운 돌덩이",
+      [
+        100
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Cold",
+      [],
+      2,
+      "\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000균열 포함",
+      [
+        50
+      ],
+      "냉기 아이템 포함",
+      0,
+      [
+        1
+      ],
+      [
+        0
+      ],
+      [
+        0,
+        4
+      ]
+    ],
+    [
+      "FireGolemGeneric",
+      "위태로운 돌덩이",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",
+      [],
+      1,
+      "",
+      [],
+      "아이템 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "FireGolemGems",
+      "위태로운 돌덩이",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Gems",
+      [],
+      1,
+      "\u0002\u0000\u0002\u0000젬 포함",
+      [],
+      "젬 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "FireGolemFire",
+      "위태로운 돌덩이",
+      [
+        100
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Fire",
+      [],
+      2,
+      "\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000균열 포함",
+      [
+        50
+      ],
+      "화염 아이템 포함",
+      0,
+      [
+        1
+      ],
+      [
+        0
+      ],
+      [
+        0,
+        4
+      ]
+    ],
+    [
+      "MantleHellionsGeneric",
+      "무더운 토굴",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",
+      [],
+      1,
+      "",
+      [],
+      "아이템 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MantleHellionsArmour",
+      "무더운 토굴",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",
+      [],
+      1,
+      "",
+      [],
+      "방어구 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MantleHellionsWeapon",
+      "무더운 토굴",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",
+      [],
+      1,
+      "",
+      [],
+      "무기 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MantleHellionsTrinkets",
+      "무더운 토굴",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",
+      [],
+      1,
+      "\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",
+      [],
+      "장신구 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MantleHellionsCurrency",
+      "무더운 토굴",
+      [
+        150
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",
+      [],
+      1,
+      "\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",
+      [],
+      "화폐 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MantleHellionsFire",
+      "무더운 토굴",
+      [
+        100
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Fire",
+      [],
+      2,
+      "\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000균열 포함",
+      [
+        50
+      ],
+      "화염 아이템 포함",
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0,
+        4
+      ]
+    ],
+    [
+      "MantleCampsiteGeneric",
+      "그슬린 야영지",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",
+      [],
+      1,
+      "",
+      [],
+      "아이템 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MantleCampsiteArmour",
+      "그슬린 야영지",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",
+      [],
+      1,
+      "",
+      [],
+      "방어구 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MantleCampsiteWeapon",
+      "그슬린 야영지",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",
+      [],
+      1,
+      "",
+      [],
+      "무기 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MantleCampsiteTrinkets",
+      "그슬린 야영지",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",
+      [],
+      1,
+      "\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",
+      [],
+      "장신구 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MantleCampsiteCurrency",
+      "그슬린 야영지",
+      [
+        150
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",
+      [],
+      1,
+      "\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",
+      [],
+      "화폐 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MantleCampsiteMaps",
+      "그슬린 야영지",
+      [
+        75
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Maps",
+      [],
+      1,
+      "\u0003\u0000\u0004\u0000지도 포함",
+      [
+        83,
+        52,
+        35
+      ],
+      "지도 포함",
+      0,
+      [
+        0,
+        3,
+        4
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MantleSkeletonGeneric",
+      "그을린 무덤",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",
+      [],
+      1,
+      "",
+      [],
+      "아이템 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MantleSkeletonArmour",
+      "그을린 무덤",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",
+      [],
+      1,
+      "",
+      [],
+      "방어구 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MantleSkeletonWeapon",
+      "그을린 무덤",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",
+      [],
+      1,
+      "",
+      [],
+      "무기 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MantleSkeletonTrinkets",
+      "그을린 무덤",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",
+      [],
+      1,
+      "\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",
+      [],
+      "장신구 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MantleSkeletonGems",
+      "그을린 무덤",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Gems",
+      [],
+      1,
+      "\u0002\u0000\u0002\u0000젬 포함",
+      [],
+      "젬 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MantleSkeletonCurrency",
+      "그을린 무덤",
+      [
+        150
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",
+      [],
+      1,
+      "\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",
+      [],
+      "화폐 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MantleSkeletonMaps",
+      "그을린 무덤",
+      [
+        75
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Maps",
+      [],
+      1,
+      "\u0003\u0000\u0004\u0000지도 포함",
+      [
+        83,
+        52,
+        35
+      ],
+      "지도 포함",
+      0,
+      [
+        0,
+        3,
+        4
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "VaalChamberTier0",
+      "허물어진 방",
+      [
+        100
+      ],
+      389,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/VaalCity",
+      [],
+      0,
+      "MineEntrance",
+      [],
+      "내용물 미상",
+      0,
+      [],
+      [
+        0
+      ],
+      []
+    ],
+    [
+      "VaalChamberTier1",
+      "허물어진 방",
+      [
+        100
+      ],
+      389,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/VaalCity",
+      [],
+      1,
+      "\u0001\u0000\u0001\u0000VaalChamberTier2",
+      [],
+      "내용물 미상",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "VaalChamberTier2",
+      "허물어진 방",
+      [
+        25000
+      ],
+      389,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/VaalCity",
+      [],
+      1,
+      "\u0002\u0000\u0002\u0000젬 포함",
+      [],
+      "내용물 미상",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "VaalChamberTier3",
+      "허물어진 방",
+      [
+        5000
+      ],
+      389,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/VaalCity",
+      [],
+      1,
+      "\u0003\u0000\u0003\u0000VaalChamberTier4",
+      [],
+      "내용물 미상",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "VaalChamberTier4",
+      "허물어진 방",
+      [
+        1
+      ],
+      389,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/VaalCity",
+      [],
+      1,
+      "\u0004\u0000\u0004\u0000S\u00004\u0000#\u0000화석 포함",
+      [],
+      "내용물 미상",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "ProtoVaalChamberTier0",
+      "원시시대의 방",
+      [
+        100
+      ],
+      390,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/ProtoVaalCity",
+      [],
+      0,
+      "MineEntrance",
+      [],
+      "내용물 미상",
+      0,
+      [],
+      [
+        0
+      ],
+      []
+    ],
+    [
+      "ProtoVaalChamberTier1",
+      "원시시대의 방",
+      [
+        100
+      ],
+      390,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/ProtoVaalCity",
+      [],
+      1,
+      "\u0001\u0000\u0001\u0000VaalChamberTier2",
+      [],
+      "내용물 미상",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "ProtoVaalChamberTier2",
+      "원시시대의 방",
+      [
+        75000
+      ],
+      390,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/ProtoVaalCity",
+      [],
+      1,
+      "\u0002\u0000\u0002\u0000젬 포함",
+      [],
+      "내용물 미상",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "ProtoVaalChamberTier3",
+      "원시시대의 방",
+      [
+        10000
+      ],
+      390,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/ProtoVaalCity",
+      [],
+      1,
+      "\u0003\u0000\u0003\u0000VaalChamberTier4",
+      [],
+      "내용물 미상",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "ProtoVaalChamberTier4",
+      "원시시대의 방",
+      [
+        1
+      ],
+      390,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/ProtoVaalCity",
+      [],
+      1,
+      "\u0004\u0000\u0004\u0000S\u00004\u0000#\u0000화석 포함",
+      [],
+      "내용물 미상",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "AbyssalChamberTier0",
+      "심연의 방",
+      [
+        100
+      ],
+      391,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/AbyssalCity",
+      [],
+      0,
+      "MineEntrance",
+      [],
+      "내용물 미상",
+      0,
+      [],
+      [
+        0
+      ],
+      []
+    ],
+    [
+      "AbyssalChamberTier1",
+      "심연의 방",
+      [
+        100
+      ],
+      391,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/AbyssalCity",
+      [],
+      1,
+      "\u0001\u0000\u0001\u0000VaalChamberTier2",
+      [],
+      "내용물 미상",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "AbyssalChamberTier2",
+      "심연의 방",
+      [
+        42500
+      ],
+      391,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/AbyssalCity",
+      [],
+      1,
+      "\u0002\u0000\u0002\u0000젬 포함",
+      [],
+      "내용물 미상",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "AbyssalChamberTier3",
+      "심연의 방",
+      [
+        7500
+      ],
+      391,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/AbyssalCity",
+      [],
+      1,
+      "\u0003\u0000\u0003\u0000VaalChamberTier4",
+      [],
+      "내용물 미상",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "AbyssalChamberTier4",
+      "심연의 방",
+      [
+        1
+      ],
+      391,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/AbyssalCity",
+      [],
+      1,
+      "\u0004\u0000\u0004\u0000S\u00004\u0000#\u0000화석 포함",
+      [],
+      "내용물 미상",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "AbyssalBoss",
+      "리치의 무덤",
+      [
+        7500,
+        13500
+      ],
+      387,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/BossAbyss",
+      [],
+      1,
+      "\u0002\u0000\u0004\u0000\u0000n\u0000ProtoVaalBoss",
+      [
+        150,
+        110
+      ],
+      "내용물 미상",
+      1,
+      [
+        0,
+        4
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "ProtoVaalBoss",
+      "수정 왕의 왕좌",
+      [
+        10000,
+        20000
+      ],
+      388,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/BossProtoVaal",
+      [],
+      1,
+      "\u0002\u0000\u0004\u0000\u0000n\u0000ProtoVaalBoss",
+      [
+        250,
+        171
+      ],
+      "내용물 미상",
+      1,
+      [
+        0,
+        4
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "VaalBoss",
+      "위대한 건축가의 사원",
+      [
+        5000,
+        8000
+      ],
+      386,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/BossVaalCity",
+      [],
+      1,
+      "\u0002\u0000\u0004\u0000\u0000n\u0000ProtoVaalBoss",
+      [
+        83,
+        52,
+        35
+      ],
+      "내용물 미상",
+      1,
+      [
+        0,
+        3,
+        4
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "Prospero",
+      "프로스페로의 보관처",
+      [
+        100
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Prospero",
+      [],
+      2,
+      "\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000균열 포함",
+      [
+        83,
+        52,
+        35
+      ],
+      "내용물 미상",
+      0,
+      [
+        0,
+        3,
+        4
+      ],
+      [
+        0
+      ],
+      [
+        0,
+        4
+      ]
+    ],
+    [
+      "MantleFireWarbands1",
+      "적검단 은거지",
+      [
+        100
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/WarbandFire",
+      [],
+      2,
+      "\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000균열 포함",
+      [
+        50
+      ],
+      "화염 아이템 포함",
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0,
+        4
+      ]
+    ],
+    [
+      "MantleFireWarbands2",
+      "적검단 기지",
+      [
+        100
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/WarbandFire",
+      [],
+      2,
+      "\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000균열 포함",
+      [
+        83,
+        52,
+        35
+      ],
+      "화염 아이템 포함",
+      0,
+      [
+        0,
+        3,
+        4
+      ],
+      [
+        0
+      ],
+      [
+        0,
+        4
+      ]
+    ],
+    [
+      "IceCavesColdWarbands1",
+      "고요한 바람단 은거지",
+      [
+        100
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/WarbandCold",
+      [],
+      2,
+      "\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000균열 포함",
+      [
+        50
+      ],
+      "냉기 아이템 포함",
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0,
+        4
+      ]
+    ],
+    [
+      "IceCavesColdWarbands2",
+      "고요한 바람단 기지",
+      [
+        100
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/WarbandCold",
+      [],
+      2,
+      "\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000균열 포함",
+      [
+        83,
+        52,
+        35
+      ],
+      "냉기 아이템 포함",
+      0,
+      [
+        0,
+        3,
+        4
+      ],
+      [
+        0
+      ],
+      [
+        0,
+        4
+      ]
+    ],
+    [
+      "IceCavesEssence1",
+      "차디찬 소굴",
+      [
+        100
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/EssenceEncounter",
+      [],
+      1,
+      "\u0002\u0000\u0002\u0000젬 포함",
+      [],
+      "에센스 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "IceCavesPiratesGeneric",
+      "차디찬 소굴",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",
+      [],
+      1,
+      "",
+      [],
+      "아이템 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "IceCavesPiratesArmour",
+      "차디찬 소굴",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",
+      [],
+      1,
+      "",
+      [],
+      "방어구 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "IceCavesPiratesWeapon",
+      "차디찬 소굴",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",
+      [],
+      1,
+      "",
+      [],
+      "무기 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "IceCavesPiratesTrinkets",
+      "차디찬 소굴",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",
+      [],
+      1,
+      "\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",
+      [],
+      "장신구 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "IceCavesPiratesCurrency",
+      "차디찬 소굴",
+      [
+        150
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",
+      [],
+      1,
+      "\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",
+      [],
+      "화폐 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "IceCavesPiratesCold",
+      "차디찬 소굴",
+      [
+        100
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Cold",
+      [],
+      2,
+      "\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000균열 포함",
+      [
+        50
+      ],
+      "냉기 아이템 포함",
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0,
+        4
+      ]
+    ],
+    [
+      "IceCavesCampsiteGeneric",
+      "허름한 야영지",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",
+      [],
+      1,
+      "",
+      [],
+      "아이템 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "IceCavesCampsiteArmour",
+      "허름한 야영지",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",
+      [],
+      1,
+      "",
+      [],
+      "방어구 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "IceCavesCampsiteWeapon",
+      "허름한 야영지",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",
+      [],
+      1,
+      "",
+      [],
+      "무기 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "IceCavesCampsiteTrinkets",
+      "허름한 야영지",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",
+      [],
+      1,
+      "\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",
+      [],
+      "장신구 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "IceCavesCampsiteCurrency",
+      "허름한 야영지",
+      [
+        150
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",
+      [],
+      1,
+      "\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",
+      [],
+      "화폐 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "IceCavesCampsiteMaps",
+      "허름한 야영지",
+      [
+        75
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Maps",
+      [],
+      1,
+      "\u0003\u0000\u0004\u0000지도 포함",
+      [
+        83,
+        52,
+        35
+      ],
+      "지도 포함",
+      0,
+      [
+        0,
+        3,
+        4
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "IceCavesSkeletonGeneric",
+      "얼어붙은 무덤",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",
+      [],
+      1,
+      "",
+      [],
+      "아이템 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "IceCavesSkeletonArmour",
+      "얼어붙은 무덤",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",
+      [],
+      1,
+      "",
+      [],
+      "방어구 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "IceCavesSkeletonWeapon",
+      "얼어붙은 무덤",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",
+      [],
+      1,
+      "",
+      [],
+      "무기 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "IceCavesSkeletonTrinkets",
+      "얼어붙은 무덤",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",
+      [],
+      1,
+      "\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",
+      [],
+      "장신구 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "IceCavesSkeletonGems",
+      "얼어붙은 무덤",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Gems",
+      [],
+      1,
+      "\u0002\u0000\u0002\u0000젬 포함",
+      [],
+      "젬 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "IceCavesSkeletonCurrency",
+      "얼어붙은 무덤",
+      [
+        150
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",
+      [],
+      1,
+      "\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",
+      [],
+      "화폐 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "IceCavesSkeletonMaps",
+      "얼어붙은 무덤",
+      [
+        75
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Maps",
+      [],
+      1,
+      "\u0003\u0000\u0004\u0000지도 포함",
+      [
+        83,
+        52,
+        35
+      ],
+      "지도 포함",
+      0,
+      [
+        0,
+        3,
+        4
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "SulphurLightningWarbands1",
+      "부패한 염수단 은거지",
+      [
+        100
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/WarbandLightning",
+      [],
+      2,
+      "\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000균열 포함",
+      [
+        50
+      ],
+      "번개 아이템 포함",
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0,
+        4
+      ]
+    ],
+    [
+      "SulphurLightningWarbands2",
+      "부패한 염수단 기지",
+      [
+        100
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/WarbandLightning",
+      [],
+      2,
+      "\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000균열 포함",
+      [
+        83,
+        52,
+        35
+      ],
+      "번개 아이템 포함",
+      0,
+      [
+        0,
+        3,
+        4
+      ],
+      [
+        0
+      ],
+      [
+        0,
+        4
+      ]
+    ],
+    [
+      "SulphurCrabsGeneric",
+      "축축한 벌집",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",
+      [],
+      1,
+      "",
+      [],
+      "아이템 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "SulphurCrabsArmour",
+      "축축한 벌집",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",
+      [],
+      1,
+      "",
+      [],
+      "방어구 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "SulphurCrabsWeapon",
+      "축축한 벌집",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",
+      [],
+      1,
+      "",
+      [],
+      "무기 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "SulphurCrabsTrinkets",
+      "축축한 벌집",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",
+      [],
+      1,
+      "\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",
+      [],
+      "장신구 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "SulphurCrabsCurrency",
+      "축축한 벌집",
+      [
+        150
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",
+      [],
+      1,
+      "\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",
+      [],
+      "화폐 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "SulphurCampsiteGeneric",
+      "초라한 야영지",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",
+      [],
+      1,
+      "",
+      [],
+      "아이템 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "SulphurCampsiteArmour",
+      "초라한 야영지",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",
+      [],
+      1,
+      "",
+      [],
+      "방어구 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "SulphurCampsiteWeapon",
+      "초라한 야영지",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",
+      [],
+      1,
+      "",
+      [],
+      "무기 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "SulphurCampsiteTrinkets",
+      "초라한 야영지",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",
+      [],
+      1,
+      "\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",
+      [],
+      "장신구 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "SulphurCampsiteCurrency",
+      "초라한 야영지",
+      [
+        150
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",
+      [],
+      1,
+      "\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",
+      [],
+      "화폐 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "SulphurCampsiteMaps",
+      "초라한 야영지",
+      [
+        75
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Maps",
+      [],
+      1,
+      "\u0003\u0000\u0004\u0000지도 포함",
+      [
+        83,
+        52,
+        35
+      ],
+      "지도 포함",
+      0,
+      [
+        0,
+        3,
+        4
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "SulphurSandTrinkets",
+      "먼지 분출구",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",
+      [],
+      1,
+      "\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",
+      [],
+      "장신구 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "SulphurSandCurrency",
+      "먼지 분출구",
+      [
+        150
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",
+      [],
+      1,
+      "\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",
+      [],
+      "화폐 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "SulphurSandMaps",
+      "먼지 분출구",
+      [
+        75
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Maps",
+      [],
+      1,
+      "\u0003\u0000\u0004\u0000지도 포함",
+      [
+        83,
+        52,
+        35
+      ],
+      "지도 포함",
+      0,
+      [
+        0,
+        3,
+        4
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "LightningGolemsGeneric",
+      "위태로운 돌덩이",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",
+      [],
+      1,
+      "",
+      [],
+      "아이템 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "LightningGolemsGems",
+      "위태로운 돌덩이",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Gems",
+      [],
+      1,
+      "\u0002\u0000\u0002\u0000젬 포함",
+      [],
+      "젬 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "LightningGolemsLightning",
+      "위태로운 돌덩이",
+      [
+        100
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Lightning",
+      [],
+      2,
+      "\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000균열 포함",
+      [
+        50
+      ],
+      "번개 아이템 포함",
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0,
+        4
+      ]
+    ],
+    [
+      "CavernsChaosWarbands1",
+      "탈주자 야영지",
+      [
+        100
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/WarbandChaos",
+      [],
+      2,
+      "\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000균열 포함",
+      [
+        83,
+        52,
+        35
+      ],
+      "카오스 아이템 포함",
+      0,
+      [
+        0,
+        3,
+        4
+      ],
+      [
+        0
+      ],
+      [
+        0,
+        4
+      ]
+    ],
+    [
+      "MineSandTrinkets",
+      "먼지 쌓인 방",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",
+      [],
+      1,
+      "\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",
+      [],
+      "장신구 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MineSandCurrency",
+      "먼지 쌓인 방",
+      [
+        150
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",
+      [],
+      1,
+      "\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",
+      [],
+      "화폐 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MineAnimatedWeapon",
+      "메아리치는 암굴",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",
+      [],
+      1,
+      "",
+      [],
+      "무기 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MineAnimatedArmour",
+      "메아리치는 암굴",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",
+      [],
+      1,
+      "",
+      [],
+      "방어구 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MineSkeletonGeneric",
+      "매장된 야영지",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",
+      [],
+      1,
+      "",
+      [],
+      "아이템 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MineSkeletonArmour",
+      "매장된 야영지",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",
+      [],
+      1,
+      "",
+      [],
+      "방어구 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MineSkeletonWeapon",
+      "매장된 야영지",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",
+      [],
+      1,
+      "",
+      [],
+      "무기 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MineSkeletonTrinkets",
+      "매장된 야영지",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",
+      [],
+      1,
+      "\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",
+      [],
+      "장신구 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MineSkeletonGems",
+      "매장된 야영지",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Gems",
+      [],
+      1,
+      "\u0002\u0000\u0002\u0000젬 포함",
+      [],
+      "젬 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MineSkeletonCurrency",
+      "매장된 야영지",
+      [
+        150
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",
+      [],
+      1,
+      "\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",
+      [],
+      "화폐 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MineRockGolemGeneric",
+      "위태로운 돌덩이",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",
+      [],
+      1,
+      "",
+      [],
+      "아이템 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MineRockGolemGems",
+      "위태로운 돌덩이",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Gems",
+      [],
+      1,
+      "\u0002\u0000\u0002\u0000젬 포함",
+      [],
+      "젬 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MineChaosGolemGeneric",
+      "위태로운 돌덩이",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",
+      [],
+      1,
+      "",
+      [],
+      "아이템 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MineChaosGolemGems",
+      "위태로운 돌덩이",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Gems",
+      [],
+      1,
+      "\u0002\u0000\u0002\u0000젬 포함",
+      [],
+      "젬 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MineAmplifierGeneric",
+      "버려진 증폭기",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",
+      [],
+      1,
+      "",
+      [],
+      "아이템 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MineAmplifierArmour",
+      "버려진 증폭기",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",
+      [],
+      1,
+      "",
+      [],
+      "방어구 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MineAmplifierWeapons",
+      "버려진 증폭기",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",
+      [],
+      1,
+      "",
+      [],
+      "무기 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MineAmplifierTrinkets",
+      "버려진 증폭기",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",
+      [],
+      1,
+      "\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",
+      [],
+      "장신구 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MineAmplifierGems",
+      "버려진 증폭기",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Gems",
+      [],
+      1,
+      "\u0002\u0000\u0002\u0000젬 포함",
+      [],
+      "젬 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MineAmplifierCurrency",
+      "버려진 증폭기",
+      [
+        150
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",
+      [],
+      1,
+      "\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",
+      [],
+      "화폐 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MineSpiderGeneric",
+      "거미줄 덮인 갱도",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",
+      [],
+      1,
+      "",
+      [],
+      "아이템 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MineSpiderTrinkets",
+      "거미줄 덮인 갱도",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",
+      [],
+      1,
+      "\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",
+      [],
+      "장신구 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MineSpiderCurrency",
+      "거미줄 덮인 갱도",
+      [
+        150
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",
+      [],
+      1,
+      "\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",
+      [],
+      "화폐 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MineCampsiteGeneric",
+      "버려진 야영지",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",
+      [],
+      1,
+      "",
+      [],
+      "아이템 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MineCampsiteArmour",
+      "버려진 야영지",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",
+      [],
+      1,
+      "",
+      [],
+      "방어구 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MineCampsiteWeapon",
+      "버려진 야영지",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",
+      [],
+      1,
+      "",
+      [],
+      "무기 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MineCampsiteTrinkets",
+      "버려진 야영지",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",
+      [],
+      1,
+      "\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",
+      [],
+      "장신구 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MineCampsiteCurrency",
+      "버려진 야영지",
+      [
+        150
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",
+      [],
+      1,
+      "\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",
+      [],
+      "화폐 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "Beyond",
+      "고동치는 석굴",
+      [
+        100
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Beyond",
+      [],
+      1,
+      "\u0002\u0000\u0002\u0000젬 포함",
+      [
+        10
+      ],
+      "이계 몬스터들 포함",
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "ForestRhoaGeneric",
+      "포개어진 대지",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",
+      [],
+      1,
+      "",
+      [],
+      "아이템 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "ForestRhoaArmour",
+      "포개어진 대지",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",
+      [],
+      1,
+      "",
+      [],
+      "방어구 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "ForestRhoaWeapon",
+      "포개어진 대지",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",
+      [],
+      1,
+      "",
+      [],
+      "무기 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "ForestRhoaTrinkets",
+      "포개어진 대지",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",
+      [],
+      1,
+      "\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",
+      [],
+      "장신구 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "ForestRhoaCurrency",
+      "포개어진 대지",
+      [
+        150
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",
+      [],
+      1,
+      "\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",
+      [],
+      "화폐 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "ForestRhoaBlood",
+      "포개어진 대지",
+      [
+        100
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Blood",
+      [],
+      2,
+      "\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000균열 포함",
+      [
+        50
+      ],
+      "물리 아이템 포함",
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0,
+        4
+      ]
+    ],
+    [
+      "ForestCampsiteGeneric",
+      "텅 빈 야영지",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",
+      [],
+      1,
+      "",
+      [],
+      "아이템 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "ForestCampsiteArmour",
+      "텅 빈 야영지",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",
+      [],
+      1,
+      "",
+      [],
+      "방어구 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "ForestCampsiteWeapon",
+      "텅 빈 야영지",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",
+      [],
+      1,
+      "",
+      [],
+      "무기 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "ForestCampsiteTrinkets",
+      "텅 빈 야영지",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",
+      [],
+      1,
+      "\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",
+      [],
+      "장신구 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "ForestCampsiteCurrency",
+      "텅 빈 야영지",
+      [
+        150
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",
+      [],
+      1,
+      "\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",
+      [],
+      "화폐 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "ForestCampsiteMaps",
+      "텅 빈 야영지",
+      [
+        75
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Maps",
+      [],
+      1,
+      "\u0003\u0000\u0004\u0000지도 포함",
+      [
+        83,
+        52,
+        35
+      ],
+      "지도 포함",
+      0,
+      [
+        0,
+        3,
+        4
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "ForestTalisman",
+      "의식의 대지",
+      [
+        100
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Talisman",
+      [],
+      2,
+      "\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000균열 포함",
+      [],
+      "부적 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0,
+        4
+      ]
+    ],
+    [
+      "ForestSandTrinkets",
+      "먼지 쌓인 수목원",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",
+      [],
+      1,
+      "\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",
+      [],
+      "장신구 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "ForestSandCurrency",
+      "먼지 쌓인 수목원",
+      [
+        150
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",
+      [],
+      1,
+      "\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",
+      [],
+      "화폐 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "ForestSandMaps",
+      "먼지 쌓인 수목원",
+      [
+        75
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Maps",
+      [],
+      1,
+      "\u0003\u0000\u0004\u0000지도 포함",
+      [
+        83,
+        52,
+        35
+      ],
+      "지도 포함",
+      0,
+      [
+        0,
+        3,
+        4
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "ForestNecromancerGeneric",
+      "으스스한 잡목림",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",
+      [],
+      1,
+      "",
+      [],
+      "아이템 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "ForestNecromancerTinkets",
+      "으스스한 잡목림",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",
+      [],
+      1,
+      "\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",
+      [],
+      "장신구 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "ForestNecromancerCurrency",
+      "으스스한 잡목림",
+      [
+        150
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",
+      [],
+      1,
+      "\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",
+      [],
+      "화폐 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "ForestNecromancerMinions",
+      "으스스한 잡목림",
+      [
+        100
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Minion",
+      [],
+      2,
+      "\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000균열 포함",
+      [
+        50
+      ],
+      "소환수 혹은 오라 아이템 포함",
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0,
+        4
+      ]
+    ],
+    [
+      "ForestDropbearsGeneric",
+      "으르렁거리는 수목원",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",
+      [],
+      1,
+      "",
+      [],
+      "아이템 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "ForestDropbearsArmour",
+      "으르렁거리는 수목원",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",
+      [],
+      1,
+      "",
+      [],
+      "방어구 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "ForestDropbearsWeapon",
+      "으르렁거리는 수목원",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",
+      [],
+      1,
+      "",
+      [],
+      "무기 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "ForestDropbearsTrinkets",
+      "으르렁거리는 수목원",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",
+      [],
+      1,
+      "\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",
+      [],
+      "장신구 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "ForestDropbearsCurrency",
+      "으르렁거리는 수목원",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",
+      [],
+      1,
+      "\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",
+      [],
+      "화폐 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "ForestDevourersGeneric",
+      "감염된 잡목림",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",
+      [],
+      1,
+      "",
+      [],
+      "아이템 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "ForestDevourersArmour",
+      "감염된 잡목림",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",
+      [],
+      1,
+      "",
+      [],
+      "방어구 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "ForestDevourersWeapon",
+      "감염된 잡목림",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",
+      [],
+      1,
+      "",
+      [],
+      "무기 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "ForestDevourersTrinkets",
+      "감염된 잡목림",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",
+      [],
+      1,
+      "\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",
+      [],
+      "장신구 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "ForestDevourersCurrency",
+      "감염된 잡목림",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",
+      [],
+      1,
+      "\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",
+      [],
+      "화폐 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "CavernsNecromancerGeneric",
+      "네크로맨서의 발굴물",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",
+      [],
+      1,
+      "",
+      [],
+      "아이템 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "CavernsNecromancerTrinkets",
+      "네크로맨서의 발굴물",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",
+      [],
+      1,
+      "\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",
+      [],
+      "장신구 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "CavernsNecromancerCurrency",
+      "네크로맨서의 발굴물",
+      [
+        150
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",
+      [],
+      1,
+      "\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",
+      [],
+      "화폐 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "CavernsNecromancerMinions",
+      "네크로맨서의 발굴물",
+      [
+        100
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Minion",
+      [],
+      2,
+      "\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000균열 포함",
+      [
+        50
+      ],
+      "소환수 혹은 오라 아이템 포함",
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0,
+        4
+      ]
+    ],
+    [
+      "CavernsBeastGeneric",
+      "야수 토굴",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",
+      [],
+      1,
+      "",
+      [],
+      "아이템 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "CavernsBeastArmour",
+      "야수 토굴",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",
+      [],
+      1,
+      "",
+      [],
+      "방어구 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "CavernsBeastWeapon",
+      "야수 토굴",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",
+      [],
+      1,
+      "",
+      [],
+      "무기 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "CavernsBeastTrinkets",
+      "야수 토굴",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",
+      [],
+      1,
+      "\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",
+      [],
+      "장신구 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "CavernsBeastCurrency",
+      "야수 토굴",
+      [
+        150
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",
+      [],
+      1,
+      "\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",
+      [],
+      "화폐 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "CavernsBeastMinions",
+      "야수 토굴",
+      [
+        100
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Minion",
+      [],
+      2,
+      "\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000균열 포함",
+      [
+        50
+      ],
+      "소환수 혹은 오라 아이템 포함",
+      0,
+      [
+        1
+      ],
+      [
+        0
+      ],
+      [
+        0,
+        4
+      ]
+    ],
+    [
+      "CavernsMossMonsterGeneric",
+      "움직이지 않는 바위",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",
+      [],
+      1,
+      "",
+      [],
+      "아이템 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "CavernsMossMonsterTrinkets",
+      "움직이지 않는 바위",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",
+      [],
+      1,
+      "\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",
+      [],
+      "장신구 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "CavernsMossMonsterCurrency",
+      "움직이지 않는 바위",
+      [
+        150
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",
+      [],
+      1,
+      "\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",
+      [],
+      "화폐 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "CavernsMossMonsterGems",
+      "움직이지 않는 바위",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Gems",
+      [],
+      1,
+      "\u0002\u0000\u0002\u0000젬 포함",
+      [],
+      "젬 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "CavernsRockGolemGeneric",
+      "위태로운 돌덩이",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",
+      [],
+      1,
+      "",
+      [],
+      "아이템 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "CavernsRockGolemGems",
+      "위태로운 돌덩이",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Gems",
+      [],
+      1,
+      "\u0002\u0000\u0002\u0000젬 포함",
+      [],
+      "젬 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "CavernsChaosGolemGeneric",
+      "위태로운 돌덩이",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",
+      [],
+      1,
+      "",
+      [],
+      "아이템 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "CavernsChaosGolemGems",
+      "위태로운 돌덩이",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Gems",
+      [],
+      1,
+      "\u0002\u0000\u0002\u0000젬 포함",
+      [],
+      "젬 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "CavernsChaosGolemChaos",
+      "위태로운 돌덩이",
+      [
+        100
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chaos",
+      [],
+      2,
+      "\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000균열 포함",
+      [
+        50
+      ],
+      "카오스 아이템 포함",
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0,
+        4
+      ]
+    ],
+    [
+      "Strongbox",
+      "지하 보관함",
+      [
+        100
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Strongbox",
+      [],
+      2,
+      "\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000균열 포함",
+      [],
+      "금고 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0,
+        4
+      ]
+    ],
+    [
+      "CavernsBestiaryYellow",
+      "메아리 소굴",
+      [
+        100
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Bestiary",
+      [],
+      2,
+      "\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000균열 포함",
+      [
+        50
+      ],
+      "동물성 아이템 포함",
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0,
+        4
+      ]
+    ],
+    [
+      "CavernsBestiaryRed",
+      "메아리 소굴",
+      [
+        100
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Bestiary",
+      [],
+      2,
+      "\u0004\u0000\u0004\u0000\u0003\u0000\u0004\u0000CavernsCampsiteGeneric",
+      [
+        50
+      ],
+      "동물성 아이템 포함",
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0,
+        4
+      ]
+    ],
+    [
+      "CavernsCampsiteGeneric",
+      "곰팡이 슨 야영지",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",
+      [],
+      1,
+      "",
+      [],
+      "아이템 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "CavernsCampsiteArmour",
+      "곰팡이 슨 야영지",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",
+      [],
+      1,
+      "",
+      [],
+      "방어구 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "CavernsCampsiteWeapons",
+      "곰팡이 슨 야영지",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",
+      [],
+      1,
+      "",
+      [],
+      "무기 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "CavernsCampsiteTrinkets",
+      "곰팡이 슨 야영지",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",
+      [],
+      1,
+      "\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",
+      [],
+      "장신구 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "CavernsCampsiteCurrency",
+      "곰팡이 슨 야영지",
+      [
+        150
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",
+      [],
+      1,
+      "\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",
+      [],
+      "화폐 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "CavernsSkeletonGeneric",
+      "곰팡이 슨 묘지",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",
+      [],
+      1,
+      "",
+      [],
+      "아이템 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "CavernsSkeletonArmour",
+      "곰팡이 슨 묘지",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",
+      [],
+      1,
+      "",
+      [],
+      "방어구 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "CavernsSkeletonWeapon",
+      "곰팡이 슨 묘지",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",
+      [],
+      1,
+      "",
+      [],
+      "무기 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "CavernsSkeletonTrinkets",
+      "곰팡이 슨 묘지",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",
+      [],
+      1,
+      "\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",
+      [],
+      "장신구 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "CavernsSkeletonGems",
+      "곰팡이 슨 묘지",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Gems",
+      [],
+      1,
+      "\u0002\u0000\u0002\u0000젬 포함",
+      [],
+      "젬 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "CavernsSkeletonCurrency",
+      "곰팡이 슨 묘지",
+      [
+        150
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",
+      [],
+      1,
+      "\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",
+      [],
+      "화폐 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "CavernsSkeletonMaps",
+      "곰팡이 슨 묘지",
+      [
+        75
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Maps",
+      [],
+      1,
+      "\u0003\u0000\u0004\u0000지도 포함",
+      [
+        83,
+        52,
+        35
+      ],
+      "지도 포함",
+      0,
+      [
+        0,
+        3,
+        4
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "CavernsDropbearsGeneric",
+      "으르렁거리는 굴",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",
+      [],
+      1,
+      "",
+      [],
+      "아이템 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "CavernsDropbearsArmour",
+      "으르렁거리는 굴",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",
+      [],
+      1,
+      "",
+      [],
+      "방어구 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "CavernsDropbearsWeapon",
+      "으르렁거리는 굴",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",
+      [],
+      1,
+      "",
+      [],
+      "무기 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "CavernsDropbearsTrinkets",
+      "으르렁거리는 굴",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",
+      [],
+      1,
+      "\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",
+      [],
+      "장신구 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "CavernsDropbearsCurrency",
+      "으르렁거리는 굴",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",
+      [],
+      1,
+      "\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",
+      [],
+      "화폐 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "CavernsDevourersGeneric",
+      "감염된 땅굴",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",
+      [],
+      1,
+      "",
+      [],
+      "아이템 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "CavernsDevourersArmour",
+      "감염된 땅굴",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",
+      [],
+      1,
+      "",
+      [],
+      "방어구 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "CavernsDevourersWeapon",
+      "감염된 땅굴",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",
+      [],
+      1,
+      "",
+      [],
+      "무기 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "CavernsDevourersTrinkets",
+      "감염된 땅굴",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",
+      [],
+      1,
+      "\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",
+      [],
+      "장신구 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "CavernsDevourersCurrency",
+      "감염된 땅굴",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",
+      [],
+      1,
+      "\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",
+      [],
+      "화폐 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "AbyssalDepthsGhostGeneric",
+      "으스스한 유적",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",
+      [],
+      1,
+      "",
+      [
+        42
+      ],
+      "아이템 포함",
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "AbyssalDepthsGhostArmour",
+      "으스스한 유적",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",
+      [],
+      1,
+      "",
+      [
+        42
+      ],
+      "방어구 포함",
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "AbyssalDepthsGhostWeapons",
+      "으스스한 유적",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",
+      [],
+      1,
+      "",
+      [
+        42
+      ],
+      "무기 포함",
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "AbyssalDepthsGhostTrinkets",
+      "으스스한 유적",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",
+      [],
+      1,
+      "\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",
+      [
+        42
+      ],
+      "장신구 포함",
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "AbyssalDepthsGhostCurrency",
+      "으스스한 유적",
+      [
+        150
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",
+      [],
+      1,
+      "\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",
+      [
+        42
+      ],
+      "화폐 포함",
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "AbyssalDepthsGhostCurse",
+      "으스스한 유적",
+      [
+        100
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Curse",
+      [],
+      2,
+      "\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000균열 포함",
+      [
+        50
+      ],
+      "마나 혹은 저주 아이템 포함",
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0,
+        4
+      ]
+    ],
+    [
+      "AbyssalDepthsAbyss",
+      "으스스한 유적",
+      [
+        100
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/AbyssEncounter",
+      [],
+      2,
+      "\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000균열 포함",
+      [
+        50
+      ],
+      "심연 아이템 포함",
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0,
+        4
+      ]
+    ],
+    [
+      "AbyssalDepthsCampsiteGeneric",
+      "황폐한 야영지",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",
+      [],
+      1,
+      "",
+      [],
+      "아이템 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "AbyssalDepthsCampsiteArmour",
+      "황폐한 야영지",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",
+      [],
+      1,
+      "",
+      [],
+      "방어구 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "AbyssalDepthsCampsiteWeapon",
+      "황폐한 야영지",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",
+      [],
+      1,
+      "",
+      [],
+      "무기 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "AbyssalDepthsCampsiteTrinkets",
+      "황폐한 야영지",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",
+      [],
+      1,
+      "\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",
+      [],
+      "장신구 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "AbyssalDepthsCampsiteCurrency",
+      "황폐한 야영지",
+      [
+        150
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",
+      [],
+      1,
+      "\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",
+      [],
+      "화폐 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "AbyssalDepthsCampsiteMaps",
+      "황폐한 야영지",
+      [
+        75
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Maps",
+      [],
+      1,
+      "\u0003\u0000\u0004\u0000지도 포함",
+      [
+        83,
+        52,
+        35
+      ],
+      "지도 포함",
+      0,
+      [
+        0,
+        3,
+        4
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "AbyssalDepthsNecromancerGeneric",
+      "네크로맨서의 발굴물",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",
+      [],
+      1,
+      "",
+      [],
+      "아이템 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "AbyssalDepthsNecromancerTrinkets",
+      "네크로맨서의 발굴물",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",
+      [],
+      1,
+      "\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",
+      [],
+      "장신구 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "AbyssalDepthsNecromancerCurrency",
+      "네크로맨서의 발굴물",
+      [
+        150
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",
+      [],
+      1,
+      "\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",
+      [],
+      "화폐 포함",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "AbyssalDepthsNecromancerMinions",
+      "네크로맨서의 발굴물",
+      [
+        100
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Minion",
+      [],
+      2,
+      "\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000균열 포함",
+      [
+        50
+      ],
+      "소환수 혹은 오라 아이템 포함",
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0,
+        4
+      ]
+    ],
+    [
+      "AbyssalDepthsCultists",
+      "엉망이 된 성소",
+      [
+        100
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/AbyssEncounter",
+      [],
+      2,
+      "\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000균열 포함",
+      [
+        50
+      ],
+      "심연 아이템 포함",
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0,
+        4
+      ]
+    ],
+    [
+      "Legion",
+      "매장된 기둥",
+      [
+        100
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Legion",
+      [],
+      1,
+      "\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",
+      [
+        0,
+        35
+      ],
+      "군단 인카운터 포함",
+      0,
+      [
+        4,
+        5
+      ],
+      [
+        4
+      ],
+      [
+        4
+      ]
+    ]
+  ]
+}

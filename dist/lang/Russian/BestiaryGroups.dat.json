@@ -1,1 +1,247 @@
-{"filename":"BestiaryGroups.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":true,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Description","rowid":1,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Illustraiton","rowid":2,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Name","rowid":3,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Icon","rowid":4,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":true,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"IconSmall","rowid":5,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":true,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"BestiaryFamiliesKey","rowid":6,"type":"ulong","key":"BestiaryFamilies.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"AchievementItemsKeys","rowid":7,"type":"ref|list|ulong","key":"AchievementItems.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["Felines","\"Хищники. Людоеды. Лучше отбросить детское желание обнять этих прекрасных на вид созданий, ибо они сильны, жестоки и разорвут на части любого, кто подойдёт без должного уважения.\"","Art/2DArt/UIImages/InGame/Bestiary/Illustrations/Felines","Кошачьи","Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/GroupFeline","Art/2DArt/UIImages/InGame/Bestiary/ItemIcons/Felines",0,[]],["Primates","\"Разум в глазах этих развитых приматов притягивает взгляд, но сочувствия, равно как и доброты, в них нет и в помине. В этих глазах только злоба, жажда увечий и убийства.\"","Art/2DArt/UIImages/InGame/Bestiary/Illustrations/Primates","Приматы","Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/GroupPrimate","Art/2DArt/UIImages/InGame/Bestiary/ItemIcons/Primates",0,[]],["Canines","\"Мне жаль человека, который станет добычей этих тварей. Ему некуда бежать  и негде скрыться от безумного лая за спиной, ибо псы всё равно найдут его по запаху.\"","Art/2DArt/UIImages/InGame/Bestiary/Illustrations/Founds","Псовые","Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/GroupCanine","Art/2DArt/UIImages/InGame/Bestiary/ItemIcons/Canines",0,[]],["Ursa","\"Косматые утёсы мышц и шерсти. Не просто людоеды, а пожиратели людоедов. Медведи вылезают из своих берлог и проламываются сквозь буреломы. Лютые даже на вид, они ищут горячую кровь и сладкое мясо.\"","Art/2DArt/UIImages/InGame/Bestiary/Illustrations/Ursa","Медвежьи","Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/GroupUrsa","Art/2DArt/UIImages/InGame/Bestiary/ItemIcons/Ursa",0,[]],["Large Mammals","\"Таким чудовищам нет места и названия в природе. Стоит их завидеть, как душа уходит в пятки, а в глазах темнеет так, словно обозлённое мироздание уходит, лишь бы не быть к ним причастным.\"","Art/2DArt/UIImages/InGame/Bestiary/Illustrations/Unnaturals","Необычные","Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/GroupUnnaturals","Art/2DArt/UIImages/InGame/Bestiary/ItemIcons/Unnaturals",0,[]],["Avians","\"На заре времён люди смотрели на них и величали богами, ведь только богам подвластна высь. Да, пернатые способны летать, но пусть тебя не обманывают их яркие перья и громкие трели. Помни, что их когти и клювы несут смерть.\"","Art/2DArt/UIImages/InGame/Bestiary/Illustrations/Avians","Пернатые","Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/GroupAvian","Art/2DArt/UIImages/InGame/Bestiary/ItemIcons/Avians",1,[]],["Reptiles","\"В своё время их предки правили этим миром, пока высокомерные люди не отняли власть у хладнокровных. Потомки правителей быстры, их раздвоенные языки дрожат и пробуют воздух, чтобы учуять плоть. Их зубы вырывают куски мяса и заставляют страдать тех, кто дерзнёт противиться.\"","Art/2DArt/UIImages/InGame/Bestiary/Illustrations/Reptiles","Пресмыкающиеся","Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/GroupReptiles","Art/2DArt/UIImages/InGame/Bestiary/ItemIcons/Reptiles",1,[]],["Insects","\"Ищущие хоботки и щёлкающие жвала. Клубящиеся рои, порождённые мраком, чтобы нести страдания и беды миру. Их влечёт бедность, с ними приходят болезни, они поедают урожай.\"","Art/2DArt/UIImages/InGame/Bestiary/Illustrations/Insects","Насекомые","Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/GroupInsect","Art/2DArt/UIImages/InGame/Bestiary/ItemIcons/Insects",2,[]],["Arachnids","\"Хорошо знающие и страшащиеся называют их «маленькими богами смерти». Арахниды обживают выеденные черепа мертвецов и терпеливо ждут во тьме случая отравить мир.\"","Art/2DArt/UIImages/InGame/Bestiary/Illustrations/Arachnids","Паукообразные","Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/GroupArachnid","Art/2DArt/UIImages/InGame/Bestiary/ItemIcons/Arachnids",2,[]],["Cephalopod","\"Из увитой щупальцами пустоты тянутся кошмары. От бугров на телах веет зловещей мерзостью, а прилипчивая хватка их грубых объятий увлекает человека в безбожные глубины.\"","Art/2DArt/UIImages/InGame/Bestiary/Illustrations/Cephalopods","Головоногие","Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/GroupCephalopod","Art/2DArt/UIImages/InGame/Bestiary/ItemIcons/Cephalopod",3,[]],["Crustaceans","\"Кое-кто верит, что раки и крабы рождаются из душ умерших людей. Из душ воинов, которые сражались и пали. Став крабами, они срастаются с доспехами, мечами им служат клешни, а щитами — панцири.\"","Art/2DArt/UIImages/InGame/Bestiary/Illustrations/Crustaceans","Ракообразные","Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/GroupCrustacean","Art/2DArt/UIImages/InGame/Bestiary/ItemIcons/Crustaceans",3,[]],["Amphibians","\"Создания топи и тины, амфибии всегда зловонны. Берегись их ловкого умения дышать в воде и на суше, ведь с такой уловкой наготове они нагонят жертву и уволокут её в смертельный беспросветный омут, из которого нет возврата.\"","Art/2DArt/UIImages/InGame/Bestiary/Illustrations/Amphibians","Земноводные","Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/GroupAmphibian","Art/2DArt/UIImages/InGame/Bestiary/ItemIcons/Amphibians",3,[]]]}
+{
+  "filename": "BestiaryGroups.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Description",
+      "rowid": 1,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Illustraiton",
+      "rowid": 2,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Name",
+      "rowid": 3,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Icon",
+      "rowid": 4,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": true,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "IconSmall",
+      "rowid": 5,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": true,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "BestiaryFamiliesKey",
+      "rowid": 6,
+      "type": "ulong",
+      "key": "BestiaryFamilies.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "AchievementItemsKeys",
+      "rowid": 7,
+      "type": "ref|list|ulong",
+      "key": "AchievementItems.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "Felines",
+      "\"Хищники. Людоеды. Лучше отбросить детское желание обнять этих прекрасных на вид созданий, ибо они сильны, жестоки и разорвут на части любого, кто подойдёт без должного уважения.\"",
+      "Art/2DArt/UIImages/InGame/Bestiary/Illustrations/Felines",
+      "Кошачьи",
+      "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/GroupFeline",
+      "Art/2DArt/UIImages/InGame/Bestiary/ItemIcons/Felines",
+      0,
+      []
+    ],
+    [
+      "Primates",
+      "\"Разум в глазах этих развитых приматов притягивает взгляд, но сочувствия, равно как и доброты, в них нет и в помине. В этих глазах только злоба, жажда увечий и убийства.\"",
+      "Art/2DArt/UIImages/InGame/Bestiary/Illustrations/Primates",
+      "Приматы",
+      "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/GroupPrimate",
+      "Art/2DArt/UIImages/InGame/Bestiary/ItemIcons/Primates",
+      0,
+      []
+    ],
+    [
+      "Canines",
+      "\"Мне жаль человека, который станет добычей этих тварей. Ему некуда бежать  и негде скрыться от безумного лая за спиной, ибо псы всё равно найдут его по запаху.\"",
+      "Art/2DArt/UIImages/InGame/Bestiary/Illustrations/Founds",
+      "Псовые",
+      "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/GroupCanine",
+      "Art/2DArt/UIImages/InGame/Bestiary/ItemIcons/Canines",
+      0,
+      []
+    ],
+    [
+      "Ursa",
+      "\"Косматые утёсы мышц и шерсти. Не просто людоеды, а пожиратели людоедов. Медведи вылезают из своих берлог и проламываются сквозь буреломы. Лютые даже на вид, они ищут горячую кровь и сладкое мясо.\"",
+      "Art/2DArt/UIImages/InGame/Bestiary/Illustrations/Ursa",
+      "Медвежьи",
+      "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/GroupUrsa",
+      "Art/2DArt/UIImages/InGame/Bestiary/ItemIcons/Ursa",
+      0,
+      []
+    ],
+    [
+      "Large Mammals",
+      "\"Таким чудовищам нет места и названия в природе. Стоит их завидеть, как душа уходит в пятки, а в глазах темнеет так, словно обозлённое мироздание уходит, лишь бы не быть к ним причастным.\"",
+      "Art/2DArt/UIImages/InGame/Bestiary/Illustrations/Unnaturals",
+      "Необычные",
+      "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/GroupUnnaturals",
+      "Art/2DArt/UIImages/InGame/Bestiary/ItemIcons/Unnaturals",
+      0,
+      []
+    ],
+    [
+      "Avians",
+      "\"На заре времён люди смотрели на них и величали богами, ведь только богам подвластна высь. Да, пернатые способны летать, но пусть тебя не обманывают их яркие перья и громкие трели. Помни, что их когти и клювы несут смерть.\"",
+      "Art/2DArt/UIImages/InGame/Bestiary/Illustrations/Avians",
+      "Пернатые",
+      "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/GroupAvian",
+      "Art/2DArt/UIImages/InGame/Bestiary/ItemIcons/Avians",
+      1,
+      []
+    ],
+    [
+      "Reptiles",
+      "\"В своё время их предки правили этим миром, пока высокомерные люди не отняли власть у хладнокровных. Потомки правителей быстры, их раздвоенные языки дрожат и пробуют воздух, чтобы учуять плоть. Их зубы вырывают куски мяса и заставляют страдать тех, кто дерзнёт противиться.\"",
+      "Art/2DArt/UIImages/InGame/Bestiary/Illustrations/Reptiles",
+      "Пресмыкающиеся",
+      "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/GroupReptiles",
+      "Art/2DArt/UIImages/InGame/Bestiary/ItemIcons/Reptiles",
+      1,
+      []
+    ],
+    [
+      "Insects",
+      "\"Ищущие хоботки и щёлкающие жвала. Клубящиеся рои, порождённые мраком, чтобы нести страдания и беды миру. Их влечёт бедность, с ними приходят болезни, они поедают урожай.\"",
+      "Art/2DArt/UIImages/InGame/Bestiary/Illustrations/Insects",
+      "Насекомые",
+      "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/GroupInsect",
+      "Art/2DArt/UIImages/InGame/Bestiary/ItemIcons/Insects",
+      2,
+      []
+    ],
+    [
+      "Arachnids",
+      "\"Хорошо знающие и страшащиеся называют их «маленькими богами смерти». Арахниды обживают выеденные черепа мертвецов и терпеливо ждут во тьме случая отравить мир.\"",
+      "Art/2DArt/UIImages/InGame/Bestiary/Illustrations/Arachnids",
+      "Паукообразные",
+      "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/GroupArachnid",
+      "Art/2DArt/UIImages/InGame/Bestiary/ItemIcons/Arachnids",
+      2,
+      []
+    ],
+    [
+      "Cephalopod",
+      "\"Из увитой щупальцами пустоты тянутся кошмары. От бугров на телах веет зловещей мерзостью, а прилипчивая хватка их грубых объятий увлекает человека в безбожные глубины.\"",
+      "Art/2DArt/UIImages/InGame/Bestiary/Illustrations/Cephalopods",
+      "Головоногие",
+      "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/GroupCephalopod",
+      "Art/2DArt/UIImages/InGame/Bestiary/ItemIcons/Cephalopod",
+      3,
+      []
+    ],
+    [
+      "Crustaceans",
+      "\"Кое-кто верит, что раки и крабы рождаются из душ умерших людей. Из душ воинов, которые сражались и пали. Став крабами, они срастаются с доспехами, мечами им служат клешни, а щитами — панцири.\"",
+      "Art/2DArt/UIImages/InGame/Bestiary/Illustrations/Crustaceans",
+      "Ракообразные",
+      "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/GroupCrustacean",
+      "Art/2DArt/UIImages/InGame/Bestiary/ItemIcons/Crustaceans",
+      3,
+      []
+    ],
+    [
+      "Amphibians",
+      "\"Создания топи и тины, амфибии всегда зловонны. Берегись их ловкого умения дышать в воде и на суше, ведь с такой уловкой наготове они нагонят жертву и уволокут её в смертельный беспросветный омут, из которого нет возврата.\"",
+      "Art/2DArt/UIImages/InGame/Bestiary/Illustrations/Amphibians",
+      "Земноводные",
+      "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/GroupAmphibian",
+      "Art/2DArt/UIImages/InGame/Bestiary/ItemIcons/Amphibians",
+      3,
+      []
+    ]
+  ]
+}

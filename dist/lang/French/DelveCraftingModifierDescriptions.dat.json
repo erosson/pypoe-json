@@ -1,1 +1,189 @@
-{"filename":"DelveCraftingModifierDescriptions.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":true,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Description","rowid":1,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["BetterSellPrice","Les Marchands surestiment la valeur de l'objet"],["LuckyMods","Les Valeurs numériques des mods sont en votre Faveur\r\nLes modificateurs de Haut Niveau sont plus fréquents"],["RandomModifier","Peut avoir n'importe quel modificateur de Fossile"],["CorruptEssence","Possède un modificateur d'Essence corrompue"],["Duplicate","Crée une Copie reflétée"],["AbyssSocket","Possède une Châsse abyssale"],["VaalMod","Possède un modificateur Vaal"],["Sockets","Davantage de Châsses\r\nPeut avoir des Châsses blanches"],["LabryinthEnchant","Possède un Enchantement du Labyrinthe"],["Quality","Possède une Qualité améliorée"],["MorePhysical","Davantage de modificateurs Physiques"],["MoreFire","Davantage de modificateurs de Feu"],["MoreCold","Davantage de modificateurs de Froid"],["MoreLightning","Davantage de modificateurs de Foudre"],["MoreChaos","Davantage de modificateurs de Chaos"],["MoreElemental","Davantage de modificateurs Élémentaires"],["MoreBleedPoison","Davantage de modificateurs d'Altérations physiques ou de chaos"],["MoreLife","Davantage de modificateurs de Vie"],["MoreDefences","Davantage de modificateurs de Défenses"],["MoreCaster","Davantage de modificateurs de Sorts"],["MoreAttack","Davantage de modificateurs d'Attaque"],["MoreMana","Davantage de modificateurs de Mana"],["MoreSpeed","Davantage de modificateurs de Vitesse"],["MoreMinionAura","Davantage de modificateurs de Créatures, d'Auras ou de Malédictions"],["MoreGemLevel","Davantage de modificateurs de Gemmes"],["LessCaster","Moins de modificateurs de Sorts"],["LessAttack","Moins de modificateurs d'Attaque"],["NoPhysical","Aucun modificateur Physique"],["NoFire","Aucun modificateur de Feu"],["NoCold","Aucun modificateur de Froid"],["NoLightning","Aucun modificateur de Foudre"],["NoChaos","Aucun modificateur de Chaos"],["NoLife","Aucun modificateur de Vie"],["NoDefences","Aucun modificateur de Défense"],["NoElemental","Aucun modificateur Élémentaire"],["NoBleedPoison","Aucun modificateur d'Altération physique ou de chaos"],["NoMana","Aucun modificateur de Mana"],["NoSpeed","Aucun modificateur de Vitesse"]]}
+{
+  "filename": "DelveCraftingModifierDescriptions.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Description",
+      "rowid": 1,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "BetterSellPrice",
+      "Les Marchands surestiment la valeur de l'objet"
+    ],
+    [
+      "LuckyMods",
+      "Les Valeurs numériques des mods sont en votre Faveur\r\nLes modificateurs de Haut Niveau sont plus fréquents"
+    ],
+    [
+      "RandomModifier",
+      "Peut avoir n'importe quel modificateur de Fossile"
+    ],
+    [
+      "CorruptEssence",
+      "Possède un modificateur d'Essence corrompue"
+    ],
+    [
+      "Duplicate",
+      "Crée une Copie reflétée"
+    ],
+    [
+      "AbyssSocket",
+      "Possède une Châsse abyssale"
+    ],
+    [
+      "VaalMod",
+      "Possède un modificateur Vaal"
+    ],
+    [
+      "Sockets",
+      "Davantage de Châsses\r\nPeut avoir des Châsses blanches"
+    ],
+    [
+      "LabryinthEnchant",
+      "Possède un Enchantement du Labyrinthe"
+    ],
+    [
+      "Quality",
+      "Possède une Qualité améliorée"
+    ],
+    [
+      "MorePhysical",
+      "Davantage de modificateurs Physiques"
+    ],
+    [
+      "MoreFire",
+      "Davantage de modificateurs de Feu"
+    ],
+    [
+      "MoreCold",
+      "Davantage de modificateurs de Froid"
+    ],
+    [
+      "MoreLightning",
+      "Davantage de modificateurs de Foudre"
+    ],
+    [
+      "MoreChaos",
+      "Davantage de modificateurs de Chaos"
+    ],
+    [
+      "MoreElemental",
+      "Davantage de modificateurs Élémentaires"
+    ],
+    [
+      "MoreBleedPoison",
+      "Davantage de modificateurs d'Altérations physiques ou de chaos"
+    ],
+    [
+      "MoreLife",
+      "Davantage de modificateurs de Vie"
+    ],
+    [
+      "MoreDefences",
+      "Davantage de modificateurs de Défenses"
+    ],
+    [
+      "MoreCaster",
+      "Davantage de modificateurs de Sorts"
+    ],
+    [
+      "MoreAttack",
+      "Davantage de modificateurs d'Attaque"
+    ],
+    [
+      "MoreMana",
+      "Davantage de modificateurs de Mana"
+    ],
+    [
+      "MoreSpeed",
+      "Davantage de modificateurs de Vitesse"
+    ],
+    [
+      "MoreMinionAura",
+      "Davantage de modificateurs de Créatures, d'Auras ou de Malédictions"
+    ],
+    [
+      "MoreGemLevel",
+      "Davantage de modificateurs de Gemmes"
+    ],
+    [
+      "LessCaster",
+      "Moins de modificateurs de Sorts"
+    ],
+    [
+      "LessAttack",
+      "Moins de modificateurs d'Attaque"
+    ],
+    [
+      "NoPhysical",
+      "Aucun modificateur Physique"
+    ],
+    [
+      "NoFire",
+      "Aucun modificateur de Feu"
+    ],
+    [
+      "NoCold",
+      "Aucun modificateur de Froid"
+    ],
+    [
+      "NoLightning",
+      "Aucun modificateur de Foudre"
+    ],
+    [
+      "NoChaos",
+      "Aucun modificateur de Chaos"
+    ],
+    [
+      "NoLife",
+      "Aucun modificateur de Vie"
+    ],
+    [
+      "NoDefences",
+      "Aucun modificateur de Défense"
+    ],
+    [
+      "NoElemental",
+      "Aucun modificateur Élémentaire"
+    ],
+    [
+      "NoBleedPoison",
+      "Aucun modificateur d'Altération physique ou de chaos"
+    ],
+    [
+      "NoMana",
+      "Aucun modificateur de Mana"
+    ],
+    [
+      "NoSpeed",
+      "Aucun modificateur de Vitesse"
+    ]
+  ]
+}

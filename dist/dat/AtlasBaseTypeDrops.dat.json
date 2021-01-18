@@ -1,1 +1,429 @@
-{"filename":"AtlasBaseTypeDrops.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":true,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"AtlasRegionsKey","rowid":1,"type":"ulong","key":"AtlasRegions.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"MinTier","rowid":2,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"MaxTier","rowid":3,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"SpawnWeight_TagsKeys","rowid":4,"type":"ref|list|ulong","key":"Tags.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"SpawnWeight_Values","rowid":5,"type":"ref|list|int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["OutsideTopLeftWhite1",0,1,5,[181],[1000]],["OutsideTopLeftYellow1",0,6,10,[179,181],[1000,1000]],["OutsideTopLeftRed1",0,11,16,[179,181],[1000,1000]],["InsideTopLeftWhite1",1,1,5,[185],[1000]],["InsideTopLeftYellow1",1,6,10,[185,183],[1000,1000]],["InsideTopLeftRed1",1,11,16,[185,183,178],[1000,1000,1000]],["InsideTopRightWhite1",2,1,5,[186,187],[1000,1000]],["InsideTopRightYellow1",2,6,10,[186,187],[1000,1000]],["InsideTopRightRed1",2,11,16,[186,187,454],[1000,1000,1000]],["OutsideTopRightWhite1",3,1,5,[458],[1000]],["OutsideTopRightYellow1",3,6,10,[455,458],[1000,1000]],["OutsideTopRightRed1",3,11,16,[455,458],[1000,1000]],["OutsideBottomLeftWhite1",4,1,5,[180],[1000]],["OutsideBottomLeftYellow1",4,6,10,[454,180],[1000,1000]],["OutsideBottomLeftRed1",4,11,16,[454,180],[1000,1000]],["InsideBottomLeftWhite1",5,1,5,[189,188],[1000,1000]],["InsideBottomLeftYellow1",5,6,16,[189,188],[1000,1000]],["InsideBottomLeftRed1",5,11,16,[189,188,455],[1000,1000,1000]],["InsideBottomRightWhite1",6,1,5,[190],[1000]],["InsideBottomRightYellow1",6,6,10,[190,182],[1000,1000]],["InsideBottomRightRed1",6,11,16,[190,182,179],[1000,1000,1000]],["OutsideBottomRightWhite1",7,1,5,[184],[1000]],["OutsideBottomRightYellow1",7,6,10,[178,184],[1000,1000]],["OutsideBottomRightRed1",7,11,16,[178,184],[1000,1000]]]}
+{
+  "filename": "AtlasBaseTypeDrops.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "AtlasRegionsKey",
+      "rowid": 1,
+      "type": "ulong",
+      "key": "AtlasRegions.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "MinTier",
+      "rowid": 2,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "MaxTier",
+      "rowid": 3,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "SpawnWeight_TagsKeys",
+      "rowid": 4,
+      "type": "ref|list|ulong",
+      "key": "Tags.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "SpawnWeight_Values",
+      "rowid": 5,
+      "type": "ref|list|int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "OutsideTopLeftWhite1",
+      0,
+      1,
+      5,
+      [
+        181
+      ],
+      [
+        1000
+      ]
+    ],
+    [
+      "OutsideTopLeftYellow1",
+      0,
+      6,
+      10,
+      [
+        179,
+        181
+      ],
+      [
+        1000,
+        1000
+      ]
+    ],
+    [
+      "OutsideTopLeftRed1",
+      0,
+      11,
+      16,
+      [
+        179,
+        181
+      ],
+      [
+        1000,
+        1000
+      ]
+    ],
+    [
+      "InsideTopLeftWhite1",
+      1,
+      1,
+      5,
+      [
+        185
+      ],
+      [
+        1000
+      ]
+    ],
+    [
+      "InsideTopLeftYellow1",
+      1,
+      6,
+      10,
+      [
+        185,
+        183
+      ],
+      [
+        1000,
+        1000
+      ]
+    ],
+    [
+      "InsideTopLeftRed1",
+      1,
+      11,
+      16,
+      [
+        185,
+        183,
+        178
+      ],
+      [
+        1000,
+        1000,
+        1000
+      ]
+    ],
+    [
+      "InsideTopRightWhite1",
+      2,
+      1,
+      5,
+      [
+        186,
+        187
+      ],
+      [
+        1000,
+        1000
+      ]
+    ],
+    [
+      "InsideTopRightYellow1",
+      2,
+      6,
+      10,
+      [
+        186,
+        187
+      ],
+      [
+        1000,
+        1000
+      ]
+    ],
+    [
+      "InsideTopRightRed1",
+      2,
+      11,
+      16,
+      [
+        186,
+        187,
+        454
+      ],
+      [
+        1000,
+        1000,
+        1000
+      ]
+    ],
+    [
+      "OutsideTopRightWhite1",
+      3,
+      1,
+      5,
+      [
+        458
+      ],
+      [
+        1000
+      ]
+    ],
+    [
+      "OutsideTopRightYellow1",
+      3,
+      6,
+      10,
+      [
+        455,
+        458
+      ],
+      [
+        1000,
+        1000
+      ]
+    ],
+    [
+      "OutsideTopRightRed1",
+      3,
+      11,
+      16,
+      [
+        455,
+        458
+      ],
+      [
+        1000,
+        1000
+      ]
+    ],
+    [
+      "OutsideBottomLeftWhite1",
+      4,
+      1,
+      5,
+      [
+        180
+      ],
+      [
+        1000
+      ]
+    ],
+    [
+      "OutsideBottomLeftYellow1",
+      4,
+      6,
+      10,
+      [
+        454,
+        180
+      ],
+      [
+        1000,
+        1000
+      ]
+    ],
+    [
+      "OutsideBottomLeftRed1",
+      4,
+      11,
+      16,
+      [
+        454,
+        180
+      ],
+      [
+        1000,
+        1000
+      ]
+    ],
+    [
+      "InsideBottomLeftWhite1",
+      5,
+      1,
+      5,
+      [
+        189,
+        188
+      ],
+      [
+        1000,
+        1000
+      ]
+    ],
+    [
+      "InsideBottomLeftYellow1",
+      5,
+      6,
+      16,
+      [
+        189,
+        188
+      ],
+      [
+        1000,
+        1000
+      ]
+    ],
+    [
+      "InsideBottomLeftRed1",
+      5,
+      11,
+      16,
+      [
+        189,
+        188,
+        455
+      ],
+      [
+        1000,
+        1000,
+        1000
+      ]
+    ],
+    [
+      "InsideBottomRightWhite1",
+      6,
+      1,
+      5,
+      [
+        190
+      ],
+      [
+        1000
+      ]
+    ],
+    [
+      "InsideBottomRightYellow1",
+      6,
+      6,
+      10,
+      [
+        190,
+        182
+      ],
+      [
+        1000,
+        1000
+      ]
+    ],
+    [
+      "InsideBottomRightRed1",
+      6,
+      11,
+      16,
+      [
+        190,
+        182,
+        179
+      ],
+      [
+        1000,
+        1000,
+        1000
+      ]
+    ],
+    [
+      "OutsideBottomRightWhite1",
+      7,
+      1,
+      5,
+      [
+        184
+      ],
+      [
+        1000
+      ]
+    ],
+    [
+      "OutsideBottomRightYellow1",
+      7,
+      6,
+      10,
+      [
+        178,
+        184
+      ],
+      [
+        1000,
+        1000
+      ]
+    ],
+    [
+      "OutsideBottomRightRed1",
+      7,
+      11,
+      16,
+      [
+        178,
+        184
+      ],
+      [
+        1000,
+        1000
+      ]
+    ]
+  ]
+}

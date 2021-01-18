@@ -1,1 +1,211 @@
-{"filename":"MetamorphosisRewardTypes.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":true,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Art","rowid":1,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":true,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Name","rowid":2,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"AchievementItemsKeys","rowid":3,"type":"ref|list|ulong","key":"AchievementItems.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["Currency","Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedCurrency","화폐",[]],["Uniques","Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedUniques","고유 아이템",[]],["Gems","Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedGems","젬",[]],["Maps","Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedMaps","지도",[]],["Trinkets","Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedTrinkets","장신구",[]],["Armour","Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedArmour","방어구",[]],["Weapon","Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedWeapons","무기",[]],["Abyss","Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedAbyss","심연",[]],["Perandus","Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedPerandus","페란두스",[]],["Harbinger","Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedHarbinger","선구자",[]],["Breach","Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedBreach","균열",[]],["Essences","Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedEssence","에센스",[]],["Essences2","Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedEssence","에센스",[]],["Fragments","Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedFragments","조각",[]],["Scarabs","Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedScarabs","갑충석",[]],["Fossils","Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedFossils","화석",[]],["Prophecies","Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedProphecies","예언",[]],["DivinationCards","Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedDivination","점술 카드",[]],["Generic","Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedGeneric","일반",[]],["Talismans","Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedTalismans","부적",[]],["Labyrinth","Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedLabyrinth","미궁",[]],["Legion","Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedLegion","군단",[]],["Blight","Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedBlight","역병",[]],["Metamorphosis","Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedMetamorph","변형",[]]]}
+{
+  "filename": "MetamorphosisRewardTypes.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Art",
+      "rowid": 1,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": true,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Name",
+      "rowid": 2,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "AchievementItemsKeys",
+      "rowid": 3,
+      "type": "ref|list|ulong",
+      "key": "AchievementItems.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "Currency",
+      "Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedCurrency",
+      "화폐",
+      []
+    ],
+    [
+      "Uniques",
+      "Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedUniques",
+      "고유 아이템",
+      []
+    ],
+    [
+      "Gems",
+      "Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedGems",
+      "젬",
+      []
+    ],
+    [
+      "Maps",
+      "Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedMaps",
+      "지도",
+      []
+    ],
+    [
+      "Trinkets",
+      "Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedTrinkets",
+      "장신구",
+      []
+    ],
+    [
+      "Armour",
+      "Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedArmour",
+      "방어구",
+      []
+    ],
+    [
+      "Weapon",
+      "Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedWeapons",
+      "무기",
+      []
+    ],
+    [
+      "Abyss",
+      "Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedAbyss",
+      "심연",
+      []
+    ],
+    [
+      "Perandus",
+      "Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedPerandus",
+      "페란두스",
+      []
+    ],
+    [
+      "Harbinger",
+      "Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedHarbinger",
+      "선구자",
+      []
+    ],
+    [
+      "Breach",
+      "Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedBreach",
+      "균열",
+      []
+    ],
+    [
+      "Essences",
+      "Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedEssence",
+      "에센스",
+      []
+    ],
+    [
+      "Essences2",
+      "Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedEssence",
+      "에센스",
+      []
+    ],
+    [
+      "Fragments",
+      "Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedFragments",
+      "조각",
+      []
+    ],
+    [
+      "Scarabs",
+      "Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedScarabs",
+      "갑충석",
+      []
+    ],
+    [
+      "Fossils",
+      "Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedFossils",
+      "화석",
+      []
+    ],
+    [
+      "Prophecies",
+      "Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedProphecies",
+      "예언",
+      []
+    ],
+    [
+      "DivinationCards",
+      "Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedDivination",
+      "점술 카드",
+      []
+    ],
+    [
+      "Generic",
+      "Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedGeneric",
+      "일반",
+      []
+    ],
+    [
+      "Talismans",
+      "Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedTalismans",
+      "부적",
+      []
+    ],
+    [
+      "Labyrinth",
+      "Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedLabyrinth",
+      "미궁",
+      []
+    ],
+    [
+      "Legion",
+      "Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedLegion",
+      "군단",
+      []
+    ],
+    [
+      "Blight",
+      "Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedBlight",
+      "역병",
+      []
+    ],
+    [
+      "Metamorphosis",
+      "Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedMetamorph",
+      "변형",
+      []
+    ]
+  ]
+}

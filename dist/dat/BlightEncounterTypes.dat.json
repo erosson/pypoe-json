@@ -1,1 +1,193 @@
-{"filename":"BlightEncounterTypes.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":true,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Icon","rowid":1,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":true,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"IsGeneric","rowid":2,"type":"byte","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Weight","rowid":3,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["Cold","Art/2DArt/UIImages/InGame/Blight/Tower Icons/IconCold",0,100],["LightningSkeletons","Art/2DArt/UIImages/InGame/Blight/Tower Icons/IconLightning",0,100],["Physical","Art/2DArt/UIImages/InGame/Blight/Tower Icons/IconPhysical",0,100],["MinionSpiders","Art/2DArt/UIImages/InGame/Blight/Tower Icons/IconMinion",0,100],["FireDogs","Art/2DArt/UIImages/InGame/Blight/Tower Icons/IconFire",0,100],["GenericZombies","",1,100],["GenericRhoas","",1,100],["GenericDemons","",1,100],["GenericBandits","",1,100],["GenericTemplars","",1,100],["GenericGoatman","",1,100],["GenericSkeletons","",1,100],["GenericMonkeys","",1,100],["GenericUndying","",1,100],["GenericSeawitches","",1,100],["GenericBlackguard","",1,100],["GenericSnakes","",1,100],["GenericKitavaDemons","",1,100],["GenericCannibals","",1,100],["GenericGladiators","",1,100],["GenericCrabs","",1,100]]}
+{
+  "filename": "BlightEncounterTypes.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Icon",
+      "rowid": 1,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": true,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "IsGeneric",
+      "rowid": 2,
+      "type": "byte",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Weight",
+      "rowid": 3,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "Cold",
+      "Art/2DArt/UIImages/InGame/Blight/Tower Icons/IconCold",
+      0,
+      100
+    ],
+    [
+      "LightningSkeletons",
+      "Art/2DArt/UIImages/InGame/Blight/Tower Icons/IconLightning",
+      0,
+      100
+    ],
+    [
+      "Physical",
+      "Art/2DArt/UIImages/InGame/Blight/Tower Icons/IconPhysical",
+      0,
+      100
+    ],
+    [
+      "MinionSpiders",
+      "Art/2DArt/UIImages/InGame/Blight/Tower Icons/IconMinion",
+      0,
+      100
+    ],
+    [
+      "FireDogs",
+      "Art/2DArt/UIImages/InGame/Blight/Tower Icons/IconFire",
+      0,
+      100
+    ],
+    [
+      "GenericZombies",
+      "",
+      1,
+      100
+    ],
+    [
+      "GenericRhoas",
+      "",
+      1,
+      100
+    ],
+    [
+      "GenericDemons",
+      "",
+      1,
+      100
+    ],
+    [
+      "GenericBandits",
+      "",
+      1,
+      100
+    ],
+    [
+      "GenericTemplars",
+      "",
+      1,
+      100
+    ],
+    [
+      "GenericGoatman",
+      "",
+      1,
+      100
+    ],
+    [
+      "GenericSkeletons",
+      "",
+      1,
+      100
+    ],
+    [
+      "GenericMonkeys",
+      "",
+      1,
+      100
+    ],
+    [
+      "GenericUndying",
+      "",
+      1,
+      100
+    ],
+    [
+      "GenericSeawitches",
+      "",
+      1,
+      100
+    ],
+    [
+      "GenericBlackguard",
+      "",
+      1,
+      100
+    ],
+    [
+      "GenericSnakes",
+      "",
+      1,
+      100
+    ],
+    [
+      "GenericKitavaDemons",
+      "",
+      1,
+      100
+    ],
+    [
+      "GenericCannibals",
+      "",
+      1,
+      100
+    ],
+    [
+      "GenericGladiators",
+      "",
+      1,
+      100
+    ],
+    [
+      "GenericCrabs",
+      "",
+      1,
+      100
+    ]
+  ]
+}

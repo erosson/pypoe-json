@@ -1,1 +1,181 @@
-{"filename":"AchievementSetsDisplay.dat","header":[{"name":"Id","rowid":0,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":true,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Title","rowid":1,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[[1,"Défis"],[2,"Succès"],[3,"Défis"],[4,"Défis de Guilde"],[5,"Défis"],[6,"Défis"],[7,"Défis"],[8,"Défis"],[9,"Défis"],[10,"Défis"],[11,"Défis"],[12,"Défis"],[13,"Défis"],[14,"Défis"],[15,"Défis"],[16,"Défis"],[17,"Défis"],[18,"Défis"],[19,"Défis"],[20,"Défis"],[21,"Défis"],[22,"Défis"],[23,"Défis"],[24,"Défis"],[25,"Défis"],[26,"Défis"],[27,"Défis"],[28,"Défis"],[29,"Défis"],[30,"Défis"],[31,"Défis"],[32,"Défis"],[33,"Défis"],[34,"Défis"],[35,"Défis"],[36,"Défis"]]}
+{
+  "filename": "AchievementSetsDisplay.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Title",
+      "rowid": 1,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      1,
+      "Défis"
+    ],
+    [
+      2,
+      "Succès"
+    ],
+    [
+      3,
+      "Défis"
+    ],
+    [
+      4,
+      "Défis de Guilde"
+    ],
+    [
+      5,
+      "Défis"
+    ],
+    [
+      6,
+      "Défis"
+    ],
+    [
+      7,
+      "Défis"
+    ],
+    [
+      8,
+      "Défis"
+    ],
+    [
+      9,
+      "Défis"
+    ],
+    [
+      10,
+      "Défis"
+    ],
+    [
+      11,
+      "Défis"
+    ],
+    [
+      12,
+      "Défis"
+    ],
+    [
+      13,
+      "Défis"
+    ],
+    [
+      14,
+      "Défis"
+    ],
+    [
+      15,
+      "Défis"
+    ],
+    [
+      16,
+      "Défis"
+    ],
+    [
+      17,
+      "Défis"
+    ],
+    [
+      18,
+      "Défis"
+    ],
+    [
+      19,
+      "Défis"
+    ],
+    [
+      20,
+      "Défis"
+    ],
+    [
+      21,
+      "Défis"
+    ],
+    [
+      22,
+      "Défis"
+    ],
+    [
+      23,
+      "Défis"
+    ],
+    [
+      24,
+      "Défis"
+    ],
+    [
+      25,
+      "Défis"
+    ],
+    [
+      26,
+      "Défis"
+    ],
+    [
+      27,
+      "Défis"
+    ],
+    [
+      28,
+      "Défis"
+    ],
+    [
+      29,
+      "Défis"
+    ],
+    [
+      30,
+      "Défis"
+    ],
+    [
+      31,
+      "Défis"
+    ],
+    [
+      32,
+      "Défis"
+    ],
+    [
+      33,
+      "Défis"
+    ],
+    [
+      34,
+      "Défis"
+    ],
+    [
+      35,
+      "Défis"
+    ],
+    [
+      36,
+      "Défis"
+    ]
+  ]
+}

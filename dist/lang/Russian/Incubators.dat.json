@@ -1,1 +1,271 @@
-{"filename":"Incubators.dat","header":[{"name":"BaseItemTypesKey","rowid":0,"type":"ulong","key":"BaseItemTypes.dat","key_id":null,"key_offset":0,"enum":null,"unique":true,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown2","rowid":1,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Description","rowid":2,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Hash","rowid":3,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"AchievementItemsKeys","rowid":4,"type":"ref|list|ulong","key":"AchievementItems.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[[6817,111,"Сущность",52571,[]],[6818,131,"Валюта",52259,[]],[6819,151,"Уникальный предмет",18701,[]],[6820,121,"Карта",22038,[]],[6821,251,"Уникальная карта",6696,[]],[6822,301,"Редкий предмет Бездны",41772,[]],[6823,301,"Фрагмент",60390,[]],[6824,301,"Скарабей",32186,[]],[6825,351,"Ценная Сущность",23218,[]],[6826,301,"Ископаемое",19642,[]],[6827,181,"Предмет Перандусов",40101,[]],[6828,151,"Колоды карт",34745,[]],[6829,151,"Талисман",43064,[]],[6830,161,"Зачарованный головной убор",19352,[]],[6831,1001,"Доспех с 6 связанными гнездами",6078,[]],[6832,141,"Валюта",14134,[]],[6833,1501,"Ценный уникальный предмет",4526,[]],[6834,501,"Доспех Древнего или Создателя",61377,[]],[6835,501,"Оружие Древнего или Создателя",53204,[]],[6836,701,"Бижутерия Древнего или Создателя",61894,[]],[6837,501,"Карта Древнего",39336,[]],[6838,351,"Предмет Разлома",43164,[]],[6839,351,"Ценные осколки валюты или предмет Предвестника",50482,[]],[6840,501,"Осквернённый камень умения высокого уровня или ценный камень умения",15068,[]],[6841,301,"Предмет",31223,[]],[6842,121,"Качественный камень умения",16288,[]],[6843,151,"Предмет Бестиария",28161,[]]]}
+{
+  "filename": "Incubators.dat",
+  "header": [
+    {
+      "name": "BaseItemTypesKey",
+      "rowid": 0,
+      "type": "ulong",
+      "key": "BaseItemTypes.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown2",
+      "rowid": 1,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Description",
+      "rowid": 2,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Hash",
+      "rowid": 3,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "AchievementItemsKeys",
+      "rowid": 4,
+      "type": "ref|list|ulong",
+      "key": "AchievementItems.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      6817,
+      111,
+      "Сущность",
+      52571,
+      []
+    ],
+    [
+      6818,
+      131,
+      "Валюта",
+      52259,
+      []
+    ],
+    [
+      6819,
+      151,
+      "Уникальный предмет",
+      18701,
+      []
+    ],
+    [
+      6820,
+      121,
+      "Карта",
+      22038,
+      []
+    ],
+    [
+      6821,
+      251,
+      "Уникальная карта",
+      6696,
+      []
+    ],
+    [
+      6822,
+      301,
+      "Редкий предмет Бездны",
+      41772,
+      []
+    ],
+    [
+      6823,
+      301,
+      "Фрагмент",
+      60390,
+      []
+    ],
+    [
+      6824,
+      301,
+      "Скарабей",
+      32186,
+      []
+    ],
+    [
+      6825,
+      351,
+      "Ценная Сущность",
+      23218,
+      []
+    ],
+    [
+      6826,
+      301,
+      "Ископаемое",
+      19642,
+      []
+    ],
+    [
+      6827,
+      181,
+      "Предмет Перандусов",
+      40101,
+      []
+    ],
+    [
+      6828,
+      151,
+      "Колоды карт",
+      34745,
+      []
+    ],
+    [
+      6829,
+      151,
+      "Талисман",
+      43064,
+      []
+    ],
+    [
+      6830,
+      161,
+      "Зачарованный головной убор",
+      19352,
+      []
+    ],
+    [
+      6831,
+      1001,
+      "Доспех с 6 связанными гнездами",
+      6078,
+      []
+    ],
+    [
+      6832,
+      141,
+      "Валюта",
+      14134,
+      []
+    ],
+    [
+      6833,
+      1501,
+      "Ценный уникальный предмет",
+      4526,
+      []
+    ],
+    [
+      6834,
+      501,
+      "Доспех Древнего или Создателя",
+      61377,
+      []
+    ],
+    [
+      6835,
+      501,
+      "Оружие Древнего или Создателя",
+      53204,
+      []
+    ],
+    [
+      6836,
+      701,
+      "Бижутерия Древнего или Создателя",
+      61894,
+      []
+    ],
+    [
+      6837,
+      501,
+      "Карта Древнего",
+      39336,
+      []
+    ],
+    [
+      6838,
+      351,
+      "Предмет Разлома",
+      43164,
+      []
+    ],
+    [
+      6839,
+      351,
+      "Ценные осколки валюты или предмет Предвестника",
+      50482,
+      []
+    ],
+    [
+      6840,
+      501,
+      "Осквернённый камень умения высокого уровня или ценный камень умения",
+      15068,
+      []
+    ],
+    [
+      6841,
+      301,
+      "Предмет",
+      31223,
+      []
+    ],
+    [
+      6842,
+      121,
+      "Качественный камень умения",
+      16288,
+      []
+    ],
+    [
+      6843,
+      151,
+      "Предмет Бестиария",
+      28161,
+      []
+    ]
+  ]
+}

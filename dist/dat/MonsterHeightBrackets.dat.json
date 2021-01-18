@@ -1,1 +1,109 @@
-{"filename":"MonsterHeightBrackets.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":true,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown1","rowid":1,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Key0","rowid":2,"type":"ulong","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Key1","rowid":3,"type":"ulong","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["Small",100,1180,1181],["Medium",100,1180,1181],["Large",125,1180,1181],["ExtraLarge",150,1180,1181],["Kitava",200,1180,1181],["ExtraSmall",100,1180,1181],["ExtraExtraSmall",100,1180,1181]]}
+{
+  "filename": "MonsterHeightBrackets.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown1",
+      "rowid": 1,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Key0",
+      "rowid": 2,
+      "type": "ulong",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Key1",
+      "rowid": 3,
+      "type": "ulong",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "Small",
+      100,
+      1180,
+      1181
+    ],
+    [
+      "Medium",
+      100,
+      1180,
+      1181
+    ],
+    [
+      "Large",
+      125,
+      1180,
+      1181
+    ],
+    [
+      "ExtraLarge",
+      150,
+      1180,
+      1181
+    ],
+    [
+      "Kitava",
+      200,
+      1180,
+      1181
+    ],
+    [
+      "ExtraSmall",
+      100,
+      1180,
+      1181
+    ],
+    [
+      "ExtraExtraSmall",
+      100,
+      1180,
+      1181
+    ]
+  ]
+}

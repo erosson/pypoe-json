@@ -1,1 +1,3197 @@
-{"filename":"CharacterTextAudio.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":true,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Text","rowid":1,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"SoundFile","rowid":2,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":true,"file_ext":".ogg","display":null,"display_type":"{0}","description":null}],"data":[["Marauder1","ข้าคือนักรบ ถูกเลี้ยงดูมาด้วยเกียรติของเหล่าบรรพบุรุษ เพื่อฆ่าฟันด้วยอาวุธในมือและเลือดตามเส้นทางของคารุยOriath ล่ามข้าเอาไว้ด้วยโซ่ ทำให้ข้ากลายเป็นทาส กว่า 3 ปี ที่ข้าใช้ชีวิตอยู่อย่างไร้ครอบครัว ความภูมิใจ และแม้แต่เส้นทางของข้าเอง ข้าต้อนรับผู้ถูกเนรเทศ ข้าต้อนรับ Wraeclast ฟังข้าเหล่าบรรพบุรุษ! ทาสจะเป็นเบื้องหลังแต่นักรบอยู่เบื้องหน้าท่าน และความตายเดินอยู่เคียงข้างท่าน","Audio/Dialogue/Character/Str/Intro/Ma_01_Intro.ogg"],["Marauder2","","Audio/Dialogue/Character/Str/Event/Ma_02.ogg"],["Marauder3","คนตายควรอยู่ในที่ของพวกมัน","Audio/Dialogue/Character/Str/Event/Ma_03.ogg"],["Marauder4","ข้าถูกห้อมล้อมไปด้วยซากศพที่มีชีวิตและชาวโอเรียทานที่กำลังตาย","Audio/Dialogue/Character/Str/Event/Ma_04.ogg"],["Marauder5","Kaom ช่วยเปิดทางให้ข้า","Audio/Dialogue/Character/Str/Event/Ma_05.ogg"],["Marauder6","Dominus มันเอาไปทั้งบ้านและครอบครัวข้า","Audio/Dialogue/Character/Str/Event/Ma_06.ogg"],["Marauder7","นี่ไม่ใช่สิ่งที่ผู้เฒ่าได้กล่าวไว้","Audio/Dialogue/Character/Str/Event/Ma_07.ogg"],["Marauder8","ทาสมิใช่มนุษย์ ทาสมิควรค่าจะได้แม้ความตาย","Audio/Dialogue/Character/Str/Event/Ma_08.ogg"],["Marauder9","วิญญาณคือของเล่นของบรรพบุรุษ ผู้ปกครองทาส","Audio/Dialogue/Character/Str/Event/Ma_09.ogg"],["Marauder10","Hinekora มารดาแห่งความตาย นี่คือดินแดนของท่านใช่มั้ย","Audio/Dialogue/Character/Str/Event/Ma_10.ogg"],["Marauder11","เมื่อโครงกระดูกเดินได้ พวกมันไม่ใช่ Karui","Audio/Dialogue/Character/Str/Event/Ma_11.ogg"],["Marauder12","วิญญาณที่ชั่วร้าย' Lavianga พูดถึง Kitava บิดาแห่งการคอรัปชั่น","Audio/Dialogue/Character/Str/Event/Ma_12.ogg"],["Marauder13","Kaom ก้มหัวให้ Kitava มันหักหลังพวกเรา","Audio/Dialogue/Character/Str/Event/Ma_13.ogg"],["Marauder14","Karui จดจำท่านได้เสมอ Fairgrave การจากไปของท่านจะได้รับการจดจำ","Audio/Dialogue/Character/Str/Event/Ma_14.ogg"],["Marauder15","คำสาปสิ้นสุดแล้ว Siren หลับให้สบายไปกับ Hinekora มารดาแห่งความตาย","Audio/Dialogue/Character/Str/Event/Ma_15.ogg"],["Marauder16","ที่ Wraeclast ทุกชีวิตถูกทำให้เสื่อม","Audio/Dialogue/Character/Str/Event/Ma_16.ogg"],["Marauder17","อณาจักร Eternal ถูกสร้างขึ้นด้วยความวิปริต","Audio/Dialogue/Character/Str/Event/Ma_17.ogg"],["Marauder18","บรรพบุรุษอภัยข้าด้วย ข้าได้เปิดทางให้ Kitava บิดาแห่งความเสื่อม","Audio/Dialogue/Character/Str/Event/Ma_18.ogg"],["Marauder19","ข้ามอบนักรบแห่ง Kitava ให้ท่าน, Tukomaha, บิดาแห่งสงคราม","Audio/Dialogue/Character/Str/Event/Ma_19.ogg"],["Marauder20","ความตายมีค่ามากกว่าชีวิตของแก Kraityn","Audio/Dialogue/Character/Str/Event/Ma_20.ogg"],["Marauder21","ไม่มีเวทมนตร์ใดดำมืดกว่าความตายได้ นางแม่มด","Audio/Dialogue/Character/Str/Event/Ma_21.ogg"],["Marauder22","การปกครองของเจ้าจบแล้ว ราชาแห่งโจร","Audio/Dialogue/Character/Str/Event/Ma_22.ogg"],["Marauder23","รู้สึกดีที่ได้รับความอบอุ่นจาก Ramako บิดาแห่งแสงอีกครั้ง","Audio/Dialogue/Character/Str/Event/Ma_23.ogg"],["Marauder24","เจ้าได้รับการต้อนรับที่นี่ ธิดาแห่ง Ngamakanui","Audio/Dialogue/Character/Str/Event/Ma_24.ogg"],["Marauder25","ทาสจาก Karui ครั้งนึงได้ถูกซื้อและนำมาขายที่นี่อย่างเช่นหมู","Audio/Dialogue/Character/Str/Event/Ma_25.ogg"],["Marauder26","ชีวิตที่ยืนยาวเกินไปคือการใช้ชีวิตอยู่ด้วยความเจ็บปวด","Audio/Dialogue/Character/Str/Event/Ma_26.ogg"],["Marauder27","วิถีแห่ง Eternal ช่างสวยงามและไร้รูปแบบ","Audio/Dialogue/Character/Str/Event/Ma_27.ogg"],["Marauder28","Piety เจ้าเป็นทาสของ Kitava ธิดาแห่งความเสื่อมอย่างแท้จริง","Audio/Dialogue/Character/Str/Event/Ma_28.ogg"],["Marauder29","ข้าจะแย่งชิงทุกอย่างที่ Dominus รัก เช่นเดียวกับที่มันทำกับข้า","Audio/Dialogue/Character/Str/Event/Ma_29.ogg"],["Marauder30","Karui อย่าหลบซ่อนในหอคอยที่สร้างด้วยความกลัว","Audio/Dialogue/Character/Str/Event/Ma_30.ogg"],["Marauder31","Dominus อาณาจักรของเจ้าตายไปพร้อมกันกับเจ้า Karui จะไม่เป็นทาสของเจ้าอีกต่อไป","Audio/Dialogue/Character/Str/Event/Ma_31.ogg"],["Marauder32","ข้ารู้สึกเป็นเกียรติที่ได้รับใช้ท่านบรรพบุรุษ","Audio/Dialogue/Character/Str/Event/Ma_32.ogg"],["Marauder33","\"ไปตามทางแม่น้ำแห่งความตาย ตามรอยเท้าของอาณาจัก Kitava\" เช่นผู้เฒ่าที่บ้านได้บอกไว้","Audio/Dialogue/Character/Str/Event/Ma_36.ogg"],["Marauder34","พวกวิญญาณไม่มีความเคารพต่อผืนแผ่นดิน","Audio/Dialogue/Character/Str/Event/Ma_37.ogg"],["Marauder35","อาณาจักรของเจ้าตายไปแล้ว Voll ถึงตาเจ้าบ้าง","Audio/Dialogue/Character/Str/Event/Ma_38.ogg"],["Marauder36","ข้าได้ยินเจ้า Kitava ข้าเดินในอาณาจักรของเจ้า และข้ากำลังจะมาจัดการเจ้า","Audio/Dialogue/Character/Str/Event/Ma_39.ogg"],["Marauder37","เสียงท้องของ Kitava กำลังคราว มันกำลังหิวโหยที่จะกินข้า","Audio/Dialogue/Character/Str/Event/Ma_40.ogg"],["Marauder38","Karui และ Maraketh ได้ต่อสู้ร่วมกันมา ข้าทราบซึ้งในความเป็นเพื่อน","Audio/Dialogue/Character/Str/Event/Ma_41.ogg"],["Marauder39","Kitava เจ้าจะไม่ได้สิ่งที่เจ้าต้องการอีกต่อไป บรรพบุรุษต้องการมัน","Audio/Dialogue/Character/Str/Event/Ma_42.ogg"],["Marauder40","ชาว Oriathan ช่างชอบร้องเพลงที่เกี่ยวกับพวกเค้าเอง","Audio/Dialogue/Character/Str/Event/Ma_43.ogg"],["Marauder41","Tukohama ไม่ได้เรียก Kaom แต่เป็น Kitava","Audio/Dialogue/Character/Str/Event/Ma_44.ogg"],["Marauder42","พวกเค้ากำลังตามนาย Kaom พวกเค้าไว้ใจนาย","Audio/Dialogue/Character/Str/Event/Ma_45.ogg"],["Marauder43","มันไม่ใช่วิถีของ Karui ที่จะตั้งคำถามราชาของพวกเรา สิ่งนี้จะต้องเปลี่ยนไป","Audio/Dialogue/Character/Str/Event/Ma_46.ogg"],["Marauder44","ข้าไม่ยอมรับเกียรติของแก Kaom","Audio/Dialogue/Character/Str/Event/Ma_47.ogg"],["Marauder45","บรรพบุุรุษจะคร่ำครวญที่จะเห็นสิ่งที่ Kaom ได้สร้างขึ้น","Audio/Dialogue/Character/Str/Event/Ma_48.ogg"],["Marauder46","ข้าให้เกียรติท่านด้วยความตายของเหล่านักรบ Kaom มันมากกว่าที่ท่านควรได้รับ","Audio/Dialogue/Character/Str/Event/Ma_49.ogg"],["Marauder47","เส้นทางสู่หัวใจของพระเจ้าคือผ่านทางความกล้าหาญ","Audio/Dialogue/Character/Str/Event/Ma_50.ogg"],["Marauder48","Piety หักหลังข้าและข้าจะเด็ดหัวของเจ้า","Audio/Dialogue/Character/Str/Event/Ma_51.ogg"],["Marauder49","ความเจ็บป่วยได้จบลงแล้ว","Audio/Dialogue/Character/Str/Event/Ma_52.ogg"],["Marauder50","บรรพบุรุษต้องการมัน","Audio/Dialogue/Character/Str/Event/Ma_53.ogg"],["Marauder51","ตอนนี้เจ้าเป็นอิสระแล้ว เจ้าทาส","Audio/Dialogue/Character/Str/Event/Ma_54.ogg"],["Marauder52","บรรพบุรุษของข้าให้อภัยเจ้า Piety","Audio/Dialogue/Character/Str/Event/Ma_55.ogg"],["Marauder53","ได้ยินข้ามั้ย Kitava!? ทาสของพวกเจ้าตายกันหมดและอนาจักรของเจ้าจะตายไปพร้อมกับพวกมัน แกไม่ใช่บิดาแห่งความย่อยยับอีกต่อไป","Audio/Dialogue/Character/Str/Event/Ma_56.ogg"],["Marauder54","ข้ายังทำไม่ได้","Audio/Dialogue/Character/Str/Gameplay/Ma_33a.ogg"],["Marauder55","มานาของข้าหมด","Audio/Dialogue/Character/Str/Gameplay/Ma_33b.ogg"],["Marauder56","ข้าไม่อาจถือได้","Audio/Dialogue/Character/Str/Gameplay/Ma_33c_01.ogg"],["Marauder57","ข้าไม่อาจถือได้","Audio/Dialogue/Character/Str/Gameplay/Ma_33c_02.ogg"],["Marauder58","อาาา... ค่อยยังชั่ว","Audio/Dialogue/Character/Str/Gameplay/Ma_33d.ogg"],["Marauder59","ข้ายังไม่แข็งแกร่งพอจะใช้มันได้","Audio/Dialogue/Character/Str/Gameplay/Ma_33e.ogg"],["Marauder60","ข้ายังไม่รู้จักวิธีใช้มัน","Audio/Dialogue/Character/Str/Gameplay/Ma_33f_01.ogg"],["Marauder61","ข้ายังไม่รู้จักวิธีใช้มัน","Audio/Dialogue/Character/Str/Gameplay/Ma_33f_02.ogg"],["Marauder62","ข้ายังคล่องแคล่วไม่พอจะใช้มัน","Audio/Dialogue/Character/Str/Gameplay/Ma_33g_01.ogg"],["Marauder63","ข้ายังคล่องแคล่วไม่พอจะใช้มัน","Audio/Dialogue/Character/Str/Gameplay/Ma_33g_02.ogg"],["Marauder64","สัญชาตญาณบอกข้าว่าไม่ควรทำลายมัน","Audio/Dialogue/Character/Str/Gameplay/Ma_33h_01.ogg"],["Marauder65","สัญชาตญาณบอกข้าว่าไม่ควรทำลายมัน","Audio/Dialogue/Character/Str/Gameplay/Ma_33h_02.ogg"],["Marauder66","มันไม่เหมาะที่จะทำแบบนั้นที่นี่","Audio/Dialogue/Character/Str/Gameplay/Ma_33i_01.ogg"],["Marauder67","มันไม่เหมาะที่จะทำแบบนั้นที่นี่","Audio/Dialogue/Character/Str/Gameplay/Ma_33i_02.ogg"],["Marauder68","เพื่อ Tukohama!","Audio/Dialogue/Character/Str/Gameplay/Ma_34a_01.ogg"],["Marauder69","เพื่อ Tukohama!","Audio/Dialogue/Character/Str/Gameplay/Ma_34a_02.ogg"],["Marauder70","ไปสู่ Hinekora!","Audio/Dialogue/Character/Str/Gameplay/Ma_34b_01.ogg"],["Marauder71","ไปสู่ Hinekora!","Audio/Dialogue/Character/Str/Gameplay/Ma_34b_02.ogg"],["Marauder72","กลับไปสู่ผงธุลี!","Audio/Dialogue/Character/Str/Gameplay/Ma_34c_01.ogg"],["Marauder73","กลับไปสู่ผงธุลี!","Audio/Dialogue/Character/Str/Gameplay/Ma_34c_02.ogg"],["Marauder74","ข้ามอบแกให้เหล่าบรรพบุรุษ!","Audio/Dialogue/Character/Str/Gameplay/Ma_34d_01.ogg"],["Marauder75","ข้ามอบแกให้เหล่าบรรพบุรุษ!","Audio/Dialogue/Character/Str/Gameplay/Ma_34d_02.ogg"],["Marauder76","กลับสู่ Kitava!","Audio/Dialogue/Character/Str/Gameplay/Ma_34e_01.ogg"],["Marauder77","กลับสู่ Kitava!","Audio/Dialogue/Character/Str/Gameplay/Ma_34e_02.ogg"],["Marauder78","ข้าอยู่เพื่อพบกับวันใหม่","Audio/Dialogue/Character/Str/Gameplay/Ma_35a.ogg"],["Marauder79","Dominus อยากให้ข้าตายอยู่ที่นี่ ข้าจะทำให้มันต้องผิดหวัง","Audio/Dialogue/Character/Str/Gameplay/Ma_35b.ogg"],["Marauder80","การฆ่าคือการเอาตัวรอดใน Wraeclast","Audio/Dialogue/Character/Str/Gameplay/Ma_35c.ogg"],["Marauder81","ทุกความตาย ทำให้ข้ามีชีวิต","Audio/Dialogue/Character/Str/Gameplay/Ma_35d.ogg"],["Marauder82","บรรพบุรุษเฝ้าดูข้าอยู่","Audio/Dialogue/Character/Str/Gameplay/Ma_35e.ogg"],["Marauder83","ขอบคุณ เหล่าบรรพชนของข้า ข้าจะตอบแทนของขวัญของพวกท่านแน่","Audio/Dialogue/Character/Str/Gameplay/Ma_35f.ogg"],["Marauder84","ดินแดนแห่งนี้ลืมความแข็งแกร่งของคารุยไป ข้าจะฟื้นความจำให้เอง","Audio/Dialogue/Character/Str/Gameplay/Ma_35g.ogg"],["Ranger1","ข้าไม่เคยเห็นความกันดารแบบนี้มาก่อน วันต่อๆ ไปต้องลำบากแน่ๆ\r\n","Audio/Dialogue/Character/Dex/Event/R_02_GetUp.ogg"],["Ranger2","ไม่มีความยุติธรรมในที่แบบนี้หรอก มีแต่ความน่าเวทนาเท่านั้น","Audio/Dialogue/Character/Dex/Event/R_03_EnterPrison.ogg"],["Ranger3","ข้าทำกับเจ้าเยี่ยงที่จะทำกับสัตว์บาดเจ็บ บรูตัส","Audio/Dialogue/Character/Dex/Event/R_04_KillBrutus.ogg"],["Ranger4","ชีวิตและความตายอยู่เคียงข้างกัน ที่นี่ช่างแปลกประหลาด","Audio/Dialogue/Character/Dex/Event/R_05_EnterShipGraveyard.ogg"],["Ranger5","เจ้าเป็นคนดีในสถานการณ์ที่เลวร้าย แฟร์เกรฟเอ๋ย พักให้สงบเถิด","Audio/Dialogue/Character/Dex/Event/R_06_KillFairgraves.ogg"],["Ranger6","ความรักของเจ้าที่มีให้บุรุษ นั่นคือสิ่งที่ทำให้เจ้าเป็นแบบนี้ Merveil","Audio/Dialogue/Character/Dex/Event/R_07_KillMerveil.ogg"],["Ranger7","ทำสิ่งดีงามสักครั้งในชีวิตอันน่าสมเพชของเจ้าเถิด เจ้าโจร ตายไปให้หนอนไชซะ","Audio/Dialogue/Character/Dex/Event/R_08_KillOak.ogg"],["Ranger8","ราชาของพวกหนูรึ ตอนนี้เป็นอาหารหนูไปแล้ว","Audio/Dialogue/Character/Dex/Event/R_09_Killkraityn.ogg"],["Ranger9","ความเกลียดชังจะเด็ดดอกไม้ที่สวยงาม แม้แต่ดอกไม้มีพิษอย่างเจ้า","Audio/Dialogue/Character/Dex/Event/R_10_KillAlira.ogg"],["Ranger10","ความฟุ่มเฟือยและความโหดร้ายจับมือกัน","Audio/Dialogue/Character/Dex/Event/R_11_EnterCOS.ogg"],["Ranger11","เรื่องนี้ไม่ควรเกิดขึ้น ไม่ใช่ในโลกที่ข้ารู้จัก","Audio/Dialogue/Character/Dex/Event/R_12_ReleaseVaalShadow.ogg"],["Ranger12","บอกไปให้ทั่วในหมู่พวกเจ้า ฝันร้าย โลกของข้าไม่ยินดีต้อนรับพวกเจ้า","Audio/Dialogue/Character/Dex/Event/R_12b_KillOversoul.ogg"],["Ranger13","ชีวิตไม่มีอะไรถ้าปราศจากความตาย นั่นคือความจริงพื้นฐานที่ถูกลืมเมื่อนานมาแล้ว","Audio/Dialogue/Character/Dex/Event/R_13_EnterWarehouse.ogg"],["Ranger14","ข้าไม่รู้สึกห่างไปจากสิ่งที่รู้จักและสิ่งที่รัก","Audio/Dialogue/Character/Dex/Event/R_14_EnterSolaris.ogg"],["Ranger15","Piety เจ้ามีเรื่องต้องตอบข้าเยอะเลย","Audio/Dialogue/Character/Dex/Event/R_15_EnterLunaris.ogg"],["Ranger16","หากไม่มีคนอย่างเจ้าเสียอย่าง Gravicius แผ่นดินนี้คงเยียวยาตัวเองได้","Audio/Dialogue/Character/Dex/Event/R_16_KillGravicius.ogg"],["Ranger17","ความตายของเจ้าไม่อาจแก้ไขอะไรได้ Piety แต่อย่างน้อยมันก็ไม่เลวร้ายลงไปกว่าเดิม","Audio/Dialogue/Character/Dex/Event/R_17_KillPiety.ogg"],["Ranger18","ทำไมเราถึงยืนยันที่จะสร้างภูเขา? ทำไมเราไม่ปีนข้ามมันไปล่ะ?","Audio/Dialogue/Character/Dex/Event/R_17b_EnterSceptre.ogg"],["Ranger19","พวกเราบางคนต้องเสียใจภายหลังกับความผิดพลาด แต่ไม่ใช่กับเจ้า Dominus เจ้าได้ใช้โอกาสนั้นไปแล้ว","Audio/Dialogue/Character/Dex/Event/R_18_KillDominus.ogg"],["Ranger20","หลายๆเมืองได้ผุพังโดยธรรมชาติ และ เมืองซานเป็นเมืองที่เน่าผุพังสกปรกที่สุดของเมืองเหล่านั้น","Audio/Dialogue/Character/Dex/Event/R_21_EnterAqueduct.ogg"],["Ranger21","ทะเลสาบได้ถูกระบายออก สัตว์ประหลาดนับล้านสูญหาย เพียงเพื่อเมืองซานจะได้เก็บรักษาไว้ซึ่งห้องลับ","Audio/Dialogue/Character/Dex/Event/R_22_EnterDriedLake.ogg"],["Ranger22","แผ่นดินที่นี่จะไม่คิดถึงเผ่าพันธ์ของแก Voll","Audio/Dialogue/Character/Dex/Event/R_23_KillVoll.ogg"],["Ranger23","นั่นมันไม่ใช่แผ่นดินไหวธรรมดา","Audio/Dialogue/Character/Dex/Event/R_24_EnterMines_01.ogg"],["Ranger24","รู็สึกเหมือนมีบางอย่างปลุกเร้าในยามหลับ","Audio/Dialogue/Character/Dex/Event/R_25_EnterMines_02.ogg"],["Ranger25","ของขวัญจากนักสู้หญิงคนหนึ่งถึงอีกคนหนึ่ง","Audio/Dialogue/Character/Dex/Event/R_26_FreeDeshret.ogg"],["Ranger26","ภูเขาที่นี่มีปัญหายิ่งนัก","Audio/Dialogue/Character/Dex/Event/R_27_EnterMines_03.ogg"],["Ranger27","รักอย่างเดียวที่คุณมี Daresso คือตัวคุณเอง","Audio/Dialogue/Character/Dex/Event/R_28_KillDaresso.ogg"],["Ranger28","นี่ไม่ใช่ คารุยที่ฉันรู้จัก","Audio/Dialogue/Character/Dex/Event/R_29_EnterKaom.ogg"],["Ranger29","เด็กหนุ่มตัวจ้อยที่กำลังโกรธเผชิญกับโลกที่เค้าต้องแบกรับ","Audio/Dialogue/Character/Dex/Event/R_30_KillKaom.ogg"],["Ranger30","งั้นนี่คือชีวิตที่ดูเหมือนฝันร้าย","Audio/Dialogue/Character/Dex/Event/R_31_EnterBelly.ogg"],["Ranger31","ทุกอาชญากรรมต่อธรรมชาติที่สามารถจินตนาการได้","Audio/Dialogue/Character/Dex/Event/R_32_EnterHarvest.ogg"],["Ranger32","ความใจดีของคุณไม่มีค่าอะไรนอกเหนือจากแผลเป็น มาลิกาโร่","Audio/Dialogue/Character/Dex/Event/R_33_KillMaligaro.ogg"],["Ranger33","พวกเราทำลายความงามไปมากในการไล่ตามความน่ารัก","Audio/Dialogue/Character/Dex/Event/R_34_KillShavronne.ogg"],["Ranger34","ศัตรูที่ร้ายกาจที่สุดคือตัวของคุณเอง","Audio/Dialogue/Character/Dex/Event/R_35_KillDoedre.ogg"],["Ranger35","พายเอดตี้ เธอไม่น่าต่อต้านความตายเลยนะ ธรรมชาติจะจัดการเองเหมือนกับคนอื่นๆ","Audio/Dialogue/Character/Dex/Event/R_36_AfterPietyDies.ogg"],["Ranger36","คุณกำลังพาความตายมาสู่โลกที่ฉันรัก คุณคิดหรอว่าฉันจะปล่อยให้คุณและสัตว์เดรัชฉานของคุณทำแบบนี้ได้ มาลาคาย","Audio/Dialogue/Character/Dex/Event/R_37_KillMalachai.ogg"],["Ranger37","ข้ายังไม่พร้อมสำหรับสิ่งนั้น","Audio/Dialogue/Character/Dex/Gameplay/R_19a_Cooldown_01.ogg"],["Ranger38","ข้ายังไม่พร้อมสำหรับสิ่งนั้น","Audio/Dialogue/Character/Dex/Gameplay/R_19a_Cooldown_02.ogg"],["Ranger39","มานาของข้าหมด","Audio/Dialogue/Character/Dex/Gameplay/R_19b_Mana_01.ogg"],["Ranger40","มานาของข้าหมด","Audio/Dialogue/Character/Dex/Gameplay/R_19b_Mana_02.ogg"],["Ranger41","นั่นคงทำให้ข้าช้าลงก็เท่านั้น","Audio/Dialogue/Character/Dex/Gameplay/R_19c_Inventory_01.ogg"],["Ranger42","นั่นคงทำให้ข้าช้าลงก็เท่านั้น","Audio/Dialogue/Character/Dex/Gameplay/R_19c_Inventory_02.ogg"],["Ranger43","อาา..ข้ารู้สึกดีขึ้น","Audio/Dialogue/Character/Dex/Gameplay/R_19d_Flask_01.ogg"],["Ranger44","อาา..ข้ารู้สึกดีขึ้น","Audio/Dialogue/Character/Dex/Gameplay/R_19d_Flask_02.ogg"],["Ranger45","ข้าต้องแข็งแกร่งขึ้นเพื่อสิ่งนั้น","Audio/Dialogue/Character/Dex/Gameplay/R_19e_StrLow_01.ogg"],["Ranger46","ข้าต้องแข็งแกร่งขึ้นเพื่อสิ่งนั้น","Audio/Dialogue/Character/Dex/Gameplay/R_19e_StrLow_02.ogg"],["Ranger47","ข้าไม่ใช่คนโง่ แต่สิ่งนี้มันจัดการข้าได้","Audio/Dialogue/Character/Dex/Gameplay/R_19f_IntLow_01.ogg"],["Ranger48","ข้าไม่ใช่คนโง่ แต่สิ่งนี้มันจัดการข้าได้","Audio/Dialogue/Character/Dex/Gameplay/R_19f_IntLow_02.ogg"],["Ranger49","ข้าต้องฝึกการตอบสนองให้แหลมคมกว่านี้ ถึงจะใช้มันได้","Audio/Dialogue/Character/Dex/Gameplay/R_19g_DexLow_01.ogg"],["Ranger50","ข้าต้องฝึกการตอบสนองให้แหลมคมกว่านี้ ถึงจะใช้มันได้","Audio/Dialogue/Character/Dex/Gameplay/R_19g_DexLow_02.ogg"],["Ranger51","ข้ามีลางสังหรณ์ว่าจะต้องใช้สิ่งนี้","Audio/Dialogue/Character/Dex/Gameplay/R_19h_QuestItem_01.ogg"],["Ranger52","ข้ามีลางสังหรณ์ว่าจะต้องใช้สิ่งนี้","Audio/Dialogue/Character/Dex/Gameplay/R_19h_QuestItem_02.ogg"],["Ranger53","ข้าไม่รู้จะทำแบบนั้นที่นี่ทำไม","Audio/Dialogue/Character/Dex/Gameplay/R_19I_SkillsTown_01.ogg"],["Ranger54","ข้าไม่รู้จะทำแบบนั้นที่นี่ทำไม","Audio/Dialogue/Character/Dex/Gameplay/R_19I_SkillsTown_02.ogg"],["Ranger55","ความสวยงามจะงอกงามจากสิ่งที่เหลืออยู่ของเจ้า","Audio/Dialogue/Character/Dex/Gameplay/R_19J_RareKill_01.ogg"],["Ranger56","ความสวยงามจะงอกงามจากสิ่งที่เหลืออยู่ของเจ้า","Audio/Dialogue/Character/Dex/Gameplay/R_19J_RareKill_02.ogg"],["Ranger57","สิ่งมีชีวิตที่ถูกทำให้เสื่อมช่างน่าสงสาร","Audio/Dialogue/Character/Dex/Gameplay/R_19J_RareKill_03.ogg"],["Ranger58","สิ่งมีชีวิตที่ถูกทำให้เสื่อมช่างน่าสงสาร","Audio/Dialogue/Character/Dex/Gameplay/R_19J_RareKill_04.ogg"],["Ranger59","การแต่งกิ่งจะช่วยชีวิตของต้นไม้ได้","Audio/Dialogue/Character/Dex/Gameplay/R_19J_RareKill_05.ogg"],["Ranger60","การแต่งกิ่งจะช่วยชีวิตของต้นไม้ได้","Audio/Dialogue/Character/Dex/Gameplay/R_19J_RareKill_06.ogg"],["Ranger61","ข้าจะให้โลกนี้กับท่าน","Audio/Dialogue/Character/Dex/Gameplay/R_19J_RareKill_07.ogg"],["Ranger62","ข้าจะให้โลกนี้กับท่าน","Audio/Dialogue/Character/Dex/Gameplay/R_19J_RareKill_08.ogg"],["Ranger63","ข้าจะทำให้เจ้าพ้นจากความทรมาน","Audio/Dialogue/Character/Dex/Gameplay/R_19J_RareKill_09.ogg"],["Ranger64","ข้าจะทำให้เจ้าพ้นจากความทรมาน","Audio/Dialogue/Character/Dex/Gameplay/R_19J_RareKill_10.ogg"],["Ranger65","ข้าใช้ชีวิตและเรียนรู้","Audio/Dialogue/Character/Dex/Gameplay/R_20_LevelUp_01.ogg"],["Ranger66","ข้ายังหายใจอยู่ นั่นเป็นสิ่งที่ดี","Audio/Dialogue/Character/Dex/Gameplay/R_20_LevelUp_02.ogg"],["Ranger67","หนอนพวกนั้นต้องรออีกหน่อยสำหรับอาหารมื้อนี้","Audio/Dialogue/Character/Dex/Gameplay/R_20_LevelUp_03.ogg"],["Ranger68","ความเจ็บปวดนำมาซึ่งความแข็งแกร่ง นั่นคือธรรมชาติสำหรับคุณ","Audio/Dialogue/Character/Dex/Gameplay/R_20_LevelUp_04.ogg"],["Ranger69","เมื่อเหยื่อร้ายกาจขึ้น นักล่าย่อมไม่อาจดักดาน","Audio/Dialogue/Character/Dex/Gameplay/R_20_LevelUp_05.ogg"],["Ranger70","ใกล้ด้านบนสุดของห่วงโซ่อาหารไปอีกขั้น","Audio/Dialogue/Character/Dex/Gameplay/R_20_LevelUp_06.ogg"],["Ranger71","ดูเหมือนดินแดนแห่งนี้และข้าจะทำความเข้าใจกันได้แล้ว","Audio/Dialogue/Character/Dex/Gameplay/R_20_LevelUp_07.ogg"],["Ranger72","เจ้ามอบสิ่งต่างๆ ให้ข้ามากเหลือเกิน ข้าจะตอบแทนอะไรให้เจ้าได้บ้าง เรคลาสท์","Audio/Dialogue/Character/Dex/Gameplay/R_20_LevelUp_08.ogg"],["Witch1","กองทัพใหญ่ที่ประสงค์ร้าย มีพลังที่ต้อนรับข้าอยู่\r\n","Audio/Dialogue/Character/Int/Event/Witch_01.ogg"],["Witch2","ข้ายอมโดนเผาดีกว่าจะเรียกที่แบบนี้ว่าบ้าน","Audio/Dialogue/Character/Int/Event/Witch_02.ogg"],["Witch3","ไซเรนดูท่าจะกินดีอยู่ดีนะ","Audio/Dialogue/Character/Int/Event/Witch_03.ogg"],["Witch4","อากาศส่งกลิ่นอายของมนตราอบอวล ข้าคงได้เรียนรู้อะไรสักอย่างสองอย่างที่นี่","Audio/Dialogue/Character/Int/Event/Witch_04.ogg"],["Witch5","สัตว์ร้ายหม่นเศร้าในมุมมืด... ดูเหมือนพวกมันจะเศร้าโศกมาเป็นเวลานานแสนนาน","Audio/Dialogue/Character/Int/Event/Witch_05.ogg"],["Witch6","ข้าไม่รังเกียจจะดูภายในเวทมนตร์นี้เลย ข้าไม่ยอมทนทำงานบ้านหรอก","Audio/Dialogue/Character/Int/Event/Witch_06.ogg"],["Witch7","คนตายจะต้องทำงานเพื่อข้า ไม่ใช่ต่อต้านข้า","Audio/Dialogue/Character/Int/Event/Witch_08.ogg"],["Witch8","หากเจ้าเป็นผลงานของข้า เจ้าสัตว์ร้าย เจ้าจะตายง่ายแบบนี้","Audio/Dialogue/Character/Int/Event/Witch_09.ogg"],["Witch9","และนั่นคือความตายที่เหมาะสมกับเจ้า พ่อนักเดินเรือ ไม่มีอะไรครึ่งๆ กลางๆ ขอบคุณ","Audio/Dialogue/Character/Int/Event/Witch_10.ogg"],["Witch10","นังปลาน่าสมเพช! ความรักทำให้เจ้าเป็นแบบนี้","Audio/Dialogue/Character/Int/Event/Witch_11.ogg"],["Witch11","ดินแดนแห่งนี้ไม่มีที่ให้ผู้กดขี่อย่างเจ้าหรอก โอ๊ค","Audio/Dialogue/Character/Int/Event/W_09_KillOak.ogg"],["Witch12","ช่างน่าผิดหวังจริงๆ ตามปกติแล้วข้าชอบหนูนะ","Audio/Dialogue/Character/Int/Event/Witch_13.ogg"],["Witch13","เจ้าพลาดบทเรียนอันแสนมีค่าไปแล้ว น้องสาว อย่าปล่อยให้อำนาจบงการความคิด","Audio/Dialogue/Character/Int/Event/Witch_14.ogg"],["Witch14","น่าเสียดาย ข้าคิดว่าเราจะเป็นเพื่อนกันได้เสียอีก","Audio/Dialogue/Character/Int/Event/Witch_15.ogg"],["Witch15","เจ้าอยากให้ข้าถูกเผาที่โอเรียธ กราวิเชียส นั่นไม่ค่อยโสภาเท่าไรเลยนะ","Audio/Dialogue/Character/Int/Event/Witch_16.ogg"],["Witch16","ข้าชอบผลงานของเจ้านะ Piety แต่เป็นเจ้าต่างหาก ที่ข้าไม่ชอบ","Audio/Dialogue/Character/Int/Event/Witch_17.ogg"],["Witch17","ไม่มีใครหลั่งน้ำตาเพื่อเจ้าหรอก Dominus ไม่แม้แต่ดวงวิญญาณสักดวง","Audio/Dialogue/Character/Int/Event/Witch_18.ogg"],["Witch18","ช่างน่าอัศจรรย์","Audio/Dialogue/Character/Int/Event/Witch_19.ogg"],["Witch19","ขอข้าพักหายใจหน่อย","Audio/Dialogue/Character/Int/Gameplay/Witch_Com_01.ogg"],["Witch20","ข้าจำเป็นต้องใช้มานามากกว่านี้","Audio/Dialogue/Character/Int/Gameplay/Witch_Com_02.ogg"],["Witch21","ยุ่งเหยิง เกินไป แล้ว","Audio/Dialogue/Character/Int/Gameplay/Witch_Com_03.ogg"],["Witch22","อาห์ นี่สิความรื่นรมย์","Audio/Dialogue/Character/Int/Gameplay/Witch_Com_04.ogg"],["Witch23","พลังชีวิตกำลังลดลง!","Audio/Dialogue/Character/Int/Gameplay/Witch_Com_05.ogg"],["Witch24","ข้าไม่ได้บ้ากล้ามพอจะทำอะไรแบบนั้น","Audio/Dialogue/Character/Int/Gameplay/Witch_Com_06.ogg"],["Witch25","ข้าพิศวงในข้อนั้น","Audio/Dialogue/Character/Int/Gameplay/Witch_Com_07.ogg"],["Witch26","ข้าต้องอรชรกว่านี้เพื่อการนั้น","Audio/Dialogue/Character/Int/Gameplay/Witch_Com_08.ogg"],["Witch27","ไอเท็มชิ้นนี้กระซิบบอกชะตากรรม","Audio/Dialogue/Character/Int/Gameplay/Witch_Com_09.ogg"],["Witch28","นั่นก็แค่ทำให้ชีวิตมันยากขึ้นเท่านั้นเอง","Audio/Dialogue/Character/Int/Gameplay/Witch_Com_10.ogg"],["Witch29","ข้านึกว่าข้าจะตายแล้วซะอีก","Audio/Dialogue/Character/Int/Gameplay/Witch_Level_01.ogg"],["Witch30","ชีวิตคือการเรียนรู้","Audio/Dialogue/Character/Int/Gameplay/Witch_Level_02.ogg"],["Witch31","ข้าคิดว่า Wraeclast ทำสิ่งนั้นได้","Audio/Dialogue/Character/Int/Gameplay/Witch_Level_03.ogg"],["Witch32","ชะตากรรมน่ะ แสยะยิ้มฟันคมเชียว","Audio/Dialogue/Character/Int/Gameplay/Witch_Level_04.ogg"],["Witch33","ข้าแทบจำตัวเองไม่ได้","Audio/Dialogue/Character/Int/Gameplay/Witch_Level_05.ogg"],["Witch34","แผ่นดินนี้รู้ว่าอะไรจะทำตามความต้องการของข้าได้","Audio/Dialogue/Character/Int/Gameplay/Witch_Level_06.ogg"],["Witch35","ข้าไม่จำเป็นต้องใช้ความกลัวอีกต่อไป โชคชะตาดูท่าจะเป็นแบบนั้น","Audio/Dialogue/Character/Int/Gameplay/Witch_Level_07.ogg"],["Witch36","ข้าได้กลิ่นเหม็น เหมือนกับพี่สาวน้องสาวข้า...บนกองฟืน","Audio/Dialogue/Character/Int/Event/W_04b_EnterCannibalBay.ogg"],["Witch37","ยังดีที่มีชีวิตหลงเหลืออยู่ในเศษซากของทวีปนี้","Audio/Dialogue/Character/Int/Event/W_08_EnterForest.ogg"],["Witch38","Sarn เป็นเมืองที่ให้กำเหนิดแก่อาณาจักร โอ้ คุณมีอะไรให้ตอบอีกเยอะ","Audio/Dialogue/Character/Int/Event/W_14b_EnterSarn.ogg"],["Witch39","เมื่่อคุณสร้างอะไรแบบนี้ขึ้นมาการประหารจะกลายเป็นส่วนหนึ่งของชีวิต","Audio/Dialogue/Character/Int/Event/W_15b_EnterCrematorium.ogg"],["Witch40","หนุ่มลูกเรือผู้น่าสงสาร ถูกพิพากษาให้ไปตามที่ลมพัด","Audio/Dialogue/Character/Int/Event/W_16b_AfterFairgraves.ogg"],["Witch41","จงจำไว้ Dominus อะไรที่ขึ้นแล้วก็ต้องมีลง","Audio/Dialogue/Character/Int/Event/W_19b_EnterSceptre.ogg"],["Witch42","น้ำส่งกลิ่นของความเสื่อมออกมา ดูซิว่ามันมาจากใหน ","Audio/Dialogue/Character/Int/Event/W_23_EnterAqueduct.ogg"],["Witch43","ทำไมชั้นต้องมาจบที่สวยงามแบบนี้ทุกที","Audio/Dialogue/Character/Int/Event/W_24_EnterDriedLake.ogg"],["Witch44","Thaumaturgy เก่งกว่านายขึ้นเรื่อยๆใช่มั้ยล่ะ Voll","Audio/Dialogue/Character/Int/Event/W_25_KillVoll.ogg"],["Witch45","ใช่แล้ว ภูเขาน้อย ดีใจที่ได้เจอ","Audio/Dialogue/Character/Int/Event/W_26_EnterMines01.ogg"],["Witch46","ข้าว่ามันชอบข้าล่ะ","Audio/Dialogue/Character/Int/Event/W_27_EnterMines2.ogg"],["Witch47","มีดวงวิญญาณที่ถูกกักขังอยู่ในที่แห่งนี้ ข้ารู้สึกได้","Audio/Dialogue/Character/Int/Event/W_28_FreeDeshret.ogg"],["Witch48","ไม่ต้องกลัวไปภูเขาน้อย แปปเดียวก็เสร็จแล้ว","Audio/Dialogue/Character/Int/Event/W_29_EnterMines3.ogg"],["Witch49","ข้าขอโทษที่ต้องขัดจังหวะ Daresso แต่ เธอไม่ใช่ของจริง","Audio/Dialogue/Character/Int/Event/W_30_KillDaresso.ogg"],["Witch50","ข้างในหัวของราชาแห่ง Karui เป็นแบบนี้เอง หวังว่าจะไม่เป็นแบบนี้ไปซะทั้งหมดนะ","Audio/Dialogue/Character/Int/Event/W_31_EnterKaom.ogg"],["Witch51","ถ้าหัวร้อนก็ต้องเจอแบบนี้แหล่ะ Kaom","Audio/Dialogue/Character/Int/Event/W_32-KillKaom.ogg"],["Witch52","คงไม่ใช่ง่ายๆที่จะได้เดินเล่นในฝันร้ายของจริงแบบนี้ทุกวันหรอกนะ","Audio/Dialogue/Character/Int/Event/W_33_EnterBelly.ogg"],["Witch53","ข้าประเมินเจ้าต่ำไปหน่อย Piety ดีมาก! ข้าชอบความตื่นเต้น","Audio/Dialogue/Character/Int/Event/W_34_EnterHarvest.ogg"],["Witch54","ขอโทษที่พูดจาโหดร้ายนะแต่ข้าเคยเจอดีกว่านี้มาแล้ว","Audio/Dialogue/Character/Int/Event/W_35_KillMaligaro.ogg"],["Witch55","ดีนะที่จะไม่ได้เห็นผลงานของเจ้าอีกแล้วหลังจากข้าจัดการ Brutus ไป","Audio/Dialogue/Character/Int/Event/W_36_KillShav.ogg"],["Witch56","Doedre พวกเราแม่มดต้องมีมาตรฐาน","Audio/Dialogue/Character/Int/Event/W_37_KillDoedre.ogg"],["Witch57","หวังว่าเค้าไม่ได้ฟังนะ Piety มันจะสนุกขึ้นเยอะเลย","Audio/Dialogue/Character/Int/Event/W_38_AfterPiety.ogg"],["Witch58","Malachai ผู้น่าสงสาร กลัวตายจนตัวสั่นใช่มั้ยล่ะ ทั้งสองคนรู้จักกันก็ดีแล้ว ก็ไม่เลวนะที่ได้รู้จักมัน","Audio/Dialogue/Character/Int/Event/W_39_KillMalachai.ogg"],["Witch59","เมื่อชั้นพร้อมไม่ใช่ก่อนหน้านั้น","Audio/Dialogue/Character/Int/Gameplay/W_21_CoolDown_01.ogg"],["Witch60","เมื่อชั้นพร้อมไม่ใช่ก่อนหน้านั้น","Audio/Dialogue/Character/Int/Gameplay/W_21_CoolDown_02.ogg"],["Witch61","ชีวิตมันสั้น จัดการมันซะ","Audio/Dialogue/Character/Int/Gameplay/W_21_RareKill_01.ogg"],["Witch62","อ้ะ! ข้านี่ซุ่มซ่ามจริง","Audio/Dialogue/Character/Int/Gameplay/W_21_RareKill_02.ogg"],["Witch63","ตายให้หมด","Audio/Dialogue/Character/Int/Gameplay/W_21_RareKill_03.ogg"],["Witch64","ข้าชอบแกแบบนี้มากกว่า","Audio/Dialogue/Character/Int/Gameplay/W_21_RareKill_04.ogg"],["Witch65","ชีวิตมีค่ามากกว่าจะมาเสียเวลากับเจ้า","Audio/Dialogue/Character/Int/Gameplay/W_21_RareKill_05.ogg"],["Witch66","นายคือเจ้าแห่งฝันร้ายหรือไม่ฝันร้ายคือเจ้านายของเจ้า","Audio/Dialogue/Character/Int/Event/W17_EnterLunaris.ogg"],["Duelist1","ไม่ใช่ความพึงใจสูงสุดของอารีนา แต่มันเป็นเรื่องที่ต้องทำ... ในตอนนี้","Audio/Dialogue/Character/StrDex/Event/D02.ogg"],["Duelist2","ที่นี่แม้แต่คนตายยังท้าทายข้า","Audio/Dialogue/Character/StrDex/Event/D03.ogg"],["Duelist3","การสู้ในกรงน่ะ ข้าทำได้สบาย","Audio/Dialogue/Character/StrDex/Event/D04.ogg"],["Duelist4","ความสามารถเอาชนะขนาดได้ทุกครั้ง","Audio/Dialogue/Character/StrDex/Event/D05.ogg"],["Duelist5","เรายืนอยู่ที่ประตูแห่งความตาย ผู้หญิงก่อน แฟร์ดีนะ Merveil","Audio/Dialogue/Character/StrDex/Event/D06.ogg"],["Duelist6","ข้าแทบจะรู้สึกเสียใจแทนพวกหมาแห่งท้องทะเลที่ถูกพิพากษาไปแล้ว","Audio/Dialogue/Character/StrDex/Event/D07.ogg"],["Duelist7","ข้าไม่มีโอกาสประลองกับนักสู้ในตำนานได้ทุกวัน ขอบคุณมาก Fairgraves","Audio/Dialogue/Character/StrDex/Event/D08.ogg"],["Duelist8","สู้ได้ดี Oak น่าเสียดายที่เรามีแต่ต้นไม้เป็นผู้ชม","Audio/Dialogue/Character/StrDex/Event/D09.ogg"],["Duelist9","น่าสงสารที่จิตใจเจ้าไม่คล่องแคล่วเท่าดาบของเจ้าเอง เจ้าหนูสะพาน","Audio/Dialogue/Character/StrDex/Event/D10.ogg"],["Duelist10","มันคงจะยากที่จะร่ายเวทย์สินะแม่มด ในเมื่อตอนที่มีดาบเสียบอยู่ในคอหอยเจ้า","Audio/Dialogue/Character/StrDex/Event/D11.ogg"],["Duelist11","สถานที่แห่งความฝันที่เปรอะเปื้อน ข้าต้องระวังทุกก้าวเดิน","Audio/Dialogue/Character/StrDex/Event/D12.ogg"],["Duelist12","แบบนี้ไม่ดีแน่","Audio/Dialogue/Character/StrDex/Event/D13.ogg"],["Duelist13","การประลองแบบไม่เหมือนครั้งอื่น ข้าชักจะชอบ Wraeclast แล้วสิ","Audio/Dialogue/Character/StrDex/Event/D14.ogg"],["Duelist14","ข้าชอบการสู้แบบแฟร์ๆ ข้าสงสัยว่าแถวนี้จะไม่มี","Audio/Dialogue/Character/StrDex/Event/D15.ogg"],["Duelist15","ดูเหมือนว่ายังมีความรุ่งเรืองในอาณาจักรเก่าแก่อยู่","Audio/Dialogue/Character/StrDex/Event/D16.ogg"],["Duelist16","Piety ไม่อยู่บ้าน มาดูกันว่าแม่มดชั่วร้ายจะอยู่หรือเปล่า","Audio/Dialogue/Character/StrDex/Event/D17.ogg"],["Duelist17","ความตายในการต่อสู้...สิ่งเดียวที่เป็นเกียรติที่เจ้าได้ทำ Gravicius","Audio/Dialogue/Character/StrDex/Event/D18.ogg"],["Duelist18","ขอโทษทีนะคนสวยแต่ต้องมีคนจัดการกับความน่าเกลียดนี้","Audio/Dialogue/Character/StrDex/Event/D19.ogg"],["Duelist19","ปีนหอคอย ฆ่าพระราชาบ้าคลั่ง เหมือนเรื่องที่แม่เลยอ่านให้ฟัง","Audio/Dialogue/Character/StrDex/Event/D20.ogg"],["Duelist20","ความตายที่เที่ยงธรรมเพื่อแก้ไขผู้เนรเทศที่ไม่ยุติธรรม ข้าว่าเราหายกันแล้ว ท่านเทมพลาสูงสุด","Audio/Dialogue/Character/StrDex/Event/D21.ogg"],["Duelist21","การทอดน่องไปตามคลองที่สวยงาม บางช่วงเวลาบนภูเขา ไม่มีอะไรผ่อนคลายไปมากกว่านี้แล้ว","Audio/Dialogue/Character/StrDex/Event/D24.ogg"],["Duelist22","นี่สินะ...ความร้ายกาจ","Audio/Dialogue/Character/StrDex/Event/D25.ogg"],["Duelist23","Voll ดูเหมือนว่าข้าทำไปเพื่อช่วยท่าน","Audio/Dialogue/Character/StrDex/Event/D26.ogg"],["Duelist24","ไม่มีอะไรเหมือนกับการสร้างทางเข้าที่น่าตื่นตาตื่นใจ","Audio/Dialogue/Character/StrDex/Event/D27.ogg"],["Duelist25","จริงๆแล้วข้าไม่แน่ใจว่าข้าชอบเสียงนั้น","Audio/Dialogue/Character/StrDex/Event/D28.ogg"],["Duelist26","ดีใจเสมอที่ได้ช่วยหญิงสาวจากความเศร้า","Audio/Dialogue/Character/StrDex/Event/D29.ogg"],["Duelist27","ฝังไว้ให้หินกลบมากมาย ไม่น่าจะใช่วิธีจบเรื่องที่ดีเลยนะ","Audio/Dialogue/Character/StrDex/Event/D30.ogg"],["Duelist28","เห้ย ดีนะที่ได้กลับมาในอารีน่า","Audio/Dialogue/Character/StrDex/Event/D31.ogg"],["Duelist29","ชื่อเสียงของท่านจะถูกจดจำอยู่ในเพลงไปตลอดกาล Daresso ข้าสัญญา","Audio/Dialogue/Character/StrDex/Event/D32.ogg"],["Duelist30","ข้าเคยได้ยินชาว Karui กล่าวถึงเกาะแห่งความตาย บางทีอาจจะเป็นที่นี่","Audio/Dialogue/Character/StrDex/Event/D33.ogg"],["Duelist31","ดีใจที่ได้ตายอย่างนักรบเถอะ Kaom","Audio/Dialogue/Character/StrDex/Event/D34.ogg"],["Duelist32","ข้าอยู่ในตัวพวกมัน ตัวอสูรกายเอง!","Audio/Dialogue/Character/StrDex/Event/D35.ogg"],["Duelist33","มันเริ่มจะหลอนขึ้นเรื่อยๆทุกๆย่างก้าว","Audio/Dialogue/Character/StrDex/Event/D36.ogg"],["Duelist34","พักผ่อนซะ Maligaro งานของศิลปินมีค่ามากขึ้นหลังจากศิลปินตายไปแล้วเสมอ","Audio/Dialogue/Character/StrDex/Event/D37.ogg"],["Duelist35","ประจบสอพลอใช้กับข้าไม่ได้หรอกนะเจ้าหญิง","Audio/Dialogue/Character/StrDex/Event/D38.ogg"],["Duelist36","ข้าไม่ได้ยินที่เจ้าพูดเลยซักคำโดรเดร แต่แบบนั้นก็น่าจะดีแล้วล่ะ","Audio/Dialogue/Character/StrDex/Event/D39.ogg"],["Duelist37","จะให้ข้าปฏิเสธคำขอร้องสุดท้ายของท่านหญิงคงจะไม่ใช่","Audio/Dialogue/Character/StrDex/Event/D40.ogg"],["Duelist38","ความรู้สึกประหลาดหลังจากการต่อสู้จบลง ข้าชนะ ฝันร้ายจบแล้ว","Audio/Dialogue/Character/StrDex/Event/D41.ogg"],["Duelist39","ข้าว่ามันน่าจะมีประโยชน์บ้างล่ะ","Audio/Dialogue/Character/StrDex/Gameplay/D22_DestroyQuestItem_01.ogg"],["Duelist40","ข้าว่ามันน่าจะมีประโยชน์บ้างล่ะ","Audio/Dialogue/Character/StrDex/Gameplay/D22_DestroyQuestItem_02.ogg"],["Duelist41","จำเป็นต้องคล่องแคล่วกว่านี้อีกนิดถึงจะใช้ได้","Audio/Dialogue/Character/StrDex/Gameplay/D22_DexStatLow_01.ogg"],["Duelist42","จำเป็นต้องคล่องแคล่วกว่านี้อีกนิดถึงจะใช้ได้","Audio/Dialogue/Character/StrDex/Gameplay/D22_DexStatLow_02.ogg"],["Duelist43","โอ้ว ... ตรงเป้าพอดี","Audio/Dialogue/Character/StrDex/Gameplay/D22_HeathFlaskOnLow_01.ogg"],["Duelist44","โอ้ว ... ตรงเป้าพอดี","Audio/Dialogue/Character/StrDex/Gameplay/D22_HeathFlaskOnLow_02.ogg"],["Duelist45","เรื่องนี้ไม่เข้าใจจริงๆ","Audio/Dialogue/Character/StrDex/Gameplay/D22_IntStatLow_01.ogg"],["Duelist46","เรื่องนี้ไม่เข้าใจจริงๆ","Audio/Dialogue/Character/StrDex/Gameplay/D22_IntStatLow_02.ogg"],["Duelist47","ข้าเชื่อว่าการเดินทางควรใช้ของเท่าที่จำเป็น","Audio/Dialogue/Character/StrDex/Gameplay/D22_InvFull_01.ogg"],["Duelist48","ข้าเชื่อว่าการเดินทางควรใช้ของเท่าที่จำเป็น","Audio/Dialogue/Character/StrDex/Gameplay/D22_InvFull_02.ogg"],["Duelist49","ศัตรูที่คู่ควร!","Audio/Dialogue/Character/StrDex/Gameplay/D22_MonsterKillV1_01.ogg"],["Duelist50","ศัตรูที่คู่ควร!","Audio/Dialogue/Character/StrDex/Gameplay/D22_MonsterKillV1_02.ogg"],["Duelist51","ตายได้งดงาม!","Audio/Dialogue/Character/StrDex/Gameplay/D22_MonsterKillV2_01.ogg"],["Duelist52","ตายได้งดงาม!","Audio/Dialogue/Character/StrDex/Gameplay/D22_MonsterKillV2_02.ogg"],["Duelist53","เหงื่อยังไม่ทันออก!","Audio/Dialogue/Character/StrDex/Gameplay/D22_MonsterKillV3_01.ogg"],["Duelist54","เหงื่อยังไม่ทันออก!","Audio/Dialogue/Character/StrDex/Gameplay/D22_MonsterKillV3_02.ogg"],["Duelist55","ฝึกฝนเพื่อความสมบูรณ์แบบ","Audio/Dialogue/Character/StrDex/Gameplay/D22_MonsterKillV4_01.ogg"],["Duelist56","ฝึกฝนเพื่อความสมบูรณ์แบบ","Audio/Dialogue/Character/StrDex/Gameplay/D22_MonsterKillV4_02.ogg"],["Duelist57","ข้าชอบกลิ่นของชัยชนะ","Audio/Dialogue/Character/StrDex/Gameplay/D22_MonsterKillV5_01.ogg"],["Duelist58","ข้าชอบกลิ่นของชัยชนะ","Audio/Dialogue/Character/StrDex/Gameplay/D22_MonsterKillV5_02.ogg"],["Duelist59","ข้าทุ่มเทวิญญาณ","Audio/Dialogue/Character/StrDex/Gameplay/D22_OutOfMana_01.ogg"],["Duelist60","ข้าทุ่มเทวิญญาณ","Audio/Dialogue/Character/StrDex/Gameplay/D22_OutOfMana_02.ogg"],["Duelist61","ข้ายังทำไม่ได้","Audio/Dialogue/Character/StrDex/Gameplay/D22_SkillCooldown_01.ogg"],["Duelist62","ข้ายังทำไม่ได้","Audio/Dialogue/Character/StrDex/Gameplay/D22_SkillCooldown_02.ogg"],["Duelist63","ข้าต้องมีพลังมากกว่านี้","Audio/Dialogue/Character/StrDex/Gameplay/D22_StrStatLow_01.ogg"],["Duelist64","ข้าต้องมีพลังมากกว่านี้","Audio/Dialogue/Character/StrDex/Gameplay/D22_StrStatLow_02.ogg"],["Duelist65","เวลาสำหรับเรื่องนั้นใกล้เข้ามาแล้ว","Audio/Dialogue/Character/StrDex/Gameplay/D22_UseSkillInTown_01.ogg"],["Duelist66","เวลาสำหรับเรื่องนั้นใกล้เข้ามาแล้ว","Audio/Dialogue/Character/StrDex/Gameplay/D22_UseSkillInTown_02.ogg"],["Duelist67","ดีนะที่ยังไม่ถึงเวลาตาย","Audio/Dialogue/Character/StrDex/Gameplay/D23_LevelUp_01.ogg"],["Duelist68","พื้นที่แถวนี้น่าจะเข้ากับข้าได้ดี","Audio/Dialogue/Character/StrDex/Gameplay/D23_LevelUp_02.ogg"],["Duelist69","ไม่มีที่ใหนเหมาะกับการฝึกฝนเท่า Wraeclast อีกแล้ว","Audio/Dialogue/Character/StrDex/Gameplay/D23_LevelUp_03.ogg"],["Duelist70","แฟนๆ ของข้าในโอเรียธคงแทบจำข้าไม่ได้","Audio/Dialogue/Character/StrDex/Gameplay/D23_LevelUp_04.ogg"],["Duelist71","ข้าเริ่มจะเชื่อว่ามีอะไรในชีวิตมากกว่ารางวัลและความพ่ายแพ้","Audio/Dialogue/Character/StrDex/Gameplay/D23_LevelUp_05.ogg"],["Duelist72","ข้าว่าข้าจะทำให้ดาเรสโซ่ผู้ยิ่งใหญ่ได้เจอความท้าทายซักหน่อย","Audio/Dialogue/Character/StrDex/Gameplay/D23_LevelUp_06.ogg"],["Duelist73","ถึงเวลาต้องกลับบ้านแล้ว ข้ารู้สึกว่าเวลาของข้าใกล้เข้ามาทุกที","Audio/Dialogue/Character/StrDex/Gameplay/D23_LevelUp_07.ogg"],["Shadow1","ที่นี่เหมือนกับโรงละคร Theopolis Prison ดูไม่ค่อยเหมือนเดิมเท่าไร","Audio/Dialogue/Character/DexInt/Event/Shadow_02.ogg"],["Shadow2","ส่วนมากข้าจะสร้างผีมากกว่า ใครๆก็คงจะยุ่ง","Audio/Dialogue/Character/DexInt/Event/Shadow_03.ogg"],["Shadow3","ข้าเคยเจอสถานที่แย่ๆและมืดมนมาเยอะ แต่นี่มันยิ่งกว่า","Audio/Dialogue/Character/DexInt/Event/Shadow_04.ogg"],["Shadow4","มันบอกว่าให้ข้ามองชีวิตและความตายไม่ต่างกัน ถ้าข้าตายไปข้าจะขุ่นเคืองกับที่นี่","Audio/Dialogue/Character/DexInt/Event/Shadow_05.ogg"],["Shadow5","ที่นี่ไม่มีอะไรเปลี่ยนไปเลยแม้แต่น้อย ใครบางคนดูจะว่างมากเป็นพิเศษ","Audio/Dialogue/Character/DexInt/Event/Shadow_06.ogg"],["Shadow6","เคยทำขวดนมหกไปทีนึง ที่นี่ทำให้รู้สึกยังงั้นเลย","Audio/Dialogue/Character/DexInt/Event/Shadow_07.ogg"],["Shadow7","\"ใหญ่\" ก็แค่หมายความว่า \"มีที่ให้เสียบดาบ\" เยอะขึ้น","Audio/Dialogue/Character/DexInt/Event/Shadow_08.ogg"],["Shadow8","เสียใจด้วยนะ Fairgraves ตายครั้งที่สองคงไม่สนุกเท่าไร","Audio/Dialogue/Character/DexInt/Event/Shadow_09.ogg"],["Shadow9","ได้เต้นกับสาวผู้เพียบพร้อมครั้งแรก น่าสงสารเธอปล่อยตัวแบบนั้น","Audio/Dialogue/Character/DexInt/Event/Shadow_10.ogg"],["Shadow10","นั่นคือสิ่งที่นายจะได้รับเมื่อเอาไม้มาสู้กับมีด","Audio/Dialogue/Character/DexInt/Event/Shadow_11.ogg"],["Shadow11","การฟาดฟันด้วยดาบอันสวยงาม จริงๆแล้วแค่เสียบได้ซักทีก็พอแล้ว","Audio/Dialogue/Character/DexInt/Event/Shadow_12.ogg"],["Shadow12","พื้้นดินช่วยอะไรเธอรึเปล่าที่รัก ดูเหมือนจะกระแทกพื้นแรงอยู่นะ","Audio/Dialogue/Character/DexInt/Event/Shadow_13.ogg"],["Shadow13","ข้าชอบความมืดพอๆกับการลอบสังหาร แต่นั้นมันอาจจะเกินไปหน่อย","Audio/Dialogue/Character/DexInt/Event/Shadow_14.ogg"],["Shadow14","ไม่ใช่ว่าข้าสังหารแกไปแล้วที่ Oriath หรอกหรอ ช่วงนี้เงินมาช้า ความยุติธรรมไปใหนซะหมด","Audio/Dialogue/Character/DexInt/Event/Shadow_15.ogg"],["Shadow15","ข้าไม่เอางานมาปนกับเรื่องส่วนตัว แต่ว่า Piety ข้าพอใจมากที่จะยกเว้นเจ้าซักคน","Audio/Dialogue/Character/DexInt/Event/Shadow_16.ogg"],["Shadow16","น่าตลกนะท่าน ข้าคิดว่าท่านจะสูงกว่านี้ซะอีก","Audio/Dialogue/Character/DexInt/Event/Shadow_17.ogg"],["Shadow17","ไม่มีอะไรดีเท่าการล้วงกระเป๋าแบบรวดเร็วยามเช้า ข้าเล่าถึงใหนละนะ","Audio/Dialogue/Character/DexInt/Event/Shadow_01.ogg"],["Shadow18","เงานี้ชักจะไม่เพียงพอแล้วสิ","Audio/Dialogue/Character/DexInt/Event/Shadow_18.ogg"],["Shadow19","มานาเหลือน้อย","Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Com_01.ogg"],["Shadow20","กระเป๋าเพิ่มน่าจะดี","Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Com_02.ogg"],["Shadow21","แบบนั้นแหล่ะ รู้สึกยอดเยี่ยม","Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Com_04.ogg"],["Shadow22","ข้ายังแข็งแกร่งไม่พอ","Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Com_05.ogg"],["Shadow23","ข้ายังฉลาดไม่พอ","Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Com_06.ogg"],["Shadow24","วุ่นวายเกินไป แม้แต่สำหรับข้าเอง","Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Com_07.ogg"],["Shadow25","ข้าควรเก็บมันไว้ก่อน","Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Com_08.ogg"],["Shadow26","ข้ายังไม่ควรทำในตอนนี้","Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Com_09.ogg"],["Shadow27","ดีนะที่ยังไม่ตาย","Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Level_01.ogg"],["Shadow28","ข้าประทับใจสุดๆ ที่นี่อยากให้ข้าตายจริงจัง","Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Level_02.ogg"],["Shadow29","ทุกครั้งที่ผ่านความตาย ชีวิตค่อยๆมีค่าขึ้น","Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Level_03.ogg"],["Shadow30","ข้าเก่งเกินไปจนตัวข้าเองยังกลัว","Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Level_04.ogg"],["Shadow31","ข้าคือคนทำสวน จัดการพวกวัชพืชเพื่อให้พร้อมต่อการเพาะปลูก","Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Level_05.ogg"],["Shadow32","มองย้อนกลับไปก็ไม่มีประโยชน์ แค่ตาย ... ตายเยอะมาก","Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Level_06.ogg"],["Shadow33","ข้าจะสงสัยในสิ่งที่ข้าจะเป็นถ้ามันจำเป็น ข้าไม่สงสัยหรอก","Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Level_07.ogg"],["Shadow34","พวก Fairgraves ที่น่าสงสาร แผนการพวกแกมันจบไม่สวยสินะ","Audio/Dialogue/Character/DexInt/Event/SH_AfterFairgraves.ogg"],["Shadow35","นี่สิสัญญาแบบที่ข้าจะดีใจมากที่ได้ทำตามสัญญา","Audio/Dialogue/Character/DexInt/Event/SH_AfterPiety.ogg"],["Shadow36","ผืนน้ำขนาดนี้แต่ไม่เห็นมีเรือซักลำ เดินเยอะก็ฆ่าเยอะสำหรับข้าละกัน","Audio/Dialogue/Character/DexInt/Event/SH_EnterAqueduct_01.ogg"],["Shadow37","สัตว์ร้ายนี่เหลือเชื่อจริงๆ ข้าเกือบจะรู้สึกเสียดายที่ต้องฆ่ามัน","Audio/Dialogue/Character/DexInt/Event/SH_EnterBeast.ogg"],["Shadow38","ข้าอยู่ในป้อมปราการ Blackguard เหมือนหมาป่าในเล้าไก่","Audio/Dialogue/Character/DexInt/Event/SH_EnterBlackguard.ogg"],["Shadow39","เตาหลอมที่โรงเชือด ที่นี่มันส่งกลิ่นแบบนั้น","Audio/Dialogue/Character/DexInt/Event/SH_EnterCoast.ogg"],["Shadow40","ป่า ความตายมีที่ให้ซ่อนเยอะมากในป่า","Audio/Dialogue/Character/DexInt/Event/SH_EnterForest.ogg"],["Shadow41","ชั้นกำลังร่วมมือกับ Piety ยิ่งพูดออกมายิ่งแปลก","Audio/Dialogue/Character/DexInt/Event/SH_EnterHarvest.ogg"],["Shadow42","ชั้นเคยเสียเวลามากว่า 3 วัน เพียงเพราะแค่ความหลงลืม รู้สึกเหมือนที่นี่เลย","Audio/Dialogue/Character/DexInt/Event/SH_EnterLunaris.ogg"],["Shadow43","กลืนกินโดยความมืด รู้สึกเหมือนจะอาหารไม่ย่อยนะ","Audio/Dialogue/Character/DexInt/Event/SH_EnterMines1.ogg"],["Shadow44","ใครหรืออะไรบางอย่างทำให้ยุ่งอยู่ในภูเขานี้","Audio/Dialogue/Character/DexInt/Event/SH_EnterMines2.ogg"],["Shadow45","หวังว่าลำไส้ท้องผูกจะไม่ปล่อยอะไรออกไปตอนชั้นยังอยู่ในนี้นะ","Audio/Dialogue/Character/DexInt/Event/SH_EnterMines3.ogg"],["Shadow46","อ้า! รู้สึกดีที่ได้กลับมาในเมืองอีก","Audio/Dialogue/Character/DexInt/Event/SH_EnterSarn.ogg"],["Shadow47","ใครก็ตามที่สร้างสิ่งนี้ต้องพยายามชดเชยบางอย่างที่ขาดหายไปแน่ๆ","Audio/Dialogue/Character/DexInt/Event/SH_EnterScepter.ogg"],["Shadow48","มันรู้สึกสบายเสมอเมื่อได้เป็นสักขีพยานการตายอย่างถาวร","Audio/Dialogue/Character/DexInt/Event/SH_FreeDeshret.ogg"],["Shadow49","โอ้, ท่านร้องเพลงเพื่อผมด้วยได้มั้ย Merveil อะไรที่สนุกๆได้มั้ย","Audio/Dialogue/Character/DexInt/Event/SH_KillDaresso.ogg"],["Shadow50","อยุดพึมพำซะที","Audio/Dialogue/Character/DexInt/Event/SH_KillDoedre.ogg"],["Shadow51","ฆ่าคนที่ตายไปแล้วได้หรอ","Audio/Dialogue/Character/DexInt/Event/SH_KillFirstZombie.ogg"],["Shadow52","เจ้าเข้าใจผิด Malachai ความตายคือแค่สิ่งเดียวที่ทำให้ชีวิตมีค่า","Audio/Dialogue/Character/DexInt/Event/SH_KillMalachai.ogg"],["Shadow53","ข้าไม่รู้เรื่องศิลปะดีเท่าไรแต่ข้ารู้ว่าข้าต้องการอะไร","Audio/Dialogue/Character/DexInt/Event/SH_KillMaligaro.ogg"],["Shadow54","สำหรับคนที่คลั่งไคล้เรื่องหน้าตา นั่นมันตายไม่ค่อยสวย","Audio/Dialogue/Character/DexInt/Event/SH_KillShavronne.ogg"],["Shadow55","ข้าเพิ่งสังหารราชา ขนนกใหญ่ขนาดนั้น ข้าคงต้องใช้หมวกใหญ่กว่านี้","Audio/Dialogue/Character/DexInt/Event/SH_KillVoll.ogg"],["Shadow56","ขอเวลาหายใจหน่อย","Audio/Dialogue/Character/DexInt/Gameplay/SH_Cooldown_01.ogg"],["Shadow57","ขอเวลาหายใจหน่อย","Audio/Dialogue/Character/DexInt/Gameplay/SH_Cooldown_02.ogg"],["Shadow58","ขอเวลาหายใจหน่อย","Audio/Dialogue/Character/DexInt/Gameplay/SH_Cooldown_03.ogg"],["Shadow59","นั่นมันน่าพอใจมาก","Audio/Dialogue/Character/DexInt/Gameplay/SH_MonsterKill_01a.ogg"],["Shadow60","นั่นมันน่าพอใจมาก","Audio/Dialogue/Character/DexInt/Gameplay/SH_MonsterKill_01b.ogg"],["Shadow61","นักฆ่าไม่เท่าเทียมกันไปทั้งหมด","Audio/Dialogue/Character/DexInt/Gameplay/SH_MonsterKill_02a.ogg"],["Shadow62","นักฆ่าไม่เท่าเทียมกันไปทั้งหมด","Audio/Dialogue/Character/DexInt/Gameplay/SH_MonsterKill_02b.ogg"],["Shadow63","สนุกจริง","Audio/Dialogue/Character/DexInt/Gameplay/SH_MonsterKill_03a.ogg"],["Shadow64","สนุกจริง","Audio/Dialogue/Character/DexInt/Gameplay/SH_MonsterKill_03b.ogg"],["Shadow65","แกล้งตาย หมาน้อย","Audio/Dialogue/Character/DexInt/Gameplay/SH_MonsterKill_04.ogg"],["Shadow66","คิดว่าความตายเหมือนกับวันอยุดสิ Kaom เวลาพักผ่อน เอาเท้าขึ้นมา","Audio/Dialogue/Character/DexInt/Event/SH_KillKaom.ogg"],["Shadow67","ตลกแห้งยังกะห้องดับจิต","Audio/Dialogue/Character/DexInt/Event/SH_EnterLake.ogg"],["Shadow68","ที่อะไรขยะแขยงชะมัด","Audio/Dialogue/Character/DexInt/Event/SH_EnterKaom.ogg"],["Templar1","ฝันร้ายของชั้น...มันคือคำทำนาย","Audio/Dialogue/Character/StrInt/Event/Templar_01.ogg"],["Templar2","ในกรงนี้ปีศาจกำลังคลานอยู่บนลูกกรง หอนเรียกอิสระ","Audio/Dialogue/Character/StrInt/Event/Templar_02.ogg"],["Templar3","ห้องดับจิตสำหรับเด็กหลง ถูกซ่อนจากสายตาของผู้เป็นพ่อ","Audio/Dialogue/Character/StrInt/Event/Templar_03.ogg"],["Templar4","รังของนักทำของเล่น ด้วยการร้องเรียกพระเจ้า","Audio/Dialogue/Character/StrInt/Event/Templar_04.ogg"],["Templar5","ชีวิตอยู่มือขวา ความตายอยู่มือซ้าย และผู้ตกผ่านนิ้วของพระเจ้า","Audio/Dialogue/Character/StrInt/Event/Templar_05.ogg"],["Templar6","บางอย่างชั่วนิรันยังอยู่ที่อาณาจักรนี้ คำถามคือได้อย่างไร","Audio/Dialogue/Character/StrInt/Event/Templar_06.ogg"],["Templar7","และแล้ว ชั้นเดินก้าวแรกสู่การเกิดใหม่","Audio/Dialogue/Character/StrInt/Event/Templar_07.ogg"],["Templar8","แม้แต่ความตายก็ไม่ปลอบใจในดินแดนที่ทรมานนี้","Audio/Dialogue/Character/StrInt/Event/Templar_08.ogg"],["Templar9","พักผ่อนซะ วิญญาณผู้ถูกทำให้ทรมาน","Audio/Dialogue/Character/StrInt/Event/Templar_09.ogg"],["Templar10","หญิงผู้ถูกทำให้เสื่อมเกินกว่าความเป็นมนุษย์ ข้าต้องรักษาโรคร้ายเหล่านี้ก่อนจะทำให้การสร้างของพระเจ้าเจ็บป่วยไปหมด","Audio/Dialogue/Character/StrInt/Event/Templar_10.ogg"],["Templar11","แกกล้าพูดถึงความสงบหรือ พวกยนอกกฎหมาย นั่นไงความสงบที่คำโกหกทำให้แก","Audio/Dialogue/Character/StrInt/Event/Templar_11.ogg"],["Templar12","แกไม่เป็นเจ้าของอะไรทั้งนั้น โจร ไม่แม้แต่ชีวิตที่แกเสียไปกับเจตนาร้ายและความโลภ","Audio/Dialogue/Character/StrInt/Event/Templar_12.ogg"],["Templar13","เจ้าได้รับพระพร บุตรสาวของพระเจ้า พระองค์จะแสดงให้เห็นว่ามิตรภาพที่แท้นั้นเป็นเช่นไร","Audio/Dialogue/Character/StrInt/Event/Templar_13.ogg"],["Templar14","กลับไปในที่ของเจ้าเสีย ฝันร้าย! ความศรัทธาไม่จำเป็นต้องกลัวเผ่าพันธุ์ของเจ้า","Audio/Dialogue/Character/StrInt/Event/Templar_14.ogg"],["Templar15","เจ้าเลือกเส้นทางแล้ว เพื่อนเก่า ซึ่งพระเจ้าทรงวางข้าไว้ที่ปลายเส้นทางนั้น","Audio/Dialogue/Character/StrInt/Event/Templar_15.ogg"],["Templar16","พักผ่อนเสีย ในขณะที่เจ้ายังทำได้ นายหญิงแห่งความทุกข์ คำพิพากษาของพระองค์คงไม่ปรานีเจ้าแน่","Audio/Dialogue/Character/StrInt/Event/Templar_16.ogg"],["Templar17","การเนรเทศข้าทำให้เจ้ากลายเป็นต้นกำเนิดของข้า Dominus และในตอนนี้ ข้ายืนอยู่ที่นี่โดยมีระยะทางและการฆ่าฟันนับไม่ถ้วนอยู่เบื้องหลัง เป็นเกียรติอย่างยิ่งที่จะได้ชำระบาปของเจ้า!","Audio/Dialogue/Character/StrInt/Event/Templar_17.ogg"],["Templar18","ข้าขอวิงวอนต่อพระองค์ พระผู้เป็นเจ้า ช่วยให้ข้าเป็นผู้นำโลกแห่งนี้กลับสู่แสงสว่างด้วยเถิด","Audio/Dialogue/Character/StrInt/Event/Templar_18.ogg"],["Templar19","มานาถูกใช้ไปแล้ว","Audio/Dialogue/Character/StrInt/Gameplay/Templar_Com_01.ogg"],["Templar20","ข้าไม่ใช่สัตว์ที่เป็นภาระ","Audio/Dialogue/Character/StrInt/Gameplay/Templar_Com_02.ogg"],["Templar21","ค่อยยังชั่ว","Audio/Dialogue/Character/StrInt/Gameplay/Templar_Com_04.ogg"],["Templar22","ไปกับพระเจ้า","Audio/Dialogue/Character/StrInt/Gameplay/Templar_Com_05.ogg"],["Templar23","ข้ายังไม่มีกล้ามเนื้อพอจะใช้สิ่งนี้ได้","Audio/Dialogue/Character/StrInt/Gameplay/Templar_Com_06.ogg"],["Templar24","ตอนนี้ข้างงกับสิ่งนี้","Audio/Dialogue/Character/StrInt/Gameplay/Templar_Com_07.ogg"],["Templar25","ข้าต้องเบากว่านี้จะใช้ได้","Audio/Dialogue/Character/StrInt/Gameplay/Templar_Com_08.ogg"],["Templar26","ไม่น่าถูกที่จะทำลายสิ่งนี้","Audio/Dialogue/Character/StrInt/Gameplay/Templar_Com_09.ogg"],["Templar27","นี่มันไม่ใช่เวลาหรือสถานที่","Audio/Dialogue/Character/StrInt/Gameplay/Templar_Com_10.ogg"],["Templar28","มันดูเหมือนว่าพระเจ้าไม่มีความต้องการให้ข้าอยู่เป็นเพื่อนตอนนี้","Audio/Dialogue/Character/StrInt/Gameplay/Templar_Level_01.ogg"],["Templar29","การร้องขอได้รับการตอบรับ","Audio/Dialogue/Character/StrInt/Gameplay/Templar_Level_02.ogg"],["Templar30","ทางเดินชัดขึ้นในทุกก้าวเลือด","Audio/Dialogue/Character/StrInt/Gameplay/Templar_Level_03.ogg"],["Templar31","ข้ารับใช้ของท่านขอบคุณท่าน","Audio/Dialogue/Character/StrInt/Gameplay/Templar_Level_04.ogg"],["Templar32","ความไว้ใจคือสิ่งเดียวที่ข้าต้องการพระเจ้าแห่งแสงของข้า","Audio/Dialogue/Character/StrInt/Gameplay/Templar_Level_05.ogg"],["Templar33","รัตติกาลจำต้องยอมถอยให้กลางวัน","Audio/Dialogue/Character/StrInt/Gameplay/Templar_Level_06.ogg"],["Templar34","ข้าเกิดบนแผ่นดินนี้ถูกนำมาที่งานนี้ ข้าจะเจิดจรัส","Audio/Dialogue/Character/StrInt/Gameplay/Templar_Level_07.ogg"],["Templar35","ยิ่งวิ่งหนีจากพระเจ้านานแค่ใหน Fairgraves เจ้ายิ่งบาป","Audio/Dialogue/Character/StrInt/Event/Tmpl_AfterFairgraves2.ogg"],["Templar36","ขอให้น้ำล้างบาปของข้าและทำให้ข้าได้เกิดใหม่ในฐานะบุตรของพระเจ้า","Audio/Dialogue/Character/StrInt/Event/Tmpl_Aqueduct.ogg"],["Templar37","พระเจ้าให้อภัยลูกด้วย เราต้องเรียนรู้ที่จะไม่ใช้อำนาจของท่านผู้สร้าง","Audio/Dialogue/Character/StrInt/Event/Tmpl_DriedLake.ogg"],["Templar38","ป่านี้มันช่างบิดเบี้ยว หวังว่าจะไม่สายเกินแก้นะ","Audio/Dialogue/Character/StrInt/Event/Tmpl_EnterAct2.ogg"],["Templar39","นี่มันไม่ใช่การสร้างแต่คือความวิปริต","Audio/Dialogue/Character/StrInt/Event/Tmpl_EnterBelly.ogg"],["Templar40","นั่นมัันกลิ่นอะไรนะ","Audio/Dialogue/Character/StrInt/Event/Tmpl_EnterCanibalBay.ogg"],["Templar41","ข้าจะล้างความสกปรกออกไปจากบ้านของพระเจ้า","Audio/Dialogue/Character/StrInt/Event/Tmpl_EnterCatacombs.ogg"],["Templar42","บ้านแห่งความศรัทธา กลายเป็นการดูหมิ่น","Audio/Dialogue/Character/StrInt/Event/Tmpl_EnterFelShrine.ogg"],["Templar43","Piety พระเจ้า ข้ามั่นใจว่าเจ้าจะเปิดเผยจุดประสงค์ของเจ้าในเวลานึง","Audio/Dialogue/Character/StrInt/Event/Tmpl_EnterHarvest.ogg"],["Templar44","กลิ่นของลมที่นี่เต็มไปด้วยความโกรธ","Audio/Dialogue/Character/StrInt/Event/Tmpl_EnterKaom.ogg"],["Templar45","ผืนดินสั่นสะเทือนด้วยความกลัวการตัดสิน","Audio/Dialogue/Character/StrInt/Event/Tmpl_EnterMines1.ogg"],["Templar46","ความเสื่อมกัดกินรากของภูเขานี้","Audio/Dialogue/Character/StrInt/Event/Tmpl_EnterMines2.ogg"],["Templar47","แผ่นดินนี้โยกอยู่บนหายนะ","Audio/Dialogue/Character/StrInt/Event/Tmpl_EnterMines3.ogg"],["Templar48","Sarn เป็นถิ่นกำเหนิดของเหล่า Templar เหมาะที่จะทำอะไรให้ถูก","Audio/Dialogue/Character/StrInt/Event/Tmpl_EnterSarn.ogg"],["Templar49","หินทุกก้อนถูกวางสำหรับความยิ่งใหญ่ของพระเจ้า สวยงามมาก","Audio/Dialogue/Character/StrInt/Event/Tmpl_EnterScepter.ogg"],["Templar50","ไม่มีวิญญาณใดที่ควรทรมานเท่าเจ้า Deshret","Audio/Dialogue/Character/StrInt/Event/Tmpl_FreeDeshret.ogg"],["Templar51","เราให้เกียรตินักสู้ที่จากไปมากกว่าตอนที่พวกเค้ายังอยู่ซะอีก","Audio/Dialogue/Character/StrInt/Event/Tmpl_KillDaresso.ogg"],["Templar52","โอบกอดความตาย Doedre กายของเจ้ากลับคืนมาไม่ได้","Audio/Dialogue/Character/StrInt/Event/Tmpl_KillDoedre.ogg"],["Templar53","ความยั่วยุเปลี่ยนได้แม้กระทั่งผู้สูงศักดิ์ ข้าควรระวัง","Audio/Dialogue/Character/StrInt/Event/Tmpl_KillFairgraves.ogg"],["Templar54","วิธีของนายทำให้เกิดการวาปแช่ง Kaom หาทางอื่น","Audio/Dialogue/Character/StrInt/Event/Tmpl_KillKaom.ogg"],["Templar55","เจ้าสู้มาตลอดชีวิต Malachai เมื่อมันมีสิ่งหนึ่งที่ทำให้เจ้าเป็นนิรันดรอย่างแท้จริง","Audio/Dialogue/Character/StrInt/Event/Tmpl_KillMalachai.ogg"],["Templar56","พรสวรรค์ที่พระเจ้าประทานให้เจ้าใช้อย่างสิ้นเปลือง Maligaro","Audio/Dialogue/Character/StrInt/Event/Tmpl_KillMaligaro.ogg"],["Templar57","ไม่จำเป็น Piety แค่ไปและดูด้วยตาเจ้าเอง","Audio/Dialogue/Character/StrInt/Event/Tmpl_KillPiety.ogg"],["Templar58","นายถูกจองจำด้วยความความหยิ่งยะโสของนายเอง Shavronne","Audio/Dialogue/Character/StrInt/Event/Tmpl_KillShav.ogg"],["Templar59","นายเป็นอิสระแล้ว Voll ไปกับพระเจ้า","Audio/Dialogue/Character/StrInt/Event/Tmpl_KillVoll.ogg"],["Templar60","ไปกับพระเจ้า","Audio/Dialogue/Character/StrInt/Gameplay/Tmpl_KillRare_01.ogg"],["Templar61","ไปกับพระเจ้า","Audio/Dialogue/Character/StrInt/Gameplay/Tmpl_KillRare_02.ogg"],["Templar62","ความตายต่อบาป","Audio/Dialogue/Character/StrInt/Gameplay/Tmpl_KillRare_03.ogg"],["Templar63","ความตายต่อบาป","Audio/Dialogue/Character/StrInt/Gameplay/Tmpl_KillRare_04.ogg"],["Templar64","ความบริสุทธิ์จะชนะ","Audio/Dialogue/Character/StrInt/Gameplay/Tmpl_KillRare_05.ogg"],["Templar65","ความบริสุทธิ์จะชนะ","Audio/Dialogue/Character/StrInt/Gameplay/Tmpl_KillRare_06.ogg"],["Templar66","ความเสื่อมจะแพ้","Audio/Dialogue/Character/StrInt/Gameplay/Tmpl_KillRare_07.ogg"],["Templar67","ความเสื่อมจะแพ้","Audio/Dialogue/Character/StrInt/Gameplay/Tmpl_KillRare_08.ogg"],["Templar68","คำสาปแช่งจะอยู่กับแก","Audio/Dialogue/Character/StrInt/Gameplay/Tmpl_KillRare_09.ogg"],["Templar69","คำสาปแช่งจะอยู่กับแก","Audio/Dialogue/Character/StrInt/Gameplay/Tmpl_KillRare_10.ogg"],["Templar70","ข้าต้องใช้เวลาเพื่อรวบรวบความมุ่งมั่น","Audio/Dialogue/Character/StrInt/Gameplay/Tmpl_SkillonCool.ogg"],["Scion1","ทำไมเจ้าไม่สังหารพวกข้าให้จบเรื่องไปล่ะ Dominus","Audio/Dialogue/Character/StrDexInt/Event/Sc_01_GetUp.ogg"],["Scion2","จริงที่คนตายยังเดินได้ที่ Wraeclast","Audio/Dialogue/Character/StrDexInt/Event/Sc_02_KillZombie.ogg"],["Scion3","ข้ายังไม่เข้าร่วมกับพวกแกวันนี้ คนตาย","Audio/Dialogue/Character/StrDexInt/Event/Sc_03_KillHillock.ogg"],["Scion4","ตัวเลือกง่ายๆคือ ฆ่าหรือถูกกิน","Audio/Dialogue/Character/StrDexInt/Event/Sc_04_EnterCannibalBay.ogg"],["Scion5","จาก Oriath สู่ Axiom คุกนึงไปยังอีกคุกนึง","Audio/Dialogue/Character/StrDexInt/Event/Sc_05_EnterPrison.ogg"],["Scion6","ท่านทำให้ข้านึกถึงสามีของข้า","Audio/Dialogue/Character/StrDexInt/Event/Sc_06_KillBrutus.ogg"],["Scion7","กำแพงระหว่างความเป็นความตายกำลังสั่นคลอน","Audio/Dialogue/Character/StrDexInt/Event/Sc_07_EnterShipGraveyard.ogg"],["Scion8","การออกจากั่งจบแล้วกับตัน","Audio/Dialogue/Character/StrDexInt/Event/Sc_08_KillFairgraves.ogg"],["Scion9","ทำไมพวกมนุษย์ต้องเปลี่ยนให้เรากลายเป็นมอนสเตอร์","Audio/Dialogue/Character/StrDexInt/Event/Sc_09_KillMerveil.ogg"],["Scion10","ความป่าเถื่อนอยู่รอบตัวเรา","Audio/Dialogue/Character/StrDexInt/Event/Sc_10_EnterSouthForest.ogg"],["Scion11","เหล่าบุรุษที่นี่ควรจะฟังเสียงหัวใจของพวกเขา เพราะจิตของพวกเขาไม่ใช่ของตัวเอง","Audio/Dialogue/Character/StrDexInt/Event/Sc_11_EnterCOS.ogg"],["Scion12","บางคนต้องจัดการการทดลองที่โหดร้ายพวกนี้","Audio/Dialogue/Character/StrDexInt/Event/Sc_12_KillFidelitas.ogg"],["Scion13","หลังจากที่พื้นดินนี้เปลี่ยนไป พวกแกยังทำให้มันเลวร้ายลงได้อีก","Audio/Dialogue/Character/StrDexInt/Event/Sc_13_KillKraityn.ogg"],["Scion14","ผู้หญิงอย่างแกทำให้พวกเราเสียชื่อ","Audio/Dialogue/Character/StrDexInt/Event/Sc_14_KillAlira.ogg"],["Scion15","นี่แหล่ะคือสันติของแก Oak แบบที่ใครๆก็คาดหวังใน Wraeclast","Audio/Dialogue/Character/StrDexInt/Event/Sc_15_KillOak.ogg"],["Scion16","พระเจ้าไม่นะ ถ้ามีวิธีทำให้มันถูกต้องชั้นจะหามันให้เจอ","Audio/Dialogue/Character/StrDexInt/Event/Sc_16_ReleaseDarkness.ogg"],["Scion17","อย่างน้อยที่สุดที่เราทำได้ในชีวิตคือการดูแลตัวเองให้ดี","Audio/Dialogue/Character/StrDexInt/Event/Sc_17_KillVaalOversoul.ogg"],["Scion18","เมือง Sarn ที่ซึ่งราชาครอบครองและตาย เช่นเดียวกับทุกคน","Audio/Dialogue/Character/StrDexInt/Event/Sc_18_EnterSarn.ogg"],["Scion19","คุณถูกจำแค่ความผิดพลาดที่คุณทิ้งไว้เท่านั้น","Audio/Dialogue/Character/StrDexInt/Event/Sc_19_EnterSewer.ogg"],["Scion20","ถ้าข้าปล่อยให้มันเกิดขึ้นเอง ชาว Wraeclast คงกลายเป็นแบบนี้หมด","Audio/Dialogue/Character/StrDexInt/Event/Sc_20_SeenUndyingSphincter.ogg"],["Scion21","ดูเหมือนว่าแม้แต่เวลาก็แพ้ความตั้งใจที่ Wraeclast","Audio/Dialogue/Character/StrDexInt/Event/Sc_21_EnterSolaris.ogg"],["Scion22","คนอย่างแกจะใช้ผู้สืบทอดของ Wraeclast","Audio/Dialogue/Character/StrDexInt/Event/Sc_22_KillGravicius.ogg"],["Scion23","ข้ารู้จักผู้หญิงคนเดียวที่ทำเรื่องการทุจริตแบบนี้ได้ Piety","Audio/Dialogue/Character/StrDexInt/Event/Sc_23_EnterLunaris.ogg"],["Scion24","เจ้าควรตายซักพันครั้งกับสิ่งที่ได้ทำไป","Audio/Dialogue/Character/StrDexInt/Event/Sc_24_KillPiety.ogg"],["Scion25","หอคอยนี้บอกได้เป็นอย่างดีว่าความภูมิใจทำลายอาณาจักร Eternal","Audio/Dialogue/Character/StrDexInt/Event/Sc_25_EnterSceptre.ogg"],["Scion26","ข้าชอบวิวจากตรงที่ข้ายืนมากกว่า Dominus","Audio/Dialogue/Character/StrDexInt/Event/Sc_26_KillDominus.ogg"],["Scion27","ข้าได้ฆ่าหุ่นเชิด ตอนนี้ถึงเวลาตามเส้นด้ายไปหาหัวหน้าของมัน","Audio/Dialogue/Character/StrDexInt/Event/Sc_27_EnterAqueduct.ogg"],["Scion28","อาณาจักรไม่ต้องการหายนะ มันสร้างความสิ้นหวังขึ้นมาเอง","Audio/Dialogue/Character/StrDexInt/Event/Sc_28_EnterDriedLake.ogg"],["Scion29","บาปคือรอยแตกที่ฝันร้ายลอดผ่าน บาปของนายคืออะไร Voll ความภูมิใจหรือ","Audio/Dialogue/Character/StrDexInt/Event/Sc_29_KillVoll.ogg"],["Scion30","Beast รู้ว่าชั้นมาที่นี่","Audio/Dialogue/Character/StrDexInt/Event/Sc_30_EnterMines1.ogg"],["Scion31","ใช่ Beast นายมีสิทธิ์ที่จะกลัว","Audio/Dialogue/Character/StrDexInt/Event/Sc_31_EnterMines2.ogg"],["Scion32","นายเป็นหนึ่งในอีกหลายคนที่จะโยนโซ่ตรวนแห่งฝันร้ายทิ้งไป Deshret","Audio/Dialogue/Character/StrDexInt/Event/Sc_32_FreeDeshret.ogg"],["Scion33","เมื่อความน่ากลัวขยายใหญ่ขึ้น Beast ความแน่วแน่ของข้าก็เช่นกัน","Audio/Dialogue/Character/StrDexInt/Event/Sc_33_EnterMines3.ogg"],["Scion34","เจ้าได้รับความสงสารจากข้า เจ้าทาศ","Audio/Dialogue/Character/StrDexInt/Event/Sc_34_KillBarkhul.ogg"],["Scion35","ความรักเป็นดาบที่ทำร้ายตัวเจ้าเองราชาแห่งดาบ","Audio/Dialogue/Character/StrDexInt/Event/Sc_35_KillDaresso.ogg"],["Scion36","ข้ายืนอยู่บนจิตใจที่บิดเบี้ยวของ Kaom","Audio/Dialogue/Character/StrDexInt/Event/Sc_36_EnterKaomRealm.ogg"],["Scion37","เก็บลมหายใจของเจ้าไว้ให้บรรพบุรุษเถอะ Kaom เจ้าต้องใช้มันแน่","Audio/Dialogue/Character/StrDexInt/Event/Sc_37_KillKaom.ogg"],["Scion38","ฝันร้ายกลายเป็นจริง","Audio/Dialogue/Character/StrDexInt/Event/Sc_38_EnterBelly.ogg"],["Scion39","ความบิดเบี้ยวของกายและชีวิต...ทั้งยอดเยี่ยมและบ้าคลั่ง","Audio/Dialogue/Character/StrDexInt/Event/Sc_39_EnterHarvest.ogg"],["Scion40","ข้าเสียใจ Maligaro แต่ข้าเฉียบขาดกับเรื่องศิลปะ","Audio/Dialogue/Character/StrDexInt/Event/Sc_40_KillMaligaro.ogg"],["Scion41","โลกไม่ได้ต้องการความสวยงามแบบแก Shavronne","Audio/Dialogue/Character/StrDexInt/Event/Sc_41_KillShav.ogg"],["Scion42","นี่่คือทางเดียวที่จะทำให้เจ้าพอใจ Doedre","Audio/Dialogue/Character/StrDexInt/Event/Sc_42_KillDoedre.ogg"],["Scion43","ข้ามีเพียงคำตอบเดียวที่ข้อต้องการ Piety และมันคือ Beast ต้องตาย","Audio/Dialogue/Character/StrDexInt/Event/Sc_43_PietyDies.ogg"],["Scion44","Malachai ผู้น่าสงสาร เจ้าใช้เวลากว่า 3 ทศวรรษ ต่อสู้กับความตาย ในเวลาเหล่านั้นไม่มีเลยที่เจ้าได้ใช้ชีวิต","Audio/Dialogue/Character/StrDexInt/Event/Sc_44_KillMalachai.ogg"],["Scion45","แม้ว่าเราห่างกัน แต่ Exile ทำให้เรามาพบกัน ที่ Oriath มีพวกที่เรียกข้าว่าเด็กแร่ร่อน แต่อย่างที่เจ้ารู้ว่าที่นี่ชื่อไม่มีความหมาย ผู้เร่ร่อน Exile มอนสเตอร์ ฮีโร่ ... ชื่อไม่ได้เป็นตัวกำหนดเรา แต่สิ่งที่คุณทำต่างหากที่ทำให้เป็นคุณ ที่ Wreaclast ขอบคุณที่ให้สิ่งที่มีค่าที่สุด: อิสระที่จะทำสิ่งที่เริ่มต้นได้สำเร็จ","Audio/Dialogue/Character/StrDexInt/Event/Sc_45_FreedomSpeech.ogg"],["Scion46","ข้าขอเวลาพักชั่วคราวได้มั้ย","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Cooldown_01.ogg"],["Scion47","ข้าขอเวลาพักชั่วคราวได้มั้ย","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Cooldown_02.ogg"],["Scion48","ข้้ายังไม่ฟิตพอสำหรับสิ่งนี้","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Dex_01.ogg"],["Scion49","ข้้ายังไม่ฟิตพอสำหรับสิ่งนี้","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Dex_02.ogg"],["Scion50","อาาา ดีขึ้นมากเลย","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Health_01.ogg"],["Scion51","อาาา ดีขึ้นมากเลย","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Health_02.ogg"],["Scion52","ข้าไม่รู้จะเริ่มยังไงกับสิ่งนั้น","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Int_01.ogg"],["Scion53","ข้าไม่รู้จะเริ่มยังไงกับสิ่งนั้น","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Int_02.ogg"],["Scion54","ของเยอะเกินไป","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Inventory_01.ogg"],["Scion55","ของเยอะเกินไป","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Inventory_02.ogg"],["Scion56","ข้าไม่มีอะไรจะให้แล้ว","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Mana_01.ogg"],["Scion57","ข้าไม่มีอะไรจะให้แล้ว","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Mana_02.ogg"],["Scion58","ข้าจำเป็นต้องใช้มันต่อ","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Questitem_01.ogg"],["Scion59","ข้าจำเป็นต้องใช้มันต่อ","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Questitem_02.ogg"],["Scion60","ความตายคือความเมตตา","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_RareKill_01.ogg"],["Scion61","ความตายคือความเมตตา","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_RareKill_02.ogg"],["Scion62","หลับตอนนี้เลยฝันร้ายตัวเล็ก","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_RareKill_03.ogg"],["Scion63","หลับตอนนี้เลยฝันร้ายตัวเล็ก","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_RareKill_04.ogg"],["Scion64","ตายอยู่อย่างนั้นด้วยเถอะ","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_RareKill_05.ogg"],["Scion65","ตายอยู่อย่างนั้นด้วยเถอะ","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_RareKill_06.ogg"],["Scion66","นั่นมันรู้สึกดีอย่างร้ายกาจ","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_RareKill_07.ogg"],["Scion67","นั่นมันรู้สึกดีอย่างร้ายกาจ","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_RareKill_08.ogg"],["Scion68","ความทรมานของเจ้าจบลงแล้ว","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_RareKill_09.ogg"],["Scion69","ความทรมานของเจ้าจบลงแล้ว","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_RareKill_10.ogg"],["Scion70","ไม่มีทั้งเวลาและสถานที่","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_SkillsTown_01.ogg"],["Scion71","ไม่มีทั้งเวลาและสถานที่","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_SkillsTown_02.ogg"],["Scion72","หนักเกินไป","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Str_01.ogg"],["Scion73","หนักเกินไป","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Str_02.ogg"],["Scion74","เอ็กไซด์คือบทเรียน ข้าเรียนรู้ได้เร็วอยู่แล้ว","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_47_LevelUp_01.ogg"],["Scion75","ชีวิตเติบโตขึ้น แม้แต่ในสุสาร","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_47_LevelUp_02.ogg"],["Scion76","ข้าเรียน ข้าสังหาร ข้ามีชีวิต","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_47_LevelUp_03.ogg"],["Scion77","ข้าน่าจะได้คำว่าเด็กช่างสงสัยมาแล้ว","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_47_LevelUp_04.ogg"],["Scion78","พลังทำให้เสื่อมและความเสื่อมสร้างพลัง","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_47_LevelUp_05.ogg"],["Scion79","ไม่มีการพักที่ Wraeclast","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_47_LevelUp_06.ogg"],["Scion80","ข้ากลายเป็นฝันร้ายเดินดิน","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_47_LevelUp_07.ogg"],["Jack1","ถุงเนื้อที่สวยงาม","Audio/Dialogue/NPC/JackTheAxeArea/JTA_Approach_Piety_01.ogg"],["Jack2","ข้ารูุ้สึกถึงพลัง เราจะฉลองกับมันกัน","Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Abyss_01.ogg"],["Jack3","พลังอันยิ่งใหญ่ กลืนกินมันกันดีกว่า","Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Apex_01.ogg"],["Jack4","งานฉลองมากมาย","Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Barracks_01.ogg"],["Jack5","เนื้อสดให้เชือด","Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Belly_01.ogg"],["Jack6","เฉือนเนื้อออก หักกระดูก","Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_DriedLake_01.ogg"],["Jack7","ข้ารู้สึกถึงความทรมาน มาทำให้มันจบกัน","Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Dungeon_01.ogg"],["Jack8","อสูรตัวใหญ่ เนื้อให้ข้าเยอะเลย","Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Grotto_01.ogg"],["Jack9","มีแต่แมงมุม ข้าเกลียดมัน","Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Jungle_01.ogg"],["Jack10","ทางหลากหลาย สัตว์ร้ายเยอะ มาสนุกกันดีกว่า","Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Labyrinth_01.ogg"],["Jack11","มีแต่ความตายที่นี่","Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Lunaris3_01.ogg"],["Jack12","ข้าเคยมาที่นี่นานมาแล้ว","Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Maelstrom_01.ogg"],["Jack13","ถลกหนัง ถลกหนังพวกมันให้หมด","Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Mines_01.ogg"],["Jack14","Rhoas ฆ่ามันให้หมด","Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_MudGeyser_01.ogg"],["Jack15","ซาน บ้านของชั้น","Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Sarn_01.ogg"],["Jack16","ความเจ็บปวด ข้าชอบ","Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Sceptre_01.ogg"],["Jack17","แมงมุม","Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_SpiderForest_01.ogg"],["Jack18","ความน่ากลัวที่นี่ เยอะมาก","Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Vaal_01.ogg"],["Jack19","ข้าไม่ต้องการอะไรที่นี่ ไปกันเถอะ","Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Vaults_01.ogg"],["Jack20","","Audio/Dialogue/NPC/JackTheAxe/JTA_Attack_01.ogg"],["Jack21","","Audio/Dialogue/NPC/JackTheAxe/JTA_Attack_02.ogg"],["Jack22","","Audio/Dialogue/NPC/JackTheAxe/JTA_Attack_03.ogg"],["Jack23","","Audio/Dialogue/NPC/JackTheAxe/JTA_Attack_04.ogg"],["Jack24","","Audio/Dialogue/NPC/JackTheAxe/JTA_Attack_05.ogg"],["Jack25","","Audio/Dialogue/NPC/JackTheAxe/JTA_Attack_06.ogg"],["Jack26","","Audio/Dialogue/NPC/JackTheAxe/JTA_Attack_07.ogg"],["Jack27","","Audio/Dialogue/NPC/JackTheAxe/JTA_Attack_08.ogg"],["Jack28","","Audio/Dialogue/NPC/JackTheAxe/JTA_Idle_01.ogg"],["Jack29","","Audio/Dialogue/NPC/JackTheAxe/JTA_Idle_02.ogg"],["Jack30","","Audio/Dialogue/NPC/JackTheAxe/JTA_Idle_03.ogg"],["Jack31","","Audio/Dialogue/NPC/JackTheAxe/JTA_Idle_04.ogg"],["Jack32","","Audio/Dialogue/NPC/JackTheAxe/JTA_PVP_01.ogg"],["Jack33","","Audio/Dialogue/NPC/JackTheAxe/JTA_PVP_02.ogg"],["Goddess1 ","เดี๋ยว? ข้าเป็นอิสระแล้วเหรอ? ฝีมือเจ้าใช่ไหม? ก็นะ ดีกว่าติดอยู่ในนั้น ความกระหายของเจ้านั่นไม่ทำให้ข้าสมอยากเลย ง่ายๆ แค่นั้น แต่แล้วข้าก็มาเจอเจ้า พลังเต็มเปี่ยม ดื้อรั้น ฉะนั้นก็มารับข้าไปได้เลย โลกนี้ใกล้จะแห้งตายอยู่แล้วแต่โลหิตที่เหลืออาจจะเดือดพล่านได้อีก และข้ารอเวลาอาบโลหิตจริงๆ มานานมาก","Audio/Dialogue/Goddess_Unleashed/GS_A1_01.ogg"],["Goddess2 ","เทพจอมปลอมริอาจจะมาสู้กับเทพที่แท้จริง หึไม่มีทาง","Audio/Dialogue/Goddess_Unleashed/GS_A1_02.ogg"],["Goddess3 ","ฮืมมม ไปได้แบบอลังการเสียจริง เหมือนกระจกที่นางฝึกซ้อมอยู่ทุกวัน เราต้องได้เจอนางอีกแน่","Audio/Dialogue/Goddess_Unleashed/GS_A1_04.ogg"],["Goddess4 ","ไม่มีใครเป็นทาสเรือนจองจำไปมากกว่าพวกที่อ้างว่า \"แค่ทำงานที่นั่น\" อีกแล้ว","Audio/Dialogue/Goddess_Unleashed/GS_A1_03.ogg"],["Goddess5 ","นั่นละ นางมาอีกแล้ว เหมือนว่าใครบางคนกำลังมโนตัวเองว่าเป็นศัตรูตัวฉกาจของเราได้","Audio/Dialogue/Goddess_Unleashed/GS_A1_05.ogg"],["Goddess6 ","ไฟ Allflame นั่นน่ะเลื่อนลอยพอๆ กับประกายไฟแห่งตัณหานั่นแหละ ของข้าสิ ไฟที่โหมไร้วันดับ","Audio/Dialogue/Goddess_Unleashed/GS_A1_06.ogg"],["Goddess7 ","ใบหน้าแท้ของความรักรึ? บางคนก็คิดไปเองว่าสามารถนิยาม \"ความรัก\" เป็นสัจได้ \r\nคนๆ นั้นผิดมหันต์","Audio/Dialogue/Goddess_Unleashed/GS_A1_07.ogg"],["Goddess8 ","คิดว่านางรออยู่นี่ให้เรามาเพื่อจะได้พูดประโยคโดนๆ แล้วเผ่นไปรึ","Audio/Dialogue/Goddess_Unleashed/GS_A2_01.ogg"],["Goddess9 ","โอ้ เราฆ่าคนรักของ Piety ไปรึ? ไม่ ข้าคิดว่ามีคำอื่นให้กับสิ่งที่เจ้านั่นเป็น","Audio/Dialogue/Goddess_Unleashed/GS_A2_02.ogg"],["Goddess10","ลูกแมวน้อยน่าสงสาร ไม่แปลกใจว่าทำไมสาวกนางถึงฆ่าตัวตายหมด","Audio/Dialogue/Goddess_Unleashed/GS_A2_03.ogg"],["Goddess11","ต้องลงทุนควงดาบวาดลวดลายขนาดนั้นทั้งที่มีดาบเพลิงวิเศษที่พูดอะไรฉลาดๆ ได้ก็น่าจะพอ","Audio/Dialogue/Goddess_Unleashed/GS_A2_04.ogg"],["Goddess12","เอาไม้ไปดวลกับดาบก็ได้ผลแบบนั้นแหละ","Audio/Dialogue/Goddess_Unleashed/GS_A2_05.ogg"],["Goddess13","นี่แค่เห็นลูกบอลเงาแว้บก็อดใจไม่ไหวต้องไปจับใช่ไหม?","Audio/Dialogue/Goddess_Unleashed/GS_A2_06.ogg"],["Goddess14","อารยธรรมจะล่มสลายก็แบบนี้แหละ เสียเวลาสร้างขยะแบบนั้น","Audio/Dialogue/Goddess_Unleashed/GS_A2_07.ogg"],["Goddess15","คราวนี้นางไม่ได้รอเรา เรามาช้าไป เกมไล่จับจบแล้ว ข้าอยากให้นางมอดไหม้","Audio/Dialogue/Goddess_Unleashed/GS_A3_01.ogg"],["Goddess16","หลีกทางไปเจ้าพวกต่ำต้อย เรามีแม่มดต้องล่า ต้องเผา ต้องเผา","Audio/Dialogue/Goddess_Unleashed/GS_A3_02.ogg"],["Goddess17","หลบหลังพวกพี่ใหญ่ได้ตามใจเลย Piety หยุดพวกเราไม่ได้หรอก","Audio/Dialogue/Goddess_Unleashed/GS_A3_03.ogg"],["Goddess18","ชั่วช้า? บ้าคลั่ง? ไม่ นี่คือ Vinia ที่อยากจะเป็น Piety เด็กน้อยเล่นแต่งตัว ใช้ความโหดร้ายเป็นเครื่องประดับถูกๆ","Audio/Dialogue/Goddess_Unleashed/GS_A3_04.ogg"],["Goddess19","ในที่สุด! มอดไหม้ไปซะนังชั่ว! ตายยย! เดี๋ยว ร่างไปไหน? นางหนีไปอีกแล้วเหรอ?! ฮึ่ย!","Audio/Dialogue/Goddess_Unleashed/GS_A3_05.ogg"],["Goddess20","บางทีเขาอาจจะต้องลองให้เทพีสาวลองแตะดู","Audio/Dialogue/Goddess_Unleashed/GS_A3_06.ogg"],["Goddess21","ฮึ่ม ไม่ใช่การอาบน้ำแบบที่ข้าอยากได้ น้ำสะอาดดี แต่น้ำก็ต้องสะอาดอยู่แล้วละนะ","Audio/Dialogue/Goddess_Unleashed/GS_A4_01.ogg"],["Goddess22","ข้าไม่อยากเต้นตามเพลงของ Dialla แต่หลักฐานพลังของ Piety ตรงหน้าแบบนี้? น่าสนใจแล้วละ","Audio/Dialogue/Goddess_Unleashed/GS_A4_02.ogg"],["Goddess23","ไม่ใช่จักรพรรดิองค์แรกที่ข้าส่งขึ้นเชิงตะกอน นั่นมันงานกระจอกสำหรับข้า","Audio/Dialogue/Goddess_Unleashed/GS_A4_03.ogg"],["Goddess24","ราชันแห่งดาบรึ? มาเจอเทพีแห่งดาบสิเจ้าเด็กอกหักขี้แยตัวน้อย!","Audio/Dialogue/Goddess_Unleashed/GS_A4_04.ogg"],["Goddess25","ความแค้นร้อนแรงเหลือเกิน! คงไม่มีใครบอกมั้งว่าสีแดงน่ะคือไฟอ่อนสุด","Audio/Dialogue/Goddess_Unleashed/GS_A4_05.ogg"],["Goddess26","ถ้ามันมีชีวิต ก็เลือดออกเป็น ถ้าเลือดออกได้ก็ต้องมีหัวใจ มาหาหัวใจแล้วเผามันกันเถอะ","Audio/Dialogue/Goddess_Unleashed/GS_A4_06.ogg"],["Goddess27","Dominus ก็แล้ว มานี่ Malachai ไม่ว่าจะเป็นใครหรืออะไร เจ้าเป็นแค่เครื่องมือของเหล่าบุรุษนะ Vinia","Audio/Dialogue/Goddess_Unleashed/GS_A4_07.ogg"],["Goddess28","Piety อยากได้เราเป็นพวก? ก็ได้ เป็นมิตรกับข้าก็แค่ประวิงการประหารออกไปเท่านั้นแหละ","Audio/Dialogue/Goddess_Unleashed/GS_A4_08.ogg"],["Goddess29","สาปแช่งพระเพลิงไปเถอะเจ้า Darktongue ยังไงเจ้าก็ไหม้อยู่ดี","Audio/Dialogue/Goddess_Unleashed/GS_A4_09.ogg"],["Goddess30","คนตีค่าศิลปะสูงไป ที่ต้องใช้ฝีมือของจริงน่ะรึ? ทำอาหารไง","Audio/Dialogue/Goddess_Unleashed/GS_A4_10.ogg"],["Goddess31","อ้อ เจ้านี่เองที่สร้าง Brutus….ทุกอย่างเริ่มกระจ่างแล้ว","Audio/Dialogue/Goddess_Unleashed/GS_A4_11.ogg"],["Goddess32","โดนแทงทะลุท้อง กรีดร้อง ถูกเสียบ ดิ้นพล่าน วิธีตายแบบนั้นแหละเหมาะแล้ว!","Audio/Dialogue/Goddess_Unleashed/GS_A4_12.ogg"],["Goddess33","ตอนข้าบอกว่าเราจะเผาหัวใจมันน่ะข้าไม่ได้คิดจะเอาจริ…….เอาเหอะ แค่นี้ก็น่าจะพอแล้ว ตอนนี้กลับไปหาที่อาบน้ำดีกว่า","Audio/Dialogue/Goddess_Unleashed/GS_A4_13.ogg"],["Goddess34","และข้าแน่ใจว่าไม่มีใครรู้ว่าเรากำลังมาแน่","Audio/Dialogue/Goddess_Unleashed/GS_A5_01.ogg"],["Goddess35","ปอด ไส้พุง หัวใจ แล้วมาตาอีก แค่สับคนให้เป็นชิ้นๆ แล้วไปต่อไม่พอแล้วรึ หืม?","Audio/Dialogue/Goddess_Unleashed/GS_A5_02.ogg"],["Goddess36","พวกนั้นสร้างโบสถ์ แนวคิดหลุดโลกกลายเป็นกฎหมาย ศรัทธากลายเป็นเรื่องบังคับ สถานที่บูชากลายเป็นศาลตัดสิน ข้านี่เกลียดสถาบันศาสนาจริงเชียว","Audio/Dialogue/Goddess_Unleashed/GS_A5_03.ogg"],["Goddess37","นั่นน่ะหรือใบหน้าที่แท้จริงของเทพ เจ้าผู้พลัดถิ่น? ไม่หรอก แค่เสียงสะท้อนแปร่งๆ ของคำว่า \"ข้าเป็น\"","Audio/Dialogue/Goddess_Unleashed/GS_A5_04.ogg"],["Goddess38","ดูเหมือนว่าทุกอย่างที่เราทำลงไป ข้าคงบอกว่าเป็นการทำให้ดีขึ้น","Audio/Dialogue/Goddess_Unleashed/GS_A5_05.ogg"],["Goddess39","ล้างแค้น? กับเราเนี่ยนะ? ไม่ได้เราช่วยเจ้านั่นก็คงเป็นกระฎุมพีต่อไปนั่นแหละ ไม่สำนึกกันเล้ย","Audio/Dialogue/Goddess_Unleashed/GS_A5_06.ogg"],["Goddess40","และเจ้าก็ทำได้ดีมาตลอด….","Audio/Dialogue/Goddess_Unleashed/GS_A5_07.ogg"],["Goddess41","ข้าไม่ชอบที่นี่เลย อาหารก็แย่ กลิ่นก็ยังกะ….ข้าไม่ชอบที่นี่เลย","Audio/Dialogue/Goddess_Unleashed/GS_A6_01.ogg"],["Goddess42","ทุกโบสถ์เทพมีเทพสงครามและเทพีความรัก เจ้าคิดว่าใครเป็นที่หนึ่งละ","Audio/Dialogue/Goddess_Unleashed/GS_A6_02.ogg"],["Goddess43","เล่นกับไฟก็ได้เขาไง! หรืออะไรแบบนั้นนะ","Audio/Dialogue/Goddess_Unleashed/GS_A6_03.ogg"],["Goddess44","อ้อ ให้เถอะ เจ้าไม่รู้รึ? หลังจากสองเป็นหนึ่งทุกอย่างจะลงเหวแต่ตอนนั้น ตามใจเจ้านะ","Audio/Dialogue/Goddess_Unleashed/GS_A6_04.ogg"],["Goddess45","ต้องอยุติธรรมระดับไหนความสยองขวัญแบบนั้นถึงได้มีทุกที่ ในขณะที่อีกหลายคนโอบกอดความว่างเปล่าและร้องเพลงปลอบใจตนเอง","Audio/Dialogue/Goddess_Unleashed/GS_A6_05.ogg"],["Goddess46","ทุกคนมีไฟที่คอยดึงดูดเข้ามา ขนาดแม้แต่คนตายยังเหมือนจะมี","Audio/Dialogue/Goddess_Unleashed/GS_A6_06.ogg"],["Goddess47","แพะอบ แล้วตอนนี้ปูต้มอีก ใครจะคิดว่าเทพจะอร่อยปานนี้?","Audio/Dialogue/Goddess_Unleashed/GS_A6_07.ogg"],["Goddess48","ถึงตรงนี้ข้าเคยคิดว่าเราแค่จะเข้าไปถึงแกนสะดือสัตว์ร้ายในการเดินทางเล็กๆ ของเรานี่","Audio/Dialogue/Goddess_Unleashed/GS_A7_01.ogg"],["Goddess49","ทั้งหมดนี่เพื่อสร้างสวรรค์น้อยๆ ส่วนตัว แล้วก็มาทำแบบนี้ ช่างเป็นคนหนุ่มขี้โมโหเสียนี่กระไร","Audio/Dialogue/Goddess_Unleashed/GS_A7_02.ogg"],["Goddess50","ความรักไม่ใช่การเปลี่ยนคนอื่นนะ Maligaro มันคือการเปลี่ยนแปลงตนเอง คนที่กวัดแกว่งข้าจะได้รู้ ไม่ช้าก็เร็ว","Audio/Dialogue/Goddess_Unleashed/GS_A7_03.ogg"],["Goddess51","รวมพลกับเพื่อนเก่าสนุกนะ จนกระทั่งมันไม่สนุก แล้วจากนั้นมันก็กร่อยไปเลย","Audio/Dialogue/Goddess_Unleashed/GS_A7_04.ogg"],["Goddess52","แม่ Ursa ที่น่าสงสาร ข้าไม่ชอบสิ่งที่เราทำลงไปเลย","Audio/Dialogue/Goddess_Unleashed/GS_A7_05.ogg"],["Goddess53","และเด็กสาวที่รู้จักประโยชน์ของไฟก็ไปแล้วอีกคน","Audio/Dialogue/Goddess_Unleashed/GS_A7_06.ogg"],["Goddess54","ข้าจะยินดียิ่งหากเราจะไม่ต้องเจอแมงมุมยักษ์อีก แต่เอ ข้าคงได้แค่ฝัน เพราะที่นี่มัน Wraeclast","Audio/Dialogue/Goddess_Unleashed/GS_A7_07.ogg"],["Goddess55","ตอนข้าบอกว่าอยากอาบน้ำมากน่ะ ข้าไม่ได้หมายถึงอย่างนี้เลยนะ","Audio/Dialogue/Goddess_Unleashed/GS_A8_01.ogg"],["Goddess56","เพราะงี้ข้าถึงได้บอกว่า \"ข้าจะรักเจ้ายันวันตาย….\"","Audio/Dialogue/Goddess_Unleashed/GS_A8_02.ogg"],["Goddess57","ห้องอาบน้ำเหรอ? จริงๆ เหรอ? เพราะข้าไม่คิดว่าเจ้าเข้าใจวิธีของดาบ","Audio/Dialogue/Goddess_Unleashed/GS_A8_03.ogg"],["Goddess58","จะหาภาพสะท้อนใสแจ๋วเท่าบนใบดาบนั้นหาไม่มี","Audio/Dialogue/Goddess_Unleashed/GS_A8_04.ogg"],["Goddess59","พอจัดการนังแม่มดนอกรีตไปได้แล้วที่นี่ก็ดูดีขึ้นอย่างมหัศจรรย์ มันเยี่ยมมาก","Audio/Dialogue/Goddess_Unleashed/GS_A8_05.ogg"],["Goddess60","พวกคราสนี่ก็แย่หน่อยตรงที่อยู่ไม่นาน แต่เอาเถอะ แค่ชั่วเวลาสั้นๆ นั้นมันช่างสวยงาม","Audio/Dialogue/Goddess_Unleashed/GS_A8_06A.ogg"],["Goddess61","อุ ขนาดข้ายังเผาพวกมันไม่ได้ อย่าเอาข้าไปจุ่มในของแหยะๆ นั่นนะ","Audio/Dialogue/Goddess_Unleashed/GS_A9_01.ogg"],["Goddess62","หะ ข้านึกว่าตัวจะใหญ่สมชื่อ","Audio/Dialogue/Goddess_Unleashed/GS_A9_02.ogg"],["Goddess63","ถ้าข้าจะเกลียดอะไรมากกว่าแมงมุมก็แมงป่องนี่แหละ เหมือนแมงมุมที่มีหางแหลมกับก้ามเพิ่มเข้ามา อร่อยก็ไม่อร่อย","Audio/Dialogue/Goddess_Unleashed/GS_A9_03.ogg"],["Goddess64","ไปที่ไหนก็ไปเถอะ Kira อย่าอยู่นี่เลย","Audio/Dialogue/Goddess_Unleashed/GS_A9_04.ogg"],["Goddess65","เรื่องง้องแง้ง นี่น่ะหรือที่เทพฝันไว้ตอนอยู่ในอ้อมแขนเจ้าสัตว์ร้ายน่ะ?","Audio/Dialogue/Goddess_Unleashed/GS_A9_05.ogg"],["Goddess66","สายฟ้า ฟู่ ก็แค่เชื้อปะทุให้ไฟแดงฉานงดงามน่ะแหละ","Audio/Dialogue/Goddess_Unleashed/GS_A9_06.ogg"],["Goddess67","เศร้านะที่ต้องเจอสัตว์ร้ายอีก แห้ง หด และ….ติดไฟง่ายเหลือเกิน","Audio/Dialogue/Goddess_Unleashed/GS_A9_07.ogg"],["Goddess68","ลิ่วล้อสามตัว ล้มเหลวสามอย่าง เจ็บปวดสามขั้น ข้าก็ชอบอะไรสามๆ นะ แต่เจ้านี่หมดเวลาแล้ว","Audio/Dialogue/Goddess_Unleashed/GS_A9_08.ogg"],["Goddess69","ข้าก็แอบหวังอยู่ว่า Kitava จะลุกขึ้นมาใหม่ โลกนี้เสพติดวงจรการเกิดใหม่จนน่าสนใจขึ้นมาเลย","Audio/Dialogue/Goddess_Unleashed/GS_A10_01.ogg"],["Goddess70","เราจัดการเจ้านายของนาง เจ้านายของเจ้านายของนาง และเทพของเจ้านายของเจ้านายของนางอีกที นางก็รู้ดีแต่ยังเลือกสู้กับเราอีก? ไม่ค่อยจะฉลาดเลย เสียดายจริง","Audio/Dialogue/Goddess_Unleashed/GS_A10_02.ogg"],["Goddess71","เราน่าจะใกล้ถึงแล้ว ทุกอย่างมันแดงฉานไปหมด","Audio/Dialogue/Goddess_Unleashed/GS_A10_03.ogg"],["Goddess72","ดูเหมือนว่าวิธีที่ดีที่สุดสำหรับความหิวโหยที่ดับยาก คือฆ่ามันเลย ตามแบบฉบับ Wraeclast แต่นั่นไม่ใช่ประเด็น ข้าอยากอาบอะไรง่ายๆ แต่เจ้าให้ข้าได้อาบทั้งเลือดพวกทหารใจดำ ซากจักรวรรดิ หรือเทพคืนชีพ โอ้ เจ้านี่ให้เกินพอจริงๆ มาไฟแรงกับข้าจนสุดทานทน...แล้วไฟแรงกันต่ออีกหน่อยเถอะที่รักข้า","Audio/Dialogue/Goddess_Unleashed/GS_A10_04.ogg"],["Goddess73","เทพีแหงความยุติธรรมอาจจะตาบอดแต่สาวกนางก็ไม่ได้บื้อใบ้ ข้าว่าพวกนั้นคงไม่เงียบปากหรอก","Audio/Dialogue/Goddess_Unleashed/GS_KillIzaro_01.ogg"],["Goddess74","ข้าคิดถูกจริงด้วย เจ้าใช้ข้าได้อย่างทะมัดทะแมง แต่ก็เพิ่งหัดใช้แหละน่า","Audio/Dialogue/Goddess_Unleashed/GS_Level_10.ogg"],["Goddess75","ใช้ข้าพอใจหรือยัง? ใช้อย่างอื่นก็ได้นะ ข้าไม่ถือหรอก จริงๆ นะ","Audio/Dialogue/Goddess_Unleashed/GS_Level_20.ogg"],["Goddess76","คนสุดท้ายที่ใช้งานข้านานขนาดนี้กลายเป็นพวกกลัวไฟขั้นรุนแรง หรืออาจจะชอบไฟขั้นรุนแรง? ไม่อันใดก็อันนึง อาจจะทั้งคู่ก็ได้","Audio/Dialogue/Goddess_Unleashed/GS_Level_30.ogg"],["Goddess77","อ้า เราไฟแรงด้วยกันดีจริงๆ นานแล้วที่ข้าไม่เคยเห็นใครทนได้ขนาดนี้!","Audio/Dialogue/Goddess_Unleashed/GS_Level_50.ogg"],["Goddess78","เจ้านี่คือปาฏิหาริย์จริงๆ ที่รักข้า เจ้านี่ยังมาโซ ชอบโดนเผาและอาจจะปัญญาอ่อนด้วย แต่เจ้าก็เป็นเจ้าทึ่มของข้า","Audio/Dialogue/Goddess_Unleashed/GS_Level_70.ogg"],["Goddess79","ข้าสาบาน ไม่เคยมีใครใช้งานข้านานขนาดนี้ เจ้าคู่ควรได้รับรางวัล ความลับ...ที่ดาบน่ะพูดไม่ได้หรอกนะ เจ้าเสียสติไปตั้งแต่หยิบข้ามาใช้แล้ว ทั้งหมดนี่เป็นเรื่องจริงไหม? อย่าถามเลย ข้าเป็นแค่ดาบ แต่ข้าคือดาบของเจ้าตลอดไป...อย่างแท้จริง","Audio/Dialogue/Goddess_Unleashed/GS_Level_90.ogg"],["Goddess80","แค่นั้นน่าจะพอ","Audio/Dialogue/Goddess_Unleashed/GS_KillRogue_01.ogg"],["Goddess81","","Audio/Dialogue/Goddess_Unleashed/GS_KillRogue_02.ogg"],["Goddess82","โดนไฟข้ากลืนกินไปซะ","Audio/Dialogue/Goddess_Unleashed/GS_KillRogue_03.ogg"],["Goddess83","ทุกอย่างต้องมอดไหม้","Audio/Dialogue/Goddess_Unleashed/GS_KillRogue_04.ogg"]]}
+{
+  "filename": "CharacterTextAudio.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Text",
+      "rowid": 1,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "SoundFile",
+      "rowid": 2,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": true,
+      "file_ext": ".ogg",
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "Marauder1",
+      "ข้าคือนักรบ ถูกเลี้ยงดูมาด้วยเกียรติของเหล่าบรรพบุรุษ เพื่อฆ่าฟันด้วยอาวุธในมือและเลือดตามเส้นทางของคารุยOriath ล่ามข้าเอาไว้ด้วยโซ่ ทำให้ข้ากลายเป็นทาส กว่า 3 ปี ที่ข้าใช้ชีวิตอยู่อย่างไร้ครอบครัว ความภูมิใจ และแม้แต่เส้นทางของข้าเอง ข้าต้อนรับผู้ถูกเนรเทศ ข้าต้อนรับ Wraeclast ฟังข้าเหล่าบรรพบุรุษ! ทาสจะเป็นเบื้องหลังแต่นักรบอยู่เบื้องหน้าท่าน และความตายเดินอยู่เคียงข้างท่าน",
+      "Audio/Dialogue/Character/Str/Intro/Ma_01_Intro.ogg"
+    ],
+    [
+      "Marauder2",
+      "",
+      "Audio/Dialogue/Character/Str/Event/Ma_02.ogg"
+    ],
+    [
+      "Marauder3",
+      "คนตายควรอยู่ในที่ของพวกมัน",
+      "Audio/Dialogue/Character/Str/Event/Ma_03.ogg"
+    ],
+    [
+      "Marauder4",
+      "ข้าถูกห้อมล้อมไปด้วยซากศพที่มีชีวิตและชาวโอเรียทานที่กำลังตาย",
+      "Audio/Dialogue/Character/Str/Event/Ma_04.ogg"
+    ],
+    [
+      "Marauder5",
+      "Kaom ช่วยเปิดทางให้ข้า",
+      "Audio/Dialogue/Character/Str/Event/Ma_05.ogg"
+    ],
+    [
+      "Marauder6",
+      "Dominus มันเอาไปทั้งบ้านและครอบครัวข้า",
+      "Audio/Dialogue/Character/Str/Event/Ma_06.ogg"
+    ],
+    [
+      "Marauder7",
+      "นี่ไม่ใช่สิ่งที่ผู้เฒ่าได้กล่าวไว้",
+      "Audio/Dialogue/Character/Str/Event/Ma_07.ogg"
+    ],
+    [
+      "Marauder8",
+      "ทาสมิใช่มนุษย์ ทาสมิควรค่าจะได้แม้ความตาย",
+      "Audio/Dialogue/Character/Str/Event/Ma_08.ogg"
+    ],
+    [
+      "Marauder9",
+      "วิญญาณคือของเล่นของบรรพบุรุษ ผู้ปกครองทาส",
+      "Audio/Dialogue/Character/Str/Event/Ma_09.ogg"
+    ],
+    [
+      "Marauder10",
+      "Hinekora มารดาแห่งความตาย นี่คือดินแดนของท่านใช่มั้ย",
+      "Audio/Dialogue/Character/Str/Event/Ma_10.ogg"
+    ],
+    [
+      "Marauder11",
+      "เมื่อโครงกระดูกเดินได้ พวกมันไม่ใช่ Karui",
+      "Audio/Dialogue/Character/Str/Event/Ma_11.ogg"
+    ],
+    [
+      "Marauder12",
+      "วิญญาณที่ชั่วร้าย' Lavianga พูดถึง Kitava บิดาแห่งการคอรัปชั่น",
+      "Audio/Dialogue/Character/Str/Event/Ma_12.ogg"
+    ],
+    [
+      "Marauder13",
+      "Kaom ก้มหัวให้ Kitava มันหักหลังพวกเรา",
+      "Audio/Dialogue/Character/Str/Event/Ma_13.ogg"
+    ],
+    [
+      "Marauder14",
+      "Karui จดจำท่านได้เสมอ Fairgrave การจากไปของท่านจะได้รับการจดจำ",
+      "Audio/Dialogue/Character/Str/Event/Ma_14.ogg"
+    ],
+    [
+      "Marauder15",
+      "คำสาปสิ้นสุดแล้ว Siren หลับให้สบายไปกับ Hinekora มารดาแห่งความตาย",
+      "Audio/Dialogue/Character/Str/Event/Ma_15.ogg"
+    ],
+    [
+      "Marauder16",
+      "ที่ Wraeclast ทุกชีวิตถูกทำให้เสื่อม",
+      "Audio/Dialogue/Character/Str/Event/Ma_16.ogg"
+    ],
+    [
+      "Marauder17",
+      "อณาจักร Eternal ถูกสร้างขึ้นด้วยความวิปริต",
+      "Audio/Dialogue/Character/Str/Event/Ma_17.ogg"
+    ],
+    [
+      "Marauder18",
+      "บรรพบุรุษอภัยข้าด้วย ข้าได้เปิดทางให้ Kitava บิดาแห่งความเสื่อม",
+      "Audio/Dialogue/Character/Str/Event/Ma_18.ogg"
+    ],
+    [
+      "Marauder19",
+      "ข้ามอบนักรบแห่ง Kitava ให้ท่าน, Tukomaha, บิดาแห่งสงคราม",
+      "Audio/Dialogue/Character/Str/Event/Ma_19.ogg"
+    ],
+    [
+      "Marauder20",
+      "ความตายมีค่ามากกว่าชีวิตของแก Kraityn",
+      "Audio/Dialogue/Character/Str/Event/Ma_20.ogg"
+    ],
+    [
+      "Marauder21",
+      "ไม่มีเวทมนตร์ใดดำมืดกว่าความตายได้ นางแม่มด",
+      "Audio/Dialogue/Character/Str/Event/Ma_21.ogg"
+    ],
+    [
+      "Marauder22",
+      "การปกครองของเจ้าจบแล้ว ราชาแห่งโจร",
+      "Audio/Dialogue/Character/Str/Event/Ma_22.ogg"
+    ],
+    [
+      "Marauder23",
+      "รู้สึกดีที่ได้รับความอบอุ่นจาก Ramako บิดาแห่งแสงอีกครั้ง",
+      "Audio/Dialogue/Character/Str/Event/Ma_23.ogg"
+    ],
+    [
+      "Marauder24",
+      "เจ้าได้รับการต้อนรับที่นี่ ธิดาแห่ง Ngamakanui",
+      "Audio/Dialogue/Character/Str/Event/Ma_24.ogg"
+    ],
+    [
+      "Marauder25",
+      "ทาสจาก Karui ครั้งนึงได้ถูกซื้อและนำมาขายที่นี่อย่างเช่นหมู",
+      "Audio/Dialogue/Character/Str/Event/Ma_25.ogg"
+    ],
+    [
+      "Marauder26",
+      "ชีวิตที่ยืนยาวเกินไปคือการใช้ชีวิตอยู่ด้วยความเจ็บปวด",
+      "Audio/Dialogue/Character/Str/Event/Ma_26.ogg"
+    ],
+    [
+      "Marauder27",
+      "วิถีแห่ง Eternal ช่างสวยงามและไร้รูปแบบ",
+      "Audio/Dialogue/Character/Str/Event/Ma_27.ogg"
+    ],
+    [
+      "Marauder28",
+      "Piety เจ้าเป็นทาสของ Kitava ธิดาแห่งความเสื่อมอย่างแท้จริง",
+      "Audio/Dialogue/Character/Str/Event/Ma_28.ogg"
+    ],
+    [
+      "Marauder29",
+      "ข้าจะแย่งชิงทุกอย่างที่ Dominus รัก เช่นเดียวกับที่มันทำกับข้า",
+      "Audio/Dialogue/Character/Str/Event/Ma_29.ogg"
+    ],
+    [
+      "Marauder30",
+      "Karui อย่าหลบซ่อนในหอคอยที่สร้างด้วยความกลัว",
+      "Audio/Dialogue/Character/Str/Event/Ma_30.ogg"
+    ],
+    [
+      "Marauder31",
+      "Dominus อาณาจักรของเจ้าตายไปพร้อมกันกับเจ้า Karui จะไม่เป็นทาสของเจ้าอีกต่อไป",
+      "Audio/Dialogue/Character/Str/Event/Ma_31.ogg"
+    ],
+    [
+      "Marauder32",
+      "ข้ารู้สึกเป็นเกียรติที่ได้รับใช้ท่านบรรพบุรุษ",
+      "Audio/Dialogue/Character/Str/Event/Ma_32.ogg"
+    ],
+    [
+      "Marauder33",
+      "\"ไปตามทางแม่น้ำแห่งความตาย ตามรอยเท้าของอาณาจัก Kitava\" เช่นผู้เฒ่าที่บ้านได้บอกไว้",
+      "Audio/Dialogue/Character/Str/Event/Ma_36.ogg"
+    ],
+    [
+      "Marauder34",
+      "พวกวิญญาณไม่มีความเคารพต่อผืนแผ่นดิน",
+      "Audio/Dialogue/Character/Str/Event/Ma_37.ogg"
+    ],
+    [
+      "Marauder35",
+      "อาณาจักรของเจ้าตายไปแล้ว Voll ถึงตาเจ้าบ้าง",
+      "Audio/Dialogue/Character/Str/Event/Ma_38.ogg"
+    ],
+    [
+      "Marauder36",
+      "ข้าได้ยินเจ้า Kitava ข้าเดินในอาณาจักรของเจ้า และข้ากำลังจะมาจัดการเจ้า",
+      "Audio/Dialogue/Character/Str/Event/Ma_39.ogg"
+    ],
+    [
+      "Marauder37",
+      "เสียงท้องของ Kitava กำลังคราว มันกำลังหิวโหยที่จะกินข้า",
+      "Audio/Dialogue/Character/Str/Event/Ma_40.ogg"
+    ],
+    [
+      "Marauder38",
+      "Karui และ Maraketh ได้ต่อสู้ร่วมกันมา ข้าทราบซึ้งในความเป็นเพื่อน",
+      "Audio/Dialogue/Character/Str/Event/Ma_41.ogg"
+    ],
+    [
+      "Marauder39",
+      "Kitava เจ้าจะไม่ได้สิ่งที่เจ้าต้องการอีกต่อไป บรรพบุรุษต้องการมัน",
+      "Audio/Dialogue/Character/Str/Event/Ma_42.ogg"
+    ],
+    [
+      "Marauder40",
+      "ชาว Oriathan ช่างชอบร้องเพลงที่เกี่ยวกับพวกเค้าเอง",
+      "Audio/Dialogue/Character/Str/Event/Ma_43.ogg"
+    ],
+    [
+      "Marauder41",
+      "Tukohama ไม่ได้เรียก Kaom แต่เป็น Kitava",
+      "Audio/Dialogue/Character/Str/Event/Ma_44.ogg"
+    ],
+    [
+      "Marauder42",
+      "พวกเค้ากำลังตามนาย Kaom พวกเค้าไว้ใจนาย",
+      "Audio/Dialogue/Character/Str/Event/Ma_45.ogg"
+    ],
+    [
+      "Marauder43",
+      "มันไม่ใช่วิถีของ Karui ที่จะตั้งคำถามราชาของพวกเรา สิ่งนี้จะต้องเปลี่ยนไป",
+      "Audio/Dialogue/Character/Str/Event/Ma_46.ogg"
+    ],
+    [
+      "Marauder44",
+      "ข้าไม่ยอมรับเกียรติของแก Kaom",
+      "Audio/Dialogue/Character/Str/Event/Ma_47.ogg"
+    ],
+    [
+      "Marauder45",
+      "บรรพบุุรุษจะคร่ำครวญที่จะเห็นสิ่งที่ Kaom ได้สร้างขึ้น",
+      "Audio/Dialogue/Character/Str/Event/Ma_48.ogg"
+    ],
+    [
+      "Marauder46",
+      "ข้าให้เกียรติท่านด้วยความตายของเหล่านักรบ Kaom มันมากกว่าที่ท่านควรได้รับ",
+      "Audio/Dialogue/Character/Str/Event/Ma_49.ogg"
+    ],
+    [
+      "Marauder47",
+      "เส้นทางสู่หัวใจของพระเจ้าคือผ่านทางความกล้าหาญ",
+      "Audio/Dialogue/Character/Str/Event/Ma_50.ogg"
+    ],
+    [
+      "Marauder48",
+      "Piety หักหลังข้าและข้าจะเด็ดหัวของเจ้า",
+      "Audio/Dialogue/Character/Str/Event/Ma_51.ogg"
+    ],
+    [
+      "Marauder49",
+      "ความเจ็บป่วยได้จบลงแล้ว",
+      "Audio/Dialogue/Character/Str/Event/Ma_52.ogg"
+    ],
+    [
+      "Marauder50",
+      "บรรพบุรุษต้องการมัน",
+      "Audio/Dialogue/Character/Str/Event/Ma_53.ogg"
+    ],
+    [
+      "Marauder51",
+      "ตอนนี้เจ้าเป็นอิสระแล้ว เจ้าทาส",
+      "Audio/Dialogue/Character/Str/Event/Ma_54.ogg"
+    ],
+    [
+      "Marauder52",
+      "บรรพบุรุษของข้าให้อภัยเจ้า Piety",
+      "Audio/Dialogue/Character/Str/Event/Ma_55.ogg"
+    ],
+    [
+      "Marauder53",
+      "ได้ยินข้ามั้ย Kitava!? ทาสของพวกเจ้าตายกันหมดและอนาจักรของเจ้าจะตายไปพร้อมกับพวกมัน แกไม่ใช่บิดาแห่งความย่อยยับอีกต่อไป",
+      "Audio/Dialogue/Character/Str/Event/Ma_56.ogg"
+    ],
+    [
+      "Marauder54",
+      "ข้ายังทำไม่ได้",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_33a.ogg"
+    ],
+    [
+      "Marauder55",
+      "มานาของข้าหมด",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_33b.ogg"
+    ],
+    [
+      "Marauder56",
+      "ข้าไม่อาจถือได้",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_33c_01.ogg"
+    ],
+    [
+      "Marauder57",
+      "ข้าไม่อาจถือได้",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_33c_02.ogg"
+    ],
+    [
+      "Marauder58",
+      "อาาา... ค่อยยังชั่ว",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_33d.ogg"
+    ],
+    [
+      "Marauder59",
+      "ข้ายังไม่แข็งแกร่งพอจะใช้มันได้",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_33e.ogg"
+    ],
+    [
+      "Marauder60",
+      "ข้ายังไม่รู้จักวิธีใช้มัน",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_33f_01.ogg"
+    ],
+    [
+      "Marauder61",
+      "ข้ายังไม่รู้จักวิธีใช้มัน",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_33f_02.ogg"
+    ],
+    [
+      "Marauder62",
+      "ข้ายังคล่องแคล่วไม่พอจะใช้มัน",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_33g_01.ogg"
+    ],
+    [
+      "Marauder63",
+      "ข้ายังคล่องแคล่วไม่พอจะใช้มัน",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_33g_02.ogg"
+    ],
+    [
+      "Marauder64",
+      "สัญชาตญาณบอกข้าว่าไม่ควรทำลายมัน",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_33h_01.ogg"
+    ],
+    [
+      "Marauder65",
+      "สัญชาตญาณบอกข้าว่าไม่ควรทำลายมัน",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_33h_02.ogg"
+    ],
+    [
+      "Marauder66",
+      "มันไม่เหมาะที่จะทำแบบนั้นที่นี่",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_33i_01.ogg"
+    ],
+    [
+      "Marauder67",
+      "มันไม่เหมาะที่จะทำแบบนั้นที่นี่",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_33i_02.ogg"
+    ],
+    [
+      "Marauder68",
+      "เพื่อ Tukohama!",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_34a_01.ogg"
+    ],
+    [
+      "Marauder69",
+      "เพื่อ Tukohama!",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_34a_02.ogg"
+    ],
+    [
+      "Marauder70",
+      "ไปสู่ Hinekora!",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_34b_01.ogg"
+    ],
+    [
+      "Marauder71",
+      "ไปสู่ Hinekora!",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_34b_02.ogg"
+    ],
+    [
+      "Marauder72",
+      "กลับไปสู่ผงธุลี!",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_34c_01.ogg"
+    ],
+    [
+      "Marauder73",
+      "กลับไปสู่ผงธุลี!",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_34c_02.ogg"
+    ],
+    [
+      "Marauder74",
+      "ข้ามอบแกให้เหล่าบรรพบุรุษ!",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_34d_01.ogg"
+    ],
+    [
+      "Marauder75",
+      "ข้ามอบแกให้เหล่าบรรพบุรุษ!",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_34d_02.ogg"
+    ],
+    [
+      "Marauder76",
+      "กลับสู่ Kitava!",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_34e_01.ogg"
+    ],
+    [
+      "Marauder77",
+      "กลับสู่ Kitava!",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_34e_02.ogg"
+    ],
+    [
+      "Marauder78",
+      "ข้าอยู่เพื่อพบกับวันใหม่",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_35a.ogg"
+    ],
+    [
+      "Marauder79",
+      "Dominus อยากให้ข้าตายอยู่ที่นี่ ข้าจะทำให้มันต้องผิดหวัง",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_35b.ogg"
+    ],
+    [
+      "Marauder80",
+      "การฆ่าคือการเอาตัวรอดใน Wraeclast",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_35c.ogg"
+    ],
+    [
+      "Marauder81",
+      "ทุกความตาย ทำให้ข้ามีชีวิต",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_35d.ogg"
+    ],
+    [
+      "Marauder82",
+      "บรรพบุรุษเฝ้าดูข้าอยู่",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_35e.ogg"
+    ],
+    [
+      "Marauder83",
+      "ขอบคุณ เหล่าบรรพชนของข้า ข้าจะตอบแทนของขวัญของพวกท่านแน่",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_35f.ogg"
+    ],
+    [
+      "Marauder84",
+      "ดินแดนแห่งนี้ลืมความแข็งแกร่งของคารุยไป ข้าจะฟื้นความจำให้เอง",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_35g.ogg"
+    ],
+    [
+      "Ranger1",
+      "ข้าไม่เคยเห็นความกันดารแบบนี้มาก่อน วันต่อๆ ไปต้องลำบากแน่ๆ\r\n",
+      "Audio/Dialogue/Character/Dex/Event/R_02_GetUp.ogg"
+    ],
+    [
+      "Ranger2",
+      "ไม่มีความยุติธรรมในที่แบบนี้หรอก มีแต่ความน่าเวทนาเท่านั้น",
+      "Audio/Dialogue/Character/Dex/Event/R_03_EnterPrison.ogg"
+    ],
+    [
+      "Ranger3",
+      "ข้าทำกับเจ้าเยี่ยงที่จะทำกับสัตว์บาดเจ็บ บรูตัส",
+      "Audio/Dialogue/Character/Dex/Event/R_04_KillBrutus.ogg"
+    ],
+    [
+      "Ranger4",
+      "ชีวิตและความตายอยู่เคียงข้างกัน ที่นี่ช่างแปลกประหลาด",
+      "Audio/Dialogue/Character/Dex/Event/R_05_EnterShipGraveyard.ogg"
+    ],
+    [
+      "Ranger5",
+      "เจ้าเป็นคนดีในสถานการณ์ที่เลวร้าย แฟร์เกรฟเอ๋ย พักให้สงบเถิด",
+      "Audio/Dialogue/Character/Dex/Event/R_06_KillFairgraves.ogg"
+    ],
+    [
+      "Ranger6",
+      "ความรักของเจ้าที่มีให้บุรุษ นั่นคือสิ่งที่ทำให้เจ้าเป็นแบบนี้ Merveil",
+      "Audio/Dialogue/Character/Dex/Event/R_07_KillMerveil.ogg"
+    ],
+    [
+      "Ranger7",
+      "ทำสิ่งดีงามสักครั้งในชีวิตอันน่าสมเพชของเจ้าเถิด เจ้าโจร ตายไปให้หนอนไชซะ",
+      "Audio/Dialogue/Character/Dex/Event/R_08_KillOak.ogg"
+    ],
+    [
+      "Ranger8",
+      "ราชาของพวกหนูรึ ตอนนี้เป็นอาหารหนูไปแล้ว",
+      "Audio/Dialogue/Character/Dex/Event/R_09_Killkraityn.ogg"
+    ],
+    [
+      "Ranger9",
+      "ความเกลียดชังจะเด็ดดอกไม้ที่สวยงาม แม้แต่ดอกไม้มีพิษอย่างเจ้า",
+      "Audio/Dialogue/Character/Dex/Event/R_10_KillAlira.ogg"
+    ],
+    [
+      "Ranger10",
+      "ความฟุ่มเฟือยและความโหดร้ายจับมือกัน",
+      "Audio/Dialogue/Character/Dex/Event/R_11_EnterCOS.ogg"
+    ],
+    [
+      "Ranger11",
+      "เรื่องนี้ไม่ควรเกิดขึ้น ไม่ใช่ในโลกที่ข้ารู้จัก",
+      "Audio/Dialogue/Character/Dex/Event/R_12_ReleaseVaalShadow.ogg"
+    ],
+    [
+      "Ranger12",
+      "บอกไปให้ทั่วในหมู่พวกเจ้า ฝันร้าย โลกของข้าไม่ยินดีต้อนรับพวกเจ้า",
+      "Audio/Dialogue/Character/Dex/Event/R_12b_KillOversoul.ogg"
+    ],
+    [
+      "Ranger13",
+      "ชีวิตไม่มีอะไรถ้าปราศจากความตาย นั่นคือความจริงพื้นฐานที่ถูกลืมเมื่อนานมาแล้ว",
+      "Audio/Dialogue/Character/Dex/Event/R_13_EnterWarehouse.ogg"
+    ],
+    [
+      "Ranger14",
+      "ข้าไม่รู้สึกห่างไปจากสิ่งที่รู้จักและสิ่งที่รัก",
+      "Audio/Dialogue/Character/Dex/Event/R_14_EnterSolaris.ogg"
+    ],
+    [
+      "Ranger15",
+      "Piety เจ้ามีเรื่องต้องตอบข้าเยอะเลย",
+      "Audio/Dialogue/Character/Dex/Event/R_15_EnterLunaris.ogg"
+    ],
+    [
+      "Ranger16",
+      "หากไม่มีคนอย่างเจ้าเสียอย่าง Gravicius แผ่นดินนี้คงเยียวยาตัวเองได้",
+      "Audio/Dialogue/Character/Dex/Event/R_16_KillGravicius.ogg"
+    ],
+    [
+      "Ranger17",
+      "ความตายของเจ้าไม่อาจแก้ไขอะไรได้ Piety แต่อย่างน้อยมันก็ไม่เลวร้ายลงไปกว่าเดิม",
+      "Audio/Dialogue/Character/Dex/Event/R_17_KillPiety.ogg"
+    ],
+    [
+      "Ranger18",
+      "ทำไมเราถึงยืนยันที่จะสร้างภูเขา? ทำไมเราไม่ปีนข้ามมันไปล่ะ?",
+      "Audio/Dialogue/Character/Dex/Event/R_17b_EnterSceptre.ogg"
+    ],
+    [
+      "Ranger19",
+      "พวกเราบางคนต้องเสียใจภายหลังกับความผิดพลาด แต่ไม่ใช่กับเจ้า Dominus เจ้าได้ใช้โอกาสนั้นไปแล้ว",
+      "Audio/Dialogue/Character/Dex/Event/R_18_KillDominus.ogg"
+    ],
+    [
+      "Ranger20",
+      "หลายๆเมืองได้ผุพังโดยธรรมชาติ และ เมืองซานเป็นเมืองที่เน่าผุพังสกปรกที่สุดของเมืองเหล่านั้น",
+      "Audio/Dialogue/Character/Dex/Event/R_21_EnterAqueduct.ogg"
+    ],
+    [
+      "Ranger21",
+      "ทะเลสาบได้ถูกระบายออก สัตว์ประหลาดนับล้านสูญหาย เพียงเพื่อเมืองซานจะได้เก็บรักษาไว้ซึ่งห้องลับ",
+      "Audio/Dialogue/Character/Dex/Event/R_22_EnterDriedLake.ogg"
+    ],
+    [
+      "Ranger22",
+      "แผ่นดินที่นี่จะไม่คิดถึงเผ่าพันธ์ของแก Voll",
+      "Audio/Dialogue/Character/Dex/Event/R_23_KillVoll.ogg"
+    ],
+    [
+      "Ranger23",
+      "นั่นมันไม่ใช่แผ่นดินไหวธรรมดา",
+      "Audio/Dialogue/Character/Dex/Event/R_24_EnterMines_01.ogg"
+    ],
+    [
+      "Ranger24",
+      "รู็สึกเหมือนมีบางอย่างปลุกเร้าในยามหลับ",
+      "Audio/Dialogue/Character/Dex/Event/R_25_EnterMines_02.ogg"
+    ],
+    [
+      "Ranger25",
+      "ของขวัญจากนักสู้หญิงคนหนึ่งถึงอีกคนหนึ่ง",
+      "Audio/Dialogue/Character/Dex/Event/R_26_FreeDeshret.ogg"
+    ],
+    [
+      "Ranger26",
+      "ภูเขาที่นี่มีปัญหายิ่งนัก",
+      "Audio/Dialogue/Character/Dex/Event/R_27_EnterMines_03.ogg"
+    ],
+    [
+      "Ranger27",
+      "รักอย่างเดียวที่คุณมี Daresso คือตัวคุณเอง",
+      "Audio/Dialogue/Character/Dex/Event/R_28_KillDaresso.ogg"
+    ],
+    [
+      "Ranger28",
+      "นี่ไม่ใช่ คารุยที่ฉันรู้จัก",
+      "Audio/Dialogue/Character/Dex/Event/R_29_EnterKaom.ogg"
+    ],
+    [
+      "Ranger29",
+      "เด็กหนุ่มตัวจ้อยที่กำลังโกรธเผชิญกับโลกที่เค้าต้องแบกรับ",
+      "Audio/Dialogue/Character/Dex/Event/R_30_KillKaom.ogg"
+    ],
+    [
+      "Ranger30",
+      "งั้นนี่คือชีวิตที่ดูเหมือนฝันร้าย",
+      "Audio/Dialogue/Character/Dex/Event/R_31_EnterBelly.ogg"
+    ],
+    [
+      "Ranger31",
+      "ทุกอาชญากรรมต่อธรรมชาติที่สามารถจินตนาการได้",
+      "Audio/Dialogue/Character/Dex/Event/R_32_EnterHarvest.ogg"
+    ],
+    [
+      "Ranger32",
+      "ความใจดีของคุณไม่มีค่าอะไรนอกเหนือจากแผลเป็น มาลิกาโร่",
+      "Audio/Dialogue/Character/Dex/Event/R_33_KillMaligaro.ogg"
+    ],
+    [
+      "Ranger33",
+      "พวกเราทำลายความงามไปมากในการไล่ตามความน่ารัก",
+      "Audio/Dialogue/Character/Dex/Event/R_34_KillShavronne.ogg"
+    ],
+    [
+      "Ranger34",
+      "ศัตรูที่ร้ายกาจที่สุดคือตัวของคุณเอง",
+      "Audio/Dialogue/Character/Dex/Event/R_35_KillDoedre.ogg"
+    ],
+    [
+      "Ranger35",
+      "พายเอดตี้ เธอไม่น่าต่อต้านความตายเลยนะ ธรรมชาติจะจัดการเองเหมือนกับคนอื่นๆ",
+      "Audio/Dialogue/Character/Dex/Event/R_36_AfterPietyDies.ogg"
+    ],
+    [
+      "Ranger36",
+      "คุณกำลังพาความตายมาสู่โลกที่ฉันรัก คุณคิดหรอว่าฉันจะปล่อยให้คุณและสัตว์เดรัชฉานของคุณทำแบบนี้ได้ มาลาคาย",
+      "Audio/Dialogue/Character/Dex/Event/R_37_KillMalachai.ogg"
+    ],
+    [
+      "Ranger37",
+      "ข้ายังไม่พร้อมสำหรับสิ่งนั้น",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_19a_Cooldown_01.ogg"
+    ],
+    [
+      "Ranger38",
+      "ข้ายังไม่พร้อมสำหรับสิ่งนั้น",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_19a_Cooldown_02.ogg"
+    ],
+    [
+      "Ranger39",
+      "มานาของข้าหมด",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_19b_Mana_01.ogg"
+    ],
+    [
+      "Ranger40",
+      "มานาของข้าหมด",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_19b_Mana_02.ogg"
+    ],
+    [
+      "Ranger41",
+      "นั่นคงทำให้ข้าช้าลงก็เท่านั้น",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_19c_Inventory_01.ogg"
+    ],
+    [
+      "Ranger42",
+      "นั่นคงทำให้ข้าช้าลงก็เท่านั้น",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_19c_Inventory_02.ogg"
+    ],
+    [
+      "Ranger43",
+      "อาา..ข้ารู้สึกดีขึ้น",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_19d_Flask_01.ogg"
+    ],
+    [
+      "Ranger44",
+      "อาา..ข้ารู้สึกดีขึ้น",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_19d_Flask_02.ogg"
+    ],
+    [
+      "Ranger45",
+      "ข้าต้องแข็งแกร่งขึ้นเพื่อสิ่งนั้น",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_19e_StrLow_01.ogg"
+    ],
+    [
+      "Ranger46",
+      "ข้าต้องแข็งแกร่งขึ้นเพื่อสิ่งนั้น",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_19e_StrLow_02.ogg"
+    ],
+    [
+      "Ranger47",
+      "ข้าไม่ใช่คนโง่ แต่สิ่งนี้มันจัดการข้าได้",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_19f_IntLow_01.ogg"
+    ],
+    [
+      "Ranger48",
+      "ข้าไม่ใช่คนโง่ แต่สิ่งนี้มันจัดการข้าได้",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_19f_IntLow_02.ogg"
+    ],
+    [
+      "Ranger49",
+      "ข้าต้องฝึกการตอบสนองให้แหลมคมกว่านี้ ถึงจะใช้มันได้",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_19g_DexLow_01.ogg"
+    ],
+    [
+      "Ranger50",
+      "ข้าต้องฝึกการตอบสนองให้แหลมคมกว่านี้ ถึงจะใช้มันได้",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_19g_DexLow_02.ogg"
+    ],
+    [
+      "Ranger51",
+      "ข้ามีลางสังหรณ์ว่าจะต้องใช้สิ่งนี้",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_19h_QuestItem_01.ogg"
+    ],
+    [
+      "Ranger52",
+      "ข้ามีลางสังหรณ์ว่าจะต้องใช้สิ่งนี้",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_19h_QuestItem_02.ogg"
+    ],
+    [
+      "Ranger53",
+      "ข้าไม่รู้จะทำแบบนั้นที่นี่ทำไม",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_19I_SkillsTown_01.ogg"
+    ],
+    [
+      "Ranger54",
+      "ข้าไม่รู้จะทำแบบนั้นที่นี่ทำไม",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_19I_SkillsTown_02.ogg"
+    ],
+    [
+      "Ranger55",
+      "ความสวยงามจะงอกงามจากสิ่งที่เหลืออยู่ของเจ้า",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_19J_RareKill_01.ogg"
+    ],
+    [
+      "Ranger56",
+      "ความสวยงามจะงอกงามจากสิ่งที่เหลืออยู่ของเจ้า",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_19J_RareKill_02.ogg"
+    ],
+    [
+      "Ranger57",
+      "สิ่งมีชีวิตที่ถูกทำให้เสื่อมช่างน่าสงสาร",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_19J_RareKill_03.ogg"
+    ],
+    [
+      "Ranger58",
+      "สิ่งมีชีวิตที่ถูกทำให้เสื่อมช่างน่าสงสาร",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_19J_RareKill_04.ogg"
+    ],
+    [
+      "Ranger59",
+      "การแต่งกิ่งจะช่วยชีวิตของต้นไม้ได้",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_19J_RareKill_05.ogg"
+    ],
+    [
+      "Ranger60",
+      "การแต่งกิ่งจะช่วยชีวิตของต้นไม้ได้",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_19J_RareKill_06.ogg"
+    ],
+    [
+      "Ranger61",
+      "ข้าจะให้โลกนี้กับท่าน",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_19J_RareKill_07.ogg"
+    ],
+    [
+      "Ranger62",
+      "ข้าจะให้โลกนี้กับท่าน",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_19J_RareKill_08.ogg"
+    ],
+    [
+      "Ranger63",
+      "ข้าจะทำให้เจ้าพ้นจากความทรมาน",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_19J_RareKill_09.ogg"
+    ],
+    [
+      "Ranger64",
+      "ข้าจะทำให้เจ้าพ้นจากความทรมาน",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_19J_RareKill_10.ogg"
+    ],
+    [
+      "Ranger65",
+      "ข้าใช้ชีวิตและเรียนรู้",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_20_LevelUp_01.ogg"
+    ],
+    [
+      "Ranger66",
+      "ข้ายังหายใจอยู่ นั่นเป็นสิ่งที่ดี",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_20_LevelUp_02.ogg"
+    ],
+    [
+      "Ranger67",
+      "หนอนพวกนั้นต้องรออีกหน่อยสำหรับอาหารมื้อนี้",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_20_LevelUp_03.ogg"
+    ],
+    [
+      "Ranger68",
+      "ความเจ็บปวดนำมาซึ่งความแข็งแกร่ง นั่นคือธรรมชาติสำหรับคุณ",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_20_LevelUp_04.ogg"
+    ],
+    [
+      "Ranger69",
+      "เมื่อเหยื่อร้ายกาจขึ้น นักล่าย่อมไม่อาจดักดาน",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_20_LevelUp_05.ogg"
+    ],
+    [
+      "Ranger70",
+      "ใกล้ด้านบนสุดของห่วงโซ่อาหารไปอีกขั้น",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_20_LevelUp_06.ogg"
+    ],
+    [
+      "Ranger71",
+      "ดูเหมือนดินแดนแห่งนี้และข้าจะทำความเข้าใจกันได้แล้ว",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_20_LevelUp_07.ogg"
+    ],
+    [
+      "Ranger72",
+      "เจ้ามอบสิ่งต่างๆ ให้ข้ามากเหลือเกิน ข้าจะตอบแทนอะไรให้เจ้าได้บ้าง เรคลาสท์",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_20_LevelUp_08.ogg"
+    ],
+    [
+      "Witch1",
+      "กองทัพใหญ่ที่ประสงค์ร้าย มีพลังที่ต้อนรับข้าอยู่\r\n",
+      "Audio/Dialogue/Character/Int/Event/Witch_01.ogg"
+    ],
+    [
+      "Witch2",
+      "ข้ายอมโดนเผาดีกว่าจะเรียกที่แบบนี้ว่าบ้าน",
+      "Audio/Dialogue/Character/Int/Event/Witch_02.ogg"
+    ],
+    [
+      "Witch3",
+      "ไซเรนดูท่าจะกินดีอยู่ดีนะ",
+      "Audio/Dialogue/Character/Int/Event/Witch_03.ogg"
+    ],
+    [
+      "Witch4",
+      "อากาศส่งกลิ่นอายของมนตราอบอวล ข้าคงได้เรียนรู้อะไรสักอย่างสองอย่างที่นี่",
+      "Audio/Dialogue/Character/Int/Event/Witch_04.ogg"
+    ],
+    [
+      "Witch5",
+      "สัตว์ร้ายหม่นเศร้าในมุมมืด... ดูเหมือนพวกมันจะเศร้าโศกมาเป็นเวลานานแสนนาน",
+      "Audio/Dialogue/Character/Int/Event/Witch_05.ogg"
+    ],
+    [
+      "Witch6",
+      "ข้าไม่รังเกียจจะดูภายในเวทมนตร์นี้เลย ข้าไม่ยอมทนทำงานบ้านหรอก",
+      "Audio/Dialogue/Character/Int/Event/Witch_06.ogg"
+    ],
+    [
+      "Witch7",
+      "คนตายจะต้องทำงานเพื่อข้า ไม่ใช่ต่อต้านข้า",
+      "Audio/Dialogue/Character/Int/Event/Witch_08.ogg"
+    ],
+    [
+      "Witch8",
+      "หากเจ้าเป็นผลงานของข้า เจ้าสัตว์ร้าย เจ้าจะตายง่ายแบบนี้",
+      "Audio/Dialogue/Character/Int/Event/Witch_09.ogg"
+    ],
+    [
+      "Witch9",
+      "และนั่นคือความตายที่เหมาะสมกับเจ้า พ่อนักเดินเรือ ไม่มีอะไรครึ่งๆ กลางๆ ขอบคุณ",
+      "Audio/Dialogue/Character/Int/Event/Witch_10.ogg"
+    ],
+    [
+      "Witch10",
+      "นังปลาน่าสมเพช! ความรักทำให้เจ้าเป็นแบบนี้",
+      "Audio/Dialogue/Character/Int/Event/Witch_11.ogg"
+    ],
+    [
+      "Witch11",
+      "ดินแดนแห่งนี้ไม่มีที่ให้ผู้กดขี่อย่างเจ้าหรอก โอ๊ค",
+      "Audio/Dialogue/Character/Int/Event/W_09_KillOak.ogg"
+    ],
+    [
+      "Witch12",
+      "ช่างน่าผิดหวังจริงๆ ตามปกติแล้วข้าชอบหนูนะ",
+      "Audio/Dialogue/Character/Int/Event/Witch_13.ogg"
+    ],
+    [
+      "Witch13",
+      "เจ้าพลาดบทเรียนอันแสนมีค่าไปแล้ว น้องสาว อย่าปล่อยให้อำนาจบงการความคิด",
+      "Audio/Dialogue/Character/Int/Event/Witch_14.ogg"
+    ],
+    [
+      "Witch14",
+      "น่าเสียดาย ข้าคิดว่าเราจะเป็นเพื่อนกันได้เสียอีก",
+      "Audio/Dialogue/Character/Int/Event/Witch_15.ogg"
+    ],
+    [
+      "Witch15",
+      "เจ้าอยากให้ข้าถูกเผาที่โอเรียธ กราวิเชียส นั่นไม่ค่อยโสภาเท่าไรเลยนะ",
+      "Audio/Dialogue/Character/Int/Event/Witch_16.ogg"
+    ],
+    [
+      "Witch16",
+      "ข้าชอบผลงานของเจ้านะ Piety แต่เป็นเจ้าต่างหาก ที่ข้าไม่ชอบ",
+      "Audio/Dialogue/Character/Int/Event/Witch_17.ogg"
+    ],
+    [
+      "Witch17",
+      "ไม่มีใครหลั่งน้ำตาเพื่อเจ้าหรอก Dominus ไม่แม้แต่ดวงวิญญาณสักดวง",
+      "Audio/Dialogue/Character/Int/Event/Witch_18.ogg"
+    ],
+    [
+      "Witch18",
+      "ช่างน่าอัศจรรย์",
+      "Audio/Dialogue/Character/Int/Event/Witch_19.ogg"
+    ],
+    [
+      "Witch19",
+      "ขอข้าพักหายใจหน่อย",
+      "Audio/Dialogue/Character/Int/Gameplay/Witch_Com_01.ogg"
+    ],
+    [
+      "Witch20",
+      "ข้าจำเป็นต้องใช้มานามากกว่านี้",
+      "Audio/Dialogue/Character/Int/Gameplay/Witch_Com_02.ogg"
+    ],
+    [
+      "Witch21",
+      "ยุ่งเหยิง เกินไป แล้ว",
+      "Audio/Dialogue/Character/Int/Gameplay/Witch_Com_03.ogg"
+    ],
+    [
+      "Witch22",
+      "อาห์ นี่สิความรื่นรมย์",
+      "Audio/Dialogue/Character/Int/Gameplay/Witch_Com_04.ogg"
+    ],
+    [
+      "Witch23",
+      "พลังชีวิตกำลังลดลง!",
+      "Audio/Dialogue/Character/Int/Gameplay/Witch_Com_05.ogg"
+    ],
+    [
+      "Witch24",
+      "ข้าไม่ได้บ้ากล้ามพอจะทำอะไรแบบนั้น",
+      "Audio/Dialogue/Character/Int/Gameplay/Witch_Com_06.ogg"
+    ],
+    [
+      "Witch25",
+      "ข้าพิศวงในข้อนั้น",
+      "Audio/Dialogue/Character/Int/Gameplay/Witch_Com_07.ogg"
+    ],
+    [
+      "Witch26",
+      "ข้าต้องอรชรกว่านี้เพื่อการนั้น",
+      "Audio/Dialogue/Character/Int/Gameplay/Witch_Com_08.ogg"
+    ],
+    [
+      "Witch27",
+      "ไอเท็มชิ้นนี้กระซิบบอกชะตากรรม",
+      "Audio/Dialogue/Character/Int/Gameplay/Witch_Com_09.ogg"
+    ],
+    [
+      "Witch28",
+      "นั่นก็แค่ทำให้ชีวิตมันยากขึ้นเท่านั้นเอง",
+      "Audio/Dialogue/Character/Int/Gameplay/Witch_Com_10.ogg"
+    ],
+    [
+      "Witch29",
+      "ข้านึกว่าข้าจะตายแล้วซะอีก",
+      "Audio/Dialogue/Character/Int/Gameplay/Witch_Level_01.ogg"
+    ],
+    [
+      "Witch30",
+      "ชีวิตคือการเรียนรู้",
+      "Audio/Dialogue/Character/Int/Gameplay/Witch_Level_02.ogg"
+    ],
+    [
+      "Witch31",
+      "ข้าคิดว่า Wraeclast ทำสิ่งนั้นได้",
+      "Audio/Dialogue/Character/Int/Gameplay/Witch_Level_03.ogg"
+    ],
+    [
+      "Witch32",
+      "ชะตากรรมน่ะ แสยะยิ้มฟันคมเชียว",
+      "Audio/Dialogue/Character/Int/Gameplay/Witch_Level_04.ogg"
+    ],
+    [
+      "Witch33",
+      "ข้าแทบจำตัวเองไม่ได้",
+      "Audio/Dialogue/Character/Int/Gameplay/Witch_Level_05.ogg"
+    ],
+    [
+      "Witch34",
+      "แผ่นดินนี้รู้ว่าอะไรจะทำตามความต้องการของข้าได้",
+      "Audio/Dialogue/Character/Int/Gameplay/Witch_Level_06.ogg"
+    ],
+    [
+      "Witch35",
+      "ข้าไม่จำเป็นต้องใช้ความกลัวอีกต่อไป โชคชะตาดูท่าจะเป็นแบบนั้น",
+      "Audio/Dialogue/Character/Int/Gameplay/Witch_Level_07.ogg"
+    ],
+    [
+      "Witch36",
+      "ข้าได้กลิ่นเหม็น เหมือนกับพี่สาวน้องสาวข้า...บนกองฟืน",
+      "Audio/Dialogue/Character/Int/Event/W_04b_EnterCannibalBay.ogg"
+    ],
+    [
+      "Witch37",
+      "ยังดีที่มีชีวิตหลงเหลืออยู่ในเศษซากของทวีปนี้",
+      "Audio/Dialogue/Character/Int/Event/W_08_EnterForest.ogg"
+    ],
+    [
+      "Witch38",
+      "Sarn เป็นเมืองที่ให้กำเหนิดแก่อาณาจักร โอ้ คุณมีอะไรให้ตอบอีกเยอะ",
+      "Audio/Dialogue/Character/Int/Event/W_14b_EnterSarn.ogg"
+    ],
+    [
+      "Witch39",
+      "เมื่่อคุณสร้างอะไรแบบนี้ขึ้นมาการประหารจะกลายเป็นส่วนหนึ่งของชีวิต",
+      "Audio/Dialogue/Character/Int/Event/W_15b_EnterCrematorium.ogg"
+    ],
+    [
+      "Witch40",
+      "หนุ่มลูกเรือผู้น่าสงสาร ถูกพิพากษาให้ไปตามที่ลมพัด",
+      "Audio/Dialogue/Character/Int/Event/W_16b_AfterFairgraves.ogg"
+    ],
+    [
+      "Witch41",
+      "จงจำไว้ Dominus อะไรที่ขึ้นแล้วก็ต้องมีลง",
+      "Audio/Dialogue/Character/Int/Event/W_19b_EnterSceptre.ogg"
+    ],
+    [
+      "Witch42",
+      "น้ำส่งกลิ่นของความเสื่อมออกมา ดูซิว่ามันมาจากใหน ",
+      "Audio/Dialogue/Character/Int/Event/W_23_EnterAqueduct.ogg"
+    ],
+    [
+      "Witch43",
+      "ทำไมชั้นต้องมาจบที่สวยงามแบบนี้ทุกที",
+      "Audio/Dialogue/Character/Int/Event/W_24_EnterDriedLake.ogg"
+    ],
+    [
+      "Witch44",
+      "Thaumaturgy เก่งกว่านายขึ้นเรื่อยๆใช่มั้ยล่ะ Voll",
+      "Audio/Dialogue/Character/Int/Event/W_25_KillVoll.ogg"
+    ],
+    [
+      "Witch45",
+      "ใช่แล้ว ภูเขาน้อย ดีใจที่ได้เจอ",
+      "Audio/Dialogue/Character/Int/Event/W_26_EnterMines01.ogg"
+    ],
+    [
+      "Witch46",
+      "ข้าว่ามันชอบข้าล่ะ",
+      "Audio/Dialogue/Character/Int/Event/W_27_EnterMines2.ogg"
+    ],
+    [
+      "Witch47",
+      "มีดวงวิญญาณที่ถูกกักขังอยู่ในที่แห่งนี้ ข้ารู้สึกได้",
+      "Audio/Dialogue/Character/Int/Event/W_28_FreeDeshret.ogg"
+    ],
+    [
+      "Witch48",
+      "ไม่ต้องกลัวไปภูเขาน้อย แปปเดียวก็เสร็จแล้ว",
+      "Audio/Dialogue/Character/Int/Event/W_29_EnterMines3.ogg"
+    ],
+    [
+      "Witch49",
+      "ข้าขอโทษที่ต้องขัดจังหวะ Daresso แต่ เธอไม่ใช่ของจริง",
+      "Audio/Dialogue/Character/Int/Event/W_30_KillDaresso.ogg"
+    ],
+    [
+      "Witch50",
+      "ข้างในหัวของราชาแห่ง Karui เป็นแบบนี้เอง หวังว่าจะไม่เป็นแบบนี้ไปซะทั้งหมดนะ",
+      "Audio/Dialogue/Character/Int/Event/W_31_EnterKaom.ogg"
+    ],
+    [
+      "Witch51",
+      "ถ้าหัวร้อนก็ต้องเจอแบบนี้แหล่ะ Kaom",
+      "Audio/Dialogue/Character/Int/Event/W_32-KillKaom.ogg"
+    ],
+    [
+      "Witch52",
+      "คงไม่ใช่ง่ายๆที่จะได้เดินเล่นในฝันร้ายของจริงแบบนี้ทุกวันหรอกนะ",
+      "Audio/Dialogue/Character/Int/Event/W_33_EnterBelly.ogg"
+    ],
+    [
+      "Witch53",
+      "ข้าประเมินเจ้าต่ำไปหน่อย Piety ดีมาก! ข้าชอบความตื่นเต้น",
+      "Audio/Dialogue/Character/Int/Event/W_34_EnterHarvest.ogg"
+    ],
+    [
+      "Witch54",
+      "ขอโทษที่พูดจาโหดร้ายนะแต่ข้าเคยเจอดีกว่านี้มาแล้ว",
+      "Audio/Dialogue/Character/Int/Event/W_35_KillMaligaro.ogg"
+    ],
+    [
+      "Witch55",
+      "ดีนะที่จะไม่ได้เห็นผลงานของเจ้าอีกแล้วหลังจากข้าจัดการ Brutus ไป",
+      "Audio/Dialogue/Character/Int/Event/W_36_KillShav.ogg"
+    ],
+    [
+      "Witch56",
+      "Doedre พวกเราแม่มดต้องมีมาตรฐาน",
+      "Audio/Dialogue/Character/Int/Event/W_37_KillDoedre.ogg"
+    ],
+    [
+      "Witch57",
+      "หวังว่าเค้าไม่ได้ฟังนะ Piety มันจะสนุกขึ้นเยอะเลย",
+      "Audio/Dialogue/Character/Int/Event/W_38_AfterPiety.ogg"
+    ],
+    [
+      "Witch58",
+      "Malachai ผู้น่าสงสาร กลัวตายจนตัวสั่นใช่มั้ยล่ะ ทั้งสองคนรู้จักกันก็ดีแล้ว ก็ไม่เลวนะที่ได้รู้จักมัน",
+      "Audio/Dialogue/Character/Int/Event/W_39_KillMalachai.ogg"
+    ],
+    [
+      "Witch59",
+      "เมื่อชั้นพร้อมไม่ใช่ก่อนหน้านั้น",
+      "Audio/Dialogue/Character/Int/Gameplay/W_21_CoolDown_01.ogg"
+    ],
+    [
+      "Witch60",
+      "เมื่อชั้นพร้อมไม่ใช่ก่อนหน้านั้น",
+      "Audio/Dialogue/Character/Int/Gameplay/W_21_CoolDown_02.ogg"
+    ],
+    [
+      "Witch61",
+      "ชีวิตมันสั้น จัดการมันซะ",
+      "Audio/Dialogue/Character/Int/Gameplay/W_21_RareKill_01.ogg"
+    ],
+    [
+      "Witch62",
+      "อ้ะ! ข้านี่ซุ่มซ่ามจริง",
+      "Audio/Dialogue/Character/Int/Gameplay/W_21_RareKill_02.ogg"
+    ],
+    [
+      "Witch63",
+      "ตายให้หมด",
+      "Audio/Dialogue/Character/Int/Gameplay/W_21_RareKill_03.ogg"
+    ],
+    [
+      "Witch64",
+      "ข้าชอบแกแบบนี้มากกว่า",
+      "Audio/Dialogue/Character/Int/Gameplay/W_21_RareKill_04.ogg"
+    ],
+    [
+      "Witch65",
+      "ชีวิตมีค่ามากกว่าจะมาเสียเวลากับเจ้า",
+      "Audio/Dialogue/Character/Int/Gameplay/W_21_RareKill_05.ogg"
+    ],
+    [
+      "Witch66",
+      "นายคือเจ้าแห่งฝันร้ายหรือไม่ฝันร้ายคือเจ้านายของเจ้า",
+      "Audio/Dialogue/Character/Int/Event/W17_EnterLunaris.ogg"
+    ],
+    [
+      "Duelist1",
+      "ไม่ใช่ความพึงใจสูงสุดของอารีนา แต่มันเป็นเรื่องที่ต้องทำ... ในตอนนี้",
+      "Audio/Dialogue/Character/StrDex/Event/D02.ogg"
+    ],
+    [
+      "Duelist2",
+      "ที่นี่แม้แต่คนตายยังท้าทายข้า",
+      "Audio/Dialogue/Character/StrDex/Event/D03.ogg"
+    ],
+    [
+      "Duelist3",
+      "การสู้ในกรงน่ะ ข้าทำได้สบาย",
+      "Audio/Dialogue/Character/StrDex/Event/D04.ogg"
+    ],
+    [
+      "Duelist4",
+      "ความสามารถเอาชนะขนาดได้ทุกครั้ง",
+      "Audio/Dialogue/Character/StrDex/Event/D05.ogg"
+    ],
+    [
+      "Duelist5",
+      "เรายืนอยู่ที่ประตูแห่งความตาย ผู้หญิงก่อน แฟร์ดีนะ Merveil",
+      "Audio/Dialogue/Character/StrDex/Event/D06.ogg"
+    ],
+    [
+      "Duelist6",
+      "ข้าแทบจะรู้สึกเสียใจแทนพวกหมาแห่งท้องทะเลที่ถูกพิพากษาไปแล้ว",
+      "Audio/Dialogue/Character/StrDex/Event/D07.ogg"
+    ],
+    [
+      "Duelist7",
+      "ข้าไม่มีโอกาสประลองกับนักสู้ในตำนานได้ทุกวัน ขอบคุณมาก Fairgraves",
+      "Audio/Dialogue/Character/StrDex/Event/D08.ogg"
+    ],
+    [
+      "Duelist8",
+      "สู้ได้ดี Oak น่าเสียดายที่เรามีแต่ต้นไม้เป็นผู้ชม",
+      "Audio/Dialogue/Character/StrDex/Event/D09.ogg"
+    ],
+    [
+      "Duelist9",
+      "น่าสงสารที่จิตใจเจ้าไม่คล่องแคล่วเท่าดาบของเจ้าเอง เจ้าหนูสะพาน",
+      "Audio/Dialogue/Character/StrDex/Event/D10.ogg"
+    ],
+    [
+      "Duelist10",
+      "มันคงจะยากที่จะร่ายเวทย์สินะแม่มด ในเมื่อตอนที่มีดาบเสียบอยู่ในคอหอยเจ้า",
+      "Audio/Dialogue/Character/StrDex/Event/D11.ogg"
+    ],
+    [
+      "Duelist11",
+      "สถานที่แห่งความฝันที่เปรอะเปื้อน ข้าต้องระวังทุกก้าวเดิน",
+      "Audio/Dialogue/Character/StrDex/Event/D12.ogg"
+    ],
+    [
+      "Duelist12",
+      "แบบนี้ไม่ดีแน่",
+      "Audio/Dialogue/Character/StrDex/Event/D13.ogg"
+    ],
+    [
+      "Duelist13",
+      "การประลองแบบไม่เหมือนครั้งอื่น ข้าชักจะชอบ Wraeclast แล้วสิ",
+      "Audio/Dialogue/Character/StrDex/Event/D14.ogg"
+    ],
+    [
+      "Duelist14",
+      "ข้าชอบการสู้แบบแฟร์ๆ ข้าสงสัยว่าแถวนี้จะไม่มี",
+      "Audio/Dialogue/Character/StrDex/Event/D15.ogg"
+    ],
+    [
+      "Duelist15",
+      "ดูเหมือนว่ายังมีความรุ่งเรืองในอาณาจักรเก่าแก่อยู่",
+      "Audio/Dialogue/Character/StrDex/Event/D16.ogg"
+    ],
+    [
+      "Duelist16",
+      "Piety ไม่อยู่บ้าน มาดูกันว่าแม่มดชั่วร้ายจะอยู่หรือเปล่า",
+      "Audio/Dialogue/Character/StrDex/Event/D17.ogg"
+    ],
+    [
+      "Duelist17",
+      "ความตายในการต่อสู้...สิ่งเดียวที่เป็นเกียรติที่เจ้าได้ทำ Gravicius",
+      "Audio/Dialogue/Character/StrDex/Event/D18.ogg"
+    ],
+    [
+      "Duelist18",
+      "ขอโทษทีนะคนสวยแต่ต้องมีคนจัดการกับความน่าเกลียดนี้",
+      "Audio/Dialogue/Character/StrDex/Event/D19.ogg"
+    ],
+    [
+      "Duelist19",
+      "ปีนหอคอย ฆ่าพระราชาบ้าคลั่ง เหมือนเรื่องที่แม่เลยอ่านให้ฟัง",
+      "Audio/Dialogue/Character/StrDex/Event/D20.ogg"
+    ],
+    [
+      "Duelist20",
+      "ความตายที่เที่ยงธรรมเพื่อแก้ไขผู้เนรเทศที่ไม่ยุติธรรม ข้าว่าเราหายกันแล้ว ท่านเทมพลาสูงสุด",
+      "Audio/Dialogue/Character/StrDex/Event/D21.ogg"
+    ],
+    [
+      "Duelist21",
+      "การทอดน่องไปตามคลองที่สวยงาม บางช่วงเวลาบนภูเขา ไม่มีอะไรผ่อนคลายไปมากกว่านี้แล้ว",
+      "Audio/Dialogue/Character/StrDex/Event/D24.ogg"
+    ],
+    [
+      "Duelist22",
+      "นี่สินะ...ความร้ายกาจ",
+      "Audio/Dialogue/Character/StrDex/Event/D25.ogg"
+    ],
+    [
+      "Duelist23",
+      "Voll ดูเหมือนว่าข้าทำไปเพื่อช่วยท่าน",
+      "Audio/Dialogue/Character/StrDex/Event/D26.ogg"
+    ],
+    [
+      "Duelist24",
+      "ไม่มีอะไรเหมือนกับการสร้างทางเข้าที่น่าตื่นตาตื่นใจ",
+      "Audio/Dialogue/Character/StrDex/Event/D27.ogg"
+    ],
+    [
+      "Duelist25",
+      "จริงๆแล้วข้าไม่แน่ใจว่าข้าชอบเสียงนั้น",
+      "Audio/Dialogue/Character/StrDex/Event/D28.ogg"
+    ],
+    [
+      "Duelist26",
+      "ดีใจเสมอที่ได้ช่วยหญิงสาวจากความเศร้า",
+      "Audio/Dialogue/Character/StrDex/Event/D29.ogg"
+    ],
+    [
+      "Duelist27",
+      "ฝังไว้ให้หินกลบมากมาย ไม่น่าจะใช่วิธีจบเรื่องที่ดีเลยนะ",
+      "Audio/Dialogue/Character/StrDex/Event/D30.ogg"
+    ],
+    [
+      "Duelist28",
+      "เห้ย ดีนะที่ได้กลับมาในอารีน่า",
+      "Audio/Dialogue/Character/StrDex/Event/D31.ogg"
+    ],
+    [
+      "Duelist29",
+      "ชื่อเสียงของท่านจะถูกจดจำอยู่ในเพลงไปตลอดกาล Daresso ข้าสัญญา",
+      "Audio/Dialogue/Character/StrDex/Event/D32.ogg"
+    ],
+    [
+      "Duelist30",
+      "ข้าเคยได้ยินชาว Karui กล่าวถึงเกาะแห่งความตาย บางทีอาจจะเป็นที่นี่",
+      "Audio/Dialogue/Character/StrDex/Event/D33.ogg"
+    ],
+    [
+      "Duelist31",
+      "ดีใจที่ได้ตายอย่างนักรบเถอะ Kaom",
+      "Audio/Dialogue/Character/StrDex/Event/D34.ogg"
+    ],
+    [
+      "Duelist32",
+      "ข้าอยู่ในตัวพวกมัน ตัวอสูรกายเอง!",
+      "Audio/Dialogue/Character/StrDex/Event/D35.ogg"
+    ],
+    [
+      "Duelist33",
+      "มันเริ่มจะหลอนขึ้นเรื่อยๆทุกๆย่างก้าว",
+      "Audio/Dialogue/Character/StrDex/Event/D36.ogg"
+    ],
+    [
+      "Duelist34",
+      "พักผ่อนซะ Maligaro งานของศิลปินมีค่ามากขึ้นหลังจากศิลปินตายไปแล้วเสมอ",
+      "Audio/Dialogue/Character/StrDex/Event/D37.ogg"
+    ],
+    [
+      "Duelist35",
+      "ประจบสอพลอใช้กับข้าไม่ได้หรอกนะเจ้าหญิง",
+      "Audio/Dialogue/Character/StrDex/Event/D38.ogg"
+    ],
+    [
+      "Duelist36",
+      "ข้าไม่ได้ยินที่เจ้าพูดเลยซักคำโดรเดร แต่แบบนั้นก็น่าจะดีแล้วล่ะ",
+      "Audio/Dialogue/Character/StrDex/Event/D39.ogg"
+    ],
+    [
+      "Duelist37",
+      "จะให้ข้าปฏิเสธคำขอร้องสุดท้ายของท่านหญิงคงจะไม่ใช่",
+      "Audio/Dialogue/Character/StrDex/Event/D40.ogg"
+    ],
+    [
+      "Duelist38",
+      "ความรู้สึกประหลาดหลังจากการต่อสู้จบลง ข้าชนะ ฝันร้ายจบแล้ว",
+      "Audio/Dialogue/Character/StrDex/Event/D41.ogg"
+    ],
+    [
+      "Duelist39",
+      "ข้าว่ามันน่าจะมีประโยชน์บ้างล่ะ",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D22_DestroyQuestItem_01.ogg"
+    ],
+    [
+      "Duelist40",
+      "ข้าว่ามันน่าจะมีประโยชน์บ้างล่ะ",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D22_DestroyQuestItem_02.ogg"
+    ],
+    [
+      "Duelist41",
+      "จำเป็นต้องคล่องแคล่วกว่านี้อีกนิดถึงจะใช้ได้",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D22_DexStatLow_01.ogg"
+    ],
+    [
+      "Duelist42",
+      "จำเป็นต้องคล่องแคล่วกว่านี้อีกนิดถึงจะใช้ได้",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D22_DexStatLow_02.ogg"
+    ],
+    [
+      "Duelist43",
+      "โอ้ว ... ตรงเป้าพอดี",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D22_HeathFlaskOnLow_01.ogg"
+    ],
+    [
+      "Duelist44",
+      "โอ้ว ... ตรงเป้าพอดี",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D22_HeathFlaskOnLow_02.ogg"
+    ],
+    [
+      "Duelist45",
+      "เรื่องนี้ไม่เข้าใจจริงๆ",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D22_IntStatLow_01.ogg"
+    ],
+    [
+      "Duelist46",
+      "เรื่องนี้ไม่เข้าใจจริงๆ",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D22_IntStatLow_02.ogg"
+    ],
+    [
+      "Duelist47",
+      "ข้าเชื่อว่าการเดินทางควรใช้ของเท่าที่จำเป็น",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D22_InvFull_01.ogg"
+    ],
+    [
+      "Duelist48",
+      "ข้าเชื่อว่าการเดินทางควรใช้ของเท่าที่จำเป็น",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D22_InvFull_02.ogg"
+    ],
+    [
+      "Duelist49",
+      "ศัตรูที่คู่ควร!",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D22_MonsterKillV1_01.ogg"
+    ],
+    [
+      "Duelist50",
+      "ศัตรูที่คู่ควร!",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D22_MonsterKillV1_02.ogg"
+    ],
+    [
+      "Duelist51",
+      "ตายได้งดงาม!",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D22_MonsterKillV2_01.ogg"
+    ],
+    [
+      "Duelist52",
+      "ตายได้งดงาม!",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D22_MonsterKillV2_02.ogg"
+    ],
+    [
+      "Duelist53",
+      "เหงื่อยังไม่ทันออก!",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D22_MonsterKillV3_01.ogg"
+    ],
+    [
+      "Duelist54",
+      "เหงื่อยังไม่ทันออก!",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D22_MonsterKillV3_02.ogg"
+    ],
+    [
+      "Duelist55",
+      "ฝึกฝนเพื่อความสมบูรณ์แบบ",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D22_MonsterKillV4_01.ogg"
+    ],
+    [
+      "Duelist56",
+      "ฝึกฝนเพื่อความสมบูรณ์แบบ",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D22_MonsterKillV4_02.ogg"
+    ],
+    [
+      "Duelist57",
+      "ข้าชอบกลิ่นของชัยชนะ",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D22_MonsterKillV5_01.ogg"
+    ],
+    [
+      "Duelist58",
+      "ข้าชอบกลิ่นของชัยชนะ",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D22_MonsterKillV5_02.ogg"
+    ],
+    [
+      "Duelist59",
+      "ข้าทุ่มเทวิญญาณ",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D22_OutOfMana_01.ogg"
+    ],
+    [
+      "Duelist60",
+      "ข้าทุ่มเทวิญญาณ",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D22_OutOfMana_02.ogg"
+    ],
+    [
+      "Duelist61",
+      "ข้ายังทำไม่ได้",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D22_SkillCooldown_01.ogg"
+    ],
+    [
+      "Duelist62",
+      "ข้ายังทำไม่ได้",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D22_SkillCooldown_02.ogg"
+    ],
+    [
+      "Duelist63",
+      "ข้าต้องมีพลังมากกว่านี้",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D22_StrStatLow_01.ogg"
+    ],
+    [
+      "Duelist64",
+      "ข้าต้องมีพลังมากกว่านี้",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D22_StrStatLow_02.ogg"
+    ],
+    [
+      "Duelist65",
+      "เวลาสำหรับเรื่องนั้นใกล้เข้ามาแล้ว",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D22_UseSkillInTown_01.ogg"
+    ],
+    [
+      "Duelist66",
+      "เวลาสำหรับเรื่องนั้นใกล้เข้ามาแล้ว",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D22_UseSkillInTown_02.ogg"
+    ],
+    [
+      "Duelist67",
+      "ดีนะที่ยังไม่ถึงเวลาตาย",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D23_LevelUp_01.ogg"
+    ],
+    [
+      "Duelist68",
+      "พื้นที่แถวนี้น่าจะเข้ากับข้าได้ดี",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D23_LevelUp_02.ogg"
+    ],
+    [
+      "Duelist69",
+      "ไม่มีที่ใหนเหมาะกับการฝึกฝนเท่า Wraeclast อีกแล้ว",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D23_LevelUp_03.ogg"
+    ],
+    [
+      "Duelist70",
+      "แฟนๆ ของข้าในโอเรียธคงแทบจำข้าไม่ได้",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D23_LevelUp_04.ogg"
+    ],
+    [
+      "Duelist71",
+      "ข้าเริ่มจะเชื่อว่ามีอะไรในชีวิตมากกว่ารางวัลและความพ่ายแพ้",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D23_LevelUp_05.ogg"
+    ],
+    [
+      "Duelist72",
+      "ข้าว่าข้าจะทำให้ดาเรสโซ่ผู้ยิ่งใหญ่ได้เจอความท้าทายซักหน่อย",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D23_LevelUp_06.ogg"
+    ],
+    [
+      "Duelist73",
+      "ถึงเวลาต้องกลับบ้านแล้ว ข้ารู้สึกว่าเวลาของข้าใกล้เข้ามาทุกที",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D23_LevelUp_07.ogg"
+    ],
+    [
+      "Shadow1",
+      "ที่นี่เหมือนกับโรงละคร Theopolis Prison ดูไม่ค่อยเหมือนเดิมเท่าไร",
+      "Audio/Dialogue/Character/DexInt/Event/Shadow_02.ogg"
+    ],
+    [
+      "Shadow2",
+      "ส่วนมากข้าจะสร้างผีมากกว่า ใครๆก็คงจะยุ่ง",
+      "Audio/Dialogue/Character/DexInt/Event/Shadow_03.ogg"
+    ],
+    [
+      "Shadow3",
+      "ข้าเคยเจอสถานที่แย่ๆและมืดมนมาเยอะ แต่นี่มันยิ่งกว่า",
+      "Audio/Dialogue/Character/DexInt/Event/Shadow_04.ogg"
+    ],
+    [
+      "Shadow4",
+      "มันบอกว่าให้ข้ามองชีวิตและความตายไม่ต่างกัน ถ้าข้าตายไปข้าจะขุ่นเคืองกับที่นี่",
+      "Audio/Dialogue/Character/DexInt/Event/Shadow_05.ogg"
+    ],
+    [
+      "Shadow5",
+      "ที่นี่ไม่มีอะไรเปลี่ยนไปเลยแม้แต่น้อย ใครบางคนดูจะว่างมากเป็นพิเศษ",
+      "Audio/Dialogue/Character/DexInt/Event/Shadow_06.ogg"
+    ],
+    [
+      "Shadow6",
+      "เคยทำขวดนมหกไปทีนึง ที่นี่ทำให้รู้สึกยังงั้นเลย",
+      "Audio/Dialogue/Character/DexInt/Event/Shadow_07.ogg"
+    ],
+    [
+      "Shadow7",
+      "\"ใหญ่\" ก็แค่หมายความว่า \"มีที่ให้เสียบดาบ\" เยอะขึ้น",
+      "Audio/Dialogue/Character/DexInt/Event/Shadow_08.ogg"
+    ],
+    [
+      "Shadow8",
+      "เสียใจด้วยนะ Fairgraves ตายครั้งที่สองคงไม่สนุกเท่าไร",
+      "Audio/Dialogue/Character/DexInt/Event/Shadow_09.ogg"
+    ],
+    [
+      "Shadow9",
+      "ได้เต้นกับสาวผู้เพียบพร้อมครั้งแรก น่าสงสารเธอปล่อยตัวแบบนั้น",
+      "Audio/Dialogue/Character/DexInt/Event/Shadow_10.ogg"
+    ],
+    [
+      "Shadow10",
+      "นั่นคือสิ่งที่นายจะได้รับเมื่อเอาไม้มาสู้กับมีด",
+      "Audio/Dialogue/Character/DexInt/Event/Shadow_11.ogg"
+    ],
+    [
+      "Shadow11",
+      "การฟาดฟันด้วยดาบอันสวยงาม จริงๆแล้วแค่เสียบได้ซักทีก็พอแล้ว",
+      "Audio/Dialogue/Character/DexInt/Event/Shadow_12.ogg"
+    ],
+    [
+      "Shadow12",
+      "พื้้นดินช่วยอะไรเธอรึเปล่าที่รัก ดูเหมือนจะกระแทกพื้นแรงอยู่นะ",
+      "Audio/Dialogue/Character/DexInt/Event/Shadow_13.ogg"
+    ],
+    [
+      "Shadow13",
+      "ข้าชอบความมืดพอๆกับการลอบสังหาร แต่นั้นมันอาจจะเกินไปหน่อย",
+      "Audio/Dialogue/Character/DexInt/Event/Shadow_14.ogg"
+    ],
+    [
+      "Shadow14",
+      "ไม่ใช่ว่าข้าสังหารแกไปแล้วที่ Oriath หรอกหรอ ช่วงนี้เงินมาช้า ความยุติธรรมไปใหนซะหมด",
+      "Audio/Dialogue/Character/DexInt/Event/Shadow_15.ogg"
+    ],
+    [
+      "Shadow15",
+      "ข้าไม่เอางานมาปนกับเรื่องส่วนตัว แต่ว่า Piety ข้าพอใจมากที่จะยกเว้นเจ้าซักคน",
+      "Audio/Dialogue/Character/DexInt/Event/Shadow_16.ogg"
+    ],
+    [
+      "Shadow16",
+      "น่าตลกนะท่าน ข้าคิดว่าท่านจะสูงกว่านี้ซะอีก",
+      "Audio/Dialogue/Character/DexInt/Event/Shadow_17.ogg"
+    ],
+    [
+      "Shadow17",
+      "ไม่มีอะไรดีเท่าการล้วงกระเป๋าแบบรวดเร็วยามเช้า ข้าเล่าถึงใหนละนะ",
+      "Audio/Dialogue/Character/DexInt/Event/Shadow_01.ogg"
+    ],
+    [
+      "Shadow18",
+      "เงานี้ชักจะไม่เพียงพอแล้วสิ",
+      "Audio/Dialogue/Character/DexInt/Event/Shadow_18.ogg"
+    ],
+    [
+      "Shadow19",
+      "มานาเหลือน้อย",
+      "Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Com_01.ogg"
+    ],
+    [
+      "Shadow20",
+      "กระเป๋าเพิ่มน่าจะดี",
+      "Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Com_02.ogg"
+    ],
+    [
+      "Shadow21",
+      "แบบนั้นแหล่ะ รู้สึกยอดเยี่ยม",
+      "Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Com_04.ogg"
+    ],
+    [
+      "Shadow22",
+      "ข้ายังแข็งแกร่งไม่พอ",
+      "Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Com_05.ogg"
+    ],
+    [
+      "Shadow23",
+      "ข้ายังฉลาดไม่พอ",
+      "Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Com_06.ogg"
+    ],
+    [
+      "Shadow24",
+      "วุ่นวายเกินไป แม้แต่สำหรับข้าเอง",
+      "Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Com_07.ogg"
+    ],
+    [
+      "Shadow25",
+      "ข้าควรเก็บมันไว้ก่อน",
+      "Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Com_08.ogg"
+    ],
+    [
+      "Shadow26",
+      "ข้ายังไม่ควรทำในตอนนี้",
+      "Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Com_09.ogg"
+    ],
+    [
+      "Shadow27",
+      "ดีนะที่ยังไม่ตาย",
+      "Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Level_01.ogg"
+    ],
+    [
+      "Shadow28",
+      "ข้าประทับใจสุดๆ ที่นี่อยากให้ข้าตายจริงจัง",
+      "Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Level_02.ogg"
+    ],
+    [
+      "Shadow29",
+      "ทุกครั้งที่ผ่านความตาย ชีวิตค่อยๆมีค่าขึ้น",
+      "Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Level_03.ogg"
+    ],
+    [
+      "Shadow30",
+      "ข้าเก่งเกินไปจนตัวข้าเองยังกลัว",
+      "Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Level_04.ogg"
+    ],
+    [
+      "Shadow31",
+      "ข้าคือคนทำสวน จัดการพวกวัชพืชเพื่อให้พร้อมต่อการเพาะปลูก",
+      "Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Level_05.ogg"
+    ],
+    [
+      "Shadow32",
+      "มองย้อนกลับไปก็ไม่มีประโยชน์ แค่ตาย ... ตายเยอะมาก",
+      "Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Level_06.ogg"
+    ],
+    [
+      "Shadow33",
+      "ข้าจะสงสัยในสิ่งที่ข้าจะเป็นถ้ามันจำเป็น ข้าไม่สงสัยหรอก",
+      "Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Level_07.ogg"
+    ],
+    [
+      "Shadow34",
+      "พวก Fairgraves ที่น่าสงสาร แผนการพวกแกมันจบไม่สวยสินะ",
+      "Audio/Dialogue/Character/DexInt/Event/SH_AfterFairgraves.ogg"
+    ],
+    [
+      "Shadow35",
+      "นี่สิสัญญาแบบที่ข้าจะดีใจมากที่ได้ทำตามสัญญา",
+      "Audio/Dialogue/Character/DexInt/Event/SH_AfterPiety.ogg"
+    ],
+    [
+      "Shadow36",
+      "ผืนน้ำขนาดนี้แต่ไม่เห็นมีเรือซักลำ เดินเยอะก็ฆ่าเยอะสำหรับข้าละกัน",
+      "Audio/Dialogue/Character/DexInt/Event/SH_EnterAqueduct_01.ogg"
+    ],
+    [
+      "Shadow37",
+      "สัตว์ร้ายนี่เหลือเชื่อจริงๆ ข้าเกือบจะรู้สึกเสียดายที่ต้องฆ่ามัน",
+      "Audio/Dialogue/Character/DexInt/Event/SH_EnterBeast.ogg"
+    ],
+    [
+      "Shadow38",
+      "ข้าอยู่ในป้อมปราการ Blackguard เหมือนหมาป่าในเล้าไก่",
+      "Audio/Dialogue/Character/DexInt/Event/SH_EnterBlackguard.ogg"
+    ],
+    [
+      "Shadow39",
+      "เตาหลอมที่โรงเชือด ที่นี่มันส่งกลิ่นแบบนั้น",
+      "Audio/Dialogue/Character/DexInt/Event/SH_EnterCoast.ogg"
+    ],
+    [
+      "Shadow40",
+      "ป่า ความตายมีที่ให้ซ่อนเยอะมากในป่า",
+      "Audio/Dialogue/Character/DexInt/Event/SH_EnterForest.ogg"
+    ],
+    [
+      "Shadow41",
+      "ชั้นกำลังร่วมมือกับ Piety ยิ่งพูดออกมายิ่งแปลก",
+      "Audio/Dialogue/Character/DexInt/Event/SH_EnterHarvest.ogg"
+    ],
+    [
+      "Shadow42",
+      "ชั้นเคยเสียเวลามากว่า 3 วัน เพียงเพราะแค่ความหลงลืม รู้สึกเหมือนที่นี่เลย",
+      "Audio/Dialogue/Character/DexInt/Event/SH_EnterLunaris.ogg"
+    ],
+    [
+      "Shadow43",
+      "กลืนกินโดยความมืด รู้สึกเหมือนจะอาหารไม่ย่อยนะ",
+      "Audio/Dialogue/Character/DexInt/Event/SH_EnterMines1.ogg"
+    ],
+    [
+      "Shadow44",
+      "ใครหรืออะไรบางอย่างทำให้ยุ่งอยู่ในภูเขานี้",
+      "Audio/Dialogue/Character/DexInt/Event/SH_EnterMines2.ogg"
+    ],
+    [
+      "Shadow45",
+      "หวังว่าลำไส้ท้องผูกจะไม่ปล่อยอะไรออกไปตอนชั้นยังอยู่ในนี้นะ",
+      "Audio/Dialogue/Character/DexInt/Event/SH_EnterMines3.ogg"
+    ],
+    [
+      "Shadow46",
+      "อ้า! รู้สึกดีที่ได้กลับมาในเมืองอีก",
+      "Audio/Dialogue/Character/DexInt/Event/SH_EnterSarn.ogg"
+    ],
+    [
+      "Shadow47",
+      "ใครก็ตามที่สร้างสิ่งนี้ต้องพยายามชดเชยบางอย่างที่ขาดหายไปแน่ๆ",
+      "Audio/Dialogue/Character/DexInt/Event/SH_EnterScepter.ogg"
+    ],
+    [
+      "Shadow48",
+      "มันรู้สึกสบายเสมอเมื่อได้เป็นสักขีพยานการตายอย่างถาวร",
+      "Audio/Dialogue/Character/DexInt/Event/SH_FreeDeshret.ogg"
+    ],
+    [
+      "Shadow49",
+      "โอ้, ท่านร้องเพลงเพื่อผมด้วยได้มั้ย Merveil อะไรที่สนุกๆได้มั้ย",
+      "Audio/Dialogue/Character/DexInt/Event/SH_KillDaresso.ogg"
+    ],
+    [
+      "Shadow50",
+      "อยุดพึมพำซะที",
+      "Audio/Dialogue/Character/DexInt/Event/SH_KillDoedre.ogg"
+    ],
+    [
+      "Shadow51",
+      "ฆ่าคนที่ตายไปแล้วได้หรอ",
+      "Audio/Dialogue/Character/DexInt/Event/SH_KillFirstZombie.ogg"
+    ],
+    [
+      "Shadow52",
+      "เจ้าเข้าใจผิด Malachai ความตายคือแค่สิ่งเดียวที่ทำให้ชีวิตมีค่า",
+      "Audio/Dialogue/Character/DexInt/Event/SH_KillMalachai.ogg"
+    ],
+    [
+      "Shadow53",
+      "ข้าไม่รู้เรื่องศิลปะดีเท่าไรแต่ข้ารู้ว่าข้าต้องการอะไร",
+      "Audio/Dialogue/Character/DexInt/Event/SH_KillMaligaro.ogg"
+    ],
+    [
+      "Shadow54",
+      "สำหรับคนที่คลั่งไคล้เรื่องหน้าตา นั่นมันตายไม่ค่อยสวย",
+      "Audio/Dialogue/Character/DexInt/Event/SH_KillShavronne.ogg"
+    ],
+    [
+      "Shadow55",
+      "ข้าเพิ่งสังหารราชา ขนนกใหญ่ขนาดนั้น ข้าคงต้องใช้หมวกใหญ่กว่านี้",
+      "Audio/Dialogue/Character/DexInt/Event/SH_KillVoll.ogg"
+    ],
+    [
+      "Shadow56",
+      "ขอเวลาหายใจหน่อย",
+      "Audio/Dialogue/Character/DexInt/Gameplay/SH_Cooldown_01.ogg"
+    ],
+    [
+      "Shadow57",
+      "ขอเวลาหายใจหน่อย",
+      "Audio/Dialogue/Character/DexInt/Gameplay/SH_Cooldown_02.ogg"
+    ],
+    [
+      "Shadow58",
+      "ขอเวลาหายใจหน่อย",
+      "Audio/Dialogue/Character/DexInt/Gameplay/SH_Cooldown_03.ogg"
+    ],
+    [
+      "Shadow59",
+      "นั่นมันน่าพอใจมาก",
+      "Audio/Dialogue/Character/DexInt/Gameplay/SH_MonsterKill_01a.ogg"
+    ],
+    [
+      "Shadow60",
+      "นั่นมันน่าพอใจมาก",
+      "Audio/Dialogue/Character/DexInt/Gameplay/SH_MonsterKill_01b.ogg"
+    ],
+    [
+      "Shadow61",
+      "นักฆ่าไม่เท่าเทียมกันไปทั้งหมด",
+      "Audio/Dialogue/Character/DexInt/Gameplay/SH_MonsterKill_02a.ogg"
+    ],
+    [
+      "Shadow62",
+      "นักฆ่าไม่เท่าเทียมกันไปทั้งหมด",
+      "Audio/Dialogue/Character/DexInt/Gameplay/SH_MonsterKill_02b.ogg"
+    ],
+    [
+      "Shadow63",
+      "สนุกจริง",
+      "Audio/Dialogue/Character/DexInt/Gameplay/SH_MonsterKill_03a.ogg"
+    ],
+    [
+      "Shadow64",
+      "สนุกจริง",
+      "Audio/Dialogue/Character/DexInt/Gameplay/SH_MonsterKill_03b.ogg"
+    ],
+    [
+      "Shadow65",
+      "แกล้งตาย หมาน้อย",
+      "Audio/Dialogue/Character/DexInt/Gameplay/SH_MonsterKill_04.ogg"
+    ],
+    [
+      "Shadow66",
+      "คิดว่าความตายเหมือนกับวันอยุดสิ Kaom เวลาพักผ่อน เอาเท้าขึ้นมา",
+      "Audio/Dialogue/Character/DexInt/Event/SH_KillKaom.ogg"
+    ],
+    [
+      "Shadow67",
+      "ตลกแห้งยังกะห้องดับจิต",
+      "Audio/Dialogue/Character/DexInt/Event/SH_EnterLake.ogg"
+    ],
+    [
+      "Shadow68",
+      "ที่อะไรขยะแขยงชะมัด",
+      "Audio/Dialogue/Character/DexInt/Event/SH_EnterKaom.ogg"
+    ],
+    [
+      "Templar1",
+      "ฝันร้ายของชั้น...มันคือคำทำนาย",
+      "Audio/Dialogue/Character/StrInt/Event/Templar_01.ogg"
+    ],
+    [
+      "Templar2",
+      "ในกรงนี้ปีศาจกำลังคลานอยู่บนลูกกรง หอนเรียกอิสระ",
+      "Audio/Dialogue/Character/StrInt/Event/Templar_02.ogg"
+    ],
+    [
+      "Templar3",
+      "ห้องดับจิตสำหรับเด็กหลง ถูกซ่อนจากสายตาของผู้เป็นพ่อ",
+      "Audio/Dialogue/Character/StrInt/Event/Templar_03.ogg"
+    ],
+    [
+      "Templar4",
+      "รังของนักทำของเล่น ด้วยการร้องเรียกพระเจ้า",
+      "Audio/Dialogue/Character/StrInt/Event/Templar_04.ogg"
+    ],
+    [
+      "Templar5",
+      "ชีวิตอยู่มือขวา ความตายอยู่มือซ้าย และผู้ตกผ่านนิ้วของพระเจ้า",
+      "Audio/Dialogue/Character/StrInt/Event/Templar_05.ogg"
+    ],
+    [
+      "Templar6",
+      "บางอย่างชั่วนิรันยังอยู่ที่อาณาจักรนี้ คำถามคือได้อย่างไร",
+      "Audio/Dialogue/Character/StrInt/Event/Templar_06.ogg"
+    ],
+    [
+      "Templar7",
+      "และแล้ว ชั้นเดินก้าวแรกสู่การเกิดใหม่",
+      "Audio/Dialogue/Character/StrInt/Event/Templar_07.ogg"
+    ],
+    [
+      "Templar8",
+      "แม้แต่ความตายก็ไม่ปลอบใจในดินแดนที่ทรมานนี้",
+      "Audio/Dialogue/Character/StrInt/Event/Templar_08.ogg"
+    ],
+    [
+      "Templar9",
+      "พักผ่อนซะ วิญญาณผู้ถูกทำให้ทรมาน",
+      "Audio/Dialogue/Character/StrInt/Event/Templar_09.ogg"
+    ],
+    [
+      "Templar10",
+      "หญิงผู้ถูกทำให้เสื่อมเกินกว่าความเป็นมนุษย์ ข้าต้องรักษาโรคร้ายเหล่านี้ก่อนจะทำให้การสร้างของพระเจ้าเจ็บป่วยไปหมด",
+      "Audio/Dialogue/Character/StrInt/Event/Templar_10.ogg"
+    ],
+    [
+      "Templar11",
+      "แกกล้าพูดถึงความสงบหรือ พวกยนอกกฎหมาย นั่นไงความสงบที่คำโกหกทำให้แก",
+      "Audio/Dialogue/Character/StrInt/Event/Templar_11.ogg"
+    ],
+    [
+      "Templar12",
+      "แกไม่เป็นเจ้าของอะไรทั้งนั้น โจร ไม่แม้แต่ชีวิตที่แกเสียไปกับเจตนาร้ายและความโลภ",
+      "Audio/Dialogue/Character/StrInt/Event/Templar_12.ogg"
+    ],
+    [
+      "Templar13",
+      "เจ้าได้รับพระพร บุตรสาวของพระเจ้า พระองค์จะแสดงให้เห็นว่ามิตรภาพที่แท้นั้นเป็นเช่นไร",
+      "Audio/Dialogue/Character/StrInt/Event/Templar_13.ogg"
+    ],
+    [
+      "Templar14",
+      "กลับไปในที่ของเจ้าเสีย ฝันร้าย! ความศรัทธาไม่จำเป็นต้องกลัวเผ่าพันธุ์ของเจ้า",
+      "Audio/Dialogue/Character/StrInt/Event/Templar_14.ogg"
+    ],
+    [
+      "Templar15",
+      "เจ้าเลือกเส้นทางแล้ว เพื่อนเก่า ซึ่งพระเจ้าทรงวางข้าไว้ที่ปลายเส้นทางนั้น",
+      "Audio/Dialogue/Character/StrInt/Event/Templar_15.ogg"
+    ],
+    [
+      "Templar16",
+      "พักผ่อนเสีย ในขณะที่เจ้ายังทำได้ นายหญิงแห่งความทุกข์ คำพิพากษาของพระองค์คงไม่ปรานีเจ้าแน่",
+      "Audio/Dialogue/Character/StrInt/Event/Templar_16.ogg"
+    ],
+    [
+      "Templar17",
+      "การเนรเทศข้าทำให้เจ้ากลายเป็นต้นกำเนิดของข้า Dominus และในตอนนี้ ข้ายืนอยู่ที่นี่โดยมีระยะทางและการฆ่าฟันนับไม่ถ้วนอยู่เบื้องหลัง เป็นเกียรติอย่างยิ่งที่จะได้ชำระบาปของเจ้า!",
+      "Audio/Dialogue/Character/StrInt/Event/Templar_17.ogg"
+    ],
+    [
+      "Templar18",
+      "ข้าขอวิงวอนต่อพระองค์ พระผู้เป็นเจ้า ช่วยให้ข้าเป็นผู้นำโลกแห่งนี้กลับสู่แสงสว่างด้วยเถิด",
+      "Audio/Dialogue/Character/StrInt/Event/Templar_18.ogg"
+    ],
+    [
+      "Templar19",
+      "มานาถูกใช้ไปแล้ว",
+      "Audio/Dialogue/Character/StrInt/Gameplay/Templar_Com_01.ogg"
+    ],
+    [
+      "Templar20",
+      "ข้าไม่ใช่สัตว์ที่เป็นภาระ",
+      "Audio/Dialogue/Character/StrInt/Gameplay/Templar_Com_02.ogg"
+    ],
+    [
+      "Templar21",
+      "ค่อยยังชั่ว",
+      "Audio/Dialogue/Character/StrInt/Gameplay/Templar_Com_04.ogg"
+    ],
+    [
+      "Templar22",
+      "ไปกับพระเจ้า",
+      "Audio/Dialogue/Character/StrInt/Gameplay/Templar_Com_05.ogg"
+    ],
+    [
+      "Templar23",
+      "ข้ายังไม่มีกล้ามเนื้อพอจะใช้สิ่งนี้ได้",
+      "Audio/Dialogue/Character/StrInt/Gameplay/Templar_Com_06.ogg"
+    ],
+    [
+      "Templar24",
+      "ตอนนี้ข้างงกับสิ่งนี้",
+      "Audio/Dialogue/Character/StrInt/Gameplay/Templar_Com_07.ogg"
+    ],
+    [
+      "Templar25",
+      "ข้าต้องเบากว่านี้จะใช้ได้",
+      "Audio/Dialogue/Character/StrInt/Gameplay/Templar_Com_08.ogg"
+    ],
+    [
+      "Templar26",
+      "ไม่น่าถูกที่จะทำลายสิ่งนี้",
+      "Audio/Dialogue/Character/StrInt/Gameplay/Templar_Com_09.ogg"
+    ],
+    [
+      "Templar27",
+      "นี่มันไม่ใช่เวลาหรือสถานที่",
+      "Audio/Dialogue/Character/StrInt/Gameplay/Templar_Com_10.ogg"
+    ],
+    [
+      "Templar28",
+      "มันดูเหมือนว่าพระเจ้าไม่มีความต้องการให้ข้าอยู่เป็นเพื่อนตอนนี้",
+      "Audio/Dialogue/Character/StrInt/Gameplay/Templar_Level_01.ogg"
+    ],
+    [
+      "Templar29",
+      "การร้องขอได้รับการตอบรับ",
+      "Audio/Dialogue/Character/StrInt/Gameplay/Templar_Level_02.ogg"
+    ],
+    [
+      "Templar30",
+      "ทางเดินชัดขึ้นในทุกก้าวเลือด",
+      "Audio/Dialogue/Character/StrInt/Gameplay/Templar_Level_03.ogg"
+    ],
+    [
+      "Templar31",
+      "ข้ารับใช้ของท่านขอบคุณท่าน",
+      "Audio/Dialogue/Character/StrInt/Gameplay/Templar_Level_04.ogg"
+    ],
+    [
+      "Templar32",
+      "ความไว้ใจคือสิ่งเดียวที่ข้าต้องการพระเจ้าแห่งแสงของข้า",
+      "Audio/Dialogue/Character/StrInt/Gameplay/Templar_Level_05.ogg"
+    ],
+    [
+      "Templar33",
+      "รัตติกาลจำต้องยอมถอยให้กลางวัน",
+      "Audio/Dialogue/Character/StrInt/Gameplay/Templar_Level_06.ogg"
+    ],
+    [
+      "Templar34",
+      "ข้าเกิดบนแผ่นดินนี้ถูกนำมาที่งานนี้ ข้าจะเจิดจรัส",
+      "Audio/Dialogue/Character/StrInt/Gameplay/Templar_Level_07.ogg"
+    ],
+    [
+      "Templar35",
+      "ยิ่งวิ่งหนีจากพระเจ้านานแค่ใหน Fairgraves เจ้ายิ่งบาป",
+      "Audio/Dialogue/Character/StrInt/Event/Tmpl_AfterFairgraves2.ogg"
+    ],
+    [
+      "Templar36",
+      "ขอให้น้ำล้างบาปของข้าและทำให้ข้าได้เกิดใหม่ในฐานะบุตรของพระเจ้า",
+      "Audio/Dialogue/Character/StrInt/Event/Tmpl_Aqueduct.ogg"
+    ],
+    [
+      "Templar37",
+      "พระเจ้าให้อภัยลูกด้วย เราต้องเรียนรู้ที่จะไม่ใช้อำนาจของท่านผู้สร้าง",
+      "Audio/Dialogue/Character/StrInt/Event/Tmpl_DriedLake.ogg"
+    ],
+    [
+      "Templar38",
+      "ป่านี้มันช่างบิดเบี้ยว หวังว่าจะไม่สายเกินแก้นะ",
+      "Audio/Dialogue/Character/StrInt/Event/Tmpl_EnterAct2.ogg"
+    ],
+    [
+      "Templar39",
+      "นี่มันไม่ใช่การสร้างแต่คือความวิปริต",
+      "Audio/Dialogue/Character/StrInt/Event/Tmpl_EnterBelly.ogg"
+    ],
+    [
+      "Templar40",
+      "นั่นมัันกลิ่นอะไรนะ",
+      "Audio/Dialogue/Character/StrInt/Event/Tmpl_EnterCanibalBay.ogg"
+    ],
+    [
+      "Templar41",
+      "ข้าจะล้างความสกปรกออกไปจากบ้านของพระเจ้า",
+      "Audio/Dialogue/Character/StrInt/Event/Tmpl_EnterCatacombs.ogg"
+    ],
+    [
+      "Templar42",
+      "บ้านแห่งความศรัทธา กลายเป็นการดูหมิ่น",
+      "Audio/Dialogue/Character/StrInt/Event/Tmpl_EnterFelShrine.ogg"
+    ],
+    [
+      "Templar43",
+      "Piety พระเจ้า ข้ามั่นใจว่าเจ้าจะเปิดเผยจุดประสงค์ของเจ้าในเวลานึง",
+      "Audio/Dialogue/Character/StrInt/Event/Tmpl_EnterHarvest.ogg"
+    ],
+    [
+      "Templar44",
+      "กลิ่นของลมที่นี่เต็มไปด้วยความโกรธ",
+      "Audio/Dialogue/Character/StrInt/Event/Tmpl_EnterKaom.ogg"
+    ],
+    [
+      "Templar45",
+      "ผืนดินสั่นสะเทือนด้วยความกลัวการตัดสิน",
+      "Audio/Dialogue/Character/StrInt/Event/Tmpl_EnterMines1.ogg"
+    ],
+    [
+      "Templar46",
+      "ความเสื่อมกัดกินรากของภูเขานี้",
+      "Audio/Dialogue/Character/StrInt/Event/Tmpl_EnterMines2.ogg"
+    ],
+    [
+      "Templar47",
+      "แผ่นดินนี้โยกอยู่บนหายนะ",
+      "Audio/Dialogue/Character/StrInt/Event/Tmpl_EnterMines3.ogg"
+    ],
+    [
+      "Templar48",
+      "Sarn เป็นถิ่นกำเหนิดของเหล่า Templar เหมาะที่จะทำอะไรให้ถูก",
+      "Audio/Dialogue/Character/StrInt/Event/Tmpl_EnterSarn.ogg"
+    ],
+    [
+      "Templar49",
+      "หินทุกก้อนถูกวางสำหรับความยิ่งใหญ่ของพระเจ้า สวยงามมาก",
+      "Audio/Dialogue/Character/StrInt/Event/Tmpl_EnterScepter.ogg"
+    ],
+    [
+      "Templar50",
+      "ไม่มีวิญญาณใดที่ควรทรมานเท่าเจ้า Deshret",
+      "Audio/Dialogue/Character/StrInt/Event/Tmpl_FreeDeshret.ogg"
+    ],
+    [
+      "Templar51",
+      "เราให้เกียรตินักสู้ที่จากไปมากกว่าตอนที่พวกเค้ายังอยู่ซะอีก",
+      "Audio/Dialogue/Character/StrInt/Event/Tmpl_KillDaresso.ogg"
+    ],
+    [
+      "Templar52",
+      "โอบกอดความตาย Doedre กายของเจ้ากลับคืนมาไม่ได้",
+      "Audio/Dialogue/Character/StrInt/Event/Tmpl_KillDoedre.ogg"
+    ],
+    [
+      "Templar53",
+      "ความยั่วยุเปลี่ยนได้แม้กระทั่งผู้สูงศักดิ์ ข้าควรระวัง",
+      "Audio/Dialogue/Character/StrInt/Event/Tmpl_KillFairgraves.ogg"
+    ],
+    [
+      "Templar54",
+      "วิธีของนายทำให้เกิดการวาปแช่ง Kaom หาทางอื่น",
+      "Audio/Dialogue/Character/StrInt/Event/Tmpl_KillKaom.ogg"
+    ],
+    [
+      "Templar55",
+      "เจ้าสู้มาตลอดชีวิต Malachai เมื่อมันมีสิ่งหนึ่งที่ทำให้เจ้าเป็นนิรันดรอย่างแท้จริง",
+      "Audio/Dialogue/Character/StrInt/Event/Tmpl_KillMalachai.ogg"
+    ],
+    [
+      "Templar56",
+      "พรสวรรค์ที่พระเจ้าประทานให้เจ้าใช้อย่างสิ้นเปลือง Maligaro",
+      "Audio/Dialogue/Character/StrInt/Event/Tmpl_KillMaligaro.ogg"
+    ],
+    [
+      "Templar57",
+      "ไม่จำเป็น Piety แค่ไปและดูด้วยตาเจ้าเอง",
+      "Audio/Dialogue/Character/StrInt/Event/Tmpl_KillPiety.ogg"
+    ],
+    [
+      "Templar58",
+      "นายถูกจองจำด้วยความความหยิ่งยะโสของนายเอง Shavronne",
+      "Audio/Dialogue/Character/StrInt/Event/Tmpl_KillShav.ogg"
+    ],
+    [
+      "Templar59",
+      "นายเป็นอิสระแล้ว Voll ไปกับพระเจ้า",
+      "Audio/Dialogue/Character/StrInt/Event/Tmpl_KillVoll.ogg"
+    ],
+    [
+      "Templar60",
+      "ไปกับพระเจ้า",
+      "Audio/Dialogue/Character/StrInt/Gameplay/Tmpl_KillRare_01.ogg"
+    ],
+    [
+      "Templar61",
+      "ไปกับพระเจ้า",
+      "Audio/Dialogue/Character/StrInt/Gameplay/Tmpl_KillRare_02.ogg"
+    ],
+    [
+      "Templar62",
+      "ความตายต่อบาป",
+      "Audio/Dialogue/Character/StrInt/Gameplay/Tmpl_KillRare_03.ogg"
+    ],
+    [
+      "Templar63",
+      "ความตายต่อบาป",
+      "Audio/Dialogue/Character/StrInt/Gameplay/Tmpl_KillRare_04.ogg"
+    ],
+    [
+      "Templar64",
+      "ความบริสุทธิ์จะชนะ",
+      "Audio/Dialogue/Character/StrInt/Gameplay/Tmpl_KillRare_05.ogg"
+    ],
+    [
+      "Templar65",
+      "ความบริสุทธิ์จะชนะ",
+      "Audio/Dialogue/Character/StrInt/Gameplay/Tmpl_KillRare_06.ogg"
+    ],
+    [
+      "Templar66",
+      "ความเสื่อมจะแพ้",
+      "Audio/Dialogue/Character/StrInt/Gameplay/Tmpl_KillRare_07.ogg"
+    ],
+    [
+      "Templar67",
+      "ความเสื่อมจะแพ้",
+      "Audio/Dialogue/Character/StrInt/Gameplay/Tmpl_KillRare_08.ogg"
+    ],
+    [
+      "Templar68",
+      "คำสาปแช่งจะอยู่กับแก",
+      "Audio/Dialogue/Character/StrInt/Gameplay/Tmpl_KillRare_09.ogg"
+    ],
+    [
+      "Templar69",
+      "คำสาปแช่งจะอยู่กับแก",
+      "Audio/Dialogue/Character/StrInt/Gameplay/Tmpl_KillRare_10.ogg"
+    ],
+    [
+      "Templar70",
+      "ข้าต้องใช้เวลาเพื่อรวบรวบความมุ่งมั่น",
+      "Audio/Dialogue/Character/StrInt/Gameplay/Tmpl_SkillonCool.ogg"
+    ],
+    [
+      "Scion1",
+      "ทำไมเจ้าไม่สังหารพวกข้าให้จบเรื่องไปล่ะ Dominus",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_01_GetUp.ogg"
+    ],
+    [
+      "Scion2",
+      "จริงที่คนตายยังเดินได้ที่ Wraeclast",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_02_KillZombie.ogg"
+    ],
+    [
+      "Scion3",
+      "ข้ายังไม่เข้าร่วมกับพวกแกวันนี้ คนตาย",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_03_KillHillock.ogg"
+    ],
+    [
+      "Scion4",
+      "ตัวเลือกง่ายๆคือ ฆ่าหรือถูกกิน",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_04_EnterCannibalBay.ogg"
+    ],
+    [
+      "Scion5",
+      "จาก Oriath สู่ Axiom คุกนึงไปยังอีกคุกนึง",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_05_EnterPrison.ogg"
+    ],
+    [
+      "Scion6",
+      "ท่านทำให้ข้านึกถึงสามีของข้า",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_06_KillBrutus.ogg"
+    ],
+    [
+      "Scion7",
+      "กำแพงระหว่างความเป็นความตายกำลังสั่นคลอน",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_07_EnterShipGraveyard.ogg"
+    ],
+    [
+      "Scion8",
+      "การออกจากั่งจบแล้วกับตัน",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_08_KillFairgraves.ogg"
+    ],
+    [
+      "Scion9",
+      "ทำไมพวกมนุษย์ต้องเปลี่ยนให้เรากลายเป็นมอนสเตอร์",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_09_KillMerveil.ogg"
+    ],
+    [
+      "Scion10",
+      "ความป่าเถื่อนอยู่รอบตัวเรา",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_10_EnterSouthForest.ogg"
+    ],
+    [
+      "Scion11",
+      "เหล่าบุรุษที่นี่ควรจะฟังเสียงหัวใจของพวกเขา เพราะจิตของพวกเขาไม่ใช่ของตัวเอง",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_11_EnterCOS.ogg"
+    ],
+    [
+      "Scion12",
+      "บางคนต้องจัดการการทดลองที่โหดร้ายพวกนี้",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_12_KillFidelitas.ogg"
+    ],
+    [
+      "Scion13",
+      "หลังจากที่พื้นดินนี้เปลี่ยนไป พวกแกยังทำให้มันเลวร้ายลงได้อีก",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_13_KillKraityn.ogg"
+    ],
+    [
+      "Scion14",
+      "ผู้หญิงอย่างแกทำให้พวกเราเสียชื่อ",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_14_KillAlira.ogg"
+    ],
+    [
+      "Scion15",
+      "นี่แหล่ะคือสันติของแก Oak แบบที่ใครๆก็คาดหวังใน Wraeclast",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_15_KillOak.ogg"
+    ],
+    [
+      "Scion16",
+      "พระเจ้าไม่นะ ถ้ามีวิธีทำให้มันถูกต้องชั้นจะหามันให้เจอ",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_16_ReleaseDarkness.ogg"
+    ],
+    [
+      "Scion17",
+      "อย่างน้อยที่สุดที่เราทำได้ในชีวิตคือการดูแลตัวเองให้ดี",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_17_KillVaalOversoul.ogg"
+    ],
+    [
+      "Scion18",
+      "เมือง Sarn ที่ซึ่งราชาครอบครองและตาย เช่นเดียวกับทุกคน",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_18_EnterSarn.ogg"
+    ],
+    [
+      "Scion19",
+      "คุณถูกจำแค่ความผิดพลาดที่คุณทิ้งไว้เท่านั้น",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_19_EnterSewer.ogg"
+    ],
+    [
+      "Scion20",
+      "ถ้าข้าปล่อยให้มันเกิดขึ้นเอง ชาว Wraeclast คงกลายเป็นแบบนี้หมด",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_20_SeenUndyingSphincter.ogg"
+    ],
+    [
+      "Scion21",
+      "ดูเหมือนว่าแม้แต่เวลาก็แพ้ความตั้งใจที่ Wraeclast",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_21_EnterSolaris.ogg"
+    ],
+    [
+      "Scion22",
+      "คนอย่างแกจะใช้ผู้สืบทอดของ Wraeclast",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_22_KillGravicius.ogg"
+    ],
+    [
+      "Scion23",
+      "ข้ารู้จักผู้หญิงคนเดียวที่ทำเรื่องการทุจริตแบบนี้ได้ Piety",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_23_EnterLunaris.ogg"
+    ],
+    [
+      "Scion24",
+      "เจ้าควรตายซักพันครั้งกับสิ่งที่ได้ทำไป",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_24_KillPiety.ogg"
+    ],
+    [
+      "Scion25",
+      "หอคอยนี้บอกได้เป็นอย่างดีว่าความภูมิใจทำลายอาณาจักร Eternal",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_25_EnterSceptre.ogg"
+    ],
+    [
+      "Scion26",
+      "ข้าชอบวิวจากตรงที่ข้ายืนมากกว่า Dominus",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_26_KillDominus.ogg"
+    ],
+    [
+      "Scion27",
+      "ข้าได้ฆ่าหุ่นเชิด ตอนนี้ถึงเวลาตามเส้นด้ายไปหาหัวหน้าของมัน",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_27_EnterAqueduct.ogg"
+    ],
+    [
+      "Scion28",
+      "อาณาจักรไม่ต้องการหายนะ มันสร้างความสิ้นหวังขึ้นมาเอง",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_28_EnterDriedLake.ogg"
+    ],
+    [
+      "Scion29",
+      "บาปคือรอยแตกที่ฝันร้ายลอดผ่าน บาปของนายคืออะไร Voll ความภูมิใจหรือ",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_29_KillVoll.ogg"
+    ],
+    [
+      "Scion30",
+      "Beast รู้ว่าชั้นมาที่นี่",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_30_EnterMines1.ogg"
+    ],
+    [
+      "Scion31",
+      "ใช่ Beast นายมีสิทธิ์ที่จะกลัว",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_31_EnterMines2.ogg"
+    ],
+    [
+      "Scion32",
+      "นายเป็นหนึ่งในอีกหลายคนที่จะโยนโซ่ตรวนแห่งฝันร้ายทิ้งไป Deshret",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_32_FreeDeshret.ogg"
+    ],
+    [
+      "Scion33",
+      "เมื่อความน่ากลัวขยายใหญ่ขึ้น Beast ความแน่วแน่ของข้าก็เช่นกัน",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_33_EnterMines3.ogg"
+    ],
+    [
+      "Scion34",
+      "เจ้าได้รับความสงสารจากข้า เจ้าทาศ",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_34_KillBarkhul.ogg"
+    ],
+    [
+      "Scion35",
+      "ความรักเป็นดาบที่ทำร้ายตัวเจ้าเองราชาแห่งดาบ",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_35_KillDaresso.ogg"
+    ],
+    [
+      "Scion36",
+      "ข้ายืนอยู่บนจิตใจที่บิดเบี้ยวของ Kaom",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_36_EnterKaomRealm.ogg"
+    ],
+    [
+      "Scion37",
+      "เก็บลมหายใจของเจ้าไว้ให้บรรพบุรุษเถอะ Kaom เจ้าต้องใช้มันแน่",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_37_KillKaom.ogg"
+    ],
+    [
+      "Scion38",
+      "ฝันร้ายกลายเป็นจริง",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_38_EnterBelly.ogg"
+    ],
+    [
+      "Scion39",
+      "ความบิดเบี้ยวของกายและชีวิต...ทั้งยอดเยี่ยมและบ้าคลั่ง",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_39_EnterHarvest.ogg"
+    ],
+    [
+      "Scion40",
+      "ข้าเสียใจ Maligaro แต่ข้าเฉียบขาดกับเรื่องศิลปะ",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_40_KillMaligaro.ogg"
+    ],
+    [
+      "Scion41",
+      "โลกไม่ได้ต้องการความสวยงามแบบแก Shavronne",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_41_KillShav.ogg"
+    ],
+    [
+      "Scion42",
+      "นี่่คือทางเดียวที่จะทำให้เจ้าพอใจ Doedre",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_42_KillDoedre.ogg"
+    ],
+    [
+      "Scion43",
+      "ข้ามีเพียงคำตอบเดียวที่ข้อต้องการ Piety และมันคือ Beast ต้องตาย",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_43_PietyDies.ogg"
+    ],
+    [
+      "Scion44",
+      "Malachai ผู้น่าสงสาร เจ้าใช้เวลากว่า 3 ทศวรรษ ต่อสู้กับความตาย ในเวลาเหล่านั้นไม่มีเลยที่เจ้าได้ใช้ชีวิต",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_44_KillMalachai.ogg"
+    ],
+    [
+      "Scion45",
+      "แม้ว่าเราห่างกัน แต่ Exile ทำให้เรามาพบกัน ที่ Oriath มีพวกที่เรียกข้าว่าเด็กแร่ร่อน แต่อย่างที่เจ้ารู้ว่าที่นี่ชื่อไม่มีความหมาย ผู้เร่ร่อน Exile มอนสเตอร์ ฮีโร่ ... ชื่อไม่ได้เป็นตัวกำหนดเรา แต่สิ่งที่คุณทำต่างหากที่ทำให้เป็นคุณ ที่ Wreaclast ขอบคุณที่ให้สิ่งที่มีค่าที่สุด: อิสระที่จะทำสิ่งที่เริ่มต้นได้สำเร็จ",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_45_FreedomSpeech.ogg"
+    ],
+    [
+      "Scion46",
+      "ข้าขอเวลาพักชั่วคราวได้มั้ย",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Cooldown_01.ogg"
+    ],
+    [
+      "Scion47",
+      "ข้าขอเวลาพักชั่วคราวได้มั้ย",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Cooldown_02.ogg"
+    ],
+    [
+      "Scion48",
+      "ข้้ายังไม่ฟิตพอสำหรับสิ่งนี้",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Dex_01.ogg"
+    ],
+    [
+      "Scion49",
+      "ข้้ายังไม่ฟิตพอสำหรับสิ่งนี้",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Dex_02.ogg"
+    ],
+    [
+      "Scion50",
+      "อาาา ดีขึ้นมากเลย",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Health_01.ogg"
+    ],
+    [
+      "Scion51",
+      "อาาา ดีขึ้นมากเลย",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Health_02.ogg"
+    ],
+    [
+      "Scion52",
+      "ข้าไม่รู้จะเริ่มยังไงกับสิ่งนั้น",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Int_01.ogg"
+    ],
+    [
+      "Scion53",
+      "ข้าไม่รู้จะเริ่มยังไงกับสิ่งนั้น",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Int_02.ogg"
+    ],
+    [
+      "Scion54",
+      "ของเยอะเกินไป",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Inventory_01.ogg"
+    ],
+    [
+      "Scion55",
+      "ของเยอะเกินไป",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Inventory_02.ogg"
+    ],
+    [
+      "Scion56",
+      "ข้าไม่มีอะไรจะให้แล้ว",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Mana_01.ogg"
+    ],
+    [
+      "Scion57",
+      "ข้าไม่มีอะไรจะให้แล้ว",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Mana_02.ogg"
+    ],
+    [
+      "Scion58",
+      "ข้าจำเป็นต้องใช้มันต่อ",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Questitem_01.ogg"
+    ],
+    [
+      "Scion59",
+      "ข้าจำเป็นต้องใช้มันต่อ",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Questitem_02.ogg"
+    ],
+    [
+      "Scion60",
+      "ความตายคือความเมตตา",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_RareKill_01.ogg"
+    ],
+    [
+      "Scion61",
+      "ความตายคือความเมตตา",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_RareKill_02.ogg"
+    ],
+    [
+      "Scion62",
+      "หลับตอนนี้เลยฝันร้ายตัวเล็ก",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_RareKill_03.ogg"
+    ],
+    [
+      "Scion63",
+      "หลับตอนนี้เลยฝันร้ายตัวเล็ก",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_RareKill_04.ogg"
+    ],
+    [
+      "Scion64",
+      "ตายอยู่อย่างนั้นด้วยเถอะ",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_RareKill_05.ogg"
+    ],
+    [
+      "Scion65",
+      "ตายอยู่อย่างนั้นด้วยเถอะ",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_RareKill_06.ogg"
+    ],
+    [
+      "Scion66",
+      "นั่นมันรู้สึกดีอย่างร้ายกาจ",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_RareKill_07.ogg"
+    ],
+    [
+      "Scion67",
+      "นั่นมันรู้สึกดีอย่างร้ายกาจ",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_RareKill_08.ogg"
+    ],
+    [
+      "Scion68",
+      "ความทรมานของเจ้าจบลงแล้ว",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_RareKill_09.ogg"
+    ],
+    [
+      "Scion69",
+      "ความทรมานของเจ้าจบลงแล้ว",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_RareKill_10.ogg"
+    ],
+    [
+      "Scion70",
+      "ไม่มีทั้งเวลาและสถานที่",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_SkillsTown_01.ogg"
+    ],
+    [
+      "Scion71",
+      "ไม่มีทั้งเวลาและสถานที่",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_SkillsTown_02.ogg"
+    ],
+    [
+      "Scion72",
+      "หนักเกินไป",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Str_01.ogg"
+    ],
+    [
+      "Scion73",
+      "หนักเกินไป",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Str_02.ogg"
+    ],
+    [
+      "Scion74",
+      "เอ็กไซด์คือบทเรียน ข้าเรียนรู้ได้เร็วอยู่แล้ว",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_47_LevelUp_01.ogg"
+    ],
+    [
+      "Scion75",
+      "ชีวิตเติบโตขึ้น แม้แต่ในสุสาร",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_47_LevelUp_02.ogg"
+    ],
+    [
+      "Scion76",
+      "ข้าเรียน ข้าสังหาร ข้ามีชีวิต",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_47_LevelUp_03.ogg"
+    ],
+    [
+      "Scion77",
+      "ข้าน่าจะได้คำว่าเด็กช่างสงสัยมาแล้ว",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_47_LevelUp_04.ogg"
+    ],
+    [
+      "Scion78",
+      "พลังทำให้เสื่อมและความเสื่อมสร้างพลัง",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_47_LevelUp_05.ogg"
+    ],
+    [
+      "Scion79",
+      "ไม่มีการพักที่ Wraeclast",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_47_LevelUp_06.ogg"
+    ],
+    [
+      "Scion80",
+      "ข้ากลายเป็นฝันร้ายเดินดิน",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_47_LevelUp_07.ogg"
+    ],
+    [
+      "Jack1",
+      "ถุงเนื้อที่สวยงาม",
+      "Audio/Dialogue/NPC/JackTheAxeArea/JTA_Approach_Piety_01.ogg"
+    ],
+    [
+      "Jack2",
+      "ข้ารูุ้สึกถึงพลัง เราจะฉลองกับมันกัน",
+      "Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Abyss_01.ogg"
+    ],
+    [
+      "Jack3",
+      "พลังอันยิ่งใหญ่ กลืนกินมันกันดีกว่า",
+      "Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Apex_01.ogg"
+    ],
+    [
+      "Jack4",
+      "งานฉลองมากมาย",
+      "Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Barracks_01.ogg"
+    ],
+    [
+      "Jack5",
+      "เนื้อสดให้เชือด",
+      "Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Belly_01.ogg"
+    ],
+    [
+      "Jack6",
+      "เฉือนเนื้อออก หักกระดูก",
+      "Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_DriedLake_01.ogg"
+    ],
+    [
+      "Jack7",
+      "ข้ารู้สึกถึงความทรมาน มาทำให้มันจบกัน",
+      "Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Dungeon_01.ogg"
+    ],
+    [
+      "Jack8",
+      "อสูรตัวใหญ่ เนื้อให้ข้าเยอะเลย",
+      "Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Grotto_01.ogg"
+    ],
+    [
+      "Jack9",
+      "มีแต่แมงมุม ข้าเกลียดมัน",
+      "Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Jungle_01.ogg"
+    ],
+    [
+      "Jack10",
+      "ทางหลากหลาย สัตว์ร้ายเยอะ มาสนุกกันดีกว่า",
+      "Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Labyrinth_01.ogg"
+    ],
+    [
+      "Jack11",
+      "มีแต่ความตายที่นี่",
+      "Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Lunaris3_01.ogg"
+    ],
+    [
+      "Jack12",
+      "ข้าเคยมาที่นี่นานมาแล้ว",
+      "Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Maelstrom_01.ogg"
+    ],
+    [
+      "Jack13",
+      "ถลกหนัง ถลกหนังพวกมันให้หมด",
+      "Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Mines_01.ogg"
+    ],
+    [
+      "Jack14",
+      "Rhoas ฆ่ามันให้หมด",
+      "Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_MudGeyser_01.ogg"
+    ],
+    [
+      "Jack15",
+      "ซาน บ้านของชั้น",
+      "Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Sarn_01.ogg"
+    ],
+    [
+      "Jack16",
+      "ความเจ็บปวด ข้าชอบ",
+      "Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Sceptre_01.ogg"
+    ],
+    [
+      "Jack17",
+      "แมงมุม",
+      "Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_SpiderForest_01.ogg"
+    ],
+    [
+      "Jack18",
+      "ความน่ากลัวที่นี่ เยอะมาก",
+      "Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Vaal_01.ogg"
+    ],
+    [
+      "Jack19",
+      "ข้าไม่ต้องการอะไรที่นี่ ไปกันเถอะ",
+      "Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Vaults_01.ogg"
+    ],
+    [
+      "Jack20",
+      "",
+      "Audio/Dialogue/NPC/JackTheAxe/JTA_Attack_01.ogg"
+    ],
+    [
+      "Jack21",
+      "",
+      "Audio/Dialogue/NPC/JackTheAxe/JTA_Attack_02.ogg"
+    ],
+    [
+      "Jack22",
+      "",
+      "Audio/Dialogue/NPC/JackTheAxe/JTA_Attack_03.ogg"
+    ],
+    [
+      "Jack23",
+      "",
+      "Audio/Dialogue/NPC/JackTheAxe/JTA_Attack_04.ogg"
+    ],
+    [
+      "Jack24",
+      "",
+      "Audio/Dialogue/NPC/JackTheAxe/JTA_Attack_05.ogg"
+    ],
+    [
+      "Jack25",
+      "",
+      "Audio/Dialogue/NPC/JackTheAxe/JTA_Attack_06.ogg"
+    ],
+    [
+      "Jack26",
+      "",
+      "Audio/Dialogue/NPC/JackTheAxe/JTA_Attack_07.ogg"
+    ],
+    [
+      "Jack27",
+      "",
+      "Audio/Dialogue/NPC/JackTheAxe/JTA_Attack_08.ogg"
+    ],
+    [
+      "Jack28",
+      "",
+      "Audio/Dialogue/NPC/JackTheAxe/JTA_Idle_01.ogg"
+    ],
+    [
+      "Jack29",
+      "",
+      "Audio/Dialogue/NPC/JackTheAxe/JTA_Idle_02.ogg"
+    ],
+    [
+      "Jack30",
+      "",
+      "Audio/Dialogue/NPC/JackTheAxe/JTA_Idle_03.ogg"
+    ],
+    [
+      "Jack31",
+      "",
+      "Audio/Dialogue/NPC/JackTheAxe/JTA_Idle_04.ogg"
+    ],
+    [
+      "Jack32",
+      "",
+      "Audio/Dialogue/NPC/JackTheAxe/JTA_PVP_01.ogg"
+    ],
+    [
+      "Jack33",
+      "",
+      "Audio/Dialogue/NPC/JackTheAxe/JTA_PVP_02.ogg"
+    ],
+    [
+      "Goddess1 ",
+      "เดี๋ยว? ข้าเป็นอิสระแล้วเหรอ? ฝีมือเจ้าใช่ไหม? ก็นะ ดีกว่าติดอยู่ในนั้น ความกระหายของเจ้านั่นไม่ทำให้ข้าสมอยากเลย ง่ายๆ แค่นั้น แต่แล้วข้าก็มาเจอเจ้า พลังเต็มเปี่ยม ดื้อรั้น ฉะนั้นก็มารับข้าไปได้เลย โลกนี้ใกล้จะแห้งตายอยู่แล้วแต่โลหิตที่เหลืออาจจะเดือดพล่านได้อีก และข้ารอเวลาอาบโลหิตจริงๆ มานานมาก",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A1_01.ogg"
+    ],
+    [
+      "Goddess2 ",
+      "เทพจอมปลอมริอาจจะมาสู้กับเทพที่แท้จริง หึไม่มีทาง",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A1_02.ogg"
+    ],
+    [
+      "Goddess3 ",
+      "ฮืมมม ไปได้แบบอลังการเสียจริง เหมือนกระจกที่นางฝึกซ้อมอยู่ทุกวัน เราต้องได้เจอนางอีกแน่",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A1_04.ogg"
+    ],
+    [
+      "Goddess4 ",
+      "ไม่มีใครเป็นทาสเรือนจองจำไปมากกว่าพวกที่อ้างว่า \"แค่ทำงานที่นั่น\" อีกแล้ว",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A1_03.ogg"
+    ],
+    [
+      "Goddess5 ",
+      "นั่นละ นางมาอีกแล้ว เหมือนว่าใครบางคนกำลังมโนตัวเองว่าเป็นศัตรูตัวฉกาจของเราได้",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A1_05.ogg"
+    ],
+    [
+      "Goddess6 ",
+      "ไฟ Allflame นั่นน่ะเลื่อนลอยพอๆ กับประกายไฟแห่งตัณหานั่นแหละ ของข้าสิ ไฟที่โหมไร้วันดับ",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A1_06.ogg"
+    ],
+    [
+      "Goddess7 ",
+      "ใบหน้าแท้ของความรักรึ? บางคนก็คิดไปเองว่าสามารถนิยาม \"ความรัก\" เป็นสัจได้ \r\nคนๆ นั้นผิดมหันต์",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A1_07.ogg"
+    ],
+    [
+      "Goddess8 ",
+      "คิดว่านางรออยู่นี่ให้เรามาเพื่อจะได้พูดประโยคโดนๆ แล้วเผ่นไปรึ",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A2_01.ogg"
+    ],
+    [
+      "Goddess9 ",
+      "โอ้ เราฆ่าคนรักของ Piety ไปรึ? ไม่ ข้าคิดว่ามีคำอื่นให้กับสิ่งที่เจ้านั่นเป็น",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A2_02.ogg"
+    ],
+    [
+      "Goddess10",
+      "ลูกแมวน้อยน่าสงสาร ไม่แปลกใจว่าทำไมสาวกนางถึงฆ่าตัวตายหมด",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A2_03.ogg"
+    ],
+    [
+      "Goddess11",
+      "ต้องลงทุนควงดาบวาดลวดลายขนาดนั้นทั้งที่มีดาบเพลิงวิเศษที่พูดอะไรฉลาดๆ ได้ก็น่าจะพอ",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A2_04.ogg"
+    ],
+    [
+      "Goddess12",
+      "เอาไม้ไปดวลกับดาบก็ได้ผลแบบนั้นแหละ",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A2_05.ogg"
+    ],
+    [
+      "Goddess13",
+      "นี่แค่เห็นลูกบอลเงาแว้บก็อดใจไม่ไหวต้องไปจับใช่ไหม?",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A2_06.ogg"
+    ],
+    [
+      "Goddess14",
+      "อารยธรรมจะล่มสลายก็แบบนี้แหละ เสียเวลาสร้างขยะแบบนั้น",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A2_07.ogg"
+    ],
+    [
+      "Goddess15",
+      "คราวนี้นางไม่ได้รอเรา เรามาช้าไป เกมไล่จับจบแล้ว ข้าอยากให้นางมอดไหม้",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A3_01.ogg"
+    ],
+    [
+      "Goddess16",
+      "หลีกทางไปเจ้าพวกต่ำต้อย เรามีแม่มดต้องล่า ต้องเผา ต้องเผา",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A3_02.ogg"
+    ],
+    [
+      "Goddess17",
+      "หลบหลังพวกพี่ใหญ่ได้ตามใจเลย Piety หยุดพวกเราไม่ได้หรอก",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A3_03.ogg"
+    ],
+    [
+      "Goddess18",
+      "ชั่วช้า? บ้าคลั่ง? ไม่ นี่คือ Vinia ที่อยากจะเป็น Piety เด็กน้อยเล่นแต่งตัว ใช้ความโหดร้ายเป็นเครื่องประดับถูกๆ",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A3_04.ogg"
+    ],
+    [
+      "Goddess19",
+      "ในที่สุด! มอดไหม้ไปซะนังชั่ว! ตายยย! เดี๋ยว ร่างไปไหน? นางหนีไปอีกแล้วเหรอ?! ฮึ่ย!",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A3_05.ogg"
+    ],
+    [
+      "Goddess20",
+      "บางทีเขาอาจจะต้องลองให้เทพีสาวลองแตะดู",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A3_06.ogg"
+    ],
+    [
+      "Goddess21",
+      "ฮึ่ม ไม่ใช่การอาบน้ำแบบที่ข้าอยากได้ น้ำสะอาดดี แต่น้ำก็ต้องสะอาดอยู่แล้วละนะ",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A4_01.ogg"
+    ],
+    [
+      "Goddess22",
+      "ข้าไม่อยากเต้นตามเพลงของ Dialla แต่หลักฐานพลังของ Piety ตรงหน้าแบบนี้? น่าสนใจแล้วละ",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A4_02.ogg"
+    ],
+    [
+      "Goddess23",
+      "ไม่ใช่จักรพรรดิองค์แรกที่ข้าส่งขึ้นเชิงตะกอน นั่นมันงานกระจอกสำหรับข้า",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A4_03.ogg"
+    ],
+    [
+      "Goddess24",
+      "ราชันแห่งดาบรึ? มาเจอเทพีแห่งดาบสิเจ้าเด็กอกหักขี้แยตัวน้อย!",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A4_04.ogg"
+    ],
+    [
+      "Goddess25",
+      "ความแค้นร้อนแรงเหลือเกิน! คงไม่มีใครบอกมั้งว่าสีแดงน่ะคือไฟอ่อนสุด",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A4_05.ogg"
+    ],
+    [
+      "Goddess26",
+      "ถ้ามันมีชีวิต ก็เลือดออกเป็น ถ้าเลือดออกได้ก็ต้องมีหัวใจ มาหาหัวใจแล้วเผามันกันเถอะ",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A4_06.ogg"
+    ],
+    [
+      "Goddess27",
+      "Dominus ก็แล้ว มานี่ Malachai ไม่ว่าจะเป็นใครหรืออะไร เจ้าเป็นแค่เครื่องมือของเหล่าบุรุษนะ Vinia",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A4_07.ogg"
+    ],
+    [
+      "Goddess28",
+      "Piety อยากได้เราเป็นพวก? ก็ได้ เป็นมิตรกับข้าก็แค่ประวิงการประหารออกไปเท่านั้นแหละ",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A4_08.ogg"
+    ],
+    [
+      "Goddess29",
+      "สาปแช่งพระเพลิงไปเถอะเจ้า Darktongue ยังไงเจ้าก็ไหม้อยู่ดี",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A4_09.ogg"
+    ],
+    [
+      "Goddess30",
+      "คนตีค่าศิลปะสูงไป ที่ต้องใช้ฝีมือของจริงน่ะรึ? ทำอาหารไง",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A4_10.ogg"
+    ],
+    [
+      "Goddess31",
+      "อ้อ เจ้านี่เองที่สร้าง Brutus….ทุกอย่างเริ่มกระจ่างแล้ว",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A4_11.ogg"
+    ],
+    [
+      "Goddess32",
+      "โดนแทงทะลุท้อง กรีดร้อง ถูกเสียบ ดิ้นพล่าน วิธีตายแบบนั้นแหละเหมาะแล้ว!",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A4_12.ogg"
+    ],
+    [
+      "Goddess33",
+      "ตอนข้าบอกว่าเราจะเผาหัวใจมันน่ะข้าไม่ได้คิดจะเอาจริ…….เอาเหอะ แค่นี้ก็น่าจะพอแล้ว ตอนนี้กลับไปหาที่อาบน้ำดีกว่า",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A4_13.ogg"
+    ],
+    [
+      "Goddess34",
+      "และข้าแน่ใจว่าไม่มีใครรู้ว่าเรากำลังมาแน่",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A5_01.ogg"
+    ],
+    [
+      "Goddess35",
+      "ปอด ไส้พุง หัวใจ แล้วมาตาอีก แค่สับคนให้เป็นชิ้นๆ แล้วไปต่อไม่พอแล้วรึ หืม?",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A5_02.ogg"
+    ],
+    [
+      "Goddess36",
+      "พวกนั้นสร้างโบสถ์ แนวคิดหลุดโลกกลายเป็นกฎหมาย ศรัทธากลายเป็นเรื่องบังคับ สถานที่บูชากลายเป็นศาลตัดสิน ข้านี่เกลียดสถาบันศาสนาจริงเชียว",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A5_03.ogg"
+    ],
+    [
+      "Goddess37",
+      "นั่นน่ะหรือใบหน้าที่แท้จริงของเทพ เจ้าผู้พลัดถิ่น? ไม่หรอก แค่เสียงสะท้อนแปร่งๆ ของคำว่า \"ข้าเป็น\"",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A5_04.ogg"
+    ],
+    [
+      "Goddess38",
+      "ดูเหมือนว่าทุกอย่างที่เราทำลงไป ข้าคงบอกว่าเป็นการทำให้ดีขึ้น",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A5_05.ogg"
+    ],
+    [
+      "Goddess39",
+      "ล้างแค้น? กับเราเนี่ยนะ? ไม่ได้เราช่วยเจ้านั่นก็คงเป็นกระฎุมพีต่อไปนั่นแหละ ไม่สำนึกกันเล้ย",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A5_06.ogg"
+    ],
+    [
+      "Goddess40",
+      "และเจ้าก็ทำได้ดีมาตลอด….",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A5_07.ogg"
+    ],
+    [
+      "Goddess41",
+      "ข้าไม่ชอบที่นี่เลย อาหารก็แย่ กลิ่นก็ยังกะ….ข้าไม่ชอบที่นี่เลย",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A6_01.ogg"
+    ],
+    [
+      "Goddess42",
+      "ทุกโบสถ์เทพมีเทพสงครามและเทพีความรัก เจ้าคิดว่าใครเป็นที่หนึ่งละ",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A6_02.ogg"
+    ],
+    [
+      "Goddess43",
+      "เล่นกับไฟก็ได้เขาไง! หรืออะไรแบบนั้นนะ",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A6_03.ogg"
+    ],
+    [
+      "Goddess44",
+      "อ้อ ให้เถอะ เจ้าไม่รู้รึ? หลังจากสองเป็นหนึ่งทุกอย่างจะลงเหวแต่ตอนนั้น ตามใจเจ้านะ",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A6_04.ogg"
+    ],
+    [
+      "Goddess45",
+      "ต้องอยุติธรรมระดับไหนความสยองขวัญแบบนั้นถึงได้มีทุกที่ ในขณะที่อีกหลายคนโอบกอดความว่างเปล่าและร้องเพลงปลอบใจตนเอง",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A6_05.ogg"
+    ],
+    [
+      "Goddess46",
+      "ทุกคนมีไฟที่คอยดึงดูดเข้ามา ขนาดแม้แต่คนตายยังเหมือนจะมี",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A6_06.ogg"
+    ],
+    [
+      "Goddess47",
+      "แพะอบ แล้วตอนนี้ปูต้มอีก ใครจะคิดว่าเทพจะอร่อยปานนี้?",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A6_07.ogg"
+    ],
+    [
+      "Goddess48",
+      "ถึงตรงนี้ข้าเคยคิดว่าเราแค่จะเข้าไปถึงแกนสะดือสัตว์ร้ายในการเดินทางเล็กๆ ของเรานี่",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A7_01.ogg"
+    ],
+    [
+      "Goddess49",
+      "ทั้งหมดนี่เพื่อสร้างสวรรค์น้อยๆ ส่วนตัว แล้วก็มาทำแบบนี้ ช่างเป็นคนหนุ่มขี้โมโหเสียนี่กระไร",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A7_02.ogg"
+    ],
+    [
+      "Goddess50",
+      "ความรักไม่ใช่การเปลี่ยนคนอื่นนะ Maligaro มันคือการเปลี่ยนแปลงตนเอง คนที่กวัดแกว่งข้าจะได้รู้ ไม่ช้าก็เร็ว",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A7_03.ogg"
+    ],
+    [
+      "Goddess51",
+      "รวมพลกับเพื่อนเก่าสนุกนะ จนกระทั่งมันไม่สนุก แล้วจากนั้นมันก็กร่อยไปเลย",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A7_04.ogg"
+    ],
+    [
+      "Goddess52",
+      "แม่ Ursa ที่น่าสงสาร ข้าไม่ชอบสิ่งที่เราทำลงไปเลย",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A7_05.ogg"
+    ],
+    [
+      "Goddess53",
+      "และเด็กสาวที่รู้จักประโยชน์ของไฟก็ไปแล้วอีกคน",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A7_06.ogg"
+    ],
+    [
+      "Goddess54",
+      "ข้าจะยินดียิ่งหากเราจะไม่ต้องเจอแมงมุมยักษ์อีก แต่เอ ข้าคงได้แค่ฝัน เพราะที่นี่มัน Wraeclast",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A7_07.ogg"
+    ],
+    [
+      "Goddess55",
+      "ตอนข้าบอกว่าอยากอาบน้ำมากน่ะ ข้าไม่ได้หมายถึงอย่างนี้เลยนะ",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A8_01.ogg"
+    ],
+    [
+      "Goddess56",
+      "เพราะงี้ข้าถึงได้บอกว่า \"ข้าจะรักเจ้ายันวันตาย….\"",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A8_02.ogg"
+    ],
+    [
+      "Goddess57",
+      "ห้องอาบน้ำเหรอ? จริงๆ เหรอ? เพราะข้าไม่คิดว่าเจ้าเข้าใจวิธีของดาบ",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A8_03.ogg"
+    ],
+    [
+      "Goddess58",
+      "จะหาภาพสะท้อนใสแจ๋วเท่าบนใบดาบนั้นหาไม่มี",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A8_04.ogg"
+    ],
+    [
+      "Goddess59",
+      "พอจัดการนังแม่มดนอกรีตไปได้แล้วที่นี่ก็ดูดีขึ้นอย่างมหัศจรรย์ มันเยี่ยมมาก",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A8_05.ogg"
+    ],
+    [
+      "Goddess60",
+      "พวกคราสนี่ก็แย่หน่อยตรงที่อยู่ไม่นาน แต่เอาเถอะ แค่ชั่วเวลาสั้นๆ นั้นมันช่างสวยงาม",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A8_06A.ogg"
+    ],
+    [
+      "Goddess61",
+      "อุ ขนาดข้ายังเผาพวกมันไม่ได้ อย่าเอาข้าไปจุ่มในของแหยะๆ นั่นนะ",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A9_01.ogg"
+    ],
+    [
+      "Goddess62",
+      "หะ ข้านึกว่าตัวจะใหญ่สมชื่อ",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A9_02.ogg"
+    ],
+    [
+      "Goddess63",
+      "ถ้าข้าจะเกลียดอะไรมากกว่าแมงมุมก็แมงป่องนี่แหละ เหมือนแมงมุมที่มีหางแหลมกับก้ามเพิ่มเข้ามา อร่อยก็ไม่อร่อย",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A9_03.ogg"
+    ],
+    [
+      "Goddess64",
+      "ไปที่ไหนก็ไปเถอะ Kira อย่าอยู่นี่เลย",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A9_04.ogg"
+    ],
+    [
+      "Goddess65",
+      "เรื่องง้องแง้ง นี่น่ะหรือที่เทพฝันไว้ตอนอยู่ในอ้อมแขนเจ้าสัตว์ร้ายน่ะ?",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A9_05.ogg"
+    ],
+    [
+      "Goddess66",
+      "สายฟ้า ฟู่ ก็แค่เชื้อปะทุให้ไฟแดงฉานงดงามน่ะแหละ",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A9_06.ogg"
+    ],
+    [
+      "Goddess67",
+      "เศร้านะที่ต้องเจอสัตว์ร้ายอีก แห้ง หด และ….ติดไฟง่ายเหลือเกิน",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A9_07.ogg"
+    ],
+    [
+      "Goddess68",
+      "ลิ่วล้อสามตัว ล้มเหลวสามอย่าง เจ็บปวดสามขั้น ข้าก็ชอบอะไรสามๆ นะ แต่เจ้านี่หมดเวลาแล้ว",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A9_08.ogg"
+    ],
+    [
+      "Goddess69",
+      "ข้าก็แอบหวังอยู่ว่า Kitava จะลุกขึ้นมาใหม่ โลกนี้เสพติดวงจรการเกิดใหม่จนน่าสนใจขึ้นมาเลย",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A10_01.ogg"
+    ],
+    [
+      "Goddess70",
+      "เราจัดการเจ้านายของนาง เจ้านายของเจ้านายของนาง และเทพของเจ้านายของเจ้านายของนางอีกที นางก็รู้ดีแต่ยังเลือกสู้กับเราอีก? ไม่ค่อยจะฉลาดเลย เสียดายจริง",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A10_02.ogg"
+    ],
+    [
+      "Goddess71",
+      "เราน่าจะใกล้ถึงแล้ว ทุกอย่างมันแดงฉานไปหมด",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A10_03.ogg"
+    ],
+    [
+      "Goddess72",
+      "ดูเหมือนว่าวิธีที่ดีที่สุดสำหรับความหิวโหยที่ดับยาก คือฆ่ามันเลย ตามแบบฉบับ Wraeclast แต่นั่นไม่ใช่ประเด็น ข้าอยากอาบอะไรง่ายๆ แต่เจ้าให้ข้าได้อาบทั้งเลือดพวกทหารใจดำ ซากจักรวรรดิ หรือเทพคืนชีพ โอ้ เจ้านี่ให้เกินพอจริงๆ มาไฟแรงกับข้าจนสุดทานทน...แล้วไฟแรงกันต่ออีกหน่อยเถอะที่รักข้า",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A10_04.ogg"
+    ],
+    [
+      "Goddess73",
+      "เทพีแหงความยุติธรรมอาจจะตาบอดแต่สาวกนางก็ไม่ได้บื้อใบ้ ข้าว่าพวกนั้นคงไม่เงียบปากหรอก",
+      "Audio/Dialogue/Goddess_Unleashed/GS_KillIzaro_01.ogg"
+    ],
+    [
+      "Goddess74",
+      "ข้าคิดถูกจริงด้วย เจ้าใช้ข้าได้อย่างทะมัดทะแมง แต่ก็เพิ่งหัดใช้แหละน่า",
+      "Audio/Dialogue/Goddess_Unleashed/GS_Level_10.ogg"
+    ],
+    [
+      "Goddess75",
+      "ใช้ข้าพอใจหรือยัง? ใช้อย่างอื่นก็ได้นะ ข้าไม่ถือหรอก จริงๆ นะ",
+      "Audio/Dialogue/Goddess_Unleashed/GS_Level_20.ogg"
+    ],
+    [
+      "Goddess76",
+      "คนสุดท้ายที่ใช้งานข้านานขนาดนี้กลายเป็นพวกกลัวไฟขั้นรุนแรง หรืออาจจะชอบไฟขั้นรุนแรง? ไม่อันใดก็อันนึง อาจจะทั้งคู่ก็ได้",
+      "Audio/Dialogue/Goddess_Unleashed/GS_Level_30.ogg"
+    ],
+    [
+      "Goddess77",
+      "อ้า เราไฟแรงด้วยกันดีจริงๆ นานแล้วที่ข้าไม่เคยเห็นใครทนได้ขนาดนี้!",
+      "Audio/Dialogue/Goddess_Unleashed/GS_Level_50.ogg"
+    ],
+    [
+      "Goddess78",
+      "เจ้านี่คือปาฏิหาริย์จริงๆ ที่รักข้า เจ้านี่ยังมาโซ ชอบโดนเผาและอาจจะปัญญาอ่อนด้วย แต่เจ้าก็เป็นเจ้าทึ่มของข้า",
+      "Audio/Dialogue/Goddess_Unleashed/GS_Level_70.ogg"
+    ],
+    [
+      "Goddess79",
+      "ข้าสาบาน ไม่เคยมีใครใช้งานข้านานขนาดนี้ เจ้าคู่ควรได้รับรางวัล ความลับ...ที่ดาบน่ะพูดไม่ได้หรอกนะ เจ้าเสียสติไปตั้งแต่หยิบข้ามาใช้แล้ว ทั้งหมดนี่เป็นเรื่องจริงไหม? อย่าถามเลย ข้าเป็นแค่ดาบ แต่ข้าคือดาบของเจ้าตลอดไป...อย่างแท้จริง",
+      "Audio/Dialogue/Goddess_Unleashed/GS_Level_90.ogg"
+    ],
+    [
+      "Goddess80",
+      "แค่นั้นน่าจะพอ",
+      "Audio/Dialogue/Goddess_Unleashed/GS_KillRogue_01.ogg"
+    ],
+    [
+      "Goddess81",
+      "",
+      "Audio/Dialogue/Goddess_Unleashed/GS_KillRogue_02.ogg"
+    ],
+    [
+      "Goddess82",
+      "โดนไฟข้ากลืนกินไปซะ",
+      "Audio/Dialogue/Goddess_Unleashed/GS_KillRogue_03.ogg"
+    ],
+    [
+      "Goddess83",
+      "ทุกอย่างต้องมอดไหม้",
+      "Audio/Dialogue/Goddess_Unleashed/GS_KillRogue_04.ogg"
+    ]
+  ]
+}

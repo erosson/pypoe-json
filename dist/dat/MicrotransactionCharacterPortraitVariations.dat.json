@@ -1,1 +1,49 @@
-{"filename":"MicrotransactionCharacterPortraitVariations.dat","header":[{"name":"Key0","rowid":0,"type":"ulong","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[[465],[466],[1191],[1192],[1193],[1194],[1195],[1196],[1197]]}
+{
+  "filename": "MicrotransactionCharacterPortraitVariations.dat",
+  "header": [
+    {
+      "name": "Key0",
+      "rowid": 0,
+      "type": "ulong",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      465
+    ],
+    [
+      466
+    ],
+    [
+      1191
+    ],
+    [
+      1192
+    ],
+    [
+      1193
+    ],
+    [
+      1194
+    ],
+    [
+      1195
+    ],
+    [
+      1196
+    ],
+    [
+      1197
+    ]
+  ]
+}

@@ -1,1 +1,817 @@
-{"filename":"CurrencyStashTabLayout.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"BaseItemTypesKey","rowid":1,"type":"ulong","key":"BaseItemTypes.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown1","rowid":2,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown2","rowid":3,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown3","rowid":4,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown4","rowid":5,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown5","rowid":6,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Flag0","rowid":7,"type":"bool","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["Metadata/Items/Currency/CurrencyWeaponQuality",0,496,56,0,1,1,true],["Metadata/Items/Currency/CurrencyIdentification",1,116,56,1,1,1,true],["Metadata/Items/Currency/CurrencyRerollRare",2,757,161,2,1,1,true],["Metadata/Items/Currency/CurrencyArmourQuality",3,583,56,3,1,1,true],["Metadata/Items/Currency/CurrencyDuplicate",4,480,161,4,1,1,true],["Metadata/Items/Currency/CurrencyUpgradeToRare",5,670,161,5,1,1,true],["Metadata/Items/Currency/CurrencyUpgradeRandomly",6,290,161,6,1,1,true],["Metadata/Items/Currency/CurrencyPassiveRefund",7,583,626,7,1,1,true],["Metadata/Items/Currency/CurrencyUpgradeToMagic",8,29,161,8,1,1,true],["Metadata/Items/Currency/CurrencyRerollMagic",9,116,161,9,1,1,true],["Metadata/Items/Currency/CurrencyConvertToNormal",10,204,431,10,1,1,true],["Metadata/Items/Currency/CurrencyAddModToRare",11,393,161,11,1,1,true],["Metadata/Items/Currency/CurrencyUpgradeMagicToRare",12,583,161,12,1,1,true],["Metadata/Items/Currency/CurrencyAddModToMagic",13,290,243,13,1,1,true],["Metadata/Items/Currency/CurrencyPortal",14,204,56,14,1,1,true],["Metadata/Items/Currency/CurrencyFlaskQuality",15,670,56,15,1,1,true],["Metadata/Items/Currency/CurrencyGemQuality",16,757,56,16,1,1,true],["Metadata/Items/Currency/CurrencyRerollSocketColours",17,290,349,17,1,1,true],["Metadata/Items/Currency/CurrencyRerollSocketLinks",18,204,349,18,1,1,true],["Metadata/Items/Currency/CurrencyRerollSocketNumbers",19,116,349,19,1,1,true],["Metadata/Items/Currency/CurrencyModValues",20,843,243,20,1,1,true],["Metadata/Items/Currency/CurrencyRerollImplicit",21,843,161,21,1,1,true],["Metadata/Items/Currency/CurrencyMapQuality",22,843,56,22,1,1,true],["Metadata/Items/Currency/CurrencyIdentificationShard",23,29,56,23,1,1,true],["Metadata/Items/Currency/CurrencyUpgradeToMagicShard",24,29,243,24,1,1,true],["Metadata/Items/Currency/CurrencyRerollMagicShard",25,116,243,25,1,1,true],["Metadata/Items/Currency/CurrencyUpgradeToRareShard",26,670,243,26,1,1,true],["Metadata/Items/Currency/CurrencyCorrupt",30,290,431,27,1,1,true],["CraftingSlot",null,405,338,28,2,4,true],["Generic1",null,179,722,30,1,1,true],["Generic2",null,265,722,31,1,1,true],["Generic3",null,351,722,32,1,1,true],["Generic4",null,437,722,33,1,1,true],["Generic5",null,522,722,34,1,1,true],["Metadata/Items/Currency/CurrencySilverCoin",36,757,626,35,1,1,true],["Metadata/Items/Currency/CurrencyAddAtlasMod",172,583,543,36,1,1,true],["Metadata/Items/Currency/CurrencyAddAtlasModMid",173,670,543,37,1,1,true],["Metadata/Items/Currency/CurrencyAddAtlasModHigh",174,757,543,38,1,1,true],["Metadata/Items/Currency/CurrencyPerandusCoin",35,670,626,39,1,1,true],["Generic6",null,610,722,40,1,1,true],["Generic7",null,697,722,41,1,1,true],["Generic8",null,179,808,42,1,1,true],["Generic9",null,265,808,43,1,1,true],["Generic10",null,351,808,44,1,1,true],["Generic11",null,437,808,45,1,1,true],["Generic12",null,522,808,46,1,1,true],["Generic13",null,610,808,47,1,1,true],["Generic14",null,697,808,48,1,1,true],["Metadata/Items/Currency/CurrencyRerollRareShard",208,757,243,49,1,1,true],["Metadata/Items/Currency/CurrencyDuplicateShard",209,480,243,50,1,1,true],["Metadata/Items/Currency/CurrencyAddModToRareShard",210,393,243,51,1,1,true],["Metadata/Items/Currency/CurrencyUpgradeMagicToRareShard",211,583,243,52,1,1,true],["Metadata/Items/Currency/CurrencyRemoveModShard",202,204,243,53,1,1,true],["Metadata/Items/Currency/CurrencyRemoveMod",195,204,161,54,1,1,true],["Metadata/Items/Currency/CurrencyRerollMapType",197,843,349,55,1,1,true],["Metadata/Items/Currency/CurrencyRerollMapTypeShard",204,843,431,56,1,1,true],["Metadata/Items/Currency/CurrencyUpgradeMapTier",198,757,349,57,1,1,true],["Metadata/Items/Currency/CurrencyRerollUnique",201,116,543,58,1,1,true],["Metadata/Items/Currency/CurrencyUpgradeToRareAndSetSockets",196,204,543,59,1,1,true],["Metadata/Items/Currency/CurrencyStrongboxQuality",199,290,543,60,1,1,true],["Metadata/Items/AtlasExiles/ApplyInfluence",7035,437,626,61,1,1,true],["Metadata/Items/Currency/CurrencyRerollUniqueShard",207,116,626,62,1,1,true],["Metadata/Items/Currency/CurrencyUpgradeToRareAndSetSocketsShard",203,204,626,63,1,1,true],["Metadata/Items/Currency/CurrencyUpgradeMapTierShard",205,757,431,64,1,1,true],["Metadata/Items/Currency/CurrencyStrongboxQualityShard",206,290,626,65,1,1,true],["Metadata/Items/AtlasExiles/AddModToRareCrusader",7031,670,349,66,1,1,true],["Metadata/Items/AtlasExiles/AddModToRareRedeemer",7032,583,428,67,1,1,true],["Metadata/Items/AtlasExiles/AddModToRareHunter",7033,583,349,68,1,1,true],["Metadata/Items/AtlasExiles/AddModToRareWarlord",7034,670,428,69,1,1,true]]}
+{
+  "filename": "CurrencyStashTabLayout.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "BaseItemTypesKey",
+      "rowid": 1,
+      "type": "ulong",
+      "key": "BaseItemTypes.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown1",
+      "rowid": 2,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown2",
+      "rowid": 3,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown3",
+      "rowid": 4,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown4",
+      "rowid": 5,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown5",
+      "rowid": 6,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Flag0",
+      "rowid": 7,
+      "type": "bool",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "Metadata/Items/Currency/CurrencyWeaponQuality",
+      0,
+      496,
+      56,
+      0,
+      1,
+      1,
+      true
+    ],
+    [
+      "Metadata/Items/Currency/CurrencyIdentification",
+      1,
+      116,
+      56,
+      1,
+      1,
+      1,
+      true
+    ],
+    [
+      "Metadata/Items/Currency/CurrencyRerollRare",
+      2,
+      757,
+      161,
+      2,
+      1,
+      1,
+      true
+    ],
+    [
+      "Metadata/Items/Currency/CurrencyArmourQuality",
+      3,
+      583,
+      56,
+      3,
+      1,
+      1,
+      true
+    ],
+    [
+      "Metadata/Items/Currency/CurrencyDuplicate",
+      4,
+      480,
+      161,
+      4,
+      1,
+      1,
+      true
+    ],
+    [
+      "Metadata/Items/Currency/CurrencyUpgradeToRare",
+      5,
+      670,
+      161,
+      5,
+      1,
+      1,
+      true
+    ],
+    [
+      "Metadata/Items/Currency/CurrencyUpgradeRandomly",
+      6,
+      290,
+      161,
+      6,
+      1,
+      1,
+      true
+    ],
+    [
+      "Metadata/Items/Currency/CurrencyPassiveRefund",
+      7,
+      583,
+      626,
+      7,
+      1,
+      1,
+      true
+    ],
+    [
+      "Metadata/Items/Currency/CurrencyUpgradeToMagic",
+      8,
+      29,
+      161,
+      8,
+      1,
+      1,
+      true
+    ],
+    [
+      "Metadata/Items/Currency/CurrencyRerollMagic",
+      9,
+      116,
+      161,
+      9,
+      1,
+      1,
+      true
+    ],
+    [
+      "Metadata/Items/Currency/CurrencyConvertToNormal",
+      10,
+      204,
+      431,
+      10,
+      1,
+      1,
+      true
+    ],
+    [
+      "Metadata/Items/Currency/CurrencyAddModToRare",
+      11,
+      393,
+      161,
+      11,
+      1,
+      1,
+      true
+    ],
+    [
+      "Metadata/Items/Currency/CurrencyUpgradeMagicToRare",
+      12,
+      583,
+      161,
+      12,
+      1,
+      1,
+      true
+    ],
+    [
+      "Metadata/Items/Currency/CurrencyAddModToMagic",
+      13,
+      290,
+      243,
+      13,
+      1,
+      1,
+      true
+    ],
+    [
+      "Metadata/Items/Currency/CurrencyPortal",
+      14,
+      204,
+      56,
+      14,
+      1,
+      1,
+      true
+    ],
+    [
+      "Metadata/Items/Currency/CurrencyFlaskQuality",
+      15,
+      670,
+      56,
+      15,
+      1,
+      1,
+      true
+    ],
+    [
+      "Metadata/Items/Currency/CurrencyGemQuality",
+      16,
+      757,
+      56,
+      16,
+      1,
+      1,
+      true
+    ],
+    [
+      "Metadata/Items/Currency/CurrencyRerollSocketColours",
+      17,
+      290,
+      349,
+      17,
+      1,
+      1,
+      true
+    ],
+    [
+      "Metadata/Items/Currency/CurrencyRerollSocketLinks",
+      18,
+      204,
+      349,
+      18,
+      1,
+      1,
+      true
+    ],
+    [
+      "Metadata/Items/Currency/CurrencyRerollSocketNumbers",
+      19,
+      116,
+      349,
+      19,
+      1,
+      1,
+      true
+    ],
+    [
+      "Metadata/Items/Currency/CurrencyModValues",
+      20,
+      843,
+      243,
+      20,
+      1,
+      1,
+      true
+    ],
+    [
+      "Metadata/Items/Currency/CurrencyRerollImplicit",
+      21,
+      843,
+      161,
+      21,
+      1,
+      1,
+      true
+    ],
+    [
+      "Metadata/Items/Currency/CurrencyMapQuality",
+      22,
+      843,
+      56,
+      22,
+      1,
+      1,
+      true
+    ],
+    [
+      "Metadata/Items/Currency/CurrencyIdentificationShard",
+      23,
+      29,
+      56,
+      23,
+      1,
+      1,
+      true
+    ],
+    [
+      "Metadata/Items/Currency/CurrencyUpgradeToMagicShard",
+      24,
+      29,
+      243,
+      24,
+      1,
+      1,
+      true
+    ],
+    [
+      "Metadata/Items/Currency/CurrencyRerollMagicShard",
+      25,
+      116,
+      243,
+      25,
+      1,
+      1,
+      true
+    ],
+    [
+      "Metadata/Items/Currency/CurrencyUpgradeToRareShard",
+      26,
+      670,
+      243,
+      26,
+      1,
+      1,
+      true
+    ],
+    [
+      "Metadata/Items/Currency/CurrencyCorrupt",
+      30,
+      290,
+      431,
+      27,
+      1,
+      1,
+      true
+    ],
+    [
+      "CraftingSlot",
+      null,
+      405,
+      338,
+      28,
+      2,
+      4,
+      true
+    ],
+    [
+      "Generic1",
+      null,
+      179,
+      722,
+      30,
+      1,
+      1,
+      true
+    ],
+    [
+      "Generic2",
+      null,
+      265,
+      722,
+      31,
+      1,
+      1,
+      true
+    ],
+    [
+      "Generic3",
+      null,
+      351,
+      722,
+      32,
+      1,
+      1,
+      true
+    ],
+    [
+      "Generic4",
+      null,
+      437,
+      722,
+      33,
+      1,
+      1,
+      true
+    ],
+    [
+      "Generic5",
+      null,
+      522,
+      722,
+      34,
+      1,
+      1,
+      true
+    ],
+    [
+      "Metadata/Items/Currency/CurrencySilverCoin",
+      36,
+      757,
+      626,
+      35,
+      1,
+      1,
+      true
+    ],
+    [
+      "Metadata/Items/Currency/CurrencyAddAtlasMod",
+      172,
+      583,
+      543,
+      36,
+      1,
+      1,
+      true
+    ],
+    [
+      "Metadata/Items/Currency/CurrencyAddAtlasModMid",
+      173,
+      670,
+      543,
+      37,
+      1,
+      1,
+      true
+    ],
+    [
+      "Metadata/Items/Currency/CurrencyAddAtlasModHigh",
+      174,
+      757,
+      543,
+      38,
+      1,
+      1,
+      true
+    ],
+    [
+      "Metadata/Items/Currency/CurrencyPerandusCoin",
+      35,
+      670,
+      626,
+      39,
+      1,
+      1,
+      true
+    ],
+    [
+      "Generic6",
+      null,
+      610,
+      722,
+      40,
+      1,
+      1,
+      true
+    ],
+    [
+      "Generic7",
+      null,
+      697,
+      722,
+      41,
+      1,
+      1,
+      true
+    ],
+    [
+      "Generic8",
+      null,
+      179,
+      808,
+      42,
+      1,
+      1,
+      true
+    ],
+    [
+      "Generic9",
+      null,
+      265,
+      808,
+      43,
+      1,
+      1,
+      true
+    ],
+    [
+      "Generic10",
+      null,
+      351,
+      808,
+      44,
+      1,
+      1,
+      true
+    ],
+    [
+      "Generic11",
+      null,
+      437,
+      808,
+      45,
+      1,
+      1,
+      true
+    ],
+    [
+      "Generic12",
+      null,
+      522,
+      808,
+      46,
+      1,
+      1,
+      true
+    ],
+    [
+      "Generic13",
+      null,
+      610,
+      808,
+      47,
+      1,
+      1,
+      true
+    ],
+    [
+      "Generic14",
+      null,
+      697,
+      808,
+      48,
+      1,
+      1,
+      true
+    ],
+    [
+      "Metadata/Items/Currency/CurrencyRerollRareShard",
+      208,
+      757,
+      243,
+      49,
+      1,
+      1,
+      true
+    ],
+    [
+      "Metadata/Items/Currency/CurrencyDuplicateShard",
+      209,
+      480,
+      243,
+      50,
+      1,
+      1,
+      true
+    ],
+    [
+      "Metadata/Items/Currency/CurrencyAddModToRareShard",
+      210,
+      393,
+      243,
+      51,
+      1,
+      1,
+      true
+    ],
+    [
+      "Metadata/Items/Currency/CurrencyUpgradeMagicToRareShard",
+      211,
+      583,
+      243,
+      52,
+      1,
+      1,
+      true
+    ],
+    [
+      "Metadata/Items/Currency/CurrencyRemoveModShard",
+      202,
+      204,
+      243,
+      53,
+      1,
+      1,
+      true
+    ],
+    [
+      "Metadata/Items/Currency/CurrencyRemoveMod",
+      195,
+      204,
+      161,
+      54,
+      1,
+      1,
+      true
+    ],
+    [
+      "Metadata/Items/Currency/CurrencyRerollMapType",
+      197,
+      843,
+      349,
+      55,
+      1,
+      1,
+      true
+    ],
+    [
+      "Metadata/Items/Currency/CurrencyRerollMapTypeShard",
+      204,
+      843,
+      431,
+      56,
+      1,
+      1,
+      true
+    ],
+    [
+      "Metadata/Items/Currency/CurrencyUpgradeMapTier",
+      198,
+      757,
+      349,
+      57,
+      1,
+      1,
+      true
+    ],
+    [
+      "Metadata/Items/Currency/CurrencyRerollUnique",
+      201,
+      116,
+      543,
+      58,
+      1,
+      1,
+      true
+    ],
+    [
+      "Metadata/Items/Currency/CurrencyUpgradeToRareAndSetSockets",
+      196,
+      204,
+      543,
+      59,
+      1,
+      1,
+      true
+    ],
+    [
+      "Metadata/Items/Currency/CurrencyStrongboxQuality",
+      199,
+      290,
+      543,
+      60,
+      1,
+      1,
+      true
+    ],
+    [
+      "Metadata/Items/AtlasExiles/ApplyInfluence",
+      7035,
+      437,
+      626,
+      61,
+      1,
+      1,
+      true
+    ],
+    [
+      "Metadata/Items/Currency/CurrencyRerollUniqueShard",
+      207,
+      116,
+      626,
+      62,
+      1,
+      1,
+      true
+    ],
+    [
+      "Metadata/Items/Currency/CurrencyUpgradeToRareAndSetSocketsShard",
+      203,
+      204,
+      626,
+      63,
+      1,
+      1,
+      true
+    ],
+    [
+      "Metadata/Items/Currency/CurrencyUpgradeMapTierShard",
+      205,
+      757,
+      431,
+      64,
+      1,
+      1,
+      true
+    ],
+    [
+      "Metadata/Items/Currency/CurrencyStrongboxQualityShard",
+      206,
+      290,
+      626,
+      65,
+      1,
+      1,
+      true
+    ],
+    [
+      "Metadata/Items/AtlasExiles/AddModToRareCrusader",
+      7031,
+      670,
+      349,
+      66,
+      1,
+      1,
+      true
+    ],
+    [
+      "Metadata/Items/AtlasExiles/AddModToRareRedeemer",
+      7032,
+      583,
+      428,
+      67,
+      1,
+      1,
+      true
+    ],
+    [
+      "Metadata/Items/AtlasExiles/AddModToRareHunter",
+      7033,
+      583,
+      349,
+      68,
+      1,
+      1,
+      true
+    ],
+    [
+      "Metadata/Items/AtlasExiles/AddModToRareWarlord",
+      7034,
+      670,
+      428,
+      69,
+      1,
+      1,
+      true
+    ]
+  ]
+}

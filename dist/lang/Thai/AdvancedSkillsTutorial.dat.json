@@ -1,1 +1,804 @@
-{"filename":"AdvancedSkillsTutorial.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":true,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Keys1","rowid":1,"type":"ref|list|ulong","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Key2","rowid":2,"type":"ref|list|ulong","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Description","rowid":3,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"International_BK2File","rowid":4,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":true,"file_ext":".bk2","display":null,"display_type":"{0}","description":null},{"name":"Key0","rowid":5,"type":"ulong","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"China_BK2File","rowid":6,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":true,"file_ext":".bk2","display":null,"display_type":"{0}","description":null},{"name":"CharactersKey","rowid":7,"type":"ref|list|ulong","key":"Characters.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["Blight",[2,1,120],[3,4,141],"สกิลแชนเนลพื้นที่เคออสที่จะทำให้ศัตรูติดดีบัฟ \r\nศัตรูที่โดนดีบัฟนี้จะได้รับความเสียหายเคออสต่อเนื่อง \r\nและยังถูกลดความเร็วในการเคลื่อนที่อีกด้วย","http://web.poecdn.com/public/videos/Blight/BlightMainDemo.bk2 ",301,"http://down.qq.com/poe/videos/skills/Blight/BlightMainDemo.bk2",[6,2,1,5]],["FreezingPulse",[7,6,9],[8,5,144],"สกิลเวทกระสุนน้ำแข็งที่สามารถทะลุศัตรูได้ มันสร้างความเสียหายน้ำแข็งและมีโอกาสแช่แข็งศัตรู \r\nกระสุนที่ยิงออกมาจะลดความเสียหายและโอกาสแช่แข็งลงตามระยะทางที่มันเคลื่อนที่","http://web.poecdn.com/public/videos/FreezingPulse/FreezingPulseMainDemo.bk2 ",76,"http://down.qq.com/poe/videos/skills/FreezingPulse/FreezingPulseFullDemo.bk2",[6,1,5]],["LightningTendrils",[12,14,13],[11,121,122],"สกิลเวทแชนเนลที่จะสร้างความเสียหายไฟฟ้าเป็นจังหวะ \r\nทุกๆ 4 ครั้งที่มันช็อตมันจะแรงกว่าปรกติ","http://web.poecdn.com/public/videos/LightningTendrils/LightingTendrilsMainDemo.bk2 ",253,"http://down.qq.com/poe/videos/skills/LightningTendrils/LightningTendrilsMainDemo.bk2",[6,2,1,5]],["MagmaOrb",[15,17,16],[18,19,148],"สกิลกระสุนไฟที่สร้างความเสียหายพื้นที่ \r\nกระสุนจะกระดอนไปยังเป้าหมายและสร้างความเสียหายไฟทุกครั้งที่มันกระดอน \r\nการเชนที่เพิ่มขึ้นในสกิลระดับสูงจะเพิ่มจำนวนครั้งที่มันกระดอน","http://web.poecdn.com/public/videos/MagmaOrb/MagmaOrbMainDemo.bk2 ",281,"http://down.qq.com/poe/videos/skills/MagmaOrb/MagmaOrbFullDemo.bk2",[6,2,1,5]],["Fireball ",[22,21,26],[27,24,29],"สกิลกระสุนไฟที่สร้างความเสียหายพื้นที่ \r\nสร้างความเสียหายไฟและมีโอกาสทำให้ศัตรูลุกไหม้สูง \r\nเมื่อศัตรูลุกไหม้จะได้รับความเสียหายไฟต่อเนื่อง","http://web.poecdn.com/public/videos/Fireball/FireballMainDemo.bk2",0,"http://down.qq.com/poe/videos/skills/Fireball/FireballFullDemo.bk2",[6,2,0,1,5,3]],["RaiseZombies",[31,32,34],[149,30,33],"สกิลเวทมิเนียนที่เสกซอมบี้จากศพ \r\nซอมบี้จะตามและช่วยต่อสู้ด้วยการโจมตีประชิด","http://web.poecdn.com/public/videos/RaiseZombies/RaiseZombiesMainDemo.bk2",44,"http://down.qq.com/poe/videos/skills/RaiseZombies/RaiseZombiesFullDemo.bk2",[6,2,1]],["GlacialHammer",[38,40,39],[36,37,147],"สกิลประชิดกึ่งกายภาพกึ่งน้ำแข็งเป้าหมายเดียวที่มีโอกาสแช่แข็งศัตรู \r\nสกิลนี้มีความสามารถพิเศษในการฆ่าเป้าหมายทันทีเมื่อโจมตีเป้าหมายขณะที่พลังชีวิตของเป้าหมายเหลือน้อยและถูกแช่แข็งอยู่","http://web.poecdn.com/public/videos/GlacialHammer/GlacialHammerFullDemo.bk2",73,"http://down.qq.com/poe/videos/skills/GlacialHammer/GlacialHammerFullDemo.bk2",[6,4,0]],["EtheralKnives",[47,46,43],[42,44,45],"สกิลกระสุนเวทกายภาพที่จะปล่อยกระสุนออกไปข้างหน้าผู้ร่าย","http://web.poecdn.com/public/videos/EtherealKnives/EtherealKnivesFullDemo.bk2",162,"http://down.qq.com/poe/videos/skills/EtherealKnives/EtherealKnivesFullDemo.bk2",[0,1,5]],["ExplosiveTrap",[49,48,52],[51,50,53],"โยนกับดักที่เมื่อทำงานจะทำการระเบิดขนาดเล็กหลายครั้ง \r\nสร้างความเสียหายกายภาพและไฟให้กับเป้าหมายที่อยู่ใกล้","http://web.poecdn.com/public/videos/ExplosiveTrap/ExplosiveTrapFullDemo.bk2",351,"http://down.qq.com/poe/videos/skills/ExplosiveTrap/ExplosiveTrapFullDemo.bk2",[2,1,5,3]],["FrostBlades",[54,58,56],[57,55,145],"สกิลประชิดรูปแบบกระสุนที่แปลงความเสยหายกายภาพ 60% ไปเป็นน้ำแข็ง \r\nกระสุนที่ยิงออกมาเมื่อโดนศัตรูจะแตกออกเป็นกระสุนขนาดเล็ก \r\nจึงมีโอกาสสร้างความเสียหายให้กับเป้าหมายอื่นเพิ่มเติมได้","http://web.poecdn.com/public/videos/FrostBlades/FrostBladesMainDemo.bk2",277,"http://down.qq.com/poe/videos/skills/FrostBlades/FrostbladesFullDemo.bk2",[2,2,5,3]],["ViperStrike",[60,64,63],[61,65,62],"สกิลประชิดเป้าหมายเดียวที่แปลงความเสียหายกายภาพ 25% ไปเป็นเคออส \r\nมีโอกาสทำให้เป้าหมายติดพิษสูง","http://web.poecdn.com/public/videos/ViperStrike/ViperStrikeFullDemo.bk2",79,"http://down.qq.com/poe/videos/skills/ViperStrike/ViperStrikeFullDemo.bk2",[2,4,5,3]],["SpectralThrow",[67,70,68],[66,71,150],"โยนร่างเงาของอาวุธที่คุณถือออกไปโจมตีศัตรู \r\nร่างเงานี้นับเป็นกระสุนชนิดหนึ่งและสามารถเจาะทะลุศัตรูได้ \r\nเมื่อถึงระยะหนึ่งจะกลับมายังผู้เล่น \r\nจึงสามารถโจมตีเป้าหมายเดิมได้หลายครั้งในการโยนครั้งเดียว","http://web.poecdn.com/public/videos/SpectralThrow/SpectralThrowFullDemo.bk2",207,"http://down.qq.com/poe/videos/skills/SpectralThrow/SpectralThrowFullDemo.bk2",[6,2,4,0,5,3]],["IceShot",[73,77,74],[75,72,76],"ยิงธนูที่แปลงความเสียหายกายภาพ 60% ไฟเป็นน้ำแข็ง \r\nเมื่อลูกธนูโดนเป้าหมายมันจะสร้างพื้นที่หนาวเย็นที่ทำให้ศัตรูช้าลงไว้บนพื้น \r\nและมันยังทำความเสียหายพื้นที่ทรงโคนหลังเป้าหมายอีกด้วย","http://web.poecdn.com/public/videos/Iceshot/IceshotFullDemo.bk2",164,"http://down.qq.com/poe/videos/skills/IceShot/IceshotMainDemo.bk2",[2,4,3]],["ShrapnelShot",[182,183,187],[184,185,186],"ปล่อยคลื่นพลังสายฟ้าทรงอนุภาพออกจากธนูของคุณ คลื่นพลังนี้จะสร้างความเสียหายให้กับศัตรูที่อยู่ใกล้ทุกตัว และจะยิงลูกธนูจำนวนสามดอกเป็นทิศทรงกรวยด้านหน้าของคุณ ลูกธนูนี้อยู่ได้ไม่นานและจะหายไปเมื่อเวลาผ่านไปชั่วขณะ ศรกระแสไฟ คือสกิลที่เหมาะเอาไว้จัดการศัตรูที่อยู่ใกล้ตัว","http://web.poecdn.com/public/videos/GalvanicArrow/EGalvanicArrowIntro.bk2",286,"http://down.qq.com/poe/videos/tutorial/TGalvanicArrowIntro.bk2",[2,4,3]],["SplitArrow",[89,87,86],[84,151,152],"สกิลเรียบง่ายที่จะยิงธนูหลายลูกพร้อมกัน","http://web.poecdn.com/public/videos/SplitArrow/SplitArrowMainDemo.bk2",32,"http://down.qq.com/poe/videos/skills/SplitArrow/SplitArrowMainDemo.bk2",[2,4,5,3]],["GroundSlam",[95,94,91],[93,90,92],"สกิลประชิดพื้นที่ที่จะสร้างความเสียหายเป็นคลื่นด้วยอาวุธหลัก \r\nศัตรูที่อยู่ใกล้จะได้รับความเสียหายมากเป็นพิเศษ \r\nและมันยังมีโอกาสทำให้ศัตรูมึนงงมากขึ้นอีกด้วย","http://web.poecdn.com/public/videos/GroundSlam/GroundSlamFullDemo.bk2",13,"http://down.qq.com/poe/videos/skills/GroundSlam/GroundSlamMainDemo.bk2",[6,4,0]],["HeavyStrike",[100,101,99],[98,96,97],"สกิลประชิดเรียบง่ายที่สามารถผลักศัตรูออกไปได้","http://web.poecdn.com/public/videos/HeavyStrike/HeavyStrikeFullDemo.bk2",100,"http://down.qq.com/poe/videos/skills/HeavyStrike/HeavyStrikeFullDemo.bk2",[6,2,4,0]],["Cleave ",[107,106,102],[105,104,103],"สกิลประชิดพื้นที่ที่สร้างความเสียหายเป็นวงโค้ง \r\nถ้าถืออาวุธคู่สกิลนี้จะใช้อาวุธที่สองพร้อมกัน","http://web.poecdn.com/public/videos/Cleave/CleaveFullDemo.bk2",15,"http://down.qq.com/poe/videos/skills/Cleave/CleaveMainDemo.bk2",[2,4,0,3]],["DoubleStrike",[112,113,109],[110,108,111],"สกิลโจมตีประชิดเรียบง่ายที่จะโจมตีศัตรูสองครั้งซ้อน \r\nมันสร้างความเสียหายมากเป็นพิเศษถ้าศัตรูติดเลือดไหล","http://web.poecdn.com/public/videos/DoubleStrike/DoubleStrikeFullDemo.bk2",18,"http://down.qq.com/poe/videos/skills/DoubleStrike/DoublestrikeFullDemo.bk2",[2,4,0,5,3]],["MoltenStrike",[114,117,118],[116,115,119],"สกิลประชิดพื้นที่ที่จะปล่อยลูกบอลลาวาออกไป \r\nแปลงความเสียหายกายภาพ 50% ไปเป็นไฟ","http://web.poecdn.com/public/videos/MoltenStrike/MoltenStrikeFullDemo.bk2",240,"http://down.qq.com/poe/videos/skills/MoltenStrike/MoltenStrikeFullDemo.bk2",[6,2,4,0]],["Smite",[129,130,131],[133,132,134],"การโจมตีประชิดที่จะทำให้เกิดฟ้าผ่าเป้าหมายสร้างความเสียหายพื้นที่โดยรอบ \r\nสกิลนี้ยังทำให้ได้รับออร่าเสริมความเสียหายไฟฟ้าให้กับคุณและเพื่อนของคุณระยะหนึ่งอีกด้วย","http://web.poecdn.com/public/videos/Smite/SmiteFullDemo.bk2",363,"http://down.qq.com/poe/videos/skills/Smite/SmiteFullDemo.bk2",[6,2,0]],["CausticArrow",[126,125,143],[142,123,124],"การโจมตีที่จะปล่อยกระสุนสร้างพื้นพิษที่เป้าหมาย \r\nตัวกระสุนสร้างความเสียหายเคออสในพื้นที่เป้าหมาย \r\nและพื้นพิษที่สร้างขึ้นสร้างความเสียหายเคออสต่อเนื่อง","http://web.poecdn.com/public/videos/CausticArrow/CausticArrowFullDemo.bk2",45,"http://down.qq.com/poe/videos/skills/CausticArrow/CausticArrowMainDemo.bk2",[2,4,5,3]],["Frostbolt",[139,137,138],[136,135,146],"สกิลยิงกระสุนเวทน้ำแข็งที่เคลื่อนที่ช้าออกไป \r\nสร้างความเสียหายน้ำแข็งและมีโอกาสแช่แข็งศัตรู","http://web.poecdn.com/public/videos/Frostbolt/FrostboltFullDemo.bk2",312,"http://down.qq.com/poe/videos/skills/Frostbolt/Frostbolt%20Full%20Demo.bk2",[6,2,1,5]],["PurifyingFlame",[154,155,156],[153,157,158],"สกิลเวทพื้นที่สร้างความเสียหายกายภาพและไฟและสร้างพื้นศักดิ์สิทธิ์ขึ้นมา การร่ายเวทย์นี้อีกครั้งจะสร้างคลื่นพลังที่จะทำความเสียหายให้กับศัตรูที่ยืนอยู่บนพื้นที่ศักดิ์สิทธิ์","http://web.poecdn.com/public/videos/PurifyingFlame/PurifyingFlamesFullDemo.bk2",379,"https://down.qq.com/poe/videos/skills/PurifyingFlames/PurfiyingFlamesFullDemo.bk2",[6]],["CobraLash",[166,167,168],[169,170,171],"โยนร่างเงาของอาวุธที่คุณถือไปยังศัตรูซึ่งจะกระเด็นกระดอนไปมาระหว่างศัตรูหลายตัว ทำให้ศัตรูเหล่านี้ติดสถานะพิษ\n\nสถานะพิษ คือสถานะที่สร้างความเสียหายเคออสต่อเนื่องให้กับศัตรูโดยขึ้นอยู่กับความเสียหายกายภาพและเคออสของคุณ คุณสามารถทำให้ศัตรูติดสถานะพิษซ้อนกันหลายครั้งได้ สกิลนี้จะต้องใช้กับมีดหรือกรงเล็บเท่านั้น","http://web.poecdn.com/public/videos/CobraLash/ECobraLashIntro.bk2",411,"https://down.qq.com/poe/videos/skills/TCobraLashIntro.bk2",[5]],["StormblastMine",[159,160,161],[162,163,164,165],"ทำการโยนทุ่นระเบิดออกไปและเมื่อจุดระเบิดจะสร้างความเสียหายสายฟ้าให้กับศัตรูที่อยู่ใกล้ มันยังทำให้ศัตรูที่อยู่ใกล้ติดสถานะ ช็อค อีกด้วย ซึ่งจะเพิ่มความเสียหายที่พวกมันได้รับ\n\nตัวทุ่นระเบิดสายฟ้า (Stormblast Mine) จะทำให้ศัตรูที่อยู่ใกล้มันได้รับความเสียหายเพิ่มขึ้น ยิ่งมีทุนระเบิดมากเท่าไหร่ศัตรูที่อยู่ใกล้ก็จะยิ่งได้รับความเสียหายเพิ่มขึ้นมากเท่านั้น","http://web.poecdn.com/public/videos/StormblastMine/EStormblastIntro.bk2",421,"https://down.qq.com/poe/videos/skills/TStormblastIntro.bk2",[5]],["Perforate",[172,173,174],[175,176,177],"ทำการฟาดพื้นเพื่อสร้างหนามมฤตยูทิ่มแทงศัตรู ซึ่งหนามเหล่านี้จะอัดแน่นใกล้กันมากและสามารถปะทะศัตรูได้หลายตัวพร้อมกัน และสามารถปะทะศัตรูตัวเดียวกันได้หลายครั้งด้วย\n\nคุณสามารถเปลี่ยนกระบวนท่าไปเป็นกระบวนท่าวาลุกาด้วยหินสกิล โลหิตและวาลุกา (Blood and Sand) เพื่อทำให้หนามเหล่านี้แตกกระจายในบริเวณที่กว้างขึ้นได้","http://web.poecdn.com/public/videos/Perforate/EPerforateIntro.bk2",398,"https://down.qq.com/poe/videos/skills/TPerforateIntro.bk2",[4]],["Frostblink",[],[179,178],"มันคือสกิลสนับสนุนประเภทเดินทางที่จะย้ายตำแหน่งคุณไปในระยะสั้นๆ และทำการระเบิดน้ำแข็งไว้ด้านหลังเพื่อสร้างความเสียหายศัตรูและทิ้งพื้นหนาวเย็นไว้เพื่อทำให้ศัตรูช้าลงด้วย ก้าวน้ำแข็งพริบตา (Frostblink) นี้เป็นสกิลที่ประเมินค่ามิได้ในการหลบภัยอันตราย\n\nสกิลประเภทเดินทางจะไม่ได้รับผลจากหินเสริมเท่าใดนัก และอีกอย่างก้าวน้ำแข็งพริบตานั้นใช้งานได้ดีอยู่แล้วโดยไม่จำเป็นต้องใส่หินเสริม","http://web.poecdn.com/public/videos/Frostblink/EFrostblinkIntro.bk2",403,"https://down.qq.com/poe/videos/skills/TFrostblinkIntro.bk2",[1,6,5,2]],["Dash",[],[],"พุ่งตัว (Dash) เป็นสกิลสนับสนุนประเภทเดินทางที่จะทำให้ตัวละครของคุณพุ่งออกไปในระยะสั้น มีประโยชน์ในการหลบภัยอันตราย\n\nสกิลประเภทเดินทางจะไม่ได้รับผลจากหินเสริมเท่าใดนัก และอีกอย่างสกิลพุ่งตัวนั้นใช้งานได้ดีอยู่แล้วโดยไม่จำเป็นต้องใส่หินเสริม","http://web.poecdn.com/public/videos/Dash/EDashIntro.bk2",392,"https://down.qq.com/poe/videos/skills/TDashIntro.bk2",[3,4,5,2]],["Steelskin",[],[180,181],"ตั้งท่าป้องกัน เพื่อลดความเสียหายที่ได้รับจากการปะทะลงอย่างมากในระยะเวลาสั้นๆ ซึ่งสกิล ผิวเหล็ก (Steelskin) นี้เป็นสกิลประเภทตั้งรับที่จะบล็อกความเสียหายจำนวนหนึ่ง และเมื่อบล็อกตามจำนวนครบถ้วนแล้วความเสียหายที่เหลือจะทะลุมาหาคุณ\n\nสกิลประเภทตั้งรับจะไม่ได้รับผลจากหินเสริมเท่าใดนัก และอีกอย่างสกิลผิวเหล็กนั้นใช้งานได้ดีอยู่แล้วโดยไม่จำเป็นต้องใส่หินเสริม","http://web.poecdn.com/public/videos/Steelskin/ESteelskinIntro.bk2",390,"https://down.qq.com/poe/videos/skills/TSteelskinIntro.bk2",[0,6,4,2]],["KineticBolt",[189,190],[188,192,191],"ปล่อยกระสุนออกไปจากไม้กายสิทธิ์ของคุณซึ่งจะเปลี่ยนทิศทางซิกแซกไปมา ทุกครั้งที่กระสุนเปลี่ยนทิศทางมันจะปล่อยลูกกระสุนย่อยออกมาด้วย","http://web.poecdn.com/public/videos/EKineticBolt/EKineticBoltIntro.bk2",472,"http://down.qq.com/poe/videos/tutorial/TKineticBoltIntro.bk2",[1]]]}
+{
+  "filename": "AdvancedSkillsTutorial.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Keys1",
+      "rowid": 1,
+      "type": "ref|list|ulong",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Key2",
+      "rowid": 2,
+      "type": "ref|list|ulong",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Description",
+      "rowid": 3,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "International_BK2File",
+      "rowid": 4,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": true,
+      "file_ext": ".bk2",
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Key0",
+      "rowid": 5,
+      "type": "ulong",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "China_BK2File",
+      "rowid": 6,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": true,
+      "file_ext": ".bk2",
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "CharactersKey",
+      "rowid": 7,
+      "type": "ref|list|ulong",
+      "key": "Characters.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "Blight",
+      [
+        2,
+        1,
+        120
+      ],
+      [
+        3,
+        4,
+        141
+      ],
+      "สกิลแชนเนลพื้นที่เคออสที่จะทำให้ศัตรูติดดีบัฟ \r\nศัตรูที่โดนดีบัฟนี้จะได้รับความเสียหายเคออสต่อเนื่อง \r\nและยังถูกลดความเร็วในการเคลื่อนที่อีกด้วย",
+      "http://web.poecdn.com/public/videos/Blight/BlightMainDemo.bk2 ",
+      301,
+      "http://down.qq.com/poe/videos/skills/Blight/BlightMainDemo.bk2",
+      [
+        6,
+        2,
+        1,
+        5
+      ]
+    ],
+    [
+      "FreezingPulse",
+      [
+        7,
+        6,
+        9
+      ],
+      [
+        8,
+        5,
+        144
+      ],
+      "สกิลเวทกระสุนน้ำแข็งที่สามารถทะลุศัตรูได้ มันสร้างความเสียหายน้ำแข็งและมีโอกาสแช่แข็งศัตรู \r\nกระสุนที่ยิงออกมาจะลดความเสียหายและโอกาสแช่แข็งลงตามระยะทางที่มันเคลื่อนที่",
+      "http://web.poecdn.com/public/videos/FreezingPulse/FreezingPulseMainDemo.bk2 ",
+      76,
+      "http://down.qq.com/poe/videos/skills/FreezingPulse/FreezingPulseFullDemo.bk2",
+      [
+        6,
+        1,
+        5
+      ]
+    ],
+    [
+      "LightningTendrils",
+      [
+        12,
+        14,
+        13
+      ],
+      [
+        11,
+        121,
+        122
+      ],
+      "สกิลเวทแชนเนลที่จะสร้างความเสียหายไฟฟ้าเป็นจังหวะ \r\nทุกๆ 4 ครั้งที่มันช็อตมันจะแรงกว่าปรกติ",
+      "http://web.poecdn.com/public/videos/LightningTendrils/LightingTendrilsMainDemo.bk2 ",
+      253,
+      "http://down.qq.com/poe/videos/skills/LightningTendrils/LightningTendrilsMainDemo.bk2",
+      [
+        6,
+        2,
+        1,
+        5
+      ]
+    ],
+    [
+      "MagmaOrb",
+      [
+        15,
+        17,
+        16
+      ],
+      [
+        18,
+        19,
+        148
+      ],
+      "สกิลกระสุนไฟที่สร้างความเสียหายพื้นที่ \r\nกระสุนจะกระดอนไปยังเป้าหมายและสร้างความเสียหายไฟทุกครั้งที่มันกระดอน \r\nการเชนที่เพิ่มขึ้นในสกิลระดับสูงจะเพิ่มจำนวนครั้งที่มันกระดอน",
+      "http://web.poecdn.com/public/videos/MagmaOrb/MagmaOrbMainDemo.bk2 ",
+      281,
+      "http://down.qq.com/poe/videos/skills/MagmaOrb/MagmaOrbFullDemo.bk2",
+      [
+        6,
+        2,
+        1,
+        5
+      ]
+    ],
+    [
+      "Fireball ",
+      [
+        22,
+        21,
+        26
+      ],
+      [
+        27,
+        24,
+        29
+      ],
+      "สกิลกระสุนไฟที่สร้างความเสียหายพื้นที่ \r\nสร้างความเสียหายไฟและมีโอกาสทำให้ศัตรูลุกไหม้สูง \r\nเมื่อศัตรูลุกไหม้จะได้รับความเสียหายไฟต่อเนื่อง",
+      "http://web.poecdn.com/public/videos/Fireball/FireballMainDemo.bk2",
+      0,
+      "http://down.qq.com/poe/videos/skills/Fireball/FireballFullDemo.bk2",
+      [
+        6,
+        2,
+        0,
+        1,
+        5,
+        3
+      ]
+    ],
+    [
+      "RaiseZombies",
+      [
+        31,
+        32,
+        34
+      ],
+      [
+        149,
+        30,
+        33
+      ],
+      "สกิลเวทมิเนียนที่เสกซอมบี้จากศพ \r\nซอมบี้จะตามและช่วยต่อสู้ด้วยการโจมตีประชิด",
+      "http://web.poecdn.com/public/videos/RaiseZombies/RaiseZombiesMainDemo.bk2",
+      44,
+      "http://down.qq.com/poe/videos/skills/RaiseZombies/RaiseZombiesFullDemo.bk2",
+      [
+        6,
+        2,
+        1
+      ]
+    ],
+    [
+      "GlacialHammer",
+      [
+        38,
+        40,
+        39
+      ],
+      [
+        36,
+        37,
+        147
+      ],
+      "สกิลประชิดกึ่งกายภาพกึ่งน้ำแข็งเป้าหมายเดียวที่มีโอกาสแช่แข็งศัตรู \r\nสกิลนี้มีความสามารถพิเศษในการฆ่าเป้าหมายทันทีเมื่อโจมตีเป้าหมายขณะที่พลังชีวิตของเป้าหมายเหลือน้อยและถูกแช่แข็งอยู่",
+      "http://web.poecdn.com/public/videos/GlacialHammer/GlacialHammerFullDemo.bk2",
+      73,
+      "http://down.qq.com/poe/videos/skills/GlacialHammer/GlacialHammerFullDemo.bk2",
+      [
+        6,
+        4,
+        0
+      ]
+    ],
+    [
+      "EtheralKnives",
+      [
+        47,
+        46,
+        43
+      ],
+      [
+        42,
+        44,
+        45
+      ],
+      "สกิลกระสุนเวทกายภาพที่จะปล่อยกระสุนออกไปข้างหน้าผู้ร่าย",
+      "http://web.poecdn.com/public/videos/EtherealKnives/EtherealKnivesFullDemo.bk2",
+      162,
+      "http://down.qq.com/poe/videos/skills/EtherealKnives/EtherealKnivesFullDemo.bk2",
+      [
+        0,
+        1,
+        5
+      ]
+    ],
+    [
+      "ExplosiveTrap",
+      [
+        49,
+        48,
+        52
+      ],
+      [
+        51,
+        50,
+        53
+      ],
+      "โยนกับดักที่เมื่อทำงานจะทำการระเบิดขนาดเล็กหลายครั้ง \r\nสร้างความเสียหายกายภาพและไฟให้กับเป้าหมายที่อยู่ใกล้",
+      "http://web.poecdn.com/public/videos/ExplosiveTrap/ExplosiveTrapFullDemo.bk2",
+      351,
+      "http://down.qq.com/poe/videos/skills/ExplosiveTrap/ExplosiveTrapFullDemo.bk2",
+      [
+        2,
+        1,
+        5,
+        3
+      ]
+    ],
+    [
+      "FrostBlades",
+      [
+        54,
+        58,
+        56
+      ],
+      [
+        57,
+        55,
+        145
+      ],
+      "สกิลประชิดรูปแบบกระสุนที่แปลงความเสยหายกายภาพ 60% ไปเป็นน้ำแข็ง \r\nกระสุนที่ยิงออกมาเมื่อโดนศัตรูจะแตกออกเป็นกระสุนขนาดเล็ก \r\nจึงมีโอกาสสร้างความเสียหายให้กับเป้าหมายอื่นเพิ่มเติมได้",
+      "http://web.poecdn.com/public/videos/FrostBlades/FrostBladesMainDemo.bk2",
+      277,
+      "http://down.qq.com/poe/videos/skills/FrostBlades/FrostbladesFullDemo.bk2",
+      [
+        2,
+        2,
+        5,
+        3
+      ]
+    ],
+    [
+      "ViperStrike",
+      [
+        60,
+        64,
+        63
+      ],
+      [
+        61,
+        65,
+        62
+      ],
+      "สกิลประชิดเป้าหมายเดียวที่แปลงความเสียหายกายภาพ 25% ไปเป็นเคออส \r\nมีโอกาสทำให้เป้าหมายติดพิษสูง",
+      "http://web.poecdn.com/public/videos/ViperStrike/ViperStrikeFullDemo.bk2",
+      79,
+      "http://down.qq.com/poe/videos/skills/ViperStrike/ViperStrikeFullDemo.bk2",
+      [
+        2,
+        4,
+        5,
+        3
+      ]
+    ],
+    [
+      "SpectralThrow",
+      [
+        67,
+        70,
+        68
+      ],
+      [
+        66,
+        71,
+        150
+      ],
+      "โยนร่างเงาของอาวุธที่คุณถือออกไปโจมตีศัตรู \r\nร่างเงานี้นับเป็นกระสุนชนิดหนึ่งและสามารถเจาะทะลุศัตรูได้ \r\nเมื่อถึงระยะหนึ่งจะกลับมายังผู้เล่น \r\nจึงสามารถโจมตีเป้าหมายเดิมได้หลายครั้งในการโยนครั้งเดียว",
+      "http://web.poecdn.com/public/videos/SpectralThrow/SpectralThrowFullDemo.bk2",
+      207,
+      "http://down.qq.com/poe/videos/skills/SpectralThrow/SpectralThrowFullDemo.bk2",
+      [
+        6,
+        2,
+        4,
+        0,
+        5,
+        3
+      ]
+    ],
+    [
+      "IceShot",
+      [
+        73,
+        77,
+        74
+      ],
+      [
+        75,
+        72,
+        76
+      ],
+      "ยิงธนูที่แปลงความเสียหายกายภาพ 60% ไฟเป็นน้ำแข็ง \r\nเมื่อลูกธนูโดนเป้าหมายมันจะสร้างพื้นที่หนาวเย็นที่ทำให้ศัตรูช้าลงไว้บนพื้น \r\nและมันยังทำความเสียหายพื้นที่ทรงโคนหลังเป้าหมายอีกด้วย",
+      "http://web.poecdn.com/public/videos/Iceshot/IceshotFullDemo.bk2",
+      164,
+      "http://down.qq.com/poe/videos/skills/IceShot/IceshotMainDemo.bk2",
+      [
+        2,
+        4,
+        3
+      ]
+    ],
+    [
+      "ShrapnelShot",
+      [
+        182,
+        183,
+        187
+      ],
+      [
+        184,
+        185,
+        186
+      ],
+      "ปล่อยคลื่นพลังสายฟ้าทรงอนุภาพออกจากธนูของคุณ คลื่นพลังนี้จะสร้างความเสียหายให้กับศัตรูที่อยู่ใกล้ทุกตัว และจะยิงลูกธนูจำนวนสามดอกเป็นทิศทรงกรวยด้านหน้าของคุณ ลูกธนูนี้อยู่ได้ไม่นานและจะหายไปเมื่อเวลาผ่านไปชั่วขณะ ศรกระแสไฟ คือสกิลที่เหมาะเอาไว้จัดการศัตรูที่อยู่ใกล้ตัว",
+      "http://web.poecdn.com/public/videos/GalvanicArrow/EGalvanicArrowIntro.bk2",
+      286,
+      "http://down.qq.com/poe/videos/tutorial/TGalvanicArrowIntro.bk2",
+      [
+        2,
+        4,
+        3
+      ]
+    ],
+    [
+      "SplitArrow",
+      [
+        89,
+        87,
+        86
+      ],
+      [
+        84,
+        151,
+        152
+      ],
+      "สกิลเรียบง่ายที่จะยิงธนูหลายลูกพร้อมกัน",
+      "http://web.poecdn.com/public/videos/SplitArrow/SplitArrowMainDemo.bk2",
+      32,
+      "http://down.qq.com/poe/videos/skills/SplitArrow/SplitArrowMainDemo.bk2",
+      [
+        2,
+        4,
+        5,
+        3
+      ]
+    ],
+    [
+      "GroundSlam",
+      [
+        95,
+        94,
+        91
+      ],
+      [
+        93,
+        90,
+        92
+      ],
+      "สกิลประชิดพื้นที่ที่จะสร้างความเสียหายเป็นคลื่นด้วยอาวุธหลัก \r\nศัตรูที่อยู่ใกล้จะได้รับความเสียหายมากเป็นพิเศษ \r\nและมันยังมีโอกาสทำให้ศัตรูมึนงงมากขึ้นอีกด้วย",
+      "http://web.poecdn.com/public/videos/GroundSlam/GroundSlamFullDemo.bk2",
+      13,
+      "http://down.qq.com/poe/videos/skills/GroundSlam/GroundSlamMainDemo.bk2",
+      [
+        6,
+        4,
+        0
+      ]
+    ],
+    [
+      "HeavyStrike",
+      [
+        100,
+        101,
+        99
+      ],
+      [
+        98,
+        96,
+        97
+      ],
+      "สกิลประชิดเรียบง่ายที่สามารถผลักศัตรูออกไปได้",
+      "http://web.poecdn.com/public/videos/HeavyStrike/HeavyStrikeFullDemo.bk2",
+      100,
+      "http://down.qq.com/poe/videos/skills/HeavyStrike/HeavyStrikeFullDemo.bk2",
+      [
+        6,
+        2,
+        4,
+        0
+      ]
+    ],
+    [
+      "Cleave ",
+      [
+        107,
+        106,
+        102
+      ],
+      [
+        105,
+        104,
+        103
+      ],
+      "สกิลประชิดพื้นที่ที่สร้างความเสียหายเป็นวงโค้ง \r\nถ้าถืออาวุธคู่สกิลนี้จะใช้อาวุธที่สองพร้อมกัน",
+      "http://web.poecdn.com/public/videos/Cleave/CleaveFullDemo.bk2",
+      15,
+      "http://down.qq.com/poe/videos/skills/Cleave/CleaveMainDemo.bk2",
+      [
+        2,
+        4,
+        0,
+        3
+      ]
+    ],
+    [
+      "DoubleStrike",
+      [
+        112,
+        113,
+        109
+      ],
+      [
+        110,
+        108,
+        111
+      ],
+      "สกิลโจมตีประชิดเรียบง่ายที่จะโจมตีศัตรูสองครั้งซ้อน \r\nมันสร้างความเสียหายมากเป็นพิเศษถ้าศัตรูติดเลือดไหล",
+      "http://web.poecdn.com/public/videos/DoubleStrike/DoubleStrikeFullDemo.bk2",
+      18,
+      "http://down.qq.com/poe/videos/skills/DoubleStrike/DoublestrikeFullDemo.bk2",
+      [
+        2,
+        4,
+        0,
+        5,
+        3
+      ]
+    ],
+    [
+      "MoltenStrike",
+      [
+        114,
+        117,
+        118
+      ],
+      [
+        116,
+        115,
+        119
+      ],
+      "สกิลประชิดพื้นที่ที่จะปล่อยลูกบอลลาวาออกไป \r\nแปลงความเสียหายกายภาพ 50% ไปเป็นไฟ",
+      "http://web.poecdn.com/public/videos/MoltenStrike/MoltenStrikeFullDemo.bk2",
+      240,
+      "http://down.qq.com/poe/videos/skills/MoltenStrike/MoltenStrikeFullDemo.bk2",
+      [
+        6,
+        2,
+        4,
+        0
+      ]
+    ],
+    [
+      "Smite",
+      [
+        129,
+        130,
+        131
+      ],
+      [
+        133,
+        132,
+        134
+      ],
+      "การโจมตีประชิดที่จะทำให้เกิดฟ้าผ่าเป้าหมายสร้างความเสียหายพื้นที่โดยรอบ \r\nสกิลนี้ยังทำให้ได้รับออร่าเสริมความเสียหายไฟฟ้าให้กับคุณและเพื่อนของคุณระยะหนึ่งอีกด้วย",
+      "http://web.poecdn.com/public/videos/Smite/SmiteFullDemo.bk2",
+      363,
+      "http://down.qq.com/poe/videos/skills/Smite/SmiteFullDemo.bk2",
+      [
+        6,
+        2,
+        0
+      ]
+    ],
+    [
+      "CausticArrow",
+      [
+        126,
+        125,
+        143
+      ],
+      [
+        142,
+        123,
+        124
+      ],
+      "การโจมตีที่จะปล่อยกระสุนสร้างพื้นพิษที่เป้าหมาย \r\nตัวกระสุนสร้างความเสียหายเคออสในพื้นที่เป้าหมาย \r\nและพื้นพิษที่สร้างขึ้นสร้างความเสียหายเคออสต่อเนื่อง",
+      "http://web.poecdn.com/public/videos/CausticArrow/CausticArrowFullDemo.bk2",
+      45,
+      "http://down.qq.com/poe/videos/skills/CausticArrow/CausticArrowMainDemo.bk2",
+      [
+        2,
+        4,
+        5,
+        3
+      ]
+    ],
+    [
+      "Frostbolt",
+      [
+        139,
+        137,
+        138
+      ],
+      [
+        136,
+        135,
+        146
+      ],
+      "สกิลยิงกระสุนเวทน้ำแข็งที่เคลื่อนที่ช้าออกไป \r\nสร้างความเสียหายน้ำแข็งและมีโอกาสแช่แข็งศัตรู",
+      "http://web.poecdn.com/public/videos/Frostbolt/FrostboltFullDemo.bk2",
+      312,
+      "http://down.qq.com/poe/videos/skills/Frostbolt/Frostbolt%20Full%20Demo.bk2",
+      [
+        6,
+        2,
+        1,
+        5
+      ]
+    ],
+    [
+      "PurifyingFlame",
+      [
+        154,
+        155,
+        156
+      ],
+      [
+        153,
+        157,
+        158
+      ],
+      "สกิลเวทพื้นที่สร้างความเสียหายกายภาพและไฟและสร้างพื้นศักดิ์สิทธิ์ขึ้นมา การร่ายเวทย์นี้อีกครั้งจะสร้างคลื่นพลังที่จะทำความเสียหายให้กับศัตรูที่ยืนอยู่บนพื้นที่ศักดิ์สิทธิ์",
+      "http://web.poecdn.com/public/videos/PurifyingFlame/PurifyingFlamesFullDemo.bk2",
+      379,
+      "https://down.qq.com/poe/videos/skills/PurifyingFlames/PurfiyingFlamesFullDemo.bk2",
+      [
+        6
+      ]
+    ],
+    [
+      "CobraLash",
+      [
+        166,
+        167,
+        168
+      ],
+      [
+        169,
+        170,
+        171
+      ],
+      "โยนร่างเงาของอาวุธที่คุณถือไปยังศัตรูซึ่งจะกระเด็นกระดอนไปมาระหว่างศัตรูหลายตัว ทำให้ศัตรูเหล่านี้ติดสถานะพิษ\n\nสถานะพิษ คือสถานะที่สร้างความเสียหายเคออสต่อเนื่องให้กับศัตรูโดยขึ้นอยู่กับความเสียหายกายภาพและเคออสของคุณ คุณสามารถทำให้ศัตรูติดสถานะพิษซ้อนกันหลายครั้งได้ สกิลนี้จะต้องใช้กับมีดหรือกรงเล็บเท่านั้น",
+      "http://web.poecdn.com/public/videos/CobraLash/ECobraLashIntro.bk2",
+      411,
+      "https://down.qq.com/poe/videos/skills/TCobraLashIntro.bk2",
+      [
+        5
+      ]
+    ],
+    [
+      "StormblastMine",
+      [
+        159,
+        160,
+        161
+      ],
+      [
+        162,
+        163,
+        164,
+        165
+      ],
+      "ทำการโยนทุ่นระเบิดออกไปและเมื่อจุดระเบิดจะสร้างความเสียหายสายฟ้าให้กับศัตรูที่อยู่ใกล้ มันยังทำให้ศัตรูที่อยู่ใกล้ติดสถานะ ช็อค อีกด้วย ซึ่งจะเพิ่มความเสียหายที่พวกมันได้รับ\n\nตัวทุ่นระเบิดสายฟ้า (Stormblast Mine) จะทำให้ศัตรูที่อยู่ใกล้มันได้รับความเสียหายเพิ่มขึ้น ยิ่งมีทุนระเบิดมากเท่าไหร่ศัตรูที่อยู่ใกล้ก็จะยิ่งได้รับความเสียหายเพิ่มขึ้นมากเท่านั้น",
+      "http://web.poecdn.com/public/videos/StormblastMine/EStormblastIntro.bk2",
+      421,
+      "https://down.qq.com/poe/videos/skills/TStormblastIntro.bk2",
+      [
+        5
+      ]
+    ],
+    [
+      "Perforate",
+      [
+        172,
+        173,
+        174
+      ],
+      [
+        175,
+        176,
+        177
+      ],
+      "ทำการฟาดพื้นเพื่อสร้างหนามมฤตยูทิ่มแทงศัตรู ซึ่งหนามเหล่านี้จะอัดแน่นใกล้กันมากและสามารถปะทะศัตรูได้หลายตัวพร้อมกัน และสามารถปะทะศัตรูตัวเดียวกันได้หลายครั้งด้วย\n\nคุณสามารถเปลี่ยนกระบวนท่าไปเป็นกระบวนท่าวาลุกาด้วยหินสกิล โลหิตและวาลุกา (Blood and Sand) เพื่อทำให้หนามเหล่านี้แตกกระจายในบริเวณที่กว้างขึ้นได้",
+      "http://web.poecdn.com/public/videos/Perforate/EPerforateIntro.bk2",
+      398,
+      "https://down.qq.com/poe/videos/skills/TPerforateIntro.bk2",
+      [
+        4
+      ]
+    ],
+    [
+      "Frostblink",
+      [],
+      [
+        179,
+        178
+      ],
+      "มันคือสกิลสนับสนุนประเภทเดินทางที่จะย้ายตำแหน่งคุณไปในระยะสั้นๆ และทำการระเบิดน้ำแข็งไว้ด้านหลังเพื่อสร้างความเสียหายศัตรูและทิ้งพื้นหนาวเย็นไว้เพื่อทำให้ศัตรูช้าลงด้วย ก้าวน้ำแข็งพริบตา (Frostblink) นี้เป็นสกิลที่ประเมินค่ามิได้ในการหลบภัยอันตราย\n\nสกิลประเภทเดินทางจะไม่ได้รับผลจากหินเสริมเท่าใดนัก และอีกอย่างก้าวน้ำแข็งพริบตานั้นใช้งานได้ดีอยู่แล้วโดยไม่จำเป็นต้องใส่หินเสริม",
+      "http://web.poecdn.com/public/videos/Frostblink/EFrostblinkIntro.bk2",
+      403,
+      "https://down.qq.com/poe/videos/skills/TFrostblinkIntro.bk2",
+      [
+        1,
+        6,
+        5,
+        2
+      ]
+    ],
+    [
+      "Dash",
+      [],
+      [],
+      "พุ่งตัว (Dash) เป็นสกิลสนับสนุนประเภทเดินทางที่จะทำให้ตัวละครของคุณพุ่งออกไปในระยะสั้น มีประโยชน์ในการหลบภัยอันตราย\n\nสกิลประเภทเดินทางจะไม่ได้รับผลจากหินเสริมเท่าใดนัก และอีกอย่างสกิลพุ่งตัวนั้นใช้งานได้ดีอยู่แล้วโดยไม่จำเป็นต้องใส่หินเสริม",
+      "http://web.poecdn.com/public/videos/Dash/EDashIntro.bk2",
+      392,
+      "https://down.qq.com/poe/videos/skills/TDashIntro.bk2",
+      [
+        3,
+        4,
+        5,
+        2
+      ]
+    ],
+    [
+      "Steelskin",
+      [],
+      [
+        180,
+        181
+      ],
+      "ตั้งท่าป้องกัน เพื่อลดความเสียหายที่ได้รับจากการปะทะลงอย่างมากในระยะเวลาสั้นๆ ซึ่งสกิล ผิวเหล็ก (Steelskin) นี้เป็นสกิลประเภทตั้งรับที่จะบล็อกความเสียหายจำนวนหนึ่ง และเมื่อบล็อกตามจำนวนครบถ้วนแล้วความเสียหายที่เหลือจะทะลุมาหาคุณ\n\nสกิลประเภทตั้งรับจะไม่ได้รับผลจากหินเสริมเท่าใดนัก และอีกอย่างสกิลผิวเหล็กนั้นใช้งานได้ดีอยู่แล้วโดยไม่จำเป็นต้องใส่หินเสริม",
+      "http://web.poecdn.com/public/videos/Steelskin/ESteelskinIntro.bk2",
+      390,
+      "https://down.qq.com/poe/videos/skills/TSteelskinIntro.bk2",
+      [
+        0,
+        6,
+        4,
+        2
+      ]
+    ],
+    [
+      "KineticBolt",
+      [
+        189,
+        190
+      ],
+      [
+        188,
+        192,
+        191
+      ],
+      "ปล่อยกระสุนออกไปจากไม้กายสิทธิ์ของคุณซึ่งจะเปลี่ยนทิศทางซิกแซกไปมา ทุกครั้งที่กระสุนเปลี่ยนทิศทางมันจะปล่อยลูกกระสุนย่อยออกมาด้วย",
+      "http://web.poecdn.com/public/videos/EKineticBolt/EKineticBoltIntro.bk2",
+      472,
+      "http://down.qq.com/poe/videos/tutorial/TKineticBoltIntro.bk2",
+      [
+        1
+      ]
+    ]
+  ]
+}

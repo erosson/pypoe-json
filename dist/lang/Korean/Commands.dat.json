@@ -1,1 +1,521 @@
-{"filename":"Commands.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":true,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Command","rowid":1,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Flag0","rowid":2,"type":"bool","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Command2","rowid":3,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Description","rowid":4,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Flag1","rowid":5,"type":"bool","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["PerformDance","춤",true,"dance","",true],["ShowTimePlayed","플레이시간",true,"played","/플레이시간 또는 /played 는 현재 캐릭터를 얼마나 플레이했는지 표시합니다",true],["ShowCharacterAge","캐릭터나이",true,"age","/캐릭터나이 또는 /age 는 캐릭터를 생성한 지 얼마나 오래되었는지 표시합니다",true],["ShowMonstersRemaining","몬스터수",true,"remaining","/몬스터수 또는 /remaining 은 지역 내에 남아있는 몬스터의 수를 표시합니다",true],["ShowDeaths","사망",true,"deaths","/사망 또는 /deaths 는 지금까지의 사망 횟수를 표시합니다",true],["ShowPvPStats","pvp정보",true,"pvp","",false],["ShowLadder","래더",true,"ladder","/래더 또는 /ladder 는 현재 래더의 최상위 10개 캐릭터를 표시합니다",true],["ForceResync","oos",true,"oos","",true],["DestroyCursorItem","아이템파괴",true,"destroy","/아이템파괴 또는 /destroy 는 커서가 위치한 쪽의 아이템을 파괴합니다 (주의 요망)",true],["Whois","누구",true,"whois","/누구 또는 /whois 와 캐릭터 이름을 입력하면 해당 캐릭터의 정보를 표시합니다",true],["ShowHelp","도움말",false,"help","",true],["ShowCursorItemLevel","아이템레벨",true,"itemlevel","/아이템레벨 또는 /itemlevel 은 커서가 위치한 쪽의 아이템 레벨을 표시합니다",true],["FixMyHelmet","헬멧",true,"fixmyhelmet","",true],["ReportBug","버그",true,"bug","/버그 또는 /bug 는 버그를 신고하고, 참조 번호를 보여줍니다",true],["Debug","디버그",true,"debug","",true],["Ignore1","차단",false,"ignore","/차단 또는 /ignore 와 캐릭터 이름을 입력하면 해당 캐릭터를 차단합니다",true],["Ignore2","차단2",false,"squelch","",true],["Unignore1","차단해제",false,"unignore","/차단해제 또는 /unignore 와 캐릭터 이름을 입력하면 해당 캐릭터 차단을 취소합니다",true],["Unignore2","차단해제2",false,"unsquelch","",true],["ClearIgnoreList","차단초기화",false,"clear_ignore_list","/차단초기화 또는 /clear_ignore_list 는 캐릭터 차단 목록에 있는 계정을 모두 삭제합니다",true],["SetStatus","상태",false,"status","",true],["ShowPassives","패시브",false,"passives","/패시브 또는 /passives 는 자신의 패시브 스킬 포인트를 종합해서 보여줍니다",true],["InviteToParty","파티초대",false,"invite","/파티초대 또는 /invite 와 캐릭터 이름을 입력하면 해당 캐릭터를 파티에 초대합니다",false],["AddFriend","친구추가",false,"friend","/친구추가 또는 /friend 와 캐릭터 이름을 입력하면 해당 캐릭터를 친구 목록에 추가합니다",false],["RemoveFriend","친구삭제",false,"unfriend","",false],["AcceptFriend","친구 수락",false,"accept","",false],["KickPartyMember","파티추방",false,"kick","",true],["SetPartyDescription","파티상태",false,"party_description","",true],["InitiateTrade","거래신청",false,"tradewith","",true],["ClearMessage1","채팅정리",false,"cls","",true],["ClearMessage2","채팅정리2",false,"clear","",true],["ToggleNoChat1","채팅중지",false,"nochat","",true],["ToggleNoChat2","채팅중지2",false,"togglenochat","",true],["AutoReply","자동응답",true,"autoreply","/자동응답 또는 /autoreply [메시지 내용] 은 귓속말에 맞춤 메시지로 답신합니다.",true],["SetAFK","자리비움",true,"afk","/자리비움 또는 /afk [메시지 내용] 은 자리비움 시 자동으로 답장을 보냅니다. 채팅 등의 활동을 하면 자리비움이 해제됩니다.",true],["DoNotDisturb1","방해금지",true,"dnd","/방해금지 또는 /dnd [메시지 내용] 은 방해 금지 상태일 때 귓속말에 맞춤 메시지로 답신하고, 모든 메시지를 무시합니다.",true],["DoNotDisturb2","방해금지2",true,"donotdisturb","",true],["ExitToCharacterSelection","캐릭터선택창",false,"exit","",true],["SpectatePvP","pvp관전",true,"spectate","",false],["SpectatePvPReturn","pvp관전종료",true,"town","",true],["SetGlobalChatChannel","글로벌",false,"global","/글로벌 또는 /global X 는 채널 X의 전체 채팅으로 전환합니다.",true],["SetTradeChatChannel","거래",false,"trade","/거래 또는 /trade X 는 채널 X의 거래 채팅으로 전환합니다.",true],["RecheckAchievements","업적확인",true,"recheck_achievements","/업적확인 또는 /recheck_achievements 는 특정 도전과제를 강제로 재확인합니다.",true],["WarpToHideout","은신처",true,"hideout","",true],["ResetExperiencePerHour","경험치계산초기화",false,"reset_xp","/경험치계산초기화 또는 /reset_xp 는 시간당 획득 경험치 계산량을 초기화합니다.",true],["WarpToMenagerie","야수관",true,"menagerie","",true],["WarpToDelveMineHub","광산",true,"delve","",true],["SaveHideout","은신처저장",true,"save_hideout","/은신처저장 또는 /save_hideout 은 현재 은신처의 구조를 불러오기 및 공유가 가능한 파일 형태로 저장합니다.",false],["RecoverOldCraftingBenchItem","작업대복구",true,"recoveroldcraftingbenchitem","",true],["WarpToSynthesisHub","결합",true,"synthesis","",true],["WarpToMetamorphosisLab","변형",true,"metamorph","",true],["WarpToHarvestGrove","수확",true,"harvest","",true],["ForceResyncPlayer","oosme",true,"oosme","",true]]}
+{
+  "filename": "Commands.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Command",
+      "rowid": 1,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Flag0",
+      "rowid": 2,
+      "type": "bool",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Command2",
+      "rowid": 3,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Description",
+      "rowid": 4,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Flag1",
+      "rowid": 5,
+      "type": "bool",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "PerformDance",
+      "춤",
+      true,
+      "dance",
+      "",
+      true
+    ],
+    [
+      "ShowTimePlayed",
+      "플레이시간",
+      true,
+      "played",
+      "/플레이시간 또는 /played 는 현재 캐릭터를 얼마나 플레이했는지 표시합니다",
+      true
+    ],
+    [
+      "ShowCharacterAge",
+      "캐릭터나이",
+      true,
+      "age",
+      "/캐릭터나이 또는 /age 는 캐릭터를 생성한 지 얼마나 오래되었는지 표시합니다",
+      true
+    ],
+    [
+      "ShowMonstersRemaining",
+      "몬스터수",
+      true,
+      "remaining",
+      "/몬스터수 또는 /remaining 은 지역 내에 남아있는 몬스터의 수를 표시합니다",
+      true
+    ],
+    [
+      "ShowDeaths",
+      "사망",
+      true,
+      "deaths",
+      "/사망 또는 /deaths 는 지금까지의 사망 횟수를 표시합니다",
+      true
+    ],
+    [
+      "ShowPvPStats",
+      "pvp정보",
+      true,
+      "pvp",
+      "",
+      false
+    ],
+    [
+      "ShowLadder",
+      "래더",
+      true,
+      "ladder",
+      "/래더 또는 /ladder 는 현재 래더의 최상위 10개 캐릭터를 표시합니다",
+      true
+    ],
+    [
+      "ForceResync",
+      "oos",
+      true,
+      "oos",
+      "",
+      true
+    ],
+    [
+      "DestroyCursorItem",
+      "아이템파괴",
+      true,
+      "destroy",
+      "/아이템파괴 또는 /destroy 는 커서가 위치한 쪽의 아이템을 파괴합니다 (주의 요망)",
+      true
+    ],
+    [
+      "Whois",
+      "누구",
+      true,
+      "whois",
+      "/누구 또는 /whois 와 캐릭터 이름을 입력하면 해당 캐릭터의 정보를 표시합니다",
+      true
+    ],
+    [
+      "ShowHelp",
+      "도움말",
+      false,
+      "help",
+      "",
+      true
+    ],
+    [
+      "ShowCursorItemLevel",
+      "아이템레벨",
+      true,
+      "itemlevel",
+      "/아이템레벨 또는 /itemlevel 은 커서가 위치한 쪽의 아이템 레벨을 표시합니다",
+      true
+    ],
+    [
+      "FixMyHelmet",
+      "헬멧",
+      true,
+      "fixmyhelmet",
+      "",
+      true
+    ],
+    [
+      "ReportBug",
+      "버그",
+      true,
+      "bug",
+      "/버그 또는 /bug 는 버그를 신고하고, 참조 번호를 보여줍니다",
+      true
+    ],
+    [
+      "Debug",
+      "디버그",
+      true,
+      "debug",
+      "",
+      true
+    ],
+    [
+      "Ignore1",
+      "차단",
+      false,
+      "ignore",
+      "/차단 또는 /ignore 와 캐릭터 이름을 입력하면 해당 캐릭터를 차단합니다",
+      true
+    ],
+    [
+      "Ignore2",
+      "차단2",
+      false,
+      "squelch",
+      "",
+      true
+    ],
+    [
+      "Unignore1",
+      "차단해제",
+      false,
+      "unignore",
+      "/차단해제 또는 /unignore 와 캐릭터 이름을 입력하면 해당 캐릭터 차단을 취소합니다",
+      true
+    ],
+    [
+      "Unignore2",
+      "차단해제2",
+      false,
+      "unsquelch",
+      "",
+      true
+    ],
+    [
+      "ClearIgnoreList",
+      "차단초기화",
+      false,
+      "clear_ignore_list",
+      "/차단초기화 또는 /clear_ignore_list 는 캐릭터 차단 목록에 있는 계정을 모두 삭제합니다",
+      true
+    ],
+    [
+      "SetStatus",
+      "상태",
+      false,
+      "status",
+      "",
+      true
+    ],
+    [
+      "ShowPassives",
+      "패시브",
+      false,
+      "passives",
+      "/패시브 또는 /passives 는 자신의 패시브 스킬 포인트를 종합해서 보여줍니다",
+      true
+    ],
+    [
+      "InviteToParty",
+      "파티초대",
+      false,
+      "invite",
+      "/파티초대 또는 /invite 와 캐릭터 이름을 입력하면 해당 캐릭터를 파티에 초대합니다",
+      false
+    ],
+    [
+      "AddFriend",
+      "친구추가",
+      false,
+      "friend",
+      "/친구추가 또는 /friend 와 캐릭터 이름을 입력하면 해당 캐릭터를 친구 목록에 추가합니다",
+      false
+    ],
+    [
+      "RemoveFriend",
+      "친구삭제",
+      false,
+      "unfriend",
+      "",
+      false
+    ],
+    [
+      "AcceptFriend",
+      "친구 수락",
+      false,
+      "accept",
+      "",
+      false
+    ],
+    [
+      "KickPartyMember",
+      "파티추방",
+      false,
+      "kick",
+      "",
+      true
+    ],
+    [
+      "SetPartyDescription",
+      "파티상태",
+      false,
+      "party_description",
+      "",
+      true
+    ],
+    [
+      "InitiateTrade",
+      "거래신청",
+      false,
+      "tradewith",
+      "",
+      true
+    ],
+    [
+      "ClearMessage1",
+      "채팅정리",
+      false,
+      "cls",
+      "",
+      true
+    ],
+    [
+      "ClearMessage2",
+      "채팅정리2",
+      false,
+      "clear",
+      "",
+      true
+    ],
+    [
+      "ToggleNoChat1",
+      "채팅중지",
+      false,
+      "nochat",
+      "",
+      true
+    ],
+    [
+      "ToggleNoChat2",
+      "채팅중지2",
+      false,
+      "togglenochat",
+      "",
+      true
+    ],
+    [
+      "AutoReply",
+      "자동응답",
+      true,
+      "autoreply",
+      "/자동응답 또는 /autoreply [메시지 내용] 은 귓속말에 맞춤 메시지로 답신합니다.",
+      true
+    ],
+    [
+      "SetAFK",
+      "자리비움",
+      true,
+      "afk",
+      "/자리비움 또는 /afk [메시지 내용] 은 자리비움 시 자동으로 답장을 보냅니다. 채팅 등의 활동을 하면 자리비움이 해제됩니다.",
+      true
+    ],
+    [
+      "DoNotDisturb1",
+      "방해금지",
+      true,
+      "dnd",
+      "/방해금지 또는 /dnd [메시지 내용] 은 방해 금지 상태일 때 귓속말에 맞춤 메시지로 답신하고, 모든 메시지를 무시합니다.",
+      true
+    ],
+    [
+      "DoNotDisturb2",
+      "방해금지2",
+      true,
+      "donotdisturb",
+      "",
+      true
+    ],
+    [
+      "ExitToCharacterSelection",
+      "캐릭터선택창",
+      false,
+      "exit",
+      "",
+      true
+    ],
+    [
+      "SpectatePvP",
+      "pvp관전",
+      true,
+      "spectate",
+      "",
+      false
+    ],
+    [
+      "SpectatePvPReturn",
+      "pvp관전종료",
+      true,
+      "town",
+      "",
+      true
+    ],
+    [
+      "SetGlobalChatChannel",
+      "글로벌",
+      false,
+      "global",
+      "/글로벌 또는 /global X 는 채널 X의 전체 채팅으로 전환합니다.",
+      true
+    ],
+    [
+      "SetTradeChatChannel",
+      "거래",
+      false,
+      "trade",
+      "/거래 또는 /trade X 는 채널 X의 거래 채팅으로 전환합니다.",
+      true
+    ],
+    [
+      "RecheckAchievements",
+      "업적확인",
+      true,
+      "recheck_achievements",
+      "/업적확인 또는 /recheck_achievements 는 특정 도전과제를 강제로 재확인합니다.",
+      true
+    ],
+    [
+      "WarpToHideout",
+      "은신처",
+      true,
+      "hideout",
+      "",
+      true
+    ],
+    [
+      "ResetExperiencePerHour",
+      "경험치계산초기화",
+      false,
+      "reset_xp",
+      "/경험치계산초기화 또는 /reset_xp 는 시간당 획득 경험치 계산량을 초기화합니다.",
+      true
+    ],
+    [
+      "WarpToMenagerie",
+      "야수관",
+      true,
+      "menagerie",
+      "",
+      true
+    ],
+    [
+      "WarpToDelveMineHub",
+      "광산",
+      true,
+      "delve",
+      "",
+      true
+    ],
+    [
+      "SaveHideout",
+      "은신처저장",
+      true,
+      "save_hideout",
+      "/은신처저장 또는 /save_hideout 은 현재 은신처의 구조를 불러오기 및 공유가 가능한 파일 형태로 저장합니다.",
+      false
+    ],
+    [
+      "RecoverOldCraftingBenchItem",
+      "작업대복구",
+      true,
+      "recoveroldcraftingbenchitem",
+      "",
+      true
+    ],
+    [
+      "WarpToSynthesisHub",
+      "결합",
+      true,
+      "synthesis",
+      "",
+      true
+    ],
+    [
+      "WarpToMetamorphosisLab",
+      "변형",
+      true,
+      "metamorph",
+      "",
+      true
+    ],
+    [
+      "WarpToHarvestGrove",
+      "수확",
+      true,
+      "harvest",
+      "",
+      true
+    ],
+    [
+      "ForceResyncPlayer",
+      "oosme",
+      true,
+      "oosme",
+      "",
+      true
+    ]
+  ]
+}

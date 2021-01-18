@@ -1,1 +1,1312 @@
-{"filename":"MetamorphosisRewardTypeItemsClient.dat","header":[{"name":"MetamorphosisRewardTypesKey","rowid":0,"type":"ulong","key":"MetamorphosisRewardTypes.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown2","rowid":1,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Description","rowid":2,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[[0,0,"Arroja objetos monetarios adicionales"],[0,1,"Arroja objetos monetarios adicionales"],[0,2,"Arroja objetos monetarios adicionales"],[0,3,"Arroja objetos monetarios adicionales"],[0,4,"Arroja objetos monetarios adicionales"],[0,5,"Arroja objetos monetarios adicionales"],[0,6,"Arroja objetos monetarios adicionales"],[0,7,"Arroja objetos monetarios adicionales"],[0,8,"Arroja objetos monetarios adicionales"],[0,9,"Arroja objetos monetarios adicionales"],[0,10,"Arroja objetos monetarios adicionales"],[0,11,"Arroja objetos monetarios adicionales"],[0,12,"Arroja objetos monetarios adicionales"],[0,13,"Arroja objetos monetarios adicionales"],[0,14,"Arroja objetos monetarios adicionales"],[0,15,"Arroja objetos monetarios adicionales"],[1,0,"Arroja un objeto único"],[1,1,"Arroja objetos únicos adicionales"],[1,2,"Arroja un objeto único específico de la liga"],[2,0,"Arroja gemas de calidad adicionales"],[2,1,"Arroja gemas de calidad adicionales"],[2,2,"Arroja gemas de calidad adicionales"],[2,3,"Arroja gemas de calidad adicionales"],[2,4,"Arroja gemas de calidad adicionales"],[2,5,"Arroja gemas de calidad adicionales"],[2,6,"Arroja gemas de calidad adicionales"],[2,7,"Arroja una gema valiosa"],[2,8,"Arroja una gema valiosa"],[2,9,"Arroja una gema valiosa"],[2,10,"Arroja una gema valiosa"],[2,11,"Arroja una gema valiosa"],[2,12,"Arroja una gema valiosa"],[2,13,"Arroja una gema valiosa"],[3,0,"Arroja mapas adicionales"],[3,1,"Arroja mapas adicionales"],[3,2,"Arroja mapas adicionales"],[3,3,"Arroja mapas adicionales"],[3,4,"Arroja mapas adicionales"],[3,5,"Arroja mapas adicionales"],[3,6,"Arroja mapas adicionales"],[3,7,"Arroja mapas adicionales"],[3,8,"Arroja mapas adicionales"],[3,9,"Arroja mapas adicionales"],[4,0,"Arroja joyería rara adicional"],[4,1,"Arroja joyería rara adicional"],[4,2,"Arroja joyería rara adicional"],[4,3,"Arroja joyería rara adicional"],[4,4,"Arroja joyería de Atlas adicional"],[4,5,"Arroja joyería de Incursion adicional"],[4,6,"Arroja joyería de Incursion adicional"],[4,7,"Arroja joyería de Incursion adicional"],[4,8,"Arroja joyería de Incursion adicional"],[4,9,"Arroja joyería del Creador o del Antiguo adicional"],[4,10,"Arroja joyería del Creador o del Antiguo adicional"],[4,11,"Arroja joyería encriptada adicional"],[4,12,"Arroja joyería encriptada adicional"],[4,13,"Arroja joyería única adicional"],[4,14,"Arroja joyas adicionales"],[4,15,"Arroja joyas adicionales"],[4,16,"Arroja joyas adicionales"],[4,17,"Arroja joyas adicionales"],[5,0,"Arroja armadura rara adicional"],[5,1,"Arroja armadura rara adicional"],[5,2,"Arroja armadura rara adicional"],[5,3,"Arroja armadura rara adicional"],[5,4,"Arroja armadura única adicional"],[5,5,"Arroja armadura del Creador adicional"],[5,6,"Arroja armadura del Antiguo adicional"],[5,7,"Arroja armadura encriptada adicional"],[5,8,"Arroja armadura encriptada adicional"],[5,9,"Arroja armadura de Incursion adicional"],[5,10,"Arroja armadura de Incursion adicional"],[5,11,"Arroja armadura de Incursion adicional"],[5,12,"Arroja armadura de Incursion adicional"],[5,13,"Arroja armadura de Incursion adicional"],[5,14,"Arroja armadura de Incursion adicional"],[5,15,"Arroja armadura de Incursion adicional"],[5,16,"Arroja armadura de Incursion adicional"],[5,17,"Arroja armadura única de 6 vínculos"],[6,0,"Arroja un arma rara"],[6,1,"Arroja un arma rara"],[6,2,"Arroja un arma rara"],[6,3,"Arroja armas raras adicionales"],[6,4,"Arroja un arma única"],[6,5,"Arroja un arma del Creador"],[6,6,"Arroja un arma del Antiguo"],[6,7,"Arroja un arma encriptada"],[6,8,"Arroja un arma encriptada"],[6,9,"Arroja un arma de Incursion"],[6,10,"Arroja un arma de Incursion"],[6,11,"Arroja un arma de Incursion"],[6,12,"Arroja un arma de Incursion"],[6,13,"Arroja un arma de Incursion"],[6,14,"Arroja un arma de Incursion"],[6,15,"Arroja un arma de Incursion"],[6,16,"Arroja un arma de Incursion"],[6,17,"Arroja un arma de Incursion"],[6,18,"Arroja un arma de Incursion"],[6,19,"Arroja un arma de Incursion"],[6,20,"Arroja un arma de Incursion"],[6,21,"Arroja un arma de Incursion"],[6,22,"Arroja un arma de Incursion"],[6,23,"Arroja un arma de 6 vínculos"],[6,24,"Arroja un arma con 30% de calidad"],[7,0,"Arroja una joya abisal"],[7,1,"Arroja joyas abisales adicionales"],[7,2,"Arroja una Faja estigia"],[7,3,"Arroja un objeto único abisal"],[8,0,"Arroja monedas de Perandus adicionales"],[8,1,"Arroja monedas de Perandus adicionales"],[8,2,"Arroja monedas de Perandus adicionales"],[9,0,"Arroja esquirlas de objetos monetarios adicionales"],[9,1,"Arroja esquirlas de objetos monetarios adicionales"],[9,2,"Arroja esquirlas valiosas de objetos monetarios adicionales"],[9,3,"Arroja objetos monetarios de Harbinger adicionales"],[9,4,"Arroja objetos monetarios de Harbinger adicionales"],[9,5,"Arroja objetos monetarios de Harbinger adicionales"],[9,6,"Arroja objetos monetarios de Harbinger adicionales"],[9,7,"Arroja un mapa único de La Cabecera de la Playa"],[9,8,"Arroja un mapa único de La Cabecera de la Playa"],[9,9,"Arroja un mapa único de La Cabecera de la Playa"],[10,0,"Arroja astillas de fisura adicionales"],[10,1,"Arroja astillas de fisura adicionales"],[10,2,"Arroja astillas de fisura adicionales"],[10,3,"Arroja una Bendición de fisura"],[10,4,"Arroja una Piedra de fisura"],[10,5,"Arroja una Piedra de fisura"],[10,6,"Arroja una Piedra de fisura"],[10,7,"Arroja una Piedra de fisura"],[11,0,"Arroja esencias adicionales"],[11,1,"Arroja esencias adicionales"],[11,3,"Arroja esencias adicionales"],[12,1,"Arroja esencias adicionales"],[12,2,"Arroja esencias adicionales"],[12,3,"Arroja esencias adicionales"],[12,4,"Arroja esencias adicionales"],[13,0,"Arroja fragmentos de mapa adicionales"],[13,1,"Arroja fragmentos de mapa adicionales"],[13,2,"Arroja fragmentos de mapa adicionales"],[13,3,"Arroja fragmentos de mapa adicionales"],[13,4,"Arroja fragmentos de mapa adicionales"],[13,5,"Arroja fragmentos de mapa adicionales"],[13,6,"Arroja fragmentos de mapa adicionales"],[13,7,"Arroja fragmentos de mapa adicionales"],[14,0,"Arroja escarabajos oxidados adicionales"],[14,1,"Arroja escarabajos pulidos adicionales"],[14,2,"Arroja escarabajos dorados adicionales"],[15,0,"Arroja fósiles adicionales"],[15,1,"Arroja fósiles adicionales"],[15,2,"Arroja fósiles adicionales"],[15,3,"Arroja fósiles adicionales"],[15,4,"Arroja fósiles adicionales"],[15,5,"Arroja fósiles adicionales"],[15,6,"Arroja un resonador"],[16,0,"Arroja monedas de plata adicionales"],[16,1,"Arroja monedas de plata adicionales"],[16,2,"Arroja monedas de plata adicionales"],[16,3,"Arroja monedas de plata adicionales "],[16,4,"Arroja monedas de plata adicionales "],[16,5,"Arroja monedas de plata adicionales "],[16,6,"Arroja una profecía en forma de objeto"],[16,7,"Arroja profecías en forma de objeto"],[16,8,"Arroja profecías en forma de objeto"],[16,9,"Arroja profecías en forma de objeto"],[16,10,"Arroja una profecía en forma de objeto"],[16,11,"Arroja una profecía en forma de objeto"],[16,12,"Arroja una profecía en forma de objeto"],[16,13,"Arroja una profecía en forma de objeto"],[16,14,"Arroja una profecía en forma de objeto"],[16,15,"Arroja una profecía en forma de objeto"],[16,16,"Arroja una profecía en forma de objeto"],[16,17,"Arroja una profecía en forma de objeto"],[16,18,"Arroja una profecía en forma de objeto"],[16,19,"Arroja una profecía en forma de objeto"],[16,20,"Arroja una profecía en forma de objeto"],[16,21,"Arroja una profecía en forma de objeto"],[17,0,"Arroja cartas de adivinación adicionales"],[17,1,"Arroja cartas de adivinación adicionales"],[17,2,"Arroja cartas de adivinación adicionales"],[17,3,"Arroja cartas de adivinación adicionales"],[17,4,"Arroja cartas de adivinación adicionales"],[17,5,"Arroja cartas de adivinación adicionales"],[17,6,"Arroja cartas de adivinación adicionales"],[17,7,"Arroja cartas de adivinación adicionales"],[18,0,"Arroja objetos monetarios adicionales"],[18,1,"Arroja objetos monetarios adicionales"],[18,2,"Arroja objetos monetarios adicionales"],[18,3,"Arroja objetos monetarios adicionales"],[18,4,"Arroja objetos monetarios adicionales"],[18,5,"Arroja objetos monetarios adicionales"],[18,6,"Arroja Gemas de calidad adicionales"],[18,7,"Arroja Gemas de calidad adicionales"],[18,8,"Arroja un objeto de mapa"],[18,9,"Arroja joyería rara adicional"],[18,10,"Arroja armadura rara adicional"],[18,11,"Arroja armas raras adicionales"],[19,0,"Arroja talismanes raros adicionales"],[19,1,"Arroja talismanes raros adicionales"],[19,2,"Arroja talismanes raros adicionales"],[19,3,"Arroja talismanes raros adicionales"],[19,4,"Arroja talismanes raros adicionales"],[19,5,"Arroja talismanes raros adicionales"],[19,6,"Arroja talismanes raros adicionales"],[19,7,"Arroja talismanes raros adicionales"],[19,8,"Arroja talismanes raros adicionales"],[19,11,"Arroja talismanes raros adicionales"],[19,12,"Arroja talismanes raros adicionales"],[19,13,"Arroja un objeto único de Talisman"],[20,0,"Arroja guantes encantados"],[20,1,"Arroja botas encantadas"],[20,2,"Arroja un casco encantado"],[20,3,"Arroja una Ofrenda a la Diosa"],[20,4,"Arroja una profecía en forma de objeto"],[21,1,"Arroja incubadoras de Legion adicionales"],[21,2,"Arroja incubadoras de Legion adicionales"],[21,3,"Arroja incubadoras de Legion adicionales"],[21,4,"Arroja incubadoras de Legion adicionales"],[22,0,"Arroja Aceites de Blight adicionales"],[22,1,"Arroja Aceites de Blight adicionales"],[22,2,"Arroja Aceites de Blight adicionales"],[22,3,"Arroja Aceites de Blight adicionales"],[22,4,"Arroja Aceites de Blight adicionales"],[22,5,"Arroja Aceites de Blight adicionales"],[22,6,"Arroja Aceites de Blight adicionales"],[22,7,"Arroja Aceites de Blight adicionales"],[22,8,"Arroja Aceites de Blight adicionales"],[22,9,"Arroja Aceites de Blight adicionales"],[22,10,"Arroja Aceites de Blight adicionales"],[22,11,"Arroja Aceites de Blight adicionales"],[22,12,"Arroja Aceites de Blight adicionales"],[22,13,"Arroja Aceites de Blight adicionales"],[22,14,"Arroja Aceites de Blight adicionales"],[22,15,"Arroja Aceites de Blight adicionales"],[22,16,"Arroja un mapa infestado"],[22,17,"Arroja un mapa infestado"],[22,18,"Arroja un mapa infestado"],[22,19,"Arroja un mapa infestado"],[22,20,"Arroja un mapa infestado"],[22,21,"Arroja un mapa infestado"],[22,22,"Arroja un mapa infestado"],[22,23,"Arroja un mapa infestado"],[22,24,"Arroja un mapa infestado"],[22,25,"Arroja un mapa infestado"],[22,26,"Arroja un mapa infestado"],[22,27,"Arroja un mapa infestado"],[22,28,"Arroja un mapa infestado"],[22,29,"Arroja un mapa infestado"],[22,30,"Arroja un mapa infestado"],[22,31,"Arroja un mapa infestado"],[23,0,"Arroja catalizadores adicionales"],[23,1,"Arroja catalizadores adicionales"],[23,2,"Arroja catalizadores adicionales"]]}
+{
+  "filename": "MetamorphosisRewardTypeItemsClient.dat",
+  "header": [
+    {
+      "name": "MetamorphosisRewardTypesKey",
+      "rowid": 0,
+      "type": "ulong",
+      "key": "MetamorphosisRewardTypes.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown2",
+      "rowid": 1,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Description",
+      "rowid": 2,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      0,
+      0,
+      "Arroja objetos monetarios adicionales"
+    ],
+    [
+      0,
+      1,
+      "Arroja objetos monetarios adicionales"
+    ],
+    [
+      0,
+      2,
+      "Arroja objetos monetarios adicionales"
+    ],
+    [
+      0,
+      3,
+      "Arroja objetos monetarios adicionales"
+    ],
+    [
+      0,
+      4,
+      "Arroja objetos monetarios adicionales"
+    ],
+    [
+      0,
+      5,
+      "Arroja objetos monetarios adicionales"
+    ],
+    [
+      0,
+      6,
+      "Arroja objetos monetarios adicionales"
+    ],
+    [
+      0,
+      7,
+      "Arroja objetos monetarios adicionales"
+    ],
+    [
+      0,
+      8,
+      "Arroja objetos monetarios adicionales"
+    ],
+    [
+      0,
+      9,
+      "Arroja objetos monetarios adicionales"
+    ],
+    [
+      0,
+      10,
+      "Arroja objetos monetarios adicionales"
+    ],
+    [
+      0,
+      11,
+      "Arroja objetos monetarios adicionales"
+    ],
+    [
+      0,
+      12,
+      "Arroja objetos monetarios adicionales"
+    ],
+    [
+      0,
+      13,
+      "Arroja objetos monetarios adicionales"
+    ],
+    [
+      0,
+      14,
+      "Arroja objetos monetarios adicionales"
+    ],
+    [
+      0,
+      15,
+      "Arroja objetos monetarios adicionales"
+    ],
+    [
+      1,
+      0,
+      "Arroja un objeto único"
+    ],
+    [
+      1,
+      1,
+      "Arroja objetos únicos adicionales"
+    ],
+    [
+      1,
+      2,
+      "Arroja un objeto único específico de la liga"
+    ],
+    [
+      2,
+      0,
+      "Arroja gemas de calidad adicionales"
+    ],
+    [
+      2,
+      1,
+      "Arroja gemas de calidad adicionales"
+    ],
+    [
+      2,
+      2,
+      "Arroja gemas de calidad adicionales"
+    ],
+    [
+      2,
+      3,
+      "Arroja gemas de calidad adicionales"
+    ],
+    [
+      2,
+      4,
+      "Arroja gemas de calidad adicionales"
+    ],
+    [
+      2,
+      5,
+      "Arroja gemas de calidad adicionales"
+    ],
+    [
+      2,
+      6,
+      "Arroja gemas de calidad adicionales"
+    ],
+    [
+      2,
+      7,
+      "Arroja una gema valiosa"
+    ],
+    [
+      2,
+      8,
+      "Arroja una gema valiosa"
+    ],
+    [
+      2,
+      9,
+      "Arroja una gema valiosa"
+    ],
+    [
+      2,
+      10,
+      "Arroja una gema valiosa"
+    ],
+    [
+      2,
+      11,
+      "Arroja una gema valiosa"
+    ],
+    [
+      2,
+      12,
+      "Arroja una gema valiosa"
+    ],
+    [
+      2,
+      13,
+      "Arroja una gema valiosa"
+    ],
+    [
+      3,
+      0,
+      "Arroja mapas adicionales"
+    ],
+    [
+      3,
+      1,
+      "Arroja mapas adicionales"
+    ],
+    [
+      3,
+      2,
+      "Arroja mapas adicionales"
+    ],
+    [
+      3,
+      3,
+      "Arroja mapas adicionales"
+    ],
+    [
+      3,
+      4,
+      "Arroja mapas adicionales"
+    ],
+    [
+      3,
+      5,
+      "Arroja mapas adicionales"
+    ],
+    [
+      3,
+      6,
+      "Arroja mapas adicionales"
+    ],
+    [
+      3,
+      7,
+      "Arroja mapas adicionales"
+    ],
+    [
+      3,
+      8,
+      "Arroja mapas adicionales"
+    ],
+    [
+      3,
+      9,
+      "Arroja mapas adicionales"
+    ],
+    [
+      4,
+      0,
+      "Arroja joyería rara adicional"
+    ],
+    [
+      4,
+      1,
+      "Arroja joyería rara adicional"
+    ],
+    [
+      4,
+      2,
+      "Arroja joyería rara adicional"
+    ],
+    [
+      4,
+      3,
+      "Arroja joyería rara adicional"
+    ],
+    [
+      4,
+      4,
+      "Arroja joyería de Atlas adicional"
+    ],
+    [
+      4,
+      5,
+      "Arroja joyería de Incursion adicional"
+    ],
+    [
+      4,
+      6,
+      "Arroja joyería de Incursion adicional"
+    ],
+    [
+      4,
+      7,
+      "Arroja joyería de Incursion adicional"
+    ],
+    [
+      4,
+      8,
+      "Arroja joyería de Incursion adicional"
+    ],
+    [
+      4,
+      9,
+      "Arroja joyería del Creador o del Antiguo adicional"
+    ],
+    [
+      4,
+      10,
+      "Arroja joyería del Creador o del Antiguo adicional"
+    ],
+    [
+      4,
+      11,
+      "Arroja joyería encriptada adicional"
+    ],
+    [
+      4,
+      12,
+      "Arroja joyería encriptada adicional"
+    ],
+    [
+      4,
+      13,
+      "Arroja joyería única adicional"
+    ],
+    [
+      4,
+      14,
+      "Arroja joyas adicionales"
+    ],
+    [
+      4,
+      15,
+      "Arroja joyas adicionales"
+    ],
+    [
+      4,
+      16,
+      "Arroja joyas adicionales"
+    ],
+    [
+      4,
+      17,
+      "Arroja joyas adicionales"
+    ],
+    [
+      5,
+      0,
+      "Arroja armadura rara adicional"
+    ],
+    [
+      5,
+      1,
+      "Arroja armadura rara adicional"
+    ],
+    [
+      5,
+      2,
+      "Arroja armadura rara adicional"
+    ],
+    [
+      5,
+      3,
+      "Arroja armadura rara adicional"
+    ],
+    [
+      5,
+      4,
+      "Arroja armadura única adicional"
+    ],
+    [
+      5,
+      5,
+      "Arroja armadura del Creador adicional"
+    ],
+    [
+      5,
+      6,
+      "Arroja armadura del Antiguo adicional"
+    ],
+    [
+      5,
+      7,
+      "Arroja armadura encriptada adicional"
+    ],
+    [
+      5,
+      8,
+      "Arroja armadura encriptada adicional"
+    ],
+    [
+      5,
+      9,
+      "Arroja armadura de Incursion adicional"
+    ],
+    [
+      5,
+      10,
+      "Arroja armadura de Incursion adicional"
+    ],
+    [
+      5,
+      11,
+      "Arroja armadura de Incursion adicional"
+    ],
+    [
+      5,
+      12,
+      "Arroja armadura de Incursion adicional"
+    ],
+    [
+      5,
+      13,
+      "Arroja armadura de Incursion adicional"
+    ],
+    [
+      5,
+      14,
+      "Arroja armadura de Incursion adicional"
+    ],
+    [
+      5,
+      15,
+      "Arroja armadura de Incursion adicional"
+    ],
+    [
+      5,
+      16,
+      "Arroja armadura de Incursion adicional"
+    ],
+    [
+      5,
+      17,
+      "Arroja armadura única de 6 vínculos"
+    ],
+    [
+      6,
+      0,
+      "Arroja un arma rara"
+    ],
+    [
+      6,
+      1,
+      "Arroja un arma rara"
+    ],
+    [
+      6,
+      2,
+      "Arroja un arma rara"
+    ],
+    [
+      6,
+      3,
+      "Arroja armas raras adicionales"
+    ],
+    [
+      6,
+      4,
+      "Arroja un arma única"
+    ],
+    [
+      6,
+      5,
+      "Arroja un arma del Creador"
+    ],
+    [
+      6,
+      6,
+      "Arroja un arma del Antiguo"
+    ],
+    [
+      6,
+      7,
+      "Arroja un arma encriptada"
+    ],
+    [
+      6,
+      8,
+      "Arroja un arma encriptada"
+    ],
+    [
+      6,
+      9,
+      "Arroja un arma de Incursion"
+    ],
+    [
+      6,
+      10,
+      "Arroja un arma de Incursion"
+    ],
+    [
+      6,
+      11,
+      "Arroja un arma de Incursion"
+    ],
+    [
+      6,
+      12,
+      "Arroja un arma de Incursion"
+    ],
+    [
+      6,
+      13,
+      "Arroja un arma de Incursion"
+    ],
+    [
+      6,
+      14,
+      "Arroja un arma de Incursion"
+    ],
+    [
+      6,
+      15,
+      "Arroja un arma de Incursion"
+    ],
+    [
+      6,
+      16,
+      "Arroja un arma de Incursion"
+    ],
+    [
+      6,
+      17,
+      "Arroja un arma de Incursion"
+    ],
+    [
+      6,
+      18,
+      "Arroja un arma de Incursion"
+    ],
+    [
+      6,
+      19,
+      "Arroja un arma de Incursion"
+    ],
+    [
+      6,
+      20,
+      "Arroja un arma de Incursion"
+    ],
+    [
+      6,
+      21,
+      "Arroja un arma de Incursion"
+    ],
+    [
+      6,
+      22,
+      "Arroja un arma de Incursion"
+    ],
+    [
+      6,
+      23,
+      "Arroja un arma de 6 vínculos"
+    ],
+    [
+      6,
+      24,
+      "Arroja un arma con 30% de calidad"
+    ],
+    [
+      7,
+      0,
+      "Arroja una joya abisal"
+    ],
+    [
+      7,
+      1,
+      "Arroja joyas abisales adicionales"
+    ],
+    [
+      7,
+      2,
+      "Arroja una Faja estigia"
+    ],
+    [
+      7,
+      3,
+      "Arroja un objeto único abisal"
+    ],
+    [
+      8,
+      0,
+      "Arroja monedas de Perandus adicionales"
+    ],
+    [
+      8,
+      1,
+      "Arroja monedas de Perandus adicionales"
+    ],
+    [
+      8,
+      2,
+      "Arroja monedas de Perandus adicionales"
+    ],
+    [
+      9,
+      0,
+      "Arroja esquirlas de objetos monetarios adicionales"
+    ],
+    [
+      9,
+      1,
+      "Arroja esquirlas de objetos monetarios adicionales"
+    ],
+    [
+      9,
+      2,
+      "Arroja esquirlas valiosas de objetos monetarios adicionales"
+    ],
+    [
+      9,
+      3,
+      "Arroja objetos monetarios de Harbinger adicionales"
+    ],
+    [
+      9,
+      4,
+      "Arroja objetos monetarios de Harbinger adicionales"
+    ],
+    [
+      9,
+      5,
+      "Arroja objetos monetarios de Harbinger adicionales"
+    ],
+    [
+      9,
+      6,
+      "Arroja objetos monetarios de Harbinger adicionales"
+    ],
+    [
+      9,
+      7,
+      "Arroja un mapa único de La Cabecera de la Playa"
+    ],
+    [
+      9,
+      8,
+      "Arroja un mapa único de La Cabecera de la Playa"
+    ],
+    [
+      9,
+      9,
+      "Arroja un mapa único de La Cabecera de la Playa"
+    ],
+    [
+      10,
+      0,
+      "Arroja astillas de fisura adicionales"
+    ],
+    [
+      10,
+      1,
+      "Arroja astillas de fisura adicionales"
+    ],
+    [
+      10,
+      2,
+      "Arroja astillas de fisura adicionales"
+    ],
+    [
+      10,
+      3,
+      "Arroja una Bendición de fisura"
+    ],
+    [
+      10,
+      4,
+      "Arroja una Piedra de fisura"
+    ],
+    [
+      10,
+      5,
+      "Arroja una Piedra de fisura"
+    ],
+    [
+      10,
+      6,
+      "Arroja una Piedra de fisura"
+    ],
+    [
+      10,
+      7,
+      "Arroja una Piedra de fisura"
+    ],
+    [
+      11,
+      0,
+      "Arroja esencias adicionales"
+    ],
+    [
+      11,
+      1,
+      "Arroja esencias adicionales"
+    ],
+    [
+      11,
+      3,
+      "Arroja esencias adicionales"
+    ],
+    [
+      12,
+      1,
+      "Arroja esencias adicionales"
+    ],
+    [
+      12,
+      2,
+      "Arroja esencias adicionales"
+    ],
+    [
+      12,
+      3,
+      "Arroja esencias adicionales"
+    ],
+    [
+      12,
+      4,
+      "Arroja esencias adicionales"
+    ],
+    [
+      13,
+      0,
+      "Arroja fragmentos de mapa adicionales"
+    ],
+    [
+      13,
+      1,
+      "Arroja fragmentos de mapa adicionales"
+    ],
+    [
+      13,
+      2,
+      "Arroja fragmentos de mapa adicionales"
+    ],
+    [
+      13,
+      3,
+      "Arroja fragmentos de mapa adicionales"
+    ],
+    [
+      13,
+      4,
+      "Arroja fragmentos de mapa adicionales"
+    ],
+    [
+      13,
+      5,
+      "Arroja fragmentos de mapa adicionales"
+    ],
+    [
+      13,
+      6,
+      "Arroja fragmentos de mapa adicionales"
+    ],
+    [
+      13,
+      7,
+      "Arroja fragmentos de mapa adicionales"
+    ],
+    [
+      14,
+      0,
+      "Arroja escarabajos oxidados adicionales"
+    ],
+    [
+      14,
+      1,
+      "Arroja escarabajos pulidos adicionales"
+    ],
+    [
+      14,
+      2,
+      "Arroja escarabajos dorados adicionales"
+    ],
+    [
+      15,
+      0,
+      "Arroja fósiles adicionales"
+    ],
+    [
+      15,
+      1,
+      "Arroja fósiles adicionales"
+    ],
+    [
+      15,
+      2,
+      "Arroja fósiles adicionales"
+    ],
+    [
+      15,
+      3,
+      "Arroja fósiles adicionales"
+    ],
+    [
+      15,
+      4,
+      "Arroja fósiles adicionales"
+    ],
+    [
+      15,
+      5,
+      "Arroja fósiles adicionales"
+    ],
+    [
+      15,
+      6,
+      "Arroja un resonador"
+    ],
+    [
+      16,
+      0,
+      "Arroja monedas de plata adicionales"
+    ],
+    [
+      16,
+      1,
+      "Arroja monedas de plata adicionales"
+    ],
+    [
+      16,
+      2,
+      "Arroja monedas de plata adicionales"
+    ],
+    [
+      16,
+      3,
+      "Arroja monedas de plata adicionales "
+    ],
+    [
+      16,
+      4,
+      "Arroja monedas de plata adicionales "
+    ],
+    [
+      16,
+      5,
+      "Arroja monedas de plata adicionales "
+    ],
+    [
+      16,
+      6,
+      "Arroja una profecía en forma de objeto"
+    ],
+    [
+      16,
+      7,
+      "Arroja profecías en forma de objeto"
+    ],
+    [
+      16,
+      8,
+      "Arroja profecías en forma de objeto"
+    ],
+    [
+      16,
+      9,
+      "Arroja profecías en forma de objeto"
+    ],
+    [
+      16,
+      10,
+      "Arroja una profecía en forma de objeto"
+    ],
+    [
+      16,
+      11,
+      "Arroja una profecía en forma de objeto"
+    ],
+    [
+      16,
+      12,
+      "Arroja una profecía en forma de objeto"
+    ],
+    [
+      16,
+      13,
+      "Arroja una profecía en forma de objeto"
+    ],
+    [
+      16,
+      14,
+      "Arroja una profecía en forma de objeto"
+    ],
+    [
+      16,
+      15,
+      "Arroja una profecía en forma de objeto"
+    ],
+    [
+      16,
+      16,
+      "Arroja una profecía en forma de objeto"
+    ],
+    [
+      16,
+      17,
+      "Arroja una profecía en forma de objeto"
+    ],
+    [
+      16,
+      18,
+      "Arroja una profecía en forma de objeto"
+    ],
+    [
+      16,
+      19,
+      "Arroja una profecía en forma de objeto"
+    ],
+    [
+      16,
+      20,
+      "Arroja una profecía en forma de objeto"
+    ],
+    [
+      16,
+      21,
+      "Arroja una profecía en forma de objeto"
+    ],
+    [
+      17,
+      0,
+      "Arroja cartas de adivinación adicionales"
+    ],
+    [
+      17,
+      1,
+      "Arroja cartas de adivinación adicionales"
+    ],
+    [
+      17,
+      2,
+      "Arroja cartas de adivinación adicionales"
+    ],
+    [
+      17,
+      3,
+      "Arroja cartas de adivinación adicionales"
+    ],
+    [
+      17,
+      4,
+      "Arroja cartas de adivinación adicionales"
+    ],
+    [
+      17,
+      5,
+      "Arroja cartas de adivinación adicionales"
+    ],
+    [
+      17,
+      6,
+      "Arroja cartas de adivinación adicionales"
+    ],
+    [
+      17,
+      7,
+      "Arroja cartas de adivinación adicionales"
+    ],
+    [
+      18,
+      0,
+      "Arroja objetos monetarios adicionales"
+    ],
+    [
+      18,
+      1,
+      "Arroja objetos monetarios adicionales"
+    ],
+    [
+      18,
+      2,
+      "Arroja objetos monetarios adicionales"
+    ],
+    [
+      18,
+      3,
+      "Arroja objetos monetarios adicionales"
+    ],
+    [
+      18,
+      4,
+      "Arroja objetos monetarios adicionales"
+    ],
+    [
+      18,
+      5,
+      "Arroja objetos monetarios adicionales"
+    ],
+    [
+      18,
+      6,
+      "Arroja Gemas de calidad adicionales"
+    ],
+    [
+      18,
+      7,
+      "Arroja Gemas de calidad adicionales"
+    ],
+    [
+      18,
+      8,
+      "Arroja un objeto de mapa"
+    ],
+    [
+      18,
+      9,
+      "Arroja joyería rara adicional"
+    ],
+    [
+      18,
+      10,
+      "Arroja armadura rara adicional"
+    ],
+    [
+      18,
+      11,
+      "Arroja armas raras adicionales"
+    ],
+    [
+      19,
+      0,
+      "Arroja talismanes raros adicionales"
+    ],
+    [
+      19,
+      1,
+      "Arroja talismanes raros adicionales"
+    ],
+    [
+      19,
+      2,
+      "Arroja talismanes raros adicionales"
+    ],
+    [
+      19,
+      3,
+      "Arroja talismanes raros adicionales"
+    ],
+    [
+      19,
+      4,
+      "Arroja talismanes raros adicionales"
+    ],
+    [
+      19,
+      5,
+      "Arroja talismanes raros adicionales"
+    ],
+    [
+      19,
+      6,
+      "Arroja talismanes raros adicionales"
+    ],
+    [
+      19,
+      7,
+      "Arroja talismanes raros adicionales"
+    ],
+    [
+      19,
+      8,
+      "Arroja talismanes raros adicionales"
+    ],
+    [
+      19,
+      11,
+      "Arroja talismanes raros adicionales"
+    ],
+    [
+      19,
+      12,
+      "Arroja talismanes raros adicionales"
+    ],
+    [
+      19,
+      13,
+      "Arroja un objeto único de Talisman"
+    ],
+    [
+      20,
+      0,
+      "Arroja guantes encantados"
+    ],
+    [
+      20,
+      1,
+      "Arroja botas encantadas"
+    ],
+    [
+      20,
+      2,
+      "Arroja un casco encantado"
+    ],
+    [
+      20,
+      3,
+      "Arroja una Ofrenda a la Diosa"
+    ],
+    [
+      20,
+      4,
+      "Arroja una profecía en forma de objeto"
+    ],
+    [
+      21,
+      1,
+      "Arroja incubadoras de Legion adicionales"
+    ],
+    [
+      21,
+      2,
+      "Arroja incubadoras de Legion adicionales"
+    ],
+    [
+      21,
+      3,
+      "Arroja incubadoras de Legion adicionales"
+    ],
+    [
+      21,
+      4,
+      "Arroja incubadoras de Legion adicionales"
+    ],
+    [
+      22,
+      0,
+      "Arroja Aceites de Blight adicionales"
+    ],
+    [
+      22,
+      1,
+      "Arroja Aceites de Blight adicionales"
+    ],
+    [
+      22,
+      2,
+      "Arroja Aceites de Blight adicionales"
+    ],
+    [
+      22,
+      3,
+      "Arroja Aceites de Blight adicionales"
+    ],
+    [
+      22,
+      4,
+      "Arroja Aceites de Blight adicionales"
+    ],
+    [
+      22,
+      5,
+      "Arroja Aceites de Blight adicionales"
+    ],
+    [
+      22,
+      6,
+      "Arroja Aceites de Blight adicionales"
+    ],
+    [
+      22,
+      7,
+      "Arroja Aceites de Blight adicionales"
+    ],
+    [
+      22,
+      8,
+      "Arroja Aceites de Blight adicionales"
+    ],
+    [
+      22,
+      9,
+      "Arroja Aceites de Blight adicionales"
+    ],
+    [
+      22,
+      10,
+      "Arroja Aceites de Blight adicionales"
+    ],
+    [
+      22,
+      11,
+      "Arroja Aceites de Blight adicionales"
+    ],
+    [
+      22,
+      12,
+      "Arroja Aceites de Blight adicionales"
+    ],
+    [
+      22,
+      13,
+      "Arroja Aceites de Blight adicionales"
+    ],
+    [
+      22,
+      14,
+      "Arroja Aceites de Blight adicionales"
+    ],
+    [
+      22,
+      15,
+      "Arroja Aceites de Blight adicionales"
+    ],
+    [
+      22,
+      16,
+      "Arroja un mapa infestado"
+    ],
+    [
+      22,
+      17,
+      "Arroja un mapa infestado"
+    ],
+    [
+      22,
+      18,
+      "Arroja un mapa infestado"
+    ],
+    [
+      22,
+      19,
+      "Arroja un mapa infestado"
+    ],
+    [
+      22,
+      20,
+      "Arroja un mapa infestado"
+    ],
+    [
+      22,
+      21,
+      "Arroja un mapa infestado"
+    ],
+    [
+      22,
+      22,
+      "Arroja un mapa infestado"
+    ],
+    [
+      22,
+      23,
+      "Arroja un mapa infestado"
+    ],
+    [
+      22,
+      24,
+      "Arroja un mapa infestado"
+    ],
+    [
+      22,
+      25,
+      "Arroja un mapa infestado"
+    ],
+    [
+      22,
+      26,
+      "Arroja un mapa infestado"
+    ],
+    [
+      22,
+      27,
+      "Arroja un mapa infestado"
+    ],
+    [
+      22,
+      28,
+      "Arroja un mapa infestado"
+    ],
+    [
+      22,
+      29,
+      "Arroja un mapa infestado"
+    ],
+    [
+      22,
+      30,
+      "Arroja un mapa infestado"
+    ],
+    [
+      22,
+      31,
+      "Arroja un mapa infestado"
+    ],
+    [
+      23,
+      0,
+      "Arroja catalizadores adicionales"
+    ],
+    [
+      23,
+      1,
+      "Arroja catalizadores adicionales"
+    ],
+    [
+      23,
+      2,
+      "Arroja catalizadores adicionales"
+    ]
+  ]
+}

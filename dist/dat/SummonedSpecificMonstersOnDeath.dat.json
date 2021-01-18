@@ -1,1 +1,241 @@
-{"filename":"SummonedSpecificMonstersOnDeath.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":true,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"MonsterVarietiesKey","rowid":1,"type":"ulong","key":"MonsterVarieties.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown2","rowid":2,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Key1","rowid":3,"type":"ulong","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown4","rowid":4,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown7","rowid":5,"type":"byte","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["SkeletonMeleeFireTormentNecromancer",1810,120,null,1,0],["TormentMutilatorAnimatedWeapons",null,8,null,1,0],["WbChaos2Skeleton",3635,120,null,1,0],["EssenceFleshmonsterSummonedOnDeath",4190,120,1008,2,1],["EssenceBloodworm",3515,120,null,1,0],["Essence Elemental Swarm 1st stage",343,120,105,4,1],["Essence Elemental Swarm 2nd stage",344,120,105,2,1],["Essence Elemental Swarm 3rd stage",345,120,105,2,1],["Essence Rock Golem",3724,120,null,1,1],["Essence Explosive Insect",1196,120,null,1,1],["Volatile Flameblood",4207,120,null,1,1],["Obsidian Golem",3461,120,null,1,1],["TormentedBetrayerBeacon",6266,120,null,1,0],["BlightDaemonFire",6580,120,105,1,0],["BlightDaemonCold",6582,120,107,1,0],["BlightDaemonLightning",6584,120,432,1,0],["BlightDaemonPhysical",6586,120,507,1,0],["BlightDaemonChaos",6588,120,1023,1,0]]}
+{
+  "filename": "SummonedSpecificMonstersOnDeath.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "MonsterVarietiesKey",
+      "rowid": 1,
+      "type": "ulong",
+      "key": "MonsterVarieties.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown2",
+      "rowid": 2,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Key1",
+      "rowid": 3,
+      "type": "ulong",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown4",
+      "rowid": 4,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown7",
+      "rowid": 5,
+      "type": "byte",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "SkeletonMeleeFireTormentNecromancer",
+      1810,
+      120,
+      null,
+      1,
+      0
+    ],
+    [
+      "TormentMutilatorAnimatedWeapons",
+      null,
+      8,
+      null,
+      1,
+      0
+    ],
+    [
+      "WbChaos2Skeleton",
+      3635,
+      120,
+      null,
+      1,
+      0
+    ],
+    [
+      "EssenceFleshmonsterSummonedOnDeath",
+      4190,
+      120,
+      1008,
+      2,
+      1
+    ],
+    [
+      "EssenceBloodworm",
+      3515,
+      120,
+      null,
+      1,
+      0
+    ],
+    [
+      "Essence Elemental Swarm 1st stage",
+      343,
+      120,
+      105,
+      4,
+      1
+    ],
+    [
+      "Essence Elemental Swarm 2nd stage",
+      344,
+      120,
+      105,
+      2,
+      1
+    ],
+    [
+      "Essence Elemental Swarm 3rd stage",
+      345,
+      120,
+      105,
+      2,
+      1
+    ],
+    [
+      "Essence Rock Golem",
+      3724,
+      120,
+      null,
+      1,
+      1
+    ],
+    [
+      "Essence Explosive Insect",
+      1196,
+      120,
+      null,
+      1,
+      1
+    ],
+    [
+      "Volatile Flameblood",
+      4207,
+      120,
+      null,
+      1,
+      1
+    ],
+    [
+      "Obsidian Golem",
+      3461,
+      120,
+      null,
+      1,
+      1
+    ],
+    [
+      "TormentedBetrayerBeacon",
+      6266,
+      120,
+      null,
+      1,
+      0
+    ],
+    [
+      "BlightDaemonFire",
+      6580,
+      120,
+      105,
+      1,
+      0
+    ],
+    [
+      "BlightDaemonCold",
+      6582,
+      120,
+      107,
+      1,
+      0
+    ],
+    [
+      "BlightDaemonLightning",
+      6584,
+      120,
+      432,
+      1,
+      0
+    ],
+    [
+      "BlightDaemonPhysical",
+      6586,
+      120,
+      507,
+      1,
+      0
+    ],
+    [
+      "BlightDaemonChaos",
+      6588,
+      120,
+      1023,
+      1,
+      0
+    ]
+  ]
+}

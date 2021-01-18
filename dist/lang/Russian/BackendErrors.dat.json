@@ -1,1 +1,2165 @@
-{"filename":"BackendErrors.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":true,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Text","rowid":1,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["AccountNameAlreadyExists","Аккаунт с таким именем уже существует"],["AccountNameInvalid","Имя аккаунта должно содержать по меньшей мере 3 символа, включая a-z, 0-9 и _"],["EmailInvalid","Данный адрес электронной почты не существует."],["EmailAlreadyExists","Аккаунт с таким адресом электронной почты уже существует."],["AccountDoesNotExist","Данный аккаунт не существует."],["InvalidPassword","Вы указали неверный пароль."],["AlreadyLoggedOn","Операция не может быть выполнена, поскольку аккаунт уже авторизован в игре из другого места."],["InvalidProtocolVersion","Выпущен новый патч игры, необходимо обновление. Пожалуйста, перезапустите Path of Exile."],["NotAllowedGameLogin","В настоящее время доступ в игру для данного аккаунта закрыт."],["OtherAccountLoggedOn","На данный аккаунт вошёл другой человек."],["AccountNotLoggedIn","Для данной операции необходимо авторизоваться."],["Timeout","Время истекло."],["Disconnected","Отключен от сервера."],["TerrainGenerationOutOfSync","Генератор местности для клиента не синхронизирован с сервером. Пожалуйста, создайте новую локацию и повторите попытку."],["UnexpectedDisconnect","Произошло неожиданное отключение от сервера."],["CharacterDoesNotExist","Указанный персонаж не существует"],["NotCharacterOwner","Совершена попытка восстановления персонажа, не относящегося к данной учетной записи."],["LinkedItemDoesNotExist","Указанный предмет не существует"],["DatabaseError","Ошибка баз данных. Попробуйте позже."],["TransferredToInstance","Персонаж был перемещён в другую местность."],["CharacterNameAlreadyExists","Персонаж с таким именем уже существует."],["CharacterNameInvalid","Имя персонажа содержит запрещенные символы. Разрешается использовать только буквы и нижние подчеркивания."],["CharacterNameTooShort","Имя персонажа слишком коротко."],["CharacterNameTooLong","Имя персонажа чересчур длинное."],["CharacterInvalidClass","Неверный класс персонажа."],["LeagueDoesNotExist","Такой лиги не существует."],["InvalidCharacterFlags","Неверный флаг персонажа."],["LeagueNameAlreadyExists","Лига с таким названием уже существует."],["LeagueNameInvalid","Недопустимое название лиги."],["LeagueDescriptionInvalid","Недопустимое описание лиги."],["AlreadyInParty","Действие невозможно выполнить, поскольку вы находитесь в группе."],["NotItemOwner","Ваш персонаж не является владельцем этого предмета."],["NotAPartyMember","Цель данной операции не была членом группы"],["PartyPromotionRequired","Вы не можете осуществить это действие, потому что у вас нет соответствующих прав группы."],["PartyDoesNotExist","Группа не существует."],["ServiceDoesNotExist","Сервис не существует."],["CommandInvalid","Сервис не ответил на команду, либо была допущена ошибка синтаксиса."],["DestinationUnreachable","Не удалось создать контакт."],["NotInPartyWith","Вы должны быть в группе с этим игроком"],["NotInParty","Вы не находитесь в данной группе."],["InstanceFull","Подземелье заполнено."],["InvalidInstanceTransfer","Перемещение в область невозможно данным способом."],["PortalDoesNotExist","Портал с другой стороны был закрыт."],["OutOfYourLeague","Персонаж не из вашей лиги (и вы это знаете)"],["DownForMaintenance","Сервер в настоящее время закрыт на техническое обслуживание. Попробуйте еще раз позже."],["InstanceAuthenticationInvalid","Авторизация на перемещение в область не удалась"],["PartyFull","Ваша группа заполнена."],["TooManyCharacters","Достигнут предел максимального количества персонажей."],["InvalidActivationKey","Неверный ключ активации."],["EmailValidationRequired","Аккаунт с такой электронной почтой уже был создан. Чтобы авторизоваться, вам необходимо активировать аккаунт с помощью данных из письма."],["MissingRequiredField","Пожалуйста, заполните все требуемые поля."],["InvalidArgument","Аргумент неверен"],["GameComplete","Игра завершена"],["LeagueHasEnded","Лига завершена. Вы больше не можете создавать персонажей."],["LeagueClosedForEntry","Возможность входа в эту лигу была закрыта."],["AlreadyOnIgnoreList","Этот аккаунт уже в вашем списке игнорирования."],["NotOnIgnoreList","Аккаунт не находится в вашем списке игнорирования."],["IgnoreListFull","Ваш список игнорирования заполнен."],["AddToIgnoreListFailed","Не удалось добавить {0} в список игнорирования: {1}"],["AddedToIgnoreList","{0} был добавлен в ваш список игнорирования."],["RemoveFromIgnoreListFailed","Невозможно удалить {0} из списка игнорирования: {1}"],["RemovedFromIgnoreList","{0} был удалён из списка игнорирования."],["FailedToClearIgnoreList","Не удалось очистить список игнорирования: {0}"],["IgnoreListCleared","Ваш список игнорирования был очищен."],["FailedToAddNamedFriend","Не удалось добавить {0} в список друзей: {1}"],["FailedToAddUnnamedFriend","Не удалось добавить аккаунт в список друзей: {0}"],["FailedToAcceptFriend","Не удалось принять заявку в друзья: {0}"],["FailedToRemoveFriend","Не удалось удалить друга: {0}"],["TriedToFriendSelf","Вы не можете добавить самого себя в друзья."],["AccountBanned","Ваш аккаунт был заблокирован администратором."],["AccountChildLocked","Ваш аккаунт был заблокирован родителями."],["LoginRateLimited","Вы пытались авторизоваться слишком часто за короткий промежуток времени. Пожалуйста, попробуйте позже."],["AccountLocked","Ваш аккаунт заблокирован. Пожалуйста, свяжитесь со службой поддержки."],["NotAccountOwner","Операция не может быть выполнена."],["TemporaryLockout","Ваш аккаунт был временно закрыт, поскольку администрация работает с ним."],["Kicked","Вы были отключены от сервера администратором."],["StashTabDoesNotExist","Указанной секции не существует."],["LeaguePasswordInvalid","Указан неверный пароль для этой лиги."],["InstanceRateLimited","Вы были отключены, поскольку совершали слишком много действий и очень быстро."],["FriendsListFull","Достигнут предел количества друзей."],["NotOnFriendsList","Данный аккаунт не находится в вашем списке друзей."],["AlreadyOnFriendsList","Аккаунт уже в вашем списке друзей."],["LeagueUnavailableToNonBeta","Эта лига доступна только для Бета-игроков."],["InstanceDoesNotExist","Область не существует."],["Muted","Вы не можете совершать это действие пока заглушены."],["Ignored","Вы игнорируетесь выбранным игроком."],["PvPMatchDoesNotExist","Данный тип PvP матча не существует."],["ItemDoesNotExist","Указанный предмет не существует."],["NeedNormalStashTab","Вам необходим хотя бы 1 обычный тайник для улучшения."],["NotEnoughCredit","У вас недостаточно денег для покупки этого предмета."],["PackagePurchaseIncomplete","Ваша покупка не была успешно завершена. Пожалуйста, обратитесь в службу поддержки."],["MultiplePurchasesNotAllowed","Вы можете осуществить эту микротранзакцию лишь однажды."],["CantDeleteWithMicrotransactions","Пожалуйста, сначала удалите все косметические эффекты с предметов на этом персонаже. Вы можете сделать это в сундуке микротранзакций."],["NotEnoughRoomForItem","Недостаточно ячеек для предмета."],["SavedCredentialsNewLocation","Вы вошли в игру из нового места. Пожалуйста, введите ваш пароль повторно."],["SavedCredentialsBad","Ваши сохраненные учетные данные устарели. Пожалуйста, введите ваш пароль повторно."],["LoginRequiresUnlockCode","Ваш аккаунт заблокирован, пока вы не предоставите код активации, отправленный вам на почту регистрации."],["UnlockCodeIncorrect","Предоставленный код активации неверен."],["UnlockEmailTooSoon","Прошло слишком мало времени с момента последнего письма активации."],["DailyDealDoesNotExist","Сделка не существует."],["MicrotransactionDoesNotExist","Микротранзакция не существует."],["AccountNameDisallowed","Данное имя аккаунта запрещено."],["BannedLoginIp","Ваш IP был заблокирован. Пожалуйста, свяжитесь со службой поддержки, если считаете это ошибкой."],["GeneralFailure","Неизвестная ошибка."],["CurrencyTradingPrevented","Вы не можете торговать валютой или уникальными предметами с другими игроками до того, как достигнете 25 уровня на хотя бы одном персонаже аккаунта."],["AccountAlreadyHasSteam","Этот аккаунт уже связан с соответствующим Steam аккаунтом."],["SteamAssociateEmailSent","Электронное письмо было отправлено вам для подтверждения. Пожалуйста, перейдите по ссылке из письма, чтобы продолжить."],["SteamIdAlreadyInUse","Этот Steam аккаунт уже связан с аккаунтом Path Of Exile."],["NoAssociatedSteamId","Этот аккаунт не связан с аккаунтом Steam."],["MapDeviceBusy","Активация не удалась. Устройство занято."],["MapDeviceTooManyItems","Активация не удалась."],["MapDeviceTooManyItemsSound","Активация не удалась. Слишком много звуков предметов."],["MapDeviceNotMap","Активация не удалась. Карта не найдена."],["MapDeviceCreateInstanceFailed","Активация не удалась. Невозможно открыть порталы в заданную область."],["MapDeviceCancelled","Активация отменена."],["MapDeviceEmpty","Активация не удалась. Устройство требует наличие карты."],["PlayerDisconnected","{0} покинул область."],["PlayerJoined","{0} присоединился."],["EnteredArea","Вы вошли в область {0}."],["LeagueNotYetStarted","Лига еще не стартовала, поэтому вы не можете двигаться. Как только лига будет запущена, вы сможете начать играть."],["LeagueAlreadyEnded","Лига уже завершена."],["LadderRankAlive","{1}. {0} Уровень {2} {3} Опыт: {4}"],["LadderRankDead","{1}. {0} (Мертв) Уровень {2} {3} Опыт: {4}"],["LadderRankTimed","{1}. {0} Уровень {2} {3} Время: {4}"],["LevelUp","{0} ({1}) достигает {2} уровня"],["AlreadyInPVPQueue","Сначала вам необходимо покинуть PvP очередь."],["MissingRequiredQuestState","Вы не находитесь на требуемом этапе задания"],["FailedToJoinAnyInstances","Ошибка: Не удалось войти в область."],["FailedToJoinInstance","Ошибка: Не удалось войти в область: {0}"],["FailedToConnectToInstance","Не удалось подключиться к области."],["FailedToApplyCurrency","Не удалось применить предмет: {0}"],["TooManyGlobalItemLinks","Вы не можете продать более {0}-х предметов в Общем чате"],["MutedUntilSeconds","Ваш аккаунт был заглушен Администратором. Вы сможете писать в чат через {0}."],["ObaPlayerJoined","Ты должно быть очень храбрый или глупый, чтобы подумать, что можешь забрать мои сокровища и выжить. В любом случае, я приветствую тебя!"],["ObaDoorUnlocked","Пройди вперёд, изгнанник, и попробуй взять, что можешь, и пока можешь."],["ObaBeginDeathCount","Осквернение разрастается. Поторопись, прежде чем оно поглотит тебя так, как меня."],["ObaFinalCountdown","{0}"],["ObaKillPlayer","Ба-х! Ты не достоин нести моё наследие. Скверна поглотит твой труп."],["Oba75PercentOxygen","Кошмар почуял тебя. Теперь он жаждет твоей плоти."],["Oba50PercentOxygen","Твоя чаша наполовину пуста или наполовину полна, изгнанник?"],["Oba25PercentOxygen","Разочарование. Кажется, скверна получит лучших из вас рано или поздно."],["CowardsTrialNextWave","Темнота вырисовывается зловеще..."],["CowardsTrialRoomClear","В комнате стало тихо и спокойно..."],["CowardsTrialLevelClear","Гнетущая атмосфера медленно рассеивается..."],["VaalKillOversoul","Вам нужно убить Вседушу ваал"],["VaalDeliverAmulets","Вы должны отдать бандитские амулеты Эрамиру и получить Верхушку"],["VaalAcquireAmulets","Вы должны забрать амулеты у главарей разбойников."],["VaalGetApexDex","Вам нужно взять Верхушку у Крайтина"],["VaalGetApexStr","Вам нужно взять Верхушку у Дуба"],["VaalGetApexInt","Вам нужно взять Верхушку у Алиры"],["VaalGetApexTown","Вам нужно взять Верхушку у Эрамира"],["MonsterRemaining1","Остался 1 монстр"],["MonstersRemainingN","Осталось монстров: {0}."],["MonstersRemainingMoreThan50","Осталось более 50 монстров."],["PlayerDeathCount1","Вы погибли 1 раз."],["PlayerDeathCountN","Вы погибли {0} раз."],["PlayerKillCount","Вы уничтожили {0} монстров."],["PvPStats1v1","1v1 W/L/D: {0}/{1}/{2}"],["PvPStats3v3","3v3 W/L/D: {0}/{1}/{2}"],["PvPPlayerJoinedTeam","{0} присоединился к {1} команде."],["PvPNotEnoughPlayers","Не удалось начать матч. Присоединилось недостаточно игроков."],["PvPPlayerKilled","{0} был убит {1}."],["PvPPartyTooLarge","Невозможно присоединиться к PvP: слишком много игроков группы для этого типа PvP."],["PvPPlayerAlreadyInQueue","Невозможно присоединиться к PvP: вы уже находитесь в очереди PvP"],["PvPPartyMemberAlreadyInQueue","Невозможно присоединиться к PvP: член группы уже находится в очереди PvP"],["PvPPlayerTooFarQuest","Невозможно присоединиться к PvP: вы перешли за предел сложности для данного типа PvP"],["PvPPartyMemberTooFarQuest","Невозможно присоединиться к PvP: член группы перешел за пределы сложности для данного типа PvP"],["PvPPlayerTooHighLevel","Невозможно присоединиться к PvP: ваш уровень выше требуемого для данного типа PvP"],["PvPPartyMemberTooHighLevel","Невозможно присоединиться к PvP: уровень члена группы выше требуемого для данного типа PvP"],["PvPPlayerHasAscendancy","Невозможно присоединиться к PvP: вы выбрали класс Восхождения, что недопустимо для данного типа PvP"],["PvPPartyMemberHasAscendancy","Невозможно присоединиться к PvP: член группы выбрал класс Восхождения, что недопустимо для данного типа PvP"],["PvPJoinFail","Не удалось присоединиться к PvP очереди: {0}"],["PvPQueueCancelled","PvP Очередь отменена."],["PvPQueueCancelledBy","PvP Очередь отменена игроком {0}."],["PvPMatchListUnreachable","Не удалось получить список PvP матча:"],["PvPDisabled","PvP отключена для этой лиги."],["PlayerSuicide","{0} покончил с собой"],["PlayerSlain","{0} был повержен."],["NoCharacterSpecified","Пожалуйста, укажите имя персонажа."],["WhoIsOffline","{0} имеет уровень {2} {3} в лиге {1}, в настоящее время игрок не в сети."],["WhoIsOnline","{0} имеет уровень {2} {3} в лиге {1} и сейчас играет в {4}."],["ItemOnCursorLevel","Предмет под курсором имеет уровень {0}."],["NoItemOnCursor","Нет предмета под курсором."],["ItemOnCursorHasNoLevel","Предмет под курсором не имеет уровня (должен иметь возможность модификации)."],["FixMyHelmetSuccess","Шлем обновлен"],["OperationFailed","Действие не удалось"],["FixMyHelmetAlreadyFixed","Этот шлем уже имеет корректный вид"],["FixMyHelmetUnique","Шлем под курсором является Уникальным"],["FixMyHelmetNotHelmet","Предмет под курсором - не шлем"],["ItemHasMicrotransaction","Вы не можете делать это с предметом, на который наложен дополнительный эффект. Пожалуйста, удалите имеющийся дополнительный эффект и попробуйте снова."],["BugReportNumber","Номер вашего баг репорта {0}."],["PlayedTime","Время игры на этом персонаже: {0}."],["CharacterAge","Ваш персонаж был создан {0} назад."],["CharacterAgeUnknown","Дата создания персонажа не записана."],["HelpCtrlClick","Ctrl+Клик по области или порталу, чтобы создать новую область"],["ReceivedRespecPoint1","Вы получили очко сброса пассивных умений."],["ReceivedRespecPointN","Вы получили очков сброса пассивных умений: {0}."],["ReceivedPassivePoint1","Вы получили очко пассивных умений."],["ReceivedPassivePointN","Вы получили очков пассивных умений: {0}."],["ReceivedStatBonus","Вы получили {0}."],["LeagueTradeDisabled","Вы не можете торговать в этой лиге."],["TradeItemOnCursor","Вы не можете торговать предметом под курсором."],["TradePlayerBusy","В настоящее время этот игрок занят."],["TradeAccepted","Сделка совершена."],["TradeCancelled","Сделка отклонена."],["YouWereIgnored","Данный игрок игнорирует вас."],["AchievementServerUnreachable","Ошибка: Не удалось присоединиться к серверу достижений"],["DestroyCursorItem","Указанный предмет уничтожен"],["DestroyItemInTrade","Вы не можете уничтожать предметы во время Торговли"],["DestroyQuestItem","Вы не можете разрушать квестовые предметы."],["DestroyMicrotransactions","Вы не можете разрушать предметы, которые имеют эффект от микротранзакции."],["DestroyBanditRespec","Этот предмет нельзя уничтожить, но вы можете продать его неигровому персонажу, получив компенсацию."],["CannotCreatePublicPartyYet","Вы должны достигнуть первого города, прежде чем вы сможете создавать публичные группы."],["PublicPartyListUnreachable","Не удалось получить публичный список группы: {0}"],["FullPassiveSkillRefund","Ваши пассивные умения были возвращены."],["TeleportFailed","Перемещение отменено: не удалось разместить героя в пункте назначения"],["TutorialShowItems","Удерживайте Alt для отображения предметов на земле."],["FinishedDescent","Поздравляем, вы завершили Спуск!"],["JoinedGlobalChannel","Вы присоединились к Общему каналу чата {1}."],["JoinedTradeChannel","Вы присоединились к чату Торговли {1}."],["ShopPackageDoesNotExist","Пакет не существует."],["ShopPackagePurchaseFailed","Не удалось приобрести пакет."],["ShopPackageTransactionDoesNotExist","Транзакция магазина не существует."],["DownForMaintenanceTemp","Сервер был отключен на техническое обслуживание. Пожалуйста, авторизуйтесь снова."],["ThirdPartyIdAlreadyExists","Данный аккаунт уже связан с аккаунтом Path of Exile."],["GuildNameTooLong","Название гильдии слишком длинное"],["GuildTagTooLong","Тэг гильдии слишком длинный"],["AccountAlreadyInGuild","Аккаунт уже состоит в гильдии"],["GuildDoesNotExist","Указанная гильдия не найдена"],["GuildMustBeOfficer","Вы должны быть лидером или офицером гильдии, чтобы осуществлять данные действия"],["NotInGuild","Аккаунт не является членом этой гильдии."],["GuildFull","Гильдия заполнена и больше вы не можете приглашать в неё игроков."],["GuildMustBeLeader","Вы должны быть главой гильдии, чтобы осуществить это действие."],["DisallowedOnSelf","Вы не можете сделать это с собой."],["TooManyGuildInvites","Этот персонаж уже был приглашен в слишком большое число гильдий."],["GuildStatusMessageTooLong","Статус-сообщение гильдии слишком велико."],["NotEnoughPointsForTransaction","У вас нет достаточно очков для завершения транзакции."],["GuildMustBeMember","Вы должны быть членом гильдии, чтобы выполнить это действие."],["RemoteStashAlreadyLocked","Удалённый тайник закрыт. Попробуйте позже."],["RemoteStashOperationRequiresLock","Удалённому тайнику нужен замок."],["BadGuildStashPermissions","У вас недостаточно прав для этого действия с гильдейским хранилищем."],["MaximumGuildSlots","Вам не разрешено иметь больше гильдейских мест."],["GuildTagTooShort","Тэг гильдии должен иметь минимум 3 символа."],["GuildKickDisabledForAccount","Вы не можете исключить этот аккаунт из гильдии, поскольку"],["FriendNoteTooLong","Заметка друга слишком велика."],["TooHighLevelForCap","Максимальный уровень в этой области {0}."],["PlayerWins","Команда {0} победила!"],["TooLowLevelToSendWhisper","Вы не можете отправлять личные сообщения, пока не достигнете уровня {0}"],["TooLowLevelToSendChat","Вы не можете общаться в чате \"{0}\", пока не достигнете {1} уровня"],["ReachedRegularChatLimit","Пожалуйста, не отправляйте сообщения чата слишком часто"],["ReachedTradeChatLimit","Пожалуйста, не отправляйте сообщения в чат Торговли слишком часто"],["PortalEffectChanged","Ваш персонаж теперь будет использовать {0}."],["PortraitFrameChanged","Ваш персонаж теперь будет использовать {0}. Вам необходимо выйти из игры и авторизоваться вновь, чтобы изменения вступили в силу."],["CharacterPortraitChanged","Ваш персонаж теперь будет использовать {0}. Вам необходимо выйти из игры и авторизоваться вновь, чтобы изменения вступили в силу."],["NoHideout","У этого игрока нет убежища в данной лиге."],["FailedToUseItem","Не удалось использовать предмет: {0}"],["ObaCompleted","Ха-ха! Вы действительно могучий авантюрист. Используйте то, что я дал вам и распространите моё наследие по всему Рэкласту."],["ArenaScoreTitle","Текущие рейтинги: (Убийств / Смертей)"],["ArenaScore","{1}: {0} ({2}/{3})"],["LostPassivePoint1","Вы потеряли Очко пассивных умений"],["LostPassivePointN","Вы потеряли Очков пассивных умений: {0}."],["LostStatBonus","Вы потеряли {0}."],["FFALadderUpdate","Вы теперь #{0} на арене."],["CraftingFailed","Не удалось создать {0}"],["SpectatorJoined","{0} теперь наблюдает."],["LeagueStartingSoonGlobal","Следующая гонка стартует через {1}. Чтобы присоединиться к ней, войдите на экран выбора персонажа и нажмите \"Вступить\" по Лиге \"{0}\". Информация о событии доступна на форуме События/Лиги."],["LeagueStartingSoonLocal","Лига начинается через {0}."],["LeagueStartingNow","Лига стартовала!"],["LeagueEndingMinutes","Лига заканчивается через {0}."],["LeagueFinished","Лига завершена!"],["LeagueFirstToReachLevel","{0} — первый персонаж, достигший {1} уровня!"],["LeagueFirstToEnterArea","{0} — первый персонаж, вошедший в область {1}!"],["LeagueFirstToEnterDelveLevelSolo","{0} — первый персонаж, в одиночку достигший {1} глубины!"],["LeagueFirstToEnterDelveLevelParty","{0} — первый персонаж, достигший {1} глубины!"],["LeagueFirstToFullyClear","{0} — первый персонаж, зачистивший область {1}!"],["LeagueFirstToDoQuest","{0} — первый персонаж, завершивший задание {1}!"],["RealmRestartingSoon","Игровой мир будет перезагружен через {0}."],["RealmShuttingDownSown","Игровой мир будет отключен через {0}."],["RealmRestarting","Начало перезагрузки игрового мира..."],["RealmShuttingDown","Начало отключения игрового мира..."],["RealmRestartDeployPatchNotification","Мы начинаем перезагрузку игровых миров для установки обновления {0}. Список изменений обновления доступен на нашем форуме. {1}"],["RealmMaintenanceNotification","Игровые миры будут закрыты на техническое обслуживание. {0}"],["CharacterOffline","Персонаж не в сети."],["CharacterNameOffline","{0} не в сети."],["CharacterDifferentLeague","Персонаж находится в другой лиге."],["NotMutualFriends","Этот аккаунт не принял вашу заявку в друзья."],["CharacterNotInPvP","Этот персонаж в настоящее время не занимается PvP."],["SpectateFollow","Вы готовы к наблюдению за игроком."],["HideoutDoodadLimitReached","Нельзя разместить другой объект убежища. Вы можете единовременно иметь 750 объект(-ов) в убежище."],["HardcoreDeathAnnouncement","{0} (уровень {1}) погиб на позиции {2} в ладдере."],["InteractErrorIncaBossSpawner","Похоже, требуется треугольный ключ."],["InteractErrorMalachaiPortal","Вам необходимо убить Владыку, возможно вы не присутствовали в области в момент его смерти."],["InteractErrorMervielExit","Вам необходимо убить Мервейл, возможно вы не присутствовали в области в момент её смерти."],["InteractErrorHillockGate","Вам необходимо убить Хиллока"],["InteractErrorTowerTransition","Вам необходимо убить Владыку, возможно вы не присутствовали в области в момент его смерти."],["InteractErrorMineEntranceSeal","Вход в Шахты закрыт печатью Дешрет"],["InteractErrorLockedDoor","Дверь заперта"],["InteractErrorTowerKey","Ключ Башни не был использован на дверной замок."],["InteractErrorPoisonTree","Заросли деревьев закрывают вам путь.\r\nВозможно, они могут быть открыты\r\nчуть позже."],["InsteractErrorUndyingBlockage","Путь блокирован."],["InteractErrorLocked","Заблокировано."],["InteractErrorBlockageTransition","Путь блокирован."],["InteractErrorSpikeBlockage","Похоже, тут нужен ключ."],["InteractErrorGlyphWall","Эта стена, кажется, требует три странных по своей форме объекта."],["InteractErrorWaterCave","Сначала вы должны найти способ снизить уровень воды."],["InteractErrorNotYourCraftingTable","Вы не можете использовать верстаки других людей."],["InteractErrorNotYourMapDevice","Вы не можете использовать машины картоходца других людей."],["InteractErrorCoreTransition","Убейте всех трёх стражей Малахая. Вы не можете войти в Средоточие тьмы, пока они живы."],["InteractErrorCoreTransitionOrgans","Чтобы войти в Средоточие тьмы - убейте трёх стражей Малахая и отнесите Вере органы Малахая."],["InteractErrorPietyGateTransition","Сначала вы должны поговорить с Верой."],["InteractErrorVinktarSquareGateLocked","Врата защищены силой Стражников."],["NotAllowedInPlayersHideout","Вы не можете попасть в убежище этого игрока."],["CantChangeToHideoutFromHere","Вы не можете попасть в убежище отсюда."],["StrMissionStartPointRocks","Вход рухнул"],["LoginTokenExpired","Срок действия данных вашей учетной записи истек. Пожалуйста, перезапустите игру."],["IgnoredPvP","Вас проигнорировали."],["LocalChatDisabledWhileSpectating","Локальный чат отключен во время наблюдения PvP"],["AbandonDailyNotInHideout","Вы можете использовать эту команду только находясь в своем убежище"],["NoDailyActive","В настоящее время нет активных дневных миссий."],["MissionComplete","Задание выполнено. Вы получили {0} репутации у мастера."],["GrandmasterSaved","Грандмастер файл был сохранён. Разработчик будет уведомлён."],["LeagueFinishTimeRaceCompleted","Вы выполнили задачу этой гонки. Проверьте Ладдер, чтобы увидеть свой рейтинг."],["LeagueFinishTimeRaceLogin","Вы уже выполнили задачу этой гонки с данного персонажа."],["CharacterNotFriendOrGuildmate","Этот аккаунт не в гильдии или в списке друзей."],["MapDeviceDisabled","Машина картоходца отключена в этой лиге."],["PVPTeamDoesNotExist","PVP команда не принимает участия в этом событии."],["ForwardedToMasterShard","Запрос был отправлен на мастер-сервер. Запрос нужно отменить, если не будет ответа."],["PVPTournamentFinished","Турнир завершён."],["ErrorNotInHideout","Вы должны быть в убежище, чтобы сделать это."],["ClaimCraftingBenchSuccess","Верстаки добавлены в хранилище убежища."],["CharacterIsPVPOnly","PVP персонажи не могут делать этого."],["StoppedSpectateFollow","Вы больше не готовитесь к наблюдению."],["CannotTradeItemLockedToCharacter","Предмет не может быть передан или изменён."],["CannotTradeItemLockedToAccount","Предмет не может быть передан."],["PvPRelocatingArena","Вас переносят на другую PVP арену для баланса игроков."],["MapCraftingFailedCost","У вас недостаточно ресурсов."],["MapCraftingFailedTrade","Не удалось открыть карту. Нельзя расходовать предметы при открытом окне торговли."],["PvPMustHaveFullParty","В вашей группе нехватает игроков для этого режима PVP."],["WithdrawnFromPVPTournament","Вы покинули этот PVP турнир."],["SpectatingDisabled","Наблюдение отключено для этого матча"],["ChestLocked","Сундук заперт"],["HideoutPortalLocked","Порталы на карту заблокированы"],["PVPCTFOwnFlag","Принесите сюда флаг вражеской команды, чтобы получить очко"],["SpiderChestLocked","Вы слышите шуршание..."],["AFKModeEnabled","Режим \"отошёл\" включён. Авто-ответ \"{0}\"."],["AFKModeDisabled","Режим \"отошёл\" выключен."],["DNDModeEnabled","Режим \"недоступен\" включён. Авто-ответ \"{0}\"."],["DNDModeDisabled","Режим \"недоступен\" выключен."],["AutoReplyEnabled","Установлен авто-ответ \"{0}\""],["IncaApexDoorLocked","Сейчас дверь нельзя открыть."],["CharacterNameExistsButCanExpire","Создание персонажа с таким именем изменит имя уже существующего персонажа."],["CharacterIsNotExpired","Срок действия этого имени ещё не истёк."],["CharacterIsExpired","Имя этого персонажа было занято другим игроком, так как вы давно не входили на аккаунт. Укажите новое имя."],["OrphanedInstance","Потеряна связь с сервером."],["ErrorLabyrinthLocked","Лабиринт уже был открыт и в него больше нельзя войти. Посетите Площадь претендентов, чтобы начать новый."],["ErrorZanaMissionLocked","Вы уже посещали нестабильную область. Вы не сможете в неё вернуться."],["InteractErrorDoorRequiresGoldenKey","Дверь заперта. Для неё нужен золотой ключ."],["InteractErrorDoorRequiresSilverKey","Дверь заперта. Для неё нужен серебряный ключ."],["InteractErrorDoorRequiresBronzeKey","Дверь заперта. Для неё нужен бронзовый ключ."],["TooManyCharacterSlots","На одном аккаунте нельзя иметь более 255 персонажей."],["EchoClientString","{0}"],["ErrorCannotWhisperIgnored","Вы не можете отправлять личные сообщения игрокам из вашего списка игнорирования."],["AccountIsOnline","Этот аккаунт сейчас в сети."],["IzaroChestLocked","Этот сундук закрыт. Для него нужен ключ от сокровищницы."],["ProfanityCheckFailed","Введенный текст содержит ненормативную лексику."],["ErrorCannotChangeAscendancyClass","Вы не можете изменять класс Восхождения в этой лиге."],["TencentAasLoginDenied","You are a minor and can't login."],["TencentAasNotification","Вы играете {0} часов, пожалуйста, отдохните немного."],["TencentAasAlarm","Вы играли более трех часов и являетесь несовершеннолетним. Вы сможете авторизоваться только после 5-часового перерыва."],["LeagueDisallowsCharacterDeletion","В настоящий момент эта лига не позволяет удалять персонажей."],["ErrorCannotAccessMapLabyrinth","Вы ещё не завершили испытания лабиринта на картах."],["ErrorCannotSealProphecy","Не удалось запечатать пророчество."],["InviteErrorAlreadyInParty","Не удалось отправить приглашение в группу: этот персонаж уже в группе."],["TencentCannotAccessMapDevice","Завершите Лабиринт Правителя, чтобы получить доступ к Машине картоходца. Отправляйтесь в Лагерь Сарна и нажмите на плиту Восхождения, чтобы узнать о Лабиринте подробнее. Завершите испытания Восхождения и победите императора Изаро, чтобы получить доступ к высокоуровневым картам."],["DailyPortalBlocked","Невозможно открыть ежедневное задание: область портала заблокирована. Используйте режим перестановки, чтобы переместить мастера в другое место и попробуйте снова."],["OfferDoesNotExist","Предложения не существует."],["OfferInWrongState","Предложение находится в недопустимом состоянии для выполнения этого действия."],["OfferContainsUntradeableItems","Предложение нельзя отправить, поскольку оно содержит предметы, которыми нельзя торговать."],["NoOffersOnYourOwnItems","Вы не можете сделать предложение на этот предмет, поскольку он у вас уже есть."],["PublicListingLockedDueToLevel","Вы не можете выставлять предметы на продажу в открытый доступ пока не повысите уровень хотя бы одного персонажа на вашем аккаунте до 25."],["OffersLockedDueToLevel","Вы не можете делать предложения пока не повысите уровень хотя бы одного персонажа на вашем аккаунте до 25."],["AccountNoLongerHasItem","У игрока больше нет указанного предмета."],["TooManyBuyerOffers","Вы не можете сделать ещё одно предложение, пока предыдущее не будет завершено."],["TooManySellerOffers","У продавца слишком много предложений. Попробуйте позже."],["AlreadyHaveOfferOnItem","У вас уже есть действующее предложение на этот предмет."],["SentOfferTooRecently","Вы недавно отправляли предложение на этот аккаунт."],["EventErrorLevelTooLow","Чтобы принять участие в событии, вы должны достичь {0} уровня."],["EnteredPathOfEnduranceLevel","Вы достигли {0} уровня."],["EventEndsIn","Событие заканчивается в {0}."],["GuildTagAlreadyExists","Такой тэг гильдии уже используется."],["GlobalChatOnCooldown","Пожалуйста, подождите несколько секунд, прежде чем вновь писать в Общем чате."],["InteractErrorKaruiDoorLocked","Врата закрыты, но, кажется, в них не хватает глаза…"],["LabyrinthErrorPartyTooBigTencent","Вы можете входить в Лабиринт, только если в вашей группе {0} или меньше участников. "],["InteractErrorNoSignOfPurity","Для активации вам нужен Символ Чистоты."],["InteractErrorCannotAccessEndgame","Вы не можете получить доступ к высокоуровневым картам, пока не завершите 10 Акт."],["CharacterNameContainsProfanity","Такое имя персонажа запрещено."],["ConsoleDisconnectedBecauseActiveUserChanged","Соединение прервано, так как текущий пользователь завершил сеанс."],["ConsoleDisconnectedBecauseSuspending","Соединение прервано, так как игра была приостановлена."],["InteractErrorNeedSunMoonOrbs","Для активации вам нужны сферы Солнца и Луны."],["TheBeaconLever","Невозможно разжечь огонь, недостаточно горючего."],["OnlyOneAllowedInHideout","Вы не можете разместить больше одного предмета этого типа в вашем убежище."],["AccountLoggedInOnOtherRealm","Вы не можете войти одновременно в бету и в обычный клиент Path of Exile."],["KitavaArenaLocked","Входить в портал этой области небезопасно."],["InteractErrorBeaconMissingFlag","Заберите Чёрный флаг из Пещеры злобы и сожгите его на маяке."],["InteractErrorGreustShrine","Древняя святыня азмири. Возможно, Елена что-то о ней знает."],["PantheonFailedToCreateSoulItem","Не удалось создать захваченную душу в машине картоходца."],["PantheonCannotConsumeVessel","Активация не удалась. Невозможно захватить душу босса этой карты."],["PantheonCannotConsumeVesselAlreadyCaptured","Активация не удалась. Вы уже захватили душу босса этой карты."],["ExitToLoginFailed","Не удалось подключиться к серверу авторизации. Пожалуйста, авторизуйтесь и повторите попытку."],["MessageDoesNotExist","Такого сообщения не существует."],["MessageTooLong","Сообщение слишком длинное."],["AreaErrorLevelTooLow","Чтобы войти в эту область, персонаж должен быть минимум {0} уровня."],["AreaErrorLevelTooLowGeneric","Вы не достигли достаточного уровня для входа в эту область."],["TradeMarketCloseOfferWithItems","В предложении все ещё есть предметы. Удалите их, чтобы закрыть предложение."],["TradeMarketSendOfferWithNoItems","Вы не можете согласиться на торговлю, не предложив взамен валюту."],["XboxLoginErrorNoLiveAccess","Не удалось войти: сервис Xbox Live недоступен."],["ConsoleLoginErrorNoInternetConnection","Не удалось войти: отсутствует соединение с интернетом."],["ErrorChatIsFull","Не удалось поключиться к каналу чата, поскольку он переполнен."],["LoginConnectionLimitReached","Сервер авторизации перегружен. Пожалуйста, повторите попытку позднее."],["TooManyObjects","Запрошено слишком много объектов. Пожалуйста, обратитесь в техподдержку."],["SubtabAlreadyExists","Такая подсекция уже существует."],["MaxInventoryColumns","You have reached the maximum number of inventory columns allowed. CHINA ONLY NOT FOR WORLDWIDE REALM"],["IncorrectInventoryColumnUpgrade","You are trying to purchase the inventory upgrade for the incorrect number of existing slots. CHINA ONLY NOT FOR WORLDWIDE REALM"],["GenericRateLimit","Запрос отклонен, поскольку вы отправили слишком много запросов за короткий промежуток времени."],["RequestInProgress","Запрос уже обрабатывается. Пожалуйста, попробуйте позже."],["ItemNotInStash","Такого предмета нет в этой секции."],["BestiaryNetChanged","Теперь для отлова животных будет использоваться {0}."],["ErrorPlayerHasNoMenagerie","У этого игрока нет зверинца."],["MasterBonusExpUpdate","Получено {1} очков репутации и расположение для {0}"],["MicrotransactionNotAvailableInLeague","Вы не можете купить эту микротранзакцию в данной лиге."],["CaptureMonsterSuccess","Пойманный монстр: {0}"],["PlayersRemainingN","Осталось игроков: {0}"],["AccountNotVerifiedChatError","Вы должны подтвердить ваш аккаунт, прежде чем пользоваться чатом."],["TooLowLevelToChooseChatIndex","Вы не сможете выбрать определенный канал чата, пока не достигнете {0} уровня"],["IncursionLockedDoorError","У вас нет нужного предмета для открытия этого прохода."],["IncursionDestructibleWallError","У вас нет взрывчатки."],["InstanceExpiredError","Невозможно подключиться к области. Время действия подобласти истекло, поскольку она больше не является новейшей для этой области."],["InstanceTerminatedError","Не удалось подключиться к области:  подобласть больше не существует."],["FailedToLoadDelveMap","Не удалось загрузить данные карты Спуска: {0}"],["DelveInProgressError","Вы не можете войти в шахту в процессе спуска."],["LoginRequiresUnlockCodeStrict","Ваш аккаунт заблокирован, пока вы не предоставите код разблокировки, отправленный на вашу электронную почту."],["DelveSocketableCurrencySameFossilError","Вы не можете помещать одинаковые ископаемые в один и тот же резонатор"],["GenericSocketError","Вы не можете вставить в гнездо этот предмет"],["OfferNotYetReadyForAccept","Предложение ожидает принятия решения по прошлому запросу. Попробуйте позже."],["InteractErrorEssence","Что-то ещё удерживает Сущность."],["NotEnoughIngredients","У вас недостаточно материалов для совершения действия."],["ConsoleDisconnectedBecauseActiveUserSignedOut","Соединение прервано, так как текущий пользователь завершил сеанс."],["PS4LoginErrorNoPSNAccess","Не удалось войти: сервис \"PlayStation Network\" недоступен."],["PS4LoginErrorOutOfMemory","Не удалось войти: недостаточно памяти."],["PS4LoginErrorSignedOut","Не удалось войти: вы вышли из системы."],["PS4LoginErrorNotSignedUp","Не удалось войти: вы не вошли в систему."],["PS4LoginErrorAgeRestriction","Не удалось войти: ограничение по возрасту."],["PS4LoginErrorLoggedOut","Не удалось войти: вы вышли из системы."],["PS4LoginErrorLatestSystemSoftwareExist","Не удалось войти: доступно обновление програмного обеспечения."],["PS4LoginErrorLatestSystemSoftwareExistForTitle","Не удалось войти: для этого приложения вышло новое необходимое обновление."],["PS4LoginErrorLatestPatchPackageExists","Не удалось войти: доступен новый пакет обновлений."],["PS4LoginErrorLatestPatchPackageDownloaded","Не удалось войти: доступен новый скачиваемый пакет обновлений."],["PS4LoginErrorPatchNotChecked","Не удалось войти: не получилось запустить проверку наличия новых обновлений. Пожалуйста, повторите попытку."],["HideoutExportFailed","Чтобы выгрузить шаблон убежища, вы должны находиться в убежище."],["HideoutImportSuccess","Шаблон убежища успешно загружен."],["HideoutImportFailed","Не удалось загрузить шаблон убежища."],["HideoutImportFailedMustBeInHideout","Чтобы загрузить шаблон убежища, вы должны находиться в своем убежище."],["HideoutImportFailedWrongHideout","Установите {0} в качестве своего убежища, чтобы загрузить этот шаблон."],["TencentTradeMarketNotExactPrice","Your offer does not match the exact price for this item."],["TencentTradeMarketTooManyCompletedOffers","You have too many completed trades in your Trade Market to make this offer."],["IncursionRecipeUnlockRejected","Ремесленный рецепт уже открыт"],["FailedToReclaimSomeHideoutDoodads","Не удалось отозвать один или более объектов убежища. Пожалуйста, создайте новую копию области убежища и повторите попытку."],["HideoutImportWarningGeneric","Предупреждение: невозможно загрузить одно или более украшений убежища ({0})."],["HideoutImportWarningUnowned","Предупреждение: невозможно загрузить одно или более украшений убежища ({0}),  потому что у вас нет запасных."],["HideoutImportWarningBlocked","Предупреждение: невозможно загрузить одно или более украшений убежища ({0}),  потому что указанная область заблокирована."],["HideoutReclaimAllSuccess","Все украшения убежища были отозваны."],["AreaTransitionPartyError","Чтобы попасть в эту область, вы должны быть в группе с её владельцем."],["AreaTransitionOwnerError","Для перехода в эту область с вами должен быть владелец области."],["BestiaryErrorNoData","Не удалось извлечь данные Бестиария."],["BestiaryErrorFailedToCaptureMonster","Не удалось сохранить пойманного монстра: {0}"],["PS4BadRedeemToken","Ошибка активации маркера"],["CurrencyTradingPrevented2","Вы не можете обмениваться валютой или уникальными вещами с другими игроками, пока не подтвердите ваш аккаунт."],["PublicListingLockedDueToVerified","Вы не можете выставлять предметы на продажу в открытый доступ, пока не подтвердите ваш аккаунт."],["OffersLockedDueToVerified","Вы не можете предлагать цену за предметы, пока не подтвердите ваш аккаунт."],["SynthesisPortalFullyDecayed","Эта область истощилась."],["SynthesisTooManyMemories","Вы разместили слишком много воспоминаний. Пожалуйста, удалите часть из них, прежде чем добавлять ещё."],["SynthesisOtherMemoryInstance","Вы не можете разместить воспоминания в Нексусе другого игрока или на Просторах памяти."],["ConsoleDisconnectedBecauseNoInternetConnection","Вы были отключены из-за отсутствия подключения к Интернету."],["PS4DisconnectedBecauseNoPSNAccess","Вы были отключены из-за отсутствия связи с \"PlayStation Network\"."],["XboxDisconnectedBecauseNoXboxLiveAccess","Вы были отключены из-за отсутствия связи с Xbox Live."],["PS4CannotLogInUGMRestriction","Невозможно подключиться из-за родительского контроля."],["SynthesisMaxGlobalModsReached","Вы достигли максимального количества свойств памяти на вашей карте Синтеза."],["BetrayalCannotAccessLab","В данный момент вы заняты в другой активности Синдиката. Завершите активность и примите оставшиеся решения, чтобы открыть этот проход."],["SynthesisCannotApplyGlobalMod","На выбранное воспоминание и расположенные рядом с ним воспоминания нельзя наложить больше свойств памяти."],["KakaoAPIError","Не получилось авторизоваться через центр авторизации Kakao."],["KakaoRequireLogin","Вы должны переподключиться к своему аккаунту Kakao."],["KakaoIdAlreadyInUse","Данный аккаунт Kakao уже синхронизирован с другим аккаунтом Path of Exile."],["NoAssociatedKakaoId","Ни один из аккаунтов Kakao не синхронизирован с данным аккаунтом Path of Exile."],["AccountAlreadyHasKakao","Данный аккаунт Path of Exile уже синхронизирован с другим аккаунтом Kakao."],["MapDeviceCannotUseFragmentWithMap","Не удалось активировать. {0} нельзя использовать с картой."],["MapDeviceFragmentNeedsRecipe","Не удалось активировать. {0} необходимо использовать с другими фрагментами карты из того же набора."],["MapDeviceFragmentNeedsRecipeOrMap","Не удалось активировать. {0} необходимо использовать с картой или другими фрагментами карты из того же набора."],["MapDeviceDuplicateFragments","Не удалось активировать. Нельзя использовать несколько фрагментов карты одного вида."],["EmailLoginDisabledKakao","Данный способ авторизации был отключен для этого аккаунта. Пожалуйста, авторизуйтесь через http://poe.game.daum.net"],["EmailLoginDisabled","Данный способ авторизации был отключен для этого аккаунта. "],["GatewayDisallowedForThisLoginType","Этот шлюз не доступен для данного вида авторизации."],["UnacceptableChatMessage","Неприемлемое содержимое сообщения."],["ChannelOnlyAllowsASCII","Неприемлемое содержимое сообщения. Пожалуйста, используйте только стандартные ASCII-символы в этом канале."],["ActionRejectedDueToPerPlayerFreeze","Вы недавно умерли и не можете предпринимать действия в течение {0}."],["PerPlayerDeathFreezeRemoved","Теперь вы можете выполнять действия."],["LeagueDisallowsManualMigration","В данный момент переход из этой лиги в другую невозможен."],["RecycleMicroItemNotFound","Микротранзакция не найдена."],["RecycleMicroCannotRemoveMicro","Микротранзакцию нельзя убрать."],["RecycleMicroNoValue","Микротранзакция не имеет ценности."],["RecycleMicroGeneric","Невозможно совершить действие в данный момент."],["TradeBanError","Вы не можете совершить это действие. Вашему аккаунту запрещены торговые операции. "],["InteractErrorCoreTransitionMap","Для доступа к Чёрному сердцу вы должны убить всех трёх защитников Пожирателя душ."],["CombineMTXTimeLimitedError","Невозможно объединить временные микротранзакции."],["SalvageMTXTimeLimitedError","Невозможно переработать временные микротранзакции."],["ItemIsInLeagueInventory","Вы не можете выполнить эту операцию с предметом в инвентаре лиги."],["MetamorphosisCannotOpenUIError","Образцы Метаморфа могут быть объединены только владельцем области."],["HarvestSeedCacheLockedError","Тайник с семенами может быть открыт только владельцем области."],["AccountAlreadyHasEpic","Этот аккаунт уже связан с соответствующим аккаунтом Epic."],["EpicAssociateEmailSent","Электронное письмо было отправлено вам для подтверждения. Пожалуйста, перейдите по ссылке из письма, чтобы продолжить."],["EpicIdAlreadyInUse","Этот аккаунт Epic уже связан с аккаунтом Path of Exile."],["NoAssociatedEpicId","Этот аккаунт не связан с аккаунтом Epic."],["DestroyHarvestInfrastructure","Вы не можете разрушить оборудование Жатвы."],["CharacterActionDeniedHarvestItems","Вы должны удалить всё оборудование Жатвы из рюкзака вашего персонажа перед совершением этого действия."],["HarvestOshabiFightOnlyInMaps","Событие может начаться только на карте"],["ConsoleGuildTagProfanityError","Тэг гильдии, который вы пытаетесь использовать, содержит запрещённую фразу. Используйте другой тэг."],["ConsoleGuildNameProfanityError","Название гильдии, которое вы пытаетесь использовать, содержит запрещённую фразу. Используйте другое название."],["ConsoleGuildStashTabProfanityError","Название секции сундука, которое вы пытаетесь использовать, содержит запрещённую фразу. Используйте другое название."],["TradeErrorItemStolenFromHeist","Предмет не может быть передан."],["HeistAlarmError","Ошибка: невозможно присоединиться к области Кражи под изоляцией"],["HeistHubAccessError","Для доступа в Разбойничью гавань вы должны использовать Разбойничий жетон."],["NotHeistOwner","Ошибка: вы не являетесь владельцем этого ограбления"],["StashAffinityFailedNoRoom","В вашей секции сундука с привязкой \"{0}\" недостаточно места для этого предмета."]]}
+{
+  "filename": "BackendErrors.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Text",
+      "rowid": 1,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "AccountNameAlreadyExists",
+      "Аккаунт с таким именем уже существует"
+    ],
+    [
+      "AccountNameInvalid",
+      "Имя аккаунта должно содержать по меньшей мере 3 символа, включая a-z, 0-9 и _"
+    ],
+    [
+      "EmailInvalid",
+      "Данный адрес электронной почты не существует."
+    ],
+    [
+      "EmailAlreadyExists",
+      "Аккаунт с таким адресом электронной почты уже существует."
+    ],
+    [
+      "AccountDoesNotExist",
+      "Данный аккаунт не существует."
+    ],
+    [
+      "InvalidPassword",
+      "Вы указали неверный пароль."
+    ],
+    [
+      "AlreadyLoggedOn",
+      "Операция не может быть выполнена, поскольку аккаунт уже авторизован в игре из другого места."
+    ],
+    [
+      "InvalidProtocolVersion",
+      "Выпущен новый патч игры, необходимо обновление. Пожалуйста, перезапустите Path of Exile."
+    ],
+    [
+      "NotAllowedGameLogin",
+      "В настоящее время доступ в игру для данного аккаунта закрыт."
+    ],
+    [
+      "OtherAccountLoggedOn",
+      "На данный аккаунт вошёл другой человек."
+    ],
+    [
+      "AccountNotLoggedIn",
+      "Для данной операции необходимо авторизоваться."
+    ],
+    [
+      "Timeout",
+      "Время истекло."
+    ],
+    [
+      "Disconnected",
+      "Отключен от сервера."
+    ],
+    [
+      "TerrainGenerationOutOfSync",
+      "Генератор местности для клиента не синхронизирован с сервером. Пожалуйста, создайте новую локацию и повторите попытку."
+    ],
+    [
+      "UnexpectedDisconnect",
+      "Произошло неожиданное отключение от сервера."
+    ],
+    [
+      "CharacterDoesNotExist",
+      "Указанный персонаж не существует"
+    ],
+    [
+      "NotCharacterOwner",
+      "Совершена попытка восстановления персонажа, не относящегося к данной учетной записи."
+    ],
+    [
+      "LinkedItemDoesNotExist",
+      "Указанный предмет не существует"
+    ],
+    [
+      "DatabaseError",
+      "Ошибка баз данных. Попробуйте позже."
+    ],
+    [
+      "TransferredToInstance",
+      "Персонаж был перемещён в другую местность."
+    ],
+    [
+      "CharacterNameAlreadyExists",
+      "Персонаж с таким именем уже существует."
+    ],
+    [
+      "CharacterNameInvalid",
+      "Имя персонажа содержит запрещенные символы. Разрешается использовать только буквы и нижние подчеркивания."
+    ],
+    [
+      "CharacterNameTooShort",
+      "Имя персонажа слишком коротко."
+    ],
+    [
+      "CharacterNameTooLong",
+      "Имя персонажа чересчур длинное."
+    ],
+    [
+      "CharacterInvalidClass",
+      "Неверный класс персонажа."
+    ],
+    [
+      "LeagueDoesNotExist",
+      "Такой лиги не существует."
+    ],
+    [
+      "InvalidCharacterFlags",
+      "Неверный флаг персонажа."
+    ],
+    [
+      "LeagueNameAlreadyExists",
+      "Лига с таким названием уже существует."
+    ],
+    [
+      "LeagueNameInvalid",
+      "Недопустимое название лиги."
+    ],
+    [
+      "LeagueDescriptionInvalid",
+      "Недопустимое описание лиги."
+    ],
+    [
+      "AlreadyInParty",
+      "Действие невозможно выполнить, поскольку вы находитесь в группе."
+    ],
+    [
+      "NotItemOwner",
+      "Ваш персонаж не является владельцем этого предмета."
+    ],
+    [
+      "NotAPartyMember",
+      "Цель данной операции не была членом группы"
+    ],
+    [
+      "PartyPromotionRequired",
+      "Вы не можете осуществить это действие, потому что у вас нет соответствующих прав группы."
+    ],
+    [
+      "PartyDoesNotExist",
+      "Группа не существует."
+    ],
+    [
+      "ServiceDoesNotExist",
+      "Сервис не существует."
+    ],
+    [
+      "CommandInvalid",
+      "Сервис не ответил на команду, либо была допущена ошибка синтаксиса."
+    ],
+    [
+      "DestinationUnreachable",
+      "Не удалось создать контакт."
+    ],
+    [
+      "NotInPartyWith",
+      "Вы должны быть в группе с этим игроком"
+    ],
+    [
+      "NotInParty",
+      "Вы не находитесь в данной группе."
+    ],
+    [
+      "InstanceFull",
+      "Подземелье заполнено."
+    ],
+    [
+      "InvalidInstanceTransfer",
+      "Перемещение в область невозможно данным способом."
+    ],
+    [
+      "PortalDoesNotExist",
+      "Портал с другой стороны был закрыт."
+    ],
+    [
+      "OutOfYourLeague",
+      "Персонаж не из вашей лиги (и вы это знаете)"
+    ],
+    [
+      "DownForMaintenance",
+      "Сервер в настоящее время закрыт на техническое обслуживание. Попробуйте еще раз позже."
+    ],
+    [
+      "InstanceAuthenticationInvalid",
+      "Авторизация на перемещение в область не удалась"
+    ],
+    [
+      "PartyFull",
+      "Ваша группа заполнена."
+    ],
+    [
+      "TooManyCharacters",
+      "Достигнут предел максимального количества персонажей."
+    ],
+    [
+      "InvalidActivationKey",
+      "Неверный ключ активации."
+    ],
+    [
+      "EmailValidationRequired",
+      "Аккаунт с такой электронной почтой уже был создан. Чтобы авторизоваться, вам необходимо активировать аккаунт с помощью данных из письма."
+    ],
+    [
+      "MissingRequiredField",
+      "Пожалуйста, заполните все требуемые поля."
+    ],
+    [
+      "InvalidArgument",
+      "Аргумент неверен"
+    ],
+    [
+      "GameComplete",
+      "Игра завершена"
+    ],
+    [
+      "LeagueHasEnded",
+      "Лига завершена. Вы больше не можете создавать персонажей."
+    ],
+    [
+      "LeagueClosedForEntry",
+      "Возможность входа в эту лигу была закрыта."
+    ],
+    [
+      "AlreadyOnIgnoreList",
+      "Этот аккаунт уже в вашем списке игнорирования."
+    ],
+    [
+      "NotOnIgnoreList",
+      "Аккаунт не находится в вашем списке игнорирования."
+    ],
+    [
+      "IgnoreListFull",
+      "Ваш список игнорирования заполнен."
+    ],
+    [
+      "AddToIgnoreListFailed",
+      "Не удалось добавить {0} в список игнорирования: {1}"
+    ],
+    [
+      "AddedToIgnoreList",
+      "{0} был добавлен в ваш список игнорирования."
+    ],
+    [
+      "RemoveFromIgnoreListFailed",
+      "Невозможно удалить {0} из списка игнорирования: {1}"
+    ],
+    [
+      "RemovedFromIgnoreList",
+      "{0} был удалён из списка игнорирования."
+    ],
+    [
+      "FailedToClearIgnoreList",
+      "Не удалось очистить список игнорирования: {0}"
+    ],
+    [
+      "IgnoreListCleared",
+      "Ваш список игнорирования был очищен."
+    ],
+    [
+      "FailedToAddNamedFriend",
+      "Не удалось добавить {0} в список друзей: {1}"
+    ],
+    [
+      "FailedToAddUnnamedFriend",
+      "Не удалось добавить аккаунт в список друзей: {0}"
+    ],
+    [
+      "FailedToAcceptFriend",
+      "Не удалось принять заявку в друзья: {0}"
+    ],
+    [
+      "FailedToRemoveFriend",
+      "Не удалось удалить друга: {0}"
+    ],
+    [
+      "TriedToFriendSelf",
+      "Вы не можете добавить самого себя в друзья."
+    ],
+    [
+      "AccountBanned",
+      "Ваш аккаунт был заблокирован администратором."
+    ],
+    [
+      "AccountChildLocked",
+      "Ваш аккаунт был заблокирован родителями."
+    ],
+    [
+      "LoginRateLimited",
+      "Вы пытались авторизоваться слишком часто за короткий промежуток времени. Пожалуйста, попробуйте позже."
+    ],
+    [
+      "AccountLocked",
+      "Ваш аккаунт заблокирован. Пожалуйста, свяжитесь со службой поддержки."
+    ],
+    [
+      "NotAccountOwner",
+      "Операция не может быть выполнена."
+    ],
+    [
+      "TemporaryLockout",
+      "Ваш аккаунт был временно закрыт, поскольку администрация работает с ним."
+    ],
+    [
+      "Kicked",
+      "Вы были отключены от сервера администратором."
+    ],
+    [
+      "StashTabDoesNotExist",
+      "Указанной секции не существует."
+    ],
+    [
+      "LeaguePasswordInvalid",
+      "Указан неверный пароль для этой лиги."
+    ],
+    [
+      "InstanceRateLimited",
+      "Вы были отключены, поскольку совершали слишком много действий и очень быстро."
+    ],
+    [
+      "FriendsListFull",
+      "Достигнут предел количества друзей."
+    ],
+    [
+      "NotOnFriendsList",
+      "Данный аккаунт не находится в вашем списке друзей."
+    ],
+    [
+      "AlreadyOnFriendsList",
+      "Аккаунт уже в вашем списке друзей."
+    ],
+    [
+      "LeagueUnavailableToNonBeta",
+      "Эта лига доступна только для Бета-игроков."
+    ],
+    [
+      "InstanceDoesNotExist",
+      "Область не существует."
+    ],
+    [
+      "Muted",
+      "Вы не можете совершать это действие пока заглушены."
+    ],
+    [
+      "Ignored",
+      "Вы игнорируетесь выбранным игроком."
+    ],
+    [
+      "PvPMatchDoesNotExist",
+      "Данный тип PvP матча не существует."
+    ],
+    [
+      "ItemDoesNotExist",
+      "Указанный предмет не существует."
+    ],
+    [
+      "NeedNormalStashTab",
+      "Вам необходим хотя бы 1 обычный тайник для улучшения."
+    ],
+    [
+      "NotEnoughCredit",
+      "У вас недостаточно денег для покупки этого предмета."
+    ],
+    [
+      "PackagePurchaseIncomplete",
+      "Ваша покупка не была успешно завершена. Пожалуйста, обратитесь в службу поддержки."
+    ],
+    [
+      "MultiplePurchasesNotAllowed",
+      "Вы можете осуществить эту микротранзакцию лишь однажды."
+    ],
+    [
+      "CantDeleteWithMicrotransactions",
+      "Пожалуйста, сначала удалите все косметические эффекты с предметов на этом персонаже. Вы можете сделать это в сундуке микротранзакций."
+    ],
+    [
+      "NotEnoughRoomForItem",
+      "Недостаточно ячеек для предмета."
+    ],
+    [
+      "SavedCredentialsNewLocation",
+      "Вы вошли в игру из нового места. Пожалуйста, введите ваш пароль повторно."
+    ],
+    [
+      "SavedCredentialsBad",
+      "Ваши сохраненные учетные данные устарели. Пожалуйста, введите ваш пароль повторно."
+    ],
+    [
+      "LoginRequiresUnlockCode",
+      "Ваш аккаунт заблокирован, пока вы не предоставите код активации, отправленный вам на почту регистрации."
+    ],
+    [
+      "UnlockCodeIncorrect",
+      "Предоставленный код активации неверен."
+    ],
+    [
+      "UnlockEmailTooSoon",
+      "Прошло слишком мало времени с момента последнего письма активации."
+    ],
+    [
+      "DailyDealDoesNotExist",
+      "Сделка не существует."
+    ],
+    [
+      "MicrotransactionDoesNotExist",
+      "Микротранзакция не существует."
+    ],
+    [
+      "AccountNameDisallowed",
+      "Данное имя аккаунта запрещено."
+    ],
+    [
+      "BannedLoginIp",
+      "Ваш IP был заблокирован. Пожалуйста, свяжитесь со службой поддержки, если считаете это ошибкой."
+    ],
+    [
+      "GeneralFailure",
+      "Неизвестная ошибка."
+    ],
+    [
+      "CurrencyTradingPrevented",
+      "Вы не можете торговать валютой или уникальными предметами с другими игроками до того, как достигнете 25 уровня на хотя бы одном персонаже аккаунта."
+    ],
+    [
+      "AccountAlreadyHasSteam",
+      "Этот аккаунт уже связан с соответствующим Steam аккаунтом."
+    ],
+    [
+      "SteamAssociateEmailSent",
+      "Электронное письмо было отправлено вам для подтверждения. Пожалуйста, перейдите по ссылке из письма, чтобы продолжить."
+    ],
+    [
+      "SteamIdAlreadyInUse",
+      "Этот Steam аккаунт уже связан с аккаунтом Path Of Exile."
+    ],
+    [
+      "NoAssociatedSteamId",
+      "Этот аккаунт не связан с аккаунтом Steam."
+    ],
+    [
+      "MapDeviceBusy",
+      "Активация не удалась. Устройство занято."
+    ],
+    [
+      "MapDeviceTooManyItems",
+      "Активация не удалась."
+    ],
+    [
+      "MapDeviceTooManyItemsSound",
+      "Активация не удалась. Слишком много звуков предметов."
+    ],
+    [
+      "MapDeviceNotMap",
+      "Активация не удалась. Карта не найдена."
+    ],
+    [
+      "MapDeviceCreateInstanceFailed",
+      "Активация не удалась. Невозможно открыть порталы в заданную область."
+    ],
+    [
+      "MapDeviceCancelled",
+      "Активация отменена."
+    ],
+    [
+      "MapDeviceEmpty",
+      "Активация не удалась. Устройство требует наличие карты."
+    ],
+    [
+      "PlayerDisconnected",
+      "{0} покинул область."
+    ],
+    [
+      "PlayerJoined",
+      "{0} присоединился."
+    ],
+    [
+      "EnteredArea",
+      "Вы вошли в область {0}."
+    ],
+    [
+      "LeagueNotYetStarted",
+      "Лига еще не стартовала, поэтому вы не можете двигаться. Как только лига будет запущена, вы сможете начать играть."
+    ],
+    [
+      "LeagueAlreadyEnded",
+      "Лига уже завершена."
+    ],
+    [
+      "LadderRankAlive",
+      "{1}. {0} Уровень {2} {3} Опыт: {4}"
+    ],
+    [
+      "LadderRankDead",
+      "{1}. {0} (Мертв) Уровень {2} {3} Опыт: {4}"
+    ],
+    [
+      "LadderRankTimed",
+      "{1}. {0} Уровень {2} {3} Время: {4}"
+    ],
+    [
+      "LevelUp",
+      "{0} ({1}) достигает {2} уровня"
+    ],
+    [
+      "AlreadyInPVPQueue",
+      "Сначала вам необходимо покинуть PvP очередь."
+    ],
+    [
+      "MissingRequiredQuestState",
+      "Вы не находитесь на требуемом этапе задания"
+    ],
+    [
+      "FailedToJoinAnyInstances",
+      "Ошибка: Не удалось войти в область."
+    ],
+    [
+      "FailedToJoinInstance",
+      "Ошибка: Не удалось войти в область: {0}"
+    ],
+    [
+      "FailedToConnectToInstance",
+      "Не удалось подключиться к области."
+    ],
+    [
+      "FailedToApplyCurrency",
+      "Не удалось применить предмет: {0}"
+    ],
+    [
+      "TooManyGlobalItemLinks",
+      "Вы не можете продать более {0}-х предметов в Общем чате"
+    ],
+    [
+      "MutedUntilSeconds",
+      "Ваш аккаунт был заглушен Администратором. Вы сможете писать в чат через {0}."
+    ],
+    [
+      "ObaPlayerJoined",
+      "Ты должно быть очень храбрый или глупый, чтобы подумать, что можешь забрать мои сокровища и выжить. В любом случае, я приветствую тебя!"
+    ],
+    [
+      "ObaDoorUnlocked",
+      "Пройди вперёд, изгнанник, и попробуй взять, что можешь, и пока можешь."
+    ],
+    [
+      "ObaBeginDeathCount",
+      "Осквернение разрастается. Поторопись, прежде чем оно поглотит тебя так, как меня."
+    ],
+    [
+      "ObaFinalCountdown",
+      "{0}"
+    ],
+    [
+      "ObaKillPlayer",
+      "Ба-х! Ты не достоин нести моё наследие. Скверна поглотит твой труп."
+    ],
+    [
+      "Oba75PercentOxygen",
+      "Кошмар почуял тебя. Теперь он жаждет твоей плоти."
+    ],
+    [
+      "Oba50PercentOxygen",
+      "Твоя чаша наполовину пуста или наполовину полна, изгнанник?"
+    ],
+    [
+      "Oba25PercentOxygen",
+      "Разочарование. Кажется, скверна получит лучших из вас рано или поздно."
+    ],
+    [
+      "CowardsTrialNextWave",
+      "Темнота вырисовывается зловеще..."
+    ],
+    [
+      "CowardsTrialRoomClear",
+      "В комнате стало тихо и спокойно..."
+    ],
+    [
+      "CowardsTrialLevelClear",
+      "Гнетущая атмосфера медленно рассеивается..."
+    ],
+    [
+      "VaalKillOversoul",
+      "Вам нужно убить Вседушу ваал"
+    ],
+    [
+      "VaalDeliverAmulets",
+      "Вы должны отдать бандитские амулеты Эрамиру и получить Верхушку"
+    ],
+    [
+      "VaalAcquireAmulets",
+      "Вы должны забрать амулеты у главарей разбойников."
+    ],
+    [
+      "VaalGetApexDex",
+      "Вам нужно взять Верхушку у Крайтина"
+    ],
+    [
+      "VaalGetApexStr",
+      "Вам нужно взять Верхушку у Дуба"
+    ],
+    [
+      "VaalGetApexInt",
+      "Вам нужно взять Верхушку у Алиры"
+    ],
+    [
+      "VaalGetApexTown",
+      "Вам нужно взять Верхушку у Эрамира"
+    ],
+    [
+      "MonsterRemaining1",
+      "Остался 1 монстр"
+    ],
+    [
+      "MonstersRemainingN",
+      "Осталось монстров: {0}."
+    ],
+    [
+      "MonstersRemainingMoreThan50",
+      "Осталось более 50 монстров."
+    ],
+    [
+      "PlayerDeathCount1",
+      "Вы погибли 1 раз."
+    ],
+    [
+      "PlayerDeathCountN",
+      "Вы погибли {0} раз."
+    ],
+    [
+      "PlayerKillCount",
+      "Вы уничтожили {0} монстров."
+    ],
+    [
+      "PvPStats1v1",
+      "1v1 W/L/D: {0}/{1}/{2}"
+    ],
+    [
+      "PvPStats3v3",
+      "3v3 W/L/D: {0}/{1}/{2}"
+    ],
+    [
+      "PvPPlayerJoinedTeam",
+      "{0} присоединился к {1} команде."
+    ],
+    [
+      "PvPNotEnoughPlayers",
+      "Не удалось начать матч. Присоединилось недостаточно игроков."
+    ],
+    [
+      "PvPPlayerKilled",
+      "{0} был убит {1}."
+    ],
+    [
+      "PvPPartyTooLarge",
+      "Невозможно присоединиться к PvP: слишком много игроков группы для этого типа PvP."
+    ],
+    [
+      "PvPPlayerAlreadyInQueue",
+      "Невозможно присоединиться к PvP: вы уже находитесь в очереди PvP"
+    ],
+    [
+      "PvPPartyMemberAlreadyInQueue",
+      "Невозможно присоединиться к PvP: член группы уже находится в очереди PvP"
+    ],
+    [
+      "PvPPlayerTooFarQuest",
+      "Невозможно присоединиться к PvP: вы перешли за предел сложности для данного типа PvP"
+    ],
+    [
+      "PvPPartyMemberTooFarQuest",
+      "Невозможно присоединиться к PvP: член группы перешел за пределы сложности для данного типа PvP"
+    ],
+    [
+      "PvPPlayerTooHighLevel",
+      "Невозможно присоединиться к PvP: ваш уровень выше требуемого для данного типа PvP"
+    ],
+    [
+      "PvPPartyMemberTooHighLevel",
+      "Невозможно присоединиться к PvP: уровень члена группы выше требуемого для данного типа PvP"
+    ],
+    [
+      "PvPPlayerHasAscendancy",
+      "Невозможно присоединиться к PvP: вы выбрали класс Восхождения, что недопустимо для данного типа PvP"
+    ],
+    [
+      "PvPPartyMemberHasAscendancy",
+      "Невозможно присоединиться к PvP: член группы выбрал класс Восхождения, что недопустимо для данного типа PvP"
+    ],
+    [
+      "PvPJoinFail",
+      "Не удалось присоединиться к PvP очереди: {0}"
+    ],
+    [
+      "PvPQueueCancelled",
+      "PvP Очередь отменена."
+    ],
+    [
+      "PvPQueueCancelledBy",
+      "PvP Очередь отменена игроком {0}."
+    ],
+    [
+      "PvPMatchListUnreachable",
+      "Не удалось получить список PvP матча:"
+    ],
+    [
+      "PvPDisabled",
+      "PvP отключена для этой лиги."
+    ],
+    [
+      "PlayerSuicide",
+      "{0} покончил с собой"
+    ],
+    [
+      "PlayerSlain",
+      "{0} был повержен."
+    ],
+    [
+      "NoCharacterSpecified",
+      "Пожалуйста, укажите имя персонажа."
+    ],
+    [
+      "WhoIsOffline",
+      "{0} имеет уровень {2} {3} в лиге {1}, в настоящее время игрок не в сети."
+    ],
+    [
+      "WhoIsOnline",
+      "{0} имеет уровень {2} {3} в лиге {1} и сейчас играет в {4}."
+    ],
+    [
+      "ItemOnCursorLevel",
+      "Предмет под курсором имеет уровень {0}."
+    ],
+    [
+      "NoItemOnCursor",
+      "Нет предмета под курсором."
+    ],
+    [
+      "ItemOnCursorHasNoLevel",
+      "Предмет под курсором не имеет уровня (должен иметь возможность модификации)."
+    ],
+    [
+      "FixMyHelmetSuccess",
+      "Шлем обновлен"
+    ],
+    [
+      "OperationFailed",
+      "Действие не удалось"
+    ],
+    [
+      "FixMyHelmetAlreadyFixed",
+      "Этот шлем уже имеет корректный вид"
+    ],
+    [
+      "FixMyHelmetUnique",
+      "Шлем под курсором является Уникальным"
+    ],
+    [
+      "FixMyHelmetNotHelmet",
+      "Предмет под курсором - не шлем"
+    ],
+    [
+      "ItemHasMicrotransaction",
+      "Вы не можете делать это с предметом, на который наложен дополнительный эффект. Пожалуйста, удалите имеющийся дополнительный эффект и попробуйте снова."
+    ],
+    [
+      "BugReportNumber",
+      "Номер вашего баг репорта {0}."
+    ],
+    [
+      "PlayedTime",
+      "Время игры на этом персонаже: {0}."
+    ],
+    [
+      "CharacterAge",
+      "Ваш персонаж был создан {0} назад."
+    ],
+    [
+      "CharacterAgeUnknown",
+      "Дата создания персонажа не записана."
+    ],
+    [
+      "HelpCtrlClick",
+      "Ctrl+Клик по области или порталу, чтобы создать новую область"
+    ],
+    [
+      "ReceivedRespecPoint1",
+      "Вы получили очко сброса пассивных умений."
+    ],
+    [
+      "ReceivedRespecPointN",
+      "Вы получили очков сброса пассивных умений: {0}."
+    ],
+    [
+      "ReceivedPassivePoint1",
+      "Вы получили очко пассивных умений."
+    ],
+    [
+      "ReceivedPassivePointN",
+      "Вы получили очков пассивных умений: {0}."
+    ],
+    [
+      "ReceivedStatBonus",
+      "Вы получили {0}."
+    ],
+    [
+      "LeagueTradeDisabled",
+      "Вы не можете торговать в этой лиге."
+    ],
+    [
+      "TradeItemOnCursor",
+      "Вы не можете торговать предметом под курсором."
+    ],
+    [
+      "TradePlayerBusy",
+      "В настоящее время этот игрок занят."
+    ],
+    [
+      "TradeAccepted",
+      "Сделка совершена."
+    ],
+    [
+      "TradeCancelled",
+      "Сделка отклонена."
+    ],
+    [
+      "YouWereIgnored",
+      "Данный игрок игнорирует вас."
+    ],
+    [
+      "AchievementServerUnreachable",
+      "Ошибка: Не удалось присоединиться к серверу достижений"
+    ],
+    [
+      "DestroyCursorItem",
+      "Указанный предмет уничтожен"
+    ],
+    [
+      "DestroyItemInTrade",
+      "Вы не можете уничтожать предметы во время Торговли"
+    ],
+    [
+      "DestroyQuestItem",
+      "Вы не можете разрушать квестовые предметы."
+    ],
+    [
+      "DestroyMicrotransactions",
+      "Вы не можете разрушать предметы, которые имеют эффект от микротранзакции."
+    ],
+    [
+      "DestroyBanditRespec",
+      "Этот предмет нельзя уничтожить, но вы можете продать его неигровому персонажу, получив компенсацию."
+    ],
+    [
+      "CannotCreatePublicPartyYet",
+      "Вы должны достигнуть первого города, прежде чем вы сможете создавать публичные группы."
+    ],
+    [
+      "PublicPartyListUnreachable",
+      "Не удалось получить публичный список группы: {0}"
+    ],
+    [
+      "FullPassiveSkillRefund",
+      "Ваши пассивные умения были возвращены."
+    ],
+    [
+      "TeleportFailed",
+      "Перемещение отменено: не удалось разместить героя в пункте назначения"
+    ],
+    [
+      "TutorialShowItems",
+      "Удерживайте Alt для отображения предметов на земле."
+    ],
+    [
+      "FinishedDescent",
+      "Поздравляем, вы завершили Спуск!"
+    ],
+    [
+      "JoinedGlobalChannel",
+      "Вы присоединились к Общему каналу чата {1}."
+    ],
+    [
+      "JoinedTradeChannel",
+      "Вы присоединились к чату Торговли {1}."
+    ],
+    [
+      "ShopPackageDoesNotExist",
+      "Пакет не существует."
+    ],
+    [
+      "ShopPackagePurchaseFailed",
+      "Не удалось приобрести пакет."
+    ],
+    [
+      "ShopPackageTransactionDoesNotExist",
+      "Транзакция магазина не существует."
+    ],
+    [
+      "DownForMaintenanceTemp",
+      "Сервер был отключен на техническое обслуживание. Пожалуйста, авторизуйтесь снова."
+    ],
+    [
+      "ThirdPartyIdAlreadyExists",
+      "Данный аккаунт уже связан с аккаунтом Path of Exile."
+    ],
+    [
+      "GuildNameTooLong",
+      "Название гильдии слишком длинное"
+    ],
+    [
+      "GuildTagTooLong",
+      "Тэг гильдии слишком длинный"
+    ],
+    [
+      "AccountAlreadyInGuild",
+      "Аккаунт уже состоит в гильдии"
+    ],
+    [
+      "GuildDoesNotExist",
+      "Указанная гильдия не найдена"
+    ],
+    [
+      "GuildMustBeOfficer",
+      "Вы должны быть лидером или офицером гильдии, чтобы осуществлять данные действия"
+    ],
+    [
+      "NotInGuild",
+      "Аккаунт не является членом этой гильдии."
+    ],
+    [
+      "GuildFull",
+      "Гильдия заполнена и больше вы не можете приглашать в неё игроков."
+    ],
+    [
+      "GuildMustBeLeader",
+      "Вы должны быть главой гильдии, чтобы осуществить это действие."
+    ],
+    [
+      "DisallowedOnSelf",
+      "Вы не можете сделать это с собой."
+    ],
+    [
+      "TooManyGuildInvites",
+      "Этот персонаж уже был приглашен в слишком большое число гильдий."
+    ],
+    [
+      "GuildStatusMessageTooLong",
+      "Статус-сообщение гильдии слишком велико."
+    ],
+    [
+      "NotEnoughPointsForTransaction",
+      "У вас нет достаточно очков для завершения транзакции."
+    ],
+    [
+      "GuildMustBeMember",
+      "Вы должны быть членом гильдии, чтобы выполнить это действие."
+    ],
+    [
+      "RemoteStashAlreadyLocked",
+      "Удалённый тайник закрыт. Попробуйте позже."
+    ],
+    [
+      "RemoteStashOperationRequiresLock",
+      "Удалённому тайнику нужен замок."
+    ],
+    [
+      "BadGuildStashPermissions",
+      "У вас недостаточно прав для этого действия с гильдейским хранилищем."
+    ],
+    [
+      "MaximumGuildSlots",
+      "Вам не разрешено иметь больше гильдейских мест."
+    ],
+    [
+      "GuildTagTooShort",
+      "Тэг гильдии должен иметь минимум 3 символа."
+    ],
+    [
+      "GuildKickDisabledForAccount",
+      "Вы не можете исключить этот аккаунт из гильдии, поскольку"
+    ],
+    [
+      "FriendNoteTooLong",
+      "Заметка друга слишком велика."
+    ],
+    [
+      "TooHighLevelForCap",
+      "Максимальный уровень в этой области {0}."
+    ],
+    [
+      "PlayerWins",
+      "Команда {0} победила!"
+    ],
+    [
+      "TooLowLevelToSendWhisper",
+      "Вы не можете отправлять личные сообщения, пока не достигнете уровня {0}"
+    ],
+    [
+      "TooLowLevelToSendChat",
+      "Вы не можете общаться в чате \"{0}\", пока не достигнете {1} уровня"
+    ],
+    [
+      "ReachedRegularChatLimit",
+      "Пожалуйста, не отправляйте сообщения чата слишком часто"
+    ],
+    [
+      "ReachedTradeChatLimit",
+      "Пожалуйста, не отправляйте сообщения в чат Торговли слишком часто"
+    ],
+    [
+      "PortalEffectChanged",
+      "Ваш персонаж теперь будет использовать {0}."
+    ],
+    [
+      "PortraitFrameChanged",
+      "Ваш персонаж теперь будет использовать {0}. Вам необходимо выйти из игры и авторизоваться вновь, чтобы изменения вступили в силу."
+    ],
+    [
+      "CharacterPortraitChanged",
+      "Ваш персонаж теперь будет использовать {0}. Вам необходимо выйти из игры и авторизоваться вновь, чтобы изменения вступили в силу."
+    ],
+    [
+      "NoHideout",
+      "У этого игрока нет убежища в данной лиге."
+    ],
+    [
+      "FailedToUseItem",
+      "Не удалось использовать предмет: {0}"
+    ],
+    [
+      "ObaCompleted",
+      "Ха-ха! Вы действительно могучий авантюрист. Используйте то, что я дал вам и распространите моё наследие по всему Рэкласту."
+    ],
+    [
+      "ArenaScoreTitle",
+      "Текущие рейтинги: (Убийств / Смертей)"
+    ],
+    [
+      "ArenaScore",
+      "{1}: {0} ({2}/{3})"
+    ],
+    [
+      "LostPassivePoint1",
+      "Вы потеряли Очко пассивных умений"
+    ],
+    [
+      "LostPassivePointN",
+      "Вы потеряли Очков пассивных умений: {0}."
+    ],
+    [
+      "LostStatBonus",
+      "Вы потеряли {0}."
+    ],
+    [
+      "FFALadderUpdate",
+      "Вы теперь #{0} на арене."
+    ],
+    [
+      "CraftingFailed",
+      "Не удалось создать {0}"
+    ],
+    [
+      "SpectatorJoined",
+      "{0} теперь наблюдает."
+    ],
+    [
+      "LeagueStartingSoonGlobal",
+      "Следующая гонка стартует через {1}. Чтобы присоединиться к ней, войдите на экран выбора персонажа и нажмите \"Вступить\" по Лиге \"{0}\". Информация о событии доступна на форуме События/Лиги."
+    ],
+    [
+      "LeagueStartingSoonLocal",
+      "Лига начинается через {0}."
+    ],
+    [
+      "LeagueStartingNow",
+      "Лига стартовала!"
+    ],
+    [
+      "LeagueEndingMinutes",
+      "Лига заканчивается через {0}."
+    ],
+    [
+      "LeagueFinished",
+      "Лига завершена!"
+    ],
+    [
+      "LeagueFirstToReachLevel",
+      "{0} — первый персонаж, достигший {1} уровня!"
+    ],
+    [
+      "LeagueFirstToEnterArea",
+      "{0} — первый персонаж, вошедший в область {1}!"
+    ],
+    [
+      "LeagueFirstToEnterDelveLevelSolo",
+      "{0} — первый персонаж, в одиночку достигший {1} глубины!"
+    ],
+    [
+      "LeagueFirstToEnterDelveLevelParty",
+      "{0} — первый персонаж, достигший {1} глубины!"
+    ],
+    [
+      "LeagueFirstToFullyClear",
+      "{0} — первый персонаж, зачистивший область {1}!"
+    ],
+    [
+      "LeagueFirstToDoQuest",
+      "{0} — первый персонаж, завершивший задание {1}!"
+    ],
+    [
+      "RealmRestartingSoon",
+      "Игровой мир будет перезагружен через {0}."
+    ],
+    [
+      "RealmShuttingDownSown",
+      "Игровой мир будет отключен через {0}."
+    ],
+    [
+      "RealmRestarting",
+      "Начало перезагрузки игрового мира..."
+    ],
+    [
+      "RealmShuttingDown",
+      "Начало отключения игрового мира..."
+    ],
+    [
+      "RealmRestartDeployPatchNotification",
+      "Мы начинаем перезагрузку игровых миров для установки обновления {0}. Список изменений обновления доступен на нашем форуме. {1}"
+    ],
+    [
+      "RealmMaintenanceNotification",
+      "Игровые миры будут закрыты на техническое обслуживание. {0}"
+    ],
+    [
+      "CharacterOffline",
+      "Персонаж не в сети."
+    ],
+    [
+      "CharacterNameOffline",
+      "{0} не в сети."
+    ],
+    [
+      "CharacterDifferentLeague",
+      "Персонаж находится в другой лиге."
+    ],
+    [
+      "NotMutualFriends",
+      "Этот аккаунт не принял вашу заявку в друзья."
+    ],
+    [
+      "CharacterNotInPvP",
+      "Этот персонаж в настоящее время не занимается PvP."
+    ],
+    [
+      "SpectateFollow",
+      "Вы готовы к наблюдению за игроком."
+    ],
+    [
+      "HideoutDoodadLimitReached",
+      "Нельзя разместить другой объект убежища. Вы можете единовременно иметь 750 объект(-ов) в убежище."
+    ],
+    [
+      "HardcoreDeathAnnouncement",
+      "{0} (уровень {1}) погиб на позиции {2} в ладдере."
+    ],
+    [
+      "InteractErrorIncaBossSpawner",
+      "Похоже, требуется треугольный ключ."
+    ],
+    [
+      "InteractErrorMalachaiPortal",
+      "Вам необходимо убить Владыку, возможно вы не присутствовали в области в момент его смерти."
+    ],
+    [
+      "InteractErrorMervielExit",
+      "Вам необходимо убить Мервейл, возможно вы не присутствовали в области в момент её смерти."
+    ],
+    [
+      "InteractErrorHillockGate",
+      "Вам необходимо убить Хиллока"
+    ],
+    [
+      "InteractErrorTowerTransition",
+      "Вам необходимо убить Владыку, возможно вы не присутствовали в области в момент его смерти."
+    ],
+    [
+      "InteractErrorMineEntranceSeal",
+      "Вход в Шахты закрыт печатью Дешрет"
+    ],
+    [
+      "InteractErrorLockedDoor",
+      "Дверь заперта"
+    ],
+    [
+      "InteractErrorTowerKey",
+      "Ключ Башни не был использован на дверной замок."
+    ],
+    [
+      "InteractErrorPoisonTree",
+      "Заросли деревьев закрывают вам путь.\r\nВозможно, они могут быть открыты\r\nчуть позже."
+    ],
+    [
+      "InsteractErrorUndyingBlockage",
+      "Путь блокирован."
+    ],
+    [
+      "InteractErrorLocked",
+      "Заблокировано."
+    ],
+    [
+      "InteractErrorBlockageTransition",
+      "Путь блокирован."
+    ],
+    [
+      "InteractErrorSpikeBlockage",
+      "Похоже, тут нужен ключ."
+    ],
+    [
+      "InteractErrorGlyphWall",
+      "Эта стена, кажется, требует три странных по своей форме объекта."
+    ],
+    [
+      "InteractErrorWaterCave",
+      "Сначала вы должны найти способ снизить уровень воды."
+    ],
+    [
+      "InteractErrorNotYourCraftingTable",
+      "Вы не можете использовать верстаки других людей."
+    ],
+    [
+      "InteractErrorNotYourMapDevice",
+      "Вы не можете использовать машины картоходца других людей."
+    ],
+    [
+      "InteractErrorCoreTransition",
+      "Убейте всех трёх стражей Малахая. Вы не можете войти в Средоточие тьмы, пока они живы."
+    ],
+    [
+      "InteractErrorCoreTransitionOrgans",
+      "Чтобы войти в Средоточие тьмы - убейте трёх стражей Малахая и отнесите Вере органы Малахая."
+    ],
+    [
+      "InteractErrorPietyGateTransition",
+      "Сначала вы должны поговорить с Верой."
+    ],
+    [
+      "InteractErrorVinktarSquareGateLocked",
+      "Врата защищены силой Стражников."
+    ],
+    [
+      "NotAllowedInPlayersHideout",
+      "Вы не можете попасть в убежище этого игрока."
+    ],
+    [
+      "CantChangeToHideoutFromHere",
+      "Вы не можете попасть в убежище отсюда."
+    ],
+    [
+      "StrMissionStartPointRocks",
+      "Вход рухнул"
+    ],
+    [
+      "LoginTokenExpired",
+      "Срок действия данных вашей учетной записи истек. Пожалуйста, перезапустите игру."
+    ],
+    [
+      "IgnoredPvP",
+      "Вас проигнорировали."
+    ],
+    [
+      "LocalChatDisabledWhileSpectating",
+      "Локальный чат отключен во время наблюдения PvP"
+    ],
+    [
+      "AbandonDailyNotInHideout",
+      "Вы можете использовать эту команду только находясь в своем убежище"
+    ],
+    [
+      "NoDailyActive",
+      "В настоящее время нет активных дневных миссий."
+    ],
+    [
+      "MissionComplete",
+      "Задание выполнено. Вы получили {0} репутации у мастера."
+    ],
+    [
+      "GrandmasterSaved",
+      "Грандмастер файл был сохранён. Разработчик будет уведомлён."
+    ],
+    [
+      "LeagueFinishTimeRaceCompleted",
+      "Вы выполнили задачу этой гонки. Проверьте Ладдер, чтобы увидеть свой рейтинг."
+    ],
+    [
+      "LeagueFinishTimeRaceLogin",
+      "Вы уже выполнили задачу этой гонки с данного персонажа."
+    ],
+    [
+      "CharacterNotFriendOrGuildmate",
+      "Этот аккаунт не в гильдии или в списке друзей."
+    ],
+    [
+      "MapDeviceDisabled",
+      "Машина картоходца отключена в этой лиге."
+    ],
+    [
+      "PVPTeamDoesNotExist",
+      "PVP команда не принимает участия в этом событии."
+    ],
+    [
+      "ForwardedToMasterShard",
+      "Запрос был отправлен на мастер-сервер. Запрос нужно отменить, если не будет ответа."
+    ],
+    [
+      "PVPTournamentFinished",
+      "Турнир завершён."
+    ],
+    [
+      "ErrorNotInHideout",
+      "Вы должны быть в убежище, чтобы сделать это."
+    ],
+    [
+      "ClaimCraftingBenchSuccess",
+      "Верстаки добавлены в хранилище убежища."
+    ],
+    [
+      "CharacterIsPVPOnly",
+      "PVP персонажи не могут делать этого."
+    ],
+    [
+      "StoppedSpectateFollow",
+      "Вы больше не готовитесь к наблюдению."
+    ],
+    [
+      "CannotTradeItemLockedToCharacter",
+      "Предмет не может быть передан или изменён."
+    ],
+    [
+      "CannotTradeItemLockedToAccount",
+      "Предмет не может быть передан."
+    ],
+    [
+      "PvPRelocatingArena",
+      "Вас переносят на другую PVP арену для баланса игроков."
+    ],
+    [
+      "MapCraftingFailedCost",
+      "У вас недостаточно ресурсов."
+    ],
+    [
+      "MapCraftingFailedTrade",
+      "Не удалось открыть карту. Нельзя расходовать предметы при открытом окне торговли."
+    ],
+    [
+      "PvPMustHaveFullParty",
+      "В вашей группе нехватает игроков для этого режима PVP."
+    ],
+    [
+      "WithdrawnFromPVPTournament",
+      "Вы покинули этот PVP турнир."
+    ],
+    [
+      "SpectatingDisabled",
+      "Наблюдение отключено для этого матча"
+    ],
+    [
+      "ChestLocked",
+      "Сундук заперт"
+    ],
+    [
+      "HideoutPortalLocked",
+      "Порталы на карту заблокированы"
+    ],
+    [
+      "PVPCTFOwnFlag",
+      "Принесите сюда флаг вражеской команды, чтобы получить очко"
+    ],
+    [
+      "SpiderChestLocked",
+      "Вы слышите шуршание..."
+    ],
+    [
+      "AFKModeEnabled",
+      "Режим \"отошёл\" включён. Авто-ответ \"{0}\"."
+    ],
+    [
+      "AFKModeDisabled",
+      "Режим \"отошёл\" выключен."
+    ],
+    [
+      "DNDModeEnabled",
+      "Режим \"недоступен\" включён. Авто-ответ \"{0}\"."
+    ],
+    [
+      "DNDModeDisabled",
+      "Режим \"недоступен\" выключен."
+    ],
+    [
+      "AutoReplyEnabled",
+      "Установлен авто-ответ \"{0}\""
+    ],
+    [
+      "IncaApexDoorLocked",
+      "Сейчас дверь нельзя открыть."
+    ],
+    [
+      "CharacterNameExistsButCanExpire",
+      "Создание персонажа с таким именем изменит имя уже существующего персонажа."
+    ],
+    [
+      "CharacterIsNotExpired",
+      "Срок действия этого имени ещё не истёк."
+    ],
+    [
+      "CharacterIsExpired",
+      "Имя этого персонажа было занято другим игроком, так как вы давно не входили на аккаунт. Укажите новое имя."
+    ],
+    [
+      "OrphanedInstance",
+      "Потеряна связь с сервером."
+    ],
+    [
+      "ErrorLabyrinthLocked",
+      "Лабиринт уже был открыт и в него больше нельзя войти. Посетите Площадь претендентов, чтобы начать новый."
+    ],
+    [
+      "ErrorZanaMissionLocked",
+      "Вы уже посещали нестабильную область. Вы не сможете в неё вернуться."
+    ],
+    [
+      "InteractErrorDoorRequiresGoldenKey",
+      "Дверь заперта. Для неё нужен золотой ключ."
+    ],
+    [
+      "InteractErrorDoorRequiresSilverKey",
+      "Дверь заперта. Для неё нужен серебряный ключ."
+    ],
+    [
+      "InteractErrorDoorRequiresBronzeKey",
+      "Дверь заперта. Для неё нужен бронзовый ключ."
+    ],
+    [
+      "TooManyCharacterSlots",
+      "На одном аккаунте нельзя иметь более 255 персонажей."
+    ],
+    [
+      "EchoClientString",
+      "{0}"
+    ],
+    [
+      "ErrorCannotWhisperIgnored",
+      "Вы не можете отправлять личные сообщения игрокам из вашего списка игнорирования."
+    ],
+    [
+      "AccountIsOnline",
+      "Этот аккаунт сейчас в сети."
+    ],
+    [
+      "IzaroChestLocked",
+      "Этот сундук закрыт. Для него нужен ключ от сокровищницы."
+    ],
+    [
+      "ProfanityCheckFailed",
+      "Введенный текст содержит ненормативную лексику."
+    ],
+    [
+      "ErrorCannotChangeAscendancyClass",
+      "Вы не можете изменять класс Восхождения в этой лиге."
+    ],
+    [
+      "TencentAasLoginDenied",
+      "You are a minor and can't login."
+    ],
+    [
+      "TencentAasNotification",
+      "Вы играете {0} часов, пожалуйста, отдохните немного."
+    ],
+    [
+      "TencentAasAlarm",
+      "Вы играли более трех часов и являетесь несовершеннолетним. Вы сможете авторизоваться только после 5-часового перерыва."
+    ],
+    [
+      "LeagueDisallowsCharacterDeletion",
+      "В настоящий момент эта лига не позволяет удалять персонажей."
+    ],
+    [
+      "ErrorCannotAccessMapLabyrinth",
+      "Вы ещё не завершили испытания лабиринта на картах."
+    ],
+    [
+      "ErrorCannotSealProphecy",
+      "Не удалось запечатать пророчество."
+    ],
+    [
+      "InviteErrorAlreadyInParty",
+      "Не удалось отправить приглашение в группу: этот персонаж уже в группе."
+    ],
+    [
+      "TencentCannotAccessMapDevice",
+      "Завершите Лабиринт Правителя, чтобы получить доступ к Машине картоходца. Отправляйтесь в Лагерь Сарна и нажмите на плиту Восхождения, чтобы узнать о Лабиринте подробнее. Завершите испытания Восхождения и победите императора Изаро, чтобы получить доступ к высокоуровневым картам."
+    ],
+    [
+      "DailyPortalBlocked",
+      "Невозможно открыть ежедневное задание: область портала заблокирована. Используйте режим перестановки, чтобы переместить мастера в другое место и попробуйте снова."
+    ],
+    [
+      "OfferDoesNotExist",
+      "Предложения не существует."
+    ],
+    [
+      "OfferInWrongState",
+      "Предложение находится в недопустимом состоянии для выполнения этого действия."
+    ],
+    [
+      "OfferContainsUntradeableItems",
+      "Предложение нельзя отправить, поскольку оно содержит предметы, которыми нельзя торговать."
+    ],
+    [
+      "NoOffersOnYourOwnItems",
+      "Вы не можете сделать предложение на этот предмет, поскольку он у вас уже есть."
+    ],
+    [
+      "PublicListingLockedDueToLevel",
+      "Вы не можете выставлять предметы на продажу в открытый доступ пока не повысите уровень хотя бы одного персонажа на вашем аккаунте до 25."
+    ],
+    [
+      "OffersLockedDueToLevel",
+      "Вы не можете делать предложения пока не повысите уровень хотя бы одного персонажа на вашем аккаунте до 25."
+    ],
+    [
+      "AccountNoLongerHasItem",
+      "У игрока больше нет указанного предмета."
+    ],
+    [
+      "TooManyBuyerOffers",
+      "Вы не можете сделать ещё одно предложение, пока предыдущее не будет завершено."
+    ],
+    [
+      "TooManySellerOffers",
+      "У продавца слишком много предложений. Попробуйте позже."
+    ],
+    [
+      "AlreadyHaveOfferOnItem",
+      "У вас уже есть действующее предложение на этот предмет."
+    ],
+    [
+      "SentOfferTooRecently",
+      "Вы недавно отправляли предложение на этот аккаунт."
+    ],
+    [
+      "EventErrorLevelTooLow",
+      "Чтобы принять участие в событии, вы должны достичь {0} уровня."
+    ],
+    [
+      "EnteredPathOfEnduranceLevel",
+      "Вы достигли {0} уровня."
+    ],
+    [
+      "EventEndsIn",
+      "Событие заканчивается в {0}."
+    ],
+    [
+      "GuildTagAlreadyExists",
+      "Такой тэг гильдии уже используется."
+    ],
+    [
+      "GlobalChatOnCooldown",
+      "Пожалуйста, подождите несколько секунд, прежде чем вновь писать в Общем чате."
+    ],
+    [
+      "InteractErrorKaruiDoorLocked",
+      "Врата закрыты, но, кажется, в них не хватает глаза…"
+    ],
+    [
+      "LabyrinthErrorPartyTooBigTencent",
+      "Вы можете входить в Лабиринт, только если в вашей группе {0} или меньше участников. "
+    ],
+    [
+      "InteractErrorNoSignOfPurity",
+      "Для активации вам нужен Символ Чистоты."
+    ],
+    [
+      "InteractErrorCannotAccessEndgame",
+      "Вы не можете получить доступ к высокоуровневым картам, пока не завершите 10 Акт."
+    ],
+    [
+      "CharacterNameContainsProfanity",
+      "Такое имя персонажа запрещено."
+    ],
+    [
+      "ConsoleDisconnectedBecauseActiveUserChanged",
+      "Соединение прервано, так как текущий пользователь завершил сеанс."
+    ],
+    [
+      "ConsoleDisconnectedBecauseSuspending",
+      "Соединение прервано, так как игра была приостановлена."
+    ],
+    [
+      "InteractErrorNeedSunMoonOrbs",
+      "Для активации вам нужны сферы Солнца и Луны."
+    ],
+    [
+      "TheBeaconLever",
+      "Невозможно разжечь огонь, недостаточно горючего."
+    ],
+    [
+      "OnlyOneAllowedInHideout",
+      "Вы не можете разместить больше одного предмета этого типа в вашем убежище."
+    ],
+    [
+      "AccountLoggedInOnOtherRealm",
+      "Вы не можете войти одновременно в бету и в обычный клиент Path of Exile."
+    ],
+    [
+      "KitavaArenaLocked",
+      "Входить в портал этой области небезопасно."
+    ],
+    [
+      "InteractErrorBeaconMissingFlag",
+      "Заберите Чёрный флаг из Пещеры злобы и сожгите его на маяке."
+    ],
+    [
+      "InteractErrorGreustShrine",
+      "Древняя святыня азмири. Возможно, Елена что-то о ней знает."
+    ],
+    [
+      "PantheonFailedToCreateSoulItem",
+      "Не удалось создать захваченную душу в машине картоходца."
+    ],
+    [
+      "PantheonCannotConsumeVessel",
+      "Активация не удалась. Невозможно захватить душу босса этой карты."
+    ],
+    [
+      "PantheonCannotConsumeVesselAlreadyCaptured",
+      "Активация не удалась. Вы уже захватили душу босса этой карты."
+    ],
+    [
+      "ExitToLoginFailed",
+      "Не удалось подключиться к серверу авторизации. Пожалуйста, авторизуйтесь и повторите попытку."
+    ],
+    [
+      "MessageDoesNotExist",
+      "Такого сообщения не существует."
+    ],
+    [
+      "MessageTooLong",
+      "Сообщение слишком длинное."
+    ],
+    [
+      "AreaErrorLevelTooLow",
+      "Чтобы войти в эту область, персонаж должен быть минимум {0} уровня."
+    ],
+    [
+      "AreaErrorLevelTooLowGeneric",
+      "Вы не достигли достаточного уровня для входа в эту область."
+    ],
+    [
+      "TradeMarketCloseOfferWithItems",
+      "В предложении все ещё есть предметы. Удалите их, чтобы закрыть предложение."
+    ],
+    [
+      "TradeMarketSendOfferWithNoItems",
+      "Вы не можете согласиться на торговлю, не предложив взамен валюту."
+    ],
+    [
+      "XboxLoginErrorNoLiveAccess",
+      "Не удалось войти: сервис Xbox Live недоступен."
+    ],
+    [
+      "ConsoleLoginErrorNoInternetConnection",
+      "Не удалось войти: отсутствует соединение с интернетом."
+    ],
+    [
+      "ErrorChatIsFull",
+      "Не удалось поключиться к каналу чата, поскольку он переполнен."
+    ],
+    [
+      "LoginConnectionLimitReached",
+      "Сервер авторизации перегружен. Пожалуйста, повторите попытку позднее."
+    ],
+    [
+      "TooManyObjects",
+      "Запрошено слишком много объектов. Пожалуйста, обратитесь в техподдержку."
+    ],
+    [
+      "SubtabAlreadyExists",
+      "Такая подсекция уже существует."
+    ],
+    [
+      "MaxInventoryColumns",
+      "You have reached the maximum number of inventory columns allowed. CHINA ONLY NOT FOR WORLDWIDE REALM"
+    ],
+    [
+      "IncorrectInventoryColumnUpgrade",
+      "You are trying to purchase the inventory upgrade for the incorrect number of existing slots. CHINA ONLY NOT FOR WORLDWIDE REALM"
+    ],
+    [
+      "GenericRateLimit",
+      "Запрос отклонен, поскольку вы отправили слишком много запросов за короткий промежуток времени."
+    ],
+    [
+      "RequestInProgress",
+      "Запрос уже обрабатывается. Пожалуйста, попробуйте позже."
+    ],
+    [
+      "ItemNotInStash",
+      "Такого предмета нет в этой секции."
+    ],
+    [
+      "BestiaryNetChanged",
+      "Теперь для отлова животных будет использоваться {0}."
+    ],
+    [
+      "ErrorPlayerHasNoMenagerie",
+      "У этого игрока нет зверинца."
+    ],
+    [
+      "MasterBonusExpUpdate",
+      "Получено {1} очков репутации и расположение для {0}"
+    ],
+    [
+      "MicrotransactionNotAvailableInLeague",
+      "Вы не можете купить эту микротранзакцию в данной лиге."
+    ],
+    [
+      "CaptureMonsterSuccess",
+      "Пойманный монстр: {0}"
+    ],
+    [
+      "PlayersRemainingN",
+      "Осталось игроков: {0}"
+    ],
+    [
+      "AccountNotVerifiedChatError",
+      "Вы должны подтвердить ваш аккаунт, прежде чем пользоваться чатом."
+    ],
+    [
+      "TooLowLevelToChooseChatIndex",
+      "Вы не сможете выбрать определенный канал чата, пока не достигнете {0} уровня"
+    ],
+    [
+      "IncursionLockedDoorError",
+      "У вас нет нужного предмета для открытия этого прохода."
+    ],
+    [
+      "IncursionDestructibleWallError",
+      "У вас нет взрывчатки."
+    ],
+    [
+      "InstanceExpiredError",
+      "Невозможно подключиться к области. Время действия подобласти истекло, поскольку она больше не является новейшей для этой области."
+    ],
+    [
+      "InstanceTerminatedError",
+      "Не удалось подключиться к области:  подобласть больше не существует."
+    ],
+    [
+      "FailedToLoadDelveMap",
+      "Не удалось загрузить данные карты Спуска: {0}"
+    ],
+    [
+      "DelveInProgressError",
+      "Вы не можете войти в шахту в процессе спуска."
+    ],
+    [
+      "LoginRequiresUnlockCodeStrict",
+      "Ваш аккаунт заблокирован, пока вы не предоставите код разблокировки, отправленный на вашу электронную почту."
+    ],
+    [
+      "DelveSocketableCurrencySameFossilError",
+      "Вы не можете помещать одинаковые ископаемые в один и тот же резонатор"
+    ],
+    [
+      "GenericSocketError",
+      "Вы не можете вставить в гнездо этот предмет"
+    ],
+    [
+      "OfferNotYetReadyForAccept",
+      "Предложение ожидает принятия решения по прошлому запросу. Попробуйте позже."
+    ],
+    [
+      "InteractErrorEssence",
+      "Что-то ещё удерживает Сущность."
+    ],
+    [
+      "NotEnoughIngredients",
+      "У вас недостаточно материалов для совершения действия."
+    ],
+    [
+      "ConsoleDisconnectedBecauseActiveUserSignedOut",
+      "Соединение прервано, так как текущий пользователь завершил сеанс."
+    ],
+    [
+      "PS4LoginErrorNoPSNAccess",
+      "Не удалось войти: сервис \"PlayStation Network\" недоступен."
+    ],
+    [
+      "PS4LoginErrorOutOfMemory",
+      "Не удалось войти: недостаточно памяти."
+    ],
+    [
+      "PS4LoginErrorSignedOut",
+      "Не удалось войти: вы вышли из системы."
+    ],
+    [
+      "PS4LoginErrorNotSignedUp",
+      "Не удалось войти: вы не вошли в систему."
+    ],
+    [
+      "PS4LoginErrorAgeRestriction",
+      "Не удалось войти: ограничение по возрасту."
+    ],
+    [
+      "PS4LoginErrorLoggedOut",
+      "Не удалось войти: вы вышли из системы."
+    ],
+    [
+      "PS4LoginErrorLatestSystemSoftwareExist",
+      "Не удалось войти: доступно обновление програмного обеспечения."
+    ],
+    [
+      "PS4LoginErrorLatestSystemSoftwareExistForTitle",
+      "Не удалось войти: для этого приложения вышло новое необходимое обновление."
+    ],
+    [
+      "PS4LoginErrorLatestPatchPackageExists",
+      "Не удалось войти: доступен новый пакет обновлений."
+    ],
+    [
+      "PS4LoginErrorLatestPatchPackageDownloaded",
+      "Не удалось войти: доступен новый скачиваемый пакет обновлений."
+    ],
+    [
+      "PS4LoginErrorPatchNotChecked",
+      "Не удалось войти: не получилось запустить проверку наличия новых обновлений. Пожалуйста, повторите попытку."
+    ],
+    [
+      "HideoutExportFailed",
+      "Чтобы выгрузить шаблон убежища, вы должны находиться в убежище."
+    ],
+    [
+      "HideoutImportSuccess",
+      "Шаблон убежища успешно загружен."
+    ],
+    [
+      "HideoutImportFailed",
+      "Не удалось загрузить шаблон убежища."
+    ],
+    [
+      "HideoutImportFailedMustBeInHideout",
+      "Чтобы загрузить шаблон убежища, вы должны находиться в своем убежище."
+    ],
+    [
+      "HideoutImportFailedWrongHideout",
+      "Установите {0} в качестве своего убежища, чтобы загрузить этот шаблон."
+    ],
+    [
+      "TencentTradeMarketNotExactPrice",
+      "Your offer does not match the exact price for this item."
+    ],
+    [
+      "TencentTradeMarketTooManyCompletedOffers",
+      "You have too many completed trades in your Trade Market to make this offer."
+    ],
+    [
+      "IncursionRecipeUnlockRejected",
+      "Ремесленный рецепт уже открыт"
+    ],
+    [
+      "FailedToReclaimSomeHideoutDoodads",
+      "Не удалось отозвать один или более объектов убежища. Пожалуйста, создайте новую копию области убежища и повторите попытку."
+    ],
+    [
+      "HideoutImportWarningGeneric",
+      "Предупреждение: невозможно загрузить одно или более украшений убежища ({0})."
+    ],
+    [
+      "HideoutImportWarningUnowned",
+      "Предупреждение: невозможно загрузить одно или более украшений убежища ({0}),  потому что у вас нет запасных."
+    ],
+    [
+      "HideoutImportWarningBlocked",
+      "Предупреждение: невозможно загрузить одно или более украшений убежища ({0}),  потому что указанная область заблокирована."
+    ],
+    [
+      "HideoutReclaimAllSuccess",
+      "Все украшения убежища были отозваны."
+    ],
+    [
+      "AreaTransitionPartyError",
+      "Чтобы попасть в эту область, вы должны быть в группе с её владельцем."
+    ],
+    [
+      "AreaTransitionOwnerError",
+      "Для перехода в эту область с вами должен быть владелец области."
+    ],
+    [
+      "BestiaryErrorNoData",
+      "Не удалось извлечь данные Бестиария."
+    ],
+    [
+      "BestiaryErrorFailedToCaptureMonster",
+      "Не удалось сохранить пойманного монстра: {0}"
+    ],
+    [
+      "PS4BadRedeemToken",
+      "Ошибка активации маркера"
+    ],
+    [
+      "CurrencyTradingPrevented2",
+      "Вы не можете обмениваться валютой или уникальными вещами с другими игроками, пока не подтвердите ваш аккаунт."
+    ],
+    [
+      "PublicListingLockedDueToVerified",
+      "Вы не можете выставлять предметы на продажу в открытый доступ, пока не подтвердите ваш аккаунт."
+    ],
+    [
+      "OffersLockedDueToVerified",
+      "Вы не можете предлагать цену за предметы, пока не подтвердите ваш аккаунт."
+    ],
+    [
+      "SynthesisPortalFullyDecayed",
+      "Эта область истощилась."
+    ],
+    [
+      "SynthesisTooManyMemories",
+      "Вы разместили слишком много воспоминаний. Пожалуйста, удалите часть из них, прежде чем добавлять ещё."
+    ],
+    [
+      "SynthesisOtherMemoryInstance",
+      "Вы не можете разместить воспоминания в Нексусе другого игрока или на Просторах памяти."
+    ],
+    [
+      "ConsoleDisconnectedBecauseNoInternetConnection",
+      "Вы были отключены из-за отсутствия подключения к Интернету."
+    ],
+    [
+      "PS4DisconnectedBecauseNoPSNAccess",
+      "Вы были отключены из-за отсутствия связи с \"PlayStation Network\"."
+    ],
+    [
+      "XboxDisconnectedBecauseNoXboxLiveAccess",
+      "Вы были отключены из-за отсутствия связи с Xbox Live."
+    ],
+    [
+      "PS4CannotLogInUGMRestriction",
+      "Невозможно подключиться из-за родительского контроля."
+    ],
+    [
+      "SynthesisMaxGlobalModsReached",
+      "Вы достигли максимального количества свойств памяти на вашей карте Синтеза."
+    ],
+    [
+      "BetrayalCannotAccessLab",
+      "В данный момент вы заняты в другой активности Синдиката. Завершите активность и примите оставшиеся решения, чтобы открыть этот проход."
+    ],
+    [
+      "SynthesisCannotApplyGlobalMod",
+      "На выбранное воспоминание и расположенные рядом с ним воспоминания нельзя наложить больше свойств памяти."
+    ],
+    [
+      "KakaoAPIError",
+      "Не получилось авторизоваться через центр авторизации Kakao."
+    ],
+    [
+      "KakaoRequireLogin",
+      "Вы должны переподключиться к своему аккаунту Kakao."
+    ],
+    [
+      "KakaoIdAlreadyInUse",
+      "Данный аккаунт Kakao уже синхронизирован с другим аккаунтом Path of Exile."
+    ],
+    [
+      "NoAssociatedKakaoId",
+      "Ни один из аккаунтов Kakao не синхронизирован с данным аккаунтом Path of Exile."
+    ],
+    [
+      "AccountAlreadyHasKakao",
+      "Данный аккаунт Path of Exile уже синхронизирован с другим аккаунтом Kakao."
+    ],
+    [
+      "MapDeviceCannotUseFragmentWithMap",
+      "Не удалось активировать. {0} нельзя использовать с картой."
+    ],
+    [
+      "MapDeviceFragmentNeedsRecipe",
+      "Не удалось активировать. {0} необходимо использовать с другими фрагментами карты из того же набора."
+    ],
+    [
+      "MapDeviceFragmentNeedsRecipeOrMap",
+      "Не удалось активировать. {0} необходимо использовать с картой или другими фрагментами карты из того же набора."
+    ],
+    [
+      "MapDeviceDuplicateFragments",
+      "Не удалось активировать. Нельзя использовать несколько фрагментов карты одного вида."
+    ],
+    [
+      "EmailLoginDisabledKakao",
+      "Данный способ авторизации был отключен для этого аккаунта. Пожалуйста, авторизуйтесь через http://poe.game.daum.net"
+    ],
+    [
+      "EmailLoginDisabled",
+      "Данный способ авторизации был отключен для этого аккаунта. "
+    ],
+    [
+      "GatewayDisallowedForThisLoginType",
+      "Этот шлюз не доступен для данного вида авторизации."
+    ],
+    [
+      "UnacceptableChatMessage",
+      "Неприемлемое содержимое сообщения."
+    ],
+    [
+      "ChannelOnlyAllowsASCII",
+      "Неприемлемое содержимое сообщения. Пожалуйста, используйте только стандартные ASCII-символы в этом канале."
+    ],
+    [
+      "ActionRejectedDueToPerPlayerFreeze",
+      "Вы недавно умерли и не можете предпринимать действия в течение {0}."
+    ],
+    [
+      "PerPlayerDeathFreezeRemoved",
+      "Теперь вы можете выполнять действия."
+    ],
+    [
+      "LeagueDisallowsManualMigration",
+      "В данный момент переход из этой лиги в другую невозможен."
+    ],
+    [
+      "RecycleMicroItemNotFound",
+      "Микротранзакция не найдена."
+    ],
+    [
+      "RecycleMicroCannotRemoveMicro",
+      "Микротранзакцию нельзя убрать."
+    ],
+    [
+      "RecycleMicroNoValue",
+      "Микротранзакция не имеет ценности."
+    ],
+    [
+      "RecycleMicroGeneric",
+      "Невозможно совершить действие в данный момент."
+    ],
+    [
+      "TradeBanError",
+      "Вы не можете совершить это действие. Вашему аккаунту запрещены торговые операции. "
+    ],
+    [
+      "InteractErrorCoreTransitionMap",
+      "Для доступа к Чёрному сердцу вы должны убить всех трёх защитников Пожирателя душ."
+    ],
+    [
+      "CombineMTXTimeLimitedError",
+      "Невозможно объединить временные микротранзакции."
+    ],
+    [
+      "SalvageMTXTimeLimitedError",
+      "Невозможно переработать временные микротранзакции."
+    ],
+    [
+      "ItemIsInLeagueInventory",
+      "Вы не можете выполнить эту операцию с предметом в инвентаре лиги."
+    ],
+    [
+      "MetamorphosisCannotOpenUIError",
+      "Образцы Метаморфа могут быть объединены только владельцем области."
+    ],
+    [
+      "HarvestSeedCacheLockedError",
+      "Тайник с семенами может быть открыт только владельцем области."
+    ],
+    [
+      "AccountAlreadyHasEpic",
+      "Этот аккаунт уже связан с соответствующим аккаунтом Epic."
+    ],
+    [
+      "EpicAssociateEmailSent",
+      "Электронное письмо было отправлено вам для подтверждения. Пожалуйста, перейдите по ссылке из письма, чтобы продолжить."
+    ],
+    [
+      "EpicIdAlreadyInUse",
+      "Этот аккаунт Epic уже связан с аккаунтом Path of Exile."
+    ],
+    [
+      "NoAssociatedEpicId",
+      "Этот аккаунт не связан с аккаунтом Epic."
+    ],
+    [
+      "DestroyHarvestInfrastructure",
+      "Вы не можете разрушить оборудование Жатвы."
+    ],
+    [
+      "CharacterActionDeniedHarvestItems",
+      "Вы должны удалить всё оборудование Жатвы из рюкзака вашего персонажа перед совершением этого действия."
+    ],
+    [
+      "HarvestOshabiFightOnlyInMaps",
+      "Событие может начаться только на карте"
+    ],
+    [
+      "ConsoleGuildTagProfanityError",
+      "Тэг гильдии, который вы пытаетесь использовать, содержит запрещённую фразу. Используйте другой тэг."
+    ],
+    [
+      "ConsoleGuildNameProfanityError",
+      "Название гильдии, которое вы пытаетесь использовать, содержит запрещённую фразу. Используйте другое название."
+    ],
+    [
+      "ConsoleGuildStashTabProfanityError",
+      "Название секции сундука, которое вы пытаетесь использовать, содержит запрещённую фразу. Используйте другое название."
+    ],
+    [
+      "TradeErrorItemStolenFromHeist",
+      "Предмет не может быть передан."
+    ],
+    [
+      "HeistAlarmError",
+      "Ошибка: невозможно присоединиться к области Кражи под изоляцией"
+    ],
+    [
+      "HeistHubAccessError",
+      "Для доступа в Разбойничью гавань вы должны использовать Разбойничий жетон."
+    ],
+    [
+      "NotHeistOwner",
+      "Ошибка: вы не являетесь владельцем этого ограбления"
+    ],
+    [
+      "StashAffinityFailedNoRoom",
+      "В вашей секции сундука с привязкой \"{0}\" недостаточно места для этого предмета."
+    ]
+  ]
+}

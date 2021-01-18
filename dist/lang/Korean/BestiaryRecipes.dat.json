@@ -1,1 +1,753 @@
-{"filename":"BestiaryRecipes.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":true,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Description","rowid":1,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"BestiaryRecipeComponentKeys","rowid":2,"type":"ref|list|ulong","key":"BestiaryRecipeComponent.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Notes","rowid":3,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"HintText","rowid":4,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Flag0","rowid":5,"type":"bool","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"AchievementItemsKeys","rowid":6,"type":"ref|list|ulong","key":"AchievementItems.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Flag1","rowid":7,"type":"bool","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown1","rowid":8,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["EinharMasterCraft1","색채의 오브 8개",[16],"","화폐 아이템 생성",false,[],true,0],["EinharMasterCraft2","쥬얼러 오브 4개",[32],"","화폐 아이템 생성",false,[],true,0],["EinharMasterCraft3","연결의 오브",[31],"","화폐 아이템 생성",false,[],true,0],["EinharMasterCraft4","아이템",[33],"","고유 아이템 생성",false,[],true,0],["EinharMasterCraft5","반지",[1],"","고유 아이템 생성",false,[],true,0],["EinharMasterCraft6","목걸이",[4],"","고유 아이템 생성",false,[],true,0],["EinharMasterCraft7","허리띠",[5],"","고유 아이템 생성",false,[],true,0],["EinharMasterCraft8","플라스크",[6],"","고유 아이템 생성",false,[],true,0],["EinharMasterCraft9","투구",[10],"","고유 아이템 생성",false,[],true,0],["EinharMasterCraft10","갑옷",[11],"","고유 아이템 생성",false,[],true,0],["EinharMasterCraft11","장화",[14],"","고유 아이템 생성",false,[],true,0],["EinharMasterCraft12","장갑",[26],"","고유 아이템 생성",false,[],true,0],["EinharMasterCraft13","주얼",[29],"","고유 아이템 생성",false,[],true,0],["EinharMasterCraft14","클로 / 단검",[30],"","고유 아이템 생성",false,[],true,0],["EinharMasterCraft15","철퇴 / 셉터",[18],"","고유 아이템 생성",false,[],true,0],["EinharMasterCraft16","방패 / 화살통",[23],"","고유 아이템 생성",false,[],true,0],["EinharMasterCraft17","검",[19],"","고유 아이템 생성",false,[],true,0],["EinharMasterCraft18","지팡이",[21],"","고유 아이템 생성",false,[],true,0],["EinharMasterCraft19","도끼",[35],"","고유 아이템 생성",false,[],true,0],["EinharMasterCraft20","활",[13],"","고유 아이템 생성",false,[],true,0],["EinharMasterCraft21","마법봉",[22],"","고유 아이템 생성",false,[],true,0],["EinharMasterCraft22","지도",[12],"","고유 아이템 생성",false,[],true,0],["EinharMasterCraft23","23% 퀄리티 타락 젬",[8],"","아이템 생성",false,[],false,1],["EinharMasterCraft24","21레벨 타락 젬",[9],"","아이템 생성",false,[],false,1],["EinharMasterCraft25","6홈 희귀 (전체 연결)",[15],"","아이템 생성",false,[],false,1],["EinharMasterCraft26","무작위 화폐 10개",[20],"","아이템 생성",false,[],false,1],["EinharMasterCraft27","마법 아이템",[36],"","각인본 생성",false,[],false,1],["EinharMasterCraft28","30% 퀄리티를 가짐",[28],"","방어구 또는 무기 타락",false,[],false,1],["EinharMasterCraft29","희귀 아이템의 고정 및 무작위 속성 부여 변경",[2],"모든 속성 부여값 변경","속성 부여값 무작위 변경",false,[],false,1],["EinharMasterCraft30","접미어 추가, 무작위 접두어 제거",[3],"희귀 아이템에만 적용","아이템 속성 부여 개조",false,[],false,1],["EinharMasterCraft31","접두어 추가, 무작위 접미어 제거",[7],"희귀 아이템에만 적용","아이템 속성 부여 개조",false,[],false,1],["EinharMasterCraft32","각 아이템에 속성 부여 절반 적용",[24],"쉐이퍼 또는 엘더 아이템에는 적용 불가","아이템을 둘로 분할",false,[],false,1],["EinharMasterCraft33","다른 무작위 고유 아이템으로",[27],"","고유 아이템 전환",false,[],false,1],["EinharMasterCraftFlask1","\"- 열기\" 추가",[184],"현재 플라스크에 접미어가 없어야 함","플라스크에 속성 부여 추가",false,[],false,1],["EinharMasterCraftFlask2","\"- 소화\" 추가",[184],"현재 플라스크에 접미어가 없어야 함","플라스크에 속성 부여 추가",false,[],false,1],["EinharMasterCraftFlask3","\"- 출혈 면역\" 추가",[184],"현재 플라스크에 접미어가 없어야 함","플라스크에 속성 부여 추가",false,[],false,1],["EinharMasterCraftFlask4","\"- 접지\" 추가",[184],"현재 플라스크에 접미어가 없어야 함","플라스크에 속성 부여 추가",false,[],false,1],["EinharMasterCraftFlask5","\"- 치료\" 추가",[184],"현재 플라스크에 접미어가 없어야 함","플라스크에 속성 부여 추가",false,[],false,1],["EinharMasterCraftFlask6","\"- 수호\" 추가",[184],"현재 플라스크에 접미어가 없어야 함","플라스크에 속성 부여 추가",false,[],false,1],["EinharMasterCraft34","페룰의 굴",[0],"","포탈 열기",false,[],false,1],["EinharMasterCraft35","사카왈의 보금자리",[17],"","포탈 열기",false,[],false,1],["EinharMasterCraft36","페누무스의 소굴",[25],"","포탈 열기",false,[],false,1],["EinharMasterCraft37","크라칸의 만",[34],"","포탈 열기",false,[],true,1],["EinharMasterCraft38","고양이의 위상 스킬",[107],"","아이템에 위상 스킬 부여",false,[],true,1],["EinharMasterCraft39","새의 위상 스킬",[108],"","아이템에 위상 스킬 부여",false,[],true,1],["EinharMasterCraft40","거미의 위상 스킬",[109],"","아이템에 위상 스킬 부여",false,[],true,1],["EinharMasterCraft41","게의 위상 스킬",[110],"","아이템에 위상 스킬 부여",false,[],false,1]]}
+{
+  "filename": "BestiaryRecipes.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Description",
+      "rowid": 1,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "BestiaryRecipeComponentKeys",
+      "rowid": 2,
+      "type": "ref|list|ulong",
+      "key": "BestiaryRecipeComponent.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Notes",
+      "rowid": 3,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "HintText",
+      "rowid": 4,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Flag0",
+      "rowid": 5,
+      "type": "bool",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "AchievementItemsKeys",
+      "rowid": 6,
+      "type": "ref|list|ulong",
+      "key": "AchievementItems.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Flag1",
+      "rowid": 7,
+      "type": "bool",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown1",
+      "rowid": 8,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "EinharMasterCraft1",
+      "색채의 오브 8개",
+      [
+        16
+      ],
+      "",
+      "화폐 아이템 생성",
+      false,
+      [],
+      true,
+      0
+    ],
+    [
+      "EinharMasterCraft2",
+      "쥬얼러 오브 4개",
+      [
+        32
+      ],
+      "",
+      "화폐 아이템 생성",
+      false,
+      [],
+      true,
+      0
+    ],
+    [
+      "EinharMasterCraft3",
+      "연결의 오브",
+      [
+        31
+      ],
+      "",
+      "화폐 아이템 생성",
+      false,
+      [],
+      true,
+      0
+    ],
+    [
+      "EinharMasterCraft4",
+      "아이템",
+      [
+        33
+      ],
+      "",
+      "고유 아이템 생성",
+      false,
+      [],
+      true,
+      0
+    ],
+    [
+      "EinharMasterCraft5",
+      "반지",
+      [
+        1
+      ],
+      "",
+      "고유 아이템 생성",
+      false,
+      [],
+      true,
+      0
+    ],
+    [
+      "EinharMasterCraft6",
+      "목걸이",
+      [
+        4
+      ],
+      "",
+      "고유 아이템 생성",
+      false,
+      [],
+      true,
+      0
+    ],
+    [
+      "EinharMasterCraft7",
+      "허리띠",
+      [
+        5
+      ],
+      "",
+      "고유 아이템 생성",
+      false,
+      [],
+      true,
+      0
+    ],
+    [
+      "EinharMasterCraft8",
+      "플라스크",
+      [
+        6
+      ],
+      "",
+      "고유 아이템 생성",
+      false,
+      [],
+      true,
+      0
+    ],
+    [
+      "EinharMasterCraft9",
+      "투구",
+      [
+        10
+      ],
+      "",
+      "고유 아이템 생성",
+      false,
+      [],
+      true,
+      0
+    ],
+    [
+      "EinharMasterCraft10",
+      "갑옷",
+      [
+        11
+      ],
+      "",
+      "고유 아이템 생성",
+      false,
+      [],
+      true,
+      0
+    ],
+    [
+      "EinharMasterCraft11",
+      "장화",
+      [
+        14
+      ],
+      "",
+      "고유 아이템 생성",
+      false,
+      [],
+      true,
+      0
+    ],
+    [
+      "EinharMasterCraft12",
+      "장갑",
+      [
+        26
+      ],
+      "",
+      "고유 아이템 생성",
+      false,
+      [],
+      true,
+      0
+    ],
+    [
+      "EinharMasterCraft13",
+      "주얼",
+      [
+        29
+      ],
+      "",
+      "고유 아이템 생성",
+      false,
+      [],
+      true,
+      0
+    ],
+    [
+      "EinharMasterCraft14",
+      "클로 / 단검",
+      [
+        30
+      ],
+      "",
+      "고유 아이템 생성",
+      false,
+      [],
+      true,
+      0
+    ],
+    [
+      "EinharMasterCraft15",
+      "철퇴 / 셉터",
+      [
+        18
+      ],
+      "",
+      "고유 아이템 생성",
+      false,
+      [],
+      true,
+      0
+    ],
+    [
+      "EinharMasterCraft16",
+      "방패 / 화살통",
+      [
+        23
+      ],
+      "",
+      "고유 아이템 생성",
+      false,
+      [],
+      true,
+      0
+    ],
+    [
+      "EinharMasterCraft17",
+      "검",
+      [
+        19
+      ],
+      "",
+      "고유 아이템 생성",
+      false,
+      [],
+      true,
+      0
+    ],
+    [
+      "EinharMasterCraft18",
+      "지팡이",
+      [
+        21
+      ],
+      "",
+      "고유 아이템 생성",
+      false,
+      [],
+      true,
+      0
+    ],
+    [
+      "EinharMasterCraft19",
+      "도끼",
+      [
+        35
+      ],
+      "",
+      "고유 아이템 생성",
+      false,
+      [],
+      true,
+      0
+    ],
+    [
+      "EinharMasterCraft20",
+      "활",
+      [
+        13
+      ],
+      "",
+      "고유 아이템 생성",
+      false,
+      [],
+      true,
+      0
+    ],
+    [
+      "EinharMasterCraft21",
+      "마법봉",
+      [
+        22
+      ],
+      "",
+      "고유 아이템 생성",
+      false,
+      [],
+      true,
+      0
+    ],
+    [
+      "EinharMasterCraft22",
+      "지도",
+      [
+        12
+      ],
+      "",
+      "고유 아이템 생성",
+      false,
+      [],
+      true,
+      0
+    ],
+    [
+      "EinharMasterCraft23",
+      "23% 퀄리티 타락 젬",
+      [
+        8
+      ],
+      "",
+      "아이템 생성",
+      false,
+      [],
+      false,
+      1
+    ],
+    [
+      "EinharMasterCraft24",
+      "21레벨 타락 젬",
+      [
+        9
+      ],
+      "",
+      "아이템 생성",
+      false,
+      [],
+      false,
+      1
+    ],
+    [
+      "EinharMasterCraft25",
+      "6홈 희귀 (전체 연결)",
+      [
+        15
+      ],
+      "",
+      "아이템 생성",
+      false,
+      [],
+      false,
+      1
+    ],
+    [
+      "EinharMasterCraft26",
+      "무작위 화폐 10개",
+      [
+        20
+      ],
+      "",
+      "아이템 생성",
+      false,
+      [],
+      false,
+      1
+    ],
+    [
+      "EinharMasterCraft27",
+      "마법 아이템",
+      [
+        36
+      ],
+      "",
+      "각인본 생성",
+      false,
+      [],
+      false,
+      1
+    ],
+    [
+      "EinharMasterCraft28",
+      "30% 퀄리티를 가짐",
+      [
+        28
+      ],
+      "",
+      "방어구 또는 무기 타락",
+      false,
+      [],
+      false,
+      1
+    ],
+    [
+      "EinharMasterCraft29",
+      "희귀 아이템의 고정 및 무작위 속성 부여 변경",
+      [
+        2
+      ],
+      "모든 속성 부여값 변경",
+      "속성 부여값 무작위 변경",
+      false,
+      [],
+      false,
+      1
+    ],
+    [
+      "EinharMasterCraft30",
+      "접미어 추가, 무작위 접두어 제거",
+      [
+        3
+      ],
+      "희귀 아이템에만 적용",
+      "아이템 속성 부여 개조",
+      false,
+      [],
+      false,
+      1
+    ],
+    [
+      "EinharMasterCraft31",
+      "접두어 추가, 무작위 접미어 제거",
+      [
+        7
+      ],
+      "희귀 아이템에만 적용",
+      "아이템 속성 부여 개조",
+      false,
+      [],
+      false,
+      1
+    ],
+    [
+      "EinharMasterCraft32",
+      "각 아이템에 속성 부여 절반 적용",
+      [
+        24
+      ],
+      "쉐이퍼 또는 엘더 아이템에는 적용 불가",
+      "아이템을 둘로 분할",
+      false,
+      [],
+      false,
+      1
+    ],
+    [
+      "EinharMasterCraft33",
+      "다른 무작위 고유 아이템으로",
+      [
+        27
+      ],
+      "",
+      "고유 아이템 전환",
+      false,
+      [],
+      false,
+      1
+    ],
+    [
+      "EinharMasterCraftFlask1",
+      "\"- 열기\" 추가",
+      [
+        184
+      ],
+      "현재 플라스크에 접미어가 없어야 함",
+      "플라스크에 속성 부여 추가",
+      false,
+      [],
+      false,
+      1
+    ],
+    [
+      "EinharMasterCraftFlask2",
+      "\"- 소화\" 추가",
+      [
+        184
+      ],
+      "현재 플라스크에 접미어가 없어야 함",
+      "플라스크에 속성 부여 추가",
+      false,
+      [],
+      false,
+      1
+    ],
+    [
+      "EinharMasterCraftFlask3",
+      "\"- 출혈 면역\" 추가",
+      [
+        184
+      ],
+      "현재 플라스크에 접미어가 없어야 함",
+      "플라스크에 속성 부여 추가",
+      false,
+      [],
+      false,
+      1
+    ],
+    [
+      "EinharMasterCraftFlask4",
+      "\"- 접지\" 추가",
+      [
+        184
+      ],
+      "현재 플라스크에 접미어가 없어야 함",
+      "플라스크에 속성 부여 추가",
+      false,
+      [],
+      false,
+      1
+    ],
+    [
+      "EinharMasterCraftFlask5",
+      "\"- 치료\" 추가",
+      [
+        184
+      ],
+      "현재 플라스크에 접미어가 없어야 함",
+      "플라스크에 속성 부여 추가",
+      false,
+      [],
+      false,
+      1
+    ],
+    [
+      "EinharMasterCraftFlask6",
+      "\"- 수호\" 추가",
+      [
+        184
+      ],
+      "현재 플라스크에 접미어가 없어야 함",
+      "플라스크에 속성 부여 추가",
+      false,
+      [],
+      false,
+      1
+    ],
+    [
+      "EinharMasterCraft34",
+      "페룰의 굴",
+      [
+        0
+      ],
+      "",
+      "포탈 열기",
+      false,
+      [],
+      false,
+      1
+    ],
+    [
+      "EinharMasterCraft35",
+      "사카왈의 보금자리",
+      [
+        17
+      ],
+      "",
+      "포탈 열기",
+      false,
+      [],
+      false,
+      1
+    ],
+    [
+      "EinharMasterCraft36",
+      "페누무스의 소굴",
+      [
+        25
+      ],
+      "",
+      "포탈 열기",
+      false,
+      [],
+      false,
+      1
+    ],
+    [
+      "EinharMasterCraft37",
+      "크라칸의 만",
+      [
+        34
+      ],
+      "",
+      "포탈 열기",
+      false,
+      [],
+      true,
+      1
+    ],
+    [
+      "EinharMasterCraft38",
+      "고양이의 위상 스킬",
+      [
+        107
+      ],
+      "",
+      "아이템에 위상 스킬 부여",
+      false,
+      [],
+      true,
+      1
+    ],
+    [
+      "EinharMasterCraft39",
+      "새의 위상 스킬",
+      [
+        108
+      ],
+      "",
+      "아이템에 위상 스킬 부여",
+      false,
+      [],
+      true,
+      1
+    ],
+    [
+      "EinharMasterCraft40",
+      "거미의 위상 스킬",
+      [
+        109
+      ],
+      "",
+      "아이템에 위상 스킬 부여",
+      false,
+      [],
+      true,
+      1
+    ],
+    [
+      "EinharMasterCraft41",
+      "게의 위상 스킬",
+      [
+        110
+      ],
+      "",
+      "아이템에 위상 스킬 부여",
+      false,
+      [],
+      false,
+      1
+    ]
+  ]
+}

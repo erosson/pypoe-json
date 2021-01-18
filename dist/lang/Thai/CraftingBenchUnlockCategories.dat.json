@@ -1,1 +1,2036 @@
-{"filename":"CraftingBenchUnlockCategories.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown1","rowid":1,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown2","rowid":2,"type":"ref|list|int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"UnlockType","rowid":3,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"CraftingItemClassCategoriesKeys","rowid":4,"type":"ref|list|ulong","key":"CraftingItemClassCategories.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"ObtainingDescription","rowid":5,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["JunAddedColdAndLightningDamage",8,[2,4,8],"เสริมความเสียหาย น้ำแข็ง และ ไฟฟ้า - อันดับ",[4,9,13],"เปิดผนึก โล่, แหวน หรือ ซองธนู"],["JunAddedFireAndColdDamage",8,[2,4,8],"เสริมความเสียหาย ไฟ และ น้ำแข็ง - อันดับ",[4,9,13],"เปิดผนึก โล่, แหวน หรือ ซองธนู"],["JunAddedFireAndLightningDamage",8,[2,4,8],"เสริมความเสียหาย ไฟ และ ไฟฟ้า - อันดับ",[4,9,13],"เปิดผนึก โล่, แหวน หรือ ซองธนู"],["JunAllDamage",4,[1,2,4],"เพิ่มความเสียหาย - อันดับ",[9,11],"เปิดผนึก แหวน หรือ เข็มขัด ที่ได้จาก Leo ที่กำหนด"],["JunAlwaysHits",1,[1],"การโจมตีไม่มีวันพลาดเป้า",[0,1],"เปิดผนึก อาวุธประชิด ที่ได้จาก Vagan ที่กำหนด"],["JunArmourAndEnergyShield",8,[2,4,8],"เกราะ และ โล่พลังงาน - อันดับ",[11],"เปิดผนึก เข็มขัด"],["JunArmourAndEvasionRating",8,[2,4,8],"เกราะ และ หลบหลีก - อันดับ",[11,13],"เปิดผนึก เข็มขัด หรือ ซองธนู"],["JunAttackAndCastSpeed",8,[2,4,8],"ความเร็วในการโจมตีและร่าย - อันดับ",[9,10,13],"เปิดผนึก แหวน, สร้อย หรือ ซองธนู"],["JunAttackAndCastSpeedWhileFocused",8,[2,4,8],"ความเร็วในการโจมตีและร่าย ขณะ Focus - อันดับ",[7],"เปิดผนึก ถุงมือ"],["JunAttackSpeedPercentIfRareOrUniqueEnemyNearby",8,[2,4,8],"ความเร็วในการโจมตี ขณะมีศัตรูระดับแรร์หรือยูนิคอยู่ใกล้ - อันดับ",[0,1,2,3],"เปิดผนึก อาวุธ"],["JunAvoidElementalDamageChancePercentDuringSoulGainPrevention",4,[2,4],"เลี่ยงความเสียหาย ธาตุ ขณะอยู่ในสถานะไม่ได้รับ Soul - อันดับ",[6,5],"เปิดผนึก ชุดเกราะ หรือ หมวก"],["JunAvoidFreeze",4,[1,2,4],"หลีกเลี่ยงการถูก แช่แข็ง - อันดับ",[8],"เปิดผนึก รองเท้า ที่ได้จาก Rin Yuushu ที่กำหนด"],["JunBaseLifeAndMana",8,[2,4,8],"พลังชีวิต และ มานา - อันดับ",[5,7,8,9,10,11,13],"เปิดผนึก หมวก, ถุงมือ, รองเท้า, แหวน, สร้อย, เข็มขัด หรือ ซองธนู"],["JunBleedOnHitGained",4,[1,2,4],"เสริมความเสียหาย กายภาพ และ โอกาสเลือดไหล - อันดับ",[0,1,2,3],"เปิดผนึก อาวุธ ที่ได้จาก Tora ที่กำหนด"],["JunChanceToDealDoubleDamageWhileFocused",8,[2,4,8],"โอกาสสร้างความเสียหาย 2 เท่าขณะ Focus - อันดับ",[0,1,2,3],"เปิดผนึก อาวุธ"],["JunChanceToNotConsumeFlaskCharges",4,[2,4],"โอกาสที่ขวดยาจะไม่ใช้ Charge - อันดับ",[11],"เปิดผนึก เข็มขัด"],["JunChaosDamageAndChaosSkillDuration",8,[2,4,8],"ความเสียหาย เคออส และระยะเวลาส่งผลสกิล เคออส - อันดับ",[0,1,2,3],"เปิดผนึก อาวุธ"],["JunChaosNonAilmentDamageOverTimeMultiplier",8,[2,4,8],"ตัวคูณความเสียหาย เคออสต่อเนื่อง - อันดับ",[0,1,2,3],"เปิดผนึก อาวุธ"],["JunChaosPenetrationWithAttacks",8,[2,4,8],"เจาะต้านทาน เคออส ในอาวุธ - อันดับ",[0,1,2,3],"เปิดผนึก อาวุธ"],["JunColdDamageAndBaseChanceToFreeze",8,[2,4,8],"ความเสียหาย น้ำแข็ง และโอกาส แช่แข็ง - อันดับ",[0,1,2,3],"เปิดผนึก อาวุธ"],["JunColdDamageOnCritAndCritChance",4,[1,2,4],"โอกาสคริติคอล และ ตัวคูณคริติคอล เมื่อทำลายน้ำแข็ง - อันดับ",[9],"เปิดผนึก แหวน ที่ได้จาก Cameria the Coldblooded ที่กำหนด"],["JunColdDamageOverTimeMultiplier",8,[2,4,8],"ตัวคูณความเสียหาย ไฟและน้ำแข็งต่อเนื่อง - อันดับ",[0,1,2,3],"เปิดผนึก อาวุธ"],["JunCriticalChanceAndAddedChaosDamageIfHaveCritRecently",8,[2,4,8],"โอกาสคริติคอล และ เสริมความเสียหาย เคออส เมื่อคริติคอล - อันดับ",[7,13],"เปิดผนึก ถุงมือ หรือ ซองธนู"],["JunCriticalChanceAndElementalDamagePercentIfHaveCritRecently",8,[2,4,8],"โอกาสคริติคอล และ เพิ่มความเสียหาย ธาตุ เมื่อคริติคอล - อันดับ",[7,13],"เปิดผนึก ถุงมือ หรือ ซองธนู"],["JunCriticalChanceAndGainFrenzyChargeOnCriticalStrikePercent",8,[2,4,8],"โอกาสคริติคอล และ ได้รับ Frenzy Charge เมื่อคริติคอล - อันดับ",[13],"เปิดผนึก ซองธนู"],["JunCriticalStrikeMultiplierIfRareOrUniqueEnemyNearby",8,[2,4,8],"ตัวคูณคริติคอล ขณะมีศัตรูระดับแรร์หรือยูนิคอยู่ใกล้ - อันดับ",[0,1,2,3],"เปิดผนึก อาวุธ"],["JunCurseEffect",4,[2,4],"ผลคำสาป - อันดับ",[4],"เปิดผนึก โล่"],["JunDamageDuringFlaskEffect",4,[1,2,4],"ความเสียหาย ระหว่างผลของขวดยา - อันดับ",[7],"เปิดผนึก ถุงมือ ที่ได้จาก Guff Grenn ที่กำหนด"],["JunDamagePerEnduranceCharge",3,[3],"ความเสียหาย ตามจำนวน Endurance Charge - อันดับ",[0,1,2,3],"เปิดผนึก อาวุธ"],["JunDamagePerFrenzyCharge",3,[3],"ความเสียหาย ตามจำนวน Frenzy Charge",[0,1,2,3],"เปิดผนึก อาวุธ"],["JunDamagePerPowerCharge",3,[3],"ความเสียหาย ตามจำนวน Power Charge",[0,1,2,3],"เปิดผนึก อาวุธ"],["JunDamagePlusPercentWithNonVaalSkillsDuringSoulGainPrevention",8,[2,4,8],"ความเสียหาย ของสกิลที่ไม่ใช่สกิล Vaal ขณะอยู่ในสถานะไม่ได้รับ Soul - อันดับ",[8,7],"เปิดผนึก รองเท้า หรือ ถุงมือ"],["JunDamageRemovedFromManaBeforeLifeWhileFocused",3,[3],"รับความเสียหายด้วย มานา ก่อน พลังชีวิต ขณะ Focus",[6],"เปิดผนึก ชุดเกราะ"],["JunDamageWhileLeeching",4,[1,2,4],"เพิ่มความเสียหาย ระหว่างการดูด - อันดับ",[7,10],"เปิดผนึก ถุงมือ หรือ สร้อย ที่ได้จาก Vorici ที่กำหนด"],["JunDexterityAndIntelligence",8,[2,4,8],"Dexterity และ Intelligence - อันดับ",[6,8,7,5,4,10,11,9,13],"เปิดผนึก ชุดเกราะ, รองเท้า, ถุงมือ, หมวก, โล่, สร้อย, เข็มขัด, แหวน หรือ ซองธนู"],["JunDodgeChanceDuringFocus",8,[2,4,8],"โอกาสหลีกเลี่ยง ขณะ Focus - อันดับ",[5,8],"เปิดผนึก หมวก หรือ รองเท้า"],["JunDoubleDamageChance",4,[2,4],"โอกาสสร้างความเสียหาย 2 เท่า - อันดับ",[0,1,2,3],"เปิดผนึก อาวุธ"],["JunWolfOnKill",1,[1],"เสก หมาป่า เมื่อสังหาร - อันดับ",[10],"เปิดผนึก สร้อย ที่ได้จาก Thane Jorgin ที่กำหนด"],["JunEffectOfAilments",4,[2,4],"ผลของการเจ็บป่วยที่ไม่สร้างความเสียหาย - อันดับ",[8,10],"เปิดผนึก รองเท้า หรือ สร้อย"],["JunElementalPenetrationWithAttacks",8,[2,4,8],"เจาะต้านทาน ธาตุ ด้วยอาวุธ - อันดับ",[0,1,2,3],"เปิดผนึก อาวุธ"],["JunEnergyShieldRegenerationRatePerMinuteIfRareOrUniqueEnemyNearby",8,[2,4,8],"ฟื้นฟูโล่พลังงาน ขณะมีศัตรูระดับแรร์หรือยูนิคอยู่ใกล้ - อันดับ",[6,11],"เปิดผนึก ชุดเกราะ หรือ เข็มขัด"],["JunEvasionRatingAndEnergyShield",8,[2,4,8],"หลบหลีก และ โล่พลังงาน - อันดับ",[11,13],"เปิดผนึก เข็มขัด หรือ ซองธนู"],["JunFireDamageAndChanceToIgnite",8,[2,4,8],"ความเสียหาย ไฟ และ โอกาสลุกไหม้ - อันดับ",[0,1,2,3],"เปิดผนึก อาวุธ"],["JunFlaskEffect",8,[2,4,8],"ผลของขวดยา - อันดับ",[11],"เปิดผนึก เข็มขัด"],["JunFlaskEffectAndFlaskChargesGained",4,[2,4],"ผลของขวดยา และ ลดการใช้ Charge ของขวดยา - อันดับ",[11],"เปิดผนึก เข็มขัด"],["JunFortifyEffectWhileFocused",8,[2,4,8],"ผลของ Fortify ขณะ Focus - อันดับ",[6],"เปิดผนึก ชุดเกราะ"],["JunGainOnslaughtDuringSoulGainPrevention",3,[3],"Onslaught ขณะอยู่ในสถานะห้ามเก็บ Soul - อันดับ",[8,7],"เปิดผนึก รองเท้า หรือ ถุงมือ"],["JunBrandAttachmentRange",8,[2,4,8],"ระยะเกาะของ Brand - อันดับ",[10,7],"เปิดผนึก สร้อย หรือ ถุงมือ"],["JunGlobalCooldownRecovery",4,[2,4],"อัตราการฟื้นฟูคูลดาว - อันดับ",[11],"เปิดผนึก เข็มขัด"],["JunImmuneToStatusAilmentsWhileFocused",3,[3],"ไม่เจ็บป่วยขณะ Focus",[8],"เปิดผนึก รองเท้า"],["JunIncreasedChaosAndPhysicalDamage",4,[1,2,4],"ความเสียหาย เคออส และ กายภาพ - อันดับ",[9],"เปิดผนึก แหวน ที่ได้จาก Aisling Laffrey ที่กำหนด"],["JunIncreasedDefencesAndLife",8,[2,4,8],"ป้องกัน และ พลังชีวิต - อันดับ",[6,8,7,5,4],"เปิดผนึก ชุดเกราะ, รองเท้า, ถุงมือ, หมวก หรือ โล่"],["JunIncreasedFireAndLightningDamage",4,[1,2,4],"ความเสียหาย ไฟ และ ไฟฟ้า - อันดับ",[9],"เปิดผนึก แหวน ที่ได้จาก Riker Maloney ที่กำหนด"],["JunIncreasedManaAndRegen",8,[2,4,8],"มานา และ การฟื้นฟูมานา - อันดับ",[9,10],"เปิดผนึก แหวน หรือ สร้อย"],["JunItemRarityFromRareAndUniqueEnemies",4,[1,2,4],"ความหายากของไอเทมที่ได้จากมอนสเตอร์ระดับแรร์และยูนิค - อันดับ",[5],"เปิดผนึก หมวก ที่ได้จาก Janus Perandus ที่กำหนด"],["JunLifeAddedAsEnergyShield",4,[1,2,4],"โล่พลังงาน จากพลังชีวิตสูงสุด - อันดับ",[6],"เปิดผนึก ชุดเกราะ ที่ได้จาก Gravicius Reborn ที่กำหนด"],["JunLifeLeechFromAnyDamagePermyriadWhileFocused",3,[3],"ได้รับ Vaal Pact และ ดูดความเสียหายไปเป็น พลังชีวิต ขณะ Focus",[10],"เปิดผนึก สร้อย"],["JunLifeRegeneration",4,[2,4],"ฟื้นฟู พลังชีวิต - อันดับ",[10,4],"เปิดผนึก สร้อย หรือ โล่"],["JunLifeRegenerationPerEvasionDuringFocus",3,[3],"ฟื้นฟู พลังชีวิต จากค่า หลบหลีก ขณะ Focus",[6],"เปิดผนึก ชุดเกราะ"],["JunLightningDamageAndChanceToShock",8,[2,4,8],"ความเสียหาย ไฟฟ้า และ โอกาสช็อค - อันดับ",[0,1,2,3],"เปิดผนึก อาวุธ"],["JunLocalFlaskAvoidStunChanceAndMovementSpeedDuringFlaskEffect",1,[1],"ความเร็วในการเคลื่อนที่ และ โอกาสหลีกเลี่ยงสถานะมึนงง ระหว่างผลของขวดยา - อันดับ",[12],"เปิดผนึก ขวดยา"],["JunLocalFlaskCriticalStrikeChanceDuringFlaskEffect",1,[1],"โอกาสคริติคอล ระหว่างผลของขวดยา - อันดับ",[12],"เปิดผนึก ขวดยา"],["JunLocalFlaskItemFoundRarityDuringFlaskEffect",1,[1],"ความหายากของไอเทม ระหว่างผลของขวดยา",[12],"เปิดผนึก ขวดยา"],["JunLocalFlaskLifeLeechOnDamageTakenDuringFlaskEffect",1,[1],"ดูดความเสียหายที่ได้รับ มาเป็น พลังชีวิต ระหว่างผลของขวดยา - อันดับ",[12],"เปิดผนึก ขวดยา"],["JunLocalFlaskLifeRegenerationPerMinuteDuringFlaskEffect",1,[1],"อัตราการฟื้นฟู พลังชีวิต ระหว่างผลของขวดยา",[12],"เปิดผนึก ขวดยา"],["JunLocalFlaskSkillManaCostDuringFlaskEffect",1,[1],"การใช้งานมานา ระหว่างผลของขวดยา - อันดับ",[12],"เปิดผนึก ขวดยา"],["JunLocalIncreasedPhysicalDamageAndBleedChance",8,[2,4,8],"ความเสียหายกายภาพ และ โอกาสเลือดไหล - อันดับ",[0,1,2,3],"เปิดผนึก อาวุธ"],["JunLocalIncreasedPhysicalDamageAndBlindChance",8,[2,4,8],"ความเสียหายกายภาพ และ โอกาสตาบอด - อันดับ",[0,1,2,3],"เปิดผนึก อาวุธ"],["JunLocalIncreasedPhysicalDamageAndImpale",8,[2,4,8],"ความเสียหายกายภาพ และ โอกาสทิ่มแทง - อันดับ",[0,1,2,3],"เปิดผนึก อาวุธ"],["JunLocalIncreasedPhysicalDamageAndPoisonChance",8,[2,4,8],"ความเสียหายกายภาพ และ โอกาสติดพิษ - อันดับ",[0,1,2,3],"เปิดผนึก อาวุธ"],["JunLocalIncreaseSocketedSupportGemLevel",2,[1,2],"เลเวลของเจม สนับสนุน - อันดับ",[0,2,1,3,4],"เปิดผนึก อาวุธ หรือ โล่ ที่ได้จาก ผู้บงการองค์กร ที่กำหนด"],["JunLuckyCriticalsDuringFocus",3,[3],"โอกาสคริติคอลจะโชคดี ขณะ Focus",[11],"เปิดผนึก เข็มขัด"],["JunManaAndDamageTakenGoesToManaPercent",8,[2,4,8],"มานา และ ได้รับมานาจากความเสียหายที่ได้รับ - อันดับ",[9,10],"เปิดผนึก แหวน หรือ สร้อย"],["JunManaAndManaCostPercent",8,[2,4,8],"มานา และ การใช้งานมานาน - อันดับ",[9,10],"เปิดผนึก แหวน หรือ สร้อย"],["JunMaximumCurse",5,[5],"จำนวน คำสาป สูงสุด - อันดับ",[6],"เปิดผนึก ชุดเกราะ"],["JunMaximumTotem",3,[3],"จำนวน โทเทม สูงสุด - อันดับ",[4],"เปิดผนึก โล่"],["JunMaximumZombieAndSkeleton",3,[3],"จำนวน ซอมบี้ และ โครงกระดูก สูงสุด - อันดับ",[5],"เปิดผนึก หมวก"],["JunMeleeRangeAndMeleeGemLevel",8,[2,4,8],"ระยะโจมตีประชิด และ ม็อดประชิด - อันดับ",[5,7,10],"เปิดผนึก หมวก, ถุงมือ หรือ สร้อย"],["JunMineLayingSpeed",8,[2,4,8],"ความเร็วในการโยนทุ่นระเบิด",[10,5],"เปิดผนึก สร้อย หรือ หมวก"],["JunMinimumEnduranceCharges",3,[3],"จำนวน Endurance Charge ต่ำสุด - อันดับ",[9,10],"เปิดผนึก แหวน หรือ สร้อย"],["JunMinimumFrenzyCharges",3,[3],"จำนวน Frenzy Charge ต่ำสุด - อันดับ",[9,10],"เปิดผนึก แหวน หรือ สร้อย"],["JunMinimumPowerCharges",3,[3],"จำนวน Power Charge ต่ำสุด - อันดับ",[9,10],"เปิดผนึก แหวน หรือ สร้อย"],["JunMinionAttackAndCastSpeedOnWeapon",8,[2,4,8],"ความเร็วในการโจมตีและร่าย ของมิเนียน - อันดับ",[0,1,2,3],"เปิดผนึก อาวุธ"],["JunMinionDamageAndMinionMaximumLife",8,[2,4,8],"ความเสียหาย และ พลังชีวิต ของมิเนียน - อันดับ",[0,1,2,3],"เปิดผนึก อาวุธ"],["JunMinionsRecoverMaximumLifeWhenYouFocus",3,[3],"ฟื้นฟูพลังชีวิต ให้มิเนียน เมื่อคุณ Focus - อันดับ",[7],"เปิดผนึก ถุงมือ"],["JunMovementVelocityAndCannotBeChilled",8,[2,4,8],"ความเร็วในการเคลื่อนที่ และ ป้องกันการติดสถานะหนาวเย็น - อันดับ",[8],"เปิดผนึก รองเท้า"],["JunMovementVelocityAndMovementVelocityIfNotHitRecently",8,[2,4,8],"ความเร็วในการเคลื่อนที่ และ ความเร็วเมื่อไม่โดนปะทะ - อันดับ",[8],"เปิดผนึก รองเท้า"],["JunMovementVelocityAndOnslaughtOnKill",8,[2,4,8],"ความเร็วในการเคลื่อนที่ และ Onslaught เมื่อสังหาร - อันดับ",[8],"เปิดผนึก รองเท้า"],["JunNonChaosAddedAsChaos",4,[1,2,4],"ความเสียหาย เสริมมาเป็นเคออส - อันดับ",[0,2,1,3,4],"เปิดผนึก อาวุธ หรือ โล่ ที่ได้จาก It That Fled ที่กำหนด"],["JunPercentageAllAttributes",4,[1,2,4],"ค่าสถานะ - อันดับ",[6],"เปิดผนึก ชุดเกราะ ที่ได้จาก Hillock, the Blacksmith ที่กำหนด"],["JunPhysicalDamageConvertedToCold",3,[3],"เปลี่ยนความเสียหาย กายภาพ เป็นน้ำแข็ง - อันดับ",[7],"เปิดผนึก ถุงมือ"],["JunPhysicalDamageConvertedToFire",3,[3],"เปลี่ยนความเสียหาย กายภาพ เป็นไฟ - อันดับ",[7],"เปิดผนึก ถุงมือ"],["JunPhysicalDamageConvertedToLightning",3,[3],"เปลี่ยนความเสียหาย กายภาพ เป็นไฟฟ้า - อันดับ",[7],"เปิดผนึก ถุงมือ"],["JunPhysicalDamageReductionDuringFocus",8,[2,4,8],"เสริมป้องกันกายภาพ ระหว่าง Focus - อันดับ",[5,7],"เปิดผนึก หมวก หรือ ถุงมือ"],["JunPhysicalDamageReductionRatingDuringSoulGainPrevention",8,[2,4,8],"เพิ่ม เกราะ ระหว่างอยู่ในสถานะไม่ได้รับ Soul - อันดับ",[6,4],"เปิดผนึก ชุดเกราะ หรือ โล่"],["JunPhysicalDamageTakenAsFirePercent",4,[1,2,4],"รับความเสียหาย กายภาพ เป็น ไฟ - อันดับ",[5],"เปิดผนึก หมวก ที่ได้จาก Korell Goya ที่กำหนด"],["JunProjectilePierceAndProjectileGemLevel",8,[2,4,8],"กระสุนเจาะทะลุ และ ม็อดกระสุน - อันดับ",[5,7,10],"เปิดผนึก หมวก, ถุงมือ หรือ สร้อย"],["JunReduceGlobalFlatManaCost",8,[2,4,8],"มานาที่ใช้ในการร่ายสกิล - อันดับ",[9,10],"เปิดผนึก แหวน หรือ สร้อย ที่ได้จาก Elreon ที่กำหนด"],["JunRestoreManaAndEnergyShieldOnFocus",8,[2,4,8],"มานา และ โล่พลังงาน เมื่อ Focus - อันดับ",[6],"เปิดผนึก ชุดเกราะ"],["JunShockNearbyEnemiesOnFocus",8,[2,4,8],"ทำให้ศัตรูที่อยู่ใกล้ช็อค เมื่อ Focus - อันดับ",[9],"เปิดผนึก แหวน"],["JunSkillAreaOfEffectPercentAndAreaOfEffectGemLevel",8,[2,4,8],"ความกว้างของพื้นที่ และ ม็อดพื้นที่ - อันดับ",[5,7,10],"เปิดผนึก หมวก, ถุงมือ หรือ สร้อย"],["JunSkillsCostNoManaWhileFocused",3,[3],"สกิลไม่ใช้มานา ขณะ Focus",[10],"เปิดผนึก สร้อย"],["JunSocketedGemQuality",4,[1,2,4],"คุณภาพของเจม - อันดับ",[0,2,1,3,4],"เปิดผนึก อาวุธ หรือ โล่ ที่ได้จาก Haku ที่กำหนด"],["JunSpellDamageAndManaRegenerationRate",8,[2,4,8],"ความเสียหาย เวทย์ และ ฟื้นฟูมานา - อันดับ",[0,1,2,3],"เปิดผนึก อาวุธ"],["JunSpellDamageAndNonChaosDamageToAddAsChaosDamage",8,[2,4,8],"ความเสียหาย เวทย์ และ เสริมความเสียหาย เคออส จาก ความเสียหายที่ไม่ใช่เคออส - อันดับ",[0,1,2],"เปิดผนึก อาวุธ"],["JunStatusAilmentsYouInflictDurationWhileFocused",8,[2,4,8],"ระยะเวลาเจ็บป่วย ขณะ Focus - อันดับ",[5],"เปิดผนึก หมวก"],["JunStrengthAndDexterity",8,[2,4,8],"Strength และ Dexterity - อันดับ",[6,8,7,5,4,10,11,9,13],"เปิดผนึก ชุดเกราะ, รองเท้า, ถุงมือ, หมวก, โล่, สร้อย, เข็มขัด, แหวน หรือ ซองธนู"],["JunStrengthAndIntelligence",8,[2,4,8],"Strength และ Intelligence - อันดับ",[6,8,7,5,4,10,11,9,13],"เปิดผนึก ชุดเกราะ, รองเท้า, ถุงมือ, หมวก, โล่, สร้อย, เข็มขัด, แหวน หรือ ซองธนู"],["JunSummonTotemCastSpeed",8,[2,4,8],"ความเร็วในการ ปักโทเทม - อันดับ",[8,10],"เปิดผนึก รองเท้า หรือ สร้อย"],["JunTrapThrowSpeed",8,[2,4,8],"ความเร็วในการ โยนกับดัก - อันดับ",[10,11],"เปิดผนึก สร้อย หรือ เข็มขัด"],["JunTriggerSocketedSpellWhenYouFocus",3,[3],"ใช้งานสกิลเมื่อ Focus",[5],"เปิดผนึก หมวก"],["JunLocalAttackSpeedAndLocalItemQuality",4,[2,4],"ความเร็วในการโจมตีของไอเทม และคุณภาพของไอเทม - อันดับ",[0,2,1,3],"เปิดผนึก อาวุธ"],["JunLocalCriticalStrikeChanceAndLocalItemQuality",4,[2,4],"โอกาสคริติคอล และ คุณภาพ - อันดับ",[0,2,1,3],"เปิดผนึก อาวุธ"],["JunLocalAccuracyRatingAndLocalItemQuality",8,[2,4,8],"ความแม่นยำ และ คุณภาพ - อันดับ",[0,2,1,3],"เปิดผนึก อาวุธ"],["JunLocalAttackSpeedAndLocalDisplayTriggerLevelBloodRageOnKillChance",4,[2,4],"ความเร็วในการโจมตี และ ใช้งาน Blood Rage เมื่อสังหาร - อันดับ",[0,2,1,3],"เปิดผนึก อาวุธ"],["JunCastSpeedAndGainArcaneSurgeOnKillChance",8,[2,4,8],"ความเร็วในการร่าย และ ได้รับ Arcane Surge เมื่อสังหาร - อันดับ",[0,2,1,3],"เปิดผนึก อาวุธ"],["JunTriggerSocketedSpellOnSkillUse",3,[3],"ใช้งานสกิลเวทย์ เมื่อคุณใช้สกิลอื่น",[0,2,1,3],"เปิดผนึก อาวุธ"],["JunFireAndChaosDamageResistance",8,[2,4,8],"ต้านทาน ไฟ และ เคออส - อันดับ",[0,1,2,3,6,7,8,5,4,9,10,11,13],"เปิดผนึก อาวุธ, ชุดเกราะ, ถุงมือ, รองเท้า, หมวก, โล่, แหวน, สร้อย, เข็มขัด หรือ ซองธนู"],["JunLightningAndChaosDamageResistance",8,[2,4,8],"ต้านทาน ไฟฟ้า และ เคออส - อันดับ",[0,1,2,3,6,7,8,5,4,9,10,11,13],"เปิดผนึก อาวุธ, ชุดเกราะ, ถุงมือ, รองเท้า, หมวก, โล่, แหวน, สร้อย, เข็มขัด หรือ ซองธนู"],["JunColdAndChaosDamageResistance",8,[2,4,8],"ต้านทาน น้ำแข็ง และ เคออส - อันดับ",[0,1,2,3,6,7,8,5,4,9,10,11,13],"เปิดผนึก อาวุธ, ชุดเกราะ, ถุงมือ, รองเท้า, หมวก, โล่, แหวน, สร้อย, เข็มขัด หรือ ซองธนู"],["JunStrengthAndLocalItemQuality",8,[2,4,8],"Strength และ คุณภาพ - อันดับ",[0,1,2,3,6,4],"เปิดผนึก อาวุธ, ชุดเกราะ หรือ โล่"],["JunDexterityAndLocalItemQuality",8,[2,4,8],"Dexterity และ คุณภาพ - อันดับ",[0,1,2,3,6,4],"เปิดผนึก อาวุธ, ชุดเกราะ หรือ โล่"],["JunIntelligenceAndLocalItemQuality",8,[2,4,8],"Intelligence และ คุณภาพ - อันดับ",[0,1,2,3,6,4],"เปิดผนึก อาวุธ, ชุดเกราะ หรือ โล่"],["JunLifeRegenerationRatePerMinuteWhileUsingFlask",8,[2,4,8],"อัตราการฟื้นฟู พลังชีวิต ระหว่างผลของขวดยา - อันดับ",[11],"เปิดผนึก เข็มขัด"],["JunPercentageLifeAndMana",3,[3],"เพิ่ม พลังชีวิต และ มานา - อันดับ",[6],"เปิดผนึก ชุดเกราะ"],["JunBlockPercent",3,[3],"บล็อค การโจมตี",[6],"เปิดผนึก ชุดเกราะ"],["JunSpellDodgePercentage",3,[3],"หลีกเลี่ยง เวทย์",[6],"เปิดผนึก ชุดเกราะ"],["JunAvoidStunAndElementalStatusAilments",3,[3],"หลีกเลี่ยง สถานะมึนงงและเจ็บป่วย - อันดับ",[6],"เปิดผนึก ชุดเกราะ"]]}
+{
+  "filename": "CraftingBenchUnlockCategories.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown1",
+      "rowid": 1,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown2",
+      "rowid": 2,
+      "type": "ref|list|int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "UnlockType",
+      "rowid": 3,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "CraftingItemClassCategoriesKeys",
+      "rowid": 4,
+      "type": "ref|list|ulong",
+      "key": "CraftingItemClassCategories.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "ObtainingDescription",
+      "rowid": 5,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "JunAddedColdAndLightningDamage",
+      8,
+      [
+        2,
+        4,
+        8
+      ],
+      "เสริมความเสียหาย น้ำแข็ง และ ไฟฟ้า - อันดับ",
+      [
+        4,
+        9,
+        13
+      ],
+      "เปิดผนึก โล่, แหวน หรือ ซองธนู"
+    ],
+    [
+      "JunAddedFireAndColdDamage",
+      8,
+      [
+        2,
+        4,
+        8
+      ],
+      "เสริมความเสียหาย ไฟ และ น้ำแข็ง - อันดับ",
+      [
+        4,
+        9,
+        13
+      ],
+      "เปิดผนึก โล่, แหวน หรือ ซองธนู"
+    ],
+    [
+      "JunAddedFireAndLightningDamage",
+      8,
+      [
+        2,
+        4,
+        8
+      ],
+      "เสริมความเสียหาย ไฟ และ ไฟฟ้า - อันดับ",
+      [
+        4,
+        9,
+        13
+      ],
+      "เปิดผนึก โล่, แหวน หรือ ซองธนู"
+    ],
+    [
+      "JunAllDamage",
+      4,
+      [
+        1,
+        2,
+        4
+      ],
+      "เพิ่มความเสียหาย - อันดับ",
+      [
+        9,
+        11
+      ],
+      "เปิดผนึก แหวน หรือ เข็มขัด ที่ได้จาก Leo ที่กำหนด"
+    ],
+    [
+      "JunAlwaysHits",
+      1,
+      [
+        1
+      ],
+      "การโจมตีไม่มีวันพลาดเป้า",
+      [
+        0,
+        1
+      ],
+      "เปิดผนึก อาวุธประชิด ที่ได้จาก Vagan ที่กำหนด"
+    ],
+    [
+      "JunArmourAndEnergyShield",
+      8,
+      [
+        2,
+        4,
+        8
+      ],
+      "เกราะ และ โล่พลังงาน - อันดับ",
+      [
+        11
+      ],
+      "เปิดผนึก เข็มขัด"
+    ],
+    [
+      "JunArmourAndEvasionRating",
+      8,
+      [
+        2,
+        4,
+        8
+      ],
+      "เกราะ และ หลบหลีก - อันดับ",
+      [
+        11,
+        13
+      ],
+      "เปิดผนึก เข็มขัด หรือ ซองธนู"
+    ],
+    [
+      "JunAttackAndCastSpeed",
+      8,
+      [
+        2,
+        4,
+        8
+      ],
+      "ความเร็วในการโจมตีและร่าย - อันดับ",
+      [
+        9,
+        10,
+        13
+      ],
+      "เปิดผนึก แหวน, สร้อย หรือ ซองธนู"
+    ],
+    [
+      "JunAttackAndCastSpeedWhileFocused",
+      8,
+      [
+        2,
+        4,
+        8
+      ],
+      "ความเร็วในการโจมตีและร่าย ขณะ Focus - อันดับ",
+      [
+        7
+      ],
+      "เปิดผนึก ถุงมือ"
+    ],
+    [
+      "JunAttackSpeedPercentIfRareOrUniqueEnemyNearby",
+      8,
+      [
+        2,
+        4,
+        8
+      ],
+      "ความเร็วในการโจมตี ขณะมีศัตรูระดับแรร์หรือยูนิคอยู่ใกล้ - อันดับ",
+      [
+        0,
+        1,
+        2,
+        3
+      ],
+      "เปิดผนึก อาวุธ"
+    ],
+    [
+      "JunAvoidElementalDamageChancePercentDuringSoulGainPrevention",
+      4,
+      [
+        2,
+        4
+      ],
+      "เลี่ยงความเสียหาย ธาตุ ขณะอยู่ในสถานะไม่ได้รับ Soul - อันดับ",
+      [
+        6,
+        5
+      ],
+      "เปิดผนึก ชุดเกราะ หรือ หมวก"
+    ],
+    [
+      "JunAvoidFreeze",
+      4,
+      [
+        1,
+        2,
+        4
+      ],
+      "หลีกเลี่ยงการถูก แช่แข็ง - อันดับ",
+      [
+        8
+      ],
+      "เปิดผนึก รองเท้า ที่ได้จาก Rin Yuushu ที่กำหนด"
+    ],
+    [
+      "JunBaseLifeAndMana",
+      8,
+      [
+        2,
+        4,
+        8
+      ],
+      "พลังชีวิต และ มานา - อันดับ",
+      [
+        5,
+        7,
+        8,
+        9,
+        10,
+        11,
+        13
+      ],
+      "เปิดผนึก หมวก, ถุงมือ, รองเท้า, แหวน, สร้อย, เข็มขัด หรือ ซองธนู"
+    ],
+    [
+      "JunBleedOnHitGained",
+      4,
+      [
+        1,
+        2,
+        4
+      ],
+      "เสริมความเสียหาย กายภาพ และ โอกาสเลือดไหล - อันดับ",
+      [
+        0,
+        1,
+        2,
+        3
+      ],
+      "เปิดผนึก อาวุธ ที่ได้จาก Tora ที่กำหนด"
+    ],
+    [
+      "JunChanceToDealDoubleDamageWhileFocused",
+      8,
+      [
+        2,
+        4,
+        8
+      ],
+      "โอกาสสร้างความเสียหาย 2 เท่าขณะ Focus - อันดับ",
+      [
+        0,
+        1,
+        2,
+        3
+      ],
+      "เปิดผนึก อาวุธ"
+    ],
+    [
+      "JunChanceToNotConsumeFlaskCharges",
+      4,
+      [
+        2,
+        4
+      ],
+      "โอกาสที่ขวดยาจะไม่ใช้ Charge - อันดับ",
+      [
+        11
+      ],
+      "เปิดผนึก เข็มขัด"
+    ],
+    [
+      "JunChaosDamageAndChaosSkillDuration",
+      8,
+      [
+        2,
+        4,
+        8
+      ],
+      "ความเสียหาย เคออส และระยะเวลาส่งผลสกิล เคออส - อันดับ",
+      [
+        0,
+        1,
+        2,
+        3
+      ],
+      "เปิดผนึก อาวุธ"
+    ],
+    [
+      "JunChaosNonAilmentDamageOverTimeMultiplier",
+      8,
+      [
+        2,
+        4,
+        8
+      ],
+      "ตัวคูณความเสียหาย เคออสต่อเนื่อง - อันดับ",
+      [
+        0,
+        1,
+        2,
+        3
+      ],
+      "เปิดผนึก อาวุธ"
+    ],
+    [
+      "JunChaosPenetrationWithAttacks",
+      8,
+      [
+        2,
+        4,
+        8
+      ],
+      "เจาะต้านทาน เคออส ในอาวุธ - อันดับ",
+      [
+        0,
+        1,
+        2,
+        3
+      ],
+      "เปิดผนึก อาวุธ"
+    ],
+    [
+      "JunColdDamageAndBaseChanceToFreeze",
+      8,
+      [
+        2,
+        4,
+        8
+      ],
+      "ความเสียหาย น้ำแข็ง และโอกาส แช่แข็ง - อันดับ",
+      [
+        0,
+        1,
+        2,
+        3
+      ],
+      "เปิดผนึก อาวุธ"
+    ],
+    [
+      "JunColdDamageOnCritAndCritChance",
+      4,
+      [
+        1,
+        2,
+        4
+      ],
+      "โอกาสคริติคอล และ ตัวคูณคริติคอล เมื่อทำลายน้ำแข็ง - อันดับ",
+      [
+        9
+      ],
+      "เปิดผนึก แหวน ที่ได้จาก Cameria the Coldblooded ที่กำหนด"
+    ],
+    [
+      "JunColdDamageOverTimeMultiplier",
+      8,
+      [
+        2,
+        4,
+        8
+      ],
+      "ตัวคูณความเสียหาย ไฟและน้ำแข็งต่อเนื่อง - อันดับ",
+      [
+        0,
+        1,
+        2,
+        3
+      ],
+      "เปิดผนึก อาวุธ"
+    ],
+    [
+      "JunCriticalChanceAndAddedChaosDamageIfHaveCritRecently",
+      8,
+      [
+        2,
+        4,
+        8
+      ],
+      "โอกาสคริติคอล และ เสริมความเสียหาย เคออส เมื่อคริติคอล - อันดับ",
+      [
+        7,
+        13
+      ],
+      "เปิดผนึก ถุงมือ หรือ ซองธนู"
+    ],
+    [
+      "JunCriticalChanceAndElementalDamagePercentIfHaveCritRecently",
+      8,
+      [
+        2,
+        4,
+        8
+      ],
+      "โอกาสคริติคอล และ เพิ่มความเสียหาย ธาตุ เมื่อคริติคอล - อันดับ",
+      [
+        7,
+        13
+      ],
+      "เปิดผนึก ถุงมือ หรือ ซองธนู"
+    ],
+    [
+      "JunCriticalChanceAndGainFrenzyChargeOnCriticalStrikePercent",
+      8,
+      [
+        2,
+        4,
+        8
+      ],
+      "โอกาสคริติคอล และ ได้รับ Frenzy Charge เมื่อคริติคอล - อันดับ",
+      [
+        13
+      ],
+      "เปิดผนึก ซองธนู"
+    ],
+    [
+      "JunCriticalStrikeMultiplierIfRareOrUniqueEnemyNearby",
+      8,
+      [
+        2,
+        4,
+        8
+      ],
+      "ตัวคูณคริติคอล ขณะมีศัตรูระดับแรร์หรือยูนิคอยู่ใกล้ - อันดับ",
+      [
+        0,
+        1,
+        2,
+        3
+      ],
+      "เปิดผนึก อาวุธ"
+    ],
+    [
+      "JunCurseEffect",
+      4,
+      [
+        2,
+        4
+      ],
+      "ผลคำสาป - อันดับ",
+      [
+        4
+      ],
+      "เปิดผนึก โล่"
+    ],
+    [
+      "JunDamageDuringFlaskEffect",
+      4,
+      [
+        1,
+        2,
+        4
+      ],
+      "ความเสียหาย ระหว่างผลของขวดยา - อันดับ",
+      [
+        7
+      ],
+      "เปิดผนึก ถุงมือ ที่ได้จาก Guff Grenn ที่กำหนด"
+    ],
+    [
+      "JunDamagePerEnduranceCharge",
+      3,
+      [
+        3
+      ],
+      "ความเสียหาย ตามจำนวน Endurance Charge - อันดับ",
+      [
+        0,
+        1,
+        2,
+        3
+      ],
+      "เปิดผนึก อาวุธ"
+    ],
+    [
+      "JunDamagePerFrenzyCharge",
+      3,
+      [
+        3
+      ],
+      "ความเสียหาย ตามจำนวน Frenzy Charge",
+      [
+        0,
+        1,
+        2,
+        3
+      ],
+      "เปิดผนึก อาวุธ"
+    ],
+    [
+      "JunDamagePerPowerCharge",
+      3,
+      [
+        3
+      ],
+      "ความเสียหาย ตามจำนวน Power Charge",
+      [
+        0,
+        1,
+        2,
+        3
+      ],
+      "เปิดผนึก อาวุธ"
+    ],
+    [
+      "JunDamagePlusPercentWithNonVaalSkillsDuringSoulGainPrevention",
+      8,
+      [
+        2,
+        4,
+        8
+      ],
+      "ความเสียหาย ของสกิลที่ไม่ใช่สกิล Vaal ขณะอยู่ในสถานะไม่ได้รับ Soul - อันดับ",
+      [
+        8,
+        7
+      ],
+      "เปิดผนึก รองเท้า หรือ ถุงมือ"
+    ],
+    [
+      "JunDamageRemovedFromManaBeforeLifeWhileFocused",
+      3,
+      [
+        3
+      ],
+      "รับความเสียหายด้วย มานา ก่อน พลังชีวิต ขณะ Focus",
+      [
+        6
+      ],
+      "เปิดผนึก ชุดเกราะ"
+    ],
+    [
+      "JunDamageWhileLeeching",
+      4,
+      [
+        1,
+        2,
+        4
+      ],
+      "เพิ่มความเสียหาย ระหว่างการดูด - อันดับ",
+      [
+        7,
+        10
+      ],
+      "เปิดผนึก ถุงมือ หรือ สร้อย ที่ได้จาก Vorici ที่กำหนด"
+    ],
+    [
+      "JunDexterityAndIntelligence",
+      8,
+      [
+        2,
+        4,
+        8
+      ],
+      "Dexterity และ Intelligence - อันดับ",
+      [
+        6,
+        8,
+        7,
+        5,
+        4,
+        10,
+        11,
+        9,
+        13
+      ],
+      "เปิดผนึก ชุดเกราะ, รองเท้า, ถุงมือ, หมวก, โล่, สร้อย, เข็มขัด, แหวน หรือ ซองธนู"
+    ],
+    [
+      "JunDodgeChanceDuringFocus",
+      8,
+      [
+        2,
+        4,
+        8
+      ],
+      "โอกาสหลีกเลี่ยง ขณะ Focus - อันดับ",
+      [
+        5,
+        8
+      ],
+      "เปิดผนึก หมวก หรือ รองเท้า"
+    ],
+    [
+      "JunDoubleDamageChance",
+      4,
+      [
+        2,
+        4
+      ],
+      "โอกาสสร้างความเสียหาย 2 เท่า - อันดับ",
+      [
+        0,
+        1,
+        2,
+        3
+      ],
+      "เปิดผนึก อาวุธ"
+    ],
+    [
+      "JunWolfOnKill",
+      1,
+      [
+        1
+      ],
+      "เสก หมาป่า เมื่อสังหาร - อันดับ",
+      [
+        10
+      ],
+      "เปิดผนึก สร้อย ที่ได้จาก Thane Jorgin ที่กำหนด"
+    ],
+    [
+      "JunEffectOfAilments",
+      4,
+      [
+        2,
+        4
+      ],
+      "ผลของการเจ็บป่วยที่ไม่สร้างความเสียหาย - อันดับ",
+      [
+        8,
+        10
+      ],
+      "เปิดผนึก รองเท้า หรือ สร้อย"
+    ],
+    [
+      "JunElementalPenetrationWithAttacks",
+      8,
+      [
+        2,
+        4,
+        8
+      ],
+      "เจาะต้านทาน ธาตุ ด้วยอาวุธ - อันดับ",
+      [
+        0,
+        1,
+        2,
+        3
+      ],
+      "เปิดผนึก อาวุธ"
+    ],
+    [
+      "JunEnergyShieldRegenerationRatePerMinuteIfRareOrUniqueEnemyNearby",
+      8,
+      [
+        2,
+        4,
+        8
+      ],
+      "ฟื้นฟูโล่พลังงาน ขณะมีศัตรูระดับแรร์หรือยูนิคอยู่ใกล้ - อันดับ",
+      [
+        6,
+        11
+      ],
+      "เปิดผนึก ชุดเกราะ หรือ เข็มขัด"
+    ],
+    [
+      "JunEvasionRatingAndEnergyShield",
+      8,
+      [
+        2,
+        4,
+        8
+      ],
+      "หลบหลีก และ โล่พลังงาน - อันดับ",
+      [
+        11,
+        13
+      ],
+      "เปิดผนึก เข็มขัด หรือ ซองธนู"
+    ],
+    [
+      "JunFireDamageAndChanceToIgnite",
+      8,
+      [
+        2,
+        4,
+        8
+      ],
+      "ความเสียหาย ไฟ และ โอกาสลุกไหม้ - อันดับ",
+      [
+        0,
+        1,
+        2,
+        3
+      ],
+      "เปิดผนึก อาวุธ"
+    ],
+    [
+      "JunFlaskEffect",
+      8,
+      [
+        2,
+        4,
+        8
+      ],
+      "ผลของขวดยา - อันดับ",
+      [
+        11
+      ],
+      "เปิดผนึก เข็มขัด"
+    ],
+    [
+      "JunFlaskEffectAndFlaskChargesGained",
+      4,
+      [
+        2,
+        4
+      ],
+      "ผลของขวดยา และ ลดการใช้ Charge ของขวดยา - อันดับ",
+      [
+        11
+      ],
+      "เปิดผนึก เข็มขัด"
+    ],
+    [
+      "JunFortifyEffectWhileFocused",
+      8,
+      [
+        2,
+        4,
+        8
+      ],
+      "ผลของ Fortify ขณะ Focus - อันดับ",
+      [
+        6
+      ],
+      "เปิดผนึก ชุดเกราะ"
+    ],
+    [
+      "JunGainOnslaughtDuringSoulGainPrevention",
+      3,
+      [
+        3
+      ],
+      "Onslaught ขณะอยู่ในสถานะห้ามเก็บ Soul - อันดับ",
+      [
+        8,
+        7
+      ],
+      "เปิดผนึก รองเท้า หรือ ถุงมือ"
+    ],
+    [
+      "JunBrandAttachmentRange",
+      8,
+      [
+        2,
+        4,
+        8
+      ],
+      "ระยะเกาะของ Brand - อันดับ",
+      [
+        10,
+        7
+      ],
+      "เปิดผนึก สร้อย หรือ ถุงมือ"
+    ],
+    [
+      "JunGlobalCooldownRecovery",
+      4,
+      [
+        2,
+        4
+      ],
+      "อัตราการฟื้นฟูคูลดาว - อันดับ",
+      [
+        11
+      ],
+      "เปิดผนึก เข็มขัด"
+    ],
+    [
+      "JunImmuneToStatusAilmentsWhileFocused",
+      3,
+      [
+        3
+      ],
+      "ไม่เจ็บป่วยขณะ Focus",
+      [
+        8
+      ],
+      "เปิดผนึก รองเท้า"
+    ],
+    [
+      "JunIncreasedChaosAndPhysicalDamage",
+      4,
+      [
+        1,
+        2,
+        4
+      ],
+      "ความเสียหาย เคออส และ กายภาพ - อันดับ",
+      [
+        9
+      ],
+      "เปิดผนึก แหวน ที่ได้จาก Aisling Laffrey ที่กำหนด"
+    ],
+    [
+      "JunIncreasedDefencesAndLife",
+      8,
+      [
+        2,
+        4,
+        8
+      ],
+      "ป้องกัน และ พลังชีวิต - อันดับ",
+      [
+        6,
+        8,
+        7,
+        5,
+        4
+      ],
+      "เปิดผนึก ชุดเกราะ, รองเท้า, ถุงมือ, หมวก หรือ โล่"
+    ],
+    [
+      "JunIncreasedFireAndLightningDamage",
+      4,
+      [
+        1,
+        2,
+        4
+      ],
+      "ความเสียหาย ไฟ และ ไฟฟ้า - อันดับ",
+      [
+        9
+      ],
+      "เปิดผนึก แหวน ที่ได้จาก Riker Maloney ที่กำหนด"
+    ],
+    [
+      "JunIncreasedManaAndRegen",
+      8,
+      [
+        2,
+        4,
+        8
+      ],
+      "มานา และ การฟื้นฟูมานา - อันดับ",
+      [
+        9,
+        10
+      ],
+      "เปิดผนึก แหวน หรือ สร้อย"
+    ],
+    [
+      "JunItemRarityFromRareAndUniqueEnemies",
+      4,
+      [
+        1,
+        2,
+        4
+      ],
+      "ความหายากของไอเทมที่ได้จากมอนสเตอร์ระดับแรร์และยูนิค - อันดับ",
+      [
+        5
+      ],
+      "เปิดผนึก หมวก ที่ได้จาก Janus Perandus ที่กำหนด"
+    ],
+    [
+      "JunLifeAddedAsEnergyShield",
+      4,
+      [
+        1,
+        2,
+        4
+      ],
+      "โล่พลังงาน จากพลังชีวิตสูงสุด - อันดับ",
+      [
+        6
+      ],
+      "เปิดผนึก ชุดเกราะ ที่ได้จาก Gravicius Reborn ที่กำหนด"
+    ],
+    [
+      "JunLifeLeechFromAnyDamagePermyriadWhileFocused",
+      3,
+      [
+        3
+      ],
+      "ได้รับ Vaal Pact และ ดูดความเสียหายไปเป็น พลังชีวิต ขณะ Focus",
+      [
+        10
+      ],
+      "เปิดผนึก สร้อย"
+    ],
+    [
+      "JunLifeRegeneration",
+      4,
+      [
+        2,
+        4
+      ],
+      "ฟื้นฟู พลังชีวิต - อันดับ",
+      [
+        10,
+        4
+      ],
+      "เปิดผนึก สร้อย หรือ โล่"
+    ],
+    [
+      "JunLifeRegenerationPerEvasionDuringFocus",
+      3,
+      [
+        3
+      ],
+      "ฟื้นฟู พลังชีวิต จากค่า หลบหลีก ขณะ Focus",
+      [
+        6
+      ],
+      "เปิดผนึก ชุดเกราะ"
+    ],
+    [
+      "JunLightningDamageAndChanceToShock",
+      8,
+      [
+        2,
+        4,
+        8
+      ],
+      "ความเสียหาย ไฟฟ้า และ โอกาสช็อค - อันดับ",
+      [
+        0,
+        1,
+        2,
+        3
+      ],
+      "เปิดผนึก อาวุธ"
+    ],
+    [
+      "JunLocalFlaskAvoidStunChanceAndMovementSpeedDuringFlaskEffect",
+      1,
+      [
+        1
+      ],
+      "ความเร็วในการเคลื่อนที่ และ โอกาสหลีกเลี่ยงสถานะมึนงง ระหว่างผลของขวดยา - อันดับ",
+      [
+        12
+      ],
+      "เปิดผนึก ขวดยา"
+    ],
+    [
+      "JunLocalFlaskCriticalStrikeChanceDuringFlaskEffect",
+      1,
+      [
+        1
+      ],
+      "โอกาสคริติคอล ระหว่างผลของขวดยา - อันดับ",
+      [
+        12
+      ],
+      "เปิดผนึก ขวดยา"
+    ],
+    [
+      "JunLocalFlaskItemFoundRarityDuringFlaskEffect",
+      1,
+      [
+        1
+      ],
+      "ความหายากของไอเทม ระหว่างผลของขวดยา",
+      [
+        12
+      ],
+      "เปิดผนึก ขวดยา"
+    ],
+    [
+      "JunLocalFlaskLifeLeechOnDamageTakenDuringFlaskEffect",
+      1,
+      [
+        1
+      ],
+      "ดูดความเสียหายที่ได้รับ มาเป็น พลังชีวิต ระหว่างผลของขวดยา - อันดับ",
+      [
+        12
+      ],
+      "เปิดผนึก ขวดยา"
+    ],
+    [
+      "JunLocalFlaskLifeRegenerationPerMinuteDuringFlaskEffect",
+      1,
+      [
+        1
+      ],
+      "อัตราการฟื้นฟู พลังชีวิต ระหว่างผลของขวดยา",
+      [
+        12
+      ],
+      "เปิดผนึก ขวดยา"
+    ],
+    [
+      "JunLocalFlaskSkillManaCostDuringFlaskEffect",
+      1,
+      [
+        1
+      ],
+      "การใช้งานมานา ระหว่างผลของขวดยา - อันดับ",
+      [
+        12
+      ],
+      "เปิดผนึก ขวดยา"
+    ],
+    [
+      "JunLocalIncreasedPhysicalDamageAndBleedChance",
+      8,
+      [
+        2,
+        4,
+        8
+      ],
+      "ความเสียหายกายภาพ และ โอกาสเลือดไหล - อันดับ",
+      [
+        0,
+        1,
+        2,
+        3
+      ],
+      "เปิดผนึก อาวุธ"
+    ],
+    [
+      "JunLocalIncreasedPhysicalDamageAndBlindChance",
+      8,
+      [
+        2,
+        4,
+        8
+      ],
+      "ความเสียหายกายภาพ และ โอกาสตาบอด - อันดับ",
+      [
+        0,
+        1,
+        2,
+        3
+      ],
+      "เปิดผนึก อาวุธ"
+    ],
+    [
+      "JunLocalIncreasedPhysicalDamageAndImpale",
+      8,
+      [
+        2,
+        4,
+        8
+      ],
+      "ความเสียหายกายภาพ และ โอกาสทิ่มแทง - อันดับ",
+      [
+        0,
+        1,
+        2,
+        3
+      ],
+      "เปิดผนึก อาวุธ"
+    ],
+    [
+      "JunLocalIncreasedPhysicalDamageAndPoisonChance",
+      8,
+      [
+        2,
+        4,
+        8
+      ],
+      "ความเสียหายกายภาพ และ โอกาสติดพิษ - อันดับ",
+      [
+        0,
+        1,
+        2,
+        3
+      ],
+      "เปิดผนึก อาวุธ"
+    ],
+    [
+      "JunLocalIncreaseSocketedSupportGemLevel",
+      2,
+      [
+        1,
+        2
+      ],
+      "เลเวลของเจม สนับสนุน - อันดับ",
+      [
+        0,
+        2,
+        1,
+        3,
+        4
+      ],
+      "เปิดผนึก อาวุธ หรือ โล่ ที่ได้จาก ผู้บงการองค์กร ที่กำหนด"
+    ],
+    [
+      "JunLuckyCriticalsDuringFocus",
+      3,
+      [
+        3
+      ],
+      "โอกาสคริติคอลจะโชคดี ขณะ Focus",
+      [
+        11
+      ],
+      "เปิดผนึก เข็มขัด"
+    ],
+    [
+      "JunManaAndDamageTakenGoesToManaPercent",
+      8,
+      [
+        2,
+        4,
+        8
+      ],
+      "มานา และ ได้รับมานาจากความเสียหายที่ได้รับ - อันดับ",
+      [
+        9,
+        10
+      ],
+      "เปิดผนึก แหวน หรือ สร้อย"
+    ],
+    [
+      "JunManaAndManaCostPercent",
+      8,
+      [
+        2,
+        4,
+        8
+      ],
+      "มานา และ การใช้งานมานาน - อันดับ",
+      [
+        9,
+        10
+      ],
+      "เปิดผนึก แหวน หรือ สร้อย"
+    ],
+    [
+      "JunMaximumCurse",
+      5,
+      [
+        5
+      ],
+      "จำนวน คำสาป สูงสุด - อันดับ",
+      [
+        6
+      ],
+      "เปิดผนึก ชุดเกราะ"
+    ],
+    [
+      "JunMaximumTotem",
+      3,
+      [
+        3
+      ],
+      "จำนวน โทเทม สูงสุด - อันดับ",
+      [
+        4
+      ],
+      "เปิดผนึก โล่"
+    ],
+    [
+      "JunMaximumZombieAndSkeleton",
+      3,
+      [
+        3
+      ],
+      "จำนวน ซอมบี้ และ โครงกระดูก สูงสุด - อันดับ",
+      [
+        5
+      ],
+      "เปิดผนึก หมวก"
+    ],
+    [
+      "JunMeleeRangeAndMeleeGemLevel",
+      8,
+      [
+        2,
+        4,
+        8
+      ],
+      "ระยะโจมตีประชิด และ ม็อดประชิด - อันดับ",
+      [
+        5,
+        7,
+        10
+      ],
+      "เปิดผนึก หมวก, ถุงมือ หรือ สร้อย"
+    ],
+    [
+      "JunMineLayingSpeed",
+      8,
+      [
+        2,
+        4,
+        8
+      ],
+      "ความเร็วในการโยนทุ่นระเบิด",
+      [
+        10,
+        5
+      ],
+      "เปิดผนึก สร้อย หรือ หมวก"
+    ],
+    [
+      "JunMinimumEnduranceCharges",
+      3,
+      [
+        3
+      ],
+      "จำนวน Endurance Charge ต่ำสุด - อันดับ",
+      [
+        9,
+        10
+      ],
+      "เปิดผนึก แหวน หรือ สร้อย"
+    ],
+    [
+      "JunMinimumFrenzyCharges",
+      3,
+      [
+        3
+      ],
+      "จำนวน Frenzy Charge ต่ำสุด - อันดับ",
+      [
+        9,
+        10
+      ],
+      "เปิดผนึก แหวน หรือ สร้อย"
+    ],
+    [
+      "JunMinimumPowerCharges",
+      3,
+      [
+        3
+      ],
+      "จำนวน Power Charge ต่ำสุด - อันดับ",
+      [
+        9,
+        10
+      ],
+      "เปิดผนึก แหวน หรือ สร้อย"
+    ],
+    [
+      "JunMinionAttackAndCastSpeedOnWeapon",
+      8,
+      [
+        2,
+        4,
+        8
+      ],
+      "ความเร็วในการโจมตีและร่าย ของมิเนียน - อันดับ",
+      [
+        0,
+        1,
+        2,
+        3
+      ],
+      "เปิดผนึก อาวุธ"
+    ],
+    [
+      "JunMinionDamageAndMinionMaximumLife",
+      8,
+      [
+        2,
+        4,
+        8
+      ],
+      "ความเสียหาย และ พลังชีวิต ของมิเนียน - อันดับ",
+      [
+        0,
+        1,
+        2,
+        3
+      ],
+      "เปิดผนึก อาวุธ"
+    ],
+    [
+      "JunMinionsRecoverMaximumLifeWhenYouFocus",
+      3,
+      [
+        3
+      ],
+      "ฟื้นฟูพลังชีวิต ให้มิเนียน เมื่อคุณ Focus - อันดับ",
+      [
+        7
+      ],
+      "เปิดผนึก ถุงมือ"
+    ],
+    [
+      "JunMovementVelocityAndCannotBeChilled",
+      8,
+      [
+        2,
+        4,
+        8
+      ],
+      "ความเร็วในการเคลื่อนที่ และ ป้องกันการติดสถานะหนาวเย็น - อันดับ",
+      [
+        8
+      ],
+      "เปิดผนึก รองเท้า"
+    ],
+    [
+      "JunMovementVelocityAndMovementVelocityIfNotHitRecently",
+      8,
+      [
+        2,
+        4,
+        8
+      ],
+      "ความเร็วในการเคลื่อนที่ และ ความเร็วเมื่อไม่โดนปะทะ - อันดับ",
+      [
+        8
+      ],
+      "เปิดผนึก รองเท้า"
+    ],
+    [
+      "JunMovementVelocityAndOnslaughtOnKill",
+      8,
+      [
+        2,
+        4,
+        8
+      ],
+      "ความเร็วในการเคลื่อนที่ และ Onslaught เมื่อสังหาร - อันดับ",
+      [
+        8
+      ],
+      "เปิดผนึก รองเท้า"
+    ],
+    [
+      "JunNonChaosAddedAsChaos",
+      4,
+      [
+        1,
+        2,
+        4
+      ],
+      "ความเสียหาย เสริมมาเป็นเคออส - อันดับ",
+      [
+        0,
+        2,
+        1,
+        3,
+        4
+      ],
+      "เปิดผนึก อาวุธ หรือ โล่ ที่ได้จาก It That Fled ที่กำหนด"
+    ],
+    [
+      "JunPercentageAllAttributes",
+      4,
+      [
+        1,
+        2,
+        4
+      ],
+      "ค่าสถานะ - อันดับ",
+      [
+        6
+      ],
+      "เปิดผนึก ชุดเกราะ ที่ได้จาก Hillock, the Blacksmith ที่กำหนด"
+    ],
+    [
+      "JunPhysicalDamageConvertedToCold",
+      3,
+      [
+        3
+      ],
+      "เปลี่ยนความเสียหาย กายภาพ เป็นน้ำแข็ง - อันดับ",
+      [
+        7
+      ],
+      "เปิดผนึก ถุงมือ"
+    ],
+    [
+      "JunPhysicalDamageConvertedToFire",
+      3,
+      [
+        3
+      ],
+      "เปลี่ยนความเสียหาย กายภาพ เป็นไฟ - อันดับ",
+      [
+        7
+      ],
+      "เปิดผนึก ถุงมือ"
+    ],
+    [
+      "JunPhysicalDamageConvertedToLightning",
+      3,
+      [
+        3
+      ],
+      "เปลี่ยนความเสียหาย กายภาพ เป็นไฟฟ้า - อันดับ",
+      [
+        7
+      ],
+      "เปิดผนึก ถุงมือ"
+    ],
+    [
+      "JunPhysicalDamageReductionDuringFocus",
+      8,
+      [
+        2,
+        4,
+        8
+      ],
+      "เสริมป้องกันกายภาพ ระหว่าง Focus - อันดับ",
+      [
+        5,
+        7
+      ],
+      "เปิดผนึก หมวก หรือ ถุงมือ"
+    ],
+    [
+      "JunPhysicalDamageReductionRatingDuringSoulGainPrevention",
+      8,
+      [
+        2,
+        4,
+        8
+      ],
+      "เพิ่ม เกราะ ระหว่างอยู่ในสถานะไม่ได้รับ Soul - อันดับ",
+      [
+        6,
+        4
+      ],
+      "เปิดผนึก ชุดเกราะ หรือ โล่"
+    ],
+    [
+      "JunPhysicalDamageTakenAsFirePercent",
+      4,
+      [
+        1,
+        2,
+        4
+      ],
+      "รับความเสียหาย กายภาพ เป็น ไฟ - อันดับ",
+      [
+        5
+      ],
+      "เปิดผนึก หมวก ที่ได้จาก Korell Goya ที่กำหนด"
+    ],
+    [
+      "JunProjectilePierceAndProjectileGemLevel",
+      8,
+      [
+        2,
+        4,
+        8
+      ],
+      "กระสุนเจาะทะลุ และ ม็อดกระสุน - อันดับ",
+      [
+        5,
+        7,
+        10
+      ],
+      "เปิดผนึก หมวก, ถุงมือ หรือ สร้อย"
+    ],
+    [
+      "JunReduceGlobalFlatManaCost",
+      8,
+      [
+        2,
+        4,
+        8
+      ],
+      "มานาที่ใช้ในการร่ายสกิล - อันดับ",
+      [
+        9,
+        10
+      ],
+      "เปิดผนึก แหวน หรือ สร้อย ที่ได้จาก Elreon ที่กำหนด"
+    ],
+    [
+      "JunRestoreManaAndEnergyShieldOnFocus",
+      8,
+      [
+        2,
+        4,
+        8
+      ],
+      "มานา และ โล่พลังงาน เมื่อ Focus - อันดับ",
+      [
+        6
+      ],
+      "เปิดผนึก ชุดเกราะ"
+    ],
+    [
+      "JunShockNearbyEnemiesOnFocus",
+      8,
+      [
+        2,
+        4,
+        8
+      ],
+      "ทำให้ศัตรูที่อยู่ใกล้ช็อค เมื่อ Focus - อันดับ",
+      [
+        9
+      ],
+      "เปิดผนึก แหวน"
+    ],
+    [
+      "JunSkillAreaOfEffectPercentAndAreaOfEffectGemLevel",
+      8,
+      [
+        2,
+        4,
+        8
+      ],
+      "ความกว้างของพื้นที่ และ ม็อดพื้นที่ - อันดับ",
+      [
+        5,
+        7,
+        10
+      ],
+      "เปิดผนึก หมวก, ถุงมือ หรือ สร้อย"
+    ],
+    [
+      "JunSkillsCostNoManaWhileFocused",
+      3,
+      [
+        3
+      ],
+      "สกิลไม่ใช้มานา ขณะ Focus",
+      [
+        10
+      ],
+      "เปิดผนึก สร้อย"
+    ],
+    [
+      "JunSocketedGemQuality",
+      4,
+      [
+        1,
+        2,
+        4
+      ],
+      "คุณภาพของเจม - อันดับ",
+      [
+        0,
+        2,
+        1,
+        3,
+        4
+      ],
+      "เปิดผนึก อาวุธ หรือ โล่ ที่ได้จาก Haku ที่กำหนด"
+    ],
+    [
+      "JunSpellDamageAndManaRegenerationRate",
+      8,
+      [
+        2,
+        4,
+        8
+      ],
+      "ความเสียหาย เวทย์ และ ฟื้นฟูมานา - อันดับ",
+      [
+        0,
+        1,
+        2,
+        3
+      ],
+      "เปิดผนึก อาวุธ"
+    ],
+    [
+      "JunSpellDamageAndNonChaosDamageToAddAsChaosDamage",
+      8,
+      [
+        2,
+        4,
+        8
+      ],
+      "ความเสียหาย เวทย์ และ เสริมความเสียหาย เคออส จาก ความเสียหายที่ไม่ใช่เคออส - อันดับ",
+      [
+        0,
+        1,
+        2
+      ],
+      "เปิดผนึก อาวุธ"
+    ],
+    [
+      "JunStatusAilmentsYouInflictDurationWhileFocused",
+      8,
+      [
+        2,
+        4,
+        8
+      ],
+      "ระยะเวลาเจ็บป่วย ขณะ Focus - อันดับ",
+      [
+        5
+      ],
+      "เปิดผนึก หมวก"
+    ],
+    [
+      "JunStrengthAndDexterity",
+      8,
+      [
+        2,
+        4,
+        8
+      ],
+      "Strength และ Dexterity - อันดับ",
+      [
+        6,
+        8,
+        7,
+        5,
+        4,
+        10,
+        11,
+        9,
+        13
+      ],
+      "เปิดผนึก ชุดเกราะ, รองเท้า, ถุงมือ, หมวก, โล่, สร้อย, เข็มขัด, แหวน หรือ ซองธนู"
+    ],
+    [
+      "JunStrengthAndIntelligence",
+      8,
+      [
+        2,
+        4,
+        8
+      ],
+      "Strength และ Intelligence - อันดับ",
+      [
+        6,
+        8,
+        7,
+        5,
+        4,
+        10,
+        11,
+        9,
+        13
+      ],
+      "เปิดผนึก ชุดเกราะ, รองเท้า, ถุงมือ, หมวก, โล่, สร้อย, เข็มขัด, แหวน หรือ ซองธนู"
+    ],
+    [
+      "JunSummonTotemCastSpeed",
+      8,
+      [
+        2,
+        4,
+        8
+      ],
+      "ความเร็วในการ ปักโทเทม - อันดับ",
+      [
+        8,
+        10
+      ],
+      "เปิดผนึก รองเท้า หรือ สร้อย"
+    ],
+    [
+      "JunTrapThrowSpeed",
+      8,
+      [
+        2,
+        4,
+        8
+      ],
+      "ความเร็วในการ โยนกับดัก - อันดับ",
+      [
+        10,
+        11
+      ],
+      "เปิดผนึก สร้อย หรือ เข็มขัด"
+    ],
+    [
+      "JunTriggerSocketedSpellWhenYouFocus",
+      3,
+      [
+        3
+      ],
+      "ใช้งานสกิลเมื่อ Focus",
+      [
+        5
+      ],
+      "เปิดผนึก หมวก"
+    ],
+    [
+      "JunLocalAttackSpeedAndLocalItemQuality",
+      4,
+      [
+        2,
+        4
+      ],
+      "ความเร็วในการโจมตีของไอเทม และคุณภาพของไอเทม - อันดับ",
+      [
+        0,
+        2,
+        1,
+        3
+      ],
+      "เปิดผนึก อาวุธ"
+    ],
+    [
+      "JunLocalCriticalStrikeChanceAndLocalItemQuality",
+      4,
+      [
+        2,
+        4
+      ],
+      "โอกาสคริติคอล และ คุณภาพ - อันดับ",
+      [
+        0,
+        2,
+        1,
+        3
+      ],
+      "เปิดผนึก อาวุธ"
+    ],
+    [
+      "JunLocalAccuracyRatingAndLocalItemQuality",
+      8,
+      [
+        2,
+        4,
+        8
+      ],
+      "ความแม่นยำ และ คุณภาพ - อันดับ",
+      [
+        0,
+        2,
+        1,
+        3
+      ],
+      "เปิดผนึก อาวุธ"
+    ],
+    [
+      "JunLocalAttackSpeedAndLocalDisplayTriggerLevelBloodRageOnKillChance",
+      4,
+      [
+        2,
+        4
+      ],
+      "ความเร็วในการโจมตี และ ใช้งาน Blood Rage เมื่อสังหาร - อันดับ",
+      [
+        0,
+        2,
+        1,
+        3
+      ],
+      "เปิดผนึก อาวุธ"
+    ],
+    [
+      "JunCastSpeedAndGainArcaneSurgeOnKillChance",
+      8,
+      [
+        2,
+        4,
+        8
+      ],
+      "ความเร็วในการร่าย และ ได้รับ Arcane Surge เมื่อสังหาร - อันดับ",
+      [
+        0,
+        2,
+        1,
+        3
+      ],
+      "เปิดผนึก อาวุธ"
+    ],
+    [
+      "JunTriggerSocketedSpellOnSkillUse",
+      3,
+      [
+        3
+      ],
+      "ใช้งานสกิลเวทย์ เมื่อคุณใช้สกิลอื่น",
+      [
+        0,
+        2,
+        1,
+        3
+      ],
+      "เปิดผนึก อาวุธ"
+    ],
+    [
+      "JunFireAndChaosDamageResistance",
+      8,
+      [
+        2,
+        4,
+        8
+      ],
+      "ต้านทาน ไฟ และ เคออส - อันดับ",
+      [
+        0,
+        1,
+        2,
+        3,
+        6,
+        7,
+        8,
+        5,
+        4,
+        9,
+        10,
+        11,
+        13
+      ],
+      "เปิดผนึก อาวุธ, ชุดเกราะ, ถุงมือ, รองเท้า, หมวก, โล่, แหวน, สร้อย, เข็มขัด หรือ ซองธนู"
+    ],
+    [
+      "JunLightningAndChaosDamageResistance",
+      8,
+      [
+        2,
+        4,
+        8
+      ],
+      "ต้านทาน ไฟฟ้า และ เคออส - อันดับ",
+      [
+        0,
+        1,
+        2,
+        3,
+        6,
+        7,
+        8,
+        5,
+        4,
+        9,
+        10,
+        11,
+        13
+      ],
+      "เปิดผนึก อาวุธ, ชุดเกราะ, ถุงมือ, รองเท้า, หมวก, โล่, แหวน, สร้อย, เข็มขัด หรือ ซองธนู"
+    ],
+    [
+      "JunColdAndChaosDamageResistance",
+      8,
+      [
+        2,
+        4,
+        8
+      ],
+      "ต้านทาน น้ำแข็ง และ เคออส - อันดับ",
+      [
+        0,
+        1,
+        2,
+        3,
+        6,
+        7,
+        8,
+        5,
+        4,
+        9,
+        10,
+        11,
+        13
+      ],
+      "เปิดผนึก อาวุธ, ชุดเกราะ, ถุงมือ, รองเท้า, หมวก, โล่, แหวน, สร้อย, เข็มขัด หรือ ซองธนู"
+    ],
+    [
+      "JunStrengthAndLocalItemQuality",
+      8,
+      [
+        2,
+        4,
+        8
+      ],
+      "Strength และ คุณภาพ - อันดับ",
+      [
+        0,
+        1,
+        2,
+        3,
+        6,
+        4
+      ],
+      "เปิดผนึก อาวุธ, ชุดเกราะ หรือ โล่"
+    ],
+    [
+      "JunDexterityAndLocalItemQuality",
+      8,
+      [
+        2,
+        4,
+        8
+      ],
+      "Dexterity และ คุณภาพ - อันดับ",
+      [
+        0,
+        1,
+        2,
+        3,
+        6,
+        4
+      ],
+      "เปิดผนึก อาวุธ, ชุดเกราะ หรือ โล่"
+    ],
+    [
+      "JunIntelligenceAndLocalItemQuality",
+      8,
+      [
+        2,
+        4,
+        8
+      ],
+      "Intelligence และ คุณภาพ - อันดับ",
+      [
+        0,
+        1,
+        2,
+        3,
+        6,
+        4
+      ],
+      "เปิดผนึก อาวุธ, ชุดเกราะ หรือ โล่"
+    ],
+    [
+      "JunLifeRegenerationRatePerMinuteWhileUsingFlask",
+      8,
+      [
+        2,
+        4,
+        8
+      ],
+      "อัตราการฟื้นฟู พลังชีวิต ระหว่างผลของขวดยา - อันดับ",
+      [
+        11
+      ],
+      "เปิดผนึก เข็มขัด"
+    ],
+    [
+      "JunPercentageLifeAndMana",
+      3,
+      [
+        3
+      ],
+      "เพิ่ม พลังชีวิต และ มานา - อันดับ",
+      [
+        6
+      ],
+      "เปิดผนึก ชุดเกราะ"
+    ],
+    [
+      "JunBlockPercent",
+      3,
+      [
+        3
+      ],
+      "บล็อค การโจมตี",
+      [
+        6
+      ],
+      "เปิดผนึก ชุดเกราะ"
+    ],
+    [
+      "JunSpellDodgePercentage",
+      3,
+      [
+        3
+      ],
+      "หลีกเลี่ยง เวทย์",
+      [
+        6
+      ],
+      "เปิดผนึก ชุดเกราะ"
+    ],
+    [
+      "JunAvoidStunAndElementalStatusAilments",
+      3,
+      [
+        3
+      ],
+      "หลีกเลี่ยง สถานะมึนงงและเจ็บป่วย - อันดับ",
+      [
+        6
+      ],
+      "เปิดผนึก ชุดเกราะ"
+    ]
+  ]
+}

@@ -1,1 +1,804 @@
-{"filename":"AdvancedSkillsTutorial.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":true,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Keys1","rowid":1,"type":"ref|list|ulong","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Key2","rowid":2,"type":"ref|list|ulong","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Description","rowid":3,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"International_BK2File","rowid":4,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":true,"file_ext":".bk2","display":null,"display_type":"{0}","description":null},{"name":"Key0","rowid":5,"type":"ulong","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"China_BK2File","rowid":6,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":true,"file_ext":".bk2","display":null,"display_type":"{0}","description":null},{"name":"CharactersKey","rowid":7,"type":"ref|list|ulong","key":"Characters.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["Blight",[2,1,120],[3,4,141],"Поддерживаемые чары хаоса с областью действия, которые накладывают на врага отрицательный эффект. Враги под действием отрицательного эффекта получают постепенный урон хаосом, а их скорость передвижения уменьшается.","http://web.poecdn.com/public/videos/Blight/BlightMainDemo.bk2 ",301,"http://down.qq.com/poe/videos/skills/Blight/BlightMainDemo.bk2",[6,2,1,5]],["FreezingPulse",[7,6,9],[8,5,144],"Чары холода, выпускающие снаряды, которые пронзают врагов, нанося им урон от холода с шансом наложить заморозку. Урон снаряда и шанс наложить заморозку уменьшается в зависимости от дальности полета снаряда.","http://web.poecdn.com/public/videos/FreezingPulse/FreezingPulseMainDemo.bk2 ",76,"http://down.qq.com/poe/videos/skills/FreezingPulse/FreezingPulseFullDemo.bk2",[6,1,5]],["LightningTendrils",[12,14,13],[11,121,122],"Поддерживаемые чары с областью действия, которые пульсами наносят урон от молнии врагам. Каждые 4 пульса умение выпускает более сильный пульс.","http://web.poecdn.com/public/videos/LightningTendrils/LightingTendrilsMainDemo.bk2 ",253,"http://down.qq.com/poe/videos/skills/LightningTendrils/LightningTendrilsMainDemo.bk2",[6,2,1,5]],["MagmaOrb",[15,17,16],[18,19,148],"Чары огня с областью действия. Выпускают снаряды, которые прыгают в направлении цели, нанося урон от огня. На высоких уровнях умение поражает врагов по цепи, совершая больше прыжков.","http://web.poecdn.com/public/videos/MagmaOrb/MagmaOrbMainDemo.bk2 ",281,"http://down.qq.com/poe/videos/skills/MagmaOrb/MagmaOrbFullDemo.bk2",[6,2,1,5]],["Fireball ",[22,21,26],[27,24,29],"Чары огня с областью действия. Выпускают снаряды, поражающие врагов уроном от огня с высоким шансом наложить поджог, который наносит постепенный урон от огня.","http://web.poecdn.com/public/videos/Fireball/FireballMainDemo.bk2",0,"http://down.qq.com/poe/videos/skills/Fireball/FireballFullDemo.bk2",[6,2,0,1,5,3]],["RaiseZombies",[31,32,34],[149,30,33],"Чары приспешников, которые поднимают труп, превращая его в зомби. Зомби будет следовать за персонажем и сражаться атаками ближнего боя.","http://web.poecdn.com/public/videos/RaiseZombies/RaiseZombiesMainDemo.bk2",44,"http://down.qq.com/poe/videos/skills/RaiseZombies/RaiseZombiesFullDemo.bk2",[6,2,1]],["GlacialHammer",[38,40,39],[36,37,147],"Физическая/холодная атака ближнего боя по одиночной цели. Леденящий молот имеет встроенный шанс наложить заморозку и будет разбивать замороженных врагов, если у них мало здоровья.","http://web.poecdn.com/public/videos/GlacialHammer/GlacialHammerFullDemo.bk2",73,"http://down.qq.com/poe/videos/skills/GlacialHammer/GlacialHammerFullDemo.bk2",[6,4,0]],["EtheralKnives",[47,46,43],[42,44,45],"Физические чары снарядов. Выпускают несколько снарядов дугой перед сотворяющим чары.","http://web.poecdn.com/public/videos/EtherealKnives/EtherealKnivesFullDemo.bk2",162,"http://down.qq.com/poe/videos/skills/EtherealKnives/EtherealKnivesFullDemo.bk2",[0,1,5]],["ExplosiveTrap",[49,48,52],[51,50,53],"Бросает ловушку, которая при срабатывании создает несколько небольших взрывов, наносящих физический урон и урон от огня врагам поблизости.","http://web.poecdn.com/public/videos/ExplosiveTrap/ExplosiveTrapFullDemo.bk2",351,"http://down.qq.com/poe/videos/skills/ExplosiveTrap/ExplosiveTrapFullDemo.bk2",[2,1,5,3]],["FrostBlades",[54,58,56],[57,55,145],"Атака снарядами в ближнем бою, которая переводит 60% физического урона в урон от холода. Атака ближнего боя разделяется на несколько снарядов при попадании по врагу, в результате чего урон может быть нанесён ещё нескольким вторичным целям.","http://web.poecdn.com/public/videos/FrostBlades/FrostBladesMainDemo.bk2",277,"http://down.qq.com/poe/videos/skills/FrostBlades/FrostbladesFullDemo.bk2",[2,2,5,3]],["ViperStrike",[60,64,63],[61,65,62],"Умение атаки ближнего боя по одиночной цели, которая переводит 25% физического урона в урон хаосом и имеет высокий шанс отравить цель.","http://web.poecdn.com/public/videos/ViperStrike/ViperStrikeFullDemo.bk2",79,"http://down.qq.com/poe/videos/skills/ViperStrike/ViperStrikeFullDemo.bk2",[2,4,5,3]],["SpectralThrow",[67,70,68],[66,71,150],"Бросает во врагов копию оружия вашего персонажа в виде снаряда. Снаряд пронзает врагов, возвращается обратно к персонажу, и по пути может нанести урон ещё один раз.","http://web.poecdn.com/public/videos/SpectralThrow/SpectralThrowFullDemo.bk2",207,"http://down.qq.com/poe/videos/skills/SpectralThrow/SpectralThrowFullDemo.bk2",[6,2,4,0,5,3]],["IceShot",[73,77,74],[75,72,76],"Выпускает стрелу, которая переводит 60% физического урона в урон от холода. Нанеся удар врагу, стрела оставляет участок замерзшей земли, которая замедляет стоящих на ней врагов. При попадании стрела также наносит урон от холода в конусе за целью.","http://web.poecdn.com/public/videos/Iceshot/IceshotFullDemo.bk2",164,"http://down.qq.com/poe/videos/skills/IceShot/IceshotMainDemo.bk2",[2,4,3]],["ShrapnelShot",[182,183,187],[184,185,186],"Выпускает сильнейший разряд молнии из вашего лука. Разряд наносит урон по врагам поблизости и выпускает три стрелы в конусе перед вами. Стрелы существуют недолго и ослабевают спустя короткий промежуток времени. Лучше всего использовать Электризующую стрелу для атак по врагам вблизи.","http://web.poecdn.com/public/videos/GalvanicArrow/EGalvanicArrowIntro.bk2",286,"http://down.qq.com/poe/videos/tutorial/TGalvanicArrowIntro.bk2",[2,4,3]],["SplitArrow",[89,87,86],[84,151,152],"Простая атака снарядами, которая выпускает несколько стрел.","http://web.poecdn.com/public/videos/SplitArrow/SplitArrowMainDemo.bk2",32,"http://down.qq.com/poe/videos/skills/SplitArrow/SplitArrowMainDemo.bk2",[2,4,5,3]],["GroundSlam",[95,94,91],[93,90,92],"Атака ближнего боя по области, которая выпускает волну урона по области из оружия в правой руке вашего персонажа. Враги, стоящие поблизости от героя, получают больше урона. Сотрясение также имеет увеличенный шанс оглушить врагов.","http://web.poecdn.com/public/videos/GroundSlam/GroundSlamFullDemo.bk2",13,"http://down.qq.com/poe/videos/skills/GroundSlam/GroundSlamMainDemo.bk2",[6,4,0]],["HeavyStrike",[100,101,99],[98,96,97],"Простая атака ближнего боя по одиночной цели, которая может отбросить врагов назад.","http://web.poecdn.com/public/videos/HeavyStrike/HeavyStrikeFullDemo.bk2",100,"http://down.qq.com/poe/videos/skills/HeavyStrike/HeavyStrikeFullDemo.bk2",[6,2,4,0]],["Cleave ",[107,106,102],[105,104,103],"Атака ближнего боя по области, которая наносит урон по дуге. Если у персонажа парное оружие, Рассечение будет использовать оба оружия.","http://web.poecdn.com/public/videos/Cleave/CleaveFullDemo.bk2",15,"http://down.qq.com/poe/videos/skills/Cleave/CleaveMainDemo.bk2",[2,4,0,3]],["DoubleStrike",[112,113,109],[110,108,111],"Простая атака ближнего боя по одиночной цели, которая быстро поражает врага дважды. Умение наносит дополнительный физический урон по истекающим кровью врагам.","http://web.poecdn.com/public/videos/DoubleStrike/DoubleStrikeFullDemo.bk2",18,"http://down.qq.com/poe/videos/skills/DoubleStrike/DoublestrikeFullDemo.bk2",[2,4,0,5,3]],["MoltenStrike",[114,117,118],[116,115,119],"Атака ближнего боя по области, которая выпускает во врагов снаряды в виде расплавленных шаров. 50% физического урона становится уроном от огня.","http://web.poecdn.com/public/videos/MoltenStrike/MoltenStrikeFullDemo.bk2",240,"http://down.qq.com/poe/videos/skills/MoltenStrike/MoltenStrikeFullDemo.bk2",[6,2,4,0]],["Smite",[129,130,131],[133,132,134],"Атака ближнего боя, которая вызывает удар молнии в выбранное место или ближайшего врага, нанося урон по области. При нанесении удара Кара также дарует ауру, которая ненадолго дает персонажу и его союзникам дополнительный урон от молнии.","http://web.poecdn.com/public/videos/Smite/SmiteFullDemo.bk2",363,"http://down.qq.com/poe/videos/skills/Smite/SmiteFullDemo.bk2",[6,2,0]],["CausticArrow",[126,125,143],[142,123,124],"Атака снарядами, которая при нанесении удара создает участок едкой земли, наносящий постепенный урон хаосом стоящим на ней врагам.","http://web.poecdn.com/public/videos/CausticArrow/CausticArrowFullDemo.bk2",45,"http://down.qq.com/poe/videos/skills/CausticArrow/CausticArrowMainDemo.bk2",[2,4,5,3]],["Frostbolt",[139,137,138],[136,135,146],"Выпускает медленно летящий снаряд, который пронзает врагов и наносит урон от холода с шансом наложить охлаждение и заморозку.","http://web.poecdn.com/public/videos/Frostbolt/FrostboltFullDemo.bk2",312,"http://down.qq.com/poe/videos/skills/Frostbolt/Frostbolt%20Full%20Demo.bk2",[6,2,1,5]],["PurifyingFlame",[154,155,156],[153,157,158],"Чары с областью действия, которые наносят физический урон и урон от огня по области и создают освящённую землю. Повторное сотворение чар создает волну, наносящую урон врагам, стоящим на ближайшей освящённой земле.","http://web.poecdn.com/public/videos/PurifyingFlame/PurifyingFlamesFullDemo.bk2",379,"https://down.qq.com/poe/videos/skills/PurifyingFlames/PurfiyingFlamesFullDemo.bk2",[6]],["CobraLash",[166,167,168],[169,170,171],"Бросает во врагов копию оружия вашего персонажа, которая перескакивает между ними и отравляет их. \n\nЯд наносит врагам постепенный урон хаосом в зависимости от физического урона и урона хаосом вашего героя. На врагов может действовать несколько отравлений одновременно. Для использования требуется кинжал или когти.","http://web.poecdn.com/public/videos/CobraLash/ECobraLashIntro.bk2",411,"https://down.qq.com/poe/videos/skills/TCobraLashIntro.bk2",[5]],["StormblastMine",[159,160,161],[162,163,164,165],"Бросает мину, которую можно взорвать и нанести ближайшим к ней врагам урон от молнии. Также может наложить на врагов шок, увеличивая получаемый ими урон.\n\nШтормовые мины увеличивают урон, получаемый ближайшими врагами. Чем больше мин находится рядом с противником, тем больший урон он получает.","http://web.poecdn.com/public/videos/StormblastMine/EStormblastIntro.bk2",421,"https://down.qq.com/poe/videos/skills/TStormblastIntro.bk2",[5]],["Perforate",[172,173,174],[175,176,177],"Персонаж ударяет по земле, выпуская во врагов смертоносные шипы. Шипы идут часто, могут задеть нескольких врагов и могут поразить одного и того же врага несколько раз.\n\nПри переключении в стойку песка с помощью камня Кровь и песок шипы начинают разлетаться в стороны на большей площади.","http://web.poecdn.com/public/videos/Perforate/EPerforateIntro.bk2",398,"https://down.qq.com/poe/videos/skills/TPerforateIntro.bk2",[4]],["Frostblink",[],[179,178],"Вспомогательное умение смещения, которое перемещает персонажа на небольшое расстояние, создавая на прежнем месте взрыв холода и оставляя замёрзшую землю, которая замедляет врагов. Ледяной скачок - это неоценимое умение для избегания опасности.\n\nУмения смещения не слишком выигрывают от усиления камнями поддержки, и Ледяной скачок можно эффективно использовать без них.","http://web.poecdn.com/public/videos/Frostblink/EFrostblinkIntro.bk2",403,"https://down.qq.com/poe/videos/skills/TFrostblinkIntro.bk2",[1,6,5,2]],["Dash",[],[],"Рывок - это вспомогательное умение смещения, которое перемещает персонажа на небольшое расстояние, что полезно для уворота от атак.\n\nУмения смещения не слишком выигрывают от усиления камнями поддержки, и Рывок можно эффективно использовать без них.","http://web.poecdn.com/public/videos/Dash/EDashIntro.bk2",392,"https://down.qq.com/poe/videos/skills/TDashIntro.bk2",[3,4,5,2]],["Steelskin",[],[180,181],"Укрепляет защиту вашего персонажа, на короткое время резко уменьшая получаемый урон от ударов. Стальная кожа - это вспомогательное умение обороны, блокирующее определённое количество урона. Когда оно будет растрачено, персонаж начнёт снова получать полный урон.\n\nУмения обороны не слишком выигрывают от усиления камнями поддержки, и Стальную кожу можно эффективно использовать без них.","http://web.poecdn.com/public/videos/Steelskin/ESteelskinIntro.bk2",390,"https://down.qq.com/poe/videos/skills/TSteelskinIntro.bk2",[0,6,4,2]],["KineticBolt",[189,190],[188,192,191],"Выпускает из жезла наносящий урон заряд, который движется вперёд зигзагом. При каждой смене направления заряд выпускает снаряды, наносящие урон врагам.","http://web.poecdn.com/public/videos/EKineticBolt/EKineticBoltIntro.bk2",472,"http://down.qq.com/poe/videos/tutorial/TKineticBoltIntro.bk2",[1]]]}
+{
+  "filename": "AdvancedSkillsTutorial.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Keys1",
+      "rowid": 1,
+      "type": "ref|list|ulong",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Key2",
+      "rowid": 2,
+      "type": "ref|list|ulong",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Description",
+      "rowid": 3,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "International_BK2File",
+      "rowid": 4,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": true,
+      "file_ext": ".bk2",
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Key0",
+      "rowid": 5,
+      "type": "ulong",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "China_BK2File",
+      "rowid": 6,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": true,
+      "file_ext": ".bk2",
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "CharactersKey",
+      "rowid": 7,
+      "type": "ref|list|ulong",
+      "key": "Characters.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "Blight",
+      [
+        2,
+        1,
+        120
+      ],
+      [
+        3,
+        4,
+        141
+      ],
+      "Поддерживаемые чары хаоса с областью действия, которые накладывают на врага отрицательный эффект. Враги под действием отрицательного эффекта получают постепенный урон хаосом, а их скорость передвижения уменьшается.",
+      "http://web.poecdn.com/public/videos/Blight/BlightMainDemo.bk2 ",
+      301,
+      "http://down.qq.com/poe/videos/skills/Blight/BlightMainDemo.bk2",
+      [
+        6,
+        2,
+        1,
+        5
+      ]
+    ],
+    [
+      "FreezingPulse",
+      [
+        7,
+        6,
+        9
+      ],
+      [
+        8,
+        5,
+        144
+      ],
+      "Чары холода, выпускающие снаряды, которые пронзают врагов, нанося им урон от холода с шансом наложить заморозку. Урон снаряда и шанс наложить заморозку уменьшается в зависимости от дальности полета снаряда.",
+      "http://web.poecdn.com/public/videos/FreezingPulse/FreezingPulseMainDemo.bk2 ",
+      76,
+      "http://down.qq.com/poe/videos/skills/FreezingPulse/FreezingPulseFullDemo.bk2",
+      [
+        6,
+        1,
+        5
+      ]
+    ],
+    [
+      "LightningTendrils",
+      [
+        12,
+        14,
+        13
+      ],
+      [
+        11,
+        121,
+        122
+      ],
+      "Поддерживаемые чары с областью действия, которые пульсами наносят урон от молнии врагам. Каждые 4 пульса умение выпускает более сильный пульс.",
+      "http://web.poecdn.com/public/videos/LightningTendrils/LightingTendrilsMainDemo.bk2 ",
+      253,
+      "http://down.qq.com/poe/videos/skills/LightningTendrils/LightningTendrilsMainDemo.bk2",
+      [
+        6,
+        2,
+        1,
+        5
+      ]
+    ],
+    [
+      "MagmaOrb",
+      [
+        15,
+        17,
+        16
+      ],
+      [
+        18,
+        19,
+        148
+      ],
+      "Чары огня с областью действия. Выпускают снаряды, которые прыгают в направлении цели, нанося урон от огня. На высоких уровнях умение поражает врагов по цепи, совершая больше прыжков.",
+      "http://web.poecdn.com/public/videos/MagmaOrb/MagmaOrbMainDemo.bk2 ",
+      281,
+      "http://down.qq.com/poe/videos/skills/MagmaOrb/MagmaOrbFullDemo.bk2",
+      [
+        6,
+        2,
+        1,
+        5
+      ]
+    ],
+    [
+      "Fireball ",
+      [
+        22,
+        21,
+        26
+      ],
+      [
+        27,
+        24,
+        29
+      ],
+      "Чары огня с областью действия. Выпускают снаряды, поражающие врагов уроном от огня с высоким шансом наложить поджог, который наносит постепенный урон от огня.",
+      "http://web.poecdn.com/public/videos/Fireball/FireballMainDemo.bk2",
+      0,
+      "http://down.qq.com/poe/videos/skills/Fireball/FireballFullDemo.bk2",
+      [
+        6,
+        2,
+        0,
+        1,
+        5,
+        3
+      ]
+    ],
+    [
+      "RaiseZombies",
+      [
+        31,
+        32,
+        34
+      ],
+      [
+        149,
+        30,
+        33
+      ],
+      "Чары приспешников, которые поднимают труп, превращая его в зомби. Зомби будет следовать за персонажем и сражаться атаками ближнего боя.",
+      "http://web.poecdn.com/public/videos/RaiseZombies/RaiseZombiesMainDemo.bk2",
+      44,
+      "http://down.qq.com/poe/videos/skills/RaiseZombies/RaiseZombiesFullDemo.bk2",
+      [
+        6,
+        2,
+        1
+      ]
+    ],
+    [
+      "GlacialHammer",
+      [
+        38,
+        40,
+        39
+      ],
+      [
+        36,
+        37,
+        147
+      ],
+      "Физическая/холодная атака ближнего боя по одиночной цели. Леденящий молот имеет встроенный шанс наложить заморозку и будет разбивать замороженных врагов, если у них мало здоровья.",
+      "http://web.poecdn.com/public/videos/GlacialHammer/GlacialHammerFullDemo.bk2",
+      73,
+      "http://down.qq.com/poe/videos/skills/GlacialHammer/GlacialHammerFullDemo.bk2",
+      [
+        6,
+        4,
+        0
+      ]
+    ],
+    [
+      "EtheralKnives",
+      [
+        47,
+        46,
+        43
+      ],
+      [
+        42,
+        44,
+        45
+      ],
+      "Физические чары снарядов. Выпускают несколько снарядов дугой перед сотворяющим чары.",
+      "http://web.poecdn.com/public/videos/EtherealKnives/EtherealKnivesFullDemo.bk2",
+      162,
+      "http://down.qq.com/poe/videos/skills/EtherealKnives/EtherealKnivesFullDemo.bk2",
+      [
+        0,
+        1,
+        5
+      ]
+    ],
+    [
+      "ExplosiveTrap",
+      [
+        49,
+        48,
+        52
+      ],
+      [
+        51,
+        50,
+        53
+      ],
+      "Бросает ловушку, которая при срабатывании создает несколько небольших взрывов, наносящих физический урон и урон от огня врагам поблизости.",
+      "http://web.poecdn.com/public/videos/ExplosiveTrap/ExplosiveTrapFullDemo.bk2",
+      351,
+      "http://down.qq.com/poe/videos/skills/ExplosiveTrap/ExplosiveTrapFullDemo.bk2",
+      [
+        2,
+        1,
+        5,
+        3
+      ]
+    ],
+    [
+      "FrostBlades",
+      [
+        54,
+        58,
+        56
+      ],
+      [
+        57,
+        55,
+        145
+      ],
+      "Атака снарядами в ближнем бою, которая переводит 60% физического урона в урон от холода. Атака ближнего боя разделяется на несколько снарядов при попадании по врагу, в результате чего урон может быть нанесён ещё нескольким вторичным целям.",
+      "http://web.poecdn.com/public/videos/FrostBlades/FrostBladesMainDemo.bk2",
+      277,
+      "http://down.qq.com/poe/videos/skills/FrostBlades/FrostbladesFullDemo.bk2",
+      [
+        2,
+        2,
+        5,
+        3
+      ]
+    ],
+    [
+      "ViperStrike",
+      [
+        60,
+        64,
+        63
+      ],
+      [
+        61,
+        65,
+        62
+      ],
+      "Умение атаки ближнего боя по одиночной цели, которая переводит 25% физического урона в урон хаосом и имеет высокий шанс отравить цель.",
+      "http://web.poecdn.com/public/videos/ViperStrike/ViperStrikeFullDemo.bk2",
+      79,
+      "http://down.qq.com/poe/videos/skills/ViperStrike/ViperStrikeFullDemo.bk2",
+      [
+        2,
+        4,
+        5,
+        3
+      ]
+    ],
+    [
+      "SpectralThrow",
+      [
+        67,
+        70,
+        68
+      ],
+      [
+        66,
+        71,
+        150
+      ],
+      "Бросает во врагов копию оружия вашего персонажа в виде снаряда. Снаряд пронзает врагов, возвращается обратно к персонажу, и по пути может нанести урон ещё один раз.",
+      "http://web.poecdn.com/public/videos/SpectralThrow/SpectralThrowFullDemo.bk2",
+      207,
+      "http://down.qq.com/poe/videos/skills/SpectralThrow/SpectralThrowFullDemo.bk2",
+      [
+        6,
+        2,
+        4,
+        0,
+        5,
+        3
+      ]
+    ],
+    [
+      "IceShot",
+      [
+        73,
+        77,
+        74
+      ],
+      [
+        75,
+        72,
+        76
+      ],
+      "Выпускает стрелу, которая переводит 60% физического урона в урон от холода. Нанеся удар врагу, стрела оставляет участок замерзшей земли, которая замедляет стоящих на ней врагов. При попадании стрела также наносит урон от холода в конусе за целью.",
+      "http://web.poecdn.com/public/videos/Iceshot/IceshotFullDemo.bk2",
+      164,
+      "http://down.qq.com/poe/videos/skills/IceShot/IceshotMainDemo.bk2",
+      [
+        2,
+        4,
+        3
+      ]
+    ],
+    [
+      "ShrapnelShot",
+      [
+        182,
+        183,
+        187
+      ],
+      [
+        184,
+        185,
+        186
+      ],
+      "Выпускает сильнейший разряд молнии из вашего лука. Разряд наносит урон по врагам поблизости и выпускает три стрелы в конусе перед вами. Стрелы существуют недолго и ослабевают спустя короткий промежуток времени. Лучше всего использовать Электризующую стрелу для атак по врагам вблизи.",
+      "http://web.poecdn.com/public/videos/GalvanicArrow/EGalvanicArrowIntro.bk2",
+      286,
+      "http://down.qq.com/poe/videos/tutorial/TGalvanicArrowIntro.bk2",
+      [
+        2,
+        4,
+        3
+      ]
+    ],
+    [
+      "SplitArrow",
+      [
+        89,
+        87,
+        86
+      ],
+      [
+        84,
+        151,
+        152
+      ],
+      "Простая атака снарядами, которая выпускает несколько стрел.",
+      "http://web.poecdn.com/public/videos/SplitArrow/SplitArrowMainDemo.bk2",
+      32,
+      "http://down.qq.com/poe/videos/skills/SplitArrow/SplitArrowMainDemo.bk2",
+      [
+        2,
+        4,
+        5,
+        3
+      ]
+    ],
+    [
+      "GroundSlam",
+      [
+        95,
+        94,
+        91
+      ],
+      [
+        93,
+        90,
+        92
+      ],
+      "Атака ближнего боя по области, которая выпускает волну урона по области из оружия в правой руке вашего персонажа. Враги, стоящие поблизости от героя, получают больше урона. Сотрясение также имеет увеличенный шанс оглушить врагов.",
+      "http://web.poecdn.com/public/videos/GroundSlam/GroundSlamFullDemo.bk2",
+      13,
+      "http://down.qq.com/poe/videos/skills/GroundSlam/GroundSlamMainDemo.bk2",
+      [
+        6,
+        4,
+        0
+      ]
+    ],
+    [
+      "HeavyStrike",
+      [
+        100,
+        101,
+        99
+      ],
+      [
+        98,
+        96,
+        97
+      ],
+      "Простая атака ближнего боя по одиночной цели, которая может отбросить врагов назад.",
+      "http://web.poecdn.com/public/videos/HeavyStrike/HeavyStrikeFullDemo.bk2",
+      100,
+      "http://down.qq.com/poe/videos/skills/HeavyStrike/HeavyStrikeFullDemo.bk2",
+      [
+        6,
+        2,
+        4,
+        0
+      ]
+    ],
+    [
+      "Cleave ",
+      [
+        107,
+        106,
+        102
+      ],
+      [
+        105,
+        104,
+        103
+      ],
+      "Атака ближнего боя по области, которая наносит урон по дуге. Если у персонажа парное оружие, Рассечение будет использовать оба оружия.",
+      "http://web.poecdn.com/public/videos/Cleave/CleaveFullDemo.bk2",
+      15,
+      "http://down.qq.com/poe/videos/skills/Cleave/CleaveMainDemo.bk2",
+      [
+        2,
+        4,
+        0,
+        3
+      ]
+    ],
+    [
+      "DoubleStrike",
+      [
+        112,
+        113,
+        109
+      ],
+      [
+        110,
+        108,
+        111
+      ],
+      "Простая атака ближнего боя по одиночной цели, которая быстро поражает врага дважды. Умение наносит дополнительный физический урон по истекающим кровью врагам.",
+      "http://web.poecdn.com/public/videos/DoubleStrike/DoubleStrikeFullDemo.bk2",
+      18,
+      "http://down.qq.com/poe/videos/skills/DoubleStrike/DoublestrikeFullDemo.bk2",
+      [
+        2,
+        4,
+        0,
+        5,
+        3
+      ]
+    ],
+    [
+      "MoltenStrike",
+      [
+        114,
+        117,
+        118
+      ],
+      [
+        116,
+        115,
+        119
+      ],
+      "Атака ближнего боя по области, которая выпускает во врагов снаряды в виде расплавленных шаров. 50% физического урона становится уроном от огня.",
+      "http://web.poecdn.com/public/videos/MoltenStrike/MoltenStrikeFullDemo.bk2",
+      240,
+      "http://down.qq.com/poe/videos/skills/MoltenStrike/MoltenStrikeFullDemo.bk2",
+      [
+        6,
+        2,
+        4,
+        0
+      ]
+    ],
+    [
+      "Smite",
+      [
+        129,
+        130,
+        131
+      ],
+      [
+        133,
+        132,
+        134
+      ],
+      "Атака ближнего боя, которая вызывает удар молнии в выбранное место или ближайшего врага, нанося урон по области. При нанесении удара Кара также дарует ауру, которая ненадолго дает персонажу и его союзникам дополнительный урон от молнии.",
+      "http://web.poecdn.com/public/videos/Smite/SmiteFullDemo.bk2",
+      363,
+      "http://down.qq.com/poe/videos/skills/Smite/SmiteFullDemo.bk2",
+      [
+        6,
+        2,
+        0
+      ]
+    ],
+    [
+      "CausticArrow",
+      [
+        126,
+        125,
+        143
+      ],
+      [
+        142,
+        123,
+        124
+      ],
+      "Атака снарядами, которая при нанесении удара создает участок едкой земли, наносящий постепенный урон хаосом стоящим на ней врагам.",
+      "http://web.poecdn.com/public/videos/CausticArrow/CausticArrowFullDemo.bk2",
+      45,
+      "http://down.qq.com/poe/videos/skills/CausticArrow/CausticArrowMainDemo.bk2",
+      [
+        2,
+        4,
+        5,
+        3
+      ]
+    ],
+    [
+      "Frostbolt",
+      [
+        139,
+        137,
+        138
+      ],
+      [
+        136,
+        135,
+        146
+      ],
+      "Выпускает медленно летящий снаряд, который пронзает врагов и наносит урон от холода с шансом наложить охлаждение и заморозку.",
+      "http://web.poecdn.com/public/videos/Frostbolt/FrostboltFullDemo.bk2",
+      312,
+      "http://down.qq.com/poe/videos/skills/Frostbolt/Frostbolt%20Full%20Demo.bk2",
+      [
+        6,
+        2,
+        1,
+        5
+      ]
+    ],
+    [
+      "PurifyingFlame",
+      [
+        154,
+        155,
+        156
+      ],
+      [
+        153,
+        157,
+        158
+      ],
+      "Чары с областью действия, которые наносят физический урон и урон от огня по области и создают освящённую землю. Повторное сотворение чар создает волну, наносящую урон врагам, стоящим на ближайшей освящённой земле.",
+      "http://web.poecdn.com/public/videos/PurifyingFlame/PurifyingFlamesFullDemo.bk2",
+      379,
+      "https://down.qq.com/poe/videos/skills/PurifyingFlames/PurfiyingFlamesFullDemo.bk2",
+      [
+        6
+      ]
+    ],
+    [
+      "CobraLash",
+      [
+        166,
+        167,
+        168
+      ],
+      [
+        169,
+        170,
+        171
+      ],
+      "Бросает во врагов копию оружия вашего персонажа, которая перескакивает между ними и отравляет их. \n\nЯд наносит врагам постепенный урон хаосом в зависимости от физического урона и урона хаосом вашего героя. На врагов может действовать несколько отравлений одновременно. Для использования требуется кинжал или когти.",
+      "http://web.poecdn.com/public/videos/CobraLash/ECobraLashIntro.bk2",
+      411,
+      "https://down.qq.com/poe/videos/skills/TCobraLashIntro.bk2",
+      [
+        5
+      ]
+    ],
+    [
+      "StormblastMine",
+      [
+        159,
+        160,
+        161
+      ],
+      [
+        162,
+        163,
+        164,
+        165
+      ],
+      "Бросает мину, которую можно взорвать и нанести ближайшим к ней врагам урон от молнии. Также может наложить на врагов шок, увеличивая получаемый ими урон.\n\nШтормовые мины увеличивают урон, получаемый ближайшими врагами. Чем больше мин находится рядом с противником, тем больший урон он получает.",
+      "http://web.poecdn.com/public/videos/StormblastMine/EStormblastIntro.bk2",
+      421,
+      "https://down.qq.com/poe/videos/skills/TStormblastIntro.bk2",
+      [
+        5
+      ]
+    ],
+    [
+      "Perforate",
+      [
+        172,
+        173,
+        174
+      ],
+      [
+        175,
+        176,
+        177
+      ],
+      "Персонаж ударяет по земле, выпуская во врагов смертоносные шипы. Шипы идут часто, могут задеть нескольких врагов и могут поразить одного и того же врага несколько раз.\n\nПри переключении в стойку песка с помощью камня Кровь и песок шипы начинают разлетаться в стороны на большей площади.",
+      "http://web.poecdn.com/public/videos/Perforate/EPerforateIntro.bk2",
+      398,
+      "https://down.qq.com/poe/videos/skills/TPerforateIntro.bk2",
+      [
+        4
+      ]
+    ],
+    [
+      "Frostblink",
+      [],
+      [
+        179,
+        178
+      ],
+      "Вспомогательное умение смещения, которое перемещает персонажа на небольшое расстояние, создавая на прежнем месте взрыв холода и оставляя замёрзшую землю, которая замедляет врагов. Ледяной скачок - это неоценимое умение для избегания опасности.\n\nУмения смещения не слишком выигрывают от усиления камнями поддержки, и Ледяной скачок можно эффективно использовать без них.",
+      "http://web.poecdn.com/public/videos/Frostblink/EFrostblinkIntro.bk2",
+      403,
+      "https://down.qq.com/poe/videos/skills/TFrostblinkIntro.bk2",
+      [
+        1,
+        6,
+        5,
+        2
+      ]
+    ],
+    [
+      "Dash",
+      [],
+      [],
+      "Рывок - это вспомогательное умение смещения, которое перемещает персонажа на небольшое расстояние, что полезно для уворота от атак.\n\nУмения смещения не слишком выигрывают от усиления камнями поддержки, и Рывок можно эффективно использовать без них.",
+      "http://web.poecdn.com/public/videos/Dash/EDashIntro.bk2",
+      392,
+      "https://down.qq.com/poe/videos/skills/TDashIntro.bk2",
+      [
+        3,
+        4,
+        5,
+        2
+      ]
+    ],
+    [
+      "Steelskin",
+      [],
+      [
+        180,
+        181
+      ],
+      "Укрепляет защиту вашего персонажа, на короткое время резко уменьшая получаемый урон от ударов. Стальная кожа - это вспомогательное умение обороны, блокирующее определённое количество урона. Когда оно будет растрачено, персонаж начнёт снова получать полный урон.\n\nУмения обороны не слишком выигрывают от усиления камнями поддержки, и Стальную кожу можно эффективно использовать без них.",
+      "http://web.poecdn.com/public/videos/Steelskin/ESteelskinIntro.bk2",
+      390,
+      "https://down.qq.com/poe/videos/skills/TSteelskinIntro.bk2",
+      [
+        0,
+        6,
+        4,
+        2
+      ]
+    ],
+    [
+      "KineticBolt",
+      [
+        189,
+        190
+      ],
+      [
+        188,
+        192,
+        191
+      ],
+      "Выпускает из жезла наносящий урон заряд, который движется вперёд зигзагом. При каждой смене направления заряд выпускает снаряды, наносящие урон врагам.",
+      "http://web.poecdn.com/public/videos/EKineticBolt/EKineticBoltIntro.bk2",
+      472,
+      "http://down.qq.com/poe/videos/tutorial/TKineticBoltIntro.bk2",
+      [
+        1
+      ]
+    ]
+  ]
+}

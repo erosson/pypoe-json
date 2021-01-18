@@ -1,1 +1,92 @@
-{"filename":"HarvestSpecialCraftOptions.dat","header":[{"name":"Key0","rowid":0,"type":"ulong","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown0","rowid":1,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Key1","rowid":2,"type":"ulong","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[[314,672,7042],[315,709,7043],[316,710,7044],[317,672,7037],[318,677,7038],[319,678,7039],[320,678,7041],[321,678,7040]]}
+{
+  "filename": "HarvestSpecialCraftOptions.dat",
+  "header": [
+    {
+      "name": "Key0",
+      "rowid": 0,
+      "type": "ulong",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown0",
+      "rowid": 1,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Key1",
+      "rowid": 2,
+      "type": "ulong",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      314,
+      672,
+      7042
+    ],
+    [
+      315,
+      709,
+      7043
+    ],
+    [
+      316,
+      710,
+      7044
+    ],
+    [
+      317,
+      672,
+      7037
+    ],
+    [
+      318,
+      677,
+      7038
+    ],
+    [
+      319,
+      678,
+      7039
+    ],
+    [
+      320,
+      678,
+      7041
+    ],
+    [
+      321,
+      678,
+      7040
+    ]
+  ]
+}

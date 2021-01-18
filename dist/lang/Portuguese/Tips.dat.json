@@ -1,1 +1,257 @@
-{"filename":"Tips.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":true,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Text","rowid":1,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"TextXBox","rowid":2,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["ProxyKey1","Lembre-se de usar os frascos (<b>{1-5} no teclado).","Lembre-se de usar frascos (<<xbox_button_lb>> <<xbox_button_dpad_left>> <<xbox_button_dpad_up>> <<xbox_button_dpad_right>> <<xbox_button_rb>>)."],["ProxyKey2","Você pode remover uma <gemitem>{Gema de Habilidade} de qualquer item ao clicá-la com o botão direito.","Você pode remover uma <gemitem>{Gema de Habilidade} de um item pressionando <<xbox_button_b>> em um item e então <<xbox_button_a>>."],["ProxyKey3","Coloque um <b>{#} antes da sua mensagem de chat para falar globalmente.",""],["ProxyKey4","Coloque um <b>{$} antes da sua mensagem de chat para falar no chat de comércio.",""],["ProxyKey5","Instâncias se reiniciam após ficarem vazias por 8-15 minutos, destruindo quaisquer Portais conectados.",""],["ProxyKey6","Use <b>{Ctrl} + <b>{Alt} + <b>{Clique} para marcar um item no chat para outros jogadores.","Utilize <<xbox_button_lstick>> + <<xbox_button_b>> para linkar um item para outro jogador no chat.."],["ProxyKey7","Jogadores no mesmo grupo entrarão nas mesmas áreas.",""],["ProxyKey8","Clique com o botão direito em um jogador ou mande uma mensagem no chat para convidá-lo para seu grupo.","Pressione <<xbox_button_a>> em um jogador envie uma mensagem para ele no chat para convidá-lo ao grupo."],["ProxyKey9","Gemas de suporte precisam ser colocadas em encaixes ligados para afetar outra gema.",""],["ProxyKey10","Mantenha <b>{Shift} pressionado para atacar sem sair do lugar.",""],["ProxyKey11","Marcadores podem ser usados para viajar rapidamente entre algumas áreas.",""],["ProxyKey12","Os frascos no seu cinto se recarregam conforme você mata inimigos.",""],["ProxyKey13","Para usar um <currencyitem>{pergaminho} ou <currencyitem>{orbe}, <b>{clique com o botão direito} e então <b>{clique com o botão esquerdo} no item alvo.","Para usar um <currencyitem>{pergaminho} ou <currencyitem>{orbe}, pressione <<xbox_button_a>> em um item e então <<xbox_button_a>> no item alvo."],["ProxyKey14","Mantenha <b>{Shift} pressionado e clique em uma pilha de itens para desempilhá-los.","Pressione <<xbox_button_b>> em uma pilha de itens para separá-los."],["ProxyKey15","Nunca revele sua senha para alguém.",""],["ProxyKey17","As <gemitem>{Gemas de Habilidade} ganham experiência assim como você quando estão equipadas.",""],["ProxyKey18","Se não puder usar uma gema, colocá-la em um item impedirá que você use o item.",""],["ProxyKey19","Jogar em grupo com outros jogadores torna os inimigos mais poderosos e dá mais recompensas.",""],["ProxyKey20","Você pode mudar seus vínculos de tecla no menu <b>{Opções}.",""],["ProxyKey21","Você pode mover o mapa sobreposto usando as <b>{teclas direcionais}.",""],["ProxyKey22","Use a roda do mouse para aumentar ou diminuir o zoom.",""],["ProxyKey23","Seu baú pode ser usado para mover itens entre seus personagens.",""],["ProxyKey24","Monstros que causam dano de gelo podem te congelar.",""],["ProxyKey25","Dano de raio pode te eletrizar, aumentando o dano sofrido.",""],["ProxyKey26","Dano de fogo pode incendiar alvos, fazendo com que queimem e sofram dano extra.",""],["ProxyKey27","Manter a tecla de destaque (padrão: <b>{Alt}) pressionada exibirá os itens no chão, e pressionar <b>{Z} irá ativar ou desativar a exibição constante de itens.",""],["ProxyKey28","Monstros com a modificação muito rara de \"Riqueza\" derrubam itens muito melhores.",""],["ProxyKey29","Ativar um novo <b>{Marcador} é uma forma de salvar sua exploração por Wraeclast.",""],["ProxyKey30","Você pode trocar um Anel de Ferro e uma Gema de Habilidade por um anel de resistência nos vendedores.",""],["ProxyKey31","Mantenha <b>{Alt} pressionado ao ver os itens em seu inventário para compará-los com sua contraparte equipada.","Segure <<xbox_button_lstick>> enquanto visualiza itens em seu inventário para compará-los com seus respectivos equipados."],["ProxyKey33","Pressione <b>{Ctrl} e clique nas transições de área e ícones de ponto de passagem para forçar a criação de novas instâncias das áreas.","Pressione <<xbox_button_y>> em ícones de transição de áreas ou marcadores para forçar a criação de novas instâncias de áreas."],["ProxyKey34","Relate bugs com o comando de chat /bug",""],["ProxyKey35","Digite /ajuda no chat para obter uma lista de comandos.",""],["ProxyKey36","Frascos se reabastecerão quando você entrar em uma vila.",""],["ProxyKey37","Morrer durante o PvP não removerá seu personagem de uma liga Hardcore.",""],["ProxyKey38","Você pode acessar a arena de PvP Livre na cidade do Ato 3.",""],["ProxyKey39","Você pode acessar o PvP de equipe e PaB falando com certos NPCs nas vilas dos Atos 2 e 3.",""],["ProxyKey40","Quando você completa missões, as Gemas de Habilidade e Suporte podem ficar disponíveis, em um dos vendedores, em cada vila.",""],["ProxyKey41","Você pode configurar um Filtro de Itens para mostrar apenas itens específicos e alterar como eles aparecem.",""],["ProxyKey42","Depois de ter configurado um Filtro de Itens, você pode pressionar <b>{Z} para ver todos itens.","Uma vez que houver configurado um Filtro de Itens, você pode segurar <<xbox_button_lstick>> para ver todos os itens."],["ProxyKey43","Para conquistar um refúgio pessoal, ajude um mestre com suas missões até ele atingir nível 3, depois fale com ele na vila.",""]]}
+{
+  "filename": "Tips.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Text",
+      "rowid": 1,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "TextXBox",
+      "rowid": 2,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "ProxyKey1",
+      "Lembre-se de usar os frascos (<b>{1-5} no teclado).",
+      "Lembre-se de usar frascos (<<xbox_button_lb>> <<xbox_button_dpad_left>> <<xbox_button_dpad_up>> <<xbox_button_dpad_right>> <<xbox_button_rb>>)."
+    ],
+    [
+      "ProxyKey2",
+      "Você pode remover uma <gemitem>{Gema de Habilidade} de qualquer item ao clicá-la com o botão direito.",
+      "Você pode remover uma <gemitem>{Gema de Habilidade} de um item pressionando <<xbox_button_b>> em um item e então <<xbox_button_a>>."
+    ],
+    [
+      "ProxyKey3",
+      "Coloque um <b>{#} antes da sua mensagem de chat para falar globalmente.",
+      ""
+    ],
+    [
+      "ProxyKey4",
+      "Coloque um <b>{$} antes da sua mensagem de chat para falar no chat de comércio.",
+      ""
+    ],
+    [
+      "ProxyKey5",
+      "Instâncias se reiniciam após ficarem vazias por 8-15 minutos, destruindo quaisquer Portais conectados.",
+      ""
+    ],
+    [
+      "ProxyKey6",
+      "Use <b>{Ctrl} + <b>{Alt} + <b>{Clique} para marcar um item no chat para outros jogadores.",
+      "Utilize <<xbox_button_lstick>> + <<xbox_button_b>> para linkar um item para outro jogador no chat.."
+    ],
+    [
+      "ProxyKey7",
+      "Jogadores no mesmo grupo entrarão nas mesmas áreas.",
+      ""
+    ],
+    [
+      "ProxyKey8",
+      "Clique com o botão direito em um jogador ou mande uma mensagem no chat para convidá-lo para seu grupo.",
+      "Pressione <<xbox_button_a>> em um jogador envie uma mensagem para ele no chat para convidá-lo ao grupo."
+    ],
+    [
+      "ProxyKey9",
+      "Gemas de suporte precisam ser colocadas em encaixes ligados para afetar outra gema.",
+      ""
+    ],
+    [
+      "ProxyKey10",
+      "Mantenha <b>{Shift} pressionado para atacar sem sair do lugar.",
+      ""
+    ],
+    [
+      "ProxyKey11",
+      "Marcadores podem ser usados para viajar rapidamente entre algumas áreas.",
+      ""
+    ],
+    [
+      "ProxyKey12",
+      "Os frascos no seu cinto se recarregam conforme você mata inimigos.",
+      ""
+    ],
+    [
+      "ProxyKey13",
+      "Para usar um <currencyitem>{pergaminho} ou <currencyitem>{orbe}, <b>{clique com o botão direito} e então <b>{clique com o botão esquerdo} no item alvo.",
+      "Para usar um <currencyitem>{pergaminho} ou <currencyitem>{orbe}, pressione <<xbox_button_a>> em um item e então <<xbox_button_a>> no item alvo."
+    ],
+    [
+      "ProxyKey14",
+      "Mantenha <b>{Shift} pressionado e clique em uma pilha de itens para desempilhá-los.",
+      "Pressione <<xbox_button_b>> em uma pilha de itens para separá-los."
+    ],
+    [
+      "ProxyKey15",
+      "Nunca revele sua senha para alguém.",
+      ""
+    ],
+    [
+      "ProxyKey17",
+      "As <gemitem>{Gemas de Habilidade} ganham experiência assim como você quando estão equipadas.",
+      ""
+    ],
+    [
+      "ProxyKey18",
+      "Se não puder usar uma gema, colocá-la em um item impedirá que você use o item.",
+      ""
+    ],
+    [
+      "ProxyKey19",
+      "Jogar em grupo com outros jogadores torna os inimigos mais poderosos e dá mais recompensas.",
+      ""
+    ],
+    [
+      "ProxyKey20",
+      "Você pode mudar seus vínculos de tecla no menu <b>{Opções}.",
+      ""
+    ],
+    [
+      "ProxyKey21",
+      "Você pode mover o mapa sobreposto usando as <b>{teclas direcionais}.",
+      ""
+    ],
+    [
+      "ProxyKey22",
+      "Use a roda do mouse para aumentar ou diminuir o zoom.",
+      ""
+    ],
+    [
+      "ProxyKey23",
+      "Seu baú pode ser usado para mover itens entre seus personagens.",
+      ""
+    ],
+    [
+      "ProxyKey24",
+      "Monstros que causam dano de gelo podem te congelar.",
+      ""
+    ],
+    [
+      "ProxyKey25",
+      "Dano de raio pode te eletrizar, aumentando o dano sofrido.",
+      ""
+    ],
+    [
+      "ProxyKey26",
+      "Dano de fogo pode incendiar alvos, fazendo com que queimem e sofram dano extra.",
+      ""
+    ],
+    [
+      "ProxyKey27",
+      "Manter a tecla de destaque (padrão: <b>{Alt}) pressionada exibirá os itens no chão, e pressionar <b>{Z} irá ativar ou desativar a exibição constante de itens.",
+      ""
+    ],
+    [
+      "ProxyKey28",
+      "Monstros com a modificação muito rara de \"Riqueza\" derrubam itens muito melhores.",
+      ""
+    ],
+    [
+      "ProxyKey29",
+      "Ativar um novo <b>{Marcador} é uma forma de salvar sua exploração por Wraeclast.",
+      ""
+    ],
+    [
+      "ProxyKey30",
+      "Você pode trocar um Anel de Ferro e uma Gema de Habilidade por um anel de resistência nos vendedores.",
+      ""
+    ],
+    [
+      "ProxyKey31",
+      "Mantenha <b>{Alt} pressionado ao ver os itens em seu inventário para compará-los com sua contraparte equipada.",
+      "Segure <<xbox_button_lstick>> enquanto visualiza itens em seu inventário para compará-los com seus respectivos equipados."
+    ],
+    [
+      "ProxyKey33",
+      "Pressione <b>{Ctrl} e clique nas transições de área e ícones de ponto de passagem para forçar a criação de novas instâncias das áreas.",
+      "Pressione <<xbox_button_y>> em ícones de transição de áreas ou marcadores para forçar a criação de novas instâncias de áreas."
+    ],
+    [
+      "ProxyKey34",
+      "Relate bugs com o comando de chat /bug",
+      ""
+    ],
+    [
+      "ProxyKey35",
+      "Digite /ajuda no chat para obter uma lista de comandos.",
+      ""
+    ],
+    [
+      "ProxyKey36",
+      "Frascos se reabastecerão quando você entrar em uma vila.",
+      ""
+    ],
+    [
+      "ProxyKey37",
+      "Morrer durante o PvP não removerá seu personagem de uma liga Hardcore.",
+      ""
+    ],
+    [
+      "ProxyKey38",
+      "Você pode acessar a arena de PvP Livre na cidade do Ato 3.",
+      ""
+    ],
+    [
+      "ProxyKey39",
+      "Você pode acessar o PvP de equipe e PaB falando com certos NPCs nas vilas dos Atos 2 e 3.",
+      ""
+    ],
+    [
+      "ProxyKey40",
+      "Quando você completa missões, as Gemas de Habilidade e Suporte podem ficar disponíveis, em um dos vendedores, em cada vila.",
+      ""
+    ],
+    [
+      "ProxyKey41",
+      "Você pode configurar um Filtro de Itens para mostrar apenas itens específicos e alterar como eles aparecem.",
+      ""
+    ],
+    [
+      "ProxyKey42",
+      "Depois de ter configurado um Filtro de Itens, você pode pressionar <b>{Z} para ver todos itens.",
+      "Uma vez que houver configurado um Filtro de Itens, você pode segurar <<xbox_button_lstick>> para ver todos os itens."
+    ],
+    [
+      "ProxyKey43",
+      "Para conquistar um refúgio pessoal, ajude um mestre com suas missões até ele atingir nível 3, depois fale com ele na vila.",
+      ""
+    ]
+  ]
+}

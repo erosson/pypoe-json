@@ -1,1 +1,73 @@
-{"filename":"HarvestDurability.dat","header":[{"name":"HarvestObjectsKey","rowid":0,"type":"ulong","key":"HarvestObjects.dat","key_id":null,"key_offset":0,"enum":null,"unique":true,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Durability","rowid":1,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[[55,50],[56,100],[57,150],[58,50],[59,100],[60,150],[61,50],[62,100],[63,150]]}
+{
+  "filename": "HarvestDurability.dat",
+  "header": [
+    {
+      "name": "HarvestObjectsKey",
+      "rowid": 0,
+      "type": "ulong",
+      "key": "HarvestObjects.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Durability",
+      "rowid": 1,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      55,
+      50
+    ],
+    [
+      56,
+      100
+    ],
+    [
+      57,
+      150
+    ],
+    [
+      58,
+      50
+    ],
+    [
+      59,
+      100
+    ],
+    [
+      60,
+      150
+    ],
+    [
+      61,
+      50
+    ],
+    [
+      62,
+      100
+    ],
+    [
+      63,
+      150
+    ]
+  ]
+}

@@ -1,1 +1,985 @@
-{"filename":"BetrayalUpgrades.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":true,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Name","rowid":1,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Description","rowid":2,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"ModsKey","rowid":3,"type":"ref|list|ulong","key":"Mods.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"ArtFile","rowid":4,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":true,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"BetrayalUpgradeSlotsKey","rowid":5,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":"BETRAYAL_UPGRADE_SLOTS","unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown7","rowid":6,"type":"ref|list|int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"ItemVisualIdentityKey0","rowid":7,"type":"ulong","key":"ItemVisualIdentity.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"ItemVisualIdentityKey1","rowid":8,"type":"ulong","key":"ItemVisualIdentity.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Key2","rowid":9,"type":"ulong","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown11","rowid":10,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Key3","rowid":11,"type":"ulong","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["NoItem","없음","",[],"",5,[],null,null,null,0,null],["Boots1","코림의 여정","이동 속도 증가",[15640],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/KorimsJourney",1,[],null,null,null,1,null],["Boots2","아잘의 활력","공격 속도",[15641],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/AzalsAlacrium",1,[],null,null,null,1,null],["Boots3","하리말의 침략","명중 시 맹공",[15642],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/HarimalsInvasion",1,[],null,null,null,1,null],["Boots4","울다멜의 시대","생명력 증가",[15643],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/UrdamelsAge",1,[],null,null,null,1,null],["Boots5","타우 포의 발가락","시전 속도",[15644],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/TauPohsToes",1,[],null,null,null,1,null],["Boots6","로락의 부싯돌","물리 피해가 화염 피해에 추가. 모든 피해가 점화 유발",[15645],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/LoragsFirestarter",1,[],null,null,null,1,null],["Boots7","테키톤의 뒤꿈치","기절 확률",[15646],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/TekitonsHeel",1,[],null,null,null,1,null],["Boots8","엘간의 횡단","기본 속도 이하로 느려지지 않음",[15647],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/ElgansCrossing",1,[],null,null,null,1,null],["Boots9","부의 녹색 길","명중 시 중독 유발",[15648],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/BusGreenPath",1,[],null,null,null,1,null],["Boots10","칸타의 덩굴","덩굴 내의 시신 폭발",[15649],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/CantarsTangle",1,[],null,null,null,1,null],["HelmetAttachment1","라우스트의 축복","추가 에너지 보호막",[15650],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/RaustsBlessings",0,[],null,null,null,1,null],["HelmetAttachment2","고고리의 군대","명중 시 출혈 유발",[15651],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/GogorisArmy",0,[],null,null,null,1,null],["HelmetAttachment3","울다멜의 광기","불경한 파수꾼 생성",[15652],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/UrdamelsMadness",0,[],null,null,null,1,null],["HelmetAttachment4","실라스의 첨탑","효과 범위 증가",[15653],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/SilasSpires",0,[],null,null,null,1,null],["HelmetAttachment5","로락의 꿈","사술 방지",[15654],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/LoragsDream",0,[],null,null,null,1,null],["HelmetAttachment6","아잘의 눈","물리 피해가 냉기 피해에 추가. 모든 피해가 냉각 유발",[15655],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/AzalsEye",0,[],null,null,null,1,null],["HelmetAttachment7","모크누마의 감시","치명타와 정확도",[15656],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/MoknumasWatch",0,[],null,null,null,1,null],["HelmetAttachment8","부의 기쁨","시신을 소모하여 생명력 회복",[15657],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/BusDelight",0,[],null,null,null,1,null],["HelmetAttachment9","하리말의 벽","석화 석상 소환 허용",[15658],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/HarimalsWall",0,[],null,null,null,1,null],["HelmetAttachment10","센-킨의 하강","흡수되지 않음",[15659],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/SenKinsDescent",0,[],null,null,null,1,null],["BackAttachment1","아카닐림의 가죽","화염 저항",[15660],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/AkanilimsHide",3,[],null,null,null,1,null],["BackAttachment2","시아펫의 덮개","번개 저항",[15661],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/ShiaphetsPall",3,[],null,null,null,1,null],["BackAttachment3","준티의 양산","냉기 저항",[15662],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/XuntisParasol",3,[],null,null,null,1,null],["BackAttachment4","테키톤의 척추","물리 감소",[15663],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/TekitonsSpine",3,[],null,null,null,1,null],["BackAttachment5","고고리의 역병","카오스 저항",[15664],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/GogorisPlague",3,[],null,null,null,1,null],["BackAttachment6","하리말의 작전","다중 투사체",[15665],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/HarimalsCampaign",3,[],null,null,null,1,null],["BackAttachment7","타우 포의 깃발","상태 이상 긴급회피",[15666],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/TauPohsBanner",3,[],null,null,null,1,null],["BackAttachment8","부의 물병","불경한 유물 생성",[15667],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/BusBottle",3,[],null,null,null,1,null],["BackAttachment9","리스킨의 춤","물리 피해가 번개 피해에 추가. 모든 피해가 감전 유발",[15668],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/RithkinsDance",3,[],null,null,null,1,null],["BackAttachment10","칸타의 관","산성 내 시신 폭발",[15669],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/CantarsCoffine",3,[],null,null,null,1,null],["TwoHandAxe1","실라스의 평탄화","효과 범위 증가",[15653],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/SilasFlattener",4,[],9396,null,null,1,16],["TwoHandMace1","모크누마의 태풍","명중 시 힘줄 절단 유발",[15670],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/MoknumasStorm",4,[],9397,null,null,1,17],["Bow1","고고리의 쐐기털","장거리 사격",[15671],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/GogorisStinger",4,[],null,9398,null,1,13],["Bow2","준티의 치터","근접 사격",[15672],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/XuntisZither",4,[],null,9399,null,1,13],["Bow3","리스킨의 짐","명중 시 격분 충전 획득",[15673],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/RithkinsBurden",4,[],null,9400,null,1,13],["OneHandSword1","센-킨의 출몰","치명타 확률 및 배율",[15674],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/SenkinsHaunt",4,[],9401,null,null,1,9],["OneHandSword2","아카닐림의 무늬","공격 속도",[15641],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/AkanilimsPattern",4,[],9402,null,null,1,9],["OneHandSword3","코림의 참수","공격 피해",[15675],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/KorimsDecapitator",4,[],9403,null,null,1,9],["OneHandSword4","시아펫의 바늘","명중 시 꿰뚫음",[15676],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/ShiaphetsNeedle",4,[],9404,null,null,1,9],["OneHandMace1","라우스트의 심판","명중 시 인내 충전 획득",[15677],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/RaustsJudgement",4,[],9405,null,null,1,12],["OneHandMace2","엘간의 의식","공격 속도",[15641],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/ElgansRitual",4,[],9406,null,null,1,12],["Sceptre1","울다멜의 폭정","원소 피해",[15678],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/UrdamelsTyranny",4,[],9407,null,null,1,32],["Dagger1","타우 포의 기만","명중 시 권능 충전 획득",[15679],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/TauPohsDeceoption",4,[],9408,null,null,1,7],["Dagger2","부의 만개","명중 시 실명 유발",[15680],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/BusBlossom",4,[],9409,null,null,1,7],["Shield1","테키톤의 산맥","추가 막기 확률",[15681],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/TekitonsMountain",4,[],null,9410,null,1,26],["Shield2","하리말의 속임수","명중 시 방어 상승",[15682],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/HarimalsFeint",4,[],null,9411,null,1,26],["Claw1","칸타의 무리","생명력 흡수",[15683],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/CantarsPack",4,[],9412,null,null,1,6],["Gloves1","모크누마의 마술","명중 시 비전 쇄도",[15684],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/MoknumasConjuring",2,[],null,null,null,1,null],["Gloves2","아잘의 솜씨","명중 시 이동 방해",[15685],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/AzalsManipulation",2,[],null,null,null,1,null]]}
+{
+  "filename": "BetrayalUpgrades.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Name",
+      "rowid": 1,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Description",
+      "rowid": 2,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "ModsKey",
+      "rowid": 3,
+      "type": "ref|list|ulong",
+      "key": "Mods.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "ArtFile",
+      "rowid": 4,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": true,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "BetrayalUpgradeSlotsKey",
+      "rowid": 5,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": "BETRAYAL_UPGRADE_SLOTS",
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown7",
+      "rowid": 6,
+      "type": "ref|list|int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "ItemVisualIdentityKey0",
+      "rowid": 7,
+      "type": "ulong",
+      "key": "ItemVisualIdentity.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "ItemVisualIdentityKey1",
+      "rowid": 8,
+      "type": "ulong",
+      "key": "ItemVisualIdentity.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Key2",
+      "rowid": 9,
+      "type": "ulong",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown11",
+      "rowid": 10,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Key3",
+      "rowid": 11,
+      "type": "ulong",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "NoItem",
+      "없음",
+      "",
+      [],
+      "",
+      5,
+      [],
+      null,
+      null,
+      null,
+      0,
+      null
+    ],
+    [
+      "Boots1",
+      "코림의 여정",
+      "이동 속도 증가",
+      [
+        15640
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/KorimsJourney",
+      1,
+      [],
+      null,
+      null,
+      null,
+      1,
+      null
+    ],
+    [
+      "Boots2",
+      "아잘의 활력",
+      "공격 속도",
+      [
+        15641
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/AzalsAlacrium",
+      1,
+      [],
+      null,
+      null,
+      null,
+      1,
+      null
+    ],
+    [
+      "Boots3",
+      "하리말의 침략",
+      "명중 시 맹공",
+      [
+        15642
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/HarimalsInvasion",
+      1,
+      [],
+      null,
+      null,
+      null,
+      1,
+      null
+    ],
+    [
+      "Boots4",
+      "울다멜의 시대",
+      "생명력 증가",
+      [
+        15643
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/UrdamelsAge",
+      1,
+      [],
+      null,
+      null,
+      null,
+      1,
+      null
+    ],
+    [
+      "Boots5",
+      "타우 포의 발가락",
+      "시전 속도",
+      [
+        15644
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/TauPohsToes",
+      1,
+      [],
+      null,
+      null,
+      null,
+      1,
+      null
+    ],
+    [
+      "Boots6",
+      "로락의 부싯돌",
+      "물리 피해가 화염 피해에 추가. 모든 피해가 점화 유발",
+      [
+        15645
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/LoragsFirestarter",
+      1,
+      [],
+      null,
+      null,
+      null,
+      1,
+      null
+    ],
+    [
+      "Boots7",
+      "테키톤의 뒤꿈치",
+      "기절 확률",
+      [
+        15646
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/TekitonsHeel",
+      1,
+      [],
+      null,
+      null,
+      null,
+      1,
+      null
+    ],
+    [
+      "Boots8",
+      "엘간의 횡단",
+      "기본 속도 이하로 느려지지 않음",
+      [
+        15647
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/ElgansCrossing",
+      1,
+      [],
+      null,
+      null,
+      null,
+      1,
+      null
+    ],
+    [
+      "Boots9",
+      "부의 녹색 길",
+      "명중 시 중독 유발",
+      [
+        15648
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/BusGreenPath",
+      1,
+      [],
+      null,
+      null,
+      null,
+      1,
+      null
+    ],
+    [
+      "Boots10",
+      "칸타의 덩굴",
+      "덩굴 내의 시신 폭발",
+      [
+        15649
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/CantarsTangle",
+      1,
+      [],
+      null,
+      null,
+      null,
+      1,
+      null
+    ],
+    [
+      "HelmetAttachment1",
+      "라우스트의 축복",
+      "추가 에너지 보호막",
+      [
+        15650
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/RaustsBlessings",
+      0,
+      [],
+      null,
+      null,
+      null,
+      1,
+      null
+    ],
+    [
+      "HelmetAttachment2",
+      "고고리의 군대",
+      "명중 시 출혈 유발",
+      [
+        15651
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/GogorisArmy",
+      0,
+      [],
+      null,
+      null,
+      null,
+      1,
+      null
+    ],
+    [
+      "HelmetAttachment3",
+      "울다멜의 광기",
+      "불경한 파수꾼 생성",
+      [
+        15652
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/UrdamelsMadness",
+      0,
+      [],
+      null,
+      null,
+      null,
+      1,
+      null
+    ],
+    [
+      "HelmetAttachment4",
+      "실라스의 첨탑",
+      "효과 범위 증가",
+      [
+        15653
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/SilasSpires",
+      0,
+      [],
+      null,
+      null,
+      null,
+      1,
+      null
+    ],
+    [
+      "HelmetAttachment5",
+      "로락의 꿈",
+      "사술 방지",
+      [
+        15654
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/LoragsDream",
+      0,
+      [],
+      null,
+      null,
+      null,
+      1,
+      null
+    ],
+    [
+      "HelmetAttachment6",
+      "아잘의 눈",
+      "물리 피해가 냉기 피해에 추가. 모든 피해가 냉각 유발",
+      [
+        15655
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/AzalsEye",
+      0,
+      [],
+      null,
+      null,
+      null,
+      1,
+      null
+    ],
+    [
+      "HelmetAttachment7",
+      "모크누마의 감시",
+      "치명타와 정확도",
+      [
+        15656
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/MoknumasWatch",
+      0,
+      [],
+      null,
+      null,
+      null,
+      1,
+      null
+    ],
+    [
+      "HelmetAttachment8",
+      "부의 기쁨",
+      "시신을 소모하여 생명력 회복",
+      [
+        15657
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/BusDelight",
+      0,
+      [],
+      null,
+      null,
+      null,
+      1,
+      null
+    ],
+    [
+      "HelmetAttachment9",
+      "하리말의 벽",
+      "석화 석상 소환 허용",
+      [
+        15658
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/HarimalsWall",
+      0,
+      [],
+      null,
+      null,
+      null,
+      1,
+      null
+    ],
+    [
+      "HelmetAttachment10",
+      "센-킨의 하강",
+      "흡수되지 않음",
+      [
+        15659
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/SenKinsDescent",
+      0,
+      [],
+      null,
+      null,
+      null,
+      1,
+      null
+    ],
+    [
+      "BackAttachment1",
+      "아카닐림의 가죽",
+      "화염 저항",
+      [
+        15660
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/AkanilimsHide",
+      3,
+      [],
+      null,
+      null,
+      null,
+      1,
+      null
+    ],
+    [
+      "BackAttachment2",
+      "시아펫의 덮개",
+      "번개 저항",
+      [
+        15661
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/ShiaphetsPall",
+      3,
+      [],
+      null,
+      null,
+      null,
+      1,
+      null
+    ],
+    [
+      "BackAttachment3",
+      "준티의 양산",
+      "냉기 저항",
+      [
+        15662
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/XuntisParasol",
+      3,
+      [],
+      null,
+      null,
+      null,
+      1,
+      null
+    ],
+    [
+      "BackAttachment4",
+      "테키톤의 척추",
+      "물리 감소",
+      [
+        15663
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/TekitonsSpine",
+      3,
+      [],
+      null,
+      null,
+      null,
+      1,
+      null
+    ],
+    [
+      "BackAttachment5",
+      "고고리의 역병",
+      "카오스 저항",
+      [
+        15664
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/GogorisPlague",
+      3,
+      [],
+      null,
+      null,
+      null,
+      1,
+      null
+    ],
+    [
+      "BackAttachment6",
+      "하리말의 작전",
+      "다중 투사체",
+      [
+        15665
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/HarimalsCampaign",
+      3,
+      [],
+      null,
+      null,
+      null,
+      1,
+      null
+    ],
+    [
+      "BackAttachment7",
+      "타우 포의 깃발",
+      "상태 이상 긴급회피",
+      [
+        15666
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/TauPohsBanner",
+      3,
+      [],
+      null,
+      null,
+      null,
+      1,
+      null
+    ],
+    [
+      "BackAttachment8",
+      "부의 물병",
+      "불경한 유물 생성",
+      [
+        15667
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/BusBottle",
+      3,
+      [],
+      null,
+      null,
+      null,
+      1,
+      null
+    ],
+    [
+      "BackAttachment9",
+      "리스킨의 춤",
+      "물리 피해가 번개 피해에 추가. 모든 피해가 감전 유발",
+      [
+        15668
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/RithkinsDance",
+      3,
+      [],
+      null,
+      null,
+      null,
+      1,
+      null
+    ],
+    [
+      "BackAttachment10",
+      "칸타의 관",
+      "산성 내 시신 폭발",
+      [
+        15669
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/CantarsCoffine",
+      3,
+      [],
+      null,
+      null,
+      null,
+      1,
+      null
+    ],
+    [
+      "TwoHandAxe1",
+      "실라스의 평탄화",
+      "효과 범위 증가",
+      [
+        15653
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/SilasFlattener",
+      4,
+      [],
+      9396,
+      null,
+      null,
+      1,
+      16
+    ],
+    [
+      "TwoHandMace1",
+      "모크누마의 태풍",
+      "명중 시 힘줄 절단 유발",
+      [
+        15670
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/MoknumasStorm",
+      4,
+      [],
+      9397,
+      null,
+      null,
+      1,
+      17
+    ],
+    [
+      "Bow1",
+      "고고리의 쐐기털",
+      "장거리 사격",
+      [
+        15671
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/GogorisStinger",
+      4,
+      [],
+      null,
+      9398,
+      null,
+      1,
+      13
+    ],
+    [
+      "Bow2",
+      "준티의 치터",
+      "근접 사격",
+      [
+        15672
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/XuntisZither",
+      4,
+      [],
+      null,
+      9399,
+      null,
+      1,
+      13
+    ],
+    [
+      "Bow3",
+      "리스킨의 짐",
+      "명중 시 격분 충전 획득",
+      [
+        15673
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/RithkinsBurden",
+      4,
+      [],
+      null,
+      9400,
+      null,
+      1,
+      13
+    ],
+    [
+      "OneHandSword1",
+      "센-킨의 출몰",
+      "치명타 확률 및 배율",
+      [
+        15674
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/SenkinsHaunt",
+      4,
+      [],
+      9401,
+      null,
+      null,
+      1,
+      9
+    ],
+    [
+      "OneHandSword2",
+      "아카닐림의 무늬",
+      "공격 속도",
+      [
+        15641
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/AkanilimsPattern",
+      4,
+      [],
+      9402,
+      null,
+      null,
+      1,
+      9
+    ],
+    [
+      "OneHandSword3",
+      "코림의 참수",
+      "공격 피해",
+      [
+        15675
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/KorimsDecapitator",
+      4,
+      [],
+      9403,
+      null,
+      null,
+      1,
+      9
+    ],
+    [
+      "OneHandSword4",
+      "시아펫의 바늘",
+      "명중 시 꿰뚫음",
+      [
+        15676
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/ShiaphetsNeedle",
+      4,
+      [],
+      9404,
+      null,
+      null,
+      1,
+      9
+    ],
+    [
+      "OneHandMace1",
+      "라우스트의 심판",
+      "명중 시 인내 충전 획득",
+      [
+        15677
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/RaustsJudgement",
+      4,
+      [],
+      9405,
+      null,
+      null,
+      1,
+      12
+    ],
+    [
+      "OneHandMace2",
+      "엘간의 의식",
+      "공격 속도",
+      [
+        15641
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/ElgansRitual",
+      4,
+      [],
+      9406,
+      null,
+      null,
+      1,
+      12
+    ],
+    [
+      "Sceptre1",
+      "울다멜의 폭정",
+      "원소 피해",
+      [
+        15678
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/UrdamelsTyranny",
+      4,
+      [],
+      9407,
+      null,
+      null,
+      1,
+      32
+    ],
+    [
+      "Dagger1",
+      "타우 포의 기만",
+      "명중 시 권능 충전 획득",
+      [
+        15679
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/TauPohsDeceoption",
+      4,
+      [],
+      9408,
+      null,
+      null,
+      1,
+      7
+    ],
+    [
+      "Dagger2",
+      "부의 만개",
+      "명중 시 실명 유발",
+      [
+        15680
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/BusBlossom",
+      4,
+      [],
+      9409,
+      null,
+      null,
+      1,
+      7
+    ],
+    [
+      "Shield1",
+      "테키톤의 산맥",
+      "추가 막기 확률",
+      [
+        15681
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/TekitonsMountain",
+      4,
+      [],
+      null,
+      9410,
+      null,
+      1,
+      26
+    ],
+    [
+      "Shield2",
+      "하리말의 속임수",
+      "명중 시 방어 상승",
+      [
+        15682
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/HarimalsFeint",
+      4,
+      [],
+      null,
+      9411,
+      null,
+      1,
+      26
+    ],
+    [
+      "Claw1",
+      "칸타의 무리",
+      "생명력 흡수",
+      [
+        15683
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/CantarsPack",
+      4,
+      [],
+      9412,
+      null,
+      null,
+      1,
+      6
+    ],
+    [
+      "Gloves1",
+      "모크누마의 마술",
+      "명중 시 비전 쇄도",
+      [
+        15684
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/MoknumasConjuring",
+      2,
+      [],
+      null,
+      null,
+      null,
+      1,
+      null
+    ],
+    [
+      "Gloves2",
+      "아잘의 솜씨",
+      "명중 시 이동 방해",
+      [
+        15685
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/AzalsManipulation",
+      2,
+      [],
+      null,
+      null,
+      null,
+      1,
+      null
+    ]
+  ]
+}

@@ -1,1 +1,709 @@
-{"filename":"SynthesisRewardTypes.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":true,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Description","rowid":1,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"ArtFile","rowid":2,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":true,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"AchievementItemsKey","rowid":3,"type":"ulong","key":"AchievementItems.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["Currency","Enthält 2 bis 3 synthetisierte Truhen mit Währungsgegenständen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIcon",null],["Currency2","Enthält 3 bis 4 synthetisierte Truhen mit Währungsgegenständen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIcon",null],["Currency3","Enthält 4 bis 5 synthetisierte Truhen mit Währungsgegenständen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIcon",null],["CurrencyHigh3","Enthält 2 bis 3 synthetisierte Truhen mit wertvollen Währungsgegenständen\r\nEnthält 2 synthetisierte Truhen mit Währungsgegenständen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIconTier2",null],["Currency4","Enthält 5 bis 6 synthetisierte Truhen mit Währungsgegenständen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIcon",null],["CurrencyHigh4","Enthält 3 bis 4 synthetisierte Truhen mit wertvollen Währungsgegenständen\r\nEnthält 2 synthetisierte Truhen mit Währungsgegenständen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIconTier2",null],["CurrencyEpic4","Enthält 1 synthetisierte Truhe mit sehr wertvollen Währungsgegenständen\r\nEnthält 4 bis 5 synthetisierte Truhen mit Währungsgegenständen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIconTier3",null],["Currency5","Enthält 6 bis 7 synthetisierte Truhen mit Währungsgegenständen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIcon",null],["CurrencyHigh5","Enthält 4 bis 5 synthetisierte Truhen mit wertvollen Währungsgegenständen\r\nEnthält 2 synthetisierte Truhen mit Währungsgegenständen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIconTier2",null],["CurrencyEpic5","Enthält 1 synthetisierte Truhe mit sehr wertvollen Währungsgegenständen\r\nEnthält 5 bis 6 synthetisierte Truhen mit Währungsgegenständen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIconTier3",null],["Uniques","Enthält 1 synthetisierte Truhe mit einem einzigartigen Gegenstand\r\nEnthält 1 bis 2 synthetisierte Truhen mit brüchigen Gegenständen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/UniqueItemRewardIcon",null],["Uniques2","Enthält 1 synthetisierte Truhe mit einem einzigartigen Gegenstand\r\nEnthält 2 bis 3 synthetisierte Truhen mit brüchigen Gegenständen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/UniqueItemRewardIcon",null],["Uniques3","Enthält 2 synthetisierte Truhen mit einem einzigartigen Gegenstand\r\nEnthält 2 bis 3 synthetisierte Truhen mit brüchigen Gegenständen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/UniqueItemRewardIcon",null],["Uniques4","Enthält 2 synthetisierte Truhen mit einem einzigartigen Gegenstand\r\nEnthält 3 bis 4 synthetisierte Truhen mit brüchigen Gegenständen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/UniqueItemRewardIcon",null],["Uniques5","Enthält 3 synthetisierte Truhen mit einem einzigartigen Gegenstand\r\nEnthält 3 bis 4 synthetisierte Truhen mit brüchigen Gegenständen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/UniqueItemRewardIcon",null],["UniquesHigh5","Enthält 1 synthetisierte Truhe mit einem wertvollen einzigartigen Gegenstand\r\nEnthält 3 bis 4 synthetisierte Truhen mit einem einzigartigen Gegenstand","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/UniqueItemRewardIconTier2",null],["FracturedItems3","Enthält 2 bis 3 synthetisierte Truhen mit wertvollen brüchigen Gegenständen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/FracturedItemRewardIconTier3",null],["Gems","Enthält 1 bis 2 synthetisierte Truhen mit Gemmen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/SkillGemItemRewardIcon",null],["Gems2","Enthält 2 bis 3 synthetisierte Truhen mit Gemmen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/SkillGemItemRewardIcon",null],["Gems3","Enthält 3 bis 4 synthetisierte Truhen mit Gemmen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/SkillGemItemRewardIcon",null],["GemsHigh3","Enthält 2 bis 3 synthetisierte Truhen mit wertvollen Gemmen\r\nEnthält 1 bis 2 synthetisierte Truhen mit Gemmen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/SkillGemItemRewardIconTier2",null],["Maps","Enthält 1 bis 2 synthetisierte Truhen mit Karten","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/MapItemRewardIcon",null],["Maps2","Enthält 2 bis 3 synthetisierte Truhen mit Karten","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/MapItemRewardIcon",null],["Maps3","Enthält 3 bis 4 synthetisierte Truhen mit Karten","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/MapItemRewardIcon",null],["Trinkets","Enthält 1 bis 2 synthetisierte Truhen mit Schmuck\r\nEnthält 1 synthetisierte Truhe mit brüchigem Schmuck","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",null],["Trinkets2","Enthält 2 bis 3 synthetisierte Truhen mit Schmuck\r\nEnthält 1 synthetisierte Truhe mit brüchigem Schmuck","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",null],["Trinkets3","Enthält 3 bis 4 synthetisierte Truhen mit Schmuck\r\nEnthält 1 synthetisierte Truhe mit brüchigem Schmuck","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",null],["TrinketsHigh3","Enthält 2 bis 3 synthetisierte Truhen mit wertvollem Schmuck\r\nEnthält 2 synthetisierte Truhen mit brüchigem Schmuck","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",null],["Trinkets4","Enthält 4 bis 5 synthetisierte Truhen mit Schmuck\r\nEnthält 1 synthetisierte Truhe mit brüchigem Schmuck","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",null],["TrinketsHigh4","Enthält 3 synthetisierte Truhen mit wertvollem Schmuck\r\nEnthält 3 synthetisierte Truhen mit brüchigem Schmuck","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",null],["TrinketsEpic4","Enthält 1 synthetisierte Truhe mit sehr wertvollem Schmuck\r\nEnthält 4 bis 5 synthetisierte Truhen mit brüchigem Schmuck","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",null],["Trinkets5","Enthält 4 bis 5 synthetisierte Truhen mit Schmuck\r\nEnthält 2 synthetisierte Truhen mit brüchigem Schmuck","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",null],["TrinketsHigh5","Enthält 3 bis 4 synthetisierte Truhen mit wertvollem Schmuck\r\nEnthält 4 synthetisierte Truhen mit brüchigem Schmuck","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",null],["TrinketsEpic5","Enthält 1 synthetisierte Truhe mit sehr wertvollem Schmuck\r\nEnthält 5 bis 6 synthetisierte Truhen mit brüchigem Schmuck","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",null],["Abyss","Enthält 2 bis 3 synthetisierte Truhen mit Abgrund-Gegenständen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/AbyssItemRewardIcon",null],["Abyss2","Enthält 3 bis 4 synthetisierte Truhen mit Abgrund-Gegenständen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/AbyssItemRewardIcon",null],["AbyssHigh2","Enthält 3 bis 4 synthetisierte Truhen mit wertvollen Abgrund-Gegenständen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/AbyssItemRewardIconTier2",null],["Armour","Enthält 1 bis 2 synthetisierte Truhen mit Rüstungsgegenständen\r\nEnthält 1 synthetisierte Truhe mit brüchigen Rüstungsgegenständen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",null],["Armour2","Enthält 2 bis 3 synthetisierte Truhen mit Rüstungsgegenständen\r\nEnthält 1 synthetisierte Truhe mit brüchigen Rüstungsgegenständen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",null],["Armour3","Enthält 3 bis 4 synthetisierte Truhen mit Rüstungsgegenständen\r\nEnthält 1 synthetisierte Truhe mit brüchigen Rüstungsgegenständen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",null],["ArmourHigh3","Enthält 2 bis 3 synthetisierte Truhen mit wertvollen Rüstungsgegenständen\r\nEnthält 2 synthetisierte Truhen mit brüchigen Rüstungsgegenständen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",null],["Armour4","Enthält 4 bis 5 synthetisierte Truhen mit Rüstungsgegenständen\r\nEnthält 1 synthetisierte Truhe mit brüchigen Rüstungsgegenständen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",null],["ArmourHigh4","Enthält 3 synthetisierte Truhen mit wertvollen Rüstungsgegenständen\r\nEnthält 3 synthetisierte Truhen mit brüchigen Rüstungsgegenständen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",null],["ArmourEpic4","Enthält 1 synthetisierte Truhe mit sehr wertvollen Rüstungsgegenständen\r\nEnthält 2 synthetisierte Truhen mit wertvollen Rüstungsgegenständen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",null],["Armour5","Enthält 4 bis 5 synthetisierte Truhen mit Rüstungsgegenständen\r\nEnthält 2 synthetisierte Truhen mit brüchigen Rüstungsgegenständen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",null],["ArmourHigh5","Enthält 3 bis 4 synthetisierte Truhen mit wertvollen Rüstungsgegenständen\r\nEnthält 4 synthetisierte Truhen mit brüchigen Rüstungsgegenständen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",null],["ArmourEpic5","Enthält 1 synthetisierte Truhe mit sehr wertvollen Rüstungsgegenständen\r\nEnthält 3 synthetisierte Truhen mit wertvollen Rüstungsgegenständen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",null],["Weapons","Enthält 1 bis 2 synthetisierte Truhen mit Waffen\r\nEnthält 1 synthetisierte Truhe mit brüchigen Waffen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",null],["Weapons2","Enthält 2 bis 3 synthetisierte Truhen mit Waffen\r\nEnthält 1 synthetisierte Truhe mit brüchigen Waffen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",null],["Weapons3","Enthält 3 bis 4 synthetisierte Truhen mit Waffen\r\nEnthält 1 synthetisierte Truhe mit brüchigen Waffen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",null],["WeaponsHigh3","Enthält 2 bis 3 synthetisierte Truhen mit wertvollen Waffen\r\nEnthält 2 synthetisierte Truhen mit brüchigen Waffen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",null],["Weapons4","Enthält 4 bis 5 synthetisierte Truhen mit Waffen\r\nEnthält 1 synthetisierte Truhe mit brüchigen Waffen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",null],["WeaponsHigh4","Enthält 3 synthetisierte Truhen mit wertvollen Waffen\r\nEnthält 3 synthetisierte Truhen mit brüchigen Waffen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",null],["WeaponsEpic4","Enthält 1 synthetisierte Truhe mit sehr wertvollen Waffen\r\nEnthält 2 synthetisierte Truhen mit wertvollen Waffen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",null],["Weapons5","Enthält 4 bis 5 synthetisierte Truhen mit Waffen\r\nEnthält 2 synthetisierte Truhen mit brüchigen Waffen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",null],["WeaponsHigh5","Enthält 3 bis 4 synthetisierte Truhe mit wertvollen Waffen\r\nEnthält 4 synthetisierte Truhen mit brüchigen Waffen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",null],["WeaponsEpic5","Enthält 1 synthetisierte Truhe mit sehr wertvollen Waffen\r\nEnthält 3 synthetisierte Truhen mit wertvollen Waffen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",null],["Perandus","Enthält 2 bis 3 synthetisierte Truhen mit Perandus-Gegenständen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PerandusItemRewardIcon",null],["Perandus2","Enthält 3 bis 4 synthetisierte Truhen mit Perandus-Gegenständen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PerandusItemRewardIcon",null],["Perandus3","Enthält 4 bis 5 synthetisierte Truhen mit Perandus-Gegenständen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PerandusItemRewardIcon",null],["Perandus4","Enthält 5 bis 6 synthetisierte Truhen mit Perandus-Gegenständen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PerandusItemRewardIcon",null],["Harbinger","Enthält 1 synthetisierte Truhe mit wertvollen Vorboten-Gegenständen\r\nEnthält 1 bis 2 synthetisierte Truhen mit Vorboten-Gegenständen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/HarbingerItemRewardIcon",null],["Harbinger2","Enthält 1 synthetisierte Truhe mit wertvollen Vorboten-Gegenständen\r\nEnthält 2 bis 3 synthetisierte Truhen mit Vorboten-Gegenständen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/HarbingerItemRewardIcon",null],["Harbinger3","Enthält 2 synthetisierte Truhe mit wertvollen Vorboten-Gegenständen\r\nEnthält 2 bis 3 synthetisierte Truhen mit Vorboten-Gegenständen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/HarbingerItemRewardIcon",null],["Breach","Enthält 1 synthetisierte Truhe mit wertvollen Riss-Gegenständen\r\nEnthält 1 bis 2 synthetisierte Truhen mit Riss-Gegenständen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/BreachItemRewardIcon",null],["Breach2","Enthält 1 synthetisierte Truhe mit wertvollen Riss-Gegenständen\r\nEnthält 2 bis 3 synthetisierte Truhen mit Riss-Gegenständen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/BreachItemRewardIcon",null],["Breach3","Enthält 2 synthetisierte Truhe mit wertvollen Riss-Gegenständen\r\nEnthält 2 bis 3 synthetisierte Truhen mit Riss-Gegenständen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/BreachItemRewardIcon",null],["Essences","Enthält 1 bis 2 synthetisierte Truhen mit Essenz-Gegenständen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/EssencesItemRewardIcon",null],["Essences2","Enthält 2 bis 3 synthetisierte Truhen mit Essenz-Gegenständen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/EssencesItemRewardIcon",null],["Essences3","Enthält 3 bis 4 synthetisierte Truhen mit Essenz-Gegenständen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/EssencesItemRewardIcon",null],["EssencesHigh3","Enthält eine synthetisierte Truhe mit wertvollen Essenz-Gegenständen\r\nEnthält 3 bis 4 synthetisierte Truhen mit Essenz-Gegenständen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/EssencesItemRewardIconTier2",null],["Essences4","Enthält 4 bis 5 synthetisierte Truhen mit Essenz-Gegenständen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/EssencesItemRewardIcon",null],["EssencesHigh4","Enthält 2 synthetisierte Truhen mit wertvollen Essenz-Gegenständen\r\nEnthält 3 bis 4 synthetisierte Truhen mit Essenz-Gegenständen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/EssencesItemRewardIconTier2",null],["Fragments","Enthält 1 bis 2 synthetisierte Truhen mit Fragment-Gegenständen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/FragmentsItemRewardIcon",null],["Fragments2","Enthält 2 bis 3 synthetisierte Truhen mit Fragment-Gegenständen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/FragmentsItemRewardIcon",null],["Fragments3","Enthält 3 bis 4 synthetisierte Truhen mit Fragment-Gegenständen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/FragmentsItemRewardIcon",null],["FragmentsHigh3","Enthält eine synthetisierte Truhe mit wertvollen Fragment-Gegenständen\r\nEnthält 2 bis 3 synthetisierte Truhen mit Fragment-Gegenständen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/FragmentsItemRewardIconTier2",null],["Scarabs","Enthält 2 bis 3 synthetisierte Truhen mit Skarabäus-Gegenständen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ScarabItemRewardIcon",null],["Scarabs2","Enthält 1 bis 2 synthetisierte Truhen mit wertvollen Skarabäus-Gegenständen\r\nEnthält 1 bis 2 synthetisierte Truhen mit Skarabäus-Gegenständen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ScarabItemRewardIconTier2",null],["Scarabs3","Enthält 1 bis 2 synthetisierte Truhen mit sehr wertvollen Skarabäus-Gegenständen\r\nEnthält 1 bis 2 synthetisierte Truhen mit wertvollen Skarabäus-Gegenständen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ScarabItemRewardIconTier3",null],["Fossils","Enthält 2 bis 3 synthetisierte Truhen mit Fossil-Gegenständen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/FossilItemRewardIcon",null],["Fossils2","Enthält 1 bis 2 synthetisierte Truhen mit wertvollen Fossil-Gegenständen\r\nEnthält 1 bis 2 synthetisierte Truhen mit Fossil-Gegenständen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/FossilItemRewardIconTier2",null],["Fossils3","Enthält 1 bis 2 synthetisierte Truhen mit sehr wertvollen Fossil-Gegenständen\r\nEnthält 1 bis 2 synthetisierte Truhen mit wertvollen Fossil-Gegenständen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/FossilItemRewardIconTier3",null],["Prophecies","Enthält 2 bis 3 synthetisierte Truhen mit Prophezeiungs-Gegenständen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PropheciesItemRewardIcon",null],["Prophecies2","Enthält 3 bis 4 synthetisierte Truhen mit Prophezeiungs-Gegenständen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PropheciesItemRewardIcon",null],["Prophecies3","Enthält 4 bis 5 synthetisierte Truhen mit Prophezeiungs-Gegenständen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PropheciesItemRewardIcon",null],["PropheciesHigh3","Enthält eine synthetisierte Truhe mit wertvollen Prophezeiungs-Gegenständen\r\nEnthält 3 bis 4 synthetisierte Truhen mit Prophezeiungs-Gegenständen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PropheciesItemRewardIconTier2",null],["Prophecies4","Enthält 5 bis 6 synthetisierte Truhen mit Prophezeiungs-Gegenständen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PropheciesItemRewardIcon",null],["PropheciesHigh4","Enthält 2 synthetisierte Truhen mit wertvollen Prophezeiungs-Gegenständen\r\nEnthält 3 bis 4 synthetisierte Truhen mit Prophezeiungs-Gegenständen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PropheciesItemRewardIconTier2",null],["DivinationCards","Enthält 1 bis 2 synthetisierte Truhen mit Weissagungskarten-Gegenständen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/DivinationCardsItemRewardIcon",null],["DivinationCards2","Enthält 2 bis 3 synthetisierte Truhen mit Weissagungskarten-Gegenständen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/DivinationCardsItemRewardIcon",null],["DivinationCards3","Enthält 3 bis 4 synthetisierte Truhen mit Weissagungskarten-Gegenständen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/DivinationCardsItemRewardIcon",null],["DivinationCards4","Enthält 4 bis 5 synthetisierte Truhen mit Weissagungskarten-Gegenständen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/DivinationCardsItemRewardIcon",null],["Generic","Enthält 3 bis 4 synthetisierte Truhen\r\nEnthält 1 synthetisierte Truhe mit brüchigen Gegenständen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/GenericItemRewardIcon",null],["Generic2","Enthält 4 bis 5 synthetisierte Truhen\r\nEnthält 1 synthetisierte Truhe mit brüchigen Gegenständen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/GenericItemRewardIcon",null],["Generic3","Enthält 5 bis 6 synthetisierte Truhen\r\nEnthält 2 synthetisierte Truhen mit brüchigen Gegenständen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/GenericItemRewardIcon",null],["Generic4","Enthält 6 bis 8 synthetisierte Truhen\r\nEnthält 2 synthetisierte Truhen mit brüchigen Gegenständen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/GenericItemRewardIcon",null],["Generic5","Enthält 6 bis 8 synthetisierte Truhen\r\nEnthält 3 synthetisierte Truhen mit brüchigen Gegenständen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/GenericItemRewardIcon",null],["Talismans","Enthält 1 bis 2 synthetisierte Truhen mit Talisman-Gegenständen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TalismansItemRewardIcon",null],["Talismans2","Enthält 2 bis 3 synthetisierte Truhen mit Talisman-Gegenständen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TalismansItemRewardIcon",null],["Talismans3","Enthält 3 bis 4 synthetisierte Truhen mit Talisman-Gegenständen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TalismansItemRewardIcon",null],["Labyrinth","Enthält 1 bis 2 synthetisierte Truhen mit Labyrinth-Gegenständen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/LabyrinthItemRewardIcon",null],["Labyrinth2","Enthält 2 bis 3 synthetisierte Truhen mit Labyrinth-Gegenständen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/LabyrinthItemRewardIcon",null],["Labyrinth3","Enthält 3 bis 4 synthetisierte Truhen mit Labyrinth-Gegenständen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/LabyrinthItemRewardIcon",null],["Labyrinth4","Enthält 4 bis 5 synthetisierte Truhen mit Labyrinth-Gegenständen","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/LabyrinthItemRewardIcon",null],["GlobalMod1","Enthält einen Erinnerungsmodifikator","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/GlobalModTier1",null],["GlobalMod2","Enthält mehrere Erinnerungsmodifikatoren","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/GlobalModTier2",null]]}
+{
+  "filename": "SynthesisRewardTypes.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Description",
+      "rowid": 1,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "ArtFile",
+      "rowid": 2,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": true,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "AchievementItemsKey",
+      "rowid": 3,
+      "type": "ulong",
+      "key": "AchievementItems.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "Currency",
+      "Enthält 2 bis 3 synthetisierte Truhen mit Währungsgegenständen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIcon",
+      null
+    ],
+    [
+      "Currency2",
+      "Enthält 3 bis 4 synthetisierte Truhen mit Währungsgegenständen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIcon",
+      null
+    ],
+    [
+      "Currency3",
+      "Enthält 4 bis 5 synthetisierte Truhen mit Währungsgegenständen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIcon",
+      null
+    ],
+    [
+      "CurrencyHigh3",
+      "Enthält 2 bis 3 synthetisierte Truhen mit wertvollen Währungsgegenständen\r\nEnthält 2 synthetisierte Truhen mit Währungsgegenständen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIconTier2",
+      null
+    ],
+    [
+      "Currency4",
+      "Enthält 5 bis 6 synthetisierte Truhen mit Währungsgegenständen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIcon",
+      null
+    ],
+    [
+      "CurrencyHigh4",
+      "Enthält 3 bis 4 synthetisierte Truhen mit wertvollen Währungsgegenständen\r\nEnthält 2 synthetisierte Truhen mit Währungsgegenständen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIconTier2",
+      null
+    ],
+    [
+      "CurrencyEpic4",
+      "Enthält 1 synthetisierte Truhe mit sehr wertvollen Währungsgegenständen\r\nEnthält 4 bis 5 synthetisierte Truhen mit Währungsgegenständen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIconTier3",
+      null
+    ],
+    [
+      "Currency5",
+      "Enthält 6 bis 7 synthetisierte Truhen mit Währungsgegenständen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIcon",
+      null
+    ],
+    [
+      "CurrencyHigh5",
+      "Enthält 4 bis 5 synthetisierte Truhen mit wertvollen Währungsgegenständen\r\nEnthält 2 synthetisierte Truhen mit Währungsgegenständen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIconTier2",
+      null
+    ],
+    [
+      "CurrencyEpic5",
+      "Enthält 1 synthetisierte Truhe mit sehr wertvollen Währungsgegenständen\r\nEnthält 5 bis 6 synthetisierte Truhen mit Währungsgegenständen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIconTier3",
+      null
+    ],
+    [
+      "Uniques",
+      "Enthält 1 synthetisierte Truhe mit einem einzigartigen Gegenstand\r\nEnthält 1 bis 2 synthetisierte Truhen mit brüchigen Gegenständen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/UniqueItemRewardIcon",
+      null
+    ],
+    [
+      "Uniques2",
+      "Enthält 1 synthetisierte Truhe mit einem einzigartigen Gegenstand\r\nEnthält 2 bis 3 synthetisierte Truhen mit brüchigen Gegenständen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/UniqueItemRewardIcon",
+      null
+    ],
+    [
+      "Uniques3",
+      "Enthält 2 synthetisierte Truhen mit einem einzigartigen Gegenstand\r\nEnthält 2 bis 3 synthetisierte Truhen mit brüchigen Gegenständen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/UniqueItemRewardIcon",
+      null
+    ],
+    [
+      "Uniques4",
+      "Enthält 2 synthetisierte Truhen mit einem einzigartigen Gegenstand\r\nEnthält 3 bis 4 synthetisierte Truhen mit brüchigen Gegenständen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/UniqueItemRewardIcon",
+      null
+    ],
+    [
+      "Uniques5",
+      "Enthält 3 synthetisierte Truhen mit einem einzigartigen Gegenstand\r\nEnthält 3 bis 4 synthetisierte Truhen mit brüchigen Gegenständen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/UniqueItemRewardIcon",
+      null
+    ],
+    [
+      "UniquesHigh5",
+      "Enthält 1 synthetisierte Truhe mit einem wertvollen einzigartigen Gegenstand\r\nEnthält 3 bis 4 synthetisierte Truhen mit einem einzigartigen Gegenstand",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/UniqueItemRewardIconTier2",
+      null
+    ],
+    [
+      "FracturedItems3",
+      "Enthält 2 bis 3 synthetisierte Truhen mit wertvollen brüchigen Gegenständen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/FracturedItemRewardIconTier3",
+      null
+    ],
+    [
+      "Gems",
+      "Enthält 1 bis 2 synthetisierte Truhen mit Gemmen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/SkillGemItemRewardIcon",
+      null
+    ],
+    [
+      "Gems2",
+      "Enthält 2 bis 3 synthetisierte Truhen mit Gemmen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/SkillGemItemRewardIcon",
+      null
+    ],
+    [
+      "Gems3",
+      "Enthält 3 bis 4 synthetisierte Truhen mit Gemmen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/SkillGemItemRewardIcon",
+      null
+    ],
+    [
+      "GemsHigh3",
+      "Enthält 2 bis 3 synthetisierte Truhen mit wertvollen Gemmen\r\nEnthält 1 bis 2 synthetisierte Truhen mit Gemmen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/SkillGemItemRewardIconTier2",
+      null
+    ],
+    [
+      "Maps",
+      "Enthält 1 bis 2 synthetisierte Truhen mit Karten",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/MapItemRewardIcon",
+      null
+    ],
+    [
+      "Maps2",
+      "Enthält 2 bis 3 synthetisierte Truhen mit Karten",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/MapItemRewardIcon",
+      null
+    ],
+    [
+      "Maps3",
+      "Enthält 3 bis 4 synthetisierte Truhen mit Karten",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/MapItemRewardIcon",
+      null
+    ],
+    [
+      "Trinkets",
+      "Enthält 1 bis 2 synthetisierte Truhen mit Schmuck\r\nEnthält 1 synthetisierte Truhe mit brüchigem Schmuck",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",
+      null
+    ],
+    [
+      "Trinkets2",
+      "Enthält 2 bis 3 synthetisierte Truhen mit Schmuck\r\nEnthält 1 synthetisierte Truhe mit brüchigem Schmuck",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",
+      null
+    ],
+    [
+      "Trinkets3",
+      "Enthält 3 bis 4 synthetisierte Truhen mit Schmuck\r\nEnthält 1 synthetisierte Truhe mit brüchigem Schmuck",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",
+      null
+    ],
+    [
+      "TrinketsHigh3",
+      "Enthält 2 bis 3 synthetisierte Truhen mit wertvollem Schmuck\r\nEnthält 2 synthetisierte Truhen mit brüchigem Schmuck",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",
+      null
+    ],
+    [
+      "Trinkets4",
+      "Enthält 4 bis 5 synthetisierte Truhen mit Schmuck\r\nEnthält 1 synthetisierte Truhe mit brüchigem Schmuck",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",
+      null
+    ],
+    [
+      "TrinketsHigh4",
+      "Enthält 3 synthetisierte Truhen mit wertvollem Schmuck\r\nEnthält 3 synthetisierte Truhen mit brüchigem Schmuck",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",
+      null
+    ],
+    [
+      "TrinketsEpic4",
+      "Enthält 1 synthetisierte Truhe mit sehr wertvollem Schmuck\r\nEnthält 4 bis 5 synthetisierte Truhen mit brüchigem Schmuck",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",
+      null
+    ],
+    [
+      "Trinkets5",
+      "Enthält 4 bis 5 synthetisierte Truhen mit Schmuck\r\nEnthält 2 synthetisierte Truhen mit brüchigem Schmuck",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",
+      null
+    ],
+    [
+      "TrinketsHigh5",
+      "Enthält 3 bis 4 synthetisierte Truhen mit wertvollem Schmuck\r\nEnthält 4 synthetisierte Truhen mit brüchigem Schmuck",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",
+      null
+    ],
+    [
+      "TrinketsEpic5",
+      "Enthält 1 synthetisierte Truhe mit sehr wertvollem Schmuck\r\nEnthält 5 bis 6 synthetisierte Truhen mit brüchigem Schmuck",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",
+      null
+    ],
+    [
+      "Abyss",
+      "Enthält 2 bis 3 synthetisierte Truhen mit Abgrund-Gegenständen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/AbyssItemRewardIcon",
+      null
+    ],
+    [
+      "Abyss2",
+      "Enthält 3 bis 4 synthetisierte Truhen mit Abgrund-Gegenständen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/AbyssItemRewardIcon",
+      null
+    ],
+    [
+      "AbyssHigh2",
+      "Enthält 3 bis 4 synthetisierte Truhen mit wertvollen Abgrund-Gegenständen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/AbyssItemRewardIconTier2",
+      null
+    ],
+    [
+      "Armour",
+      "Enthält 1 bis 2 synthetisierte Truhen mit Rüstungsgegenständen\r\nEnthält 1 synthetisierte Truhe mit brüchigen Rüstungsgegenständen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",
+      null
+    ],
+    [
+      "Armour2",
+      "Enthält 2 bis 3 synthetisierte Truhen mit Rüstungsgegenständen\r\nEnthält 1 synthetisierte Truhe mit brüchigen Rüstungsgegenständen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",
+      null
+    ],
+    [
+      "Armour3",
+      "Enthält 3 bis 4 synthetisierte Truhen mit Rüstungsgegenständen\r\nEnthält 1 synthetisierte Truhe mit brüchigen Rüstungsgegenständen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",
+      null
+    ],
+    [
+      "ArmourHigh3",
+      "Enthält 2 bis 3 synthetisierte Truhen mit wertvollen Rüstungsgegenständen\r\nEnthält 2 synthetisierte Truhen mit brüchigen Rüstungsgegenständen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",
+      null
+    ],
+    [
+      "Armour4",
+      "Enthält 4 bis 5 synthetisierte Truhen mit Rüstungsgegenständen\r\nEnthält 1 synthetisierte Truhe mit brüchigen Rüstungsgegenständen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",
+      null
+    ],
+    [
+      "ArmourHigh4",
+      "Enthält 3 synthetisierte Truhen mit wertvollen Rüstungsgegenständen\r\nEnthält 3 synthetisierte Truhen mit brüchigen Rüstungsgegenständen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",
+      null
+    ],
+    [
+      "ArmourEpic4",
+      "Enthält 1 synthetisierte Truhe mit sehr wertvollen Rüstungsgegenständen\r\nEnthält 2 synthetisierte Truhen mit wertvollen Rüstungsgegenständen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",
+      null
+    ],
+    [
+      "Armour5",
+      "Enthält 4 bis 5 synthetisierte Truhen mit Rüstungsgegenständen\r\nEnthält 2 synthetisierte Truhen mit brüchigen Rüstungsgegenständen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",
+      null
+    ],
+    [
+      "ArmourHigh5",
+      "Enthält 3 bis 4 synthetisierte Truhen mit wertvollen Rüstungsgegenständen\r\nEnthält 4 synthetisierte Truhen mit brüchigen Rüstungsgegenständen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",
+      null
+    ],
+    [
+      "ArmourEpic5",
+      "Enthält 1 synthetisierte Truhe mit sehr wertvollen Rüstungsgegenständen\r\nEnthält 3 synthetisierte Truhen mit wertvollen Rüstungsgegenständen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",
+      null
+    ],
+    [
+      "Weapons",
+      "Enthält 1 bis 2 synthetisierte Truhen mit Waffen\r\nEnthält 1 synthetisierte Truhe mit brüchigen Waffen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",
+      null
+    ],
+    [
+      "Weapons2",
+      "Enthält 2 bis 3 synthetisierte Truhen mit Waffen\r\nEnthält 1 synthetisierte Truhe mit brüchigen Waffen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",
+      null
+    ],
+    [
+      "Weapons3",
+      "Enthält 3 bis 4 synthetisierte Truhen mit Waffen\r\nEnthält 1 synthetisierte Truhe mit brüchigen Waffen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",
+      null
+    ],
+    [
+      "WeaponsHigh3",
+      "Enthält 2 bis 3 synthetisierte Truhen mit wertvollen Waffen\r\nEnthält 2 synthetisierte Truhen mit brüchigen Waffen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",
+      null
+    ],
+    [
+      "Weapons4",
+      "Enthält 4 bis 5 synthetisierte Truhen mit Waffen\r\nEnthält 1 synthetisierte Truhe mit brüchigen Waffen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",
+      null
+    ],
+    [
+      "WeaponsHigh4",
+      "Enthält 3 synthetisierte Truhen mit wertvollen Waffen\r\nEnthält 3 synthetisierte Truhen mit brüchigen Waffen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",
+      null
+    ],
+    [
+      "WeaponsEpic4",
+      "Enthält 1 synthetisierte Truhe mit sehr wertvollen Waffen\r\nEnthält 2 synthetisierte Truhen mit wertvollen Waffen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",
+      null
+    ],
+    [
+      "Weapons5",
+      "Enthält 4 bis 5 synthetisierte Truhen mit Waffen\r\nEnthält 2 synthetisierte Truhen mit brüchigen Waffen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",
+      null
+    ],
+    [
+      "WeaponsHigh5",
+      "Enthält 3 bis 4 synthetisierte Truhe mit wertvollen Waffen\r\nEnthält 4 synthetisierte Truhen mit brüchigen Waffen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",
+      null
+    ],
+    [
+      "WeaponsEpic5",
+      "Enthält 1 synthetisierte Truhe mit sehr wertvollen Waffen\r\nEnthält 3 synthetisierte Truhen mit wertvollen Waffen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",
+      null
+    ],
+    [
+      "Perandus",
+      "Enthält 2 bis 3 synthetisierte Truhen mit Perandus-Gegenständen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PerandusItemRewardIcon",
+      null
+    ],
+    [
+      "Perandus2",
+      "Enthält 3 bis 4 synthetisierte Truhen mit Perandus-Gegenständen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PerandusItemRewardIcon",
+      null
+    ],
+    [
+      "Perandus3",
+      "Enthält 4 bis 5 synthetisierte Truhen mit Perandus-Gegenständen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PerandusItemRewardIcon",
+      null
+    ],
+    [
+      "Perandus4",
+      "Enthält 5 bis 6 synthetisierte Truhen mit Perandus-Gegenständen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PerandusItemRewardIcon",
+      null
+    ],
+    [
+      "Harbinger",
+      "Enthält 1 synthetisierte Truhe mit wertvollen Vorboten-Gegenständen\r\nEnthält 1 bis 2 synthetisierte Truhen mit Vorboten-Gegenständen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/HarbingerItemRewardIcon",
+      null
+    ],
+    [
+      "Harbinger2",
+      "Enthält 1 synthetisierte Truhe mit wertvollen Vorboten-Gegenständen\r\nEnthält 2 bis 3 synthetisierte Truhen mit Vorboten-Gegenständen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/HarbingerItemRewardIcon",
+      null
+    ],
+    [
+      "Harbinger3",
+      "Enthält 2 synthetisierte Truhe mit wertvollen Vorboten-Gegenständen\r\nEnthält 2 bis 3 synthetisierte Truhen mit Vorboten-Gegenständen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/HarbingerItemRewardIcon",
+      null
+    ],
+    [
+      "Breach",
+      "Enthält 1 synthetisierte Truhe mit wertvollen Riss-Gegenständen\r\nEnthält 1 bis 2 synthetisierte Truhen mit Riss-Gegenständen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/BreachItemRewardIcon",
+      null
+    ],
+    [
+      "Breach2",
+      "Enthält 1 synthetisierte Truhe mit wertvollen Riss-Gegenständen\r\nEnthält 2 bis 3 synthetisierte Truhen mit Riss-Gegenständen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/BreachItemRewardIcon",
+      null
+    ],
+    [
+      "Breach3",
+      "Enthält 2 synthetisierte Truhe mit wertvollen Riss-Gegenständen\r\nEnthält 2 bis 3 synthetisierte Truhen mit Riss-Gegenständen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/BreachItemRewardIcon",
+      null
+    ],
+    [
+      "Essences",
+      "Enthält 1 bis 2 synthetisierte Truhen mit Essenz-Gegenständen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/EssencesItemRewardIcon",
+      null
+    ],
+    [
+      "Essences2",
+      "Enthält 2 bis 3 synthetisierte Truhen mit Essenz-Gegenständen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/EssencesItemRewardIcon",
+      null
+    ],
+    [
+      "Essences3",
+      "Enthält 3 bis 4 synthetisierte Truhen mit Essenz-Gegenständen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/EssencesItemRewardIcon",
+      null
+    ],
+    [
+      "EssencesHigh3",
+      "Enthält eine synthetisierte Truhe mit wertvollen Essenz-Gegenständen\r\nEnthält 3 bis 4 synthetisierte Truhen mit Essenz-Gegenständen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/EssencesItemRewardIconTier2",
+      null
+    ],
+    [
+      "Essences4",
+      "Enthält 4 bis 5 synthetisierte Truhen mit Essenz-Gegenständen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/EssencesItemRewardIcon",
+      null
+    ],
+    [
+      "EssencesHigh4",
+      "Enthält 2 synthetisierte Truhen mit wertvollen Essenz-Gegenständen\r\nEnthält 3 bis 4 synthetisierte Truhen mit Essenz-Gegenständen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/EssencesItemRewardIconTier2",
+      null
+    ],
+    [
+      "Fragments",
+      "Enthält 1 bis 2 synthetisierte Truhen mit Fragment-Gegenständen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/FragmentsItemRewardIcon",
+      null
+    ],
+    [
+      "Fragments2",
+      "Enthält 2 bis 3 synthetisierte Truhen mit Fragment-Gegenständen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/FragmentsItemRewardIcon",
+      null
+    ],
+    [
+      "Fragments3",
+      "Enthält 3 bis 4 synthetisierte Truhen mit Fragment-Gegenständen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/FragmentsItemRewardIcon",
+      null
+    ],
+    [
+      "FragmentsHigh3",
+      "Enthält eine synthetisierte Truhe mit wertvollen Fragment-Gegenständen\r\nEnthält 2 bis 3 synthetisierte Truhen mit Fragment-Gegenständen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/FragmentsItemRewardIconTier2",
+      null
+    ],
+    [
+      "Scarabs",
+      "Enthält 2 bis 3 synthetisierte Truhen mit Skarabäus-Gegenständen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ScarabItemRewardIcon",
+      null
+    ],
+    [
+      "Scarabs2",
+      "Enthält 1 bis 2 synthetisierte Truhen mit wertvollen Skarabäus-Gegenständen\r\nEnthält 1 bis 2 synthetisierte Truhen mit Skarabäus-Gegenständen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ScarabItemRewardIconTier2",
+      null
+    ],
+    [
+      "Scarabs3",
+      "Enthält 1 bis 2 synthetisierte Truhen mit sehr wertvollen Skarabäus-Gegenständen\r\nEnthält 1 bis 2 synthetisierte Truhen mit wertvollen Skarabäus-Gegenständen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ScarabItemRewardIconTier3",
+      null
+    ],
+    [
+      "Fossils",
+      "Enthält 2 bis 3 synthetisierte Truhen mit Fossil-Gegenständen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/FossilItemRewardIcon",
+      null
+    ],
+    [
+      "Fossils2",
+      "Enthält 1 bis 2 synthetisierte Truhen mit wertvollen Fossil-Gegenständen\r\nEnthält 1 bis 2 synthetisierte Truhen mit Fossil-Gegenständen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/FossilItemRewardIconTier2",
+      null
+    ],
+    [
+      "Fossils3",
+      "Enthält 1 bis 2 synthetisierte Truhen mit sehr wertvollen Fossil-Gegenständen\r\nEnthält 1 bis 2 synthetisierte Truhen mit wertvollen Fossil-Gegenständen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/FossilItemRewardIconTier3",
+      null
+    ],
+    [
+      "Prophecies",
+      "Enthält 2 bis 3 synthetisierte Truhen mit Prophezeiungs-Gegenständen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PropheciesItemRewardIcon",
+      null
+    ],
+    [
+      "Prophecies2",
+      "Enthält 3 bis 4 synthetisierte Truhen mit Prophezeiungs-Gegenständen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PropheciesItemRewardIcon",
+      null
+    ],
+    [
+      "Prophecies3",
+      "Enthält 4 bis 5 synthetisierte Truhen mit Prophezeiungs-Gegenständen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PropheciesItemRewardIcon",
+      null
+    ],
+    [
+      "PropheciesHigh3",
+      "Enthält eine synthetisierte Truhe mit wertvollen Prophezeiungs-Gegenständen\r\nEnthält 3 bis 4 synthetisierte Truhen mit Prophezeiungs-Gegenständen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PropheciesItemRewardIconTier2",
+      null
+    ],
+    [
+      "Prophecies4",
+      "Enthält 5 bis 6 synthetisierte Truhen mit Prophezeiungs-Gegenständen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PropheciesItemRewardIcon",
+      null
+    ],
+    [
+      "PropheciesHigh4",
+      "Enthält 2 synthetisierte Truhen mit wertvollen Prophezeiungs-Gegenständen\r\nEnthält 3 bis 4 synthetisierte Truhen mit Prophezeiungs-Gegenständen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PropheciesItemRewardIconTier2",
+      null
+    ],
+    [
+      "DivinationCards",
+      "Enthält 1 bis 2 synthetisierte Truhen mit Weissagungskarten-Gegenständen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/DivinationCardsItemRewardIcon",
+      null
+    ],
+    [
+      "DivinationCards2",
+      "Enthält 2 bis 3 synthetisierte Truhen mit Weissagungskarten-Gegenständen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/DivinationCardsItemRewardIcon",
+      null
+    ],
+    [
+      "DivinationCards3",
+      "Enthält 3 bis 4 synthetisierte Truhen mit Weissagungskarten-Gegenständen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/DivinationCardsItemRewardIcon",
+      null
+    ],
+    [
+      "DivinationCards4",
+      "Enthält 4 bis 5 synthetisierte Truhen mit Weissagungskarten-Gegenständen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/DivinationCardsItemRewardIcon",
+      null
+    ],
+    [
+      "Generic",
+      "Enthält 3 bis 4 synthetisierte Truhen\r\nEnthält 1 synthetisierte Truhe mit brüchigen Gegenständen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/GenericItemRewardIcon",
+      null
+    ],
+    [
+      "Generic2",
+      "Enthält 4 bis 5 synthetisierte Truhen\r\nEnthält 1 synthetisierte Truhe mit brüchigen Gegenständen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/GenericItemRewardIcon",
+      null
+    ],
+    [
+      "Generic3",
+      "Enthält 5 bis 6 synthetisierte Truhen\r\nEnthält 2 synthetisierte Truhen mit brüchigen Gegenständen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/GenericItemRewardIcon",
+      null
+    ],
+    [
+      "Generic4",
+      "Enthält 6 bis 8 synthetisierte Truhen\r\nEnthält 2 synthetisierte Truhen mit brüchigen Gegenständen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/GenericItemRewardIcon",
+      null
+    ],
+    [
+      "Generic5",
+      "Enthält 6 bis 8 synthetisierte Truhen\r\nEnthält 3 synthetisierte Truhen mit brüchigen Gegenständen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/GenericItemRewardIcon",
+      null
+    ],
+    [
+      "Talismans",
+      "Enthält 1 bis 2 synthetisierte Truhen mit Talisman-Gegenständen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TalismansItemRewardIcon",
+      null
+    ],
+    [
+      "Talismans2",
+      "Enthält 2 bis 3 synthetisierte Truhen mit Talisman-Gegenständen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TalismansItemRewardIcon",
+      null
+    ],
+    [
+      "Talismans3",
+      "Enthält 3 bis 4 synthetisierte Truhen mit Talisman-Gegenständen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TalismansItemRewardIcon",
+      null
+    ],
+    [
+      "Labyrinth",
+      "Enthält 1 bis 2 synthetisierte Truhen mit Labyrinth-Gegenständen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/LabyrinthItemRewardIcon",
+      null
+    ],
+    [
+      "Labyrinth2",
+      "Enthält 2 bis 3 synthetisierte Truhen mit Labyrinth-Gegenständen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/LabyrinthItemRewardIcon",
+      null
+    ],
+    [
+      "Labyrinth3",
+      "Enthält 3 bis 4 synthetisierte Truhen mit Labyrinth-Gegenständen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/LabyrinthItemRewardIcon",
+      null
+    ],
+    [
+      "Labyrinth4",
+      "Enthält 4 bis 5 synthetisierte Truhen mit Labyrinth-Gegenständen",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/LabyrinthItemRewardIcon",
+      null
+    ],
+    [
+      "GlobalMod1",
+      "Enthält einen Erinnerungsmodifikator",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/GlobalModTier1",
+      null
+    ],
+    [
+      "GlobalMod2",
+      "Enthält mehrere Erinnerungsmodifikatoren",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/GlobalModTier2",
+      null
+    ]
+  ]
+}

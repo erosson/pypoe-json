@@ -1,1 +1,3197 @@
-{"filename":"CharacterTextAudio.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":true,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Text","rowid":1,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"SoundFile","rowid":2,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":true,"file_ext":".ogg","display":null,"display_type":"{0}","description":null}],"data":[["Marauder1","나는 전사로서, 선조들의 명예를 드높이고 무기를 든 채로 카루이의 길을 따르다 죽기 위해 나섰다. \r\n\r\n오리아스는 나를 묶어 노예로 만들었다. 3년 동안 가족도, 자부심도, 나의 길도 잊은 채 살아야 했지. \r\n\r\n유배자가 되어 마주한 레이클라스트가 그래서 차라리 반갑다. 선조들이여! 내 말을 들어 주소서! 한 노예가 당신 곁에 섰습니다. 한 전사가 당신의 곁에 섰습니다. \r\n\r\n그리고 죽음이 우리와 함께 하나이다.","Audio/Dialogue/Character/Str/Intro/Ma_01_Intro.ogg"],["Marauder2","","Audio/Dialogue/Character/Str/Event/Ma_02.ogg"],["Marauder3","시체들에게 있어야 할 곳을 알려줘야겠군.","Audio/Dialogue/Character/Str/Event/Ma_03.ogg"],["Marauder4"," 살아난 시체와 죽은 오리아스인들 투성이군. ","Audio/Dialogue/Character/Str/Event/Ma_04.ogg"],["Marauder5","카옴이시여, 길을 보여주소서.","Audio/Dialogue/Character/Str/Event/Ma_05.ogg"],["Marauder6","도미누스가 내 고향과 가족을 앗아갔지.","Audio/Dialogue/Character/Str/Event/Ma_06.ogg"],["Marauder7","조상들께서 말씀하신 거랑은 다른데.","Audio/Dialogue/Character/Str/Event/Ma_07.ogg"],["Marauder8","노예는 사람도 아냐. 죽을 자격도 없다.","Audio/Dialogue/Character/Str/Event/Ma_08.ogg"],["Marauder9","죽어서도 네 영혼은 선조들의 장난감일 뿐이다, 노예상.","Audio/Dialogue/Character/Str/Event/Ma_09.ogg"],["Marauder10","죽음의 어머니 히네코라여, 제가 서있는 이곳이 당신의 대지입니까?","Audio/Dialogue/Character/Str/Event/Ma_10.ogg"],["Marauder11","죽음에서 일어난 카루이는 카루이가 아니다. ","Audio/Dialogue/Character/Str/Event/Ma_11.ogg"],["Marauder12","'검은 영혼'. 라비앙가는 타락의 아버지 키타바를 두고 그렇게 부르더군.","Audio/Dialogue/Character/Str/Event/Ma_12.ogg"],["Marauder13","카옴은 키타바에게 무릎을 꿇었지. 우리를 배신한 것이다!","Audio/Dialogue/Character/Str/Event/Ma_13.ogg"],["Marauder14","카루이가 페어그레이브즈 너를 기억하마. 네 죽음은 길이 남을거다.","Audio/Dialogue/Character/Str/Event/Ma_14.ogg"],["Marauder15","네 저주는 이제 끝이다, 사이렌. 죽음의 어머니 히네코라의 품에 잠들어라.","Audio/Dialogue/Character/Str/Event/Ma_15.ogg"],["Marauder16","레이클라스트의 모든 생명이 뒤틀렸구나. ","Audio/Dialogue/Character/Str/Event/Ma_16.ogg"],["Marauder17","영원한 제국을 얼마나 역겨운 놈들이 세운 건지 알겠구나.","Audio/Dialogue/Character/Str/Event/Ma_17.ogg"],["Marauder18","선조들이시여, 용서하소서. 제가 타락의 아비 키타바로의 '길'을 열어버렸습니다.","Audio/Dialogue/Character/Str/Event/Ma_18.ogg"],["Marauder19","이 키타바의 전사를 전쟁의 아버지인 투코하마 당신께 바칩니다.","Audio/Dialogue/Character/Str/Event/Ma_19.ogg"],["Marauder20","그렇게 사느니 차라리 죽는게 더 명예롭겠구나, 크레이틴.","Audio/Dialogue/Character/Str/Event/Ma_20.ogg"],["Marauder21","죽음이야말로 제일 어두운 마법이다, 마녀여.","Audio/Dialogue/Character/Str/Event/Ma_21.ogg"],["Marauder22","네 시대는 끝이다, 도적왕.","Audio/Dialogue/Character/Str/Event/Ma_22.ogg"],["Marauder23","당신의 온기가 다시 느껴집니다, 빛의 아버지 라마코여.","Audio/Dialogue/Character/Str/Event/Ma_23.ogg"],["Marauder24","만나서 반갑군, 나마카누이의 딸이여.","Audio/Dialogue/Character/Str/Event/Ma_24.ogg"],["Marauder25","여기서 카루이 노예가 돼지처럼 사고 팔렸다지.","Audio/Dialogue/Character/Str/Event/Ma_25.ogg"],["Marauder26","삶이 너무 길어지면 도리어 고통스러워지는 것인가...","Audio/Dialogue/Character/Str/Event/Ma_26.ogg"],["Marauder27","이것이 영원의 길인가. 아름답고... 다 죽어버렸군.","Audio/Dialogue/Character/Str/Event/Ma_27.ogg"],["Marauder28","타락의 딸이자 키타바의 진정한 노예로구나, 파이어티. ","Audio/Dialogue/Character/Str/Event/Ma_28.ogg"],["Marauder29","도미누스가 내게 그러했듯, 놈이 아끼는 모든 것을 빼앗겠다. ","Audio/Dialogue/Character/Str/Event/Ma_29.ogg"],["Marauder30","카루이는 두려움으로 세워진 탑에 숨지 않는다.","Audio/Dialogue/Character/Str/Event/Ma_30.ogg"],["Marauder31","제국과 함께 죽어라, 도미누스. 카루이가 노예가 되는 일은 다시는 없을 것이다.","Audio/Dialogue/Character/Str/Event/Ma_31.ogg"],["Marauder32","선조시여, 당신을 도울 수 있어 영광입니다.","Audio/Dialogue/Character/Str/Event/Ma_32.ogg"],["Marauder33","\"시체의 강이 키타바의 왕국으로 이어진다\"라고 고향에서 장로들이 말씀하셨지.","Audio/Dialogue/Character/Str/Event/Ma_36.ogg"],["Marauder34","제국 놈들은 자기 땅에 소홀했나 보군.","Audio/Dialogue/Character/Str/Event/Ma_37.ogg"],["Marauder35","볼, 너의 제국은 죽었다. 이제 네 차례다.","Audio/Dialogue/Character/Str/Event/Ma_38.ogg"],["Marauder36","키타바여, 네 소리가 들리는구나. 너를 쫓아 너의 왕국까지 내가 이렇게 왔다.","Audio/Dialogue/Character/Str/Event/Ma_39.ogg"],["Marauder37","키타바의 배가 울렁대는군. 내게 입맛을 다시는 건가.","Audio/Dialogue/Character/Str/Event/Ma_40.ogg"],["Marauder38","마라케스는 한 때 카루이와 함께 싸웠지. 그 우정을 존중하겠다.","Audio/Dialogue/Character/Str/Event/Ma_41.ogg"],["Marauder39","연회는 곧 끝이다, 키타바! 선조들께서 이를 명하시는구나!","Audio/Dialogue/Character/Str/Event/Ma_42.ogg"],["Marauder40","오리아스 놈들이란. 자기네 얘기를 노래로 만드는데 환장했지.","Audio/Dialogue/Character/Str/Event/Ma_43.ogg"],["Marauder41","아직도 투코하마께서 너와 함께 하는줄 아는가, 카옴. 키타바라면 몰라도.","Audio/Dialogue/Character/Str/Event/Ma_44.ogg"],["Marauder42","저들은 너를 따랐다, 카옴. 너를 믿었단 말이다.","Audio/Dialogue/Character/Str/Event/Ma_45.ogg"],["Marauder43","카루이의 길을 따르자면 왕을 의심해서는 안 되겠지. 하지만 우리의 길도 바뀔 때가 되었다.","Audio/Dialogue/Character/Str/Event/Ma_46.ogg"],["Marauder44","네 명예 따위는 거절이다, 카옴.","Audio/Dialogue/Character/Str/Event/Ma_47.ogg"],["Marauder45","카옴이 이런 곳을 만들었다니. 선조들께서 슬퍼하실 일이로군.","Audio/Dialogue/Character/Str/Event/Ma_48.ogg"],["Marauder46","전사로서 죽게 해 주마, 카옴. 과분한 줄 알아라. ","Audio/Dialogue/Character/Str/Event/Ma_49.ogg"],["Marauder47","신의 심장으로도 내장을 거쳐가야 하는 거였군.","Audio/Dialogue/Character/Str/Event/Ma_50.ogg"],["Marauder48","파이어티. 날 배신하면 네 목을 취할 것이다.","Audio/Dialogue/Character/Str/Event/Ma_51.ogg"],["Marauder49","네 고통은 이제 끝이다.","Audio/Dialogue/Character/Str/Event/Ma_52.ogg"],["Marauder50","선조께서 명하신 대로.","Audio/Dialogue/Character/Str/Event/Ma_53.ogg"],["Marauder51","노예여, 이제 넌 자유다.\r\n","Audio/Dialogue/Character/Str/Event/Ma_54.ogg"],["Marauder52","파이어티, 네 선조들이 너를 용서하기를.","Audio/Dialogue/Character/Str/Event/Ma_55.ogg"],["Marauder53","내 말 들리나, 키타바?! 네 왕국은 네 노예들과 함께 죽었다! 이제 누가 너를 타락의 아버지라 하겠는가! ","Audio/Dialogue/Character/Str/Event/Ma_56.ogg"],["Marauder54","아직은 내 능력 밖이다.","Audio/Dialogue/Character/Str/Gameplay/Ma_33a.ogg"],["Marauder55","마나가 모자라.","Audio/Dialogue/Character/Str/Gameplay/Ma_33b.ogg"],["Marauder56","이건 못 들어.","Audio/Dialogue/Character/Str/Gameplay/Ma_33c_01.ogg"],["Marauder57","이건 못 들어.","Audio/Dialogue/Character/Str/Gameplay/Ma_33c_02.ogg"],["Marauder58","아아... 좀 낫군.","Audio/Dialogue/Character/Str/Gameplay/Ma_33d.ogg"],["Marauder59","이걸 사용하기엔 힘이 아직 모자라.","Audio/Dialogue/Character/Str/Gameplay/Ma_33e.ogg"],["Marauder60","아직 어떻게 사용하는 건지 모르겠군.","Audio/Dialogue/Character/Str/Gameplay/Ma_33f_01.ogg"],["Marauder61","아직 어떻게 사용하는 건지 모르겠군.","Audio/Dialogue/Character/Str/Gameplay/Ma_33f_02.ogg"],["Marauder62","이걸 사용하기엔 내가 아직 느려.","Audio/Dialogue/Character/Str/Gameplay/Ma_33g_01.ogg"],["Marauder63","이걸 사용하기엔 내가 아직 느려.","Audio/Dialogue/Character/Str/Gameplay/Ma_33g_02.ogg"],["Marauder64","이건 왠지 부수면 안 될 것 같군.","Audio/Dialogue/Character/Str/Gameplay/Ma_33h_01.ogg"],["Marauder65","이건 왠지 부수면 안 될 것 같군.","Audio/Dialogue/Character/Str/Gameplay/Ma_33h_02.ogg"],["Marauder66","여기서는 할 수 없는 일이야.","Audio/Dialogue/Character/Str/Gameplay/Ma_33i_01.ogg"],["Marauder67","여기서는 할 수 없는 일이야.","Audio/Dialogue/Character/Str/Gameplay/Ma_33i_02.ogg"],["Marauder68","투코하마를 위하여!","Audio/Dialogue/Character/Str/Gameplay/Ma_34a_01.ogg"],["Marauder69","투코하마를 위하여!","Audio/Dialogue/Character/Str/Gameplay/Ma_34a_02.ogg"],["Marauder70","히네코라의 품으로!","Audio/Dialogue/Character/Str/Gameplay/Ma_34b_01.ogg"],["Marauder71","히네코라의 품으로!","Audio/Dialogue/Character/Str/Gameplay/Ma_34b_02.ogg"],["Marauder72","먼지로 되돌려주마!","Audio/Dialogue/Character/Str/Gameplay/Ma_34c_01.ogg"],["Marauder73","먼지로 되돌려주마!","Audio/Dialogue/Character/Str/Gameplay/Ma_34c_02.ogg"],["Marauder74","선조들께로 돌려보내주마!","Audio/Dialogue/Character/Str/Gameplay/Ma_34d_01.ogg"],["Marauder75","선조들께로 돌려보내주마!","Audio/Dialogue/Character/Str/Gameplay/Ma_34d_02.ogg"],["Marauder76","키타바에게 돌려보내주마!","Audio/Dialogue/Character/Str/Gameplay/Ma_34e_01.ogg"],["Marauder77","키타바에게 돌려보내주마!","Audio/Dialogue/Character/Str/Gameplay/Ma_34e_02.ogg"],["Marauder78","나는 아직 다음 해가 뜨는 걸 봐야 한다.","Audio/Dialogue/Character/Str/Gameplay/Ma_35a.ogg"],["Marauder79","도미누스는 내가 여기에서 죽었으면 하겠지. 실망시키게 되겠군.","Audio/Dialogue/Character/Str/Gameplay/Ma_35b.ogg"],["Marauder80","레이클라스트에서는 죽이는 게 일상이지.","Audio/Dialogue/Character/Str/Gameplay/Ma_35c.ogg"],["Marauder81","나는 모든 죽음에서 생명력을 얻는다.","Audio/Dialogue/Character/Str/Gameplay/Ma_35d.ogg"],["Marauder82","선조들께서 나를 지켜보신다.","Audio/Dialogue/Character/Str/Gameplay/Ma_35e.ogg"],["Marauder83","선조들이시여, 감사합니다. 선물에 보답하겠습니다.","Audio/Dialogue/Character/Str/Gameplay/Ma_35f.ogg"],["Marauder84","이 땅은 카루이의 힘을 잊었군. 내가 되새겨 줄 것이다.","Audio/Dialogue/Character/Str/Gameplay/Ma_35g.ogg"],["Ranger1","이런 곳은 난생 처음 보는데. 앞이 깜깜하겠어.","Audio/Dialogue/Character/Dex/Event/R_02_GetUp.ogg"],["Ranger2","이런 곳에서 정의는 사치지. 비참함이야 넘치겠지만.","Audio/Dialogue/Character/Dex/Event/R_03_EnterPrison.ogg"],["Ranger3","다친 동물에게나 해 주는 일을 너한테도 하게 되네, 브루투스.","Audio/Dialogue/Character/Dex/Event/R_04_KillBrutus.ogg"],["Ranger4","삶과 죽음이 공존하다니. 희한한 땅이잖아.","Audio/Dialogue/Character/Dex/Event/R_05_EnterShipGraveyard.ogg"],["Ranger5","좋은 사람이었는데 상황이 너무 안 좋았네, 페어그레이브즈. ","Audio/Dialogue/Character/Dex/Event/R_06_KillFairgraves.ogg"],["Ranger6","한 남자에 대한 사랑이라... 그게 너를 그렇게 만들었군, 머베일.","Audio/Dialogue/Character/Dex/Event/R_07_KillMerveil.ogg"],["Ranger7","안타까운 인생에서 한 번은 좋은 일 해야지, 도적. 벌레 밥이라도 주라고.","Audio/Dialogue/Character/Dex/Event/R_08_KillOak.ogg"],["Ranger8","쥐 떼의 왕? 오늘 쥐들이 포식은 하겠군.","Audio/Dialogue/Character/Dex/Event/R_09_Killkraityn.ogg"],["Ranger9","예쁜 꽃을 꺾는 건 싫은 일이지. 너처럼 독을 품은 꽃이라 해도.\r\n","Audio/Dialogue/Character/Dex/Event/R_10_KillAlira.ogg"],["Ranger10","사치와 잔혹함이 손을 잡았네. ","Audio/Dialogue/Character/Dex/Event/R_11_EnterCOS.ogg"],["Ranger11","있어서는 안 되는 일이야. 내가 아는 세상에서라면 절대로.","Audio/Dialogue/Character/Dex/Event/R_12_ReleaseVaalShadow.ogg"],["Ranger12","동족들한테 꼭 전해, 악몽. 내 세상에는 출입 금지라고.","Audio/Dialogue/Character/Dex/Event/R_12b_KillOversoul.ogg"],["Ranger13","죽음이 없는 삶은 아무것도 아닌데. 이 단순한 사실을 자꾸 잊게 되는군.","Audio/Dialogue/Character/Dex/Event/R_13_EnterWarehouse.ogg"],["Ranger14","내가 알고 좋아했던 것에서는 느껴본 적 없는 기분이군.","Audio/Dialogue/Character/Dex/Event/R_14_EnterSolaris.ogg"],["Ranger15","파이어티... 네게 들어야 할 대답이 한둘이 아냐.","Audio/Dialogue/Character/Dex/Event/R_15_EnterLunaris.ogg"],["Ranger16","그라비시우스, 너 같은 놈들만 없었어도 이 땅이 진작 나아졌을텐데.\r\n","Audio/Dialogue/Character/Dex/Event/R_16_KillGravicius.ogg"],["Ranger17","네가 죽는다고 일이 수습되는 건 아냐, 파이어티. 그래도 뭐 더 나빠지지는 않겠지.","Audio/Dialogue/Character/Dex/Event/R_17_KillPiety.ogg"],["Ranger18","왜 굳이 산을 쌓으려고 거지? 그냥 있는 산에 가서 오르면 안 되나?","Audio/Dialogue/Character/Dex/Event/R_17b_EnterSceptre.ogg"],["Ranger19","실수를 후회하며 사는 사람도, 안 그러는 사람도 있어. 개인적인 감정이 있는 건 아냐.","Audio/Dialogue/Character/Dex/Event/R_18_KillDominus.ogg"],["Ranger20","도시가 대개 자연을 망치기는 하지만, 사안은 그 중에서도 제일 역겹네.","Audio/Dialogue/Character/Dex/Event/R_21_EnterAqueduct.ogg"],["Ranger21","호수가 마르면서 어마어마하게 죽어들 나갔네. 그 덕에 사안 하수도는 멀쩡하게 흘렀고.","Audio/Dialogue/Character/Dex/Event/R_22_EnterDriedLake.ogg"],["Ranger22","이 땅이 너희를 그리워할 일은 없을 거다, 볼.","Audio/Dialogue/Character/Dex/Event/R_23_KillVoll.ogg"],["Ranger23","자연적인 지진이 아냐.","Audio/Dialogue/Character/Dex/Event/R_24_EnterMines_01.ogg"],["Ranger24","뭐가 자다가 움찔한 거 같은 느낌인데.","Audio/Dialogue/Character/Dex/Event/R_25_EnterMines_02.ogg"],["Ranger25","여전사로서 여전사에게 주는 내 선물이야, 데쉬렛.","Audio/Dialogue/Character/Dex/Event/R_26_FreeDeshret.ogg"],["Ranger26","어지간히 골치 아픈 산이네.","Audio/Dialogue/Character/Dex/Event/R_27_EnterMines_03.ogg"],["Ranger27","다레소, 네가 사랑했던 건 너 자신 뿐이었구나.","Audio/Dialogue/Character/Dex/Event/R_28_KillDaresso.ogg"],["Ranger28","이런 건 내가 아는 카루이가 아닌데.","Audio/Dialogue/Character/Dex/Event/R_29_EnterKaom.ogg"],["Ranger29","이런 철없고 성난 아이는 세상을 위해서라도 처리해야지. ","Audio/Dialogue/Character/Dex/Event/R_30_KillKaom.ogg"],["Ranger30","그러니까 악몽 속에서의 삶은 이렇게 보이는 거였군.","Audio/Dialogue/Character/Dex/Event/R_31_EnterBelly.ogg"],["Ranger31","자연에 관해 상상할 수 있는 온갖 모욕이 다 있구나.","Audio/Dialogue/Character/Dex/Event/R_32_EnterHarvest.ogg"],["Ranger32","너희들이 남긴 건 흉터 뿐이야, 말리가로.","Audio/Dialogue/Character/Dex/Event/R_33_KillMaligaro.ogg"],["Ranger33","이뻐지려고 하다 보면 수많은 아름다움을 박살내게 되는 법이지.","Audio/Dialogue/Character/Dex/Event/R_34_KillShavronne.ogg"],["Ranger34","너 자신이 네 최악의 적이었던 거로군, 도이드리.","Audio/Dialogue/Character/Dex/Event/R_35_KillDoedre.ogg"],["Ranger35","파이어티, 죽음에 저항한 건 잘못한 일이야. 죽음 또한 자연의 섭리거든.","Audio/Dialogue/Character/Dex/Event/R_36_AfterPietyDies.ogg"],["Ranger36","내가 사랑하는 이 세상을 없애려던 너와 네 짐승을 내가 그냥 놔둘 거라 생각했나, 말라카이? ","Audio/Dialogue/Character/Dex/Event/R_37_KillMalachai.ogg"],["Ranger37","아직 그 수준에 도달하지 못했어.","Audio/Dialogue/Character/Dex/Gameplay/R_19a_Cooldown_01.ogg"],["Ranger38","아직 그 수준에 도달하지 못했어.","Audio/Dialogue/Character/Dex/Gameplay/R_19a_Cooldown_02.ogg"],["Ranger39","마나가 모자라.","Audio/Dialogue/Character/Dex/Gameplay/R_19b_Mana_01.ogg"],["Ranger40","마나가 모자라.","Audio/Dialogue/Character/Dex/Gameplay/R_19b_Mana_02.ogg"],["Ranger41","그래봤자 내가 느려지는 것 뿐이다.","Audio/Dialogue/Character/Dex/Gameplay/R_19c_Inventory_01.ogg"],["Ranger42","그래봤자 내가 느려지는 것 뿐이다.","Audio/Dialogue/Character/Dex/Gameplay/R_19c_Inventory_02.ogg"],["Ranger43","아아... 기분이 훨씬 낫네.","Audio/Dialogue/Character/Dex/Gameplay/R_19d_Flask_01.ogg"],["Ranger44","아아... 기분이 훨씬 낫네.","Audio/Dialogue/Character/Dex/Gameplay/R_19d_Flask_02.ogg"],["Ranger45","이걸 쓰려면 더 강해져야 해.","Audio/Dialogue/Character/Dex/Gameplay/R_19e_StrLow_01.ogg"],["Ranger46","이걸 쓰려면 더 강해져야 해.","Audio/Dialogue/Character/Dex/Gameplay/R_19e_StrLow_02.ogg"],["Ranger47","내가 못난 건 아니지만, 이건 내 능력 밖이야.","Audio/Dialogue/Character/Dex/Gameplay/R_19f_IntLow_01.ogg"],["Ranger48","내가 못난 건 아니지만, 이건 내 능력 밖이야.","Audio/Dialogue/Character/Dex/Gameplay/R_19f_IntLow_02.ogg"],["Ranger49","이걸 쓰려면 반사 신경을 좀 더 키워야겠어.","Audio/Dialogue/Character/Dex/Gameplay/R_19g_DexLow_01.ogg"],["Ranger50","이걸 쓰려면 반사 신경을 좀 더 키워야겠어.","Audio/Dialogue/Character/Dex/Gameplay/R_19g_DexLow_02.ogg"],["Ranger51","이게 필요해질 거라는 예감이 들어.","Audio/Dialogue/Character/Dex/Gameplay/R_19h_QuestItem_01.ogg"],["Ranger52","이게 필요해질 거라는 예감이 들어.","Audio/Dialogue/Character/Dex/Gameplay/R_19h_QuestItem_02.ogg"],["Ranger53","왜 여기서 이걸 하려고 했는지 모르겠네.","Audio/Dialogue/Character/Dex/Gameplay/R_19I_SkillsTown_01.ogg"],["Ranger54","왜 여기서 이걸 하려고 했는지 모르겠네.","Audio/Dialogue/Character/Dex/Gameplay/R_19I_SkillsTown_02.ogg"],["Ranger55","네 시체에서라도 아름다움이 자라나길.","Audio/Dialogue/Character/Dex/Gameplay/R_19J_RareKill_01.ogg"],["Ranger56","네 시체에서라도 아름다움이 자라나길.","Audio/Dialogue/Character/Dex/Gameplay/R_19J_RareKill_02.ogg"],["Ranger57","불쌍하구나, 이 타락한 녀석.","Audio/Dialogue/Character/Dex/Gameplay/R_19J_RareKill_03.ogg"],["Ranger58","불쌍하구나, 이 타락한 녀석.","Audio/Dialogue/Character/Dex/Gameplay/R_19J_RareKill_04.ogg"],["Ranger59","가지를 꺾어서 나무를 살리는 법이지.","Audio/Dialogue/Character/Dex/Gameplay/R_19J_RareKill_05.ogg"],["Ranger60","가지를 꺾어서 나무를 살리는 법이지.","Audio/Dialogue/Character/Dex/Gameplay/R_19J_RareKill_06.ogg"],["Ranger61","땅에 유익한 거름으로 돌아가라.","Audio/Dialogue/Character/Dex/Gameplay/R_19J_RareKill_07.ogg"],["Ranger62","땅에 유익한 거름으로 돌아가라.","Audio/Dialogue/Character/Dex/Gameplay/R_19J_RareKill_08.ogg"],["Ranger63","고통을 끝내주마.","Audio/Dialogue/Character/Dex/Gameplay/R_19J_RareKill_09.ogg"],["Ranger64","고통을 끝내주마.","Audio/Dialogue/Character/Dex/Gameplay/R_19J_RareKill_10.ogg"],["Ranger65","살면서 배우는 거지 뭐.","Audio/Dialogue/Character/Dex/Gameplay/R_20_LevelUp_01.ogg"],["Ranger66","아직 숨이 붙어 있잖아. 좋은 징조인데.","Audio/Dialogue/Character/Dex/Gameplay/R_20_LevelUp_02.ogg"],["Ranger67","벌레 밥이 되기엔 아직 이르다고.","Audio/Dialogue/Character/Dex/Gameplay/R_20_LevelUp_03.ogg"],["Ranger68","고통을 겪은 후 더욱 굳건해지는 법. 자연스러운 거야.","Audio/Dialogue/Character/Dex/Gameplay/R_20_LevelUp_04.ogg"],["Ranger69","사냥감이 날뛰면 사냥꾼도 같이 난폭해져야지.","Audio/Dialogue/Character/Dex/Gameplay/R_20_LevelUp_05.ogg"],["Ranger70","먹이 사슬 위로 한 단계 더 올라왔다.","Audio/Dialogue/Character/Dex/Gameplay/R_20_LevelUp_06.ogg"],["Ranger71","이제 좀 이 땅에 익숙해진 거 같네.","Audio/Dialogue/Character/Dex/Gameplay/R_20_LevelUp_07.ogg"],["Ranger72","레이클라스트... 이렇게 아낌없이 퍼 주는데 난 뭘 해줄 수 있을까? ","Audio/Dialogue/Character/Dex/Gameplay/R_20_LevelUp_08.ogg"],["Witch1","모래가 악의에 차서 떨고 있군. 나를 반기는 힘이 느껴져.","Audio/Dialogue/Character/Int/Event/Witch_01.ogg"],["Witch2","이런 데서 살 바에야 화형대에 오르고 말지.","Audio/Dialogue/Character/Int/Event/Witch_02.ogg"],["Witch3","사이렌들이 저녁은 거하게 차려 먹으려는 모양인데.","Audio/Dialogue/Character/Int/Event/Witch_03.ogg"],["Witch4","공기에서 마석학의 냄새가 나. 한두 개는 배워갈 수 있을 것 같군.","Audio/Dialogue/Character/Int/Event/Witch_04.ogg"],["Witch5","불쌍하게도 이런 어두운 구석에서 살다니... 정말이지 한참동안 슬펐겠어.","Audio/Dialogue/Character/Int/Event/Witch_05.ogg"],["Witch6","이 주문을 속속들이 알고 싶어 죽겠어. 집안일은 도저히 못 하겠는데 말이야.","Audio/Dialogue/Character/Int/Event/Witch_06.ogg"],["Witch7","자고로 시체라면 내 지시로 일어나야지. 나한테 맞설 게 아니라.","Audio/Dialogue/Character/Int/Event/Witch_08.ogg"],["Witch8","내 솜씨로 널 만들었으면 이렇게 쉽게 쓰러지진 않았을 텐데.","Audio/Dialogue/Character/Int/Event/Witch_09.ogg"],["Witch9","그게 제대로 죽는다는 거지, 애매하게 굴어서는 못 써.","Audio/Dialogue/Character/Int/Event/Witch_10.ogg"],["Witch10","딱해라! 나도 사랑을 담아서 한 일이었어.","Audio/Dialogue/Character/Int/Event/Witch_11.ogg"],["Witch11","이 땅에는 너처럼 욕심 가득한 놈한테 줄 땅이 없어, 오크.","Audio/Dialogue/Character/Int/Event/W_09_KillOak.ogg"],["Witch12","사실 많이 실망스러워. 내가 쥐는 좀 좋아하는 편이거든.","Audio/Dialogue/Character/Int/Event/Witch_13.ogg"],["Witch13","어떻게 살면서 배운 게 없는 모양이네, 힘에 휘둘려 자만하면 안 되지.","Audio/Dialogue/Character/Int/Event/Witch_14.ogg"],["Witch14","아깝다. 좋은 친구가 될 수도 있었을 텐데.","Audio/Dialogue/Character/Int/Event/Witch_15.ogg"],["Witch15","너는 오리아스에서도 나를 화형에 처하려 했지, 그라비시우스. 그때부터 마음에 안 들었어.","Audio/Dialogue/Character/Int/Event/Witch_16.ogg"],["Witch16","네 연구는 정말 마음에 들어, 파이어티. 너 말고.","Audio/Dialogue/Character/Int/Event/Witch_17.ogg"],["Witch17","사람은커녕 영혼조차도 널 위해 울어주지는 않을 거야, 도미누스.","Audio/Dialogue/Character/Int/Event/Witch_18.ogg"],["Witch18","정말 환상적이네.","Audio/Dialogue/Character/Int/Event/Witch_19.ogg"],["Witch19","숨 좀 고르자.","Audio/Dialogue/Character/Int/Gameplay/Witch_Com_01.ogg"],["Witch20","마나가 모자라.","Audio/Dialogue/Character/Int/Gameplay/Witch_Com_02.ogg"],["Witch21","더 넣을 수 없어.","Audio/Dialogue/Character/Int/Gameplay/Witch_Com_03.ogg"],["Witch22","아, 만족스러워라.","Audio/Dialogue/Character/Int/Gameplay/Witch_Com_04.ogg"],["Witch23","생명력이 거의 없어!","Audio/Dialogue/Character/Int/Gameplay/Witch_Com_05.ogg"],["Witch24","아직 그 정도 힘은 없어.","Audio/Dialogue/Character/Int/Gameplay/Witch_Com_06.ogg"],["Witch25","좀 당황스럽네.","Audio/Dialogue/Character/Int/Gameplay/Witch_Com_07.ogg"],["Witch26","이걸 쓰려면 좀 더 유연해져야겠는데.","Audio/Dialogue/Character/Int/Gameplay/Witch_Com_08.ogg"],["Witch27","이 물건이 내 운명을 알려주는 것 같군.","Audio/Dialogue/Character/Int/Gameplay/Witch_Com_09.ogg"],["Witch28","그랬다간 사는 게 아주 복잡해질 걸.","Audio/Dialogue/Character/Int/Gameplay/Witch_Com_10.ogg"],["Witch29","솔직히 말하면, 지금쯤 시체가 되어있을 줄 알았어.","Audio/Dialogue/Character/Int/Gameplay/Witch_Level_01.ogg"],["Witch30","인생은 배움의 연속이야.","Audio/Dialogue/Character/Int/Gameplay/Witch_Level_02.ogg"],["Witch31","레이클라스트가 도와주는 거 같아.","Audio/Dialogue/Character/Int/Gameplay/Witch_Level_03.ogg"],["Witch32","운명이 웃을 때는 날카로운 이가 드러나는 법이라고.","Audio/Dialogue/Character/Int/Gameplay/Witch_Level_04.ogg"],["Witch33","이젠 나도 나를 알아보기 힘들 정도야.","Audio/Dialogue/Character/Int/Gameplay/Witch_Level_05.ogg"],["Witch34","땅도 내 말을 무시하지 못할 거야.","Audio/Dialogue/Character/Int/Gameplay/Witch_Level_06.ogg"],["Witch35","더는 두려워할 필요 없어. 운명이 나를 이끌고 있어.","Audio/Dialogue/Character/Int/Gameplay/Witch_Level_07.ogg"],["Witch36","이거 무슨 냄새인지 알아. 내 자매들이... 불에 타던 냄새랑 똑같아. ","Audio/Dialogue/Character/Int/Event/W_04b_EnterCannibalBay.ogg"],["Witch37","보기 좋은데. 경련하는 시체들 투성이 사이에서도 아직 살아있는 것들이 꽤 있잖아.","Audio/Dialogue/Character/Int/Event/W_08_EnterForest.ogg"],["Witch38","사안이라... 제국을 탄생시킨 도시지. 너한테 묻고 싶은 게 정말 많을 것 같군.","Audio/Dialogue/Character/Int/Event/W_14b_EnterSarn.ogg"],["Witch39","이런 걸 지어놨다 이 말이지... 뭐 이건 대놓고 박해하겠다는 거 아닌가.","Audio/Dialogue/Character/Int/Event/W_15b_EnterCrematorium.ogg"],["Witch40","불쌍한 신세여. 바람 가는 대로 다니는 운명이라니.","Audio/Dialogue/Character/Int/Event/W_16b_AfterFairgraves.ogg"],["Witch41","명심해, 도미누스. 올라가는 건 반드시 내려오기 마련이니까.","Audio/Dialogue/Character/Int/Event/W_19b_EnterSceptre.ogg"],["Witch42","타락한 물인 게 벌써 느껴지는군. 어디서 오는 건지 좀 봐야겠어.","Audio/Dialogue/Character/Int/Event/W_23_EnterAqueduct.ogg"],["Witch43","어쩜 이렇게 멋진 곳들만 다니게 되는 걸까?","Audio/Dialogue/Character/Int/Event/W_24_EnterDriedLake.ogg"],["Witch44","볼, 너도 결국 마석학에 잡아먹힌 모양이구나?","Audio/Dialogue/Character/Int/Event/W_25_KillVoll.ogg"],["Witch45","그래, 우리 귀여운 산아. 나도 만나서 반가워!","Audio/Dialogue/Character/Int/Event/W_26_EnterMines01.ogg"],["Witch46","산이 내가 좋은가 봐.","Audio/Dialogue/Character/Int/Event/W_27_EnterMines2.ogg"],["Witch47","여기엔 아직 붙잡힌 영혼들이 차고 넘쳐. 난 느낄 수 있다고.","Audio/Dialogue/Character/Int/Event/W_28_FreeDeshret.ogg"],["Witch48","귀여운 산아, 너무 겁내지 마. 다 조만간 끝날 거야.","Audio/Dialogue/Character/Int/Event/W_29_EnterMines3.ogg"],["Witch49","이렇게 방해해서 미안한데, 다레소... 그 여자는 환상이야.","Audio/Dialogue/Character/Int/Event/W_30_KillDaresso.ogg"],["Witch50","카루이 왕의 머리 속은 이렇게 생겨먹은 모양이네. 설마 다들 이런 건 아니겠지.","Audio/Dialogue/Character/Int/Event/W_31_EnterKaom.ogg"],["Witch51","제 성질을 못 이기면 그렇게 되는 거야, 카옴.","Audio/Dialogue/Character/Int/Event/W_32-KillKaom.ogg"],["Witch52","살아 숨쉬는 지옥 속으로 들어가 볼 기회가 매일 있는 게 아냐.","Audio/Dialogue/Character/Int/Event/W_33_EnterBelly.ogg"],["Witch53","파이어티를 얕봤던 거 같네. 멋진데! 나 놀라는 거 좋아해.","Audio/Dialogue/Character/Int/Event/W_34_EnterHarvest.ogg"],["Witch54","굳이 비꼬고 싶지는 않지만... 난 좀 별로야.","Audio/Dialogue/Character/Int/Event/W_35_KillMaligaro.ogg"],["Witch55","브루투스가 네 마지막 작품인 게 다행이지.","Audio/Dialogue/Character/Int/Event/W_36_KillShav.ogg"],["Witch56","오, 도이드리. 우리 마녀한테도 지켜야 할 선이라는 게 있는 법이야.","Audio/Dialogue/Character/Int/Event/W_37_KillDoedre.ogg"],["Witch57","말라카이가 못 들었기를 바란다, 파이어티. 그쪽이 훨씬 더 재밌을 테니까!","Audio/Dialogue/Character/Int/Event/W_38_AfterPiety.ogg"],["Witch58","불쌍한 말라카이. 그렇게나 죽는 게 무서웠구나. 이제 너희 둘이 잘 좀 지내봐. 생각만큼 나쁘지는 않을 걸.","Audio/Dialogue/Character/Int/Event/W_39_KillMalachai.ogg"],["Witch59","준비되기 전엔 안 돼.","Audio/Dialogue/Character/Int/Gameplay/W_21_CoolDown_01.ogg"],["Witch60","준비되기 전엔 안 돼.","Audio/Dialogue/Character/Int/Gameplay/W_21_CoolDown_02.ogg"],["Witch61","인생은 짧아. 그냥 받아들여.","Audio/Dialogue/Character/Int/Gameplay/W_21_RareKill_01.ogg"],["Witch62","이런! 실수했네.","Audio/Dialogue/Character/Int/Gameplay/W_21_RareKill_02.ogg"],["Witch63","다들 죽는 거지.","Audio/Dialogue/Character/Int/Gameplay/W_21_RareKill_03.ogg"],["Witch64","지금 모습이 훨씬 좋은데.","Audio/Dialogue/Character/Int/Gameplay/W_21_RareKill_04.ogg"],["Witch65","너한테 낭비하기엔 내 인생이 아까워.","Audio/Dialogue/Character/Int/Gameplay/W_21_RareKill_05.ogg"],["Witch66","너도 악몽을 잘 아는구나. 아니면 악몽이 너를 아는 건가.","Audio/Dialogue/Character/Int/Event/W17_EnterLunaris.ogg"],["Duelist1","최고의 투기장은 아니지만, 어쩔 수 없는 거겠지.","Audio/Dialogue/Character/StrDex/Event/D02.ogg"],["Duelist2","여기서는 시체들마저 일어나서 내게 도전하는 건가.","Audio/Dialogue/Character/StrDex/Event/D03.ogg"],["Duelist3","창살 속 결투인 셈인가. 뭐 어렵지 않지.","Audio/Dialogue/Character/StrDex/Event/D04.ogg"],["Duelist4","기술이 덩치를 이기는 법이야. 언제나 말이지.","Audio/Dialogue/Character/StrDex/Event/D05.ogg"],["Duelist5","죽음의 문 앞인가. 숙녀분 먼저 가시죠, 머베일 부인.","Audio/Dialogue/Character/StrDex/Event/D06.ogg"],["Duelist6","죽어 나간 뱃사람들이 불쌍해질 지경이군.","Audio/Dialogue/Character/StrDex/Event/D07.ogg"],["Duelist7","전설과 결투해볼 기회가 그리 흔하지는 않은데. 고맙군, 페어그레이브즈.","Audio/Dialogue/Character/StrDex/Event/D08.ogg"],["Duelist8","좋은 결투였다, 오크. 관중이 나무밖에 없었던 게 아쉽군.","Audio/Dialogue/Character/StrDex/Event/D09.ogg"],["Duelist9","정신이 칼 속도를 따라오지 못한 게 안타깝구나, 쥐야.","Audio/Dialogue/Character/StrDex/Event/D10.ogg"],["Duelist10","목에 칼이 들어온 채로 주문을 시전하는 게 쉽지는 않지?","Audio/Dialogue/Character/StrDex/Event/D11.ogg"],["Duelist11","더럽혀진 꿈의 장소인가. 여기서는 조심해서 훈련해야겠어.","Audio/Dialogue/Character/StrDex/Event/D12.ogg"],["Duelist12","이건 좀 아닌데.","Audio/Dialogue/Character/StrDex/Event/D13.ogg"],["Duelist13","처음 맛보는 결투였어. 레이클라스트가 좋아지기 시작하는데.","Audio/Dialogue/Character/StrDex/Event/D14.ogg"],["Duelist14","나는 공정한 결투를 선호하는데 이런 곳에 그런 게 있을지 모르겠는걸.","Audio/Dialogue/Character/StrDex/Event/D15.ogg"],["Duelist15","무너진 제국에도 아직 영광이 남아 있는 모양이야.","Audio/Dialogue/Character/StrDex/Event/D16.ogg"],["Duelist16","여기가 파이어티의 제 2의 고향인가. 그 마녀가 여기에 있는지 찾아보자.","Audio/Dialogue/Character/StrDex/Event/D17.ogg"],["Duelist17","싸우다 죽는다라... 이게 네가 유일하게 이뤄낸 명예다, 그라비시우스.","Audio/Dialogue/Character/StrDex/Event/D18.ogg"],["Duelist18","미안하군요, 아가씨. 하지만 누군가는 이 추한 짓을 막았어야 해서.","Audio/Dialogue/Character/StrDex/Event/D19.ogg"],["Duelist19","탑을 올라 미친 왕을 죽여라. 이거 완전히 엄마가 읽어주던 동화 속 이야기잖아.","Audio/Dialogue/Character/StrDex/Event/D20.ogg"],["Duelist20","억울한 유배자에게 정당하게 죽었군. 우리 이제 좀 비슷해진 거 같은데, 고위 템플러.","Audio/Dialogue/Character/StrDex/Event/D21.ogg"],["Duelist21","그림 같은 운하를 따라 걷다가 산으로 가기도 하고. 이건 그냥 편하게 쉬는 거로군? ","Audio/Dialogue/Character/StrDex/Event/D24.ogg"],["Duelist22","여긴... 암울하군.","Audio/Dialogue/Character/StrDex/Event/D25.ogg"],["Duelist23","내 독단이긴 하지만, 볼 너한테 방금 호의를 베푼 거다.","Audio/Dialogue/Character/StrDex/Event/D26.ogg"],["Duelist24","입구 앞에서 땅이 울리는 느낌만 한 것도 없지.","Audio/Dialogue/Character/StrDex/Event/D27.ogg"],["Duelist25","사실 저 소리가 썩 좋지는 않아.","Audio/Dialogue/Character/StrDex/Event/D28.ogg"],["Duelist26","곤경에 처한 아가씨를 돕는 일은 언제나 기분 좋은 법이지.","Audio/Dialogue/Character/StrDex/Event/D29.ogg"],["Duelist27","돌무더기 아래에 파묻히는 건 내 얘기를 끝내기에 좋은 방식은 아닌데.","Audio/Dialogue/Character/StrDex/Event/D30.ogg"],["Duelist28","맙소사, 투기장으로 돌아온 게 이렇게 좋을 수가!","Audio/Dialogue/Character/StrDex/Event/D31.ogg"],["Duelist29","네 영광은 영원히 노래로 남을 거다, 다레소. 내가 약속하지.","Audio/Dialogue/Character/StrDex/Event/D32.ogg"],["Duelist30","예전에 카루이 놈에게 '시체의 섬' 얘기를 들었지. 여기가 거기인가.","Audio/Dialogue/Character/StrDex/Event/D33.ogg"],["Duelist31","전사로서 죽는 걸 행복한 줄 알아라, 카옴.","Audio/Dialogue/Character/StrDex/Event/D34.ogg"],["Duelist32","드디어 들어왔어... 짐승의 내부에!","Audio/Dialogue/Character/StrDex/Event/D35.ogg"],["Duelist33","한 걸음 나아갈 때마다 여기는 더 뒤틀려 가는군.","Audio/Dialogue/Character/StrDex/Event/D36.ogg"],["Duelist34","이제 쉬라고, 말리가로. 예술가의 작품은 예술가가 죽은 뒤에 값이 뛰기 마련이니.","Audio/Dialogue/Character/StrDex/Event/D37.ogg"],["Duelist35","아첨 떨어봤자 소용 없습니다, 부인.","Audio/Dialogue/Character/StrDex/Event/D38.ogg"],["Duelist36","무슨 말을 하는건지 하나도 못 알아듣겠는데, 도이드리. 그래서 다행이다 싶지만.","Audio/Dialogue/Character/StrDex/Event/D39.ogg"],["Duelist37","이런, 숙녀의 마지막 소원을 어찌 거절하겠습니까.","Audio/Dialogue/Character/StrDex/Event/D40.ogg"],["Duelist38","결투가 끝났는데 희한한 기분이군. 뭐 어쨌든 나는 이겼고, 악몽은 끝이 났으니까. ","Audio/Dialogue/Character/StrDex/Event/D41.ogg"],["Duelist39","언젠가는 쓰일 일이 있을 거 같아.","Audio/Dialogue/Character/StrDex/Gameplay/D22_DestroyQuestItem_01.ogg"],["Duelist40","언젠가는 쓰일 일이 있을 거 같아.","Audio/Dialogue/Character/StrDex/Gameplay/D22_DestroyQuestItem_02.ogg"],["Duelist41","이걸 쓰려면 조금 더 날렵해져야겠어.","Audio/Dialogue/Character/StrDex/Gameplay/D22_DexStatLow_01.ogg"],["Duelist42","이걸 쓰려면 조금 더 날렵해져야겠어.","Audio/Dialogue/Character/StrDex/Gameplay/D22_DexStatLow_02.ogg"],["Duelist43","아... 바로 이거야.","Audio/Dialogue/Character/StrDex/Gameplay/D22_HeathFlaskOnLow_01.ogg"],["Duelist44","아... 바로 이거야.","Audio/Dialogue/Character/StrDex/Gameplay/D22_HeathFlaskOnLow_02.ogg"],["Duelist45","이런 건 도저히 이해가 안 돼.","Audio/Dialogue/Character/StrDex/Gameplay/D22_IntStatLow_01.ogg"],["Duelist46","이런 건 도저히 이해가 안 돼.","Audio/Dialogue/Character/StrDex/Gameplay/D22_IntStatLow_02.ogg"],["Duelist47","여행짐은 가벼운 게 좋아.","Audio/Dialogue/Character/StrDex/Gameplay/D22_InvFull_01.ogg"],["Duelist48","여행짐은 가벼운 게 좋아.","Audio/Dialogue/Character/StrDex/Gameplay/D22_InvFull_02.ogg"],["Duelist49","훌륭한 적이었다!","Audio/Dialogue/Character/StrDex/Gameplay/D22_MonsterKillV1_01.ogg"],["Duelist50","훌륭한 적이었다!","Audio/Dialogue/Character/StrDex/Gameplay/D22_MonsterKillV1_02.ogg"],["Duelist51","너는 차라리 죽는 게 나아!","Audio/Dialogue/Character/StrDex/Gameplay/D22_MonsterKillV2_01.ogg"],["Duelist52","너는 차라리 죽는 게 나아!","Audio/Dialogue/Character/StrDex/Gameplay/D22_MonsterKillV2_02.ogg"],["Duelist53","땀도 안 나는군!","Audio/Dialogue/Character/StrDex/Gameplay/D22_MonsterKillV3_01.ogg"],["Duelist54","땀도 안 나는군!","Audio/Dialogue/Character/StrDex/Gameplay/D22_MonsterKillV3_02.ogg"],["Duelist55","연습이 완벽을 만드는 법이지!","Audio/Dialogue/Character/StrDex/Gameplay/D22_MonsterKillV4_01.ogg"],["Duelist56","연습이 완벽을 만드는 법이지!","Audio/Dialogue/Character/StrDex/Gameplay/D22_MonsterKillV4_02.ogg"],["Duelist57","승리의 향기는 싫어할 수 없다니까!","Audio/Dialogue/Character/StrDex/Gameplay/D22_MonsterKillV5_01.ogg"],["Duelist58","승리의 향기는 싫어할 수 없다니까!","Audio/Dialogue/Character/StrDex/Gameplay/D22_MonsterKillV5_02.ogg"],["Duelist59","내 영혼이 지쳐 있어.","Audio/Dialogue/Character/StrDex/Gameplay/D22_OutOfMana_01.ogg"],["Duelist60","내 영혼이 지쳐 있어.","Audio/Dialogue/Character/StrDex/Gameplay/D22_OutOfMana_02.ogg"],["Duelist61","아직은 못 해.","Audio/Dialogue/Character/StrDex/Gameplay/D22_SkillCooldown_01.ogg"],["Duelist62","아직은 못 해.","Audio/Dialogue/Character/StrDex/Gameplay/D22_SkillCooldown_02.ogg"],["Duelist63","이걸 쓰려면 근육을 조금 더 키워야겠어.","Audio/Dialogue/Character/StrDex/Gameplay/D22_StrStatLow_01.ogg"],["Duelist64","이걸 쓰려면 근육을 조금 더 키워야겠어.","Audio/Dialogue/Character/StrDex/Gameplay/D22_StrStatLow_02.ogg"],["Duelist65","곧 이걸 쓸 때가 올 거다.","Audio/Dialogue/Character/StrDex/Gameplay/D22_UseSkillInTown_01.ogg"],["Duelist66","곧 이걸 쓸 때가 올 거다.","Audio/Dialogue/Character/StrDex/Gameplay/D22_UseSkillInTown_02.ogg"],["Duelist67","아직 안 죽은 것만 해도 다행이지.","Audio/Dialogue/Character/StrDex/Gameplay/D23_LevelUp_01.ogg"],["Duelist68","이 새로운 투기장이 나랑 맞는 거 같은데.","Audio/Dialogue/Character/StrDex/Gameplay/D23_LevelUp_02.ogg"],["Duelist69","레이클라스트보다 더 좋은 훈련장은 없겠어.","Audio/Dialogue/Character/StrDex/Gameplay/D23_LevelUp_03.ogg"],["Duelist70","오리아스에서 내게 열광하던 사람들도 나를 거의 잊었겠지.","Audio/Dialogue/Character/StrDex/Gameplay/D23_LevelUp_04.ogg"],["Duelist71","인생이 승리나 죽음 뿐인 건 아니라는 생각이 들기 시작하는데.","Audio/Dialogue/Character/StrDex/Gameplay/D23_LevelUp_05.ogg"],["Duelist72","지금이라면 위대한 다레소와도 해볼 만할 것 같아.","Audio/Dialogue/Character/StrDex/Gameplay/D23_LevelUp_06.ogg"],["Duelist73","고향 생각은 접을 때가 된 건가. 옷깃이 좀 조이는군.","Audio/Dialogue/Character/StrDex/Gameplay/D23_LevelUp_07.ogg"],["Shadow1","테오폴리스 수용소는 이곳에 비하면 애들 장난이야. 요즘 감옥은 이 정도는 아니란 말이지.","Audio/Dialogue/Character/DexInt/Event/Shadow_02.ogg"],["Shadow2","원래 사람 잡는 일은 내 전문인데, 누군가 바쁘게 움직였던 모양이야.","Audio/Dialogue/Character/DexInt/Event/Shadow_03.ogg"],["Shadow3","지금까지 살면서 험악한 곳을 여러 번 가보았지만, 여기는 심상치 않아.","Audio/Dialogue/Character/DexInt/Event/Shadow_04.ogg"],["Shadow4","삶과 죽음을 동등하게 바라보라는 말이 적혀있군. 내가 만일 죽음 그 자체라면, 이곳에서 화가 치밀어오를 것 같아.","Audio/Dialogue/Character/DexInt/Event/Shadow_05.ogg"],["Shadow5","먼지나 삐져나온 벽돌이 전혀 보이지 않아. 관리할 시간이 정말 넉넉한 모양이군.","Audio/Dialogue/Character/DexInt/Event/Shadow_06.ogg"],["Shadow6","상한 레테의 젖을 병째로 들이킨 적이 있었지. 여기 있자니 그때와 비슷한 느낌이 들어.","Audio/Dialogue/Character/DexInt/Event/Shadow_07.ogg"],["Shadow7","덩치가 커봤자 칼을 찔러넣을 구석이 더 많을 뿐이야.","Audio/Dialogue/Character/DexInt/Event/Shadow_08.ogg"],["Shadow8","불쌍할 지경이군, 페어그레이브즈. 두 번이나 죽다니... 썩 유쾌하지는 않겠어.","Audio/Dialogue/Character/DexInt/Event/Shadow_09.ogg"],["Shadow9","괜찮은 여인과 처음으로 싸워 보는군. 저렇게 변해 버리다니 안타까울 따름이야.","Audio/Dialogue/Character/DexInt/Event/Shadow_10.ogg"],["Shadow10","칼싸움에 막대기를 가져오면 그렇게 되는 거야.","Audio/Dialogue/Character/DexInt/Event/Shadow_11.ogg"],["Shadow11","칼은 빨리 휘두른다고 다가 아니야, 제대로 한 방을 찔러야지.","Audio/Dialogue/Character/DexInt/Event/Shadow_12.ogg"],["Shadow12","땅바닥이 스스로 움직이기라도 했어? 너무 아프게 넘어지길래 그런 줄 알았지.","Audio/Dialogue/Character/DexInt/Event/Shadow_13.ogg"],["Shadow13","조만간 찾아올 암살자만큼이나 어둠을 좋아하긴 하지만, 그쪽은 지나치게 어두워.","Audio/Dialogue/Character/DexInt/Event/Shadow_14.ogg"],["Shadow14","내가 오리아스에서 당신을 죽였더라면 지금쯤 부귀영화를 누리고 있을 텐데. 아직도 천벌을 안 받았군?","Audio/Dialogue/Character/DexInt/Event/Shadow_15.ogg"],["Shadow15","내 목표에 되도록 사적인 감정을 가지려고 하지 않지만, 파이어티, 당신은 좋은 쪽으로 그 예외야.","Audio/Dialogue/Character/DexInt/Event/Shadow_16.ogg"],["Shadow16","재미있군요. 예하께서는 키가 더 크실 줄 알았소만.","Audio/Dialogue/Character/DexInt/Event/Shadow_17.ogg"],["Shadow17","하루를 기분 좋게 시작하는 데 수영 만한 게 없지. 그런데, 여기는 도대체 어디지?","Audio/Dialogue/Character/DexInt/Event/Shadow_01.ogg"],["Shadow18","뭔가 불안한 기운이 엄습해오는 군.","Audio/Dialogue/Character/DexInt/Event/Shadow_18.ogg"],["Shadow19","마나가 부족해!","Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Com_01.ogg"],["Shadow20","주머니가 모자라.","Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Com_02.ogg"],["Shadow21","한결 낫군!","Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Com_04.ogg"],["Shadow22","그러기에는 힘이 모자라.","Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Com_05.ogg"],["Shadow23","그러기에는 아직 지능이 부족해.","Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Com_06.ogg"],["Shadow24","내가 봐도 너무 다루기 어렵겠어.","Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Com_07.ogg"],["Shadow25","나중에 쓸 일이 있을 거야.","Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Com_08.ogg"],["Shadow26","지금 이 행동을 할 필요는 없는 것 같아.","Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Com_09.ogg"],["Shadow27","아직 죽지 않아서 다행이군.","Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Level_01.ogg"],["Shadow28","이곳의 모든 몬스터들이 날 죽이려고 작정한 것 같아서 인상적이야.","Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Level_02.ogg"],["Shadow29","하나를 죽일 때마다 난 조금씩 살아난다.","Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Level_03.ogg"],["Shadow30","이젠 너무 능숙해져서 무서울 지경이군.","Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Level_04.ogg"],["Shadow31","나는 잡초를 뽑아 작물을 키우는 정원사 같은 존재다.","Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Level_05.ogg"],["Shadow32","이젠 과거를 돌아볼 필요가 없겠군. 오직 죽음만이 남았으니까... 끝나려면 아직 멀었어.","Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Level_06.ogg"],["Shadow33","내가 어떤 사람이 되었는지 자문할 여지가 있겠지. 그럴 필요는 없겠지만 말이야.","Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Level_07.ogg"],["Shadow34","딱하군, 페어그레이브즈. 당신의 계획은 좋게 끝나는 법이 없는 것 같아.","Audio/Dialogue/Character/DexInt/Event/SH_AfterFairgraves.ogg"],["Shadow35","그런 계약이라면 기꺼이 이행해줘야지, 파이어티.","Audio/Dialogue/Character/DexInt/Event/SH_AfterPiety.ogg"],["Shadow36","이렇게나 물살이 깊은데 다니는 배가 한 척도 없다니. 계속 걸어 다니면서 적을 죽여야 할 판이야.","Audio/Dialogue/Character/DexInt/Event/SH_EnterAqueduct_01.ogg"],["Shadow37","이 야수라는 생물은 정말 대단하군. 죽이기도 아까울 정도야.","Audio/Dialogue/Character/DexInt/Event/SH_EnterBeast.ogg"],["Shadow38","내가 검은 근위대 요새에 들어오다니... 닭장 속에 여우를 풀어놓은 격이지.","Audio/Dialogue/Character/DexInt/Event/SH_EnterBlackguard.ogg"],["Shadow39","이곳 공기는 마치... 도살장 아래의 화덕에서 날 법한 냄새를 풍기는군.","Audio/Dialogue/Character/DexInt/Event/SH_EnterCoast.ogg"],["Shadow40","숲이라. 엄청나게 치명적인 것들이 숨기 좋은 곳이지. ","Audio/Dialogue/Character/DexInt/Event/SH_EnterForest.ogg"],["Shadow41","내가 파이어티와 협력하다니... 소리내어 말하려니 더욱 실감이 안 날 정도야.","Audio/Dialogue/Character/DexInt/Event/SH_EnterHarvest.ogg"],["Shadow42","상한 레테의 젖을 먹고 사흘간 젖꼭지를 물지 못한 적이 있었지. 이곳 분위기와 비슷한 느낌이었어.","Audio/Dialogue/Character/DexInt/Event/SH_EnterLunaris.ogg"],["Shadow43","어둠 따위가 날 삼켜봤자 탈 나는 건 내가 아니야.","Audio/Dialogue/Character/DexInt/Event/SH_EnterMines1.ogg"],["Shadow44","산 내부에서 뭔가가 아주 바쁘게 움직이고 있군.","Audio/Dialogue/Character/DexInt/Event/SH_EnterMines2.ogg"],["Shadow45","이 변비 걸린 내장이 내가 안에 있는 동안 내용물을 쏟아내지 말아야 할 텐데.","Audio/Dialogue/Character/DexInt/Event/SH_EnterMines3.ogg"],["Shadow46","아! 도시로 돌아오니 정말 좋네. ","Audio/Dialogue/Character/DexInt/Event/SH_EnterSarn.ogg"],["Shadow47","이곳을 지은 사람은 무언가를 필사적으로 만회하려는 것 같군.","Audio/Dialogue/Character/DexInt/Event/SH_EnterScepter.ogg"],["Shadow48","진실하고 영원한 죽음을 볼 때마다 마음이 항상 편해지는군.","Audio/Dialogue/Character/DexInt/Event/SH_FreeDeshret.ogg"],["Shadow49","오, 머베일. 나에게도 노래를 불러주겠소? 기분 좋은 걸로 한 곡조 청하겠소.","Audio/Dialogue/Character/DexInt/Event/SH_KillDaresso.ogg"],["Shadow50","아, 그만 좀 웅얼대.","Audio/Dialogue/Character/DexInt/Event/SH_KillDoedre.ogg"],["Shadow51","이미 죽은 사람을 또 살해하는 게 가능한가?","Audio/Dialogue/Character/DexInt/Event/SH_KillFirstZombie.ogg"],["Shadow52","당신이 간과한 게 바로 그거야, 말라카이. 죽음은 삶에 유일하게 의미를 부여하거든.","Audio/Dialogue/Character/DexInt/Event/SH_KillMalachai.ogg"],["Shadow53","내가 예술은 잘 모르지만, 적어도 취향은 확실하다고.","Audio/Dialogue/Character/DexInt/Event/SH_KillMaligaro.ogg"],["Shadow54","외모에 몰두하는 사람치고는 흉측한 죽음이군.","Audio/Dialogue/Character/DexInt/Event/SH_KillShavronne.ogg"],["Shadow55","방금 황제를 죽였어. 저렇게 큰 장식용 깃털을 가지고 있었다니, 더 큰 모자를 장만해야겠어.","Audio/Dialogue/Character/DexInt/Event/SH_KillVoll.ogg"],["Shadow56","잠시 숨 좀 고르자.","Audio/Dialogue/Character/DexInt/Gameplay/SH_Cooldown_01.ogg"],["Shadow57","잠시 숨 좀 고르자.","Audio/Dialogue/Character/DexInt/Gameplay/SH_Cooldown_02.ogg"],["Shadow58","잠시 숨 좀 고르자.","Audio/Dialogue/Character/DexInt/Gameplay/SH_Cooldown_03.ogg"],["Shadow59","기분이 끝내주네!","Audio/Dialogue/Character/DexInt/Gameplay/SH_MonsterKill_01a.ogg"],["Shadow60","기분이 끝내주네!","Audio/Dialogue/Character/DexInt/Gameplay/SH_MonsterKill_01b.ogg"],["Shadow61","살인이라고 모두 똑같은 게 아니야!","Audio/Dialogue/Character/DexInt/Gameplay/SH_MonsterKill_02a.ogg"],["Shadow62","살인이라고 모두 똑같은 게 아니야!","Audio/Dialogue/Character/DexInt/Gameplay/SH_MonsterKill_02b.ogg"],["Shadow63","재미있군그래!","Audio/Dialogue/Character/DexInt/Gameplay/SH_MonsterKill_03a.ogg"],["Shadow64","재미있군그래!","Audio/Dialogue/Character/DexInt/Gameplay/SH_MonsterKill_03b.ogg"],["Shadow65","죽은 척이나 해라. 착하기도 하지!","Audio/Dialogue/Character/DexInt/Gameplay/SH_MonsterKill_04.ogg"],["Shadow66","죽음을 휴일로 받아들여 봐, 카옴. 발 뻗고 푹 쉴 수 있잖아. ","Audio/Dialogue/Character/DexInt/Event/SH_KillKaom.ogg"],["Shadow67","상갓집 농담만큼이나 시시해 빠졌군.","Audio/Dialogue/Character/DexInt/Event/SH_EnterLake.ogg"],["Shadow68","불쾌할 정도로 분노에 찬 곳이군.","Audio/Dialogue/Character/DexInt/Event/SH_EnterKaom.ogg"],["Templar1","내가 꾼 악몽들이... 전부 예언이었다니.","Audio/Dialogue/Character/StrInt/Event/Templar_01.ogg"],["Templar2","이 감옥에서는 사악한 이들이 철창을 긁어대며 내보내 달라고 아우성치지.","Audio/Dialogue/Character/StrInt/Event/Templar_02.ogg"],["Templar3","아버지의 눈을 피해 고아들을 매장하던 곳이군.","Audio/Dialogue/Character/StrInt/Event/Templar_03.ogg"],["Templar4","거짓 신성을 표방하며 유흥 거리를 만들던 자의 소굴이야.","Audio/Dialogue/Character/StrInt/Event/Templar_04.ogg"],["Templar5","주께서는 오른손에 생명을, 왼손에 죽음을 들고 계신다... 신의 손가락 사이로 빠져나간 자들도 존재하지.","Audio/Dialogue/Character/StrInt/Event/Templar_05.ogg"],["Templar6","이 제국에는 어떤 불멸의 존재가 남아있다. 어떻게 이럴 수가 있는 거지?","Audio/Dialogue/Character/StrInt/Event/Templar_06.ogg"],["Templar7","현실에 강림한 지옥에 이렇게 첫발을 내딛게 되었군.","Audio/Dialogue/Character/StrInt/Event/Templar_07.ogg"],["Templar8","이렇게 고통받는 땅에서는 망자도 안식을 찾지 못하겠어.","Audio/Dialogue/Character/StrInt/Event/Templar_08.ogg"],["Templar9","잠들어라, 고통받는 영혼이여.","Audio/Dialogue/Character/StrInt/Event/Templar_09.ogg"],["Templar10","한 여인이 인간의 모습을 벗어날 정도로 타락하다니. 신의 피조물이 모두 병들기 전에 이 전염병을 막아야겠어.","Audio/Dialogue/Character/StrInt/Event/Templar_10.ogg"],["Templar11","감히 무법자 주제에 평안을 논해? 그 허언 덕분에 네놈에게 평안을 가져다주게 되었군.","Audio/Dialogue/Character/StrInt/Event/Templar_11.ogg"],["Templar12","당신 같은 도적에겐 아무것도 줄 수 없어. 원한과 탐욕으로 낭비한 그 삶도 빼앗아주지.","Audio/Dialogue/Character/StrInt/Event/Templar_12.ogg"],["Templar13","신의 딸이여, 그대는 축복을 받을 거야. 주께서 진정한 친구란 무엇인지 알려주실 테니까.","Audio/Dialogue/Character/StrInt/Event/Templar_13.ogg"],["Templar14","원래 있던 자리로 돌아가거라, 악몽이여! 독실한 신자라면 당신 같은 부류를 두려워할 이유는 없다.","Audio/Dialogue/Character/StrInt/Event/Templar_14.ogg"],["Templar15","자네가 자초한 일일세, 오랜 친구여. 신이 나를 마지막 순간에 보낸 것뿐이야.","Audio/Dialogue/Character/StrInt/Event/Templar_15.ogg"],["Templar16","잠시나마 안식을 취하게나, 고통의 여제여. 심판이 자네에게 관대할 일은 없을 거야.","Audio/Dialogue/Character/StrInt/Event/Templar_16.ogg"],["Templar17","그대가 나를 추방한 건 창세기에 불과했네, 도미누스여. 머나먼 길과 수많은 살육을 거쳐 여기로 왔으니, 이제 나는 기꺼이 그대의 묵시록이 되어주겠다!","Audio/Dialogue/Character/StrInt/Event/Templar_17.ogg"],["Templar18","간청드립니다, 주님. 이 세상을 다시 빛으로 이끌게 도와주십시오.","Audio/Dialogue/Character/StrInt/Event/Templar_18.ogg"],["Templar19","마나가 바닥났어.","Audio/Dialogue/Character/StrInt/Gameplay/Templar_Com_01.ogg"],["Templar20","난 짐 들어주는 짐승이 아니야.","Audio/Dialogue/Character/StrInt/Gameplay/Templar_Com_02.ogg"],["Templar21","아, 훨씬 낫군.","Audio/Dialogue/Character/StrInt/Gameplay/Templar_Com_04.ogg"],["Templar22","신과 함께 가라!","Audio/Dialogue/Character/StrInt/Gameplay/Templar_Com_05.ogg"],["Templar23","이런 걸 사용하기에는 힘이 모자라.","Audio/Dialogue/Character/StrInt/Gameplay/Templar_Com_06.ogg"],["Templar24","지금 쓰기에는 난처한 물건이군.","Audio/Dialogue/Character/StrInt/Gameplay/Templar_Com_07.ogg"],["Templar25","이걸 사용하려면 발재간이 더 빨라야겠어.","Audio/Dialogue/Character/StrInt/Gameplay/Templar_Com_08.ogg"],["Templar26","부수면 안 될 것 같은데.","Audio/Dialogue/Character/StrInt/Gameplay/Templar_Com_09.ogg"],["Templar27","때와 장소를 가려야지.","Audio/Dialogue/Character/StrInt/Gameplay/Templar_Com_10.ogg"],["Templar28","아직은 신과 만날 때가 아닌 것 같군.","Audio/Dialogue/Character/StrInt/Gameplay/Templar_Level_01.ogg"],["Templar29","신께서 내 기도에 응답해주셨다.","Audio/Dialogue/Character/StrInt/Gameplay/Templar_Level_02.ogg"],["Templar30","피를 흘릴 때마다 목적지가 명확해지고 있어.","Audio/Dialogue/Character/StrInt/Gameplay/Templar_Level_03.ogg"],["Templar31","이 미천한 종이 감사를 올립니다, 주님.","Audio/Dialogue/Character/StrInt/Gameplay/Templar_Level_04.ogg"],["Templar32","빛의 주인이시여, 당신의 제게 필요한 것은 당신의 신뢰뿐입니다.","Audio/Dialogue/Character/StrInt/Gameplay/Templar_Level_05.ogg"],["Templar33","밤은 낮에 자리를 양보해야만 한다.","Audio/Dialogue/Character/StrInt/Gameplay/Templar_Level_06.ogg"],["Templar34","이번 임무를 완수하기 위해 이 땅에 태어났다. 나는 해낼 것이다.","Audio/Dialogue/Character/StrInt/Gameplay/Templar_Level_07.ogg"],["Templar35","신으로부터 도망칠수록 더 비참해지는 법일세, 페어그레이브즈.","Audio/Dialogue/Character/StrInt/Event/Tmpl_AfterFairgraves2.ogg"],["Templar36","이 강물로 나의 죄를 씻어내어 다시금 몸을 정화할 수 있기를.","Audio/Dialogue/Character/StrInt/Event/Tmpl_Aqueduct.ogg"],["Templar37","주님, 죄송합니다. 당신의 창조물을 남용하지 않아야 했거늘.","Audio/Dialogue/Character/StrInt/Event/Tmpl_DriedLake.ogg"],["Templar38","이 숲은... 매우 뒤틀려있어. 이 타락의 물결을 되돌리기에 너무 늦지 않았어야 할 텐데. ","Audio/Dialogue/Character/StrInt/Event/Tmpl_EnterAct2.ogg"],["Templar39","이건 창조가 아니야. 악용이지.","Audio/Dialogue/Character/StrInt/Event/Tmpl_EnterBelly.ogg"],["Templar40","하느님 맙소사, 이게 무슨 냄새야?","Audio/Dialogue/Character/StrInt/Event/Tmpl_EnterCanibalBay.ogg"],["Templar41","여기 신의 전당에서 오물을 몰아내리라.","Audio/Dialogue/Character/StrInt/Event/Tmpl_EnterCatacombs.ogg"],["Templar42","믿음으로 가득 찼던 곳이 신을 모독할 정도로 몰락했군.","Audio/Dialogue/Character/StrInt/Event/Tmpl_EnterFelShrine.ogg"],["Templar43","파이어티, 그대가 어째서? 조만간 진짜 목적을 드러내리라 확신하네. ","Audio/Dialogue/Character/StrInt/Event/Tmpl_EnterHarvest.ogg"],["Templar44","이곳 공기는 분노로 이글거리는군.","Audio/Dialogue/Character/StrInt/Event/Tmpl_EnterKaom.ogg"],["Templar45","땅이 심판이 두려운 나머지 떨고 있군그래.","Audio/Dialogue/Character/StrInt/Event/Tmpl_EnterMines1.ogg"],["Templar46","타락이 산의 근간을 좀먹고 있어.","Audio/Dialogue/Character/StrInt/Event/Tmpl_EnterMines2.ogg"],["Templar47","대재앙이 임박하여 지면이 동요하는군.","Audio/Dialogue/Character/StrInt/Event/Tmpl_EnterMines3.ogg"],["Templar48","템플러가 태동했던 사안이로군. 모든 것을 제자리로 돌려놓기에 적절한 곳이야.","Audio/Dialogue/Character/StrInt/Event/Tmpl_EnterSarn.ogg"],["Templar49","신의 은총을 기리기 위해 돌을 올려놓다니. 아름답도다!","Audio/Dialogue/Character/StrInt/Event/Tmpl_EnterScepter.ogg"],["Templar50","자네만큼이나 고통받는 영혼은 없어야 하네, 데쉬렛.","Audio/Dialogue/Character/StrInt/Event/Tmpl_FreeDeshret.ogg"],["Templar51","영웅이 숨을 거두면 삶에서 찾은 것보다 더 큰 영광을 누리는 법이다.","Audio/Dialogue/Character/StrInt/Event/Tmpl_KillDaresso.ogg"],["Templar52","죽음을 받아들여라, 도이드리. 그대의 육체를 파멸시킨 건 바로 그대 자신이다.","Audio/Dialogue/Character/StrInt/Event/Tmpl_KillDoedre.ogg"],["Templar53","그 아무리 고결한 자라도 탐욕 때문에 변할 수 있구나. 나도 조심해야겠군.","Audio/Dialogue/Character/StrInt/Event/Tmpl_KillFairgraves.ogg"],["Templar54","자네는 지옥으로 가는 길을 택했어, 카옴. 다른 길을 찾게나.","Audio/Dialogue/Character/StrInt/Event/Tmpl_KillKaom.ogg"],["Templar55","그대는 평생 죽음과 맞서 싸웠군, 말라카이. 허나, 죽음만이 진정한 불멸을 가져다줄 수단일세.","Audio/Dialogue/Character/StrInt/Event/Tmpl_KillMalachai.ogg"],["Templar56","신이 선사한 재능을 낭비했군, 말리가로.","Audio/Dialogue/Character/StrInt/Event/Tmpl_KillMaligaro.ogg"],["Templar57","그럴 필요 없네, 파이어티. 그대가 직접 가서 확인해보게나.","Audio/Dialogue/Character/StrInt/Event/Tmpl_KillPiety.ogg"],["Templar58","허영심에 스스로 갇히고 말았군, 샤브론.","Audio/Dialogue/Character/StrInt/Event/Tmpl_KillShav.ogg"],["Templar59","이제 넌 자유다, 볼. 신과 함께하라.","Audio/Dialogue/Character/StrInt/Event/Tmpl_KillVoll.ogg"],["Templar60","신과 함께 가라!","Audio/Dialogue/Character/StrInt/Gameplay/Tmpl_KillRare_01.ogg"],["Templar61","신과 함께 가라!","Audio/Dialogue/Character/StrInt/Gameplay/Tmpl_KillRare_02.ogg"],["Templar62","씬에게 죽음을!","Audio/Dialogue/Character/StrInt/Gameplay/Tmpl_KillRare_03.ogg"],["Templar63","씬에게 죽음을!","Audio/Dialogue/Character/StrInt/Gameplay/Tmpl_KillRare_04.ogg"],["Templar64","정화는 계속된다!","Audio/Dialogue/Character/StrInt/Gameplay/Tmpl_KillRare_05.ogg"],["Templar65","정화는 계속된다!","Audio/Dialogue/Character/StrInt/Gameplay/Tmpl_KillRare_06.ogg"],["Templar66","타락한 자는 몰락하리라!","Audio/Dialogue/Character/StrInt/Gameplay/Tmpl_KillRare_07.ogg"],["Templar67","타락한 자는 몰락하리라!","Audio/Dialogue/Character/StrInt/Gameplay/Tmpl_KillRare_08.ogg"],["Templar68","지옥으로 같이 데려가주마!","Audio/Dialogue/Character/StrInt/Gameplay/Tmpl_KillRare_09.ogg"],["Templar69","지옥으로 같이 데려가주마!","Audio/Dialogue/Character/StrInt/Gameplay/Tmpl_KillRare_10.ogg"],["Templar70","의지를 가다듬을 시간이 필요해","Audio/Dialogue/Character/StrInt/Gameplay/Tmpl_SkillonCool.ogg"],["Scion1","그냥 우리를 처형하고 일을 끝맺는 게 어때, 도미누스?","Audio/Dialogue/Character/StrDexInt/Event/Sc_01_GetUp.ogg"],["Scion2","소문이 사실이었어... 레이클라스트에 죽은 자들이 돌아다니다니.","Audio/Dialogue/Character/StrDexInt/Event/Sc_02_KillZombie.ogg"],["Scion3","아직 너와 저승길 동무가 될 생각은 없어.","Audio/Dialogue/Character/StrDexInt/Event/Sc_03_KillHillock.ogg"],["Scion4","간단한 결정을 내려야 할 때야. 죽이거나... 아니면 먹히거나.","Audio/Dialogue/Character/StrDexInt/Event/Sc_04_EnterCannibalBay.ogg"],["Scion5","오리아스이나 액시옴이나 결국 감옥인 건 매한가지야.","Audio/Dialogue/Character/StrDexInt/Event/Sc_05_EnterPrison.ogg"],["Scion6","당신을 보니 우리 전남편이 생각나네.","Audio/Dialogue/Character/StrDexInt/Event/Sc_06_KillBrutus.ogg"],["Scion7","삶과 죽음의 경계가 무너져내리고 있어.","Audio/Dialogue/Character/StrDexInt/Event/Sc_07_EnterShipGraveyard.ogg"],["Scion8","상륙 기간은 끝났어, 선장님.","Audio/Dialogue/Character/StrDexInt/Event/Sc_08_KillFairgraves.ogg"],["Scion9","어째서 인간은 우리를 괴물로 만드는 거지?","Audio/Dialogue/Character/StrDexInt/Event/Sc_09_KillMerveil.ogg"],["Scion10","미개한 것들이 주변에 가득하네.","Audio/Dialogue/Character/StrDexInt/Event/Sc_10_EnterSouthForest.ogg"],["Scion11","이곳 사람들은 자기 마음의 소리를 들어봐야 했어. 이미 다른 이에게 마음을 빼앗겼던 거야.","Audio/Dialogue/Character/StrDexInt/Event/Sc_11_EnterCOS.ogg"],["Scion12","이 잔혹한 실험을 중단할 사람이 아무도 없었다니.","Audio/Dialogue/Character/StrDexInt/Event/Sc_12_KillFidelitas.ogg"],["Scion13","세상이 이렇게나 망가졌는데, 당신네는 상황을 더 악화시키려고 하는군.","Audio/Dialogue/Character/StrDexInt/Event/Sc_13_KillKraityn.ogg"],["Scion14","당신은 우리 여성의 수치야.","Audio/Dialogue/Character/StrDexInt/Event/Sc_14_KillAlira.ogg"],["Scion15","이게 바로 진짜 평화야, 오크. 레이클라스트의 모든 이가 반길 만한 평화라고.","Audio/Dialogue/Character/StrDexInt/Event/Sc_15_KillOak.ogg"],["Scion16","맙소사, 안 돼! 원래대로 돌려놓을 방법이 있는지 찾아봐야겠어.","Audio/Dialogue/Character/StrDexInt/Event/Sc_16_ReleaseDarkness.ogg"],["Scion17","인생을 살면서 적어도 몸가짐은 단정하게 해야겠지.","Audio/Dialogue/Character/StrDexInt/Event/Sc_17_KillVaalOversoul.ogg"],["Scion18","황제는 사안을 통치하다가... 죽었어. 모두와 마찬가지였지.","Audio/Dialogue/Character/StrDexInt/Event/Sc_18_EnterSarn.ogg"],["Scion19","사람은 세상에 남긴 찌꺼기로만 기억되는 거야.","Audio/Dialogue/Character/StrDexInt/Event/Sc_19_EnterSewer.ogg"],["Scion20","레이클라스트를 사람들의 의지대로 흘러가게 놔둔다면 이런 결과를 초래하겠지.","Audio/Dialogue/Character/StrDexInt/Event/Sc_20_SeenUndyingSphincter.ogg"],["Scion21","레이클라스트에서는 세월마저 뜻을 잃는구나.","Audio/Dialogue/Character/StrDexInt/Event/Sc_21_EnterSolaris.ogg"],["Scion22","당신 같은 사람이 레이클라스트를 차지해선 안 돼.","Audio/Dialogue/Character/StrDexInt/Event/Sc_22_KillGravicius.ogg"],["Scion23","이러한 악행을 저지를 만한 사람은 한명 뿐이야. 파이어티지.","Audio/Dialogue/Character/StrDexInt/Event/Sc_23_EnterLunaris.ogg"],["Scion24","당신이 한 짓을 생각하면 천번은 죽이고 싶을 정도야.","Audio/Dialogue/Character/StrDexInt/Event/Sc_24_KillPiety.ogg"],["Scion25","이 탑이 사실을 대변하고 있어. 영원한 제국은 교만함으로 멸망한 거야.","Audio/Dialogue/Character/StrDexInt/Event/Sc_25_EnterSceptre.ogg"],["Scion26","내가 지금 서 있는 곳의 풍경이 더 아름다워, 도미누스.","Audio/Dialogue/Character/StrDexInt/Event/Sc_26_KillDominus.ogg"],["Scion27","지금 죽은 건 꼭두각시야. 이제 인형의 실을 따라서 주인을 찾아가야겠지. ","Audio/Dialogue/Character/StrDexInt/Event/Sc_27_EnterAqueduct.ogg"],["Scion28","제국은 대재앙이 일어날 필요도 없었어. 스스로 멸망을 초래했으니까.","Audio/Dialogue/Character/StrDexInt/Event/Sc_28_EnterDriedLake.ogg"],["Scion29","씬은 악몽이 스며 나오는 틈새의 역할을 하고 있어. 당신의 씬은 뭐지, 볼? 자만심?","Audio/Dialogue/Character/StrDexInt/Event/Sc_29_KillVoll.ogg"],["Scion30","짐승이 내가 온 걸 눈치챘나 봐.","Audio/Dialogue/Character/StrDexInt/Event/Sc_30_EnterMines1.ogg"],["Scion31","그래, 짐승이여. 마음껏 두려워해라.","Audio/Dialogue/Character/StrDexInt/Event/Sc_31_EnterMines2.ogg"],["Scion32","당신은 악몽의 사슬을 처음으로 벗어던진 사람 중 한 명이 될 거야, 데쉬렛.","Audio/Dialogue/Character/StrDexInt/Event/Sc_32_FreeDeshret.ogg"],["Scion33","짐승이여, 네가 두려워할수록 내 의지는 더욱 확실해진다.","Audio/Dialogue/Character/StrDexInt/Event/Sc_33_EnterMines3.ogg"],["Scion34","사정이 딱하게 되었군, 노예여.","Audio/Dialogue/Character/StrDexInt/Event/Sc_34_KillBarkhul.ogg"],["Scion35","사랑 때문에 스스로 칼날을 맞은 격이군, 검의 제왕이여.","Audio/Dialogue/Character/StrDexInt/Event/Sc_35_KillDaresso.ogg"],["Scion36","나는 카옴의 고통받는 마음을 이해한다.","Audio/Dialogue/Character/StrDexInt/Event/Sc_36_EnterKaomRealm.ogg"],["Scion37","선조들에게 할 말을 남겨두어라, 카옴. 그래야 할 거야.","Audio/Dialogue/Character/StrDexInt/Event/Sc_37_KillKaom.ogg"],["Scion38","악몽이 현실이 되었군.","Audio/Dialogue/Character/StrDexInt/Event/Sc_38_EnterBelly.ogg"],["Scion39","살점과 생명력이 한데 얽히다니... 대단하면서도 끔찍해.","Audio/Dialogue/Character/StrDexInt/Event/Sc_39_EnterHarvest.ogg"],["Scion40","미안해, 말리가로. 난 예술에 관해서는 깐깐하거든.","Audio/Dialogue/Character/StrDexInt/Event/Sc_40_KillMaligaro.ogg"],["Scion41","세상 사람들은 네 기준의 아름다움을 원하지 않아, 샤브론.","Audio/Dialogue/Character/StrDexInt/Event/Sc_41_KillShav.ogg"],["Scion42","네 주린 배를 채우려면 이럴 수밖에 없었어, 도이드리.","Audio/Dialogue/Character/StrDexInt/Event/Sc_42_KillDoedre.ogg"],["Scion43","나에게 맞는 해결책은 한 가지뿐이야, 파이어티. 짐승을 죽여야 해. ","Audio/Dialogue/Character/StrDexInt/Event/Sc_43_PietyDies.ogg"],["Scion44","불쌍한 말라카이. 삼 백년 동안 죽음과 맞서는 동안 살아남는 데 시간을 할애한 적은 한 번도 없구나.","Audio/Dialogue/Character/StrDexInt/Event/Sc_44_KillMalachai.ogg"],["Scion45","서로 다른 세상에서 살아가던 우리가 유배 덕분에 만나게 되었군요.\r\n\r\n오리아스에서는 절 기적의 아이라며 찬양했지만, 그런 칭호 따위는 아무 쓸모도 없어요. 천재나 유배자, 괴물, 영웅 따위의 칭호로는... 당신조차 정의할 수 없으니 말이에요. 레이클라스트는 무엇을 행하는지로 자신을 내보이는 곳이잖아요.\r\n\r\n고마워요. 당신 덕분에 뭐가 중요한지 깨달았어요. 그건 자신이 시작한 일을 마무리지을 수 있는 자유였어요.","Audio/Dialogue/Character/StrDexInt/Event/Sc_45_FreedomSpeech.ogg"],["Scion46","잠시라도 좋으니 좀 쉬면 안 될까?","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Cooldown_01.ogg"],["Scion47","잠시라도 좋으니 좀 쉬면 안 될까?","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Cooldown_02.ogg"],["Scion48","내가 이걸 쓰기에는 솜씨가 부족해.","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Dex_01.ogg"],["Scion49","내가 이걸 쓰기에는 솜씨가 부족해.","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Dex_02.ogg"],["Scion50","아... 훨씬 나아졌어.","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Health_01.ogg"],["Scion51","아... 훨씬 나아졌어.","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Health_02.ogg"],["Scion52","그걸 어떻게 사용하는지 전혀 모르겠는데.","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Int_01.ogg"],["Scion53","그걸 어떻게 사용하는지 전혀 모르겠는데.","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Int_02.ogg"],["Scion54","짐이 너무 많아.","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Inventory_01.ogg"],["Scion55","짐이 너무 많아.","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Inventory_02.ogg"],["Scion56","이젠 발휘할 힘이 없어.","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Mana_01.ogg"],["Scion57","이젠 발휘할 힘이 없어.","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Mana_02.ogg"],["Scion58","조만간 그게 필요할 거야.","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Questitem_01.ogg"],["Scion59","조만간 그게 필요할 거야.","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Questitem_02.ogg"],["Scion60","죽음으로 자비를 베풀어주마.","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_RareKill_01.ogg"],["Scion61","죽음으로 자비를 베풀어주마.","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_RareKill_02.ogg"],["Scion62","잠들어라, 작은 악몽이여.","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_RareKill_03.ogg"],["Scion63","잠들어라, 작은 악몽이여.","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_RareKill_04.ogg"],["Scion64","부디 계속 잠들어있기를.","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_RareKill_05.ogg"],["Scion65","부디 계속 잠들어있기를.","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_RareKill_06.ogg"],["Scion66","이상할 정도로 기분이 좋네.","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_RareKill_07.ogg"],["Scion67","이상할 정도로 기분이 좋네.","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_RareKill_08.ogg"],["Scion68","네 고통을 끝내주마.","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_RareKill_09.ogg"],["Scion69","네 고통을 끝내주마.","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_RareKill_10.ogg"],["Scion70","때와 장소에 맞지 않아.","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_SkillsTown_01.ogg"],["Scion71","때와 장소에 맞지 않아.","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_SkillsTown_02.ogg"],["Scion72","나에게는 너무 육중한 물건이야.","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Str_01.ogg"],["Scion73","나에게는 너무 육중한 물건이야.","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Str_02.ogg"],["Scion74","추방이라는 가르침을 언제나 빠르게 습득하는 중이야.","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_47_LevelUp_01.ogg"],["Scion75","묘지에서도 생명은 자라난다.","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_47_LevelUp_02.ogg"],["Scion76","배우고, 죽이며, 살아남아야지.","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_47_LevelUp_03.ogg"],["Scion77","신동이라는 별명을 그냥 받아들일까 봐.","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_47_LevelUp_04.ogg"],["Scion78","힘은 타락하고, 타락은 힘을 얻는 법이야.","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_47_LevelUp_05.ogg"],["Scion79","명예를 얻어도 레이클라스트에선 안주할 수 없어.","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_47_LevelUp_06.ogg"],["Scion80","나는 걸어다니는 악몽이 되었구나.","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_47_LevelUp_07.ogg"],["Jack1","참으로 아름다운 고깃덩이구나!","Audio/Dialogue/NPC/JackTheAxeArea/JTA_Approach_Piety_01.ogg"],["Jack2","여기서 강대한 힘이 느껴진다. 양껏 먹으러 가야겠어!","Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Abyss_01.ogg"],["Jack3","여기에 강한 놈이 있어. 집어삼키러 가자!","Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Apex_01.ogg"],["Jack4","먹을 게 많구나.","Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Barracks_01.ogg"],["Jack5","신선한 고기를 썰어보자!","Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Belly_01.ogg"],["Jack6","살을 자르고 뼈를 부숴라!","Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_DriedLake_01.ogg"],["Jack7","고통받는 자가 있군. 삶을 면해주자고.","Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Dungeon_01.ogg"],["Jack8","큰 짐승이라... 뜯을 살점이 많겠어.","Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Grotto_01.ogg"],["Jack9","거미 떼가 있잖아... 난 거미가 싫어.","Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Jungle_01.ogg"],["Jack10","길이 여러 개라면 짐승도 많겠지. 재밌게 놀아보자고!","Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Labyrinth_01.ogg"],["Jack11","죽음 말고는 아무것도 없는 곳이군.","Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Lunaris3_01.ogg"],["Jack12","여기는... 오래전에 온 적 있는 장소야.","Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Maelstrom_01.ogg"],["Jack13","살을 발라내. 다 발라내 버려!","Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Mines_01.ogg"],["Jack14","더러운 로아 녀석들. 다 죽여버리자!","Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_MudGeyser_01.ogg"],["Jack15","사안이군... 내 고향이야.","Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Sarn_01.ogg"],["Jack16","고통이 가득한 곳이군. 마음에 들어.","Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Sceptre_01.ogg"],["Jack17","윽. 거미잖아.","Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_SpiderForest_01.ogg"],["Jack18","여기는 정말로... 공포투성이군.","Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Vaal_01.ogg"],["Jack19","여기엔 먹고 싶은 게 없어. 나가자.","Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Vaults_01.ogg"],["Jack20","","Audio/Dialogue/NPC/JackTheAxe/JTA_Attack_01.ogg"],["Jack21","","Audio/Dialogue/NPC/JackTheAxe/JTA_Attack_02.ogg"],["Jack22","","Audio/Dialogue/NPC/JackTheAxe/JTA_Attack_03.ogg"],["Jack23","","Audio/Dialogue/NPC/JackTheAxe/JTA_Attack_04.ogg"],["Jack24","","Audio/Dialogue/NPC/JackTheAxe/JTA_Attack_05.ogg"],["Jack25","","Audio/Dialogue/NPC/JackTheAxe/JTA_Attack_06.ogg"],["Jack26","","Audio/Dialogue/NPC/JackTheAxe/JTA_Attack_07.ogg"],["Jack27","","Audio/Dialogue/NPC/JackTheAxe/JTA_Attack_08.ogg"],["Jack28","","Audio/Dialogue/NPC/JackTheAxe/JTA_Idle_01.ogg"],["Jack29","","Audio/Dialogue/NPC/JackTheAxe/JTA_Idle_02.ogg"],["Jack30","","Audio/Dialogue/NPC/JackTheAxe/JTA_Idle_03.ogg"],["Jack31","","Audio/Dialogue/NPC/JackTheAxe/JTA_Idle_04.ogg"],["Jack32","","Audio/Dialogue/NPC/JackTheAxe/JTA_PVP_01.ogg"],["Jack33","","Audio/Dialogue/NPC/JackTheAxe/JTA_PVP_02.ogg"],["Goddess1 ","뭐? 내가 자유라고? 당신이 풀어준 거야? 뭐가 되었든 저곳에 갇혀있는 것보다는 낫겠지. 힐록의 갈증은 내 단순한 욕망에도 미치지 못하더라고. 이젠 당신이면 돼. 기운과 반항심이 넘치니까... 날 데려가 줘. 세상이 망해서 불쏘시개처럼 되어버렸지만, 멈췄던 피가 다시 끓어오를 여지는 있어... 오랫동안 제대로 된 목욕을 하지 못하기도 했고.","Audio/Dialogue/Goddess_Unleashed/GS_A1_01.ogg"],["Goddess2 ","거짓 신은 진실한 여신에게 상대가 안 돼.","Audio/Dialogue/Goddess_Unleashed/GS_A1_02.ogg"],["Goddess3 ","흠. 마지막이 꽤 성대하네. 거울 앞에서 연습이라도 했나 봐. 다시 볼 수 있다면 좋겠어.","Audio/Dialogue/Goddess_Unleashed/GS_A1_04.ogg"],["Goddess4 ","수용소에 그냥 취직했다는 사람 만큼이나 그곳에 동화된 사람은 없지.","Audio/Dialogue/Goddess_Unleashed/GS_A1_03.ogg"],["Goddess5 ","또 저 여자군. 우리의 복수자가 되고 싶어서 안달인 모양이야...","Audio/Dialogue/Goddess_Unleashed/GS_A1_05.ogg"],["Goddess6 ","올플레임은 티끌만 한 욕망만큼이나 덧없는 것이구나. 내 욕망은 꺼지지 않는 불같은데.","Audio/Dialogue/Goddess_Unleashed/GS_A1_06.ogg"],["Goddess7 ","사랑의 참 얼굴이라니? 사랑이 뭔지 자기만 알고 있다고 생각하네. 그건 틀린 거라고.","Audio/Dialogue/Goddess_Unleashed/GS_A1_07.ogg"],["Goddess8 ","저 여자가 그냥 말 한 번 쏘아붙인 다음 도망치려고 우릴 기다리나?","Audio/Dialogue/Goddess_Unleashed/GS_A2_01.ogg"],["Goddess9 ","우리가 죽인 사람이 파이어티의 연인이라고? 아니, 생전에 어떤 사람이었든 간에 다른 별명이 필요할 것 같아.","Audio/Dialogue/Goddess_Unleashed/GS_A2_02.ogg"],["Goddess10","안타까운 말괄량이 소녀였군. 추종자들이 자살한 이유가 있어.","Audio/Dialogue/Goddess_Unleashed/GS_A2_03.ogg"],["Goddess11","현란하게 칼을 이리저리 휘둘러 봤자, 말을 똑 부러지게 하는 불타는 마법의 검 하나면 돼.","Audio/Dialogue/Goddess_Unleashed/GS_A2_04.ogg"],["Goddess12","검으로 싸우는 자리에 막대기를 가져오면 그렇게 되는 거야.","Audio/Dialogue/Goddess_Unleashed/GS_A2_05.ogg"],["Goddess13","아주 간덩이가 배 바깥으로 나올 정도로 대담하구나, 그렇지?","Audio/Dialogue/Goddess_Unleashed/GS_A2_06.ogg"],["Goddess14","저런 쓰레기를 짓는 데 세월을 허비하다니, 위대한 문명이 멸망하는 건 다 이유가 있어.","Audio/Dialogue/Goddess_Unleashed/GS_A2_07.ogg"],["Goddess15","이번에는 우릴 기다려주지 않았어. 우리가 너무 늦은 거야. 시시한 술래잡기는 이제 끝내자. 저 여자가 불타는 걸 직접 느끼고 싶다고.","Audio/Dialogue/Goddess_Unleashed/GS_A3_01.ogg"],["Goddess16","저리 비켜, 애송아. 우린 마녀를 사냥해야 한다고. 그런 다음 불태워야지. 불태우고말고.","Audio/Dialogue/Goddess_Unleashed/GS_A3_02.ogg"],["Goddess17","덩치들 뒤로 얼마든지 숨어 봐, 파이어티. 아무 소용 없어. 우리가 잡으러 갈 테니까.","Audio/Dialogue/Goddess_Unleashed/GS_A3_03.ogg"],["Goddess18","타락했다니? 실성했다고? 아니야. 이 녀석은 비니아야. 자신이 파이어티인 걸 증명하려고 안달인 인간이지. 싸구려 포악함을 이용하여 변장하는 조그만 여자란 말이야.","Audio/Dialogue/Goddess_Unleashed/GS_A3_04.ogg"],["Goddess19","이때다! 내 화염에 타죽어라, 죽으란 말이야! ...잠깐, 시체가 어디 갔지? 또 도망친 거야?! 아악!","Audio/Dialogue/Goddess_Unleashed/GS_A3_05.ogg"],["Goddess20","그냥 여신의 손길을 대신 이용하는 게 나았을 거야.","Audio/Dialogue/Goddess_Unleashed/GS_A3_06.ogg"],["Goddess21","흠. 내가 기대하던 목욕은 아니네. 물이 깨끗해 보이기는 하지만... 그렇게 보이는 물이야 많지.","Audio/Dialogue/Goddess_Unleashed/GS_A4_01.ogg"],["Goddess22","디알라의 음악에 맞춰 춤추지 말아야겠어... 그런데 파이어티의 영향력은 어떻게 되었지? 우리의 관심이 흐지부지되었군","Audio/Dialogue/Goddess_Unleashed/GS_A4_02.ogg"],["Goddess23","내가 화형으로 몰아넣은 황제 중 처음은 아니야. 내 밑에 있는 자였다고.","Audio/Dialogue/Goddess_Unleashed/GS_A4_03.ogg"],["Goddess24","검의 제왕이라고? 검의 여신의 맛 좀 봐라, 이 애정 결핍 꼬마 녀석!","Audio/Dialogue/Goddess_Unleashed/GS_A4_04.ogg"],["Goddess25","화나서 빨갛게 달아올랐구나! 빨간색이 불꽃에서 가장 약한 부분이라는 걸 몰랐던 모양이네.","Audio/Dialogue/Goddess_Unleashed/GS_A4_05.ogg"],["Goddess26","살아있는 존재는 피를 흘리지. 피를 흘린다면 심장이 있을 테고. 심장을 찾아서 불살라주마.","Audio/Dialogue/Goddess_Unleashed/GS_A4_06.ogg"],["Goddess27","도미누스 다음은 말라카이인가. 그 어떤 짐승이나 인간을 불러봤자 네가 남자의 도구라는 건 변하지 않아, 비니아.","Audio/Dialogue/Goddess_Unleashed/GS_A4_07.ogg"],["Goddess28","파이어티가 우리 편이 된다고? 내 곁으로 와봤자 처형 대상이라는 건 변하지 않아.","Audio/Dialogue/Goddess_Unleashed/GS_A4_08.ogg"],["Goddess29","마음껏 화염을 저주해도 좋아, 다크텅. 결국 불에 타게 될 거니까.","Audio/Dialogue/Goddess_Unleashed/GS_A4_09.ogg"],["Goddess30","예술이 뭐가 대수라고. 정말 실력을 따지는 게 뭔지 알아? 요리야.","Audio/Dialogue/Goddess_Unleashed/GS_A4_10.ogg"],["Goddess31","브루투스를 만든 게 저 녀석이구나... 이제 이해가 되네.","Audio/Dialogue/Goddess_Unleashed/GS_A4_11.ogg"],["Goddess32","내장을 정통으로 찌르는 거야. 비명. 관통상. 경련. 이게 진짜 죽음이라고!","Audio/Dialogue/Goddess_Unleashed/GS_A4_12.ogg"],["Goddess33","심장을 불사른다는 게 이런 뜻은 아니었... 뭐, 이거면 충분해. 이제 다시 목욕탕을 찾으러 가자.","Audio/Dialogue/Goddess_Unleashed/GS_A4_13.ogg"],["Goddess34","저 은밀한 등장을 눈치챈 사람은 분명 아무도 없을 거야.","Audio/Dialogue/Goddess_Unleashed/GS_A5_01.ogg"],["Goddess35","폐. 창자. 심장. 거기에다 눈까지. 사람을 가루가 되도록 난도질하고 가던 풍습이 언제부터 사라진 거야?","Audio/Dialogue/Goddess_Unleashed/GS_A5_02.ogg"],["Goddess36","먼저 교회를 세우는 거야. 엉성한 주장이 곧 법이 되겠지. 믿음을 강제로 주입할 거고. 종교 시설이 재판장이 되는 꼴이야. 이래서 체계적인 종교가 싫어.","Audio/Dialogue/Goddess_Unleashed/GS_A5_03.ogg"],["Goddess37","방금 그게 신의 진짜 모습일까, 유배자여? ...아니야. 그저 허세 가득하게 '내가 신이다'라고 하는 메아리겠지. ","Audio/Dialogue/Goddess_Unleashed/GS_A5_04.ogg"],["Goddess38","우리가 이런 천벌 받을 짓을 한 게 분명해. 예전보다는 나아졌다고 봐야겠지.","Audio/Dialogue/Goddess_Unleashed/GS_A5_05.ogg"],["Goddess39","복수한다고? 우리한테? 우리가 없었다면 한낱 답 없는 노예였을 놈이 무슨. 배은망덕하기는.","Audio/Dialogue/Goddess_Unleashed/GS_A5_06.ogg"],["Goddess40","여태까지 잘 지내던 사람이 왜...","Audio/Dialogue/Goddess_Unleashed/GS_A5_07.ogg"],["Goddess41","마음에 안 드는 곳이야. 음식 맛이 끔찍한 데다가 냄새가 아주... 하여튼 마음에 안 들어.","Audio/Dialogue/Goddess_Unleashed/GS_A6_01.ogg"],["Goddess42","모든 만신전에는 전쟁의 신과 사랑의 여신이 있지. 네가 보기엔 어느 쪽이 최고인 것 같아?","Audio/Dialogue/Goddess_Unleashed/GS_A6_02.ogg"],["Goddess43","불장난하면 뿔 난다!...아니면 뿔 비슷한 거라도.","Audio/Dialogue/Goddess_Unleashed/GS_A6_03.ogg"],["Goddess44","아, 샤브론. 정말 모르니? 두 연인이 하나가 되면 그때부터 계속 내리막길이야... 고맙다는 말은 됐어.","Audio/Dialogue/Goddess_Unleashed/GS_A6_04.ogg"],["Goddess45","저런 무서운 자가 소름 끼칠 정도로 풍족하게 살고, 다른 이들은 아무것도 없는 팔을 베고 스스로 자장가를 부르는 이 불공평한 상황은 무어란 말인가.","Audio/Dialogue/Goddess_Unleashed/GS_A6_05.ogg"],["Goddess46","사람에게는 누구나 마음에 끌리는 불꽃이 하나쯤은 있지. 망자에게도 다를 바 없는 모양이군.","Audio/Dialogue/Goddess_Unleashed/GS_A6_06.ogg"],["Goddess47","구운 염소고기 다음은 삶은 게가 나오네. 신이 이렇게 맛있을 줄 누가 알았겠어?","Audio/Dialogue/Goddess_Unleashed/GS_A6_07.ogg"],["Goddess48","우리의 단출한 여정 동안 야수의 뱃속은 한 번만 들어갈 줄 알았단 말이지.","Audio/Dialogue/Goddess_Unleashed/GS_A7_01.ogg"],["Goddess49","자신만의 낙원을 만드는 데 모든 걸 바친 사람이 이런 짓을 할 줄이야. 정말로 분노에 찬 청년이었군.","Audio/Dialogue/Goddess_Unleashed/GS_A7_02.ogg"],["Goddess50","남을 바꾸는 건 사랑이 아니야, 말리가로. 자신을 바꿔야지. 나를 쥐었던 자들은 모두 언젠가 깨닫는 사실이라고.","Audio/Dialogue/Goddess_Unleashed/GS_A7_03.ogg"],["Goddess51","오랜 친구들과 다시 만나면 항상 기분이 좋아... 그러다가 기분이 상하지. 그 후에는 완전히 파탄 나는 거고.","Audio/Dialogue/Goddess_Unleashed/GS_A7_04.ogg"],["Goddess52","늙은 어미 곰이 불쌍하군. 우리가 한 행동이 자랑스럽지는 않아.","Audio/Dialogue/Goddess_Unleashed/GS_A7_05.ogg"],["Goddess53","불의 유용함을 알고 있는 여자가 떠났군.","Audio/Dialogue/Goddess_Unleashed/GS_A7_06.ogg"],["Goddess54","이제 거대 거미를 볼 일이 없다면 정말 좋을 텐데. 내가 농담하는 것처럼 보여? 여기는 레이클라스트라고.","Audio/Dialogue/Goddess_Unleashed/GS_A7_07.ogg"],["Goddess55","진짜 목욕을 하고 싶다고 했지, 이런 걸 바라지는 않았다고.","Audio/Dialogue/Goddess_Unleashed/GS_A8_01.ogg"],["Goddess56","'죽는 날까지 사랑한다'는 말이 나온 이유가 있구나.","Audio/Dialogue/Goddess_Unleashed/GS_A8_02.ogg"],["Goddess57","진짜 목욕탕이라고? 정말이야? 내 칼날 맛을 본 적이 없나 보네.","Audio/Dialogue/Goddess_Unleashed/GS_A8_03.ogg"],["Goddess58","칼날보다 그림자가 또렷하게 비치는 것은 없어. ","Audio/Dialogue/Goddess_Unleashed/GS_A8_04.ogg"],["Goddess59","이교도 여인을 없애니 놀라울 정도로 주변이 거룩해지는군. 정말 대단해.","Audio/Dialogue/Goddess_Unleashed/GS_A8_05.ogg"],["Goddess60","월식은 오래가지 못해서 안타깝지. 그래도 그 순간만큼은 정말 아름답잖아.","Audio/Dialogue/Goddess_Unleashed/GS_A8_06A.ogg"],["Goddess61","윽, 내가 닿아도 저 찌꺼기가 익을 것 같지는 않아. 날 미지근한 진창에 빠뜨릴 생각은 하지 마.","Audio/Dialogue/Goddess_Unleashed/GS_A9_01.ogg"],["Goddess62","흠. 이름만 봐서는 이것보다 클 줄 알았는데.","Audio/Dialogue/Goddess_Unleashed/GS_A9_02.ogg"],["Goddess63","거미보다 싫은 걸 하나 대라고 하면 전갈을 꼽을 거야. 뾰족한 가시와 발톱이 달린 거미 같단 말이야. 맛이 별로 좋은 것도 아니잖아.","Audio/Dialogue/Goddess_Unleashed/GS_A9_03.ogg"],["Goddess64","널 받아주는 곳으로 가라, 키라. 이곳이 아니라는 건 확실하거든.","Audio/Dialogue/Goddess_Unleashed/GS_A9_04.ogg"],["Goddess65","정말 사소한 싸움이군. 신들은 야수의 나른한 품속에서 고작 이런 일만 일어나리라 예상한 건가?","Audio/Dialogue/Goddess_Unleashed/GS_A9_05.ogg"],["Goddess66","번개라. 풋. 지옥불의 아름다움을 초기에 선도한 자보다 약간 나은 정도군.","Audio/Dialogue/Goddess_Unleashed/GS_A9_06.ogg"],["Goddess67","야수를 다시 만나다니 너무 슬프네. 너무 건조하고 쪼그라들어서... 태우기 너무 좋은걸.","Audio/Dialogue/Goddess_Unleashed/GS_A9_07.ogg"],["Goddess68","애송이에다가, 실패작인 동시에, 골치 아픈 한낱 꼬맹이 세 마리군. 삼부작을 좋아하긴 하지만... 이 녀석들은 맛이 갔어.","Audio/Dialogue/Goddess_Unleashed/GS_A9_08.ogg"],["Goddess69","키타바가 시체에서 부활하길 반쯤 바라고 있었어. 이 세계에는 영구적으로 부활하는 존재가 많아서 마음에 든다니까.","Audio/Dialogue/Goddess_Unleashed/GS_A10_01.ogg"],["Goddess70","우리는 그녀의 주인을 죽였어. 그 주인의 주인도 죽였지. 그 주인의 주인의 신도 마찬가지로 죽였고. 이 모든 걸 알고 있었는데도 우리와 같은 편이 되려고 들어? 내 생각보다 똑똑하지 않은 모양이군. 안타까워.","Audio/Dialogue/Goddess_Unleashed/GS_A10_02.ogg"],["Goddess71","목적지에 거의 다 온 모양이야. 주변의 모든 게 엄청나게 붉어.","Audio/Dialogue/Goddess_Unleashed/GS_A10_03.ogg"],["Goddess72","채울 수 없는 배고픔을 타개하려면 배고픈 자를 죽이는 게 가장 좋은 방법인가 보군. 레이클라스트다운 해결책이야. 내가 하고 싶은 말은 따로 있어. 나는 목욕을 원했건만 그대는 나를 속이 시커먼 군단, 멸망한 제국, 되살아난 신의 피로 달궈진 강물에 담갔지. 충분하고도 남을 정도더군. 견딜 수 없을 때까지 나와 불사른 다음에... 더 불사르자고, 내 사랑.","Audio/Dialogue/Goddess_Unleashed/GS_A10_04.ogg"],["Goddess73","정의의 여신의 눈이 가려져 있다고 해도, 그 추종자의 귀가 안 들리는 건 아니라고. 저자는 도통 입을 다물지 않는군.","Audio/Dialogue/Goddess_Unleashed/GS_KillIzaro_01.ogg"],["Goddess74","내 예감이 맞았어. 나를 적절하게 다루는군. 판단하기 이르긴 하지만...","Audio/Dialogue/Goddess_Unleashed/GS_Level_10.ogg"],["Goddess75","내가 아직 안 질리나 보네? 다른 무기를 써도 좋아. 신경 안 써. 정말이야.","Audio/Dialogue/Goddess_Unleashed/GS_Level_20.ogg"],["Goddess76","마지막으로 날 이렇게 오랫동안 다뤘던 사람은 불 공포증으로 엄청나게 고생했었지. 불 도착증이었던가? 둘 중 하나였어. 둘 다일 수도 있고.","Audio/Dialogue/Goddess_Unleashed/GS_Level_30.ogg"],["Goddess77","아, 둘이 있으니 정말 잘 타는군! 이렇게 오랫동안 버틴 사람은 정말 간만이야!","Audio/Dialogue/Goddess_Unleashed/GS_Level_50.ogg"],["Goddess78","그대는 정말 기적 같아. 고통을 즐기거나 바보일 수도 있겠지. 그래도 내 곁의 바보잖아.","Audio/Dialogue/Goddess_Unleashed/GS_Level_70.ogg"],["Goddess79","날 이렇게 오랫동안 다룬 사람은 여태까지 정말로 없었어. 그대는 특별한 상을 받을 자격이 있어. 이건 비밀인데... 검은 사실 말을 못 해. 나를 잡은 순간부터 미쳐버린 거야. 지금까지 겪어왔던 일 중 현실이 있을까? 나한테는 묻지 마. 그저 검 한 자루인걸. 그래도 난 네 검이야. 평생토록. ","Audio/Dialogue/Goddess_Unleashed/GS_Level_90.ogg"],["Goddess80","이 정도면 충분해.","Audio/Dialogue/Goddess_Unleashed/GS_KillRogue_01.ogg"],["Goddess81","","Audio/Dialogue/Goddess_Unleashed/GS_KillRogue_02.ogg"],["Goddess82","내 화염에 숨을 거두어라!","Audio/Dialogue/Goddess_Unleashed/GS_KillRogue_03.ogg"],["Goddess83","불에 붙지 않는 건 없어.","Audio/Dialogue/Goddess_Unleashed/GS_KillRogue_04.ogg"]]}
+{
+  "filename": "CharacterTextAudio.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Text",
+      "rowid": 1,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "SoundFile",
+      "rowid": 2,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": true,
+      "file_ext": ".ogg",
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "Marauder1",
+      "나는 전사로서, 선조들의 명예를 드높이고 무기를 든 채로 카루이의 길을 따르다 죽기 위해 나섰다. \r\n\r\n오리아스는 나를 묶어 노예로 만들었다. 3년 동안 가족도, 자부심도, 나의 길도 잊은 채 살아야 했지. \r\n\r\n유배자가 되어 마주한 레이클라스트가 그래서 차라리 반갑다. 선조들이여! 내 말을 들어 주소서! 한 노예가 당신 곁에 섰습니다. 한 전사가 당신의 곁에 섰습니다. \r\n\r\n그리고 죽음이 우리와 함께 하나이다.",
+      "Audio/Dialogue/Character/Str/Intro/Ma_01_Intro.ogg"
+    ],
+    [
+      "Marauder2",
+      "",
+      "Audio/Dialogue/Character/Str/Event/Ma_02.ogg"
+    ],
+    [
+      "Marauder3",
+      "시체들에게 있어야 할 곳을 알려줘야겠군.",
+      "Audio/Dialogue/Character/Str/Event/Ma_03.ogg"
+    ],
+    [
+      "Marauder4",
+      " 살아난 시체와 죽은 오리아스인들 투성이군. ",
+      "Audio/Dialogue/Character/Str/Event/Ma_04.ogg"
+    ],
+    [
+      "Marauder5",
+      "카옴이시여, 길을 보여주소서.",
+      "Audio/Dialogue/Character/Str/Event/Ma_05.ogg"
+    ],
+    [
+      "Marauder6",
+      "도미누스가 내 고향과 가족을 앗아갔지.",
+      "Audio/Dialogue/Character/Str/Event/Ma_06.ogg"
+    ],
+    [
+      "Marauder7",
+      "조상들께서 말씀하신 거랑은 다른데.",
+      "Audio/Dialogue/Character/Str/Event/Ma_07.ogg"
+    ],
+    [
+      "Marauder8",
+      "노예는 사람도 아냐. 죽을 자격도 없다.",
+      "Audio/Dialogue/Character/Str/Event/Ma_08.ogg"
+    ],
+    [
+      "Marauder9",
+      "죽어서도 네 영혼은 선조들의 장난감일 뿐이다, 노예상.",
+      "Audio/Dialogue/Character/Str/Event/Ma_09.ogg"
+    ],
+    [
+      "Marauder10",
+      "죽음의 어머니 히네코라여, 제가 서있는 이곳이 당신의 대지입니까?",
+      "Audio/Dialogue/Character/Str/Event/Ma_10.ogg"
+    ],
+    [
+      "Marauder11",
+      "죽음에서 일어난 카루이는 카루이가 아니다. ",
+      "Audio/Dialogue/Character/Str/Event/Ma_11.ogg"
+    ],
+    [
+      "Marauder12",
+      "'검은 영혼'. 라비앙가는 타락의 아버지 키타바를 두고 그렇게 부르더군.",
+      "Audio/Dialogue/Character/Str/Event/Ma_12.ogg"
+    ],
+    [
+      "Marauder13",
+      "카옴은 키타바에게 무릎을 꿇었지. 우리를 배신한 것이다!",
+      "Audio/Dialogue/Character/Str/Event/Ma_13.ogg"
+    ],
+    [
+      "Marauder14",
+      "카루이가 페어그레이브즈 너를 기억하마. 네 죽음은 길이 남을거다.",
+      "Audio/Dialogue/Character/Str/Event/Ma_14.ogg"
+    ],
+    [
+      "Marauder15",
+      "네 저주는 이제 끝이다, 사이렌. 죽음의 어머니 히네코라의 품에 잠들어라.",
+      "Audio/Dialogue/Character/Str/Event/Ma_15.ogg"
+    ],
+    [
+      "Marauder16",
+      "레이클라스트의 모든 생명이 뒤틀렸구나. ",
+      "Audio/Dialogue/Character/Str/Event/Ma_16.ogg"
+    ],
+    [
+      "Marauder17",
+      "영원한 제국을 얼마나 역겨운 놈들이 세운 건지 알겠구나.",
+      "Audio/Dialogue/Character/Str/Event/Ma_17.ogg"
+    ],
+    [
+      "Marauder18",
+      "선조들이시여, 용서하소서. 제가 타락의 아비 키타바로의 '길'을 열어버렸습니다.",
+      "Audio/Dialogue/Character/Str/Event/Ma_18.ogg"
+    ],
+    [
+      "Marauder19",
+      "이 키타바의 전사를 전쟁의 아버지인 투코하마 당신께 바칩니다.",
+      "Audio/Dialogue/Character/Str/Event/Ma_19.ogg"
+    ],
+    [
+      "Marauder20",
+      "그렇게 사느니 차라리 죽는게 더 명예롭겠구나, 크레이틴.",
+      "Audio/Dialogue/Character/Str/Event/Ma_20.ogg"
+    ],
+    [
+      "Marauder21",
+      "죽음이야말로 제일 어두운 마법이다, 마녀여.",
+      "Audio/Dialogue/Character/Str/Event/Ma_21.ogg"
+    ],
+    [
+      "Marauder22",
+      "네 시대는 끝이다, 도적왕.",
+      "Audio/Dialogue/Character/Str/Event/Ma_22.ogg"
+    ],
+    [
+      "Marauder23",
+      "당신의 온기가 다시 느껴집니다, 빛의 아버지 라마코여.",
+      "Audio/Dialogue/Character/Str/Event/Ma_23.ogg"
+    ],
+    [
+      "Marauder24",
+      "만나서 반갑군, 나마카누이의 딸이여.",
+      "Audio/Dialogue/Character/Str/Event/Ma_24.ogg"
+    ],
+    [
+      "Marauder25",
+      "여기서 카루이 노예가 돼지처럼 사고 팔렸다지.",
+      "Audio/Dialogue/Character/Str/Event/Ma_25.ogg"
+    ],
+    [
+      "Marauder26",
+      "삶이 너무 길어지면 도리어 고통스러워지는 것인가...",
+      "Audio/Dialogue/Character/Str/Event/Ma_26.ogg"
+    ],
+    [
+      "Marauder27",
+      "이것이 영원의 길인가. 아름답고... 다 죽어버렸군.",
+      "Audio/Dialogue/Character/Str/Event/Ma_27.ogg"
+    ],
+    [
+      "Marauder28",
+      "타락의 딸이자 키타바의 진정한 노예로구나, 파이어티. ",
+      "Audio/Dialogue/Character/Str/Event/Ma_28.ogg"
+    ],
+    [
+      "Marauder29",
+      "도미누스가 내게 그러했듯, 놈이 아끼는 모든 것을 빼앗겠다. ",
+      "Audio/Dialogue/Character/Str/Event/Ma_29.ogg"
+    ],
+    [
+      "Marauder30",
+      "카루이는 두려움으로 세워진 탑에 숨지 않는다.",
+      "Audio/Dialogue/Character/Str/Event/Ma_30.ogg"
+    ],
+    [
+      "Marauder31",
+      "제국과 함께 죽어라, 도미누스. 카루이가 노예가 되는 일은 다시는 없을 것이다.",
+      "Audio/Dialogue/Character/Str/Event/Ma_31.ogg"
+    ],
+    [
+      "Marauder32",
+      "선조시여, 당신을 도울 수 있어 영광입니다.",
+      "Audio/Dialogue/Character/Str/Event/Ma_32.ogg"
+    ],
+    [
+      "Marauder33",
+      "\"시체의 강이 키타바의 왕국으로 이어진다\"라고 고향에서 장로들이 말씀하셨지.",
+      "Audio/Dialogue/Character/Str/Event/Ma_36.ogg"
+    ],
+    [
+      "Marauder34",
+      "제국 놈들은 자기 땅에 소홀했나 보군.",
+      "Audio/Dialogue/Character/Str/Event/Ma_37.ogg"
+    ],
+    [
+      "Marauder35",
+      "볼, 너의 제국은 죽었다. 이제 네 차례다.",
+      "Audio/Dialogue/Character/Str/Event/Ma_38.ogg"
+    ],
+    [
+      "Marauder36",
+      "키타바여, 네 소리가 들리는구나. 너를 쫓아 너의 왕국까지 내가 이렇게 왔다.",
+      "Audio/Dialogue/Character/Str/Event/Ma_39.ogg"
+    ],
+    [
+      "Marauder37",
+      "키타바의 배가 울렁대는군. 내게 입맛을 다시는 건가.",
+      "Audio/Dialogue/Character/Str/Event/Ma_40.ogg"
+    ],
+    [
+      "Marauder38",
+      "마라케스는 한 때 카루이와 함께 싸웠지. 그 우정을 존중하겠다.",
+      "Audio/Dialogue/Character/Str/Event/Ma_41.ogg"
+    ],
+    [
+      "Marauder39",
+      "연회는 곧 끝이다, 키타바! 선조들께서 이를 명하시는구나!",
+      "Audio/Dialogue/Character/Str/Event/Ma_42.ogg"
+    ],
+    [
+      "Marauder40",
+      "오리아스 놈들이란. 자기네 얘기를 노래로 만드는데 환장했지.",
+      "Audio/Dialogue/Character/Str/Event/Ma_43.ogg"
+    ],
+    [
+      "Marauder41",
+      "아직도 투코하마께서 너와 함께 하는줄 아는가, 카옴. 키타바라면 몰라도.",
+      "Audio/Dialogue/Character/Str/Event/Ma_44.ogg"
+    ],
+    [
+      "Marauder42",
+      "저들은 너를 따랐다, 카옴. 너를 믿었단 말이다.",
+      "Audio/Dialogue/Character/Str/Event/Ma_45.ogg"
+    ],
+    [
+      "Marauder43",
+      "카루이의 길을 따르자면 왕을 의심해서는 안 되겠지. 하지만 우리의 길도 바뀔 때가 되었다.",
+      "Audio/Dialogue/Character/Str/Event/Ma_46.ogg"
+    ],
+    [
+      "Marauder44",
+      "네 명예 따위는 거절이다, 카옴.",
+      "Audio/Dialogue/Character/Str/Event/Ma_47.ogg"
+    ],
+    [
+      "Marauder45",
+      "카옴이 이런 곳을 만들었다니. 선조들께서 슬퍼하실 일이로군.",
+      "Audio/Dialogue/Character/Str/Event/Ma_48.ogg"
+    ],
+    [
+      "Marauder46",
+      "전사로서 죽게 해 주마, 카옴. 과분한 줄 알아라. ",
+      "Audio/Dialogue/Character/Str/Event/Ma_49.ogg"
+    ],
+    [
+      "Marauder47",
+      "신의 심장으로도 내장을 거쳐가야 하는 거였군.",
+      "Audio/Dialogue/Character/Str/Event/Ma_50.ogg"
+    ],
+    [
+      "Marauder48",
+      "파이어티. 날 배신하면 네 목을 취할 것이다.",
+      "Audio/Dialogue/Character/Str/Event/Ma_51.ogg"
+    ],
+    [
+      "Marauder49",
+      "네 고통은 이제 끝이다.",
+      "Audio/Dialogue/Character/Str/Event/Ma_52.ogg"
+    ],
+    [
+      "Marauder50",
+      "선조께서 명하신 대로.",
+      "Audio/Dialogue/Character/Str/Event/Ma_53.ogg"
+    ],
+    [
+      "Marauder51",
+      "노예여, 이제 넌 자유다.\r\n",
+      "Audio/Dialogue/Character/Str/Event/Ma_54.ogg"
+    ],
+    [
+      "Marauder52",
+      "파이어티, 네 선조들이 너를 용서하기를.",
+      "Audio/Dialogue/Character/Str/Event/Ma_55.ogg"
+    ],
+    [
+      "Marauder53",
+      "내 말 들리나, 키타바?! 네 왕국은 네 노예들과 함께 죽었다! 이제 누가 너를 타락의 아버지라 하겠는가! ",
+      "Audio/Dialogue/Character/Str/Event/Ma_56.ogg"
+    ],
+    [
+      "Marauder54",
+      "아직은 내 능력 밖이다.",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_33a.ogg"
+    ],
+    [
+      "Marauder55",
+      "마나가 모자라.",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_33b.ogg"
+    ],
+    [
+      "Marauder56",
+      "이건 못 들어.",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_33c_01.ogg"
+    ],
+    [
+      "Marauder57",
+      "이건 못 들어.",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_33c_02.ogg"
+    ],
+    [
+      "Marauder58",
+      "아아... 좀 낫군.",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_33d.ogg"
+    ],
+    [
+      "Marauder59",
+      "이걸 사용하기엔 힘이 아직 모자라.",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_33e.ogg"
+    ],
+    [
+      "Marauder60",
+      "아직 어떻게 사용하는 건지 모르겠군.",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_33f_01.ogg"
+    ],
+    [
+      "Marauder61",
+      "아직 어떻게 사용하는 건지 모르겠군.",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_33f_02.ogg"
+    ],
+    [
+      "Marauder62",
+      "이걸 사용하기엔 내가 아직 느려.",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_33g_01.ogg"
+    ],
+    [
+      "Marauder63",
+      "이걸 사용하기엔 내가 아직 느려.",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_33g_02.ogg"
+    ],
+    [
+      "Marauder64",
+      "이건 왠지 부수면 안 될 것 같군.",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_33h_01.ogg"
+    ],
+    [
+      "Marauder65",
+      "이건 왠지 부수면 안 될 것 같군.",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_33h_02.ogg"
+    ],
+    [
+      "Marauder66",
+      "여기서는 할 수 없는 일이야.",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_33i_01.ogg"
+    ],
+    [
+      "Marauder67",
+      "여기서는 할 수 없는 일이야.",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_33i_02.ogg"
+    ],
+    [
+      "Marauder68",
+      "투코하마를 위하여!",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_34a_01.ogg"
+    ],
+    [
+      "Marauder69",
+      "투코하마를 위하여!",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_34a_02.ogg"
+    ],
+    [
+      "Marauder70",
+      "히네코라의 품으로!",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_34b_01.ogg"
+    ],
+    [
+      "Marauder71",
+      "히네코라의 품으로!",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_34b_02.ogg"
+    ],
+    [
+      "Marauder72",
+      "먼지로 되돌려주마!",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_34c_01.ogg"
+    ],
+    [
+      "Marauder73",
+      "먼지로 되돌려주마!",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_34c_02.ogg"
+    ],
+    [
+      "Marauder74",
+      "선조들께로 돌려보내주마!",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_34d_01.ogg"
+    ],
+    [
+      "Marauder75",
+      "선조들께로 돌려보내주마!",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_34d_02.ogg"
+    ],
+    [
+      "Marauder76",
+      "키타바에게 돌려보내주마!",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_34e_01.ogg"
+    ],
+    [
+      "Marauder77",
+      "키타바에게 돌려보내주마!",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_34e_02.ogg"
+    ],
+    [
+      "Marauder78",
+      "나는 아직 다음 해가 뜨는 걸 봐야 한다.",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_35a.ogg"
+    ],
+    [
+      "Marauder79",
+      "도미누스는 내가 여기에서 죽었으면 하겠지. 실망시키게 되겠군.",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_35b.ogg"
+    ],
+    [
+      "Marauder80",
+      "레이클라스트에서는 죽이는 게 일상이지.",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_35c.ogg"
+    ],
+    [
+      "Marauder81",
+      "나는 모든 죽음에서 생명력을 얻는다.",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_35d.ogg"
+    ],
+    [
+      "Marauder82",
+      "선조들께서 나를 지켜보신다.",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_35e.ogg"
+    ],
+    [
+      "Marauder83",
+      "선조들이시여, 감사합니다. 선물에 보답하겠습니다.",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_35f.ogg"
+    ],
+    [
+      "Marauder84",
+      "이 땅은 카루이의 힘을 잊었군. 내가 되새겨 줄 것이다.",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_35g.ogg"
+    ],
+    [
+      "Ranger1",
+      "이런 곳은 난생 처음 보는데. 앞이 깜깜하겠어.",
+      "Audio/Dialogue/Character/Dex/Event/R_02_GetUp.ogg"
+    ],
+    [
+      "Ranger2",
+      "이런 곳에서 정의는 사치지. 비참함이야 넘치겠지만.",
+      "Audio/Dialogue/Character/Dex/Event/R_03_EnterPrison.ogg"
+    ],
+    [
+      "Ranger3",
+      "다친 동물에게나 해 주는 일을 너한테도 하게 되네, 브루투스.",
+      "Audio/Dialogue/Character/Dex/Event/R_04_KillBrutus.ogg"
+    ],
+    [
+      "Ranger4",
+      "삶과 죽음이 공존하다니. 희한한 땅이잖아.",
+      "Audio/Dialogue/Character/Dex/Event/R_05_EnterShipGraveyard.ogg"
+    ],
+    [
+      "Ranger5",
+      "좋은 사람이었는데 상황이 너무 안 좋았네, 페어그레이브즈. ",
+      "Audio/Dialogue/Character/Dex/Event/R_06_KillFairgraves.ogg"
+    ],
+    [
+      "Ranger6",
+      "한 남자에 대한 사랑이라... 그게 너를 그렇게 만들었군, 머베일.",
+      "Audio/Dialogue/Character/Dex/Event/R_07_KillMerveil.ogg"
+    ],
+    [
+      "Ranger7",
+      "안타까운 인생에서 한 번은 좋은 일 해야지, 도적. 벌레 밥이라도 주라고.",
+      "Audio/Dialogue/Character/Dex/Event/R_08_KillOak.ogg"
+    ],
+    [
+      "Ranger8",
+      "쥐 떼의 왕? 오늘 쥐들이 포식은 하겠군.",
+      "Audio/Dialogue/Character/Dex/Event/R_09_Killkraityn.ogg"
+    ],
+    [
+      "Ranger9",
+      "예쁜 꽃을 꺾는 건 싫은 일이지. 너처럼 독을 품은 꽃이라 해도.\r\n",
+      "Audio/Dialogue/Character/Dex/Event/R_10_KillAlira.ogg"
+    ],
+    [
+      "Ranger10",
+      "사치와 잔혹함이 손을 잡았네. ",
+      "Audio/Dialogue/Character/Dex/Event/R_11_EnterCOS.ogg"
+    ],
+    [
+      "Ranger11",
+      "있어서는 안 되는 일이야. 내가 아는 세상에서라면 절대로.",
+      "Audio/Dialogue/Character/Dex/Event/R_12_ReleaseVaalShadow.ogg"
+    ],
+    [
+      "Ranger12",
+      "동족들한테 꼭 전해, 악몽. 내 세상에는 출입 금지라고.",
+      "Audio/Dialogue/Character/Dex/Event/R_12b_KillOversoul.ogg"
+    ],
+    [
+      "Ranger13",
+      "죽음이 없는 삶은 아무것도 아닌데. 이 단순한 사실을 자꾸 잊게 되는군.",
+      "Audio/Dialogue/Character/Dex/Event/R_13_EnterWarehouse.ogg"
+    ],
+    [
+      "Ranger14",
+      "내가 알고 좋아했던 것에서는 느껴본 적 없는 기분이군.",
+      "Audio/Dialogue/Character/Dex/Event/R_14_EnterSolaris.ogg"
+    ],
+    [
+      "Ranger15",
+      "파이어티... 네게 들어야 할 대답이 한둘이 아냐.",
+      "Audio/Dialogue/Character/Dex/Event/R_15_EnterLunaris.ogg"
+    ],
+    [
+      "Ranger16",
+      "그라비시우스, 너 같은 놈들만 없었어도 이 땅이 진작 나아졌을텐데.\r\n",
+      "Audio/Dialogue/Character/Dex/Event/R_16_KillGravicius.ogg"
+    ],
+    [
+      "Ranger17",
+      "네가 죽는다고 일이 수습되는 건 아냐, 파이어티. 그래도 뭐 더 나빠지지는 않겠지.",
+      "Audio/Dialogue/Character/Dex/Event/R_17_KillPiety.ogg"
+    ],
+    [
+      "Ranger18",
+      "왜 굳이 산을 쌓으려고 거지? 그냥 있는 산에 가서 오르면 안 되나?",
+      "Audio/Dialogue/Character/Dex/Event/R_17b_EnterSceptre.ogg"
+    ],
+    [
+      "Ranger19",
+      "실수를 후회하며 사는 사람도, 안 그러는 사람도 있어. 개인적인 감정이 있는 건 아냐.",
+      "Audio/Dialogue/Character/Dex/Event/R_18_KillDominus.ogg"
+    ],
+    [
+      "Ranger20",
+      "도시가 대개 자연을 망치기는 하지만, 사안은 그 중에서도 제일 역겹네.",
+      "Audio/Dialogue/Character/Dex/Event/R_21_EnterAqueduct.ogg"
+    ],
+    [
+      "Ranger21",
+      "호수가 마르면서 어마어마하게 죽어들 나갔네. 그 덕에 사안 하수도는 멀쩡하게 흘렀고.",
+      "Audio/Dialogue/Character/Dex/Event/R_22_EnterDriedLake.ogg"
+    ],
+    [
+      "Ranger22",
+      "이 땅이 너희를 그리워할 일은 없을 거다, 볼.",
+      "Audio/Dialogue/Character/Dex/Event/R_23_KillVoll.ogg"
+    ],
+    [
+      "Ranger23",
+      "자연적인 지진이 아냐.",
+      "Audio/Dialogue/Character/Dex/Event/R_24_EnterMines_01.ogg"
+    ],
+    [
+      "Ranger24",
+      "뭐가 자다가 움찔한 거 같은 느낌인데.",
+      "Audio/Dialogue/Character/Dex/Event/R_25_EnterMines_02.ogg"
+    ],
+    [
+      "Ranger25",
+      "여전사로서 여전사에게 주는 내 선물이야, 데쉬렛.",
+      "Audio/Dialogue/Character/Dex/Event/R_26_FreeDeshret.ogg"
+    ],
+    [
+      "Ranger26",
+      "어지간히 골치 아픈 산이네.",
+      "Audio/Dialogue/Character/Dex/Event/R_27_EnterMines_03.ogg"
+    ],
+    [
+      "Ranger27",
+      "다레소, 네가 사랑했던 건 너 자신 뿐이었구나.",
+      "Audio/Dialogue/Character/Dex/Event/R_28_KillDaresso.ogg"
+    ],
+    [
+      "Ranger28",
+      "이런 건 내가 아는 카루이가 아닌데.",
+      "Audio/Dialogue/Character/Dex/Event/R_29_EnterKaom.ogg"
+    ],
+    [
+      "Ranger29",
+      "이런 철없고 성난 아이는 세상을 위해서라도 처리해야지. ",
+      "Audio/Dialogue/Character/Dex/Event/R_30_KillKaom.ogg"
+    ],
+    [
+      "Ranger30",
+      "그러니까 악몽 속에서의 삶은 이렇게 보이는 거였군.",
+      "Audio/Dialogue/Character/Dex/Event/R_31_EnterBelly.ogg"
+    ],
+    [
+      "Ranger31",
+      "자연에 관해 상상할 수 있는 온갖 모욕이 다 있구나.",
+      "Audio/Dialogue/Character/Dex/Event/R_32_EnterHarvest.ogg"
+    ],
+    [
+      "Ranger32",
+      "너희들이 남긴 건 흉터 뿐이야, 말리가로.",
+      "Audio/Dialogue/Character/Dex/Event/R_33_KillMaligaro.ogg"
+    ],
+    [
+      "Ranger33",
+      "이뻐지려고 하다 보면 수많은 아름다움을 박살내게 되는 법이지.",
+      "Audio/Dialogue/Character/Dex/Event/R_34_KillShavronne.ogg"
+    ],
+    [
+      "Ranger34",
+      "너 자신이 네 최악의 적이었던 거로군, 도이드리.",
+      "Audio/Dialogue/Character/Dex/Event/R_35_KillDoedre.ogg"
+    ],
+    [
+      "Ranger35",
+      "파이어티, 죽음에 저항한 건 잘못한 일이야. 죽음 또한 자연의 섭리거든.",
+      "Audio/Dialogue/Character/Dex/Event/R_36_AfterPietyDies.ogg"
+    ],
+    [
+      "Ranger36",
+      "내가 사랑하는 이 세상을 없애려던 너와 네 짐승을 내가 그냥 놔둘 거라 생각했나, 말라카이? ",
+      "Audio/Dialogue/Character/Dex/Event/R_37_KillMalachai.ogg"
+    ],
+    [
+      "Ranger37",
+      "아직 그 수준에 도달하지 못했어.",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_19a_Cooldown_01.ogg"
+    ],
+    [
+      "Ranger38",
+      "아직 그 수준에 도달하지 못했어.",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_19a_Cooldown_02.ogg"
+    ],
+    [
+      "Ranger39",
+      "마나가 모자라.",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_19b_Mana_01.ogg"
+    ],
+    [
+      "Ranger40",
+      "마나가 모자라.",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_19b_Mana_02.ogg"
+    ],
+    [
+      "Ranger41",
+      "그래봤자 내가 느려지는 것 뿐이다.",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_19c_Inventory_01.ogg"
+    ],
+    [
+      "Ranger42",
+      "그래봤자 내가 느려지는 것 뿐이다.",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_19c_Inventory_02.ogg"
+    ],
+    [
+      "Ranger43",
+      "아아... 기분이 훨씬 낫네.",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_19d_Flask_01.ogg"
+    ],
+    [
+      "Ranger44",
+      "아아... 기분이 훨씬 낫네.",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_19d_Flask_02.ogg"
+    ],
+    [
+      "Ranger45",
+      "이걸 쓰려면 더 강해져야 해.",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_19e_StrLow_01.ogg"
+    ],
+    [
+      "Ranger46",
+      "이걸 쓰려면 더 강해져야 해.",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_19e_StrLow_02.ogg"
+    ],
+    [
+      "Ranger47",
+      "내가 못난 건 아니지만, 이건 내 능력 밖이야.",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_19f_IntLow_01.ogg"
+    ],
+    [
+      "Ranger48",
+      "내가 못난 건 아니지만, 이건 내 능력 밖이야.",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_19f_IntLow_02.ogg"
+    ],
+    [
+      "Ranger49",
+      "이걸 쓰려면 반사 신경을 좀 더 키워야겠어.",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_19g_DexLow_01.ogg"
+    ],
+    [
+      "Ranger50",
+      "이걸 쓰려면 반사 신경을 좀 더 키워야겠어.",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_19g_DexLow_02.ogg"
+    ],
+    [
+      "Ranger51",
+      "이게 필요해질 거라는 예감이 들어.",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_19h_QuestItem_01.ogg"
+    ],
+    [
+      "Ranger52",
+      "이게 필요해질 거라는 예감이 들어.",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_19h_QuestItem_02.ogg"
+    ],
+    [
+      "Ranger53",
+      "왜 여기서 이걸 하려고 했는지 모르겠네.",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_19I_SkillsTown_01.ogg"
+    ],
+    [
+      "Ranger54",
+      "왜 여기서 이걸 하려고 했는지 모르겠네.",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_19I_SkillsTown_02.ogg"
+    ],
+    [
+      "Ranger55",
+      "네 시체에서라도 아름다움이 자라나길.",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_19J_RareKill_01.ogg"
+    ],
+    [
+      "Ranger56",
+      "네 시체에서라도 아름다움이 자라나길.",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_19J_RareKill_02.ogg"
+    ],
+    [
+      "Ranger57",
+      "불쌍하구나, 이 타락한 녀석.",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_19J_RareKill_03.ogg"
+    ],
+    [
+      "Ranger58",
+      "불쌍하구나, 이 타락한 녀석.",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_19J_RareKill_04.ogg"
+    ],
+    [
+      "Ranger59",
+      "가지를 꺾어서 나무를 살리는 법이지.",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_19J_RareKill_05.ogg"
+    ],
+    [
+      "Ranger60",
+      "가지를 꺾어서 나무를 살리는 법이지.",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_19J_RareKill_06.ogg"
+    ],
+    [
+      "Ranger61",
+      "땅에 유익한 거름으로 돌아가라.",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_19J_RareKill_07.ogg"
+    ],
+    [
+      "Ranger62",
+      "땅에 유익한 거름으로 돌아가라.",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_19J_RareKill_08.ogg"
+    ],
+    [
+      "Ranger63",
+      "고통을 끝내주마.",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_19J_RareKill_09.ogg"
+    ],
+    [
+      "Ranger64",
+      "고통을 끝내주마.",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_19J_RareKill_10.ogg"
+    ],
+    [
+      "Ranger65",
+      "살면서 배우는 거지 뭐.",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_20_LevelUp_01.ogg"
+    ],
+    [
+      "Ranger66",
+      "아직 숨이 붙어 있잖아. 좋은 징조인데.",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_20_LevelUp_02.ogg"
+    ],
+    [
+      "Ranger67",
+      "벌레 밥이 되기엔 아직 이르다고.",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_20_LevelUp_03.ogg"
+    ],
+    [
+      "Ranger68",
+      "고통을 겪은 후 더욱 굳건해지는 법. 자연스러운 거야.",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_20_LevelUp_04.ogg"
+    ],
+    [
+      "Ranger69",
+      "사냥감이 날뛰면 사냥꾼도 같이 난폭해져야지.",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_20_LevelUp_05.ogg"
+    ],
+    [
+      "Ranger70",
+      "먹이 사슬 위로 한 단계 더 올라왔다.",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_20_LevelUp_06.ogg"
+    ],
+    [
+      "Ranger71",
+      "이제 좀 이 땅에 익숙해진 거 같네.",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_20_LevelUp_07.ogg"
+    ],
+    [
+      "Ranger72",
+      "레이클라스트... 이렇게 아낌없이 퍼 주는데 난 뭘 해줄 수 있을까? ",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_20_LevelUp_08.ogg"
+    ],
+    [
+      "Witch1",
+      "모래가 악의에 차서 떨고 있군. 나를 반기는 힘이 느껴져.",
+      "Audio/Dialogue/Character/Int/Event/Witch_01.ogg"
+    ],
+    [
+      "Witch2",
+      "이런 데서 살 바에야 화형대에 오르고 말지.",
+      "Audio/Dialogue/Character/Int/Event/Witch_02.ogg"
+    ],
+    [
+      "Witch3",
+      "사이렌들이 저녁은 거하게 차려 먹으려는 모양인데.",
+      "Audio/Dialogue/Character/Int/Event/Witch_03.ogg"
+    ],
+    [
+      "Witch4",
+      "공기에서 마석학의 냄새가 나. 한두 개는 배워갈 수 있을 것 같군.",
+      "Audio/Dialogue/Character/Int/Event/Witch_04.ogg"
+    ],
+    [
+      "Witch5",
+      "불쌍하게도 이런 어두운 구석에서 살다니... 정말이지 한참동안 슬펐겠어.",
+      "Audio/Dialogue/Character/Int/Event/Witch_05.ogg"
+    ],
+    [
+      "Witch6",
+      "이 주문을 속속들이 알고 싶어 죽겠어. 집안일은 도저히 못 하겠는데 말이야.",
+      "Audio/Dialogue/Character/Int/Event/Witch_06.ogg"
+    ],
+    [
+      "Witch7",
+      "자고로 시체라면 내 지시로 일어나야지. 나한테 맞설 게 아니라.",
+      "Audio/Dialogue/Character/Int/Event/Witch_08.ogg"
+    ],
+    [
+      "Witch8",
+      "내 솜씨로 널 만들었으면 이렇게 쉽게 쓰러지진 않았을 텐데.",
+      "Audio/Dialogue/Character/Int/Event/Witch_09.ogg"
+    ],
+    [
+      "Witch9",
+      "그게 제대로 죽는다는 거지, 애매하게 굴어서는 못 써.",
+      "Audio/Dialogue/Character/Int/Event/Witch_10.ogg"
+    ],
+    [
+      "Witch10",
+      "딱해라! 나도 사랑을 담아서 한 일이었어.",
+      "Audio/Dialogue/Character/Int/Event/Witch_11.ogg"
+    ],
+    [
+      "Witch11",
+      "이 땅에는 너처럼 욕심 가득한 놈한테 줄 땅이 없어, 오크.",
+      "Audio/Dialogue/Character/Int/Event/W_09_KillOak.ogg"
+    ],
+    [
+      "Witch12",
+      "사실 많이 실망스러워. 내가 쥐는 좀 좋아하는 편이거든.",
+      "Audio/Dialogue/Character/Int/Event/Witch_13.ogg"
+    ],
+    [
+      "Witch13",
+      "어떻게 살면서 배운 게 없는 모양이네, 힘에 휘둘려 자만하면 안 되지.",
+      "Audio/Dialogue/Character/Int/Event/Witch_14.ogg"
+    ],
+    [
+      "Witch14",
+      "아깝다. 좋은 친구가 될 수도 있었을 텐데.",
+      "Audio/Dialogue/Character/Int/Event/Witch_15.ogg"
+    ],
+    [
+      "Witch15",
+      "너는 오리아스에서도 나를 화형에 처하려 했지, 그라비시우스. 그때부터 마음에 안 들었어.",
+      "Audio/Dialogue/Character/Int/Event/Witch_16.ogg"
+    ],
+    [
+      "Witch16",
+      "네 연구는 정말 마음에 들어, 파이어티. 너 말고.",
+      "Audio/Dialogue/Character/Int/Event/Witch_17.ogg"
+    ],
+    [
+      "Witch17",
+      "사람은커녕 영혼조차도 널 위해 울어주지는 않을 거야, 도미누스.",
+      "Audio/Dialogue/Character/Int/Event/Witch_18.ogg"
+    ],
+    [
+      "Witch18",
+      "정말 환상적이네.",
+      "Audio/Dialogue/Character/Int/Event/Witch_19.ogg"
+    ],
+    [
+      "Witch19",
+      "숨 좀 고르자.",
+      "Audio/Dialogue/Character/Int/Gameplay/Witch_Com_01.ogg"
+    ],
+    [
+      "Witch20",
+      "마나가 모자라.",
+      "Audio/Dialogue/Character/Int/Gameplay/Witch_Com_02.ogg"
+    ],
+    [
+      "Witch21",
+      "더 넣을 수 없어.",
+      "Audio/Dialogue/Character/Int/Gameplay/Witch_Com_03.ogg"
+    ],
+    [
+      "Witch22",
+      "아, 만족스러워라.",
+      "Audio/Dialogue/Character/Int/Gameplay/Witch_Com_04.ogg"
+    ],
+    [
+      "Witch23",
+      "생명력이 거의 없어!",
+      "Audio/Dialogue/Character/Int/Gameplay/Witch_Com_05.ogg"
+    ],
+    [
+      "Witch24",
+      "아직 그 정도 힘은 없어.",
+      "Audio/Dialogue/Character/Int/Gameplay/Witch_Com_06.ogg"
+    ],
+    [
+      "Witch25",
+      "좀 당황스럽네.",
+      "Audio/Dialogue/Character/Int/Gameplay/Witch_Com_07.ogg"
+    ],
+    [
+      "Witch26",
+      "이걸 쓰려면 좀 더 유연해져야겠는데.",
+      "Audio/Dialogue/Character/Int/Gameplay/Witch_Com_08.ogg"
+    ],
+    [
+      "Witch27",
+      "이 물건이 내 운명을 알려주는 것 같군.",
+      "Audio/Dialogue/Character/Int/Gameplay/Witch_Com_09.ogg"
+    ],
+    [
+      "Witch28",
+      "그랬다간 사는 게 아주 복잡해질 걸.",
+      "Audio/Dialogue/Character/Int/Gameplay/Witch_Com_10.ogg"
+    ],
+    [
+      "Witch29",
+      "솔직히 말하면, 지금쯤 시체가 되어있을 줄 알았어.",
+      "Audio/Dialogue/Character/Int/Gameplay/Witch_Level_01.ogg"
+    ],
+    [
+      "Witch30",
+      "인생은 배움의 연속이야.",
+      "Audio/Dialogue/Character/Int/Gameplay/Witch_Level_02.ogg"
+    ],
+    [
+      "Witch31",
+      "레이클라스트가 도와주는 거 같아.",
+      "Audio/Dialogue/Character/Int/Gameplay/Witch_Level_03.ogg"
+    ],
+    [
+      "Witch32",
+      "운명이 웃을 때는 날카로운 이가 드러나는 법이라고.",
+      "Audio/Dialogue/Character/Int/Gameplay/Witch_Level_04.ogg"
+    ],
+    [
+      "Witch33",
+      "이젠 나도 나를 알아보기 힘들 정도야.",
+      "Audio/Dialogue/Character/Int/Gameplay/Witch_Level_05.ogg"
+    ],
+    [
+      "Witch34",
+      "땅도 내 말을 무시하지 못할 거야.",
+      "Audio/Dialogue/Character/Int/Gameplay/Witch_Level_06.ogg"
+    ],
+    [
+      "Witch35",
+      "더는 두려워할 필요 없어. 운명이 나를 이끌고 있어.",
+      "Audio/Dialogue/Character/Int/Gameplay/Witch_Level_07.ogg"
+    ],
+    [
+      "Witch36",
+      "이거 무슨 냄새인지 알아. 내 자매들이... 불에 타던 냄새랑 똑같아. ",
+      "Audio/Dialogue/Character/Int/Event/W_04b_EnterCannibalBay.ogg"
+    ],
+    [
+      "Witch37",
+      "보기 좋은데. 경련하는 시체들 투성이 사이에서도 아직 살아있는 것들이 꽤 있잖아.",
+      "Audio/Dialogue/Character/Int/Event/W_08_EnterForest.ogg"
+    ],
+    [
+      "Witch38",
+      "사안이라... 제국을 탄생시킨 도시지. 너한테 묻고 싶은 게 정말 많을 것 같군.",
+      "Audio/Dialogue/Character/Int/Event/W_14b_EnterSarn.ogg"
+    ],
+    [
+      "Witch39",
+      "이런 걸 지어놨다 이 말이지... 뭐 이건 대놓고 박해하겠다는 거 아닌가.",
+      "Audio/Dialogue/Character/Int/Event/W_15b_EnterCrematorium.ogg"
+    ],
+    [
+      "Witch40",
+      "불쌍한 신세여. 바람 가는 대로 다니는 운명이라니.",
+      "Audio/Dialogue/Character/Int/Event/W_16b_AfterFairgraves.ogg"
+    ],
+    [
+      "Witch41",
+      "명심해, 도미누스. 올라가는 건 반드시 내려오기 마련이니까.",
+      "Audio/Dialogue/Character/Int/Event/W_19b_EnterSceptre.ogg"
+    ],
+    [
+      "Witch42",
+      "타락한 물인 게 벌써 느껴지는군. 어디서 오는 건지 좀 봐야겠어.",
+      "Audio/Dialogue/Character/Int/Event/W_23_EnterAqueduct.ogg"
+    ],
+    [
+      "Witch43",
+      "어쩜 이렇게 멋진 곳들만 다니게 되는 걸까?",
+      "Audio/Dialogue/Character/Int/Event/W_24_EnterDriedLake.ogg"
+    ],
+    [
+      "Witch44",
+      "볼, 너도 결국 마석학에 잡아먹힌 모양이구나?",
+      "Audio/Dialogue/Character/Int/Event/W_25_KillVoll.ogg"
+    ],
+    [
+      "Witch45",
+      "그래, 우리 귀여운 산아. 나도 만나서 반가워!",
+      "Audio/Dialogue/Character/Int/Event/W_26_EnterMines01.ogg"
+    ],
+    [
+      "Witch46",
+      "산이 내가 좋은가 봐.",
+      "Audio/Dialogue/Character/Int/Event/W_27_EnterMines2.ogg"
+    ],
+    [
+      "Witch47",
+      "여기엔 아직 붙잡힌 영혼들이 차고 넘쳐. 난 느낄 수 있다고.",
+      "Audio/Dialogue/Character/Int/Event/W_28_FreeDeshret.ogg"
+    ],
+    [
+      "Witch48",
+      "귀여운 산아, 너무 겁내지 마. 다 조만간 끝날 거야.",
+      "Audio/Dialogue/Character/Int/Event/W_29_EnterMines3.ogg"
+    ],
+    [
+      "Witch49",
+      "이렇게 방해해서 미안한데, 다레소... 그 여자는 환상이야.",
+      "Audio/Dialogue/Character/Int/Event/W_30_KillDaresso.ogg"
+    ],
+    [
+      "Witch50",
+      "카루이 왕의 머리 속은 이렇게 생겨먹은 모양이네. 설마 다들 이런 건 아니겠지.",
+      "Audio/Dialogue/Character/Int/Event/W_31_EnterKaom.ogg"
+    ],
+    [
+      "Witch51",
+      "제 성질을 못 이기면 그렇게 되는 거야, 카옴.",
+      "Audio/Dialogue/Character/Int/Event/W_32-KillKaom.ogg"
+    ],
+    [
+      "Witch52",
+      "살아 숨쉬는 지옥 속으로 들어가 볼 기회가 매일 있는 게 아냐.",
+      "Audio/Dialogue/Character/Int/Event/W_33_EnterBelly.ogg"
+    ],
+    [
+      "Witch53",
+      "파이어티를 얕봤던 거 같네. 멋진데! 나 놀라는 거 좋아해.",
+      "Audio/Dialogue/Character/Int/Event/W_34_EnterHarvest.ogg"
+    ],
+    [
+      "Witch54",
+      "굳이 비꼬고 싶지는 않지만... 난 좀 별로야.",
+      "Audio/Dialogue/Character/Int/Event/W_35_KillMaligaro.ogg"
+    ],
+    [
+      "Witch55",
+      "브루투스가 네 마지막 작품인 게 다행이지.",
+      "Audio/Dialogue/Character/Int/Event/W_36_KillShav.ogg"
+    ],
+    [
+      "Witch56",
+      "오, 도이드리. 우리 마녀한테도 지켜야 할 선이라는 게 있는 법이야.",
+      "Audio/Dialogue/Character/Int/Event/W_37_KillDoedre.ogg"
+    ],
+    [
+      "Witch57",
+      "말라카이가 못 들었기를 바란다, 파이어티. 그쪽이 훨씬 더 재밌을 테니까!",
+      "Audio/Dialogue/Character/Int/Event/W_38_AfterPiety.ogg"
+    ],
+    [
+      "Witch58",
+      "불쌍한 말라카이. 그렇게나 죽는 게 무서웠구나. 이제 너희 둘이 잘 좀 지내봐. 생각만큼 나쁘지는 않을 걸.",
+      "Audio/Dialogue/Character/Int/Event/W_39_KillMalachai.ogg"
+    ],
+    [
+      "Witch59",
+      "준비되기 전엔 안 돼.",
+      "Audio/Dialogue/Character/Int/Gameplay/W_21_CoolDown_01.ogg"
+    ],
+    [
+      "Witch60",
+      "준비되기 전엔 안 돼.",
+      "Audio/Dialogue/Character/Int/Gameplay/W_21_CoolDown_02.ogg"
+    ],
+    [
+      "Witch61",
+      "인생은 짧아. 그냥 받아들여.",
+      "Audio/Dialogue/Character/Int/Gameplay/W_21_RareKill_01.ogg"
+    ],
+    [
+      "Witch62",
+      "이런! 실수했네.",
+      "Audio/Dialogue/Character/Int/Gameplay/W_21_RareKill_02.ogg"
+    ],
+    [
+      "Witch63",
+      "다들 죽는 거지.",
+      "Audio/Dialogue/Character/Int/Gameplay/W_21_RareKill_03.ogg"
+    ],
+    [
+      "Witch64",
+      "지금 모습이 훨씬 좋은데.",
+      "Audio/Dialogue/Character/Int/Gameplay/W_21_RareKill_04.ogg"
+    ],
+    [
+      "Witch65",
+      "너한테 낭비하기엔 내 인생이 아까워.",
+      "Audio/Dialogue/Character/Int/Gameplay/W_21_RareKill_05.ogg"
+    ],
+    [
+      "Witch66",
+      "너도 악몽을 잘 아는구나. 아니면 악몽이 너를 아는 건가.",
+      "Audio/Dialogue/Character/Int/Event/W17_EnterLunaris.ogg"
+    ],
+    [
+      "Duelist1",
+      "최고의 투기장은 아니지만, 어쩔 수 없는 거겠지.",
+      "Audio/Dialogue/Character/StrDex/Event/D02.ogg"
+    ],
+    [
+      "Duelist2",
+      "여기서는 시체들마저 일어나서 내게 도전하는 건가.",
+      "Audio/Dialogue/Character/StrDex/Event/D03.ogg"
+    ],
+    [
+      "Duelist3",
+      "창살 속 결투인 셈인가. 뭐 어렵지 않지.",
+      "Audio/Dialogue/Character/StrDex/Event/D04.ogg"
+    ],
+    [
+      "Duelist4",
+      "기술이 덩치를 이기는 법이야. 언제나 말이지.",
+      "Audio/Dialogue/Character/StrDex/Event/D05.ogg"
+    ],
+    [
+      "Duelist5",
+      "죽음의 문 앞인가. 숙녀분 먼저 가시죠, 머베일 부인.",
+      "Audio/Dialogue/Character/StrDex/Event/D06.ogg"
+    ],
+    [
+      "Duelist6",
+      "죽어 나간 뱃사람들이 불쌍해질 지경이군.",
+      "Audio/Dialogue/Character/StrDex/Event/D07.ogg"
+    ],
+    [
+      "Duelist7",
+      "전설과 결투해볼 기회가 그리 흔하지는 않은데. 고맙군, 페어그레이브즈.",
+      "Audio/Dialogue/Character/StrDex/Event/D08.ogg"
+    ],
+    [
+      "Duelist8",
+      "좋은 결투였다, 오크. 관중이 나무밖에 없었던 게 아쉽군.",
+      "Audio/Dialogue/Character/StrDex/Event/D09.ogg"
+    ],
+    [
+      "Duelist9",
+      "정신이 칼 속도를 따라오지 못한 게 안타깝구나, 쥐야.",
+      "Audio/Dialogue/Character/StrDex/Event/D10.ogg"
+    ],
+    [
+      "Duelist10",
+      "목에 칼이 들어온 채로 주문을 시전하는 게 쉽지는 않지?",
+      "Audio/Dialogue/Character/StrDex/Event/D11.ogg"
+    ],
+    [
+      "Duelist11",
+      "더럽혀진 꿈의 장소인가. 여기서는 조심해서 훈련해야겠어.",
+      "Audio/Dialogue/Character/StrDex/Event/D12.ogg"
+    ],
+    [
+      "Duelist12",
+      "이건 좀 아닌데.",
+      "Audio/Dialogue/Character/StrDex/Event/D13.ogg"
+    ],
+    [
+      "Duelist13",
+      "처음 맛보는 결투였어. 레이클라스트가 좋아지기 시작하는데.",
+      "Audio/Dialogue/Character/StrDex/Event/D14.ogg"
+    ],
+    [
+      "Duelist14",
+      "나는 공정한 결투를 선호하는데 이런 곳에 그런 게 있을지 모르겠는걸.",
+      "Audio/Dialogue/Character/StrDex/Event/D15.ogg"
+    ],
+    [
+      "Duelist15",
+      "무너진 제국에도 아직 영광이 남아 있는 모양이야.",
+      "Audio/Dialogue/Character/StrDex/Event/D16.ogg"
+    ],
+    [
+      "Duelist16",
+      "여기가 파이어티의 제 2의 고향인가. 그 마녀가 여기에 있는지 찾아보자.",
+      "Audio/Dialogue/Character/StrDex/Event/D17.ogg"
+    ],
+    [
+      "Duelist17",
+      "싸우다 죽는다라... 이게 네가 유일하게 이뤄낸 명예다, 그라비시우스.",
+      "Audio/Dialogue/Character/StrDex/Event/D18.ogg"
+    ],
+    [
+      "Duelist18",
+      "미안하군요, 아가씨. 하지만 누군가는 이 추한 짓을 막았어야 해서.",
+      "Audio/Dialogue/Character/StrDex/Event/D19.ogg"
+    ],
+    [
+      "Duelist19",
+      "탑을 올라 미친 왕을 죽여라. 이거 완전히 엄마가 읽어주던 동화 속 이야기잖아.",
+      "Audio/Dialogue/Character/StrDex/Event/D20.ogg"
+    ],
+    [
+      "Duelist20",
+      "억울한 유배자에게 정당하게 죽었군. 우리 이제 좀 비슷해진 거 같은데, 고위 템플러.",
+      "Audio/Dialogue/Character/StrDex/Event/D21.ogg"
+    ],
+    [
+      "Duelist21",
+      "그림 같은 운하를 따라 걷다가 산으로 가기도 하고. 이건 그냥 편하게 쉬는 거로군? ",
+      "Audio/Dialogue/Character/StrDex/Event/D24.ogg"
+    ],
+    [
+      "Duelist22",
+      "여긴... 암울하군.",
+      "Audio/Dialogue/Character/StrDex/Event/D25.ogg"
+    ],
+    [
+      "Duelist23",
+      "내 독단이긴 하지만, 볼 너한테 방금 호의를 베푼 거다.",
+      "Audio/Dialogue/Character/StrDex/Event/D26.ogg"
+    ],
+    [
+      "Duelist24",
+      "입구 앞에서 땅이 울리는 느낌만 한 것도 없지.",
+      "Audio/Dialogue/Character/StrDex/Event/D27.ogg"
+    ],
+    [
+      "Duelist25",
+      "사실 저 소리가 썩 좋지는 않아.",
+      "Audio/Dialogue/Character/StrDex/Event/D28.ogg"
+    ],
+    [
+      "Duelist26",
+      "곤경에 처한 아가씨를 돕는 일은 언제나 기분 좋은 법이지.",
+      "Audio/Dialogue/Character/StrDex/Event/D29.ogg"
+    ],
+    [
+      "Duelist27",
+      "돌무더기 아래에 파묻히는 건 내 얘기를 끝내기에 좋은 방식은 아닌데.",
+      "Audio/Dialogue/Character/StrDex/Event/D30.ogg"
+    ],
+    [
+      "Duelist28",
+      "맙소사, 투기장으로 돌아온 게 이렇게 좋을 수가!",
+      "Audio/Dialogue/Character/StrDex/Event/D31.ogg"
+    ],
+    [
+      "Duelist29",
+      "네 영광은 영원히 노래로 남을 거다, 다레소. 내가 약속하지.",
+      "Audio/Dialogue/Character/StrDex/Event/D32.ogg"
+    ],
+    [
+      "Duelist30",
+      "예전에 카루이 놈에게 '시체의 섬' 얘기를 들었지. 여기가 거기인가.",
+      "Audio/Dialogue/Character/StrDex/Event/D33.ogg"
+    ],
+    [
+      "Duelist31",
+      "전사로서 죽는 걸 행복한 줄 알아라, 카옴.",
+      "Audio/Dialogue/Character/StrDex/Event/D34.ogg"
+    ],
+    [
+      "Duelist32",
+      "드디어 들어왔어... 짐승의 내부에!",
+      "Audio/Dialogue/Character/StrDex/Event/D35.ogg"
+    ],
+    [
+      "Duelist33",
+      "한 걸음 나아갈 때마다 여기는 더 뒤틀려 가는군.",
+      "Audio/Dialogue/Character/StrDex/Event/D36.ogg"
+    ],
+    [
+      "Duelist34",
+      "이제 쉬라고, 말리가로. 예술가의 작품은 예술가가 죽은 뒤에 값이 뛰기 마련이니.",
+      "Audio/Dialogue/Character/StrDex/Event/D37.ogg"
+    ],
+    [
+      "Duelist35",
+      "아첨 떨어봤자 소용 없습니다, 부인.",
+      "Audio/Dialogue/Character/StrDex/Event/D38.ogg"
+    ],
+    [
+      "Duelist36",
+      "무슨 말을 하는건지 하나도 못 알아듣겠는데, 도이드리. 그래서 다행이다 싶지만.",
+      "Audio/Dialogue/Character/StrDex/Event/D39.ogg"
+    ],
+    [
+      "Duelist37",
+      "이런, 숙녀의 마지막 소원을 어찌 거절하겠습니까.",
+      "Audio/Dialogue/Character/StrDex/Event/D40.ogg"
+    ],
+    [
+      "Duelist38",
+      "결투가 끝났는데 희한한 기분이군. 뭐 어쨌든 나는 이겼고, 악몽은 끝이 났으니까. ",
+      "Audio/Dialogue/Character/StrDex/Event/D41.ogg"
+    ],
+    [
+      "Duelist39",
+      "언젠가는 쓰일 일이 있을 거 같아.",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D22_DestroyQuestItem_01.ogg"
+    ],
+    [
+      "Duelist40",
+      "언젠가는 쓰일 일이 있을 거 같아.",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D22_DestroyQuestItem_02.ogg"
+    ],
+    [
+      "Duelist41",
+      "이걸 쓰려면 조금 더 날렵해져야겠어.",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D22_DexStatLow_01.ogg"
+    ],
+    [
+      "Duelist42",
+      "이걸 쓰려면 조금 더 날렵해져야겠어.",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D22_DexStatLow_02.ogg"
+    ],
+    [
+      "Duelist43",
+      "아... 바로 이거야.",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D22_HeathFlaskOnLow_01.ogg"
+    ],
+    [
+      "Duelist44",
+      "아... 바로 이거야.",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D22_HeathFlaskOnLow_02.ogg"
+    ],
+    [
+      "Duelist45",
+      "이런 건 도저히 이해가 안 돼.",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D22_IntStatLow_01.ogg"
+    ],
+    [
+      "Duelist46",
+      "이런 건 도저히 이해가 안 돼.",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D22_IntStatLow_02.ogg"
+    ],
+    [
+      "Duelist47",
+      "여행짐은 가벼운 게 좋아.",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D22_InvFull_01.ogg"
+    ],
+    [
+      "Duelist48",
+      "여행짐은 가벼운 게 좋아.",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D22_InvFull_02.ogg"
+    ],
+    [
+      "Duelist49",
+      "훌륭한 적이었다!",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D22_MonsterKillV1_01.ogg"
+    ],
+    [
+      "Duelist50",
+      "훌륭한 적이었다!",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D22_MonsterKillV1_02.ogg"
+    ],
+    [
+      "Duelist51",
+      "너는 차라리 죽는 게 나아!",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D22_MonsterKillV2_01.ogg"
+    ],
+    [
+      "Duelist52",
+      "너는 차라리 죽는 게 나아!",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D22_MonsterKillV2_02.ogg"
+    ],
+    [
+      "Duelist53",
+      "땀도 안 나는군!",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D22_MonsterKillV3_01.ogg"
+    ],
+    [
+      "Duelist54",
+      "땀도 안 나는군!",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D22_MonsterKillV3_02.ogg"
+    ],
+    [
+      "Duelist55",
+      "연습이 완벽을 만드는 법이지!",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D22_MonsterKillV4_01.ogg"
+    ],
+    [
+      "Duelist56",
+      "연습이 완벽을 만드는 법이지!",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D22_MonsterKillV4_02.ogg"
+    ],
+    [
+      "Duelist57",
+      "승리의 향기는 싫어할 수 없다니까!",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D22_MonsterKillV5_01.ogg"
+    ],
+    [
+      "Duelist58",
+      "승리의 향기는 싫어할 수 없다니까!",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D22_MonsterKillV5_02.ogg"
+    ],
+    [
+      "Duelist59",
+      "내 영혼이 지쳐 있어.",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D22_OutOfMana_01.ogg"
+    ],
+    [
+      "Duelist60",
+      "내 영혼이 지쳐 있어.",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D22_OutOfMana_02.ogg"
+    ],
+    [
+      "Duelist61",
+      "아직은 못 해.",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D22_SkillCooldown_01.ogg"
+    ],
+    [
+      "Duelist62",
+      "아직은 못 해.",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D22_SkillCooldown_02.ogg"
+    ],
+    [
+      "Duelist63",
+      "이걸 쓰려면 근육을 조금 더 키워야겠어.",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D22_StrStatLow_01.ogg"
+    ],
+    [
+      "Duelist64",
+      "이걸 쓰려면 근육을 조금 더 키워야겠어.",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D22_StrStatLow_02.ogg"
+    ],
+    [
+      "Duelist65",
+      "곧 이걸 쓸 때가 올 거다.",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D22_UseSkillInTown_01.ogg"
+    ],
+    [
+      "Duelist66",
+      "곧 이걸 쓸 때가 올 거다.",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D22_UseSkillInTown_02.ogg"
+    ],
+    [
+      "Duelist67",
+      "아직 안 죽은 것만 해도 다행이지.",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D23_LevelUp_01.ogg"
+    ],
+    [
+      "Duelist68",
+      "이 새로운 투기장이 나랑 맞는 거 같은데.",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D23_LevelUp_02.ogg"
+    ],
+    [
+      "Duelist69",
+      "레이클라스트보다 더 좋은 훈련장은 없겠어.",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D23_LevelUp_03.ogg"
+    ],
+    [
+      "Duelist70",
+      "오리아스에서 내게 열광하던 사람들도 나를 거의 잊었겠지.",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D23_LevelUp_04.ogg"
+    ],
+    [
+      "Duelist71",
+      "인생이 승리나 죽음 뿐인 건 아니라는 생각이 들기 시작하는데.",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D23_LevelUp_05.ogg"
+    ],
+    [
+      "Duelist72",
+      "지금이라면 위대한 다레소와도 해볼 만할 것 같아.",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D23_LevelUp_06.ogg"
+    ],
+    [
+      "Duelist73",
+      "고향 생각은 접을 때가 된 건가. 옷깃이 좀 조이는군.",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D23_LevelUp_07.ogg"
+    ],
+    [
+      "Shadow1",
+      "테오폴리스 수용소는 이곳에 비하면 애들 장난이야. 요즘 감옥은 이 정도는 아니란 말이지.",
+      "Audio/Dialogue/Character/DexInt/Event/Shadow_02.ogg"
+    ],
+    [
+      "Shadow2",
+      "원래 사람 잡는 일은 내 전문인데, 누군가 바쁘게 움직였던 모양이야.",
+      "Audio/Dialogue/Character/DexInt/Event/Shadow_03.ogg"
+    ],
+    [
+      "Shadow3",
+      "지금까지 살면서 험악한 곳을 여러 번 가보았지만, 여기는 심상치 않아.",
+      "Audio/Dialogue/Character/DexInt/Event/Shadow_04.ogg"
+    ],
+    [
+      "Shadow4",
+      "삶과 죽음을 동등하게 바라보라는 말이 적혀있군. 내가 만일 죽음 그 자체라면, 이곳에서 화가 치밀어오를 것 같아.",
+      "Audio/Dialogue/Character/DexInt/Event/Shadow_05.ogg"
+    ],
+    [
+      "Shadow5",
+      "먼지나 삐져나온 벽돌이 전혀 보이지 않아. 관리할 시간이 정말 넉넉한 모양이군.",
+      "Audio/Dialogue/Character/DexInt/Event/Shadow_06.ogg"
+    ],
+    [
+      "Shadow6",
+      "상한 레테의 젖을 병째로 들이킨 적이 있었지. 여기 있자니 그때와 비슷한 느낌이 들어.",
+      "Audio/Dialogue/Character/DexInt/Event/Shadow_07.ogg"
+    ],
+    [
+      "Shadow7",
+      "덩치가 커봤자 칼을 찔러넣을 구석이 더 많을 뿐이야.",
+      "Audio/Dialogue/Character/DexInt/Event/Shadow_08.ogg"
+    ],
+    [
+      "Shadow8",
+      "불쌍할 지경이군, 페어그레이브즈. 두 번이나 죽다니... 썩 유쾌하지는 않겠어.",
+      "Audio/Dialogue/Character/DexInt/Event/Shadow_09.ogg"
+    ],
+    [
+      "Shadow9",
+      "괜찮은 여인과 처음으로 싸워 보는군. 저렇게 변해 버리다니 안타까울 따름이야.",
+      "Audio/Dialogue/Character/DexInt/Event/Shadow_10.ogg"
+    ],
+    [
+      "Shadow10",
+      "칼싸움에 막대기를 가져오면 그렇게 되는 거야.",
+      "Audio/Dialogue/Character/DexInt/Event/Shadow_11.ogg"
+    ],
+    [
+      "Shadow11",
+      "칼은 빨리 휘두른다고 다가 아니야, 제대로 한 방을 찔러야지.",
+      "Audio/Dialogue/Character/DexInt/Event/Shadow_12.ogg"
+    ],
+    [
+      "Shadow12",
+      "땅바닥이 스스로 움직이기라도 했어? 너무 아프게 넘어지길래 그런 줄 알았지.",
+      "Audio/Dialogue/Character/DexInt/Event/Shadow_13.ogg"
+    ],
+    [
+      "Shadow13",
+      "조만간 찾아올 암살자만큼이나 어둠을 좋아하긴 하지만, 그쪽은 지나치게 어두워.",
+      "Audio/Dialogue/Character/DexInt/Event/Shadow_14.ogg"
+    ],
+    [
+      "Shadow14",
+      "내가 오리아스에서 당신을 죽였더라면 지금쯤 부귀영화를 누리고 있을 텐데. 아직도 천벌을 안 받았군?",
+      "Audio/Dialogue/Character/DexInt/Event/Shadow_15.ogg"
+    ],
+    [
+      "Shadow15",
+      "내 목표에 되도록 사적인 감정을 가지려고 하지 않지만, 파이어티, 당신은 좋은 쪽으로 그 예외야.",
+      "Audio/Dialogue/Character/DexInt/Event/Shadow_16.ogg"
+    ],
+    [
+      "Shadow16",
+      "재미있군요. 예하께서는 키가 더 크실 줄 알았소만.",
+      "Audio/Dialogue/Character/DexInt/Event/Shadow_17.ogg"
+    ],
+    [
+      "Shadow17",
+      "하루를 기분 좋게 시작하는 데 수영 만한 게 없지. 그런데, 여기는 도대체 어디지?",
+      "Audio/Dialogue/Character/DexInt/Event/Shadow_01.ogg"
+    ],
+    [
+      "Shadow18",
+      "뭔가 불안한 기운이 엄습해오는 군.",
+      "Audio/Dialogue/Character/DexInt/Event/Shadow_18.ogg"
+    ],
+    [
+      "Shadow19",
+      "마나가 부족해!",
+      "Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Com_01.ogg"
+    ],
+    [
+      "Shadow20",
+      "주머니가 모자라.",
+      "Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Com_02.ogg"
+    ],
+    [
+      "Shadow21",
+      "한결 낫군!",
+      "Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Com_04.ogg"
+    ],
+    [
+      "Shadow22",
+      "그러기에는 힘이 모자라.",
+      "Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Com_05.ogg"
+    ],
+    [
+      "Shadow23",
+      "그러기에는 아직 지능이 부족해.",
+      "Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Com_06.ogg"
+    ],
+    [
+      "Shadow24",
+      "내가 봐도 너무 다루기 어렵겠어.",
+      "Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Com_07.ogg"
+    ],
+    [
+      "Shadow25",
+      "나중에 쓸 일이 있을 거야.",
+      "Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Com_08.ogg"
+    ],
+    [
+      "Shadow26",
+      "지금 이 행동을 할 필요는 없는 것 같아.",
+      "Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Com_09.ogg"
+    ],
+    [
+      "Shadow27",
+      "아직 죽지 않아서 다행이군.",
+      "Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Level_01.ogg"
+    ],
+    [
+      "Shadow28",
+      "이곳의 모든 몬스터들이 날 죽이려고 작정한 것 같아서 인상적이야.",
+      "Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Level_02.ogg"
+    ],
+    [
+      "Shadow29",
+      "하나를 죽일 때마다 난 조금씩 살아난다.",
+      "Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Level_03.ogg"
+    ],
+    [
+      "Shadow30",
+      "이젠 너무 능숙해져서 무서울 지경이군.",
+      "Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Level_04.ogg"
+    ],
+    [
+      "Shadow31",
+      "나는 잡초를 뽑아 작물을 키우는 정원사 같은 존재다.",
+      "Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Level_05.ogg"
+    ],
+    [
+      "Shadow32",
+      "이젠 과거를 돌아볼 필요가 없겠군. 오직 죽음만이 남았으니까... 끝나려면 아직 멀었어.",
+      "Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Level_06.ogg"
+    ],
+    [
+      "Shadow33",
+      "내가 어떤 사람이 되었는지 자문할 여지가 있겠지. 그럴 필요는 없겠지만 말이야.",
+      "Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Level_07.ogg"
+    ],
+    [
+      "Shadow34",
+      "딱하군, 페어그레이브즈. 당신의 계획은 좋게 끝나는 법이 없는 것 같아.",
+      "Audio/Dialogue/Character/DexInt/Event/SH_AfterFairgraves.ogg"
+    ],
+    [
+      "Shadow35",
+      "그런 계약이라면 기꺼이 이행해줘야지, 파이어티.",
+      "Audio/Dialogue/Character/DexInt/Event/SH_AfterPiety.ogg"
+    ],
+    [
+      "Shadow36",
+      "이렇게나 물살이 깊은데 다니는 배가 한 척도 없다니. 계속 걸어 다니면서 적을 죽여야 할 판이야.",
+      "Audio/Dialogue/Character/DexInt/Event/SH_EnterAqueduct_01.ogg"
+    ],
+    [
+      "Shadow37",
+      "이 야수라는 생물은 정말 대단하군. 죽이기도 아까울 정도야.",
+      "Audio/Dialogue/Character/DexInt/Event/SH_EnterBeast.ogg"
+    ],
+    [
+      "Shadow38",
+      "내가 검은 근위대 요새에 들어오다니... 닭장 속에 여우를 풀어놓은 격이지.",
+      "Audio/Dialogue/Character/DexInt/Event/SH_EnterBlackguard.ogg"
+    ],
+    [
+      "Shadow39",
+      "이곳 공기는 마치... 도살장 아래의 화덕에서 날 법한 냄새를 풍기는군.",
+      "Audio/Dialogue/Character/DexInt/Event/SH_EnterCoast.ogg"
+    ],
+    [
+      "Shadow40",
+      "숲이라. 엄청나게 치명적인 것들이 숨기 좋은 곳이지. ",
+      "Audio/Dialogue/Character/DexInt/Event/SH_EnterForest.ogg"
+    ],
+    [
+      "Shadow41",
+      "내가 파이어티와 협력하다니... 소리내어 말하려니 더욱 실감이 안 날 정도야.",
+      "Audio/Dialogue/Character/DexInt/Event/SH_EnterHarvest.ogg"
+    ],
+    [
+      "Shadow42",
+      "상한 레테의 젖을 먹고 사흘간 젖꼭지를 물지 못한 적이 있었지. 이곳 분위기와 비슷한 느낌이었어.",
+      "Audio/Dialogue/Character/DexInt/Event/SH_EnterLunaris.ogg"
+    ],
+    [
+      "Shadow43",
+      "어둠 따위가 날 삼켜봤자 탈 나는 건 내가 아니야.",
+      "Audio/Dialogue/Character/DexInt/Event/SH_EnterMines1.ogg"
+    ],
+    [
+      "Shadow44",
+      "산 내부에서 뭔가가 아주 바쁘게 움직이고 있군.",
+      "Audio/Dialogue/Character/DexInt/Event/SH_EnterMines2.ogg"
+    ],
+    [
+      "Shadow45",
+      "이 변비 걸린 내장이 내가 안에 있는 동안 내용물을 쏟아내지 말아야 할 텐데.",
+      "Audio/Dialogue/Character/DexInt/Event/SH_EnterMines3.ogg"
+    ],
+    [
+      "Shadow46",
+      "아! 도시로 돌아오니 정말 좋네. ",
+      "Audio/Dialogue/Character/DexInt/Event/SH_EnterSarn.ogg"
+    ],
+    [
+      "Shadow47",
+      "이곳을 지은 사람은 무언가를 필사적으로 만회하려는 것 같군.",
+      "Audio/Dialogue/Character/DexInt/Event/SH_EnterScepter.ogg"
+    ],
+    [
+      "Shadow48",
+      "진실하고 영원한 죽음을 볼 때마다 마음이 항상 편해지는군.",
+      "Audio/Dialogue/Character/DexInt/Event/SH_FreeDeshret.ogg"
+    ],
+    [
+      "Shadow49",
+      "오, 머베일. 나에게도 노래를 불러주겠소? 기분 좋은 걸로 한 곡조 청하겠소.",
+      "Audio/Dialogue/Character/DexInt/Event/SH_KillDaresso.ogg"
+    ],
+    [
+      "Shadow50",
+      "아, 그만 좀 웅얼대.",
+      "Audio/Dialogue/Character/DexInt/Event/SH_KillDoedre.ogg"
+    ],
+    [
+      "Shadow51",
+      "이미 죽은 사람을 또 살해하는 게 가능한가?",
+      "Audio/Dialogue/Character/DexInt/Event/SH_KillFirstZombie.ogg"
+    ],
+    [
+      "Shadow52",
+      "당신이 간과한 게 바로 그거야, 말라카이. 죽음은 삶에 유일하게 의미를 부여하거든.",
+      "Audio/Dialogue/Character/DexInt/Event/SH_KillMalachai.ogg"
+    ],
+    [
+      "Shadow53",
+      "내가 예술은 잘 모르지만, 적어도 취향은 확실하다고.",
+      "Audio/Dialogue/Character/DexInt/Event/SH_KillMaligaro.ogg"
+    ],
+    [
+      "Shadow54",
+      "외모에 몰두하는 사람치고는 흉측한 죽음이군.",
+      "Audio/Dialogue/Character/DexInt/Event/SH_KillShavronne.ogg"
+    ],
+    [
+      "Shadow55",
+      "방금 황제를 죽였어. 저렇게 큰 장식용 깃털을 가지고 있었다니, 더 큰 모자를 장만해야겠어.",
+      "Audio/Dialogue/Character/DexInt/Event/SH_KillVoll.ogg"
+    ],
+    [
+      "Shadow56",
+      "잠시 숨 좀 고르자.",
+      "Audio/Dialogue/Character/DexInt/Gameplay/SH_Cooldown_01.ogg"
+    ],
+    [
+      "Shadow57",
+      "잠시 숨 좀 고르자.",
+      "Audio/Dialogue/Character/DexInt/Gameplay/SH_Cooldown_02.ogg"
+    ],
+    [
+      "Shadow58",
+      "잠시 숨 좀 고르자.",
+      "Audio/Dialogue/Character/DexInt/Gameplay/SH_Cooldown_03.ogg"
+    ],
+    [
+      "Shadow59",
+      "기분이 끝내주네!",
+      "Audio/Dialogue/Character/DexInt/Gameplay/SH_MonsterKill_01a.ogg"
+    ],
+    [
+      "Shadow60",
+      "기분이 끝내주네!",
+      "Audio/Dialogue/Character/DexInt/Gameplay/SH_MonsterKill_01b.ogg"
+    ],
+    [
+      "Shadow61",
+      "살인이라고 모두 똑같은 게 아니야!",
+      "Audio/Dialogue/Character/DexInt/Gameplay/SH_MonsterKill_02a.ogg"
+    ],
+    [
+      "Shadow62",
+      "살인이라고 모두 똑같은 게 아니야!",
+      "Audio/Dialogue/Character/DexInt/Gameplay/SH_MonsterKill_02b.ogg"
+    ],
+    [
+      "Shadow63",
+      "재미있군그래!",
+      "Audio/Dialogue/Character/DexInt/Gameplay/SH_MonsterKill_03a.ogg"
+    ],
+    [
+      "Shadow64",
+      "재미있군그래!",
+      "Audio/Dialogue/Character/DexInt/Gameplay/SH_MonsterKill_03b.ogg"
+    ],
+    [
+      "Shadow65",
+      "죽은 척이나 해라. 착하기도 하지!",
+      "Audio/Dialogue/Character/DexInt/Gameplay/SH_MonsterKill_04.ogg"
+    ],
+    [
+      "Shadow66",
+      "죽음을 휴일로 받아들여 봐, 카옴. 발 뻗고 푹 쉴 수 있잖아. ",
+      "Audio/Dialogue/Character/DexInt/Event/SH_KillKaom.ogg"
+    ],
+    [
+      "Shadow67",
+      "상갓집 농담만큼이나 시시해 빠졌군.",
+      "Audio/Dialogue/Character/DexInt/Event/SH_EnterLake.ogg"
+    ],
+    [
+      "Shadow68",
+      "불쾌할 정도로 분노에 찬 곳이군.",
+      "Audio/Dialogue/Character/DexInt/Event/SH_EnterKaom.ogg"
+    ],
+    [
+      "Templar1",
+      "내가 꾼 악몽들이... 전부 예언이었다니.",
+      "Audio/Dialogue/Character/StrInt/Event/Templar_01.ogg"
+    ],
+    [
+      "Templar2",
+      "이 감옥에서는 사악한 이들이 철창을 긁어대며 내보내 달라고 아우성치지.",
+      "Audio/Dialogue/Character/StrInt/Event/Templar_02.ogg"
+    ],
+    [
+      "Templar3",
+      "아버지의 눈을 피해 고아들을 매장하던 곳이군.",
+      "Audio/Dialogue/Character/StrInt/Event/Templar_03.ogg"
+    ],
+    [
+      "Templar4",
+      "거짓 신성을 표방하며 유흥 거리를 만들던 자의 소굴이야.",
+      "Audio/Dialogue/Character/StrInt/Event/Templar_04.ogg"
+    ],
+    [
+      "Templar5",
+      "주께서는 오른손에 생명을, 왼손에 죽음을 들고 계신다... 신의 손가락 사이로 빠져나간 자들도 존재하지.",
+      "Audio/Dialogue/Character/StrInt/Event/Templar_05.ogg"
+    ],
+    [
+      "Templar6",
+      "이 제국에는 어떤 불멸의 존재가 남아있다. 어떻게 이럴 수가 있는 거지?",
+      "Audio/Dialogue/Character/StrInt/Event/Templar_06.ogg"
+    ],
+    [
+      "Templar7",
+      "현실에 강림한 지옥에 이렇게 첫발을 내딛게 되었군.",
+      "Audio/Dialogue/Character/StrInt/Event/Templar_07.ogg"
+    ],
+    [
+      "Templar8",
+      "이렇게 고통받는 땅에서는 망자도 안식을 찾지 못하겠어.",
+      "Audio/Dialogue/Character/StrInt/Event/Templar_08.ogg"
+    ],
+    [
+      "Templar9",
+      "잠들어라, 고통받는 영혼이여.",
+      "Audio/Dialogue/Character/StrInt/Event/Templar_09.ogg"
+    ],
+    [
+      "Templar10",
+      "한 여인이 인간의 모습을 벗어날 정도로 타락하다니. 신의 피조물이 모두 병들기 전에 이 전염병을 막아야겠어.",
+      "Audio/Dialogue/Character/StrInt/Event/Templar_10.ogg"
+    ],
+    [
+      "Templar11",
+      "감히 무법자 주제에 평안을 논해? 그 허언 덕분에 네놈에게 평안을 가져다주게 되었군.",
+      "Audio/Dialogue/Character/StrInt/Event/Templar_11.ogg"
+    ],
+    [
+      "Templar12",
+      "당신 같은 도적에겐 아무것도 줄 수 없어. 원한과 탐욕으로 낭비한 그 삶도 빼앗아주지.",
+      "Audio/Dialogue/Character/StrInt/Event/Templar_12.ogg"
+    ],
+    [
+      "Templar13",
+      "신의 딸이여, 그대는 축복을 받을 거야. 주께서 진정한 친구란 무엇인지 알려주실 테니까.",
+      "Audio/Dialogue/Character/StrInt/Event/Templar_13.ogg"
+    ],
+    [
+      "Templar14",
+      "원래 있던 자리로 돌아가거라, 악몽이여! 독실한 신자라면 당신 같은 부류를 두려워할 이유는 없다.",
+      "Audio/Dialogue/Character/StrInt/Event/Templar_14.ogg"
+    ],
+    [
+      "Templar15",
+      "자네가 자초한 일일세, 오랜 친구여. 신이 나를 마지막 순간에 보낸 것뿐이야.",
+      "Audio/Dialogue/Character/StrInt/Event/Templar_15.ogg"
+    ],
+    [
+      "Templar16",
+      "잠시나마 안식을 취하게나, 고통의 여제여. 심판이 자네에게 관대할 일은 없을 거야.",
+      "Audio/Dialogue/Character/StrInt/Event/Templar_16.ogg"
+    ],
+    [
+      "Templar17",
+      "그대가 나를 추방한 건 창세기에 불과했네, 도미누스여. 머나먼 길과 수많은 살육을 거쳐 여기로 왔으니, 이제 나는 기꺼이 그대의 묵시록이 되어주겠다!",
+      "Audio/Dialogue/Character/StrInt/Event/Templar_17.ogg"
+    ],
+    [
+      "Templar18",
+      "간청드립니다, 주님. 이 세상을 다시 빛으로 이끌게 도와주십시오.",
+      "Audio/Dialogue/Character/StrInt/Event/Templar_18.ogg"
+    ],
+    [
+      "Templar19",
+      "마나가 바닥났어.",
+      "Audio/Dialogue/Character/StrInt/Gameplay/Templar_Com_01.ogg"
+    ],
+    [
+      "Templar20",
+      "난 짐 들어주는 짐승이 아니야.",
+      "Audio/Dialogue/Character/StrInt/Gameplay/Templar_Com_02.ogg"
+    ],
+    [
+      "Templar21",
+      "아, 훨씬 낫군.",
+      "Audio/Dialogue/Character/StrInt/Gameplay/Templar_Com_04.ogg"
+    ],
+    [
+      "Templar22",
+      "신과 함께 가라!",
+      "Audio/Dialogue/Character/StrInt/Gameplay/Templar_Com_05.ogg"
+    ],
+    [
+      "Templar23",
+      "이런 걸 사용하기에는 힘이 모자라.",
+      "Audio/Dialogue/Character/StrInt/Gameplay/Templar_Com_06.ogg"
+    ],
+    [
+      "Templar24",
+      "지금 쓰기에는 난처한 물건이군.",
+      "Audio/Dialogue/Character/StrInt/Gameplay/Templar_Com_07.ogg"
+    ],
+    [
+      "Templar25",
+      "이걸 사용하려면 발재간이 더 빨라야겠어.",
+      "Audio/Dialogue/Character/StrInt/Gameplay/Templar_Com_08.ogg"
+    ],
+    [
+      "Templar26",
+      "부수면 안 될 것 같은데.",
+      "Audio/Dialogue/Character/StrInt/Gameplay/Templar_Com_09.ogg"
+    ],
+    [
+      "Templar27",
+      "때와 장소를 가려야지.",
+      "Audio/Dialogue/Character/StrInt/Gameplay/Templar_Com_10.ogg"
+    ],
+    [
+      "Templar28",
+      "아직은 신과 만날 때가 아닌 것 같군.",
+      "Audio/Dialogue/Character/StrInt/Gameplay/Templar_Level_01.ogg"
+    ],
+    [
+      "Templar29",
+      "신께서 내 기도에 응답해주셨다.",
+      "Audio/Dialogue/Character/StrInt/Gameplay/Templar_Level_02.ogg"
+    ],
+    [
+      "Templar30",
+      "피를 흘릴 때마다 목적지가 명확해지고 있어.",
+      "Audio/Dialogue/Character/StrInt/Gameplay/Templar_Level_03.ogg"
+    ],
+    [
+      "Templar31",
+      "이 미천한 종이 감사를 올립니다, 주님.",
+      "Audio/Dialogue/Character/StrInt/Gameplay/Templar_Level_04.ogg"
+    ],
+    [
+      "Templar32",
+      "빛의 주인이시여, 당신의 제게 필요한 것은 당신의 신뢰뿐입니다.",
+      "Audio/Dialogue/Character/StrInt/Gameplay/Templar_Level_05.ogg"
+    ],
+    [
+      "Templar33",
+      "밤은 낮에 자리를 양보해야만 한다.",
+      "Audio/Dialogue/Character/StrInt/Gameplay/Templar_Level_06.ogg"
+    ],
+    [
+      "Templar34",
+      "이번 임무를 완수하기 위해 이 땅에 태어났다. 나는 해낼 것이다.",
+      "Audio/Dialogue/Character/StrInt/Gameplay/Templar_Level_07.ogg"
+    ],
+    [
+      "Templar35",
+      "신으로부터 도망칠수록 더 비참해지는 법일세, 페어그레이브즈.",
+      "Audio/Dialogue/Character/StrInt/Event/Tmpl_AfterFairgraves2.ogg"
+    ],
+    [
+      "Templar36",
+      "이 강물로 나의 죄를 씻어내어 다시금 몸을 정화할 수 있기를.",
+      "Audio/Dialogue/Character/StrInt/Event/Tmpl_Aqueduct.ogg"
+    ],
+    [
+      "Templar37",
+      "주님, 죄송합니다. 당신의 창조물을 남용하지 않아야 했거늘.",
+      "Audio/Dialogue/Character/StrInt/Event/Tmpl_DriedLake.ogg"
+    ],
+    [
+      "Templar38",
+      "이 숲은... 매우 뒤틀려있어. 이 타락의 물결을 되돌리기에 너무 늦지 않았어야 할 텐데. ",
+      "Audio/Dialogue/Character/StrInt/Event/Tmpl_EnterAct2.ogg"
+    ],
+    [
+      "Templar39",
+      "이건 창조가 아니야. 악용이지.",
+      "Audio/Dialogue/Character/StrInt/Event/Tmpl_EnterBelly.ogg"
+    ],
+    [
+      "Templar40",
+      "하느님 맙소사, 이게 무슨 냄새야?",
+      "Audio/Dialogue/Character/StrInt/Event/Tmpl_EnterCanibalBay.ogg"
+    ],
+    [
+      "Templar41",
+      "여기 신의 전당에서 오물을 몰아내리라.",
+      "Audio/Dialogue/Character/StrInt/Event/Tmpl_EnterCatacombs.ogg"
+    ],
+    [
+      "Templar42",
+      "믿음으로 가득 찼던 곳이 신을 모독할 정도로 몰락했군.",
+      "Audio/Dialogue/Character/StrInt/Event/Tmpl_EnterFelShrine.ogg"
+    ],
+    [
+      "Templar43",
+      "파이어티, 그대가 어째서? 조만간 진짜 목적을 드러내리라 확신하네. ",
+      "Audio/Dialogue/Character/StrInt/Event/Tmpl_EnterHarvest.ogg"
+    ],
+    [
+      "Templar44",
+      "이곳 공기는 분노로 이글거리는군.",
+      "Audio/Dialogue/Character/StrInt/Event/Tmpl_EnterKaom.ogg"
+    ],
+    [
+      "Templar45",
+      "땅이 심판이 두려운 나머지 떨고 있군그래.",
+      "Audio/Dialogue/Character/StrInt/Event/Tmpl_EnterMines1.ogg"
+    ],
+    [
+      "Templar46",
+      "타락이 산의 근간을 좀먹고 있어.",
+      "Audio/Dialogue/Character/StrInt/Event/Tmpl_EnterMines2.ogg"
+    ],
+    [
+      "Templar47",
+      "대재앙이 임박하여 지면이 동요하는군.",
+      "Audio/Dialogue/Character/StrInt/Event/Tmpl_EnterMines3.ogg"
+    ],
+    [
+      "Templar48",
+      "템플러가 태동했던 사안이로군. 모든 것을 제자리로 돌려놓기에 적절한 곳이야.",
+      "Audio/Dialogue/Character/StrInt/Event/Tmpl_EnterSarn.ogg"
+    ],
+    [
+      "Templar49",
+      "신의 은총을 기리기 위해 돌을 올려놓다니. 아름답도다!",
+      "Audio/Dialogue/Character/StrInt/Event/Tmpl_EnterScepter.ogg"
+    ],
+    [
+      "Templar50",
+      "자네만큼이나 고통받는 영혼은 없어야 하네, 데쉬렛.",
+      "Audio/Dialogue/Character/StrInt/Event/Tmpl_FreeDeshret.ogg"
+    ],
+    [
+      "Templar51",
+      "영웅이 숨을 거두면 삶에서 찾은 것보다 더 큰 영광을 누리는 법이다.",
+      "Audio/Dialogue/Character/StrInt/Event/Tmpl_KillDaresso.ogg"
+    ],
+    [
+      "Templar52",
+      "죽음을 받아들여라, 도이드리. 그대의 육체를 파멸시킨 건 바로 그대 자신이다.",
+      "Audio/Dialogue/Character/StrInt/Event/Tmpl_KillDoedre.ogg"
+    ],
+    [
+      "Templar53",
+      "그 아무리 고결한 자라도 탐욕 때문에 변할 수 있구나. 나도 조심해야겠군.",
+      "Audio/Dialogue/Character/StrInt/Event/Tmpl_KillFairgraves.ogg"
+    ],
+    [
+      "Templar54",
+      "자네는 지옥으로 가는 길을 택했어, 카옴. 다른 길을 찾게나.",
+      "Audio/Dialogue/Character/StrInt/Event/Tmpl_KillKaom.ogg"
+    ],
+    [
+      "Templar55",
+      "그대는 평생 죽음과 맞서 싸웠군, 말라카이. 허나, 죽음만이 진정한 불멸을 가져다줄 수단일세.",
+      "Audio/Dialogue/Character/StrInt/Event/Tmpl_KillMalachai.ogg"
+    ],
+    [
+      "Templar56",
+      "신이 선사한 재능을 낭비했군, 말리가로.",
+      "Audio/Dialogue/Character/StrInt/Event/Tmpl_KillMaligaro.ogg"
+    ],
+    [
+      "Templar57",
+      "그럴 필요 없네, 파이어티. 그대가 직접 가서 확인해보게나.",
+      "Audio/Dialogue/Character/StrInt/Event/Tmpl_KillPiety.ogg"
+    ],
+    [
+      "Templar58",
+      "허영심에 스스로 갇히고 말았군, 샤브론.",
+      "Audio/Dialogue/Character/StrInt/Event/Tmpl_KillShav.ogg"
+    ],
+    [
+      "Templar59",
+      "이제 넌 자유다, 볼. 신과 함께하라.",
+      "Audio/Dialogue/Character/StrInt/Event/Tmpl_KillVoll.ogg"
+    ],
+    [
+      "Templar60",
+      "신과 함께 가라!",
+      "Audio/Dialogue/Character/StrInt/Gameplay/Tmpl_KillRare_01.ogg"
+    ],
+    [
+      "Templar61",
+      "신과 함께 가라!",
+      "Audio/Dialogue/Character/StrInt/Gameplay/Tmpl_KillRare_02.ogg"
+    ],
+    [
+      "Templar62",
+      "씬에게 죽음을!",
+      "Audio/Dialogue/Character/StrInt/Gameplay/Tmpl_KillRare_03.ogg"
+    ],
+    [
+      "Templar63",
+      "씬에게 죽음을!",
+      "Audio/Dialogue/Character/StrInt/Gameplay/Tmpl_KillRare_04.ogg"
+    ],
+    [
+      "Templar64",
+      "정화는 계속된다!",
+      "Audio/Dialogue/Character/StrInt/Gameplay/Tmpl_KillRare_05.ogg"
+    ],
+    [
+      "Templar65",
+      "정화는 계속된다!",
+      "Audio/Dialogue/Character/StrInt/Gameplay/Tmpl_KillRare_06.ogg"
+    ],
+    [
+      "Templar66",
+      "타락한 자는 몰락하리라!",
+      "Audio/Dialogue/Character/StrInt/Gameplay/Tmpl_KillRare_07.ogg"
+    ],
+    [
+      "Templar67",
+      "타락한 자는 몰락하리라!",
+      "Audio/Dialogue/Character/StrInt/Gameplay/Tmpl_KillRare_08.ogg"
+    ],
+    [
+      "Templar68",
+      "지옥으로 같이 데려가주마!",
+      "Audio/Dialogue/Character/StrInt/Gameplay/Tmpl_KillRare_09.ogg"
+    ],
+    [
+      "Templar69",
+      "지옥으로 같이 데려가주마!",
+      "Audio/Dialogue/Character/StrInt/Gameplay/Tmpl_KillRare_10.ogg"
+    ],
+    [
+      "Templar70",
+      "의지를 가다듬을 시간이 필요해",
+      "Audio/Dialogue/Character/StrInt/Gameplay/Tmpl_SkillonCool.ogg"
+    ],
+    [
+      "Scion1",
+      "그냥 우리를 처형하고 일을 끝맺는 게 어때, 도미누스?",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_01_GetUp.ogg"
+    ],
+    [
+      "Scion2",
+      "소문이 사실이었어... 레이클라스트에 죽은 자들이 돌아다니다니.",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_02_KillZombie.ogg"
+    ],
+    [
+      "Scion3",
+      "아직 너와 저승길 동무가 될 생각은 없어.",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_03_KillHillock.ogg"
+    ],
+    [
+      "Scion4",
+      "간단한 결정을 내려야 할 때야. 죽이거나... 아니면 먹히거나.",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_04_EnterCannibalBay.ogg"
+    ],
+    [
+      "Scion5",
+      "오리아스이나 액시옴이나 결국 감옥인 건 매한가지야.",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_05_EnterPrison.ogg"
+    ],
+    [
+      "Scion6",
+      "당신을 보니 우리 전남편이 생각나네.",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_06_KillBrutus.ogg"
+    ],
+    [
+      "Scion7",
+      "삶과 죽음의 경계가 무너져내리고 있어.",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_07_EnterShipGraveyard.ogg"
+    ],
+    [
+      "Scion8",
+      "상륙 기간은 끝났어, 선장님.",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_08_KillFairgraves.ogg"
+    ],
+    [
+      "Scion9",
+      "어째서 인간은 우리를 괴물로 만드는 거지?",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_09_KillMerveil.ogg"
+    ],
+    [
+      "Scion10",
+      "미개한 것들이 주변에 가득하네.",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_10_EnterSouthForest.ogg"
+    ],
+    [
+      "Scion11",
+      "이곳 사람들은 자기 마음의 소리를 들어봐야 했어. 이미 다른 이에게 마음을 빼앗겼던 거야.",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_11_EnterCOS.ogg"
+    ],
+    [
+      "Scion12",
+      "이 잔혹한 실험을 중단할 사람이 아무도 없었다니.",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_12_KillFidelitas.ogg"
+    ],
+    [
+      "Scion13",
+      "세상이 이렇게나 망가졌는데, 당신네는 상황을 더 악화시키려고 하는군.",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_13_KillKraityn.ogg"
+    ],
+    [
+      "Scion14",
+      "당신은 우리 여성의 수치야.",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_14_KillAlira.ogg"
+    ],
+    [
+      "Scion15",
+      "이게 바로 진짜 평화야, 오크. 레이클라스트의 모든 이가 반길 만한 평화라고.",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_15_KillOak.ogg"
+    ],
+    [
+      "Scion16",
+      "맙소사, 안 돼! 원래대로 돌려놓을 방법이 있는지 찾아봐야겠어.",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_16_ReleaseDarkness.ogg"
+    ],
+    [
+      "Scion17",
+      "인생을 살면서 적어도 몸가짐은 단정하게 해야겠지.",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_17_KillVaalOversoul.ogg"
+    ],
+    [
+      "Scion18",
+      "황제는 사안을 통치하다가... 죽었어. 모두와 마찬가지였지.",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_18_EnterSarn.ogg"
+    ],
+    [
+      "Scion19",
+      "사람은 세상에 남긴 찌꺼기로만 기억되는 거야.",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_19_EnterSewer.ogg"
+    ],
+    [
+      "Scion20",
+      "레이클라스트를 사람들의 의지대로 흘러가게 놔둔다면 이런 결과를 초래하겠지.",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_20_SeenUndyingSphincter.ogg"
+    ],
+    [
+      "Scion21",
+      "레이클라스트에서는 세월마저 뜻을 잃는구나.",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_21_EnterSolaris.ogg"
+    ],
+    [
+      "Scion22",
+      "당신 같은 사람이 레이클라스트를 차지해선 안 돼.",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_22_KillGravicius.ogg"
+    ],
+    [
+      "Scion23",
+      "이러한 악행을 저지를 만한 사람은 한명 뿐이야. 파이어티지.",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_23_EnterLunaris.ogg"
+    ],
+    [
+      "Scion24",
+      "당신이 한 짓을 생각하면 천번은 죽이고 싶을 정도야.",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_24_KillPiety.ogg"
+    ],
+    [
+      "Scion25",
+      "이 탑이 사실을 대변하고 있어. 영원한 제국은 교만함으로 멸망한 거야.",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_25_EnterSceptre.ogg"
+    ],
+    [
+      "Scion26",
+      "내가 지금 서 있는 곳의 풍경이 더 아름다워, 도미누스.",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_26_KillDominus.ogg"
+    ],
+    [
+      "Scion27",
+      "지금 죽은 건 꼭두각시야. 이제 인형의 실을 따라서 주인을 찾아가야겠지. ",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_27_EnterAqueduct.ogg"
+    ],
+    [
+      "Scion28",
+      "제국은 대재앙이 일어날 필요도 없었어. 스스로 멸망을 초래했으니까.",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_28_EnterDriedLake.ogg"
+    ],
+    [
+      "Scion29",
+      "씬은 악몽이 스며 나오는 틈새의 역할을 하고 있어. 당신의 씬은 뭐지, 볼? 자만심?",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_29_KillVoll.ogg"
+    ],
+    [
+      "Scion30",
+      "짐승이 내가 온 걸 눈치챘나 봐.",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_30_EnterMines1.ogg"
+    ],
+    [
+      "Scion31",
+      "그래, 짐승이여. 마음껏 두려워해라.",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_31_EnterMines2.ogg"
+    ],
+    [
+      "Scion32",
+      "당신은 악몽의 사슬을 처음으로 벗어던진 사람 중 한 명이 될 거야, 데쉬렛.",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_32_FreeDeshret.ogg"
+    ],
+    [
+      "Scion33",
+      "짐승이여, 네가 두려워할수록 내 의지는 더욱 확실해진다.",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_33_EnterMines3.ogg"
+    ],
+    [
+      "Scion34",
+      "사정이 딱하게 되었군, 노예여.",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_34_KillBarkhul.ogg"
+    ],
+    [
+      "Scion35",
+      "사랑 때문에 스스로 칼날을 맞은 격이군, 검의 제왕이여.",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_35_KillDaresso.ogg"
+    ],
+    [
+      "Scion36",
+      "나는 카옴의 고통받는 마음을 이해한다.",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_36_EnterKaomRealm.ogg"
+    ],
+    [
+      "Scion37",
+      "선조들에게 할 말을 남겨두어라, 카옴. 그래야 할 거야.",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_37_KillKaom.ogg"
+    ],
+    [
+      "Scion38",
+      "악몽이 현실이 되었군.",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_38_EnterBelly.ogg"
+    ],
+    [
+      "Scion39",
+      "살점과 생명력이 한데 얽히다니... 대단하면서도 끔찍해.",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_39_EnterHarvest.ogg"
+    ],
+    [
+      "Scion40",
+      "미안해, 말리가로. 난 예술에 관해서는 깐깐하거든.",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_40_KillMaligaro.ogg"
+    ],
+    [
+      "Scion41",
+      "세상 사람들은 네 기준의 아름다움을 원하지 않아, 샤브론.",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_41_KillShav.ogg"
+    ],
+    [
+      "Scion42",
+      "네 주린 배를 채우려면 이럴 수밖에 없었어, 도이드리.",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_42_KillDoedre.ogg"
+    ],
+    [
+      "Scion43",
+      "나에게 맞는 해결책은 한 가지뿐이야, 파이어티. 짐승을 죽여야 해. ",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_43_PietyDies.ogg"
+    ],
+    [
+      "Scion44",
+      "불쌍한 말라카이. 삼 백년 동안 죽음과 맞서는 동안 살아남는 데 시간을 할애한 적은 한 번도 없구나.",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_44_KillMalachai.ogg"
+    ],
+    [
+      "Scion45",
+      "서로 다른 세상에서 살아가던 우리가 유배 덕분에 만나게 되었군요.\r\n\r\n오리아스에서는 절 기적의 아이라며 찬양했지만, 그런 칭호 따위는 아무 쓸모도 없어요. 천재나 유배자, 괴물, 영웅 따위의 칭호로는... 당신조차 정의할 수 없으니 말이에요. 레이클라스트는 무엇을 행하는지로 자신을 내보이는 곳이잖아요.\r\n\r\n고마워요. 당신 덕분에 뭐가 중요한지 깨달았어요. 그건 자신이 시작한 일을 마무리지을 수 있는 자유였어요.",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_45_FreedomSpeech.ogg"
+    ],
+    [
+      "Scion46",
+      "잠시라도 좋으니 좀 쉬면 안 될까?",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Cooldown_01.ogg"
+    ],
+    [
+      "Scion47",
+      "잠시라도 좋으니 좀 쉬면 안 될까?",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Cooldown_02.ogg"
+    ],
+    [
+      "Scion48",
+      "내가 이걸 쓰기에는 솜씨가 부족해.",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Dex_01.ogg"
+    ],
+    [
+      "Scion49",
+      "내가 이걸 쓰기에는 솜씨가 부족해.",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Dex_02.ogg"
+    ],
+    [
+      "Scion50",
+      "아... 훨씬 나아졌어.",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Health_01.ogg"
+    ],
+    [
+      "Scion51",
+      "아... 훨씬 나아졌어.",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Health_02.ogg"
+    ],
+    [
+      "Scion52",
+      "그걸 어떻게 사용하는지 전혀 모르겠는데.",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Int_01.ogg"
+    ],
+    [
+      "Scion53",
+      "그걸 어떻게 사용하는지 전혀 모르겠는데.",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Int_02.ogg"
+    ],
+    [
+      "Scion54",
+      "짐이 너무 많아.",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Inventory_01.ogg"
+    ],
+    [
+      "Scion55",
+      "짐이 너무 많아.",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Inventory_02.ogg"
+    ],
+    [
+      "Scion56",
+      "이젠 발휘할 힘이 없어.",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Mana_01.ogg"
+    ],
+    [
+      "Scion57",
+      "이젠 발휘할 힘이 없어.",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Mana_02.ogg"
+    ],
+    [
+      "Scion58",
+      "조만간 그게 필요할 거야.",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Questitem_01.ogg"
+    ],
+    [
+      "Scion59",
+      "조만간 그게 필요할 거야.",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Questitem_02.ogg"
+    ],
+    [
+      "Scion60",
+      "죽음으로 자비를 베풀어주마.",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_RareKill_01.ogg"
+    ],
+    [
+      "Scion61",
+      "죽음으로 자비를 베풀어주마.",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_RareKill_02.ogg"
+    ],
+    [
+      "Scion62",
+      "잠들어라, 작은 악몽이여.",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_RareKill_03.ogg"
+    ],
+    [
+      "Scion63",
+      "잠들어라, 작은 악몽이여.",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_RareKill_04.ogg"
+    ],
+    [
+      "Scion64",
+      "부디 계속 잠들어있기를.",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_RareKill_05.ogg"
+    ],
+    [
+      "Scion65",
+      "부디 계속 잠들어있기를.",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_RareKill_06.ogg"
+    ],
+    [
+      "Scion66",
+      "이상할 정도로 기분이 좋네.",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_RareKill_07.ogg"
+    ],
+    [
+      "Scion67",
+      "이상할 정도로 기분이 좋네.",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_RareKill_08.ogg"
+    ],
+    [
+      "Scion68",
+      "네 고통을 끝내주마.",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_RareKill_09.ogg"
+    ],
+    [
+      "Scion69",
+      "네 고통을 끝내주마.",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_RareKill_10.ogg"
+    ],
+    [
+      "Scion70",
+      "때와 장소에 맞지 않아.",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_SkillsTown_01.ogg"
+    ],
+    [
+      "Scion71",
+      "때와 장소에 맞지 않아.",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_SkillsTown_02.ogg"
+    ],
+    [
+      "Scion72",
+      "나에게는 너무 육중한 물건이야.",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Str_01.ogg"
+    ],
+    [
+      "Scion73",
+      "나에게는 너무 육중한 물건이야.",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Str_02.ogg"
+    ],
+    [
+      "Scion74",
+      "추방이라는 가르침을 언제나 빠르게 습득하는 중이야.",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_47_LevelUp_01.ogg"
+    ],
+    [
+      "Scion75",
+      "묘지에서도 생명은 자라난다.",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_47_LevelUp_02.ogg"
+    ],
+    [
+      "Scion76",
+      "배우고, 죽이며, 살아남아야지.",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_47_LevelUp_03.ogg"
+    ],
+    [
+      "Scion77",
+      "신동이라는 별명을 그냥 받아들일까 봐.",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_47_LevelUp_04.ogg"
+    ],
+    [
+      "Scion78",
+      "힘은 타락하고, 타락은 힘을 얻는 법이야.",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_47_LevelUp_05.ogg"
+    ],
+    [
+      "Scion79",
+      "명예를 얻어도 레이클라스트에선 안주할 수 없어.",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_47_LevelUp_06.ogg"
+    ],
+    [
+      "Scion80",
+      "나는 걸어다니는 악몽이 되었구나.",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_47_LevelUp_07.ogg"
+    ],
+    [
+      "Jack1",
+      "참으로 아름다운 고깃덩이구나!",
+      "Audio/Dialogue/NPC/JackTheAxeArea/JTA_Approach_Piety_01.ogg"
+    ],
+    [
+      "Jack2",
+      "여기서 강대한 힘이 느껴진다. 양껏 먹으러 가야겠어!",
+      "Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Abyss_01.ogg"
+    ],
+    [
+      "Jack3",
+      "여기에 강한 놈이 있어. 집어삼키러 가자!",
+      "Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Apex_01.ogg"
+    ],
+    [
+      "Jack4",
+      "먹을 게 많구나.",
+      "Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Barracks_01.ogg"
+    ],
+    [
+      "Jack5",
+      "신선한 고기를 썰어보자!",
+      "Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Belly_01.ogg"
+    ],
+    [
+      "Jack6",
+      "살을 자르고 뼈를 부숴라!",
+      "Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_DriedLake_01.ogg"
+    ],
+    [
+      "Jack7",
+      "고통받는 자가 있군. 삶을 면해주자고.",
+      "Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Dungeon_01.ogg"
+    ],
+    [
+      "Jack8",
+      "큰 짐승이라... 뜯을 살점이 많겠어.",
+      "Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Grotto_01.ogg"
+    ],
+    [
+      "Jack9",
+      "거미 떼가 있잖아... 난 거미가 싫어.",
+      "Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Jungle_01.ogg"
+    ],
+    [
+      "Jack10",
+      "길이 여러 개라면 짐승도 많겠지. 재밌게 놀아보자고!",
+      "Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Labyrinth_01.ogg"
+    ],
+    [
+      "Jack11",
+      "죽음 말고는 아무것도 없는 곳이군.",
+      "Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Lunaris3_01.ogg"
+    ],
+    [
+      "Jack12",
+      "여기는... 오래전에 온 적 있는 장소야.",
+      "Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Maelstrom_01.ogg"
+    ],
+    [
+      "Jack13",
+      "살을 발라내. 다 발라내 버려!",
+      "Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Mines_01.ogg"
+    ],
+    [
+      "Jack14",
+      "더러운 로아 녀석들. 다 죽여버리자!",
+      "Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_MudGeyser_01.ogg"
+    ],
+    [
+      "Jack15",
+      "사안이군... 내 고향이야.",
+      "Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Sarn_01.ogg"
+    ],
+    [
+      "Jack16",
+      "고통이 가득한 곳이군. 마음에 들어.",
+      "Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Sceptre_01.ogg"
+    ],
+    [
+      "Jack17",
+      "윽. 거미잖아.",
+      "Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_SpiderForest_01.ogg"
+    ],
+    [
+      "Jack18",
+      "여기는 정말로... 공포투성이군.",
+      "Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Vaal_01.ogg"
+    ],
+    [
+      "Jack19",
+      "여기엔 먹고 싶은 게 없어. 나가자.",
+      "Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Vaults_01.ogg"
+    ],
+    [
+      "Jack20",
+      "",
+      "Audio/Dialogue/NPC/JackTheAxe/JTA_Attack_01.ogg"
+    ],
+    [
+      "Jack21",
+      "",
+      "Audio/Dialogue/NPC/JackTheAxe/JTA_Attack_02.ogg"
+    ],
+    [
+      "Jack22",
+      "",
+      "Audio/Dialogue/NPC/JackTheAxe/JTA_Attack_03.ogg"
+    ],
+    [
+      "Jack23",
+      "",
+      "Audio/Dialogue/NPC/JackTheAxe/JTA_Attack_04.ogg"
+    ],
+    [
+      "Jack24",
+      "",
+      "Audio/Dialogue/NPC/JackTheAxe/JTA_Attack_05.ogg"
+    ],
+    [
+      "Jack25",
+      "",
+      "Audio/Dialogue/NPC/JackTheAxe/JTA_Attack_06.ogg"
+    ],
+    [
+      "Jack26",
+      "",
+      "Audio/Dialogue/NPC/JackTheAxe/JTA_Attack_07.ogg"
+    ],
+    [
+      "Jack27",
+      "",
+      "Audio/Dialogue/NPC/JackTheAxe/JTA_Attack_08.ogg"
+    ],
+    [
+      "Jack28",
+      "",
+      "Audio/Dialogue/NPC/JackTheAxe/JTA_Idle_01.ogg"
+    ],
+    [
+      "Jack29",
+      "",
+      "Audio/Dialogue/NPC/JackTheAxe/JTA_Idle_02.ogg"
+    ],
+    [
+      "Jack30",
+      "",
+      "Audio/Dialogue/NPC/JackTheAxe/JTA_Idle_03.ogg"
+    ],
+    [
+      "Jack31",
+      "",
+      "Audio/Dialogue/NPC/JackTheAxe/JTA_Idle_04.ogg"
+    ],
+    [
+      "Jack32",
+      "",
+      "Audio/Dialogue/NPC/JackTheAxe/JTA_PVP_01.ogg"
+    ],
+    [
+      "Jack33",
+      "",
+      "Audio/Dialogue/NPC/JackTheAxe/JTA_PVP_02.ogg"
+    ],
+    [
+      "Goddess1 ",
+      "뭐? 내가 자유라고? 당신이 풀어준 거야? 뭐가 되었든 저곳에 갇혀있는 것보다는 낫겠지. 힐록의 갈증은 내 단순한 욕망에도 미치지 못하더라고. 이젠 당신이면 돼. 기운과 반항심이 넘치니까... 날 데려가 줘. 세상이 망해서 불쏘시개처럼 되어버렸지만, 멈췄던 피가 다시 끓어오를 여지는 있어... 오랫동안 제대로 된 목욕을 하지 못하기도 했고.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A1_01.ogg"
+    ],
+    [
+      "Goddess2 ",
+      "거짓 신은 진실한 여신에게 상대가 안 돼.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A1_02.ogg"
+    ],
+    [
+      "Goddess3 ",
+      "흠. 마지막이 꽤 성대하네. 거울 앞에서 연습이라도 했나 봐. 다시 볼 수 있다면 좋겠어.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A1_04.ogg"
+    ],
+    [
+      "Goddess4 ",
+      "수용소에 그냥 취직했다는 사람 만큼이나 그곳에 동화된 사람은 없지.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A1_03.ogg"
+    ],
+    [
+      "Goddess5 ",
+      "또 저 여자군. 우리의 복수자가 되고 싶어서 안달인 모양이야...",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A1_05.ogg"
+    ],
+    [
+      "Goddess6 ",
+      "올플레임은 티끌만 한 욕망만큼이나 덧없는 것이구나. 내 욕망은 꺼지지 않는 불같은데.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A1_06.ogg"
+    ],
+    [
+      "Goddess7 ",
+      "사랑의 참 얼굴이라니? 사랑이 뭔지 자기만 알고 있다고 생각하네. 그건 틀린 거라고.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A1_07.ogg"
+    ],
+    [
+      "Goddess8 ",
+      "저 여자가 그냥 말 한 번 쏘아붙인 다음 도망치려고 우릴 기다리나?",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A2_01.ogg"
+    ],
+    [
+      "Goddess9 ",
+      "우리가 죽인 사람이 파이어티의 연인이라고? 아니, 생전에 어떤 사람이었든 간에 다른 별명이 필요할 것 같아.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A2_02.ogg"
+    ],
+    [
+      "Goddess10",
+      "안타까운 말괄량이 소녀였군. 추종자들이 자살한 이유가 있어.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A2_03.ogg"
+    ],
+    [
+      "Goddess11",
+      "현란하게 칼을 이리저리 휘둘러 봤자, 말을 똑 부러지게 하는 불타는 마법의 검 하나면 돼.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A2_04.ogg"
+    ],
+    [
+      "Goddess12",
+      "검으로 싸우는 자리에 막대기를 가져오면 그렇게 되는 거야.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A2_05.ogg"
+    ],
+    [
+      "Goddess13",
+      "아주 간덩이가 배 바깥으로 나올 정도로 대담하구나, 그렇지?",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A2_06.ogg"
+    ],
+    [
+      "Goddess14",
+      "저런 쓰레기를 짓는 데 세월을 허비하다니, 위대한 문명이 멸망하는 건 다 이유가 있어.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A2_07.ogg"
+    ],
+    [
+      "Goddess15",
+      "이번에는 우릴 기다려주지 않았어. 우리가 너무 늦은 거야. 시시한 술래잡기는 이제 끝내자. 저 여자가 불타는 걸 직접 느끼고 싶다고.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A3_01.ogg"
+    ],
+    [
+      "Goddess16",
+      "저리 비켜, 애송아. 우린 마녀를 사냥해야 한다고. 그런 다음 불태워야지. 불태우고말고.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A3_02.ogg"
+    ],
+    [
+      "Goddess17",
+      "덩치들 뒤로 얼마든지 숨어 봐, 파이어티. 아무 소용 없어. 우리가 잡으러 갈 테니까.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A3_03.ogg"
+    ],
+    [
+      "Goddess18",
+      "타락했다니? 실성했다고? 아니야. 이 녀석은 비니아야. 자신이 파이어티인 걸 증명하려고 안달인 인간이지. 싸구려 포악함을 이용하여 변장하는 조그만 여자란 말이야.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A3_04.ogg"
+    ],
+    [
+      "Goddess19",
+      "이때다! 내 화염에 타죽어라, 죽으란 말이야! ...잠깐, 시체가 어디 갔지? 또 도망친 거야?! 아악!",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A3_05.ogg"
+    ],
+    [
+      "Goddess20",
+      "그냥 여신의 손길을 대신 이용하는 게 나았을 거야.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A3_06.ogg"
+    ],
+    [
+      "Goddess21",
+      "흠. 내가 기대하던 목욕은 아니네. 물이 깨끗해 보이기는 하지만... 그렇게 보이는 물이야 많지.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A4_01.ogg"
+    ],
+    [
+      "Goddess22",
+      "디알라의 음악에 맞춰 춤추지 말아야겠어... 그런데 파이어티의 영향력은 어떻게 되었지? 우리의 관심이 흐지부지되었군",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A4_02.ogg"
+    ],
+    [
+      "Goddess23",
+      "내가 화형으로 몰아넣은 황제 중 처음은 아니야. 내 밑에 있는 자였다고.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A4_03.ogg"
+    ],
+    [
+      "Goddess24",
+      "검의 제왕이라고? 검의 여신의 맛 좀 봐라, 이 애정 결핍 꼬마 녀석!",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A4_04.ogg"
+    ],
+    [
+      "Goddess25",
+      "화나서 빨갛게 달아올랐구나! 빨간색이 불꽃에서 가장 약한 부분이라는 걸 몰랐던 모양이네.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A4_05.ogg"
+    ],
+    [
+      "Goddess26",
+      "살아있는 존재는 피를 흘리지. 피를 흘린다면 심장이 있을 테고. 심장을 찾아서 불살라주마.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A4_06.ogg"
+    ],
+    [
+      "Goddess27",
+      "도미누스 다음은 말라카이인가. 그 어떤 짐승이나 인간을 불러봤자 네가 남자의 도구라는 건 변하지 않아, 비니아.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A4_07.ogg"
+    ],
+    [
+      "Goddess28",
+      "파이어티가 우리 편이 된다고? 내 곁으로 와봤자 처형 대상이라는 건 변하지 않아.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A4_08.ogg"
+    ],
+    [
+      "Goddess29",
+      "마음껏 화염을 저주해도 좋아, 다크텅. 결국 불에 타게 될 거니까.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A4_09.ogg"
+    ],
+    [
+      "Goddess30",
+      "예술이 뭐가 대수라고. 정말 실력을 따지는 게 뭔지 알아? 요리야.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A4_10.ogg"
+    ],
+    [
+      "Goddess31",
+      "브루투스를 만든 게 저 녀석이구나... 이제 이해가 되네.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A4_11.ogg"
+    ],
+    [
+      "Goddess32",
+      "내장을 정통으로 찌르는 거야. 비명. 관통상. 경련. 이게 진짜 죽음이라고!",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A4_12.ogg"
+    ],
+    [
+      "Goddess33",
+      "심장을 불사른다는 게 이런 뜻은 아니었... 뭐, 이거면 충분해. 이제 다시 목욕탕을 찾으러 가자.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A4_13.ogg"
+    ],
+    [
+      "Goddess34",
+      "저 은밀한 등장을 눈치챈 사람은 분명 아무도 없을 거야.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A5_01.ogg"
+    ],
+    [
+      "Goddess35",
+      "폐. 창자. 심장. 거기에다 눈까지. 사람을 가루가 되도록 난도질하고 가던 풍습이 언제부터 사라진 거야?",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A5_02.ogg"
+    ],
+    [
+      "Goddess36",
+      "먼저 교회를 세우는 거야. 엉성한 주장이 곧 법이 되겠지. 믿음을 강제로 주입할 거고. 종교 시설이 재판장이 되는 꼴이야. 이래서 체계적인 종교가 싫어.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A5_03.ogg"
+    ],
+    [
+      "Goddess37",
+      "방금 그게 신의 진짜 모습일까, 유배자여? ...아니야. 그저 허세 가득하게 '내가 신이다'라고 하는 메아리겠지. ",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A5_04.ogg"
+    ],
+    [
+      "Goddess38",
+      "우리가 이런 천벌 받을 짓을 한 게 분명해. 예전보다는 나아졌다고 봐야겠지.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A5_05.ogg"
+    ],
+    [
+      "Goddess39",
+      "복수한다고? 우리한테? 우리가 없었다면 한낱 답 없는 노예였을 놈이 무슨. 배은망덕하기는.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A5_06.ogg"
+    ],
+    [
+      "Goddess40",
+      "여태까지 잘 지내던 사람이 왜...",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A5_07.ogg"
+    ],
+    [
+      "Goddess41",
+      "마음에 안 드는 곳이야. 음식 맛이 끔찍한 데다가 냄새가 아주... 하여튼 마음에 안 들어.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A6_01.ogg"
+    ],
+    [
+      "Goddess42",
+      "모든 만신전에는 전쟁의 신과 사랑의 여신이 있지. 네가 보기엔 어느 쪽이 최고인 것 같아?",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A6_02.ogg"
+    ],
+    [
+      "Goddess43",
+      "불장난하면 뿔 난다!...아니면 뿔 비슷한 거라도.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A6_03.ogg"
+    ],
+    [
+      "Goddess44",
+      "아, 샤브론. 정말 모르니? 두 연인이 하나가 되면 그때부터 계속 내리막길이야... 고맙다는 말은 됐어.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A6_04.ogg"
+    ],
+    [
+      "Goddess45",
+      "저런 무서운 자가 소름 끼칠 정도로 풍족하게 살고, 다른 이들은 아무것도 없는 팔을 베고 스스로 자장가를 부르는 이 불공평한 상황은 무어란 말인가.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A6_05.ogg"
+    ],
+    [
+      "Goddess46",
+      "사람에게는 누구나 마음에 끌리는 불꽃이 하나쯤은 있지. 망자에게도 다를 바 없는 모양이군.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A6_06.ogg"
+    ],
+    [
+      "Goddess47",
+      "구운 염소고기 다음은 삶은 게가 나오네. 신이 이렇게 맛있을 줄 누가 알았겠어?",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A6_07.ogg"
+    ],
+    [
+      "Goddess48",
+      "우리의 단출한 여정 동안 야수의 뱃속은 한 번만 들어갈 줄 알았단 말이지.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A7_01.ogg"
+    ],
+    [
+      "Goddess49",
+      "자신만의 낙원을 만드는 데 모든 걸 바친 사람이 이런 짓을 할 줄이야. 정말로 분노에 찬 청년이었군.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A7_02.ogg"
+    ],
+    [
+      "Goddess50",
+      "남을 바꾸는 건 사랑이 아니야, 말리가로. 자신을 바꿔야지. 나를 쥐었던 자들은 모두 언젠가 깨닫는 사실이라고.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A7_03.ogg"
+    ],
+    [
+      "Goddess51",
+      "오랜 친구들과 다시 만나면 항상 기분이 좋아... 그러다가 기분이 상하지. 그 후에는 완전히 파탄 나는 거고.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A7_04.ogg"
+    ],
+    [
+      "Goddess52",
+      "늙은 어미 곰이 불쌍하군. 우리가 한 행동이 자랑스럽지는 않아.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A7_05.ogg"
+    ],
+    [
+      "Goddess53",
+      "불의 유용함을 알고 있는 여자가 떠났군.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A7_06.ogg"
+    ],
+    [
+      "Goddess54",
+      "이제 거대 거미를 볼 일이 없다면 정말 좋을 텐데. 내가 농담하는 것처럼 보여? 여기는 레이클라스트라고.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A7_07.ogg"
+    ],
+    [
+      "Goddess55",
+      "진짜 목욕을 하고 싶다고 했지, 이런 걸 바라지는 않았다고.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A8_01.ogg"
+    ],
+    [
+      "Goddess56",
+      "'죽는 날까지 사랑한다'는 말이 나온 이유가 있구나.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A8_02.ogg"
+    ],
+    [
+      "Goddess57",
+      "진짜 목욕탕이라고? 정말이야? 내 칼날 맛을 본 적이 없나 보네.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A8_03.ogg"
+    ],
+    [
+      "Goddess58",
+      "칼날보다 그림자가 또렷하게 비치는 것은 없어. ",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A8_04.ogg"
+    ],
+    [
+      "Goddess59",
+      "이교도 여인을 없애니 놀라울 정도로 주변이 거룩해지는군. 정말 대단해.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A8_05.ogg"
+    ],
+    [
+      "Goddess60",
+      "월식은 오래가지 못해서 안타깝지. 그래도 그 순간만큼은 정말 아름답잖아.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A8_06A.ogg"
+    ],
+    [
+      "Goddess61",
+      "윽, 내가 닿아도 저 찌꺼기가 익을 것 같지는 않아. 날 미지근한 진창에 빠뜨릴 생각은 하지 마.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A9_01.ogg"
+    ],
+    [
+      "Goddess62",
+      "흠. 이름만 봐서는 이것보다 클 줄 알았는데.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A9_02.ogg"
+    ],
+    [
+      "Goddess63",
+      "거미보다 싫은 걸 하나 대라고 하면 전갈을 꼽을 거야. 뾰족한 가시와 발톱이 달린 거미 같단 말이야. 맛이 별로 좋은 것도 아니잖아.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A9_03.ogg"
+    ],
+    [
+      "Goddess64",
+      "널 받아주는 곳으로 가라, 키라. 이곳이 아니라는 건 확실하거든.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A9_04.ogg"
+    ],
+    [
+      "Goddess65",
+      "정말 사소한 싸움이군. 신들은 야수의 나른한 품속에서 고작 이런 일만 일어나리라 예상한 건가?",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A9_05.ogg"
+    ],
+    [
+      "Goddess66",
+      "번개라. 풋. 지옥불의 아름다움을 초기에 선도한 자보다 약간 나은 정도군.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A9_06.ogg"
+    ],
+    [
+      "Goddess67",
+      "야수를 다시 만나다니 너무 슬프네. 너무 건조하고 쪼그라들어서... 태우기 너무 좋은걸.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A9_07.ogg"
+    ],
+    [
+      "Goddess68",
+      "애송이에다가, 실패작인 동시에, 골치 아픈 한낱 꼬맹이 세 마리군. 삼부작을 좋아하긴 하지만... 이 녀석들은 맛이 갔어.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A9_08.ogg"
+    ],
+    [
+      "Goddess69",
+      "키타바가 시체에서 부활하길 반쯤 바라고 있었어. 이 세계에는 영구적으로 부활하는 존재가 많아서 마음에 든다니까.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A10_01.ogg"
+    ],
+    [
+      "Goddess70",
+      "우리는 그녀의 주인을 죽였어. 그 주인의 주인도 죽였지. 그 주인의 주인의 신도 마찬가지로 죽였고. 이 모든 걸 알고 있었는데도 우리와 같은 편이 되려고 들어? 내 생각보다 똑똑하지 않은 모양이군. 안타까워.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A10_02.ogg"
+    ],
+    [
+      "Goddess71",
+      "목적지에 거의 다 온 모양이야. 주변의 모든 게 엄청나게 붉어.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A10_03.ogg"
+    ],
+    [
+      "Goddess72",
+      "채울 수 없는 배고픔을 타개하려면 배고픈 자를 죽이는 게 가장 좋은 방법인가 보군. 레이클라스트다운 해결책이야. 내가 하고 싶은 말은 따로 있어. 나는 목욕을 원했건만 그대는 나를 속이 시커먼 군단, 멸망한 제국, 되살아난 신의 피로 달궈진 강물에 담갔지. 충분하고도 남을 정도더군. 견딜 수 없을 때까지 나와 불사른 다음에... 더 불사르자고, 내 사랑.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A10_04.ogg"
+    ],
+    [
+      "Goddess73",
+      "정의의 여신의 눈이 가려져 있다고 해도, 그 추종자의 귀가 안 들리는 건 아니라고. 저자는 도통 입을 다물지 않는군.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_KillIzaro_01.ogg"
+    ],
+    [
+      "Goddess74",
+      "내 예감이 맞았어. 나를 적절하게 다루는군. 판단하기 이르긴 하지만...",
+      "Audio/Dialogue/Goddess_Unleashed/GS_Level_10.ogg"
+    ],
+    [
+      "Goddess75",
+      "내가 아직 안 질리나 보네? 다른 무기를 써도 좋아. 신경 안 써. 정말이야.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_Level_20.ogg"
+    ],
+    [
+      "Goddess76",
+      "마지막으로 날 이렇게 오랫동안 다뤘던 사람은 불 공포증으로 엄청나게 고생했었지. 불 도착증이었던가? 둘 중 하나였어. 둘 다일 수도 있고.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_Level_30.ogg"
+    ],
+    [
+      "Goddess77",
+      "아, 둘이 있으니 정말 잘 타는군! 이렇게 오랫동안 버틴 사람은 정말 간만이야!",
+      "Audio/Dialogue/Goddess_Unleashed/GS_Level_50.ogg"
+    ],
+    [
+      "Goddess78",
+      "그대는 정말 기적 같아. 고통을 즐기거나 바보일 수도 있겠지. 그래도 내 곁의 바보잖아.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_Level_70.ogg"
+    ],
+    [
+      "Goddess79",
+      "날 이렇게 오랫동안 다룬 사람은 여태까지 정말로 없었어. 그대는 특별한 상을 받을 자격이 있어. 이건 비밀인데... 검은 사실 말을 못 해. 나를 잡은 순간부터 미쳐버린 거야. 지금까지 겪어왔던 일 중 현실이 있을까? 나한테는 묻지 마. 그저 검 한 자루인걸. 그래도 난 네 검이야. 평생토록. ",
+      "Audio/Dialogue/Goddess_Unleashed/GS_Level_90.ogg"
+    ],
+    [
+      "Goddess80",
+      "이 정도면 충분해.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_KillRogue_01.ogg"
+    ],
+    [
+      "Goddess81",
+      "",
+      "Audio/Dialogue/Goddess_Unleashed/GS_KillRogue_02.ogg"
+    ],
+    [
+      "Goddess82",
+      "내 화염에 숨을 거두어라!",
+      "Audio/Dialogue/Goddess_Unleashed/GS_KillRogue_03.ogg"
+    ],
+    [
+      "Goddess83",
+      "불에 붙지 않는 건 없어.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_KillRogue_04.ogg"
+    ]
+  ]
+}

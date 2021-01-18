@@ -1,1 +1,525 @@
-{"filename":"HeistChestRewardTypes.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":true,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Art","rowid":1,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":true,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"RewardTypeName","rowid":2,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown0","rowid":3,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"RewardRoomName","rowid":4,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"MinLevel","rowid":5,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"MaxLevel","rowid":6,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Weight","rowid":7,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"RewardRoomName2","rowid":8,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Keys0","rowid":9,"type":"ref|list|ulong","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown1","rowid":10,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["EscapeRoom","","탈출 경로",0,"Currency",0,100,0,"탈출 경로",[],0],["Currency","Art/2DArt/UIImages/InGame/Heist/Blueprints/Rewards/HeistRewardCurrency","화폐",0,"화폐 보물 창고",5,100,500,"화폐 보물 창고",[0,4,6],500],["Uniques","Art/2DArt/UIImages/InGame/Heist/Blueprints/Rewards/HeistRewardUniques","고유 아이템",0,"고유 아이템 보물 창고",10,100,300,"고유 아이템 보물 창고",[1,8],300],["Gems","Art/2DArt/UIImages/InGame/Heist/Blueprints/Rewards/HeistRewardGems","젬",0,"젬 보물 창고",6,100,300,"젬 보물 창고",[4],300],["Maps","Art/2DArt/UIImages/InGame/Heist/Blueprints/Rewards/HeistRewardMaps","지도",0,"지도 보물 창고",68,100,100,"지도 보물 창고",[8],100],["Trinkets","Art/2DArt/UIImages/InGame/Heist/Blueprints/Rewards/HeistRewardTrinkets","장신구",0,"장신구 보물 창고",1,100,200,"장신구 보물 창고",[0,2,4],0],["Armour","Art/2DArt/UIImages/InGame/Heist/Blueprints/Rewards/HeistRewardArmour","방어구",0,"방어구 보물 창고",1,100,200,"방어구 보물 창고",[5,6,7],0],["Weapon","Art/2DArt/UIImages/InGame/Heist/Blueprints/Rewards/HeistRewardWeapon","무기",0,"무기 보물 창고",1,100,200,"무기 보물 창고",[1,5],0],["Abyss","Art/2DArt/UIImages/InGame/Heist/Blueprints/Rewards/HeistRewardAbyss","심연",0,"심연 보물 창고",46,100,150,"심연 보물 창고",[5],150],["Perandus","Art/2DArt/UIImages/InGame/Heist/Blueprints/Rewards/HeistRewardPerandus","페란두스",0,"페란두스 보물 창고",0,100,0,"페란두스 보물 창고",[],0],["Harbinger","Art/2DArt/UIImages/InGame/Heist/Blueprints/Rewards/HeistRewardHarbinger","선구자",0,"선구자 보물 창고",68,100,150,"선구자 보물 창고",[6,7],150],["Breach","Art/2DArt/UIImages/InGame/Heist/Blueprints/Rewards/HeistRewardBreach","균열",0,"균열 보물 창고",68,100,150,"균열 보물 창고",[5],150],["Essences","Art/2DArt/UIImages/InGame/Heist/Blueprints/Rewards/HeistRewardEssences","에센스",0,"에센스 보물 창고",5,100,250,"에센스 보물 창고",[6,8],250],["Fragments","Art/2DArt/UIImages/InGame/Heist/Blueprints/Rewards/HeistRewardFragments","조각",0,"조각 보물 창고",68,100,250,"조각 보물 창고",[0],250],["Fossils","Art/2DArt/UIImages/InGame/Heist/Blueprints/Rewards/HeistRewardFossils","화석",0,"화석 보물 창고",34,100,150,"화석 보물 창고",[1,6],150],["Prophecies","Art/2DArt/UIImages/InGame/Heist/Blueprints/Rewards/HeistRewardProphecies","예언",0,"예언 보물 창고",8,100,250,"예언 보물 창고",[2],250],["DivinationCards","Art/2DArt/UIImages/InGame/Heist/Blueprints/Rewards/HeistRewardDivination","점술 카드",0,"점술 카드 보물 창고",36,100,300,"점술 카드 보물 창고",[2,7],300],["Generic","Art/2DArt/UIImages/InGame/Heist/Blueprints/Rewards/HeistRewardGeneric","일반",0,"일반 보물 창고",1,67,100,"일반 보물 창고",[3],100],["Talismans","Art/2DArt/UIImages/InGame/Heist/Blueprints/Rewards/HeistRewardTalismans","부적",0,"부적 보물 창고",1,100,150,"부적 보물 창고",[5],150],["Legion","Art/2DArt/UIImages/InGame/Heist/Blueprints/Rewards/HeistRewardLegion","군단",0,"군단 보물 창고",68,100,150,"군단 보물 창고",[5],150],["Blight","Art/2DArt/UIImages/InGame/Heist/Blueprints/Rewards/HeistRewardBlight","역병",0,"역병 보물 창고",68,100,150,"역병 보물 창고",[3],150],["Metamorphosis","Art/2DArt/UIImages/InGame/Heist/Blueprints/Rewards/HeistRewardMetamorph","변형",0,"변형 보물 창고",68,100,150,"변형 보물 창고",[3],150],["Delirium","Art/2DArt/UIImages/InGame/Heist/Blueprints/Rewards/HeistRewardDelirium","환영",0,"환영 보물 창고",68,100,150,"환영 보물 창고",[3],150]]}
+{
+  "filename": "HeistChestRewardTypes.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Art",
+      "rowid": 1,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": true,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "RewardTypeName",
+      "rowid": 2,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown0",
+      "rowid": 3,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "RewardRoomName",
+      "rowid": 4,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "MinLevel",
+      "rowid": 5,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "MaxLevel",
+      "rowid": 6,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Weight",
+      "rowid": 7,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "RewardRoomName2",
+      "rowid": 8,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Keys0",
+      "rowid": 9,
+      "type": "ref|list|ulong",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown1",
+      "rowid": 10,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "EscapeRoom",
+      "",
+      "탈출 경로",
+      0,
+      "Currency",
+      0,
+      100,
+      0,
+      "탈출 경로",
+      [],
+      0
+    ],
+    [
+      "Currency",
+      "Art/2DArt/UIImages/InGame/Heist/Blueprints/Rewards/HeistRewardCurrency",
+      "화폐",
+      0,
+      "화폐 보물 창고",
+      5,
+      100,
+      500,
+      "화폐 보물 창고",
+      [
+        0,
+        4,
+        6
+      ],
+      500
+    ],
+    [
+      "Uniques",
+      "Art/2DArt/UIImages/InGame/Heist/Blueprints/Rewards/HeistRewardUniques",
+      "고유 아이템",
+      0,
+      "고유 아이템 보물 창고",
+      10,
+      100,
+      300,
+      "고유 아이템 보물 창고",
+      [
+        1,
+        8
+      ],
+      300
+    ],
+    [
+      "Gems",
+      "Art/2DArt/UIImages/InGame/Heist/Blueprints/Rewards/HeistRewardGems",
+      "젬",
+      0,
+      "젬 보물 창고",
+      6,
+      100,
+      300,
+      "젬 보물 창고",
+      [
+        4
+      ],
+      300
+    ],
+    [
+      "Maps",
+      "Art/2DArt/UIImages/InGame/Heist/Blueprints/Rewards/HeistRewardMaps",
+      "지도",
+      0,
+      "지도 보물 창고",
+      68,
+      100,
+      100,
+      "지도 보물 창고",
+      [
+        8
+      ],
+      100
+    ],
+    [
+      "Trinkets",
+      "Art/2DArt/UIImages/InGame/Heist/Blueprints/Rewards/HeistRewardTrinkets",
+      "장신구",
+      0,
+      "장신구 보물 창고",
+      1,
+      100,
+      200,
+      "장신구 보물 창고",
+      [
+        0,
+        2,
+        4
+      ],
+      0
+    ],
+    [
+      "Armour",
+      "Art/2DArt/UIImages/InGame/Heist/Blueprints/Rewards/HeistRewardArmour",
+      "방어구",
+      0,
+      "방어구 보물 창고",
+      1,
+      100,
+      200,
+      "방어구 보물 창고",
+      [
+        5,
+        6,
+        7
+      ],
+      0
+    ],
+    [
+      "Weapon",
+      "Art/2DArt/UIImages/InGame/Heist/Blueprints/Rewards/HeistRewardWeapon",
+      "무기",
+      0,
+      "무기 보물 창고",
+      1,
+      100,
+      200,
+      "무기 보물 창고",
+      [
+        1,
+        5
+      ],
+      0
+    ],
+    [
+      "Abyss",
+      "Art/2DArt/UIImages/InGame/Heist/Blueprints/Rewards/HeistRewardAbyss",
+      "심연",
+      0,
+      "심연 보물 창고",
+      46,
+      100,
+      150,
+      "심연 보물 창고",
+      [
+        5
+      ],
+      150
+    ],
+    [
+      "Perandus",
+      "Art/2DArt/UIImages/InGame/Heist/Blueprints/Rewards/HeistRewardPerandus",
+      "페란두스",
+      0,
+      "페란두스 보물 창고",
+      0,
+      100,
+      0,
+      "페란두스 보물 창고",
+      [],
+      0
+    ],
+    [
+      "Harbinger",
+      "Art/2DArt/UIImages/InGame/Heist/Blueprints/Rewards/HeistRewardHarbinger",
+      "선구자",
+      0,
+      "선구자 보물 창고",
+      68,
+      100,
+      150,
+      "선구자 보물 창고",
+      [
+        6,
+        7
+      ],
+      150
+    ],
+    [
+      "Breach",
+      "Art/2DArt/UIImages/InGame/Heist/Blueprints/Rewards/HeistRewardBreach",
+      "균열",
+      0,
+      "균열 보물 창고",
+      68,
+      100,
+      150,
+      "균열 보물 창고",
+      [
+        5
+      ],
+      150
+    ],
+    [
+      "Essences",
+      "Art/2DArt/UIImages/InGame/Heist/Blueprints/Rewards/HeistRewardEssences",
+      "에센스",
+      0,
+      "에센스 보물 창고",
+      5,
+      100,
+      250,
+      "에센스 보물 창고",
+      [
+        6,
+        8
+      ],
+      250
+    ],
+    [
+      "Fragments",
+      "Art/2DArt/UIImages/InGame/Heist/Blueprints/Rewards/HeistRewardFragments",
+      "조각",
+      0,
+      "조각 보물 창고",
+      68,
+      100,
+      250,
+      "조각 보물 창고",
+      [
+        0
+      ],
+      250
+    ],
+    [
+      "Fossils",
+      "Art/2DArt/UIImages/InGame/Heist/Blueprints/Rewards/HeistRewardFossils",
+      "화석",
+      0,
+      "화석 보물 창고",
+      34,
+      100,
+      150,
+      "화석 보물 창고",
+      [
+        1,
+        6
+      ],
+      150
+    ],
+    [
+      "Prophecies",
+      "Art/2DArt/UIImages/InGame/Heist/Blueprints/Rewards/HeistRewardProphecies",
+      "예언",
+      0,
+      "예언 보물 창고",
+      8,
+      100,
+      250,
+      "예언 보물 창고",
+      [
+        2
+      ],
+      250
+    ],
+    [
+      "DivinationCards",
+      "Art/2DArt/UIImages/InGame/Heist/Blueprints/Rewards/HeistRewardDivination",
+      "점술 카드",
+      0,
+      "점술 카드 보물 창고",
+      36,
+      100,
+      300,
+      "점술 카드 보물 창고",
+      [
+        2,
+        7
+      ],
+      300
+    ],
+    [
+      "Generic",
+      "Art/2DArt/UIImages/InGame/Heist/Blueprints/Rewards/HeistRewardGeneric",
+      "일반",
+      0,
+      "일반 보물 창고",
+      1,
+      67,
+      100,
+      "일반 보물 창고",
+      [
+        3
+      ],
+      100
+    ],
+    [
+      "Talismans",
+      "Art/2DArt/UIImages/InGame/Heist/Blueprints/Rewards/HeistRewardTalismans",
+      "부적",
+      0,
+      "부적 보물 창고",
+      1,
+      100,
+      150,
+      "부적 보물 창고",
+      [
+        5
+      ],
+      150
+    ],
+    [
+      "Legion",
+      "Art/2DArt/UIImages/InGame/Heist/Blueprints/Rewards/HeistRewardLegion",
+      "군단",
+      0,
+      "군단 보물 창고",
+      68,
+      100,
+      150,
+      "군단 보물 창고",
+      [
+        5
+      ],
+      150
+    ],
+    [
+      "Blight",
+      "Art/2DArt/UIImages/InGame/Heist/Blueprints/Rewards/HeistRewardBlight",
+      "역병",
+      0,
+      "역병 보물 창고",
+      68,
+      100,
+      150,
+      "역병 보물 창고",
+      [
+        3
+      ],
+      150
+    ],
+    [
+      "Metamorphosis",
+      "Art/2DArt/UIImages/InGame/Heist/Blueprints/Rewards/HeistRewardMetamorph",
+      "변형",
+      0,
+      "변형 보물 창고",
+      68,
+      100,
+      150,
+      "변형 보물 창고",
+      [
+        3
+      ],
+      150
+    ],
+    [
+      "Delirium",
+      "Art/2DArt/UIImages/InGame/Heist/Blueprints/Rewards/HeistRewardDelirium",
+      "환영",
+      0,
+      "환영 보물 창고",
+      68,
+      100,
+      150,
+      "환영 보물 창고",
+      [
+        3
+      ],
+      150
+    ]
+  ]
+}

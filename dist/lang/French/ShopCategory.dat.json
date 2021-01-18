@@ -1,1 +1,2209 @@
-{"filename":"ShopCategory.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":true,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"ClientText","rowid":1,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"ClientJPGFile","rowid":2,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":true,"file_ext":".jpg","display":null,"display_type":"{0}","description":null},{"name":"WebsiteText","rowid":3,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"WebsiteJPGFile","rowid":4,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown0","rowid":5,"type":"ref|int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"AppliedTo_BaseItemTypesKey","rowid":6,"type":"ulong","key":"BaseItemTypes.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["NewItems","Nouveautés","Art/2DArt/Shop/category/newly-added.jpg","Nouveautés","",0,null],["StashTabs","Onglets de Réserve","Art/2DArt/Shop/category/stash-tab.jpg","Onglets de Réserve","",0,null],["Bundles","Bundles","Art/2DArt/Shop/category/bundles.jpg","Bundles","",0,null],["ArmourEffects","Effets d'armures","Art/2DArt/Shop/category/armour-effects.jpg","Armures","shop/daily-deal/categories/ArmorEffects.jpg",0,null],["BackAttachments","Accessoires dorsaux","Art/2DArt/Shop/category/back-attachment.jpg","Accessoires dorsaux","",0,null],["WeaponEffects","Effets d'armes","Art/2DArt/Shop/category/weaponeffects.jpg","Armes","shop/daily-deal/categories/WeaponEffects.jpg",0,null],["Portals","Portails","Art/2DArt/Shop/category/portals.jpg","Portails","",0,null],["AlternateSkillEffects","Visuels d'Aptitudes","Art/2DArt/Shop/category/alternate-skills.jpg","Aptitudes","shop/daily-deal/categories/SkillEffect.jpg",0,null],["CharacterEffects","Effets sur le personnage","Art/2DArt/Shop/category/character-effects.jpg","Personnage","shop/daily-deal/categories/CharacterEffects.jpg",0,null],["FootprintEffects","Effet d'empreintes","Art/2DArt/Shop/category/footprints.jpg","Empreintes","",0,null],["Guild","Guilde","Art/2DArt/Shop/category/guild.jpg","Guilde","shop/daily-deal/categories/Guild.jpg",0,null],["Pets","Familiers","Art/2DArt/Shop/category/pets.jpg","Familiers","shop/daily-deal/categories/Pets.jpg",0,null],["HideoutDecorations","Décorations de Repaire","Art/2DArt/Shop/category/hideout.jpg","Décorations","shop/daily-deal/categories/HideoutDecorations.jpg",0,null],["MysteryPacks","Packs mystères","Art/2DArt/Shop/category/mystery.jpg","Mystère","",0,null],["MostPopular","Plus populaires","Art/2DArt/Shop/category/best-selling.jpg","Populaire","",0,null],["AccountFeatures","Fonctions de compte","Art/2DArt/Shop/category/account-features.jpg","Compte","shop/daily-deal/categories/AccountFeatures.jpg",0,null],["ClassicEffects","Effets classiques","Art/2DArt/Shop/category/classic-effects.jpg","Classiques","shop/daily-deal/categories/CategoryDailyDealClassic.jpg",0,null],["WeaponSkin1Mtx","Visuel d'arme","","Visuel d'arme","",0,null],["WeaponSkin2Mtx","Visuel d'arme","","Visuel d'arme","",0,null],["WeaponEffect1Mtx","Effet d'arme","","Effet d'arme","",0,null],["WeaponEffect2Mtx","Effet d'arme","","Effet d'arme","",0,null],["WeaponAddedEffect1Mtx","Rajout d'effet d'arme","","Rajout d'effet d'arme","",0,null],["WeaponAddedEffect2Mtx","Rajout d'effet d'arme","","Rajout d'effet d'arme","",0,null],["HelmetSkinMtx","Visuel de casque","","Visuel de casque","",0,null],["HelmetAttachmentMtx","Accessoire de casque","","Accessoire de casque","",0,null],["ArmourSkinMtx","Visuel d'armure","","Visuel d'armure","",0,null],["ArmourAttachmentMtx","Accessoire d'armure","","Accessoire d'armure","",0,null],["GlovesMtx","Gants","","Gants","",0,null],["BootsMtx","Bottes","","Bottes","",0,null],["FootprintsMtx","Empreintes","","Empreintes","",0,null],["ApparitionMtx","Apparition","","Apparition","",0,null],["CharacterEffectMtx","Effet de personnage","","Effet de personnage","",0,null],["PetMtx","Familier","","Familier","",0,null],["SocialFrameMtx","Cadre de portrait","","Cadre de portrait","",0,null],["PortraitMtx","Portrait","","Portrait","",0,null],["PortalMtx","Portail","","Portail","",0,null],["AncestralCallMtx","Appel ancestral","","Appel ancestral","",0,4626],["AncestralWarchiefMtx","Chef de guerre ancestral","","Chef de guerre ancestral","",0,4594],["AngerMtx","Colère","","Colère","",0,4400],["ArcMtx","Arc électrique","","Arc électrique","",0,4393],["ArcticArmourMtx","Armure arctique","","Armure arctique","",0,4426],["BallLightningMtx","Boule de foudre","","Boule de foudre","",0,4477],["BarrageMtx","Tir de barrage","","Tir de barrage","",0,4476],["BladefallMtx","Averse de lames","","Averse de lames","",0,4568],["BladeflurryMtx","Déluge de lames","","Déluge de lames","",0,4284],["BladeVortexMtx","Vortex de lames","","Vortex de lames","",0,4571],["BlasphemyMtx","Blasphème","","Blasphème","",0,4549],["BlastRainMtx","Pluie explosive","","Pluie explosive","",0,4567],["BlinkArrowMtx","Flèche de transfert","","Flèche de transfert","",0,4541],["BloodRageMtx","Rage sanguinaire","","Rage sanguinaire","",0,4320],["ClarityMtx","Clarté","","Clarté","",0,4406],["CleaveMtx","Taillade","","Taillade","",0,4288],["ChargedDashMtx","Charge fulgurante","","Charge fulgurante","",0,4283],["ColdSnapMtx","Vague de froid","","Vague de froid","",0,4298],["ContagionMtx","Contagion","","Contagion","",0,4580],["ConvocationMtx","Convocation","","Convocation","",0,4489],["CremationMtx","Crémation","","Crémation","",0,4619],["CycloneMtx","Cyclone","","Cyclone","",0,4442],["DecoyTotemMtx","Totem leurre","","Totem leurre","",0,4422],["DesecrateMtx","Profanation","","Profanation","",0,4484],["DeterminationMtx","Détermination","","Détermination","",0,4399],["DevouringTotemMtx","Totem vorace","","Totem vorace","",0,4423],["DischargeMtx","Décharge","","Décharge","",0,4325],["DisciplineMtx","Discipline","","Discipline","",0,4397],["DoubleStrikeMtx","Double frappe","","Double frappe","",0,4291],["EarthquakeMtx","Séisme","","Séisme","",0,4579],["ElementalHitMtx","Frappe élémentaire","","Frappe élémentaire","",0,4293],["EssenceDrainMtx","Drain d'essence","","Drain d'essence","",0,4583],["EtherealKnivesMtx","Couteaux éthérés","","Couteaux éthérés","",0,4424],["FireballMtx","Boule de feu","","Boule de feu","",0,4280],["FirestormMtx","Tempête de feu","","Tempête de feu","",0,4385],["FlameblastMtx","Conflagration","","Conflagration","",0,4475],["FlameDashMtx","Irruption enflammée","","Irruption enflammée","",0,4555],["FlameTotemMtx","Totem de flammes sacrées","","Totem de flammes sacrées","",0,4427],["FlickerStrikeMtx","Frappe fulgurante","","Frappe fulgurante","",0,4336],["FreezingPulseMtx","Pulsation glaciale","","Pulsation glaciale","",0,4346],["FrostBladesMtx","Lames de givre","","Lames de givre","",0,4556],["FrostBoltMtx","Sphère de givre","","Sphère de givre","",0,4590],["FrostBoltNovaMtx","Vortex","","Vortex","",0,4591],["FrostBombMtx","Bombe de givre","","Bombe de givre","",0,4574],["GlacialCascadeMtx","Déferlement de glace","","Déferlement de glace","",0,4488],["GraceMtx","Grâce","","Grâce","",0,4398],["GroundSlamMtx","Fracas tellurique","","Fracas tellurique","",0,4287],["HasteMtx","Hâte","","Hâte","",0,4394],["HatredMtx","Haine","","Haine","",0,4401],["HeraldOfAgonyMtx","Héraut de l'agonie","","Héraut de l'agonie","",0,4533],["HeraldOfAshMtx","Héraut de la cendre","","Héraut de la cendre","",0,4530],["HeraldOfIceMtx","Héraut de la glace","","Héraut de la glace","",0,4531],["HeraldOfLightMtx","Héraut de la pureté","","Héraut de la pureté","",0,4534],["HeraldOfThunderMtx","Héraut du tonnerre","","Héraut du tonnerre","",0,4532],["HolyRelicMtx","Invocation de Relique sacrée","","Invocation de Relique sacrée","",0,4646],["IceNovaMtx","Nova de glace","","Nova de glace","",0,4281],["IceSpearMtx","Lance de glace","","Lance de glace","",0,4339],["IceTrapMtx","Piège de glace","","Piège de glace","",0,4564],["ImmortalCallMtx","Clameur d'immortalité","","Clameur d'immortalité","",0,4294],["IncinerateMtx","Incinération","","Incinération","",0,4441],["KineticBlastMtx","Explosion cinétique","","Explosion cinétique","",0,4542],["LacerateMtx","Lacération","","Lacération","",0,4292],["LightningSpireMtx","Pic de foudre","","Pic de foudre","",0,4634],["LightningWarpMtx","Téléportation foudroyante","","Téléportation foudroyante","",0,4366],["LeapSlamMtx","Bond percutant","","Bond percutant","",0,4282],["LightningArrowMtx","Flèche de foudre","","Flèche de foudre","",0,4392],["MagmaOrbMtx","Orbe de magma","","Orbe de magma","",0,4562],["MirageArcherMtx","Archer mirage","","Archer mirage","",0,4628],["MirrorArrowMtx","Flèche miroir","","Flèche miroir","",0,4540],["MoltenShellMtx","Carapace volcanique","","Carapace volcanique","",0,4388],["MoltenStrikeMtx","Frappe volcanique","","Frappe volcanique","",0,4514],["OrbOfStormsMtx","Orbe des orages","","Orbe des orages","",0,4575],["PhaseRunMtx","Course déphasée","","Course déphasée","",0,4351],["PoisonArrowMtx","Flèche de poison","","Flèche de poison","",0,4304],["PurityMtx","Pureté","","Pureté","",0,4395],["PurityofFireMtx","Pureté du feu","","Pureté du feu","",0,4468],["PurityofIceMtx","Pureté de la glace","","Pureté de la glace","",0,4470],["PurityofLightningMtx","Pureté de la foudre","","Pureté de la foudre","",0,4472],["RainOfArrowsMtx","Pluie de flèches","","Pluie de flèches","",0,4374],["RaiseSpectreMtx","Réanimation en Spectre","","Réanimation en Spectre","",0,4342],["RaiseZombieMtx","Réanimation en Zombie","","Réanimation en Zombie","",0,4299],["ReaveMtx","Ravage","","Ravage","",0,4451],["RejuvenationTotemMtx","Totem régénérant","","Totem régénérant","",0,4416],["RighteousFireMtx","Feu de la vertu","","Feu de la vertu","",0,4323],["ScorchingRayMtx","Rayon calcinant","","Rayon calcinant","",0,4598],["ScourgeArrowMtx","Flèche d'épines","","Flèche d'épines","",0,4644],["SearingBondMtx","Lien ardent","","Lien ardent","",0,4447],["ShieldChargeMtx","Charge au bouclier","","Charge au bouclier","",0,4289],["ShockNovaMtx","Nova d'électricité","","Nova d'électricité","",0,4347],["ShockwaveTotemMtx","Totem sismique","","Totem sismique","",0,4415],["SiegeBallistaMtx","Baliste de siège","","Baliste de siège","",0,4569],["SparkMtx","Étincelle","","Étincelle","",0,4337],["SpectralShieldThrowMtx","Lancer de bouclier spectral","","Lancer de bouclier spectral","",0,4279],["SplitArrowMtx","Flèches multiples","","Flèches multiples","",0,4308],["StormCallMtx","Appel de la foudre","","Appel de la foudre","",0,4474],["SummonChaosGolemMtx","Invocation de Golem du chaos","","Invocation de Golem du chaos","",0,4545],["SummonFlameGolemMtx","Invocation de Golem de flammes","","Invocation de Golem de flammes","",0,4547],["SummonIceGolemMtx","Invocation de Golem de glace","","Invocation de Golem de glace","",0,4546],["SummonLightningGolemMtx","Invocation de Golem de foudre","","Invocation de Golem de foudre","",0,4548],["SummonRagingSpiritMtx","Invocation d'Esprit enragé","","Invocation d'Esprit enragé","",0,4481],["SummonStoneGolemMtx","Invocation de Golem de roche","","Invocation de Golem de roche","",0,4576],["SummonSkeletonsMtx","Invocation de Squelettes","","Invocation de Squelettes","",0,4367],["SunderMtx","Rupture","","Rupture","",0,4589],["TempestShieldMtx","Bouclier de la tempête","","Bouclier de la tempête","",0,4387],["ThrownWeaponMtx","Lancer spectral","","Lancer spectral","",0,4460],["TornadoShotMtx","Tornade de flèches","","Tornade de flèches","",0,4526],["ToxicRainMtx","Pluie toxique","","Pluie toxique","",0,4645],["VaalAncestralWarchiefMtx","Chef de guerre ancestral vaal","","Chef de guerre ancestral vaal","",0,4641],["VaalArcMtx","Arc électrique vaal","","Arc électrique vaal","",0,4491],["VaalBladeVortexMtx","Vortex de lames vaal","","Vortex de lames vaal","",0,4573],["VaalClarityMtx","Clarté vaal","","Clarté vaal","",0,4515],["VaalColdSnapMtx","Vague de froid vaal","","Vague de froid vaal","",0,4504],["VaalCycloneMtx","Cyclone vaal","","Cyclone vaal","",0,4498],["VaalDisciplineMtx","Discipline vaal","","Discipline vaal","",0,4517],["VaalDoubleStrikeMtx","Double frappe vaal","","Double frappe vaal","",0,4508],["VaalEarthquakeMtx","Séisme vaal","","Séisme vaal","",0,4637],["VaalFireballMtx","Boule de feu vaal","","Boule de feu vaal","",0,4490],["VaalFlameblastMtx","Conflagration vaal","","Conflagration vaal","",0,4524],["VaalGraceMtx","Grâce vaal","","Grâce vaal","",0,4516],["VaalGroundSlamMtx","Fracas tellurique vaal","","Fracas tellurique vaal","",0,4502],["VaalHasteMtx","Hâte vaal","","Hâte vaal","",0,4518],["VaalIceNovaMtx","Nova de glace vaal","","Nova de glace vaal","",0,4499],["VaalImmortalCall","Clameur d'immortalité vaal","","Clameur d'immortalité vaal","",0,4496],["VaalLightningWarpMtx","Téléportation foudroyante vaal","","Téléportation foudroyante vaal","",0,4495],["VaalMoltenShellMtx","Carapace volcanique vaal","","Carapace volcanique vaal","",0,4494],["VaalPurityOfFireMtx","Impureté du feu vaal","","Impureté du feu vaal","",0,4469],["VaalPurityOfIceMtx","Impureté de la glace vaal","","Impureté de la glace vaal","",0,4471],["VaalPurityOfLightningMtx","Impureté de la foudre vaal","","Impureté de la foudre vaal","",0,4473],["VaalRainOfArrowsMtx","Pluie de flèches vaal","","Pluie de flèches vaal","",0,4503],["VaalReaveMtx","Ravage vaal","","Ravage vaal","",0,4513],["VaalRighteousFireMtx","Feu de la vertu vaal","","Feu de la vertu vaal","",0,4521],["VaalSparkMtx","Étincelle vaal","","Étincelle vaal","",0,4492],["VaalStormCallMtx","Appel de la foudre vaal","","Appel de la foudre vaal","",0,4511],["VaalSummonSkeletonsMtx","Invocation de Squelettes vaal","","Invocation de Squelettes vaal","",0,4510],["VaalThrownWeaponMtx","Lancer spectral vaal","","Lancer spectral vaal","",0,4505],["VaalPowerSiphonMtx","Siphon de pouvoir vaal","","Siphon de pouvoir vaal","",0,4497],["VitalityMtx","Vitalité","","Vitalité","",0,4396],["VolatileDeadMtx","Cadavres instables","","Cadavres instables","",0,4301],["WhirlingBladesMtx","Lames tourbillonnantes","","Lames tourbillonnantes","",0,4296],["WitherMtx","Flétrissement","","Flétrissement","",0,4581],["WrathMtx","Fureur","","Fureur","",0,4402],["RangedAttackTotemMtx","Totem d'attaque à distance","","Totem d'attaque à distance","",0,4429],["SpellTotemMtx","Totem incantateur","","Totem incantateur","",0,4413],["TencentSecondary","Divers Tencent","","Divers Tencent","",0,null],["WarBannerMtx","Étendard de guerre","","Étendard de guerre","",0,4653],["DreadBannerMtx","Étendard de terreur","","Étendard de terreur","",0,4654],["ZealotryMtx","Zèle","","Zèle","",0,4666],["MalevolenceMtx","Malfaisance","","Malfaisance","",0,4668],["SoulrendMtx","Déchirure d'âme","","Déchirure d'âme","",0,4660],["DivineIreMtx","Courroux divin","","Courroux divin","",0,4663],["WinterOrbMtx","Orbe de l'hiver","","Orbe de l'hiver","",0,4649],["BaneMtx","Damnation","","Damnation","",0,4661],["IceDashMtx","Transfert givrant","","Transfert givrant","",0,4684],["QuickDodgeMtx","Élan","","Élan","",0,4673],["PrecisionMtx","Justesse","","Justesse","",0,4685],["PrideMtx","Fierté","","Fierté","",0,4689],["LightningTrapMtx","Piège de foudre","","Piège de foudre","",0,4456],["VaalLightningTrapMtx","Piège de foudre vaal","","Piège de foudre vaal","",0,4527],["BladestormMtx","Tempête de lames","","Tempête de lames","",0,4676],["BloodAndSandMtx","Sang et sable","","Sang et sable","",0,4677],["FleshAndStoneMtx","Chair et pierre","","Chair et pierre","",0,4686],["StormBrandMtx","Symbole de l'orage","","Symbole de l'orage","",0,4652],["BlightMtx","Fléau","","Fléau","",0,4582],["VaalBlightMtx","Fléau vaal","","Fléau vaal","",0,4638],["PyroclastMineMtx","Mine de pyroclastes","","Mine de pyroclastes","",0,4525],["HailstormMineMtx","Mine d'éclats de glace","","Mine d'éclats de glace","",0,4417],["StormblastMineMtx","Mine de déflagration orageuse","","Mine de déflagration orageuse","",0,4701],["BlastChainMineMtx","Mine à réaction en chaîne","","Mine à réaction en chaîne","",0,4414],["HighImpactMineMtx","Mine à charge creuse","","Mine à charge creuse","",0,4703],["SummonSkitterbotsMtx","Invocation d'Arachnobots","","Invocation d'Arachnobots","",0,4702],["ArtilleryBallistaMtx","Baliste d'artillerie","","Baliste d'artillerie","",0,4711],["ShrapnelBallistaMtx","Baliste à shrapnel","","Baliste à shrapnel","",0,4707],["ExplosiveArrowMtx","Flèche explosive","","Flèche explosive","",0,4356],["BlasphemyPlusMtx","Blasphème (éveillé)","","Blasphème (éveillé)","",0,4549],["SummonCarrionGolemMtx","Invocation de Golem de charogne","","Invocation de Golem de charogne","",0,4693],["BladeBlastMtx","Explosion de lames","","Explosion de lames","",0,4752],["AnimateWeaponMtx","Animation d'Arme","","Animation d'Arme","",0,4466],["KineticBoltMtx","Éclair cinétique","","Éclair cinétique","",0,4751],["PowerSiphonMtx","Siphon de pouvoir","","Siphon de pouvoir","",0,4389],["StormbindMtx","Rune de l'orage","","Rune de l'orage","",0,4662],["DominatingBlowMtx","Coup de soumission","","Coup de soumission","",0,4373],["EnduringCryMtx","Cri d'endurance","","Cri d'endurance","",0,4290],["RallyingCryMtx","Cri de ralliement","","Cri de ralliement","",0,4551],["AbyssalCryMtx","Cri abyssal","","Cri abyssal","",0,4552],["IntimidatingCryMtx","Cri d'intimidation","","Cri d'intimidation","",0,4760],["GeneralsCryMtx","Cri du général","","Cri du général","",0,4765],["AncestralCryMtx","Cri ancestral","","Cri ancestral","",0,4761],["SeismicCryMtx","Cri sismique","","Cri sismique","",0,4553],["TectonicSlamMtx","Fracas tectonique","","Fracas tectonique","",0,4622],["FistOfWarMtx","Poing de guerre","","Poing de guerre","",0,4758],["IceCrashMtx","Fracas de glace","","Fracas de glace","",0,4550],["LancingSteelMtx","Acier transperçant","","Acier transperçant","",0,4651],["ShatteringSteelMtx","Acier fendant","","Acier fendant","",0,4655],["DetonateDeadMtx","Explosion cadavérique","","Explosion cadavérique","",0,4300],["VaalDetonateDeadMtx","Explosion cadavérique vaal","","Explosion cadavérique vaal","",0,4501],["VoidSphereMtx","Sphère du Néant","","Sphère du Néant","",0,4769],["FlameWallMtx","Mur de flammes","","Mur de flammes","",0,4774]]}
+{
+  "filename": "ShopCategory.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "ClientText",
+      "rowid": 1,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "ClientJPGFile",
+      "rowid": 2,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": true,
+      "file_ext": ".jpg",
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "WebsiteText",
+      "rowid": 3,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "WebsiteJPGFile",
+      "rowid": 4,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown0",
+      "rowid": 5,
+      "type": "ref|int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "AppliedTo_BaseItemTypesKey",
+      "rowid": 6,
+      "type": "ulong",
+      "key": "BaseItemTypes.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "NewItems",
+      "Nouveautés",
+      "Art/2DArt/Shop/category/newly-added.jpg",
+      "Nouveautés",
+      "",
+      0,
+      null
+    ],
+    [
+      "StashTabs",
+      "Onglets de Réserve",
+      "Art/2DArt/Shop/category/stash-tab.jpg",
+      "Onglets de Réserve",
+      "",
+      0,
+      null
+    ],
+    [
+      "Bundles",
+      "Bundles",
+      "Art/2DArt/Shop/category/bundles.jpg",
+      "Bundles",
+      "",
+      0,
+      null
+    ],
+    [
+      "ArmourEffects",
+      "Effets d'armures",
+      "Art/2DArt/Shop/category/armour-effects.jpg",
+      "Armures",
+      "shop/daily-deal/categories/ArmorEffects.jpg",
+      0,
+      null
+    ],
+    [
+      "BackAttachments",
+      "Accessoires dorsaux",
+      "Art/2DArt/Shop/category/back-attachment.jpg",
+      "Accessoires dorsaux",
+      "",
+      0,
+      null
+    ],
+    [
+      "WeaponEffects",
+      "Effets d'armes",
+      "Art/2DArt/Shop/category/weaponeffects.jpg",
+      "Armes",
+      "shop/daily-deal/categories/WeaponEffects.jpg",
+      0,
+      null
+    ],
+    [
+      "Portals",
+      "Portails",
+      "Art/2DArt/Shop/category/portals.jpg",
+      "Portails",
+      "",
+      0,
+      null
+    ],
+    [
+      "AlternateSkillEffects",
+      "Visuels d'Aptitudes",
+      "Art/2DArt/Shop/category/alternate-skills.jpg",
+      "Aptitudes",
+      "shop/daily-deal/categories/SkillEffect.jpg",
+      0,
+      null
+    ],
+    [
+      "CharacterEffects",
+      "Effets sur le personnage",
+      "Art/2DArt/Shop/category/character-effects.jpg",
+      "Personnage",
+      "shop/daily-deal/categories/CharacterEffects.jpg",
+      0,
+      null
+    ],
+    [
+      "FootprintEffects",
+      "Effet d'empreintes",
+      "Art/2DArt/Shop/category/footprints.jpg",
+      "Empreintes",
+      "",
+      0,
+      null
+    ],
+    [
+      "Guild",
+      "Guilde",
+      "Art/2DArt/Shop/category/guild.jpg",
+      "Guilde",
+      "shop/daily-deal/categories/Guild.jpg",
+      0,
+      null
+    ],
+    [
+      "Pets",
+      "Familiers",
+      "Art/2DArt/Shop/category/pets.jpg",
+      "Familiers",
+      "shop/daily-deal/categories/Pets.jpg",
+      0,
+      null
+    ],
+    [
+      "HideoutDecorations",
+      "Décorations de Repaire",
+      "Art/2DArt/Shop/category/hideout.jpg",
+      "Décorations",
+      "shop/daily-deal/categories/HideoutDecorations.jpg",
+      0,
+      null
+    ],
+    [
+      "MysteryPacks",
+      "Packs mystères",
+      "Art/2DArt/Shop/category/mystery.jpg",
+      "Mystère",
+      "",
+      0,
+      null
+    ],
+    [
+      "MostPopular",
+      "Plus populaires",
+      "Art/2DArt/Shop/category/best-selling.jpg",
+      "Populaire",
+      "",
+      0,
+      null
+    ],
+    [
+      "AccountFeatures",
+      "Fonctions de compte",
+      "Art/2DArt/Shop/category/account-features.jpg",
+      "Compte",
+      "shop/daily-deal/categories/AccountFeatures.jpg",
+      0,
+      null
+    ],
+    [
+      "ClassicEffects",
+      "Effets classiques",
+      "Art/2DArt/Shop/category/classic-effects.jpg",
+      "Classiques",
+      "shop/daily-deal/categories/CategoryDailyDealClassic.jpg",
+      0,
+      null
+    ],
+    [
+      "WeaponSkin1Mtx",
+      "Visuel d'arme",
+      "",
+      "Visuel d'arme",
+      "",
+      0,
+      null
+    ],
+    [
+      "WeaponSkin2Mtx",
+      "Visuel d'arme",
+      "",
+      "Visuel d'arme",
+      "",
+      0,
+      null
+    ],
+    [
+      "WeaponEffect1Mtx",
+      "Effet d'arme",
+      "",
+      "Effet d'arme",
+      "",
+      0,
+      null
+    ],
+    [
+      "WeaponEffect2Mtx",
+      "Effet d'arme",
+      "",
+      "Effet d'arme",
+      "",
+      0,
+      null
+    ],
+    [
+      "WeaponAddedEffect1Mtx",
+      "Rajout d'effet d'arme",
+      "",
+      "Rajout d'effet d'arme",
+      "",
+      0,
+      null
+    ],
+    [
+      "WeaponAddedEffect2Mtx",
+      "Rajout d'effet d'arme",
+      "",
+      "Rajout d'effet d'arme",
+      "",
+      0,
+      null
+    ],
+    [
+      "HelmetSkinMtx",
+      "Visuel de casque",
+      "",
+      "Visuel de casque",
+      "",
+      0,
+      null
+    ],
+    [
+      "HelmetAttachmentMtx",
+      "Accessoire de casque",
+      "",
+      "Accessoire de casque",
+      "",
+      0,
+      null
+    ],
+    [
+      "ArmourSkinMtx",
+      "Visuel d'armure",
+      "",
+      "Visuel d'armure",
+      "",
+      0,
+      null
+    ],
+    [
+      "ArmourAttachmentMtx",
+      "Accessoire d'armure",
+      "",
+      "Accessoire d'armure",
+      "",
+      0,
+      null
+    ],
+    [
+      "GlovesMtx",
+      "Gants",
+      "",
+      "Gants",
+      "",
+      0,
+      null
+    ],
+    [
+      "BootsMtx",
+      "Bottes",
+      "",
+      "Bottes",
+      "",
+      0,
+      null
+    ],
+    [
+      "FootprintsMtx",
+      "Empreintes",
+      "",
+      "Empreintes",
+      "",
+      0,
+      null
+    ],
+    [
+      "ApparitionMtx",
+      "Apparition",
+      "",
+      "Apparition",
+      "",
+      0,
+      null
+    ],
+    [
+      "CharacterEffectMtx",
+      "Effet de personnage",
+      "",
+      "Effet de personnage",
+      "",
+      0,
+      null
+    ],
+    [
+      "PetMtx",
+      "Familier",
+      "",
+      "Familier",
+      "",
+      0,
+      null
+    ],
+    [
+      "SocialFrameMtx",
+      "Cadre de portrait",
+      "",
+      "Cadre de portrait",
+      "",
+      0,
+      null
+    ],
+    [
+      "PortraitMtx",
+      "Portrait",
+      "",
+      "Portrait",
+      "",
+      0,
+      null
+    ],
+    [
+      "PortalMtx",
+      "Portail",
+      "",
+      "Portail",
+      "",
+      0,
+      null
+    ],
+    [
+      "AncestralCallMtx",
+      "Appel ancestral",
+      "",
+      "Appel ancestral",
+      "",
+      0,
+      4626
+    ],
+    [
+      "AncestralWarchiefMtx",
+      "Chef de guerre ancestral",
+      "",
+      "Chef de guerre ancestral",
+      "",
+      0,
+      4594
+    ],
+    [
+      "AngerMtx",
+      "Colère",
+      "",
+      "Colère",
+      "",
+      0,
+      4400
+    ],
+    [
+      "ArcMtx",
+      "Arc électrique",
+      "",
+      "Arc électrique",
+      "",
+      0,
+      4393
+    ],
+    [
+      "ArcticArmourMtx",
+      "Armure arctique",
+      "",
+      "Armure arctique",
+      "",
+      0,
+      4426
+    ],
+    [
+      "BallLightningMtx",
+      "Boule de foudre",
+      "",
+      "Boule de foudre",
+      "",
+      0,
+      4477
+    ],
+    [
+      "BarrageMtx",
+      "Tir de barrage",
+      "",
+      "Tir de barrage",
+      "",
+      0,
+      4476
+    ],
+    [
+      "BladefallMtx",
+      "Averse de lames",
+      "",
+      "Averse de lames",
+      "",
+      0,
+      4568
+    ],
+    [
+      "BladeflurryMtx",
+      "Déluge de lames",
+      "",
+      "Déluge de lames",
+      "",
+      0,
+      4284
+    ],
+    [
+      "BladeVortexMtx",
+      "Vortex de lames",
+      "",
+      "Vortex de lames",
+      "",
+      0,
+      4571
+    ],
+    [
+      "BlasphemyMtx",
+      "Blasphème",
+      "",
+      "Blasphème",
+      "",
+      0,
+      4549
+    ],
+    [
+      "BlastRainMtx",
+      "Pluie explosive",
+      "",
+      "Pluie explosive",
+      "",
+      0,
+      4567
+    ],
+    [
+      "BlinkArrowMtx",
+      "Flèche de transfert",
+      "",
+      "Flèche de transfert",
+      "",
+      0,
+      4541
+    ],
+    [
+      "BloodRageMtx",
+      "Rage sanguinaire",
+      "",
+      "Rage sanguinaire",
+      "",
+      0,
+      4320
+    ],
+    [
+      "ClarityMtx",
+      "Clarté",
+      "",
+      "Clarté",
+      "",
+      0,
+      4406
+    ],
+    [
+      "CleaveMtx",
+      "Taillade",
+      "",
+      "Taillade",
+      "",
+      0,
+      4288
+    ],
+    [
+      "ChargedDashMtx",
+      "Charge fulgurante",
+      "",
+      "Charge fulgurante",
+      "",
+      0,
+      4283
+    ],
+    [
+      "ColdSnapMtx",
+      "Vague de froid",
+      "",
+      "Vague de froid",
+      "",
+      0,
+      4298
+    ],
+    [
+      "ContagionMtx",
+      "Contagion",
+      "",
+      "Contagion",
+      "",
+      0,
+      4580
+    ],
+    [
+      "ConvocationMtx",
+      "Convocation",
+      "",
+      "Convocation",
+      "",
+      0,
+      4489
+    ],
+    [
+      "CremationMtx",
+      "Crémation",
+      "",
+      "Crémation",
+      "",
+      0,
+      4619
+    ],
+    [
+      "CycloneMtx",
+      "Cyclone",
+      "",
+      "Cyclone",
+      "",
+      0,
+      4442
+    ],
+    [
+      "DecoyTotemMtx",
+      "Totem leurre",
+      "",
+      "Totem leurre",
+      "",
+      0,
+      4422
+    ],
+    [
+      "DesecrateMtx",
+      "Profanation",
+      "",
+      "Profanation",
+      "",
+      0,
+      4484
+    ],
+    [
+      "DeterminationMtx",
+      "Détermination",
+      "",
+      "Détermination",
+      "",
+      0,
+      4399
+    ],
+    [
+      "DevouringTotemMtx",
+      "Totem vorace",
+      "",
+      "Totem vorace",
+      "",
+      0,
+      4423
+    ],
+    [
+      "DischargeMtx",
+      "Décharge",
+      "",
+      "Décharge",
+      "",
+      0,
+      4325
+    ],
+    [
+      "DisciplineMtx",
+      "Discipline",
+      "",
+      "Discipline",
+      "",
+      0,
+      4397
+    ],
+    [
+      "DoubleStrikeMtx",
+      "Double frappe",
+      "",
+      "Double frappe",
+      "",
+      0,
+      4291
+    ],
+    [
+      "EarthquakeMtx",
+      "Séisme",
+      "",
+      "Séisme",
+      "",
+      0,
+      4579
+    ],
+    [
+      "ElementalHitMtx",
+      "Frappe élémentaire",
+      "",
+      "Frappe élémentaire",
+      "",
+      0,
+      4293
+    ],
+    [
+      "EssenceDrainMtx",
+      "Drain d'essence",
+      "",
+      "Drain d'essence",
+      "",
+      0,
+      4583
+    ],
+    [
+      "EtherealKnivesMtx",
+      "Couteaux éthérés",
+      "",
+      "Couteaux éthérés",
+      "",
+      0,
+      4424
+    ],
+    [
+      "FireballMtx",
+      "Boule de feu",
+      "",
+      "Boule de feu",
+      "",
+      0,
+      4280
+    ],
+    [
+      "FirestormMtx",
+      "Tempête de feu",
+      "",
+      "Tempête de feu",
+      "",
+      0,
+      4385
+    ],
+    [
+      "FlameblastMtx",
+      "Conflagration",
+      "",
+      "Conflagration",
+      "",
+      0,
+      4475
+    ],
+    [
+      "FlameDashMtx",
+      "Irruption enflammée",
+      "",
+      "Irruption enflammée",
+      "",
+      0,
+      4555
+    ],
+    [
+      "FlameTotemMtx",
+      "Totem de flammes sacrées",
+      "",
+      "Totem de flammes sacrées",
+      "",
+      0,
+      4427
+    ],
+    [
+      "FlickerStrikeMtx",
+      "Frappe fulgurante",
+      "",
+      "Frappe fulgurante",
+      "",
+      0,
+      4336
+    ],
+    [
+      "FreezingPulseMtx",
+      "Pulsation glaciale",
+      "",
+      "Pulsation glaciale",
+      "",
+      0,
+      4346
+    ],
+    [
+      "FrostBladesMtx",
+      "Lames de givre",
+      "",
+      "Lames de givre",
+      "",
+      0,
+      4556
+    ],
+    [
+      "FrostBoltMtx",
+      "Sphère de givre",
+      "",
+      "Sphère de givre",
+      "",
+      0,
+      4590
+    ],
+    [
+      "FrostBoltNovaMtx",
+      "Vortex",
+      "",
+      "Vortex",
+      "",
+      0,
+      4591
+    ],
+    [
+      "FrostBombMtx",
+      "Bombe de givre",
+      "",
+      "Bombe de givre",
+      "",
+      0,
+      4574
+    ],
+    [
+      "GlacialCascadeMtx",
+      "Déferlement de glace",
+      "",
+      "Déferlement de glace",
+      "",
+      0,
+      4488
+    ],
+    [
+      "GraceMtx",
+      "Grâce",
+      "",
+      "Grâce",
+      "",
+      0,
+      4398
+    ],
+    [
+      "GroundSlamMtx",
+      "Fracas tellurique",
+      "",
+      "Fracas tellurique",
+      "",
+      0,
+      4287
+    ],
+    [
+      "HasteMtx",
+      "Hâte",
+      "",
+      "Hâte",
+      "",
+      0,
+      4394
+    ],
+    [
+      "HatredMtx",
+      "Haine",
+      "",
+      "Haine",
+      "",
+      0,
+      4401
+    ],
+    [
+      "HeraldOfAgonyMtx",
+      "Héraut de l'agonie",
+      "",
+      "Héraut de l'agonie",
+      "",
+      0,
+      4533
+    ],
+    [
+      "HeraldOfAshMtx",
+      "Héraut de la cendre",
+      "",
+      "Héraut de la cendre",
+      "",
+      0,
+      4530
+    ],
+    [
+      "HeraldOfIceMtx",
+      "Héraut de la glace",
+      "",
+      "Héraut de la glace",
+      "",
+      0,
+      4531
+    ],
+    [
+      "HeraldOfLightMtx",
+      "Héraut de la pureté",
+      "",
+      "Héraut de la pureté",
+      "",
+      0,
+      4534
+    ],
+    [
+      "HeraldOfThunderMtx",
+      "Héraut du tonnerre",
+      "",
+      "Héraut du tonnerre",
+      "",
+      0,
+      4532
+    ],
+    [
+      "HolyRelicMtx",
+      "Invocation de Relique sacrée",
+      "",
+      "Invocation de Relique sacrée",
+      "",
+      0,
+      4646
+    ],
+    [
+      "IceNovaMtx",
+      "Nova de glace",
+      "",
+      "Nova de glace",
+      "",
+      0,
+      4281
+    ],
+    [
+      "IceSpearMtx",
+      "Lance de glace",
+      "",
+      "Lance de glace",
+      "",
+      0,
+      4339
+    ],
+    [
+      "IceTrapMtx",
+      "Piège de glace",
+      "",
+      "Piège de glace",
+      "",
+      0,
+      4564
+    ],
+    [
+      "ImmortalCallMtx",
+      "Clameur d'immortalité",
+      "",
+      "Clameur d'immortalité",
+      "",
+      0,
+      4294
+    ],
+    [
+      "IncinerateMtx",
+      "Incinération",
+      "",
+      "Incinération",
+      "",
+      0,
+      4441
+    ],
+    [
+      "KineticBlastMtx",
+      "Explosion cinétique",
+      "",
+      "Explosion cinétique",
+      "",
+      0,
+      4542
+    ],
+    [
+      "LacerateMtx",
+      "Lacération",
+      "",
+      "Lacération",
+      "",
+      0,
+      4292
+    ],
+    [
+      "LightningSpireMtx",
+      "Pic de foudre",
+      "",
+      "Pic de foudre",
+      "",
+      0,
+      4634
+    ],
+    [
+      "LightningWarpMtx",
+      "Téléportation foudroyante",
+      "",
+      "Téléportation foudroyante",
+      "",
+      0,
+      4366
+    ],
+    [
+      "LeapSlamMtx",
+      "Bond percutant",
+      "",
+      "Bond percutant",
+      "",
+      0,
+      4282
+    ],
+    [
+      "LightningArrowMtx",
+      "Flèche de foudre",
+      "",
+      "Flèche de foudre",
+      "",
+      0,
+      4392
+    ],
+    [
+      "MagmaOrbMtx",
+      "Orbe de magma",
+      "",
+      "Orbe de magma",
+      "",
+      0,
+      4562
+    ],
+    [
+      "MirageArcherMtx",
+      "Archer mirage",
+      "",
+      "Archer mirage",
+      "",
+      0,
+      4628
+    ],
+    [
+      "MirrorArrowMtx",
+      "Flèche miroir",
+      "",
+      "Flèche miroir",
+      "",
+      0,
+      4540
+    ],
+    [
+      "MoltenShellMtx",
+      "Carapace volcanique",
+      "",
+      "Carapace volcanique",
+      "",
+      0,
+      4388
+    ],
+    [
+      "MoltenStrikeMtx",
+      "Frappe volcanique",
+      "",
+      "Frappe volcanique",
+      "",
+      0,
+      4514
+    ],
+    [
+      "OrbOfStormsMtx",
+      "Orbe des orages",
+      "",
+      "Orbe des orages",
+      "",
+      0,
+      4575
+    ],
+    [
+      "PhaseRunMtx",
+      "Course déphasée",
+      "",
+      "Course déphasée",
+      "",
+      0,
+      4351
+    ],
+    [
+      "PoisonArrowMtx",
+      "Flèche de poison",
+      "",
+      "Flèche de poison",
+      "",
+      0,
+      4304
+    ],
+    [
+      "PurityMtx",
+      "Pureté",
+      "",
+      "Pureté",
+      "",
+      0,
+      4395
+    ],
+    [
+      "PurityofFireMtx",
+      "Pureté du feu",
+      "",
+      "Pureté du feu",
+      "",
+      0,
+      4468
+    ],
+    [
+      "PurityofIceMtx",
+      "Pureté de la glace",
+      "",
+      "Pureté de la glace",
+      "",
+      0,
+      4470
+    ],
+    [
+      "PurityofLightningMtx",
+      "Pureté de la foudre",
+      "",
+      "Pureté de la foudre",
+      "",
+      0,
+      4472
+    ],
+    [
+      "RainOfArrowsMtx",
+      "Pluie de flèches",
+      "",
+      "Pluie de flèches",
+      "",
+      0,
+      4374
+    ],
+    [
+      "RaiseSpectreMtx",
+      "Réanimation en Spectre",
+      "",
+      "Réanimation en Spectre",
+      "",
+      0,
+      4342
+    ],
+    [
+      "RaiseZombieMtx",
+      "Réanimation en Zombie",
+      "",
+      "Réanimation en Zombie",
+      "",
+      0,
+      4299
+    ],
+    [
+      "ReaveMtx",
+      "Ravage",
+      "",
+      "Ravage",
+      "",
+      0,
+      4451
+    ],
+    [
+      "RejuvenationTotemMtx",
+      "Totem régénérant",
+      "",
+      "Totem régénérant",
+      "",
+      0,
+      4416
+    ],
+    [
+      "RighteousFireMtx",
+      "Feu de la vertu",
+      "",
+      "Feu de la vertu",
+      "",
+      0,
+      4323
+    ],
+    [
+      "ScorchingRayMtx",
+      "Rayon calcinant",
+      "",
+      "Rayon calcinant",
+      "",
+      0,
+      4598
+    ],
+    [
+      "ScourgeArrowMtx",
+      "Flèche d'épines",
+      "",
+      "Flèche d'épines",
+      "",
+      0,
+      4644
+    ],
+    [
+      "SearingBondMtx",
+      "Lien ardent",
+      "",
+      "Lien ardent",
+      "",
+      0,
+      4447
+    ],
+    [
+      "ShieldChargeMtx",
+      "Charge au bouclier",
+      "",
+      "Charge au bouclier",
+      "",
+      0,
+      4289
+    ],
+    [
+      "ShockNovaMtx",
+      "Nova d'électricité",
+      "",
+      "Nova d'électricité",
+      "",
+      0,
+      4347
+    ],
+    [
+      "ShockwaveTotemMtx",
+      "Totem sismique",
+      "",
+      "Totem sismique",
+      "",
+      0,
+      4415
+    ],
+    [
+      "SiegeBallistaMtx",
+      "Baliste de siège",
+      "",
+      "Baliste de siège",
+      "",
+      0,
+      4569
+    ],
+    [
+      "SparkMtx",
+      "Étincelle",
+      "",
+      "Étincelle",
+      "",
+      0,
+      4337
+    ],
+    [
+      "SpectralShieldThrowMtx",
+      "Lancer de bouclier spectral",
+      "",
+      "Lancer de bouclier spectral",
+      "",
+      0,
+      4279
+    ],
+    [
+      "SplitArrowMtx",
+      "Flèches multiples",
+      "",
+      "Flèches multiples",
+      "",
+      0,
+      4308
+    ],
+    [
+      "StormCallMtx",
+      "Appel de la foudre",
+      "",
+      "Appel de la foudre",
+      "",
+      0,
+      4474
+    ],
+    [
+      "SummonChaosGolemMtx",
+      "Invocation de Golem du chaos",
+      "",
+      "Invocation de Golem du chaos",
+      "",
+      0,
+      4545
+    ],
+    [
+      "SummonFlameGolemMtx",
+      "Invocation de Golem de flammes",
+      "",
+      "Invocation de Golem de flammes",
+      "",
+      0,
+      4547
+    ],
+    [
+      "SummonIceGolemMtx",
+      "Invocation de Golem de glace",
+      "",
+      "Invocation de Golem de glace",
+      "",
+      0,
+      4546
+    ],
+    [
+      "SummonLightningGolemMtx",
+      "Invocation de Golem de foudre",
+      "",
+      "Invocation de Golem de foudre",
+      "",
+      0,
+      4548
+    ],
+    [
+      "SummonRagingSpiritMtx",
+      "Invocation d'Esprit enragé",
+      "",
+      "Invocation d'Esprit enragé",
+      "",
+      0,
+      4481
+    ],
+    [
+      "SummonStoneGolemMtx",
+      "Invocation de Golem de roche",
+      "",
+      "Invocation de Golem de roche",
+      "",
+      0,
+      4576
+    ],
+    [
+      "SummonSkeletonsMtx",
+      "Invocation de Squelettes",
+      "",
+      "Invocation de Squelettes",
+      "",
+      0,
+      4367
+    ],
+    [
+      "SunderMtx",
+      "Rupture",
+      "",
+      "Rupture",
+      "",
+      0,
+      4589
+    ],
+    [
+      "TempestShieldMtx",
+      "Bouclier de la tempête",
+      "",
+      "Bouclier de la tempête",
+      "",
+      0,
+      4387
+    ],
+    [
+      "ThrownWeaponMtx",
+      "Lancer spectral",
+      "",
+      "Lancer spectral",
+      "",
+      0,
+      4460
+    ],
+    [
+      "TornadoShotMtx",
+      "Tornade de flèches",
+      "",
+      "Tornade de flèches",
+      "",
+      0,
+      4526
+    ],
+    [
+      "ToxicRainMtx",
+      "Pluie toxique",
+      "",
+      "Pluie toxique",
+      "",
+      0,
+      4645
+    ],
+    [
+      "VaalAncestralWarchiefMtx",
+      "Chef de guerre ancestral vaal",
+      "",
+      "Chef de guerre ancestral vaal",
+      "",
+      0,
+      4641
+    ],
+    [
+      "VaalArcMtx",
+      "Arc électrique vaal",
+      "",
+      "Arc électrique vaal",
+      "",
+      0,
+      4491
+    ],
+    [
+      "VaalBladeVortexMtx",
+      "Vortex de lames vaal",
+      "",
+      "Vortex de lames vaal",
+      "",
+      0,
+      4573
+    ],
+    [
+      "VaalClarityMtx",
+      "Clarté vaal",
+      "",
+      "Clarté vaal",
+      "",
+      0,
+      4515
+    ],
+    [
+      "VaalColdSnapMtx",
+      "Vague de froid vaal",
+      "",
+      "Vague de froid vaal",
+      "",
+      0,
+      4504
+    ],
+    [
+      "VaalCycloneMtx",
+      "Cyclone vaal",
+      "",
+      "Cyclone vaal",
+      "",
+      0,
+      4498
+    ],
+    [
+      "VaalDisciplineMtx",
+      "Discipline vaal",
+      "",
+      "Discipline vaal",
+      "",
+      0,
+      4517
+    ],
+    [
+      "VaalDoubleStrikeMtx",
+      "Double frappe vaal",
+      "",
+      "Double frappe vaal",
+      "",
+      0,
+      4508
+    ],
+    [
+      "VaalEarthquakeMtx",
+      "Séisme vaal",
+      "",
+      "Séisme vaal",
+      "",
+      0,
+      4637
+    ],
+    [
+      "VaalFireballMtx",
+      "Boule de feu vaal",
+      "",
+      "Boule de feu vaal",
+      "",
+      0,
+      4490
+    ],
+    [
+      "VaalFlameblastMtx",
+      "Conflagration vaal",
+      "",
+      "Conflagration vaal",
+      "",
+      0,
+      4524
+    ],
+    [
+      "VaalGraceMtx",
+      "Grâce vaal",
+      "",
+      "Grâce vaal",
+      "",
+      0,
+      4516
+    ],
+    [
+      "VaalGroundSlamMtx",
+      "Fracas tellurique vaal",
+      "",
+      "Fracas tellurique vaal",
+      "",
+      0,
+      4502
+    ],
+    [
+      "VaalHasteMtx",
+      "Hâte vaal",
+      "",
+      "Hâte vaal",
+      "",
+      0,
+      4518
+    ],
+    [
+      "VaalIceNovaMtx",
+      "Nova de glace vaal",
+      "",
+      "Nova de glace vaal",
+      "",
+      0,
+      4499
+    ],
+    [
+      "VaalImmortalCall",
+      "Clameur d'immortalité vaal",
+      "",
+      "Clameur d'immortalité vaal",
+      "",
+      0,
+      4496
+    ],
+    [
+      "VaalLightningWarpMtx",
+      "Téléportation foudroyante vaal",
+      "",
+      "Téléportation foudroyante vaal",
+      "",
+      0,
+      4495
+    ],
+    [
+      "VaalMoltenShellMtx",
+      "Carapace volcanique vaal",
+      "",
+      "Carapace volcanique vaal",
+      "",
+      0,
+      4494
+    ],
+    [
+      "VaalPurityOfFireMtx",
+      "Impureté du feu vaal",
+      "",
+      "Impureté du feu vaal",
+      "",
+      0,
+      4469
+    ],
+    [
+      "VaalPurityOfIceMtx",
+      "Impureté de la glace vaal",
+      "",
+      "Impureté de la glace vaal",
+      "",
+      0,
+      4471
+    ],
+    [
+      "VaalPurityOfLightningMtx",
+      "Impureté de la foudre vaal",
+      "",
+      "Impureté de la foudre vaal",
+      "",
+      0,
+      4473
+    ],
+    [
+      "VaalRainOfArrowsMtx",
+      "Pluie de flèches vaal",
+      "",
+      "Pluie de flèches vaal",
+      "",
+      0,
+      4503
+    ],
+    [
+      "VaalReaveMtx",
+      "Ravage vaal",
+      "",
+      "Ravage vaal",
+      "",
+      0,
+      4513
+    ],
+    [
+      "VaalRighteousFireMtx",
+      "Feu de la vertu vaal",
+      "",
+      "Feu de la vertu vaal",
+      "",
+      0,
+      4521
+    ],
+    [
+      "VaalSparkMtx",
+      "Étincelle vaal",
+      "",
+      "Étincelle vaal",
+      "",
+      0,
+      4492
+    ],
+    [
+      "VaalStormCallMtx",
+      "Appel de la foudre vaal",
+      "",
+      "Appel de la foudre vaal",
+      "",
+      0,
+      4511
+    ],
+    [
+      "VaalSummonSkeletonsMtx",
+      "Invocation de Squelettes vaal",
+      "",
+      "Invocation de Squelettes vaal",
+      "",
+      0,
+      4510
+    ],
+    [
+      "VaalThrownWeaponMtx",
+      "Lancer spectral vaal",
+      "",
+      "Lancer spectral vaal",
+      "",
+      0,
+      4505
+    ],
+    [
+      "VaalPowerSiphonMtx",
+      "Siphon de pouvoir vaal",
+      "",
+      "Siphon de pouvoir vaal",
+      "",
+      0,
+      4497
+    ],
+    [
+      "VitalityMtx",
+      "Vitalité",
+      "",
+      "Vitalité",
+      "",
+      0,
+      4396
+    ],
+    [
+      "VolatileDeadMtx",
+      "Cadavres instables",
+      "",
+      "Cadavres instables",
+      "",
+      0,
+      4301
+    ],
+    [
+      "WhirlingBladesMtx",
+      "Lames tourbillonnantes",
+      "",
+      "Lames tourbillonnantes",
+      "",
+      0,
+      4296
+    ],
+    [
+      "WitherMtx",
+      "Flétrissement",
+      "",
+      "Flétrissement",
+      "",
+      0,
+      4581
+    ],
+    [
+      "WrathMtx",
+      "Fureur",
+      "",
+      "Fureur",
+      "",
+      0,
+      4402
+    ],
+    [
+      "RangedAttackTotemMtx",
+      "Totem d'attaque à distance",
+      "",
+      "Totem d'attaque à distance",
+      "",
+      0,
+      4429
+    ],
+    [
+      "SpellTotemMtx",
+      "Totem incantateur",
+      "",
+      "Totem incantateur",
+      "",
+      0,
+      4413
+    ],
+    [
+      "TencentSecondary",
+      "Divers Tencent",
+      "",
+      "Divers Tencent",
+      "",
+      0,
+      null
+    ],
+    [
+      "WarBannerMtx",
+      "Étendard de guerre",
+      "",
+      "Étendard de guerre",
+      "",
+      0,
+      4653
+    ],
+    [
+      "DreadBannerMtx",
+      "Étendard de terreur",
+      "",
+      "Étendard de terreur",
+      "",
+      0,
+      4654
+    ],
+    [
+      "ZealotryMtx",
+      "Zèle",
+      "",
+      "Zèle",
+      "",
+      0,
+      4666
+    ],
+    [
+      "MalevolenceMtx",
+      "Malfaisance",
+      "",
+      "Malfaisance",
+      "",
+      0,
+      4668
+    ],
+    [
+      "SoulrendMtx",
+      "Déchirure d'âme",
+      "",
+      "Déchirure d'âme",
+      "",
+      0,
+      4660
+    ],
+    [
+      "DivineIreMtx",
+      "Courroux divin",
+      "",
+      "Courroux divin",
+      "",
+      0,
+      4663
+    ],
+    [
+      "WinterOrbMtx",
+      "Orbe de l'hiver",
+      "",
+      "Orbe de l'hiver",
+      "",
+      0,
+      4649
+    ],
+    [
+      "BaneMtx",
+      "Damnation",
+      "",
+      "Damnation",
+      "",
+      0,
+      4661
+    ],
+    [
+      "IceDashMtx",
+      "Transfert givrant",
+      "",
+      "Transfert givrant",
+      "",
+      0,
+      4684
+    ],
+    [
+      "QuickDodgeMtx",
+      "Élan",
+      "",
+      "Élan",
+      "",
+      0,
+      4673
+    ],
+    [
+      "PrecisionMtx",
+      "Justesse",
+      "",
+      "Justesse",
+      "",
+      0,
+      4685
+    ],
+    [
+      "PrideMtx",
+      "Fierté",
+      "",
+      "Fierté",
+      "",
+      0,
+      4689
+    ],
+    [
+      "LightningTrapMtx",
+      "Piège de foudre",
+      "",
+      "Piège de foudre",
+      "",
+      0,
+      4456
+    ],
+    [
+      "VaalLightningTrapMtx",
+      "Piège de foudre vaal",
+      "",
+      "Piège de foudre vaal",
+      "",
+      0,
+      4527
+    ],
+    [
+      "BladestormMtx",
+      "Tempête de lames",
+      "",
+      "Tempête de lames",
+      "",
+      0,
+      4676
+    ],
+    [
+      "BloodAndSandMtx",
+      "Sang et sable",
+      "",
+      "Sang et sable",
+      "",
+      0,
+      4677
+    ],
+    [
+      "FleshAndStoneMtx",
+      "Chair et pierre",
+      "",
+      "Chair et pierre",
+      "",
+      0,
+      4686
+    ],
+    [
+      "StormBrandMtx",
+      "Symbole de l'orage",
+      "",
+      "Symbole de l'orage",
+      "",
+      0,
+      4652
+    ],
+    [
+      "BlightMtx",
+      "Fléau",
+      "",
+      "Fléau",
+      "",
+      0,
+      4582
+    ],
+    [
+      "VaalBlightMtx",
+      "Fléau vaal",
+      "",
+      "Fléau vaal",
+      "",
+      0,
+      4638
+    ],
+    [
+      "PyroclastMineMtx",
+      "Mine de pyroclastes",
+      "",
+      "Mine de pyroclastes",
+      "",
+      0,
+      4525
+    ],
+    [
+      "HailstormMineMtx",
+      "Mine d'éclats de glace",
+      "",
+      "Mine d'éclats de glace",
+      "",
+      0,
+      4417
+    ],
+    [
+      "StormblastMineMtx",
+      "Mine de déflagration orageuse",
+      "",
+      "Mine de déflagration orageuse",
+      "",
+      0,
+      4701
+    ],
+    [
+      "BlastChainMineMtx",
+      "Mine à réaction en chaîne",
+      "",
+      "Mine à réaction en chaîne",
+      "",
+      0,
+      4414
+    ],
+    [
+      "HighImpactMineMtx",
+      "Mine à charge creuse",
+      "",
+      "Mine à charge creuse",
+      "",
+      0,
+      4703
+    ],
+    [
+      "SummonSkitterbotsMtx",
+      "Invocation d'Arachnobots",
+      "",
+      "Invocation d'Arachnobots",
+      "",
+      0,
+      4702
+    ],
+    [
+      "ArtilleryBallistaMtx",
+      "Baliste d'artillerie",
+      "",
+      "Baliste d'artillerie",
+      "",
+      0,
+      4711
+    ],
+    [
+      "ShrapnelBallistaMtx",
+      "Baliste à shrapnel",
+      "",
+      "Baliste à shrapnel",
+      "",
+      0,
+      4707
+    ],
+    [
+      "ExplosiveArrowMtx",
+      "Flèche explosive",
+      "",
+      "Flèche explosive",
+      "",
+      0,
+      4356
+    ],
+    [
+      "BlasphemyPlusMtx",
+      "Blasphème (éveillé)",
+      "",
+      "Blasphème (éveillé)",
+      "",
+      0,
+      4549
+    ],
+    [
+      "SummonCarrionGolemMtx",
+      "Invocation de Golem de charogne",
+      "",
+      "Invocation de Golem de charogne",
+      "",
+      0,
+      4693
+    ],
+    [
+      "BladeBlastMtx",
+      "Explosion de lames",
+      "",
+      "Explosion de lames",
+      "",
+      0,
+      4752
+    ],
+    [
+      "AnimateWeaponMtx",
+      "Animation d'Arme",
+      "",
+      "Animation d'Arme",
+      "",
+      0,
+      4466
+    ],
+    [
+      "KineticBoltMtx",
+      "Éclair cinétique",
+      "",
+      "Éclair cinétique",
+      "",
+      0,
+      4751
+    ],
+    [
+      "PowerSiphonMtx",
+      "Siphon de pouvoir",
+      "",
+      "Siphon de pouvoir",
+      "",
+      0,
+      4389
+    ],
+    [
+      "StormbindMtx",
+      "Rune de l'orage",
+      "",
+      "Rune de l'orage",
+      "",
+      0,
+      4662
+    ],
+    [
+      "DominatingBlowMtx",
+      "Coup de soumission",
+      "",
+      "Coup de soumission",
+      "",
+      0,
+      4373
+    ],
+    [
+      "EnduringCryMtx",
+      "Cri d'endurance",
+      "",
+      "Cri d'endurance",
+      "",
+      0,
+      4290
+    ],
+    [
+      "RallyingCryMtx",
+      "Cri de ralliement",
+      "",
+      "Cri de ralliement",
+      "",
+      0,
+      4551
+    ],
+    [
+      "AbyssalCryMtx",
+      "Cri abyssal",
+      "",
+      "Cri abyssal",
+      "",
+      0,
+      4552
+    ],
+    [
+      "IntimidatingCryMtx",
+      "Cri d'intimidation",
+      "",
+      "Cri d'intimidation",
+      "",
+      0,
+      4760
+    ],
+    [
+      "GeneralsCryMtx",
+      "Cri du général",
+      "",
+      "Cri du général",
+      "",
+      0,
+      4765
+    ],
+    [
+      "AncestralCryMtx",
+      "Cri ancestral",
+      "",
+      "Cri ancestral",
+      "",
+      0,
+      4761
+    ],
+    [
+      "SeismicCryMtx",
+      "Cri sismique",
+      "",
+      "Cri sismique",
+      "",
+      0,
+      4553
+    ],
+    [
+      "TectonicSlamMtx",
+      "Fracas tectonique",
+      "",
+      "Fracas tectonique",
+      "",
+      0,
+      4622
+    ],
+    [
+      "FistOfWarMtx",
+      "Poing de guerre",
+      "",
+      "Poing de guerre",
+      "",
+      0,
+      4758
+    ],
+    [
+      "IceCrashMtx",
+      "Fracas de glace",
+      "",
+      "Fracas de glace",
+      "",
+      0,
+      4550
+    ],
+    [
+      "LancingSteelMtx",
+      "Acier transperçant",
+      "",
+      "Acier transperçant",
+      "",
+      0,
+      4651
+    ],
+    [
+      "ShatteringSteelMtx",
+      "Acier fendant",
+      "",
+      "Acier fendant",
+      "",
+      0,
+      4655
+    ],
+    [
+      "DetonateDeadMtx",
+      "Explosion cadavérique",
+      "",
+      "Explosion cadavérique",
+      "",
+      0,
+      4300
+    ],
+    [
+      "VaalDetonateDeadMtx",
+      "Explosion cadavérique vaal",
+      "",
+      "Explosion cadavérique vaal",
+      "",
+      0,
+      4501
+    ],
+    [
+      "VoidSphereMtx",
+      "Sphère du Néant",
+      "",
+      "Sphère du Néant",
+      "",
+      0,
+      4769
+    ],
+    [
+      "FlameWallMtx",
+      "Mur de flammes",
+      "",
+      "Mur de flammes",
+      "",
+      0,
+      4774
+    ]
+  ]
+}

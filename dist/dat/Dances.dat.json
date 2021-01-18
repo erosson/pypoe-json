@@ -1,1 +1,65 @@
-{"filename":"Dances.dat","header":[{"name":"BaseItemTypesKey","rowid":0,"type":"long","key":"BaseItemTypes.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"CharactersKey","rowid":1,"type":"ulong","key":"Characters.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[[311,4],[312,0],[313,3],[314,5],[315,6],[316,1],[317,2]]}
+{
+  "filename": "Dances.dat",
+  "header": [
+    {
+      "name": "BaseItemTypesKey",
+      "rowid": 0,
+      "type": "long",
+      "key": "BaseItemTypes.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "CharactersKey",
+      "rowid": 1,
+      "type": "ulong",
+      "key": "Characters.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      311,
+      4
+    ],
+    [
+      312,
+      0
+    ],
+    [
+      313,
+      3
+    ],
+    [
+      314,
+      5
+    ],
+    [
+      315,
+      6
+    ],
+    [
+      316,
+      1
+    ],
+    [
+      317,
+      2
+    ]
+  ]
+}

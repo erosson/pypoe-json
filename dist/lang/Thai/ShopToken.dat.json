@@ -1,1 +1,1132 @@
-{"filename":"ShopToken.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"TypeId","rowid":1,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Description","rowid":2,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["ClosedBetaKey","Digital","Closed Beta Key"],["3ClosedBetaKeys","Digital","3 Closed Beta Keys"],["5ClosedBetaKeys","Digital","5 Closed Beta Keys"],["SupporterForum","Badge","ฉายาเว็บบอร์ด Supporter"],["BronzeForum","Badge","ฉายาเว็บบอร์ด Bronze Supporter"],["SilverForum","Badge","ฉายาเว็บบอร์ด Silver Supporter"],["GoldForum","Badge","ฉายาเว็บบอร์ด Gold Supporter"],["DiamondForum","Badge","ฉายาเว็บบอร์ด Diamond Supporter"],["OriginalExtendedSoundtrack","Digital","เพลงประกอบตัวเต็มของลีก"],["PhysicalWraeclastPoster","PhysicalItem","Map of Wraeclast Poster"],["PhysicalDVD","PhysicalItem","Path of Exile DVD"],["PhysicalCD","PhysicalItem","Soundtrack CD"],["PhysicalOriginalShirt","PhysicalItem","เสื้อทีเชิ้ต Path of Exile"],["PhysicalItemsSigned","PhysicalItem","All posted items signed on request"],["NameInCredits","Digital","Your name in the Path of Exile credits"],["CustomAvatar","Digital","A custom forum account avatar designed to your request"],["UniqueItem","Digital","Collaborate with us designing a Unique Item based on your design!"],["OpenBetaForum","Badge","ฉายาเว็บบอร์ด Open Beta Supporter"],["RegalForum","Badge","ฉายาเว็บบอร์ด Regal Supporter"],["DivineForum","Badge","ฉายาเว็บบอร์ด Divine Supporter"],["ExaltedForum","Badge","ฉายาเว็บบอร์ด Exalted Supporter"],["EternalForum","Badge","ฉายาเว็บบอร์ด Eternal Supporter"],["RulerOfWraeclastForum","Badge","ฉายาเว็บบอร์ด Ruler of Wraeclast"],["OBTshirt","PhysicalItem","เสื้อทีเชิ้ต Path of Exile Logo or Tabula Rasa"],["ChaosOrbKeyChain","PhysicalItem","Chaos Orb Keychain"],["OBStickers","PhysicalItem","2 Path of Exile Stickers"],["PhysicalWraeclastPosterSigned","PhysicalItem","A second Skill Tree Poster with custom signing!"],["UniqueMonster","Digital","Design a Custom Monster!"],["UniqueMonsterPhysical","PhysicalItem","Get a physical model of your monster"],["UniqueMonsterPetCodes","Digital","Get 10 codes for an in-game pet version of your monster"],["SurvivorForum","Badge","ฉายาเว็บบอร์ด Survivor Supporter"],["WarriorForum","Badge","ฉายาเว็บบอร์ด Warrior Supporter"],["ChampionForum","Badge","ฉายาเว็บบอร์ด Champion Supporter"],["ConquerorForum","Badge","ฉายาเว็บบอร์ด Conqueror Supporter"],["ExaltedTShirtHoodie","PhysicalItem","เสื้อทีเชิ้ตและเสื้่อฮู้ดดี้ Path of Exile Exalted Orb"],["ApprenticeForum","Badge","ฉายาเว็บบอร์ด Apprentice Supporter"],["JourneymanForum","Badge","ฉายาเว็บบอร์ด Journeyman Supporter"],["MasterForum","Badge","ฉายาเว็บบอร์ด Master Supporter"],["GrandmasterForum","Badge","ฉายาเว็บบอร์ด Grandmaster Supporter"],["ForsakenMastersSignedArt","PhysicalItem","Signed Concept Art, Posted to You"],["AwakeningForum","Badge","ฉายาเว็บบอร์ด Awakening Supporter"],["AxiomForum","Badge","ฉายาเว็บบอร์ด Axiom Supporter"],["VaalForum","Badge","ฉายาเว็บบอร์ด Vaal Supporter"],["LunarisForum","Badge","ฉายาเว็บบอร์ด Lunaris Supporter"],["HighgateForum","Badge","ฉายาเว็บบอร์ด Highgate Supporter"],["AwakeningTShirt","PhysicalItem","เสื้อทีเชิ้ต The Awakening"],["PhysicalGraphicNovel","PhysicalItem","Physical Graphic Novel"],["DesignDivinationCard","Digital","ออกแบบไพ่พยากรณ์หนึ่งใบ"],["DivinationCardAvatar","Digital","ใช้รูปภาพของการ์ดเป็นรูปประจำตัวในเว็บบอร์ด"],["AspirantForum","Badge","ฉายาเว็บบอร์ด Aspirant Supporter"],["ChallengerForum","Badge","ฉายาเว็บบอร์ด Challenger Supporter"],["SovereignForum","Badge","ฉายาเว็บบอร์ด Sovereign Supporter"],["AscendantForum","Badge","ฉายาเว็บบอร์ด Ascendant Supporter"],["AscendancyTShirt","PhysicalItem","เสื้อทีเชิ้ต Ascendancy"],["AscendancyPhysicalArt","PhysicalItem","The Art of Ascendancy"],["AscendancySignedPhysicalArt","PhysicalItem","Signed Art of Ascendancy"],["Comic1","Digital","The Karui Way"],["Comic2","Digital","Sons of Virtue"],["Comic3","Digital","Death to Sin"],["Comic4","Digital","The Black Heart"],["ProphecyForum","Badge","ฉายาเว็บบอร์ด Prophecy Supporter"],["MinotaurForum","Badge","ฉายาเว็บบอร์ด Minotaur Supporter"],["HydraForum","Badge","ฉายาเว็บบอร์ด Hydra Supporter"],["ChimeraForum","Badge","ฉายาเว็บบอร์ด Chimera Supporter"],["PhoenixForum","Badge","ฉายาเว็บบอร์ด Phoenix Supporter"],["AtlasTShirt","PhysicalItem","เสื้อทีเชิ้ต Atlas of Worlds"],["ClothAtlasMap","PhysicalItem","ผ้าลาย Map of the Atlas"],["SignedClothAtlasMap","PhysicalItem","ผ้าลาย Map of the Atlas พร้อมลายเซ็น"],["BreachspawnForum","Badge","ฉายาเว็บบอร์ด Breachspawn Supporter"],["BreachlordForum","Badge","ฉายาเว็บบอร์ด Breachlord Supporter"],["ClassicForum","Badge","ฉายาเว็บบอร์ด Classic Supporter"],["LegacyForum","Badge","ฉายาเว็บบอร์ด Legacy Supporter"],["OriathTShirt","PhysicalItem","เสื้อทีเชิ้ต The Fall of Oriath"],["PantheonTShirt","PhysicalItem","เสื้อทีเชิ้ต Pantheon Premium"],["PurchaseDivinationCard","Digital","สิทธิ์ในการซื้อไพ่พยากรณ์ในราคา 620$"],["OriathBetaKey","Grantable","The Fall of Oriath Closed Beta Key"],["OriathForum","Badge","ฉายาเว็บบอร์ด Oriath Supporter"],["OutlawForum","Badge","ฉายาเว็บบอร์ด Outlaw Supporter"],["LegionForum","Badge","ฉายาเว็บบอร์ด Legion Supporter"],["EclipseForum","Badge","ฉายาเว็บบอร์ด Eclipse Supporter"],["BeastForum","Badge","ฉายาเว็บบอร์ด Beast Supporter"],["KitavaForum","Badge","ฉายาเว็บบอร์ด Kitava Supporter"],["OriathArt","PhysicalItem","Physical Art Book: The Art of Path of Exile (Ships October)"],["OriathBetaAccess","Grantable","The Fall of Oriath Beta Access"],["PortentForum","Badge","ฉายาเว็บบอร์ด Portent Supporter"],["HarbingerForum","Badge","ฉายาเว็บบอร์ด Harbinger Supporter"],["VagabondForum","Badge","ฉายาเว็บบอร์ด Vagabond Supporter"],["SeekerForum","Badge","ฉายาเว็บบอร์ด Seeker Supporter"],["ScholarForum","Badge","ฉายาเว็บบอร์ด Scholar Supporter"],["RedeemerForum","Badge","ฉายาเว็บบอร์ด Redeemer Supporter"],["SubjugatorForum","Badge","ฉายาเว็บบอร์ด Subjugator Supporter"],["DominatorForum","Badge","ฉายาเว็บบอร์ด Dominator Supporter"],["WarForTheAtlasTShirt","PhysicalItem","เสื้อทีเชิ้ต War for the Atlas"],["AtlasIIClothMap","PhysicalItem","ผ้าไมโครไฟเบอร์ Atlas Map ไม่มีลายเซ็น"],["SignedAtlasIIClothMap","PhysicalItem","ผ้าไมโครไฟเบอร์ Atlas Map พร้อมลายเซ็นผู้พัฒนา 10 คน"],["AbyssalImpForum","Badge","ฉายาเว็บบอร์ด Abyssal Imp Supporter"],["AbyssalLichForum","Badge","ฉายาเว็บบอร์ด Abyssal Lich Supporter"],["HarpyForum","Badge","ฉายาเว็บบอร์ด Harpy Supporter"],["AlphaHarpyForum","Badge","ฉายาเว็บบอร์ด Alpha Harpy Supporter"],["ManticoreForum","Badge","ฉายาเว็บบอร์ด Manticore Supporter"],["AlphaManticoreForum","Badge","ฉายาเว็บบอร์ด Alpha Manticore Supporter"],["ConquestForum","Badge","ฉายาเว็บบอร์ด Conquest Supporter"],["GrandConquestForum","Badge","ฉายาเว็บบอร์ด Grand Conquest Supporter"],["CouncilForum","Badge","ฉายาเว็บบอร์ด Council Supporter"],["HighCouncilForum","Badge","ฉายาเว็บบอร์ด High Council Supporter"],["DelveStalkerForum","Badge","ฉายาเว็บบอร์ด Stalker Supporter"],["DelveShadowstalkerForum","Badge","ฉายาเว็บบอร์ด Shadowstalker Supporter"],["DelveForgeForum","Badge","ฉายาเว็บบอร์ด Forge Supporter"],["DelveDreadforgeForum","Badge","ฉายาเว็บบอร์ด Dreadforge Supporter"],["BetrayalSoulstealerForum","Badge","ฉายาเว็บบอร์ด Soulstealer Supporter"],["BetrayalMasterSoulstealerForum","Badge","ฉายาเว็บบอร์ด Master Soulstealer Supporter"],["BetrayalUndertakerForum","Badge","ฉายาเว็บบอร์ด Undertaker Supporter"],["BetrayalMasterUndertakerForum","Badge","ฉายาเว็บบอร์ด Master Undertaker Supporter"],["CorePitfighterForum","Badge","ฉายาเว็บบอร์ด Pitfighter Supporter"],["CoreAssassinForum","Badge","ฉายาเว็บบอร์ด Assassin Supporter"],["CoreVanguardForum","Badge","ฉายาเว็บบอร์ด Vanguard Supporter"],["CoreEmpyreanForum","Badge","ฉายาเว็บบอร์ด Empyrean Supporter"],["CoreCrucibleForum","Badge","ฉายาเว็บบอร์ด Crucible Supporter"],["CoreTShirt","PhysicalItem","เสื้อทีเชิ้ตโลโก้ Path of Exile"],["CoreHoodie","PhysicalItem","เสื้่อฮู้ดดี้ Path of Exile"],["CoreArt","PhysicalItem","ชุดงานศิลปะ Path of Exile พร้อมลายเซ็น"],["ExileconTicket","Digital","บัตรเข้างาน Exilecon"],["SynthesisSunstoneForum","Badge","ฉายาเว็บบอร์ด Sunstone Supporter"],["SynthesisSunspireForum","Badge","ฉายาเว็บบอร์ด Sunspire Supporter"],["SynthesisDoomcrowForum","Badge","ฉายาเว็บบอร์ด Doomcrow Supporter"],["SynthesisDoomguardForum","Badge","ฉายาเว็บบอร์ด Doomguard Supporter"],["ExileconVIP","Digital","บัตรเข้างาน Exilecon VIP"],["ExileconUltraVI","Digital","บัตรเข้างาน Exilecon Ultra VIP"],["LegionCultofDarknessForum","Badge","ฉายาเว็บบอร์ด Cult of Darkness Supporter"],["LegionCultofApocalypseForum","Badge","ฉายาเว็บบอร์ด Cult of Apocalypse Supporter"],["LegionBloodKnightForum","Badge","ฉายาเว็บบอร์ด Blood Knight Supporter"],["LegionBloodGuardianForum","Badge","ฉายาเว็บบอร์ด Blood Guardian Supporter"],["ExileconRegularTicket","Digital","บัตรเข้างาน Exilecon"],["ExileconBalconyTicket","Digital","Exilecon Balcony Ticket"],["ExileconStaffBalconyTicket","Digital","Exilecon Staff Balcony Ticket"],["ExileconStaffRegularTicket","Digital","Exilecon Staff Regular Ticket"],["ExileconStaffVIPTicket","Digital","Exilecon Staff VIP Ticket"],["ExileconStaffUltraVIPTicket","Digital","Exilecon Staff Ultra VIP Ticket"],["ExileconMediaBalconyTicket","Digital","Exilecon Media Belcony Ticket"],["ExileconMediaRegularTicket","Digital","Exilecon Media Regular Ticket"],["ExileconMediaVIPTicket","Digital","Exilecon Media VIP Ticket"],["ExileconMediaUltraVIPTicket","Digital","Exilecon Media Ultra VIP Ticket"],["BlightLichForum","Badge","ฉายาเว็บบอร์ด Lich Supporter"],["BlightBaneLichForum","Badge","ฉายาเว็บบอร์ด Bane Lich Supporter"],["BlightSentinelForum","Badge","ฉายาเว็บบอร์ด Sentinel Supporter"],["BlightSentinelOverlordForum","Badge","ฉายาเว็บบอร์ด Sentinel Overlord"],["TencentChiyou","Badge","ฉายาเว็บบอร์ด Chiyou"],["MetamorphosisDamnationForum","Badge","ฉายาเว็บบอร์ด ผู้สนับสนุน Damnation"],["MetamorphosisEternalDamnationForum","Badge","ฉายาเว็บบอร์ด Eternal Damnation"],["MetamorphosisSanctumForum","Badge","ฉายาเว็บบอร์ด ผู้สนับสนุน Sanctum"],["MetamorphosisGrandSanctumForum","Badge","ฉายาเว็บบอร์ด ผู้สนับสนุน Grand Sanctum"],["CoreBasiliskForum","Badge","ฉายาเว็บบอร์ด ผู้สนับสนุน Basilisk"],["CoreCrusaderForum","Badge","ฉายาเว็บบอร์ด ผู้สนับสนุน Crusader"],["CoreEyrieForum","Badge","ฉายาเว็บบอร์ด ผู้สนับสนุน Eyrie"],["CoreJudicatorForum","Badge","ฉายาเว็บบอร์ด ผู้สนับสนุน Judicator"],["CoreOrionForum","Badge","ฉายาเว็บบอร์ด ผู้สนับสนุน Orion"],["CoreLabyrinthBook","PhysicalItem","สมุดเกม \"The Lord's Labyrinth\""],["TencentDarkDeicide","Badge","ฉายาเว็บบอร์ด Dark Deicide"],["Core2020Art","PhysicalItem","ชุดงานศิลปะ Path of Exile พร้อมลายเซ็น"],["AtlasIIIClothMap","PhysicalItem","ผ้าลาย Map of the Atlas"],["DeliriumDarkseerForum","Badge","ฉายาเว็บบอร์ด Darkseer Supporter"],["DeliriumElderDarkseerForum","Badge","ฉายาเว็บบอร์ด Elder Darkseer Supporter"],["DeliriumFateweaverForum","Badge","ฉายาเว็บบอร์ด Fateweaver Supporter"],["DeliriumEliteFateweaverForum","Badge","ฉายาเว็บบอร์ด Elite Fateweaver Supporter"],["MerchandiseToken","PhysicalItem","สินค้าวัตถุ"],["SolarisLunarisStatueToken","PhysicalItem","รูปปั้น Solaris and Lunaris"],["ExileConMysteryPackToken","PhysicalItem","ExileCon Mystery Pack"],["TencentGoddess","Badge","ฉายาเว็บบอร์ด Goddess"],["HarvestMalice","Badge","ฉายาเว็บบอร์ด Malice"],["HarvestInsatiableMalice","Badge","ฉายาเว็บบอร์ด Insatiable Malice"],["HarvestBenevolence","Badge","ฉายาเว็บบอร์ด Benevolence"],["HarvestDivineBenevolence","Badge","ฉายาเว็บบอร์ด Divine Benevolence"],["HeistSpellblade","Badge","ฉายาเว็บบอร์ด Spellblade Supporter"],["HeistMasterSpellblade","Badge","ฉายาเว็บบอร์ด Master Spellblade Supporter"],["HeistEagle","Badge","ฉายาเว็บบอร์ด Eagle Supporter"],["HeistImperialEagle","Badge","ฉายาเว็บบอร์ด Imperial Eagle Supporter"],["RitualRenegade","Badge","Renegade Supporter Forum Title"],["RitualDeadlyRenegade","Badge","Deadly Renegade Supporter Forum Title"],["RitualFaithsworn","Badge","Faithsworn Supporter Forum Title"],["RitualEliteFaithsworn","Badge","Elite Faithsworn Supporter Forum Title"],["Core2021DelveForum","Badge","Delve Core Supporter Forum Title"],["Core2021BreachForum","Badge","Breach Core Supporter Forum Title"],["Core2021AbyssForum","Badge","Abyss Core Supporter Forum Title"],["Core2021HarvestForum","Badge","Harvest Core Supporter Forum Title"],["Core2021AtlasForum","Badge","Atlas Core Supporter Forum Title"],["Core2021ShirtSelect","PhysicalItemSelect","Path of Exile Logo or Exalted Orb T-Shirt"],["Core2021HoodieSelect","PhysicalItemSelect","Path of Exile Logo or Exalted Orb Hoodie"],["Core2021Art","PhysicalItem","Path of Exile Signed Art Pack"],["Core2021ShirtOptionCore2021S","PhysicalItemOption","Exalted Orb T-Shirt S"],["Core2021ShirtOptionCore2021M","PhysicalItemOption","Exalted Orb T-Shirt M"],["Core2021ShirtOptionCore2021L","PhysicalItemOption","Exalted Orb T-Shirt L"],["Core2021ShirtOptionCore2021XL","PhysicalItemOption","Exalted Orb T-Shirt XL"],["Core2021ShirtOptionCore2021XXL","PhysicalItemOption","Exalted Orb T-Shirt XXL"],["Core2021ShirtOptionCore20213XL","PhysicalItemOption","Exalted Orb T-Shirt 3XL"],["Core2021ShirtOptionCore20214XL","PhysicalItemOption","Exalted Orb T-Shirt 4XL"],["Core2021ShirtOptionCore2018S","PhysicalItemOption","Path of Exile Logo T-Shirt S"],["Core2021ShirtOptionCore2018M","PhysicalItemOption","Path of Exile Logo T-Shirt M"],["Core2021ShirtOptionCore2018L","PhysicalItemOption","Path of Exile Logo T-Shirt L"],["Core2021ShirtOptionCore2018XL","PhysicalItemOption","Path of Exile Logo T-Shirt XL"],["Core2021ShirtOptionCore2018XXL","PhysicalItemOption","Path of Exile Logo T-Shirt XXL"],["Core2021ShirtOptionCore20183XL","PhysicalItemOption","Path of Exile Logo T-Shirt 3XL"],["Core2021ShirtOptionCore20184XL","PhysicalItemOption","Path of Exile Logo T-Shirt 4XL"],["Core2021HoodieOptionCore2021S","PhysicalItemOption","Exalted Orb Hoodie S"],["Core2021HoodieOptionCore2021M","PhysicalItemOption","Exalted Orb Hoodie M"],["Core2021HoodieOptionCore2021L","PhysicalItemOption","Exalted Orb Hoodie L"],["Core2021HoodieOptionCore2021XL","PhysicalItemOption","Exalted Orb Hoodie XL"],["Core2021HoodieOptionCore2021XXL","PhysicalItemOption","Exalted Orb Hoodie XXL"],["Core2021HoodieOptionCore20213XL","PhysicalItemOption","Exalted Orb Hoodie 3XL"],["Core2021HoodieOptionCore20214XL","PhysicalItemOption","Exalted Orb Hoodie 4XL"],["Core2021HoodieOptionCore2018S","PhysicalItemOption","Path of Exile Logo Hoodie S"],["Core2021HoodieOptionCore2018M","PhysicalItemOption","Path of Exile Logo Hoodie M"],["Core2021HoodieOptionCore2018L","PhysicalItemOption","Path of Exile Logo Hoodie L"],["Core2021HoodieOptionCore2018XL","PhysicalItemOption","Path of Exile Logo Hoodie XL"],["Core2021HoodieOptionCore2018XXL","PhysicalItemOption","Path of Exile Logo Hoodie XXL"],["Core2021HoodieOptionCore20183XL","PhysicalItemOption","Path of Exile Logo Hoodie 3XL"],["Core2021HoodieOptionCore20184XL","PhysicalItemOption","Path of Exile Logo Hoodie 4XL"]]}
+{
+  "filename": "ShopToken.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "TypeId",
+      "rowid": 1,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Description",
+      "rowid": 2,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "ClosedBetaKey",
+      "Digital",
+      "Closed Beta Key"
+    ],
+    [
+      "3ClosedBetaKeys",
+      "Digital",
+      "3 Closed Beta Keys"
+    ],
+    [
+      "5ClosedBetaKeys",
+      "Digital",
+      "5 Closed Beta Keys"
+    ],
+    [
+      "SupporterForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Supporter"
+    ],
+    [
+      "BronzeForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Bronze Supporter"
+    ],
+    [
+      "SilverForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Silver Supporter"
+    ],
+    [
+      "GoldForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Gold Supporter"
+    ],
+    [
+      "DiamondForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Diamond Supporter"
+    ],
+    [
+      "OriginalExtendedSoundtrack",
+      "Digital",
+      "เพลงประกอบตัวเต็มของลีก"
+    ],
+    [
+      "PhysicalWraeclastPoster",
+      "PhysicalItem",
+      "Map of Wraeclast Poster"
+    ],
+    [
+      "PhysicalDVD",
+      "PhysicalItem",
+      "Path of Exile DVD"
+    ],
+    [
+      "PhysicalCD",
+      "PhysicalItem",
+      "Soundtrack CD"
+    ],
+    [
+      "PhysicalOriginalShirt",
+      "PhysicalItem",
+      "เสื้อทีเชิ้ต Path of Exile"
+    ],
+    [
+      "PhysicalItemsSigned",
+      "PhysicalItem",
+      "All posted items signed on request"
+    ],
+    [
+      "NameInCredits",
+      "Digital",
+      "Your name in the Path of Exile credits"
+    ],
+    [
+      "CustomAvatar",
+      "Digital",
+      "A custom forum account avatar designed to your request"
+    ],
+    [
+      "UniqueItem",
+      "Digital",
+      "Collaborate with us designing a Unique Item based on your design!"
+    ],
+    [
+      "OpenBetaForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Open Beta Supporter"
+    ],
+    [
+      "RegalForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Regal Supporter"
+    ],
+    [
+      "DivineForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Divine Supporter"
+    ],
+    [
+      "ExaltedForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Exalted Supporter"
+    ],
+    [
+      "EternalForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Eternal Supporter"
+    ],
+    [
+      "RulerOfWraeclastForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Ruler of Wraeclast"
+    ],
+    [
+      "OBTshirt",
+      "PhysicalItem",
+      "เสื้อทีเชิ้ต Path of Exile Logo or Tabula Rasa"
+    ],
+    [
+      "ChaosOrbKeyChain",
+      "PhysicalItem",
+      "Chaos Orb Keychain"
+    ],
+    [
+      "OBStickers",
+      "PhysicalItem",
+      "2 Path of Exile Stickers"
+    ],
+    [
+      "PhysicalWraeclastPosterSigned",
+      "PhysicalItem",
+      "A second Skill Tree Poster with custom signing!"
+    ],
+    [
+      "UniqueMonster",
+      "Digital",
+      "Design a Custom Monster!"
+    ],
+    [
+      "UniqueMonsterPhysical",
+      "PhysicalItem",
+      "Get a physical model of your monster"
+    ],
+    [
+      "UniqueMonsterPetCodes",
+      "Digital",
+      "Get 10 codes for an in-game pet version of your monster"
+    ],
+    [
+      "SurvivorForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Survivor Supporter"
+    ],
+    [
+      "WarriorForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Warrior Supporter"
+    ],
+    [
+      "ChampionForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Champion Supporter"
+    ],
+    [
+      "ConquerorForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Conqueror Supporter"
+    ],
+    [
+      "ExaltedTShirtHoodie",
+      "PhysicalItem",
+      "เสื้อทีเชิ้ตและเสื้่อฮู้ดดี้ Path of Exile Exalted Orb"
+    ],
+    [
+      "ApprenticeForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Apprentice Supporter"
+    ],
+    [
+      "JourneymanForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Journeyman Supporter"
+    ],
+    [
+      "MasterForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Master Supporter"
+    ],
+    [
+      "GrandmasterForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Grandmaster Supporter"
+    ],
+    [
+      "ForsakenMastersSignedArt",
+      "PhysicalItem",
+      "Signed Concept Art, Posted to You"
+    ],
+    [
+      "AwakeningForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Awakening Supporter"
+    ],
+    [
+      "AxiomForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Axiom Supporter"
+    ],
+    [
+      "VaalForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Vaal Supporter"
+    ],
+    [
+      "LunarisForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Lunaris Supporter"
+    ],
+    [
+      "HighgateForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Highgate Supporter"
+    ],
+    [
+      "AwakeningTShirt",
+      "PhysicalItem",
+      "เสื้อทีเชิ้ต The Awakening"
+    ],
+    [
+      "PhysicalGraphicNovel",
+      "PhysicalItem",
+      "Physical Graphic Novel"
+    ],
+    [
+      "DesignDivinationCard",
+      "Digital",
+      "ออกแบบไพ่พยากรณ์หนึ่งใบ"
+    ],
+    [
+      "DivinationCardAvatar",
+      "Digital",
+      "ใช้รูปภาพของการ์ดเป็นรูปประจำตัวในเว็บบอร์ด"
+    ],
+    [
+      "AspirantForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Aspirant Supporter"
+    ],
+    [
+      "ChallengerForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Challenger Supporter"
+    ],
+    [
+      "SovereignForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Sovereign Supporter"
+    ],
+    [
+      "AscendantForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Ascendant Supporter"
+    ],
+    [
+      "AscendancyTShirt",
+      "PhysicalItem",
+      "เสื้อทีเชิ้ต Ascendancy"
+    ],
+    [
+      "AscendancyPhysicalArt",
+      "PhysicalItem",
+      "The Art of Ascendancy"
+    ],
+    [
+      "AscendancySignedPhysicalArt",
+      "PhysicalItem",
+      "Signed Art of Ascendancy"
+    ],
+    [
+      "Comic1",
+      "Digital",
+      "The Karui Way"
+    ],
+    [
+      "Comic2",
+      "Digital",
+      "Sons of Virtue"
+    ],
+    [
+      "Comic3",
+      "Digital",
+      "Death to Sin"
+    ],
+    [
+      "Comic4",
+      "Digital",
+      "The Black Heart"
+    ],
+    [
+      "ProphecyForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Prophecy Supporter"
+    ],
+    [
+      "MinotaurForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Minotaur Supporter"
+    ],
+    [
+      "HydraForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Hydra Supporter"
+    ],
+    [
+      "ChimeraForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Chimera Supporter"
+    ],
+    [
+      "PhoenixForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Phoenix Supporter"
+    ],
+    [
+      "AtlasTShirt",
+      "PhysicalItem",
+      "เสื้อทีเชิ้ต Atlas of Worlds"
+    ],
+    [
+      "ClothAtlasMap",
+      "PhysicalItem",
+      "ผ้าลาย Map of the Atlas"
+    ],
+    [
+      "SignedClothAtlasMap",
+      "PhysicalItem",
+      "ผ้าลาย Map of the Atlas พร้อมลายเซ็น"
+    ],
+    [
+      "BreachspawnForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Breachspawn Supporter"
+    ],
+    [
+      "BreachlordForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Breachlord Supporter"
+    ],
+    [
+      "ClassicForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Classic Supporter"
+    ],
+    [
+      "LegacyForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Legacy Supporter"
+    ],
+    [
+      "OriathTShirt",
+      "PhysicalItem",
+      "เสื้อทีเชิ้ต The Fall of Oriath"
+    ],
+    [
+      "PantheonTShirt",
+      "PhysicalItem",
+      "เสื้อทีเชิ้ต Pantheon Premium"
+    ],
+    [
+      "PurchaseDivinationCard",
+      "Digital",
+      "สิทธิ์ในการซื้อไพ่พยากรณ์ในราคา 620$"
+    ],
+    [
+      "OriathBetaKey",
+      "Grantable",
+      "The Fall of Oriath Closed Beta Key"
+    ],
+    [
+      "OriathForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Oriath Supporter"
+    ],
+    [
+      "OutlawForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Outlaw Supporter"
+    ],
+    [
+      "LegionForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Legion Supporter"
+    ],
+    [
+      "EclipseForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Eclipse Supporter"
+    ],
+    [
+      "BeastForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Beast Supporter"
+    ],
+    [
+      "KitavaForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Kitava Supporter"
+    ],
+    [
+      "OriathArt",
+      "PhysicalItem",
+      "Physical Art Book: The Art of Path of Exile (Ships October)"
+    ],
+    [
+      "OriathBetaAccess",
+      "Grantable",
+      "The Fall of Oriath Beta Access"
+    ],
+    [
+      "PortentForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Portent Supporter"
+    ],
+    [
+      "HarbingerForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Harbinger Supporter"
+    ],
+    [
+      "VagabondForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Vagabond Supporter"
+    ],
+    [
+      "SeekerForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Seeker Supporter"
+    ],
+    [
+      "ScholarForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Scholar Supporter"
+    ],
+    [
+      "RedeemerForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Redeemer Supporter"
+    ],
+    [
+      "SubjugatorForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Subjugator Supporter"
+    ],
+    [
+      "DominatorForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Dominator Supporter"
+    ],
+    [
+      "WarForTheAtlasTShirt",
+      "PhysicalItem",
+      "เสื้อทีเชิ้ต War for the Atlas"
+    ],
+    [
+      "AtlasIIClothMap",
+      "PhysicalItem",
+      "ผ้าไมโครไฟเบอร์ Atlas Map ไม่มีลายเซ็น"
+    ],
+    [
+      "SignedAtlasIIClothMap",
+      "PhysicalItem",
+      "ผ้าไมโครไฟเบอร์ Atlas Map พร้อมลายเซ็นผู้พัฒนา 10 คน"
+    ],
+    [
+      "AbyssalImpForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Abyssal Imp Supporter"
+    ],
+    [
+      "AbyssalLichForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Abyssal Lich Supporter"
+    ],
+    [
+      "HarpyForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Harpy Supporter"
+    ],
+    [
+      "AlphaHarpyForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Alpha Harpy Supporter"
+    ],
+    [
+      "ManticoreForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Manticore Supporter"
+    ],
+    [
+      "AlphaManticoreForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Alpha Manticore Supporter"
+    ],
+    [
+      "ConquestForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Conquest Supporter"
+    ],
+    [
+      "GrandConquestForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Grand Conquest Supporter"
+    ],
+    [
+      "CouncilForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Council Supporter"
+    ],
+    [
+      "HighCouncilForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด High Council Supporter"
+    ],
+    [
+      "DelveStalkerForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Stalker Supporter"
+    ],
+    [
+      "DelveShadowstalkerForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Shadowstalker Supporter"
+    ],
+    [
+      "DelveForgeForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Forge Supporter"
+    ],
+    [
+      "DelveDreadforgeForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Dreadforge Supporter"
+    ],
+    [
+      "BetrayalSoulstealerForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Soulstealer Supporter"
+    ],
+    [
+      "BetrayalMasterSoulstealerForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Master Soulstealer Supporter"
+    ],
+    [
+      "BetrayalUndertakerForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Undertaker Supporter"
+    ],
+    [
+      "BetrayalMasterUndertakerForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Master Undertaker Supporter"
+    ],
+    [
+      "CorePitfighterForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Pitfighter Supporter"
+    ],
+    [
+      "CoreAssassinForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Assassin Supporter"
+    ],
+    [
+      "CoreVanguardForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Vanguard Supporter"
+    ],
+    [
+      "CoreEmpyreanForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Empyrean Supporter"
+    ],
+    [
+      "CoreCrucibleForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Crucible Supporter"
+    ],
+    [
+      "CoreTShirt",
+      "PhysicalItem",
+      "เสื้อทีเชิ้ตโลโก้ Path of Exile"
+    ],
+    [
+      "CoreHoodie",
+      "PhysicalItem",
+      "เสื้่อฮู้ดดี้ Path of Exile"
+    ],
+    [
+      "CoreArt",
+      "PhysicalItem",
+      "ชุดงานศิลปะ Path of Exile พร้อมลายเซ็น"
+    ],
+    [
+      "ExileconTicket",
+      "Digital",
+      "บัตรเข้างาน Exilecon"
+    ],
+    [
+      "SynthesisSunstoneForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Sunstone Supporter"
+    ],
+    [
+      "SynthesisSunspireForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Sunspire Supporter"
+    ],
+    [
+      "SynthesisDoomcrowForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Doomcrow Supporter"
+    ],
+    [
+      "SynthesisDoomguardForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Doomguard Supporter"
+    ],
+    [
+      "ExileconVIP",
+      "Digital",
+      "บัตรเข้างาน Exilecon VIP"
+    ],
+    [
+      "ExileconUltraVI",
+      "Digital",
+      "บัตรเข้างาน Exilecon Ultra VIP"
+    ],
+    [
+      "LegionCultofDarknessForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Cult of Darkness Supporter"
+    ],
+    [
+      "LegionCultofApocalypseForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Cult of Apocalypse Supporter"
+    ],
+    [
+      "LegionBloodKnightForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Blood Knight Supporter"
+    ],
+    [
+      "LegionBloodGuardianForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Blood Guardian Supporter"
+    ],
+    [
+      "ExileconRegularTicket",
+      "Digital",
+      "บัตรเข้างาน Exilecon"
+    ],
+    [
+      "ExileconBalconyTicket",
+      "Digital",
+      "Exilecon Balcony Ticket"
+    ],
+    [
+      "ExileconStaffBalconyTicket",
+      "Digital",
+      "Exilecon Staff Balcony Ticket"
+    ],
+    [
+      "ExileconStaffRegularTicket",
+      "Digital",
+      "Exilecon Staff Regular Ticket"
+    ],
+    [
+      "ExileconStaffVIPTicket",
+      "Digital",
+      "Exilecon Staff VIP Ticket"
+    ],
+    [
+      "ExileconStaffUltraVIPTicket",
+      "Digital",
+      "Exilecon Staff Ultra VIP Ticket"
+    ],
+    [
+      "ExileconMediaBalconyTicket",
+      "Digital",
+      "Exilecon Media Belcony Ticket"
+    ],
+    [
+      "ExileconMediaRegularTicket",
+      "Digital",
+      "Exilecon Media Regular Ticket"
+    ],
+    [
+      "ExileconMediaVIPTicket",
+      "Digital",
+      "Exilecon Media VIP Ticket"
+    ],
+    [
+      "ExileconMediaUltraVIPTicket",
+      "Digital",
+      "Exilecon Media Ultra VIP Ticket"
+    ],
+    [
+      "BlightLichForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Lich Supporter"
+    ],
+    [
+      "BlightBaneLichForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Bane Lich Supporter"
+    ],
+    [
+      "BlightSentinelForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Sentinel Supporter"
+    ],
+    [
+      "BlightSentinelOverlordForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Sentinel Overlord"
+    ],
+    [
+      "TencentChiyou",
+      "Badge",
+      "ฉายาเว็บบอร์ด Chiyou"
+    ],
+    [
+      "MetamorphosisDamnationForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด ผู้สนับสนุน Damnation"
+    ],
+    [
+      "MetamorphosisEternalDamnationForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Eternal Damnation"
+    ],
+    [
+      "MetamorphosisSanctumForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด ผู้สนับสนุน Sanctum"
+    ],
+    [
+      "MetamorphosisGrandSanctumForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด ผู้สนับสนุน Grand Sanctum"
+    ],
+    [
+      "CoreBasiliskForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด ผู้สนับสนุน Basilisk"
+    ],
+    [
+      "CoreCrusaderForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด ผู้สนับสนุน Crusader"
+    ],
+    [
+      "CoreEyrieForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด ผู้สนับสนุน Eyrie"
+    ],
+    [
+      "CoreJudicatorForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด ผู้สนับสนุน Judicator"
+    ],
+    [
+      "CoreOrionForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด ผู้สนับสนุน Orion"
+    ],
+    [
+      "CoreLabyrinthBook",
+      "PhysicalItem",
+      "สมุดเกม \"The Lord's Labyrinth\""
+    ],
+    [
+      "TencentDarkDeicide",
+      "Badge",
+      "ฉายาเว็บบอร์ด Dark Deicide"
+    ],
+    [
+      "Core2020Art",
+      "PhysicalItem",
+      "ชุดงานศิลปะ Path of Exile พร้อมลายเซ็น"
+    ],
+    [
+      "AtlasIIIClothMap",
+      "PhysicalItem",
+      "ผ้าลาย Map of the Atlas"
+    ],
+    [
+      "DeliriumDarkseerForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Darkseer Supporter"
+    ],
+    [
+      "DeliriumElderDarkseerForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Elder Darkseer Supporter"
+    ],
+    [
+      "DeliriumFateweaverForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Fateweaver Supporter"
+    ],
+    [
+      "DeliriumEliteFateweaverForum",
+      "Badge",
+      "ฉายาเว็บบอร์ด Elite Fateweaver Supporter"
+    ],
+    [
+      "MerchandiseToken",
+      "PhysicalItem",
+      "สินค้าวัตถุ"
+    ],
+    [
+      "SolarisLunarisStatueToken",
+      "PhysicalItem",
+      "รูปปั้น Solaris and Lunaris"
+    ],
+    [
+      "ExileConMysteryPackToken",
+      "PhysicalItem",
+      "ExileCon Mystery Pack"
+    ],
+    [
+      "TencentGoddess",
+      "Badge",
+      "ฉายาเว็บบอร์ด Goddess"
+    ],
+    [
+      "HarvestMalice",
+      "Badge",
+      "ฉายาเว็บบอร์ด Malice"
+    ],
+    [
+      "HarvestInsatiableMalice",
+      "Badge",
+      "ฉายาเว็บบอร์ด Insatiable Malice"
+    ],
+    [
+      "HarvestBenevolence",
+      "Badge",
+      "ฉายาเว็บบอร์ด Benevolence"
+    ],
+    [
+      "HarvestDivineBenevolence",
+      "Badge",
+      "ฉายาเว็บบอร์ด Divine Benevolence"
+    ],
+    [
+      "HeistSpellblade",
+      "Badge",
+      "ฉายาเว็บบอร์ด Spellblade Supporter"
+    ],
+    [
+      "HeistMasterSpellblade",
+      "Badge",
+      "ฉายาเว็บบอร์ด Master Spellblade Supporter"
+    ],
+    [
+      "HeistEagle",
+      "Badge",
+      "ฉายาเว็บบอร์ด Eagle Supporter"
+    ],
+    [
+      "HeistImperialEagle",
+      "Badge",
+      "ฉายาเว็บบอร์ด Imperial Eagle Supporter"
+    ],
+    [
+      "RitualRenegade",
+      "Badge",
+      "Renegade Supporter Forum Title"
+    ],
+    [
+      "RitualDeadlyRenegade",
+      "Badge",
+      "Deadly Renegade Supporter Forum Title"
+    ],
+    [
+      "RitualFaithsworn",
+      "Badge",
+      "Faithsworn Supporter Forum Title"
+    ],
+    [
+      "RitualEliteFaithsworn",
+      "Badge",
+      "Elite Faithsworn Supporter Forum Title"
+    ],
+    [
+      "Core2021DelveForum",
+      "Badge",
+      "Delve Core Supporter Forum Title"
+    ],
+    [
+      "Core2021BreachForum",
+      "Badge",
+      "Breach Core Supporter Forum Title"
+    ],
+    [
+      "Core2021AbyssForum",
+      "Badge",
+      "Abyss Core Supporter Forum Title"
+    ],
+    [
+      "Core2021HarvestForum",
+      "Badge",
+      "Harvest Core Supporter Forum Title"
+    ],
+    [
+      "Core2021AtlasForum",
+      "Badge",
+      "Atlas Core Supporter Forum Title"
+    ],
+    [
+      "Core2021ShirtSelect",
+      "PhysicalItemSelect",
+      "Path of Exile Logo or Exalted Orb T-Shirt"
+    ],
+    [
+      "Core2021HoodieSelect",
+      "PhysicalItemSelect",
+      "Path of Exile Logo or Exalted Orb Hoodie"
+    ],
+    [
+      "Core2021Art",
+      "PhysicalItem",
+      "Path of Exile Signed Art Pack"
+    ],
+    [
+      "Core2021ShirtOptionCore2021S",
+      "PhysicalItemOption",
+      "Exalted Orb T-Shirt S"
+    ],
+    [
+      "Core2021ShirtOptionCore2021M",
+      "PhysicalItemOption",
+      "Exalted Orb T-Shirt M"
+    ],
+    [
+      "Core2021ShirtOptionCore2021L",
+      "PhysicalItemOption",
+      "Exalted Orb T-Shirt L"
+    ],
+    [
+      "Core2021ShirtOptionCore2021XL",
+      "PhysicalItemOption",
+      "Exalted Orb T-Shirt XL"
+    ],
+    [
+      "Core2021ShirtOptionCore2021XXL",
+      "PhysicalItemOption",
+      "Exalted Orb T-Shirt XXL"
+    ],
+    [
+      "Core2021ShirtOptionCore20213XL",
+      "PhysicalItemOption",
+      "Exalted Orb T-Shirt 3XL"
+    ],
+    [
+      "Core2021ShirtOptionCore20214XL",
+      "PhysicalItemOption",
+      "Exalted Orb T-Shirt 4XL"
+    ],
+    [
+      "Core2021ShirtOptionCore2018S",
+      "PhysicalItemOption",
+      "Path of Exile Logo T-Shirt S"
+    ],
+    [
+      "Core2021ShirtOptionCore2018M",
+      "PhysicalItemOption",
+      "Path of Exile Logo T-Shirt M"
+    ],
+    [
+      "Core2021ShirtOptionCore2018L",
+      "PhysicalItemOption",
+      "Path of Exile Logo T-Shirt L"
+    ],
+    [
+      "Core2021ShirtOptionCore2018XL",
+      "PhysicalItemOption",
+      "Path of Exile Logo T-Shirt XL"
+    ],
+    [
+      "Core2021ShirtOptionCore2018XXL",
+      "PhysicalItemOption",
+      "Path of Exile Logo T-Shirt XXL"
+    ],
+    [
+      "Core2021ShirtOptionCore20183XL",
+      "PhysicalItemOption",
+      "Path of Exile Logo T-Shirt 3XL"
+    ],
+    [
+      "Core2021ShirtOptionCore20184XL",
+      "PhysicalItemOption",
+      "Path of Exile Logo T-Shirt 4XL"
+    ],
+    [
+      "Core2021HoodieOptionCore2021S",
+      "PhysicalItemOption",
+      "Exalted Orb Hoodie S"
+    ],
+    [
+      "Core2021HoodieOptionCore2021M",
+      "PhysicalItemOption",
+      "Exalted Orb Hoodie M"
+    ],
+    [
+      "Core2021HoodieOptionCore2021L",
+      "PhysicalItemOption",
+      "Exalted Orb Hoodie L"
+    ],
+    [
+      "Core2021HoodieOptionCore2021XL",
+      "PhysicalItemOption",
+      "Exalted Orb Hoodie XL"
+    ],
+    [
+      "Core2021HoodieOptionCore2021XXL",
+      "PhysicalItemOption",
+      "Exalted Orb Hoodie XXL"
+    ],
+    [
+      "Core2021HoodieOptionCore20213XL",
+      "PhysicalItemOption",
+      "Exalted Orb Hoodie 3XL"
+    ],
+    [
+      "Core2021HoodieOptionCore20214XL",
+      "PhysicalItemOption",
+      "Exalted Orb Hoodie 4XL"
+    ],
+    [
+      "Core2021HoodieOptionCore2018S",
+      "PhysicalItemOption",
+      "Path of Exile Logo Hoodie S"
+    ],
+    [
+      "Core2021HoodieOptionCore2018M",
+      "PhysicalItemOption",
+      "Path of Exile Logo Hoodie M"
+    ],
+    [
+      "Core2021HoodieOptionCore2018L",
+      "PhysicalItemOption",
+      "Path of Exile Logo Hoodie L"
+    ],
+    [
+      "Core2021HoodieOptionCore2018XL",
+      "PhysicalItemOption",
+      "Path of Exile Logo Hoodie XL"
+    ],
+    [
+      "Core2021HoodieOptionCore2018XXL",
+      "PhysicalItemOption",
+      "Path of Exile Logo Hoodie XXL"
+    ],
+    [
+      "Core2021HoodieOptionCore20183XL",
+      "PhysicalItemOption",
+      "Path of Exile Logo Hoodie 3XL"
+    ],
+    [
+      "Core2021HoodieOptionCore20184XL",
+      "PhysicalItemOption",
+      "Path of Exile Logo Hoodie 4XL"
+    ]
+  ]
+}

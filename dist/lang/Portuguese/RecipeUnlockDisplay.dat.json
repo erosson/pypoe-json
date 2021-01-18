@@ -1,1 +1,1450 @@
-{"filename":"RecipeUnlockDisplay.dat","header":[{"name":"RecipeId","rowid":0,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":true,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Description","rowid":1,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"CraftingItemClassCategoriesKeys","rowid":2,"type":"ref|list|ulong","key":"CraftingItemClassCategories.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"UnlockDescription","rowid":3,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Rank","rowid":4,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[[146,"Velocidade de Movimento - Rank 1",[8],"As Cavernas",1],[161,"Dano Mágico - Rank 1",[0,1,2,3],"A Pirâmide Antiga",1],[158,"Dano Físico - Rank 1",[0,1,2,3,4,7,9,10,13],"Os Esgotos",1],[170,"Dano de Fogo - Rank 1",[0,1,2,3,7,9,10,13],"O Crematório",1],[173,"Dano de Gelo - Rank 1",[0,1,2,3,7,9,10,13],"O Templo Solaris Nível 2",1],[176,"Dano de Raio - Rank 1",[0,1,2,3,7,9,10,13],"O Templo Lunaris Nível 2",1],[133,"Resistências Elementais - Rank 2",[0,1,2,3,4,5,6,7,8,9,10,11,13],"As Veias de Cristal",2],[141,"Atributos - Rank 2",[0,1,2,3,4,5,6,7,8,9,10,11,13],"A Ascensão",2],[168,"Velocidades Ataque, Conjuração e Clamor - Rank 1",[0,1,2,3,4,7,9,10],"O Lago Seco",1],[180,"Dano de Caos - Rank 1",[0,1,2,3,7,9,10,13],"O Ventre da Besta Nível 2",1],[147,"Velocidade de Movimento e Ataques Impelidos - Rank 2",[8,9,10,11],"A Câmara da Inocência",2],[159,"Dano Físico - Rank 2",[0,1,2,3,4,9,10],"O Ossuário",2],[183,"Precisão - Rank 1",[0,1,2,3,4,5,7,9,10,13],"O Relicário",1],[142,"Atritutos - Rank 3",[0,1,2,3,4,5,6,7,8,9,10,11,13],"A Floresta Ocidental",3],[149,"Vida e Mana - Rank 2",[0,1,2,3,4,5,6,7,8,9,10,11,13],"O Farol",2],[162,"Dano Mágico - Rank 2",[0,1,2,3],"Torre de Shavronne",2],[187,"Defesas - Rank 1",[4,5,6,7,8],"A Fortaleza Karui",1],[171,"Dano de Fogo - Rank 2",[0,1,2,3,9,10],"O Matagal Horrendo",2],[174,"Dano de Gelo - Rank 2",[0,1,2,3,9,10],"A Ponte",2],[178,"Dano de Raio - Rank 2",[0,1,2,3,9,10],"A Câmara dos Pecados Nível 1",2],[185,"Precisão - Rank 2",[0,1,2,3,4,5,7,9,10,13],"O Templo da Decadência Nível 2",2],[135,"Resistências Elementais - Rank 3",[0,1,2,3,4,5,6,7,8,9,10,11,13],"Fossa de Doedre",3],[228,"Lacaios - Rank 1",[0,1,2,3,5,7,9,10],"O Templo Lunaris Nível 2",1],[230,"Armadilhas e Minas - Rank 3",[0,1,2,3],"O Templo Solaris Nível 2",1],[160,"Dano Físico - Rank 3",[0,1,2,3],"A Pedreira",3],[163,"Dano Mágico - Rank 3",[0,1,2,3],"O Lago Borbulhante",3],[169,"Velocidades de Ataque e Conjuração - Rank 2",[0,1,2,3,4,10],"O Deserto Vastiri",2],[150,"Vida e Mana - Rank 3",[0,1,2,3,4,5,6,7,8,9,10,11,13],"As Câmaras Profanadas",3],[181,"Dano de Caos - Rank 2",[0,1,2,3,9,10],"O Ossuário",2],[188,"Defesas - Rank 2",[4,5,6,7,8],"O Comedouro",2],[148,"Velocidade de Movimento - Rank 3",[8],"Epílogo",3],[139,"Todas as Resistências - Rank 1",[0,1,2,3,4,5,6,7,8,9,10,11,13],"Provação do Aspirante",1],[137,"Resistências Dobradas - Rank 2",[0,1,2,3,4,5,6,7,8,9,10,11,13],"Provação Cruel do Aspirante",2],[138,"Resistências Dobradas - Rank 3",[0,1,2,3,4,5,6,7,8,9,10,11,13],"Provação Impiedosa do Aspirante",3],[140,"Todas as Resistências - Rank 2",[0,1,2,3,4,5,6,7,8,9,10,11,13],"Provação Eterna do Aspirante",2],[166,"Dano Elemental com Ataques - Rank 1",[0,1,2,3,9,10,11,13],"Provação do Labirinto nas Catacumbas",1],[144,"Todos os Atributos - Rank 1",[0,1,2,3,4,5,6,7,8,9,10,11,13],"Provação do Labirinto nos Jardins Imperiais",1],[136,"Resistências Dobradas - Rank 1",[0,1,2,3,4,5,6,7,8,9,10,11,13],"Provação do Labirinto no Andar de Baixo da Prisão",1],[164,"Dano Degenerativo - Rank 1",[0,1,2,3],"Provação do Labirinto na Cripta",1],[156,"Regeneração de Mana - Rank 1",[0,1,2,3,4,9,10],"Provação do Labirinto na Câmara dos Pecados Nível 2",1],[192,"Duração de Frasco - Rank 1",[11],"Provação do Labirinto na Casa de Banho",1],[145,"Todos os Atributos - Rank 2",[0,1,2,3,4,5,6,7,8,9,10,11,13],"Provação do Labirinto no Túnel",2],[234,"Número de Encaixes - 2 ou 3 Encaixes",[0,1,2,3,6,7,8,5,4],"Primeira Cavidade Azurita na Mina de Azurita",0],[236,"Número de Encaixes - 4 Encaixes",[0,1,2,3,6,7,8,5,4],"Cofre de Azurita na Mina de Azurita",0],[237,"Número de Encaixes - 5 Encaixes",[0,1,2,3,6,7,8,5,4],"Fenda de Azurita na Mina de Azurita",0],[238,"Número de Encaixes - 6 Encaixes",[0,1,2,3,6,7,8,5,4],"Câmara Abissal na Mina de Azurita",0],[239,"Conexões de Encaixes - 2 Encaixes Conectados",[0,1,2,3,6,7,8,5,4],"Antro Uivante na Mina de Azurita",0],[240,"Conexões de Encaixes - 3 Encaixes Conectados",[0,1,2,3,6,7,8,5,4],"Buraco Sufocante na Mina de Azurita",0],[241,"Conexões de Encaixes - 4 Encaixes Conectados",[0,1,2,3,6,7,8,5,4],"Toca da Besta na Mina de Azurita",0],[242,"Conexões de Encaixes - 5 Encaixes Conectados",[0,1,2,3,6,7,8,5,4],"Restos Assombrados na Mina de Azurita",0],[243,"Conexões de Encaixes - 6 Encaixes Conectados",[0,1,2,3,6,7,8,5,4],"Câmara Primitiva na Mina de Azurita",0],[245,"Cor dos Encaixes - 1 ou 2 Cores de Encaixe",[0,1,2,3,6,7,8,5,4,9,10],"Cavidade de Azurita na Mina de Azurita",0],[246,"Cor dos Encaixes - 3 Cores de Encaixe",[0,1,2,3,6,7,8,5,4],"Câmara Arruinada na Mina de Azurita",0],[151,"Vida e Mana - Rank 4",[0,1,2,3,6,7,8,5,4],"Mapa: Planalto",4],[196,"Bloqueio e Esquiva - Rank 1",[4],"Mapa: Cavidade",1],[193,"Duração de Frasco - Rank 2",[11],"Mapa: Ruínas do Castelo",2],[195,"Anulação - Rank 2",[5,7,8],"Mapa: Hipódromo",2],[191,"Críticos - Rank 2",[0,1,2,3,10,13],"Mapa: Porto",2],[199,"Recarga de Escudo de Energia - Rank 2",[9],"Mapa: Carcaça",2],[197,"Bloqueio e Esquiva - Rank 2",[4],"Mapa: Floresta Sombria",2],[253,"Escudo de Energia Global - Rank 2",[10,9],"Mapa: Lago de Lava",2],[172,"Dano de Fogo - Rank 3",[0,1,2,3],"Mapa: Lago Árido",3],[190,"Críticos - Rank 1",[0,1,2,3,10,13],"Mapa: Masmorra",1],[175,"Dano de Gelo - Rank 3",[0,1,2,3],"Mapa: Excavação",3],[179,"Dano de Raio - Rank 3",[0,1,2,3],"Mapa: Praia",3],[198,"Recarga de Escudo de Energia - Rank 1",[9],"Mapa: Posto de Vigia",1],[157,"Regeneração de Mana - Rank 2",[0,1,2,3,9,10,4],"Mapa: Praça da Cidade",2],[165,"Dano Degenerativo - Rank 2",[0,1,2,3],"Mapa: Canais",2],[229,"Lacaios - Rank 2",[0,1,2,3,7,5,9,10],"Mapa: Fantasmagoria",2],[167,"Dano Elemental com Ataques - Rank 2",[0,1,2,3,9,10,11,13],"Mapa: Dunas",2],[194,"Anulação - Rank 1",[5,7,8],"Mapa: Bazar",1],[189,"Defesas - Rank 3",[6,8,7,5,4],"Mapa: Laboratório",3],[252,"Escudo de Energia Global - Rank 1",[10,9],"Mapa: Câmaras de Relíquias",1],[261,"Dano Físico - Rank 4",[0,1,2,3],"Mapa: Ruínas de Corais",4],[262,"Dano Mágico - Rank 4",[0,1,2,3],"Mapa: Cerco",4],[109,"Velocidade de Ataque e Conjuração - Rank 3",[0,1,2,3],"Mapa: Cavidade",3],[153,"Vida - Rank 5",[6],"Mapa: Jaula",5],[154,"Dreno - Rank 1",[0,1,2,3,7,9,10,13],"Mapa: Jaula",1],[155,"Dreno - Rank 2",[0,1,2,3,7,10],"O Templo de Atzoatl - Piscinas da Restauração, Santuário da Vitalidade ou Santuário da Imortalidade",2],[182,"Dano de Caos - Rank 3",[0,1,2,3],"O Templo de Atzoatl - Jardins Envenenados, Câmara do Cultivo ou Bosque Tóxico",3],[186,"Precisão - Rank 3",[0,1,2,3,4,7,5,9,10,13],"O Templo de Atzoatl - Quarto do Treinamento, Arena do Valor ou Salão dos Campeões",3],[226,"Redução de Dano Degenerativo",[4],"O Templo de Atzoatl - Câmara da Corrupção, Catalista da Corrupção ou Local da Corrupção",0],[227,"Guardião Animado e Visibilidade",[6],"O Templo de Atzoatl - Oficina do Armeiro, Armária ou Câmara do Ferro",0],[231,"Armadilhas e Minas - Rank 2",[0,1,2,3],"O Templo de Atzoatl - Oficina das Armadilhas, Oficina das Defesas do Templo ou Laboratório de Pesquisa Defensiva",2],[254,"Críticos - Rank 3",[0,1,2,3],"O Templo de Atzoatl - Oficina, Departamento da Engenheria ou Fábrica",3],[255,"Lacaios - Rank 3",[0,1,2,3],"O Templo de Atzoatl - Incubadora, Laboratório Autômato ou Câmara de Hibridização",3],[249,"Prefixos não podem ser Modificados",[0,1,2,3,6,7,8,5,4,9,10,11,13],"Profecia - Sussurros Insuportáveis V",0],[250,"Sufixos não podem ser Modificados",[0,1,2,3,6,7,8,5,4,9,10,11,13],"Profecia - A Rainha Que Não Respira V",0],[251,"Pode ter até 3 Modificadores Forjados",[0,1,2,3,6,7,8,5,4,9,10,11,13],"A Corte Pálida",0],[247,"Não pode rolar Mods de Ataque",[0,1,2,3,6,7,8,5,4,9,10,11,13],"Profecia - A Mandíbula da Praga",0],[248,"Não pode rolar Mods de Conjuração",[0,1,2,3,6,7,8,5,4,9,10,11,13],"Profecia - O Lorde Feral",0]]}
+{
+  "filename": "RecipeUnlockDisplay.dat",
+  "header": [
+    {
+      "name": "RecipeId",
+      "rowid": 0,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Description",
+      "rowid": 1,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "CraftingItemClassCategoriesKeys",
+      "rowid": 2,
+      "type": "ref|list|ulong",
+      "key": "CraftingItemClassCategories.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "UnlockDescription",
+      "rowid": 3,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Rank",
+      "rowid": 4,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      146,
+      "Velocidade de Movimento - Rank 1",
+      [
+        8
+      ],
+      "As Cavernas",
+      1
+    ],
+    [
+      161,
+      "Dano Mágico - Rank 1",
+      [
+        0,
+        1,
+        2,
+        3
+      ],
+      "A Pirâmide Antiga",
+      1
+    ],
+    [
+      158,
+      "Dano Físico - Rank 1",
+      [
+        0,
+        1,
+        2,
+        3,
+        4,
+        7,
+        9,
+        10,
+        13
+      ],
+      "Os Esgotos",
+      1
+    ],
+    [
+      170,
+      "Dano de Fogo - Rank 1",
+      [
+        0,
+        1,
+        2,
+        3,
+        7,
+        9,
+        10,
+        13
+      ],
+      "O Crematório",
+      1
+    ],
+    [
+      173,
+      "Dano de Gelo - Rank 1",
+      [
+        0,
+        1,
+        2,
+        3,
+        7,
+        9,
+        10,
+        13
+      ],
+      "O Templo Solaris Nível 2",
+      1
+    ],
+    [
+      176,
+      "Dano de Raio - Rank 1",
+      [
+        0,
+        1,
+        2,
+        3,
+        7,
+        9,
+        10,
+        13
+      ],
+      "O Templo Lunaris Nível 2",
+      1
+    ],
+    [
+      133,
+      "Resistências Elementais - Rank 2",
+      [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        13
+      ],
+      "As Veias de Cristal",
+      2
+    ],
+    [
+      141,
+      "Atributos - Rank 2",
+      [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        13
+      ],
+      "A Ascensão",
+      2
+    ],
+    [
+      168,
+      "Velocidades Ataque, Conjuração e Clamor - Rank 1",
+      [
+        0,
+        1,
+        2,
+        3,
+        4,
+        7,
+        9,
+        10
+      ],
+      "O Lago Seco",
+      1
+    ],
+    [
+      180,
+      "Dano de Caos - Rank 1",
+      [
+        0,
+        1,
+        2,
+        3,
+        7,
+        9,
+        10,
+        13
+      ],
+      "O Ventre da Besta Nível 2",
+      1
+    ],
+    [
+      147,
+      "Velocidade de Movimento e Ataques Impelidos - Rank 2",
+      [
+        8,
+        9,
+        10,
+        11
+      ],
+      "A Câmara da Inocência",
+      2
+    ],
+    [
+      159,
+      "Dano Físico - Rank 2",
+      [
+        0,
+        1,
+        2,
+        3,
+        4,
+        9,
+        10
+      ],
+      "O Ossuário",
+      2
+    ],
+    [
+      183,
+      "Precisão - Rank 1",
+      [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        7,
+        9,
+        10,
+        13
+      ],
+      "O Relicário",
+      1
+    ],
+    [
+      142,
+      "Atritutos - Rank 3",
+      [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        13
+      ],
+      "A Floresta Ocidental",
+      3
+    ],
+    [
+      149,
+      "Vida e Mana - Rank 2",
+      [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        13
+      ],
+      "O Farol",
+      2
+    ],
+    [
+      162,
+      "Dano Mágico - Rank 2",
+      [
+        0,
+        1,
+        2,
+        3
+      ],
+      "Torre de Shavronne",
+      2
+    ],
+    [
+      187,
+      "Defesas - Rank 1",
+      [
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "A Fortaleza Karui",
+      1
+    ],
+    [
+      171,
+      "Dano de Fogo - Rank 2",
+      [
+        0,
+        1,
+        2,
+        3,
+        9,
+        10
+      ],
+      "O Matagal Horrendo",
+      2
+    ],
+    [
+      174,
+      "Dano de Gelo - Rank 2",
+      [
+        0,
+        1,
+        2,
+        3,
+        9,
+        10
+      ],
+      "A Ponte",
+      2
+    ],
+    [
+      178,
+      "Dano de Raio - Rank 2",
+      [
+        0,
+        1,
+        2,
+        3,
+        9,
+        10
+      ],
+      "A Câmara dos Pecados Nível 1",
+      2
+    ],
+    [
+      185,
+      "Precisão - Rank 2",
+      [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        7,
+        9,
+        10,
+        13
+      ],
+      "O Templo da Decadência Nível 2",
+      2
+    ],
+    [
+      135,
+      "Resistências Elementais - Rank 3",
+      [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        13
+      ],
+      "Fossa de Doedre",
+      3
+    ],
+    [
+      228,
+      "Lacaios - Rank 1",
+      [
+        0,
+        1,
+        2,
+        3,
+        5,
+        7,
+        9,
+        10
+      ],
+      "O Templo Lunaris Nível 2",
+      1
+    ],
+    [
+      230,
+      "Armadilhas e Minas - Rank 3",
+      [
+        0,
+        1,
+        2,
+        3
+      ],
+      "O Templo Solaris Nível 2",
+      1
+    ],
+    [
+      160,
+      "Dano Físico - Rank 3",
+      [
+        0,
+        1,
+        2,
+        3
+      ],
+      "A Pedreira",
+      3
+    ],
+    [
+      163,
+      "Dano Mágico - Rank 3",
+      [
+        0,
+        1,
+        2,
+        3
+      ],
+      "O Lago Borbulhante",
+      3
+    ],
+    [
+      169,
+      "Velocidades de Ataque e Conjuração - Rank 2",
+      [
+        0,
+        1,
+        2,
+        3,
+        4,
+        10
+      ],
+      "O Deserto Vastiri",
+      2
+    ],
+    [
+      150,
+      "Vida e Mana - Rank 3",
+      [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        13
+      ],
+      "As Câmaras Profanadas",
+      3
+    ],
+    [
+      181,
+      "Dano de Caos - Rank 2",
+      [
+        0,
+        1,
+        2,
+        3,
+        9,
+        10
+      ],
+      "O Ossuário",
+      2
+    ],
+    [
+      188,
+      "Defesas - Rank 2",
+      [
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "O Comedouro",
+      2
+    ],
+    [
+      148,
+      "Velocidade de Movimento - Rank 3",
+      [
+        8
+      ],
+      "Epílogo",
+      3
+    ],
+    [
+      139,
+      "Todas as Resistências - Rank 1",
+      [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        13
+      ],
+      "Provação do Aspirante",
+      1
+    ],
+    [
+      137,
+      "Resistências Dobradas - Rank 2",
+      [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        13
+      ],
+      "Provação Cruel do Aspirante",
+      2
+    ],
+    [
+      138,
+      "Resistências Dobradas - Rank 3",
+      [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        13
+      ],
+      "Provação Impiedosa do Aspirante",
+      3
+    ],
+    [
+      140,
+      "Todas as Resistências - Rank 2",
+      [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        13
+      ],
+      "Provação Eterna do Aspirante",
+      2
+    ],
+    [
+      166,
+      "Dano Elemental com Ataques - Rank 1",
+      [
+        0,
+        1,
+        2,
+        3,
+        9,
+        10,
+        11,
+        13
+      ],
+      "Provação do Labirinto nas Catacumbas",
+      1
+    ],
+    [
+      144,
+      "Todos os Atributos - Rank 1",
+      [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        13
+      ],
+      "Provação do Labirinto nos Jardins Imperiais",
+      1
+    ],
+    [
+      136,
+      "Resistências Dobradas - Rank 1",
+      [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        13
+      ],
+      "Provação do Labirinto no Andar de Baixo da Prisão",
+      1
+    ],
+    [
+      164,
+      "Dano Degenerativo - Rank 1",
+      [
+        0,
+        1,
+        2,
+        3
+      ],
+      "Provação do Labirinto na Cripta",
+      1
+    ],
+    [
+      156,
+      "Regeneração de Mana - Rank 1",
+      [
+        0,
+        1,
+        2,
+        3,
+        4,
+        9,
+        10
+      ],
+      "Provação do Labirinto na Câmara dos Pecados Nível 2",
+      1
+    ],
+    [
+      192,
+      "Duração de Frasco - Rank 1",
+      [
+        11
+      ],
+      "Provação do Labirinto na Casa de Banho",
+      1
+    ],
+    [
+      145,
+      "Todos os Atributos - Rank 2",
+      [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        13
+      ],
+      "Provação do Labirinto no Túnel",
+      2
+    ],
+    [
+      234,
+      "Número de Encaixes - 2 ou 3 Encaixes",
+      [
+        0,
+        1,
+        2,
+        3,
+        6,
+        7,
+        8,
+        5,
+        4
+      ],
+      "Primeira Cavidade Azurita na Mina de Azurita",
+      0
+    ],
+    [
+      236,
+      "Número de Encaixes - 4 Encaixes",
+      [
+        0,
+        1,
+        2,
+        3,
+        6,
+        7,
+        8,
+        5,
+        4
+      ],
+      "Cofre de Azurita na Mina de Azurita",
+      0
+    ],
+    [
+      237,
+      "Número de Encaixes - 5 Encaixes",
+      [
+        0,
+        1,
+        2,
+        3,
+        6,
+        7,
+        8,
+        5,
+        4
+      ],
+      "Fenda de Azurita na Mina de Azurita",
+      0
+    ],
+    [
+      238,
+      "Número de Encaixes - 6 Encaixes",
+      [
+        0,
+        1,
+        2,
+        3,
+        6,
+        7,
+        8,
+        5,
+        4
+      ],
+      "Câmara Abissal na Mina de Azurita",
+      0
+    ],
+    [
+      239,
+      "Conexões de Encaixes - 2 Encaixes Conectados",
+      [
+        0,
+        1,
+        2,
+        3,
+        6,
+        7,
+        8,
+        5,
+        4
+      ],
+      "Antro Uivante na Mina de Azurita",
+      0
+    ],
+    [
+      240,
+      "Conexões de Encaixes - 3 Encaixes Conectados",
+      [
+        0,
+        1,
+        2,
+        3,
+        6,
+        7,
+        8,
+        5,
+        4
+      ],
+      "Buraco Sufocante na Mina de Azurita",
+      0
+    ],
+    [
+      241,
+      "Conexões de Encaixes - 4 Encaixes Conectados",
+      [
+        0,
+        1,
+        2,
+        3,
+        6,
+        7,
+        8,
+        5,
+        4
+      ],
+      "Toca da Besta na Mina de Azurita",
+      0
+    ],
+    [
+      242,
+      "Conexões de Encaixes - 5 Encaixes Conectados",
+      [
+        0,
+        1,
+        2,
+        3,
+        6,
+        7,
+        8,
+        5,
+        4
+      ],
+      "Restos Assombrados na Mina de Azurita",
+      0
+    ],
+    [
+      243,
+      "Conexões de Encaixes - 6 Encaixes Conectados",
+      [
+        0,
+        1,
+        2,
+        3,
+        6,
+        7,
+        8,
+        5,
+        4
+      ],
+      "Câmara Primitiva na Mina de Azurita",
+      0
+    ],
+    [
+      245,
+      "Cor dos Encaixes - 1 ou 2 Cores de Encaixe",
+      [
+        0,
+        1,
+        2,
+        3,
+        6,
+        7,
+        8,
+        5,
+        4,
+        9,
+        10
+      ],
+      "Cavidade de Azurita na Mina de Azurita",
+      0
+    ],
+    [
+      246,
+      "Cor dos Encaixes - 3 Cores de Encaixe",
+      [
+        0,
+        1,
+        2,
+        3,
+        6,
+        7,
+        8,
+        5,
+        4
+      ],
+      "Câmara Arruinada na Mina de Azurita",
+      0
+    ],
+    [
+      151,
+      "Vida e Mana - Rank 4",
+      [
+        0,
+        1,
+        2,
+        3,
+        6,
+        7,
+        8,
+        5,
+        4
+      ],
+      "Mapa: Planalto",
+      4
+    ],
+    [
+      196,
+      "Bloqueio e Esquiva - Rank 1",
+      [
+        4
+      ],
+      "Mapa: Cavidade",
+      1
+    ],
+    [
+      193,
+      "Duração de Frasco - Rank 2",
+      [
+        11
+      ],
+      "Mapa: Ruínas do Castelo",
+      2
+    ],
+    [
+      195,
+      "Anulação - Rank 2",
+      [
+        5,
+        7,
+        8
+      ],
+      "Mapa: Hipódromo",
+      2
+    ],
+    [
+      191,
+      "Críticos - Rank 2",
+      [
+        0,
+        1,
+        2,
+        3,
+        10,
+        13
+      ],
+      "Mapa: Porto",
+      2
+    ],
+    [
+      199,
+      "Recarga de Escudo de Energia - Rank 2",
+      [
+        9
+      ],
+      "Mapa: Carcaça",
+      2
+    ],
+    [
+      197,
+      "Bloqueio e Esquiva - Rank 2",
+      [
+        4
+      ],
+      "Mapa: Floresta Sombria",
+      2
+    ],
+    [
+      253,
+      "Escudo de Energia Global - Rank 2",
+      [
+        10,
+        9
+      ],
+      "Mapa: Lago de Lava",
+      2
+    ],
+    [
+      172,
+      "Dano de Fogo - Rank 3",
+      [
+        0,
+        1,
+        2,
+        3
+      ],
+      "Mapa: Lago Árido",
+      3
+    ],
+    [
+      190,
+      "Críticos - Rank 1",
+      [
+        0,
+        1,
+        2,
+        3,
+        10,
+        13
+      ],
+      "Mapa: Masmorra",
+      1
+    ],
+    [
+      175,
+      "Dano de Gelo - Rank 3",
+      [
+        0,
+        1,
+        2,
+        3
+      ],
+      "Mapa: Excavação",
+      3
+    ],
+    [
+      179,
+      "Dano de Raio - Rank 3",
+      [
+        0,
+        1,
+        2,
+        3
+      ],
+      "Mapa: Praia",
+      3
+    ],
+    [
+      198,
+      "Recarga de Escudo de Energia - Rank 1",
+      [
+        9
+      ],
+      "Mapa: Posto de Vigia",
+      1
+    ],
+    [
+      157,
+      "Regeneração de Mana - Rank 2",
+      [
+        0,
+        1,
+        2,
+        3,
+        9,
+        10,
+        4
+      ],
+      "Mapa: Praça da Cidade",
+      2
+    ],
+    [
+      165,
+      "Dano Degenerativo - Rank 2",
+      [
+        0,
+        1,
+        2,
+        3
+      ],
+      "Mapa: Canais",
+      2
+    ],
+    [
+      229,
+      "Lacaios - Rank 2",
+      [
+        0,
+        1,
+        2,
+        3,
+        7,
+        5,
+        9,
+        10
+      ],
+      "Mapa: Fantasmagoria",
+      2
+    ],
+    [
+      167,
+      "Dano Elemental com Ataques - Rank 2",
+      [
+        0,
+        1,
+        2,
+        3,
+        9,
+        10,
+        11,
+        13
+      ],
+      "Mapa: Dunas",
+      2
+    ],
+    [
+      194,
+      "Anulação - Rank 1",
+      [
+        5,
+        7,
+        8
+      ],
+      "Mapa: Bazar",
+      1
+    ],
+    [
+      189,
+      "Defesas - Rank 3",
+      [
+        6,
+        8,
+        7,
+        5,
+        4
+      ],
+      "Mapa: Laboratório",
+      3
+    ],
+    [
+      252,
+      "Escudo de Energia Global - Rank 1",
+      [
+        10,
+        9
+      ],
+      "Mapa: Câmaras de Relíquias",
+      1
+    ],
+    [
+      261,
+      "Dano Físico - Rank 4",
+      [
+        0,
+        1,
+        2,
+        3
+      ],
+      "Mapa: Ruínas de Corais",
+      4
+    ],
+    [
+      262,
+      "Dano Mágico - Rank 4",
+      [
+        0,
+        1,
+        2,
+        3
+      ],
+      "Mapa: Cerco",
+      4
+    ],
+    [
+      109,
+      "Velocidade de Ataque e Conjuração - Rank 3",
+      [
+        0,
+        1,
+        2,
+        3
+      ],
+      "Mapa: Cavidade",
+      3
+    ],
+    [
+      153,
+      "Vida - Rank 5",
+      [
+        6
+      ],
+      "Mapa: Jaula",
+      5
+    ],
+    [
+      154,
+      "Dreno - Rank 1",
+      [
+        0,
+        1,
+        2,
+        3,
+        7,
+        9,
+        10,
+        13
+      ],
+      "Mapa: Jaula",
+      1
+    ],
+    [
+      155,
+      "Dreno - Rank 2",
+      [
+        0,
+        1,
+        2,
+        3,
+        7,
+        10
+      ],
+      "O Templo de Atzoatl - Piscinas da Restauração, Santuário da Vitalidade ou Santuário da Imortalidade",
+      2
+    ],
+    [
+      182,
+      "Dano de Caos - Rank 3",
+      [
+        0,
+        1,
+        2,
+        3
+      ],
+      "O Templo de Atzoatl - Jardins Envenenados, Câmara do Cultivo ou Bosque Tóxico",
+      3
+    ],
+    [
+      186,
+      "Precisão - Rank 3",
+      [
+        0,
+        1,
+        2,
+        3,
+        4,
+        7,
+        5,
+        9,
+        10,
+        13
+      ],
+      "O Templo de Atzoatl - Quarto do Treinamento, Arena do Valor ou Salão dos Campeões",
+      3
+    ],
+    [
+      226,
+      "Redução de Dano Degenerativo",
+      [
+        4
+      ],
+      "O Templo de Atzoatl - Câmara da Corrupção, Catalista da Corrupção ou Local da Corrupção",
+      0
+    ],
+    [
+      227,
+      "Guardião Animado e Visibilidade",
+      [
+        6
+      ],
+      "O Templo de Atzoatl - Oficina do Armeiro, Armária ou Câmara do Ferro",
+      0
+    ],
+    [
+      231,
+      "Armadilhas e Minas - Rank 2",
+      [
+        0,
+        1,
+        2,
+        3
+      ],
+      "O Templo de Atzoatl - Oficina das Armadilhas, Oficina das Defesas do Templo ou Laboratório de Pesquisa Defensiva",
+      2
+    ],
+    [
+      254,
+      "Críticos - Rank 3",
+      [
+        0,
+        1,
+        2,
+        3
+      ],
+      "O Templo de Atzoatl - Oficina, Departamento da Engenheria ou Fábrica",
+      3
+    ],
+    [
+      255,
+      "Lacaios - Rank 3",
+      [
+        0,
+        1,
+        2,
+        3
+      ],
+      "O Templo de Atzoatl - Incubadora, Laboratório Autômato ou Câmara de Hibridização",
+      3
+    ],
+    [
+      249,
+      "Prefixos não podem ser Modificados",
+      [
+        0,
+        1,
+        2,
+        3,
+        6,
+        7,
+        8,
+        5,
+        4,
+        9,
+        10,
+        11,
+        13
+      ],
+      "Profecia - Sussurros Insuportáveis V",
+      0
+    ],
+    [
+      250,
+      "Sufixos não podem ser Modificados",
+      [
+        0,
+        1,
+        2,
+        3,
+        6,
+        7,
+        8,
+        5,
+        4,
+        9,
+        10,
+        11,
+        13
+      ],
+      "Profecia - A Rainha Que Não Respira V",
+      0
+    ],
+    [
+      251,
+      "Pode ter até 3 Modificadores Forjados",
+      [
+        0,
+        1,
+        2,
+        3,
+        6,
+        7,
+        8,
+        5,
+        4,
+        9,
+        10,
+        11,
+        13
+      ],
+      "A Corte Pálida",
+      0
+    ],
+    [
+      247,
+      "Não pode rolar Mods de Ataque",
+      [
+        0,
+        1,
+        2,
+        3,
+        6,
+        7,
+        8,
+        5,
+        4,
+        9,
+        10,
+        11,
+        13
+      ],
+      "Profecia - A Mandíbula da Praga",
+      0
+    ],
+    [
+      248,
+      "Não pode rolar Mods de Conjuração",
+      [
+        0,
+        1,
+        2,
+        3,
+        6,
+        7,
+        8,
+        5,
+        4,
+        9,
+        10,
+        11,
+        13
+      ],
+      "Profecia - O Lorde Feral",
+      0
+    ]
+  ]
+}

@@ -1,1 +1,1513 @@
-{"filename":"SoundEffects.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":true,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"SoundFile","rowid":1,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":true,"file_ext":".ogg","display":null,"display_type":"{0}","description":null},{"name":"SoundFile_2D","rowid":2,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":true,"file_ext":".ogg","display":null,"display_type":"{0}","description":null},{"name":"Unknown3","rowid":3,"type":"bool","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["Amulet","Audio/Sound Effects/ItemSounds/amulet.ogg","Audio/Sound Effects/ItemSounds/amulet.ogg2d",false],["Belt","Audio/Sound Effects/ItemSounds/belt.ogg","Audio/Sound Effects/ItemSounds/belt.ogg2d",false],["Boots","Audio/Sound Effects/ItemSounds/boots.ogg","Audio/Sound Effects/ItemSounds/boots.ogg2d",false],["Bow","Audio/Sound Effects/ItemSounds/bow.ogg","Audio/Sound Effects/ItemSounds/bow.ogg2d",false],["Cap","Audio/Sound Effects/ItemSounds/cap.ogg","Audio/Sound Effects/ItemSounds/cap.ogg2d",false],["ChainArmour","Audio/Sound Effects/ItemSounds/chain_armour.ogg","Audio/Sound Effects/ItemSounds/chain_armour.ogg2d",false],["ChainBoots","Audio/Sound Effects/ItemSounds/chain_boots.ogg","Audio/Sound Effects/ItemSounds/chain_boots.ogg2d",false],["ChainGloves","Audio/Sound Effects/ItemSounds/chain_gloves.ogg","Audio/Sound Effects/ItemSounds/chain_gloves.ogg2d",false],["ClothArmour","Audio/Sound Effects/ItemSounds/cloth_armour.ogg","Audio/Sound Effects/ItemSounds/cloth_armour.ogg2d",false],["Flask","Audio/Sound Effects/ItemSounds/flask.ogg","Audio/Sound Effects/ItemSounds/flask.ogg2d",false],["GoldDrop","Audio/Sound Effects/ItemSounds/PCoin.ogg","Audio/Sound Effects/ItemSounds/PCoin.ogg2d",false],["Helm","Audio/Sound Effects/ItemSounds/helm.ogg","Audio/Sound Effects/ItemSounds/helm.ogg2d",false],["ItemDropLarge","Audio/Sound Effects/ItemSounds/item_drop_large.ogg","Audio/Sound Effects/ItemSounds/item_drop_large.ogg2d",true],["ItemDropSmall","Audio/Sound Effects/ItemSounds/item_drop_small.ogg","Audio/Sound Effects/ItemSounds/item_drop_small.ogg2d",true],["LargeSword","Audio/Sound Effects/ItemSounds/large_sword.ogg","Audio/Sound Effects/ItemSounds/large_sword.ogg2d",false],["LeatherArmour","Audio/Sound Effects/ItemSounds/leather_armour.ogg","Audio/Sound Effects/ItemSounds/leather_armour.ogg2d",false],["MetalArmour","Audio/Sound Effects/ItemSounds/metal_armour.ogg","Audio/Sound Effects/ItemSounds/metal_armour.ogg2d",false],["MetalBoots","Audio/Sound Effects/ItemSounds/metal_boots.ogg","Audio/Sound Effects/ItemSounds/metal_boots.ogg2d",false],["MetalMaul","Audio/Sound Effects/ItemSounds/metal_maul.ogg","Audio/Sound Effects/ItemSounds/metal_maul.ogg2d",false],["MetalShield","Audio/Sound Effects/ItemSounds/metal_shield.ogg","Audio/Sound Effects/ItemSounds/metal_shield.ogg2d",false],["Quiver","Audio/Sound Effects/ItemSounds/quiver.ogg","Audio/Sound Effects/ItemSounds/quiver.ogg2d",false],["Ring","Audio/Sound Effects/ItemSounds/ring.ogg","Audio/Sound Effects/ItemSounds/ring.ogg2d",false],["Skull","Audio/Sound Effects/ItemSounds/skull.ogg","Audio/Sound Effects/ItemSounds/skull.ogg2d",false],["Staff","Audio/Sound Effects/ItemSounds/staff.ogg","Audio/Sound Effects/ItemSounds/staff.ogg2d",false],["Sword","Audio/Sound Effects/ItemSounds/sword.ogg","Audio/Sound Effects/ItemSounds/sword.ogg2d",false],["Wand","Audio/Sound Effects/ItemSounds/wand.ogg","Audio/Sound Effects/ItemSounds/wand.ogg2d",false],["WoodenShield","Audio/Sound Effects/ItemSounds/wooden_shield.ogg","Audio/Sound Effects/ItemSounds/wooden_shield.ogg2d",false],["Scroll","Audio/Sound Effects/ItemSounds/scroll.ogg","Audio/Sound Effects/ItemSounds/scroll.ogg2d",false],["UseFlask","Audio/Sound Effects/ItemSounds/flaskdrink.ogg","Audio/Sound Effects/ItemSounds/flaskdrink.ogg2d",false],["ArmourShard","Audio/Sound Effects/ItemSounds/OrbLayerLow.ogg","Audio/Sound Effects/ItemSounds/armour_shard.ogg2d",false],["Gem","Audio/Sound Effects/ItemSounds/gem.ogg","Audio/Sound Effects/ItemSounds/gem.ogg2d",false],["Maul","Audio/Sound Effects/ItemSounds/maul.ogg","Audio/Sound Effects/ItemSounds/maul.ogg2d",false],["MetalWoodenShield","Audio/Sound Effects/ItemSounds/metal_and_wooden_shield.ogg","Audio/Sound Effects/ItemSounds/metal_and_wooden_shield.ogg2d",false],["Orb","Audio/Sound Effects/ItemSounds/orb.ogg","Audio/Sound Effects/ItemSounds/orb.ogg2d",false],["UseOrb","Audio/Sound Effects/ItemSounds/orb_use.ogg","Audio/Sound Effects/ItemSounds/orb_use.ogg2d",false],["Sharpening","Audio/Sound Effects/ItemSounds/sharpening.ogg","Audio/Sound Effects/ItemSounds/sharpening.ogg2d",false],["SmallWoodenWeapon","Audio/Sound Effects/ItemSounds/small_wooden_weapon.ogg","Audio/Sound Effects/ItemSounds/small_wooden_weapon.ogg2d",false],["Whetstone","Audio/Sound Effects/ItemSounds/OrbLayerLow.ogg","Audio/Sound Effects/ItemSounds/whetstone.ogg2d",false],["QuestBalefulGem","Audio/Sound Effects/ItemSounds/Baleful_Gem.ogg","Audio/Sound Effects/ItemSounds/Baleful_Gem.ogg2d",false],["QuestBanditAmulet","Audio/Sound Effects/ItemSounds/Bandit_Amulet.ogg","Audio/Sound Effects/ItemSounds/Bandit_Amulet.ogg2d",false],["QuestCombinedAmulet","Audio/Sound Effects/ItemSounds/Combined_Amulet.ogg","Audio/Sound Effects/ItemSounds/Combined_Amulet.ogg2d",false],["QuestGoldenHand","Audio/Sound Effects/ItemSounds/Golden_Hand.ogg","Audio/Sound Effects/ItemSounds/Golden_Hand.ogg2d",false],["QuestMedicineChest","Audio/Sound Effects/ItemSounds/Medicine_Chest.ogg","Audio/Sound Effects/ItemSounds/Medicine_Chest.ogg2d",false],["QuestPoisonSpear","Audio/Sound Effects/ItemSounds/Wicked_Spear.ogg","Audio/Sound Effects/ItemSounds/Wicked_Spear.ogg2d",false],["QuestAllFlame","Audio/Sound Effects/ItemSounds/All_Flame.ogg","Audio/Sound Effects/ItemSounds/All_Flame.ogg2d",false],["QuestFruit","Audio/Sound Effects/ItemSounds/Fruit.ogg","Audio/Sound Effects/ItemSounds/Fruit.ogg2d",false],["QuestSulphiteFlask","Audio/Sound Effects/ItemSounds/Sulphite_Flask.ogg","Audio/Sound Effects/ItemSounds/Sulphite_Flask.ogg2d",false],["QuestGoldenPage","Audio/Sound Effects/ItemSounds/GoldenPage.ogg","Audio/Sound Effects/ItemSounds/GoldenPage.ogg2d",false],["QuestPlatinumBust","Audio/Sound Effects/ItemSounds/PlatinumBust.ogg","Audio/Sound Effects/ItemSounds/PlatinumBust.ogg2d",false],["Mask","Audio/Sound Effects/ItemSounds/Mask.ogg","Audio/Sound Effects/ItemSounds/Mask.ogg2d",false],["Map","Audio/Sound Effects/ItemSounds/MapLayer.ogg","Audio/Sound Effects/ItemSounds/Map.ogg2d",false],["MapR","Audio/Sound Effects/ItemSounds/MapRLayer.ogg","Audio/Sound Effects/ItemSounds/Map.ogg2d",false],["MapY","Audio/Sound Effects/ItemSounds/MapYLayer.ogg","Audio/Sound Effects/ItemSounds/Map.ogg2d",false],["1HAxe","Audio/Sound Effects/ItemSounds/1HandAxe.ogg","Audio/Sound Effects/ItemSounds/1HandAxe.ogg2d",false],["1HClaw","Audio/Sound Effects/ItemSounds/1HandClaw.ogg","Audio/Sound Effects/ItemSounds/1HandClaw.ogg2d",false],["1HDagger","Audio/Sound Effects/ItemSounds/1HandDagger.ogg","Audio/Sound Effects/ItemSounds/1HandDagger.ogg2d",false],["1HMace","Audio/Sound Effects/ItemSounds/1HandMace.ogg","Audio/Sound Effects/ItemSounds/1HandMace.ogg2d",false],["LeatherGlove","Audio/Sound Effects/ItemSounds/leather_glove.ogg","Audio/Sound Effects/ItemSounds/leather_glove.ogg2d",false],["Scepter","Audio/Sound Effects/ItemSounds/Scepter.ogg","Audio/Sound Effects/ItemSounds/Scepter.ogg2d",false],["BookOfSkill","Audio/Sound Effects/ItemSounds/Book.ogg","Audio/Sound Effects/ItemSounds/Book.ogg2d",false],["QuestKey","Audio/Sound Effects/ItemSounds/Key.ogg","Audio/Sound Effects/ItemSounds/Key.ogg2d",false],["QuestSpikePassKey","Audio/Sound Effects/ItemSounds/SpikePassKey.ogg","Audio/Sound Effects/ItemSounds/SpikePassKey.ogg2d",false],["UseBookOfSkill","Audio/Sound Effects/ItemSounds/SkillBook/SkillBookUse.ogg","Audio/Sound Effects/ItemSounds/SkillBook/SkillBookUse.ogg2d",false],["MicroTrans","Audio/Sound Effects/ItemSounds/MicroT.ogg","Audio/Sound Effects/ItemSounds/MicroT.ogg2d",false],["ShrineRecharge","Audio/Sound Effects/Shrines/Recharge.ogg","",false],["QuestComplete","Audio/Sound Effects/Misc/Quest_State_Complete.ogg","",true],["QuestAdvance","Audio/Sound Effects/Misc/Quest_State_Advance.ogg","",true],["CTF_FlagReturned","Audio/Sound Effects/UI/PVP/Flag_Return.ogg","",false],["CTF_FlagDropped","Audio/Sound Effects/UI/PVP/Player_Drops_Flag.ogg","",false],["CTF_AllyFlagTaken","Audio/Sound Effects/UI/PVP/Your_Flag_Lost.ogg","",false],["CTF_EnemyFlagTaken","Audio/Sound Effects/UI/PVP/Enemies_Flag_Gained.ogg","",false],["RaceStart","Audio/Sound Effects/Misc/Race_Start.ogg","",false],["RaceEnd","Audio/Sound Effects/Misc/Race_End.ogg","",false],["ItemFilterAlert1","Audio/Sound Effects/Misc/ItemFilter/AlertSound_01.ogg","Audio/Sound Effects/Misc/ItemFilter/AlertSound_Mono_01.ogg",true],["ItemFilterAlert2","Audio/Sound Effects/Misc/ItemFilter/AlertSound_02.ogg","Audio/Sound Effects/Misc/ItemFilter/AlertSound_Mono_02.ogg",true],["ItemFilterAlert3","Audio/Sound Effects/Misc/ItemFilter/AlertSound_03.ogg","Audio/Sound Effects/Misc/ItemFilter/AlertSound_Mono_03.ogg",true],["ItemFilterAlert4","Audio/Sound Effects/Misc/ItemFilter/AlertSound_04.ogg","Audio/Sound Effects/Misc/ItemFilter/AlertSound_Mono_04.ogg",true],["ItemFilterAlert5","Audio/Sound Effects/Misc/ItemFilter/AlertSound_05.ogg","Audio/Sound Effects/Misc/ItemFilter/AlertSound_Mono_05.ogg",true],["ItemFilterAlert6","Audio/Sound Effects/Misc/ItemFilter/AlertSound_06.ogg","Audio/Sound Effects/Misc/ItemFilter/AlertSound_Mono_06.ogg",true],["ItemFilterAlert7","Audio/Sound Effects/Misc/ItemFilter/AlertSound_07.ogg","Audio/Sound Effects/Misc/ItemFilter/AlertSound_Mono_07.ogg",true],["ItemFilterAlert8","Audio/Sound Effects/Misc/ItemFilter/AlertSound_08.ogg","Audio/Sound Effects/Misc/ItemFilter/AlertSound_Mono_08.ogg",true],["ItemFilterAlert9","Audio/Sound Effects/Misc/ItemFilter/AlertSound_09.ogg","Audio/Sound Effects/Misc/ItemFilter/AlertSound_Mono_09.ogg",true],["QuestKaomGem","Audio/Sound Effects/ItemSounds/KaomGem.ogg","Audio/Sound Effects/ItemSounds/KaomGem.ogg2d",false],["QuestDaressoGem","Audio/Sound Effects/ItemSounds/DaressoGem.ogg","Audio/Sound Effects/ItemSounds/DaressoGem.ogg2d",false],["Jewel","Audio/Sound Effects/ItemSounds/Jewel.ogg","Audio/Sound Effects/ItemSounds/Jewel.ogg2d",false],["DivinationCard","Audio/Sound Effects/ItemSounds/DivinationCard.ogg","Audio/Sound Effects/ItemSounds/DivinationCard.ogg2d",false],["MalOrgan1","Audio/Sound Effects/ItemSounds/MalachaiOrgans01.ogg","Audio/Sound Effects/ItemSounds/MalachaiOrgans01.ogg2d",false],["MalOrgan2","Audio/Sound Effects/ItemSounds/MalachaiOrgans02.ogg","Audio/Sound Effects/ItemSounds/MalachaiOrgans02.ogg2d",false],["MalOrgan3","Audio/Sound Effects/ItemSounds/MalachaiOrgans03.ogg","Audio/Sound Effects/ItemSounds/MalachaiOrgans03.ogg2d",false],["LabyrinthKey","Audio/Sound Effects/ItemSounds/Key2.ogg","Audio/Sound Effects/ItemSounds/Key2.ogg2d",false],["Talisman","Audio/Sound Effects/ItemSounds/Talisman.ogg","Audio/Sound Effects/ItemSounds/Talisman.ogg2d",false],["LabyrinthLock","Audio/Sound Effects/Labyrinth/Locked.ogg","",false],["LabyrinthTrinket","Audio/Sound Effects/ItemSounds/Trinket.ogg","Audio/Sound Effects/ItemSounds/Trinket.ogg2d",false],["LevelUpStereo","Audio/Sound Effects/Misc/StereoLevelUp.ogg","",true],["LevelUp","Audio/Sound Effects/Misc/levelup.ogg","",true],["AllocatePassive","Audio/Sound Effects/UI/allocate_passive.ogg","",true],["ItemPickUp","Audio/Sound Effects/ItemSounds/item_pickup.ogg","Audio/Sound Effects/ItemSounds/item_pickup.ogg2d",true],["SkillGemLevelUp","Audio/Sound Effects/Misc/Skill_Gem_Up.ogg","",true],["SkillGemLevelUpButton","Audio/Sound Effects/Misc/Skill_Gem_Level_Button.ogg","",true],["ESFullCharge","Audio/Sound Effects/UI/ES_Note/Full_Charge.ogg","",true],["ESBeginRecharge","Audio/Sound Effects/UI/ES_Note/Begin_Recharge.ogg","",true],["ESBreakSmall","Audio/Sound Effects/UI/ES_Note/ES_Break_Small.ogg","",true],["ESBreakMedium","Audio/Sound Effects/UI/ES_Note/ES_Break_Med.ogg","",true],["ESBreakLarge","Audio/Sound Effects/UI/ES_Note/ES_Break_Large.ogg","",true],["WhisperArrived","Audio/Sound Effects/UI/Whisper/Whisper_01.ogg","",true],["PlayerInvited","Audio/Sound Effects/UI/Party_Note/Player_Invite.ogg","",true],["PlayerJoined","Audio/Sound Effects/UI/Party_Note/Player_Joins.ogg","",true],["PlayerLeft","Audio/Sound Effects/UI/Party_Note/Player_Leaves.ogg","",true],["ChallengeComplete","Audio/Sound Effects/UI/Challenge/ChallengeComplete.ogg","",true],["PortalEnter","Audio/Sound Effects/Skills/TownPortal/Use_Enter.ogg","",true],["PortalExit","Audio/Sound Effects/Skills/TownPortal/Use_Exit.ogg","",true],["UIClick1Down","Audio/Sound Effects/UI/click_01_down.ogg","",true],["UIClick1Up","Audio/Sound Effects/UI/click_01_up.ogg","",true],["UIClick2Down","Audio/Sound Effects/UI/click_02_down.ogg","",true],["UIClick2Up","Audio/Sound Effects/UI/click_02_up.ogg","",true],["UIClick5Down","Audio/Sound Effects/UI/click_05_down.ogg","",true],["UIClick5Up","Audio/Sound Effects/UI/click_05_up.ogg","",true],["ProphecyAlert","Audio/Sound Effects/Misc/ProphecyAccept/ProphecyAccept.ogg","",false],["EssenceItem","Audio/Sound Effects/ItemSounds/EssenceItem.ogg","Audio/Sound Effects/ItemSounds/EssenceItem.ogg2d",false],["EnterAct1Town","Audio/Sound Effects/Misc/EnterCamp/Act1.ogg","",false],["EnterAct2Town","Audio/Sound Effects/Misc/EnterCamp/Act2.ogg","",false],["EnterAct3Town","Audio/Sound Effects/Misc/EnterCamp/Act3.ogg","",false],["EnterAct4Town","Audio/Sound Effects/Misc/EnterCamp/Act4.ogg","",false],["EnterAct4Pits","Audio/Sound Effects/Environment/Act4PitEntry/1-4-5-1-Entry.ogg","",false],["EnterAct5Town","Audio/Sound Effects/Misc/EnterCamp/Act5.ogg","",false],["EnterAct6Town","Audio/Sound Effects/Misc/EnterCamp/Act6.ogg","",false],["EnterAct7Town","Audio/Sound Effects/Misc/EnterCamp/Act7.ogg","",false],["EnterAct8Town","Audio/Sound Effects/Misc/EnterCamp/Act8.ogg","",false],["EnterAct9Town","Audio/Sound Effects/Misc/EnterCamp/Act9.ogg","",false],["EnterAct10Town","Audio/Sound Effects/Misc/EnterCamp/Act10.ogg","",false],["EnterActEpilogue","Audio/Sound Effects/Misc/EnterCamp/ActEpilogue.ogg","",false],["ItemFilterAlert10","Audio/Sound Effects/Misc/ItemFilter/AlertSound_10.ogg","Audio/Sound Effects/Misc/ItemFilter/AlertSound_Mono_10.ogg",true],["ItemFilterAlert11","Audio/Sound Effects/Misc/ItemFilter/AlertSound_11.ogg","Audio/Sound Effects/Misc/ItemFilter/AlertSound_Mono_11.ogg",true],["ItemFilterAlert12","Audio/Sound Effects/Misc/ItemFilter/AlertSound_12.ogg","Audio/Sound Effects/Misc/ItemFilter/AlertSound_Mono_12.ogg",true],["ItemFilterAlert13","Audio/Sound Effects/Misc/ItemFilter/AlertSound_13.ogg","Audio/Sound Effects/Misc/ItemFilter/AlertSound_Mono_13.ogg",true],["ItemFilterAlert14","Audio/Sound Effects/Misc/ItemFilter/AlertSound_14.ogg","Audio/Sound Effects/Misc/ItemFilter/AlertSound_Mono_14.ogg",true],["ItemFilterAlert15","Audio/Sound Effects/Misc/ItemFilter/AlertSound_15.ogg","Audio/Sound Effects/Misc/ItemFilter/AlertSound_Mono_15.ogg",true],["ItemFilterAlert16","Audio/Sound Effects/Misc/ItemFilter/AlertSound_16.ogg","Audio/Sound Effects/Misc/ItemFilter/AlertSound_Mono_16.ogg",true],["ShAlchemy","Audio/Sound Effects/Misc/ItemFilter/SH22Alchemy.ogg","Audio/Sound Effects/Misc/ItemFilter/SH22Alchemy_Mono.ogg",true],["ShBlessed","Audio/Sound Effects/Misc/ItemFilter/SH22Blessed.ogg","Audio/Sound Effects/Misc/ItemFilter/SH22Blessed_Mono.ogg",true],["ShChaos","Audio/Sound Effects/Misc/ItemFilter/SH22Chaos.ogg","Audio/Sound Effects/Misc/ItemFilter/SH22Chaos_Mono.ogg",true],["ShDivine","Audio/Sound Effects/Misc/ItemFilter/SH22Divine.ogg","Audio/Sound Effects/Misc/ItemFilter/SH22Divine_Mono.ogg",true],["ShExalted","Audio/Sound Effects/Misc/ItemFilter/SH22Exalted.ogg","Audio/Sound Effects/Misc/ItemFilter/SH22Exalted_Mono.ogg",true],["ShFusing","Audio/Sound Effects/Misc/ItemFilter/SH22Fusing.ogg","Audio/Sound Effects/Misc/ItemFilter/SH22Fusing_Mono.ogg",true],["ShGeneral","Audio/Sound Effects/Misc/ItemFilter/SH22General.ogg","Audio/Sound Effects/Misc/ItemFilter/SH22General_Mono.ogg",true],["ShMirror","Audio/Sound Effects/Misc/ItemFilter/SH22Mirror.ogg","Audio/Sound Effects/Misc/ItemFilter/SH22Mirror_Mono.ogg",true],["ShRegal","Audio/Sound Effects/Misc/ItemFilter/SH22Regal.ogg","Audio/Sound Effects/Misc/ItemFilter/SH22Regal_Mono.ogg",true],["ShVaal","Audio/Sound Effects/Misc/ItemFilter/SH22Vaal.ogg","Audio/Sound Effects/Misc/ItemFilter/SH22Vaal_Mono.ogg",true],["HinekoraHair","Audio/Sound Effects/ItemSounds/HineHair.ogg","Audio/Sound Effects/ItemSounds/HineHair.ogg2d",false],["TukohamaTooth","Audio/Sound Effects/ItemSounds/TukoTooth.ogg","Audio/Sound Effects/ItemSounds/TukoTooth.ogg2d",false],["ValakoJaw","Audio/Sound Effects/ItemSounds/VataJaw.ogg","Audio/Sound Effects/ItemSounds/VataJaw.ogg2d",false],["LeagueOrb","Audio/Sound Effects/ItemSounds/LeagueStoneItem.ogg","Audio/Sound Effects/ItemSounds/LeagueStoneItem.ogg2d",false],["ConsolePassiveConfirm","event:/Sound Effects/UI/Xbox/PassiveConfirm.ogg","event:/Sound Effects/UI/Xbox/PassiveConfirm.ogg",true],["ConsoleScroll1","event:/Sound Effects/UI/Xbox/Scroll1.ogg","event:/Sound Effects/UI/Xbox/Scroll1.ogg",true],["ConsoleScroll2","event:/Sound Effects/UI/Xbox/Scroll2.ogg","event:/Sound Effects/UI/Xbox/Scroll2.ogg",true],["ConsoleScroll3","event:/Sound Effects/UI/Xbox/Scroll3.ogg","event:/Sound Effects/UI/Xbox/Scroll3.ogg",true],["ConsoleSkillPadIn","event:/Sound Effects/UI/Xbox/SkillPadIn.ogg","event:/Sound Effects/UI/Xbox/SkillPadIn.ogg",true],["ConsoleSkillPadOut","event:/Sound Effects/UI/Xbox/SkillPadOut.ogg","event:/Sound Effects/UI/Xbox/SkillPadOut.ogg",true],["Miasmeter","Audio/Sound Effects/ItemSounds/Miasmeter.ogg","Audio/Sound Effects/ItemSounds/Miasmeter.ogg2d",false],["EyesofZeal","Audio/Sound Effects/ItemSounds/TemplarCourtKey.ogg","Audio/Sound Effects/ItemSounds/TemplarCourtKey.ogg2d",false],["OpenMysteryBox","Audio/Sound Effects/UI/OpenMysteryBox/OpenBox.ogg","",true],["MoonOrb","Audio/Sound Effects/ItemSounds/LunSolMoonOrb.ogg","Audio/Sound Effects/ItemSounds/LunSolMoonOrb.ogg2d",false],["SunOrb","Audio/Sound Effects/ItemSounds/LunSolSunOrb.ogg","Audio/Sound Effects/ItemSounds/LunSolSunOrb.ogg2d",false],["SilverLocket","Audio/Sound Effects/ItemSounds/SilverLocket.ogg","Audio/Sound Effects/ItemSounds/SilverLocket.ogg2d",false],["KisharaStar","Audio/Sound Effects/ItemSounds/KisharaStar.ogg","Audio/Sound Effects/ItemSounds/KisharaStar.ogg2d",false],["GreustNecklace","Audio/Sound Effects/ItemSounds/GreustNecklace.ogg","Audio/Sound Effects/ItemSounds/GreustNecklace.ogg2d",false],["Firefly","Audio/Sound Effects/ItemSounds/FireFly.ogg","Audio/Sound Effects/ItemSounds/FireFly.ogg2d",false],["BlackFlag","Audio/Sound Effects/ItemSounds/BlackFlag.ogg","Audio/Sound Effects/ItemSounds/BlackFlag.ogg2d",false],["KaruiEye","Audio/Sound Effects/ItemSounds/KaruiEye.ogg","Audio/Sound Effects/ItemSounds/KaruiEye.ogg2d",false],["ObsidianKey","Audio/Sound Effects/ItemSounds/ObsidianKey.ogg","Audio/Sound Effects/ItemSounds/ObsidianKey.ogg2d",false],["BlackVenom","Audio/Sound Effects/ItemSounds/BlackVenom.ogg","Audio/Sound Effects/ItemSounds/BlackVenom.ogg2d",false],["AnkhOfEternity","Audio/Sound Effects/ItemSounds/AnkhOfEternity.ogg","Audio/Sound Effects/ItemSounds/AnkhOfEternity.ogg2d",false],["WingsOfVastiri","Audio/Sound Effects/ItemSounds/WingsOfVastiri.ogg","Audio/Sound Effects/ItemSounds/WingsOfVastiri.ogg2d",false],["AvariusStaff","Audio/Sound Effects/ItemSounds/AvariusStaff.ogg","Audio/Sound Effects/ItemSounds/AvariusStaff.ogg2d",false],["StormSword","Audio/Sound Effects/ItemSounds/StormSword.ogg","Audio/Sound Effects/ItemSounds/StormSword.ogg2d",false],["MarakathCalendar","Audio/Sound Effects/ItemSounds/MarakathCalendar.ogg","Audio/Sound Effects/ItemSounds/MarakathCalendar.ogg2d",false],["BottledStorm","Audio/Sound Effects/ItemSounds/BottledStorm.ogg","Audio/Sound Effects/ItemSounds/BottledStorm.ogg2d",false],["AegisBreak","Audio/Sound Effects/UI/Aegis/BreakSG","Audio/Sound Effects/UI/Aegis/BreakSG",false],["AegisRecharge","Audio/Sound Effects/UI/Aegis/FullSG","Audio/Sound Effects/UI/Aegis/FullSG",false],["OrbLayerDrop","Audio/Sound Effects/ItemSounds/OrbLayerDrop.ogg","Audio/Sound Effects/ItemSounds/orb.ogg2d",false],["OrbLayerHigh","Audio/Sound Effects/ItemSounds/OrbLayerHigh.ogg","Audio/Sound Effects/ItemSounds/orb.ogg2d",false],["OrbLayerMid","Audio/Sound Effects/ItemSounds/OrbLayerMid.ogg","Audio/Sound Effects/ItemSounds/orb.ogg2d",false],["OrbLayerLow","Audio/Sound Effects/ItemSounds/OrbLayerLow.ogg","Audio/Sound Effects/ItemSounds/orb.ogg2d",false],["DelveFossil","Audio/Sound Effects/ItemSounds/DelveFossil.ogg","Audio/Sound Effects/ItemSounds/DelveFossil.ogg2d",false],["RecipeUnlock","Audio/Sound Effects/UI/RecipeUnlock/RecipeUnlock.ogg","",false],["MasterMissionComplete","Audio/Sound Effects/Misc/MasterMissionComplete.ogg","",false],["MasterMissionFailed","Audio/Sound Effects/Misc/MasterMissionFail.ogg","",false],["UnveilMods","Audio/Sound Effects/UI/Unveil/UnveilMods.ogg","",false],["UnveilItem","Audio/Sound Effects/UI/Unveil/UnveilItem.ogg","",false],["SynthesizeItem","Audio/Sound Effects/UI/SynthesisCreateItem/CreateItem.ogg","",false],["SynthesisPortalEnter","Audio/Sound Effects/Environment/SynthesisLeague/Portal/SynthesisEnter.ogg","",true],["SynthesisPortalExit","Audio/Sound Effects/Environment/SynthesisLeague/Portal/SynthesisExit.ogg","",true],["SynthesisSelectMemory","Audio/Sound Effects/UI/Synthesis/SelectMemory.ogg","",false],["SynthesisPlace","Audio/Sound Effects/UI/Synthesis/Place.ogg","",false],["SynthesisRemove","Audio/Sound Effects/UI/Synthesis/Remove.ogg","",false],["SynthesisDisappear","Audio/Sound Effects/UI/Synthesis/Disappear.ogg","",false],["WaypointTravel","Audio/Sound Effects/UI/Waypoint/Travel.ogg","",false],["SynthesisComplete","Audio/Sound Effects/UI/Synthesis/Complete.ogg","",false],["SynthesisFail","Audio/Sound Effects/UI/Synthesis/Fail.ogg","",false],["InteractionFailed","Audio/Sound Effects/UI/Quest/ObjectInteractFail.ogg","",false],["GenericFail","Audio/Sound Effects/UI/GenericFail/GenericFail.ogg","",false],["RhoaEggBreakOne","Audio/Sound Effects/MonsterSounds/Rhoas/Indicators/Indicator_1.ogg","",false],["RhoaEggBreakTwo","Audio/Sound Effects/MonsterSounds/Rhoas/Indicators/Indicator_2.ogg","",false],["RhoaEggBreakThree","Audio/Sound Effects/MonsterSounds/Rhoas/Indicators/Indicator_3.ogg","",false],["RhoaEggBreakFour","Audio/Sound Effects/MonsterSounds/Rhoas/Indicators/Indicator_4.ogg","",false],["RhoaEggBreakFive","Audio/Sound Effects/MonsterSounds/Rhoas/Indicators/Indicator_5.ogg","",false],["QuestAreaCleared","Audio/Sound Effects/Environment/LevelTransitions/FetidPool/TransitionAudio.ogg","",false],["SellingItem","Audio/Sound Effects/UI/Selling/SellingEffects.ogg","",false],["AcceptItem","Audio/Sound Effects/UI/Selling/SellingEffects.ogg","",false],["BlightVictory","Audio/Sound Effects/UI/Blight/Victory.ogg","",false],["BlightDefeat","Audio/Sound Effects/UI/Blight/Defeat.ogg","",false],["BlightMushrunes","Audio/Sound Effects/ItemSounds/BlightMushrunes.ogg","Audio/Sound Effects/ItemSounds/BlightMushrunes.ogg2d",false],["AtlasMapSpread","Audio/Sound Effects/UI/Atlas/Conquerors/MapSpread.ogg","",true],["AtlasPlaceMap","Audio/Sound Effects/UI/Atlas/Conquerors/PlaceMap.ogg","",true],["AtlasUnlockNode","Audio/Sound Effects/UI/Atlas/Conquerors/UnlockedNode.ogg","",true],["AtlasStrongholdDissipate","Audio/Sound Effects/UI/Atlas/Stronghold/Dissipate.ogg","",true],["AtlasStrongholdLock","Audio/Sound Effects/UI/Atlas/Stronghold/Lock.ogg","",true],["TreeExpandSmall","Audio/Sound Effects/UI/TreeExpand/ExpandSmall.ogg","",false],["TreeExpandMedium","Audio/Sound Effects/UI/TreeExpand/ExpandMedium.ogg","",false],["TreeExpandLarge","Audio/Sound Effects/UI/TreeExpand/ExpandLarge.ogg","",false],["AtlasFavourMapSelectSocket","Audio/Sound Effects/UI/Synthesis/SelectMemory.ogg","",false],["AtlasFavourMapDeselectSocket","Audio/Sound Effects/UI/Synthesis/Remove.ogg","",false],["AtlasFavourMapSuccessFavour","Audio/Sound Effects/UI/Synthesis/Place.ogg","",false],["AtlasFavourMapFailFavour","Audio/Sound Effects/UI/GenericFail/GenericFail.ogg","",false],["AtlasFavourMapClearFavour","Audio/Sound Effects/UI/Synthesis/Remove.ogg","",false],["MapDeviceModSelect","Audio/Sound Effects/UI/MapDevice/SelectMod.ogg","",false],["MapDeviceMasterSelect","Audio/Sound Effects/UI/MapDevice/SelectMaster.ogg","",false],["HarvestSeedT1","Audio/Sound Effects/ItemSounds/HarvestLeague/SeedDrops/HarvestSeedDropT1.ogg","Audio/Sound Effects/ItemSounds/HarvestLeague/SeedDrops/HarvestSeedDropT1.ogg2d",false],["HarvestCraftActivate","Audio/Sound Effects/UI/Harvest/Craft.ogg","",false],["HarvestCraftSelection","Audio/Sound Effects/UI/Harvest/Selection.ogg","",false],["HarvestUseMachineItem","Audio/Sound Effects/UI/Harvest/UseMachineInventory.ogg","",false],["HarvestUseSeedItem","Audio/Sound Effects/UI/Harvest/UseSeedInventory.ogg","",false],["HarvestCraftCondenser","Audio/Sound Effects/UI/Harvest/Condenser.ogg","",false],["HeistSignContract","Audio/Sound Effects/UI/Heist/SignContract.ogg","",false],["HeistWaxSeal","Audio/Sound Effects/UI/Heist/WaxSeal.ogg","",false],["CombineMicro","Audio/Sound Effects/UI/CombineMicro/Combine.ogg","",true],["HeistCoins","Audio/Sound Effects/ItemSounds/HeistCoin.ogg","Audio/Sound Effects/ItemSounds/HeistCoin.ogg2d",false],["HeistBlueprintReveal","Audio/Sound Effects/UI/Heist/BlueprintReveal.ogg","",false],["HeistBlueprintFail","Audio/Sound Effects/UI/Heist/BlueprintRevealFail.ogg","",false],["HeistStashOpen","Audio/Sound Effects/UI/Heist/OpenStash.ogg","",false],["HeistStashClose","Audio/Sound Effects/UI/Heist/CloseStash.ogg","",false]]}
+{
+  "filename": "SoundEffects.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "SoundFile",
+      "rowid": 1,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": true,
+      "file_ext": ".ogg",
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "SoundFile_2D",
+      "rowid": 2,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": true,
+      "file_ext": ".ogg",
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown3",
+      "rowid": 3,
+      "type": "bool",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "Amulet",
+      "Audio/Sound Effects/ItemSounds/amulet.ogg",
+      "Audio/Sound Effects/ItemSounds/amulet.ogg2d",
+      false
+    ],
+    [
+      "Belt",
+      "Audio/Sound Effects/ItemSounds/belt.ogg",
+      "Audio/Sound Effects/ItemSounds/belt.ogg2d",
+      false
+    ],
+    [
+      "Boots",
+      "Audio/Sound Effects/ItemSounds/boots.ogg",
+      "Audio/Sound Effects/ItemSounds/boots.ogg2d",
+      false
+    ],
+    [
+      "Bow",
+      "Audio/Sound Effects/ItemSounds/bow.ogg",
+      "Audio/Sound Effects/ItemSounds/bow.ogg2d",
+      false
+    ],
+    [
+      "Cap",
+      "Audio/Sound Effects/ItemSounds/cap.ogg",
+      "Audio/Sound Effects/ItemSounds/cap.ogg2d",
+      false
+    ],
+    [
+      "ChainArmour",
+      "Audio/Sound Effects/ItemSounds/chain_armour.ogg",
+      "Audio/Sound Effects/ItemSounds/chain_armour.ogg2d",
+      false
+    ],
+    [
+      "ChainBoots",
+      "Audio/Sound Effects/ItemSounds/chain_boots.ogg",
+      "Audio/Sound Effects/ItemSounds/chain_boots.ogg2d",
+      false
+    ],
+    [
+      "ChainGloves",
+      "Audio/Sound Effects/ItemSounds/chain_gloves.ogg",
+      "Audio/Sound Effects/ItemSounds/chain_gloves.ogg2d",
+      false
+    ],
+    [
+      "ClothArmour",
+      "Audio/Sound Effects/ItemSounds/cloth_armour.ogg",
+      "Audio/Sound Effects/ItemSounds/cloth_armour.ogg2d",
+      false
+    ],
+    [
+      "Flask",
+      "Audio/Sound Effects/ItemSounds/flask.ogg",
+      "Audio/Sound Effects/ItemSounds/flask.ogg2d",
+      false
+    ],
+    [
+      "GoldDrop",
+      "Audio/Sound Effects/ItemSounds/PCoin.ogg",
+      "Audio/Sound Effects/ItemSounds/PCoin.ogg2d",
+      false
+    ],
+    [
+      "Helm",
+      "Audio/Sound Effects/ItemSounds/helm.ogg",
+      "Audio/Sound Effects/ItemSounds/helm.ogg2d",
+      false
+    ],
+    [
+      "ItemDropLarge",
+      "Audio/Sound Effects/ItemSounds/item_drop_large.ogg",
+      "Audio/Sound Effects/ItemSounds/item_drop_large.ogg2d",
+      true
+    ],
+    [
+      "ItemDropSmall",
+      "Audio/Sound Effects/ItemSounds/item_drop_small.ogg",
+      "Audio/Sound Effects/ItemSounds/item_drop_small.ogg2d",
+      true
+    ],
+    [
+      "LargeSword",
+      "Audio/Sound Effects/ItemSounds/large_sword.ogg",
+      "Audio/Sound Effects/ItemSounds/large_sword.ogg2d",
+      false
+    ],
+    [
+      "LeatherArmour",
+      "Audio/Sound Effects/ItemSounds/leather_armour.ogg",
+      "Audio/Sound Effects/ItemSounds/leather_armour.ogg2d",
+      false
+    ],
+    [
+      "MetalArmour",
+      "Audio/Sound Effects/ItemSounds/metal_armour.ogg",
+      "Audio/Sound Effects/ItemSounds/metal_armour.ogg2d",
+      false
+    ],
+    [
+      "MetalBoots",
+      "Audio/Sound Effects/ItemSounds/metal_boots.ogg",
+      "Audio/Sound Effects/ItemSounds/metal_boots.ogg2d",
+      false
+    ],
+    [
+      "MetalMaul",
+      "Audio/Sound Effects/ItemSounds/metal_maul.ogg",
+      "Audio/Sound Effects/ItemSounds/metal_maul.ogg2d",
+      false
+    ],
+    [
+      "MetalShield",
+      "Audio/Sound Effects/ItemSounds/metal_shield.ogg",
+      "Audio/Sound Effects/ItemSounds/metal_shield.ogg2d",
+      false
+    ],
+    [
+      "Quiver",
+      "Audio/Sound Effects/ItemSounds/quiver.ogg",
+      "Audio/Sound Effects/ItemSounds/quiver.ogg2d",
+      false
+    ],
+    [
+      "Ring",
+      "Audio/Sound Effects/ItemSounds/ring.ogg",
+      "Audio/Sound Effects/ItemSounds/ring.ogg2d",
+      false
+    ],
+    [
+      "Skull",
+      "Audio/Sound Effects/ItemSounds/skull.ogg",
+      "Audio/Sound Effects/ItemSounds/skull.ogg2d",
+      false
+    ],
+    [
+      "Staff",
+      "Audio/Sound Effects/ItemSounds/staff.ogg",
+      "Audio/Sound Effects/ItemSounds/staff.ogg2d",
+      false
+    ],
+    [
+      "Sword",
+      "Audio/Sound Effects/ItemSounds/sword.ogg",
+      "Audio/Sound Effects/ItemSounds/sword.ogg2d",
+      false
+    ],
+    [
+      "Wand",
+      "Audio/Sound Effects/ItemSounds/wand.ogg",
+      "Audio/Sound Effects/ItemSounds/wand.ogg2d",
+      false
+    ],
+    [
+      "WoodenShield",
+      "Audio/Sound Effects/ItemSounds/wooden_shield.ogg",
+      "Audio/Sound Effects/ItemSounds/wooden_shield.ogg2d",
+      false
+    ],
+    [
+      "Scroll",
+      "Audio/Sound Effects/ItemSounds/scroll.ogg",
+      "Audio/Sound Effects/ItemSounds/scroll.ogg2d",
+      false
+    ],
+    [
+      "UseFlask",
+      "Audio/Sound Effects/ItemSounds/flaskdrink.ogg",
+      "Audio/Sound Effects/ItemSounds/flaskdrink.ogg2d",
+      false
+    ],
+    [
+      "ArmourShard",
+      "Audio/Sound Effects/ItemSounds/OrbLayerLow.ogg",
+      "Audio/Sound Effects/ItemSounds/armour_shard.ogg2d",
+      false
+    ],
+    [
+      "Gem",
+      "Audio/Sound Effects/ItemSounds/gem.ogg",
+      "Audio/Sound Effects/ItemSounds/gem.ogg2d",
+      false
+    ],
+    [
+      "Maul",
+      "Audio/Sound Effects/ItemSounds/maul.ogg",
+      "Audio/Sound Effects/ItemSounds/maul.ogg2d",
+      false
+    ],
+    [
+      "MetalWoodenShield",
+      "Audio/Sound Effects/ItemSounds/metal_and_wooden_shield.ogg",
+      "Audio/Sound Effects/ItemSounds/metal_and_wooden_shield.ogg2d",
+      false
+    ],
+    [
+      "Orb",
+      "Audio/Sound Effects/ItemSounds/orb.ogg",
+      "Audio/Sound Effects/ItemSounds/orb.ogg2d",
+      false
+    ],
+    [
+      "UseOrb",
+      "Audio/Sound Effects/ItemSounds/orb_use.ogg",
+      "Audio/Sound Effects/ItemSounds/orb_use.ogg2d",
+      false
+    ],
+    [
+      "Sharpening",
+      "Audio/Sound Effects/ItemSounds/sharpening.ogg",
+      "Audio/Sound Effects/ItemSounds/sharpening.ogg2d",
+      false
+    ],
+    [
+      "SmallWoodenWeapon",
+      "Audio/Sound Effects/ItemSounds/small_wooden_weapon.ogg",
+      "Audio/Sound Effects/ItemSounds/small_wooden_weapon.ogg2d",
+      false
+    ],
+    [
+      "Whetstone",
+      "Audio/Sound Effects/ItemSounds/OrbLayerLow.ogg",
+      "Audio/Sound Effects/ItemSounds/whetstone.ogg2d",
+      false
+    ],
+    [
+      "QuestBalefulGem",
+      "Audio/Sound Effects/ItemSounds/Baleful_Gem.ogg",
+      "Audio/Sound Effects/ItemSounds/Baleful_Gem.ogg2d",
+      false
+    ],
+    [
+      "QuestBanditAmulet",
+      "Audio/Sound Effects/ItemSounds/Bandit_Amulet.ogg",
+      "Audio/Sound Effects/ItemSounds/Bandit_Amulet.ogg2d",
+      false
+    ],
+    [
+      "QuestCombinedAmulet",
+      "Audio/Sound Effects/ItemSounds/Combined_Amulet.ogg",
+      "Audio/Sound Effects/ItemSounds/Combined_Amulet.ogg2d",
+      false
+    ],
+    [
+      "QuestGoldenHand",
+      "Audio/Sound Effects/ItemSounds/Golden_Hand.ogg",
+      "Audio/Sound Effects/ItemSounds/Golden_Hand.ogg2d",
+      false
+    ],
+    [
+      "QuestMedicineChest",
+      "Audio/Sound Effects/ItemSounds/Medicine_Chest.ogg",
+      "Audio/Sound Effects/ItemSounds/Medicine_Chest.ogg2d",
+      false
+    ],
+    [
+      "QuestPoisonSpear",
+      "Audio/Sound Effects/ItemSounds/Wicked_Spear.ogg",
+      "Audio/Sound Effects/ItemSounds/Wicked_Spear.ogg2d",
+      false
+    ],
+    [
+      "QuestAllFlame",
+      "Audio/Sound Effects/ItemSounds/All_Flame.ogg",
+      "Audio/Sound Effects/ItemSounds/All_Flame.ogg2d",
+      false
+    ],
+    [
+      "QuestFruit",
+      "Audio/Sound Effects/ItemSounds/Fruit.ogg",
+      "Audio/Sound Effects/ItemSounds/Fruit.ogg2d",
+      false
+    ],
+    [
+      "QuestSulphiteFlask",
+      "Audio/Sound Effects/ItemSounds/Sulphite_Flask.ogg",
+      "Audio/Sound Effects/ItemSounds/Sulphite_Flask.ogg2d",
+      false
+    ],
+    [
+      "QuestGoldenPage",
+      "Audio/Sound Effects/ItemSounds/GoldenPage.ogg",
+      "Audio/Sound Effects/ItemSounds/GoldenPage.ogg2d",
+      false
+    ],
+    [
+      "QuestPlatinumBust",
+      "Audio/Sound Effects/ItemSounds/PlatinumBust.ogg",
+      "Audio/Sound Effects/ItemSounds/PlatinumBust.ogg2d",
+      false
+    ],
+    [
+      "Mask",
+      "Audio/Sound Effects/ItemSounds/Mask.ogg",
+      "Audio/Sound Effects/ItemSounds/Mask.ogg2d",
+      false
+    ],
+    [
+      "Map",
+      "Audio/Sound Effects/ItemSounds/MapLayer.ogg",
+      "Audio/Sound Effects/ItemSounds/Map.ogg2d",
+      false
+    ],
+    [
+      "MapR",
+      "Audio/Sound Effects/ItemSounds/MapRLayer.ogg",
+      "Audio/Sound Effects/ItemSounds/Map.ogg2d",
+      false
+    ],
+    [
+      "MapY",
+      "Audio/Sound Effects/ItemSounds/MapYLayer.ogg",
+      "Audio/Sound Effects/ItemSounds/Map.ogg2d",
+      false
+    ],
+    [
+      "1HAxe",
+      "Audio/Sound Effects/ItemSounds/1HandAxe.ogg",
+      "Audio/Sound Effects/ItemSounds/1HandAxe.ogg2d",
+      false
+    ],
+    [
+      "1HClaw",
+      "Audio/Sound Effects/ItemSounds/1HandClaw.ogg",
+      "Audio/Sound Effects/ItemSounds/1HandClaw.ogg2d",
+      false
+    ],
+    [
+      "1HDagger",
+      "Audio/Sound Effects/ItemSounds/1HandDagger.ogg",
+      "Audio/Sound Effects/ItemSounds/1HandDagger.ogg2d",
+      false
+    ],
+    [
+      "1HMace",
+      "Audio/Sound Effects/ItemSounds/1HandMace.ogg",
+      "Audio/Sound Effects/ItemSounds/1HandMace.ogg2d",
+      false
+    ],
+    [
+      "LeatherGlove",
+      "Audio/Sound Effects/ItemSounds/leather_glove.ogg",
+      "Audio/Sound Effects/ItemSounds/leather_glove.ogg2d",
+      false
+    ],
+    [
+      "Scepter",
+      "Audio/Sound Effects/ItemSounds/Scepter.ogg",
+      "Audio/Sound Effects/ItemSounds/Scepter.ogg2d",
+      false
+    ],
+    [
+      "BookOfSkill",
+      "Audio/Sound Effects/ItemSounds/Book.ogg",
+      "Audio/Sound Effects/ItemSounds/Book.ogg2d",
+      false
+    ],
+    [
+      "QuestKey",
+      "Audio/Sound Effects/ItemSounds/Key.ogg",
+      "Audio/Sound Effects/ItemSounds/Key.ogg2d",
+      false
+    ],
+    [
+      "QuestSpikePassKey",
+      "Audio/Sound Effects/ItemSounds/SpikePassKey.ogg",
+      "Audio/Sound Effects/ItemSounds/SpikePassKey.ogg2d",
+      false
+    ],
+    [
+      "UseBookOfSkill",
+      "Audio/Sound Effects/ItemSounds/SkillBook/SkillBookUse.ogg",
+      "Audio/Sound Effects/ItemSounds/SkillBook/SkillBookUse.ogg2d",
+      false
+    ],
+    [
+      "MicroTrans",
+      "Audio/Sound Effects/ItemSounds/MicroT.ogg",
+      "Audio/Sound Effects/ItemSounds/MicroT.ogg2d",
+      false
+    ],
+    [
+      "ShrineRecharge",
+      "Audio/Sound Effects/Shrines/Recharge.ogg",
+      "",
+      false
+    ],
+    [
+      "QuestComplete",
+      "Audio/Sound Effects/Misc/Quest_State_Complete.ogg",
+      "",
+      true
+    ],
+    [
+      "QuestAdvance",
+      "Audio/Sound Effects/Misc/Quest_State_Advance.ogg",
+      "",
+      true
+    ],
+    [
+      "CTF_FlagReturned",
+      "Audio/Sound Effects/UI/PVP/Flag_Return.ogg",
+      "",
+      false
+    ],
+    [
+      "CTF_FlagDropped",
+      "Audio/Sound Effects/UI/PVP/Player_Drops_Flag.ogg",
+      "",
+      false
+    ],
+    [
+      "CTF_AllyFlagTaken",
+      "Audio/Sound Effects/UI/PVP/Your_Flag_Lost.ogg",
+      "",
+      false
+    ],
+    [
+      "CTF_EnemyFlagTaken",
+      "Audio/Sound Effects/UI/PVP/Enemies_Flag_Gained.ogg",
+      "",
+      false
+    ],
+    [
+      "RaceStart",
+      "Audio/Sound Effects/Misc/Race_Start.ogg",
+      "",
+      false
+    ],
+    [
+      "RaceEnd",
+      "Audio/Sound Effects/Misc/Race_End.ogg",
+      "",
+      false
+    ],
+    [
+      "ItemFilterAlert1",
+      "Audio/Sound Effects/Misc/ItemFilter/AlertSound_01.ogg",
+      "Audio/Sound Effects/Misc/ItemFilter/AlertSound_Mono_01.ogg",
+      true
+    ],
+    [
+      "ItemFilterAlert2",
+      "Audio/Sound Effects/Misc/ItemFilter/AlertSound_02.ogg",
+      "Audio/Sound Effects/Misc/ItemFilter/AlertSound_Mono_02.ogg",
+      true
+    ],
+    [
+      "ItemFilterAlert3",
+      "Audio/Sound Effects/Misc/ItemFilter/AlertSound_03.ogg",
+      "Audio/Sound Effects/Misc/ItemFilter/AlertSound_Mono_03.ogg",
+      true
+    ],
+    [
+      "ItemFilterAlert4",
+      "Audio/Sound Effects/Misc/ItemFilter/AlertSound_04.ogg",
+      "Audio/Sound Effects/Misc/ItemFilter/AlertSound_Mono_04.ogg",
+      true
+    ],
+    [
+      "ItemFilterAlert5",
+      "Audio/Sound Effects/Misc/ItemFilter/AlertSound_05.ogg",
+      "Audio/Sound Effects/Misc/ItemFilter/AlertSound_Mono_05.ogg",
+      true
+    ],
+    [
+      "ItemFilterAlert6",
+      "Audio/Sound Effects/Misc/ItemFilter/AlertSound_06.ogg",
+      "Audio/Sound Effects/Misc/ItemFilter/AlertSound_Mono_06.ogg",
+      true
+    ],
+    [
+      "ItemFilterAlert7",
+      "Audio/Sound Effects/Misc/ItemFilter/AlertSound_07.ogg",
+      "Audio/Sound Effects/Misc/ItemFilter/AlertSound_Mono_07.ogg",
+      true
+    ],
+    [
+      "ItemFilterAlert8",
+      "Audio/Sound Effects/Misc/ItemFilter/AlertSound_08.ogg",
+      "Audio/Sound Effects/Misc/ItemFilter/AlertSound_Mono_08.ogg",
+      true
+    ],
+    [
+      "ItemFilterAlert9",
+      "Audio/Sound Effects/Misc/ItemFilter/AlertSound_09.ogg",
+      "Audio/Sound Effects/Misc/ItemFilter/AlertSound_Mono_09.ogg",
+      true
+    ],
+    [
+      "QuestKaomGem",
+      "Audio/Sound Effects/ItemSounds/KaomGem.ogg",
+      "Audio/Sound Effects/ItemSounds/KaomGem.ogg2d",
+      false
+    ],
+    [
+      "QuestDaressoGem",
+      "Audio/Sound Effects/ItemSounds/DaressoGem.ogg",
+      "Audio/Sound Effects/ItemSounds/DaressoGem.ogg2d",
+      false
+    ],
+    [
+      "Jewel",
+      "Audio/Sound Effects/ItemSounds/Jewel.ogg",
+      "Audio/Sound Effects/ItemSounds/Jewel.ogg2d",
+      false
+    ],
+    [
+      "DivinationCard",
+      "Audio/Sound Effects/ItemSounds/DivinationCard.ogg",
+      "Audio/Sound Effects/ItemSounds/DivinationCard.ogg2d",
+      false
+    ],
+    [
+      "MalOrgan1",
+      "Audio/Sound Effects/ItemSounds/MalachaiOrgans01.ogg",
+      "Audio/Sound Effects/ItemSounds/MalachaiOrgans01.ogg2d",
+      false
+    ],
+    [
+      "MalOrgan2",
+      "Audio/Sound Effects/ItemSounds/MalachaiOrgans02.ogg",
+      "Audio/Sound Effects/ItemSounds/MalachaiOrgans02.ogg2d",
+      false
+    ],
+    [
+      "MalOrgan3",
+      "Audio/Sound Effects/ItemSounds/MalachaiOrgans03.ogg",
+      "Audio/Sound Effects/ItemSounds/MalachaiOrgans03.ogg2d",
+      false
+    ],
+    [
+      "LabyrinthKey",
+      "Audio/Sound Effects/ItemSounds/Key2.ogg",
+      "Audio/Sound Effects/ItemSounds/Key2.ogg2d",
+      false
+    ],
+    [
+      "Talisman",
+      "Audio/Sound Effects/ItemSounds/Talisman.ogg",
+      "Audio/Sound Effects/ItemSounds/Talisman.ogg2d",
+      false
+    ],
+    [
+      "LabyrinthLock",
+      "Audio/Sound Effects/Labyrinth/Locked.ogg",
+      "",
+      false
+    ],
+    [
+      "LabyrinthTrinket",
+      "Audio/Sound Effects/ItemSounds/Trinket.ogg",
+      "Audio/Sound Effects/ItemSounds/Trinket.ogg2d",
+      false
+    ],
+    [
+      "LevelUpStereo",
+      "Audio/Sound Effects/Misc/StereoLevelUp.ogg",
+      "",
+      true
+    ],
+    [
+      "LevelUp",
+      "Audio/Sound Effects/Misc/levelup.ogg",
+      "",
+      true
+    ],
+    [
+      "AllocatePassive",
+      "Audio/Sound Effects/UI/allocate_passive.ogg",
+      "",
+      true
+    ],
+    [
+      "ItemPickUp",
+      "Audio/Sound Effects/ItemSounds/item_pickup.ogg",
+      "Audio/Sound Effects/ItemSounds/item_pickup.ogg2d",
+      true
+    ],
+    [
+      "SkillGemLevelUp",
+      "Audio/Sound Effects/Misc/Skill_Gem_Up.ogg",
+      "",
+      true
+    ],
+    [
+      "SkillGemLevelUpButton",
+      "Audio/Sound Effects/Misc/Skill_Gem_Level_Button.ogg",
+      "",
+      true
+    ],
+    [
+      "ESFullCharge",
+      "Audio/Sound Effects/UI/ES_Note/Full_Charge.ogg",
+      "",
+      true
+    ],
+    [
+      "ESBeginRecharge",
+      "Audio/Sound Effects/UI/ES_Note/Begin_Recharge.ogg",
+      "",
+      true
+    ],
+    [
+      "ESBreakSmall",
+      "Audio/Sound Effects/UI/ES_Note/ES_Break_Small.ogg",
+      "",
+      true
+    ],
+    [
+      "ESBreakMedium",
+      "Audio/Sound Effects/UI/ES_Note/ES_Break_Med.ogg",
+      "",
+      true
+    ],
+    [
+      "ESBreakLarge",
+      "Audio/Sound Effects/UI/ES_Note/ES_Break_Large.ogg",
+      "",
+      true
+    ],
+    [
+      "WhisperArrived",
+      "Audio/Sound Effects/UI/Whisper/Whisper_01.ogg",
+      "",
+      true
+    ],
+    [
+      "PlayerInvited",
+      "Audio/Sound Effects/UI/Party_Note/Player_Invite.ogg",
+      "",
+      true
+    ],
+    [
+      "PlayerJoined",
+      "Audio/Sound Effects/UI/Party_Note/Player_Joins.ogg",
+      "",
+      true
+    ],
+    [
+      "PlayerLeft",
+      "Audio/Sound Effects/UI/Party_Note/Player_Leaves.ogg",
+      "",
+      true
+    ],
+    [
+      "ChallengeComplete",
+      "Audio/Sound Effects/UI/Challenge/ChallengeComplete.ogg",
+      "",
+      true
+    ],
+    [
+      "PortalEnter",
+      "Audio/Sound Effects/Skills/TownPortal/Use_Enter.ogg",
+      "",
+      true
+    ],
+    [
+      "PortalExit",
+      "Audio/Sound Effects/Skills/TownPortal/Use_Exit.ogg",
+      "",
+      true
+    ],
+    [
+      "UIClick1Down",
+      "Audio/Sound Effects/UI/click_01_down.ogg",
+      "",
+      true
+    ],
+    [
+      "UIClick1Up",
+      "Audio/Sound Effects/UI/click_01_up.ogg",
+      "",
+      true
+    ],
+    [
+      "UIClick2Down",
+      "Audio/Sound Effects/UI/click_02_down.ogg",
+      "",
+      true
+    ],
+    [
+      "UIClick2Up",
+      "Audio/Sound Effects/UI/click_02_up.ogg",
+      "",
+      true
+    ],
+    [
+      "UIClick5Down",
+      "Audio/Sound Effects/UI/click_05_down.ogg",
+      "",
+      true
+    ],
+    [
+      "UIClick5Up",
+      "Audio/Sound Effects/UI/click_05_up.ogg",
+      "",
+      true
+    ],
+    [
+      "ProphecyAlert",
+      "Audio/Sound Effects/Misc/ProphecyAccept/ProphecyAccept.ogg",
+      "",
+      false
+    ],
+    [
+      "EssenceItem",
+      "Audio/Sound Effects/ItemSounds/EssenceItem.ogg",
+      "Audio/Sound Effects/ItemSounds/EssenceItem.ogg2d",
+      false
+    ],
+    [
+      "EnterAct1Town",
+      "Audio/Sound Effects/Misc/EnterCamp/Act1.ogg",
+      "",
+      false
+    ],
+    [
+      "EnterAct2Town",
+      "Audio/Sound Effects/Misc/EnterCamp/Act2.ogg",
+      "",
+      false
+    ],
+    [
+      "EnterAct3Town",
+      "Audio/Sound Effects/Misc/EnterCamp/Act3.ogg",
+      "",
+      false
+    ],
+    [
+      "EnterAct4Town",
+      "Audio/Sound Effects/Misc/EnterCamp/Act4.ogg",
+      "",
+      false
+    ],
+    [
+      "EnterAct4Pits",
+      "Audio/Sound Effects/Environment/Act4PitEntry/1-4-5-1-Entry.ogg",
+      "",
+      false
+    ],
+    [
+      "EnterAct5Town",
+      "Audio/Sound Effects/Misc/EnterCamp/Act5.ogg",
+      "",
+      false
+    ],
+    [
+      "EnterAct6Town",
+      "Audio/Sound Effects/Misc/EnterCamp/Act6.ogg",
+      "",
+      false
+    ],
+    [
+      "EnterAct7Town",
+      "Audio/Sound Effects/Misc/EnterCamp/Act7.ogg",
+      "",
+      false
+    ],
+    [
+      "EnterAct8Town",
+      "Audio/Sound Effects/Misc/EnterCamp/Act8.ogg",
+      "",
+      false
+    ],
+    [
+      "EnterAct9Town",
+      "Audio/Sound Effects/Misc/EnterCamp/Act9.ogg",
+      "",
+      false
+    ],
+    [
+      "EnterAct10Town",
+      "Audio/Sound Effects/Misc/EnterCamp/Act10.ogg",
+      "",
+      false
+    ],
+    [
+      "EnterActEpilogue",
+      "Audio/Sound Effects/Misc/EnterCamp/ActEpilogue.ogg",
+      "",
+      false
+    ],
+    [
+      "ItemFilterAlert10",
+      "Audio/Sound Effects/Misc/ItemFilter/AlertSound_10.ogg",
+      "Audio/Sound Effects/Misc/ItemFilter/AlertSound_Mono_10.ogg",
+      true
+    ],
+    [
+      "ItemFilterAlert11",
+      "Audio/Sound Effects/Misc/ItemFilter/AlertSound_11.ogg",
+      "Audio/Sound Effects/Misc/ItemFilter/AlertSound_Mono_11.ogg",
+      true
+    ],
+    [
+      "ItemFilterAlert12",
+      "Audio/Sound Effects/Misc/ItemFilter/AlertSound_12.ogg",
+      "Audio/Sound Effects/Misc/ItemFilter/AlertSound_Mono_12.ogg",
+      true
+    ],
+    [
+      "ItemFilterAlert13",
+      "Audio/Sound Effects/Misc/ItemFilter/AlertSound_13.ogg",
+      "Audio/Sound Effects/Misc/ItemFilter/AlertSound_Mono_13.ogg",
+      true
+    ],
+    [
+      "ItemFilterAlert14",
+      "Audio/Sound Effects/Misc/ItemFilter/AlertSound_14.ogg",
+      "Audio/Sound Effects/Misc/ItemFilter/AlertSound_Mono_14.ogg",
+      true
+    ],
+    [
+      "ItemFilterAlert15",
+      "Audio/Sound Effects/Misc/ItemFilter/AlertSound_15.ogg",
+      "Audio/Sound Effects/Misc/ItemFilter/AlertSound_Mono_15.ogg",
+      true
+    ],
+    [
+      "ItemFilterAlert16",
+      "Audio/Sound Effects/Misc/ItemFilter/AlertSound_16.ogg",
+      "Audio/Sound Effects/Misc/ItemFilter/AlertSound_Mono_16.ogg",
+      true
+    ],
+    [
+      "ShAlchemy",
+      "Audio/Sound Effects/Misc/ItemFilter/SH22Alchemy.ogg",
+      "Audio/Sound Effects/Misc/ItemFilter/SH22Alchemy_Mono.ogg",
+      true
+    ],
+    [
+      "ShBlessed",
+      "Audio/Sound Effects/Misc/ItemFilter/SH22Blessed.ogg",
+      "Audio/Sound Effects/Misc/ItemFilter/SH22Blessed_Mono.ogg",
+      true
+    ],
+    [
+      "ShChaos",
+      "Audio/Sound Effects/Misc/ItemFilter/SH22Chaos.ogg",
+      "Audio/Sound Effects/Misc/ItemFilter/SH22Chaos_Mono.ogg",
+      true
+    ],
+    [
+      "ShDivine",
+      "Audio/Sound Effects/Misc/ItemFilter/SH22Divine.ogg",
+      "Audio/Sound Effects/Misc/ItemFilter/SH22Divine_Mono.ogg",
+      true
+    ],
+    [
+      "ShExalted",
+      "Audio/Sound Effects/Misc/ItemFilter/SH22Exalted.ogg",
+      "Audio/Sound Effects/Misc/ItemFilter/SH22Exalted_Mono.ogg",
+      true
+    ],
+    [
+      "ShFusing",
+      "Audio/Sound Effects/Misc/ItemFilter/SH22Fusing.ogg",
+      "Audio/Sound Effects/Misc/ItemFilter/SH22Fusing_Mono.ogg",
+      true
+    ],
+    [
+      "ShGeneral",
+      "Audio/Sound Effects/Misc/ItemFilter/SH22General.ogg",
+      "Audio/Sound Effects/Misc/ItemFilter/SH22General_Mono.ogg",
+      true
+    ],
+    [
+      "ShMirror",
+      "Audio/Sound Effects/Misc/ItemFilter/SH22Mirror.ogg",
+      "Audio/Sound Effects/Misc/ItemFilter/SH22Mirror_Mono.ogg",
+      true
+    ],
+    [
+      "ShRegal",
+      "Audio/Sound Effects/Misc/ItemFilter/SH22Regal.ogg",
+      "Audio/Sound Effects/Misc/ItemFilter/SH22Regal_Mono.ogg",
+      true
+    ],
+    [
+      "ShVaal",
+      "Audio/Sound Effects/Misc/ItemFilter/SH22Vaal.ogg",
+      "Audio/Sound Effects/Misc/ItemFilter/SH22Vaal_Mono.ogg",
+      true
+    ],
+    [
+      "HinekoraHair",
+      "Audio/Sound Effects/ItemSounds/HineHair.ogg",
+      "Audio/Sound Effects/ItemSounds/HineHair.ogg2d",
+      false
+    ],
+    [
+      "TukohamaTooth",
+      "Audio/Sound Effects/ItemSounds/TukoTooth.ogg",
+      "Audio/Sound Effects/ItemSounds/TukoTooth.ogg2d",
+      false
+    ],
+    [
+      "ValakoJaw",
+      "Audio/Sound Effects/ItemSounds/VataJaw.ogg",
+      "Audio/Sound Effects/ItemSounds/VataJaw.ogg2d",
+      false
+    ],
+    [
+      "LeagueOrb",
+      "Audio/Sound Effects/ItemSounds/LeagueStoneItem.ogg",
+      "Audio/Sound Effects/ItemSounds/LeagueStoneItem.ogg2d",
+      false
+    ],
+    [
+      "ConsolePassiveConfirm",
+      "event:/Sound Effects/UI/Xbox/PassiveConfirm.ogg",
+      "event:/Sound Effects/UI/Xbox/PassiveConfirm.ogg",
+      true
+    ],
+    [
+      "ConsoleScroll1",
+      "event:/Sound Effects/UI/Xbox/Scroll1.ogg",
+      "event:/Sound Effects/UI/Xbox/Scroll1.ogg",
+      true
+    ],
+    [
+      "ConsoleScroll2",
+      "event:/Sound Effects/UI/Xbox/Scroll2.ogg",
+      "event:/Sound Effects/UI/Xbox/Scroll2.ogg",
+      true
+    ],
+    [
+      "ConsoleScroll3",
+      "event:/Sound Effects/UI/Xbox/Scroll3.ogg",
+      "event:/Sound Effects/UI/Xbox/Scroll3.ogg",
+      true
+    ],
+    [
+      "ConsoleSkillPadIn",
+      "event:/Sound Effects/UI/Xbox/SkillPadIn.ogg",
+      "event:/Sound Effects/UI/Xbox/SkillPadIn.ogg",
+      true
+    ],
+    [
+      "ConsoleSkillPadOut",
+      "event:/Sound Effects/UI/Xbox/SkillPadOut.ogg",
+      "event:/Sound Effects/UI/Xbox/SkillPadOut.ogg",
+      true
+    ],
+    [
+      "Miasmeter",
+      "Audio/Sound Effects/ItemSounds/Miasmeter.ogg",
+      "Audio/Sound Effects/ItemSounds/Miasmeter.ogg2d",
+      false
+    ],
+    [
+      "EyesofZeal",
+      "Audio/Sound Effects/ItemSounds/TemplarCourtKey.ogg",
+      "Audio/Sound Effects/ItemSounds/TemplarCourtKey.ogg2d",
+      false
+    ],
+    [
+      "OpenMysteryBox",
+      "Audio/Sound Effects/UI/OpenMysteryBox/OpenBox.ogg",
+      "",
+      true
+    ],
+    [
+      "MoonOrb",
+      "Audio/Sound Effects/ItemSounds/LunSolMoonOrb.ogg",
+      "Audio/Sound Effects/ItemSounds/LunSolMoonOrb.ogg2d",
+      false
+    ],
+    [
+      "SunOrb",
+      "Audio/Sound Effects/ItemSounds/LunSolSunOrb.ogg",
+      "Audio/Sound Effects/ItemSounds/LunSolSunOrb.ogg2d",
+      false
+    ],
+    [
+      "SilverLocket",
+      "Audio/Sound Effects/ItemSounds/SilverLocket.ogg",
+      "Audio/Sound Effects/ItemSounds/SilverLocket.ogg2d",
+      false
+    ],
+    [
+      "KisharaStar",
+      "Audio/Sound Effects/ItemSounds/KisharaStar.ogg",
+      "Audio/Sound Effects/ItemSounds/KisharaStar.ogg2d",
+      false
+    ],
+    [
+      "GreustNecklace",
+      "Audio/Sound Effects/ItemSounds/GreustNecklace.ogg",
+      "Audio/Sound Effects/ItemSounds/GreustNecklace.ogg2d",
+      false
+    ],
+    [
+      "Firefly",
+      "Audio/Sound Effects/ItemSounds/FireFly.ogg",
+      "Audio/Sound Effects/ItemSounds/FireFly.ogg2d",
+      false
+    ],
+    [
+      "BlackFlag",
+      "Audio/Sound Effects/ItemSounds/BlackFlag.ogg",
+      "Audio/Sound Effects/ItemSounds/BlackFlag.ogg2d",
+      false
+    ],
+    [
+      "KaruiEye",
+      "Audio/Sound Effects/ItemSounds/KaruiEye.ogg",
+      "Audio/Sound Effects/ItemSounds/KaruiEye.ogg2d",
+      false
+    ],
+    [
+      "ObsidianKey",
+      "Audio/Sound Effects/ItemSounds/ObsidianKey.ogg",
+      "Audio/Sound Effects/ItemSounds/ObsidianKey.ogg2d",
+      false
+    ],
+    [
+      "BlackVenom",
+      "Audio/Sound Effects/ItemSounds/BlackVenom.ogg",
+      "Audio/Sound Effects/ItemSounds/BlackVenom.ogg2d",
+      false
+    ],
+    [
+      "AnkhOfEternity",
+      "Audio/Sound Effects/ItemSounds/AnkhOfEternity.ogg",
+      "Audio/Sound Effects/ItemSounds/AnkhOfEternity.ogg2d",
+      false
+    ],
+    [
+      "WingsOfVastiri",
+      "Audio/Sound Effects/ItemSounds/WingsOfVastiri.ogg",
+      "Audio/Sound Effects/ItemSounds/WingsOfVastiri.ogg2d",
+      false
+    ],
+    [
+      "AvariusStaff",
+      "Audio/Sound Effects/ItemSounds/AvariusStaff.ogg",
+      "Audio/Sound Effects/ItemSounds/AvariusStaff.ogg2d",
+      false
+    ],
+    [
+      "StormSword",
+      "Audio/Sound Effects/ItemSounds/StormSword.ogg",
+      "Audio/Sound Effects/ItemSounds/StormSword.ogg2d",
+      false
+    ],
+    [
+      "MarakathCalendar",
+      "Audio/Sound Effects/ItemSounds/MarakathCalendar.ogg",
+      "Audio/Sound Effects/ItemSounds/MarakathCalendar.ogg2d",
+      false
+    ],
+    [
+      "BottledStorm",
+      "Audio/Sound Effects/ItemSounds/BottledStorm.ogg",
+      "Audio/Sound Effects/ItemSounds/BottledStorm.ogg2d",
+      false
+    ],
+    [
+      "AegisBreak",
+      "Audio/Sound Effects/UI/Aegis/BreakSG",
+      "Audio/Sound Effects/UI/Aegis/BreakSG",
+      false
+    ],
+    [
+      "AegisRecharge",
+      "Audio/Sound Effects/UI/Aegis/FullSG",
+      "Audio/Sound Effects/UI/Aegis/FullSG",
+      false
+    ],
+    [
+      "OrbLayerDrop",
+      "Audio/Sound Effects/ItemSounds/OrbLayerDrop.ogg",
+      "Audio/Sound Effects/ItemSounds/orb.ogg2d",
+      false
+    ],
+    [
+      "OrbLayerHigh",
+      "Audio/Sound Effects/ItemSounds/OrbLayerHigh.ogg",
+      "Audio/Sound Effects/ItemSounds/orb.ogg2d",
+      false
+    ],
+    [
+      "OrbLayerMid",
+      "Audio/Sound Effects/ItemSounds/OrbLayerMid.ogg",
+      "Audio/Sound Effects/ItemSounds/orb.ogg2d",
+      false
+    ],
+    [
+      "OrbLayerLow",
+      "Audio/Sound Effects/ItemSounds/OrbLayerLow.ogg",
+      "Audio/Sound Effects/ItemSounds/orb.ogg2d",
+      false
+    ],
+    [
+      "DelveFossil",
+      "Audio/Sound Effects/ItemSounds/DelveFossil.ogg",
+      "Audio/Sound Effects/ItemSounds/DelveFossil.ogg2d",
+      false
+    ],
+    [
+      "RecipeUnlock",
+      "Audio/Sound Effects/UI/RecipeUnlock/RecipeUnlock.ogg",
+      "",
+      false
+    ],
+    [
+      "MasterMissionComplete",
+      "Audio/Sound Effects/Misc/MasterMissionComplete.ogg",
+      "",
+      false
+    ],
+    [
+      "MasterMissionFailed",
+      "Audio/Sound Effects/Misc/MasterMissionFail.ogg",
+      "",
+      false
+    ],
+    [
+      "UnveilMods",
+      "Audio/Sound Effects/UI/Unveil/UnveilMods.ogg",
+      "",
+      false
+    ],
+    [
+      "UnveilItem",
+      "Audio/Sound Effects/UI/Unveil/UnveilItem.ogg",
+      "",
+      false
+    ],
+    [
+      "SynthesizeItem",
+      "Audio/Sound Effects/UI/SynthesisCreateItem/CreateItem.ogg",
+      "",
+      false
+    ],
+    [
+      "SynthesisPortalEnter",
+      "Audio/Sound Effects/Environment/SynthesisLeague/Portal/SynthesisEnter.ogg",
+      "",
+      true
+    ],
+    [
+      "SynthesisPortalExit",
+      "Audio/Sound Effects/Environment/SynthesisLeague/Portal/SynthesisExit.ogg",
+      "",
+      true
+    ],
+    [
+      "SynthesisSelectMemory",
+      "Audio/Sound Effects/UI/Synthesis/SelectMemory.ogg",
+      "",
+      false
+    ],
+    [
+      "SynthesisPlace",
+      "Audio/Sound Effects/UI/Synthesis/Place.ogg",
+      "",
+      false
+    ],
+    [
+      "SynthesisRemove",
+      "Audio/Sound Effects/UI/Synthesis/Remove.ogg",
+      "",
+      false
+    ],
+    [
+      "SynthesisDisappear",
+      "Audio/Sound Effects/UI/Synthesis/Disappear.ogg",
+      "",
+      false
+    ],
+    [
+      "WaypointTravel",
+      "Audio/Sound Effects/UI/Waypoint/Travel.ogg",
+      "",
+      false
+    ],
+    [
+      "SynthesisComplete",
+      "Audio/Sound Effects/UI/Synthesis/Complete.ogg",
+      "",
+      false
+    ],
+    [
+      "SynthesisFail",
+      "Audio/Sound Effects/UI/Synthesis/Fail.ogg",
+      "",
+      false
+    ],
+    [
+      "InteractionFailed",
+      "Audio/Sound Effects/UI/Quest/ObjectInteractFail.ogg",
+      "",
+      false
+    ],
+    [
+      "GenericFail",
+      "Audio/Sound Effects/UI/GenericFail/GenericFail.ogg",
+      "",
+      false
+    ],
+    [
+      "RhoaEggBreakOne",
+      "Audio/Sound Effects/MonsterSounds/Rhoas/Indicators/Indicator_1.ogg",
+      "",
+      false
+    ],
+    [
+      "RhoaEggBreakTwo",
+      "Audio/Sound Effects/MonsterSounds/Rhoas/Indicators/Indicator_2.ogg",
+      "",
+      false
+    ],
+    [
+      "RhoaEggBreakThree",
+      "Audio/Sound Effects/MonsterSounds/Rhoas/Indicators/Indicator_3.ogg",
+      "",
+      false
+    ],
+    [
+      "RhoaEggBreakFour",
+      "Audio/Sound Effects/MonsterSounds/Rhoas/Indicators/Indicator_4.ogg",
+      "",
+      false
+    ],
+    [
+      "RhoaEggBreakFive",
+      "Audio/Sound Effects/MonsterSounds/Rhoas/Indicators/Indicator_5.ogg",
+      "",
+      false
+    ],
+    [
+      "QuestAreaCleared",
+      "Audio/Sound Effects/Environment/LevelTransitions/FetidPool/TransitionAudio.ogg",
+      "",
+      false
+    ],
+    [
+      "SellingItem",
+      "Audio/Sound Effects/UI/Selling/SellingEffects.ogg",
+      "",
+      false
+    ],
+    [
+      "AcceptItem",
+      "Audio/Sound Effects/UI/Selling/SellingEffects.ogg",
+      "",
+      false
+    ],
+    [
+      "BlightVictory",
+      "Audio/Sound Effects/UI/Blight/Victory.ogg",
+      "",
+      false
+    ],
+    [
+      "BlightDefeat",
+      "Audio/Sound Effects/UI/Blight/Defeat.ogg",
+      "",
+      false
+    ],
+    [
+      "BlightMushrunes",
+      "Audio/Sound Effects/ItemSounds/BlightMushrunes.ogg",
+      "Audio/Sound Effects/ItemSounds/BlightMushrunes.ogg2d",
+      false
+    ],
+    [
+      "AtlasMapSpread",
+      "Audio/Sound Effects/UI/Atlas/Conquerors/MapSpread.ogg",
+      "",
+      true
+    ],
+    [
+      "AtlasPlaceMap",
+      "Audio/Sound Effects/UI/Atlas/Conquerors/PlaceMap.ogg",
+      "",
+      true
+    ],
+    [
+      "AtlasUnlockNode",
+      "Audio/Sound Effects/UI/Atlas/Conquerors/UnlockedNode.ogg",
+      "",
+      true
+    ],
+    [
+      "AtlasStrongholdDissipate",
+      "Audio/Sound Effects/UI/Atlas/Stronghold/Dissipate.ogg",
+      "",
+      true
+    ],
+    [
+      "AtlasStrongholdLock",
+      "Audio/Sound Effects/UI/Atlas/Stronghold/Lock.ogg",
+      "",
+      true
+    ],
+    [
+      "TreeExpandSmall",
+      "Audio/Sound Effects/UI/TreeExpand/ExpandSmall.ogg",
+      "",
+      false
+    ],
+    [
+      "TreeExpandMedium",
+      "Audio/Sound Effects/UI/TreeExpand/ExpandMedium.ogg",
+      "",
+      false
+    ],
+    [
+      "TreeExpandLarge",
+      "Audio/Sound Effects/UI/TreeExpand/ExpandLarge.ogg",
+      "",
+      false
+    ],
+    [
+      "AtlasFavourMapSelectSocket",
+      "Audio/Sound Effects/UI/Synthesis/SelectMemory.ogg",
+      "",
+      false
+    ],
+    [
+      "AtlasFavourMapDeselectSocket",
+      "Audio/Sound Effects/UI/Synthesis/Remove.ogg",
+      "",
+      false
+    ],
+    [
+      "AtlasFavourMapSuccessFavour",
+      "Audio/Sound Effects/UI/Synthesis/Place.ogg",
+      "",
+      false
+    ],
+    [
+      "AtlasFavourMapFailFavour",
+      "Audio/Sound Effects/UI/GenericFail/GenericFail.ogg",
+      "",
+      false
+    ],
+    [
+      "AtlasFavourMapClearFavour",
+      "Audio/Sound Effects/UI/Synthesis/Remove.ogg",
+      "",
+      false
+    ],
+    [
+      "MapDeviceModSelect",
+      "Audio/Sound Effects/UI/MapDevice/SelectMod.ogg",
+      "",
+      false
+    ],
+    [
+      "MapDeviceMasterSelect",
+      "Audio/Sound Effects/UI/MapDevice/SelectMaster.ogg",
+      "",
+      false
+    ],
+    [
+      "HarvestSeedT1",
+      "Audio/Sound Effects/ItemSounds/HarvestLeague/SeedDrops/HarvestSeedDropT1.ogg",
+      "Audio/Sound Effects/ItemSounds/HarvestLeague/SeedDrops/HarvestSeedDropT1.ogg2d",
+      false
+    ],
+    [
+      "HarvestCraftActivate",
+      "Audio/Sound Effects/UI/Harvest/Craft.ogg",
+      "",
+      false
+    ],
+    [
+      "HarvestCraftSelection",
+      "Audio/Sound Effects/UI/Harvest/Selection.ogg",
+      "",
+      false
+    ],
+    [
+      "HarvestUseMachineItem",
+      "Audio/Sound Effects/UI/Harvest/UseMachineInventory.ogg",
+      "",
+      false
+    ],
+    [
+      "HarvestUseSeedItem",
+      "Audio/Sound Effects/UI/Harvest/UseSeedInventory.ogg",
+      "",
+      false
+    ],
+    [
+      "HarvestCraftCondenser",
+      "Audio/Sound Effects/UI/Harvest/Condenser.ogg",
+      "",
+      false
+    ],
+    [
+      "HeistSignContract",
+      "Audio/Sound Effects/UI/Heist/SignContract.ogg",
+      "",
+      false
+    ],
+    [
+      "HeistWaxSeal",
+      "Audio/Sound Effects/UI/Heist/WaxSeal.ogg",
+      "",
+      false
+    ],
+    [
+      "CombineMicro",
+      "Audio/Sound Effects/UI/CombineMicro/Combine.ogg",
+      "",
+      true
+    ],
+    [
+      "HeistCoins",
+      "Audio/Sound Effects/ItemSounds/HeistCoin.ogg",
+      "Audio/Sound Effects/ItemSounds/HeistCoin.ogg2d",
+      false
+    ],
+    [
+      "HeistBlueprintReveal",
+      "Audio/Sound Effects/UI/Heist/BlueprintReveal.ogg",
+      "",
+      false
+    ],
+    [
+      "HeistBlueprintFail",
+      "Audio/Sound Effects/UI/Heist/BlueprintRevealFail.ogg",
+      "",
+      false
+    ],
+    [
+      "HeistStashOpen",
+      "Audio/Sound Effects/UI/Heist/OpenStash.ogg",
+      "",
+      false
+    ],
+    [
+      "HeistStashClose",
+      "Audio/Sound Effects/UI/Heist/CloseStash.ogg",
+      "",
+      false
+    ]
+  ]
+}

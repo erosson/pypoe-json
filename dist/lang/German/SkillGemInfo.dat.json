@@ -1,1 +1,1961 @@
-{"filename":"SkillGemInfo.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":true,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Description","rowid":1,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"VideoURL1","rowid":2,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"SkillGemsKey","rowid":3,"type":"ulong","key":"SkillGems.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"VideoURL2","rowid":4,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"CharactersKeys","rowid":5,"type":"ref|list|ulong","key":"Characters.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["Blight&ArcaneSurge","Gewährt eine vorübergehende Stärkung, nachdem man mit 'Pesthauch' genug Mana verbraucht hat. Die Stärkung gewährt 'Pesthauch' mehr Zauberschaden und erhöhte Zaubergeschwindigkeit und die Manaregeneration stellt Mana für durchgehendes Zaubern bereit.","http://web.poecdn.com/public/videos/Blight/Blight+Arcane%20Surge.bk2 ",337,"http://down.qq.com/poe/videos/skills/Blight/Blight+ArcaneSurge.bk2",[1,6,2,5]],["Blight&ControlledDestruction","Gewährt mehr Zauberschaden, doch verringert die Chance auf kritische Treffer. Da 'Pesthauch' jedoch keine kritischen Treffer erzielen kann, gewährt 'Unterstützung: Kontrollierte Zerstörung' also mehr Zauberschaden, ohne dafür Nachteile in Kauf nehmen zu müssen.","http://web.poecdn.com/public/videos/Blight/Blight+Controlled%20Destruction.bk2 ",305,"http://down.qq.com/poe/videos/skills/Blight/Blight+ControlledDestruction.bk2",[]],["Blight&Efficacy","Erhöht den Schaden über Zeit und Zauberschaden von 'Pesthauch'. Die verlängerte Fertigkeitseffektdauer erhöht zudem die Dauer der Pesthauch-Schwächung auf Gegnern.","http://web.poecdn.com/public/videos/Blight/Blight+Efficacy.bk2 ",329,"http://down.qq.com/poe/videos/skills/Blight/Blight+Efficacy.bk2",[]],["Blight&SwiftAffliction","Verringert die Gesamtdauer der Pesthauch-Schwächung, gleicht dies jedoch durch eine Erhöhung des Schadens, den 'Pesthauch' über Zeit verursacht, wieder aus.","http://web.poecdn.com/public/videos/Blight/Blight+SwiftAffliction.bk2 ",306,"http://down.qq.com/poe/videos/skills/Blight/Blight+SwiftAffliction.bk2",[]],["Blight&IncreasedAreaOfEffect","Vergrößert den Wirkungsbereich von 'Pesthauch', wodurch die Schwächung gleichzeitig auf mehr Gegner angewendet werden kann.","http://web.poecdn.com/public/videos/Blight/Blight+IncreasedArea%20of%20Effect.bk2",40,"http://down.qq.com/poe/videos/skills/Blight/Blight+IncreasedArea.bk2",[]],["FreezingPulse&LMP","Erhöht die Projektilanzahl von 'Frostpuls', wodurch man gleichzeitig mehr Ziele auf einmal treffen kann.\n\nIm späteren Spielverlauf kann man die Gemme durch 'Unterstützung: Größere Projektilaufteilung' ersetzen, um damit Gegner in einem größeren Bereich zu treffen.","http://web.poecdn.com/public/videos/FreezingPulse/FreezingPulse+LesserMultipleProjectiles.bk2 ",36,"http://down.qq.com/poe/videos/skills/FreezingPulse/FreezingPulse+LMP.bk2",[2,4,5,3,1]],["FreezingPulse&ColdPenetration","Verringert den Kältewiderstand von Gegnern und lässt diese durch 'Frostpuls' mehr Kälteschaden erleiden.","http://web.poecdn.com/public/videos/FreezingPulse/FreezingPulse+ColdPenetration.bk2 ",173,"http://down.qq.com/poe/videos/skills/FreezingPulse/FreezingPulse+ColdPenetration.bk2",[]],["FreezingPulse&ControlledDestruction","Verringert zwar die Chance auf kritische Treffer, gewährt 'Frostpuls' jedoch mehr Zauberschaden, der zu einer direkten und stabilen Schadenserhöhung führt, die nicht von kritischen Treffern abhängig ist.","http://web.poecdn.com/public/videos/FreezingPulse/FreezingPulse+ControlledDestruction.bk2 ",305,"http://down.qq.com/poe/videos/skills/FreezingPulse/FreezingPulse+ControlledDestruction.bk2",[]],["FreezingPulse&FasterProjectiles","Erhöht die Geschwindigkeit von Frostpuls-Projektilen und die maximale Distanz, die diese zurücklegen können. Hierdurch kann 'Frostpuls' weiter entfernte Ziele treffen.","http://web.poecdn.com/public/videos/FreezingPulse/FreezingPulse+FasterProjectiles.bk2 ",37,"http://down.qq.com/poe/videos/skills/FreezingPulse/FreezingPulse+FasterProjectiles.bk2",[]],["FreezingPulse&SpellEcho","Wiederholt 'Frostpuls' ein zusätzliches Mal und erhöht zudem stark die Zaubergeschwindigkeit.","http://web.poecdn.com/public/videos/FreezingPulse/FreezingPulse+SpellEcho.bk2 ",188,"http://down.qq.com/poe/videos/skills/FreezingPulse/FreezingPulse+SpellEcho.bk2",[]],["FreezingPulse&Volley","Erhöht die Anzahl der Projektile, die man mit 'Frostpuls' zaubert. Die Projektile werden parallel abgefeuert, wodurch man gleichzeitig mehr Ziele auf einmal treffen kann.","http://web.poecdn.com/public/videos/FreezingPulse/FreezingPulse+Volley.bk2 ",344,"http://down.qq.com/poe/videos/skills/FreezingPulse/FreezingPulse+Volley.bk2",[2,4,0,1,5,3]],["LightingTendrils&AddedLightningDamage","Fügt 'Blitzranken' zusätzlichen Blitzschaden hinzu.","http://web.poecdn.com/public/videos/LightningTendrils/Lighting%20Tendrils+AddedLightningDamage.bk2",41,"http://down.qq.com/poe/videos/skills/LightningTendrils/LightningTendrils+AddedLightningDamage.bk2",[6,2,1,5]],["LightingTendrils&ControlledDestruction","Verringert zwar die Chance auf kritische Treffer, gewährt 'Blitzranken' jedoch mehr Zauberschaden, der zu einer direkten und stabilen Schadenserhöhung führt, die nicht von kritischen Treffern abhängig ist.","http://web.poecdn.com/public/videos/LightningTendrils/LightningTendrils+ControlledDestruction.bk2 ",305,"http://down.qq.com/poe/videos/skills/LightningTendrils/LightningTendrils+ControlledDestruction.bk2",[]],["LightingTendrils&ElementalFocus","Nimmt zwar die Fähigkeit, durch 'Blitzranken' bei Gegnern Beeinträchtigungen zu verursachen (wie zum Beispiel Schock), führt jedoch zu einer beträchtlichen Steigerung des Elementarschadens.","http://web.poecdn.com/public/videos/LightningTendrils/LightningTendrils+ElementalFocus_1.bk2 ",314,"http://down.qq.com/poe/videos/skills/LightningTendrils/LightingTendrils+ElementalFocus.bk2",[]],["LightingTendrils&LightningPenetration","Verringert den Blitzwiderstand von Gegnern und lässt diese durch 'Blitzranken' mehr Blitzschaden erleiden.","http://web.poecdn.com/public/videos/LightningTendrils/LightningTendrils+ElementalFocus_1.bk2 ",174,"http://down.qq.com/poe/videos/skills/LightningTendrils/LightningTendrils+LightningPenetration.bk2",[]],["MagmaOrb&Combustion","Gewährt 'Magmakugel' mehr Feuerschaden, eine höhere Chance auf Entzünden und verringert den Feuerwiderstand von entzündeten Gegnern, wodurch sich diese Unterstützungsgemme für alle Feuerfertigkeiten eignet.","http://web.poecdn.com/public/videos/MagmaOrb/MagmaOrb+Combustion.bk2",109,"http://down.qq.com/poe/videos/skills/MagmaOrb/MagmaOrb+Combustion.bk2",[6,0,1,5]],["MagmaOrb&LMP","Erhöht die Projektilanzahl von 'Magmakugel', wodurch man gleichzeitig mehr Ziele auf einmal treffen kann.\n\nIm späteren Spielverlauf kann man die Gemme durch 'Unterstützung: Größere Projektilaufteilung' ersetzen, um damit Gegner in einem größeren Bereich zu treffen.","http://web.poecdn.com/public/videos/MagmaOrb/MagmaOrb+LesserMultipleProjections.bk2 ",36,"http://down.qq.com/poe/videos/skills/MagmaOrb/MagmaOrb+LMP.bk2",[2,4,5,3,1]],["MagmaOrb&FirePenetration","Verringert den Feuerwiderstand von Gegnern und lässt diese durch 'Magmakugel' mehr Feuerschaden erleiden.","http://web.poecdn.com/public/videos/MagmaOrb/MagmaOrb+FirePenetration.bk2 ",172,"http://down.qq.com/poe/videos/skills/MagmaOrb/MagmaOrb+FirePenetration.bk2",[]],["MagmaOrb&SpellEcho","Wiederholt 'Magmakugel' ein zusätzliches Mal und erhöht zudem stark die Zaubergeschwindigkeit.","http://web.poecdn.com/public/videos/MagmaOrb/MagmaOrb+SpellEcho.bk2 ",188,"http://down.qq.com/poe/videos/skills/MagmaOrb/MagmaOrb+SpellEcho.bk2",[]],["MagmaOrb&SlowerProjectiles","Erhöht den Schaden von 'Magmakugel' und verringert die Distanz zwischen jeder Verkettung, wodurch eine Kugel eine Monstergruppe mehrfach treffen kann.","http://web.poecdn.com/public/videos/MagmaOrb/MagmaOrb+SlowerProjectiles.bk2 ",209,"http://down.qq.com/poe/videos/skills/MagmaOrb/MagmaOrb+SlowerProjectiles.bk2",[]],["MagmaOrb&Empower","Erhöht die Stufe der Magmakugel-Gemme, gewährt damit zusätzlichen Feuerschaden und eine potenziell höhere Anzahl an Verkettungen. Diese Gemme kann nur gefunden werden und ist sehr selten. Das Hochstufen der Gemme dauert relativ lange, weshalb sie am Anfang noch nicht nützlich ist.","http://web.poecdn.com/public/videos/MagmaOrb/MagmaOrb+Empower.bk2 ",200,"http://down.qq.com/poe/videos/skills/MagmaOrb/MagmaOrb+Empower.bk2",[]],["Fireball&BurningDamage","Erhöht den Schaden über Zeit von Entzündungen, die durch 'Feuerball' verursacht werden.","http://web.poecdn.com/public/videos/Fireball/Fireball+BurningDamage.bk2",192,"http://down.qq.com/poe/videos/skills/Fireball/Fireball+BurningDamage.bk2",[]],["Fireball&Combustion","Gewährt 'Feuerball' mehr Feuerschaden, eine höhere Chance auf Entzünden und verringert den Feuerwiderstand von entzündeten Gegnern, wodurch sich diese Unterstützungsgemme für alle Feuerfertigkeiten eignet.","http://web.poecdn.com/public/videos/Fireball/Fireball+Combustion.bk2",109,"http://down.qq.com/poe/videos/skills/Fireball/Fireball+Combustion.bk2",[6,0,1,5]],["Fireball&ControlledDestruction","Verringert zwar die Chance auf kritische Treffer, gewährt 'Feuerball' jedoch mehr Zauberschaden, der zu einer direkten und stabilen Schadenserhöhung führt, die nicht von kritischen Treffern abhängig ist.","http://web.poecdn.com/public/videos/Fireball/Fireball+ControlledDestruction.bk2",305,"http://down.qq.com/poe/videos/skills/Fireball/Fireball+ControlledDestruction.bk2",[]],["Fireball&DeadlyAilments","Verringert den Trefferschaden und gewährt im Gegenzug mehr Schaden mit Beeinträchtigungen. Die Unterstützungsgemme eignet sich daher besonders für Feuerball-Charaktere, die den Schaden über Zeit von Entzündungen skalieren möchten.","http://web.poecdn.com/public/videos/Fireball/Fireball+DeadlyAilments.bk2",326,"http://down.qq.com/poe/videos/skills/Fireball/Fireball+DeadlyAilments.bk2",[]],["Fireball&FirePenetration","Verringert den Feuerwiderstand von Gegnern und lässt diese durch 'Feuerball' mehr Feuerschaden erleiden.","http://web.poecdn.com/public/videos/Fireball/Fireball+FirePenetration.bk2",172,"http://down.qq.com/poe/videos/skills/Fireball/Fireball+FirePenetration.bk2",[]],["Fireball&IgniteProliferate","Erhöht die Chance, Gegner mit 'Feuerball' zu entzünden und ermöglicht es, Entzündungen auf weitere Gegner im Umkreis zu übertragen.","http://web.poecdn.com/public/videos/Fireball/Fireball+IgniteProliferation.bk2",323,"http://down.qq.com/poe/videos/skills/Fireball/Fireball+IgniteProliferation.bk2",[]],["Fireball&LMP","Erhöht die Projektilanzahl von 'Feuerball', wodurch man gleichzeitig mehr Ziele auf einmal treffen kann.\n\nIm späteren Spielverlauf kann man die Gemme durch 'Unterstützung: Größere Projektilaufteilung' ersetzen, um damit Gegner in einem größeren Bereich zu treffen.","http://web.poecdn.com/public/videos/Fireball/Fireball+LesserMultipleProjectiles.bk2",36,"http://down.qq.com/poe/videos/skills/Fireball/Fireball+LMP.bk2",[2,4,5,3,1]],["Fireball&SpellEcho","Wiederholt 'Feuerball' ein zusätzliches Mal und erhöht zudem stark die Zaubergeschwindigkeit.","http://web.poecdn.com/public/videos/Fireball/Fireball+SpellEcho.bk2",188,"http://down.qq.com/poe/videos/skills/Fireball/Fireball+SpellEcho.bk2",[]],["Fireball&SwiftAffliction","Verringert die Gesamtdauer von Entzündungen, erhöht jedoch im Gegenzug den Schaden, den diese verursachen, wodurch Entzündungen Gegner schneller und stärker verbrennen.","http://web.poecdn.com/public/videos/Fireball/Fireball+SwiftAffliction.bk2",306,"http://down.qq.com/poe/videos/skills/Fireball/Fireball+SwiftAffliction.bk2",[]],["RaiseZombie&FasterAttacks","Erhöht die Angriffsgeschwindigkeit von Zombiekreaturen.","http://web.poecdn.com/public/videos/RaiseZombies/RaiseZombies+FasterAttacks.bk2",34,"http://down.qq.com/poe/videos/skills/RaiseZombies/RaiseZombies+FasterAttacks.bk2",[]],["RaiseZombie&MeleeSplash","Verwandelt den Basisangriff der Zombiekreaturen in einen Wirkungsbereich-Angriff. Zombies können nun mit ihrem Basisangriff mehrere Gegner gleichzeitig treffen.","http://web.poecdn.com/public/videos/RaiseZombies/RaiseZombies+MeleeSplash.bk2",189,"http://down.qq.com/poe/videos/skills/RaiseZombies/RaiseZombies+MeleeSplash.bk2",[6,2,4,0,1,5,3]],["RaiseZombie&MinionDamage","Gewährt Zombiekreaturen mehr Schaden.","http://web.poecdn.com/public/videos/RaiseZombies/RaiseZombies+MinionDamage.bk2",106,"http://down.qq.com/poe/videos/skills/RaiseZombies/RaiseZombies+MinionDamage.bk2",[6,2,4]],["RaiseZombie&MinionHealth","Erhöht das maximale Leben von Zombiekreaturen, wodurch sie ausdauernder kämpfen und gegen schwere Gegner länger durchhalten können.","http://web.poecdn.com/public/videos/RaiseZombies/RaiseZombies+MinionHealth.bk2",111,"http://down.qq.com/poe/videos/skills/RaiseZombies/RaiseZombies+MinionLife.bk2",[]],["RaiseZombie&Multistrike","Führt dazu, dass der starke Hieb der Zombiekreaturen zwei zusätzliche Male wiederholt wird.","http://web.poecdn.com/public/videos/RaiseZombies/RaiseZombies+Multistrike.bk2",187,"http://down.qq.com/poe/videos/skills/RaiseZombies/RaiseZombies+Multistrike.bk2",[]],["RaiseZombie&MinionTotemResistance","Verringert den erlittenen Elementarschaden von Zombies, wodurch diese länger gegen Gegner durchhalten können, die Schaden (insbesondere Elementarschaden) verursachen.","http://web.poecdn.com/public/videos/RaiseZombies/RaiseZombies+TotemandElementalResist.bk2",193,"http://down.qq.com/poe/videos/skills/RaiseZombies/RaiseZombie+MinionResist.bk2",[]],["GlacialHammer&AncestralCall","Sorgt dafür, dass 'Frosthammer' zwei weitere Gegner im Umkreis ins Ziel nimmt. Gepaart mit 'Unterstützung: Nahkampf-Streuschaden' werden große Schadensbereiche erzeugt, die sich überlappen.","http://web.poecdn.com/public/videos/GlacialHammer/GlacialHammer+AncestralCall.bk2",346,"http://down.qq.com/poe/videos/skills/GlacialHammer/GlacialHammer+AncestralCall.bk2",[6,2,4,0,3]],["GlacialHammer&IceBite","Fügt 'Frosthammer' Kälteschaden hinzu, erhöht die Chance auf Einfrieren, gewährt eine Chance, beim Töten eingefrorener Gegner eine Raserei-Ladung zu erhalten und fügt pro Raserei-Ladung Kälteschaden hinzu. Dies ergänzt sich besonders gut mit dem Effekt von 'Frosthammer', der eingefrorene Gegner bei niedrigem Leben zerschmettert.","http://web.poecdn.com/public/videos/GlacialHammer/GlacialHammer+Icebite.bk2",278,"http://down.qq.com/poe/videos/skills/GlacialHammer/GlacialHammer+IceBite.bk2",[]],["GlacialHammer&MeleePhysical","Gewährt 'Frosthammer' mehr physischen Nahkampfschaden und erhöht gleichzeitig den Kälteschaden, da 50 % des physischen Schadens in Kälteschaden umgewandelt werden.","http://web.poecdn.com/public/videos/GlacialHammer/GlacialHammer+MeleePhysicalDamage.bk2",82,"http://down.qq.com/poe/videos/skills/GlacialHammer/GlacialHammer+MeleePhysicalDamage.bk2",[]],["GlacialHammer&MeleeSplash","Bewirkt, dass Treffer mit 'Frosthammer' an Zielen im Umkreis Streuschaden verursachen. Gepaart mit 'Unterstützung: Ruf der Ahnen' werden große Schadensbereiche erzeugt, die sich überlappen.","http://web.poecdn.com/public/videos/GlacialHammer/GlacialHammer+MeleeSplash.bk2",189,"http://down.qq.com/poe/videos/skills/GlacialHammer/GlacialHammer+MeleeSplash.bk2",[6,2,4,0,1,5,3]],["GlacialHammer&Multistrike","Bewirkt, dass sich 'Frosthammer' zwei zusätzliche Male wiederholt und gewährt einen großen Bonus auf die Angriffsgeschwindigkeit.","http://web.poecdn.com/public/videos/GlacialHammer/GlacialHammer+Multistrike.bk2",187,"http://down.qq.com/poe/videos/skills/GlacialHammer/GlacialHammer+Multistrike.bk2",[]],["GlacialHammer&ColdPenetration","Verringert den Kältewiderstand von Gegnern und lässt diese durch 'Frosthammer' mehr Kälteschaden erleiden.","http://web.poecdn.com/public/videos/GlacialHammer/GlacialHammer+ColdPenetration.bk2",173,"http://down.qq.com/poe/videos/skills/GlacialHammer/GlacialHammer+ColdPenetration.bk2",[]],["EtheralKnives&ControlledDestruction","Verringert zwar die Chance auf kritische Treffer, gewährt 'Ätherische Klingen' jedoch mehr Zauberschaden, der zu einer direkten und stabilen Schadenserhöhung führt, die nicht von kritischen Treffern abhängig ist.","http://web.poecdn.com/public/videos/EtherealKnives/EtherealKnives+ControlledDestruction.bk2",305,"http://down.qq.com/poe/videos/skills/EtherealKnives/EtherealKnives+ControlledDestruction.bk2",[]],["EtheralKnives&FasterCasting","Erhöht die Zaubergeschwindigkeit von 'Ätherische Klingen', wodurch der Zauber häufiger verwendet werden kann.","http://web.poecdn.com/public/videos/EtherealKnives/EtherealKnives+FasterCasting.bk2",85,"http://down.qq.com/poe/videos/skills/EtherealKnives/EtherealKnives+FasterCasting.bk2",[]],["EtheralKnives&FasterProjectiles","Erhöht die Projektilgeschwindigkeit von 'Ätherische Klingen' und die maximale Distanz, die die Projektile zurücklegen können. Gepaart mit 'Unterstützung: Durchbohren' sind die Projektile in der Lage, auch dichtere Monstergruppen zu durchbohren.","http://web.poecdn.com/public/videos/EtherealKnives/EtherealKnives+FasterProjectiles.bk2",37,"http://down.qq.com/poe/videos/skills/EtherealKnives/EtherealKnives+FasterProjectiles.bk2",[]],["EtheralKnives&PhysicalToLightning","Wandelt 50 % des physischen Schadens von 'Ätherische Klingen' in Blitzschaden um und gewährt zusätzlichen Blitzschaden, der auf dem physischen Schaden basiert.","http://web.poecdn.com/public/videos/EtherealKnives/EtherealKnives+PhysicaltoLightning.bk2",264,"http://down.qq.com/poe/videos/skills/EtherealKnives/EtherealKnives+PhysicaltoLightning.bk2",[]],["EtheralKnives&Pierce","Bewirkt, dass die Projektile von 'Ätherische Klingen' weitere Gegner überwinden und stellt sicher, dass möglichst viele Gegner in einer Gruppe von den Projektilen getroffen werden.","http://web.poecdn.com/public/videos/EtherealKnives/EtherealKnives+Pierce.bk2",69,"http://down.qq.com/poe/videos/skills/EtherealKnives/EtherealKnives+Pierce.bk2",[3,2,4,5]],["EtheralKnives&SpellEcho","Wiederholt 'Ätherische Klingen' ein zusätzliches Mal und erhöht zudem stark die Zaubergeschwindigkeit.","http://web.poecdn.com/public/videos/EtherealKnives/EtherealKnives+SpellEcho.bk2",188,"http://down.qq.com/poe/videos/skills/EtherealKnives/EtherealKnives+SpellEcho.bk2",[]],["ExplosiveTrap&TrapMineDamage","Gewährt 'Sprengfalle' mehr Schaden und eine leichte Verringerung der Fallenwurfgeschwindigkeit.","http://web.poecdn.com/public/videos/ExplosiveTrap/ExplosireTrap+TrapandMineDamage.bk2",282,"http://down.qq.com/poe/videos/skills/ExplosiveTrap/ExplosiveTrap+TrapandMineDamage.bk2",[]],["ExplosiveTrap&ClusterTraps","Ermöglicht das gleichzeitige Werfen von zwei zusätzlichen Sprengfallen.","http://web.poecdn.com/public/videos/ExplosiveTrap/ExplosiveTrap+ClusterTraps.bk2",307,"http://down.qq.com/poe/videos/skills/ExplosiveTrap/ExplosiveTrap+ClusterTrap.bk2",[]],["ExplosiveTrap&ChargedTraps","Gewährt eine Chance auf Raserei- und Energie-Ladungen, wenn die Sprengfalle durch Gegner ausgelöst wird. Pro Raserei-Ladung wird die Fallenwurfgeschwindigkeit und pro Energie-Ladung der Multiplikator für kritische Treffer erhöht.","http://web.poecdn.com/public/videos/ExplosiveTrap/ExplosiveTrap+ChargedTraps.bk2",359,"http://down.qq.com/poe/videos/skills/ExplosiveTrap/ExplosiveTrap+ChargedTrap.bk2",[]],["ExplosiveTrap&ControlledDestruction","Verringert zwar die Chance auf kritische Treffer, gewährt 'Sprengfalle ' jedoch mehr Zauberschaden, der zu einer direkten und stabilen Schadenserhöhung führt, die nicht von kritischen Treffern abhängig ist.","http://web.poecdn.com/public/videos/ExplosiveTrap/ExplosiveTrap+ControlledDestruction.bk2",305,"http://down.qq.com/poe/videos/skills/ExplosiveTrap/ExplosiveTrap+ControlledDestruction.bk2",[]],["ExplosiveTrap&ElementalFocus","Nimmt zwar die Fähigkeit, durch 'Sprengfalle' bei Gegnern Beeinträchtigungen zu verursachen (wie zum Beispiel Entzünden), führt jedoch zu einer beträchtlichen Steigerung des Elementarschadens. Der Nutzen dieser Unterstützungsgemme wird maximiert, indem man sämtlichen physischen Schaden von 'Sprengfalle' in Elementarschaden umwandelt.","http://web.poecdn.com/public/videos/ExplosiveTrap/ExplosiveTrap+ElementalFocus.bk2",314,"http://down.qq.com/poe/videos/skills/ExplosiveTrap/ExplosiveTrap+ElementalFocus.bk2",[]],["ExplosiveTrap&PhysicalToLightning","Wandelt 50 % des physischen Schadens von 'Sprengfalle' in Blitzschaden um und gewährt zusätzlichen Blitzschaden, der auf dem physischen Schaden basiert.","http://web.poecdn.com/public/videos/ExplosiveTrap/ExplosiveTrap+PhysicaltoLightning.bk2",264,"http://down.qq.com/poe/videos/skills/ExplosiveTrap/ExplosiveTrap+PhysicaltoLightning.bk2",[]],["FrostBlades&AncestralCall","Sorgt dafür, dass 'Frostklingen' zwei weitere Gegner im Umkreis ins Ziel nimmt. Wenn sich mindestens drei Gegner im Umkreis befinden, kann dies zu einer Verdreifachung der Frostklingen-Projektile führen.","http://web.poecdn.com/public/videos/FrostBlades/FrostBlades+AncestralCall.bk2",346,"http://down.qq.com/poe/videos/skills/FrostBlades/FrostBlades+AncestralCall.bk2",[6,2,4,0,3]],["FrostBlades&ColdPenetration","Verringert den Kältewiderstand von Gegnern und lässt diese durch 'Frostklingen' mehr Kälteschaden erleiden.","http://web.poecdn.com/public/videos/FrostBlades/FrostBlades+ColdPenetration.bk2",173,"http://down.qq.com/poe/videos/skills/FrostBlades/Frostblades+ColdPenetration.bk2",[]],["FrostBlades&ElementalDamageWithAttacks","Multipliziert den Elementarschaden, der mit 'Frostklingen' verursacht wird. Der Nutzen dieser Unterstützungsgemme wird maximiert, indem man sämtlichen physischen Schaden von 'Frostklingen' in Elementarschaden umwandelt.","http://web.poecdn.com/public/videos/FrostBlades/FrostBlades+ElementalDamagewithAttacks.bk2",112,"http://down.qq.com/poe/videos/skills/FrostBlades/FrostBlade+WeaponElementalDamage.bk2",[]],["FrostBlades&MeleePhysical","Gewährt 'Frostklingen' mehr physischen Nahkampfschaden und erhöht gleichzeitig den Kälteschaden, da 60 % des physischen Schadens in Kälteschaden umgewandelt werden.","http://web.poecdn.com/public/videos/FrostBlades/FrostBlades+MeleePhysicalDamage.bk2",82,"http://down.qq.com/poe/videos/skills/FrostBlades/Frostblades+MeleePhysicalDamage.bk2",[]],["FrostBlades&Multistrike","Bewirkt, dass sich 'Frostklingen' zwei zusätzliche Male wiederholt und gewährt einen großen Bonus auf die Angriffsgeschwindigkeit.","http://web.poecdn.com/public/videos/FrostBlades/FrostBlades+Multistrike.bk2",187,"http://down.qq.com/poe/videos/skills/FrostBlades/Frostblades+Multistrike.bk2",[]],["FrostBlades&SlowerProjectiles","Verringert die maximale Reichweite der Frostklingen-Projektile, gewährt diesen jedoch zusätzlichen Schaden.","http://web.poecdn.com/public/videos/FrostBlades/FrostBlades+SlowerProjectiles.bk2",209,"http://down.qq.com/poe/videos/skills/FrostBlades/Frostblades+SlowerProjectiles.bk2",[]],["ViperStrike&MeleeSplash","Bewirkt, dass Treffer mit 'Vipernschlag' an Zielen im Umkreis Streuschaden verursachen. Gepaart mit 'Unterstützung: Ruf der Ahnen' werden große Schadensbereiche erzeugt, die sich überlappen.","http://web.poecdn.com/public/videos/ViperStrike/ViperStrike+MeleeSplash.bk2",189,"http://down.qq.com/poe/videos/skills/ViperStrike/ViperStrike+MeleeSplash.bk2",[6,2,4,0,1,5,3]],["ViperStrike&AncestralCall","Sorgt dafür, dass 'Vipernschlag' zwei weitere Gegner im Umkreis ins Ziel nimmt. Gepaart mit 'Unterstützung: Nahkampf-Streuschaden' werden große Schadensbereiche erzeugt, die sich überlappen.","http://web.poecdn.com/public/videos/ViperStrike/ViperStrike+AncestralCall.bk2",346,"http://down.qq.com/poe/videos/skills/ViperStrike/ViperStrike+AncestralCall.bk2",[6,2,4,0,3]],["ViperStrike&DeadlyAilments","Verringert den Trefferschaden und gewährt im Gegenzug mehr Schaden mit Beeinträchtigungen. Dadurch verursacht das Gift, das durch 'Vipernschlag' angewendet wird, deutlich mehr Schaden über Zeit.","http://web.poecdn.com/public/videos/ViperStrike/ViperStrike+DeadlyAilments.bk2",326,"http://down.qq.com/poe/videos/skills/ViperStrike/ViperStrike+DeadlyAilments.bk2",[]],["ViperStrike&MeleePhysical","Gewährt 'Vipernschlag' mehr physischen Nahkampfschaden und erhöht gleichzeitig den Schaden, der durch angewendetes Bluten und Gift verursacht wird.","http://web.poecdn.com/public/videos/ViperStrike/ViperStrike+MeleePhysicalDamage.bk2",82,"http://down.qq.com/poe/videos/skills/ViperStrike/ViperStrike+MeleePhysicalDamage.bk2",[]],["ViperStrike&Multistrike","Bewirkt, dass sich 'Vipernschlag' zwei zusätzliche Male wiederholt und gewährt einen großen Bonus auf die Angriffsgeschwindigkeit.","http://web.poecdn.com/public/videos/ViperStrike/ViperStrike+Multistrike.bk2",187,"http://down.qq.com/poe/videos/skills/ViperStrike/ViperStrike+Multistrike.bk2",[]],["ViperStrike&VileToxins","Erhöht den Schaden mit Gift, das 'Vipernschlag' auf Gegner anwendet. Zusätzlich verursachen die Treffer mit 'Vipernschlag' 5% mehr Schaden pro Giftstapel auf dem Gegner.","http://web.poecdn.com/public/videos/ViperStrike/ViperStrike+VileToxins.bk2",330,"http://down.qq.com/poe/videos/skills/ViperStrike/ViperStrike+VileToxins.bk2",[]],["SpectralThrow&ChanceToBleed","Erhöht die Chance, mit 'Spektralwurf' bei Gegnern Bluten zu verursachen. Bluten  verursacht physischen Schaden über Zeit, der bei Zielen, die sich bewegen, höher ausfällt. Diese Unterstützungsgemme fügt 'Spektralwurf' außerdem eine kleine Menge an physischem Schaden hinzu.","http://web.poecdn.com/public/videos/SpectralThrow/SpectralThrow+ChancetoBleed.bk2",324,"http://down.qq.com/poe/videos/skills/SpectralThrow/SpectralThrow+ChancetoBleed.bk2",[4,6,2,0,3]],["SpectralThrow&LMP","Erhöht die Projektilanzahl von 'Spektralwurf', wodurch man gleichzeitig mehr Ziele auf einmal treffen kann.\n\nIm späteren Spielverlauf kann man die Gemme durch 'Unterstützung: Größere Projektilaufteilung' ersetzen, um damit Gegner in einem größeren Bereich zu treffen.","http://web.poecdn.com/public/videos/SpectralThrow/SpectralThrow+LesserMultipleProjectiles.bk2",36,"http://down.qq.com/poe/videos/skills/SpectralThrow/SpectralThrow+LowerMultipleProjectiles.bk2",[2,4,5,3,1]],["SpectralThrow&Maim","Gewährt 'Spektralwurf' eine Chance, Gegner bei Treffer zu verstümmeln. Verstümmelte Gegner haben eine verringerte Bewegungsgeschwindigkeit und erleiden erhöhten physischen Schaden. Diese Unterstützungsgemme gewährt 'Spektralwurf' außerdem mehr physischen Schaden.","http://web.poecdn.com/public/videos/SpectralThrow/SpectralThrow+Maim.bk2",331,"http://down.qq.com/poe/videos/skills/SpectralThrow/SpectralThrow+Maim.bk2",[2,4,0,3]],["SpectralThrow&PhysicalToLightning","Wandelt 50 % des physischen Schadens von 'Spektralwurf' in Blitzschaden um und gewährt zusätzlichen Blitzschaden, der auf dem physischen Schaden basiert.","http://web.poecdn.com/public/videos/SpectralThrow/SpectralThrow+PhysicaltoLightning.bk2",264,"http://down.qq.com/poe/videos/skills/SpectralThrow/SpectralThrow+PhysicaltoLightning.bk2",[]],["SpectralThrow&PhysicalProjectileAttack","Gewährt 'Spektralwurf' mehr physischen Schaden und mehr Schaden mit Bluten und Gift.","http://web.poecdn.com/public/videos/SpectralThrow/SpectralThrow+ProjectileDamage.bk2",230,"http://down.qq.com/poe/videos/skills/SpectralThrow/SpectralThrow+ProjectileDamage.bk2",[]],["SpectralThrow&SlowerProjectiles","Verringert die maximale Reichweite der Spektralwurf-Projektile, wodurch diese früher zurückkehren und Gegner ein zweites Mal treffen können. Die Unterstützungsgemme gewährt außerdem mehr Projektilschaden.","http://web.poecdn.com/public/videos/SpectralThrow/SpectralThrow+SlowerProjectiles.bk2",209,"http://down.qq.com/poe/videos/skills/SpectralThrow/SpectralThrow+SlowerProjectiles.bk2",[]],["IceShot&ColdPenetration","Verringert den Kältewiderstand von Gegnern und lässt diese durch 'Eisgeschoss' mehr Kälteschaden erleiden.","http://web.poecdn.com/public/videos/Iceshot/Iceshot+ColdPenetration.bk2",173,"http://down.qq.com/poe/videos/skills/IceShot/IceShot+ColdPenetration.bk2",[]],["IceShot&LMP","Erhöht die Projektilanzahl von 'Eisgeschoss', wodurch man gleichzeitig mehr Ziele auf einmal treffen kann.\n\nIm späteren Spielverlauf kann man die Gemme durch 'Unterstützung: Größere Projektilaufteilung' ersetzen, um damit Gegner in einem größeren Bereich zu treffen.","http://web.poecdn.com/public/videos/Iceshot/Iceshot+LesserMultipleProjectiles.bk2",36,"http://down.qq.com/poe/videos/skills/IceShot/Iceshot+LesserMultipleProjectiles.bk2",[2,4,5,3,1]],["IceShot&MirageArcher","Wenn 'Eisgeschoss' einen Gegner trifft, erscheint über dem Kopf des Charakters ein Phantombogenschütze, der eine Kopie von 'Eisgeschoss' benutzt und diese mit verringerter Rate und weniger Schaden auf Gegner feuert.","http://web.poecdn.com/public/videos/Iceshot/Iceshot+MirageArcher.bk2",348,"http://down.qq.com/poe/videos/skills/IceShot/Iceshot+MirageArcher.bk2",[2,4,5,3]],["IceShot&Pierce","Bewirkt, dass die Projektile von 'Eisgeschoss' weitere Gegner überwinden und stellt sicher, dass möglichst viele Gegner in einer Gruppe von den Projektilen getroffen werden.","http://web.poecdn.com/public/videos/Iceshot/Iceshot+Pierce.bk2",69,"http://down.qq.com/poe/videos/skills/IceShot/Iceshot+Pierce.bk2",[3,2,4,5]],["IceShot&SlowerProjectiles","Verringert zwar die Projektilgeschwindigkeit von 'Eisgeschoss', gewährt jedoch mehr Projektilschaden.","http://web.poecdn.com/public/videos/Iceshot/Iceshot+SlowerProjectiles.bk2",209,"http://down.qq.com/poe/videos/skills/IceShot/Iceshot+SlowerProjectiles.bk2",[]],["IceShot&ElementalDamageWithAttacks","Multipliziert den Elementarschaden, der mit 'Eisgeschoss' verursacht wird. Der Nutzen dieser Unterstützungsgemme wird maximiert, indem man sämtlichen physischen Schaden von 'Eisgeschoss' in Elementarschaden umwandelt.","http://web.poecdn.com/public/videos/Iceshot/Iceshot+WeaponElementalDamage.bk2",112,"http://down.qq.com/poe/videos/skills/IceShot/Iceshot+WeaponElementalDamage.bk2",[]],["ShrapnelShot&LMP","Erhöht die Projektilanzahl von 'Schrapnellschuss', wodurch man gleichzeitig mehr Ziele auf einmal treffen kann.\n\nIm späteren Spielverlauf kann man die Gemme durch 'Unterstützung: Größere Projektilaufteilung' ersetzen, um damit Gegner in einem größeren Bereich zu treffen.","http://web.poecdn.com/public/videos/ShrapnelShot/ShrapnelShot+LesserMultipleProjectiles.bk2",36,"http://down.qq.com/poe/videos/skills/ShrapnelShot/ShrapnelShot+LesserMultipleProjectiles.bk2",[2,4,5,3,1]],["ShrapnelShot&LightningPenetration","Verringert den Blitzwiderstand von Gegnern und lässt diese durch 'Schrapnellschuss' mehr Blitzschaden erleiden.","http://web.poecdn.com/public/videos/ShrapnelShot/ShrapnelShot+LightningPenetration.bk2",174,"http://down.qq.com/poe/videos/skills/ShrapnelShot/ShrapnelShot+LightningPenetration.bk2",[]],["ShrapnelShot&MirageArcher","Wenn 'Schrapnellschuss' einen Gegner trifft, erscheint über dem Kopf des Charakters ein Phantombogenschütze, der eine Kopie von 'Schrapnellschuss' benutzt und diese mit verringerter Rate und weniger Schaden auf Gegner feuert.","http://web.poecdn.com/public/videos/ShrapnelShot/ShrapnelShot+MirageArcher.bk2",348,"http://down.qq.com/poe/videos/skills/ShrapnelShot/ShrapnelShot+MirageArcher.bk2",[2,4,5,3]],["ShrapnelShot&PhysicalToLightning","Wandelt 50 % des physischen Schadens von 'Schrapnellschuss' in Blitzschaden um und gewährt zusätzlichen Blitzschaden, der auf dem physischen Schaden basiert.","http://web.poecdn.com/public/videos/ShrapnelShot/ShrapnelShot+PhysicaltoLightning.bk2",264,"http://down.qq.com/poe/videos/skills/ShrapnelShot/ShrapnelShot+PhysicaltoLightning.bk2",[]],["ShrapnelShot&SlowerProjectiles","Verringert zwar die Projektilgeschwindigkeit von 'Schrapnellschuss', gewährt jedoch mehr Projektilschaden.","http://web.poecdn.com/public/videos/ShrapnelShot/ShrapnelShot+SlowerProjectiles.bk2",209,"http://down.qq.com/poe/videos/skills/ShrapnelShot/ShrapnelShot+SlowerProjectiles.bk2",[]],["ShrapnelShot&ElementalDamageWithAttacks","Multipliziert den Elementarschaden, der mit 'Schrapnellschuss' verursacht wird. Der Nutzen dieser Unterstützungsgemme wird maximiert, indem man sämtlichen physischen Schaden von 'Schrapnellschuss' in Elementarschaden umwandelt.","http://web.poecdn.com/public/videos/ShrapnelShot/ShrapnelShot+WeaponElementalDamage.bk2",112,"http://down.qq.com/poe/videos/skills/ShrapnelShot/ShrapnelShot+WeaponElementalDamage.bk2",[]],["SplitArrow&AddedFireDamage","Gewährt zusätzlichen Feuerschaden, der auf dem physischen Schaden basiert.","http://web.poecdn.com/public/videos/SplitArrow/SplitArrow+AddedFireDamage.bk2",33,"http://down.qq.com/poe/videos/skills/SplitArrow/SplitArrow+AddedFireDamage.bk2",[6,2,4,0,5,3]],["SplitArrow&ElementalDamageWithAttacks","Multipliziert den Elementarschaden, der mit 'Pfeilfächer' verursacht wird.","http://web.poecdn.com/public/videos/SplitArrow/SplitArrow+ElementalDamagewithAttacks.bk2",112,"http://down.qq.com/poe/videos/skills/SplitArrow/SplitArrow+ElementalDamagewithAttacks.bk2",[]],["SplitArrow&MirageArcher","Wenn 'Pfeilfächer' einen Gegner trifft, erscheint über dem Kopf des Charakters ein Phantombogenschütze, der eine Kopie von 'Pfeilfächer' benutzt und diese mit verringerter Rate und weniger Schaden auf Gegner feuert.","http://web.poecdn.com/public/videos/SplitArrow/SplitArrow+MirageArcher.bk2",348,"http://down.qq.com/poe/videos/skills/SplitArrow/SplitArrow+MirageArcher.bk2",[2,4,5,3]],["SplitArrow&PhysicalProjectileAttackDamage","Gewährt 'Pfeilfächer' mehr physischen Schaden und mehr Schaden mit Bluten und Gift.","http://web.poecdn.com/public/videos/SplitArrow/SplitArrow+PhysicalProjectileAttackDamage.bk2",230,"http://down.qq.com/poe/videos/skills/SplitArrow/SplitArrow+ViciousProjectiles.bk2",[]],["SplitArrow&PhysicalToLightning","Wandelt 50 % des physischen Schadens von 'Pfeilfächer' in Blitzschaden um und gewährt zusätzlichen Blitzschaden, der auf dem physischen Schaden basiert.","http://web.poecdn.com/public/videos/SplitArrow/SplitArrow+PhysicaltoLightning.bk2",264,"http://down.qq.com/poe/videos/skills/SplitArrow/SplitArrow+PhysicaltoLightning.bk2",[]],["SplitArrow&Pierce","Bewirkt, dass die Projektile von 'Pfeilfächer' weitere Gegner überwinden und stellt sicher, dass möglichst viele Gegner in einer Gruppe von den Projektilen getroffen werden.","http://web.poecdn.com/public/videos/SplitArrow/SplitArrow+Pierce.bk2",69,"http://down.qq.com/poe/videos/skills/SplitArrow/SplitArrow+Pierce.bk2",[3,2,4,5]],["GroundSlam&Brutality","Gewährt 'Schmetterhieb' deutlich erhöhten Schaden, bewirkt allerdings, dass man mit der Fertigkeit keinen Chaos- oder Elementarschaden verursachen kann. Für diese Unterstützungsgemme empfiehlt sich eine Waffe, die auf physischen Schaden ausgerichtet ist.","http://web.poecdn.com/public/videos/GroundSlam/GroundSlam+Brutality.bk2",334,"http://down.qq.com/poe/videos/skills/GroundSlam/GroundSlam+Brutality.bk2",[]],["GroundSlam&ChanceToBleed","Erhöht die Chance, mit 'Schmetterhieb' bei Gegnern Bluten zu verursachen. Bluten  verursacht physischen Schaden über Zeit, der bei Zielen, die sich bewegen, höher ausfällt. Diese Unterstützungsgemme fügt 'Schmetterhieb' außerdem eine kleine Menge an physischem Schaden hinzu.","http://web.poecdn.com/public/videos/GroundSlam/GroundSlam+ChancetoBleed.bk2",324,"http://down.qq.com/poe/videos/skills/GroundSlam/GroundSlam+ChancetoBleed.bk2",[4,6,2,0,3]],["GroundSlam&IncreasedAreaOfEffect","Vergrößert den Wirkungsbereich von 'Schmetterhieb', wodurch gleichzeitig mehr Gegner getroffen werden können.","http://web.poecdn.com/public/videos/GroundSlam/GroundSlam+IncreasedAreaofEffect.bk2",40,"http://down.qq.com/poe/videos/skills/GroundSlam/GroundSlam+IncreasedAreaofEffect.bk2",[]],["GroundSlam&Maim","Gewährt 'Schmetterhieb' eine Chance, Gegner bei Treffer zu verstümmeln. Verstümmelte Gegner haben eine verringerte Bewegungsgeschwindigkeit und erleiden erhöhten physischen Schaden. Diese Unterstützungsgemme gewährt 'Schmetterhieb' außerdem mehr physischen Schaden.","http://web.poecdn.com/public/videos/GroundSlam/GroundSlam+Maim.bk2",331,"http://down.qq.com/poe/videos/skills/GroundSlam/GroundSlam+Maim.bk2",[2,4,0,3]],["GroundSlam&MeleePhysicalDamage","Gewährt 'Schmetterhieb' mehr physischen Nahkampfschaden und erhöht gleichzeitig den Schaden, der durch angewendetes Bluten und Gift verursacht wird.","http://web.poecdn.com/public/videos/GroundSlam/GroundSlam+MeleePhysicalDamage.bk2",82,"http://down.qq.com/poe/videos/skills/GroundSlam/GroundSlam+MeleePhysicalDamage.bk2",[]],["GroundSlam&Multistrike","Bewirkt, dass sich 'Schmetterhieb' zwei zusätzliche Male wiederholt und gewährt einen großen Bonus auf die Angriffsgeschwindigkeit.","http://web.poecdn.com/public/videos/GroundSlam/GroundSlam+Multistrike.bk2",187,"http://down.qq.com/poe/videos/skills/GroundSlam/GroundSlam+Multistrike.bk2",[]],["HeavyStrike&AncestralCall","Sorgt dafür, dass 'Heftiger Schlag' zwei weitere Gegner im Umkreis ins Ziel nimmt. Gepaart mit 'Unterstützung: Nahkampf-Streuschaden' werden große Schadensbereiche erzeugt, die sich überlappen.","http://web.poecdn.com/public/videos/HeavyStrike/HeavyStrike+AncestralCall.bk2",346,"http://down.qq.com/poe/videos/skills/HeavyStrike/HeavyStrike+AncestralCall.bk2",[6,2,4,0,3]],["HeavyStrike&Brutality","Gewährt 'Heftiger Schlag' deutlich erhöhten Schaden, bewirkt allerdings, dass man mit der Fertigkeit keinen Chaos- oder Elementarschaden verursachen kann. Für diese Unterstützungsgemme empfiehlt sich eine Waffe, die auf physischen Schaden ausgerichtet ist.","http://web.poecdn.com/public/videos/HeavyStrike/HeavyStrike+Brutality.bk2",334,"http://down.qq.com/poe/videos/skills/HeavyStrike/HeavyStrike+Brutality.bk2",[]],["HeavyStrike&ChanceToBleed","Erhöht die Chance, mit 'Heftiger Schlag' bei Gegnern Bluten zu verursachen. Bluten verursacht physischen Schaden über Zeit, der bei Zielen, die sich bewegen, höher ausfällt. Diese Unterstützungsgemme fügt 'Heftiger Schlag' außerdem eine kleine Menge an physischem Schaden hinzu.","http://web.poecdn.com/public/videos/HeavyStrike/HeavyStrike+ChancetoBleed.bk2",324,"http://down.qq.com/poe/videos/skills/HeavyStrike/HeavyStrike+ChancetoBleed.bk2",[4,6,2,0,3]],["HeavyStrike&MeleePhysicalDamage","Gewährt 'Heftiger Schlag' mehr physischen Nahkampfschaden und erhöht gleichzeitig den Schaden, der durch angewendetes Bluten und Gift verursacht wird.","http://web.poecdn.com/public/videos/HeavyStrike/HeavyStrike+MeleePhysicalDamage.bk2",82,"http://down.qq.com/poe/videos/skills/HeavyStrike/HeavyStrike+MeleePhysicalDamage.bk2",[]],["HeavyStrike&MeleeSplash","Bewirkt, dass Treffer mit 'Heftiger Schlag' an Zielen im Umkreis Streuschaden verursachen. Gepaart mit 'Unterstützung: Ruf der Ahnen' werden große Schadensbereiche erzeugt, die sich überlappen.","http://web.poecdn.com/public/videos/HeavyStrike/HeavyStrike+MeleeSplash.bk2",189,"http://down.qq.com/poe/videos/skills/HeavyStrike/HeavyStrike+MeleeSplash.bk2",[6,2,4,0,1,5,3]],["HeavyStrike&Multistrike","Bewirkt, dass sich 'Heftiger Schlag' zwei zusätzliche Male wiederholt und gewährt einen großen Bonus auf die Angriffsgeschwindigkeit.","http://web.poecdn.com/public/videos/HeavyStrike/HeavyStrike+Multistrike.bk2",187,"http://down.qq.com/poe/videos/skills/HeavyStrike/HeavyStrike+Multistrike.bk2",[]],["Cleave&ChanceToBleed","Erhöht die Chance, mit 'Spalten' bei Gegnern Bluten zu verursachen. Bluten verursacht physischen Schaden über Zeit, der bei Zielen, die sich bewegen, höher ausfällt. Diese Unterstützungsgemme fügt 'Spalten' außerdem eine kleine Menge an physischem Schaden hinzu.","http://web.poecdn.com/public/videos/Cleave/Cleave+ChancetoBleed.bk2",324,"http://down.qq.com/poe/videos/skills/Cleave/Cleave+ChancetoBleed.bk2",[4,6,2,0,3]],["Cleave&ConcentratedEffect","Verringert zwar den Wirkungsbereich, erhöht dafür aber beträchtlich den Schaden, den 'Spalten' verursacht, weshalb sich die Unterstützungsgemme besonders gegen schwierige Einzelgegner eignet.","http://web.poecdn.com/public/videos/Cleave/Cleave+ConcentratedEffect.bk2",105,"http://down.qq.com/poe/videos/skills/Cleave/Cleave+ConcentratedEffect.bk2",[]],["Cleave&IncreasedAreaOfEffect","Vergrößert den Wirkungsbereich von 'Spalten', wodurch gleichzeitig mehr Gegner getroffen werden können.","http://web.poecdn.com/public/videos/Cleave/Cleave+IncreasedAreaofEffect.bk2",40,"http://down.qq.com/poe/videos/skills/Cleave/Cleave+IncreasedArea.bk2",[]],["Cleave&Maim","Gewährt 'Spalten' eine Chance, Gegner bei Treffer zu verstümmeln. Verstümmelte Gegner haben eine verringerte Bewegungsgeschwindigkeit und erleiden erhöhten physischen Schaden. Diese Unterstützungsgemme gewährt 'Spalten' außerdem mehr physischen Schaden.","http://web.poecdn.com/public/videos/Cleave/Cleave+Maim.bk2",331,"http://down.qq.com/poe/videos/skills/Cleave/Cleave+Maim.bk2",[2,4,0,3]],["Cleave&MeleePhysical","Gewährt 'Spalten' mehr physischen Nahkampfschaden und erhöht gleichzeitig den Schaden, der durch angewendetes Bluten und Gift verursacht wird.","http://web.poecdn.com/public/videos/Cleave/Cleave+MeleePhysicalDamage.bk2",82,"http://down.qq.com/poe/videos/skills/Cleave/Cleave+MeleePhysicalDamage.bk2",[]],["Cleave&Multistrike","Bewirkt, dass sich 'Spalten' zwei zusätzliche Male wiederholt und gewährt einen großen Bonus auf die Angriffsgeschwindigkeit.","http://web.poecdn.com/public/videos/Cleave/Cleave+Multistrike.bk2",187,"http://down.qq.com/poe/videos/skills/Cleave/Cleave+Multistrike.bk2",[]],["DoubleStrike&AncestralCall","Sorgt dafür, dass 'Doppelschlag' zwei weitere Gegner im Umkreis ins Ziel nimmt. Gepaart mit 'Unterstützung: Nahkampf-Streuschaden' werden große Schadensbereiche erzeugt, die sich überlappen.","http://web.poecdn.com/public/videos/DoubleStrike/DoubleStrike+AncestralCall.bk2",346,"http://down.qq.com/poe/videos/skills/DoubleStrike/Doublestrike+AncestralCall.bk2",[6,2,4,0,3]],["DoubleStrike&ChanceToBleed","Erhöht die Chance, mit 'Doppelschlag' bei Gegnern Bluten zu verursachen. Bluten verursacht physischen Schaden über Zeit, der bei Zielen, die sich bewegen, höher ausfällt. Diese Unterstützungsgemme fügt 'Doppelschlag' außerdem eine kleine Menge an physischem Schaden hinzu.","http://web.poecdn.com/public/videos/DoubleStrike/DoubleStrike+ChancetoBleed.bk2",324,"http://down.qq.com/poe/videos/skills/DoubleStrike/Doublestrike+ChancetoBleed.bk2",[4,6,2,0,3]],["DoubleStrike&MeleePhysical","Gewährt 'Doppelschlag' mehr physischen Nahkampfschaden und erhöht gleichzeitig den Schaden, der durch angewendetes Bluten und Gift verursacht wird.","http://web.poecdn.com/public/videos/DoubleStrike/DoubleStrike+MeleePhysicalDamage.bk2",82,"http://down.qq.com/poe/videos/skills/DoubleStrike/DoubleStrike+MeleePhysicalDamage.bk2",[]],["DoubleStrike&Fortify","Wendet eine Stärkung an, die den eingehenden Schaden von allen Treffern verringert und gleichzeitig den physischen Nahkampfschaden von 'Doppelschlag' erhöht.","http://web.poecdn.com/public/videos/DoubleStrike/Doublestrike+Fortify.bk2",276,"http://down.qq.com/poe/videos/skills/DoubleStrike/Doublestrike+Fortify.bk2",[]],["DoubleStrike&MeleeSplash","Bewirkt, dass Treffer mit 'Doppelschlag' an Zielen im Umkreis Streuschaden verursachen. Gepaart mit 'Unterstützung: Ruf der Ahnen' werden große Schadensbereiche erzeugt, die sich überlappen.","http://web.poecdn.com/public/videos/DoubleStrike/Doublestrike+MeleeSplash.bk2",189,"http://down.qq.com/poe/videos/skills/DoubleStrike/Doublestrike+MeleeSplash.bk2",[6,2,4,0,1,5,3]],["DoubleStrike&Multistrike","Bewirkt, dass sich 'Doppelschlag' zwei zusätzliche Male wiederholt und gewährt einen großen Bonus auf die Angriffsgeschwindigkeit.","http://web.poecdn.com/public/videos/DoubleStrike/Doublestrike+Multistrike.bk2",187,"http://down.qq.com/poe/videos/skills/DoubleStrike/Doublestrike+Multistrike.bk2",[]],["MoltenStrike&AncestralCall","Sorgt dafür, dass 'Lavaschlag' zwei weitere Gegner im Umkreis ins Ziel nimmt. Wenn sich mindestens drei Gegner im Umkreis befinden, kann dies zu einer Verdreifachung der Lavaschlag-Projektile führen.","http://web.poecdn.com/public/videos/MoltenStrike/MoltenStrike+AncestralCall.bk2",346,"http://down.qq.com/poe/videos/skills/MoltenStrike/MoltenStrike+AncestralCall.bk2",[6,2,4,0,3]],["MoltenStrike&ConcerntratedEffect","Verringert zwar den Wirkungsbereich, erhöht dafür aber beträchtlich den Schaden, den 'Lavaschlag' verursacht, weshalb sich die Unterstützungsgemme besonders gegen schwierige Einzelgegner eignet.","http://web.poecdn.com/public/videos/MoltenStrike/MoltenStrike+ConcentratedEffect.bk2",105,"http://down.qq.com/poe/videos/skills/MoltenStrike/MoltenStrike+ConcentratedEffect.bk2",[]],["MoltenStrike&ElementalDamageWithAttacks","Multipliziert den Elementarschaden, der mit 'Lavaschlag' verursacht wird. Der Nutzen dieser Unterstützungsgemme wird maximiert, indem man sämtlichen physischen Schaden von 'Lavaschlag' in Elementarschaden umwandelt.","http://web.poecdn.com/public/videos/MoltenStrike/MoltenStrike+ElementalDamagewithAttacks.bk2",112,"http://down.qq.com/poe/videos/skills/MoltenStrike/MoltenStrike+WeaponElementalDamage.bk2",[]],["MoltenStrike&MeleePhysical","Gewährt 'Lavaschlag' mehr physischen Nahkampfschaden und erhöht gleichzeitig den Feuerschaden, da 60 % des physischen Schadens in Feuerschaden umgewandelt werden.","http://web.poecdn.com/public/videos/MoltenStrike/MoltenStrike+MeleePhysicalDamage.bk2",82,"http://down.qq.com/poe/videos/skills/MoltenStrike/MoltenStrike+MeleePhysicalDamage.bk2",[]],["MoltenStrike&Multistrike","Bewirkt, dass sich 'Lavaschlag' zwei zusätzliche Male wiederholt und gewährt einen großen Bonus auf die Angriffsgeschwindigkeit.","http://web.poecdn.com/public/videos/MoltenStrike/MoltenStrike+Multistrike.bk2",187,"http://down.qq.com/poe/videos/skills/MoltenStrike/MoltenStrike+Multistrike.bk2",[]],["MoltenStrike&ElementalFocus","Nimmt zwar die Fähigkeit, durch 'Lavaschlag' bei Gegnern Beeinträchtigungen zu verursachen (wie zum Beispiel Entzünden), führt jedoch zu einer beträchtlichen Steigerung des Elementarschadens. Der Nutzen dieser Unterstützungsgemme wird maximiert, indem man sämtlichen physischen Schaden von 'Lavaschlag' in Elementarschaden umwandelt.","http://web.poecdn.com/public/videos/MoltenStrike/MoltenStrike+ElementalFocus.bk2",314,"http://down.qq.com/poe/videos/skills/MoltenStrike/MoltenStrike+ElementalFocus.bk2",[]],["Blight&VoidManipulation","Gewährt 'Pesthauch' mehr Chaosschaden, verringert allerdings den Elementarschaden. Da 'Pesthauch' jedoch ausschließlich Chaosschaden verursacht, gewährt 'Unterstützung: Manipulation der Leere' mehr Schaden ohne Nachteile.","http://web.poecdn.com/public/videos/Blight/Blight+VoidManipulation.bk2",304,"http://down.qq.com/poe/videos/skills/Blight/Blight+VoidManipulation.bk2",[6,2,1,5,3]],["LightningTendrils&ConcentratedEffect","Verringert zwar den Wirkungsbereich, erhöht dafür aber beträchtlich den Schaden, den 'Blitzranken' verursacht, weshalb sich die Unterstützungsgemme besonders gegen schwierige Einzelgegner eignet.","http://web.poecdn.com/public/videos/LightningTendrils/LightingTendrils+ConcentratedEffect.bk2",105,"http://down.qq.com/poe/videos/skills/LightningTendrils/LightningTendrils+ConcentratedEffect.bk2",[]],["LightningTendrils&IncreasedAreaOfEffect","Vergrößert den Wirkungsbereich von 'Blitzranken', wodurch gleichzeitig mehr Gegner getroffen werden können.","http://web.poecdn.com/public/videos/LightningTendrils/LightingTendrils+IncreasedAOE.bk2",40,"http://down.qq.com/poe/videos/skills/LightningTendrils/LightningTendrils+IncreasedAOE.bk2",[]],["CausticArrow&Pierce","Bewirkt, dass die Projektile von 'Ätzender Pfeil' weitere Gegner überwinden, erzeugt mehrere Flächen ätzenden Bodens und verursacht so gleichzeitig bei mehr Gegnern Schaden.","http://web.poecdn.com/public/videos/CausticArrow/CausticArrow+Pierce.bk2",69,"http://down.qq.com/poe/videos/skills/CausticArrow/CausticArrow+Pierce.bk2",[3,2,4,5]],["CausticArrow&LMP","Erhöht die Projektilanzahl von 'Ätzender Pfeil', wodurch ein größerer Bereich abgedeckt wird, indem mehrere Flächen ätzenden Bodens auf einmal erzeugt werden.\n\nIm späteren Spielverlauf kann man die Gemme durch 'Unterstützung: Größere Projektilaufteilung' ersetzen, um damit Gegner in einem größeren Bereich zu beeinflussen.","http://web.poecdn.com/public/videos/CausticArrow/CausticArrow+LMP.bk2",36,"http://down.qq.com/poe/videos/skills/CausticArrow/CausticArrow+LMP.bk2",[2,4,5,3,1]],["CausticArrow&MirageArcher","Wenn 'Ätzender Pfeil' einen Gegner trifft, erscheint über dem Kopf des Charakters ein Phantombogenschütze, der eine Kopie von 'Ätzender Pfeil' benutzt und diese mit verringerter Rate und weniger Schaden auf Gegner feuert.","http://web.poecdn.com/public/videos/CausticArrow/CausticArrow+MirageArcher.bk2",348,"http://down.qq.com/poe/videos/skills/CausticArrow/CausticArrow+MirageArcher.bk2",[2,4,5,3]],["CausticArrow&ViciousProjectiles","Erhöht beträchtlich den physischen Schaden mit Treffern als auch den Chaosschaden über Zeit, den 'Ätzender Pfeil' verursacht.","http://web.poecdn.com/public/videos/CausticArrow/CausticArrow+ViciousProjectiles.bk2",230,"http://down.qq.com/poe/videos/skills/CausticArrow/CausticArrow+ViciousProjectiles.bk2",[]],["CausticArrow&WitheringTouch","Gewährt extra Chaosschaden, der auf dem physischen Schaden basiert, und eine Chance, die Schwächung 'Verkümmerung' zu verursachen, durch die betroffene Gegner pro Stapel (max. 15) 6% erhöhten Chaosschaden erleiden.","http://web.poecdn.com/public/videos/CausticArrow/CausticArrow+WitheringTouch.bk2",367,"http://down.qq.com/poe/videos/skills/CausticArrow/CausticArrow+WitheringTouch.bk2",[]],["CausticArrow&Poison","Gewährt 'Ätzender Pfeil' eine hohe Chance, bei Treffer die Beeinträchtigung 'Gift' anzuwenden. Gift verursacht Chaosschaden über Zeit, sodass 'Unterstützung: Gift' von dem ätzenden Boden profitiert, den 'Ätzender Pfeil' erzeugt.","http://web.poecdn.com/public/videos/CausticArrow/CausticArrow+Poison.bk2",298,"http://down.qq.com/poe/videos/skills/CausticArrow/CausticArrow+Poison.bk2",[2,4,5,3]],["Smite&AncestralCall","Sorgt dafür, dass 'Zerschmettern' zwei weitere Gegner im Umkreis ins Ziel nimmt. Da 'Zerschmettern' ein Angriff mit Wirkungsbereich ist, kann diese Unterstützungsgemme Schadensbereiche erzeugen, die sich überlappen, wodurch sich der Schaden von 'Zerschmettern' stark erhöht.","http://web.poecdn.com/public/videos/Smite/Smite+AncestralCall.bk2",346,"http://down.qq.com/poe/videos/skills/Smite/Smite+AncestralCall.bk2",[6,2,4,0,3]],["Smite&MeleePhysicalDamage","Gewährt 'Zerschmettern' mehr physischen Nahkampfschaden und erhöht gleichzeitig den Blitzschaden, da 50 % des physischen Schadens in Blitzschaden umgewandelt werden.","http://web.poecdn.com/public/videos/Smite/Smite+MeleePhysicalDamage.bk2",82,"http://down.qq.com/poe/videos/skills/Smite/Smite+MeleePhysicalDamage.bk2",[]],["Smite&PhysicalToLightning","Wandelt 50 % des physischen Schadens von 'Zerschmettern' in Blitzschaden um und gewährt zusätzlichen Blitzschaden, der auf dem physischen Schaden basiert. Da bei 'Zerschmettern' bereits 50 % in Blitzschaden umgewandelt werden, bewirkt die Kombination mit dieser Unterstützungsgemme, dass sämtlicher physischer Schaden von 'Zerschmettern' in Blitzschaden umgewandelt wird.","http://web.poecdn.com/public/videos/Smite/Smite+PhysicaltoLightning.bk2",264,"http://down.qq.com/poe/videos/skills/Smite/Smite+PhysicaltoLightning.bk2",[]],["Smite&ElementalDamageWithAttacks","Multipliziert den Elementarschaden, der mit 'Zerschmettern' verursacht wird. Der Nutzen dieser Unterstützungsgemme wird maximiert, indem man sämtlichen physischen Schaden von 'Zerschmettern' in Elementarschaden umwandelt.","http://web.poecdn.com/public/videos/Smite/Smite+ElementalDamagewithAttacks.bk2",112,"http://down.qq.com/poe/videos/skills/Smite/Smite+WeaponElementalDamage.bk2",[]],["Smite&Multistrike","Bewirkt, dass sich 'Zerschmettern' zwei zusätzliche Male wiederholt und gewährt einen großen Bonus auf die Angriffsgeschwindigkeit.","http://web.poecdn.com/public/videos/Smite/Smite+Multistrike.bk2",187,"http://down.qq.com/poe/videos/skills/Smite/Smite+Multistrike.bk2",[]],["Smite&ElementalFocus","Nimmt zwar die Fähigkeit, durch 'Zerschmettern' bei Gegnern Beeinträchtigungen zu verursachen (wie zum Beispiel Schock), führt jedoch zu einer beträchtlichen Steigerung des Elementarschadens. Der Nutzen dieser Unterstützungsgemme wird maximiert, indem man sämtlichen physischen Schaden von 'Zerschmettern' in Elementarschaden umwandelt.","http://web.poecdn.com/public/videos/Smite/Smite+ElementalFocus.bk2",314,"http://down.qq.com/poe/videos/skills/Smite/Smite+ElementalFocus.bk2",[]],["Frostbolt&AddedColdDamage","Fügt 'Frostkugel' zusätzlichen Kälteschaden hinzu.","http://web.poecdn.com/public/videos/Frostbolt/Frostbolt+AddedColdDamage.bk2",38,"http://down.qq.com/poe/videos/skills/Frostbolt/Frostbolt%20+%20Added%20Cold%20Damage.bk2",[2,1,5,3]],["Frostbolt&ColdPenetration","Verringert den Kältewiderstand von Gegnern und lässt diese durch 'Frostkugel' mehr Kälteschaden erleiden.","http://web.poecdn.com/public/videos/Frostbolt/Frostbolt+ColdPenetration.bk2",173,"http://down.qq.com/poe/videos/skills/Frostbolt/Frostbolt%20+%20Cold%20Penetration.bk2",[]],["Frostbolt&Hypothermia","Erhöht die Chance, Gegner mit 'Frostkugel' zu unterkühlen und einzufrieren und gewährt zudem mehr Schaden gegen eingefrorene Gegner.","http://web.poecdn.com/public/videos/Frostbolt/Frostbolt+Hypothermia.bk2",279,"http://down.qq.com/poe/videos/skills/Frostbolt/Frostbolt%20+%20Hypothermia.bk2",[]],["Frostbolt&ControlledDestruction","Verringert zwar die Chance auf kritische Treffer, gewährt 'Frostkugel' jedoch mehr Zauberschaden, der zu einer direkten und stabilen Schadenserhöhung führt, die nicht von kritischen Treffern abhängig ist.","http://web.poecdn.com/public/videos/Frostbolt/Frostbolt+ControlledDestruction.bk2",305,"http://down.qq.com/poe/videos/skills/Frostbolt/Frostbolt%20+%20Controlled%20Destruction.bk2",[]],["Frostbolt&SpellEcho","Wiederholt 'Frostkugel' ein zusätzliches Mal und erhöht zudem stark die Zaubergeschwindigkeit.","http://web.poecdn.com/public/videos/Frostbolt/Frostbolt+SpellEcho.bk2",188,"http://down.qq.com/poe/videos/skills/Frostbolt/Frostbolt%20+%20Spell%20Echo.bk2",[]],["Frostbolt&SpellTotem","Ermöglicht das Beschwören eines Totems, das 'Frostkugel' einsetzt, sodass der Charakter währenddessen andere Handlungen vornehmen kann. Diese Kombination kann sehr mächtig werden, sobald der Charakter gleichzeitig mehrere Totems beschwören kann.","http://web.poecdn.com/public/videos/Frostbolt/Frostbolt+SpellTotem.bk2",149,"http://down.qq.com/poe/videos/skills/Frostbolt/Frostbolt%20+%20Spell%20Totem.bk2",[6,2,0,1]],["Blight&IncreasedDuration","Verlängert die Dauer des verlangsamenden Effekts von 'Pesthauch' sowie dessen Schwächung, die Chaosschaden über Zeit verursacht.","http://web.poecdn.com/public/videos/Blight/Blight+IncreasedDuration.bk2",107,"http://down.qq.com/poe/videos/skills/Blight/Blight+IncreasedDuration.bk2",[]],["CausticArrow&SwiftAffliction","Verringert die Dauer des ätzenden Bodens, den 'Ätzender Pfeil' erzeugt, gleicht dies jedoch durch eine Erhöhung des Schadens, den 'Ätzender Pfeil' über Zeit verursacht, wieder aus.","http://web.poecdn.com/public/videos/CausticArrow/CausticArrow+SwiftAffliction.bk2",306,"http://down.qq.com/poe/videos/skills/CausticArrow/CausticArrow+SwiftAffliction.bk2",[]],["CausticArrow&VoidManipulation","Gewährt 'Ätzender Pfeil' mehr Chaosschaden, verringert allerdings den Elementarschaden. Da der ätzende Boden jedoch ausschließlich Chaosschaden verursacht, gewährt 'Unterstützung: Manipulation der Leere' mehr Schaden ohne Nachteile.","http://web.poecdn.com/public/videos/CausticArrow/CausticArrow+VoidManipulation.bk2",304,"http://down.qq.com/poe/videos/skills/CausticArrow/CausticArrow+VoidManipulation.bk2",[]],["FreezingPulse&AddedColdDamage","Fügt 'Frostpuls' zusätzlichen Kälteschaden hinzu.","http://web.poecdn.com/public/videos/FreezingPulse/FreezingPulse+AddedColdDamage.bk2",38,"http://down.qq.com/poe/videos/skills/FreezingPulse/FreezingPulse+AddedColdDamage.bk2",[2,1,5,3]],["FrostBlades&IceBite","Fügt 'Frostklingen' zusätzlichen Kälteschaden hinzu, erhöht die Chance auf Einfrieren, gewährt eine Chance, beim Töten eingefrorener Gegner eine Raserei-Ladung zu erhalten.\n\nRaserei-Ladungen erhöhen die Angriffs- und Zaubergeschwindigkeit und den Schaden.","http://web.poecdn.com/public/videos/FrostBlades/Frostblades+IceBite.bk2",278,"http://down.qq.com/poe/videos/skills/FrostBlades/Frostblades+Icebite.bk2",[]],["Frostbolt&FasterCasts","Erhöht die Zaubergeschwindigkeit von 'Frostkugel', wodurch die Kugeln schneller und häufiger gezaubert werden können.","http://web.poecdn.com/public/videos/Frostbolt/Frostbolt+FasterCasts.bk2",85,"http://down.qq.com/poe/videos/skills/Frostbolt/Frostbolt+FasterCasts.bk2",[]],["GlacialHammer&Hypothermia","Erhöht den Kälteschaden von 'Frosthammer' und die Chance, unterkühlte Gegner einzufrieren. Erhöht ebenfalls den unterkühlenden Effekt, den 'Frosthammer' bei Treffer anwendet.","http://web.poecdn.com/public/videos/GlacialHammer/GlacialHammer+Hypothermia.bk2",279,"http://down.qq.com/poe/videos/skills/GlacialHammer/GlacialHammer+Hypothermia.bk2",[]],["MagmaOrb&FasterCast","Erhöht die Zaubergeschwindigkeit von 'Magmakugel', wodurch die Kugeln schneller und häufiger gezaubert werden können.","http://web.poecdn.com/public/videos/MagmaOrb/MagmaOrb+FasterCast.bk2",85,"http://down.qq.com/poe/videos/skills/MagmaOrb/MagmaOrb+FasterCasting.bk2",[]],["RaiseZombie&MeleePhysicalDamage","Gewährt den Zombiekreaturen mehr physischen Nahkampfschaden und erhöht gleichzeitig den Schaden, der durch angewendetes Bluten und Gift verursacht wird.","http://web.poecdn.com/public/videos/RaiseZombies/RaiseZombies+PhysicalMeleeDamage.bk2",82,"http://down.qq.com/poe/videos/skills/RaiseZombies/RaiseZombies+PhysicalMeleeDamage.bk2",[]],["SpectralThrow&AddedFireDamage","Fügt den Treffern mit 'Spektralwurf' zusätzlichen Feuerschaden hinzu, der auf dem physischen Schaden basiert.","http://web.poecdn.com/public/videos/SpectralThrow/SpectralThrow+AddedFireDamage.bk2",33,"http://down.qq.com/poe/videos/skills/SpectralThrow/SpectralThrow+AddedFireDamage.bk2",[6,2,4,0,5,3]],["SplitArrow&FasterAttacks","Erhöht die Angriffsgeschwindigkeit von 'Pfeilfächer', wodurch die Pfeile schneller und häufiger abgefeuert werden.","http://web.poecdn.com/public/videos/SplitArrow/SplitArrow+FasterAttacks.bk2",34,"http://down.qq.com/poe/videos/skills/SplitArrow/SplitArrow+ChancetoBleed.bk2",[]],["SplitArrow&ChanceToBleed","Erhöht die Chance, mit 'Pfeilfächer' bei Gegnern Bluten zu verursachen. Bluten verursacht physischen Schaden über Zeit, der bei Zielen, die sich bewegen, höher ausfällt. Diese Unterstützungsgemme fügt 'Pfeilfächer' außerdem eine kleine Menge an physischem Schaden hinzu.","http://web.poecdn.com/public/videos/SplitArrow/SplitArrow+ChancetoBleed.bk2",324,"http://down.qq.com/poe/videos/skills/SplitArrow/SplitArrow+FasterAttacks.bk2",[4,6,2,0,3]],["PurifyingFlame&AddedFire","Gewährt zusätzlichen Feuerschaden, der auf dem physischen Schaden basiert.","http://web.poecdn.com/public/videos/PurifyingFlame/PF+AddedFire.bk2",33,"https://down.qq.com/poe/videos/skills/PurifyingFlames/PurifyingFlames+AddedFireDamageCN.bk2",[4,6,2,0]],["PurifyingFlame&PhysToLightning","Wandelt 50 % des physischen Schadens von 'Reinigende Flamme' in Blitzschaden um und gewährt zusätzlichen Blitzschaden, der auf dem physischen Schaden basiert. Da bei 'Reinigende Flamme' bereits 50 % in Blitzschaden umgewandelt werden, bewirkt die Kombination mit dieser Unterstützungsgemme, dass sämtlicher physischer Schaden von 'Reinigende Flamme' in Blitzschaden umgewandelt wird.","http://web.poecdn.com/public/videos/PurifyingFlame/PF+PhystoLightning.bk2",264,"https://down.qq.com/poe/videos/skills/PurifyingFlames/PurifyingFlames+PhysicaltoLightningCN.bk2",[]],["PurifyingFlame&Intensify","Intensiviert 'Reinigende Flamme' mit jeder Zauberung, indem der Wirkungsbereich verringert und der Schaden erhöht wird, um ihn auf einige starke Gegner zu konzentrieren.\n\nSobald sich der Charakter bewegt oder teleportiert, verliert er Stapel an Intensität.","http://web.poecdn.com/public/videos/PurifyingFlame/PF+Int.bk2",388,"https://down.qq.com/poe/videos/skills/PurifyingFlames/PurifyingFlames+IntensifyCN.bk2",[]],["PurifyingFlame&ControlledDestruction","Verringert zwar die Chance auf kritische Treffer, gewährt 'Reinigende Flamme' jedoch mehr Zauberschaden, der zu einer direkten und stabilen Schadenserhöhung führt, die nicht von kritischen Treffern abhängig ist.","http://web.poecdn.com/public/videos/PurifyingFlame/PF+ControlledDestruction.bk2",305,"https://down.qq.com/poe/videos/skills/PurifyingFlames/PurifyingFlames+ControlledDestructionCN.bk2",[]],["PurifyingFlame&Unleash","Baut mit der Zeit Ladungen von 'Reinigende Flamme' auf, die beim Zaubern aufgewendet werden. Hierdurch wird der Effekt der Fertigkeit wiederholt entfesselt, wodurch Gegner mehrmals schnell Schaden erleiden. Der Schaden der entfesselten Zauber ist leicht reduziert.","http://web.poecdn.com/public/videos/PurifyingFlame/PF+Unleash.bk2",389,"https://down.qq.com/poe/videos/skills/PurifyingFlames/PurifyingFlames+UnleashCN.bk2",[]],["PurifyingFlame&ElementalFocus","Nimmt zwar die Fähigkeit, durch 'Reinigende Flamme' bei Gegnern Beeinträchtigungen zu verursachen (wie zum Beispiel Entzünden), führt jedoch zu einer beträchtlichen Steigerung des Elementarschadens. Der Nutzen dieser Unterstützungsgemme wird maximiert, indem man sämtlichen physischen Schaden von 'Reinigende Flamme' in Elementarschaden umwandelt.","http://web.poecdn.com/public/videos/PurifyingFlame/PF+EF.bk2",314,"https://down.qq.com/poe/videos/skills/PurifyingFlames/PurifyingFlames+ElementalFocusCN.bk2",[]],["StormblastMine&AddedLightning","Fügt den Explosionen von 'Gewittersturmmine' zusätzlichen Blitzschaden hinzu.\n\nDas Verursachen von mehr Schaden erhöht ebenfalls die Stärke des Schocks, wodurch geschockte Gegner mehr Schaden erleiden.","http://web.poecdn.com/public/videos/StormblastMine/EStormblastAddedLight.bk2",41,"https://down.qq.com/poe/videos/skills/TStormblastAddedLight.bk2",[5,1,6,2]],["StormblastMine&SwiftAssembly","Während 'Gewittersturmmine' von 'Schneller Aufbau' unterstützt wird, gewährt das Werfen einer Mine eine Chance auf das Werfen zusätzlicher Minen. Mehr Minen bedeuten mehr Gewittersturm-Explosionen.","http://web.poecdn.com/public/videos/StormblastMine/EStormblastSwiftAssembly.bk2",427,"https://down.qq.com/poe/videos/skills/TStormblastSwiftAssembly.bk2",[5,1,3,4,2]],["StormblastMine&Trap&MineDamage","Bewirkt, dass die Explosionen von 'Gewittersturmmine' mehr Schaden verursachen.\n\nDas Verursachen von mehr Schaden erhöht ebenfalls die Stärke des Schocks, wodurch geschockte Gegner mehr Schaden erleiden.","http://web.poecdn.com/public/videos/StormblastMine/EStormblastTrapMine.bk2",282,"https://down.qq.com/poe/videos/skills/TStormblastTrapMine.bk2",[]],["StormblastMine&LightningPenetration","Bewirkt, dass der Blitzschaden von 'Gewittersturmmine' den gegnerischen Blitzwiderstand durchdringt. Dies führt bei Bossen, seltenen und magischen Gegnern, die widerstandsfähig gegen Blitz sind, einen konsistenteren Schaden.\n\nAnhand der Modifikatoren von Monstern kann man erkennen, ob diese widerstandsfähig gegen Schaden sind.","http://web.poecdn.com/public/videos/StormblastMine/EStormblastLightPen.bk2",174,"https://down.qq.com/poe/videos/skills/TStormblastLightningPen.bk2",[]],["StormblastMine&ChargedMines","Während 'Gewittersturmmine' von 'Geladene Minen' unterstützt wird, haben die Gewittersturm-Explosionen, die Schaden an Gegnern verursachen, eine Chance, Raserei- und Energie-Ladungen zu gewähren.\n\nRaserei-Ladungen erhöhen pro Ladung eure Bewegungs-, Angriffs- und Zaubergeschwindigkeit (bis maximal 3 Ladungen).\n\nEnergie-Ladungen erhöhen pro Ladung eure Chance, einen kritischen Treffer mit hohem Schaden zu verursachen (bis maximal 3 Ladungen).","http://web.poecdn.com/public/videos/StormblastMine/EStormblastCharged.bk2",360,"https://down.qq.com/poe/videos/skills/TStormblastChargedMines.bk2",[]],["StormblastMine&IncreasedAoE","Durch den erhöhten Wirkungsbereich werden die Explosionen von 'Gewittersturmmine' größer, wodurch sie mehr Gegner treffen können. Darüber hinaus erleiden mehr Gegner erhöhten Schaden, bevor die Gewittersturmminen explodieren.","http://web.poecdn.com/public/videos/StormblastMine/EStormblastIncreasedAoE.bk2",40,"https://down.qq.com/poe/videos/skills/TStormblastIncreasedAoE.bk2",[]],["StormblastMine&ConcentratedEffect","Durch die konzentrierte Wirkung werden die Explosionen von 'Gewittersturmmine' kleiner, verursachen jedoch auf engerem Raum auch mehr Schaden.\nDas bedeutet, dass insgesamt weniger Gegner getroffen werden, aber die getroffenen Gegner mehr Schaden erleiden.","http://web.poecdn.com/public/videos/StormblastMine/EStormblastConcAoE.bk2",105,"https://down.qq.com/poe/videos/skills/TStormblastConcentratedAoE.bk2",[]],["CobraLash&LMP","Erhöht die Anzahl der Projektile, die man mit 'Kobraschlag' wirft, wodurch man gleichzeitig mehr Ziele auf einmal treffen kann. Jedes Projektil springt zwischen Zielen hin und her und trifft damit große Gruppen von Gegnern.\n\nIn höheren Stufen kann die Gemme durch 'Unterstützung: Größere Projektilaufteilung' ersetzt werden, um mehr Projektile zu werfen und größere Gruppen von Gegnern zu treffen.","http://web.poecdn.com/public/videos/CobraLash/ECobraLashLMP.bk2",36,"https://down.qq.com/poe/videos/skills/TCobraLashLMP.bk2",[5,1,3,4,2]],["CobraLash&Poison","Erhöht die Chance von 'Kobraschlag', Gegner zu vergiften und verursacht mehr Giftschaden. Dies ist nützlich, um auf Gegner gleich mehrfach tödliches Gift anzuwenden.","http://web.poecdn.com/public/videos/CobraLash/ECobraLashPoison.bk2",298,"https://down.qq.com/poe/videos/skills/TCobraLashPoison.bk2",[]],["CobraLash&DeadlyAilments","Verringert den Trefferschaden und gewährt 'Kobraschlag' im Gegenzug beträchtlich mehr Schaden mit Gift.\nDies ist nützlich, um auf Gegner besonders starkes Gift anzuwenden.","http://web.poecdn.com/public/videos/CobraLash/ECobraLashDeadlyAilments.bk2",326,"https://down.qq.com/poe/videos/skills/TCobraLashDeadlyAilments.bk2",[]],["CobraLash&AddedChaos","Fügt 'Kobraschlag' Chaosschaden hinzu, wodurch sich der verursachte Schaden erhöht, wenn die Fertigkeit Gegner trifft.\n\nDurch das Erhöhen des Chaosschadens von Treffern wird auch der Schaden des Gifts erhöht, da schwere Treffer mit viel Chaos- und physischem Schaden auch stärkeres Gift bedeuten.","http://web.poecdn.com/public/videos/CobraLash/ECobraLashAddedC.bk2",61,"https://down.qq.com/poe/videos/skills/TCobraLashAddedC.bk2",[]],["CobraLash&VileToxins","Erhöht den Schaden des Gifts, das 'Kobraschlag' auf Gegner anwendet und verursacht mehr Schaden, wenn die Fertigkeit vergiftete Gegner trifft. Dies ist nützlich, um mehrere starke Giftstapel anzuwenden und mehr Schaden gegen mächtige Gegner, wie z.B. Bosse, zu verursachen.","http://web.poecdn.com/public/videos/CobraLash/ECobraLashVile.bk2",330,"https://down.qq.com/poe/videos/skills/TCobraLashVile.bk2",[]],["CobraLash&UnboundAilments","Mit der Unterstützung von 'Entfesselte Beeinträchtigungen' verursacht das Gift von 'Kobraschlag' mehr Schaden und hält länger auf Gegnern an. Dies ist nützlich, um auf mächtige Gegner, wie z.B. Bosse, viele Giftstapel anzuwenden.","http://web.poecdn.com/public/videos/CobraLash/ECobraLashUnboundAilments.bk2",333,"https://down.qq.com/poe/videos/skills/TCobraLashUnboundAilments.bk2",[5,1,6,2]],["Perforate&Maim","Mit dieser Unterstützung werden Gegner durch 'Perforieren' verstümmelt, was mehr physischen Schaden verursacht und ihre Bewegung verlangsamt. Dies eignet sich dazu, Monster zu bremsen, um ihnen leichter ausweichen zu können.","http://web.poecdn.com/public/videos/Perforate/EPerforateMaim.bk2",331,"https://down.qq.com/poe/videos/skills/TPerforateMaim.bk2",[4,3,0,2]],["Perforate&MeleePhysicalDamage","Mit der Unterstützung dieser Gemme verursacht 'Perforieren' mehr Schaden. Ein einfacher und doch wirkungsvoller Weg, Gegner auf schnelle Weise zu töten.","http://web.poecdn.com/public/videos/Perforate/EPerforateMeleePhysical.bk2",82,"https://down.qq.com/poe/videos/skills/TPerforateMeleePhysical.bk2",[]],["Perforate&CloseCombat","Mit 'Unterstützung: Gefecht' verbessert ihr den Schaden gegen Monster in eurer Nähe. Da 'Perforieren' nur Monster im Umkreis trifft (ohne die Sandhaltung), ist diese Unterstützungsgemme sehr wertvoll, um euren Schaden zu erhöhen.\n\nFortbewegungsfertigkeiten sind ebenfalls schneller, nachdem ihr Gegner mit dieser Gemme getroffen habt. Mit Fortbewegungsfertigkeiten könnt ihr euch schneller bewegen, um Gefahren zu vermeiden.","http://web.poecdn.com/public/videos/Perforate/EPerforateClosecombat.bk2",401,"https://down.qq.com/poe/videos/skills/TPerforateCloseCombat.bk2",[]],["Perforate&Impale","Mithilfe von 'Unterstützung: Aufspießen' verursacht ihr mehr physischen Schaden und spießt Gegner auf.\n\nDurch das Aufspießen wird ein Teil eures Schadens gegen einen Gegner gespeichert, der dann über die nächsten 5 Treffer verteilt an diesem Gegner verursacht wird. Ihr könnt denselben Gegner mehr als einmal aufspießen und damit von zusätzlichem Schaden für eure Angriffe profitieren.","http://web.poecdn.com/public/videos/Perforate/EPerforateImpale.bk2",406,"https://down.qq.com/poe/videos/skills/TPerforateImpale.bk2",[]],["Perforate&Brutality","Mit 'Unterstützung: Brutalität' verursacht 'Perforieren' mehr physischen Schaden, jedoch reduziert die Gemme sämtlichen verursachten Elementarschaden auf Null.\n\nAus diesem Grund sollten Modifikatoren, die Blitz-, Feuer-, Kälte- oder Chaosschaden gewähren, in Kombination mit dieser Unterstützungsgemme vermieden werden. Lediglich der physische Schaden wird durch diese Gemme erhöht.","http://web.poecdn.com/public/videos/Perforate/EPerforateBrutality.bk2",334,"https://down.qq.com/poe/videos/skills/TPerforateBrutality.bk2",[]],["Perforate&Multistrike","Mit 'Unterstützung: Mehrfachschlag' wird die Angriffsgeschwindigkeit von 'Perforieren' stark erhöht, indem drei Angriffe in kurzer Abfolge ausgeführt werden, wobei der zweite und dritte Angriff mehr Schaden verursacht.\n\nWährend diese wiederholten Angriffe ausgeführt werden, könnt ihr nicht anhalten oder euch bewegen. Obwohl diese Gemme euren Schaden enorm verstärkt, müsst ihr aufpassen, dass ihr nicht an einer Stelle festsitzt, während euch Monster Schaden zufügen.","http://web.poecdn.com/public/videos/Perforate/EPerforateMultiStrike.bk2",187,"https://down.qq.com/poe/videos/skills/TPerforateMultiStrike.bk2",[]],["Frostblink&IncreasedAoE","Mit dieser Gemme erhöht ihr die Größe des unterkühlenden Bodens und der Kälteexplosion, die von 'Frostspurt' verursacht werden. Dies ist gegen größere Gruppen von Gegnern hilfreich, da sie verlangsamt werden und euch nicht verfolgen können.","http://web.poecdn.com/public/videos/Frostblink/EFrostblinkIncreasedAoE.bk2",40,"https://down.qq.com/poe/videos/skills/TFrostblinkIncreasedAoE.bk2",[]],["Frostblink&BoneChill","Mit 'Unterstützung: Knochenfrost' steigert ihr den unterkühlenden Effekt von 'Frostspurt', wodurch Gegner noch weiter verlangsamt werden. Gegner, die durch 'Frostspurt' unterkühlt werden, erleiden zudem mehr Kälteschaden, wodurch ihr besonders von dieser Gemme profitiert, wenn eure Hauptfertigkeit Kälteschaden verursacht.","http://web.poecdn.com/public/videos/Frostblink/EFrostblinkBonechill.bk2",368,"https://down.qq.com/poe/videos/skills/TFrostblinkBonechill.bk2",[]],["Steelskin&IncreasedDuration","Durch die verlängerte Dauer hält der Bonus von 'Stahlhaut' länger an, der euch vor weiteren gegnerischen Treffern schützt. Ein simpler aber doch effektiver Weg, eure Defensive zu stärken.","http://web.poecdn.com/public/videos/Steelskin/ESteelskinDuration.bk2",107,"https://down.qq.com/poe/videos/skills/TSteelskinDuration.bk2",[]],["Steelskin&CWDT","Mit dieser Kombination wird 'Stahlhaut' automatisch gezaubert, nachdem ihr Schaden erlitten habt, was euch insbesondere gegen überraschende Angriffe schützt.\n\n'Stahlhaut' kann mit dieser Gemme nicht manuell gezaubert und auch nicht gegen ein Monster eingesetzt werden, das dabei ist, euch zu treffen. Es ist wichtig, auf eine alternative Defensive gegen Monster zu setzen, wenn ihr diese Gemme verwendet.","http://web.poecdn.com/public/videos/Steelskin/ESteelskinCWDT.bk2",212,"https://down.qq.com/poe/videos/skills/TSteelskinCWDT.bk2",[]],["GalvanicArrow&PhystoLightning","Mit dieser Gemme wird der gesamte physische Schaden von 'Galvanischer Pfeil' in Blitzschaden umgewandelt, wodurch die Fertigkeit reinen Blitzschaden verursacht, statt 50% Blitz- und 50% physischen Schaden\n\nDer Schaden lässt sich durch diese Gemme auf einfache Weise erhöhen. Quellen, die euren Blitz- oder Elementarschaden erhöhen, erhöhen auch den reinen Blitzschaden, der von 'Galvanischer Pfeil' verursacht wird.","http://web.poecdn.com/public/videos/GalvanicArrow/EGalvanicArrowPhysToLightning.bk2",264,"http://down.qq.com/poe/videos/tutorial/TGalvanicArrowDamage1.bk2",[]],["GalvanicArrow&ElementalDamagewithAttacks","Erhöht den Elementarschaden von 'Galvanischer Pfeil', trifft Gegner härter und verursacht mehr Schaden.\nDiese Gemme erhöht zwar nicht den physischen Schaden, jedoch den verursachten Blitzschaden der Fertigkeit.\n\nIn Verbindung mit 'Unterstützung: Physisch zu Blitz' erhöht die Gemme den reinen Blitzschaden, der mit 'Galvanischer Pfeil' verursacht wird.","http://web.poecdn.com/public/videos/GalvanicArrow/EGalvanicArrowElementalDamageWithAttacks.bk2",112,"http://down.qq.com/poe/videos/tutorial/TGalvanicArrowDamage2.bk2",[]],["GalvanicArrow&LightningPenetration","Ermöglicht 'Galvanischer Pfeil' das Durchdringen des gegnerischen Blitzwiderstands, was einen konsistenteren Schaden gegen blitzresistente Gegner, wie z.B. Bosse, magische und seltene Monster, ermöglicht.\n\nDer physische Schaden durchdringt durch diese Gemme keinen Widerstand, da der physische Schaden nicht vom Blitzwiderstand beeinflusst wird.\nAnhand der Modifikatoren von Monstern kann man erkennen, ob diese widerstandsfähig gegen Schaden sind.","http://web.poecdn.com/public/videos/GalvanicArrow/EGalvanicArrowLightPen.bk2",174,"http://down.qq.com/poe/videos/tutorial/TGalvanicArrowLightPen.bk2",[]],["GalvanicArrow&MirageArcher","Beschwört einen Phantombogenschützen über eurem Kopf, wenn ihr mit 'Galvanischer Pfeil' einen Gegner trefft. Dieser Phantombogenschütze feuert Galvanische Pfeile auf Gegner im Umkreis, bis er verschwindet.\n\nDiese Gemme ist in vielerlei Hinsicht nützlich: Mit ihr verursacht der Charakter mehr Schaden, greift Gegner an, die nicht in Blickrichtung sind und greift auch an, während sich der Charakter bewegt.","http://web.poecdn.com/public/videos/GalvanicArrow/EGalvanicArrowMirage.bk2",348,"http://down.qq.com/poe/videos/tutorial/TGalvanicArrowMirage.bk2",[]],["GalvanicArrow&Barrage","Mit dieser Gemme entfesselt ihr eine schnelle Salve aus Pfeilen, die nicht mehr in Form eines Kegels, sondern nacheinander abgefeuert werden.\n\nDiese Gemme eignet sich insbesondere gegen stärkere Gegner, wie z.B. Bosse.\nSeid vorsichtig, wenn ihr diese Gemme in gefährlichen Situationen einsetzt, da ihr euch beim Abfeuern nicht bewegen und somit bedrohlichen Gegnern nicht ausweichen könnt.","http://web.poecdn.com/public/videos/GalvanicArrow/EGalvanicArrowBarrage.bk2",430,"",[]],["GalvanicArrow&FasterProjectiles","Vergrößert die Blitze, die mit 'Galvanischer Pfeil' entfesselt werden und erhöht die Geschwindigkeit der Pfeile, bevor sie verschwinden. Indem die Pfeile eine weitere Strecke zurücklegen, könnt ihr mit jedem Schuss eine größere Anzahl an Gegnern treffen.","http://web.poecdn.com/public/videos/GalvanicArrow/EGalvanicArrowFasterProj.bk2",37,"http://down.qq.com/poe/videos/tutorial/TGalvanicArrowFasterProj.bk2",[]],["KineticBolt&Barrage","Mit dieser Gemme entfesselt ihr eine schnelle Salve aus Kinetischen Geschossen, die nacheinander abgefeuert werden und über eine größere Fläche Schaden an Gegnern verursachen.\n\nSeid vorsichtig, wenn ihr diese Gemme in gefährlichen Situationen einsetzt, da ihr euch beim Abfeuern nicht bewegen und somit bedrohlichen Gegnern nicht ausweichen könnt.","http://web.poecdn.com/public/videos/EKineticBolt/EKineticBoltBarrage.bk2",430,"http://down.qq.com/poe/videos/tutorial/TKineticBoltBarrage.bk2",[]],["KineticBolt&AddedLightningDamage","Fügt 'Kinetisches Geschoss' und seinen Projektilen Blitzschaden hinzu. Ein einfacher und doch wirkungsvoller Weg, Gegner auf schnelle Weise zu töten.","http://web.poecdn.com/public/videos/EKineticBolt/EKineticBoltLightning.bk2",41,"http://down.qq.com/poe/videos/tutorial/TKineticBoltLightning.bk2",[1]],["KineticBolt&AddedColdDamage","Fügt 'Kinetisches Geschoss' und seinen Projektilen Kälteschaden hinzu. Ein einfacher und doch wirkungsvoller Weg, Gegner auf schnelle Weise zu töten.","http://web.poecdn.com/public/videos/EKineticBolt/EKineticBoltCold.bk2",38,"http://down.qq.com/poe/videos/tutorial/TKineticBoltCold.bk2",[]],["KineticBolt&ElementalDamageWithAttacks","Erhöht den Elementarschaden, der mit 'Kinetisches Geschoss' und seinen Projektilen verursacht wird.\n\nKinetisches Geschoss verursacht standardmäßig keinen Elementarschaden. Dieser kann durch Unterstützungsgemmen (wie Zusätzlicher Blitzschaden oder Zusätzlicher Kälteschaden) hinzugefügt werden. Diese Gemme kann diesen Schaden erhöhen, um Gegner schneller töten zu können.","http://web.poecdn.com/public/videos/EKineticBolt/EKineticBoltDamage.bk2",112,"http://down.qq.com/poe/videos/tutorial/TKineticBoltDamage.bk2",[]],["KineticBolt&Inspiration","Verringert die Manakosten von 'Kinetisches Geschoss' und erhöht den Elementarschaden und die Chance, mit einem Angriff einen kritischen Treffer zu landen.\nZauberstäbe können mächtige kritische Treffer landen, die mehr Schaden verursachen und bei Gegnern elementare Beeinträchtigungen anwenden.\nKinetisches Geschoss verursacht standardmäßig keinen Elementarschaden. Dieser kann durch Ausrüstungsgegenstände oder Unterstützungsgemmen (wie Zusätzlicher Blitzschaden oder Zusätzlicher Kälteschaden) hinzugefügt werden.","http://web.poecdn.com/public/videos/EKineticBolt/EKineticBoltInspiration.bk2",55,"http://down.qq.com/poe/videos/tutorial/TKineticBoltInspiration.bk2",[]]]}
+{
+  "filename": "SkillGemInfo.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Description",
+      "rowid": 1,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "VideoURL1",
+      "rowid": 2,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "SkillGemsKey",
+      "rowid": 3,
+      "type": "ulong",
+      "key": "SkillGems.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "VideoURL2",
+      "rowid": 4,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "CharactersKeys",
+      "rowid": 5,
+      "type": "ref|list|ulong",
+      "key": "Characters.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "Blight&ArcaneSurge",
+      "Gewährt eine vorübergehende Stärkung, nachdem man mit 'Pesthauch' genug Mana verbraucht hat. Die Stärkung gewährt 'Pesthauch' mehr Zauberschaden und erhöhte Zaubergeschwindigkeit und die Manaregeneration stellt Mana für durchgehendes Zaubern bereit.",
+      "http://web.poecdn.com/public/videos/Blight/Blight+Arcane%20Surge.bk2 ",
+      337,
+      "http://down.qq.com/poe/videos/skills/Blight/Blight+ArcaneSurge.bk2",
+      [
+        1,
+        6,
+        2,
+        5
+      ]
+    ],
+    [
+      "Blight&ControlledDestruction",
+      "Gewährt mehr Zauberschaden, doch verringert die Chance auf kritische Treffer. Da 'Pesthauch' jedoch keine kritischen Treffer erzielen kann, gewährt 'Unterstützung: Kontrollierte Zerstörung' also mehr Zauberschaden, ohne dafür Nachteile in Kauf nehmen zu müssen.",
+      "http://web.poecdn.com/public/videos/Blight/Blight+Controlled%20Destruction.bk2 ",
+      305,
+      "http://down.qq.com/poe/videos/skills/Blight/Blight+ControlledDestruction.bk2",
+      []
+    ],
+    [
+      "Blight&Efficacy",
+      "Erhöht den Schaden über Zeit und Zauberschaden von 'Pesthauch'. Die verlängerte Fertigkeitseffektdauer erhöht zudem die Dauer der Pesthauch-Schwächung auf Gegnern.",
+      "http://web.poecdn.com/public/videos/Blight/Blight+Efficacy.bk2 ",
+      329,
+      "http://down.qq.com/poe/videos/skills/Blight/Blight+Efficacy.bk2",
+      []
+    ],
+    [
+      "Blight&SwiftAffliction",
+      "Verringert die Gesamtdauer der Pesthauch-Schwächung, gleicht dies jedoch durch eine Erhöhung des Schadens, den 'Pesthauch' über Zeit verursacht, wieder aus.",
+      "http://web.poecdn.com/public/videos/Blight/Blight+SwiftAffliction.bk2 ",
+      306,
+      "http://down.qq.com/poe/videos/skills/Blight/Blight+SwiftAffliction.bk2",
+      []
+    ],
+    [
+      "Blight&IncreasedAreaOfEffect",
+      "Vergrößert den Wirkungsbereich von 'Pesthauch', wodurch die Schwächung gleichzeitig auf mehr Gegner angewendet werden kann.",
+      "http://web.poecdn.com/public/videos/Blight/Blight+IncreasedArea%20of%20Effect.bk2",
+      40,
+      "http://down.qq.com/poe/videos/skills/Blight/Blight+IncreasedArea.bk2",
+      []
+    ],
+    [
+      "FreezingPulse&LMP",
+      "Erhöht die Projektilanzahl von 'Frostpuls', wodurch man gleichzeitig mehr Ziele auf einmal treffen kann.\n\nIm späteren Spielverlauf kann man die Gemme durch 'Unterstützung: Größere Projektilaufteilung' ersetzen, um damit Gegner in einem größeren Bereich zu treffen.",
+      "http://web.poecdn.com/public/videos/FreezingPulse/FreezingPulse+LesserMultipleProjectiles.bk2 ",
+      36,
+      "http://down.qq.com/poe/videos/skills/FreezingPulse/FreezingPulse+LMP.bk2",
+      [
+        2,
+        4,
+        5,
+        3,
+        1
+      ]
+    ],
+    [
+      "FreezingPulse&ColdPenetration",
+      "Verringert den Kältewiderstand von Gegnern und lässt diese durch 'Frostpuls' mehr Kälteschaden erleiden.",
+      "http://web.poecdn.com/public/videos/FreezingPulse/FreezingPulse+ColdPenetration.bk2 ",
+      173,
+      "http://down.qq.com/poe/videos/skills/FreezingPulse/FreezingPulse+ColdPenetration.bk2",
+      []
+    ],
+    [
+      "FreezingPulse&ControlledDestruction",
+      "Verringert zwar die Chance auf kritische Treffer, gewährt 'Frostpuls' jedoch mehr Zauberschaden, der zu einer direkten und stabilen Schadenserhöhung führt, die nicht von kritischen Treffern abhängig ist.",
+      "http://web.poecdn.com/public/videos/FreezingPulse/FreezingPulse+ControlledDestruction.bk2 ",
+      305,
+      "http://down.qq.com/poe/videos/skills/FreezingPulse/FreezingPulse+ControlledDestruction.bk2",
+      []
+    ],
+    [
+      "FreezingPulse&FasterProjectiles",
+      "Erhöht die Geschwindigkeit von Frostpuls-Projektilen und die maximale Distanz, die diese zurücklegen können. Hierdurch kann 'Frostpuls' weiter entfernte Ziele treffen.",
+      "http://web.poecdn.com/public/videos/FreezingPulse/FreezingPulse+FasterProjectiles.bk2 ",
+      37,
+      "http://down.qq.com/poe/videos/skills/FreezingPulse/FreezingPulse+FasterProjectiles.bk2",
+      []
+    ],
+    [
+      "FreezingPulse&SpellEcho",
+      "Wiederholt 'Frostpuls' ein zusätzliches Mal und erhöht zudem stark die Zaubergeschwindigkeit.",
+      "http://web.poecdn.com/public/videos/FreezingPulse/FreezingPulse+SpellEcho.bk2 ",
+      188,
+      "http://down.qq.com/poe/videos/skills/FreezingPulse/FreezingPulse+SpellEcho.bk2",
+      []
+    ],
+    [
+      "FreezingPulse&Volley",
+      "Erhöht die Anzahl der Projektile, die man mit 'Frostpuls' zaubert. Die Projektile werden parallel abgefeuert, wodurch man gleichzeitig mehr Ziele auf einmal treffen kann.",
+      "http://web.poecdn.com/public/videos/FreezingPulse/FreezingPulse+Volley.bk2 ",
+      344,
+      "http://down.qq.com/poe/videos/skills/FreezingPulse/FreezingPulse+Volley.bk2",
+      [
+        2,
+        4,
+        0,
+        1,
+        5,
+        3
+      ]
+    ],
+    [
+      "LightingTendrils&AddedLightningDamage",
+      "Fügt 'Blitzranken' zusätzlichen Blitzschaden hinzu.",
+      "http://web.poecdn.com/public/videos/LightningTendrils/Lighting%20Tendrils+AddedLightningDamage.bk2",
+      41,
+      "http://down.qq.com/poe/videos/skills/LightningTendrils/LightningTendrils+AddedLightningDamage.bk2",
+      [
+        6,
+        2,
+        1,
+        5
+      ]
+    ],
+    [
+      "LightingTendrils&ControlledDestruction",
+      "Verringert zwar die Chance auf kritische Treffer, gewährt 'Blitzranken' jedoch mehr Zauberschaden, der zu einer direkten und stabilen Schadenserhöhung führt, die nicht von kritischen Treffern abhängig ist.",
+      "http://web.poecdn.com/public/videos/LightningTendrils/LightningTendrils+ControlledDestruction.bk2 ",
+      305,
+      "http://down.qq.com/poe/videos/skills/LightningTendrils/LightningTendrils+ControlledDestruction.bk2",
+      []
+    ],
+    [
+      "LightingTendrils&ElementalFocus",
+      "Nimmt zwar die Fähigkeit, durch 'Blitzranken' bei Gegnern Beeinträchtigungen zu verursachen (wie zum Beispiel Schock), führt jedoch zu einer beträchtlichen Steigerung des Elementarschadens.",
+      "http://web.poecdn.com/public/videos/LightningTendrils/LightningTendrils+ElementalFocus_1.bk2 ",
+      314,
+      "http://down.qq.com/poe/videos/skills/LightningTendrils/LightingTendrils+ElementalFocus.bk2",
+      []
+    ],
+    [
+      "LightingTendrils&LightningPenetration",
+      "Verringert den Blitzwiderstand von Gegnern und lässt diese durch 'Blitzranken' mehr Blitzschaden erleiden.",
+      "http://web.poecdn.com/public/videos/LightningTendrils/LightningTendrils+ElementalFocus_1.bk2 ",
+      174,
+      "http://down.qq.com/poe/videos/skills/LightningTendrils/LightningTendrils+LightningPenetration.bk2",
+      []
+    ],
+    [
+      "MagmaOrb&Combustion",
+      "Gewährt 'Magmakugel' mehr Feuerschaden, eine höhere Chance auf Entzünden und verringert den Feuerwiderstand von entzündeten Gegnern, wodurch sich diese Unterstützungsgemme für alle Feuerfertigkeiten eignet.",
+      "http://web.poecdn.com/public/videos/MagmaOrb/MagmaOrb+Combustion.bk2",
+      109,
+      "http://down.qq.com/poe/videos/skills/MagmaOrb/MagmaOrb+Combustion.bk2",
+      [
+        6,
+        0,
+        1,
+        5
+      ]
+    ],
+    [
+      "MagmaOrb&LMP",
+      "Erhöht die Projektilanzahl von 'Magmakugel', wodurch man gleichzeitig mehr Ziele auf einmal treffen kann.\n\nIm späteren Spielverlauf kann man die Gemme durch 'Unterstützung: Größere Projektilaufteilung' ersetzen, um damit Gegner in einem größeren Bereich zu treffen.",
+      "http://web.poecdn.com/public/videos/MagmaOrb/MagmaOrb+LesserMultipleProjections.bk2 ",
+      36,
+      "http://down.qq.com/poe/videos/skills/MagmaOrb/MagmaOrb+LMP.bk2",
+      [
+        2,
+        4,
+        5,
+        3,
+        1
+      ]
+    ],
+    [
+      "MagmaOrb&FirePenetration",
+      "Verringert den Feuerwiderstand von Gegnern und lässt diese durch 'Magmakugel' mehr Feuerschaden erleiden.",
+      "http://web.poecdn.com/public/videos/MagmaOrb/MagmaOrb+FirePenetration.bk2 ",
+      172,
+      "http://down.qq.com/poe/videos/skills/MagmaOrb/MagmaOrb+FirePenetration.bk2",
+      []
+    ],
+    [
+      "MagmaOrb&SpellEcho",
+      "Wiederholt 'Magmakugel' ein zusätzliches Mal und erhöht zudem stark die Zaubergeschwindigkeit.",
+      "http://web.poecdn.com/public/videos/MagmaOrb/MagmaOrb+SpellEcho.bk2 ",
+      188,
+      "http://down.qq.com/poe/videos/skills/MagmaOrb/MagmaOrb+SpellEcho.bk2",
+      []
+    ],
+    [
+      "MagmaOrb&SlowerProjectiles",
+      "Erhöht den Schaden von 'Magmakugel' und verringert die Distanz zwischen jeder Verkettung, wodurch eine Kugel eine Monstergruppe mehrfach treffen kann.",
+      "http://web.poecdn.com/public/videos/MagmaOrb/MagmaOrb+SlowerProjectiles.bk2 ",
+      209,
+      "http://down.qq.com/poe/videos/skills/MagmaOrb/MagmaOrb+SlowerProjectiles.bk2",
+      []
+    ],
+    [
+      "MagmaOrb&Empower",
+      "Erhöht die Stufe der Magmakugel-Gemme, gewährt damit zusätzlichen Feuerschaden und eine potenziell höhere Anzahl an Verkettungen. Diese Gemme kann nur gefunden werden und ist sehr selten. Das Hochstufen der Gemme dauert relativ lange, weshalb sie am Anfang noch nicht nützlich ist.",
+      "http://web.poecdn.com/public/videos/MagmaOrb/MagmaOrb+Empower.bk2 ",
+      200,
+      "http://down.qq.com/poe/videos/skills/MagmaOrb/MagmaOrb+Empower.bk2",
+      []
+    ],
+    [
+      "Fireball&BurningDamage",
+      "Erhöht den Schaden über Zeit von Entzündungen, die durch 'Feuerball' verursacht werden.",
+      "http://web.poecdn.com/public/videos/Fireball/Fireball+BurningDamage.bk2",
+      192,
+      "http://down.qq.com/poe/videos/skills/Fireball/Fireball+BurningDamage.bk2",
+      []
+    ],
+    [
+      "Fireball&Combustion",
+      "Gewährt 'Feuerball' mehr Feuerschaden, eine höhere Chance auf Entzünden und verringert den Feuerwiderstand von entzündeten Gegnern, wodurch sich diese Unterstützungsgemme für alle Feuerfertigkeiten eignet.",
+      "http://web.poecdn.com/public/videos/Fireball/Fireball+Combustion.bk2",
+      109,
+      "http://down.qq.com/poe/videos/skills/Fireball/Fireball+Combustion.bk2",
+      [
+        6,
+        0,
+        1,
+        5
+      ]
+    ],
+    [
+      "Fireball&ControlledDestruction",
+      "Verringert zwar die Chance auf kritische Treffer, gewährt 'Feuerball' jedoch mehr Zauberschaden, der zu einer direkten und stabilen Schadenserhöhung führt, die nicht von kritischen Treffern abhängig ist.",
+      "http://web.poecdn.com/public/videos/Fireball/Fireball+ControlledDestruction.bk2",
+      305,
+      "http://down.qq.com/poe/videos/skills/Fireball/Fireball+ControlledDestruction.bk2",
+      []
+    ],
+    [
+      "Fireball&DeadlyAilments",
+      "Verringert den Trefferschaden und gewährt im Gegenzug mehr Schaden mit Beeinträchtigungen. Die Unterstützungsgemme eignet sich daher besonders für Feuerball-Charaktere, die den Schaden über Zeit von Entzündungen skalieren möchten.",
+      "http://web.poecdn.com/public/videos/Fireball/Fireball+DeadlyAilments.bk2",
+      326,
+      "http://down.qq.com/poe/videos/skills/Fireball/Fireball+DeadlyAilments.bk2",
+      []
+    ],
+    [
+      "Fireball&FirePenetration",
+      "Verringert den Feuerwiderstand von Gegnern und lässt diese durch 'Feuerball' mehr Feuerschaden erleiden.",
+      "http://web.poecdn.com/public/videos/Fireball/Fireball+FirePenetration.bk2",
+      172,
+      "http://down.qq.com/poe/videos/skills/Fireball/Fireball+FirePenetration.bk2",
+      []
+    ],
+    [
+      "Fireball&IgniteProliferate",
+      "Erhöht die Chance, Gegner mit 'Feuerball' zu entzünden und ermöglicht es, Entzündungen auf weitere Gegner im Umkreis zu übertragen.",
+      "http://web.poecdn.com/public/videos/Fireball/Fireball+IgniteProliferation.bk2",
+      323,
+      "http://down.qq.com/poe/videos/skills/Fireball/Fireball+IgniteProliferation.bk2",
+      []
+    ],
+    [
+      "Fireball&LMP",
+      "Erhöht die Projektilanzahl von 'Feuerball', wodurch man gleichzeitig mehr Ziele auf einmal treffen kann.\n\nIm späteren Spielverlauf kann man die Gemme durch 'Unterstützung: Größere Projektilaufteilung' ersetzen, um damit Gegner in einem größeren Bereich zu treffen.",
+      "http://web.poecdn.com/public/videos/Fireball/Fireball+LesserMultipleProjectiles.bk2",
+      36,
+      "http://down.qq.com/poe/videos/skills/Fireball/Fireball+LMP.bk2",
+      [
+        2,
+        4,
+        5,
+        3,
+        1
+      ]
+    ],
+    [
+      "Fireball&SpellEcho",
+      "Wiederholt 'Feuerball' ein zusätzliches Mal und erhöht zudem stark die Zaubergeschwindigkeit.",
+      "http://web.poecdn.com/public/videos/Fireball/Fireball+SpellEcho.bk2",
+      188,
+      "http://down.qq.com/poe/videos/skills/Fireball/Fireball+SpellEcho.bk2",
+      []
+    ],
+    [
+      "Fireball&SwiftAffliction",
+      "Verringert die Gesamtdauer von Entzündungen, erhöht jedoch im Gegenzug den Schaden, den diese verursachen, wodurch Entzündungen Gegner schneller und stärker verbrennen.",
+      "http://web.poecdn.com/public/videos/Fireball/Fireball+SwiftAffliction.bk2",
+      306,
+      "http://down.qq.com/poe/videos/skills/Fireball/Fireball+SwiftAffliction.bk2",
+      []
+    ],
+    [
+      "RaiseZombie&FasterAttacks",
+      "Erhöht die Angriffsgeschwindigkeit von Zombiekreaturen.",
+      "http://web.poecdn.com/public/videos/RaiseZombies/RaiseZombies+FasterAttacks.bk2",
+      34,
+      "http://down.qq.com/poe/videos/skills/RaiseZombies/RaiseZombies+FasterAttacks.bk2",
+      []
+    ],
+    [
+      "RaiseZombie&MeleeSplash",
+      "Verwandelt den Basisangriff der Zombiekreaturen in einen Wirkungsbereich-Angriff. Zombies können nun mit ihrem Basisangriff mehrere Gegner gleichzeitig treffen.",
+      "http://web.poecdn.com/public/videos/RaiseZombies/RaiseZombies+MeleeSplash.bk2",
+      189,
+      "http://down.qq.com/poe/videos/skills/RaiseZombies/RaiseZombies+MeleeSplash.bk2",
+      [
+        6,
+        2,
+        4,
+        0,
+        1,
+        5,
+        3
+      ]
+    ],
+    [
+      "RaiseZombie&MinionDamage",
+      "Gewährt Zombiekreaturen mehr Schaden.",
+      "http://web.poecdn.com/public/videos/RaiseZombies/RaiseZombies+MinionDamage.bk2",
+      106,
+      "http://down.qq.com/poe/videos/skills/RaiseZombies/RaiseZombies+MinionDamage.bk2",
+      [
+        6,
+        2,
+        4
+      ]
+    ],
+    [
+      "RaiseZombie&MinionHealth",
+      "Erhöht das maximale Leben von Zombiekreaturen, wodurch sie ausdauernder kämpfen und gegen schwere Gegner länger durchhalten können.",
+      "http://web.poecdn.com/public/videos/RaiseZombies/RaiseZombies+MinionHealth.bk2",
+      111,
+      "http://down.qq.com/poe/videos/skills/RaiseZombies/RaiseZombies+MinionLife.bk2",
+      []
+    ],
+    [
+      "RaiseZombie&Multistrike",
+      "Führt dazu, dass der starke Hieb der Zombiekreaturen zwei zusätzliche Male wiederholt wird.",
+      "http://web.poecdn.com/public/videos/RaiseZombies/RaiseZombies+Multistrike.bk2",
+      187,
+      "http://down.qq.com/poe/videos/skills/RaiseZombies/RaiseZombies+Multistrike.bk2",
+      []
+    ],
+    [
+      "RaiseZombie&MinionTotemResistance",
+      "Verringert den erlittenen Elementarschaden von Zombies, wodurch diese länger gegen Gegner durchhalten können, die Schaden (insbesondere Elementarschaden) verursachen.",
+      "http://web.poecdn.com/public/videos/RaiseZombies/RaiseZombies+TotemandElementalResist.bk2",
+      193,
+      "http://down.qq.com/poe/videos/skills/RaiseZombies/RaiseZombie+MinionResist.bk2",
+      []
+    ],
+    [
+      "GlacialHammer&AncestralCall",
+      "Sorgt dafür, dass 'Frosthammer' zwei weitere Gegner im Umkreis ins Ziel nimmt. Gepaart mit 'Unterstützung: Nahkampf-Streuschaden' werden große Schadensbereiche erzeugt, die sich überlappen.",
+      "http://web.poecdn.com/public/videos/GlacialHammer/GlacialHammer+AncestralCall.bk2",
+      346,
+      "http://down.qq.com/poe/videos/skills/GlacialHammer/GlacialHammer+AncestralCall.bk2",
+      [
+        6,
+        2,
+        4,
+        0,
+        3
+      ]
+    ],
+    [
+      "GlacialHammer&IceBite",
+      "Fügt 'Frosthammer' Kälteschaden hinzu, erhöht die Chance auf Einfrieren, gewährt eine Chance, beim Töten eingefrorener Gegner eine Raserei-Ladung zu erhalten und fügt pro Raserei-Ladung Kälteschaden hinzu. Dies ergänzt sich besonders gut mit dem Effekt von 'Frosthammer', der eingefrorene Gegner bei niedrigem Leben zerschmettert.",
+      "http://web.poecdn.com/public/videos/GlacialHammer/GlacialHammer+Icebite.bk2",
+      278,
+      "http://down.qq.com/poe/videos/skills/GlacialHammer/GlacialHammer+IceBite.bk2",
+      []
+    ],
+    [
+      "GlacialHammer&MeleePhysical",
+      "Gewährt 'Frosthammer' mehr physischen Nahkampfschaden und erhöht gleichzeitig den Kälteschaden, da 50 % des physischen Schadens in Kälteschaden umgewandelt werden.",
+      "http://web.poecdn.com/public/videos/GlacialHammer/GlacialHammer+MeleePhysicalDamage.bk2",
+      82,
+      "http://down.qq.com/poe/videos/skills/GlacialHammer/GlacialHammer+MeleePhysicalDamage.bk2",
+      []
+    ],
+    [
+      "GlacialHammer&MeleeSplash",
+      "Bewirkt, dass Treffer mit 'Frosthammer' an Zielen im Umkreis Streuschaden verursachen. Gepaart mit 'Unterstützung: Ruf der Ahnen' werden große Schadensbereiche erzeugt, die sich überlappen.",
+      "http://web.poecdn.com/public/videos/GlacialHammer/GlacialHammer+MeleeSplash.bk2",
+      189,
+      "http://down.qq.com/poe/videos/skills/GlacialHammer/GlacialHammer+MeleeSplash.bk2",
+      [
+        6,
+        2,
+        4,
+        0,
+        1,
+        5,
+        3
+      ]
+    ],
+    [
+      "GlacialHammer&Multistrike",
+      "Bewirkt, dass sich 'Frosthammer' zwei zusätzliche Male wiederholt und gewährt einen großen Bonus auf die Angriffsgeschwindigkeit.",
+      "http://web.poecdn.com/public/videos/GlacialHammer/GlacialHammer+Multistrike.bk2",
+      187,
+      "http://down.qq.com/poe/videos/skills/GlacialHammer/GlacialHammer+Multistrike.bk2",
+      []
+    ],
+    [
+      "GlacialHammer&ColdPenetration",
+      "Verringert den Kältewiderstand von Gegnern und lässt diese durch 'Frosthammer' mehr Kälteschaden erleiden.",
+      "http://web.poecdn.com/public/videos/GlacialHammer/GlacialHammer+ColdPenetration.bk2",
+      173,
+      "http://down.qq.com/poe/videos/skills/GlacialHammer/GlacialHammer+ColdPenetration.bk2",
+      []
+    ],
+    [
+      "EtheralKnives&ControlledDestruction",
+      "Verringert zwar die Chance auf kritische Treffer, gewährt 'Ätherische Klingen' jedoch mehr Zauberschaden, der zu einer direkten und stabilen Schadenserhöhung führt, die nicht von kritischen Treffern abhängig ist.",
+      "http://web.poecdn.com/public/videos/EtherealKnives/EtherealKnives+ControlledDestruction.bk2",
+      305,
+      "http://down.qq.com/poe/videos/skills/EtherealKnives/EtherealKnives+ControlledDestruction.bk2",
+      []
+    ],
+    [
+      "EtheralKnives&FasterCasting",
+      "Erhöht die Zaubergeschwindigkeit von 'Ätherische Klingen', wodurch der Zauber häufiger verwendet werden kann.",
+      "http://web.poecdn.com/public/videos/EtherealKnives/EtherealKnives+FasterCasting.bk2",
+      85,
+      "http://down.qq.com/poe/videos/skills/EtherealKnives/EtherealKnives+FasterCasting.bk2",
+      []
+    ],
+    [
+      "EtheralKnives&FasterProjectiles",
+      "Erhöht die Projektilgeschwindigkeit von 'Ätherische Klingen' und die maximale Distanz, die die Projektile zurücklegen können. Gepaart mit 'Unterstützung: Durchbohren' sind die Projektile in der Lage, auch dichtere Monstergruppen zu durchbohren.",
+      "http://web.poecdn.com/public/videos/EtherealKnives/EtherealKnives+FasterProjectiles.bk2",
+      37,
+      "http://down.qq.com/poe/videos/skills/EtherealKnives/EtherealKnives+FasterProjectiles.bk2",
+      []
+    ],
+    [
+      "EtheralKnives&PhysicalToLightning",
+      "Wandelt 50 % des physischen Schadens von 'Ätherische Klingen' in Blitzschaden um und gewährt zusätzlichen Blitzschaden, der auf dem physischen Schaden basiert.",
+      "http://web.poecdn.com/public/videos/EtherealKnives/EtherealKnives+PhysicaltoLightning.bk2",
+      264,
+      "http://down.qq.com/poe/videos/skills/EtherealKnives/EtherealKnives+PhysicaltoLightning.bk2",
+      []
+    ],
+    [
+      "EtheralKnives&Pierce",
+      "Bewirkt, dass die Projektile von 'Ätherische Klingen' weitere Gegner überwinden und stellt sicher, dass möglichst viele Gegner in einer Gruppe von den Projektilen getroffen werden.",
+      "http://web.poecdn.com/public/videos/EtherealKnives/EtherealKnives+Pierce.bk2",
+      69,
+      "http://down.qq.com/poe/videos/skills/EtherealKnives/EtherealKnives+Pierce.bk2",
+      [
+        3,
+        2,
+        4,
+        5
+      ]
+    ],
+    [
+      "EtheralKnives&SpellEcho",
+      "Wiederholt 'Ätherische Klingen' ein zusätzliches Mal und erhöht zudem stark die Zaubergeschwindigkeit.",
+      "http://web.poecdn.com/public/videos/EtherealKnives/EtherealKnives+SpellEcho.bk2",
+      188,
+      "http://down.qq.com/poe/videos/skills/EtherealKnives/EtherealKnives+SpellEcho.bk2",
+      []
+    ],
+    [
+      "ExplosiveTrap&TrapMineDamage",
+      "Gewährt 'Sprengfalle' mehr Schaden und eine leichte Verringerung der Fallenwurfgeschwindigkeit.",
+      "http://web.poecdn.com/public/videos/ExplosiveTrap/ExplosireTrap+TrapandMineDamage.bk2",
+      282,
+      "http://down.qq.com/poe/videos/skills/ExplosiveTrap/ExplosiveTrap+TrapandMineDamage.bk2",
+      []
+    ],
+    [
+      "ExplosiveTrap&ClusterTraps",
+      "Ermöglicht das gleichzeitige Werfen von zwei zusätzlichen Sprengfallen.",
+      "http://web.poecdn.com/public/videos/ExplosiveTrap/ExplosiveTrap+ClusterTraps.bk2",
+      307,
+      "http://down.qq.com/poe/videos/skills/ExplosiveTrap/ExplosiveTrap+ClusterTrap.bk2",
+      []
+    ],
+    [
+      "ExplosiveTrap&ChargedTraps",
+      "Gewährt eine Chance auf Raserei- und Energie-Ladungen, wenn die Sprengfalle durch Gegner ausgelöst wird. Pro Raserei-Ladung wird die Fallenwurfgeschwindigkeit und pro Energie-Ladung der Multiplikator für kritische Treffer erhöht.",
+      "http://web.poecdn.com/public/videos/ExplosiveTrap/ExplosiveTrap+ChargedTraps.bk2",
+      359,
+      "http://down.qq.com/poe/videos/skills/ExplosiveTrap/ExplosiveTrap+ChargedTrap.bk2",
+      []
+    ],
+    [
+      "ExplosiveTrap&ControlledDestruction",
+      "Verringert zwar die Chance auf kritische Treffer, gewährt 'Sprengfalle ' jedoch mehr Zauberschaden, der zu einer direkten und stabilen Schadenserhöhung führt, die nicht von kritischen Treffern abhängig ist.",
+      "http://web.poecdn.com/public/videos/ExplosiveTrap/ExplosiveTrap+ControlledDestruction.bk2",
+      305,
+      "http://down.qq.com/poe/videos/skills/ExplosiveTrap/ExplosiveTrap+ControlledDestruction.bk2",
+      []
+    ],
+    [
+      "ExplosiveTrap&ElementalFocus",
+      "Nimmt zwar die Fähigkeit, durch 'Sprengfalle' bei Gegnern Beeinträchtigungen zu verursachen (wie zum Beispiel Entzünden), führt jedoch zu einer beträchtlichen Steigerung des Elementarschadens. Der Nutzen dieser Unterstützungsgemme wird maximiert, indem man sämtlichen physischen Schaden von 'Sprengfalle' in Elementarschaden umwandelt.",
+      "http://web.poecdn.com/public/videos/ExplosiveTrap/ExplosiveTrap+ElementalFocus.bk2",
+      314,
+      "http://down.qq.com/poe/videos/skills/ExplosiveTrap/ExplosiveTrap+ElementalFocus.bk2",
+      []
+    ],
+    [
+      "ExplosiveTrap&PhysicalToLightning",
+      "Wandelt 50 % des physischen Schadens von 'Sprengfalle' in Blitzschaden um und gewährt zusätzlichen Blitzschaden, der auf dem physischen Schaden basiert.",
+      "http://web.poecdn.com/public/videos/ExplosiveTrap/ExplosiveTrap+PhysicaltoLightning.bk2",
+      264,
+      "http://down.qq.com/poe/videos/skills/ExplosiveTrap/ExplosiveTrap+PhysicaltoLightning.bk2",
+      []
+    ],
+    [
+      "FrostBlades&AncestralCall",
+      "Sorgt dafür, dass 'Frostklingen' zwei weitere Gegner im Umkreis ins Ziel nimmt. Wenn sich mindestens drei Gegner im Umkreis befinden, kann dies zu einer Verdreifachung der Frostklingen-Projektile führen.",
+      "http://web.poecdn.com/public/videos/FrostBlades/FrostBlades+AncestralCall.bk2",
+      346,
+      "http://down.qq.com/poe/videos/skills/FrostBlades/FrostBlades+AncestralCall.bk2",
+      [
+        6,
+        2,
+        4,
+        0,
+        3
+      ]
+    ],
+    [
+      "FrostBlades&ColdPenetration",
+      "Verringert den Kältewiderstand von Gegnern und lässt diese durch 'Frostklingen' mehr Kälteschaden erleiden.",
+      "http://web.poecdn.com/public/videos/FrostBlades/FrostBlades+ColdPenetration.bk2",
+      173,
+      "http://down.qq.com/poe/videos/skills/FrostBlades/Frostblades+ColdPenetration.bk2",
+      []
+    ],
+    [
+      "FrostBlades&ElementalDamageWithAttacks",
+      "Multipliziert den Elementarschaden, der mit 'Frostklingen' verursacht wird. Der Nutzen dieser Unterstützungsgemme wird maximiert, indem man sämtlichen physischen Schaden von 'Frostklingen' in Elementarschaden umwandelt.",
+      "http://web.poecdn.com/public/videos/FrostBlades/FrostBlades+ElementalDamagewithAttacks.bk2",
+      112,
+      "http://down.qq.com/poe/videos/skills/FrostBlades/FrostBlade+WeaponElementalDamage.bk2",
+      []
+    ],
+    [
+      "FrostBlades&MeleePhysical",
+      "Gewährt 'Frostklingen' mehr physischen Nahkampfschaden und erhöht gleichzeitig den Kälteschaden, da 60 % des physischen Schadens in Kälteschaden umgewandelt werden.",
+      "http://web.poecdn.com/public/videos/FrostBlades/FrostBlades+MeleePhysicalDamage.bk2",
+      82,
+      "http://down.qq.com/poe/videos/skills/FrostBlades/Frostblades+MeleePhysicalDamage.bk2",
+      []
+    ],
+    [
+      "FrostBlades&Multistrike",
+      "Bewirkt, dass sich 'Frostklingen' zwei zusätzliche Male wiederholt und gewährt einen großen Bonus auf die Angriffsgeschwindigkeit.",
+      "http://web.poecdn.com/public/videos/FrostBlades/FrostBlades+Multistrike.bk2",
+      187,
+      "http://down.qq.com/poe/videos/skills/FrostBlades/Frostblades+Multistrike.bk2",
+      []
+    ],
+    [
+      "FrostBlades&SlowerProjectiles",
+      "Verringert die maximale Reichweite der Frostklingen-Projektile, gewährt diesen jedoch zusätzlichen Schaden.",
+      "http://web.poecdn.com/public/videos/FrostBlades/FrostBlades+SlowerProjectiles.bk2",
+      209,
+      "http://down.qq.com/poe/videos/skills/FrostBlades/Frostblades+SlowerProjectiles.bk2",
+      []
+    ],
+    [
+      "ViperStrike&MeleeSplash",
+      "Bewirkt, dass Treffer mit 'Vipernschlag' an Zielen im Umkreis Streuschaden verursachen. Gepaart mit 'Unterstützung: Ruf der Ahnen' werden große Schadensbereiche erzeugt, die sich überlappen.",
+      "http://web.poecdn.com/public/videos/ViperStrike/ViperStrike+MeleeSplash.bk2",
+      189,
+      "http://down.qq.com/poe/videos/skills/ViperStrike/ViperStrike+MeleeSplash.bk2",
+      [
+        6,
+        2,
+        4,
+        0,
+        1,
+        5,
+        3
+      ]
+    ],
+    [
+      "ViperStrike&AncestralCall",
+      "Sorgt dafür, dass 'Vipernschlag' zwei weitere Gegner im Umkreis ins Ziel nimmt. Gepaart mit 'Unterstützung: Nahkampf-Streuschaden' werden große Schadensbereiche erzeugt, die sich überlappen.",
+      "http://web.poecdn.com/public/videos/ViperStrike/ViperStrike+AncestralCall.bk2",
+      346,
+      "http://down.qq.com/poe/videos/skills/ViperStrike/ViperStrike+AncestralCall.bk2",
+      [
+        6,
+        2,
+        4,
+        0,
+        3
+      ]
+    ],
+    [
+      "ViperStrike&DeadlyAilments",
+      "Verringert den Trefferschaden und gewährt im Gegenzug mehr Schaden mit Beeinträchtigungen. Dadurch verursacht das Gift, das durch 'Vipernschlag' angewendet wird, deutlich mehr Schaden über Zeit.",
+      "http://web.poecdn.com/public/videos/ViperStrike/ViperStrike+DeadlyAilments.bk2",
+      326,
+      "http://down.qq.com/poe/videos/skills/ViperStrike/ViperStrike+DeadlyAilments.bk2",
+      []
+    ],
+    [
+      "ViperStrike&MeleePhysical",
+      "Gewährt 'Vipernschlag' mehr physischen Nahkampfschaden und erhöht gleichzeitig den Schaden, der durch angewendetes Bluten und Gift verursacht wird.",
+      "http://web.poecdn.com/public/videos/ViperStrike/ViperStrike+MeleePhysicalDamage.bk2",
+      82,
+      "http://down.qq.com/poe/videos/skills/ViperStrike/ViperStrike+MeleePhysicalDamage.bk2",
+      []
+    ],
+    [
+      "ViperStrike&Multistrike",
+      "Bewirkt, dass sich 'Vipernschlag' zwei zusätzliche Male wiederholt und gewährt einen großen Bonus auf die Angriffsgeschwindigkeit.",
+      "http://web.poecdn.com/public/videos/ViperStrike/ViperStrike+Multistrike.bk2",
+      187,
+      "http://down.qq.com/poe/videos/skills/ViperStrike/ViperStrike+Multistrike.bk2",
+      []
+    ],
+    [
+      "ViperStrike&VileToxins",
+      "Erhöht den Schaden mit Gift, das 'Vipernschlag' auf Gegner anwendet. Zusätzlich verursachen die Treffer mit 'Vipernschlag' 5% mehr Schaden pro Giftstapel auf dem Gegner.",
+      "http://web.poecdn.com/public/videos/ViperStrike/ViperStrike+VileToxins.bk2",
+      330,
+      "http://down.qq.com/poe/videos/skills/ViperStrike/ViperStrike+VileToxins.bk2",
+      []
+    ],
+    [
+      "SpectralThrow&ChanceToBleed",
+      "Erhöht die Chance, mit 'Spektralwurf' bei Gegnern Bluten zu verursachen. Bluten  verursacht physischen Schaden über Zeit, der bei Zielen, die sich bewegen, höher ausfällt. Diese Unterstützungsgemme fügt 'Spektralwurf' außerdem eine kleine Menge an physischem Schaden hinzu.",
+      "http://web.poecdn.com/public/videos/SpectralThrow/SpectralThrow+ChancetoBleed.bk2",
+      324,
+      "http://down.qq.com/poe/videos/skills/SpectralThrow/SpectralThrow+ChancetoBleed.bk2",
+      [
+        4,
+        6,
+        2,
+        0,
+        3
+      ]
+    ],
+    [
+      "SpectralThrow&LMP",
+      "Erhöht die Projektilanzahl von 'Spektralwurf', wodurch man gleichzeitig mehr Ziele auf einmal treffen kann.\n\nIm späteren Spielverlauf kann man die Gemme durch 'Unterstützung: Größere Projektilaufteilung' ersetzen, um damit Gegner in einem größeren Bereich zu treffen.",
+      "http://web.poecdn.com/public/videos/SpectralThrow/SpectralThrow+LesserMultipleProjectiles.bk2",
+      36,
+      "http://down.qq.com/poe/videos/skills/SpectralThrow/SpectralThrow+LowerMultipleProjectiles.bk2",
+      [
+        2,
+        4,
+        5,
+        3,
+        1
+      ]
+    ],
+    [
+      "SpectralThrow&Maim",
+      "Gewährt 'Spektralwurf' eine Chance, Gegner bei Treffer zu verstümmeln. Verstümmelte Gegner haben eine verringerte Bewegungsgeschwindigkeit und erleiden erhöhten physischen Schaden. Diese Unterstützungsgemme gewährt 'Spektralwurf' außerdem mehr physischen Schaden.",
+      "http://web.poecdn.com/public/videos/SpectralThrow/SpectralThrow+Maim.bk2",
+      331,
+      "http://down.qq.com/poe/videos/skills/SpectralThrow/SpectralThrow+Maim.bk2",
+      [
+        2,
+        4,
+        0,
+        3
+      ]
+    ],
+    [
+      "SpectralThrow&PhysicalToLightning",
+      "Wandelt 50 % des physischen Schadens von 'Spektralwurf' in Blitzschaden um und gewährt zusätzlichen Blitzschaden, der auf dem physischen Schaden basiert.",
+      "http://web.poecdn.com/public/videos/SpectralThrow/SpectralThrow+PhysicaltoLightning.bk2",
+      264,
+      "http://down.qq.com/poe/videos/skills/SpectralThrow/SpectralThrow+PhysicaltoLightning.bk2",
+      []
+    ],
+    [
+      "SpectralThrow&PhysicalProjectileAttack",
+      "Gewährt 'Spektralwurf' mehr physischen Schaden und mehr Schaden mit Bluten und Gift.",
+      "http://web.poecdn.com/public/videos/SpectralThrow/SpectralThrow+ProjectileDamage.bk2",
+      230,
+      "http://down.qq.com/poe/videos/skills/SpectralThrow/SpectralThrow+ProjectileDamage.bk2",
+      []
+    ],
+    [
+      "SpectralThrow&SlowerProjectiles",
+      "Verringert die maximale Reichweite der Spektralwurf-Projektile, wodurch diese früher zurückkehren und Gegner ein zweites Mal treffen können. Die Unterstützungsgemme gewährt außerdem mehr Projektilschaden.",
+      "http://web.poecdn.com/public/videos/SpectralThrow/SpectralThrow+SlowerProjectiles.bk2",
+      209,
+      "http://down.qq.com/poe/videos/skills/SpectralThrow/SpectralThrow+SlowerProjectiles.bk2",
+      []
+    ],
+    [
+      "IceShot&ColdPenetration",
+      "Verringert den Kältewiderstand von Gegnern und lässt diese durch 'Eisgeschoss' mehr Kälteschaden erleiden.",
+      "http://web.poecdn.com/public/videos/Iceshot/Iceshot+ColdPenetration.bk2",
+      173,
+      "http://down.qq.com/poe/videos/skills/IceShot/IceShot+ColdPenetration.bk2",
+      []
+    ],
+    [
+      "IceShot&LMP",
+      "Erhöht die Projektilanzahl von 'Eisgeschoss', wodurch man gleichzeitig mehr Ziele auf einmal treffen kann.\n\nIm späteren Spielverlauf kann man die Gemme durch 'Unterstützung: Größere Projektilaufteilung' ersetzen, um damit Gegner in einem größeren Bereich zu treffen.",
+      "http://web.poecdn.com/public/videos/Iceshot/Iceshot+LesserMultipleProjectiles.bk2",
+      36,
+      "http://down.qq.com/poe/videos/skills/IceShot/Iceshot+LesserMultipleProjectiles.bk2",
+      [
+        2,
+        4,
+        5,
+        3,
+        1
+      ]
+    ],
+    [
+      "IceShot&MirageArcher",
+      "Wenn 'Eisgeschoss' einen Gegner trifft, erscheint über dem Kopf des Charakters ein Phantombogenschütze, der eine Kopie von 'Eisgeschoss' benutzt und diese mit verringerter Rate und weniger Schaden auf Gegner feuert.",
+      "http://web.poecdn.com/public/videos/Iceshot/Iceshot+MirageArcher.bk2",
+      348,
+      "http://down.qq.com/poe/videos/skills/IceShot/Iceshot+MirageArcher.bk2",
+      [
+        2,
+        4,
+        5,
+        3
+      ]
+    ],
+    [
+      "IceShot&Pierce",
+      "Bewirkt, dass die Projektile von 'Eisgeschoss' weitere Gegner überwinden und stellt sicher, dass möglichst viele Gegner in einer Gruppe von den Projektilen getroffen werden.",
+      "http://web.poecdn.com/public/videos/Iceshot/Iceshot+Pierce.bk2",
+      69,
+      "http://down.qq.com/poe/videos/skills/IceShot/Iceshot+Pierce.bk2",
+      [
+        3,
+        2,
+        4,
+        5
+      ]
+    ],
+    [
+      "IceShot&SlowerProjectiles",
+      "Verringert zwar die Projektilgeschwindigkeit von 'Eisgeschoss', gewährt jedoch mehr Projektilschaden.",
+      "http://web.poecdn.com/public/videos/Iceshot/Iceshot+SlowerProjectiles.bk2",
+      209,
+      "http://down.qq.com/poe/videos/skills/IceShot/Iceshot+SlowerProjectiles.bk2",
+      []
+    ],
+    [
+      "IceShot&ElementalDamageWithAttacks",
+      "Multipliziert den Elementarschaden, der mit 'Eisgeschoss' verursacht wird. Der Nutzen dieser Unterstützungsgemme wird maximiert, indem man sämtlichen physischen Schaden von 'Eisgeschoss' in Elementarschaden umwandelt.",
+      "http://web.poecdn.com/public/videos/Iceshot/Iceshot+WeaponElementalDamage.bk2",
+      112,
+      "http://down.qq.com/poe/videos/skills/IceShot/Iceshot+WeaponElementalDamage.bk2",
+      []
+    ],
+    [
+      "ShrapnelShot&LMP",
+      "Erhöht die Projektilanzahl von 'Schrapnellschuss', wodurch man gleichzeitig mehr Ziele auf einmal treffen kann.\n\nIm späteren Spielverlauf kann man die Gemme durch 'Unterstützung: Größere Projektilaufteilung' ersetzen, um damit Gegner in einem größeren Bereich zu treffen.",
+      "http://web.poecdn.com/public/videos/ShrapnelShot/ShrapnelShot+LesserMultipleProjectiles.bk2",
+      36,
+      "http://down.qq.com/poe/videos/skills/ShrapnelShot/ShrapnelShot+LesserMultipleProjectiles.bk2",
+      [
+        2,
+        4,
+        5,
+        3,
+        1
+      ]
+    ],
+    [
+      "ShrapnelShot&LightningPenetration",
+      "Verringert den Blitzwiderstand von Gegnern und lässt diese durch 'Schrapnellschuss' mehr Blitzschaden erleiden.",
+      "http://web.poecdn.com/public/videos/ShrapnelShot/ShrapnelShot+LightningPenetration.bk2",
+      174,
+      "http://down.qq.com/poe/videos/skills/ShrapnelShot/ShrapnelShot+LightningPenetration.bk2",
+      []
+    ],
+    [
+      "ShrapnelShot&MirageArcher",
+      "Wenn 'Schrapnellschuss' einen Gegner trifft, erscheint über dem Kopf des Charakters ein Phantombogenschütze, der eine Kopie von 'Schrapnellschuss' benutzt und diese mit verringerter Rate und weniger Schaden auf Gegner feuert.",
+      "http://web.poecdn.com/public/videos/ShrapnelShot/ShrapnelShot+MirageArcher.bk2",
+      348,
+      "http://down.qq.com/poe/videos/skills/ShrapnelShot/ShrapnelShot+MirageArcher.bk2",
+      [
+        2,
+        4,
+        5,
+        3
+      ]
+    ],
+    [
+      "ShrapnelShot&PhysicalToLightning",
+      "Wandelt 50 % des physischen Schadens von 'Schrapnellschuss' in Blitzschaden um und gewährt zusätzlichen Blitzschaden, der auf dem physischen Schaden basiert.",
+      "http://web.poecdn.com/public/videos/ShrapnelShot/ShrapnelShot+PhysicaltoLightning.bk2",
+      264,
+      "http://down.qq.com/poe/videos/skills/ShrapnelShot/ShrapnelShot+PhysicaltoLightning.bk2",
+      []
+    ],
+    [
+      "ShrapnelShot&SlowerProjectiles",
+      "Verringert zwar die Projektilgeschwindigkeit von 'Schrapnellschuss', gewährt jedoch mehr Projektilschaden.",
+      "http://web.poecdn.com/public/videos/ShrapnelShot/ShrapnelShot+SlowerProjectiles.bk2",
+      209,
+      "http://down.qq.com/poe/videos/skills/ShrapnelShot/ShrapnelShot+SlowerProjectiles.bk2",
+      []
+    ],
+    [
+      "ShrapnelShot&ElementalDamageWithAttacks",
+      "Multipliziert den Elementarschaden, der mit 'Schrapnellschuss' verursacht wird. Der Nutzen dieser Unterstützungsgemme wird maximiert, indem man sämtlichen physischen Schaden von 'Schrapnellschuss' in Elementarschaden umwandelt.",
+      "http://web.poecdn.com/public/videos/ShrapnelShot/ShrapnelShot+WeaponElementalDamage.bk2",
+      112,
+      "http://down.qq.com/poe/videos/skills/ShrapnelShot/ShrapnelShot+WeaponElementalDamage.bk2",
+      []
+    ],
+    [
+      "SplitArrow&AddedFireDamage",
+      "Gewährt zusätzlichen Feuerschaden, der auf dem physischen Schaden basiert.",
+      "http://web.poecdn.com/public/videos/SplitArrow/SplitArrow+AddedFireDamage.bk2",
+      33,
+      "http://down.qq.com/poe/videos/skills/SplitArrow/SplitArrow+AddedFireDamage.bk2",
+      [
+        6,
+        2,
+        4,
+        0,
+        5,
+        3
+      ]
+    ],
+    [
+      "SplitArrow&ElementalDamageWithAttacks",
+      "Multipliziert den Elementarschaden, der mit 'Pfeilfächer' verursacht wird.",
+      "http://web.poecdn.com/public/videos/SplitArrow/SplitArrow+ElementalDamagewithAttacks.bk2",
+      112,
+      "http://down.qq.com/poe/videos/skills/SplitArrow/SplitArrow+ElementalDamagewithAttacks.bk2",
+      []
+    ],
+    [
+      "SplitArrow&MirageArcher",
+      "Wenn 'Pfeilfächer' einen Gegner trifft, erscheint über dem Kopf des Charakters ein Phantombogenschütze, der eine Kopie von 'Pfeilfächer' benutzt und diese mit verringerter Rate und weniger Schaden auf Gegner feuert.",
+      "http://web.poecdn.com/public/videos/SplitArrow/SplitArrow+MirageArcher.bk2",
+      348,
+      "http://down.qq.com/poe/videos/skills/SplitArrow/SplitArrow+MirageArcher.bk2",
+      [
+        2,
+        4,
+        5,
+        3
+      ]
+    ],
+    [
+      "SplitArrow&PhysicalProjectileAttackDamage",
+      "Gewährt 'Pfeilfächer' mehr physischen Schaden und mehr Schaden mit Bluten und Gift.",
+      "http://web.poecdn.com/public/videos/SplitArrow/SplitArrow+PhysicalProjectileAttackDamage.bk2",
+      230,
+      "http://down.qq.com/poe/videos/skills/SplitArrow/SplitArrow+ViciousProjectiles.bk2",
+      []
+    ],
+    [
+      "SplitArrow&PhysicalToLightning",
+      "Wandelt 50 % des physischen Schadens von 'Pfeilfächer' in Blitzschaden um und gewährt zusätzlichen Blitzschaden, der auf dem physischen Schaden basiert.",
+      "http://web.poecdn.com/public/videos/SplitArrow/SplitArrow+PhysicaltoLightning.bk2",
+      264,
+      "http://down.qq.com/poe/videos/skills/SplitArrow/SplitArrow+PhysicaltoLightning.bk2",
+      []
+    ],
+    [
+      "SplitArrow&Pierce",
+      "Bewirkt, dass die Projektile von 'Pfeilfächer' weitere Gegner überwinden und stellt sicher, dass möglichst viele Gegner in einer Gruppe von den Projektilen getroffen werden.",
+      "http://web.poecdn.com/public/videos/SplitArrow/SplitArrow+Pierce.bk2",
+      69,
+      "http://down.qq.com/poe/videos/skills/SplitArrow/SplitArrow+Pierce.bk2",
+      [
+        3,
+        2,
+        4,
+        5
+      ]
+    ],
+    [
+      "GroundSlam&Brutality",
+      "Gewährt 'Schmetterhieb' deutlich erhöhten Schaden, bewirkt allerdings, dass man mit der Fertigkeit keinen Chaos- oder Elementarschaden verursachen kann. Für diese Unterstützungsgemme empfiehlt sich eine Waffe, die auf physischen Schaden ausgerichtet ist.",
+      "http://web.poecdn.com/public/videos/GroundSlam/GroundSlam+Brutality.bk2",
+      334,
+      "http://down.qq.com/poe/videos/skills/GroundSlam/GroundSlam+Brutality.bk2",
+      []
+    ],
+    [
+      "GroundSlam&ChanceToBleed",
+      "Erhöht die Chance, mit 'Schmetterhieb' bei Gegnern Bluten zu verursachen. Bluten  verursacht physischen Schaden über Zeit, der bei Zielen, die sich bewegen, höher ausfällt. Diese Unterstützungsgemme fügt 'Schmetterhieb' außerdem eine kleine Menge an physischem Schaden hinzu.",
+      "http://web.poecdn.com/public/videos/GroundSlam/GroundSlam+ChancetoBleed.bk2",
+      324,
+      "http://down.qq.com/poe/videos/skills/GroundSlam/GroundSlam+ChancetoBleed.bk2",
+      [
+        4,
+        6,
+        2,
+        0,
+        3
+      ]
+    ],
+    [
+      "GroundSlam&IncreasedAreaOfEffect",
+      "Vergrößert den Wirkungsbereich von 'Schmetterhieb', wodurch gleichzeitig mehr Gegner getroffen werden können.",
+      "http://web.poecdn.com/public/videos/GroundSlam/GroundSlam+IncreasedAreaofEffect.bk2",
+      40,
+      "http://down.qq.com/poe/videos/skills/GroundSlam/GroundSlam+IncreasedAreaofEffect.bk2",
+      []
+    ],
+    [
+      "GroundSlam&Maim",
+      "Gewährt 'Schmetterhieb' eine Chance, Gegner bei Treffer zu verstümmeln. Verstümmelte Gegner haben eine verringerte Bewegungsgeschwindigkeit und erleiden erhöhten physischen Schaden. Diese Unterstützungsgemme gewährt 'Schmetterhieb' außerdem mehr physischen Schaden.",
+      "http://web.poecdn.com/public/videos/GroundSlam/GroundSlam+Maim.bk2",
+      331,
+      "http://down.qq.com/poe/videos/skills/GroundSlam/GroundSlam+Maim.bk2",
+      [
+        2,
+        4,
+        0,
+        3
+      ]
+    ],
+    [
+      "GroundSlam&MeleePhysicalDamage",
+      "Gewährt 'Schmetterhieb' mehr physischen Nahkampfschaden und erhöht gleichzeitig den Schaden, der durch angewendetes Bluten und Gift verursacht wird.",
+      "http://web.poecdn.com/public/videos/GroundSlam/GroundSlam+MeleePhysicalDamage.bk2",
+      82,
+      "http://down.qq.com/poe/videos/skills/GroundSlam/GroundSlam+MeleePhysicalDamage.bk2",
+      []
+    ],
+    [
+      "GroundSlam&Multistrike",
+      "Bewirkt, dass sich 'Schmetterhieb' zwei zusätzliche Male wiederholt und gewährt einen großen Bonus auf die Angriffsgeschwindigkeit.",
+      "http://web.poecdn.com/public/videos/GroundSlam/GroundSlam+Multistrike.bk2",
+      187,
+      "http://down.qq.com/poe/videos/skills/GroundSlam/GroundSlam+Multistrike.bk2",
+      []
+    ],
+    [
+      "HeavyStrike&AncestralCall",
+      "Sorgt dafür, dass 'Heftiger Schlag' zwei weitere Gegner im Umkreis ins Ziel nimmt. Gepaart mit 'Unterstützung: Nahkampf-Streuschaden' werden große Schadensbereiche erzeugt, die sich überlappen.",
+      "http://web.poecdn.com/public/videos/HeavyStrike/HeavyStrike+AncestralCall.bk2",
+      346,
+      "http://down.qq.com/poe/videos/skills/HeavyStrike/HeavyStrike+AncestralCall.bk2",
+      [
+        6,
+        2,
+        4,
+        0,
+        3
+      ]
+    ],
+    [
+      "HeavyStrike&Brutality",
+      "Gewährt 'Heftiger Schlag' deutlich erhöhten Schaden, bewirkt allerdings, dass man mit der Fertigkeit keinen Chaos- oder Elementarschaden verursachen kann. Für diese Unterstützungsgemme empfiehlt sich eine Waffe, die auf physischen Schaden ausgerichtet ist.",
+      "http://web.poecdn.com/public/videos/HeavyStrike/HeavyStrike+Brutality.bk2",
+      334,
+      "http://down.qq.com/poe/videos/skills/HeavyStrike/HeavyStrike+Brutality.bk2",
+      []
+    ],
+    [
+      "HeavyStrike&ChanceToBleed",
+      "Erhöht die Chance, mit 'Heftiger Schlag' bei Gegnern Bluten zu verursachen. Bluten verursacht physischen Schaden über Zeit, der bei Zielen, die sich bewegen, höher ausfällt. Diese Unterstützungsgemme fügt 'Heftiger Schlag' außerdem eine kleine Menge an physischem Schaden hinzu.",
+      "http://web.poecdn.com/public/videos/HeavyStrike/HeavyStrike+ChancetoBleed.bk2",
+      324,
+      "http://down.qq.com/poe/videos/skills/HeavyStrike/HeavyStrike+ChancetoBleed.bk2",
+      [
+        4,
+        6,
+        2,
+        0,
+        3
+      ]
+    ],
+    [
+      "HeavyStrike&MeleePhysicalDamage",
+      "Gewährt 'Heftiger Schlag' mehr physischen Nahkampfschaden und erhöht gleichzeitig den Schaden, der durch angewendetes Bluten und Gift verursacht wird.",
+      "http://web.poecdn.com/public/videos/HeavyStrike/HeavyStrike+MeleePhysicalDamage.bk2",
+      82,
+      "http://down.qq.com/poe/videos/skills/HeavyStrike/HeavyStrike+MeleePhysicalDamage.bk2",
+      []
+    ],
+    [
+      "HeavyStrike&MeleeSplash",
+      "Bewirkt, dass Treffer mit 'Heftiger Schlag' an Zielen im Umkreis Streuschaden verursachen. Gepaart mit 'Unterstützung: Ruf der Ahnen' werden große Schadensbereiche erzeugt, die sich überlappen.",
+      "http://web.poecdn.com/public/videos/HeavyStrike/HeavyStrike+MeleeSplash.bk2",
+      189,
+      "http://down.qq.com/poe/videos/skills/HeavyStrike/HeavyStrike+MeleeSplash.bk2",
+      [
+        6,
+        2,
+        4,
+        0,
+        1,
+        5,
+        3
+      ]
+    ],
+    [
+      "HeavyStrike&Multistrike",
+      "Bewirkt, dass sich 'Heftiger Schlag' zwei zusätzliche Male wiederholt und gewährt einen großen Bonus auf die Angriffsgeschwindigkeit.",
+      "http://web.poecdn.com/public/videos/HeavyStrike/HeavyStrike+Multistrike.bk2",
+      187,
+      "http://down.qq.com/poe/videos/skills/HeavyStrike/HeavyStrike+Multistrike.bk2",
+      []
+    ],
+    [
+      "Cleave&ChanceToBleed",
+      "Erhöht die Chance, mit 'Spalten' bei Gegnern Bluten zu verursachen. Bluten verursacht physischen Schaden über Zeit, der bei Zielen, die sich bewegen, höher ausfällt. Diese Unterstützungsgemme fügt 'Spalten' außerdem eine kleine Menge an physischem Schaden hinzu.",
+      "http://web.poecdn.com/public/videos/Cleave/Cleave+ChancetoBleed.bk2",
+      324,
+      "http://down.qq.com/poe/videos/skills/Cleave/Cleave+ChancetoBleed.bk2",
+      [
+        4,
+        6,
+        2,
+        0,
+        3
+      ]
+    ],
+    [
+      "Cleave&ConcentratedEffect",
+      "Verringert zwar den Wirkungsbereich, erhöht dafür aber beträchtlich den Schaden, den 'Spalten' verursacht, weshalb sich die Unterstützungsgemme besonders gegen schwierige Einzelgegner eignet.",
+      "http://web.poecdn.com/public/videos/Cleave/Cleave+ConcentratedEffect.bk2",
+      105,
+      "http://down.qq.com/poe/videos/skills/Cleave/Cleave+ConcentratedEffect.bk2",
+      []
+    ],
+    [
+      "Cleave&IncreasedAreaOfEffect",
+      "Vergrößert den Wirkungsbereich von 'Spalten', wodurch gleichzeitig mehr Gegner getroffen werden können.",
+      "http://web.poecdn.com/public/videos/Cleave/Cleave+IncreasedAreaofEffect.bk2",
+      40,
+      "http://down.qq.com/poe/videos/skills/Cleave/Cleave+IncreasedArea.bk2",
+      []
+    ],
+    [
+      "Cleave&Maim",
+      "Gewährt 'Spalten' eine Chance, Gegner bei Treffer zu verstümmeln. Verstümmelte Gegner haben eine verringerte Bewegungsgeschwindigkeit und erleiden erhöhten physischen Schaden. Diese Unterstützungsgemme gewährt 'Spalten' außerdem mehr physischen Schaden.",
+      "http://web.poecdn.com/public/videos/Cleave/Cleave+Maim.bk2",
+      331,
+      "http://down.qq.com/poe/videos/skills/Cleave/Cleave+Maim.bk2",
+      [
+        2,
+        4,
+        0,
+        3
+      ]
+    ],
+    [
+      "Cleave&MeleePhysical",
+      "Gewährt 'Spalten' mehr physischen Nahkampfschaden und erhöht gleichzeitig den Schaden, der durch angewendetes Bluten und Gift verursacht wird.",
+      "http://web.poecdn.com/public/videos/Cleave/Cleave+MeleePhysicalDamage.bk2",
+      82,
+      "http://down.qq.com/poe/videos/skills/Cleave/Cleave+MeleePhysicalDamage.bk2",
+      []
+    ],
+    [
+      "Cleave&Multistrike",
+      "Bewirkt, dass sich 'Spalten' zwei zusätzliche Male wiederholt und gewährt einen großen Bonus auf die Angriffsgeschwindigkeit.",
+      "http://web.poecdn.com/public/videos/Cleave/Cleave+Multistrike.bk2",
+      187,
+      "http://down.qq.com/poe/videos/skills/Cleave/Cleave+Multistrike.bk2",
+      []
+    ],
+    [
+      "DoubleStrike&AncestralCall",
+      "Sorgt dafür, dass 'Doppelschlag' zwei weitere Gegner im Umkreis ins Ziel nimmt. Gepaart mit 'Unterstützung: Nahkampf-Streuschaden' werden große Schadensbereiche erzeugt, die sich überlappen.",
+      "http://web.poecdn.com/public/videos/DoubleStrike/DoubleStrike+AncestralCall.bk2",
+      346,
+      "http://down.qq.com/poe/videos/skills/DoubleStrike/Doublestrike+AncestralCall.bk2",
+      [
+        6,
+        2,
+        4,
+        0,
+        3
+      ]
+    ],
+    [
+      "DoubleStrike&ChanceToBleed",
+      "Erhöht die Chance, mit 'Doppelschlag' bei Gegnern Bluten zu verursachen. Bluten verursacht physischen Schaden über Zeit, der bei Zielen, die sich bewegen, höher ausfällt. Diese Unterstützungsgemme fügt 'Doppelschlag' außerdem eine kleine Menge an physischem Schaden hinzu.",
+      "http://web.poecdn.com/public/videos/DoubleStrike/DoubleStrike+ChancetoBleed.bk2",
+      324,
+      "http://down.qq.com/poe/videos/skills/DoubleStrike/Doublestrike+ChancetoBleed.bk2",
+      [
+        4,
+        6,
+        2,
+        0,
+        3
+      ]
+    ],
+    [
+      "DoubleStrike&MeleePhysical",
+      "Gewährt 'Doppelschlag' mehr physischen Nahkampfschaden und erhöht gleichzeitig den Schaden, der durch angewendetes Bluten und Gift verursacht wird.",
+      "http://web.poecdn.com/public/videos/DoubleStrike/DoubleStrike+MeleePhysicalDamage.bk2",
+      82,
+      "http://down.qq.com/poe/videos/skills/DoubleStrike/DoubleStrike+MeleePhysicalDamage.bk2",
+      []
+    ],
+    [
+      "DoubleStrike&Fortify",
+      "Wendet eine Stärkung an, die den eingehenden Schaden von allen Treffern verringert und gleichzeitig den physischen Nahkampfschaden von 'Doppelschlag' erhöht.",
+      "http://web.poecdn.com/public/videos/DoubleStrike/Doublestrike+Fortify.bk2",
+      276,
+      "http://down.qq.com/poe/videos/skills/DoubleStrike/Doublestrike+Fortify.bk2",
+      []
+    ],
+    [
+      "DoubleStrike&MeleeSplash",
+      "Bewirkt, dass Treffer mit 'Doppelschlag' an Zielen im Umkreis Streuschaden verursachen. Gepaart mit 'Unterstützung: Ruf der Ahnen' werden große Schadensbereiche erzeugt, die sich überlappen.",
+      "http://web.poecdn.com/public/videos/DoubleStrike/Doublestrike+MeleeSplash.bk2",
+      189,
+      "http://down.qq.com/poe/videos/skills/DoubleStrike/Doublestrike+MeleeSplash.bk2",
+      [
+        6,
+        2,
+        4,
+        0,
+        1,
+        5,
+        3
+      ]
+    ],
+    [
+      "DoubleStrike&Multistrike",
+      "Bewirkt, dass sich 'Doppelschlag' zwei zusätzliche Male wiederholt und gewährt einen großen Bonus auf die Angriffsgeschwindigkeit.",
+      "http://web.poecdn.com/public/videos/DoubleStrike/Doublestrike+Multistrike.bk2",
+      187,
+      "http://down.qq.com/poe/videos/skills/DoubleStrike/Doublestrike+Multistrike.bk2",
+      []
+    ],
+    [
+      "MoltenStrike&AncestralCall",
+      "Sorgt dafür, dass 'Lavaschlag' zwei weitere Gegner im Umkreis ins Ziel nimmt. Wenn sich mindestens drei Gegner im Umkreis befinden, kann dies zu einer Verdreifachung der Lavaschlag-Projektile führen.",
+      "http://web.poecdn.com/public/videos/MoltenStrike/MoltenStrike+AncestralCall.bk2",
+      346,
+      "http://down.qq.com/poe/videos/skills/MoltenStrike/MoltenStrike+AncestralCall.bk2",
+      [
+        6,
+        2,
+        4,
+        0,
+        3
+      ]
+    ],
+    [
+      "MoltenStrike&ConcerntratedEffect",
+      "Verringert zwar den Wirkungsbereich, erhöht dafür aber beträchtlich den Schaden, den 'Lavaschlag' verursacht, weshalb sich die Unterstützungsgemme besonders gegen schwierige Einzelgegner eignet.",
+      "http://web.poecdn.com/public/videos/MoltenStrike/MoltenStrike+ConcentratedEffect.bk2",
+      105,
+      "http://down.qq.com/poe/videos/skills/MoltenStrike/MoltenStrike+ConcentratedEffect.bk2",
+      []
+    ],
+    [
+      "MoltenStrike&ElementalDamageWithAttacks",
+      "Multipliziert den Elementarschaden, der mit 'Lavaschlag' verursacht wird. Der Nutzen dieser Unterstützungsgemme wird maximiert, indem man sämtlichen physischen Schaden von 'Lavaschlag' in Elementarschaden umwandelt.",
+      "http://web.poecdn.com/public/videos/MoltenStrike/MoltenStrike+ElementalDamagewithAttacks.bk2",
+      112,
+      "http://down.qq.com/poe/videos/skills/MoltenStrike/MoltenStrike+WeaponElementalDamage.bk2",
+      []
+    ],
+    [
+      "MoltenStrike&MeleePhysical",
+      "Gewährt 'Lavaschlag' mehr physischen Nahkampfschaden und erhöht gleichzeitig den Feuerschaden, da 60 % des physischen Schadens in Feuerschaden umgewandelt werden.",
+      "http://web.poecdn.com/public/videos/MoltenStrike/MoltenStrike+MeleePhysicalDamage.bk2",
+      82,
+      "http://down.qq.com/poe/videos/skills/MoltenStrike/MoltenStrike+MeleePhysicalDamage.bk2",
+      []
+    ],
+    [
+      "MoltenStrike&Multistrike",
+      "Bewirkt, dass sich 'Lavaschlag' zwei zusätzliche Male wiederholt und gewährt einen großen Bonus auf die Angriffsgeschwindigkeit.",
+      "http://web.poecdn.com/public/videos/MoltenStrike/MoltenStrike+Multistrike.bk2",
+      187,
+      "http://down.qq.com/poe/videos/skills/MoltenStrike/MoltenStrike+Multistrike.bk2",
+      []
+    ],
+    [
+      "MoltenStrike&ElementalFocus",
+      "Nimmt zwar die Fähigkeit, durch 'Lavaschlag' bei Gegnern Beeinträchtigungen zu verursachen (wie zum Beispiel Entzünden), führt jedoch zu einer beträchtlichen Steigerung des Elementarschadens. Der Nutzen dieser Unterstützungsgemme wird maximiert, indem man sämtlichen physischen Schaden von 'Lavaschlag' in Elementarschaden umwandelt.",
+      "http://web.poecdn.com/public/videos/MoltenStrike/MoltenStrike+ElementalFocus.bk2",
+      314,
+      "http://down.qq.com/poe/videos/skills/MoltenStrike/MoltenStrike+ElementalFocus.bk2",
+      []
+    ],
+    [
+      "Blight&VoidManipulation",
+      "Gewährt 'Pesthauch' mehr Chaosschaden, verringert allerdings den Elementarschaden. Da 'Pesthauch' jedoch ausschließlich Chaosschaden verursacht, gewährt 'Unterstützung: Manipulation der Leere' mehr Schaden ohne Nachteile.",
+      "http://web.poecdn.com/public/videos/Blight/Blight+VoidManipulation.bk2",
+      304,
+      "http://down.qq.com/poe/videos/skills/Blight/Blight+VoidManipulation.bk2",
+      [
+        6,
+        2,
+        1,
+        5,
+        3
+      ]
+    ],
+    [
+      "LightningTendrils&ConcentratedEffect",
+      "Verringert zwar den Wirkungsbereich, erhöht dafür aber beträchtlich den Schaden, den 'Blitzranken' verursacht, weshalb sich die Unterstützungsgemme besonders gegen schwierige Einzelgegner eignet.",
+      "http://web.poecdn.com/public/videos/LightningTendrils/LightingTendrils+ConcentratedEffect.bk2",
+      105,
+      "http://down.qq.com/poe/videos/skills/LightningTendrils/LightningTendrils+ConcentratedEffect.bk2",
+      []
+    ],
+    [
+      "LightningTendrils&IncreasedAreaOfEffect",
+      "Vergrößert den Wirkungsbereich von 'Blitzranken', wodurch gleichzeitig mehr Gegner getroffen werden können.",
+      "http://web.poecdn.com/public/videos/LightningTendrils/LightingTendrils+IncreasedAOE.bk2",
+      40,
+      "http://down.qq.com/poe/videos/skills/LightningTendrils/LightningTendrils+IncreasedAOE.bk2",
+      []
+    ],
+    [
+      "CausticArrow&Pierce",
+      "Bewirkt, dass die Projektile von 'Ätzender Pfeil' weitere Gegner überwinden, erzeugt mehrere Flächen ätzenden Bodens und verursacht so gleichzeitig bei mehr Gegnern Schaden.",
+      "http://web.poecdn.com/public/videos/CausticArrow/CausticArrow+Pierce.bk2",
+      69,
+      "http://down.qq.com/poe/videos/skills/CausticArrow/CausticArrow+Pierce.bk2",
+      [
+        3,
+        2,
+        4,
+        5
+      ]
+    ],
+    [
+      "CausticArrow&LMP",
+      "Erhöht die Projektilanzahl von 'Ätzender Pfeil', wodurch ein größerer Bereich abgedeckt wird, indem mehrere Flächen ätzenden Bodens auf einmal erzeugt werden.\n\nIm späteren Spielverlauf kann man die Gemme durch 'Unterstützung: Größere Projektilaufteilung' ersetzen, um damit Gegner in einem größeren Bereich zu beeinflussen.",
+      "http://web.poecdn.com/public/videos/CausticArrow/CausticArrow+LMP.bk2",
+      36,
+      "http://down.qq.com/poe/videos/skills/CausticArrow/CausticArrow+LMP.bk2",
+      [
+        2,
+        4,
+        5,
+        3,
+        1
+      ]
+    ],
+    [
+      "CausticArrow&MirageArcher",
+      "Wenn 'Ätzender Pfeil' einen Gegner trifft, erscheint über dem Kopf des Charakters ein Phantombogenschütze, der eine Kopie von 'Ätzender Pfeil' benutzt und diese mit verringerter Rate und weniger Schaden auf Gegner feuert.",
+      "http://web.poecdn.com/public/videos/CausticArrow/CausticArrow+MirageArcher.bk2",
+      348,
+      "http://down.qq.com/poe/videos/skills/CausticArrow/CausticArrow+MirageArcher.bk2",
+      [
+        2,
+        4,
+        5,
+        3
+      ]
+    ],
+    [
+      "CausticArrow&ViciousProjectiles",
+      "Erhöht beträchtlich den physischen Schaden mit Treffern als auch den Chaosschaden über Zeit, den 'Ätzender Pfeil' verursacht.",
+      "http://web.poecdn.com/public/videos/CausticArrow/CausticArrow+ViciousProjectiles.bk2",
+      230,
+      "http://down.qq.com/poe/videos/skills/CausticArrow/CausticArrow+ViciousProjectiles.bk2",
+      []
+    ],
+    [
+      "CausticArrow&WitheringTouch",
+      "Gewährt extra Chaosschaden, der auf dem physischen Schaden basiert, und eine Chance, die Schwächung 'Verkümmerung' zu verursachen, durch die betroffene Gegner pro Stapel (max. 15) 6% erhöhten Chaosschaden erleiden.",
+      "http://web.poecdn.com/public/videos/CausticArrow/CausticArrow+WitheringTouch.bk2",
+      367,
+      "http://down.qq.com/poe/videos/skills/CausticArrow/CausticArrow+WitheringTouch.bk2",
+      []
+    ],
+    [
+      "CausticArrow&Poison",
+      "Gewährt 'Ätzender Pfeil' eine hohe Chance, bei Treffer die Beeinträchtigung 'Gift' anzuwenden. Gift verursacht Chaosschaden über Zeit, sodass 'Unterstützung: Gift' von dem ätzenden Boden profitiert, den 'Ätzender Pfeil' erzeugt.",
+      "http://web.poecdn.com/public/videos/CausticArrow/CausticArrow+Poison.bk2",
+      298,
+      "http://down.qq.com/poe/videos/skills/CausticArrow/CausticArrow+Poison.bk2",
+      [
+        2,
+        4,
+        5,
+        3
+      ]
+    ],
+    [
+      "Smite&AncestralCall",
+      "Sorgt dafür, dass 'Zerschmettern' zwei weitere Gegner im Umkreis ins Ziel nimmt. Da 'Zerschmettern' ein Angriff mit Wirkungsbereich ist, kann diese Unterstützungsgemme Schadensbereiche erzeugen, die sich überlappen, wodurch sich der Schaden von 'Zerschmettern' stark erhöht.",
+      "http://web.poecdn.com/public/videos/Smite/Smite+AncestralCall.bk2",
+      346,
+      "http://down.qq.com/poe/videos/skills/Smite/Smite+AncestralCall.bk2",
+      [
+        6,
+        2,
+        4,
+        0,
+        3
+      ]
+    ],
+    [
+      "Smite&MeleePhysicalDamage",
+      "Gewährt 'Zerschmettern' mehr physischen Nahkampfschaden und erhöht gleichzeitig den Blitzschaden, da 50 % des physischen Schadens in Blitzschaden umgewandelt werden.",
+      "http://web.poecdn.com/public/videos/Smite/Smite+MeleePhysicalDamage.bk2",
+      82,
+      "http://down.qq.com/poe/videos/skills/Smite/Smite+MeleePhysicalDamage.bk2",
+      []
+    ],
+    [
+      "Smite&PhysicalToLightning",
+      "Wandelt 50 % des physischen Schadens von 'Zerschmettern' in Blitzschaden um und gewährt zusätzlichen Blitzschaden, der auf dem physischen Schaden basiert. Da bei 'Zerschmettern' bereits 50 % in Blitzschaden umgewandelt werden, bewirkt die Kombination mit dieser Unterstützungsgemme, dass sämtlicher physischer Schaden von 'Zerschmettern' in Blitzschaden umgewandelt wird.",
+      "http://web.poecdn.com/public/videos/Smite/Smite+PhysicaltoLightning.bk2",
+      264,
+      "http://down.qq.com/poe/videos/skills/Smite/Smite+PhysicaltoLightning.bk2",
+      []
+    ],
+    [
+      "Smite&ElementalDamageWithAttacks",
+      "Multipliziert den Elementarschaden, der mit 'Zerschmettern' verursacht wird. Der Nutzen dieser Unterstützungsgemme wird maximiert, indem man sämtlichen physischen Schaden von 'Zerschmettern' in Elementarschaden umwandelt.",
+      "http://web.poecdn.com/public/videos/Smite/Smite+ElementalDamagewithAttacks.bk2",
+      112,
+      "http://down.qq.com/poe/videos/skills/Smite/Smite+WeaponElementalDamage.bk2",
+      []
+    ],
+    [
+      "Smite&Multistrike",
+      "Bewirkt, dass sich 'Zerschmettern' zwei zusätzliche Male wiederholt und gewährt einen großen Bonus auf die Angriffsgeschwindigkeit.",
+      "http://web.poecdn.com/public/videos/Smite/Smite+Multistrike.bk2",
+      187,
+      "http://down.qq.com/poe/videos/skills/Smite/Smite+Multistrike.bk2",
+      []
+    ],
+    [
+      "Smite&ElementalFocus",
+      "Nimmt zwar die Fähigkeit, durch 'Zerschmettern' bei Gegnern Beeinträchtigungen zu verursachen (wie zum Beispiel Schock), führt jedoch zu einer beträchtlichen Steigerung des Elementarschadens. Der Nutzen dieser Unterstützungsgemme wird maximiert, indem man sämtlichen physischen Schaden von 'Zerschmettern' in Elementarschaden umwandelt.",
+      "http://web.poecdn.com/public/videos/Smite/Smite+ElementalFocus.bk2",
+      314,
+      "http://down.qq.com/poe/videos/skills/Smite/Smite+ElementalFocus.bk2",
+      []
+    ],
+    [
+      "Frostbolt&AddedColdDamage",
+      "Fügt 'Frostkugel' zusätzlichen Kälteschaden hinzu.",
+      "http://web.poecdn.com/public/videos/Frostbolt/Frostbolt+AddedColdDamage.bk2",
+      38,
+      "http://down.qq.com/poe/videos/skills/Frostbolt/Frostbolt%20+%20Added%20Cold%20Damage.bk2",
+      [
+        2,
+        1,
+        5,
+        3
+      ]
+    ],
+    [
+      "Frostbolt&ColdPenetration",
+      "Verringert den Kältewiderstand von Gegnern und lässt diese durch 'Frostkugel' mehr Kälteschaden erleiden.",
+      "http://web.poecdn.com/public/videos/Frostbolt/Frostbolt+ColdPenetration.bk2",
+      173,
+      "http://down.qq.com/poe/videos/skills/Frostbolt/Frostbolt%20+%20Cold%20Penetration.bk2",
+      []
+    ],
+    [
+      "Frostbolt&Hypothermia",
+      "Erhöht die Chance, Gegner mit 'Frostkugel' zu unterkühlen und einzufrieren und gewährt zudem mehr Schaden gegen eingefrorene Gegner.",
+      "http://web.poecdn.com/public/videos/Frostbolt/Frostbolt+Hypothermia.bk2",
+      279,
+      "http://down.qq.com/poe/videos/skills/Frostbolt/Frostbolt%20+%20Hypothermia.bk2",
+      []
+    ],
+    [
+      "Frostbolt&ControlledDestruction",
+      "Verringert zwar die Chance auf kritische Treffer, gewährt 'Frostkugel' jedoch mehr Zauberschaden, der zu einer direkten und stabilen Schadenserhöhung führt, die nicht von kritischen Treffern abhängig ist.",
+      "http://web.poecdn.com/public/videos/Frostbolt/Frostbolt+ControlledDestruction.bk2",
+      305,
+      "http://down.qq.com/poe/videos/skills/Frostbolt/Frostbolt%20+%20Controlled%20Destruction.bk2",
+      []
+    ],
+    [
+      "Frostbolt&SpellEcho",
+      "Wiederholt 'Frostkugel' ein zusätzliches Mal und erhöht zudem stark die Zaubergeschwindigkeit.",
+      "http://web.poecdn.com/public/videos/Frostbolt/Frostbolt+SpellEcho.bk2",
+      188,
+      "http://down.qq.com/poe/videos/skills/Frostbolt/Frostbolt%20+%20Spell%20Echo.bk2",
+      []
+    ],
+    [
+      "Frostbolt&SpellTotem",
+      "Ermöglicht das Beschwören eines Totems, das 'Frostkugel' einsetzt, sodass der Charakter währenddessen andere Handlungen vornehmen kann. Diese Kombination kann sehr mächtig werden, sobald der Charakter gleichzeitig mehrere Totems beschwören kann.",
+      "http://web.poecdn.com/public/videos/Frostbolt/Frostbolt+SpellTotem.bk2",
+      149,
+      "http://down.qq.com/poe/videos/skills/Frostbolt/Frostbolt%20+%20Spell%20Totem.bk2",
+      [
+        6,
+        2,
+        0,
+        1
+      ]
+    ],
+    [
+      "Blight&IncreasedDuration",
+      "Verlängert die Dauer des verlangsamenden Effekts von 'Pesthauch' sowie dessen Schwächung, die Chaosschaden über Zeit verursacht.",
+      "http://web.poecdn.com/public/videos/Blight/Blight+IncreasedDuration.bk2",
+      107,
+      "http://down.qq.com/poe/videos/skills/Blight/Blight+IncreasedDuration.bk2",
+      []
+    ],
+    [
+      "CausticArrow&SwiftAffliction",
+      "Verringert die Dauer des ätzenden Bodens, den 'Ätzender Pfeil' erzeugt, gleicht dies jedoch durch eine Erhöhung des Schadens, den 'Ätzender Pfeil' über Zeit verursacht, wieder aus.",
+      "http://web.poecdn.com/public/videos/CausticArrow/CausticArrow+SwiftAffliction.bk2",
+      306,
+      "http://down.qq.com/poe/videos/skills/CausticArrow/CausticArrow+SwiftAffliction.bk2",
+      []
+    ],
+    [
+      "CausticArrow&VoidManipulation",
+      "Gewährt 'Ätzender Pfeil' mehr Chaosschaden, verringert allerdings den Elementarschaden. Da der ätzende Boden jedoch ausschließlich Chaosschaden verursacht, gewährt 'Unterstützung: Manipulation der Leere' mehr Schaden ohne Nachteile.",
+      "http://web.poecdn.com/public/videos/CausticArrow/CausticArrow+VoidManipulation.bk2",
+      304,
+      "http://down.qq.com/poe/videos/skills/CausticArrow/CausticArrow+VoidManipulation.bk2",
+      []
+    ],
+    [
+      "FreezingPulse&AddedColdDamage",
+      "Fügt 'Frostpuls' zusätzlichen Kälteschaden hinzu.",
+      "http://web.poecdn.com/public/videos/FreezingPulse/FreezingPulse+AddedColdDamage.bk2",
+      38,
+      "http://down.qq.com/poe/videos/skills/FreezingPulse/FreezingPulse+AddedColdDamage.bk2",
+      [
+        2,
+        1,
+        5,
+        3
+      ]
+    ],
+    [
+      "FrostBlades&IceBite",
+      "Fügt 'Frostklingen' zusätzlichen Kälteschaden hinzu, erhöht die Chance auf Einfrieren, gewährt eine Chance, beim Töten eingefrorener Gegner eine Raserei-Ladung zu erhalten.\n\nRaserei-Ladungen erhöhen die Angriffs- und Zaubergeschwindigkeit und den Schaden.",
+      "http://web.poecdn.com/public/videos/FrostBlades/Frostblades+IceBite.bk2",
+      278,
+      "http://down.qq.com/poe/videos/skills/FrostBlades/Frostblades+Icebite.bk2",
+      []
+    ],
+    [
+      "Frostbolt&FasterCasts",
+      "Erhöht die Zaubergeschwindigkeit von 'Frostkugel', wodurch die Kugeln schneller und häufiger gezaubert werden können.",
+      "http://web.poecdn.com/public/videos/Frostbolt/Frostbolt+FasterCasts.bk2",
+      85,
+      "http://down.qq.com/poe/videos/skills/Frostbolt/Frostbolt+FasterCasts.bk2",
+      []
+    ],
+    [
+      "GlacialHammer&Hypothermia",
+      "Erhöht den Kälteschaden von 'Frosthammer' und die Chance, unterkühlte Gegner einzufrieren. Erhöht ebenfalls den unterkühlenden Effekt, den 'Frosthammer' bei Treffer anwendet.",
+      "http://web.poecdn.com/public/videos/GlacialHammer/GlacialHammer+Hypothermia.bk2",
+      279,
+      "http://down.qq.com/poe/videos/skills/GlacialHammer/GlacialHammer+Hypothermia.bk2",
+      []
+    ],
+    [
+      "MagmaOrb&FasterCast",
+      "Erhöht die Zaubergeschwindigkeit von 'Magmakugel', wodurch die Kugeln schneller und häufiger gezaubert werden können.",
+      "http://web.poecdn.com/public/videos/MagmaOrb/MagmaOrb+FasterCast.bk2",
+      85,
+      "http://down.qq.com/poe/videos/skills/MagmaOrb/MagmaOrb+FasterCasting.bk2",
+      []
+    ],
+    [
+      "RaiseZombie&MeleePhysicalDamage",
+      "Gewährt den Zombiekreaturen mehr physischen Nahkampfschaden und erhöht gleichzeitig den Schaden, der durch angewendetes Bluten und Gift verursacht wird.",
+      "http://web.poecdn.com/public/videos/RaiseZombies/RaiseZombies+PhysicalMeleeDamage.bk2",
+      82,
+      "http://down.qq.com/poe/videos/skills/RaiseZombies/RaiseZombies+PhysicalMeleeDamage.bk2",
+      []
+    ],
+    [
+      "SpectralThrow&AddedFireDamage",
+      "Fügt den Treffern mit 'Spektralwurf' zusätzlichen Feuerschaden hinzu, der auf dem physischen Schaden basiert.",
+      "http://web.poecdn.com/public/videos/SpectralThrow/SpectralThrow+AddedFireDamage.bk2",
+      33,
+      "http://down.qq.com/poe/videos/skills/SpectralThrow/SpectralThrow+AddedFireDamage.bk2",
+      [
+        6,
+        2,
+        4,
+        0,
+        5,
+        3
+      ]
+    ],
+    [
+      "SplitArrow&FasterAttacks",
+      "Erhöht die Angriffsgeschwindigkeit von 'Pfeilfächer', wodurch die Pfeile schneller und häufiger abgefeuert werden.",
+      "http://web.poecdn.com/public/videos/SplitArrow/SplitArrow+FasterAttacks.bk2",
+      34,
+      "http://down.qq.com/poe/videos/skills/SplitArrow/SplitArrow+ChancetoBleed.bk2",
+      []
+    ],
+    [
+      "SplitArrow&ChanceToBleed",
+      "Erhöht die Chance, mit 'Pfeilfächer' bei Gegnern Bluten zu verursachen. Bluten verursacht physischen Schaden über Zeit, der bei Zielen, die sich bewegen, höher ausfällt. Diese Unterstützungsgemme fügt 'Pfeilfächer' außerdem eine kleine Menge an physischem Schaden hinzu.",
+      "http://web.poecdn.com/public/videos/SplitArrow/SplitArrow+ChancetoBleed.bk2",
+      324,
+      "http://down.qq.com/poe/videos/skills/SplitArrow/SplitArrow+FasterAttacks.bk2",
+      [
+        4,
+        6,
+        2,
+        0,
+        3
+      ]
+    ],
+    [
+      "PurifyingFlame&AddedFire",
+      "Gewährt zusätzlichen Feuerschaden, der auf dem physischen Schaden basiert.",
+      "http://web.poecdn.com/public/videos/PurifyingFlame/PF+AddedFire.bk2",
+      33,
+      "https://down.qq.com/poe/videos/skills/PurifyingFlames/PurifyingFlames+AddedFireDamageCN.bk2",
+      [
+        4,
+        6,
+        2,
+        0
+      ]
+    ],
+    [
+      "PurifyingFlame&PhysToLightning",
+      "Wandelt 50 % des physischen Schadens von 'Reinigende Flamme' in Blitzschaden um und gewährt zusätzlichen Blitzschaden, der auf dem physischen Schaden basiert. Da bei 'Reinigende Flamme' bereits 50 % in Blitzschaden umgewandelt werden, bewirkt die Kombination mit dieser Unterstützungsgemme, dass sämtlicher physischer Schaden von 'Reinigende Flamme' in Blitzschaden umgewandelt wird.",
+      "http://web.poecdn.com/public/videos/PurifyingFlame/PF+PhystoLightning.bk2",
+      264,
+      "https://down.qq.com/poe/videos/skills/PurifyingFlames/PurifyingFlames+PhysicaltoLightningCN.bk2",
+      []
+    ],
+    [
+      "PurifyingFlame&Intensify",
+      "Intensiviert 'Reinigende Flamme' mit jeder Zauberung, indem der Wirkungsbereich verringert und der Schaden erhöht wird, um ihn auf einige starke Gegner zu konzentrieren.\n\nSobald sich der Charakter bewegt oder teleportiert, verliert er Stapel an Intensität.",
+      "http://web.poecdn.com/public/videos/PurifyingFlame/PF+Int.bk2",
+      388,
+      "https://down.qq.com/poe/videos/skills/PurifyingFlames/PurifyingFlames+IntensifyCN.bk2",
+      []
+    ],
+    [
+      "PurifyingFlame&ControlledDestruction",
+      "Verringert zwar die Chance auf kritische Treffer, gewährt 'Reinigende Flamme' jedoch mehr Zauberschaden, der zu einer direkten und stabilen Schadenserhöhung führt, die nicht von kritischen Treffern abhängig ist.",
+      "http://web.poecdn.com/public/videos/PurifyingFlame/PF+ControlledDestruction.bk2",
+      305,
+      "https://down.qq.com/poe/videos/skills/PurifyingFlames/PurifyingFlames+ControlledDestructionCN.bk2",
+      []
+    ],
+    [
+      "PurifyingFlame&Unleash",
+      "Baut mit der Zeit Ladungen von 'Reinigende Flamme' auf, die beim Zaubern aufgewendet werden. Hierdurch wird der Effekt der Fertigkeit wiederholt entfesselt, wodurch Gegner mehrmals schnell Schaden erleiden. Der Schaden der entfesselten Zauber ist leicht reduziert.",
+      "http://web.poecdn.com/public/videos/PurifyingFlame/PF+Unleash.bk2",
+      389,
+      "https://down.qq.com/poe/videos/skills/PurifyingFlames/PurifyingFlames+UnleashCN.bk2",
+      []
+    ],
+    [
+      "PurifyingFlame&ElementalFocus",
+      "Nimmt zwar die Fähigkeit, durch 'Reinigende Flamme' bei Gegnern Beeinträchtigungen zu verursachen (wie zum Beispiel Entzünden), führt jedoch zu einer beträchtlichen Steigerung des Elementarschadens. Der Nutzen dieser Unterstützungsgemme wird maximiert, indem man sämtlichen physischen Schaden von 'Reinigende Flamme' in Elementarschaden umwandelt.",
+      "http://web.poecdn.com/public/videos/PurifyingFlame/PF+EF.bk2",
+      314,
+      "https://down.qq.com/poe/videos/skills/PurifyingFlames/PurifyingFlames+ElementalFocusCN.bk2",
+      []
+    ],
+    [
+      "StormblastMine&AddedLightning",
+      "Fügt den Explosionen von 'Gewittersturmmine' zusätzlichen Blitzschaden hinzu.\n\nDas Verursachen von mehr Schaden erhöht ebenfalls die Stärke des Schocks, wodurch geschockte Gegner mehr Schaden erleiden.",
+      "http://web.poecdn.com/public/videos/StormblastMine/EStormblastAddedLight.bk2",
+      41,
+      "https://down.qq.com/poe/videos/skills/TStormblastAddedLight.bk2",
+      [
+        5,
+        1,
+        6,
+        2
+      ]
+    ],
+    [
+      "StormblastMine&SwiftAssembly",
+      "Während 'Gewittersturmmine' von 'Schneller Aufbau' unterstützt wird, gewährt das Werfen einer Mine eine Chance auf das Werfen zusätzlicher Minen. Mehr Minen bedeuten mehr Gewittersturm-Explosionen.",
+      "http://web.poecdn.com/public/videos/StormblastMine/EStormblastSwiftAssembly.bk2",
+      427,
+      "https://down.qq.com/poe/videos/skills/TStormblastSwiftAssembly.bk2",
+      [
+        5,
+        1,
+        3,
+        4,
+        2
+      ]
+    ],
+    [
+      "StormblastMine&Trap&MineDamage",
+      "Bewirkt, dass die Explosionen von 'Gewittersturmmine' mehr Schaden verursachen.\n\nDas Verursachen von mehr Schaden erhöht ebenfalls die Stärke des Schocks, wodurch geschockte Gegner mehr Schaden erleiden.",
+      "http://web.poecdn.com/public/videos/StormblastMine/EStormblastTrapMine.bk2",
+      282,
+      "https://down.qq.com/poe/videos/skills/TStormblastTrapMine.bk2",
+      []
+    ],
+    [
+      "StormblastMine&LightningPenetration",
+      "Bewirkt, dass der Blitzschaden von 'Gewittersturmmine' den gegnerischen Blitzwiderstand durchdringt. Dies führt bei Bossen, seltenen und magischen Gegnern, die widerstandsfähig gegen Blitz sind, einen konsistenteren Schaden.\n\nAnhand der Modifikatoren von Monstern kann man erkennen, ob diese widerstandsfähig gegen Schaden sind.",
+      "http://web.poecdn.com/public/videos/StormblastMine/EStormblastLightPen.bk2",
+      174,
+      "https://down.qq.com/poe/videos/skills/TStormblastLightningPen.bk2",
+      []
+    ],
+    [
+      "StormblastMine&ChargedMines",
+      "Während 'Gewittersturmmine' von 'Geladene Minen' unterstützt wird, haben die Gewittersturm-Explosionen, die Schaden an Gegnern verursachen, eine Chance, Raserei- und Energie-Ladungen zu gewähren.\n\nRaserei-Ladungen erhöhen pro Ladung eure Bewegungs-, Angriffs- und Zaubergeschwindigkeit (bis maximal 3 Ladungen).\n\nEnergie-Ladungen erhöhen pro Ladung eure Chance, einen kritischen Treffer mit hohem Schaden zu verursachen (bis maximal 3 Ladungen).",
+      "http://web.poecdn.com/public/videos/StormblastMine/EStormblastCharged.bk2",
+      360,
+      "https://down.qq.com/poe/videos/skills/TStormblastChargedMines.bk2",
+      []
+    ],
+    [
+      "StormblastMine&IncreasedAoE",
+      "Durch den erhöhten Wirkungsbereich werden die Explosionen von 'Gewittersturmmine' größer, wodurch sie mehr Gegner treffen können. Darüber hinaus erleiden mehr Gegner erhöhten Schaden, bevor die Gewittersturmminen explodieren.",
+      "http://web.poecdn.com/public/videos/StormblastMine/EStormblastIncreasedAoE.bk2",
+      40,
+      "https://down.qq.com/poe/videos/skills/TStormblastIncreasedAoE.bk2",
+      []
+    ],
+    [
+      "StormblastMine&ConcentratedEffect",
+      "Durch die konzentrierte Wirkung werden die Explosionen von 'Gewittersturmmine' kleiner, verursachen jedoch auf engerem Raum auch mehr Schaden.\nDas bedeutet, dass insgesamt weniger Gegner getroffen werden, aber die getroffenen Gegner mehr Schaden erleiden.",
+      "http://web.poecdn.com/public/videos/StormblastMine/EStormblastConcAoE.bk2",
+      105,
+      "https://down.qq.com/poe/videos/skills/TStormblastConcentratedAoE.bk2",
+      []
+    ],
+    [
+      "CobraLash&LMP",
+      "Erhöht die Anzahl der Projektile, die man mit 'Kobraschlag' wirft, wodurch man gleichzeitig mehr Ziele auf einmal treffen kann. Jedes Projektil springt zwischen Zielen hin und her und trifft damit große Gruppen von Gegnern.\n\nIn höheren Stufen kann die Gemme durch 'Unterstützung: Größere Projektilaufteilung' ersetzt werden, um mehr Projektile zu werfen und größere Gruppen von Gegnern zu treffen.",
+      "http://web.poecdn.com/public/videos/CobraLash/ECobraLashLMP.bk2",
+      36,
+      "https://down.qq.com/poe/videos/skills/TCobraLashLMP.bk2",
+      [
+        5,
+        1,
+        3,
+        4,
+        2
+      ]
+    ],
+    [
+      "CobraLash&Poison",
+      "Erhöht die Chance von 'Kobraschlag', Gegner zu vergiften und verursacht mehr Giftschaden. Dies ist nützlich, um auf Gegner gleich mehrfach tödliches Gift anzuwenden.",
+      "http://web.poecdn.com/public/videos/CobraLash/ECobraLashPoison.bk2",
+      298,
+      "https://down.qq.com/poe/videos/skills/TCobraLashPoison.bk2",
+      []
+    ],
+    [
+      "CobraLash&DeadlyAilments",
+      "Verringert den Trefferschaden und gewährt 'Kobraschlag' im Gegenzug beträchtlich mehr Schaden mit Gift.\nDies ist nützlich, um auf Gegner besonders starkes Gift anzuwenden.",
+      "http://web.poecdn.com/public/videos/CobraLash/ECobraLashDeadlyAilments.bk2",
+      326,
+      "https://down.qq.com/poe/videos/skills/TCobraLashDeadlyAilments.bk2",
+      []
+    ],
+    [
+      "CobraLash&AddedChaos",
+      "Fügt 'Kobraschlag' Chaosschaden hinzu, wodurch sich der verursachte Schaden erhöht, wenn die Fertigkeit Gegner trifft.\n\nDurch das Erhöhen des Chaosschadens von Treffern wird auch der Schaden des Gifts erhöht, da schwere Treffer mit viel Chaos- und physischem Schaden auch stärkeres Gift bedeuten.",
+      "http://web.poecdn.com/public/videos/CobraLash/ECobraLashAddedC.bk2",
+      61,
+      "https://down.qq.com/poe/videos/skills/TCobraLashAddedC.bk2",
+      []
+    ],
+    [
+      "CobraLash&VileToxins",
+      "Erhöht den Schaden des Gifts, das 'Kobraschlag' auf Gegner anwendet und verursacht mehr Schaden, wenn die Fertigkeit vergiftete Gegner trifft. Dies ist nützlich, um mehrere starke Giftstapel anzuwenden und mehr Schaden gegen mächtige Gegner, wie z.B. Bosse, zu verursachen.",
+      "http://web.poecdn.com/public/videos/CobraLash/ECobraLashVile.bk2",
+      330,
+      "https://down.qq.com/poe/videos/skills/TCobraLashVile.bk2",
+      []
+    ],
+    [
+      "CobraLash&UnboundAilments",
+      "Mit der Unterstützung von 'Entfesselte Beeinträchtigungen' verursacht das Gift von 'Kobraschlag' mehr Schaden und hält länger auf Gegnern an. Dies ist nützlich, um auf mächtige Gegner, wie z.B. Bosse, viele Giftstapel anzuwenden.",
+      "http://web.poecdn.com/public/videos/CobraLash/ECobraLashUnboundAilments.bk2",
+      333,
+      "https://down.qq.com/poe/videos/skills/TCobraLashUnboundAilments.bk2",
+      [
+        5,
+        1,
+        6,
+        2
+      ]
+    ],
+    [
+      "Perforate&Maim",
+      "Mit dieser Unterstützung werden Gegner durch 'Perforieren' verstümmelt, was mehr physischen Schaden verursacht und ihre Bewegung verlangsamt. Dies eignet sich dazu, Monster zu bremsen, um ihnen leichter ausweichen zu können.",
+      "http://web.poecdn.com/public/videos/Perforate/EPerforateMaim.bk2",
+      331,
+      "https://down.qq.com/poe/videos/skills/TPerforateMaim.bk2",
+      [
+        4,
+        3,
+        0,
+        2
+      ]
+    ],
+    [
+      "Perforate&MeleePhysicalDamage",
+      "Mit der Unterstützung dieser Gemme verursacht 'Perforieren' mehr Schaden. Ein einfacher und doch wirkungsvoller Weg, Gegner auf schnelle Weise zu töten.",
+      "http://web.poecdn.com/public/videos/Perforate/EPerforateMeleePhysical.bk2",
+      82,
+      "https://down.qq.com/poe/videos/skills/TPerforateMeleePhysical.bk2",
+      []
+    ],
+    [
+      "Perforate&CloseCombat",
+      "Mit 'Unterstützung: Gefecht' verbessert ihr den Schaden gegen Monster in eurer Nähe. Da 'Perforieren' nur Monster im Umkreis trifft (ohne die Sandhaltung), ist diese Unterstützungsgemme sehr wertvoll, um euren Schaden zu erhöhen.\n\nFortbewegungsfertigkeiten sind ebenfalls schneller, nachdem ihr Gegner mit dieser Gemme getroffen habt. Mit Fortbewegungsfertigkeiten könnt ihr euch schneller bewegen, um Gefahren zu vermeiden.",
+      "http://web.poecdn.com/public/videos/Perforate/EPerforateClosecombat.bk2",
+      401,
+      "https://down.qq.com/poe/videos/skills/TPerforateCloseCombat.bk2",
+      []
+    ],
+    [
+      "Perforate&Impale",
+      "Mithilfe von 'Unterstützung: Aufspießen' verursacht ihr mehr physischen Schaden und spießt Gegner auf.\n\nDurch das Aufspießen wird ein Teil eures Schadens gegen einen Gegner gespeichert, der dann über die nächsten 5 Treffer verteilt an diesem Gegner verursacht wird. Ihr könnt denselben Gegner mehr als einmal aufspießen und damit von zusätzlichem Schaden für eure Angriffe profitieren.",
+      "http://web.poecdn.com/public/videos/Perforate/EPerforateImpale.bk2",
+      406,
+      "https://down.qq.com/poe/videos/skills/TPerforateImpale.bk2",
+      []
+    ],
+    [
+      "Perforate&Brutality",
+      "Mit 'Unterstützung: Brutalität' verursacht 'Perforieren' mehr physischen Schaden, jedoch reduziert die Gemme sämtlichen verursachten Elementarschaden auf Null.\n\nAus diesem Grund sollten Modifikatoren, die Blitz-, Feuer-, Kälte- oder Chaosschaden gewähren, in Kombination mit dieser Unterstützungsgemme vermieden werden. Lediglich der physische Schaden wird durch diese Gemme erhöht.",
+      "http://web.poecdn.com/public/videos/Perforate/EPerforateBrutality.bk2",
+      334,
+      "https://down.qq.com/poe/videos/skills/TPerforateBrutality.bk2",
+      []
+    ],
+    [
+      "Perforate&Multistrike",
+      "Mit 'Unterstützung: Mehrfachschlag' wird die Angriffsgeschwindigkeit von 'Perforieren' stark erhöht, indem drei Angriffe in kurzer Abfolge ausgeführt werden, wobei der zweite und dritte Angriff mehr Schaden verursacht.\n\nWährend diese wiederholten Angriffe ausgeführt werden, könnt ihr nicht anhalten oder euch bewegen. Obwohl diese Gemme euren Schaden enorm verstärkt, müsst ihr aufpassen, dass ihr nicht an einer Stelle festsitzt, während euch Monster Schaden zufügen.",
+      "http://web.poecdn.com/public/videos/Perforate/EPerforateMultiStrike.bk2",
+      187,
+      "https://down.qq.com/poe/videos/skills/TPerforateMultiStrike.bk2",
+      []
+    ],
+    [
+      "Frostblink&IncreasedAoE",
+      "Mit dieser Gemme erhöht ihr die Größe des unterkühlenden Bodens und der Kälteexplosion, die von 'Frostspurt' verursacht werden. Dies ist gegen größere Gruppen von Gegnern hilfreich, da sie verlangsamt werden und euch nicht verfolgen können.",
+      "http://web.poecdn.com/public/videos/Frostblink/EFrostblinkIncreasedAoE.bk2",
+      40,
+      "https://down.qq.com/poe/videos/skills/TFrostblinkIncreasedAoE.bk2",
+      []
+    ],
+    [
+      "Frostblink&BoneChill",
+      "Mit 'Unterstützung: Knochenfrost' steigert ihr den unterkühlenden Effekt von 'Frostspurt', wodurch Gegner noch weiter verlangsamt werden. Gegner, die durch 'Frostspurt' unterkühlt werden, erleiden zudem mehr Kälteschaden, wodurch ihr besonders von dieser Gemme profitiert, wenn eure Hauptfertigkeit Kälteschaden verursacht.",
+      "http://web.poecdn.com/public/videos/Frostblink/EFrostblinkBonechill.bk2",
+      368,
+      "https://down.qq.com/poe/videos/skills/TFrostblinkBonechill.bk2",
+      []
+    ],
+    [
+      "Steelskin&IncreasedDuration",
+      "Durch die verlängerte Dauer hält der Bonus von 'Stahlhaut' länger an, der euch vor weiteren gegnerischen Treffern schützt. Ein simpler aber doch effektiver Weg, eure Defensive zu stärken.",
+      "http://web.poecdn.com/public/videos/Steelskin/ESteelskinDuration.bk2",
+      107,
+      "https://down.qq.com/poe/videos/skills/TSteelskinDuration.bk2",
+      []
+    ],
+    [
+      "Steelskin&CWDT",
+      "Mit dieser Kombination wird 'Stahlhaut' automatisch gezaubert, nachdem ihr Schaden erlitten habt, was euch insbesondere gegen überraschende Angriffe schützt.\n\n'Stahlhaut' kann mit dieser Gemme nicht manuell gezaubert und auch nicht gegen ein Monster eingesetzt werden, das dabei ist, euch zu treffen. Es ist wichtig, auf eine alternative Defensive gegen Monster zu setzen, wenn ihr diese Gemme verwendet.",
+      "http://web.poecdn.com/public/videos/Steelskin/ESteelskinCWDT.bk2",
+      212,
+      "https://down.qq.com/poe/videos/skills/TSteelskinCWDT.bk2",
+      []
+    ],
+    [
+      "GalvanicArrow&PhystoLightning",
+      "Mit dieser Gemme wird der gesamte physische Schaden von 'Galvanischer Pfeil' in Blitzschaden umgewandelt, wodurch die Fertigkeit reinen Blitzschaden verursacht, statt 50% Blitz- und 50% physischen Schaden\n\nDer Schaden lässt sich durch diese Gemme auf einfache Weise erhöhen. Quellen, die euren Blitz- oder Elementarschaden erhöhen, erhöhen auch den reinen Blitzschaden, der von 'Galvanischer Pfeil' verursacht wird.",
+      "http://web.poecdn.com/public/videos/GalvanicArrow/EGalvanicArrowPhysToLightning.bk2",
+      264,
+      "http://down.qq.com/poe/videos/tutorial/TGalvanicArrowDamage1.bk2",
+      []
+    ],
+    [
+      "GalvanicArrow&ElementalDamagewithAttacks",
+      "Erhöht den Elementarschaden von 'Galvanischer Pfeil', trifft Gegner härter und verursacht mehr Schaden.\nDiese Gemme erhöht zwar nicht den physischen Schaden, jedoch den verursachten Blitzschaden der Fertigkeit.\n\nIn Verbindung mit 'Unterstützung: Physisch zu Blitz' erhöht die Gemme den reinen Blitzschaden, der mit 'Galvanischer Pfeil' verursacht wird.",
+      "http://web.poecdn.com/public/videos/GalvanicArrow/EGalvanicArrowElementalDamageWithAttacks.bk2",
+      112,
+      "http://down.qq.com/poe/videos/tutorial/TGalvanicArrowDamage2.bk2",
+      []
+    ],
+    [
+      "GalvanicArrow&LightningPenetration",
+      "Ermöglicht 'Galvanischer Pfeil' das Durchdringen des gegnerischen Blitzwiderstands, was einen konsistenteren Schaden gegen blitzresistente Gegner, wie z.B. Bosse, magische und seltene Monster, ermöglicht.\n\nDer physische Schaden durchdringt durch diese Gemme keinen Widerstand, da der physische Schaden nicht vom Blitzwiderstand beeinflusst wird.\nAnhand der Modifikatoren von Monstern kann man erkennen, ob diese widerstandsfähig gegen Schaden sind.",
+      "http://web.poecdn.com/public/videos/GalvanicArrow/EGalvanicArrowLightPen.bk2",
+      174,
+      "http://down.qq.com/poe/videos/tutorial/TGalvanicArrowLightPen.bk2",
+      []
+    ],
+    [
+      "GalvanicArrow&MirageArcher",
+      "Beschwört einen Phantombogenschützen über eurem Kopf, wenn ihr mit 'Galvanischer Pfeil' einen Gegner trefft. Dieser Phantombogenschütze feuert Galvanische Pfeile auf Gegner im Umkreis, bis er verschwindet.\n\nDiese Gemme ist in vielerlei Hinsicht nützlich: Mit ihr verursacht der Charakter mehr Schaden, greift Gegner an, die nicht in Blickrichtung sind und greift auch an, während sich der Charakter bewegt.",
+      "http://web.poecdn.com/public/videos/GalvanicArrow/EGalvanicArrowMirage.bk2",
+      348,
+      "http://down.qq.com/poe/videos/tutorial/TGalvanicArrowMirage.bk2",
+      []
+    ],
+    [
+      "GalvanicArrow&Barrage",
+      "Mit dieser Gemme entfesselt ihr eine schnelle Salve aus Pfeilen, die nicht mehr in Form eines Kegels, sondern nacheinander abgefeuert werden.\n\nDiese Gemme eignet sich insbesondere gegen stärkere Gegner, wie z.B. Bosse.\nSeid vorsichtig, wenn ihr diese Gemme in gefährlichen Situationen einsetzt, da ihr euch beim Abfeuern nicht bewegen und somit bedrohlichen Gegnern nicht ausweichen könnt.",
+      "http://web.poecdn.com/public/videos/GalvanicArrow/EGalvanicArrowBarrage.bk2",
+      430,
+      "",
+      []
+    ],
+    [
+      "GalvanicArrow&FasterProjectiles",
+      "Vergrößert die Blitze, die mit 'Galvanischer Pfeil' entfesselt werden und erhöht die Geschwindigkeit der Pfeile, bevor sie verschwinden. Indem die Pfeile eine weitere Strecke zurücklegen, könnt ihr mit jedem Schuss eine größere Anzahl an Gegnern treffen.",
+      "http://web.poecdn.com/public/videos/GalvanicArrow/EGalvanicArrowFasterProj.bk2",
+      37,
+      "http://down.qq.com/poe/videos/tutorial/TGalvanicArrowFasterProj.bk2",
+      []
+    ],
+    [
+      "KineticBolt&Barrage",
+      "Mit dieser Gemme entfesselt ihr eine schnelle Salve aus Kinetischen Geschossen, die nacheinander abgefeuert werden und über eine größere Fläche Schaden an Gegnern verursachen.\n\nSeid vorsichtig, wenn ihr diese Gemme in gefährlichen Situationen einsetzt, da ihr euch beim Abfeuern nicht bewegen und somit bedrohlichen Gegnern nicht ausweichen könnt.",
+      "http://web.poecdn.com/public/videos/EKineticBolt/EKineticBoltBarrage.bk2",
+      430,
+      "http://down.qq.com/poe/videos/tutorial/TKineticBoltBarrage.bk2",
+      []
+    ],
+    [
+      "KineticBolt&AddedLightningDamage",
+      "Fügt 'Kinetisches Geschoss' und seinen Projektilen Blitzschaden hinzu. Ein einfacher und doch wirkungsvoller Weg, Gegner auf schnelle Weise zu töten.",
+      "http://web.poecdn.com/public/videos/EKineticBolt/EKineticBoltLightning.bk2",
+      41,
+      "http://down.qq.com/poe/videos/tutorial/TKineticBoltLightning.bk2",
+      [
+        1
+      ]
+    ],
+    [
+      "KineticBolt&AddedColdDamage",
+      "Fügt 'Kinetisches Geschoss' und seinen Projektilen Kälteschaden hinzu. Ein einfacher und doch wirkungsvoller Weg, Gegner auf schnelle Weise zu töten.",
+      "http://web.poecdn.com/public/videos/EKineticBolt/EKineticBoltCold.bk2",
+      38,
+      "http://down.qq.com/poe/videos/tutorial/TKineticBoltCold.bk2",
+      []
+    ],
+    [
+      "KineticBolt&ElementalDamageWithAttacks",
+      "Erhöht den Elementarschaden, der mit 'Kinetisches Geschoss' und seinen Projektilen verursacht wird.\n\nKinetisches Geschoss verursacht standardmäßig keinen Elementarschaden. Dieser kann durch Unterstützungsgemmen (wie Zusätzlicher Blitzschaden oder Zusätzlicher Kälteschaden) hinzugefügt werden. Diese Gemme kann diesen Schaden erhöhen, um Gegner schneller töten zu können.",
+      "http://web.poecdn.com/public/videos/EKineticBolt/EKineticBoltDamage.bk2",
+      112,
+      "http://down.qq.com/poe/videos/tutorial/TKineticBoltDamage.bk2",
+      []
+    ],
+    [
+      "KineticBolt&Inspiration",
+      "Verringert die Manakosten von 'Kinetisches Geschoss' und erhöht den Elementarschaden und die Chance, mit einem Angriff einen kritischen Treffer zu landen.\nZauberstäbe können mächtige kritische Treffer landen, die mehr Schaden verursachen und bei Gegnern elementare Beeinträchtigungen anwenden.\nKinetisches Geschoss verursacht standardmäßig keinen Elementarschaden. Dieser kann durch Ausrüstungsgegenstände oder Unterstützungsgemmen (wie Zusätzlicher Blitzschaden oder Zusätzlicher Kälteschaden) hinzugefügt werden.",
+      "http://web.poecdn.com/public/videos/EKineticBolt/EKineticBoltInspiration.bk2",
+      55,
+      "http://down.qq.com/poe/videos/tutorial/TKineticBoltInspiration.bk2",
+      []
+    ]
+  ]
+}

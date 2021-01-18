@@ -1,1 +1,3197 @@
-{"filename":"CharacterTextAudio.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":true,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Text","rowid":1,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"SoundFile","rowid":2,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":true,"file_ext":".ogg","display":null,"display_type":"{0}","description":null}],"data":[["Marauder1","Eu sou um guerreiro, criado para honrar meus Ancestrais, para morrer com uma arma em minhas mãos e a Tradição Karui no meu sangue. \r\n\r\nOriath me acorrentou, me transformou em seu escravo. Vivi por três anos sem minha família, sem meu orgulho, sem minha Tradição. \r\n\r\nEu aceito o Exílio. Eu aceito Wraeclast. Escutai-me, Ancestrais! O escravo ficou para trás. O guerreiro está diante de vós. \r\n\r\nE a morte caminha ao nosso lado.","Audio/Dialogue/Character/Str/Intro/Ma_01_Intro.ogg"],["Marauder2","","Audio/Dialogue/Character/Str/Event/Ma_02.ogg"],["Marauder3","Os mortos devem se lembrar de seu lugar.","Audio/Dialogue/Character/Str/Event/Ma_03.ogg"],["Marauder4","Estou cercado por cadáveres despertos e Oriathianos mortos. ","Audio/Dialogue/Character/Str/Event/Ma_04.ogg"],["Marauder5","Mostre-me o caminho, Kaom.","Audio/Dialogue/Character/Str/Event/Ma_05.ogg"],["Marauder6","Dominus tomou meu lar, minha família.","Audio/Dialogue/Character/Str/Event/Ma_06.ogg"],["Marauder7","Os anciãos não nos contaram sobre isso.","Audio/Dialogue/Character/Str/Event/Ma_07.ogg"],["Marauder8","Um escravo não é um homem. Um escravo sequer é merecedor da morte.","Audio/Dialogue/Character/Str/Event/Ma_08.ogg"],["Marauder9","Agora seu espírito será um mero brinquedo para os Ancestrais, senhor dos escravos.","Audio/Dialogue/Character/Str/Event/Ma_09.ogg"],["Marauder10","Hinekora, Mãe dos Mortos, esta terra por onde caminho é sua?","Audio/Dialogue/Character/Str/Event/Ma_10.ogg"],["Marauder11","Esqueletos errantes não são Karui.","Audio/Dialogue/Character/Str/Event/Ma_11.ogg"],["Marauder12","O \"espírito negro\". Lavianga fala sobre Kitava, Pai da Corrupção.","Audio/Dialogue/Character/Str/Event/Ma_12.ogg"],["Marauder13","Kaom se ajoelhava perante Kitava. Ele nos traiu!","Audio/Dialogue/Character/Str/Event/Ma_13.ogg"],["Marauder14","Os Karui se lembram de ti, Fairgraves. Sua morte será muito festejada.","Audio/Dialogue/Character/Str/Event/Ma_14.ogg"],["Marauder15","Sua maldição chegou ao fim, sereia. Descanse com Hinekora, Mãe dos Mortos.","Audio/Dialogue/Character/Str/Event/Ma_15.ogg"],["Marauder16","Toda a vida de Wraeclast é distorcida.","Audio/Dialogue/Character/Str/Event/Ma_16.ogg"],["Marauder17","O Império Eterno foi erguido por mentes doentias.","Audio/Dialogue/Character/Str/Event/Ma_17.ogg"],["Marauder18","Ancestrais, perdoem-me. Eu abri o \"Caminho\" para Kitava, Pai da Corrupção.","Audio/Dialogue/Character/Str/Event/Ma_18.ogg"],["Marauder19","Tukohama, meu Pai da Guerra, eu entrego este guerreiro de Kitava a ti.","Audio/Dialogue/Character/Str/Event/Ma_19.ogg"],["Marauder20","Sua morte teve mais honra que sua vida, Kraityn.","Audio/Dialogue/Character/Str/Event/Ma_20.ogg"],["Marauder21","Não existe magia mais negra do que a morte, bruxa.","Audio/Dialogue/Character/Str/Event/Ma_21.ogg"],["Marauder22","Seu reinado acabou, rei dos bandidos.","Audio/Dialogue/Character/Str/Event/Ma_22.ogg"],["Marauder23","Ramako, Pai da Luz, é bom sentir seu calor novamente.","Audio/Dialogue/Character/Str/Event/Ma_23.ogg"],["Marauder24","É ótimo ver você, filha de Ngamakanui.","Audio/Dialogue/Character/Str/Event/Ma_24.ogg"],["Marauder25","Os escravos Karui já foram comercializados como porcos aqui.","Audio/Dialogue/Character/Str/Event/Ma_25.ogg"],["Marauder26","Viver por muito tempo é viver na dor.","Audio/Dialogue/Character/Str/Event/Ma_26.ogg"],["Marauder27","Este é o Caminho Eterno, belo e sem vida.","Audio/Dialogue/Character/Str/Event/Ma_27.ogg"],["Marauder28","Piety, você é de fato a escrava de Kitava, uma filha da Corrupção. ","Audio/Dialogue/Character/Str/Event/Ma_28.ogg"],["Marauder29","Eu tomarei tudo o que Dominus ama, assim como ele tomou de mim. ","Audio/Dialogue/Character/Str/Event/Ma_29.ogg"],["Marauder30","Os Karui não se escondem em torres erguidas pelo medo.","Audio/Dialogue/Character/Str/Event/Ma_30.ogg"],["Marauder31","O Império morre junto com você, Dominus. Os Karui nunca mais serão escravos.","Audio/Dialogue/Character/Str/Event/Ma_31.ogg"],["Marauder32","É uma honra te servir, meu Ancestral.","Audio/Dialogue/Character/Str/Event/Ma_32.ogg"],["Marauder33","\"Seguir um rio morto até o reino de Kitava.\" Bem do jeito que os anciãos da minha terra falavam.","Audio/Dialogue/Character/Str/Event/Ma_36.ogg"],["Marauder34","Os Eternos não tinham respeito por suas próprias terras.","Audio/Dialogue/Character/Str/Event/Ma_37.ogg"],["Marauder35","Seu Império está morto, Voll. Junte-se a ele.","Audio/Dialogue/Character/Str/Event/Ma_38.ogg"],["Marauder36","Eu te escuto, Kitava. Eu caminho pelo seu reino e você será a próxima.","Audio/Dialogue/Character/Str/Event/Ma_39.ogg"],["Marauder37","A barriga de Kitava está roncando. Ele anseia por mim.","Audio/Dialogue/Character/Str/Event/Ma_40.ogg"],["Marauder38","Os Karui e os Maraketh já lutaram juntos. Eu honro tal amizade.","Audio/Dialogue/Character/Str/Event/Ma_41.ogg"],["Marauder39","Você não se alimentará mais, Kitava! Esta é a vontade dos Ancestrais!","Audio/Dialogue/Character/Str/Event/Ma_42.ogg"],["Marauder40","Oriathianos. Eles amam cantar sobre si mesmos.","Audio/Dialogue/Character/Str/Event/Ma_43.ogg"],["Marauder41","Tukohama não te chamou, Kaom. Era Kitava.","Audio/Dialogue/Character/Str/Event/Ma_44.ogg"],["Marauder42","Eles te seguiram, Kaom. Eles confiaram em ti.","Audio/Dialogue/Character/Str/Event/Ma_45.ogg"],["Marauder43","A Tradição Karui diz que não devemos questionar nosso Rei. A Tradição deve mudar.","Audio/Dialogue/Character/Str/Event/Ma_46.ogg"],["Marauder44","Eu rejeito sua honra, Kaom.","Audio/Dialogue/Character/Str/Event/Ma_47.ogg"],["Marauder45","Os Ancestrais chorariam ao ver o que Kaom criou aqui.","Audio/Dialogue/Character/Str/Event/Ma_48.ogg"],["Marauder46","Eu darei a você a honra de morrer como um guerreiro, Kaom. É muito mais do que você merece. ","Audio/Dialogue/Character/Str/Event/Ma_49.ogg"],["Marauder47","O caminho para o coração de um deus é pelas suas tripas.","Audio/Dialogue/Character/Str/Event/Ma_50.ogg"],["Marauder48","Piety, traia-me e eu arrancarei a sua cabeça.","Audio/Dialogue/Character/Str/Event/Ma_51.ogg"],["Marauder49","Sua doença chegou ao fim.","Audio/Dialogue/Character/Str/Event/Ma_52.ogg"],["Marauder50","Esta é a vontade dos Ancestrais.","Audio/Dialogue/Character/Str/Event/Ma_53.ogg"],["Marauder51","Escravo, você está livre.\r\n","Audio/Dialogue/Character/Str/Event/Ma_54.ogg"],["Marauder52","Que os Ancestrais te perdoem, Piety.","Audio/Dialogue/Character/Str/Event/Ma_55.ogg"],["Marauder53","Você me ouviu, Kitava?! Seus escravos estão mortos, e seu reino morre com eles! Você não é mais o Pai da Corrupção! ","Audio/Dialogue/Character/Str/Event/Ma_56.ogg"],["Marauder54","Ainda não posso fazer isso.","Audio/Dialogue/Character/Str/Gameplay/Ma_33a.ogg"],["Marauder55","Minha mana acabou.","Audio/Dialogue/Character/Str/Gameplay/Ma_33b.ogg"],["Marauder56","Não posso carregar isso.","Audio/Dialogue/Character/Str/Gameplay/Ma_33c_01.ogg"],["Marauder57","Não posso carregar isso.","Audio/Dialogue/Character/Str/Gameplay/Ma_33c_02.ogg"],["Marauder58","Ahhhh... bem melhor.","Audio/Dialogue/Character/Str/Gameplay/Ma_33d.ogg"],["Marauder59","Ainda não sou forte o suficiente para usar isso.","Audio/Dialogue/Character/Str/Gameplay/Ma_33e.ogg"],["Marauder60","Eu ainda não sei usar isso.","Audio/Dialogue/Character/Str/Gameplay/Ma_33f_01.ogg"],["Marauder61","Eu ainda não sei usar isso.","Audio/Dialogue/Character/Str/Gameplay/Ma_33f_02.ogg"],["Marauder62","Não sou habilidoso o suficiente para usar isso.","Audio/Dialogue/Character/Str/Gameplay/Ma_33g_01.ogg"],["Marauder63","Não sou habilidoso o suficiente para usar isso.","Audio/Dialogue/Character/Str/Gameplay/Ma_33g_02.ogg"],["Marauder64","Meus instintos me dizem para não destruir isso.","Audio/Dialogue/Character/Str/Gameplay/Ma_33h_01.ogg"],["Marauder65","Meus instintos me dizem para não destruir isso.","Audio/Dialogue/Character/Str/Gameplay/Ma_33h_02.ogg"],["Marauder66","Seria errado fazer isso aqui.","Audio/Dialogue/Character/Str/Gameplay/Ma_33i_01.ogg"],["Marauder67","Seria errado fazer isso aqui.","Audio/Dialogue/Character/Str/Gameplay/Ma_33i_02.ogg"],["Marauder68","Por Tukohama!","Audio/Dialogue/Character/Str/Gameplay/Ma_34a_01.ogg"],["Marauder69","Por Tukohama!","Audio/Dialogue/Character/Str/Gameplay/Ma_34a_02.ogg"],["Marauder70","Vá para Hinekora!","Audio/Dialogue/Character/Str/Gameplay/Ma_34b_01.ogg"],["Marauder71","Vá para Hinekora!","Audio/Dialogue/Character/Str/Gameplay/Ma_34b_02.ogg"],["Marauder72","Volte para a imundície!","Audio/Dialogue/Character/Str/Gameplay/Ma_34c_01.ogg"],["Marauder73","Volte para a imundície!","Audio/Dialogue/Character/Str/Gameplay/Ma_34c_02.ogg"],["Marauder74","Eu te entrego aos Ancestrais!","Audio/Dialogue/Character/Str/Gameplay/Ma_34d_01.ogg"],["Marauder75","Eu te entrego aos Ancestrais!","Audio/Dialogue/Character/Str/Gameplay/Ma_34d_02.ogg"],["Marauder76","Volte para Kitava!","Audio/Dialogue/Character/Str/Gameplay/Ma_34e_01.ogg"],["Marauder77","Volte para Kitava!","Audio/Dialogue/Character/Str/Gameplay/Ma_34e_02.ogg"],["Marauder78","Eu vivo para ver um novo dia.","Audio/Dialogue/Character/Str/Gameplay/Ma_35a.ogg"],["Marauder79","Dominus quis que eu morresse aqui. Eu o desapontarei.","Audio/Dialogue/Character/Str/Gameplay/Ma_35b.ogg"],["Marauder80","Em Wraeclast, matar é viver.","Audio/Dialogue/Character/Str/Gameplay/Ma_35c.ogg"],["Marauder81","Cada morte me traz vida.","Audio/Dialogue/Character/Str/Gameplay/Ma_35d.ogg"],["Marauder82","Os Ancestrais zelam por mim.","Audio/Dialogue/Character/Str/Gameplay/Ma_35e.ogg"],["Marauder83","Eu agradeço, meus Ancestrais. Eu retribuirei seu presente.","Audio/Dialogue/Character/Str/Gameplay/Ma_35f.ogg"],["Marauder84","Esta terra se esqueceu da força Karui. E eu a lembrarei.","Audio/Dialogue/Character/Str/Gameplay/Ma_35g.ogg"],["Ranger1","Nunca vi ermos como este. Dias negros virão.","Audio/Dialogue/Character/Dex/Event/R_02_GetUp.ogg"],["Ranger2","Não há justiça num lugar como este. Apenas miséria.","Audio/Dialogue/Character/Dex/Event/R_03_EnterPrison.ogg"],["Ranger3","Brutus, o que eu fiz por você, eu faria por qualquer animal ferido.","Audio/Dialogue/Character/Dex/Event/R_04_KillBrutus.ogg"],["Ranger4","A vida e a morte vivem lado a lado. Esta é uma terra estranha.","Audio/Dialogue/Character/Dex/Event/R_05_EnterShipGraveyard.ogg"],["Ranger5","Você era apenas um bom homem em uma situação ruim, Fairgraves. ","Audio/Dialogue/Character/Dex/Event/R_06_KillFairgraves.ogg"],["Ranger6","Merveil, isso tudo aconteceu com você... graças ao seu amor por um homem.\r\n","Audio/Dialogue/Character/Dex/Event/R_07_KillMerveil.ogg"],["Ranger7","Faça uma coisa boa ao menos uma vez em sua vida patética, bandido. Alimente os vermes.","Audio/Dialogue/Character/Dex/Event/R_08_KillOak.ogg"],["Ranger8","O rei dos ratos? Agora não passa de um banquete para ratos.","Audio/Dialogue/Character/Dex/Event/R_09_Killkraityn.ogg"],["Ranger9","Odeio arrancar flores bonitas. Mesmo as venenosas como você.\r\n","Audio/Dialogue/Character/Dex/Event/R_10_KillAlira.ogg"],["Ranger10","A luxúria e a crueldade andam de mãos dadas. ","Audio/Dialogue/Character/Dex/Event/R_11_EnterCOS.ogg"],["Ranger11","Isso não devia estar acontecendo. Não no mundo que eu conheço.","Audio/Dialogue/Character/Dex/Event/R_12_ReleaseVaalShadow.ogg"],["Ranger12","Avise à tua laia, pesadelo. Tu não és bem-vindo no meu mundo.","Audio/Dialogue/Character/Dex/Event/R_12b_KillOversoul.ogg"],["Ranger13","A vida não é nada sem a morte. Uma verdade simples que não deve ser esquecida.","Audio/Dialogue/Character/Dex/Event/R_13_EnterWarehouse.ogg"],["Ranger14","Eu nunca me senti tão distante do que conheço e do que amo.","Audio/Dialogue/Character/Dex/Event/R_14_EnterSolaris.ogg"],["Ranger15","Piety... você vai pagar por muita coisa.","Audio/Dialogue/Character/Dex/Event/R_15_EnterLunaris.ogg"],["Ranger16","Esta terra pode até ser capaz de se recuperar sem homens como você, Gravicius.\r\n","Audio/Dialogue/Character/Dex/Event/R_16_KillGravicius.ogg"],["Ranger17","A sua morte não conserta nada, Piety. Mas as coisas não vão piorar com ela.","Audio/Dialogue/Character/Dex/Event/R_17_KillPiety.ogg"],["Ranger18","Por que insistimos em construir montanhas? Por que não escalá-las?","Audio/Dialogue/Character/Dex/Event/R_17b_EnterSceptre.ogg"],["Ranger19","Alguns de nós vivem o suficiente para nos arrependermos de nossos erros. Outros não. Tente não levar para o lado pessoal.","Audio/Dialogue/Character/Dex/Event/R_18_KillDominus.ogg"],["Ranger20","As cidades são chagas na natureza, e Sarn era a pior de todas.","Audio/Dialogue/Character/Dex/Event/R_21_EnterAqueduct.ogg"],["Ranger21","Um lago drenado, um milhão de criaturas perdidas, só para Sarn manter suas latrinas funcionais.","Audio/Dialogue/Character/Dex/Event/R_22_EnterDriedLake.ogg"],["Ranger22","Esta terra não sentira falta da sua laia, Voll.","Audio/Dialogue/Character/Dex/Event/R_23_KillVoll.ogg"],["Ranger23","Este não foi um terremoto natural.","Audio/Dialogue/Character/Dex/Event/R_24_EnterMines_01.ogg"],["Ranger24","Parece que algo está se mexendo durante o sono.","Audio/Dialogue/Character/Dex/Event/R_25_EnterMines_02.ogg"],["Ranger25","Deshret, este é meu presente, de uma mulher guerreira para outra.","Audio/Dialogue/Character/Dex/Event/R_26_FreeDeshret.ogg"],["Ranger26","Esta montanha é profundamente perturbada.","Audio/Dialogue/Character/Dex/Event/R_27_EnterMines_03.ogg"],["Ranger27","Daresso, o único amor que você tinha era por si mesmo.","Audio/Dialogue/Character/Dex/Event/R_28_KillDaresso.ogg"],["Ranger28","Estes não são os Karui que eu conheço.","Audio/Dialogue/Character/Dex/Event/R_29_EnterKaom.ogg"],["Ranger29","Um menininho brabo a menos no mundo. ","Audio/Dialogue/Character/Dex/Event/R_30_KillKaom.ogg"],["Ranger30","Então é assim que é a vida dentro de um pesadelo.","Audio/Dialogue/Character/Dex/Event/R_31_EnterBelly.ogg"],["Ranger31","Todo tipo de crime contra a natureza imaginável.","Audio/Dialogue/Character/Dex/Event/R_32_EnterHarvest.ogg"],["Ranger32","Sua laia não deixa nada além de cicatrizes, Maligaro.","Audio/Dialogue/Character/Dex/Event/R_33_KillMaligaro.ogg"],["Ranger33","Nós destruímos tanta beleza ao tentar criar nossas \"lindezas\".","Audio/Dialogue/Character/Dex/Event/R_34_KillShavronne.ogg"],["Ranger34","Doedre, você foi sua pior inimiga.","Audio/Dialogue/Character/Dex/Event/R_35_KillDoedre.ogg"],["Ranger35","Piety, você deveria ter aceitado a Morte. Assim deseja a natureza, como sempre.","Audio/Dialogue/Character/Dex/Event/R_36_AfterPietyDies.ogg"],["Ranger36","Você pretendia matar o mundo que eu amo. Você realmente acha que eu deixaria você e sua Besta fazerem isso, Malachai? ","Audio/Dialogue/Character/Dex/Event/R_37_KillMalachai.ogg"],["Ranger37","Ainda não sou capaz disso.","Audio/Dialogue/Character/Dex/Gameplay/R_19a_Cooldown_01.ogg"],["Ranger38","Ainda não sou capaz disso.","Audio/Dialogue/Character/Dex/Gameplay/R_19a_Cooldown_02.ogg"],["Ranger39","Minha Mana acabou.","Audio/Dialogue/Character/Dex/Gameplay/R_19b_Mana_01.ogg"],["Ranger40","Minha Mana acabou.","Audio/Dialogue/Character/Dex/Gameplay/R_19b_Mana_02.ogg"],["Ranger41","Isso só me atrapalharia.","Audio/Dialogue/Character/Dex/Gameplay/R_19c_Inventory_01.ogg"],["Ranger42","Isso só me atrapalharia.","Audio/Dialogue/Character/Dex/Gameplay/R_19c_Inventory_02.ogg"],["Ranger43","Ahhhh... assim é melhor.","Audio/Dialogue/Character/Dex/Gameplay/R_19d_Flask_01.ogg"],["Ranger44","Ahhhh... assim é melhor.","Audio/Dialogue/Character/Dex/Gameplay/R_19d_Flask_02.ogg"],["Ranger45","Preciso me fortalecer para isso.","Audio/Dialogue/Character/Dex/Gameplay/R_19e_StrLow_01.ogg"],["Ranger46","Preciso me fortalecer para isso.","Audio/Dialogue/Character/Dex/Gameplay/R_19e_StrLow_02.ogg"],["Ranger47","Não sou nenhum cretino, mas isso me superou.","Audio/Dialogue/Character/Dex/Gameplay/R_19f_IntLow_01.ogg"],["Ranger48","Não sou nenhum cretino, mas isso me superou.","Audio/Dialogue/Character/Dex/Gameplay/R_19f_IntLow_02.ogg"],["Ranger49","Eu preciso afiar meus reflexos antes de usar isso.","Audio/Dialogue/Character/Dex/Gameplay/R_19g_DexLow_01.ogg"],["Ranger50","Eu preciso afiar meus reflexos antes de usar isso.","Audio/Dialogue/Character/Dex/Gameplay/R_19g_DexLow_02.ogg"],["Ranger51","Tenho um palpite de que vou precisar disso.","Audio/Dialogue/Character/Dex/Gameplay/R_19h_QuestItem_01.ogg"],["Ranger52","Tenho um palpite de que vou precisar disso.","Audio/Dialogue/Character/Dex/Gameplay/R_19h_QuestItem_02.ogg"],["Ranger53","Eu que não gostaria de fazer isso aqui.","Audio/Dialogue/Character/Dex/Gameplay/R_19I_SkillsTown_01.ogg"],["Ranger54","Eu que não gostaria de fazer isso aqui.","Audio/Dialogue/Character/Dex/Gameplay/R_19I_SkillsTown_02.ogg"],["Ranger55","A beleza crescerá a partir dos seus restos.","Audio/Dialogue/Character/Dex/Gameplay/R_19J_RareKill_01.ogg"],["Ranger56","A beleza crescerá a partir dos seus restos.","Audio/Dialogue/Character/Dex/Gameplay/R_19J_RareKill_02.ogg"],["Ranger57","Pobre criatura corrompida.","Audio/Dialogue/Character/Dex/Gameplay/R_19J_RareKill_03.ogg"],["Ranger58","Pobre criatura corrompida.","Audio/Dialogue/Character/Dex/Gameplay/R_19J_RareKill_04.ogg"],["Ranger59","Podar um galho pode salvar uma árvore.","Audio/Dialogue/Character/Dex/Gameplay/R_19J_RareKill_05.ogg"],["Ranger60","Podar um galho pode salvar uma árvore.","Audio/Dialogue/Character/Dex/Gameplay/R_19J_RareKill_06.ogg"],["Ranger61","Eu te entrego à terra.","Audio/Dialogue/Character/Dex/Gameplay/R_19J_RareKill_07.ogg"],["Ranger62","Eu te entrego à terra.","Audio/Dialogue/Character/Dex/Gameplay/R_19J_RareKill_08.ogg"],["Ranger63","Vou acabar com a sua desgraça.","Audio/Dialogue/Character/Dex/Gameplay/R_19J_RareKill_09.ogg"],["Ranger64","Vou acabar com a sua desgraça.","Audio/Dialogue/Character/Dex/Gameplay/R_19J_RareKill_10.ogg"],["Ranger65","Eu vivo e aprendo.","Audio/Dialogue/Character/Dex/Gameplay/R_20_LevelUp_01.ogg"],["Ranger66","Ainda estou respirando. Isso é um bom sinal.","Audio/Dialogue/Character/Dex/Gameplay/R_20_LevelUp_02.ogg"],["Ranger67","Os vermes vão ter que esperar mais por esta refeição.","Audio/Dialogue/Character/Dex/Gameplay/R_20_LevelUp_03.ogg"],["Ranger68","A dor gera força. E isso representa a natureza.","Audio/Dialogue/Character/Dex/Gameplay/R_20_LevelUp_04.ogg"],["Ranger69","Quando a presa se torna mais feroz, a Caçadora também precisa sê-lo.","Audio/Dialogue/Character/Dex/Gameplay/R_20_LevelUp_05.ogg"],["Ranger70","Mais próximo do topo da cadeia alimentar.","Audio/Dialogue/Character/Dex/Gameplay/R_20_LevelUp_06.ogg"],["Ranger71","Parece que entrei em acordo com esta terra.","Audio/Dialogue/Character/Dex/Gameplay/R_20_LevelUp_07.ogg"],["Ranger72","Você me deu tanto. O que posso fazer por você, Wraeclast? ","Audio/Dialogue/Character/Dex/Gameplay/R_20_LevelUp_08.ogg"],["Witch1","Até a areia treme com malícia. Existe um poder aqui que chama por mim.","Audio/Dialogue/Character/Int/Event/Witch_01.ogg"],["Witch2","Eu prefiro queimar do que chamar este lugar de lar.","Audio/Dialogue/Character/Int/Event/Witch_02.ogg"],["Witch3","As sereias parecem estar se alimentando bem.","Audio/Dialogue/Character/Int/Event/Witch_03.ogg"],["Witch4","O ar fede com taumaturgia. Acho que consigo aprender umas coisinhas aqui.","Audio/Dialogue/Character/Int/Event/Witch_04.ogg"],["Witch5","Criaturas tristes em cantos escuros... tristes por tanto, tanto tempo.","Audio/Dialogue/Character/Int/Event/Witch_05.ogg"],["Witch6","Eu adoraria ver as entranhas deste feitiço. Não gosto de faxina.","Audio/Dialogue/Character/Int/Event/Witch_06.ogg"],["Witch7","Os mortos em breve se erguerão para mim, não contra mim.","Audio/Dialogue/Character/Int/Event/Witch_08.ogg"],["Witch8","Ora, bruto, se você fosse uma criação minha, você não cairia tão facilmente.","Audio/Dialogue/Character/Int/Event/Witch_09.ogg"],["Witch9","E é assim que se morre direito, marinheiro. Sem meias-medidas, muito obrigado.","Audio/Dialogue/Character/Int/Event/Witch_10.ogg"],["Witch10","Pobre peixeira! Foi o amor que fez isso com você.","Audio/Dialogue/Character/Int/Event/Witch_11.ogg"],["Witch11","Esta terra não tem tempo para déspotas avarentos como você, Oak.","Audio/Dialogue/Character/Int/Event/W_09_KillOak.ogg"],["Witch12","É bem decepcionante. Eu normalmente gosto de ratos.","Audio/Dialogue/Character/Int/Event/Witch_13.ogg"],["Witch13","Você perdeu uma bela lição, Irmã. Nuca deixe o poder te subir à cabeça.","Audio/Dialogue/Character/Int/Event/Witch_14.ogg"],["Witch14","Que pena. Achei que podíamos ser amigos.","Audio/Dialogue/Character/Int/Event/Witch_15.ogg"],["Witch15","Você queria me queimar em Oriath, Gravicius. Não foi legal da sua parte.","Audio/Dialogue/Character/Int/Event/Witch_16.ogg"],["Witch16","Eu amei seu trabalho, Piety. Era de você que eu não gostava.","Audio/Dialogue/Character/Int/Event/Witch_17.ogg"],["Witch17","Ninguém vai chorar por você, Dominus. Nem uma alma sequer.","Audio/Dialogue/Character/Int/Event/Witch_18.ogg"],["Witch18","Fascinante.","Audio/Dialogue/Character/Int/Event/Witch_19.ogg"],["Witch19","Um segundo para recuperar meu fôlego.","Audio/Dialogue/Character/Int/Gameplay/Witch_Com_01.ogg"],["Witch20","Eu preciso de mais mana.","Audio/Dialogue/Character/Int/Gameplay/Witch_Com_02.ogg"],["Witch21","Mas. Quanta. Tralha.","Audio/Dialogue/Character/Int/Gameplay/Witch_Com_03.ogg"],["Witch22","Ah, que gratificante.","Audio/Dialogue/Character/Int/Gameplay/Witch_Com_04.ogg"],["Witch23","A vida é fugaz!","Audio/Dialogue/Character/Int/Gameplay/Witch_Com_05.ogg"],["Witch24","Não tenho os músculos para isso.","Audio/Dialogue/Character/Int/Gameplay/Witch_Com_06.ogg"],["Witch25","Estou perplexo com isso.","Audio/Dialogue/Character/Int/Gameplay/Witch_Com_07.ogg"],["Witch26","Preciso ser mais ágil para isso.","Audio/Dialogue/Character/Int/Gameplay/Witch_Com_08.ogg"],["Witch27","Este item sussurra sobre o destino.","Audio/Dialogue/Character/Int/Gameplay/Witch_Com_09.ogg"],["Witch28","Isso só tornaria a vida mais complicada.","Audio/Dialogue/Character/Int/Gameplay/Witch_Com_10.ogg"],["Witch29","E eu achava que estaria morta agora.","Audio/Dialogue/Character/Int/Gameplay/Witch_Level_01.ogg"],["Witch30","Aprender é viver.","Audio/Dialogue/Character/Int/Gameplay/Witch_Level_02.ogg"],["Witch31","Acredito que esta Wraeclast vai servir.","Audio/Dialogue/Character/Int/Gameplay/Witch_Level_03.ogg"],["Witch32","O destino sorri com dentes afiados.","Audio/Dialogue/Character/Int/Gameplay/Witch_Level_04.ogg"],["Witch33","Eu quase nem me reconheço.","Audio/Dialogue/Character/Int/Gameplay/Witch_Level_05.ogg"],["Witch34","A terra aprenderá a ouvir meus comandos.","Audio/Dialogue/Character/Int/Gameplay/Witch_Level_06.ogg"],["Witch35","Eu não preciso mais de medo. O destino garantiu isso.","Audio/Dialogue/Character/Int/Gameplay/Witch_Level_07.ogg"],["Witch36","Eu conheço este fedor. Assim como minhas irmãs... na pira. ","Audio/Dialogue/Character/Int/Event/W_04b_EnterCannibalBay.ogg"],["Witch37","É bom ver que ainda existe vida no cadáver deste continente.","Audio/Dialogue/Character/Int/Event/W_08_EnterForest.ogg"],["Witch38","Sarn, a cidade que deu à luz a um império. Ora, você vai pagar por muita coisa.","Audio/Dialogue/Character/Int/Event/W_14b_EnterSarn.ogg"],["Witch39","Quando você constrói algo assim, a perseguição vira um meio de vida.","Audio/Dialogue/Character/Int/Event/W_15b_EnterCrematorium.ogg"],["Witch40","Pobre marinheiro. Condenado a ir para onde os ventos o soprarem.","Audio/Dialogue/Character/Int/Event/W_16b_AfterFairgraves.ogg"],["Witch41","Lembre-se, Dominus. O que sobe deve descer.","Audio/Dialogue/Character/Int/Event/W_19b_EnterSceptre.ogg"],["Witch42","Aquela água fede de corrupção. Vamos ver de onde isso vem.","Audio/Dialogue/Character/Int/Event/W_23_EnterAqueduct.ogg"],["Witch43","Como eu sempre me meto nestes lugares tão encantadores?","Audio/Dialogue/Character/Int/Event/W_24_EnterDriedLake.ogg"],["Witch44","A taumaturgia continua superando você, não é mesmo, Voll?","Audio/Dialogue/Character/Int/Event/W_25_KillVoll.ogg"],["Witch45","Sim, pequena montanha. Também é bom te ver!","Audio/Dialogue/Character/Int/Event/W_26_EnterMines01.ogg"],["Witch46","Acho que isso gosta de mim.","Audio/Dialogue/Character/Int/Event/W_27_EnterMines2.ogg"],["Witch47","Existem tantos espíritos aprisionados neste lugar. Eu posso senti-los.","Audio/Dialogue/Character/Int/Event/W_28_FreeDeshret.ogg"],["Witch48","Não tema, pequena montanha. Tudo acabará em breve.","Audio/Dialogue/Character/Int/Event/W_29_EnterMines3.ogg"],["Witch49","Sinto muito em te dizer, Daresso, mas... ela não é real.","Audio/Dialogue/Character/Int/Event/W_30_KillDaresso.ogg"],["Witch50","Então é assim que é a vida dentro da cabeça de um rei Karui. Espero que não seja sempre assim.","Audio/Dialogue/Character/Int/Event/W_31_EnterKaom.ogg"],["Witch51","É isso o que você ganha por perder a paciência, Kaom.","Audio/Dialogue/Character/Int/Event/W_32-KillKaom.ogg"],["Witch52","Não é todo dia que você consegue passear num pesadelo vivo.","Audio/Dialogue/Character/Int/Event/W_33_EnterBelly.ogg"],["Witch53","Eu subestimei a Piety, pelo visto. Ótimo! Eu gosto de surpresas.","Audio/Dialogue/Character/Int/Event/W_34_EnterHarvest.ogg"],["Witch54","Odeio criticar, mas... Já vi melhores.","Audio/Dialogue/Character/Int/Event/W_35_KillMaligaro.ogg"],["Witch55","Depois de Brutus, eu torço para que não veja mais nenhum trabalho seu.","Audio/Dialogue/Character/Int/Event/W_36_KillShav.ogg"],["Witch56","Oh, Doedre. Nós bruxas precisamos ter certos padrões.","Audio/Dialogue/Character/Int/Event/W_37_KillDoedre.ogg"],["Witch57","É bom que ele não ouça, Piety. Isso vai deixar tudo mais divertido!","Audio/Dialogue/Character/Int/Event/W_38_AfterPiety.ogg"],["Witch58","Pobre Malachai, com tanto medo da Morte. Agora vocês dois podem se conhecer melhor. Não é tão ruim depois que você se acostuma.","Audio/Dialogue/Character/Int/Event/W_39_KillMalachai.ogg"],["Witch59","Apenas quando eu estiver pronta, e não antes.","Audio/Dialogue/Character/Int/Gameplay/W_21_CoolDown_01.ogg"],["Witch60","Apenas quando eu estiver pronta, e não antes.","Audio/Dialogue/Character/Int/Gameplay/W_21_CoolDown_02.ogg"],["Witch61","A vida é curte. Acostume-se com isso.","Audio/Dialogue/Character/Int/Gameplay/W_21_RareKill_01.ogg"],["Witch62","Opa! Que atrapalhada.","Audio/Dialogue/Character/Int/Gameplay/W_21_RareKill_02.ogg"],["Witch63","Tudo morre.","Audio/Dialogue/Character/Int/Gameplay/W_21_RareKill_03.ogg"],["Witch64","Eu gosto mais de você assim.","Audio/Dialogue/Character/Int/Gameplay/W_21_RareKill_04.ogg"],["Witch65","A vida é preciosa demais para perdê-la com você.","Audio/Dialogue/Character/Int/Gameplay/W_21_RareKill_05.ogg"],["Witch66","Ou você domina o Pesadelo, ou ele domina você.","Audio/Dialogue/Character/Int/Event/W17_EnterLunaris.ogg"],["Duelist1","Não é a melhor das arenas, mas vai servir por enquanto.","Audio/Dialogue/Character/StrDex/Event/D02.ogg"],["Duelist2","Até os mortos se erguem para me desafiar aqui.","Audio/Dialogue/Character/StrDex/Event/D03.ogg"],["Duelist3","Briga de rinha, então. Sem problemas.","Audio/Dialogue/Character/StrDex/Event/D04.ogg"],["Duelist4","Técnica sobre força, sempre.","Audio/Dialogue/Character/StrDex/Event/D05.ogg"],["Duelist5","Estamos perante as portas da morte. Primeiro as damas, bela Merveil.","Audio/Dialogue/Character/StrDex/Event/D06.ogg"],["Duelist6","Quase sinto pena desses pobres cães do mar.","Audio/Dialogue/Character/StrDex/Event/D07.ogg"],["Duelist7","Não é todo dia que se duela com uma lenda. Eu te agradeço, Fairgraves.","Audio/Dialogue/Character/StrDex/Event/D08.ogg"],["Duelist8","Lutou bem, Oak. Pena termos apenas as árvores como público.","Audio/Dialogue/Character/StrDex/Event/D09.ogg"],["Duelist9","Uma pena que sua mente não foi tão veloz quanto suas lâminas, rato da ponte.","Audio/Dialogue/Character/StrDex/Event/D10.ogg"],["Duelist10","É difícil conjurar um feitiço com uma lâmina na garganta, não é, bruxa?","Audio/Dialogue/Character/StrDex/Event/D11.ogg"],["Duelist11","Um lugar de sonhos estragados. Tenho que ter cuidado por aqui.","Audio/Dialogue/Character/StrDex/Event/D12.ogg"],["Duelist12","Isso não é bom.","Audio/Dialogue/Character/StrDex/Event/D13.ogg"],["Duelist13","Um duelo sem igual. Acho que estou começando a gostar dessa Wraeclast.","Audio/Dialogue/Character/StrDex/Event/D14.ogg"],["Duelist14","Eu prefiro uma luta justa. Duvido que vá ter uma aqui.","Audio/Dialogue/Character/StrDex/Event/D15.ogg"],["Duelist15","Quem sabe ainda exista glória no velho império.","Audio/Dialogue/Character/StrDex/Event/D16.ogg"],["Duelist16","O famoso antro de Piety. Vamos ver se a bruxa nojenta está aí.","Audio/Dialogue/Character/StrDex/Event/D17.ogg"],["Duelist17","Morrer em batalha... a única coisa honrada que você já fez, Gravicius.","Audio/Dialogue/Character/StrDex/Event/D18.ogg"],["Duelist18","Desculpe, coisa linda, mas alguém tinha que impedir toda essa feiura.","Audio/Dialogue/Character/StrDex/Event/D19.ogg"],["Duelist19","Escalar a torre, matar o rei louco. Que nem as histórias que mamãe contava.","Audio/Dialogue/Character/StrDex/Event/D20.ogg"],["Duelist20","Uma morte justa por um exílio injusto. Acho que estamos quites, Alto Templário.","Audio/Dialogue/Character/StrDex/Event/D21.ogg"],["Duelist21","Um passeio por um canal pitoresco. Um descanso nas montanhas. O que poderia ser mais relaxante? ","Audio/Dialogue/Character/StrDex/Event/D24.ogg"],["Duelist22","Bem, isso é... sinistro.","Audio/Dialogue/Character/StrDex/Event/D25.ogg"],["Duelist23","Parece-me, Voll, que eu acabei de te fazer um favor.","Audio/Dialogue/Character/StrDex/Event/D26.ogg"],["Duelist24","Nada como uma entrada estrondosa.","Audio/Dialogue/Character/StrDex/Event/D27.ogg"],["Duelist25","Na verdade, não sei se gosto dessa ideia.","Audio/Dialogue/Character/StrDex/Event/D28.ogg"],["Duelist26","Sempre contente em satisfazer uma donzela em perigo.","Audio/Dialogue/Character/StrDex/Event/D29.ogg"],["Duelist27","Enterrado sob toneladas de rochas? Uma péssima forma de encerrar esta minha história.","Audio/Dialogue/Character/StrDex/Event/D30.ogg"],["Duelist28","Mas que maravilha que é estar de volta na arena!","Audio/Dialogue/Character/StrDex/Event/D31.ogg"],["Duelist29","Sua glória será eternizada nas canções, Daresso. Isso eu te prometo.","Audio/Dialogue/Character/StrDex/Event/D32.ogg"],["Duelist30","Já ouvi um Karui falar sobre sua \"ilha dos mortos\". Acho que é essa mesmo.","Audio/Dialogue/Character/StrDex/Event/D33.ogg"],["Duelist31","Se alegre em ter recebido a morte de um guerreiro, Kaom.","Audio/Dialogue/Character/StrDex/Event/D34.ogg"],["Duelist32","Eu estou dentro... dentro da Besta!","Audio/Dialogue/Character/StrDex/Event/D35.ogg"],["Duelist33","Essa história fica ainda mais bizarra a cada passo meu.","Audio/Dialogue/Character/StrDex/Event/D36.ogg"],["Duelist34","Alegre-se, Maligaro. O trabalho de um artista sempre vale mais após a sua morte.","Audio/Dialogue/Character/StrDex/Event/D37.ogg"],["Duelist35","Sinto te dizer que elogios não funcionam comigo, cara dama.","Audio/Dialogue/Character/StrDex/Event/D38.ogg"],["Duelist36","Não entendi nem uma palavra sua, Doedre. Pelo visto é melhor assim.","Audio/Dialogue/Character/StrDex/Event/D39.ogg"],["Duelist37","Ora essa, eu nunca negaria o último desejo de uma dama.","Audio/Dialogue/Character/StrDex/Event/D40.ogg"],["Duelist38","Dá uma sensação estranha quando a luta termina. Eu venci. O pesadelo acabou. ","Audio/Dialogue/Character/StrDex/Event/D41.ogg"],["Duelist39","Acho que isso vai ser útil em algum momento.","Audio/Dialogue/Character/StrDex/Gameplay/D22_DestroyQuestItem_01.ogg"],["Duelist40","Acho que isso vai ser útil em algum momento.","Audio/Dialogue/Character/StrDex/Gameplay/D22_DestroyQuestItem_02.ogg"],["Duelist41","Preciso ser mais hábil para usar isso.","Audio/Dialogue/Character/StrDex/Gameplay/D22_DexStatLow_01.ogg"],["Duelist42","Preciso ser mais hábil para usar isso.","Audio/Dialogue/Character/StrDex/Gameplay/D22_DexStatLow_02.ogg"],["Duelist43","Ah... que delícia.","Audio/Dialogue/Character/StrDex/Gameplay/D22_HeathFlaskOnLow_01.ogg"],["Duelist44","Ah... que delícia.","Audio/Dialogue/Character/StrDex/Gameplay/D22_HeathFlaskOnLow_02.ogg"],["Duelist45","Não consigo entender isso.","Audio/Dialogue/Character/StrDex/Gameplay/D22_IntStatLow_01.ogg"],["Duelist46","Não consigo entender isso.","Audio/Dialogue/Character/StrDex/Gameplay/D22_IntStatLow_02.ogg"],["Duelist47","Prefiro viajar sem muito peso.","Audio/Dialogue/Character/StrDex/Gameplay/D22_InvFull_01.ogg"],["Duelist48","Prefiro viajar sem muito peso.","Audio/Dialogue/Character/StrDex/Gameplay/D22_InvFull_02.ogg"],["Duelist49","Um oponente digno!","Audio/Dialogue/Character/StrDex/Gameplay/D22_MonsterKillV1_01.ogg"],["Duelist50","Um oponente digno!","Audio/Dialogue/Character/StrDex/Gameplay/D22_MonsterKillV1_02.ogg"],["Duelist51","Você morre muito bem!","Audio/Dialogue/Character/StrDex/Gameplay/D22_MonsterKillV2_01.ogg"],["Duelist52","Você morre muito bem!","Audio/Dialogue/Character/StrDex/Gameplay/D22_MonsterKillV2_02.ogg"],["Duelist53","Fácil demais!","Audio/Dialogue/Character/StrDex/Gameplay/D22_MonsterKillV3_01.ogg"],["Duelist54","Fácil demais!","Audio/Dialogue/Character/StrDex/Gameplay/D22_MonsterKillV3_02.ogg"],["Duelist55","A prática leva à perfeição!","Audio/Dialogue/Character/StrDex/Gameplay/D22_MonsterKillV4_01.ogg"],["Duelist56","A prática leva à perfeição!","Audio/Dialogue/Character/StrDex/Gameplay/D22_MonsterKillV4_02.ogg"],["Duelist57","Eu adoro o fedor da vitória!","Audio/Dialogue/Character/StrDex/Gameplay/D22_MonsterKillV5_01.ogg"],["Duelist58","Eu adoro o fedor da vitória!","Audio/Dialogue/Character/StrDex/Gameplay/D22_MonsterKillV5_02.ogg"],["Duelist59","Meu espírito está gasto.","Audio/Dialogue/Character/StrDex/Gameplay/D22_OutOfMana_01.ogg"],["Duelist60","Meu espírito está gasto.","Audio/Dialogue/Character/StrDex/Gameplay/D22_OutOfMana_02.ogg"],["Duelist61","Ainda não posso fazer isso.","Audio/Dialogue/Character/StrDex/Gameplay/D22_SkillCooldown_01.ogg"],["Duelist62","Ainda não posso fazer isso.","Audio/Dialogue/Character/StrDex/Gameplay/D22_SkillCooldown_02.ogg"],["Duelist63","Preciso de mais músculos para isso.","Audio/Dialogue/Character/StrDex/Gameplay/D22_StrStatLow_01.ogg"],["Duelist64","Preciso de mais músculos para isso.","Audio/Dialogue/Character/StrDex/Gameplay/D22_StrStatLow_02.ogg"],["Duelist65","A hora para isso não é agora.","Audio/Dialogue/Character/StrDex/Gameplay/D22_UseSkillInTown_01.ogg"],["Duelist66","A hora para isso não é agora.","Audio/Dialogue/Character/StrDex/Gameplay/D22_UseSkillInTown_02.ogg"],["Duelist67","É bom ainda estar respirando.","Audio/Dialogue/Character/StrDex/Gameplay/D23_LevelUp_01.ogg"],["Duelist68","Parece que essa nova arena combina comigo.","Audio/Dialogue/Character/StrDex/Gameplay/D23_LevelUp_02.ogg"],["Duelist69","Não há melhor local de treino do que Wraeclast.","Audio/Dialogue/Character/StrDex/Gameplay/D23_LevelUp_03.ogg"],["Duelist70","Meus fãs em Oriath mal vão me reconhecer.","Audio/Dialogue/Character/StrDex/Gameplay/D23_LevelUp_04.ogg"],["Duelist71","Estou começando a achar que vencer e morrer não são tudo nessa vida.","Audio/Dialogue/Character/StrDex/Gameplay/D23_LevelUp_05.ogg"],["Duelist72","Aposto que agora consigo enfrentar até o grande Daresso.","Audio/Dialogue/Character/StrDex/Gameplay/D23_LevelUp_06.ogg"],["Duelist73","Acho que está na hora de largar o sonho de voltar para casa. Meio apertado no pescoço.","Audio/Dialogue/Character/StrDex/Gameplay/D23_LevelUp_07.ogg"],["Shadow1","A Prisão de Teópolis é brincadeira de criança perto disso. As coisas não são como antigamente.","Audio/Dialogue/Character/DexInt/Event/Shadow_02.ogg"],["Shadow2","Normalmente sou eu quem faz os fantasmas. Alguém andou bem ocupado.","Audio/Dialogue/Character/DexInt/Event/Shadow_03.ogg"],["Shadow3","Eu já vi lugares muito sombrios na minha profissão, mas isso aqui é demais.","Audio/Dialogue/Character/DexInt/Event/Shadow_04.ogg"],["Shadow4","Dizem para tratar a vida e a morte com a mesma graça. Se eu fosse a Morte, eu ficaria onfendido com esse lugar.","Audio/Dialogue/Character/DexInt/Event/Shadow_05.ogg"],["Shadow5","Nem uma poeira sequer. Cada tijolo no seu devido lugar. Alguém anda com muito tempo livre.","Audio/Dialogue/Character/DexInt/Event/Shadow_06.ogg"],["Shadow6","Bebi um frasco de leite podre de Lethe uma vez. Tinha o mesmo gosto que esse lugar.","Audio/Dialogue/Character/DexInt/Event/Shadow_07.ogg"],["Shadow7","\"Grande\" só quer dizer \"mais espaço para enfiar uma espada\".","Audio/Dialogue/Character/DexInt/Event/Shadow_08.ogg"],["Shadow8","Eu quase sinto pena de você, Fairgraves. Morrer duas vezes não deve... ser divertido.","Audio/Dialogue/Character/DexInt/Event/Shadow_09.ogg"],["Shadow9","Minha primeira dança com uma moça direita. Pena que ela se largou desse jeito.","Audio/Dialogue/Character/DexInt/Event/Shadow_10.ogg"],["Shadow10","Ninguém mandou trazer um pauzinho para uma briga de faca.","Audio/Dialogue/Character/DexInt/Event/Shadow_11.ogg"],["Shadow11","Ninguém precisa dessa esgrima bonitinha. Eu só preciso de uma boa estocada.","Audio/Dialogue/Character/DexInt/Event/Shadow_12.ogg"],["Shadow12","Por acaso a terra se mexeu para você, neném? Provavelmente. Você atingiu o chão com bastante força.","Audio/Dialogue/Character/DexInt/Event/Shadow_13.ogg"],["Shadow13","Como todo assassino, eu gosto de escuridão... mas isso foi exagero.","Audio/Dialogue/Character/DexInt/Event/Shadow_14.ogg"],["Shadow14","Se eu tivesse te matado em Oriath, eu seria banhado em ouro. Nada de justiça, né?","Audio/Dialogue/Character/DexInt/Event/Shadow_15.ogg"],["Shadow15","Não tento levar meu trabalho para o lado pessoal, mas no seu caso, Piety, eu abro uma deliciosa exceção.","Audio/Dialogue/Character/DexInt/Event/Shadow_16.ogg"],["Shadow16","Engraçado, vossa majestade. Sempre achei que você fosse maior.","Audio/Dialogue/Character/DexInt/Event/Shadow_17.ogg"],["Shadow17","Ah, nada como um bom mergulho para começar o dia. Onde diabos eu estou?","Audio/Dialogue/Character/DexInt/Event/Shadow_01.ogg"],["Shadow18","Este Sombra está começando a se sentir meio incomodado.","Audio/Dialogue/Character/DexInt/Event/Shadow_18.ogg"],["Shadow19","Pouca mana!","Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Com_01.ogg"],["Shadow20","Preciso de mais bolsos.","Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Com_02.ogg"],["Shadow21","Melhor assim!","Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Com_04.ogg"],["Shadow22","Não sou forte suficiente para isso.","Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Com_05.ogg"],["Shadow23","Não sou esperto o suficiente para isso. Ainda.","Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Com_06.ogg"],["Shadow24","Muito complicado, até para mim.","Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Com_07.ogg"],["Shadow25","Vou guardar isso para depois.","Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Com_08.ogg"],["Shadow26","Acho que não preciso fazer isso agora.","Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Com_09.ogg"],["Shadow27","É bom ainda estar vivo.","Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Level_01.ogg"],["Shadow28","Estou impressionado como esse lugar me quer morto.","Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Level_02.ogg"],["Shadow29","Com cada morte, eu vivo cada vez mais.","Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Level_03.ogg"],["Shadow30","Sou tão bom nisso que até me assusto.","Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Level_04.ogg"],["Shadow31","Eu sou um jardineiro, limpando as ervas daninhas para que as plantações cresçam.","Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Level_05.ogg"],["Shadow32","Não adianta olhar para trás... só tem morte. Muita morte.","Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Level_06.ogg"],["Shadow33","Eu até questionaria o que eu me tornei, se estivesse afim. Mas eu não.","Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Level_07.ogg"],["Shadow34","Pobre Fairgraves. Seus planos nunca acabam bem, né?","Audio/Dialogue/Character/DexInt/Event/SH_AfterFairgraves.ogg"],["Shadow35","Esse sim é um contrato que eu vou gostar de cumprir, Piety.","Audio/Dialogue/Character/DexInt/Event/SH_AfterPiety.ogg"],["Shadow36","Tanta água e nenhum barco por aí. Hora de continuar a andar e matar.","Audio/Dialogue/Character/DexInt/Event/SH_EnterAqueduct_01.ogg"],["Shadow37","Esta Besta é uma criatura e tanto. É quase uma pena ter de matá-la.","Audio/Dialogue/Character/DexInt/Event/SH_EnterBeast.ogg"],["Shadow38","Entrei na fortaleza da Guarda Negra... como uma raposa num galinheiro.","Audio/Dialogue/Character/DexInt/Event/SH_EnterBlackguard.ogg"],["Shadow39","A fornalha do abatedouro... esse lugar tem o mesmo cheiro.","Audio/Dialogue/Character/DexInt/Event/SH_EnterCoast.ogg"],["Shadow40","Floresta. A Morte tem muitos refúgios numa floresta. ","Audio/Dialogue/Character/DexInt/Event/SH_EnterForest.ogg"],["Shadow41","Estou trabalhando com Piety. Fica bem mais estranho de dizer isso em voz alta.","Audio/Dialogue/Character/DexInt/Event/SH_EnterHarvest.ogg"],["Shadow42","Eu já entrei numa loucura de três dias depois de umas coisas que eu usei. Me sinto do mesmo jeito nesse lugar.","Audio/Dialogue/Character/DexInt/Event/SH_EnterLunaris.ogg"],["Shadow43","A escuridão me engoliu, e pelo visto, estou causando uma leve indigestão.","Audio/Dialogue/Character/DexInt/Event/SH_EnterMines1.ogg"],["Shadow44","Alguém ou alguma coisa anda bem ocupada nas vísceras desta montanha.","Audio/Dialogue/Character/DexInt/Event/SH_EnterMines2.ogg"],["Shadow45","Só espero que essas vísceras constipadas não evacuem enquanto ainda estou aqui dentro.","Audio/Dialogue/Character/DexInt/Event/SH_EnterMines3.ogg"],["Shadow46","Ah! É tão bom estar de volta na cidade. ","Audio/Dialogue/Character/DexInt/Event/SH_EnterSarn.ogg"],["Shadow47","Quem quer que tenha construído isso precisava muito compensar por alguma coisa.","Audio/Dialogue/Character/DexInt/Event/SH_EnterScepter.ogg"],["Shadow48","É sempre reconfortante testemunhar uma morte permanente e honesta.","Audio/Dialogue/Character/DexInt/Event/SH_FreeDeshret.ogg"],["Shadow49","Ei Merveil, pode cantar algo para mim também? Algo animado, por favor.","Audio/Dialogue/Character/DexInt/Event/SH_KillDaresso.ogg"],["Shadow50","Ah, deixa de balbuciar.","Audio/Dialogue/Character/DexInt/Event/SH_KillDoedre.ogg"],["Shadow51","É possível matar alguém que já morreu?","Audio/Dialogue/Character/DexInt/Event/SH_KillFirstZombie.ogg"],["Shadow52","É bem aí onde você errou, Malachai. A morte é a única coisa que dá significado à vida.","Audio/Dialogue/Character/DexInt/Event/SH_KillMalachai.ogg"],["Shadow53","Eu não entendo muito de Arte, mas eu sei do que eu gosto.","Audio/Dialogue/Character/DexInt/Event/SH_KillMaligaro.ogg"],["Shadow54","Para alguém que se importa tanto com as aparências, essa foi uma morte bem feia.","Audio/Dialogue/Character/DexInt/Event/SH_KillShavronne.ogg"],["Shadow55","Eu acabei de matar um imperador. Com uma pena desse tamanho, vou precisar de um chapéu maior.","Audio/Dialogue/Character/DexInt/Event/SH_KillVoll.ogg"],["Shadow56","Só preciso de um segundo para recuperar meu fôlego.","Audio/Dialogue/Character/DexInt/Gameplay/SH_Cooldown_01.ogg"],["Shadow57","Só preciso de um segundo para recuperar meu fôlego.","Audio/Dialogue/Character/DexInt/Gameplay/SH_Cooldown_02.ogg"],["Shadow58","Só preciso de um segundo para recuperar meu fôlego.","Audio/Dialogue/Character/DexInt/Gameplay/SH_Cooldown_03.ogg"],["Shadow59","Isso sim foi gratificante!","Audio/Dialogue/Character/DexInt/Gameplay/SH_MonsterKill_01a.ogg"],["Shadow60","Isso sim foi gratificante!","Audio/Dialogue/Character/DexInt/Gameplay/SH_MonsterKill_01b.ogg"],["Shadow61","Nem todas as mortes são iguais!","Audio/Dialogue/Character/DexInt/Gameplay/SH_MonsterKill_02a.ogg"],["Shadow62","Nem todas as mortes são iguais!","Audio/Dialogue/Character/DexInt/Gameplay/SH_MonsterKill_02b.ogg"],["Shadow63","Isso foi divertido!","Audio/Dialogue/Character/DexInt/Gameplay/SH_MonsterKill_03a.ogg"],["Shadow64","Isso foi divertido!","Audio/Dialogue/Character/DexInt/Gameplay/SH_MonsterKill_03b.ogg"],["Shadow65","Finge de morto. Bom menino!","Audio/Dialogue/Character/DexInt/Gameplay/SH_MonsterKill_04.ogg"],["Shadow66","Pense na morte como um feriado, Kaom. Um tempinho para deitar e relaxar um pouquinho. ","Audio/Dialogue/Character/DexInt/Event/SH_KillKaom.ogg"],["Shadow67","Seco como uma piada num mortuária.","Audio/Dialogue/Character/DexInt/Event/SH_EnterLake.ogg"],["Shadow68","Que lugar bizarramente irritado.","Audio/Dialogue/Character/DexInt/Event/SH_EnterKaom.ogg"],["Templar1","Meus pesadelos... eram profecias.","Audio/Dialogue/Character/StrInt/Event/Templar_01.ogg"],["Templar2","Nesta jaula, a maldade bate nas grades e chora por liberdade.","Audio/Dialogue/Character/StrInt/Event/Templar_02.ogg"],["Templar3","Isso é um mortuário para crianças perdidas, ocultas dos olhos de seu pai.","Audio/Dialogue/Character/StrInt/Event/Templar_03.ogg"],["Templar4","O covil de um fazedor de brinquedos... com desejo de ser um deus.","Audio/Dialogue/Character/StrInt/Event/Templar_04.ogg"],["Templar5","Vida em sua mão direita, morte em sua mão esquerda... e ainda existem aqueles que escorregam pelos dedos de Deus.","Audio/Dialogue/Character/StrInt/Event/Templar_05.ogg"],["Templar6","Algo Eterno permanece neste Império. Resta saber como.","Audio/Dialogue/Character/StrInt/Event/Templar_06.ogg"],["Templar7","E assim, dou meus primeiros passos em direção à danação encarnada.","Audio/Dialogue/Character/StrInt/Event/Templar_07.ogg"],["Templar8","Até a morte não é conforto nesta terra sofrida.","Audio/Dialogue/Character/StrInt/Event/Templar_08.ogg"],["Templar9","Descanse agora, alma atormentada.","Audio/Dialogue/Character/StrInt/Event/Templar_09.ogg"],["Templar10","Uma mulher, corrompida muito além da humanidade. Preciso curar esta praga antes que infecte toda a criação de Deus.","Audio/Dialogue/Character/StrInt/Event/Templar_10.ogg"],["Templar11","Ousas falar de paz, fora da lei? Só a paz criada por tuas mentiras.","Audio/Dialogue/Character/StrInt/Event/Templar_11.ogg"],["Templar12","Tu não tens nada, ladrão. Nem mesmo a vida que gastaste com rancor e avareza.","Audio/Dialogue/Character/StrInt/Event/Templar_12.ogg"],["Templar13","Portanto, tu és abençoada, filha de Deus. Ele te mostrará o que é amizade verdadeira.","Audio/Dialogue/Character/StrInt/Event/Templar_13.ogg"],["Templar14","Volte para o seu lugar, Pesadelo! Os fiéis não precisam temer a tua laia.","Audio/Dialogue/Character/StrInt/Event/Templar_14.ogg"],["Templar15","Escolheste o caminho, velho amigo. Deus me colocou no final dele.","Audio/Dialogue/Character/StrInt/Event/Templar_15.ogg"],["Templar16","Descanse enquanto podes, amante do sofrimento. O julgamento não pegará leve contigo.","Audio/Dialogue/Character/StrInt/Event/Templar_16.ogg"],["Templar17","Ao me exilar, tu fostes minha Gênese, Dominus. E agora, cá estou, após incontáveis milhas, incontáveis mortes, honrado em servir como tua Revelação!","Audio/Dialogue/Character/StrInt/Event/Templar_17.ogg"],["Templar18","Eu te imploro, Deus. Ajuda-me a trazer este mundo de volta para a luz.","Audio/Dialogue/Character/StrInt/Event/Templar_18.ogg"],["Templar19","Minha mana está gasta.","Audio/Dialogue/Character/StrInt/Gameplay/Templar_Com_01.ogg"],["Templar20","Não sou animal de carga.","Audio/Dialogue/Character/StrInt/Gameplay/Templar_Com_02.ogg"],["Templar21","Ah, muito melhor.","Audio/Dialogue/Character/StrInt/Gameplay/Templar_Com_04.ogg"],["Templar22","Vá com Deus!","Audio/Dialogue/Character/StrInt/Gameplay/Templar_Com_05.ogg"],["Templar23","Não possuo o músculo para usar isto.","Audio/Dialogue/Character/StrInt/Gameplay/Templar_Com_06.ogg"],["Templar24","Estou estonteado por isto no momento.","Audio/Dialogue/Character/StrInt/Gameplay/Templar_Com_07.ogg"],["Templar25","Necessito ser mais ágil dos pés para usar isto.","Audio/Dialogue/Character/StrInt/Gameplay/Templar_Com_08.ogg"],["Templar26","Não parece o certo destruir isto.","Audio/Dialogue/Character/StrInt/Gameplay/Templar_Com_09.ogg"],["Templar27","Não é hora para isto.","Audio/Dialogue/Character/StrInt/Gameplay/Templar_Com_10.ogg"],["Templar28","Parece que Deus ainda não tem a necessidade de minha companhia.","Audio/Dialogue/Character/StrInt/Gameplay/Templar_Level_01.ogg"],["Templar29","Minhas preces foram atendidas.","Audio/Dialogue/Character/StrInt/Gameplay/Templar_Level_02.ogg"],["Templar30","O caminho se torna mais claro com cada passo ensanguentado.","Audio/Dialogue/Character/StrInt/Gameplay/Templar_Level_03.ogg"],["Templar31","Teu humilde servo te agradece, meu Deus.","Audio/Dialogue/Character/StrInt/Gameplay/Templar_Level_04.ogg"],["Templar32","Tua confiança é a única recompensa que eu preciso, meu Senhor da Luz.","Audio/Dialogue/Character/StrInt/Gameplay/Templar_Level_05.ogg"],["Templar33","A noite deve dar espaço para o dia.","Audio/Dialogue/Character/StrInt/Gameplay/Templar_Level_06.ogg"],["Templar34","Eu nasci para esta Terra, entregue a esta tarefa. Eu irei prevalecer.","Audio/Dialogue/Character/StrInt/Gameplay/Templar_Level_07.ogg"],["Templar35","Quanto mais fugires de Deus, Fairgraves, mais amaldiçoado você se tornará.","Audio/Dialogue/Character/StrInt/Event/Tmpl_AfterFairgraves2.ogg"],["Templar36","Que estas águas me lavem de meus pecados, e me batizem novamente.","Audio/Dialogue/Character/StrInt/Event/Tmpl_Aqueduct.ogg"],["Templar37","Peço perdão, Deus. Devemos aprender a não abusar das tuas criações.","Audio/Dialogue/Character/StrInt/Event/Tmpl_DriedLake.ogg"],["Templar38","Esta floresta... tão retorcida. Rezo para que eu não chegue tarde demais para enfrentar esta corrupção. ","Audio/Dialogue/Character/StrInt/Event/Tmpl_EnterAct2.ogg"],["Templar39","Isso não é Criação. Isso é perversão.","Audio/Dialogue/Character/StrInt/Event/Tmpl_EnterBelly.ogg"],["Templar40","O que, em nome de Deus, é este cheiro?","Audio/Dialogue/Character/StrInt/Event/Tmpl_EnterCanibalBay.ogg"],["Templar41","Eu limparei esta imundície desta casa de Deus.","Audio/Dialogue/Character/StrInt/Event/Tmpl_EnterCatacombs.ogg"],["Templar42","Uma casa da Fé atingida pela profanação.","Audio/Dialogue/Character/StrInt/Event/Tmpl_EnterFelShrine.ogg"],["Templar43","Piety, meu Deus? Estou certo de que revelarás teu propósito em breve. ","Audio/Dialogue/Character/StrInt/Event/Tmpl_EnterHarvest.ogg"],["Templar44","O ar daqui queima com ira.","Audio/Dialogue/Character/StrInt/Event/Tmpl_EnterKaom.ogg"],["Templar45","A terra daqui treme com o temor do julgamento.","Audio/Dialogue/Character/StrInt/Event/Tmpl_EnterMines1.ogg"],["Templar46","A corrupção consome as raízes desta montanha.","Audio/Dialogue/Character/StrInt/Event/Tmpl_EnterMines2.ogg"],["Templar47","Esta terra está na véspera do Cataclismo.","Audio/Dialogue/Character/StrInt/Event/Tmpl_EnterMines3.ogg"],["Templar48","Sarn, berço dos Templários. Um local digno para acertar as coisas.","Audio/Dialogue/Character/StrInt/Event/Tmpl_EnterSarn.ogg"],["Templar49","Cada pedra posicionada para a glória de Deus. Maravilhoso!","Audio/Dialogue/Character/StrInt/Event/Tmpl_EnterScepter.ogg"],["Templar50","Nenhuma alma deveria sofrer como tu, Deshret.","Audio/Dialogue/Character/StrInt/Event/Tmpl_FreeDeshret.ogg"],["Templar51","Damos aos nossos heróis mortos mais glória do que eles mereciam em vida.","Audio/Dialogue/Character/StrInt/Event/Tmpl_KillDaresso.ogg"],["Templar52","Abrace a morte, Doedre, pois a carne foi teu fim.","Audio/Dialogue/Character/StrInt/Event/Tmpl_KillDoedre.ogg"],["Templar53","A tentação pode acabar com o mais nobre dos homens. Eu deveria prestar atenção.","Audio/Dialogue/Character/StrInt/Event/Tmpl_KillFairgraves.ogg"],["Templar54","Tua Maneira levou à danação, Kaom. Encontre outra.","Audio/Dialogue/Character/StrInt/Event/Tmpl_KillKaom.ogg"],["Templar55","Lutaste contra a Morte por toda a tua vida, Malachai, quando ela era a única coisa que poderia te dar a verdadeira imortalidade.","Audio/Dialogue/Character/StrInt/Event/Tmpl_KillMalachai.ogg"],["Templar56","Teus talentos divinos foram inúteis, Maligaro.","Audio/Dialogue/Character/StrInt/Event/Tmpl_KillMaligaro.ogg"],["Templar57","Não é necessário, Piety. Basta ver por si mesma.","Audio/Dialogue/Character/StrInt/Event/Tmpl_KillPiety.ogg"],["Templar58","Foste aprisionada por tua própria vaidade, Shavronne.","Audio/Dialogue/Character/StrInt/Event/Tmpl_KillShav.ogg"],["Templar59","Você está livre agora, Voll. Vá com Deus.","Audio/Dialogue/Character/StrInt/Event/Tmpl_KillVoll.ogg"],["Templar60","Vá com Deus!","Audio/Dialogue/Character/StrInt/Gameplay/Tmpl_KillRare_01.ogg"],["Templar61","Vá com Deus!","Audio/Dialogue/Character/StrInt/Gameplay/Tmpl_KillRare_02.ogg"],["Templar62","Morte ao Pecado!","Audio/Dialogue/Character/StrInt/Gameplay/Tmpl_KillRare_03.ogg"],["Templar63","Morte ao Pecado!","Audio/Dialogue/Character/StrInt/Gameplay/Tmpl_KillRare_04.ogg"],["Templar64","A Pureza prevalecerá!","Audio/Dialogue/Character/StrInt/Gameplay/Tmpl_KillRare_05.ogg"],["Templar65","A Pureza prevalecerá!","Audio/Dialogue/Character/StrInt/Gameplay/Tmpl_KillRare_06.ogg"],["Templar66","Os corrompidos cairão!","Audio/Dialogue/Character/StrInt/Gameplay/Tmpl_KillRare_07.ogg"],["Templar67","Os corrompidos cairão!","Audio/Dialogue/Character/StrInt/Gameplay/Tmpl_KillRare_08.ogg"],["Templar68","Que se dane!","Audio/Dialogue/Character/StrInt/Gameplay/Tmpl_KillRare_09.ogg"],["Templar69","Que se dane!","Audio/Dialogue/Character/StrInt/Gameplay/Tmpl_KillRare_10.ogg"],["Templar70","Preciso de tempo para recuperar minha vontade.","Audio/Dialogue/Character/StrInt/Gameplay/Tmpl_SkillonCool.ogg"],["Scion1","Que tal só nos executar de uma vez, Dominus?","Audio/Dialogue/Character/StrDexInt/Event/Sc_01_GetUp.ogg"],["Scion2","Então é verdade... os mortos caminham por Wraeclast.","Audio/Dialogue/Character/StrDexInt/Event/Sc_02_KillZombie.ogg"],["Scion3","Não me juntarei à sua laia hoje, homem morto.","Audio/Dialogue/Character/StrDexInt/Event/Sc_03_KillHillock.ogg"],["Scion4","Me deparo com uma simples escolha. Matar... ou ser consumida.","Audio/Dialogue/Character/StrDexInt/Event/Sc_04_EnterCannibalBay.ogg"],["Scion5","Indo de Oriath para Axiom, de uma prisão para outra.","Audio/Dialogue/Character/StrDexInt/Event/Sc_05_EnterPrison.ogg"],["Scion6","Você me lembra do meu ex-marido.","Audio/Dialogue/Character/StrDexInt/Event/Sc_06_KillBrutus.ogg"],["Scion7","A parede entre a vida e a morte está cedendo.","Audio/Dialogue/Character/StrDexInt/Event/Sc_07_EnterShipGraveyard.ogg"],["Scion8","Acabou a licença de costa, capitão.","Audio/Dialogue/Character/StrDexInt/Event/Sc_08_KillFairgraves.ogg"],["Scion9","Por que os homens precisam nos transformar em monstros?","Audio/Dialogue/Character/StrDexInt/Event/Sc_09_KillMerveil.ogg"],["Scion10","Selvageria sem parar à minha volta.","Audio/Dialogue/Character/StrDexInt/Event/Sc_10_EnterSouthForest.ogg"],["Scion11","Os homens de lá deveriam ter ouvido seus corações. Suas mentes não eram mais suas.","Audio/Dialogue/Character/StrDexInt/Event/Sc_11_EnterCOS.ogg"],["Scion12","Alguém tinha que acabar com esta experiência cruel.","Audio/Dialogue/Character/StrDexInt/Event/Sc_12_KillFidelitas.ogg"],["Scion13","Depois de tudo o que essa terra sofreu, a sua laia consegue deixá-la ainda pior.","Audio/Dialogue/Character/StrDexInt/Event/Sc_13_KillKraityn.ogg"],["Scion14","Mulheres como você acabam com a nossa reputação.","Audio/Dialogue/Character/StrDexInt/Event/Sc_14_KillAlira.ogg"],["Scion15","Tome sua \"paz\", Oak. A única paz que pode se obter em Wraeclast.","Audio/Dialogue/Character/StrDexInt/Event/Sc_15_KillOak.ogg"],["Scion16","Ó meu Deus, não! Se houver uma forma de ajeitar isso, eu preciso encontrá-la.","Audio/Dialogue/Character/StrDexInt/Event/Sc_16_ReleaseDarkness.ogg"],["Scion17","O mínimo que podemos fazer nessa vida é limparmos nossa sujeira.","Audio/Dialogue/Character/StrDexInt/Event/Sc_17_KillVaalOversoul.ogg"],["Scion18","Sarn, onde os imperadores dominavam... e morriam, que nem todo mundo.","Audio/Dialogue/Character/StrDexInt/Event/Sc_18_EnterSarn.ogg"],["Scion19","As pessoas só lembram dos problemas que você causou.","Audio/Dialogue/Character/StrDexInt/Event/Sc_19_EnterSewer.ogg"],["Scion20","Se não fizermos nada, toda Wraeclast pode acabar assim.","Audio/Dialogue/Character/StrDexInt/Event/Sc_20_SeenUndyingSphincter.ogg"],["Scion21","Parece que até mesmo o Tempo perde sua vontade em Wraeclast.","Audio/Dialogue/Character/StrDexInt/Event/Sc_21_EnterSolaris.ogg"],["Scion22","Homens como você não herdarão Wraeclast.","Audio/Dialogue/Character/StrDexInt/Event/Sc_22_KillGravicius.ogg"],["Scion23","Eu só sei de uma mulher capaz de tal depravação. Piety.","Audio/Dialogue/Character/StrDexInt/Event/Sc_23_EnterLunaris.ogg"],["Scion24","Você deveria morrer mil vezes pelo que fez.","Audio/Dialogue/Character/StrDexInt/Event/Sc_24_KillPiety.ogg"],["Scion25","Esta torre diz tudo. O orgulho matou o Império Eterno.","Audio/Dialogue/Character/StrDexInt/Event/Sc_25_EnterSceptre.ogg"],["Scion26","Prefiro a vista de onde estou agora, Dominus.","Audio/Dialogue/Character/StrDexInt/Event/Sc_26_KillDominus.ogg"],["Scion27","Eu matei a marionete. Só falta seguir os fios até seu mestre. ","Audio/Dialogue/Character/StrDexInt/Event/Sc_27_EnterAqueduct.ogg"],["Scion28","O Império não precisava de um cataclismo. Ele criou sua própria desolação.","Audio/Dialogue/Character/StrDexInt/Event/Sc_28_EnterDriedLake.ogg"],["Scion29","O Pecado é a fissura por onde o Pesadelo se infiltra. Qual foi o seu Pecado, Voll? Orgulho?","Audio/Dialogue/Character/StrDexInt/Event/Sc_29_KillVoll.ogg"],["Scion30","A Besta sabe que eu estou aqui.","Audio/Dialogue/Character/StrDexInt/Event/Sc_30_EnterMines1.ogg"],["Scion31","Sim, Besta, você tem toda a razão em ter medo.","Audio/Dialogue/Character/StrDexInt/Event/Sc_31_EnterMines2.ogg"],["Scion32","Você será a primeira a abandonar os grilhões do Pesadelo, Deshret.","Audio/Dialogue/Character/StrDexInt/Event/Sc_32_FreeDeshret.ogg"],["Scion33","Minha determinação cresce tanto quanto o seu terror, Besta.","Audio/Dialogue/Character/StrDexInt/Event/Sc_33_EnterMines3.ogg"],["Scion34","Você tem minha pena, escravo.","Audio/Dialogue/Character/StrDexInt/Event/Sc_34_KillBarkhul.ogg"],["Scion35","O amor foi a lâmina que usou em si mesmo, Rei das Espadas.","Audio/Dialogue/Character/StrDexInt/Event/Sc_35_KillDaresso.ogg"],["Scion36","Eu estou dentro da mente torturada do próprio Kaom.","Audio/Dialogue/Character/StrDexInt/Event/Sc_36_EnterKaomRealm.ogg"],["Scion37","Poupe seu fôlego para os Ancestrais, Kaom. Você precisará dele.","Audio/Dialogue/Character/StrDexInt/Event/Sc_37_KillKaom.ogg"],["Scion38","O Pesadelo se tornou realidade.","Audio/Dialogue/Character/StrDexInt/Event/Sc_38_EnterBelly.ogg"],["Scion39","Esta distorção da carne e da vida... tão brilhante quanto insana.","Audio/Dialogue/Character/StrDexInt/Event/Sc_39_EnterHarvest.ogg"],["Scion40","Sinto muito, Maligaro, mas quando o assunto é Arte, minhas críticas são pesadas.","Audio/Dialogue/Character/StrDexInt/Event/Sc_40_KillMaligaro.ogg"],["Scion41","O mundo não quer o seu tipo de \"beleza\", Shavronne.","Audio/Dialogue/Character/StrDexInt/Event/Sc_41_KillShav.ogg"],["Scion42","Esta era a única maneira de satisfazer seu apetite, Doedre.","Audio/Dialogue/Character/StrDexInt/Event/Sc_42_KillDoedre.ogg"],["Scion43","Tenho a única resposta de que eu precisava, Piety. A Besta morre. ","Audio/Dialogue/Character/StrDexInt/Event/Sc_43_PietyDies.ogg"],["Scion44","Pobre Malachai. Você passou três séculos combatendo a morte, e em nenhum momento usou seu tempo para viver.","Audio/Dialogue/Character/StrDexInt/Event/Sc_44_KillMalachai.ogg"],["Scion45","Mesmo que estivéssemos distantes, o exílio nos uniu. \r\n\r\nEm Oriath existiam aqueles que se referiam a mim como criança prodígio, mas como você percebeu, os títulos não significam nada aqui. Prodígio, exilado, monstro, herói... não é o nome que te define. É o que você faz em Wraeclast que te torna o que é. \r\n\r\nEu te agradeço. Você me deu o que mais importa: a liberdade de terminar o que eu comecei.","Audio/Dialogue/Character/StrDexInt/Event/Sc_45_FreedomSpeech.ogg"],["Scion46","Não posso descansar nem por um minuto?","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Cooldown_01.ogg"],["Scion47","Não posso descansar nem por um minuto?","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Cooldown_02.ogg"],["Scion48","Acho que eu só iria derrubar isso.","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Dex_01.ogg"],["Scion49","Acho que eu só iria derrubar isso.","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Dex_02.ogg"],["Scion50","Ah... muito melhor.","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Health_01.ogg"],["Scion51","Ah... muito melhor.","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Health_02.ogg"],["Scion52","Eu não saberia como usar isso.","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Int_01.ogg"],["Scion53","Eu não saberia como usar isso.","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Int_02.ogg"],["Scion54","Muita... bagagem.","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Inventory_01.ogg"],["Scion55","Muita... bagagem.","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Inventory_02.ogg"],["Scion56","Não tenho mais nada para dar.","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Mana_01.ogg"],["Scion57","Não tenho mais nada para dar.","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Mana_02.ogg"],["Scion58","Vou precisar disso no futuro.","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Questitem_01.ogg"],["Scion59","Vou precisar disso no futuro.","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Questitem_02.ogg"],["Scion60","Sua morte é uma misericórdia.","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_RareKill_01.ogg"],["Scion61","Sua morte é uma misericórdia.","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_RareKill_02.ogg"],["Scion62","Durma, durma, pequeno pesadelo.","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_RareKill_03.ogg"],["Scion63","Durma, durma, pequeno pesadelo.","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_RareKill_04.ogg"],["Scion64","E fique bem mortinho.","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_RareKill_05.ogg"],["Scion65","E fique bem mortinho.","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_RareKill_06.ogg"],["Scion66","Isso foi estranhamente bom.","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_RareKill_07.ogg"],["Scion67","Isso foi estranhamente bom.","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_RareKill_08.ogg"],["Scion68","Seu tormento acabou.","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_RareKill_09.ogg"],["Scion69","Seu tormento acabou.","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_RareKill_10.ogg"],["Scion70","Não é hora para isso.","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_SkillsTown_01.ogg"],["Scion71","Não é hora para isso.","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_SkillsTown_02.ogg"],["Scion72","Uma ideia muito pesada para mim.","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Str_01.ogg"],["Scion73","Uma ideia muito pesada para mim.","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Str_02.ogg"],["Scion74","O exílio é uma lição, e eu sempre aprendi rápido.","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_47_LevelUp_01.ogg"],["Scion75","A vida cresce até mesmo num cemitério.","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_47_LevelUp_02.ogg"],["Scion76","Eu aprendo, eu mato, eu vivo.","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_47_LevelUp_03.ogg"],["Scion77","Quem sabe eu ainda receba meu título de \"criança prodígio\".","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_47_LevelUp_04.ogg"],["Scion78","O poder corrompe, e a corrupção empodera.","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_47_LevelUp_05.ogg"],["Scion79","Em Wraeclast, não existe isso de aproveitar a fama.","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_47_LevelUp_06.ogg"],["Scion80","Eu me tornei um pesadelo ambulante.","Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_47_LevelUp_07.ogg"],["Jack1","Mas que saco de carne mais bonitinho!","Audio/Dialogue/NPC/JackTheAxeArea/JTA_Approach_Piety_01.ogg"],["Jack2","Sinto um grande poder aqui. Nós nos banquetearemos com ele!","Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Abyss_01.ogg"],["Jack3","Há um grande poder aqui. Vamos devorá-lo!","Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Apex_01.ogg"],["Jack4","Tantos para devorar.","Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Barracks_01.ogg"],["Jack5","Carne fresca para abater!","Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Belly_01.ogg"],["Jack6","Cortar a carne, quebrar o osso!","Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_DriedLake_01.ogg"],["Jack7","Eu posso sentir sofrimento aqui. Vamos dar um fim a ele.","Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Dungeon_01.ogg"],["Jack8","Bestas grandes... muita carne para mim.","Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Grotto_01.ogg"],["Jack9","Há aranhas por aqui... Eu odeio aranhas.","Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Jungle_01.ogg"],["Jack10","Muitos caminhos, muitas bestas. Vamos nos divertir!","Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Labyrinth_01.ogg"],["Jack11","Não há nada além de morte aqui.","Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Lunaris3_01.ogg"],["Jack12","Esse lugar... Estive aqui antes, há muito tempo...","Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Maelstrom_01.ogg"],["Jack13","Esfolem eles. Esfolem todos eles!","Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Mines_01.ogg"],["Jack14","Rhoas imundos. Vamos matar todos!","Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_MudGeyser_01.ogg"],["Jack15","Sarn... meu lar.","Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Sarn_01.ogg"],["Jack16","Há tanta dor aqui. Gosto disso.","Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Sceptre_01.ogg"],["Jack17","Ui, aranhas.","Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_SpiderForest_01.ogg"],["Jack18","Os horrores de lá... são tantos.","Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Vaal_01.ogg"],["Jack19","Não há nada que eu queira aqui. Vamos embora.","Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Vaults_01.ogg"],["Jack20","","Audio/Dialogue/NPC/JackTheAxe/JTA_Attack_01.ogg"],["Jack21","","Audio/Dialogue/NPC/JackTheAxe/JTA_Attack_02.ogg"],["Jack22","","Audio/Dialogue/NPC/JackTheAxe/JTA_Attack_03.ogg"],["Jack23","","Audio/Dialogue/NPC/JackTheAxe/JTA_Attack_04.ogg"],["Jack24","","Audio/Dialogue/NPC/JackTheAxe/JTA_Attack_05.ogg"],["Jack25","","Audio/Dialogue/NPC/JackTheAxe/JTA_Attack_06.ogg"],["Jack26","","Audio/Dialogue/NPC/JackTheAxe/JTA_Attack_07.ogg"],["Jack27","","Audio/Dialogue/NPC/JackTheAxe/JTA_Attack_08.ogg"],["Jack28","","Audio/Dialogue/NPC/JackTheAxe/JTA_Idle_01.ogg"],["Jack29","","Audio/Dialogue/NPC/JackTheAxe/JTA_Idle_02.ogg"],["Jack30","","Audio/Dialogue/NPC/JackTheAxe/JTA_Idle_03.ogg"],["Jack31","","Audio/Dialogue/NPC/JackTheAxe/JTA_Idle_04.ogg"],["Jack32","","Audio/Dialogue/NPC/JackTheAxe/JTA_PVP_01.ogg"],["Jack33","","Audio/Dialogue/NPC/JackTheAxe/JTA_PVP_02.ogg"],["Goddess1 ","O que? Estou livre? Você fez isso? Bem, qualquer coisa é melhor do que estar presa naquilo. Sua sede estúpida não fazia juz aos Meus desejos, apesar de simples. Mas agora tenho você: tão viril, tão desafiador...Então Me tome. Este mundo moribundo não passa de gravetos, ainda assim, pode ser que seu sangue desqualificado ferma uma vez mais....e eu esperei tanto tempo por um banho real.","Audio/Dialogue/Goddess_Unleashed/GS_A1_01.ogg"],["Goddess2 ","Um Deus Falso não é páreo para uma Deusa real.","Audio/Dialogue/Goddess_Unleashed/GS_A1_02.ogg"],["Goddess3 ","Hmm. Uma saída e tanto. Assim como o espelho que ela com certeza utiliza para praticar, nós à veremos novamente.\r\n","Audio/Dialogue/Goddess_Unleashed/GS_A1_04.ogg"],["Goddess4 ","Ninguém está mais atrelado à uma prisão do que aqueles que dizem somente trabalhar nela.","Audio/Dialogue/Goddess_Unleashed/GS_A1_03.ogg"],["Goddess5 ","Sim, lá está ela novamente. Parece que alguém se designou como nosso nemesis...","Audio/Dialogue/Goddess_Unleashed/GS_A1_05.ogg"],["Goddess6 ","A Omnichama foi tão fugaz quanto uma centelha luxuósa. Minha é a chama que não pode ser apagada.","Audio/Dialogue/Goddess_Unleashed/GS_A1_06.ogg"],["Goddess7 ","A verdadeira face do amor? Parece que alguém estava achando que tinha o monopólio da verdade sobre o que o amor é. Alguém se enganou.","Audio/Dialogue/Goddess_Unleashed/GS_A1_07.ogg"],["Goddess8 ","Do you think she waits here for us to arrive just to say something snappy and then run away?","Audio/Dialogue/Goddess_Unleashed/GS_A2_01.ogg"],["Goddess9 ","Oh, nós matamos o amante da Piety? Não, creio que existe uma outra palavra para o que ele era.","Audio/Dialogue/Goddess_Unleashed/GS_A2_02.ogg"],["Goddess10","Mas que gatinha triste, não é atoa que seus seguidores se mataram.","Audio/Dialogue/Goddess_Unleashed/GS_A2_03.ogg"],["Goddess11","Todo esse balançar reluzente de espada, quando tudo que você precisava era de uma espada flamejante mágica que diz coisas bem inteligentes. ","Audio/Dialogue/Goddess_Unleashed/GS_A2_04.ogg"],["Goddess12","Isso é o que você ganha por trazer um graveto à uma luta com espadas.","Audio/Dialogue/Goddess_Unleashed/GS_A2_05.ogg"],["Goddess13","Você tinha que ir passar a mão na grande bola brilhante, né? ","Audio/Dialogue/Goddess_Unleashed/GS_A2_06.ogg"],["Goddess14","É por isso que civilizações viram ruínas, perdendo tempo construindo velharias como esta.","Audio/Dialogue/Goddess_Unleashed/GS_A2_07.ogg"],["Goddess15","Ela não nos esperou desta vez. Chegamos tarde demais. Chega desse pega-pega. Quero sentí-la queimar.","Audio/Dialogue/Goddess_Unleashed/GS_A3_01.ogg"],["Goddess16","Saia do nosso caminho, peão. Temos uma bruxa para caçar. E queime. E queime.","Audio/Dialogue/Goddess_Unleashed/GS_A3_02.ogg"],["Goddess17","Se esconda atrás destes brutamontes o quanto quiser, Piety. Eles não significam nada. Nós vamos te pegar.","Audio/Dialogue/Goddess_Unleashed/GS_A3_03.ogg"],["Goddess18","Depravada? Demente? Não. Esta é Vinia, desesperada para provar que é Piety. Uma garotinha brincando de bonecas, usando atrocidades como apoio descartável.","Audio/Dialogue/Goddess_Unleashed/GS_A3_04.ogg"],["Goddess19","Finalmente! Morra na Minha chama, sua vadia, morra! ...Pera aí, onde está o corpo? Ela escapou novamente?! AAAhhh!","Audio/Dialogue/Goddess_Unleashed/GS_A3_05.ogg"],["Goddess20","Talvez ele devesse ter tentado o toque da Deusa no lugar.","Audio/Dialogue/Goddess_Unleashed/GS_A3_06.ogg"],["Goddess21","Hm. Não é bem o banho que eu tinha em mente. A água parece limpa... mas ela geralmente parece.","Audio/Dialogue/Goddess_Unleashed/GS_A4_01.ogg"],["Goddess22","Eu não estou nem aí para dançar conforme a música da Dialla... mas evidências da influência da Piety? Isso sim garante o nosso interesse.","Audio/Dialogue/Goddess_Unleashed/GS_A4_02.ogg"],["Goddess23","Não é o primeiro imperador que eu joguei à pira. Este trabalho esta abaixo de mim.","Audio/Dialogue/Goddess_Unleashed/GS_A4_03.ogg"],["Goddess24","Rei das Espadas? Tente Deusa das Espadas, seu cachorrinho mal-amado.","Audio/Dialogue/Goddess_Unleashed/GS_A4_04.ogg"],["Goddess25","Nossa, que ira borbulhante! Creio que ninguém o informou que bolhas estouram facilmente.","Audio/Dialogue/Goddess_Unleashed/GS_A4_05.ogg"],["Goddess26","Se é vivo, sangra. Se sangra, tem um coração. Vamos encontrá-lo e incendiá-lo.","Audio/Dialogue/Goddess_Unleashed/GS_A4_06.ogg"],["Goddess27","Dominus e agora Malachai. Não importa quem ou o que, você não é nada mais do que uma ferramenta para homens, Vinia.","Audio/Dialogue/Goddess_Unleashed/GS_A4_07.ogg"],["Goddess28","Piety quer se aliar a nós? Tudo bem. Uma aliança Comigo é só um tipo diferente de execução mesmo.","Audio/Dialogue/Goddess_Unleashed/GS_A4_08.ogg"],["Goddess29","Amaldiçoe as chamas o quanto quiser, Língua-negra. Você ainda queimará no final.","Audio/Dialogue/Goddess_Unleashed/GS_A4_09.ogg"],["Goddess30","Arte é superestimada. Sabe o que precisa de habilidade de verdade? Cozinhar. ","Audio/Dialogue/Goddess_Unleashed/GS_A4_10.ogg"],["Goddess31","Oh, então essa é quem criou o Brutus... Tudo faz sentido agora.","Audio/Dialogue/Goddess_Unleashed/GS_A4_11.ogg"],["Goddess32","Apunhalado bem nas tripas. Empalado. Gritando. Contorcendo. Isso sim é um bom jeito de morrer!","Audio/Dialogue/Goddess_Unleashed/GS_A4_12.ogg"],["Goddess33","Quando eu disse que íamos incinerar seu coração, Eu não falava sério....enfim, vai servir. Agora, de volta à busca pelo banho.","Audio/Dialogue/Goddess_Unleashed/GS_A4_13.ogg"],["Goddess34","Tenho certeza que absolutamente ninguém notou aquela entrada sutil.","Audio/Dialogue/Goddess_Unleashed/GS_A5_01.ogg"],["Goddess35","Pulmões. Entranhas. Corações. E agora olhos. O que aconteceu com somente fatiar pessoas em pedacinhos e continuar, hein?","Audio/Dialogue/Goddess_Unleashed/GS_A5_02.ogg"],["Goddess36","Eles constroem uma igreja. Ideias secundárias tornam-se leis. A Fé é alimentada à força. O local de adoração agora é um local de julgamento. Eu odeio organizações religiosas.","Audio/Dialogue/Goddess_Unleashed/GS_A5_03.ogg"],["Goddess37","Então essa foi a verdadeira face de Deus, Exilado? ...Não. Somente um eco presunçoso do vazio 'Eu Sou.'","Audio/Dialogue/Goddess_Unleashed/GS_A5_04.ogg"],["Goddess38","Aparentemente isso é o que diabos nós fizemos. Eu diría que é uma melhoria.","Audio/Dialogue/Goddess_Unleashed/GS_A5_05.ogg"],["Goddess39","Vingança? Contra nós? Ele ainda seria só um escravo se não fosse por nós. Ingrato.","Audio/Dialogue/Goddess_Unleashed/GS_A5_06.ogg"],["Goddess40","E você estava indo tão bem...","Audio/Dialogue/Goddess_Unleashed/GS_A5_07.ogg"],["Goddess41","Eu não gosto daqui. A comida é horrível e tem cheiro de... Eu não gosto daqui.","Audio/Dialogue/Goddess_Unleashed/GS_A6_01.ogg"],["Goddess42","Todo panteão tem um Deus da Guerra, e uma Deusa do Amor. Qual você acha que termina por cima? ","Audio/Dialogue/Goddess_Unleashed/GS_A6_02.ogg"],["Goddess43","Quem brinca com fogo, amanhece chifrado! ...Ou algo do tipo.","Audio/Dialogue/Goddess_Unleashed/GS_A6_03.ogg"],["Goddess44","Oh, Shavs. Você não sabe? Depois que dois se tornam um, tudo vai por água abaixo... De nada.","Audio/Dialogue/Goddess_Unleashed/GS_A6_04.ogg"],["Goddess45","É muito injusto que um horror seja tão estranhamente fértil, enquanto outros embalam seus braços vazios cantando cantigas de ninar para eles mesmos.","Audio/Dialogue/Goddess_Unleashed/GS_A6_05.ogg"],["Goddess46","Todo homem possui uma chama específica que o atrai. Até mesmo os homens mortos, aparentemente.","Audio/Dialogue/Goddess_Unleashed/GS_A6_06.ogg"],["Goddess47","Cabra assada e agora carangueijo cozido. Quem diria que deuses eram tão saborosos? ","Audio/Dialogue/Goddess_Unleashed/GS_A6_07.ogg"],["Goddess48","E eu achando que nós só teríamos que entrar em um ventre da besta nesta nossa jornada.","Audio/Dialogue/Goddess_Unleashed/GS_A7_01.ogg"],["Goddess49","Todos os recursos para criar seu próprio paraíso, e ele criou isso. Mas que jovenzinho raivoso ele era.","Audio/Dialogue/Goddess_Unleashed/GS_A7_02.ogg"],["Goddess50","Amor não significa mudar os outros, Maligaro. É mudar a si mesmo. Todos aqueles que Me seguram aprendem isso cedo ou tarde.","Audio/Dialogue/Goddess_Unleashed/GS_A7_03.ogg"],["Goddess51","Reuniões com velhos amigos são sempre um prazer... até que não sejam mais. E então não são mesmo.","Audio/Dialogue/Goddess_Unleashed/GS_A7_04.ogg"],["Goddess52","Pobre matriarca marsupial. Eu não me divirto nem um pouco com o que acabamos de fazer.","Audio/Dialogue/Goddess_Unleashed/GS_A7_05.ogg"],["Goddess53","Essa sim é uma garota que entende a utilidade do fogo.","Audio/Dialogue/Goddess_Unleashed/GS_A7_06.ogg"],["Goddess54","Eu ficaria perfeitamente feliz se nós nunca mais víssemos outra aranha gigante. Quem estou tentando enganar? Isso é Wraeclast.","Audio/Dialogue/Goddess_Unleashed/GS_A7_07.ogg"],["Goddess55","Quando eu disse que precisava de um banho real, não era isso que tinha em mente.","Audio/Dialogue/Goddess_Unleashed/GS_A8_01.ogg"],["Goddess56","É por isso que dizemos 'Te amarei até o dia em que eu morrer'...","Audio/Dialogue/Goddess_Unleashed/GS_A8_02.ogg"],["Goddess57","Uma Casa de Banhos literal? Sério? Não estou certa se você entende como espadas funcionam.","Audio/Dialogue/Goddess_Unleashed/GS_A8_03.ogg"],["Goddess58","Não existe um reflexo mais afiado do que aquele encontrado na lâmina de uma espada.","Audio/Dialogue/Goddess_Unleashed/GS_A8_04.ogg"],["Goddess59","É incrível o que remover uma puta herética pode fazer pela santidade de um local. Isso é sublime.","Audio/Dialogue/Goddess_Unleashed/GS_A8_05.ogg"],["Goddess60","A parte mais triste dos eclipses: eles nunca duram muito. Mas ah, eles são tão lindos naquele momento.","Audio/Dialogue/Goddess_Unleashed/GS_A8_06A.ogg"],["Goddess61","Uhh, nem mesmo o Meu toque poderia aquecer estas carcaças. Nem pense em Me enfiar naquela imundície gelada.","Audio/Dialogue/Goddess_Unleashed/GS_A9_01.ogg"],["Goddess62","Huh. Eu achei que ia ser maior, com um nome desses.","Audio/Dialogue/Goddess_Unleashed/GS_A9_02.ogg"],["Goddess63","Só existe uma coisa que eu abomino mais do que aranhas, escorpiões. Eles são como aranhas com garras e partes pontudas extras. Eles sequer tem um gosto bom.","Audio/Dialogue/Goddess_Unleashed/GS_A9_03.ogg"],["Goddess64","Vá ser útil em algum lugar, Kira. Certamente não é aqui.","Audio/Dialogue/Goddess_Unleashed/GS_A9_04.ogg"],["Goddess65","Tantos conflitos insignificantes. Foi isso que todos os deuses sonharam quando estavam no abraço entorpecente de Besta? ","Audio/Dialogue/Goddess_Unleashed/GS_A9_05.ogg"],["Goddess66","Raio. Pfft. Nada mais do que um ancestral primitivo à beleza de um inferno.","Audio/Dialogue/Goddess_Unleashed/GS_A9_06.ogg"],["Goddess67","É tão triste ver A Besta mais uma vez, tão dessecada, tão reduzida... tão inflamável.","Audio/Dialogue/Goddess_Unleashed/GS_A9_07.ogg"],["Goddess68","Três peões, três falhas, três traumazinhos gastos. Eu adoro uma trilogia... mas esta já chegou ao fim.","Audio/Dialogue/Goddess_Unleashed/GS_A9_08.ogg"],["Goddess69","Eu meio que estava esperando o Kitava se erguer de seu cadáver. O vício deste mundo a uma recorrência eterna é deliciosamente sedutor.","Audio/Dialogue/Goddess_Unleashed/GS_A10_01.ogg"],["Goddess70","Nós matamos o mestre dela. Nós matamos o mestre do mestre. Nós matamos o mestre divino do mestre dela. Ela sabia disso tudo e ainda assim ficou contra nós? Não tão inteligente quanto eu esperava, Piety.","Audio/Dialogue/Goddess_Unleashed/GS_A10_02.ogg"],["Goddess71","Provavelmente estamos nos aproximando. Tudo parece tão esmagadoramente vermelho.","Audio/Dialogue/Goddess_Unleashed/GS_A10_03.ogg"],["Goddess72","Parece que a melhor maneira de lidar com uma fome insaciável é simplesmente matar o faminto. A solução única para Wraeclast. Mas esse nunca foi o objetivo. Eu pedi por um banho e você Me deu rios quentes de sangue da legião coração-negro, de impérios mortos, de deuses ressurgentes. Oh, você é mais do que suficiente. Queime comigo até que seja insuportável... e então queime ainda mais, meu amor.","Audio/Dialogue/Goddess_Unleashed/GS_A10_04.ogg"],["Goddess73","Essa Deusa da Justiça pode ser cega, mas seus seguidores certamente não são mudos. Achei que ele nunca calaria a boca.","Audio/Dialogue/Goddess_Unleashed/GS_KillIzaro_01.ogg"],["Goddess74","Eu estava certa. Você Me empunha adequadamente. Mas ainda estamos só começando...","Audio/Dialogue/Goddess_Unleashed/GS_Level_10.ogg"],["Goddess75","Já teve o suficiente de Mim? Sinta-se livre para equipar outra coisa. Eu não me importo. Sério.","Audio/Dialogue/Goddess_Unleashed/GS_Level_20.ogg"],["Goddess76","A última pessoa que ficou Comigo por tanto tempo desenvolveu um sério caso de pirofobia. Ou será que foi pirofilia? Um dos dois. Talvez ambos.","Audio/Dialogue/Goddess_Unleashed/GS_Level_30.ogg"],["Goddess77","Ah, nós ardemos muito bem juntos! Faz muito tempo desde que alguém durou todo este tempo!","Audio/Dialogue/Goddess_Unleashed/GS_Level_50.ogg"],["Goddess78","Você é um milagre, meu amado. Você também é um masoquista e possivelmente um idiota. Mas você é o meu idiota.","Audio/Dialogue/Goddess_Unleashed/GS_Level_70.ogg"],["Goddess79","Eu juro, ninguém Me segurou por tanto tempo assim antes. Você merece uma recompensa única. Um segredo... Espadas na verdade não falam. Você enlouqueceu no momento em que Me pegou. Algo disso foi real? Não me pergunte. Eu sou só uma espada. Mas na verdade, eu sou sua espada. Para sempre.","Audio/Dialogue/Goddess_Unleashed/GS_Level_90.ogg"],["Goddess80","Isso deve ser suficiente.","Audio/Dialogue/Goddess_Unleashed/GS_KillRogue_01.ogg"],["Goddess81","","Audio/Dialogue/Goddess_Unleashed/GS_KillRogue_02.ogg"],["Goddess82","Se afogue em Minhas chamas!","Audio/Dialogue/Goddess_Unleashed/GS_KillRogue_03.ogg"],["Goddess83","Tudo queima.","Audio/Dialogue/Goddess_Unleashed/GS_KillRogue_04.ogg"]]}
+{
+  "filename": "CharacterTextAudio.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Text",
+      "rowid": 1,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "SoundFile",
+      "rowid": 2,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": true,
+      "file_ext": ".ogg",
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "Marauder1",
+      "Eu sou um guerreiro, criado para honrar meus Ancestrais, para morrer com uma arma em minhas mãos e a Tradição Karui no meu sangue. \r\n\r\nOriath me acorrentou, me transformou em seu escravo. Vivi por três anos sem minha família, sem meu orgulho, sem minha Tradição. \r\n\r\nEu aceito o Exílio. Eu aceito Wraeclast. Escutai-me, Ancestrais! O escravo ficou para trás. O guerreiro está diante de vós. \r\n\r\nE a morte caminha ao nosso lado.",
+      "Audio/Dialogue/Character/Str/Intro/Ma_01_Intro.ogg"
+    ],
+    [
+      "Marauder2",
+      "",
+      "Audio/Dialogue/Character/Str/Event/Ma_02.ogg"
+    ],
+    [
+      "Marauder3",
+      "Os mortos devem se lembrar de seu lugar.",
+      "Audio/Dialogue/Character/Str/Event/Ma_03.ogg"
+    ],
+    [
+      "Marauder4",
+      "Estou cercado por cadáveres despertos e Oriathianos mortos. ",
+      "Audio/Dialogue/Character/Str/Event/Ma_04.ogg"
+    ],
+    [
+      "Marauder5",
+      "Mostre-me o caminho, Kaom.",
+      "Audio/Dialogue/Character/Str/Event/Ma_05.ogg"
+    ],
+    [
+      "Marauder6",
+      "Dominus tomou meu lar, minha família.",
+      "Audio/Dialogue/Character/Str/Event/Ma_06.ogg"
+    ],
+    [
+      "Marauder7",
+      "Os anciãos não nos contaram sobre isso.",
+      "Audio/Dialogue/Character/Str/Event/Ma_07.ogg"
+    ],
+    [
+      "Marauder8",
+      "Um escravo não é um homem. Um escravo sequer é merecedor da morte.",
+      "Audio/Dialogue/Character/Str/Event/Ma_08.ogg"
+    ],
+    [
+      "Marauder9",
+      "Agora seu espírito será um mero brinquedo para os Ancestrais, senhor dos escravos.",
+      "Audio/Dialogue/Character/Str/Event/Ma_09.ogg"
+    ],
+    [
+      "Marauder10",
+      "Hinekora, Mãe dos Mortos, esta terra por onde caminho é sua?",
+      "Audio/Dialogue/Character/Str/Event/Ma_10.ogg"
+    ],
+    [
+      "Marauder11",
+      "Esqueletos errantes não são Karui.",
+      "Audio/Dialogue/Character/Str/Event/Ma_11.ogg"
+    ],
+    [
+      "Marauder12",
+      "O \"espírito negro\". Lavianga fala sobre Kitava, Pai da Corrupção.",
+      "Audio/Dialogue/Character/Str/Event/Ma_12.ogg"
+    ],
+    [
+      "Marauder13",
+      "Kaom se ajoelhava perante Kitava. Ele nos traiu!",
+      "Audio/Dialogue/Character/Str/Event/Ma_13.ogg"
+    ],
+    [
+      "Marauder14",
+      "Os Karui se lembram de ti, Fairgraves. Sua morte será muito festejada.",
+      "Audio/Dialogue/Character/Str/Event/Ma_14.ogg"
+    ],
+    [
+      "Marauder15",
+      "Sua maldição chegou ao fim, sereia. Descanse com Hinekora, Mãe dos Mortos.",
+      "Audio/Dialogue/Character/Str/Event/Ma_15.ogg"
+    ],
+    [
+      "Marauder16",
+      "Toda a vida de Wraeclast é distorcida.",
+      "Audio/Dialogue/Character/Str/Event/Ma_16.ogg"
+    ],
+    [
+      "Marauder17",
+      "O Império Eterno foi erguido por mentes doentias.",
+      "Audio/Dialogue/Character/Str/Event/Ma_17.ogg"
+    ],
+    [
+      "Marauder18",
+      "Ancestrais, perdoem-me. Eu abri o \"Caminho\" para Kitava, Pai da Corrupção.",
+      "Audio/Dialogue/Character/Str/Event/Ma_18.ogg"
+    ],
+    [
+      "Marauder19",
+      "Tukohama, meu Pai da Guerra, eu entrego este guerreiro de Kitava a ti.",
+      "Audio/Dialogue/Character/Str/Event/Ma_19.ogg"
+    ],
+    [
+      "Marauder20",
+      "Sua morte teve mais honra que sua vida, Kraityn.",
+      "Audio/Dialogue/Character/Str/Event/Ma_20.ogg"
+    ],
+    [
+      "Marauder21",
+      "Não existe magia mais negra do que a morte, bruxa.",
+      "Audio/Dialogue/Character/Str/Event/Ma_21.ogg"
+    ],
+    [
+      "Marauder22",
+      "Seu reinado acabou, rei dos bandidos.",
+      "Audio/Dialogue/Character/Str/Event/Ma_22.ogg"
+    ],
+    [
+      "Marauder23",
+      "Ramako, Pai da Luz, é bom sentir seu calor novamente.",
+      "Audio/Dialogue/Character/Str/Event/Ma_23.ogg"
+    ],
+    [
+      "Marauder24",
+      "É ótimo ver você, filha de Ngamakanui.",
+      "Audio/Dialogue/Character/Str/Event/Ma_24.ogg"
+    ],
+    [
+      "Marauder25",
+      "Os escravos Karui já foram comercializados como porcos aqui.",
+      "Audio/Dialogue/Character/Str/Event/Ma_25.ogg"
+    ],
+    [
+      "Marauder26",
+      "Viver por muito tempo é viver na dor.",
+      "Audio/Dialogue/Character/Str/Event/Ma_26.ogg"
+    ],
+    [
+      "Marauder27",
+      "Este é o Caminho Eterno, belo e sem vida.",
+      "Audio/Dialogue/Character/Str/Event/Ma_27.ogg"
+    ],
+    [
+      "Marauder28",
+      "Piety, você é de fato a escrava de Kitava, uma filha da Corrupção. ",
+      "Audio/Dialogue/Character/Str/Event/Ma_28.ogg"
+    ],
+    [
+      "Marauder29",
+      "Eu tomarei tudo o que Dominus ama, assim como ele tomou de mim. ",
+      "Audio/Dialogue/Character/Str/Event/Ma_29.ogg"
+    ],
+    [
+      "Marauder30",
+      "Os Karui não se escondem em torres erguidas pelo medo.",
+      "Audio/Dialogue/Character/Str/Event/Ma_30.ogg"
+    ],
+    [
+      "Marauder31",
+      "O Império morre junto com você, Dominus. Os Karui nunca mais serão escravos.",
+      "Audio/Dialogue/Character/Str/Event/Ma_31.ogg"
+    ],
+    [
+      "Marauder32",
+      "É uma honra te servir, meu Ancestral.",
+      "Audio/Dialogue/Character/Str/Event/Ma_32.ogg"
+    ],
+    [
+      "Marauder33",
+      "\"Seguir um rio morto até o reino de Kitava.\" Bem do jeito que os anciãos da minha terra falavam.",
+      "Audio/Dialogue/Character/Str/Event/Ma_36.ogg"
+    ],
+    [
+      "Marauder34",
+      "Os Eternos não tinham respeito por suas próprias terras.",
+      "Audio/Dialogue/Character/Str/Event/Ma_37.ogg"
+    ],
+    [
+      "Marauder35",
+      "Seu Império está morto, Voll. Junte-se a ele.",
+      "Audio/Dialogue/Character/Str/Event/Ma_38.ogg"
+    ],
+    [
+      "Marauder36",
+      "Eu te escuto, Kitava. Eu caminho pelo seu reino e você será a próxima.",
+      "Audio/Dialogue/Character/Str/Event/Ma_39.ogg"
+    ],
+    [
+      "Marauder37",
+      "A barriga de Kitava está roncando. Ele anseia por mim.",
+      "Audio/Dialogue/Character/Str/Event/Ma_40.ogg"
+    ],
+    [
+      "Marauder38",
+      "Os Karui e os Maraketh já lutaram juntos. Eu honro tal amizade.",
+      "Audio/Dialogue/Character/Str/Event/Ma_41.ogg"
+    ],
+    [
+      "Marauder39",
+      "Você não se alimentará mais, Kitava! Esta é a vontade dos Ancestrais!",
+      "Audio/Dialogue/Character/Str/Event/Ma_42.ogg"
+    ],
+    [
+      "Marauder40",
+      "Oriathianos. Eles amam cantar sobre si mesmos.",
+      "Audio/Dialogue/Character/Str/Event/Ma_43.ogg"
+    ],
+    [
+      "Marauder41",
+      "Tukohama não te chamou, Kaom. Era Kitava.",
+      "Audio/Dialogue/Character/Str/Event/Ma_44.ogg"
+    ],
+    [
+      "Marauder42",
+      "Eles te seguiram, Kaom. Eles confiaram em ti.",
+      "Audio/Dialogue/Character/Str/Event/Ma_45.ogg"
+    ],
+    [
+      "Marauder43",
+      "A Tradição Karui diz que não devemos questionar nosso Rei. A Tradição deve mudar.",
+      "Audio/Dialogue/Character/Str/Event/Ma_46.ogg"
+    ],
+    [
+      "Marauder44",
+      "Eu rejeito sua honra, Kaom.",
+      "Audio/Dialogue/Character/Str/Event/Ma_47.ogg"
+    ],
+    [
+      "Marauder45",
+      "Os Ancestrais chorariam ao ver o que Kaom criou aqui.",
+      "Audio/Dialogue/Character/Str/Event/Ma_48.ogg"
+    ],
+    [
+      "Marauder46",
+      "Eu darei a você a honra de morrer como um guerreiro, Kaom. É muito mais do que você merece. ",
+      "Audio/Dialogue/Character/Str/Event/Ma_49.ogg"
+    ],
+    [
+      "Marauder47",
+      "O caminho para o coração de um deus é pelas suas tripas.",
+      "Audio/Dialogue/Character/Str/Event/Ma_50.ogg"
+    ],
+    [
+      "Marauder48",
+      "Piety, traia-me e eu arrancarei a sua cabeça.",
+      "Audio/Dialogue/Character/Str/Event/Ma_51.ogg"
+    ],
+    [
+      "Marauder49",
+      "Sua doença chegou ao fim.",
+      "Audio/Dialogue/Character/Str/Event/Ma_52.ogg"
+    ],
+    [
+      "Marauder50",
+      "Esta é a vontade dos Ancestrais.",
+      "Audio/Dialogue/Character/Str/Event/Ma_53.ogg"
+    ],
+    [
+      "Marauder51",
+      "Escravo, você está livre.\r\n",
+      "Audio/Dialogue/Character/Str/Event/Ma_54.ogg"
+    ],
+    [
+      "Marauder52",
+      "Que os Ancestrais te perdoem, Piety.",
+      "Audio/Dialogue/Character/Str/Event/Ma_55.ogg"
+    ],
+    [
+      "Marauder53",
+      "Você me ouviu, Kitava?! Seus escravos estão mortos, e seu reino morre com eles! Você não é mais o Pai da Corrupção! ",
+      "Audio/Dialogue/Character/Str/Event/Ma_56.ogg"
+    ],
+    [
+      "Marauder54",
+      "Ainda não posso fazer isso.",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_33a.ogg"
+    ],
+    [
+      "Marauder55",
+      "Minha mana acabou.",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_33b.ogg"
+    ],
+    [
+      "Marauder56",
+      "Não posso carregar isso.",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_33c_01.ogg"
+    ],
+    [
+      "Marauder57",
+      "Não posso carregar isso.",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_33c_02.ogg"
+    ],
+    [
+      "Marauder58",
+      "Ahhhh... bem melhor.",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_33d.ogg"
+    ],
+    [
+      "Marauder59",
+      "Ainda não sou forte o suficiente para usar isso.",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_33e.ogg"
+    ],
+    [
+      "Marauder60",
+      "Eu ainda não sei usar isso.",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_33f_01.ogg"
+    ],
+    [
+      "Marauder61",
+      "Eu ainda não sei usar isso.",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_33f_02.ogg"
+    ],
+    [
+      "Marauder62",
+      "Não sou habilidoso o suficiente para usar isso.",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_33g_01.ogg"
+    ],
+    [
+      "Marauder63",
+      "Não sou habilidoso o suficiente para usar isso.",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_33g_02.ogg"
+    ],
+    [
+      "Marauder64",
+      "Meus instintos me dizem para não destruir isso.",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_33h_01.ogg"
+    ],
+    [
+      "Marauder65",
+      "Meus instintos me dizem para não destruir isso.",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_33h_02.ogg"
+    ],
+    [
+      "Marauder66",
+      "Seria errado fazer isso aqui.",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_33i_01.ogg"
+    ],
+    [
+      "Marauder67",
+      "Seria errado fazer isso aqui.",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_33i_02.ogg"
+    ],
+    [
+      "Marauder68",
+      "Por Tukohama!",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_34a_01.ogg"
+    ],
+    [
+      "Marauder69",
+      "Por Tukohama!",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_34a_02.ogg"
+    ],
+    [
+      "Marauder70",
+      "Vá para Hinekora!",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_34b_01.ogg"
+    ],
+    [
+      "Marauder71",
+      "Vá para Hinekora!",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_34b_02.ogg"
+    ],
+    [
+      "Marauder72",
+      "Volte para a imundície!",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_34c_01.ogg"
+    ],
+    [
+      "Marauder73",
+      "Volte para a imundície!",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_34c_02.ogg"
+    ],
+    [
+      "Marauder74",
+      "Eu te entrego aos Ancestrais!",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_34d_01.ogg"
+    ],
+    [
+      "Marauder75",
+      "Eu te entrego aos Ancestrais!",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_34d_02.ogg"
+    ],
+    [
+      "Marauder76",
+      "Volte para Kitava!",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_34e_01.ogg"
+    ],
+    [
+      "Marauder77",
+      "Volte para Kitava!",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_34e_02.ogg"
+    ],
+    [
+      "Marauder78",
+      "Eu vivo para ver um novo dia.",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_35a.ogg"
+    ],
+    [
+      "Marauder79",
+      "Dominus quis que eu morresse aqui. Eu o desapontarei.",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_35b.ogg"
+    ],
+    [
+      "Marauder80",
+      "Em Wraeclast, matar é viver.",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_35c.ogg"
+    ],
+    [
+      "Marauder81",
+      "Cada morte me traz vida.",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_35d.ogg"
+    ],
+    [
+      "Marauder82",
+      "Os Ancestrais zelam por mim.",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_35e.ogg"
+    ],
+    [
+      "Marauder83",
+      "Eu agradeço, meus Ancestrais. Eu retribuirei seu presente.",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_35f.ogg"
+    ],
+    [
+      "Marauder84",
+      "Esta terra se esqueceu da força Karui. E eu a lembrarei.",
+      "Audio/Dialogue/Character/Str/Gameplay/Ma_35g.ogg"
+    ],
+    [
+      "Ranger1",
+      "Nunca vi ermos como este. Dias negros virão.",
+      "Audio/Dialogue/Character/Dex/Event/R_02_GetUp.ogg"
+    ],
+    [
+      "Ranger2",
+      "Não há justiça num lugar como este. Apenas miséria.",
+      "Audio/Dialogue/Character/Dex/Event/R_03_EnterPrison.ogg"
+    ],
+    [
+      "Ranger3",
+      "Brutus, o que eu fiz por você, eu faria por qualquer animal ferido.",
+      "Audio/Dialogue/Character/Dex/Event/R_04_KillBrutus.ogg"
+    ],
+    [
+      "Ranger4",
+      "A vida e a morte vivem lado a lado. Esta é uma terra estranha.",
+      "Audio/Dialogue/Character/Dex/Event/R_05_EnterShipGraveyard.ogg"
+    ],
+    [
+      "Ranger5",
+      "Você era apenas um bom homem em uma situação ruim, Fairgraves. ",
+      "Audio/Dialogue/Character/Dex/Event/R_06_KillFairgraves.ogg"
+    ],
+    [
+      "Ranger6",
+      "Merveil, isso tudo aconteceu com você... graças ao seu amor por um homem.\r\n",
+      "Audio/Dialogue/Character/Dex/Event/R_07_KillMerveil.ogg"
+    ],
+    [
+      "Ranger7",
+      "Faça uma coisa boa ao menos uma vez em sua vida patética, bandido. Alimente os vermes.",
+      "Audio/Dialogue/Character/Dex/Event/R_08_KillOak.ogg"
+    ],
+    [
+      "Ranger8",
+      "O rei dos ratos? Agora não passa de um banquete para ratos.",
+      "Audio/Dialogue/Character/Dex/Event/R_09_Killkraityn.ogg"
+    ],
+    [
+      "Ranger9",
+      "Odeio arrancar flores bonitas. Mesmo as venenosas como você.\r\n",
+      "Audio/Dialogue/Character/Dex/Event/R_10_KillAlira.ogg"
+    ],
+    [
+      "Ranger10",
+      "A luxúria e a crueldade andam de mãos dadas. ",
+      "Audio/Dialogue/Character/Dex/Event/R_11_EnterCOS.ogg"
+    ],
+    [
+      "Ranger11",
+      "Isso não devia estar acontecendo. Não no mundo que eu conheço.",
+      "Audio/Dialogue/Character/Dex/Event/R_12_ReleaseVaalShadow.ogg"
+    ],
+    [
+      "Ranger12",
+      "Avise à tua laia, pesadelo. Tu não és bem-vindo no meu mundo.",
+      "Audio/Dialogue/Character/Dex/Event/R_12b_KillOversoul.ogg"
+    ],
+    [
+      "Ranger13",
+      "A vida não é nada sem a morte. Uma verdade simples que não deve ser esquecida.",
+      "Audio/Dialogue/Character/Dex/Event/R_13_EnterWarehouse.ogg"
+    ],
+    [
+      "Ranger14",
+      "Eu nunca me senti tão distante do que conheço e do que amo.",
+      "Audio/Dialogue/Character/Dex/Event/R_14_EnterSolaris.ogg"
+    ],
+    [
+      "Ranger15",
+      "Piety... você vai pagar por muita coisa.",
+      "Audio/Dialogue/Character/Dex/Event/R_15_EnterLunaris.ogg"
+    ],
+    [
+      "Ranger16",
+      "Esta terra pode até ser capaz de se recuperar sem homens como você, Gravicius.\r\n",
+      "Audio/Dialogue/Character/Dex/Event/R_16_KillGravicius.ogg"
+    ],
+    [
+      "Ranger17",
+      "A sua morte não conserta nada, Piety. Mas as coisas não vão piorar com ela.",
+      "Audio/Dialogue/Character/Dex/Event/R_17_KillPiety.ogg"
+    ],
+    [
+      "Ranger18",
+      "Por que insistimos em construir montanhas? Por que não escalá-las?",
+      "Audio/Dialogue/Character/Dex/Event/R_17b_EnterSceptre.ogg"
+    ],
+    [
+      "Ranger19",
+      "Alguns de nós vivem o suficiente para nos arrependermos de nossos erros. Outros não. Tente não levar para o lado pessoal.",
+      "Audio/Dialogue/Character/Dex/Event/R_18_KillDominus.ogg"
+    ],
+    [
+      "Ranger20",
+      "As cidades são chagas na natureza, e Sarn era a pior de todas.",
+      "Audio/Dialogue/Character/Dex/Event/R_21_EnterAqueduct.ogg"
+    ],
+    [
+      "Ranger21",
+      "Um lago drenado, um milhão de criaturas perdidas, só para Sarn manter suas latrinas funcionais.",
+      "Audio/Dialogue/Character/Dex/Event/R_22_EnterDriedLake.ogg"
+    ],
+    [
+      "Ranger22",
+      "Esta terra não sentira falta da sua laia, Voll.",
+      "Audio/Dialogue/Character/Dex/Event/R_23_KillVoll.ogg"
+    ],
+    [
+      "Ranger23",
+      "Este não foi um terremoto natural.",
+      "Audio/Dialogue/Character/Dex/Event/R_24_EnterMines_01.ogg"
+    ],
+    [
+      "Ranger24",
+      "Parece que algo está se mexendo durante o sono.",
+      "Audio/Dialogue/Character/Dex/Event/R_25_EnterMines_02.ogg"
+    ],
+    [
+      "Ranger25",
+      "Deshret, este é meu presente, de uma mulher guerreira para outra.",
+      "Audio/Dialogue/Character/Dex/Event/R_26_FreeDeshret.ogg"
+    ],
+    [
+      "Ranger26",
+      "Esta montanha é profundamente perturbada.",
+      "Audio/Dialogue/Character/Dex/Event/R_27_EnterMines_03.ogg"
+    ],
+    [
+      "Ranger27",
+      "Daresso, o único amor que você tinha era por si mesmo.",
+      "Audio/Dialogue/Character/Dex/Event/R_28_KillDaresso.ogg"
+    ],
+    [
+      "Ranger28",
+      "Estes não são os Karui que eu conheço.",
+      "Audio/Dialogue/Character/Dex/Event/R_29_EnterKaom.ogg"
+    ],
+    [
+      "Ranger29",
+      "Um menininho brabo a menos no mundo. ",
+      "Audio/Dialogue/Character/Dex/Event/R_30_KillKaom.ogg"
+    ],
+    [
+      "Ranger30",
+      "Então é assim que é a vida dentro de um pesadelo.",
+      "Audio/Dialogue/Character/Dex/Event/R_31_EnterBelly.ogg"
+    ],
+    [
+      "Ranger31",
+      "Todo tipo de crime contra a natureza imaginável.",
+      "Audio/Dialogue/Character/Dex/Event/R_32_EnterHarvest.ogg"
+    ],
+    [
+      "Ranger32",
+      "Sua laia não deixa nada além de cicatrizes, Maligaro.",
+      "Audio/Dialogue/Character/Dex/Event/R_33_KillMaligaro.ogg"
+    ],
+    [
+      "Ranger33",
+      "Nós destruímos tanta beleza ao tentar criar nossas \"lindezas\".",
+      "Audio/Dialogue/Character/Dex/Event/R_34_KillShavronne.ogg"
+    ],
+    [
+      "Ranger34",
+      "Doedre, você foi sua pior inimiga.",
+      "Audio/Dialogue/Character/Dex/Event/R_35_KillDoedre.ogg"
+    ],
+    [
+      "Ranger35",
+      "Piety, você deveria ter aceitado a Morte. Assim deseja a natureza, como sempre.",
+      "Audio/Dialogue/Character/Dex/Event/R_36_AfterPietyDies.ogg"
+    ],
+    [
+      "Ranger36",
+      "Você pretendia matar o mundo que eu amo. Você realmente acha que eu deixaria você e sua Besta fazerem isso, Malachai? ",
+      "Audio/Dialogue/Character/Dex/Event/R_37_KillMalachai.ogg"
+    ],
+    [
+      "Ranger37",
+      "Ainda não sou capaz disso.",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_19a_Cooldown_01.ogg"
+    ],
+    [
+      "Ranger38",
+      "Ainda não sou capaz disso.",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_19a_Cooldown_02.ogg"
+    ],
+    [
+      "Ranger39",
+      "Minha Mana acabou.",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_19b_Mana_01.ogg"
+    ],
+    [
+      "Ranger40",
+      "Minha Mana acabou.",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_19b_Mana_02.ogg"
+    ],
+    [
+      "Ranger41",
+      "Isso só me atrapalharia.",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_19c_Inventory_01.ogg"
+    ],
+    [
+      "Ranger42",
+      "Isso só me atrapalharia.",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_19c_Inventory_02.ogg"
+    ],
+    [
+      "Ranger43",
+      "Ahhhh... assim é melhor.",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_19d_Flask_01.ogg"
+    ],
+    [
+      "Ranger44",
+      "Ahhhh... assim é melhor.",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_19d_Flask_02.ogg"
+    ],
+    [
+      "Ranger45",
+      "Preciso me fortalecer para isso.",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_19e_StrLow_01.ogg"
+    ],
+    [
+      "Ranger46",
+      "Preciso me fortalecer para isso.",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_19e_StrLow_02.ogg"
+    ],
+    [
+      "Ranger47",
+      "Não sou nenhum cretino, mas isso me superou.",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_19f_IntLow_01.ogg"
+    ],
+    [
+      "Ranger48",
+      "Não sou nenhum cretino, mas isso me superou.",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_19f_IntLow_02.ogg"
+    ],
+    [
+      "Ranger49",
+      "Eu preciso afiar meus reflexos antes de usar isso.",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_19g_DexLow_01.ogg"
+    ],
+    [
+      "Ranger50",
+      "Eu preciso afiar meus reflexos antes de usar isso.",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_19g_DexLow_02.ogg"
+    ],
+    [
+      "Ranger51",
+      "Tenho um palpite de que vou precisar disso.",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_19h_QuestItem_01.ogg"
+    ],
+    [
+      "Ranger52",
+      "Tenho um palpite de que vou precisar disso.",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_19h_QuestItem_02.ogg"
+    ],
+    [
+      "Ranger53",
+      "Eu que não gostaria de fazer isso aqui.",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_19I_SkillsTown_01.ogg"
+    ],
+    [
+      "Ranger54",
+      "Eu que não gostaria de fazer isso aqui.",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_19I_SkillsTown_02.ogg"
+    ],
+    [
+      "Ranger55",
+      "A beleza crescerá a partir dos seus restos.",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_19J_RareKill_01.ogg"
+    ],
+    [
+      "Ranger56",
+      "A beleza crescerá a partir dos seus restos.",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_19J_RareKill_02.ogg"
+    ],
+    [
+      "Ranger57",
+      "Pobre criatura corrompida.",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_19J_RareKill_03.ogg"
+    ],
+    [
+      "Ranger58",
+      "Pobre criatura corrompida.",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_19J_RareKill_04.ogg"
+    ],
+    [
+      "Ranger59",
+      "Podar um galho pode salvar uma árvore.",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_19J_RareKill_05.ogg"
+    ],
+    [
+      "Ranger60",
+      "Podar um galho pode salvar uma árvore.",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_19J_RareKill_06.ogg"
+    ],
+    [
+      "Ranger61",
+      "Eu te entrego à terra.",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_19J_RareKill_07.ogg"
+    ],
+    [
+      "Ranger62",
+      "Eu te entrego à terra.",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_19J_RareKill_08.ogg"
+    ],
+    [
+      "Ranger63",
+      "Vou acabar com a sua desgraça.",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_19J_RareKill_09.ogg"
+    ],
+    [
+      "Ranger64",
+      "Vou acabar com a sua desgraça.",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_19J_RareKill_10.ogg"
+    ],
+    [
+      "Ranger65",
+      "Eu vivo e aprendo.",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_20_LevelUp_01.ogg"
+    ],
+    [
+      "Ranger66",
+      "Ainda estou respirando. Isso é um bom sinal.",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_20_LevelUp_02.ogg"
+    ],
+    [
+      "Ranger67",
+      "Os vermes vão ter que esperar mais por esta refeição.",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_20_LevelUp_03.ogg"
+    ],
+    [
+      "Ranger68",
+      "A dor gera força. E isso representa a natureza.",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_20_LevelUp_04.ogg"
+    ],
+    [
+      "Ranger69",
+      "Quando a presa se torna mais feroz, a Caçadora também precisa sê-lo.",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_20_LevelUp_05.ogg"
+    ],
+    [
+      "Ranger70",
+      "Mais próximo do topo da cadeia alimentar.",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_20_LevelUp_06.ogg"
+    ],
+    [
+      "Ranger71",
+      "Parece que entrei em acordo com esta terra.",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_20_LevelUp_07.ogg"
+    ],
+    [
+      "Ranger72",
+      "Você me deu tanto. O que posso fazer por você, Wraeclast? ",
+      "Audio/Dialogue/Character/Dex/Gameplay/R_20_LevelUp_08.ogg"
+    ],
+    [
+      "Witch1",
+      "Até a areia treme com malícia. Existe um poder aqui que chama por mim.",
+      "Audio/Dialogue/Character/Int/Event/Witch_01.ogg"
+    ],
+    [
+      "Witch2",
+      "Eu prefiro queimar do que chamar este lugar de lar.",
+      "Audio/Dialogue/Character/Int/Event/Witch_02.ogg"
+    ],
+    [
+      "Witch3",
+      "As sereias parecem estar se alimentando bem.",
+      "Audio/Dialogue/Character/Int/Event/Witch_03.ogg"
+    ],
+    [
+      "Witch4",
+      "O ar fede com taumaturgia. Acho que consigo aprender umas coisinhas aqui.",
+      "Audio/Dialogue/Character/Int/Event/Witch_04.ogg"
+    ],
+    [
+      "Witch5",
+      "Criaturas tristes em cantos escuros... tristes por tanto, tanto tempo.",
+      "Audio/Dialogue/Character/Int/Event/Witch_05.ogg"
+    ],
+    [
+      "Witch6",
+      "Eu adoraria ver as entranhas deste feitiço. Não gosto de faxina.",
+      "Audio/Dialogue/Character/Int/Event/Witch_06.ogg"
+    ],
+    [
+      "Witch7",
+      "Os mortos em breve se erguerão para mim, não contra mim.",
+      "Audio/Dialogue/Character/Int/Event/Witch_08.ogg"
+    ],
+    [
+      "Witch8",
+      "Ora, bruto, se você fosse uma criação minha, você não cairia tão facilmente.",
+      "Audio/Dialogue/Character/Int/Event/Witch_09.ogg"
+    ],
+    [
+      "Witch9",
+      "E é assim que se morre direito, marinheiro. Sem meias-medidas, muito obrigado.",
+      "Audio/Dialogue/Character/Int/Event/Witch_10.ogg"
+    ],
+    [
+      "Witch10",
+      "Pobre peixeira! Foi o amor que fez isso com você.",
+      "Audio/Dialogue/Character/Int/Event/Witch_11.ogg"
+    ],
+    [
+      "Witch11",
+      "Esta terra não tem tempo para déspotas avarentos como você, Oak.",
+      "Audio/Dialogue/Character/Int/Event/W_09_KillOak.ogg"
+    ],
+    [
+      "Witch12",
+      "É bem decepcionante. Eu normalmente gosto de ratos.",
+      "Audio/Dialogue/Character/Int/Event/Witch_13.ogg"
+    ],
+    [
+      "Witch13",
+      "Você perdeu uma bela lição, Irmã. Nuca deixe o poder te subir à cabeça.",
+      "Audio/Dialogue/Character/Int/Event/Witch_14.ogg"
+    ],
+    [
+      "Witch14",
+      "Que pena. Achei que podíamos ser amigos.",
+      "Audio/Dialogue/Character/Int/Event/Witch_15.ogg"
+    ],
+    [
+      "Witch15",
+      "Você queria me queimar em Oriath, Gravicius. Não foi legal da sua parte.",
+      "Audio/Dialogue/Character/Int/Event/Witch_16.ogg"
+    ],
+    [
+      "Witch16",
+      "Eu amei seu trabalho, Piety. Era de você que eu não gostava.",
+      "Audio/Dialogue/Character/Int/Event/Witch_17.ogg"
+    ],
+    [
+      "Witch17",
+      "Ninguém vai chorar por você, Dominus. Nem uma alma sequer.",
+      "Audio/Dialogue/Character/Int/Event/Witch_18.ogg"
+    ],
+    [
+      "Witch18",
+      "Fascinante.",
+      "Audio/Dialogue/Character/Int/Event/Witch_19.ogg"
+    ],
+    [
+      "Witch19",
+      "Um segundo para recuperar meu fôlego.",
+      "Audio/Dialogue/Character/Int/Gameplay/Witch_Com_01.ogg"
+    ],
+    [
+      "Witch20",
+      "Eu preciso de mais mana.",
+      "Audio/Dialogue/Character/Int/Gameplay/Witch_Com_02.ogg"
+    ],
+    [
+      "Witch21",
+      "Mas. Quanta. Tralha.",
+      "Audio/Dialogue/Character/Int/Gameplay/Witch_Com_03.ogg"
+    ],
+    [
+      "Witch22",
+      "Ah, que gratificante.",
+      "Audio/Dialogue/Character/Int/Gameplay/Witch_Com_04.ogg"
+    ],
+    [
+      "Witch23",
+      "A vida é fugaz!",
+      "Audio/Dialogue/Character/Int/Gameplay/Witch_Com_05.ogg"
+    ],
+    [
+      "Witch24",
+      "Não tenho os músculos para isso.",
+      "Audio/Dialogue/Character/Int/Gameplay/Witch_Com_06.ogg"
+    ],
+    [
+      "Witch25",
+      "Estou perplexo com isso.",
+      "Audio/Dialogue/Character/Int/Gameplay/Witch_Com_07.ogg"
+    ],
+    [
+      "Witch26",
+      "Preciso ser mais ágil para isso.",
+      "Audio/Dialogue/Character/Int/Gameplay/Witch_Com_08.ogg"
+    ],
+    [
+      "Witch27",
+      "Este item sussurra sobre o destino.",
+      "Audio/Dialogue/Character/Int/Gameplay/Witch_Com_09.ogg"
+    ],
+    [
+      "Witch28",
+      "Isso só tornaria a vida mais complicada.",
+      "Audio/Dialogue/Character/Int/Gameplay/Witch_Com_10.ogg"
+    ],
+    [
+      "Witch29",
+      "E eu achava que estaria morta agora.",
+      "Audio/Dialogue/Character/Int/Gameplay/Witch_Level_01.ogg"
+    ],
+    [
+      "Witch30",
+      "Aprender é viver.",
+      "Audio/Dialogue/Character/Int/Gameplay/Witch_Level_02.ogg"
+    ],
+    [
+      "Witch31",
+      "Acredito que esta Wraeclast vai servir.",
+      "Audio/Dialogue/Character/Int/Gameplay/Witch_Level_03.ogg"
+    ],
+    [
+      "Witch32",
+      "O destino sorri com dentes afiados.",
+      "Audio/Dialogue/Character/Int/Gameplay/Witch_Level_04.ogg"
+    ],
+    [
+      "Witch33",
+      "Eu quase nem me reconheço.",
+      "Audio/Dialogue/Character/Int/Gameplay/Witch_Level_05.ogg"
+    ],
+    [
+      "Witch34",
+      "A terra aprenderá a ouvir meus comandos.",
+      "Audio/Dialogue/Character/Int/Gameplay/Witch_Level_06.ogg"
+    ],
+    [
+      "Witch35",
+      "Eu não preciso mais de medo. O destino garantiu isso.",
+      "Audio/Dialogue/Character/Int/Gameplay/Witch_Level_07.ogg"
+    ],
+    [
+      "Witch36",
+      "Eu conheço este fedor. Assim como minhas irmãs... na pira. ",
+      "Audio/Dialogue/Character/Int/Event/W_04b_EnterCannibalBay.ogg"
+    ],
+    [
+      "Witch37",
+      "É bom ver que ainda existe vida no cadáver deste continente.",
+      "Audio/Dialogue/Character/Int/Event/W_08_EnterForest.ogg"
+    ],
+    [
+      "Witch38",
+      "Sarn, a cidade que deu à luz a um império. Ora, você vai pagar por muita coisa.",
+      "Audio/Dialogue/Character/Int/Event/W_14b_EnterSarn.ogg"
+    ],
+    [
+      "Witch39",
+      "Quando você constrói algo assim, a perseguição vira um meio de vida.",
+      "Audio/Dialogue/Character/Int/Event/W_15b_EnterCrematorium.ogg"
+    ],
+    [
+      "Witch40",
+      "Pobre marinheiro. Condenado a ir para onde os ventos o soprarem.",
+      "Audio/Dialogue/Character/Int/Event/W_16b_AfterFairgraves.ogg"
+    ],
+    [
+      "Witch41",
+      "Lembre-se, Dominus. O que sobe deve descer.",
+      "Audio/Dialogue/Character/Int/Event/W_19b_EnterSceptre.ogg"
+    ],
+    [
+      "Witch42",
+      "Aquela água fede de corrupção. Vamos ver de onde isso vem.",
+      "Audio/Dialogue/Character/Int/Event/W_23_EnterAqueduct.ogg"
+    ],
+    [
+      "Witch43",
+      "Como eu sempre me meto nestes lugares tão encantadores?",
+      "Audio/Dialogue/Character/Int/Event/W_24_EnterDriedLake.ogg"
+    ],
+    [
+      "Witch44",
+      "A taumaturgia continua superando você, não é mesmo, Voll?",
+      "Audio/Dialogue/Character/Int/Event/W_25_KillVoll.ogg"
+    ],
+    [
+      "Witch45",
+      "Sim, pequena montanha. Também é bom te ver!",
+      "Audio/Dialogue/Character/Int/Event/W_26_EnterMines01.ogg"
+    ],
+    [
+      "Witch46",
+      "Acho que isso gosta de mim.",
+      "Audio/Dialogue/Character/Int/Event/W_27_EnterMines2.ogg"
+    ],
+    [
+      "Witch47",
+      "Existem tantos espíritos aprisionados neste lugar. Eu posso senti-los.",
+      "Audio/Dialogue/Character/Int/Event/W_28_FreeDeshret.ogg"
+    ],
+    [
+      "Witch48",
+      "Não tema, pequena montanha. Tudo acabará em breve.",
+      "Audio/Dialogue/Character/Int/Event/W_29_EnterMines3.ogg"
+    ],
+    [
+      "Witch49",
+      "Sinto muito em te dizer, Daresso, mas... ela não é real.",
+      "Audio/Dialogue/Character/Int/Event/W_30_KillDaresso.ogg"
+    ],
+    [
+      "Witch50",
+      "Então é assim que é a vida dentro da cabeça de um rei Karui. Espero que não seja sempre assim.",
+      "Audio/Dialogue/Character/Int/Event/W_31_EnterKaom.ogg"
+    ],
+    [
+      "Witch51",
+      "É isso o que você ganha por perder a paciência, Kaom.",
+      "Audio/Dialogue/Character/Int/Event/W_32-KillKaom.ogg"
+    ],
+    [
+      "Witch52",
+      "Não é todo dia que você consegue passear num pesadelo vivo.",
+      "Audio/Dialogue/Character/Int/Event/W_33_EnterBelly.ogg"
+    ],
+    [
+      "Witch53",
+      "Eu subestimei a Piety, pelo visto. Ótimo! Eu gosto de surpresas.",
+      "Audio/Dialogue/Character/Int/Event/W_34_EnterHarvest.ogg"
+    ],
+    [
+      "Witch54",
+      "Odeio criticar, mas... Já vi melhores.",
+      "Audio/Dialogue/Character/Int/Event/W_35_KillMaligaro.ogg"
+    ],
+    [
+      "Witch55",
+      "Depois de Brutus, eu torço para que não veja mais nenhum trabalho seu.",
+      "Audio/Dialogue/Character/Int/Event/W_36_KillShav.ogg"
+    ],
+    [
+      "Witch56",
+      "Oh, Doedre. Nós bruxas precisamos ter certos padrões.",
+      "Audio/Dialogue/Character/Int/Event/W_37_KillDoedre.ogg"
+    ],
+    [
+      "Witch57",
+      "É bom que ele não ouça, Piety. Isso vai deixar tudo mais divertido!",
+      "Audio/Dialogue/Character/Int/Event/W_38_AfterPiety.ogg"
+    ],
+    [
+      "Witch58",
+      "Pobre Malachai, com tanto medo da Morte. Agora vocês dois podem se conhecer melhor. Não é tão ruim depois que você se acostuma.",
+      "Audio/Dialogue/Character/Int/Event/W_39_KillMalachai.ogg"
+    ],
+    [
+      "Witch59",
+      "Apenas quando eu estiver pronta, e não antes.",
+      "Audio/Dialogue/Character/Int/Gameplay/W_21_CoolDown_01.ogg"
+    ],
+    [
+      "Witch60",
+      "Apenas quando eu estiver pronta, e não antes.",
+      "Audio/Dialogue/Character/Int/Gameplay/W_21_CoolDown_02.ogg"
+    ],
+    [
+      "Witch61",
+      "A vida é curte. Acostume-se com isso.",
+      "Audio/Dialogue/Character/Int/Gameplay/W_21_RareKill_01.ogg"
+    ],
+    [
+      "Witch62",
+      "Opa! Que atrapalhada.",
+      "Audio/Dialogue/Character/Int/Gameplay/W_21_RareKill_02.ogg"
+    ],
+    [
+      "Witch63",
+      "Tudo morre.",
+      "Audio/Dialogue/Character/Int/Gameplay/W_21_RareKill_03.ogg"
+    ],
+    [
+      "Witch64",
+      "Eu gosto mais de você assim.",
+      "Audio/Dialogue/Character/Int/Gameplay/W_21_RareKill_04.ogg"
+    ],
+    [
+      "Witch65",
+      "A vida é preciosa demais para perdê-la com você.",
+      "Audio/Dialogue/Character/Int/Gameplay/W_21_RareKill_05.ogg"
+    ],
+    [
+      "Witch66",
+      "Ou você domina o Pesadelo, ou ele domina você.",
+      "Audio/Dialogue/Character/Int/Event/W17_EnterLunaris.ogg"
+    ],
+    [
+      "Duelist1",
+      "Não é a melhor das arenas, mas vai servir por enquanto.",
+      "Audio/Dialogue/Character/StrDex/Event/D02.ogg"
+    ],
+    [
+      "Duelist2",
+      "Até os mortos se erguem para me desafiar aqui.",
+      "Audio/Dialogue/Character/StrDex/Event/D03.ogg"
+    ],
+    [
+      "Duelist3",
+      "Briga de rinha, então. Sem problemas.",
+      "Audio/Dialogue/Character/StrDex/Event/D04.ogg"
+    ],
+    [
+      "Duelist4",
+      "Técnica sobre força, sempre.",
+      "Audio/Dialogue/Character/StrDex/Event/D05.ogg"
+    ],
+    [
+      "Duelist5",
+      "Estamos perante as portas da morte. Primeiro as damas, bela Merveil.",
+      "Audio/Dialogue/Character/StrDex/Event/D06.ogg"
+    ],
+    [
+      "Duelist6",
+      "Quase sinto pena desses pobres cães do mar.",
+      "Audio/Dialogue/Character/StrDex/Event/D07.ogg"
+    ],
+    [
+      "Duelist7",
+      "Não é todo dia que se duela com uma lenda. Eu te agradeço, Fairgraves.",
+      "Audio/Dialogue/Character/StrDex/Event/D08.ogg"
+    ],
+    [
+      "Duelist8",
+      "Lutou bem, Oak. Pena termos apenas as árvores como público.",
+      "Audio/Dialogue/Character/StrDex/Event/D09.ogg"
+    ],
+    [
+      "Duelist9",
+      "Uma pena que sua mente não foi tão veloz quanto suas lâminas, rato da ponte.",
+      "Audio/Dialogue/Character/StrDex/Event/D10.ogg"
+    ],
+    [
+      "Duelist10",
+      "É difícil conjurar um feitiço com uma lâmina na garganta, não é, bruxa?",
+      "Audio/Dialogue/Character/StrDex/Event/D11.ogg"
+    ],
+    [
+      "Duelist11",
+      "Um lugar de sonhos estragados. Tenho que ter cuidado por aqui.",
+      "Audio/Dialogue/Character/StrDex/Event/D12.ogg"
+    ],
+    [
+      "Duelist12",
+      "Isso não é bom.",
+      "Audio/Dialogue/Character/StrDex/Event/D13.ogg"
+    ],
+    [
+      "Duelist13",
+      "Um duelo sem igual. Acho que estou começando a gostar dessa Wraeclast.",
+      "Audio/Dialogue/Character/StrDex/Event/D14.ogg"
+    ],
+    [
+      "Duelist14",
+      "Eu prefiro uma luta justa. Duvido que vá ter uma aqui.",
+      "Audio/Dialogue/Character/StrDex/Event/D15.ogg"
+    ],
+    [
+      "Duelist15",
+      "Quem sabe ainda exista glória no velho império.",
+      "Audio/Dialogue/Character/StrDex/Event/D16.ogg"
+    ],
+    [
+      "Duelist16",
+      "O famoso antro de Piety. Vamos ver se a bruxa nojenta está aí.",
+      "Audio/Dialogue/Character/StrDex/Event/D17.ogg"
+    ],
+    [
+      "Duelist17",
+      "Morrer em batalha... a única coisa honrada que você já fez, Gravicius.",
+      "Audio/Dialogue/Character/StrDex/Event/D18.ogg"
+    ],
+    [
+      "Duelist18",
+      "Desculpe, coisa linda, mas alguém tinha que impedir toda essa feiura.",
+      "Audio/Dialogue/Character/StrDex/Event/D19.ogg"
+    ],
+    [
+      "Duelist19",
+      "Escalar a torre, matar o rei louco. Que nem as histórias que mamãe contava.",
+      "Audio/Dialogue/Character/StrDex/Event/D20.ogg"
+    ],
+    [
+      "Duelist20",
+      "Uma morte justa por um exílio injusto. Acho que estamos quites, Alto Templário.",
+      "Audio/Dialogue/Character/StrDex/Event/D21.ogg"
+    ],
+    [
+      "Duelist21",
+      "Um passeio por um canal pitoresco. Um descanso nas montanhas. O que poderia ser mais relaxante? ",
+      "Audio/Dialogue/Character/StrDex/Event/D24.ogg"
+    ],
+    [
+      "Duelist22",
+      "Bem, isso é... sinistro.",
+      "Audio/Dialogue/Character/StrDex/Event/D25.ogg"
+    ],
+    [
+      "Duelist23",
+      "Parece-me, Voll, que eu acabei de te fazer um favor.",
+      "Audio/Dialogue/Character/StrDex/Event/D26.ogg"
+    ],
+    [
+      "Duelist24",
+      "Nada como uma entrada estrondosa.",
+      "Audio/Dialogue/Character/StrDex/Event/D27.ogg"
+    ],
+    [
+      "Duelist25",
+      "Na verdade, não sei se gosto dessa ideia.",
+      "Audio/Dialogue/Character/StrDex/Event/D28.ogg"
+    ],
+    [
+      "Duelist26",
+      "Sempre contente em satisfazer uma donzela em perigo.",
+      "Audio/Dialogue/Character/StrDex/Event/D29.ogg"
+    ],
+    [
+      "Duelist27",
+      "Enterrado sob toneladas de rochas? Uma péssima forma de encerrar esta minha história.",
+      "Audio/Dialogue/Character/StrDex/Event/D30.ogg"
+    ],
+    [
+      "Duelist28",
+      "Mas que maravilha que é estar de volta na arena!",
+      "Audio/Dialogue/Character/StrDex/Event/D31.ogg"
+    ],
+    [
+      "Duelist29",
+      "Sua glória será eternizada nas canções, Daresso. Isso eu te prometo.",
+      "Audio/Dialogue/Character/StrDex/Event/D32.ogg"
+    ],
+    [
+      "Duelist30",
+      "Já ouvi um Karui falar sobre sua \"ilha dos mortos\". Acho que é essa mesmo.",
+      "Audio/Dialogue/Character/StrDex/Event/D33.ogg"
+    ],
+    [
+      "Duelist31",
+      "Se alegre em ter recebido a morte de um guerreiro, Kaom.",
+      "Audio/Dialogue/Character/StrDex/Event/D34.ogg"
+    ],
+    [
+      "Duelist32",
+      "Eu estou dentro... dentro da Besta!",
+      "Audio/Dialogue/Character/StrDex/Event/D35.ogg"
+    ],
+    [
+      "Duelist33",
+      "Essa história fica ainda mais bizarra a cada passo meu.",
+      "Audio/Dialogue/Character/StrDex/Event/D36.ogg"
+    ],
+    [
+      "Duelist34",
+      "Alegre-se, Maligaro. O trabalho de um artista sempre vale mais após a sua morte.",
+      "Audio/Dialogue/Character/StrDex/Event/D37.ogg"
+    ],
+    [
+      "Duelist35",
+      "Sinto te dizer que elogios não funcionam comigo, cara dama.",
+      "Audio/Dialogue/Character/StrDex/Event/D38.ogg"
+    ],
+    [
+      "Duelist36",
+      "Não entendi nem uma palavra sua, Doedre. Pelo visto é melhor assim.",
+      "Audio/Dialogue/Character/StrDex/Event/D39.ogg"
+    ],
+    [
+      "Duelist37",
+      "Ora essa, eu nunca negaria o último desejo de uma dama.",
+      "Audio/Dialogue/Character/StrDex/Event/D40.ogg"
+    ],
+    [
+      "Duelist38",
+      "Dá uma sensação estranha quando a luta termina. Eu venci. O pesadelo acabou. ",
+      "Audio/Dialogue/Character/StrDex/Event/D41.ogg"
+    ],
+    [
+      "Duelist39",
+      "Acho que isso vai ser útil em algum momento.",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D22_DestroyQuestItem_01.ogg"
+    ],
+    [
+      "Duelist40",
+      "Acho que isso vai ser útil em algum momento.",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D22_DestroyQuestItem_02.ogg"
+    ],
+    [
+      "Duelist41",
+      "Preciso ser mais hábil para usar isso.",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D22_DexStatLow_01.ogg"
+    ],
+    [
+      "Duelist42",
+      "Preciso ser mais hábil para usar isso.",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D22_DexStatLow_02.ogg"
+    ],
+    [
+      "Duelist43",
+      "Ah... que delícia.",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D22_HeathFlaskOnLow_01.ogg"
+    ],
+    [
+      "Duelist44",
+      "Ah... que delícia.",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D22_HeathFlaskOnLow_02.ogg"
+    ],
+    [
+      "Duelist45",
+      "Não consigo entender isso.",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D22_IntStatLow_01.ogg"
+    ],
+    [
+      "Duelist46",
+      "Não consigo entender isso.",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D22_IntStatLow_02.ogg"
+    ],
+    [
+      "Duelist47",
+      "Prefiro viajar sem muito peso.",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D22_InvFull_01.ogg"
+    ],
+    [
+      "Duelist48",
+      "Prefiro viajar sem muito peso.",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D22_InvFull_02.ogg"
+    ],
+    [
+      "Duelist49",
+      "Um oponente digno!",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D22_MonsterKillV1_01.ogg"
+    ],
+    [
+      "Duelist50",
+      "Um oponente digno!",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D22_MonsterKillV1_02.ogg"
+    ],
+    [
+      "Duelist51",
+      "Você morre muito bem!",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D22_MonsterKillV2_01.ogg"
+    ],
+    [
+      "Duelist52",
+      "Você morre muito bem!",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D22_MonsterKillV2_02.ogg"
+    ],
+    [
+      "Duelist53",
+      "Fácil demais!",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D22_MonsterKillV3_01.ogg"
+    ],
+    [
+      "Duelist54",
+      "Fácil demais!",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D22_MonsterKillV3_02.ogg"
+    ],
+    [
+      "Duelist55",
+      "A prática leva à perfeição!",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D22_MonsterKillV4_01.ogg"
+    ],
+    [
+      "Duelist56",
+      "A prática leva à perfeição!",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D22_MonsterKillV4_02.ogg"
+    ],
+    [
+      "Duelist57",
+      "Eu adoro o fedor da vitória!",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D22_MonsterKillV5_01.ogg"
+    ],
+    [
+      "Duelist58",
+      "Eu adoro o fedor da vitória!",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D22_MonsterKillV5_02.ogg"
+    ],
+    [
+      "Duelist59",
+      "Meu espírito está gasto.",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D22_OutOfMana_01.ogg"
+    ],
+    [
+      "Duelist60",
+      "Meu espírito está gasto.",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D22_OutOfMana_02.ogg"
+    ],
+    [
+      "Duelist61",
+      "Ainda não posso fazer isso.",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D22_SkillCooldown_01.ogg"
+    ],
+    [
+      "Duelist62",
+      "Ainda não posso fazer isso.",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D22_SkillCooldown_02.ogg"
+    ],
+    [
+      "Duelist63",
+      "Preciso de mais músculos para isso.",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D22_StrStatLow_01.ogg"
+    ],
+    [
+      "Duelist64",
+      "Preciso de mais músculos para isso.",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D22_StrStatLow_02.ogg"
+    ],
+    [
+      "Duelist65",
+      "A hora para isso não é agora.",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D22_UseSkillInTown_01.ogg"
+    ],
+    [
+      "Duelist66",
+      "A hora para isso não é agora.",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D22_UseSkillInTown_02.ogg"
+    ],
+    [
+      "Duelist67",
+      "É bom ainda estar respirando.",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D23_LevelUp_01.ogg"
+    ],
+    [
+      "Duelist68",
+      "Parece que essa nova arena combina comigo.",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D23_LevelUp_02.ogg"
+    ],
+    [
+      "Duelist69",
+      "Não há melhor local de treino do que Wraeclast.",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D23_LevelUp_03.ogg"
+    ],
+    [
+      "Duelist70",
+      "Meus fãs em Oriath mal vão me reconhecer.",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D23_LevelUp_04.ogg"
+    ],
+    [
+      "Duelist71",
+      "Estou começando a achar que vencer e morrer não são tudo nessa vida.",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D23_LevelUp_05.ogg"
+    ],
+    [
+      "Duelist72",
+      "Aposto que agora consigo enfrentar até o grande Daresso.",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D23_LevelUp_06.ogg"
+    ],
+    [
+      "Duelist73",
+      "Acho que está na hora de largar o sonho de voltar para casa. Meio apertado no pescoço.",
+      "Audio/Dialogue/Character/StrDex/Gameplay/D23_LevelUp_07.ogg"
+    ],
+    [
+      "Shadow1",
+      "A Prisão de Teópolis é brincadeira de criança perto disso. As coisas não são como antigamente.",
+      "Audio/Dialogue/Character/DexInt/Event/Shadow_02.ogg"
+    ],
+    [
+      "Shadow2",
+      "Normalmente sou eu quem faz os fantasmas. Alguém andou bem ocupado.",
+      "Audio/Dialogue/Character/DexInt/Event/Shadow_03.ogg"
+    ],
+    [
+      "Shadow3",
+      "Eu já vi lugares muito sombrios na minha profissão, mas isso aqui é demais.",
+      "Audio/Dialogue/Character/DexInt/Event/Shadow_04.ogg"
+    ],
+    [
+      "Shadow4",
+      "Dizem para tratar a vida e a morte com a mesma graça. Se eu fosse a Morte, eu ficaria onfendido com esse lugar.",
+      "Audio/Dialogue/Character/DexInt/Event/Shadow_05.ogg"
+    ],
+    [
+      "Shadow5",
+      "Nem uma poeira sequer. Cada tijolo no seu devido lugar. Alguém anda com muito tempo livre.",
+      "Audio/Dialogue/Character/DexInt/Event/Shadow_06.ogg"
+    ],
+    [
+      "Shadow6",
+      "Bebi um frasco de leite podre de Lethe uma vez. Tinha o mesmo gosto que esse lugar.",
+      "Audio/Dialogue/Character/DexInt/Event/Shadow_07.ogg"
+    ],
+    [
+      "Shadow7",
+      "\"Grande\" só quer dizer \"mais espaço para enfiar uma espada\".",
+      "Audio/Dialogue/Character/DexInt/Event/Shadow_08.ogg"
+    ],
+    [
+      "Shadow8",
+      "Eu quase sinto pena de você, Fairgraves. Morrer duas vezes não deve... ser divertido.",
+      "Audio/Dialogue/Character/DexInt/Event/Shadow_09.ogg"
+    ],
+    [
+      "Shadow9",
+      "Minha primeira dança com uma moça direita. Pena que ela se largou desse jeito.",
+      "Audio/Dialogue/Character/DexInt/Event/Shadow_10.ogg"
+    ],
+    [
+      "Shadow10",
+      "Ninguém mandou trazer um pauzinho para uma briga de faca.",
+      "Audio/Dialogue/Character/DexInt/Event/Shadow_11.ogg"
+    ],
+    [
+      "Shadow11",
+      "Ninguém precisa dessa esgrima bonitinha. Eu só preciso de uma boa estocada.",
+      "Audio/Dialogue/Character/DexInt/Event/Shadow_12.ogg"
+    ],
+    [
+      "Shadow12",
+      "Por acaso a terra se mexeu para você, neném? Provavelmente. Você atingiu o chão com bastante força.",
+      "Audio/Dialogue/Character/DexInt/Event/Shadow_13.ogg"
+    ],
+    [
+      "Shadow13",
+      "Como todo assassino, eu gosto de escuridão... mas isso foi exagero.",
+      "Audio/Dialogue/Character/DexInt/Event/Shadow_14.ogg"
+    ],
+    [
+      "Shadow14",
+      "Se eu tivesse te matado em Oriath, eu seria banhado em ouro. Nada de justiça, né?",
+      "Audio/Dialogue/Character/DexInt/Event/Shadow_15.ogg"
+    ],
+    [
+      "Shadow15",
+      "Não tento levar meu trabalho para o lado pessoal, mas no seu caso, Piety, eu abro uma deliciosa exceção.",
+      "Audio/Dialogue/Character/DexInt/Event/Shadow_16.ogg"
+    ],
+    [
+      "Shadow16",
+      "Engraçado, vossa majestade. Sempre achei que você fosse maior.",
+      "Audio/Dialogue/Character/DexInt/Event/Shadow_17.ogg"
+    ],
+    [
+      "Shadow17",
+      "Ah, nada como um bom mergulho para começar o dia. Onde diabos eu estou?",
+      "Audio/Dialogue/Character/DexInt/Event/Shadow_01.ogg"
+    ],
+    [
+      "Shadow18",
+      "Este Sombra está começando a se sentir meio incomodado.",
+      "Audio/Dialogue/Character/DexInt/Event/Shadow_18.ogg"
+    ],
+    [
+      "Shadow19",
+      "Pouca mana!",
+      "Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Com_01.ogg"
+    ],
+    [
+      "Shadow20",
+      "Preciso de mais bolsos.",
+      "Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Com_02.ogg"
+    ],
+    [
+      "Shadow21",
+      "Melhor assim!",
+      "Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Com_04.ogg"
+    ],
+    [
+      "Shadow22",
+      "Não sou forte suficiente para isso.",
+      "Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Com_05.ogg"
+    ],
+    [
+      "Shadow23",
+      "Não sou esperto o suficiente para isso. Ainda.",
+      "Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Com_06.ogg"
+    ],
+    [
+      "Shadow24",
+      "Muito complicado, até para mim.",
+      "Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Com_07.ogg"
+    ],
+    [
+      "Shadow25",
+      "Vou guardar isso para depois.",
+      "Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Com_08.ogg"
+    ],
+    [
+      "Shadow26",
+      "Acho que não preciso fazer isso agora.",
+      "Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Com_09.ogg"
+    ],
+    [
+      "Shadow27",
+      "É bom ainda estar vivo.",
+      "Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Level_01.ogg"
+    ],
+    [
+      "Shadow28",
+      "Estou impressionado como esse lugar me quer morto.",
+      "Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Level_02.ogg"
+    ],
+    [
+      "Shadow29",
+      "Com cada morte, eu vivo cada vez mais.",
+      "Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Level_03.ogg"
+    ],
+    [
+      "Shadow30",
+      "Sou tão bom nisso que até me assusto.",
+      "Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Level_04.ogg"
+    ],
+    [
+      "Shadow31",
+      "Eu sou um jardineiro, limpando as ervas daninhas para que as plantações cresçam.",
+      "Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Level_05.ogg"
+    ],
+    [
+      "Shadow32",
+      "Não adianta olhar para trás... só tem morte. Muita morte.",
+      "Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Level_06.ogg"
+    ],
+    [
+      "Shadow33",
+      "Eu até questionaria o que eu me tornei, se estivesse afim. Mas eu não.",
+      "Audio/Dialogue/Character/DexInt/Gameplay/Shadow_Level_07.ogg"
+    ],
+    [
+      "Shadow34",
+      "Pobre Fairgraves. Seus planos nunca acabam bem, né?",
+      "Audio/Dialogue/Character/DexInt/Event/SH_AfterFairgraves.ogg"
+    ],
+    [
+      "Shadow35",
+      "Esse sim é um contrato que eu vou gostar de cumprir, Piety.",
+      "Audio/Dialogue/Character/DexInt/Event/SH_AfterPiety.ogg"
+    ],
+    [
+      "Shadow36",
+      "Tanta água e nenhum barco por aí. Hora de continuar a andar e matar.",
+      "Audio/Dialogue/Character/DexInt/Event/SH_EnterAqueduct_01.ogg"
+    ],
+    [
+      "Shadow37",
+      "Esta Besta é uma criatura e tanto. É quase uma pena ter de matá-la.",
+      "Audio/Dialogue/Character/DexInt/Event/SH_EnterBeast.ogg"
+    ],
+    [
+      "Shadow38",
+      "Entrei na fortaleza da Guarda Negra... como uma raposa num galinheiro.",
+      "Audio/Dialogue/Character/DexInt/Event/SH_EnterBlackguard.ogg"
+    ],
+    [
+      "Shadow39",
+      "A fornalha do abatedouro... esse lugar tem o mesmo cheiro.",
+      "Audio/Dialogue/Character/DexInt/Event/SH_EnterCoast.ogg"
+    ],
+    [
+      "Shadow40",
+      "Floresta. A Morte tem muitos refúgios numa floresta. ",
+      "Audio/Dialogue/Character/DexInt/Event/SH_EnterForest.ogg"
+    ],
+    [
+      "Shadow41",
+      "Estou trabalhando com Piety. Fica bem mais estranho de dizer isso em voz alta.",
+      "Audio/Dialogue/Character/DexInt/Event/SH_EnterHarvest.ogg"
+    ],
+    [
+      "Shadow42",
+      "Eu já entrei numa loucura de três dias depois de umas coisas que eu usei. Me sinto do mesmo jeito nesse lugar.",
+      "Audio/Dialogue/Character/DexInt/Event/SH_EnterLunaris.ogg"
+    ],
+    [
+      "Shadow43",
+      "A escuridão me engoliu, e pelo visto, estou causando uma leve indigestão.",
+      "Audio/Dialogue/Character/DexInt/Event/SH_EnterMines1.ogg"
+    ],
+    [
+      "Shadow44",
+      "Alguém ou alguma coisa anda bem ocupada nas vísceras desta montanha.",
+      "Audio/Dialogue/Character/DexInt/Event/SH_EnterMines2.ogg"
+    ],
+    [
+      "Shadow45",
+      "Só espero que essas vísceras constipadas não evacuem enquanto ainda estou aqui dentro.",
+      "Audio/Dialogue/Character/DexInt/Event/SH_EnterMines3.ogg"
+    ],
+    [
+      "Shadow46",
+      "Ah! É tão bom estar de volta na cidade. ",
+      "Audio/Dialogue/Character/DexInt/Event/SH_EnterSarn.ogg"
+    ],
+    [
+      "Shadow47",
+      "Quem quer que tenha construído isso precisava muito compensar por alguma coisa.",
+      "Audio/Dialogue/Character/DexInt/Event/SH_EnterScepter.ogg"
+    ],
+    [
+      "Shadow48",
+      "É sempre reconfortante testemunhar uma morte permanente e honesta.",
+      "Audio/Dialogue/Character/DexInt/Event/SH_FreeDeshret.ogg"
+    ],
+    [
+      "Shadow49",
+      "Ei Merveil, pode cantar algo para mim também? Algo animado, por favor.",
+      "Audio/Dialogue/Character/DexInt/Event/SH_KillDaresso.ogg"
+    ],
+    [
+      "Shadow50",
+      "Ah, deixa de balbuciar.",
+      "Audio/Dialogue/Character/DexInt/Event/SH_KillDoedre.ogg"
+    ],
+    [
+      "Shadow51",
+      "É possível matar alguém que já morreu?",
+      "Audio/Dialogue/Character/DexInt/Event/SH_KillFirstZombie.ogg"
+    ],
+    [
+      "Shadow52",
+      "É bem aí onde você errou, Malachai. A morte é a única coisa que dá significado à vida.",
+      "Audio/Dialogue/Character/DexInt/Event/SH_KillMalachai.ogg"
+    ],
+    [
+      "Shadow53",
+      "Eu não entendo muito de Arte, mas eu sei do que eu gosto.",
+      "Audio/Dialogue/Character/DexInt/Event/SH_KillMaligaro.ogg"
+    ],
+    [
+      "Shadow54",
+      "Para alguém que se importa tanto com as aparências, essa foi uma morte bem feia.",
+      "Audio/Dialogue/Character/DexInt/Event/SH_KillShavronne.ogg"
+    ],
+    [
+      "Shadow55",
+      "Eu acabei de matar um imperador. Com uma pena desse tamanho, vou precisar de um chapéu maior.",
+      "Audio/Dialogue/Character/DexInt/Event/SH_KillVoll.ogg"
+    ],
+    [
+      "Shadow56",
+      "Só preciso de um segundo para recuperar meu fôlego.",
+      "Audio/Dialogue/Character/DexInt/Gameplay/SH_Cooldown_01.ogg"
+    ],
+    [
+      "Shadow57",
+      "Só preciso de um segundo para recuperar meu fôlego.",
+      "Audio/Dialogue/Character/DexInt/Gameplay/SH_Cooldown_02.ogg"
+    ],
+    [
+      "Shadow58",
+      "Só preciso de um segundo para recuperar meu fôlego.",
+      "Audio/Dialogue/Character/DexInt/Gameplay/SH_Cooldown_03.ogg"
+    ],
+    [
+      "Shadow59",
+      "Isso sim foi gratificante!",
+      "Audio/Dialogue/Character/DexInt/Gameplay/SH_MonsterKill_01a.ogg"
+    ],
+    [
+      "Shadow60",
+      "Isso sim foi gratificante!",
+      "Audio/Dialogue/Character/DexInt/Gameplay/SH_MonsterKill_01b.ogg"
+    ],
+    [
+      "Shadow61",
+      "Nem todas as mortes são iguais!",
+      "Audio/Dialogue/Character/DexInt/Gameplay/SH_MonsterKill_02a.ogg"
+    ],
+    [
+      "Shadow62",
+      "Nem todas as mortes são iguais!",
+      "Audio/Dialogue/Character/DexInt/Gameplay/SH_MonsterKill_02b.ogg"
+    ],
+    [
+      "Shadow63",
+      "Isso foi divertido!",
+      "Audio/Dialogue/Character/DexInt/Gameplay/SH_MonsterKill_03a.ogg"
+    ],
+    [
+      "Shadow64",
+      "Isso foi divertido!",
+      "Audio/Dialogue/Character/DexInt/Gameplay/SH_MonsterKill_03b.ogg"
+    ],
+    [
+      "Shadow65",
+      "Finge de morto. Bom menino!",
+      "Audio/Dialogue/Character/DexInt/Gameplay/SH_MonsterKill_04.ogg"
+    ],
+    [
+      "Shadow66",
+      "Pense na morte como um feriado, Kaom. Um tempinho para deitar e relaxar um pouquinho. ",
+      "Audio/Dialogue/Character/DexInt/Event/SH_KillKaom.ogg"
+    ],
+    [
+      "Shadow67",
+      "Seco como uma piada num mortuária.",
+      "Audio/Dialogue/Character/DexInt/Event/SH_EnterLake.ogg"
+    ],
+    [
+      "Shadow68",
+      "Que lugar bizarramente irritado.",
+      "Audio/Dialogue/Character/DexInt/Event/SH_EnterKaom.ogg"
+    ],
+    [
+      "Templar1",
+      "Meus pesadelos... eram profecias.",
+      "Audio/Dialogue/Character/StrInt/Event/Templar_01.ogg"
+    ],
+    [
+      "Templar2",
+      "Nesta jaula, a maldade bate nas grades e chora por liberdade.",
+      "Audio/Dialogue/Character/StrInt/Event/Templar_02.ogg"
+    ],
+    [
+      "Templar3",
+      "Isso é um mortuário para crianças perdidas, ocultas dos olhos de seu pai.",
+      "Audio/Dialogue/Character/StrInt/Event/Templar_03.ogg"
+    ],
+    [
+      "Templar4",
+      "O covil de um fazedor de brinquedos... com desejo de ser um deus.",
+      "Audio/Dialogue/Character/StrInt/Event/Templar_04.ogg"
+    ],
+    [
+      "Templar5",
+      "Vida em sua mão direita, morte em sua mão esquerda... e ainda existem aqueles que escorregam pelos dedos de Deus.",
+      "Audio/Dialogue/Character/StrInt/Event/Templar_05.ogg"
+    ],
+    [
+      "Templar6",
+      "Algo Eterno permanece neste Império. Resta saber como.",
+      "Audio/Dialogue/Character/StrInt/Event/Templar_06.ogg"
+    ],
+    [
+      "Templar7",
+      "E assim, dou meus primeiros passos em direção à danação encarnada.",
+      "Audio/Dialogue/Character/StrInt/Event/Templar_07.ogg"
+    ],
+    [
+      "Templar8",
+      "Até a morte não é conforto nesta terra sofrida.",
+      "Audio/Dialogue/Character/StrInt/Event/Templar_08.ogg"
+    ],
+    [
+      "Templar9",
+      "Descanse agora, alma atormentada.",
+      "Audio/Dialogue/Character/StrInt/Event/Templar_09.ogg"
+    ],
+    [
+      "Templar10",
+      "Uma mulher, corrompida muito além da humanidade. Preciso curar esta praga antes que infecte toda a criação de Deus.",
+      "Audio/Dialogue/Character/StrInt/Event/Templar_10.ogg"
+    ],
+    [
+      "Templar11",
+      "Ousas falar de paz, fora da lei? Só a paz criada por tuas mentiras.",
+      "Audio/Dialogue/Character/StrInt/Event/Templar_11.ogg"
+    ],
+    [
+      "Templar12",
+      "Tu não tens nada, ladrão. Nem mesmo a vida que gastaste com rancor e avareza.",
+      "Audio/Dialogue/Character/StrInt/Event/Templar_12.ogg"
+    ],
+    [
+      "Templar13",
+      "Portanto, tu és abençoada, filha de Deus. Ele te mostrará o que é amizade verdadeira.",
+      "Audio/Dialogue/Character/StrInt/Event/Templar_13.ogg"
+    ],
+    [
+      "Templar14",
+      "Volte para o seu lugar, Pesadelo! Os fiéis não precisam temer a tua laia.",
+      "Audio/Dialogue/Character/StrInt/Event/Templar_14.ogg"
+    ],
+    [
+      "Templar15",
+      "Escolheste o caminho, velho amigo. Deus me colocou no final dele.",
+      "Audio/Dialogue/Character/StrInt/Event/Templar_15.ogg"
+    ],
+    [
+      "Templar16",
+      "Descanse enquanto podes, amante do sofrimento. O julgamento não pegará leve contigo.",
+      "Audio/Dialogue/Character/StrInt/Event/Templar_16.ogg"
+    ],
+    [
+      "Templar17",
+      "Ao me exilar, tu fostes minha Gênese, Dominus. E agora, cá estou, após incontáveis milhas, incontáveis mortes, honrado em servir como tua Revelação!",
+      "Audio/Dialogue/Character/StrInt/Event/Templar_17.ogg"
+    ],
+    [
+      "Templar18",
+      "Eu te imploro, Deus. Ajuda-me a trazer este mundo de volta para a luz.",
+      "Audio/Dialogue/Character/StrInt/Event/Templar_18.ogg"
+    ],
+    [
+      "Templar19",
+      "Minha mana está gasta.",
+      "Audio/Dialogue/Character/StrInt/Gameplay/Templar_Com_01.ogg"
+    ],
+    [
+      "Templar20",
+      "Não sou animal de carga.",
+      "Audio/Dialogue/Character/StrInt/Gameplay/Templar_Com_02.ogg"
+    ],
+    [
+      "Templar21",
+      "Ah, muito melhor.",
+      "Audio/Dialogue/Character/StrInt/Gameplay/Templar_Com_04.ogg"
+    ],
+    [
+      "Templar22",
+      "Vá com Deus!",
+      "Audio/Dialogue/Character/StrInt/Gameplay/Templar_Com_05.ogg"
+    ],
+    [
+      "Templar23",
+      "Não possuo o músculo para usar isto.",
+      "Audio/Dialogue/Character/StrInt/Gameplay/Templar_Com_06.ogg"
+    ],
+    [
+      "Templar24",
+      "Estou estonteado por isto no momento.",
+      "Audio/Dialogue/Character/StrInt/Gameplay/Templar_Com_07.ogg"
+    ],
+    [
+      "Templar25",
+      "Necessito ser mais ágil dos pés para usar isto.",
+      "Audio/Dialogue/Character/StrInt/Gameplay/Templar_Com_08.ogg"
+    ],
+    [
+      "Templar26",
+      "Não parece o certo destruir isto.",
+      "Audio/Dialogue/Character/StrInt/Gameplay/Templar_Com_09.ogg"
+    ],
+    [
+      "Templar27",
+      "Não é hora para isto.",
+      "Audio/Dialogue/Character/StrInt/Gameplay/Templar_Com_10.ogg"
+    ],
+    [
+      "Templar28",
+      "Parece que Deus ainda não tem a necessidade de minha companhia.",
+      "Audio/Dialogue/Character/StrInt/Gameplay/Templar_Level_01.ogg"
+    ],
+    [
+      "Templar29",
+      "Minhas preces foram atendidas.",
+      "Audio/Dialogue/Character/StrInt/Gameplay/Templar_Level_02.ogg"
+    ],
+    [
+      "Templar30",
+      "O caminho se torna mais claro com cada passo ensanguentado.",
+      "Audio/Dialogue/Character/StrInt/Gameplay/Templar_Level_03.ogg"
+    ],
+    [
+      "Templar31",
+      "Teu humilde servo te agradece, meu Deus.",
+      "Audio/Dialogue/Character/StrInt/Gameplay/Templar_Level_04.ogg"
+    ],
+    [
+      "Templar32",
+      "Tua confiança é a única recompensa que eu preciso, meu Senhor da Luz.",
+      "Audio/Dialogue/Character/StrInt/Gameplay/Templar_Level_05.ogg"
+    ],
+    [
+      "Templar33",
+      "A noite deve dar espaço para o dia.",
+      "Audio/Dialogue/Character/StrInt/Gameplay/Templar_Level_06.ogg"
+    ],
+    [
+      "Templar34",
+      "Eu nasci para esta Terra, entregue a esta tarefa. Eu irei prevalecer.",
+      "Audio/Dialogue/Character/StrInt/Gameplay/Templar_Level_07.ogg"
+    ],
+    [
+      "Templar35",
+      "Quanto mais fugires de Deus, Fairgraves, mais amaldiçoado você se tornará.",
+      "Audio/Dialogue/Character/StrInt/Event/Tmpl_AfterFairgraves2.ogg"
+    ],
+    [
+      "Templar36",
+      "Que estas águas me lavem de meus pecados, e me batizem novamente.",
+      "Audio/Dialogue/Character/StrInt/Event/Tmpl_Aqueduct.ogg"
+    ],
+    [
+      "Templar37",
+      "Peço perdão, Deus. Devemos aprender a não abusar das tuas criações.",
+      "Audio/Dialogue/Character/StrInt/Event/Tmpl_DriedLake.ogg"
+    ],
+    [
+      "Templar38",
+      "Esta floresta... tão retorcida. Rezo para que eu não chegue tarde demais para enfrentar esta corrupção. ",
+      "Audio/Dialogue/Character/StrInt/Event/Tmpl_EnterAct2.ogg"
+    ],
+    [
+      "Templar39",
+      "Isso não é Criação. Isso é perversão.",
+      "Audio/Dialogue/Character/StrInt/Event/Tmpl_EnterBelly.ogg"
+    ],
+    [
+      "Templar40",
+      "O que, em nome de Deus, é este cheiro?",
+      "Audio/Dialogue/Character/StrInt/Event/Tmpl_EnterCanibalBay.ogg"
+    ],
+    [
+      "Templar41",
+      "Eu limparei esta imundície desta casa de Deus.",
+      "Audio/Dialogue/Character/StrInt/Event/Tmpl_EnterCatacombs.ogg"
+    ],
+    [
+      "Templar42",
+      "Uma casa da Fé atingida pela profanação.",
+      "Audio/Dialogue/Character/StrInt/Event/Tmpl_EnterFelShrine.ogg"
+    ],
+    [
+      "Templar43",
+      "Piety, meu Deus? Estou certo de que revelarás teu propósito em breve. ",
+      "Audio/Dialogue/Character/StrInt/Event/Tmpl_EnterHarvest.ogg"
+    ],
+    [
+      "Templar44",
+      "O ar daqui queima com ira.",
+      "Audio/Dialogue/Character/StrInt/Event/Tmpl_EnterKaom.ogg"
+    ],
+    [
+      "Templar45",
+      "A terra daqui treme com o temor do julgamento.",
+      "Audio/Dialogue/Character/StrInt/Event/Tmpl_EnterMines1.ogg"
+    ],
+    [
+      "Templar46",
+      "A corrupção consome as raízes desta montanha.",
+      "Audio/Dialogue/Character/StrInt/Event/Tmpl_EnterMines2.ogg"
+    ],
+    [
+      "Templar47",
+      "Esta terra está na véspera do Cataclismo.",
+      "Audio/Dialogue/Character/StrInt/Event/Tmpl_EnterMines3.ogg"
+    ],
+    [
+      "Templar48",
+      "Sarn, berço dos Templários. Um local digno para acertar as coisas.",
+      "Audio/Dialogue/Character/StrInt/Event/Tmpl_EnterSarn.ogg"
+    ],
+    [
+      "Templar49",
+      "Cada pedra posicionada para a glória de Deus. Maravilhoso!",
+      "Audio/Dialogue/Character/StrInt/Event/Tmpl_EnterScepter.ogg"
+    ],
+    [
+      "Templar50",
+      "Nenhuma alma deveria sofrer como tu, Deshret.",
+      "Audio/Dialogue/Character/StrInt/Event/Tmpl_FreeDeshret.ogg"
+    ],
+    [
+      "Templar51",
+      "Damos aos nossos heróis mortos mais glória do que eles mereciam em vida.",
+      "Audio/Dialogue/Character/StrInt/Event/Tmpl_KillDaresso.ogg"
+    ],
+    [
+      "Templar52",
+      "Abrace a morte, Doedre, pois a carne foi teu fim.",
+      "Audio/Dialogue/Character/StrInt/Event/Tmpl_KillDoedre.ogg"
+    ],
+    [
+      "Templar53",
+      "A tentação pode acabar com o mais nobre dos homens. Eu deveria prestar atenção.",
+      "Audio/Dialogue/Character/StrInt/Event/Tmpl_KillFairgraves.ogg"
+    ],
+    [
+      "Templar54",
+      "Tua Maneira levou à danação, Kaom. Encontre outra.",
+      "Audio/Dialogue/Character/StrInt/Event/Tmpl_KillKaom.ogg"
+    ],
+    [
+      "Templar55",
+      "Lutaste contra a Morte por toda a tua vida, Malachai, quando ela era a única coisa que poderia te dar a verdadeira imortalidade.",
+      "Audio/Dialogue/Character/StrInt/Event/Tmpl_KillMalachai.ogg"
+    ],
+    [
+      "Templar56",
+      "Teus talentos divinos foram inúteis, Maligaro.",
+      "Audio/Dialogue/Character/StrInt/Event/Tmpl_KillMaligaro.ogg"
+    ],
+    [
+      "Templar57",
+      "Não é necessário, Piety. Basta ver por si mesma.",
+      "Audio/Dialogue/Character/StrInt/Event/Tmpl_KillPiety.ogg"
+    ],
+    [
+      "Templar58",
+      "Foste aprisionada por tua própria vaidade, Shavronne.",
+      "Audio/Dialogue/Character/StrInt/Event/Tmpl_KillShav.ogg"
+    ],
+    [
+      "Templar59",
+      "Você está livre agora, Voll. Vá com Deus.",
+      "Audio/Dialogue/Character/StrInt/Event/Tmpl_KillVoll.ogg"
+    ],
+    [
+      "Templar60",
+      "Vá com Deus!",
+      "Audio/Dialogue/Character/StrInt/Gameplay/Tmpl_KillRare_01.ogg"
+    ],
+    [
+      "Templar61",
+      "Vá com Deus!",
+      "Audio/Dialogue/Character/StrInt/Gameplay/Tmpl_KillRare_02.ogg"
+    ],
+    [
+      "Templar62",
+      "Morte ao Pecado!",
+      "Audio/Dialogue/Character/StrInt/Gameplay/Tmpl_KillRare_03.ogg"
+    ],
+    [
+      "Templar63",
+      "Morte ao Pecado!",
+      "Audio/Dialogue/Character/StrInt/Gameplay/Tmpl_KillRare_04.ogg"
+    ],
+    [
+      "Templar64",
+      "A Pureza prevalecerá!",
+      "Audio/Dialogue/Character/StrInt/Gameplay/Tmpl_KillRare_05.ogg"
+    ],
+    [
+      "Templar65",
+      "A Pureza prevalecerá!",
+      "Audio/Dialogue/Character/StrInt/Gameplay/Tmpl_KillRare_06.ogg"
+    ],
+    [
+      "Templar66",
+      "Os corrompidos cairão!",
+      "Audio/Dialogue/Character/StrInt/Gameplay/Tmpl_KillRare_07.ogg"
+    ],
+    [
+      "Templar67",
+      "Os corrompidos cairão!",
+      "Audio/Dialogue/Character/StrInt/Gameplay/Tmpl_KillRare_08.ogg"
+    ],
+    [
+      "Templar68",
+      "Que se dane!",
+      "Audio/Dialogue/Character/StrInt/Gameplay/Tmpl_KillRare_09.ogg"
+    ],
+    [
+      "Templar69",
+      "Que se dane!",
+      "Audio/Dialogue/Character/StrInt/Gameplay/Tmpl_KillRare_10.ogg"
+    ],
+    [
+      "Templar70",
+      "Preciso de tempo para recuperar minha vontade.",
+      "Audio/Dialogue/Character/StrInt/Gameplay/Tmpl_SkillonCool.ogg"
+    ],
+    [
+      "Scion1",
+      "Que tal só nos executar de uma vez, Dominus?",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_01_GetUp.ogg"
+    ],
+    [
+      "Scion2",
+      "Então é verdade... os mortos caminham por Wraeclast.",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_02_KillZombie.ogg"
+    ],
+    [
+      "Scion3",
+      "Não me juntarei à sua laia hoje, homem morto.",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_03_KillHillock.ogg"
+    ],
+    [
+      "Scion4",
+      "Me deparo com uma simples escolha. Matar... ou ser consumida.",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_04_EnterCannibalBay.ogg"
+    ],
+    [
+      "Scion5",
+      "Indo de Oriath para Axiom, de uma prisão para outra.",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_05_EnterPrison.ogg"
+    ],
+    [
+      "Scion6",
+      "Você me lembra do meu ex-marido.",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_06_KillBrutus.ogg"
+    ],
+    [
+      "Scion7",
+      "A parede entre a vida e a morte está cedendo.",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_07_EnterShipGraveyard.ogg"
+    ],
+    [
+      "Scion8",
+      "Acabou a licença de costa, capitão.",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_08_KillFairgraves.ogg"
+    ],
+    [
+      "Scion9",
+      "Por que os homens precisam nos transformar em monstros?",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_09_KillMerveil.ogg"
+    ],
+    [
+      "Scion10",
+      "Selvageria sem parar à minha volta.",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_10_EnterSouthForest.ogg"
+    ],
+    [
+      "Scion11",
+      "Os homens de lá deveriam ter ouvido seus corações. Suas mentes não eram mais suas.",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_11_EnterCOS.ogg"
+    ],
+    [
+      "Scion12",
+      "Alguém tinha que acabar com esta experiência cruel.",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_12_KillFidelitas.ogg"
+    ],
+    [
+      "Scion13",
+      "Depois de tudo o que essa terra sofreu, a sua laia consegue deixá-la ainda pior.",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_13_KillKraityn.ogg"
+    ],
+    [
+      "Scion14",
+      "Mulheres como você acabam com a nossa reputação.",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_14_KillAlira.ogg"
+    ],
+    [
+      "Scion15",
+      "Tome sua \"paz\", Oak. A única paz que pode se obter em Wraeclast.",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_15_KillOak.ogg"
+    ],
+    [
+      "Scion16",
+      "Ó meu Deus, não! Se houver uma forma de ajeitar isso, eu preciso encontrá-la.",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_16_ReleaseDarkness.ogg"
+    ],
+    [
+      "Scion17",
+      "O mínimo que podemos fazer nessa vida é limparmos nossa sujeira.",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_17_KillVaalOversoul.ogg"
+    ],
+    [
+      "Scion18",
+      "Sarn, onde os imperadores dominavam... e morriam, que nem todo mundo.",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_18_EnterSarn.ogg"
+    ],
+    [
+      "Scion19",
+      "As pessoas só lembram dos problemas que você causou.",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_19_EnterSewer.ogg"
+    ],
+    [
+      "Scion20",
+      "Se não fizermos nada, toda Wraeclast pode acabar assim.",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_20_SeenUndyingSphincter.ogg"
+    ],
+    [
+      "Scion21",
+      "Parece que até mesmo o Tempo perde sua vontade em Wraeclast.",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_21_EnterSolaris.ogg"
+    ],
+    [
+      "Scion22",
+      "Homens como você não herdarão Wraeclast.",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_22_KillGravicius.ogg"
+    ],
+    [
+      "Scion23",
+      "Eu só sei de uma mulher capaz de tal depravação. Piety.",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_23_EnterLunaris.ogg"
+    ],
+    [
+      "Scion24",
+      "Você deveria morrer mil vezes pelo que fez.",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_24_KillPiety.ogg"
+    ],
+    [
+      "Scion25",
+      "Esta torre diz tudo. O orgulho matou o Império Eterno.",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_25_EnterSceptre.ogg"
+    ],
+    [
+      "Scion26",
+      "Prefiro a vista de onde estou agora, Dominus.",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_26_KillDominus.ogg"
+    ],
+    [
+      "Scion27",
+      "Eu matei a marionete. Só falta seguir os fios até seu mestre. ",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_27_EnterAqueduct.ogg"
+    ],
+    [
+      "Scion28",
+      "O Império não precisava de um cataclismo. Ele criou sua própria desolação.",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_28_EnterDriedLake.ogg"
+    ],
+    [
+      "Scion29",
+      "O Pecado é a fissura por onde o Pesadelo se infiltra. Qual foi o seu Pecado, Voll? Orgulho?",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_29_KillVoll.ogg"
+    ],
+    [
+      "Scion30",
+      "A Besta sabe que eu estou aqui.",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_30_EnterMines1.ogg"
+    ],
+    [
+      "Scion31",
+      "Sim, Besta, você tem toda a razão em ter medo.",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_31_EnterMines2.ogg"
+    ],
+    [
+      "Scion32",
+      "Você será a primeira a abandonar os grilhões do Pesadelo, Deshret.",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_32_FreeDeshret.ogg"
+    ],
+    [
+      "Scion33",
+      "Minha determinação cresce tanto quanto o seu terror, Besta.",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_33_EnterMines3.ogg"
+    ],
+    [
+      "Scion34",
+      "Você tem minha pena, escravo.",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_34_KillBarkhul.ogg"
+    ],
+    [
+      "Scion35",
+      "O amor foi a lâmina que usou em si mesmo, Rei das Espadas.",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_35_KillDaresso.ogg"
+    ],
+    [
+      "Scion36",
+      "Eu estou dentro da mente torturada do próprio Kaom.",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_36_EnterKaomRealm.ogg"
+    ],
+    [
+      "Scion37",
+      "Poupe seu fôlego para os Ancestrais, Kaom. Você precisará dele.",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_37_KillKaom.ogg"
+    ],
+    [
+      "Scion38",
+      "O Pesadelo se tornou realidade.",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_38_EnterBelly.ogg"
+    ],
+    [
+      "Scion39",
+      "Esta distorção da carne e da vida... tão brilhante quanto insana.",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_39_EnterHarvest.ogg"
+    ],
+    [
+      "Scion40",
+      "Sinto muito, Maligaro, mas quando o assunto é Arte, minhas críticas são pesadas.",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_40_KillMaligaro.ogg"
+    ],
+    [
+      "Scion41",
+      "O mundo não quer o seu tipo de \"beleza\", Shavronne.",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_41_KillShav.ogg"
+    ],
+    [
+      "Scion42",
+      "Esta era a única maneira de satisfazer seu apetite, Doedre.",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_42_KillDoedre.ogg"
+    ],
+    [
+      "Scion43",
+      "Tenho a única resposta de que eu precisava, Piety. A Besta morre. ",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_43_PietyDies.ogg"
+    ],
+    [
+      "Scion44",
+      "Pobre Malachai. Você passou três séculos combatendo a morte, e em nenhum momento usou seu tempo para viver.",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_44_KillMalachai.ogg"
+    ],
+    [
+      "Scion45",
+      "Mesmo que estivéssemos distantes, o exílio nos uniu. \r\n\r\nEm Oriath existiam aqueles que se referiam a mim como criança prodígio, mas como você percebeu, os títulos não significam nada aqui. Prodígio, exilado, monstro, herói... não é o nome que te define. É o que você faz em Wraeclast que te torna o que é. \r\n\r\nEu te agradeço. Você me deu o que mais importa: a liberdade de terminar o que eu comecei.",
+      "Audio/Dialogue/Character/StrDexInt/Event/Sc_45_FreedomSpeech.ogg"
+    ],
+    [
+      "Scion46",
+      "Não posso descansar nem por um minuto?",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Cooldown_01.ogg"
+    ],
+    [
+      "Scion47",
+      "Não posso descansar nem por um minuto?",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Cooldown_02.ogg"
+    ],
+    [
+      "Scion48",
+      "Acho que eu só iria derrubar isso.",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Dex_01.ogg"
+    ],
+    [
+      "Scion49",
+      "Acho que eu só iria derrubar isso.",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Dex_02.ogg"
+    ],
+    [
+      "Scion50",
+      "Ah... muito melhor.",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Health_01.ogg"
+    ],
+    [
+      "Scion51",
+      "Ah... muito melhor.",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Health_02.ogg"
+    ],
+    [
+      "Scion52",
+      "Eu não saberia como usar isso.",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Int_01.ogg"
+    ],
+    [
+      "Scion53",
+      "Eu não saberia como usar isso.",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Int_02.ogg"
+    ],
+    [
+      "Scion54",
+      "Muita... bagagem.",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Inventory_01.ogg"
+    ],
+    [
+      "Scion55",
+      "Muita... bagagem.",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Inventory_02.ogg"
+    ],
+    [
+      "Scion56",
+      "Não tenho mais nada para dar.",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Mana_01.ogg"
+    ],
+    [
+      "Scion57",
+      "Não tenho mais nada para dar.",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Mana_02.ogg"
+    ],
+    [
+      "Scion58",
+      "Vou precisar disso no futuro.",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Questitem_01.ogg"
+    ],
+    [
+      "Scion59",
+      "Vou precisar disso no futuro.",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Questitem_02.ogg"
+    ],
+    [
+      "Scion60",
+      "Sua morte é uma misericórdia.",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_RareKill_01.ogg"
+    ],
+    [
+      "Scion61",
+      "Sua morte é uma misericórdia.",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_RareKill_02.ogg"
+    ],
+    [
+      "Scion62",
+      "Durma, durma, pequeno pesadelo.",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_RareKill_03.ogg"
+    ],
+    [
+      "Scion63",
+      "Durma, durma, pequeno pesadelo.",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_RareKill_04.ogg"
+    ],
+    [
+      "Scion64",
+      "E fique bem mortinho.",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_RareKill_05.ogg"
+    ],
+    [
+      "Scion65",
+      "E fique bem mortinho.",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_RareKill_06.ogg"
+    ],
+    [
+      "Scion66",
+      "Isso foi estranhamente bom.",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_RareKill_07.ogg"
+    ],
+    [
+      "Scion67",
+      "Isso foi estranhamente bom.",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_RareKill_08.ogg"
+    ],
+    [
+      "Scion68",
+      "Seu tormento acabou.",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_RareKill_09.ogg"
+    ],
+    [
+      "Scion69",
+      "Seu tormento acabou.",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_RareKill_10.ogg"
+    ],
+    [
+      "Scion70",
+      "Não é hora para isso.",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_SkillsTown_01.ogg"
+    ],
+    [
+      "Scion71",
+      "Não é hora para isso.",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_SkillsTown_02.ogg"
+    ],
+    [
+      "Scion72",
+      "Uma ideia muito pesada para mim.",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Str_01.ogg"
+    ],
+    [
+      "Scion73",
+      "Uma ideia muito pesada para mim.",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_46_Str_02.ogg"
+    ],
+    [
+      "Scion74",
+      "O exílio é uma lição, e eu sempre aprendi rápido.",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_47_LevelUp_01.ogg"
+    ],
+    [
+      "Scion75",
+      "A vida cresce até mesmo num cemitério.",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_47_LevelUp_02.ogg"
+    ],
+    [
+      "Scion76",
+      "Eu aprendo, eu mato, eu vivo.",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_47_LevelUp_03.ogg"
+    ],
+    [
+      "Scion77",
+      "Quem sabe eu ainda receba meu título de \"criança prodígio\".",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_47_LevelUp_04.ogg"
+    ],
+    [
+      "Scion78",
+      "O poder corrompe, e a corrupção empodera.",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_47_LevelUp_05.ogg"
+    ],
+    [
+      "Scion79",
+      "Em Wraeclast, não existe isso de aproveitar a fama.",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_47_LevelUp_06.ogg"
+    ],
+    [
+      "Scion80",
+      "Eu me tornei um pesadelo ambulante.",
+      "Audio/Dialogue/Character/StrDexInt/Gameplay/Sc_47_LevelUp_07.ogg"
+    ],
+    [
+      "Jack1",
+      "Mas que saco de carne mais bonitinho!",
+      "Audio/Dialogue/NPC/JackTheAxeArea/JTA_Approach_Piety_01.ogg"
+    ],
+    [
+      "Jack2",
+      "Sinto um grande poder aqui. Nós nos banquetearemos com ele!",
+      "Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Abyss_01.ogg"
+    ],
+    [
+      "Jack3",
+      "Há um grande poder aqui. Vamos devorá-lo!",
+      "Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Apex_01.ogg"
+    ],
+    [
+      "Jack4",
+      "Tantos para devorar.",
+      "Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Barracks_01.ogg"
+    ],
+    [
+      "Jack5",
+      "Carne fresca para abater!",
+      "Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Belly_01.ogg"
+    ],
+    [
+      "Jack6",
+      "Cortar a carne, quebrar o osso!",
+      "Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_DriedLake_01.ogg"
+    ],
+    [
+      "Jack7",
+      "Eu posso sentir sofrimento aqui. Vamos dar um fim a ele.",
+      "Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Dungeon_01.ogg"
+    ],
+    [
+      "Jack8",
+      "Bestas grandes... muita carne para mim.",
+      "Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Grotto_01.ogg"
+    ],
+    [
+      "Jack9",
+      "Há aranhas por aqui... Eu odeio aranhas.",
+      "Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Jungle_01.ogg"
+    ],
+    [
+      "Jack10",
+      "Muitos caminhos, muitas bestas. Vamos nos divertir!",
+      "Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Labyrinth_01.ogg"
+    ],
+    [
+      "Jack11",
+      "Não há nada além de morte aqui.",
+      "Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Lunaris3_01.ogg"
+    ],
+    [
+      "Jack12",
+      "Esse lugar... Estive aqui antes, há muito tempo...",
+      "Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Maelstrom_01.ogg"
+    ],
+    [
+      "Jack13",
+      "Esfolem eles. Esfolem todos eles!",
+      "Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Mines_01.ogg"
+    ],
+    [
+      "Jack14",
+      "Rhoas imundos. Vamos matar todos!",
+      "Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_MudGeyser_01.ogg"
+    ],
+    [
+      "Jack15",
+      "Sarn... meu lar.",
+      "Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Sarn_01.ogg"
+    ],
+    [
+      "Jack16",
+      "Há tanta dor aqui. Gosto disso.",
+      "Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Sceptre_01.ogg"
+    ],
+    [
+      "Jack17",
+      "Ui, aranhas.",
+      "Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_SpiderForest_01.ogg"
+    ],
+    [
+      "Jack18",
+      "Os horrores de lá... são tantos.",
+      "Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Vaal_01.ogg"
+    ],
+    [
+      "Jack19",
+      "Não há nada que eu queira aqui. Vamos embora.",
+      "Audio/Dialogue/NPC/JackTheAxeArea/JTA_Enter_Vaults_01.ogg"
+    ],
+    [
+      "Jack20",
+      "",
+      "Audio/Dialogue/NPC/JackTheAxe/JTA_Attack_01.ogg"
+    ],
+    [
+      "Jack21",
+      "",
+      "Audio/Dialogue/NPC/JackTheAxe/JTA_Attack_02.ogg"
+    ],
+    [
+      "Jack22",
+      "",
+      "Audio/Dialogue/NPC/JackTheAxe/JTA_Attack_03.ogg"
+    ],
+    [
+      "Jack23",
+      "",
+      "Audio/Dialogue/NPC/JackTheAxe/JTA_Attack_04.ogg"
+    ],
+    [
+      "Jack24",
+      "",
+      "Audio/Dialogue/NPC/JackTheAxe/JTA_Attack_05.ogg"
+    ],
+    [
+      "Jack25",
+      "",
+      "Audio/Dialogue/NPC/JackTheAxe/JTA_Attack_06.ogg"
+    ],
+    [
+      "Jack26",
+      "",
+      "Audio/Dialogue/NPC/JackTheAxe/JTA_Attack_07.ogg"
+    ],
+    [
+      "Jack27",
+      "",
+      "Audio/Dialogue/NPC/JackTheAxe/JTA_Attack_08.ogg"
+    ],
+    [
+      "Jack28",
+      "",
+      "Audio/Dialogue/NPC/JackTheAxe/JTA_Idle_01.ogg"
+    ],
+    [
+      "Jack29",
+      "",
+      "Audio/Dialogue/NPC/JackTheAxe/JTA_Idle_02.ogg"
+    ],
+    [
+      "Jack30",
+      "",
+      "Audio/Dialogue/NPC/JackTheAxe/JTA_Idle_03.ogg"
+    ],
+    [
+      "Jack31",
+      "",
+      "Audio/Dialogue/NPC/JackTheAxe/JTA_Idle_04.ogg"
+    ],
+    [
+      "Jack32",
+      "",
+      "Audio/Dialogue/NPC/JackTheAxe/JTA_PVP_01.ogg"
+    ],
+    [
+      "Jack33",
+      "",
+      "Audio/Dialogue/NPC/JackTheAxe/JTA_PVP_02.ogg"
+    ],
+    [
+      "Goddess1 ",
+      "O que? Estou livre? Você fez isso? Bem, qualquer coisa é melhor do que estar presa naquilo. Sua sede estúpida não fazia juz aos Meus desejos, apesar de simples. Mas agora tenho você: tão viril, tão desafiador...Então Me tome. Este mundo moribundo não passa de gravetos, ainda assim, pode ser que seu sangue desqualificado ferma uma vez mais....e eu esperei tanto tempo por um banho real.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A1_01.ogg"
+    ],
+    [
+      "Goddess2 ",
+      "Um Deus Falso não é páreo para uma Deusa real.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A1_02.ogg"
+    ],
+    [
+      "Goddess3 ",
+      "Hmm. Uma saída e tanto. Assim como o espelho que ela com certeza utiliza para praticar, nós à veremos novamente.\r\n",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A1_04.ogg"
+    ],
+    [
+      "Goddess4 ",
+      "Ninguém está mais atrelado à uma prisão do que aqueles que dizem somente trabalhar nela.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A1_03.ogg"
+    ],
+    [
+      "Goddess5 ",
+      "Sim, lá está ela novamente. Parece que alguém se designou como nosso nemesis...",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A1_05.ogg"
+    ],
+    [
+      "Goddess6 ",
+      "A Omnichama foi tão fugaz quanto uma centelha luxuósa. Minha é a chama que não pode ser apagada.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A1_06.ogg"
+    ],
+    [
+      "Goddess7 ",
+      "A verdadeira face do amor? Parece que alguém estava achando que tinha o monopólio da verdade sobre o que o amor é. Alguém se enganou.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A1_07.ogg"
+    ],
+    [
+      "Goddess8 ",
+      "Do you think she waits here for us to arrive just to say something snappy and then run away?",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A2_01.ogg"
+    ],
+    [
+      "Goddess9 ",
+      "Oh, nós matamos o amante da Piety? Não, creio que existe uma outra palavra para o que ele era.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A2_02.ogg"
+    ],
+    [
+      "Goddess10",
+      "Mas que gatinha triste, não é atoa que seus seguidores se mataram.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A2_03.ogg"
+    ],
+    [
+      "Goddess11",
+      "Todo esse balançar reluzente de espada, quando tudo que você precisava era de uma espada flamejante mágica que diz coisas bem inteligentes. ",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A2_04.ogg"
+    ],
+    [
+      "Goddess12",
+      "Isso é o que você ganha por trazer um graveto à uma luta com espadas.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A2_05.ogg"
+    ],
+    [
+      "Goddess13",
+      "Você tinha que ir passar a mão na grande bola brilhante, né? ",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A2_06.ogg"
+    ],
+    [
+      "Goddess14",
+      "É por isso que civilizações viram ruínas, perdendo tempo construindo velharias como esta.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A2_07.ogg"
+    ],
+    [
+      "Goddess15",
+      "Ela não nos esperou desta vez. Chegamos tarde demais. Chega desse pega-pega. Quero sentí-la queimar.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A3_01.ogg"
+    ],
+    [
+      "Goddess16",
+      "Saia do nosso caminho, peão. Temos uma bruxa para caçar. E queime. E queime.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A3_02.ogg"
+    ],
+    [
+      "Goddess17",
+      "Se esconda atrás destes brutamontes o quanto quiser, Piety. Eles não significam nada. Nós vamos te pegar.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A3_03.ogg"
+    ],
+    [
+      "Goddess18",
+      "Depravada? Demente? Não. Esta é Vinia, desesperada para provar que é Piety. Uma garotinha brincando de bonecas, usando atrocidades como apoio descartável.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A3_04.ogg"
+    ],
+    [
+      "Goddess19",
+      "Finalmente! Morra na Minha chama, sua vadia, morra! ...Pera aí, onde está o corpo? Ela escapou novamente?! AAAhhh!",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A3_05.ogg"
+    ],
+    [
+      "Goddess20",
+      "Talvez ele devesse ter tentado o toque da Deusa no lugar.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A3_06.ogg"
+    ],
+    [
+      "Goddess21",
+      "Hm. Não é bem o banho que eu tinha em mente. A água parece limpa... mas ela geralmente parece.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A4_01.ogg"
+    ],
+    [
+      "Goddess22",
+      "Eu não estou nem aí para dançar conforme a música da Dialla... mas evidências da influência da Piety? Isso sim garante o nosso interesse.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A4_02.ogg"
+    ],
+    [
+      "Goddess23",
+      "Não é o primeiro imperador que eu joguei à pira. Este trabalho esta abaixo de mim.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A4_03.ogg"
+    ],
+    [
+      "Goddess24",
+      "Rei das Espadas? Tente Deusa das Espadas, seu cachorrinho mal-amado.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A4_04.ogg"
+    ],
+    [
+      "Goddess25",
+      "Nossa, que ira borbulhante! Creio que ninguém o informou que bolhas estouram facilmente.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A4_05.ogg"
+    ],
+    [
+      "Goddess26",
+      "Se é vivo, sangra. Se sangra, tem um coração. Vamos encontrá-lo e incendiá-lo.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A4_06.ogg"
+    ],
+    [
+      "Goddess27",
+      "Dominus e agora Malachai. Não importa quem ou o que, você não é nada mais do que uma ferramenta para homens, Vinia.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A4_07.ogg"
+    ],
+    [
+      "Goddess28",
+      "Piety quer se aliar a nós? Tudo bem. Uma aliança Comigo é só um tipo diferente de execução mesmo.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A4_08.ogg"
+    ],
+    [
+      "Goddess29",
+      "Amaldiçoe as chamas o quanto quiser, Língua-negra. Você ainda queimará no final.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A4_09.ogg"
+    ],
+    [
+      "Goddess30",
+      "Arte é superestimada. Sabe o que precisa de habilidade de verdade? Cozinhar. ",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A4_10.ogg"
+    ],
+    [
+      "Goddess31",
+      "Oh, então essa é quem criou o Brutus... Tudo faz sentido agora.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A4_11.ogg"
+    ],
+    [
+      "Goddess32",
+      "Apunhalado bem nas tripas. Empalado. Gritando. Contorcendo. Isso sim é um bom jeito de morrer!",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A4_12.ogg"
+    ],
+    [
+      "Goddess33",
+      "Quando eu disse que íamos incinerar seu coração, Eu não falava sério....enfim, vai servir. Agora, de volta à busca pelo banho.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A4_13.ogg"
+    ],
+    [
+      "Goddess34",
+      "Tenho certeza que absolutamente ninguém notou aquela entrada sutil.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A5_01.ogg"
+    ],
+    [
+      "Goddess35",
+      "Pulmões. Entranhas. Corações. E agora olhos. O que aconteceu com somente fatiar pessoas em pedacinhos e continuar, hein?",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A5_02.ogg"
+    ],
+    [
+      "Goddess36",
+      "Eles constroem uma igreja. Ideias secundárias tornam-se leis. A Fé é alimentada à força. O local de adoração agora é um local de julgamento. Eu odeio organizações religiosas.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A5_03.ogg"
+    ],
+    [
+      "Goddess37",
+      "Então essa foi a verdadeira face de Deus, Exilado? ...Não. Somente um eco presunçoso do vazio 'Eu Sou.'",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A5_04.ogg"
+    ],
+    [
+      "Goddess38",
+      "Aparentemente isso é o que diabos nós fizemos. Eu diría que é uma melhoria.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A5_05.ogg"
+    ],
+    [
+      "Goddess39",
+      "Vingança? Contra nós? Ele ainda seria só um escravo se não fosse por nós. Ingrato.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A5_06.ogg"
+    ],
+    [
+      "Goddess40",
+      "E você estava indo tão bem...",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A5_07.ogg"
+    ],
+    [
+      "Goddess41",
+      "Eu não gosto daqui. A comida é horrível e tem cheiro de... Eu não gosto daqui.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A6_01.ogg"
+    ],
+    [
+      "Goddess42",
+      "Todo panteão tem um Deus da Guerra, e uma Deusa do Amor. Qual você acha que termina por cima? ",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A6_02.ogg"
+    ],
+    [
+      "Goddess43",
+      "Quem brinca com fogo, amanhece chifrado! ...Ou algo do tipo.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A6_03.ogg"
+    ],
+    [
+      "Goddess44",
+      "Oh, Shavs. Você não sabe? Depois que dois se tornam um, tudo vai por água abaixo... De nada.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A6_04.ogg"
+    ],
+    [
+      "Goddess45",
+      "É muito injusto que um horror seja tão estranhamente fértil, enquanto outros embalam seus braços vazios cantando cantigas de ninar para eles mesmos.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A6_05.ogg"
+    ],
+    [
+      "Goddess46",
+      "Todo homem possui uma chama específica que o atrai. Até mesmo os homens mortos, aparentemente.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A6_06.ogg"
+    ],
+    [
+      "Goddess47",
+      "Cabra assada e agora carangueijo cozido. Quem diria que deuses eram tão saborosos? ",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A6_07.ogg"
+    ],
+    [
+      "Goddess48",
+      "E eu achando que nós só teríamos que entrar em um ventre da besta nesta nossa jornada.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A7_01.ogg"
+    ],
+    [
+      "Goddess49",
+      "Todos os recursos para criar seu próprio paraíso, e ele criou isso. Mas que jovenzinho raivoso ele era.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A7_02.ogg"
+    ],
+    [
+      "Goddess50",
+      "Amor não significa mudar os outros, Maligaro. É mudar a si mesmo. Todos aqueles que Me seguram aprendem isso cedo ou tarde.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A7_03.ogg"
+    ],
+    [
+      "Goddess51",
+      "Reuniões com velhos amigos são sempre um prazer... até que não sejam mais. E então não são mesmo.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A7_04.ogg"
+    ],
+    [
+      "Goddess52",
+      "Pobre matriarca marsupial. Eu não me divirto nem um pouco com o que acabamos de fazer.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A7_05.ogg"
+    ],
+    [
+      "Goddess53",
+      "Essa sim é uma garota que entende a utilidade do fogo.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A7_06.ogg"
+    ],
+    [
+      "Goddess54",
+      "Eu ficaria perfeitamente feliz se nós nunca mais víssemos outra aranha gigante. Quem estou tentando enganar? Isso é Wraeclast.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A7_07.ogg"
+    ],
+    [
+      "Goddess55",
+      "Quando eu disse que precisava de um banho real, não era isso que tinha em mente.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A8_01.ogg"
+    ],
+    [
+      "Goddess56",
+      "É por isso que dizemos 'Te amarei até o dia em que eu morrer'...",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A8_02.ogg"
+    ],
+    [
+      "Goddess57",
+      "Uma Casa de Banhos literal? Sério? Não estou certa se você entende como espadas funcionam.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A8_03.ogg"
+    ],
+    [
+      "Goddess58",
+      "Não existe um reflexo mais afiado do que aquele encontrado na lâmina de uma espada.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A8_04.ogg"
+    ],
+    [
+      "Goddess59",
+      "É incrível o que remover uma puta herética pode fazer pela santidade de um local. Isso é sublime.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A8_05.ogg"
+    ],
+    [
+      "Goddess60",
+      "A parte mais triste dos eclipses: eles nunca duram muito. Mas ah, eles são tão lindos naquele momento.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A8_06A.ogg"
+    ],
+    [
+      "Goddess61",
+      "Uhh, nem mesmo o Meu toque poderia aquecer estas carcaças. Nem pense em Me enfiar naquela imundície gelada.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A9_01.ogg"
+    ],
+    [
+      "Goddess62",
+      "Huh. Eu achei que ia ser maior, com um nome desses.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A9_02.ogg"
+    ],
+    [
+      "Goddess63",
+      "Só existe uma coisa que eu abomino mais do que aranhas, escorpiões. Eles são como aranhas com garras e partes pontudas extras. Eles sequer tem um gosto bom.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A9_03.ogg"
+    ],
+    [
+      "Goddess64",
+      "Vá ser útil em algum lugar, Kira. Certamente não é aqui.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A9_04.ogg"
+    ],
+    [
+      "Goddess65",
+      "Tantos conflitos insignificantes. Foi isso que todos os deuses sonharam quando estavam no abraço entorpecente de Besta? ",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A9_05.ogg"
+    ],
+    [
+      "Goddess66",
+      "Raio. Pfft. Nada mais do que um ancestral primitivo à beleza de um inferno.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A9_06.ogg"
+    ],
+    [
+      "Goddess67",
+      "É tão triste ver A Besta mais uma vez, tão dessecada, tão reduzida... tão inflamável.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A9_07.ogg"
+    ],
+    [
+      "Goddess68",
+      "Três peões, três falhas, três traumazinhos gastos. Eu adoro uma trilogia... mas esta já chegou ao fim.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A9_08.ogg"
+    ],
+    [
+      "Goddess69",
+      "Eu meio que estava esperando o Kitava se erguer de seu cadáver. O vício deste mundo a uma recorrência eterna é deliciosamente sedutor.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A10_01.ogg"
+    ],
+    [
+      "Goddess70",
+      "Nós matamos o mestre dela. Nós matamos o mestre do mestre. Nós matamos o mestre divino do mestre dela. Ela sabia disso tudo e ainda assim ficou contra nós? Não tão inteligente quanto eu esperava, Piety.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A10_02.ogg"
+    ],
+    [
+      "Goddess71",
+      "Provavelmente estamos nos aproximando. Tudo parece tão esmagadoramente vermelho.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A10_03.ogg"
+    ],
+    [
+      "Goddess72",
+      "Parece que a melhor maneira de lidar com uma fome insaciável é simplesmente matar o faminto. A solução única para Wraeclast. Mas esse nunca foi o objetivo. Eu pedi por um banho e você Me deu rios quentes de sangue da legião coração-negro, de impérios mortos, de deuses ressurgentes. Oh, você é mais do que suficiente. Queime comigo até que seja insuportável... e então queime ainda mais, meu amor.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_A10_04.ogg"
+    ],
+    [
+      "Goddess73",
+      "Essa Deusa da Justiça pode ser cega, mas seus seguidores certamente não são mudos. Achei que ele nunca calaria a boca.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_KillIzaro_01.ogg"
+    ],
+    [
+      "Goddess74",
+      "Eu estava certa. Você Me empunha adequadamente. Mas ainda estamos só começando...",
+      "Audio/Dialogue/Goddess_Unleashed/GS_Level_10.ogg"
+    ],
+    [
+      "Goddess75",
+      "Já teve o suficiente de Mim? Sinta-se livre para equipar outra coisa. Eu não me importo. Sério.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_Level_20.ogg"
+    ],
+    [
+      "Goddess76",
+      "A última pessoa que ficou Comigo por tanto tempo desenvolveu um sério caso de pirofobia. Ou será que foi pirofilia? Um dos dois. Talvez ambos.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_Level_30.ogg"
+    ],
+    [
+      "Goddess77",
+      "Ah, nós ardemos muito bem juntos! Faz muito tempo desde que alguém durou todo este tempo!",
+      "Audio/Dialogue/Goddess_Unleashed/GS_Level_50.ogg"
+    ],
+    [
+      "Goddess78",
+      "Você é um milagre, meu amado. Você também é um masoquista e possivelmente um idiota. Mas você é o meu idiota.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_Level_70.ogg"
+    ],
+    [
+      "Goddess79",
+      "Eu juro, ninguém Me segurou por tanto tempo assim antes. Você merece uma recompensa única. Um segredo... Espadas na verdade não falam. Você enlouqueceu no momento em que Me pegou. Algo disso foi real? Não me pergunte. Eu sou só uma espada. Mas na verdade, eu sou sua espada. Para sempre.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_Level_90.ogg"
+    ],
+    [
+      "Goddess80",
+      "Isso deve ser suficiente.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_KillRogue_01.ogg"
+    ],
+    [
+      "Goddess81",
+      "",
+      "Audio/Dialogue/Goddess_Unleashed/GS_KillRogue_02.ogg"
+    ],
+    [
+      "Goddess82",
+      "Se afogue em Minhas chamas!",
+      "Audio/Dialogue/Goddess_Unleashed/GS_KillRogue_03.ogg"
+    ],
+    [
+      "Goddess83",
+      "Tudo queima.",
+      "Audio/Dialogue/Goddess_Unleashed/GS_KillRogue_04.ogg"
+    ]
+  ]
+}

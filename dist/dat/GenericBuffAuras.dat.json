@@ -1,1 +1,58 @@
-{"filename":"GenericBuffAuras.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":true,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["visual_override"],["chilled"],["shocked"],["fire_exposure"],["cold_exposure"],["lightning_exposure"],["hindered"],["intimidated"],["unnerved"],["blinded"],["maim"],["crushed"]]}
+{
+  "filename": "GenericBuffAuras.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "visual_override"
+    ],
+    [
+      "chilled"
+    ],
+    [
+      "shocked"
+    ],
+    [
+      "fire_exposure"
+    ],
+    [
+      "cold_exposure"
+    ],
+    [
+      "lightning_exposure"
+    ],
+    [
+      "hindered"
+    ],
+    [
+      "intimidated"
+    ],
+    [
+      "unnerved"
+    ],
+    [
+      "blinded"
+    ],
+    [
+      "maim"
+    ],
+    [
+      "crushed"
+    ]
+  ]
+}

@@ -1,1 +1,305 @@
-{"filename":"ModEffectStats.dat","header":[{"name":"StatsKey","rowid":0,"type":"ulong","key":"Stats.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"TagsKeys","rowid":1,"type":"ref|list|ulong","key":"Tags.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Flag0","rowid":2,"type":"bool","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown2","rowid":3,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Flag1","rowid":4,"type":"bool","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[[10723,[665],true,2,true],[10724,[34],true,2,true],[10725,[319],true,2,true],[10726,[317],true,2,true],[10727,[667],true,2,true],[10728,[639],true,2,true],[10729,[640],true,2,true],[2480,[319],false,1,false],[2479,[34],false,1,false],[12534,[313],true,0,false],[12535,[309],true,0,false],[12536,[311],true,0,false],[12537,[310],true,0,false],[12538,[312],true,0,false],[12539,[668],true,0,false],[12540,[323],true,0,false],[12541,[324],true,0,false],[12542,[631],true,0,false],[12543,[640],true,0,false],[12544,[643],true,0,false],[12545,[638],true,0,false],[12596,[316],true,0,false],[12640,[317],true,0,false],[12641,[639],true,0,false],[12942,[],true,0,false]]}
+{
+  "filename": "ModEffectStats.dat",
+  "header": [
+    {
+      "name": "StatsKey",
+      "rowid": 0,
+      "type": "ulong",
+      "key": "Stats.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "TagsKeys",
+      "rowid": 1,
+      "type": "ref|list|ulong",
+      "key": "Tags.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Flag0",
+      "rowid": 2,
+      "type": "bool",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown2",
+      "rowid": 3,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Flag1",
+      "rowid": 4,
+      "type": "bool",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      10723,
+      [
+        665
+      ],
+      true,
+      2,
+      true
+    ],
+    [
+      10724,
+      [
+        34
+      ],
+      true,
+      2,
+      true
+    ],
+    [
+      10725,
+      [
+        319
+      ],
+      true,
+      2,
+      true
+    ],
+    [
+      10726,
+      [
+        317
+      ],
+      true,
+      2,
+      true
+    ],
+    [
+      10727,
+      [
+        667
+      ],
+      true,
+      2,
+      true
+    ],
+    [
+      10728,
+      [
+        639
+      ],
+      true,
+      2,
+      true
+    ],
+    [
+      10729,
+      [
+        640
+      ],
+      true,
+      2,
+      true
+    ],
+    [
+      2480,
+      [
+        319
+      ],
+      false,
+      1,
+      false
+    ],
+    [
+      2479,
+      [
+        34
+      ],
+      false,
+      1,
+      false
+    ],
+    [
+      12534,
+      [
+        313
+      ],
+      true,
+      0,
+      false
+    ],
+    [
+      12535,
+      [
+        309
+      ],
+      true,
+      0,
+      false
+    ],
+    [
+      12536,
+      [
+        311
+      ],
+      true,
+      0,
+      false
+    ],
+    [
+      12537,
+      [
+        310
+      ],
+      true,
+      0,
+      false
+    ],
+    [
+      12538,
+      [
+        312
+      ],
+      true,
+      0,
+      false
+    ],
+    [
+      12539,
+      [
+        668
+      ],
+      true,
+      0,
+      false
+    ],
+    [
+      12540,
+      [
+        323
+      ],
+      true,
+      0,
+      false
+    ],
+    [
+      12541,
+      [
+        324
+      ],
+      true,
+      0,
+      false
+    ],
+    [
+      12542,
+      [
+        631
+      ],
+      true,
+      0,
+      false
+    ],
+    [
+      12543,
+      [
+        640
+      ],
+      true,
+      0,
+      false
+    ],
+    [
+      12544,
+      [
+        643
+      ],
+      true,
+      0,
+      false
+    ],
+    [
+      12545,
+      [
+        638
+      ],
+      true,
+      0,
+      false
+    ],
+    [
+      12596,
+      [
+        316
+      ],
+      true,
+      0,
+      false
+    ],
+    [
+      12640,
+      [
+        317
+      ],
+      true,
+      0,
+      false
+    ],
+    [
+      12641,
+      [
+        639
+      ],
+      true,
+      0,
+      false
+    ],
+    [
+      12942,
+      [],
+      true,
+      0,
+      false
+    ]
+  ]
+}

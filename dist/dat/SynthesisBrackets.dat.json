@@ -1,1 +1,247 @@
-{"filename":"SynthesisBrackets.dat","header":[{"name":"Key0","rowid":0,"type":"ulong","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"MinLevel","rowid":1,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"MaxLevel","rowid":2,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Key1","rowid":3,"type":"ulong","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown4","rowid":4,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown5","rowid":5,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown6","rowid":6,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown7","rowid":7,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[[409,1,3,421,0,0,1,3],[410,4,8,422,0,0,1,2],[411,9,12,423,0,1,2,2],[412,13,24,424,0,2,2,1],[413,25,39,425,1,3,3,1],[414,40,54,426,2,4,3,0],[415,55,67,427,2,5,3,0],[416,68,72,428,3,6,4,0],[417,73,77,429,4,7,5,0],[418,78,79,430,4,8,6,0],[419,80,82,431,5,9,7,0],[420,83,100,432,6,10,8,0]]}
+{
+  "filename": "SynthesisBrackets.dat",
+  "header": [
+    {
+      "name": "Key0",
+      "rowid": 0,
+      "type": "ulong",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "MinLevel",
+      "rowid": 1,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "MaxLevel",
+      "rowid": 2,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Key1",
+      "rowid": 3,
+      "type": "ulong",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown4",
+      "rowid": 4,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown5",
+      "rowid": 5,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown6",
+      "rowid": 6,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown7",
+      "rowid": 7,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      409,
+      1,
+      3,
+      421,
+      0,
+      0,
+      1,
+      3
+    ],
+    [
+      410,
+      4,
+      8,
+      422,
+      0,
+      0,
+      1,
+      2
+    ],
+    [
+      411,
+      9,
+      12,
+      423,
+      0,
+      1,
+      2,
+      2
+    ],
+    [
+      412,
+      13,
+      24,
+      424,
+      0,
+      2,
+      2,
+      1
+    ],
+    [
+      413,
+      25,
+      39,
+      425,
+      1,
+      3,
+      3,
+      1
+    ],
+    [
+      414,
+      40,
+      54,
+      426,
+      2,
+      4,
+      3,
+      0
+    ],
+    [
+      415,
+      55,
+      67,
+      427,
+      2,
+      5,
+      3,
+      0
+    ],
+    [
+      416,
+      68,
+      72,
+      428,
+      3,
+      6,
+      4,
+      0
+    ],
+    [
+      417,
+      73,
+      77,
+      429,
+      4,
+      7,
+      5,
+      0
+    ],
+    [
+      418,
+      78,
+      79,
+      430,
+      4,
+      8,
+      6,
+      0
+    ],
+    [
+      419,
+      80,
+      82,
+      431,
+      5,
+      9,
+      7,
+      0
+    ],
+    [
+      420,
+      83,
+      100,
+      432,
+      6,
+      10,
+      8,
+      0
+    ]
+  ]
+}

@@ -1,1 +1,376 @@
-{"filename":"BestiaryGenus.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":true,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Name","rowid":1,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"BestiaryGroupsKey","rowid":2,"type":"ulong","key":"BestiaryGroups.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Name2","rowid":3,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Icon","rowid":4,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":true,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["Gargantuans","Громадины",3,"Громадина","Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Gargantuans"],["Goatmen","Козероги",1,"Козерог","Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Goatman"],["GoatShamans","Шаманы козерогов",1,"Шаман козерогов","Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/GoatShamans"],["Hellions","Адские львы",0,"Адский лев","Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Hellions"],["Wolves","Волки",2,"Волк",""],["Apes","Приматы",1,"Примат","Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/BloodMonkey"],["Rhoas","Роа",5,"Роа","Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Rhoa"],["SandSpitters","Песчаные плевуны",10,"Песчаный плевун",""],["SeaWitches","Морские ведьмы",9,"Морская ведьма","Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Seawitch"],["ShieldCrabs","Крепкие крабы",10,"Крепкий краб","Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/ShieldCrabs"],["Snakes","Змеи",6,"Змея",""],["Spawn","Выродки",9,"Выродок",""],["Spiders","Пауки",8,"Паук","Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Spiders"],["Maws","Пасти",11,"Пасть",""],["Chimerals","Ящеры",6,"Ящер","Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Iguana"],["CarrionQueens","Матки трупоедов",7,"Матка трупоедов",""],["CarrionInsects","Насекомые-трупоеды",7,"Насекомое-трупоед",""],["Retches","Рыгатели",5,"Рыгатель",""],["Goliaths","Исполины",4,"Исполин","Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Spiker"],["Devourers","Пожиратели",7,"Пожиратель","Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/RootSpider"],["Watchers","Смотрители",9,"Смотритель",""],["PlummetingUrsae","Падучие медведи",3,"Падучий медведь","Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/DropBear"],["Vultures","Грифы",5,"Гриф","Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Vulture"],["Leapers","Прыгуны",7,"Прыгун",""],["KaruiHounds","Гончие каруи",2,"Гончая каруи","Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Hound"],["Pitbulls","Псы",2,"Пёс","Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Pitbull"],["Cockerels","Задиры",5,"Задира","Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Eyepecker"],["Bulls","Быки",4,"Бык","Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Bull"],["ApeChieftains","Вожаки приматов",1,"Вожак приматов","Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/BloodChieftain"],["Parasites","Паразиты",7,"Паразит",""],["Crabs","Крабы",10,"Краб",""],["Hounds","Гончие",2,"Гончая",""],["Lurchers","Ползуны",10,"Ползун","Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Lurchers"],["Arachnoscorpions","Арахноскорпионы",8,"Арахноскорпион",""],["Rhexes","Рексы",5,"Рекс",""],["Scorpions","Скорпионы",8,"Скорпион",""],["Lynxes","Рыси",0,"Рысь",""],["Tigers","Тигры",0,"Тигр",""],["SpiderCrabs","Крабы-пауки",10,"Краб-паук",""],["Octopuses","Осьминоги",9,"Осьминог",""],["GemFrog","Самоцветные лягушки",11,"Самоцветная лягушка",""],["Frog","Лягушки",11,"Лягушка",""]]}
+{
+  "filename": "BestiaryGenus.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Name",
+      "rowid": 1,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "BestiaryGroupsKey",
+      "rowid": 2,
+      "type": "ulong",
+      "key": "BestiaryGroups.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Name2",
+      "rowid": 3,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Icon",
+      "rowid": 4,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": true,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "Gargantuans",
+      "Громадины",
+      3,
+      "Громадина",
+      "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Gargantuans"
+    ],
+    [
+      "Goatmen",
+      "Козероги",
+      1,
+      "Козерог",
+      "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Goatman"
+    ],
+    [
+      "GoatShamans",
+      "Шаманы козерогов",
+      1,
+      "Шаман козерогов",
+      "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/GoatShamans"
+    ],
+    [
+      "Hellions",
+      "Адские львы",
+      0,
+      "Адский лев",
+      "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Hellions"
+    ],
+    [
+      "Wolves",
+      "Волки",
+      2,
+      "Волк",
+      ""
+    ],
+    [
+      "Apes",
+      "Приматы",
+      1,
+      "Примат",
+      "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/BloodMonkey"
+    ],
+    [
+      "Rhoas",
+      "Роа",
+      5,
+      "Роа",
+      "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Rhoa"
+    ],
+    [
+      "SandSpitters",
+      "Песчаные плевуны",
+      10,
+      "Песчаный плевун",
+      ""
+    ],
+    [
+      "SeaWitches",
+      "Морские ведьмы",
+      9,
+      "Морская ведьма",
+      "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Seawitch"
+    ],
+    [
+      "ShieldCrabs",
+      "Крепкие крабы",
+      10,
+      "Крепкий краб",
+      "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/ShieldCrabs"
+    ],
+    [
+      "Snakes",
+      "Змеи",
+      6,
+      "Змея",
+      ""
+    ],
+    [
+      "Spawn",
+      "Выродки",
+      9,
+      "Выродок",
+      ""
+    ],
+    [
+      "Spiders",
+      "Пауки",
+      8,
+      "Паук",
+      "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Spiders"
+    ],
+    [
+      "Maws",
+      "Пасти",
+      11,
+      "Пасть",
+      ""
+    ],
+    [
+      "Chimerals",
+      "Ящеры",
+      6,
+      "Ящер",
+      "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Iguana"
+    ],
+    [
+      "CarrionQueens",
+      "Матки трупоедов",
+      7,
+      "Матка трупоедов",
+      ""
+    ],
+    [
+      "CarrionInsects",
+      "Насекомые-трупоеды",
+      7,
+      "Насекомое-трупоед",
+      ""
+    ],
+    [
+      "Retches",
+      "Рыгатели",
+      5,
+      "Рыгатель",
+      ""
+    ],
+    [
+      "Goliaths",
+      "Исполины",
+      4,
+      "Исполин",
+      "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Spiker"
+    ],
+    [
+      "Devourers",
+      "Пожиратели",
+      7,
+      "Пожиратель",
+      "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/RootSpider"
+    ],
+    [
+      "Watchers",
+      "Смотрители",
+      9,
+      "Смотритель",
+      ""
+    ],
+    [
+      "PlummetingUrsae",
+      "Падучие медведи",
+      3,
+      "Падучий медведь",
+      "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/DropBear"
+    ],
+    [
+      "Vultures",
+      "Грифы",
+      5,
+      "Гриф",
+      "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Vulture"
+    ],
+    [
+      "Leapers",
+      "Прыгуны",
+      7,
+      "Прыгун",
+      ""
+    ],
+    [
+      "KaruiHounds",
+      "Гончие каруи",
+      2,
+      "Гончая каруи",
+      "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Hound"
+    ],
+    [
+      "Pitbulls",
+      "Псы",
+      2,
+      "Пёс",
+      "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Pitbull"
+    ],
+    [
+      "Cockerels",
+      "Задиры",
+      5,
+      "Задира",
+      "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Eyepecker"
+    ],
+    [
+      "Bulls",
+      "Быки",
+      4,
+      "Бык",
+      "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Bull"
+    ],
+    [
+      "ApeChieftains",
+      "Вожаки приматов",
+      1,
+      "Вожак приматов",
+      "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/BloodChieftain"
+    ],
+    [
+      "Parasites",
+      "Паразиты",
+      7,
+      "Паразит",
+      ""
+    ],
+    [
+      "Crabs",
+      "Крабы",
+      10,
+      "Краб",
+      ""
+    ],
+    [
+      "Hounds",
+      "Гончие",
+      2,
+      "Гончая",
+      ""
+    ],
+    [
+      "Lurchers",
+      "Ползуны",
+      10,
+      "Ползун",
+      "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Lurchers"
+    ],
+    [
+      "Arachnoscorpions",
+      "Арахноскорпионы",
+      8,
+      "Арахноскорпион",
+      ""
+    ],
+    [
+      "Rhexes",
+      "Рексы",
+      5,
+      "Рекс",
+      ""
+    ],
+    [
+      "Scorpions",
+      "Скорпионы",
+      8,
+      "Скорпион",
+      ""
+    ],
+    [
+      "Lynxes",
+      "Рыси",
+      0,
+      "Рысь",
+      ""
+    ],
+    [
+      "Tigers",
+      "Тигры",
+      0,
+      "Тигр",
+      ""
+    ],
+    [
+      "SpiderCrabs",
+      "Крабы-пауки",
+      10,
+      "Краб-паук",
+      ""
+    ],
+    [
+      "Octopuses",
+      "Осьминоги",
+      9,
+      "Осьминог",
+      ""
+    ],
+    [
+      "GemFrog",
+      "Самоцветные лягушки",
+      11,
+      "Самоцветная лягушка",
+      ""
+    ],
+    [
+      "Frog",
+      "Лягушки",
+      11,
+      "Лягушка",
+      ""
+    ]
+  ]
+}

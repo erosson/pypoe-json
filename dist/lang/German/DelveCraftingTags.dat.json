@@ -1,1 +1,101 @@
-{"filename":"DelveCraftingTags.dat","header":[{"name":"TagsKey","rowid":0,"type":"ulong","key":"Tags.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"ItemClass","rowid":1,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[[8,"Waffen"],[134,"Juwelen"],[16,"Körperrüstungen"],[1,"Schilde"],[25,"Helme"],[22,"Handschuhe"],[4,"Stiefel"],[57,"Karten"],[3,"Amulette"],[26,"Gürtel"],[2,"Ringe"],[21,"Köcher"],[238,"Abgrund-Juwelen"],[632,"Aufträge"],[672,"Grundrisse"],[683,"Heist-Ausrüstung"]]}
+{
+  "filename": "DelveCraftingTags.dat",
+  "header": [
+    {
+      "name": "TagsKey",
+      "rowid": 0,
+      "type": "ulong",
+      "key": "Tags.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "ItemClass",
+      "rowid": 1,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      8,
+      "Waffen"
+    ],
+    [
+      134,
+      "Juwelen"
+    ],
+    [
+      16,
+      "Körperrüstungen"
+    ],
+    [
+      1,
+      "Schilde"
+    ],
+    [
+      25,
+      "Helme"
+    ],
+    [
+      22,
+      "Handschuhe"
+    ],
+    [
+      4,
+      "Stiefel"
+    ],
+    [
+      57,
+      "Karten"
+    ],
+    [
+      3,
+      "Amulette"
+    ],
+    [
+      26,
+      "Gürtel"
+    ],
+    [
+      2,
+      "Ringe"
+    ],
+    [
+      21,
+      "Köcher"
+    ],
+    [
+      238,
+      "Abgrund-Juwelen"
+    ],
+    [
+      632,
+      "Aufträge"
+    ],
+    [
+      672,
+      "Grundrisse"
+    ],
+    [
+      683,
+      "Heist-Ausrüstung"
+    ]
+  ]
+}

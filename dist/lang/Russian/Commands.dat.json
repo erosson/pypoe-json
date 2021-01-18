@@ -1,1 +1,521 @@
-{"filename":"Commands.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":true,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Command","rowid":1,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Flag0","rowid":2,"type":"bool","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Command2","rowid":3,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Description","rowid":4,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Flag1","rowid":5,"type":"bool","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["PerformDance","танец",true,"dance","",true],["ShowTimePlayed","сыграно",true,"played","/сыграно показывает, сколько вы играете данным персонажем",true],["ShowCharacterAge","возраст",true,"age","/возраст показывает, как давно вы создали этого персонажа",true],["ShowMonstersRemaining","осталось",true,"remaining","/осталось отображает количество оставшихся монстров в области",true],["ShowDeaths","смерти",true,"deaths","/смерти отображает количество ваших смертей",true],["ShowPvPStats","пвп",true,"pvp","",false],["ShowLadder","ладдер",true,"ladder","/ладдер отображает топ-10 персонажей в текущем Ладдере",true],["ForceResync","синхрон",true,"oos","",true],["DestroyCursorItem","уничтожить",true,"destroy","/уничтожить уничтожает предмет под курсором (будьте осторожны!)",true],["Whois","инфо",true,"whois","/инфо отображает некоторую информацию о персонаже",true],["ShowHelp","помощь",false,"help","",true],["ShowCursorItemLevel","уровень",true,"itemlevel","/уровень отображает уровень предмета под курсором",true],["FixMyHelmet","правшлем",true,"fixmyhelmet","",true],["ReportBug","баг",true,"bug","/баг сообщет о баге и даёт уникальный номер баг-репорта",true],["Debug","дебаг",true,"debug","",true],["Ignore1","игнор",false,"ignore","/игнор игнорирует аккаунт по имени персонажа",true],["Ignore2","бан",false,"squelch","",true],["Unignore1","разыгнор",false,"unignore","/разыгнор прекращает игнорировать аккаунт по имени персонажа",true],["Unignore2","разбан",false,"unsquelch","",true],["ClearIgnoreList","очистить_игнор",false,"clear_ignore_list","/очистить_игнор удаляет все контакты из списка игнорирования",true],["SetStatus","статус",false,"status","",true],["ShowPassives","пассивки",false,"passives","/пассивки отображает распределение очков пассивных умений",true],["InviteToParty","пригласить",false,"invite","/пригласить Приглашает игрока в вашу группу по имени персонажа",false],["AddFriend","добавить_друга",false,"friend","/добавить_друга Добавляет друга по имени",false],["RemoveFriend","удалить_друга",false,"unfriend","",false],["AcceptFriend","принять",false,"accept","",false],["KickPartyMember","кик",false,"kick","",true],["SetPartyDescription","описание_группы",false,"party_description","",true],["InitiateTrade","торговать",false,"tradewith","",true],["ClearMessage1","очистить_поле",false,"cls","",true],["ClearMessage2","очистить",false,"clear","",true],["ToggleNoChat1","безчата",false,"nochat","",true],["ToggleNoChat2","выкл_чат",false,"togglenochat","",true],["AutoReply","автоответ",true,"autoreply","/autoreply [сообщение] Автоматически отвечает заданным сообщением на личные сообщения.",true],["SetAFK","афк",true,"afk","/афк [сообщение] Авто-ответ на личные сообщения. Любое действие, даже использование чата, снимет статус \"отошёл\".",true],["DoNotDisturb1","занят",true,"dnd","/dnd [сообщение] Авто-ответ с уведомлением о том, что вы в статусе \"недоступен\". Также, полное игнорирование всех сообщений.",true],["DoNotDisturb2","занят",true,"donotdisturb","",true],["ExitToCharacterSelection","выход",false,"exit","",true],["SpectatePvP","наблюдать",true,"spectate","",false],["SpectatePvPReturn","город",true,"town","",true],["SetGlobalChatChannel","общий",false,"global","/общий X изменяет глобальный чат на канал X.",true],["SetTradeChatChannel","торговля",false,"trade","/торговля X изменяет чат Торговли на канал X.",true],["RecheckAchievements","достижения",true,"recheck_achievements","/recheck_achievements перепроверяет наличие достижений.",true],["WarpToHideout","убежище",true,"hideout","",true],["ResetExperiencePerHour","опыт",false,"reset_xp","/опыт сбросит счётчик опыта в секунду.",true],["WarpToMenagerie","зверинец",true,"menagerie","",true],["WarpToDelveMineHub","спуск",true,"delve","",true],["SaveHideout","сохранить_убежище",true,"save_hideout","/сохранить_убежище сохранит текущую раскладку убежища в файл, который позднее можно загрузить или поделиться с кем-либо.",false],["RecoverOldCraftingBenchItem","вернуть_предмет",true,"recoveroldcraftingbenchitem","",true],["WarpToSynthesisHub","синтез",true,"synthesis","",true],["WarpToMetamorphosisLab","метаморф",true,"metamorph","",true],["WarpToHarvestGrove","жатва",true,"harvest","",true],["ForceResyncPlayer","синхрон_меня",true,"oosme","",true]]}
+{
+  "filename": "Commands.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Command",
+      "rowid": 1,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Flag0",
+      "rowid": 2,
+      "type": "bool",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Command2",
+      "rowid": 3,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Description",
+      "rowid": 4,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Flag1",
+      "rowid": 5,
+      "type": "bool",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "PerformDance",
+      "танец",
+      true,
+      "dance",
+      "",
+      true
+    ],
+    [
+      "ShowTimePlayed",
+      "сыграно",
+      true,
+      "played",
+      "/сыграно показывает, сколько вы играете данным персонажем",
+      true
+    ],
+    [
+      "ShowCharacterAge",
+      "возраст",
+      true,
+      "age",
+      "/возраст показывает, как давно вы создали этого персонажа",
+      true
+    ],
+    [
+      "ShowMonstersRemaining",
+      "осталось",
+      true,
+      "remaining",
+      "/осталось отображает количество оставшихся монстров в области",
+      true
+    ],
+    [
+      "ShowDeaths",
+      "смерти",
+      true,
+      "deaths",
+      "/смерти отображает количество ваших смертей",
+      true
+    ],
+    [
+      "ShowPvPStats",
+      "пвп",
+      true,
+      "pvp",
+      "",
+      false
+    ],
+    [
+      "ShowLadder",
+      "ладдер",
+      true,
+      "ladder",
+      "/ладдер отображает топ-10 персонажей в текущем Ладдере",
+      true
+    ],
+    [
+      "ForceResync",
+      "синхрон",
+      true,
+      "oos",
+      "",
+      true
+    ],
+    [
+      "DestroyCursorItem",
+      "уничтожить",
+      true,
+      "destroy",
+      "/уничтожить уничтожает предмет под курсором (будьте осторожны!)",
+      true
+    ],
+    [
+      "Whois",
+      "инфо",
+      true,
+      "whois",
+      "/инфо отображает некоторую информацию о персонаже",
+      true
+    ],
+    [
+      "ShowHelp",
+      "помощь",
+      false,
+      "help",
+      "",
+      true
+    ],
+    [
+      "ShowCursorItemLevel",
+      "уровень",
+      true,
+      "itemlevel",
+      "/уровень отображает уровень предмета под курсором",
+      true
+    ],
+    [
+      "FixMyHelmet",
+      "правшлем",
+      true,
+      "fixmyhelmet",
+      "",
+      true
+    ],
+    [
+      "ReportBug",
+      "баг",
+      true,
+      "bug",
+      "/баг сообщет о баге и даёт уникальный номер баг-репорта",
+      true
+    ],
+    [
+      "Debug",
+      "дебаг",
+      true,
+      "debug",
+      "",
+      true
+    ],
+    [
+      "Ignore1",
+      "игнор",
+      false,
+      "ignore",
+      "/игнор игнорирует аккаунт по имени персонажа",
+      true
+    ],
+    [
+      "Ignore2",
+      "бан",
+      false,
+      "squelch",
+      "",
+      true
+    ],
+    [
+      "Unignore1",
+      "разыгнор",
+      false,
+      "unignore",
+      "/разыгнор прекращает игнорировать аккаунт по имени персонажа",
+      true
+    ],
+    [
+      "Unignore2",
+      "разбан",
+      false,
+      "unsquelch",
+      "",
+      true
+    ],
+    [
+      "ClearIgnoreList",
+      "очистить_игнор",
+      false,
+      "clear_ignore_list",
+      "/очистить_игнор удаляет все контакты из списка игнорирования",
+      true
+    ],
+    [
+      "SetStatus",
+      "статус",
+      false,
+      "status",
+      "",
+      true
+    ],
+    [
+      "ShowPassives",
+      "пассивки",
+      false,
+      "passives",
+      "/пассивки отображает распределение очков пассивных умений",
+      true
+    ],
+    [
+      "InviteToParty",
+      "пригласить",
+      false,
+      "invite",
+      "/пригласить Приглашает игрока в вашу группу по имени персонажа",
+      false
+    ],
+    [
+      "AddFriend",
+      "добавить_друга",
+      false,
+      "friend",
+      "/добавить_друга Добавляет друга по имени",
+      false
+    ],
+    [
+      "RemoveFriend",
+      "удалить_друга",
+      false,
+      "unfriend",
+      "",
+      false
+    ],
+    [
+      "AcceptFriend",
+      "принять",
+      false,
+      "accept",
+      "",
+      false
+    ],
+    [
+      "KickPartyMember",
+      "кик",
+      false,
+      "kick",
+      "",
+      true
+    ],
+    [
+      "SetPartyDescription",
+      "описание_группы",
+      false,
+      "party_description",
+      "",
+      true
+    ],
+    [
+      "InitiateTrade",
+      "торговать",
+      false,
+      "tradewith",
+      "",
+      true
+    ],
+    [
+      "ClearMessage1",
+      "очистить_поле",
+      false,
+      "cls",
+      "",
+      true
+    ],
+    [
+      "ClearMessage2",
+      "очистить",
+      false,
+      "clear",
+      "",
+      true
+    ],
+    [
+      "ToggleNoChat1",
+      "безчата",
+      false,
+      "nochat",
+      "",
+      true
+    ],
+    [
+      "ToggleNoChat2",
+      "выкл_чат",
+      false,
+      "togglenochat",
+      "",
+      true
+    ],
+    [
+      "AutoReply",
+      "автоответ",
+      true,
+      "autoreply",
+      "/autoreply [сообщение] Автоматически отвечает заданным сообщением на личные сообщения.",
+      true
+    ],
+    [
+      "SetAFK",
+      "афк",
+      true,
+      "afk",
+      "/афк [сообщение] Авто-ответ на личные сообщения. Любое действие, даже использование чата, снимет статус \"отошёл\".",
+      true
+    ],
+    [
+      "DoNotDisturb1",
+      "занят",
+      true,
+      "dnd",
+      "/dnd [сообщение] Авто-ответ с уведомлением о том, что вы в статусе \"недоступен\". Также, полное игнорирование всех сообщений.",
+      true
+    ],
+    [
+      "DoNotDisturb2",
+      "занят",
+      true,
+      "donotdisturb",
+      "",
+      true
+    ],
+    [
+      "ExitToCharacterSelection",
+      "выход",
+      false,
+      "exit",
+      "",
+      true
+    ],
+    [
+      "SpectatePvP",
+      "наблюдать",
+      true,
+      "spectate",
+      "",
+      false
+    ],
+    [
+      "SpectatePvPReturn",
+      "город",
+      true,
+      "town",
+      "",
+      true
+    ],
+    [
+      "SetGlobalChatChannel",
+      "общий",
+      false,
+      "global",
+      "/общий X изменяет глобальный чат на канал X.",
+      true
+    ],
+    [
+      "SetTradeChatChannel",
+      "торговля",
+      false,
+      "trade",
+      "/торговля X изменяет чат Торговли на канал X.",
+      true
+    ],
+    [
+      "RecheckAchievements",
+      "достижения",
+      true,
+      "recheck_achievements",
+      "/recheck_achievements перепроверяет наличие достижений.",
+      true
+    ],
+    [
+      "WarpToHideout",
+      "убежище",
+      true,
+      "hideout",
+      "",
+      true
+    ],
+    [
+      "ResetExperiencePerHour",
+      "опыт",
+      false,
+      "reset_xp",
+      "/опыт сбросит счётчик опыта в секунду.",
+      true
+    ],
+    [
+      "WarpToMenagerie",
+      "зверинец",
+      true,
+      "menagerie",
+      "",
+      true
+    ],
+    [
+      "WarpToDelveMineHub",
+      "спуск",
+      true,
+      "delve",
+      "",
+      true
+    ],
+    [
+      "SaveHideout",
+      "сохранить_убежище",
+      true,
+      "save_hideout",
+      "/сохранить_убежище сохранит текущую раскладку убежища в файл, который позднее можно загрузить или поделиться с кем-либо.",
+      false
+    ],
+    [
+      "RecoverOldCraftingBenchItem",
+      "вернуть_предмет",
+      true,
+      "recoveroldcraftingbenchitem",
+      "",
+      true
+    ],
+    [
+      "WarpToSynthesisHub",
+      "синтез",
+      true,
+      "synthesis",
+      "",
+      true
+    ],
+    [
+      "WarpToMetamorphosisLab",
+      "метаморф",
+      true,
+      "metamorph",
+      "",
+      true
+    ],
+    [
+      "WarpToHarvestGrove",
+      "жатва",
+      true,
+      "harvest",
+      "",
+      true
+    ],
+    [
+      "ForceResyncPlayer",
+      "синхрон_меня",
+      true,
+      "oosme",
+      "",
+      true
+    ]
+  ]
+}

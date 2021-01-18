@@ -1,1 +1,1203 @@
-{"filename":"NPCShop.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":true,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown0","rowid":1,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"SoldItem_TagsKeys","rowid":2,"type":"ref|list|ulong","key":"Tags.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"SoldItem_Weights","rowid":3,"type":"ref|list|uint","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown_Keys0","rowid":4,"type":"ref|list|ulong","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown_Values","rowid":5,"type":"ref|list|uint","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown1","rowid":6,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Keys1","rowid":7,"type":"ref|list|ulong","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Data0","rowid":8,"type":"ref|list|int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown2","rowid":9,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["A1_Weapons",64,[33,9,0],[0,0,1000],[0,9,1,2,3,4,5],[2808,125,1123,374,437,562,499],0,[3],[],0],["A2_Weapons",64,[33,9,0],[0,0,1000],[0,9,1,2,3,4,5],[2808,125,1123,374,437,562,499],3,[0],[],0],["A3_Weapons",64,[33,9,0],[0,0,1000],[0,9,1,2,3,4,5],[2808,125,1123,374,437,562,499],5,[3,0,15],[],0],["A4_Weapons",64,[33,9,0],[0,0,1000],[0,9,1,2,3,4,5],[2808,125,1123,374,437,562,499],7,[15,0,3],[],0],["A5_Weapons",64,[33,9,0],[0,0,1000],[0,9,1,2,3,4,5],[2808,125,1123,374,437,562,499],9,[15,0,3],[],0],["A6_Weapons",64,[33,9,0],[0,0,1000],[0,9,1,2,3,4,5],[2808,125,1123,374,437,562,499],11,[15,0,3],[],0],["A7_Weapons",64,[33,9,0],[0,0,1000],[0,9,1,2,3,4,5],[2808,125,1123,374,437,562,499],13,[15,0,3],[],0],["A8_Weapons",64,[33,9,0],[0,0,1000],[0,9,1,2,3,4,5],[2808,125,1123,374,437,562,499],15,[15,0,3],[],0],["A9_Weapons",64,[33,9,0],[0,0,1000],[0,9,1,2,3,4,5],[2808,125,1123,374,437,562,499],17,[15,0,3],[],0],["A10_Weapons",64,[33,9,0],[0,0,1000],[0,9,1,2,3,4,5],[2808,125,1123,374,437,562,499],19,[15,0,3],[],0],["Epilogue_Weapons",64,[33,9,0],[0,0,1000],[0,9,1,2,3,4,5],[2808,125,1123,374,437,562,499],21,[15,0,3],[],0],["A1_Magic",40,[33,9,8,0],[0,1000,0,1000],[0,6,7,8,13],[1,1,1,1,1],1,[14,8,13,9],[],0],["A2_Magic",40,[33,9,8,0],[0,1000,0,1000],[0,6,7,8,13],[1,1,1,1,1],2,[14,7,10,17,18,19],[],0],["A3_Magic",40,[33,9,8,0],[0,1000,0,1000],[0,6,7,8,13],[1,1,1,1,1],4,[14,8,13,9,7,10,17,18,19,5,6],[],0],["A4_Magic",40,[33,9,8,0],[0,1000,0,1000],[0,6,7,8,13],[1,1,1,1,1],6,[14,8,13,9,7,10,17,18,19,5,6],[],0],["A5_Magic",40,[33,9,8,0],[0,1000,0,1000],[0,6,7,8,13],[1,1,1,1,1],8,[14,8,13,9,7,10,17,18,19,5,6],[],0],["A6_Magic",40,[33,9,8,0],[0,1000,0,1000],[0,6,7,8,13],[1,1,1,1,1],10,[14,8,13,9,7,10,17,18,19,5,6],[],0],["A7_Magic",40,[33,9,8,0],[0,1000,0,1000],[0,6,7,8,13],[1,1,1,1,1],12,[14,8,13,9,7,10,17,18,19,5,6],[],0],["A8_Magic",40,[33,9,8,0],[0,1000,0,1000],[0,6,7,8,13],[1,1,1,1,1],14,[14,8,13,9,7,10,17,18,19,5,6],[],0],["A9_Magic",40,[33,9,8,0],[0,1000,0,1000],[0,6,7,8,13],[1,1,1,1,1],16,[14,8,13,9,7,10,17,18,19,5,6],[],0],["A10_Magic",40,[33,9,8,0],[0,1000,0,1000],[0,6,7,8,13],[1,1,1,1,1],18,[14,8,13,9,7,10,17,18,19,5,6],[],0],["Epilogue_Magic",40,[33,9,8,0],[0,1000,0,1000],[0,6,7,8,13],[1,1,1,1,1],20,[14,8,13,9,7,10,17,18,19,5,6],[],0],["NoRandomItems",0,[0],[0],[],[],0,[],[],0],["Einhar",0,[0],[0],[],[],0,[38],[1],0],["Zana",0,[0],[0],[],[],0,[],[],0],["Kirac",0,[0],[0],[],[],0,[],[],0],["Whakano",10,[33,0],[0,1000],[38],[1],22,[],[],67],["EndlessDelve",0,[],[],[],[],0,[8,13,9,7,10,17,18,19,5,6,15,0,3],[],0]]}
+{
+  "filename": "NPCShop.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown0",
+      "rowid": 1,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "SoldItem_TagsKeys",
+      "rowid": 2,
+      "type": "ref|list|ulong",
+      "key": "Tags.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "SoldItem_Weights",
+      "rowid": 3,
+      "type": "ref|list|uint",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown_Keys0",
+      "rowid": 4,
+      "type": "ref|list|ulong",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown_Values",
+      "rowid": 5,
+      "type": "ref|list|uint",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown1",
+      "rowid": 6,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Keys1",
+      "rowid": 7,
+      "type": "ref|list|ulong",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Data0",
+      "rowid": 8,
+      "type": "ref|list|int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown2",
+      "rowid": 9,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "A1_Weapons",
+      64,
+      [
+        33,
+        9,
+        0
+      ],
+      [
+        0,
+        0,
+        1000
+      ],
+      [
+        0,
+        9,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      [
+        2808,
+        125,
+        1123,
+        374,
+        437,
+        562,
+        499
+      ],
+      0,
+      [
+        3
+      ],
+      [],
+      0
+    ],
+    [
+      "A2_Weapons",
+      64,
+      [
+        33,
+        9,
+        0
+      ],
+      [
+        0,
+        0,
+        1000
+      ],
+      [
+        0,
+        9,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      [
+        2808,
+        125,
+        1123,
+        374,
+        437,
+        562,
+        499
+      ],
+      3,
+      [
+        0
+      ],
+      [],
+      0
+    ],
+    [
+      "A3_Weapons",
+      64,
+      [
+        33,
+        9,
+        0
+      ],
+      [
+        0,
+        0,
+        1000
+      ],
+      [
+        0,
+        9,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      [
+        2808,
+        125,
+        1123,
+        374,
+        437,
+        562,
+        499
+      ],
+      5,
+      [
+        3,
+        0,
+        15
+      ],
+      [],
+      0
+    ],
+    [
+      "A4_Weapons",
+      64,
+      [
+        33,
+        9,
+        0
+      ],
+      [
+        0,
+        0,
+        1000
+      ],
+      [
+        0,
+        9,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      [
+        2808,
+        125,
+        1123,
+        374,
+        437,
+        562,
+        499
+      ],
+      7,
+      [
+        15,
+        0,
+        3
+      ],
+      [],
+      0
+    ],
+    [
+      "A5_Weapons",
+      64,
+      [
+        33,
+        9,
+        0
+      ],
+      [
+        0,
+        0,
+        1000
+      ],
+      [
+        0,
+        9,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      [
+        2808,
+        125,
+        1123,
+        374,
+        437,
+        562,
+        499
+      ],
+      9,
+      [
+        15,
+        0,
+        3
+      ],
+      [],
+      0
+    ],
+    [
+      "A6_Weapons",
+      64,
+      [
+        33,
+        9,
+        0
+      ],
+      [
+        0,
+        0,
+        1000
+      ],
+      [
+        0,
+        9,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      [
+        2808,
+        125,
+        1123,
+        374,
+        437,
+        562,
+        499
+      ],
+      11,
+      [
+        15,
+        0,
+        3
+      ],
+      [],
+      0
+    ],
+    [
+      "A7_Weapons",
+      64,
+      [
+        33,
+        9,
+        0
+      ],
+      [
+        0,
+        0,
+        1000
+      ],
+      [
+        0,
+        9,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      [
+        2808,
+        125,
+        1123,
+        374,
+        437,
+        562,
+        499
+      ],
+      13,
+      [
+        15,
+        0,
+        3
+      ],
+      [],
+      0
+    ],
+    [
+      "A8_Weapons",
+      64,
+      [
+        33,
+        9,
+        0
+      ],
+      [
+        0,
+        0,
+        1000
+      ],
+      [
+        0,
+        9,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      [
+        2808,
+        125,
+        1123,
+        374,
+        437,
+        562,
+        499
+      ],
+      15,
+      [
+        15,
+        0,
+        3
+      ],
+      [],
+      0
+    ],
+    [
+      "A9_Weapons",
+      64,
+      [
+        33,
+        9,
+        0
+      ],
+      [
+        0,
+        0,
+        1000
+      ],
+      [
+        0,
+        9,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      [
+        2808,
+        125,
+        1123,
+        374,
+        437,
+        562,
+        499
+      ],
+      17,
+      [
+        15,
+        0,
+        3
+      ],
+      [],
+      0
+    ],
+    [
+      "A10_Weapons",
+      64,
+      [
+        33,
+        9,
+        0
+      ],
+      [
+        0,
+        0,
+        1000
+      ],
+      [
+        0,
+        9,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      [
+        2808,
+        125,
+        1123,
+        374,
+        437,
+        562,
+        499
+      ],
+      19,
+      [
+        15,
+        0,
+        3
+      ],
+      [],
+      0
+    ],
+    [
+      "Epilogue_Weapons",
+      64,
+      [
+        33,
+        9,
+        0
+      ],
+      [
+        0,
+        0,
+        1000
+      ],
+      [
+        0,
+        9,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      [
+        2808,
+        125,
+        1123,
+        374,
+        437,
+        562,
+        499
+      ],
+      21,
+      [
+        15,
+        0,
+        3
+      ],
+      [],
+      0
+    ],
+    [
+      "A1_Magic",
+      40,
+      [
+        33,
+        9,
+        8,
+        0
+      ],
+      [
+        0,
+        1000,
+        0,
+        1000
+      ],
+      [
+        0,
+        6,
+        7,
+        8,
+        13
+      ],
+      [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      1,
+      [
+        14,
+        8,
+        13,
+        9
+      ],
+      [],
+      0
+    ],
+    [
+      "A2_Magic",
+      40,
+      [
+        33,
+        9,
+        8,
+        0
+      ],
+      [
+        0,
+        1000,
+        0,
+        1000
+      ],
+      [
+        0,
+        6,
+        7,
+        8,
+        13
+      ],
+      [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      2,
+      [
+        14,
+        7,
+        10,
+        17,
+        18,
+        19
+      ],
+      [],
+      0
+    ],
+    [
+      "A3_Magic",
+      40,
+      [
+        33,
+        9,
+        8,
+        0
+      ],
+      [
+        0,
+        1000,
+        0,
+        1000
+      ],
+      [
+        0,
+        6,
+        7,
+        8,
+        13
+      ],
+      [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      4,
+      [
+        14,
+        8,
+        13,
+        9,
+        7,
+        10,
+        17,
+        18,
+        19,
+        5,
+        6
+      ],
+      [],
+      0
+    ],
+    [
+      "A4_Magic",
+      40,
+      [
+        33,
+        9,
+        8,
+        0
+      ],
+      [
+        0,
+        1000,
+        0,
+        1000
+      ],
+      [
+        0,
+        6,
+        7,
+        8,
+        13
+      ],
+      [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      6,
+      [
+        14,
+        8,
+        13,
+        9,
+        7,
+        10,
+        17,
+        18,
+        19,
+        5,
+        6
+      ],
+      [],
+      0
+    ],
+    [
+      "A5_Magic",
+      40,
+      [
+        33,
+        9,
+        8,
+        0
+      ],
+      [
+        0,
+        1000,
+        0,
+        1000
+      ],
+      [
+        0,
+        6,
+        7,
+        8,
+        13
+      ],
+      [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      8,
+      [
+        14,
+        8,
+        13,
+        9,
+        7,
+        10,
+        17,
+        18,
+        19,
+        5,
+        6
+      ],
+      [],
+      0
+    ],
+    [
+      "A6_Magic",
+      40,
+      [
+        33,
+        9,
+        8,
+        0
+      ],
+      [
+        0,
+        1000,
+        0,
+        1000
+      ],
+      [
+        0,
+        6,
+        7,
+        8,
+        13
+      ],
+      [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      10,
+      [
+        14,
+        8,
+        13,
+        9,
+        7,
+        10,
+        17,
+        18,
+        19,
+        5,
+        6
+      ],
+      [],
+      0
+    ],
+    [
+      "A7_Magic",
+      40,
+      [
+        33,
+        9,
+        8,
+        0
+      ],
+      [
+        0,
+        1000,
+        0,
+        1000
+      ],
+      [
+        0,
+        6,
+        7,
+        8,
+        13
+      ],
+      [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      12,
+      [
+        14,
+        8,
+        13,
+        9,
+        7,
+        10,
+        17,
+        18,
+        19,
+        5,
+        6
+      ],
+      [],
+      0
+    ],
+    [
+      "A8_Magic",
+      40,
+      [
+        33,
+        9,
+        8,
+        0
+      ],
+      [
+        0,
+        1000,
+        0,
+        1000
+      ],
+      [
+        0,
+        6,
+        7,
+        8,
+        13
+      ],
+      [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      14,
+      [
+        14,
+        8,
+        13,
+        9,
+        7,
+        10,
+        17,
+        18,
+        19,
+        5,
+        6
+      ],
+      [],
+      0
+    ],
+    [
+      "A9_Magic",
+      40,
+      [
+        33,
+        9,
+        8,
+        0
+      ],
+      [
+        0,
+        1000,
+        0,
+        1000
+      ],
+      [
+        0,
+        6,
+        7,
+        8,
+        13
+      ],
+      [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      16,
+      [
+        14,
+        8,
+        13,
+        9,
+        7,
+        10,
+        17,
+        18,
+        19,
+        5,
+        6
+      ],
+      [],
+      0
+    ],
+    [
+      "A10_Magic",
+      40,
+      [
+        33,
+        9,
+        8,
+        0
+      ],
+      [
+        0,
+        1000,
+        0,
+        1000
+      ],
+      [
+        0,
+        6,
+        7,
+        8,
+        13
+      ],
+      [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      18,
+      [
+        14,
+        8,
+        13,
+        9,
+        7,
+        10,
+        17,
+        18,
+        19,
+        5,
+        6
+      ],
+      [],
+      0
+    ],
+    [
+      "Epilogue_Magic",
+      40,
+      [
+        33,
+        9,
+        8,
+        0
+      ],
+      [
+        0,
+        1000,
+        0,
+        1000
+      ],
+      [
+        0,
+        6,
+        7,
+        8,
+        13
+      ],
+      [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      20,
+      [
+        14,
+        8,
+        13,
+        9,
+        7,
+        10,
+        17,
+        18,
+        19,
+        5,
+        6
+      ],
+      [],
+      0
+    ],
+    [
+      "NoRandomItems",
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [],
+      [],
+      0,
+      [],
+      [],
+      0
+    ],
+    [
+      "Einhar",
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [],
+      [],
+      0,
+      [
+        38
+      ],
+      [
+        1
+      ],
+      0
+    ],
+    [
+      "Zana",
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [],
+      [],
+      0,
+      [],
+      [],
+      0
+    ],
+    [
+      "Kirac",
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [],
+      [],
+      0,
+      [],
+      [],
+      0
+    ],
+    [
+      "Whakano",
+      10,
+      [
+        33,
+        0
+      ],
+      [
+        0,
+        1000
+      ],
+      [
+        38
+      ],
+      [
+        1
+      ],
+      22,
+      [],
+      [],
+      67
+    ],
+    [
+      "EndlessDelve",
+      0,
+      [],
+      [],
+      [],
+      [],
+      0,
+      [
+        8,
+        13,
+        9,
+        7,
+        10,
+        17,
+        18,
+        19,
+        5,
+        6,
+        15,
+        0,
+        3
+      ],
+      [],
+      0
+    ]
+  ]
+}

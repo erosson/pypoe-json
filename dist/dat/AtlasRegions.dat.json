@@ -1,1 +1,138 @@
-{"filename":"AtlasRegions.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":true,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Name","rowid":1,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown0","rowid":2,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown1","rowid":3,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown2","rowid":4,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["OutsideTopLeft","Haewark Hamlet",399,14,0],["InsideTopLeft","Tirn's End",400,15,0],["InsideTopRight","Lex Proxima",401,16,0],["OutsideTopRight","Lex Ejoris",402,17,0],["OutsideBottomLeft","New Vastir",403,18,0],["InsideBottomLeft","Glennach Cairns",404,19,0],["InsideBottomRight","Valdo's Rest",405,20,0],["OutsideBottomRight","Lira Arthain",406,21,0]]}
+{
+  "filename": "AtlasRegions.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Name",
+      "rowid": 1,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown0",
+      "rowid": 2,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown1",
+      "rowid": 3,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown2",
+      "rowid": 4,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "OutsideTopLeft",
+      "Haewark Hamlet",
+      399,
+      14,
+      0
+    ],
+    [
+      "InsideTopLeft",
+      "Tirn's End",
+      400,
+      15,
+      0
+    ],
+    [
+      "InsideTopRight",
+      "Lex Proxima",
+      401,
+      16,
+      0
+    ],
+    [
+      "OutsideTopRight",
+      "Lex Ejoris",
+      402,
+      17,
+      0
+    ],
+    [
+      "OutsideBottomLeft",
+      "New Vastir",
+      403,
+      18,
+      0
+    ],
+    [
+      "InsideBottomLeft",
+      "Glennach Cairns",
+      404,
+      19,
+      0
+    ],
+    [
+      "InsideBottomRight",
+      "Valdo's Rest",
+      405,
+      20,
+      0
+    ],
+    [
+      "OutsideBottomRight",
+      "Lira Arthain",
+      406,
+      21,
+      0
+    ]
+  ]
+}

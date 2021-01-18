@@ -1,1 +1,211 @@
-{"filename":"MetamorphosisRewardTypes.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":true,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Art","rowid":1,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":true,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Name","rowid":2,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"AchievementItemsKeys","rowid":3,"type":"ref|list|ulong","key":"AchievementItems.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["Currency","Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedCurrency","Валюта",[]],["Uniques","Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedUniques","Уникальные предметы",[]],["Gems","Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedGems","Камни",[]],["Maps","Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedMaps","Карты",[]],["Trinkets","Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedTrinkets","Бижутерия",[]],["Armour","Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedArmour","Доспехи",[]],["Weapon","Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedWeapons","Оружие",[]],["Abyss","Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedAbyss","Бездна",[]],["Perandus","Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedPerandus","Перандусы",[]],["Harbinger","Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedHarbinger","Предвестник",[]],["Breach","Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedBreach","Разлом",[]],["Essences","Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedEssence","Сущности",[]],["Essences2","Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedEssence","Сущности",[]],["Fragments","Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedFragments","Фрагменты",[]],["Scarabs","Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedScarabs","Скарабеи",[]],["Fossils","Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedFossils","Ископаемые",[]],["Prophecies","Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedProphecies","Пророчества",[]],["DivinationCards","Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedDivination","Гадальные карты",[]],["Generic","Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedGeneric","Базовая",[]],["Talismans","Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedTalismans","Талисманы",[]],["Labyrinth","Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedLabyrinth","Лабиринт",[]],["Legion","Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedLegion","Легион",[]],["Blight","Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedBlight","Скверна",[]],["Metamorphosis","Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedMetamorph","Метаморф",[]]]}
+{
+  "filename": "MetamorphosisRewardTypes.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Art",
+      "rowid": 1,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": true,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Name",
+      "rowid": 2,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "AchievementItemsKeys",
+      "rowid": 3,
+      "type": "ref|list|ulong",
+      "key": "AchievementItems.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "Currency",
+      "Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedCurrency",
+      "Валюта",
+      []
+    ],
+    [
+      "Uniques",
+      "Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedUniques",
+      "Уникальные предметы",
+      []
+    ],
+    [
+      "Gems",
+      "Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedGems",
+      "Камни",
+      []
+    ],
+    [
+      "Maps",
+      "Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedMaps",
+      "Карты",
+      []
+    ],
+    [
+      "Trinkets",
+      "Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedTrinkets",
+      "Бижутерия",
+      []
+    ],
+    [
+      "Armour",
+      "Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedArmour",
+      "Доспехи",
+      []
+    ],
+    [
+      "Weapon",
+      "Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedWeapons",
+      "Оружие",
+      []
+    ],
+    [
+      "Abyss",
+      "Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedAbyss",
+      "Бездна",
+      []
+    ],
+    [
+      "Perandus",
+      "Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedPerandus",
+      "Перандусы",
+      []
+    ],
+    [
+      "Harbinger",
+      "Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedHarbinger",
+      "Предвестник",
+      []
+    ],
+    [
+      "Breach",
+      "Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedBreach",
+      "Разлом",
+      []
+    ],
+    [
+      "Essences",
+      "Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedEssence",
+      "Сущности",
+      []
+    ],
+    [
+      "Essences2",
+      "Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedEssence",
+      "Сущности",
+      []
+    ],
+    [
+      "Fragments",
+      "Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedFragments",
+      "Фрагменты",
+      []
+    ],
+    [
+      "Scarabs",
+      "Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedScarabs",
+      "Скарабеи",
+      []
+    ],
+    [
+      "Fossils",
+      "Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedFossils",
+      "Ископаемые",
+      []
+    ],
+    [
+      "Prophecies",
+      "Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedProphecies",
+      "Пророчества",
+      []
+    ],
+    [
+      "DivinationCards",
+      "Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedDivination",
+      "Гадальные карты",
+      []
+    ],
+    [
+      "Generic",
+      "Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedGeneric",
+      "Базовая",
+      []
+    ],
+    [
+      "Talismans",
+      "Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedTalismans",
+      "Талисманы",
+      []
+    ],
+    [
+      "Labyrinth",
+      "Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedLabyrinth",
+      "Лабиринт",
+      []
+    ],
+    [
+      "Legion",
+      "Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedLegion",
+      "Легион",
+      []
+    ],
+    [
+      "Blight",
+      "Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedBlight",
+      "Скверна",
+      []
+    ],
+    [
+      "Metamorphosis",
+      "Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedMetamorph",
+      "Метаморф",
+      []
+    ]
+  ]
+}

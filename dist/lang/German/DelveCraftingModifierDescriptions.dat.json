@@ -1,1 +1,189 @@
-{"filename":"DelveCraftingModifierDescriptions.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":true,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Description","rowid":1,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["BetterSellPrice","Gegenstand erzielt bei Händlern einen höheren Preis"],["LuckyMods","Numerische Modifikatorenwerte fallen günstig aus\r\nHochstufige Modifikatoren treten häufiger auf"],["RandomModifier","Kann jeden Fossil-Modifikator haben"],["CorruptEssence","Hat einen verderbten Essenz-Modifikator"],["Duplicate","Erstellt eine gespiegelte Kopie"],["AbyssSocket","Hat eine Abgrund-Fassung"],["VaalMod","Hat einen Vaal-Modifikator"],["Sockets","Mehr Fassungen\r\nKann weiße Fassungen haben"],["LabryinthEnchant","Hat eine Labyrinth-Verzauberung"],["Quality","Verbesserte Qualität"],["MorePhysical","Mehr physische Modifikatoren"],["MoreFire","Mehr Feuer-Modifikatoren"],["MoreCold","Mehr Kälte-Modifikatoren"],["MoreLightning","Mehr Blitz-Modifikatoren"],["MoreChaos","Mehr Chaos-Modifikatoren"],["MoreElemental","Mehr Elementar-Modifikatoren"],["MoreBleedPoison","Mehr Modifikatoren für physische oder Chaos-Beeinträchtigungen"],["MoreLife","Mehr Lebensmodifikatoren"],["MoreDefences","Mehr Defensiv-Modifikatoren"],["MoreCaster","Mehr Zaubermodifikatoren"],["MoreAttack","Mehr Angriffsmodifikatoren"],["MoreMana","Mehr Manamodifikatoren"],["MoreSpeed","Mehr Geschwindigkeitsmodifikatoren"],["MoreMinionAura","Mehr Kreaturen-, Auren- oder Fluch-Modifikatoren"],["MoreGemLevel","Mehr Gemmen-Modifikatoren"],["LessCaster","Weniger Zaubermodifikatoren"],["LessAttack","Weniger Angriffsmodifikatoren"],["NoPhysical","Keine physischen Modifikatoren"],["NoFire","Keine Feuer-Modifikatoren"],["NoCold","Keine Kälte-Modifikatoren"],["NoLightning","Keine Blitz-Modifikatoren"],["NoChaos","Keine Chaos-Modifikatoren"],["NoLife","Keine Lebensmodifikatoren"],["NoDefences","Keine Defensiv-Modifikatoren"],["NoElemental","Keine Elementar-Modifikatoren"],["NoBleedPoison","Keine Modifikatoren für physische oder Chaos-Beeinträchtigungen"],["NoMana","Keine Manamodifikatoren"],["NoSpeed","Keine Geschwindigkeitsmodifikatoren"]]}
+{
+  "filename": "DelveCraftingModifierDescriptions.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Description",
+      "rowid": 1,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "BetterSellPrice",
+      "Gegenstand erzielt bei Händlern einen höheren Preis"
+    ],
+    [
+      "LuckyMods",
+      "Numerische Modifikatorenwerte fallen günstig aus\r\nHochstufige Modifikatoren treten häufiger auf"
+    ],
+    [
+      "RandomModifier",
+      "Kann jeden Fossil-Modifikator haben"
+    ],
+    [
+      "CorruptEssence",
+      "Hat einen verderbten Essenz-Modifikator"
+    ],
+    [
+      "Duplicate",
+      "Erstellt eine gespiegelte Kopie"
+    ],
+    [
+      "AbyssSocket",
+      "Hat eine Abgrund-Fassung"
+    ],
+    [
+      "VaalMod",
+      "Hat einen Vaal-Modifikator"
+    ],
+    [
+      "Sockets",
+      "Mehr Fassungen\r\nKann weiße Fassungen haben"
+    ],
+    [
+      "LabryinthEnchant",
+      "Hat eine Labyrinth-Verzauberung"
+    ],
+    [
+      "Quality",
+      "Verbesserte Qualität"
+    ],
+    [
+      "MorePhysical",
+      "Mehr physische Modifikatoren"
+    ],
+    [
+      "MoreFire",
+      "Mehr Feuer-Modifikatoren"
+    ],
+    [
+      "MoreCold",
+      "Mehr Kälte-Modifikatoren"
+    ],
+    [
+      "MoreLightning",
+      "Mehr Blitz-Modifikatoren"
+    ],
+    [
+      "MoreChaos",
+      "Mehr Chaos-Modifikatoren"
+    ],
+    [
+      "MoreElemental",
+      "Mehr Elementar-Modifikatoren"
+    ],
+    [
+      "MoreBleedPoison",
+      "Mehr Modifikatoren für physische oder Chaos-Beeinträchtigungen"
+    ],
+    [
+      "MoreLife",
+      "Mehr Lebensmodifikatoren"
+    ],
+    [
+      "MoreDefences",
+      "Mehr Defensiv-Modifikatoren"
+    ],
+    [
+      "MoreCaster",
+      "Mehr Zaubermodifikatoren"
+    ],
+    [
+      "MoreAttack",
+      "Mehr Angriffsmodifikatoren"
+    ],
+    [
+      "MoreMana",
+      "Mehr Manamodifikatoren"
+    ],
+    [
+      "MoreSpeed",
+      "Mehr Geschwindigkeitsmodifikatoren"
+    ],
+    [
+      "MoreMinionAura",
+      "Mehr Kreaturen-, Auren- oder Fluch-Modifikatoren"
+    ],
+    [
+      "MoreGemLevel",
+      "Mehr Gemmen-Modifikatoren"
+    ],
+    [
+      "LessCaster",
+      "Weniger Zaubermodifikatoren"
+    ],
+    [
+      "LessAttack",
+      "Weniger Angriffsmodifikatoren"
+    ],
+    [
+      "NoPhysical",
+      "Keine physischen Modifikatoren"
+    ],
+    [
+      "NoFire",
+      "Keine Feuer-Modifikatoren"
+    ],
+    [
+      "NoCold",
+      "Keine Kälte-Modifikatoren"
+    ],
+    [
+      "NoLightning",
+      "Keine Blitz-Modifikatoren"
+    ],
+    [
+      "NoChaos",
+      "Keine Chaos-Modifikatoren"
+    ],
+    [
+      "NoLife",
+      "Keine Lebensmodifikatoren"
+    ],
+    [
+      "NoDefences",
+      "Keine Defensiv-Modifikatoren"
+    ],
+    [
+      "NoElemental",
+      "Keine Elementar-Modifikatoren"
+    ],
+    [
+      "NoBleedPoison",
+      "Keine Modifikatoren für physische oder Chaos-Beeinträchtigungen"
+    ],
+    [
+      "NoMana",
+      "Keine Manamodifikatoren"
+    ],
+    [
+      "NoSpeed",
+      "Keine Geschwindigkeitsmodifikatoren"
+    ]
+  ]
+}

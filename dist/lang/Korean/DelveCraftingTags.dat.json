@@ -1,1 +1,101 @@
-{"filename":"DelveCraftingTags.dat","header":[{"name":"TagsKey","rowid":0,"type":"ulong","key":"Tags.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"ItemClass","rowid":1,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[[8,"무기"],[134,"주얼"],[16,"갑옷"],[1,"방패"],[25,"투구"],[22,"장갑"],[4,"장화"],[57,"지도"],[3,"목걸이"],[26,"허리띠"],[2,"반지"],[21,"화살통"],[238,"심연 주얼"],[632,"계약"],[672,"도면"],[683,"강탈 장비"]]}
+{
+  "filename": "DelveCraftingTags.dat",
+  "header": [
+    {
+      "name": "TagsKey",
+      "rowid": 0,
+      "type": "ulong",
+      "key": "Tags.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "ItemClass",
+      "rowid": 1,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      8,
+      "무기"
+    ],
+    [
+      134,
+      "주얼"
+    ],
+    [
+      16,
+      "갑옷"
+    ],
+    [
+      1,
+      "방패"
+    ],
+    [
+      25,
+      "투구"
+    ],
+    [
+      22,
+      "장갑"
+    ],
+    [
+      4,
+      "장화"
+    ],
+    [
+      57,
+      "지도"
+    ],
+    [
+      3,
+      "목걸이"
+    ],
+    [
+      26,
+      "허리띠"
+    ],
+    [
+      2,
+      "반지"
+    ],
+    [
+      21,
+      "화살통"
+    ],
+    [
+      238,
+      "심연 주얼"
+    ],
+    [
+      632,
+      "계약"
+    ],
+    [
+      672,
+      "도면"
+    ],
+    [
+      683,
+      "강탈 장비"
+    ]
+  ]
+}

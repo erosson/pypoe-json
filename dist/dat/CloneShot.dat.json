@@ -1,1 +1,229 @@
-{"filename":"CloneShot.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":"True","file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"MonsterVarietiesKey","rowid":1,"type":"ulong","key":"MonsterVarieties.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Key1","rowid":2,"type":"ulong","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Key2","rowid":3,"type":"ulong","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Key3","rowid":4,"type":"ulong","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["ProxyKey1",3210,null,null,null],["ProxyKey2",3214,null,null,null],["ProxyKey3",13,null,null,null],["ProxyKey4",3598,null,null,null],["ProxyKey5",3602,null,null,null],["ProxyKey6",3570,null,null,null],["ProxyKey7",4027,null,null,null],["ProxyKey8",4029,null,null,null],["ProxyKey9",372,null,null,null],["ProxyKey10",410,null,null,null],["ProxyKey11",686,null,null,null],["ProxyKey12",3215,null,null,null],["ProxyKey13",858,null,null,null],["ProxyKey14",1060,null,null,null],["ProxyKey15",2023,null,null,null],["ProxyKey16",2031,null,null,null],["ProxyKey17",2739,null,null,null],["ProxyKey18",373,null,null,null],["ProxyKey19",411,null,null,null],["ProxyKey20",687,null,null,null],["ProxyKey21",4990,1726,1727,1728]]}
+{
+  "filename": "CloneShot.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": "True",
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "MonsterVarietiesKey",
+      "rowid": 1,
+      "type": "ulong",
+      "key": "MonsterVarieties.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Key1",
+      "rowid": 2,
+      "type": "ulong",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Key2",
+      "rowid": 3,
+      "type": "ulong",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Key3",
+      "rowid": 4,
+      "type": "ulong",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "ProxyKey1",
+      3210,
+      null,
+      null,
+      null
+    ],
+    [
+      "ProxyKey2",
+      3214,
+      null,
+      null,
+      null
+    ],
+    [
+      "ProxyKey3",
+      13,
+      null,
+      null,
+      null
+    ],
+    [
+      "ProxyKey4",
+      3598,
+      null,
+      null,
+      null
+    ],
+    [
+      "ProxyKey5",
+      3602,
+      null,
+      null,
+      null
+    ],
+    [
+      "ProxyKey6",
+      3570,
+      null,
+      null,
+      null
+    ],
+    [
+      "ProxyKey7",
+      4027,
+      null,
+      null,
+      null
+    ],
+    [
+      "ProxyKey8",
+      4029,
+      null,
+      null,
+      null
+    ],
+    [
+      "ProxyKey9",
+      372,
+      null,
+      null,
+      null
+    ],
+    [
+      "ProxyKey10",
+      410,
+      null,
+      null,
+      null
+    ],
+    [
+      "ProxyKey11",
+      686,
+      null,
+      null,
+      null
+    ],
+    [
+      "ProxyKey12",
+      3215,
+      null,
+      null,
+      null
+    ],
+    [
+      "ProxyKey13",
+      858,
+      null,
+      null,
+      null
+    ],
+    [
+      "ProxyKey14",
+      1060,
+      null,
+      null,
+      null
+    ],
+    [
+      "ProxyKey15",
+      2023,
+      null,
+      null,
+      null
+    ],
+    [
+      "ProxyKey16",
+      2031,
+      null,
+      null,
+      null
+    ],
+    [
+      "ProxyKey17",
+      2739,
+      null,
+      null,
+      null
+    ],
+    [
+      "ProxyKey18",
+      373,
+      null,
+      null,
+      null
+    ],
+    [
+      "ProxyKey19",
+      411,
+      null,
+      null,
+      null
+    ],
+    [
+      "ProxyKey20",
+      687,
+      null,
+      null,
+      null
+    ],
+    [
+      "ProxyKey21",
+      4990,
+      1726,
+      1727,
+      1728
+    ]
+  ]
+}

@@ -1,1 +1,405 @@
-{"filename":"NPCMaster.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown14","rowid":1,"type":"short","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Signature_ModsKey","rowid":2,"type":"ulong","key":"Mods.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Flag0","rowid":3,"type":"byte","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"SpawnWeight_TagsKeys","rowid":4,"type":"ref|list|ulong","key":"Tags.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"SpawnWeight_Values","rowid":5,"type":"ref|list|int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Data0","rowid":6,"type":"ref|list|int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Data1","rowid":7,"type":"ref|list|int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Key1","rowid":8,"type":"ulong","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"HelpText","rowid":9,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"HelpTextForNextLevel","rowid":10,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Key2","rowid":11,"type":"ulong","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown0","rowid":12,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"AreaDescription","rowid":13,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Key3","rowid":14,"type":"ulong","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown1","rowid":15,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["Navali",0,null,0,[0],[0],[],[],null,"","",null,910,"[DNT] Navali",null,910],["Einhar",0,null,0,[0],[0],[],[],null,"Fangt neue Monster für das Bestiarium ein, um Einhars Dekorationsstufe zu erhöhen.","Fangt {0} mehr neue Monster für Euer Bestiarium ein, um Einhars Dekorationsstufe zu erhöhen.",4206,598,"Gebiet enthält mächtige Bestien, die Einhar für Euch einfängt.",4,910],["Alva",0,null,0,[0],[0],[],[],null,"Erkundet neue Räume im Tempel von Atzoatl in der Gegenwart, um Alvas Dekorationsstufe zu erhöhen.","Erkundet {0} mehr neue Räume im Tempel von Atzoatl in der Gegenwart, um Alvas Dekorationsstufe zu erhöhen.",4204,599,"Gebiet enthält Inkursionen zum Tempel von Atzoatl, die von Alva geöffnet werden.",2,910],["Helena",0,null,0,[0],[0],[],[],null,"","",null,910,"[DNT] Helena",null,910],["Niko",0,null,0,[0],[0],[],[],null,"Dringt tiefer in die Azuritmine vor, um Nikos Dekorationsstufe zu erhöhen.","Dringt zum Tiefenlevel {0} in Eurer Azuritmine vor, um Nikos Dekorationsstufe zu erhöhen.",4205,600,"Gebiet enthält Ansammlungen voltaxischen Sulfits, das Niko für Euch abbaut.",3,910],["Jun",0,null,0,[0],[0],[],[],null,"Besiegt neue hochrangige Mitglieder des unsterblichen Syndikats, um Juns Dekorationsstufe zu erhöhen.","Besiegt {0} zuvor nicht besiegte Syndikatsmitglieder des Ranges {1}, um Juns Dekorationsstufe zu erhöhen.",4207,601,"Gebiet enthält Aktivitäten des Unsterblichen Syndikats, gegen das Jun mit Euch kämpft.",5,910],["Zana",0,10374,0,[33,57,0],[0,1000,0],[],[],17,"Schließt neue Karten im Atlas ab, um Zanas Dekorationsstufe zu erhöhen.","Ihr müsst {0} Karten im Atlas abgeschlossen haben, um Zanas Dekorationsstufe zu erhöhen.",4210,602,"Gebiet enthält Zana, die mit Eurer Hilfe den Atlas erkundet.",1,91]]}
+{
+  "filename": "NPCMaster.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown14",
+      "rowid": 1,
+      "type": "short",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Signature_ModsKey",
+      "rowid": 2,
+      "type": "ulong",
+      "key": "Mods.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Flag0",
+      "rowid": 3,
+      "type": "byte",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "SpawnWeight_TagsKeys",
+      "rowid": 4,
+      "type": "ref|list|ulong",
+      "key": "Tags.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "SpawnWeight_Values",
+      "rowid": 5,
+      "type": "ref|list|int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Data0",
+      "rowid": 6,
+      "type": "ref|list|int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Data1",
+      "rowid": 7,
+      "type": "ref|list|int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Key1",
+      "rowid": 8,
+      "type": "ulong",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "HelpText",
+      "rowid": 9,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "HelpTextForNextLevel",
+      "rowid": 10,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Key2",
+      "rowid": 11,
+      "type": "ulong",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown0",
+      "rowid": 12,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "AreaDescription",
+      "rowid": 13,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Key3",
+      "rowid": 14,
+      "type": "ulong",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown1",
+      "rowid": 15,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "Navali",
+      0,
+      null,
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [],
+      [],
+      null,
+      "",
+      "",
+      null,
+      910,
+      "[DNT] Navali",
+      null,
+      910
+    ],
+    [
+      "Einhar",
+      0,
+      null,
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [],
+      [],
+      null,
+      "Fangt neue Monster für das Bestiarium ein, um Einhars Dekorationsstufe zu erhöhen.",
+      "Fangt {0} mehr neue Monster für Euer Bestiarium ein, um Einhars Dekorationsstufe zu erhöhen.",
+      4206,
+      598,
+      "Gebiet enthält mächtige Bestien, die Einhar für Euch einfängt.",
+      4,
+      910
+    ],
+    [
+      "Alva",
+      0,
+      null,
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [],
+      [],
+      null,
+      "Erkundet neue Räume im Tempel von Atzoatl in der Gegenwart, um Alvas Dekorationsstufe zu erhöhen.",
+      "Erkundet {0} mehr neue Räume im Tempel von Atzoatl in der Gegenwart, um Alvas Dekorationsstufe zu erhöhen.",
+      4204,
+      599,
+      "Gebiet enthält Inkursionen zum Tempel von Atzoatl, die von Alva geöffnet werden.",
+      2,
+      910
+    ],
+    [
+      "Helena",
+      0,
+      null,
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [],
+      [],
+      null,
+      "",
+      "",
+      null,
+      910,
+      "[DNT] Helena",
+      null,
+      910
+    ],
+    [
+      "Niko",
+      0,
+      null,
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [],
+      [],
+      null,
+      "Dringt tiefer in die Azuritmine vor, um Nikos Dekorationsstufe zu erhöhen.",
+      "Dringt zum Tiefenlevel {0} in Eurer Azuritmine vor, um Nikos Dekorationsstufe zu erhöhen.",
+      4205,
+      600,
+      "Gebiet enthält Ansammlungen voltaxischen Sulfits, das Niko für Euch abbaut.",
+      3,
+      910
+    ],
+    [
+      "Jun",
+      0,
+      null,
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [],
+      [],
+      null,
+      "Besiegt neue hochrangige Mitglieder des unsterblichen Syndikats, um Juns Dekorationsstufe zu erhöhen.",
+      "Besiegt {0} zuvor nicht besiegte Syndikatsmitglieder des Ranges {1}, um Juns Dekorationsstufe zu erhöhen.",
+      4207,
+      601,
+      "Gebiet enthält Aktivitäten des Unsterblichen Syndikats, gegen das Jun mit Euch kämpft.",
+      5,
+      910
+    ],
+    [
+      "Zana",
+      0,
+      10374,
+      0,
+      [
+        33,
+        57,
+        0
+      ],
+      [
+        0,
+        1000,
+        0
+      ],
+      [],
+      [],
+      17,
+      "Schließt neue Karten im Atlas ab, um Zanas Dekorationsstufe zu erhöhen.",
+      "Ihr müsst {0} Karten im Atlas abgeschlossen haben, um Zanas Dekorationsstufe zu erhöhen.",
+      4210,
+      602,
+      "Gebiet enthält Zana, die mit Eurer Hilfe den Atlas erkundet.",
+      1,
+      91
+    ]
+  ]
+}

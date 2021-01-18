@@ -1,1 +1,73 @@
-{"filename":"Doors.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":true,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Flag0","rowid":1,"type":"byte","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["Metadata/MiscellaneousObjects/Door",1],["Metadata/MiscellaneousObjects/Lights/IncaDoorLight",1],["Metadata/Terrain/Mountain/Belly/Objects/BellyArseDoor",1],["Metadata/MiscellaneousObjects/DoorTriggerableNotarget",1],["Metadata/MiscellaneousObjects/Door_grate_temp",1],["Metadata/MiscellaneousObjects/Lights/ScepterDoorLight",1],["Metadata/MiscellaneousObjects/Smashable",1],["Metadata/MiscellaneousObjects/SmashableNoHighlight",1],["Metadata/Terrain/Labyrinth/Objects/LabyrinthSmashableDoor",1]]}
+{
+  "filename": "Doors.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Flag0",
+      "rowid": 1,
+      "type": "byte",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "Metadata/MiscellaneousObjects/Door",
+      1
+    ],
+    [
+      "Metadata/MiscellaneousObjects/Lights/IncaDoorLight",
+      1
+    ],
+    [
+      "Metadata/Terrain/Mountain/Belly/Objects/BellyArseDoor",
+      1
+    ],
+    [
+      "Metadata/MiscellaneousObjects/DoorTriggerableNotarget",
+      1
+    ],
+    [
+      "Metadata/MiscellaneousObjects/Door_grate_temp",
+      1
+    ],
+    [
+      "Metadata/MiscellaneousObjects/Lights/ScepterDoorLight",
+      1
+    ],
+    [
+      "Metadata/MiscellaneousObjects/Smashable",
+      1
+    ],
+    [
+      "Metadata/MiscellaneousObjects/SmashableNoHighlight",
+      1
+    ],
+    [
+      "Metadata/Terrain/Labyrinth/Objects/LabyrinthSmashableDoor",
+      1
+    ]
+  ]
+}

@@ -1,1 +1,709 @@
-{"filename":"SynthesisRewardTypes.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":true,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Description","rowid":1,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"ArtFile","rowid":2,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":true,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"AchievementItemsKey","rowid":3,"type":"ulong","key":"AchievementItems.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["Currency","Содержит от 2 до 3 синтезированных сундуков с валютой","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIcon",null],["Currency2","Содержит от 3 до 4 синтезированных сундуков с валютой","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIcon",null],["Currency3","Содержит от 4 до 5 синтезированных сундуков с валютой","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIcon",null],["CurrencyHigh3","Содержит от 2 до 3 синтезированных сундуков с ценной валютой\r\nСодержит 2 синтезированных сундука с валютой","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIconTier2",null],["Currency4","Содержит от 5 до 6 синтезированных сундуков с валютой","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIcon",null],["CurrencyHigh4","Содержит от 3 до 4 синтезированных сундуков с ценной валютой\r\nСодержит 2 синтезированных сундука с валютой","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIconTier2",null],["CurrencyEpic4","Содержит синтезированный сундук с очень ценной валютой\r\nСодержит от 4 до 5 синтезированных сундуков с валютой","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIconTier3",null],["Currency5","Содержит от 6 до 7 синтезированных сундуков с валютой","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIcon",null],["CurrencyHigh5","Содержит от 4 до 5 синтезированных сундуков с ценной валютой\r\nСодержит 2 синтезированных сундука с валютой","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIconTier2",null],["CurrencyEpic5","Содержит синтезированный сундук с очень ценной валютой\r\nСодержит от 5 до 6 синтезированных сундуков с валютой","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIconTier3",null],["Uniques","Содержит синтезированный сундук с уникальным предметом\r\nСодержиот от 1 до 2 синтезированных сундуков с расколотыми предметами","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/UniqueItemRewardIcon",null],["Uniques2","Содержит синтезированный сундук с уникальным предметом\r\nСодержиот от 2 до 3 синтезированных сундуков с расколотыми предметами","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/UniqueItemRewardIcon",null],["Uniques3","Содержит 2 синтезированных сундука с уникальным предметом\r\nСодержиот от 2 до 3 синтезированных сундуков с расколотыми предметами","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/UniqueItemRewardIcon",null],["Uniques4","Содержит 2 синтезированных сундука с уникальным предметом\r\nСодержит от 3 до 4 синтезированных сундуков с расколотыми предметами","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/UniqueItemRewardIcon",null],["Uniques5","Содержит 3 синтезированных сундука с уникальным предметом\r\nСодержит от 3 до 4 синтезированных сундуков с расколотыми предметами","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/UniqueItemRewardIcon",null],["UniquesHigh5","Содержит синтезированный сундук с ценным уникальным предметом\r\nСодержит от 3 до 4 синтезированных сундуков с уникальным предметом","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/UniqueItemRewardIconTier2",null],["FracturedItems3","Содержит от 2 до 3 синтезированных сундуков с ценными расколотыми предметами","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/FracturedItemRewardIconTier3",null],["Gems","Содержит от 1 до 2 синтезированных сундуков с камнями умений","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/SkillGemItemRewardIcon",null],["Gems2","Содержит от 2 до 3 синтезированных сундуков с камнями умений","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/SkillGemItemRewardIcon",null],["Gems3","Содержит от 3 до 4 синтезированных сундуков с камнями умений","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/SkillGemItemRewardIcon",null],["GemsHigh3","Содержит от 2 до 3 синтезированных сундуков с ценными камнями умений\r\nСодержит от 1 до 2 синтезированных сундуков камнями умений","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/SkillGemItemRewardIconTier2",null],["Maps","Содержит от 1 до 2 синтезированных сундуков с картами","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/MapItemRewardIcon",null],["Maps2","Содержит от 2 до 3 синтезированных сундуков с картами","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/MapItemRewardIcon",null],["Maps3","Содержит от 3 до 4 синтезированных сундуков с картами","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/MapItemRewardIcon",null],["Trinkets","Содержит от 1 до 2 синтезированных сундуков с бижутерией\r\nСодержит 1 синтезированный сундук с расколотой бижутерией","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",null],["Trinkets2","Содержит от 2 до 3 синтезированных сундуков с бижутерией\r\nСодержит 1 синтезированный сундук с расколотой бижутерией","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",null],["Trinkets3","Содержит от 3 до 4 синтезированных сундуков с бижутерией\r\nСодержит 1 синтезированный сундук с расколотой бижутерией","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",null],["TrinketsHigh3","Содержит от 2 до 3 синтезированных сундуков с ценной бижутерией\r\nСодержит 2 синтезированных сундука с расколотой бижутерией","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",null],["Trinkets4","Содержит от 4 до 5 синтезированных сундуков с бижутерией\r\nСодержит 1 синтезированный сундук с расколотой бижутерией","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",null],["TrinketsHigh4","Содержит 3 синтезированных сундука с ценной бижутерией\r\nСодержит 3 синтезированных сундука с расколотой бижутерией","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",null],["TrinketsEpic4","Содержит синтезированный сундук с очень ценной бижутерий\r\nСодержит от 4 до 5 синтезированных сундуков с расколотой бижутерией","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",null],["Trinkets5","Содержит от 4 до 5 синтезированных сундуков с бижутерией\r\nСодержит 2 синтезированных сундука с расколотой бижутерией","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",null],["TrinketsHigh5","Содержит от 3 до 4 синтезированных сундуков с ценной бижутерией\r\nСодержит 4 синтезированных сундука с расколотой бижутерией","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",null],["TrinketsEpic5","Содержит синтезированный сундук с очень ценной бижутерий\r\nСодержит от 5 до 6 синтезированных сундуков с расколотой бижутерией","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",null],["Abyss","Содержит от 2 до 3 синтезированных сундуков с предметами Бездны","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/AbyssItemRewardIcon",null],["Abyss2","Содержит от 3 до 4 синтезированных сундуков с предметами Бездны","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/AbyssItemRewardIcon",null],["AbyssHigh2","Содержит от 3 до 4 синтезированных сундуков с ценными предметами Бездны","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/AbyssItemRewardIconTier2",null],["Armour","Содержит от 1 до 2 синтезированных сундуков с доспехами\r\nСодержит 1 синтезированный сундук с расколотыми доспехами","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",null],["Armour2","Содержит от 2 до 3 синтезированных сундуков с доспехами\r\nСодержит 1 синтезированный сундук с расколотыми доспехами","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",null],["Armour3","Содержит от 3 до 4 синтезированных сундуков с доспехами\r\nСодержит 1 синтезированный сундук с расколотыми доспехами","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",null],["ArmourHigh3","Содержит от 2 до 3 синтезированных сундуков с ценными доспехами\r\nСодержит 2 синтезированных сундука с расколотыми доспехами","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",null],["Armour4","Содержит от 4 до 5 синтезированных сундуков с доспехами\r\nСодержит 1 синтезированный сундук с расколотыми доспехами","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",null],["ArmourHigh4","Содержит 3 синтезированных сундука с ценными доспехами\r\nСодержит 3 синтезированных сундука с расколотыми доспехами","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",null],["ArmourEpic4","Содержит синтезированный сундук с очень ценными доспехами\r\nСодержит 2 синтезированных сундука с расколотыми доспехами","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",null],["Armour5","Содержит от 4 до 5 синтезированных сундуков с доспехами\r\nСодержит 2 синтезированных сундука с расколотыми доспехами","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",null],["ArmourHigh5","Содержит от 3 до 4 синтезированных сундуков с ценными доспехами\r\nСодержит 4 синтезированных сундука с расколотыми доспехами","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",null],["ArmourEpic5","Содержит синтезированный сундук с очень ценными доспехами\r\nСодержит 3 синтезированных сундука с доспехами","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",null],["Weapons","Содержит от 1 до 2 синтезированных сундуков с оружием\r\nСодержит 1 синтезированный сундук с расколотым оружием","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",null],["Weapons2","Содержит от 2 до 3 синтезированных сундуков с оружием\r\nСодержит 1 синтезированный сундук с расколотым оружием","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",null],["Weapons3","Содержит от 3 до 4 синтезированных сундуков с оружием\r\nСодержит 1 синтезированный сундук с расколотым оружием","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",null],["WeaponsHigh3","Содержит от 2 до 3 синтезированных сундуков с ценным оружием\r\nСодержит 2 синтезированных сундука с расколотым оружием","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",null],["Weapons4","Содержит от 4 до 5 синтезированных сундуков с оружием\r\nСодержит 1 синтезированный сундук с расколотым оружием","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",null],["WeaponsHigh4","Содержит от 3 синтезированных сундука с ценным оружием\r\nСодержит 3 синтезированных сундука с расколотым оружием","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",null],["WeaponsEpic4","Содержит синтезированный сундук с очень ценным оружием\r\nСодержит 2 синтезированных сундука с расколотым оружием","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",null],["Weapons5","Содержит от 4 до 5 синтезированных сундуков с оружием\r\nСодержит 2 синтезированных сундука с расколотым оружием","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",null],["WeaponsHigh5","Содержит от 3 до 4 синтезированных сундуков с ценным оружием\r\nСодержит 4 синтезированных сундука с расколотым оружием","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",null],["WeaponsEpic5","Содержит синтезированный сундук с очень ценным оружием\r\nСодержит 3 синтезированных сундука с расколотым оружием","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",null],["Perandus","Содержит от 2 до 3 синтезированных сундуков с предметами Перандусов","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PerandusItemRewardIcon",null],["Perandus2","Содержит от 3 до 4 синтезированных сундуков с предметами Перандусов","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PerandusItemRewardIcon",null],["Perandus3","Содержит от 4 до 5 синтезированных сундуков с предметами Перандусов","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PerandusItemRewardIcon",null],["Perandus4","Содержит от 5 до 6 синтезированных сундуков с предметами Перандусов","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PerandusItemRewardIcon",null],["Harbinger","Содержит синтезированный сундук с ценными предметами Предвестника\r\nСодержит от 1 до 2 синтезированных сундуков с предметами Предвестника","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/HarbingerItemRewardIcon",null],["Harbinger2","Содержит синтезированный сундук с ценными предметами Предвестника\r\nСодержит от 2 до 3 синтезированных сундуков с предметами Предвестника","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/HarbingerItemRewardIcon",null],["Harbinger3","Содержит 2 синтезированных сундука с ценными предметами Предвестника\r\nСодержит от 2 до 3 синтезированных сундуков с предметами Предвестника","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/HarbingerItemRewardIcon",null],["Breach","Содержит синтезированный сундук с ценными предметами Разлома\r\nСодержит от 1 до 2 синтезированных сундуков с предметами Разлома","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/BreachItemRewardIcon",null],["Breach2","Содержит синтезированный сундук с ценными предметами Разлома\r\nСодержит от 2 до 3 синтезированных сундуков с предметами Разлома","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/BreachItemRewardIcon",null],["Breach3","Содержит 2 синтезированных сундука с ценными предметами Разлома\r\nСодержит от 2 до 3 синтезированных сундуков с предметами Разлома","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/BreachItemRewardIcon",null],["Essences","Содержит от 1 до 2 синтезированных сундуков с предметами Сущностей","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/EssencesItemRewardIcon",null],["Essences2","Содержит от 2 до 3 синтезированных сундуков с предметами Сущностей","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/EssencesItemRewardIcon",null],["Essences3","Содержит от 3 до 4 синтезированных сундуков с предметами Сущностей","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/EssencesItemRewardIcon",null],["EssencesHigh3","Содержит синтезированный сундук с ценными предметами Сущностей\r\nСодержит от 3 до 4 синтезированных сундуков с предметами Сущностей","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/EssencesItemRewardIconTier2",null],["Essences4","Содержит от 4 до 5 синтезированных сундуков с предметами Сущностей","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/EssencesItemRewardIcon",null],["EssencesHigh4","Содержит 2 синтезированных сундука с ценными предметами Сущностей\r\nСодержит от 3 до 4 синтезированных сундуков с предметами Сущностей","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/EssencesItemRewardIconTier2",null],["Fragments","Содержит от 1 до 2 синтезированных сундуков с фрагментами","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/FragmentsItemRewardIcon",null],["Fragments2","Содержит от 2 до 3 синтезированных сундуков с фрагментами","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/FragmentsItemRewardIcon",null],["Fragments3","Содержит от 3 до 4 синтезированных сундуков с фрагментами","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/FragmentsItemRewardIcon",null],["FragmentsHigh3","Содержит синтезированный сундук с ценными фрагментами\r\nСодержит от 2 до 3 синтезированных сундуков с фрагментами","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/FragmentsItemRewardIconTier2",null],["Scarabs","Содержит от 2 до 3 синтезированных сундуков со скарабеями","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ScarabItemRewardIcon",null],["Scarabs2","Содержит от 1 до 2 синтезированных сундуков с ценными скарабеями\r\nСодержит от 1 до 2 синтезированных сундуков со скарабеями","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ScarabItemRewardIconTier2",null],["Scarabs3","Содержит от 1 до 2 синтезированных сундуков с очень ценными скарабеями\r\nСодержит от 1 до 2 синтезированных сундуков с ценными скарабеями","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ScarabItemRewardIconTier3",null],["Fossils","Содержит от 2 до 3 синтезированных сундуков с ископаемыми","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/FossilItemRewardIcon",null],["Fossils2","Содержит от 1 до 2 синтезированных сундуков с ценными ископаемыми\r\nСодержит от 1 до 2 синтезированных сундуков с ископаемыми","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/FossilItemRewardIconTier2",null],["Fossils3","Содержит от 1 до 2 синтезированных сундуков с очень ценными ископаемыми\r\nСодержит от 1 до 2 синтезированных сундуков с ценными ископаемыми","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/FossilItemRewardIconTier3",null],["Prophecies","Содержит от 2 до 3 синтезированных сундуков с предметами Пророчества","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PropheciesItemRewardIcon",null],["Prophecies2","Содержит от 3 до 4 синтезированных сундуков с предметами Пророчества","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PropheciesItemRewardIcon",null],["Prophecies3","Содержит от 4 до 5 синтезированных сундуков с предметами Пророчества","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PropheciesItemRewardIcon",null],["PropheciesHigh3","Содержит синтезированный сундук с ценными предметами Пророчества\r\nСодержит от 3 до 4 синтезированных сундуков с предметами Пророчества","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PropheciesItemRewardIconTier2",null],["Prophecies4","Содержит от 5 до 6 синтезированных сундуков с предметами Пророчества","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PropheciesItemRewardIcon",null],["PropheciesHigh4","Содержит 2 синтезированных сундука с ценными предметами Пророчества\r\nСодержит от 3 до 4 синтезированных сундуков с предметами Пророчества","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PropheciesItemRewardIconTier2",null],["DivinationCards","Содержит от 1 до 2 синтезированных сундуков с гадальными картами","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/DivinationCardsItemRewardIcon",null],["DivinationCards2","Содержит от 2 до 3 синтезированных сундуков с гадальными картами","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/DivinationCardsItemRewardIcon",null],["DivinationCards3","Содержит от 3 до 4 синтезированных сундуков с гадальными картами","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/DivinationCardsItemRewardIcon",null],["DivinationCards4","Содержит от 4 до 5 синтезированных сундуков с гадальными картами","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/DivinationCardsItemRewardIcon",null],["Generic","Содержит от 3 до 4 синтезированных сундуков\r\nСодержит 1 синтезированный сундук с расколотыми предметами","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/GenericItemRewardIcon",null],["Generic2","Содержит от 4 до 5 синтезированных сундуков\r\nСодержит 1 синтезированный сундук с расколотыми предметами","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/GenericItemRewardIcon",null],["Generic3","Содержит от 5 до 6 синтезированных сундуков\r\nСодержит 2 синтезированных сундука с расколотыми предметами","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/GenericItemRewardIcon",null],["Generic4","Содержит от 6 до 8 синтезированных сундуков\r\nСодержит 2 синтезированных сундука с расколотыми предметами","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/GenericItemRewardIcon",null],["Generic5","Содержит от 6 до 8 синтезированных сундуков\r\nСодержит 3 синтезированных сундука с расколотыми предметами","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/GenericItemRewardIcon",null],["Talismans","Содержит от 1 до 2 синтезированных сундуков с предметами Талисманов","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TalismansItemRewardIcon",null],["Talismans2","Содержит от 2 до 3 синтезированных сундуков с предметами Талисманов","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TalismansItemRewardIcon",null],["Talismans3","Содержит от 3 до 4 синтезированных сундуков с предметами Талисманов","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TalismansItemRewardIcon",null],["Labyrinth","Содержит от 1 до 2 синтезированных сундуков с предметами Лабиринта","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/LabyrinthItemRewardIcon",null],["Labyrinth2","Содержит от 2 до 3 синтезированных сундуков с предметами Лабиринта","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/LabyrinthItemRewardIcon",null],["Labyrinth3","Содержит от 3 до 4 синтезированных сундуков с предметами Лабиринта","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/LabyrinthItemRewardIcon",null],["Labyrinth4","Содержит от 4 до 5 синтезированных сундуков с предметами Лабиринта","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/LabyrinthItemRewardIcon",null],["GlobalMod1","Содержит свойство памяти","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/GlobalModTier1",null],["GlobalMod2","Содержит несколько свойств памяти","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/GlobalModTier2",null]]}
+{
+  "filename": "SynthesisRewardTypes.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Description",
+      "rowid": 1,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "ArtFile",
+      "rowid": 2,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": true,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "AchievementItemsKey",
+      "rowid": 3,
+      "type": "ulong",
+      "key": "AchievementItems.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "Currency",
+      "Содержит от 2 до 3 синтезированных сундуков с валютой",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIcon",
+      null
+    ],
+    [
+      "Currency2",
+      "Содержит от 3 до 4 синтезированных сундуков с валютой",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIcon",
+      null
+    ],
+    [
+      "Currency3",
+      "Содержит от 4 до 5 синтезированных сундуков с валютой",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIcon",
+      null
+    ],
+    [
+      "CurrencyHigh3",
+      "Содержит от 2 до 3 синтезированных сундуков с ценной валютой\r\nСодержит 2 синтезированных сундука с валютой",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIconTier2",
+      null
+    ],
+    [
+      "Currency4",
+      "Содержит от 5 до 6 синтезированных сундуков с валютой",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIcon",
+      null
+    ],
+    [
+      "CurrencyHigh4",
+      "Содержит от 3 до 4 синтезированных сундуков с ценной валютой\r\nСодержит 2 синтезированных сундука с валютой",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIconTier2",
+      null
+    ],
+    [
+      "CurrencyEpic4",
+      "Содержит синтезированный сундук с очень ценной валютой\r\nСодержит от 4 до 5 синтезированных сундуков с валютой",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIconTier3",
+      null
+    ],
+    [
+      "Currency5",
+      "Содержит от 6 до 7 синтезированных сундуков с валютой",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIcon",
+      null
+    ],
+    [
+      "CurrencyHigh5",
+      "Содержит от 4 до 5 синтезированных сундуков с ценной валютой\r\nСодержит 2 синтезированных сундука с валютой",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIconTier2",
+      null
+    ],
+    [
+      "CurrencyEpic5",
+      "Содержит синтезированный сундук с очень ценной валютой\r\nСодержит от 5 до 6 синтезированных сундуков с валютой",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIconTier3",
+      null
+    ],
+    [
+      "Uniques",
+      "Содержит синтезированный сундук с уникальным предметом\r\nСодержиот от 1 до 2 синтезированных сундуков с расколотыми предметами",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/UniqueItemRewardIcon",
+      null
+    ],
+    [
+      "Uniques2",
+      "Содержит синтезированный сундук с уникальным предметом\r\nСодержиот от 2 до 3 синтезированных сундуков с расколотыми предметами",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/UniqueItemRewardIcon",
+      null
+    ],
+    [
+      "Uniques3",
+      "Содержит 2 синтезированных сундука с уникальным предметом\r\nСодержиот от 2 до 3 синтезированных сундуков с расколотыми предметами",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/UniqueItemRewardIcon",
+      null
+    ],
+    [
+      "Uniques4",
+      "Содержит 2 синтезированных сундука с уникальным предметом\r\nСодержит от 3 до 4 синтезированных сундуков с расколотыми предметами",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/UniqueItemRewardIcon",
+      null
+    ],
+    [
+      "Uniques5",
+      "Содержит 3 синтезированных сундука с уникальным предметом\r\nСодержит от 3 до 4 синтезированных сундуков с расколотыми предметами",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/UniqueItemRewardIcon",
+      null
+    ],
+    [
+      "UniquesHigh5",
+      "Содержит синтезированный сундук с ценным уникальным предметом\r\nСодержит от 3 до 4 синтезированных сундуков с уникальным предметом",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/UniqueItemRewardIconTier2",
+      null
+    ],
+    [
+      "FracturedItems3",
+      "Содержит от 2 до 3 синтезированных сундуков с ценными расколотыми предметами",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/FracturedItemRewardIconTier3",
+      null
+    ],
+    [
+      "Gems",
+      "Содержит от 1 до 2 синтезированных сундуков с камнями умений",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/SkillGemItemRewardIcon",
+      null
+    ],
+    [
+      "Gems2",
+      "Содержит от 2 до 3 синтезированных сундуков с камнями умений",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/SkillGemItemRewardIcon",
+      null
+    ],
+    [
+      "Gems3",
+      "Содержит от 3 до 4 синтезированных сундуков с камнями умений",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/SkillGemItemRewardIcon",
+      null
+    ],
+    [
+      "GemsHigh3",
+      "Содержит от 2 до 3 синтезированных сундуков с ценными камнями умений\r\nСодержит от 1 до 2 синтезированных сундуков камнями умений",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/SkillGemItemRewardIconTier2",
+      null
+    ],
+    [
+      "Maps",
+      "Содержит от 1 до 2 синтезированных сундуков с картами",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/MapItemRewardIcon",
+      null
+    ],
+    [
+      "Maps2",
+      "Содержит от 2 до 3 синтезированных сундуков с картами",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/MapItemRewardIcon",
+      null
+    ],
+    [
+      "Maps3",
+      "Содержит от 3 до 4 синтезированных сундуков с картами",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/MapItemRewardIcon",
+      null
+    ],
+    [
+      "Trinkets",
+      "Содержит от 1 до 2 синтезированных сундуков с бижутерией\r\nСодержит 1 синтезированный сундук с расколотой бижутерией",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",
+      null
+    ],
+    [
+      "Trinkets2",
+      "Содержит от 2 до 3 синтезированных сундуков с бижутерией\r\nСодержит 1 синтезированный сундук с расколотой бижутерией",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",
+      null
+    ],
+    [
+      "Trinkets3",
+      "Содержит от 3 до 4 синтезированных сундуков с бижутерией\r\nСодержит 1 синтезированный сундук с расколотой бижутерией",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",
+      null
+    ],
+    [
+      "TrinketsHigh3",
+      "Содержит от 2 до 3 синтезированных сундуков с ценной бижутерией\r\nСодержит 2 синтезированных сундука с расколотой бижутерией",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",
+      null
+    ],
+    [
+      "Trinkets4",
+      "Содержит от 4 до 5 синтезированных сундуков с бижутерией\r\nСодержит 1 синтезированный сундук с расколотой бижутерией",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",
+      null
+    ],
+    [
+      "TrinketsHigh4",
+      "Содержит 3 синтезированных сундука с ценной бижутерией\r\nСодержит 3 синтезированных сундука с расколотой бижутерией",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",
+      null
+    ],
+    [
+      "TrinketsEpic4",
+      "Содержит синтезированный сундук с очень ценной бижутерий\r\nСодержит от 4 до 5 синтезированных сундуков с расколотой бижутерией",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",
+      null
+    ],
+    [
+      "Trinkets5",
+      "Содержит от 4 до 5 синтезированных сундуков с бижутерией\r\nСодержит 2 синтезированных сундука с расколотой бижутерией",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",
+      null
+    ],
+    [
+      "TrinketsHigh5",
+      "Содержит от 3 до 4 синтезированных сундуков с ценной бижутерией\r\nСодержит 4 синтезированных сундука с расколотой бижутерией",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",
+      null
+    ],
+    [
+      "TrinketsEpic5",
+      "Содержит синтезированный сундук с очень ценной бижутерий\r\nСодержит от 5 до 6 синтезированных сундуков с расколотой бижутерией",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",
+      null
+    ],
+    [
+      "Abyss",
+      "Содержит от 2 до 3 синтезированных сундуков с предметами Бездны",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/AbyssItemRewardIcon",
+      null
+    ],
+    [
+      "Abyss2",
+      "Содержит от 3 до 4 синтезированных сундуков с предметами Бездны",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/AbyssItemRewardIcon",
+      null
+    ],
+    [
+      "AbyssHigh2",
+      "Содержит от 3 до 4 синтезированных сундуков с ценными предметами Бездны",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/AbyssItemRewardIconTier2",
+      null
+    ],
+    [
+      "Armour",
+      "Содержит от 1 до 2 синтезированных сундуков с доспехами\r\nСодержит 1 синтезированный сундук с расколотыми доспехами",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",
+      null
+    ],
+    [
+      "Armour2",
+      "Содержит от 2 до 3 синтезированных сундуков с доспехами\r\nСодержит 1 синтезированный сундук с расколотыми доспехами",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",
+      null
+    ],
+    [
+      "Armour3",
+      "Содержит от 3 до 4 синтезированных сундуков с доспехами\r\nСодержит 1 синтезированный сундук с расколотыми доспехами",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",
+      null
+    ],
+    [
+      "ArmourHigh3",
+      "Содержит от 2 до 3 синтезированных сундуков с ценными доспехами\r\nСодержит 2 синтезированных сундука с расколотыми доспехами",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",
+      null
+    ],
+    [
+      "Armour4",
+      "Содержит от 4 до 5 синтезированных сундуков с доспехами\r\nСодержит 1 синтезированный сундук с расколотыми доспехами",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",
+      null
+    ],
+    [
+      "ArmourHigh4",
+      "Содержит 3 синтезированных сундука с ценными доспехами\r\nСодержит 3 синтезированных сундука с расколотыми доспехами",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",
+      null
+    ],
+    [
+      "ArmourEpic4",
+      "Содержит синтезированный сундук с очень ценными доспехами\r\nСодержит 2 синтезированных сундука с расколотыми доспехами",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",
+      null
+    ],
+    [
+      "Armour5",
+      "Содержит от 4 до 5 синтезированных сундуков с доспехами\r\nСодержит 2 синтезированных сундука с расколотыми доспехами",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",
+      null
+    ],
+    [
+      "ArmourHigh5",
+      "Содержит от 3 до 4 синтезированных сундуков с ценными доспехами\r\nСодержит 4 синтезированных сундука с расколотыми доспехами",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",
+      null
+    ],
+    [
+      "ArmourEpic5",
+      "Содержит синтезированный сундук с очень ценными доспехами\r\nСодержит 3 синтезированных сундука с доспехами",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",
+      null
+    ],
+    [
+      "Weapons",
+      "Содержит от 1 до 2 синтезированных сундуков с оружием\r\nСодержит 1 синтезированный сундук с расколотым оружием",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",
+      null
+    ],
+    [
+      "Weapons2",
+      "Содержит от 2 до 3 синтезированных сундуков с оружием\r\nСодержит 1 синтезированный сундук с расколотым оружием",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",
+      null
+    ],
+    [
+      "Weapons3",
+      "Содержит от 3 до 4 синтезированных сундуков с оружием\r\nСодержит 1 синтезированный сундук с расколотым оружием",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",
+      null
+    ],
+    [
+      "WeaponsHigh3",
+      "Содержит от 2 до 3 синтезированных сундуков с ценным оружием\r\nСодержит 2 синтезированных сундука с расколотым оружием",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",
+      null
+    ],
+    [
+      "Weapons4",
+      "Содержит от 4 до 5 синтезированных сундуков с оружием\r\nСодержит 1 синтезированный сундук с расколотым оружием",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",
+      null
+    ],
+    [
+      "WeaponsHigh4",
+      "Содержит от 3 синтезированных сундука с ценным оружием\r\nСодержит 3 синтезированных сундука с расколотым оружием",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",
+      null
+    ],
+    [
+      "WeaponsEpic4",
+      "Содержит синтезированный сундук с очень ценным оружием\r\nСодержит 2 синтезированных сундука с расколотым оружием",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",
+      null
+    ],
+    [
+      "Weapons5",
+      "Содержит от 4 до 5 синтезированных сундуков с оружием\r\nСодержит 2 синтезированных сундука с расколотым оружием",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",
+      null
+    ],
+    [
+      "WeaponsHigh5",
+      "Содержит от 3 до 4 синтезированных сундуков с ценным оружием\r\nСодержит 4 синтезированных сундука с расколотым оружием",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",
+      null
+    ],
+    [
+      "WeaponsEpic5",
+      "Содержит синтезированный сундук с очень ценным оружием\r\nСодержит 3 синтезированных сундука с расколотым оружием",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",
+      null
+    ],
+    [
+      "Perandus",
+      "Содержит от 2 до 3 синтезированных сундуков с предметами Перандусов",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PerandusItemRewardIcon",
+      null
+    ],
+    [
+      "Perandus2",
+      "Содержит от 3 до 4 синтезированных сундуков с предметами Перандусов",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PerandusItemRewardIcon",
+      null
+    ],
+    [
+      "Perandus3",
+      "Содержит от 4 до 5 синтезированных сундуков с предметами Перандусов",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PerandusItemRewardIcon",
+      null
+    ],
+    [
+      "Perandus4",
+      "Содержит от 5 до 6 синтезированных сундуков с предметами Перандусов",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PerandusItemRewardIcon",
+      null
+    ],
+    [
+      "Harbinger",
+      "Содержит синтезированный сундук с ценными предметами Предвестника\r\nСодержит от 1 до 2 синтезированных сундуков с предметами Предвестника",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/HarbingerItemRewardIcon",
+      null
+    ],
+    [
+      "Harbinger2",
+      "Содержит синтезированный сундук с ценными предметами Предвестника\r\nСодержит от 2 до 3 синтезированных сундуков с предметами Предвестника",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/HarbingerItemRewardIcon",
+      null
+    ],
+    [
+      "Harbinger3",
+      "Содержит 2 синтезированных сундука с ценными предметами Предвестника\r\nСодержит от 2 до 3 синтезированных сундуков с предметами Предвестника",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/HarbingerItemRewardIcon",
+      null
+    ],
+    [
+      "Breach",
+      "Содержит синтезированный сундук с ценными предметами Разлома\r\nСодержит от 1 до 2 синтезированных сундуков с предметами Разлома",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/BreachItemRewardIcon",
+      null
+    ],
+    [
+      "Breach2",
+      "Содержит синтезированный сундук с ценными предметами Разлома\r\nСодержит от 2 до 3 синтезированных сундуков с предметами Разлома",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/BreachItemRewardIcon",
+      null
+    ],
+    [
+      "Breach3",
+      "Содержит 2 синтезированных сундука с ценными предметами Разлома\r\nСодержит от 2 до 3 синтезированных сундуков с предметами Разлома",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/BreachItemRewardIcon",
+      null
+    ],
+    [
+      "Essences",
+      "Содержит от 1 до 2 синтезированных сундуков с предметами Сущностей",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/EssencesItemRewardIcon",
+      null
+    ],
+    [
+      "Essences2",
+      "Содержит от 2 до 3 синтезированных сундуков с предметами Сущностей",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/EssencesItemRewardIcon",
+      null
+    ],
+    [
+      "Essences3",
+      "Содержит от 3 до 4 синтезированных сундуков с предметами Сущностей",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/EssencesItemRewardIcon",
+      null
+    ],
+    [
+      "EssencesHigh3",
+      "Содержит синтезированный сундук с ценными предметами Сущностей\r\nСодержит от 3 до 4 синтезированных сундуков с предметами Сущностей",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/EssencesItemRewardIconTier2",
+      null
+    ],
+    [
+      "Essences4",
+      "Содержит от 4 до 5 синтезированных сундуков с предметами Сущностей",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/EssencesItemRewardIcon",
+      null
+    ],
+    [
+      "EssencesHigh4",
+      "Содержит 2 синтезированных сундука с ценными предметами Сущностей\r\nСодержит от 3 до 4 синтезированных сундуков с предметами Сущностей",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/EssencesItemRewardIconTier2",
+      null
+    ],
+    [
+      "Fragments",
+      "Содержит от 1 до 2 синтезированных сундуков с фрагментами",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/FragmentsItemRewardIcon",
+      null
+    ],
+    [
+      "Fragments2",
+      "Содержит от 2 до 3 синтезированных сундуков с фрагментами",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/FragmentsItemRewardIcon",
+      null
+    ],
+    [
+      "Fragments3",
+      "Содержит от 3 до 4 синтезированных сундуков с фрагментами",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/FragmentsItemRewardIcon",
+      null
+    ],
+    [
+      "FragmentsHigh3",
+      "Содержит синтезированный сундук с ценными фрагментами\r\nСодержит от 2 до 3 синтезированных сундуков с фрагментами",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/FragmentsItemRewardIconTier2",
+      null
+    ],
+    [
+      "Scarabs",
+      "Содержит от 2 до 3 синтезированных сундуков со скарабеями",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ScarabItemRewardIcon",
+      null
+    ],
+    [
+      "Scarabs2",
+      "Содержит от 1 до 2 синтезированных сундуков с ценными скарабеями\r\nСодержит от 1 до 2 синтезированных сундуков со скарабеями",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ScarabItemRewardIconTier2",
+      null
+    ],
+    [
+      "Scarabs3",
+      "Содержит от 1 до 2 синтезированных сундуков с очень ценными скарабеями\r\nСодержит от 1 до 2 синтезированных сундуков с ценными скарабеями",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ScarabItemRewardIconTier3",
+      null
+    ],
+    [
+      "Fossils",
+      "Содержит от 2 до 3 синтезированных сундуков с ископаемыми",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/FossilItemRewardIcon",
+      null
+    ],
+    [
+      "Fossils2",
+      "Содержит от 1 до 2 синтезированных сундуков с ценными ископаемыми\r\nСодержит от 1 до 2 синтезированных сундуков с ископаемыми",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/FossilItemRewardIconTier2",
+      null
+    ],
+    [
+      "Fossils3",
+      "Содержит от 1 до 2 синтезированных сундуков с очень ценными ископаемыми\r\nСодержит от 1 до 2 синтезированных сундуков с ценными ископаемыми",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/FossilItemRewardIconTier3",
+      null
+    ],
+    [
+      "Prophecies",
+      "Содержит от 2 до 3 синтезированных сундуков с предметами Пророчества",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PropheciesItemRewardIcon",
+      null
+    ],
+    [
+      "Prophecies2",
+      "Содержит от 3 до 4 синтезированных сундуков с предметами Пророчества",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PropheciesItemRewardIcon",
+      null
+    ],
+    [
+      "Prophecies3",
+      "Содержит от 4 до 5 синтезированных сундуков с предметами Пророчества",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PropheciesItemRewardIcon",
+      null
+    ],
+    [
+      "PropheciesHigh3",
+      "Содержит синтезированный сундук с ценными предметами Пророчества\r\nСодержит от 3 до 4 синтезированных сундуков с предметами Пророчества",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PropheciesItemRewardIconTier2",
+      null
+    ],
+    [
+      "Prophecies4",
+      "Содержит от 5 до 6 синтезированных сундуков с предметами Пророчества",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PropheciesItemRewardIcon",
+      null
+    ],
+    [
+      "PropheciesHigh4",
+      "Содержит 2 синтезированных сундука с ценными предметами Пророчества\r\nСодержит от 3 до 4 синтезированных сундуков с предметами Пророчества",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PropheciesItemRewardIconTier2",
+      null
+    ],
+    [
+      "DivinationCards",
+      "Содержит от 1 до 2 синтезированных сундуков с гадальными картами",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/DivinationCardsItemRewardIcon",
+      null
+    ],
+    [
+      "DivinationCards2",
+      "Содержит от 2 до 3 синтезированных сундуков с гадальными картами",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/DivinationCardsItemRewardIcon",
+      null
+    ],
+    [
+      "DivinationCards3",
+      "Содержит от 3 до 4 синтезированных сундуков с гадальными картами",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/DivinationCardsItemRewardIcon",
+      null
+    ],
+    [
+      "DivinationCards4",
+      "Содержит от 4 до 5 синтезированных сундуков с гадальными картами",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/DivinationCardsItemRewardIcon",
+      null
+    ],
+    [
+      "Generic",
+      "Содержит от 3 до 4 синтезированных сундуков\r\nСодержит 1 синтезированный сундук с расколотыми предметами",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/GenericItemRewardIcon",
+      null
+    ],
+    [
+      "Generic2",
+      "Содержит от 4 до 5 синтезированных сундуков\r\nСодержит 1 синтезированный сундук с расколотыми предметами",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/GenericItemRewardIcon",
+      null
+    ],
+    [
+      "Generic3",
+      "Содержит от 5 до 6 синтезированных сундуков\r\nСодержит 2 синтезированных сундука с расколотыми предметами",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/GenericItemRewardIcon",
+      null
+    ],
+    [
+      "Generic4",
+      "Содержит от 6 до 8 синтезированных сундуков\r\nСодержит 2 синтезированных сундука с расколотыми предметами",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/GenericItemRewardIcon",
+      null
+    ],
+    [
+      "Generic5",
+      "Содержит от 6 до 8 синтезированных сундуков\r\nСодержит 3 синтезированных сундука с расколотыми предметами",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/GenericItemRewardIcon",
+      null
+    ],
+    [
+      "Talismans",
+      "Содержит от 1 до 2 синтезированных сундуков с предметами Талисманов",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TalismansItemRewardIcon",
+      null
+    ],
+    [
+      "Talismans2",
+      "Содержит от 2 до 3 синтезированных сундуков с предметами Талисманов",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TalismansItemRewardIcon",
+      null
+    ],
+    [
+      "Talismans3",
+      "Содержит от 3 до 4 синтезированных сундуков с предметами Талисманов",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TalismansItemRewardIcon",
+      null
+    ],
+    [
+      "Labyrinth",
+      "Содержит от 1 до 2 синтезированных сундуков с предметами Лабиринта",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/LabyrinthItemRewardIcon",
+      null
+    ],
+    [
+      "Labyrinth2",
+      "Содержит от 2 до 3 синтезированных сундуков с предметами Лабиринта",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/LabyrinthItemRewardIcon",
+      null
+    ],
+    [
+      "Labyrinth3",
+      "Содержит от 3 до 4 синтезированных сундуков с предметами Лабиринта",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/LabyrinthItemRewardIcon",
+      null
+    ],
+    [
+      "Labyrinth4",
+      "Содержит от 4 до 5 синтезированных сундуков с предметами Лабиринта",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/LabyrinthItemRewardIcon",
+      null
+    ],
+    [
+      "GlobalMod1",
+      "Содержит свойство памяти",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/GlobalModTier1",
+      null
+    ],
+    [
+      "GlobalMod2",
+      "Содержит несколько свойств памяти",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/GlobalModTier2",
+      null
+    ]
+  ]
+}

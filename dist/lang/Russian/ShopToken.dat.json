@@ -1,1 +1,1132 @@
-{"filename":"ShopToken.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"TypeId","rowid":1,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Description","rowid":2,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["ClosedBetaKey","Digital","Ключ к закрытой бете"],["3ClosedBetaKeys","Digital","3 ключа к закрытой бете"],["5ClosedBetaKeys","Digital","5 ключей к закрытой бете"],["SupporterForum","Badge","Форумный титул Спонсора"],["BronzeForum","Badge","Форумный титул Бронзового Спонсора"],["SilverForum","Badge","Форумный титул Серебряного Спонсора"],["GoldForum","Badge","Форумный титул Золотого Спонсора"],["DiamondForum","Badge","Форумный титул Бриллиантового Спонсора"],["OriginalExtendedSoundtrack","Digital","Расширенный цифровой саундтрек"],["PhysicalWraeclastPoster","PhysicalItem","Постер с картой Рэкласта"],["PhysicalDVD","PhysicalItem","Path of Exile DVD"],["PhysicalCD","PhysicalItem","Диск с саундтреком"],["PhysicalOriginalShirt","PhysicalItem","Футболка Path of Exile"],["PhysicalItemsSigned","PhysicalItem","Подписи на всех отправляемых товарах"],["NameInCredits","Digital","Ваше имя в титрах Path of Exile"],["CustomAvatar","Digital","Созданный индивидуально для вас форумный аватар"],["UniqueItem","Digital","Вместе с нами создайте уникальный предмет на основе вашего дизайна!"],["OpenBetaForum","Badge","Форумный титул Спонсора Открытой Беты"],["RegalForum","Badge","Форумный титул Царя"],["DivineForum","Badge","Форумный титул Божественного Спонсора"],["ExaltedForum","Badge","Форумный титул Возвышенного Спонсора"],["EternalForum","Badge","Форумный титул Вечного Спонсора"],["RulerOfWraeclastForum","Badge","Форумный титул Властителя Рэкласта"],["OBTshirt","PhysicalItem","Футболка с логотипом Path of Exile или Табула раса"],["ChaosOrbKeyChain","PhysicalItem","Брелок для ключей в виде сферы хаоса"],["OBStickers","PhysicalItem","2 наклейки Path of Exile"],["PhysicalWraeclastPosterSigned","PhysicalItem","Второй индивидуально подписанный постер с древом умений!"],["UniqueMonster","Digital","Создайте собственного монстра!"],["UniqueMonsterPhysical","PhysicalItem","Получите статуэтку вашего монстра"],["UniqueMonsterPetCodes","Digital","Получите 10 кодов на вашего монстра в виде игрового питомца"],["SurvivorForum","Badge","Форумный титул Выжившего"],["WarriorForum","Badge","Форумный титул Воина"],["ChampionForum","Badge","Форумный титул Чемпиона"],["ConquerorForum","Badge","Форумный титул Завоевателя"],["ExaltedTShirtHoodie","PhysicalItem","Футболка и толстовка Path of Exile со сферой возвышения"],["ApprenticeForum","Badge","Форумный титул Ученика"],["JourneymanForum","Badge","Форумный титул Подмастерья"],["MasterForum","Badge","Форумный титул Мастера"],["GrandmasterForum","Badge","Форумный титул Великого Мастера"],["ForsakenMastersSignedArt","PhysicalItem","Отправка вам подписанного концепт-арта"],["AwakeningForum","Badge","Форумный титул Пробуждения"],["AxiomForum","Badge","Форумный титул Аксиомы"],["VaalForum","Badge","Форумный титул Ваал"],["LunarisForum","Badge","Форумный титул Лунарис"],["HighgateForum","Badge","Форумный титул Макед"],["AwakeningTShirt","PhysicalItem","Футболка Пробуждения"],["PhysicalGraphicNovel","PhysicalItem","Распечатанная графическая новелла"],["DesignDivinationCard","Digital","Создание гадальной карты"],["DivinationCardAvatar","Digital","Использование рисунка карты в качестве форумного аватара"],["AspirantForum","Badge","Форумный титул Бойца"],["ChallengerForum","Badge","Форумный титул Претендента"],["SovereignForum","Badge","Форумный титул Завоевателя"],["AscendantForum","Badge","Форумный титул Вознесшегося"],["AscendancyTShirt","PhysicalItem","Футболка Восхождения"],["AscendancyPhysicalArt","PhysicalItem","Артбук \"The Art of Ascendancy\""],["AscendancySignedPhysicalArt","PhysicalItem","Артбук \"The Art of Ascendancy\" (подписанный)"],["Comic1","Digital","Путь каруи"],["Comic2","Digital","Сыны добродетели"],["Comic3","Digital","Смерть Греху"],["Comic4","Digital","Чёрное сердце"],["ProphecyForum","Badge","Форумный титул Пророчества"],["MinotaurForum","Badge","Форумный титул Минотавра"],["HydraForum","Badge","Форумный титул Гидры"],["ChimeraForum","Badge","Форумный титул Химеры"],["PhoenixForum","Badge","Форумный титул Феникса"],["AtlasTShirt","PhysicalItem","Футболка Атлас миров"],["ClothAtlasMap","PhysicalItem","Тканевый Атлас миров"],["SignedClothAtlasMap","PhysicalItem","Тканевый Атлас миров с подписью разработчиков"],["BreachspawnForum","Badge","Форумный титул Порождения Разлома"],["BreachlordForum","Badge","Форумный титул Повелителя Разлома"],["ClassicForum","Badge","Классический форумный титул"],["LegacyForum","Badge","Форумный титул Наследия"],["OriathTShirt","PhysicalItem","Футболка Падение Ориата"],["PantheonTShirt","PhysicalItem","Премиум футболка Пантеон"],["PurchaseDivinationCard","Digital","Доступ к покупке гадальной карты за $620"],["OriathBetaKey","Grantable","Ключ в закрытую бету Падения Ориата"],["OriathForum","Badge","Форумный титул Ориата"],["OutlawForum","Badge","Форумный титул Изгоя"],["LegionForum","Badge","Форумный титул Легиона"],["EclipseForum","Badge","Форумный титул Затмения"],["BeastForum","Badge","Форумный титул Зверя"],["KitavaForum","Badge","Форумный титул Китавы"],["OriathArt","PhysicalItem","Артбук \"The Art of Path of Exile\" (отправка в октябре)"],["OriathBetaAccess","Grantable","Доступ в бету Падения Ориата"],["PortentForum","Badge","Форумный титул Знамения"],["HarbingerForum","Badge","Форумный титул Предвестника"],["VagabondForum","Badge","Форумный титул Скитальца"],["SeekerForum","Badge","Форумный титул Искателя"],["ScholarForum","Badge","Форумный титул Учёного"],["RedeemerForum","Badge","Форумный титул Избавителя"],["SubjugatorForum","Badge","Форумный титул Покорителя"],["DominatorForum","Badge","Форумный титул Правителя"],["WarForTheAtlasTShirt","PhysicalItem","Футболка Война за Атлас"],["AtlasIIClothMap","PhysicalItem","Атлас из микрофибры (без подписей)"],["SignedAtlasIIClothMap","PhysicalItem","Атлас из микрофибры (с подписями 10 разработчиков)"],["AbyssalImpForum","Badge","Форумный титул Исчадия Бездны"],["AbyssalLichForum","Badge","Форумный титул Лича Бездны"],["HarpyForum","Badge","Форумный титул Гарпии"],["AlphaHarpyForum","Badge","Форумный титул Альфа-гарпии"],["ManticoreForum","Badge","Форумный титул Мантикоры"],["AlphaManticoreForum","Badge","Форумный титул Альфа-мантикоры"],["ConquestForum","Badge","Форумный титул Конкистадора"],["GrandConquestForum","Badge","Форумный титул Великого конкистадора"],["CouncilForum","Badge","Форумный титул Совета"],["HighCouncilForum","Badge","Форумный титул Верховного совета"],["DelveStalkerForum","Badge","Форумный титул Ловца"],["DelveShadowstalkerForum","Badge","Форумный титул Ловца теней"],["DelveForgeForum","Badge","Форумный титул Горна"],["DelveDreadforgeForum","Badge","Форумный титул Горна ужаса"],["BetrayalSoulstealerForum","Badge","Форумный титул Похитителя душ"],["BetrayalMasterSoulstealerForum","Badge","Форумный титул Мастера Похитителя душ"],["BetrayalUndertakerForum","Badge","Форумный титул Гробовщика"],["BetrayalMasterUndertakerForum","Badge","Форумный титул Мастера Гробовщика"],["CorePitfighterForum","Badge","Форумный титул Бойца арены"],["CoreAssassinForum","Badge","Форумный титул Убийцы"],["CoreVanguardForum","Badge","Форумный титул Авангарда"],["CoreEmpyreanForum","Badge","Форумный титул Эмпирея"],["CoreCrucibleForum","Badge","Форумный титул Тигля"],["CoreTShirt","PhysicalItem","Футболка с логотипом Path of Exile"],["CoreHoodie","PhysicalItem","Толстовка с капюшоном Path of Exile"],["CoreArt","PhysicalItem","Набор подписанных постеров Path of Exile"],["ExileconTicket","Digital","Доступ на ExileCon"],["SynthesisSunstoneForum","Badge","Форумный титул Солнечного камня"],["SynthesisSunspireForum","Badge","Форумный титул Солнечного шпиля"],["SynthesisDoomcrowForum","Badge","Форумный титул Ворона Рока"],["SynthesisDoomguardForum","Badge","Форумный титул Стража Рока"],["ExileconVIP","Digital","VIP-пропуск на ExileCon"],["ExileconUltraVI","Digital","Ультра VIP на ExileCon"],["LegionCultofDarknessForum","Badge","Форумный титул Культа Тьмы"],["LegionCultofApocalypseForum","Badge","Форумный титул Культа Апокалипсиса"],["LegionBloodKnightForum","Badge","Форумный титул Рыцаря крови"],["LegionBloodGuardianForum","Badge","Форумный титул Стража крови"],["ExileconRegularTicket","Digital","Билет на ExileCon"],["ExileconBalconyTicket","Digital","Балконный билет на ExileCon"],["ExileconStaffBalconyTicket","Digital","Балконный билет на ExileCon для персонала"],["ExileconStaffRegularTicket","Digital","Билет на ExileCon для персонала"],["ExileconStaffVIPTicket","Digital","VIP-билет на ExileCon для персонала"],["ExileconStaffUltraVIPTicket","Digital","Ultra VIP-билет на ExileCon для персонала"],["ExileconMediaBalconyTicket","Digital","Балконный билет на ExileCon для СМИ"],["ExileconMediaRegularTicket","Digital","Билет на ExileCon для СМИ"],["ExileconMediaVIPTicket","Digital","VIP-билет на ExileCon для СМИ"],["ExileconMediaUltraVIPTicket","Digital","Ultra VIP-билет на ExileCon для СМИ"],["BlightLichForum","Badge","Форумный титул Лича"],["BlightBaneLichForum","Badge","Форумный титул Проклятого лича"],["BlightSentinelForum","Badge","Форумный титул Стража"],["BlightSentinelOverlordForum","Badge","Форумный титул Стража-смотрителя"],["TencentChiyou","Badge","Chiyou Forum Title"],["MetamorphosisDamnationForum","Badge","Форумный титул Проклятия"],["MetamorphosisEternalDamnationForum","Badge","Форумный титул Вечного Проклятия"],["MetamorphosisSanctumForum","Badge","Форумный титул Святилища"],["MetamorphosisGrandSanctumForum","Badge","Форумный титул Великого святилища"],["CoreBasiliskForum","Badge","Форумный титул Василиска"],["CoreCrusaderForum","Badge","Форумный титул Крестоносца"],["CoreEyrieForum","Badge","Форумный титул Орлиного гнезда"],["CoreJudicatorForum","Badge","Форумный титул Вершителя"],["CoreOrionForum","Badge","Форумный титул Ориона"],["CoreLabyrinthBook","PhysicalItem","Книга-игра \"Лабиринт Правителя\""],["TencentDarkDeicide","Badge","Форумный титул тёмного Богоубийцы"],["Core2020Art","PhysicalItem","Набор подписанных постеров Path of Exile"],["AtlasIIIClothMap","PhysicalItem","Тканевый Атлас миров"],["DeliriumDarkseerForum","Badge","Форумный титул Видящего тьму"],["DeliriumElderDarkseerForum","Badge","Форумный титул Древнего Видящего тьму"],["DeliriumFateweaverForum","Badge","Форумный титул Прядильщика судьбы"],["DeliriumEliteFateweaverForum","Badge","Форумный титул Высшего Прядильщика судьбы"],["MerchandiseToken","PhysicalItem","Наличные товары"],["SolarisLunarisStatueToken","PhysicalItem","Статуэтка Солярис и Лунарис"],["ExileConMysteryPackToken","PhysicalItem","Загадочный набор товаров ExileCon"],["TencentGoddess","Badge","Goddess Forum Title"],["HarvestMalice","Badge","Форумный титул Злобы"],["HarvestInsatiableMalice","Badge","Форумный титул Ненасытной злобы"],["HarvestBenevolence","Badge","Форумный титул Благоволения"],["HarvestDivineBenevolence","Badge","Форумный титул Божественного Благоволения"],["HeistSpellblade","Badge","Форумный титул Колдовского клинка"],["HeistMasterSpellblade","Badge","Форумный титул Мастера колдовского клинка"],["HeistEagle","Badge","Форумный титул Орла"],["HeistImperialEagle","Badge","Форумный титул Императорского орла"],["RitualRenegade","Badge","Форумный титул Отступника"],["RitualDeadlyRenegade","Badge","Форумный титул Смертоносного отступника"],["RitualFaithsworn","Badge","Форумный титул Веропоклонника"],["RitualEliteFaithsworn","Badge","Форумный титул Элитного веропоклонника"],["Core2021DelveForum","Badge","Форумный титул Спуска"],["Core2021BreachForum","Badge","Форумный титул Разлома"],["Core2021AbyssForum","Badge","Форумный титул Бездны"],["Core2021HarvestForum","Badge","Форумный титул Жатвы"],["Core2021AtlasForum","Badge","Форумный титул Атласа"],["Core2021ShirtSelect","PhysicalItemSelect","Футболка со сферой возвышения или логотипом Path of Exile"],["Core2021HoodieSelect","PhysicalItemSelect","Толстовка с капюшоном со сферой возвышения или логотипом Path of Exile"],["Core2021Art","PhysicalItem","Набор подписанных постеров Path of Exile"],["Core2021ShirtOptionCore2021S","PhysicalItemOption","Футболка со сферой возвышения S"],["Core2021ShirtOptionCore2021M","PhysicalItemOption","Футболка со сферой возвышения M"],["Core2021ShirtOptionCore2021L","PhysicalItemOption","Футболка со сферой возвышения L"],["Core2021ShirtOptionCore2021XL","PhysicalItemOption","Футболка со сферой возвышения XL"],["Core2021ShirtOptionCore2021XXL","PhysicalItemOption","Футболка со сферой возвышения XXL"],["Core2021ShirtOptionCore20213XL","PhysicalItemOption","Футболка со сферой возвышения 3XL"],["Core2021ShirtOptionCore20214XL","PhysicalItemOption","Футболка со сферой возвышения 4XL"],["Core2021ShirtOptionCore2018S","PhysicalItemOption","Футболка с логотипом Path of Exile S"],["Core2021ShirtOptionCore2018M","PhysicalItemOption","Футболка с логотипом Path of Exile M"],["Core2021ShirtOptionCore2018L","PhysicalItemOption","Футболка с логотипом Path of Exile L"],["Core2021ShirtOptionCore2018XL","PhysicalItemOption","Футболка с логотипом Path of Exile XL"],["Core2021ShirtOptionCore2018XXL","PhysicalItemOption","Футболка с логотипом Path of Exile XXL"],["Core2021ShirtOptionCore20183XL","PhysicalItemOption","Футболка с логотипом Path of Exile 3XL"],["Core2021ShirtOptionCore20184XL","PhysicalItemOption","Футболка с логотипом Path of Exile 4XL"],["Core2021HoodieOptionCore2021S","PhysicalItemOption","Толстовка с капюшоном со сферой возвышения S"],["Core2021HoodieOptionCore2021M","PhysicalItemOption","Толстовка с капюшоном со сферой возвышения M"],["Core2021HoodieOptionCore2021L","PhysicalItemOption","Толстовка с капюшоном со сферой возвышения L"],["Core2021HoodieOptionCore2021XL","PhysicalItemOption","Толстовка с капюшоном со сферой возвышения XL"],["Core2021HoodieOptionCore2021XXL","PhysicalItemOption","Толстовка с капюшоном со сферой возвышения XXL"],["Core2021HoodieOptionCore20213XL","PhysicalItemOption","Толстовка с капюшоном со сферой возвышения 3XL"],["Core2021HoodieOptionCore20214XL","PhysicalItemOption","Толстовка с капюшоном со сферой возвышения 4XL"],["Core2021HoodieOptionCore2018S","PhysicalItemOption","Толстовка с логотипом Path of Exile S"],["Core2021HoodieOptionCore2018M","PhysicalItemOption","Толстовка с логотипом Path of Exile M"],["Core2021HoodieOptionCore2018L","PhysicalItemOption","Толстовка с логотипом Path of Exile L"],["Core2021HoodieOptionCore2018XL","PhysicalItemOption","Толстовка с логотипом Path of Exile XL"],["Core2021HoodieOptionCore2018XXL","PhysicalItemOption","Толстовка с логотипом Path of Exile XXL"],["Core2021HoodieOptionCore20183XL","PhysicalItemOption","Толстовка с логотипом Path of Exile 3XL"],["Core2021HoodieOptionCore20184XL","PhysicalItemOption","Толстовка с логотипом Path of Exile 4XL"]]}
+{
+  "filename": "ShopToken.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "TypeId",
+      "rowid": 1,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Description",
+      "rowid": 2,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "ClosedBetaKey",
+      "Digital",
+      "Ключ к закрытой бете"
+    ],
+    [
+      "3ClosedBetaKeys",
+      "Digital",
+      "3 ключа к закрытой бете"
+    ],
+    [
+      "5ClosedBetaKeys",
+      "Digital",
+      "5 ключей к закрытой бете"
+    ],
+    [
+      "SupporterForum",
+      "Badge",
+      "Форумный титул Спонсора"
+    ],
+    [
+      "BronzeForum",
+      "Badge",
+      "Форумный титул Бронзового Спонсора"
+    ],
+    [
+      "SilverForum",
+      "Badge",
+      "Форумный титул Серебряного Спонсора"
+    ],
+    [
+      "GoldForum",
+      "Badge",
+      "Форумный титул Золотого Спонсора"
+    ],
+    [
+      "DiamondForum",
+      "Badge",
+      "Форумный титул Бриллиантового Спонсора"
+    ],
+    [
+      "OriginalExtendedSoundtrack",
+      "Digital",
+      "Расширенный цифровой саундтрек"
+    ],
+    [
+      "PhysicalWraeclastPoster",
+      "PhysicalItem",
+      "Постер с картой Рэкласта"
+    ],
+    [
+      "PhysicalDVD",
+      "PhysicalItem",
+      "Path of Exile DVD"
+    ],
+    [
+      "PhysicalCD",
+      "PhysicalItem",
+      "Диск с саундтреком"
+    ],
+    [
+      "PhysicalOriginalShirt",
+      "PhysicalItem",
+      "Футболка Path of Exile"
+    ],
+    [
+      "PhysicalItemsSigned",
+      "PhysicalItem",
+      "Подписи на всех отправляемых товарах"
+    ],
+    [
+      "NameInCredits",
+      "Digital",
+      "Ваше имя в титрах Path of Exile"
+    ],
+    [
+      "CustomAvatar",
+      "Digital",
+      "Созданный индивидуально для вас форумный аватар"
+    ],
+    [
+      "UniqueItem",
+      "Digital",
+      "Вместе с нами создайте уникальный предмет на основе вашего дизайна!"
+    ],
+    [
+      "OpenBetaForum",
+      "Badge",
+      "Форумный титул Спонсора Открытой Беты"
+    ],
+    [
+      "RegalForum",
+      "Badge",
+      "Форумный титул Царя"
+    ],
+    [
+      "DivineForum",
+      "Badge",
+      "Форумный титул Божественного Спонсора"
+    ],
+    [
+      "ExaltedForum",
+      "Badge",
+      "Форумный титул Возвышенного Спонсора"
+    ],
+    [
+      "EternalForum",
+      "Badge",
+      "Форумный титул Вечного Спонсора"
+    ],
+    [
+      "RulerOfWraeclastForum",
+      "Badge",
+      "Форумный титул Властителя Рэкласта"
+    ],
+    [
+      "OBTshirt",
+      "PhysicalItem",
+      "Футболка с логотипом Path of Exile или Табула раса"
+    ],
+    [
+      "ChaosOrbKeyChain",
+      "PhysicalItem",
+      "Брелок для ключей в виде сферы хаоса"
+    ],
+    [
+      "OBStickers",
+      "PhysicalItem",
+      "2 наклейки Path of Exile"
+    ],
+    [
+      "PhysicalWraeclastPosterSigned",
+      "PhysicalItem",
+      "Второй индивидуально подписанный постер с древом умений!"
+    ],
+    [
+      "UniqueMonster",
+      "Digital",
+      "Создайте собственного монстра!"
+    ],
+    [
+      "UniqueMonsterPhysical",
+      "PhysicalItem",
+      "Получите статуэтку вашего монстра"
+    ],
+    [
+      "UniqueMonsterPetCodes",
+      "Digital",
+      "Получите 10 кодов на вашего монстра в виде игрового питомца"
+    ],
+    [
+      "SurvivorForum",
+      "Badge",
+      "Форумный титул Выжившего"
+    ],
+    [
+      "WarriorForum",
+      "Badge",
+      "Форумный титул Воина"
+    ],
+    [
+      "ChampionForum",
+      "Badge",
+      "Форумный титул Чемпиона"
+    ],
+    [
+      "ConquerorForum",
+      "Badge",
+      "Форумный титул Завоевателя"
+    ],
+    [
+      "ExaltedTShirtHoodie",
+      "PhysicalItem",
+      "Футболка и толстовка Path of Exile со сферой возвышения"
+    ],
+    [
+      "ApprenticeForum",
+      "Badge",
+      "Форумный титул Ученика"
+    ],
+    [
+      "JourneymanForum",
+      "Badge",
+      "Форумный титул Подмастерья"
+    ],
+    [
+      "MasterForum",
+      "Badge",
+      "Форумный титул Мастера"
+    ],
+    [
+      "GrandmasterForum",
+      "Badge",
+      "Форумный титул Великого Мастера"
+    ],
+    [
+      "ForsakenMastersSignedArt",
+      "PhysicalItem",
+      "Отправка вам подписанного концепт-арта"
+    ],
+    [
+      "AwakeningForum",
+      "Badge",
+      "Форумный титул Пробуждения"
+    ],
+    [
+      "AxiomForum",
+      "Badge",
+      "Форумный титул Аксиомы"
+    ],
+    [
+      "VaalForum",
+      "Badge",
+      "Форумный титул Ваал"
+    ],
+    [
+      "LunarisForum",
+      "Badge",
+      "Форумный титул Лунарис"
+    ],
+    [
+      "HighgateForum",
+      "Badge",
+      "Форумный титул Макед"
+    ],
+    [
+      "AwakeningTShirt",
+      "PhysicalItem",
+      "Футболка Пробуждения"
+    ],
+    [
+      "PhysicalGraphicNovel",
+      "PhysicalItem",
+      "Распечатанная графическая новелла"
+    ],
+    [
+      "DesignDivinationCard",
+      "Digital",
+      "Создание гадальной карты"
+    ],
+    [
+      "DivinationCardAvatar",
+      "Digital",
+      "Использование рисунка карты в качестве форумного аватара"
+    ],
+    [
+      "AspirantForum",
+      "Badge",
+      "Форумный титул Бойца"
+    ],
+    [
+      "ChallengerForum",
+      "Badge",
+      "Форумный титул Претендента"
+    ],
+    [
+      "SovereignForum",
+      "Badge",
+      "Форумный титул Завоевателя"
+    ],
+    [
+      "AscendantForum",
+      "Badge",
+      "Форумный титул Вознесшегося"
+    ],
+    [
+      "AscendancyTShirt",
+      "PhysicalItem",
+      "Футболка Восхождения"
+    ],
+    [
+      "AscendancyPhysicalArt",
+      "PhysicalItem",
+      "Артбук \"The Art of Ascendancy\""
+    ],
+    [
+      "AscendancySignedPhysicalArt",
+      "PhysicalItem",
+      "Артбук \"The Art of Ascendancy\" (подписанный)"
+    ],
+    [
+      "Comic1",
+      "Digital",
+      "Путь каруи"
+    ],
+    [
+      "Comic2",
+      "Digital",
+      "Сыны добродетели"
+    ],
+    [
+      "Comic3",
+      "Digital",
+      "Смерть Греху"
+    ],
+    [
+      "Comic4",
+      "Digital",
+      "Чёрное сердце"
+    ],
+    [
+      "ProphecyForum",
+      "Badge",
+      "Форумный титул Пророчества"
+    ],
+    [
+      "MinotaurForum",
+      "Badge",
+      "Форумный титул Минотавра"
+    ],
+    [
+      "HydraForum",
+      "Badge",
+      "Форумный титул Гидры"
+    ],
+    [
+      "ChimeraForum",
+      "Badge",
+      "Форумный титул Химеры"
+    ],
+    [
+      "PhoenixForum",
+      "Badge",
+      "Форумный титул Феникса"
+    ],
+    [
+      "AtlasTShirt",
+      "PhysicalItem",
+      "Футболка Атлас миров"
+    ],
+    [
+      "ClothAtlasMap",
+      "PhysicalItem",
+      "Тканевый Атлас миров"
+    ],
+    [
+      "SignedClothAtlasMap",
+      "PhysicalItem",
+      "Тканевый Атлас миров с подписью разработчиков"
+    ],
+    [
+      "BreachspawnForum",
+      "Badge",
+      "Форумный титул Порождения Разлома"
+    ],
+    [
+      "BreachlordForum",
+      "Badge",
+      "Форумный титул Повелителя Разлома"
+    ],
+    [
+      "ClassicForum",
+      "Badge",
+      "Классический форумный титул"
+    ],
+    [
+      "LegacyForum",
+      "Badge",
+      "Форумный титул Наследия"
+    ],
+    [
+      "OriathTShirt",
+      "PhysicalItem",
+      "Футболка Падение Ориата"
+    ],
+    [
+      "PantheonTShirt",
+      "PhysicalItem",
+      "Премиум футболка Пантеон"
+    ],
+    [
+      "PurchaseDivinationCard",
+      "Digital",
+      "Доступ к покупке гадальной карты за $620"
+    ],
+    [
+      "OriathBetaKey",
+      "Grantable",
+      "Ключ в закрытую бету Падения Ориата"
+    ],
+    [
+      "OriathForum",
+      "Badge",
+      "Форумный титул Ориата"
+    ],
+    [
+      "OutlawForum",
+      "Badge",
+      "Форумный титул Изгоя"
+    ],
+    [
+      "LegionForum",
+      "Badge",
+      "Форумный титул Легиона"
+    ],
+    [
+      "EclipseForum",
+      "Badge",
+      "Форумный титул Затмения"
+    ],
+    [
+      "BeastForum",
+      "Badge",
+      "Форумный титул Зверя"
+    ],
+    [
+      "KitavaForum",
+      "Badge",
+      "Форумный титул Китавы"
+    ],
+    [
+      "OriathArt",
+      "PhysicalItem",
+      "Артбук \"The Art of Path of Exile\" (отправка в октябре)"
+    ],
+    [
+      "OriathBetaAccess",
+      "Grantable",
+      "Доступ в бету Падения Ориата"
+    ],
+    [
+      "PortentForum",
+      "Badge",
+      "Форумный титул Знамения"
+    ],
+    [
+      "HarbingerForum",
+      "Badge",
+      "Форумный титул Предвестника"
+    ],
+    [
+      "VagabondForum",
+      "Badge",
+      "Форумный титул Скитальца"
+    ],
+    [
+      "SeekerForum",
+      "Badge",
+      "Форумный титул Искателя"
+    ],
+    [
+      "ScholarForum",
+      "Badge",
+      "Форумный титул Учёного"
+    ],
+    [
+      "RedeemerForum",
+      "Badge",
+      "Форумный титул Избавителя"
+    ],
+    [
+      "SubjugatorForum",
+      "Badge",
+      "Форумный титул Покорителя"
+    ],
+    [
+      "DominatorForum",
+      "Badge",
+      "Форумный титул Правителя"
+    ],
+    [
+      "WarForTheAtlasTShirt",
+      "PhysicalItem",
+      "Футболка Война за Атлас"
+    ],
+    [
+      "AtlasIIClothMap",
+      "PhysicalItem",
+      "Атлас из микрофибры (без подписей)"
+    ],
+    [
+      "SignedAtlasIIClothMap",
+      "PhysicalItem",
+      "Атлас из микрофибры (с подписями 10 разработчиков)"
+    ],
+    [
+      "AbyssalImpForum",
+      "Badge",
+      "Форумный титул Исчадия Бездны"
+    ],
+    [
+      "AbyssalLichForum",
+      "Badge",
+      "Форумный титул Лича Бездны"
+    ],
+    [
+      "HarpyForum",
+      "Badge",
+      "Форумный титул Гарпии"
+    ],
+    [
+      "AlphaHarpyForum",
+      "Badge",
+      "Форумный титул Альфа-гарпии"
+    ],
+    [
+      "ManticoreForum",
+      "Badge",
+      "Форумный титул Мантикоры"
+    ],
+    [
+      "AlphaManticoreForum",
+      "Badge",
+      "Форумный титул Альфа-мантикоры"
+    ],
+    [
+      "ConquestForum",
+      "Badge",
+      "Форумный титул Конкистадора"
+    ],
+    [
+      "GrandConquestForum",
+      "Badge",
+      "Форумный титул Великого конкистадора"
+    ],
+    [
+      "CouncilForum",
+      "Badge",
+      "Форумный титул Совета"
+    ],
+    [
+      "HighCouncilForum",
+      "Badge",
+      "Форумный титул Верховного совета"
+    ],
+    [
+      "DelveStalkerForum",
+      "Badge",
+      "Форумный титул Ловца"
+    ],
+    [
+      "DelveShadowstalkerForum",
+      "Badge",
+      "Форумный титул Ловца теней"
+    ],
+    [
+      "DelveForgeForum",
+      "Badge",
+      "Форумный титул Горна"
+    ],
+    [
+      "DelveDreadforgeForum",
+      "Badge",
+      "Форумный титул Горна ужаса"
+    ],
+    [
+      "BetrayalSoulstealerForum",
+      "Badge",
+      "Форумный титул Похитителя душ"
+    ],
+    [
+      "BetrayalMasterSoulstealerForum",
+      "Badge",
+      "Форумный титул Мастера Похитителя душ"
+    ],
+    [
+      "BetrayalUndertakerForum",
+      "Badge",
+      "Форумный титул Гробовщика"
+    ],
+    [
+      "BetrayalMasterUndertakerForum",
+      "Badge",
+      "Форумный титул Мастера Гробовщика"
+    ],
+    [
+      "CorePitfighterForum",
+      "Badge",
+      "Форумный титул Бойца арены"
+    ],
+    [
+      "CoreAssassinForum",
+      "Badge",
+      "Форумный титул Убийцы"
+    ],
+    [
+      "CoreVanguardForum",
+      "Badge",
+      "Форумный титул Авангарда"
+    ],
+    [
+      "CoreEmpyreanForum",
+      "Badge",
+      "Форумный титул Эмпирея"
+    ],
+    [
+      "CoreCrucibleForum",
+      "Badge",
+      "Форумный титул Тигля"
+    ],
+    [
+      "CoreTShirt",
+      "PhysicalItem",
+      "Футболка с логотипом Path of Exile"
+    ],
+    [
+      "CoreHoodie",
+      "PhysicalItem",
+      "Толстовка с капюшоном Path of Exile"
+    ],
+    [
+      "CoreArt",
+      "PhysicalItem",
+      "Набор подписанных постеров Path of Exile"
+    ],
+    [
+      "ExileconTicket",
+      "Digital",
+      "Доступ на ExileCon"
+    ],
+    [
+      "SynthesisSunstoneForum",
+      "Badge",
+      "Форумный титул Солнечного камня"
+    ],
+    [
+      "SynthesisSunspireForum",
+      "Badge",
+      "Форумный титул Солнечного шпиля"
+    ],
+    [
+      "SynthesisDoomcrowForum",
+      "Badge",
+      "Форумный титул Ворона Рока"
+    ],
+    [
+      "SynthesisDoomguardForum",
+      "Badge",
+      "Форумный титул Стража Рока"
+    ],
+    [
+      "ExileconVIP",
+      "Digital",
+      "VIP-пропуск на ExileCon"
+    ],
+    [
+      "ExileconUltraVI",
+      "Digital",
+      "Ультра VIP на ExileCon"
+    ],
+    [
+      "LegionCultofDarknessForum",
+      "Badge",
+      "Форумный титул Культа Тьмы"
+    ],
+    [
+      "LegionCultofApocalypseForum",
+      "Badge",
+      "Форумный титул Культа Апокалипсиса"
+    ],
+    [
+      "LegionBloodKnightForum",
+      "Badge",
+      "Форумный титул Рыцаря крови"
+    ],
+    [
+      "LegionBloodGuardianForum",
+      "Badge",
+      "Форумный титул Стража крови"
+    ],
+    [
+      "ExileconRegularTicket",
+      "Digital",
+      "Билет на ExileCon"
+    ],
+    [
+      "ExileconBalconyTicket",
+      "Digital",
+      "Балконный билет на ExileCon"
+    ],
+    [
+      "ExileconStaffBalconyTicket",
+      "Digital",
+      "Балконный билет на ExileCon для персонала"
+    ],
+    [
+      "ExileconStaffRegularTicket",
+      "Digital",
+      "Билет на ExileCon для персонала"
+    ],
+    [
+      "ExileconStaffVIPTicket",
+      "Digital",
+      "VIP-билет на ExileCon для персонала"
+    ],
+    [
+      "ExileconStaffUltraVIPTicket",
+      "Digital",
+      "Ultra VIP-билет на ExileCon для персонала"
+    ],
+    [
+      "ExileconMediaBalconyTicket",
+      "Digital",
+      "Балконный билет на ExileCon для СМИ"
+    ],
+    [
+      "ExileconMediaRegularTicket",
+      "Digital",
+      "Билет на ExileCon для СМИ"
+    ],
+    [
+      "ExileconMediaVIPTicket",
+      "Digital",
+      "VIP-билет на ExileCon для СМИ"
+    ],
+    [
+      "ExileconMediaUltraVIPTicket",
+      "Digital",
+      "Ultra VIP-билет на ExileCon для СМИ"
+    ],
+    [
+      "BlightLichForum",
+      "Badge",
+      "Форумный титул Лича"
+    ],
+    [
+      "BlightBaneLichForum",
+      "Badge",
+      "Форумный титул Проклятого лича"
+    ],
+    [
+      "BlightSentinelForum",
+      "Badge",
+      "Форумный титул Стража"
+    ],
+    [
+      "BlightSentinelOverlordForum",
+      "Badge",
+      "Форумный титул Стража-смотрителя"
+    ],
+    [
+      "TencentChiyou",
+      "Badge",
+      "Chiyou Forum Title"
+    ],
+    [
+      "MetamorphosisDamnationForum",
+      "Badge",
+      "Форумный титул Проклятия"
+    ],
+    [
+      "MetamorphosisEternalDamnationForum",
+      "Badge",
+      "Форумный титул Вечного Проклятия"
+    ],
+    [
+      "MetamorphosisSanctumForum",
+      "Badge",
+      "Форумный титул Святилища"
+    ],
+    [
+      "MetamorphosisGrandSanctumForum",
+      "Badge",
+      "Форумный титул Великого святилища"
+    ],
+    [
+      "CoreBasiliskForum",
+      "Badge",
+      "Форумный титул Василиска"
+    ],
+    [
+      "CoreCrusaderForum",
+      "Badge",
+      "Форумный титул Крестоносца"
+    ],
+    [
+      "CoreEyrieForum",
+      "Badge",
+      "Форумный титул Орлиного гнезда"
+    ],
+    [
+      "CoreJudicatorForum",
+      "Badge",
+      "Форумный титул Вершителя"
+    ],
+    [
+      "CoreOrionForum",
+      "Badge",
+      "Форумный титул Ориона"
+    ],
+    [
+      "CoreLabyrinthBook",
+      "PhysicalItem",
+      "Книга-игра \"Лабиринт Правителя\""
+    ],
+    [
+      "TencentDarkDeicide",
+      "Badge",
+      "Форумный титул тёмного Богоубийцы"
+    ],
+    [
+      "Core2020Art",
+      "PhysicalItem",
+      "Набор подписанных постеров Path of Exile"
+    ],
+    [
+      "AtlasIIIClothMap",
+      "PhysicalItem",
+      "Тканевый Атлас миров"
+    ],
+    [
+      "DeliriumDarkseerForum",
+      "Badge",
+      "Форумный титул Видящего тьму"
+    ],
+    [
+      "DeliriumElderDarkseerForum",
+      "Badge",
+      "Форумный титул Древнего Видящего тьму"
+    ],
+    [
+      "DeliriumFateweaverForum",
+      "Badge",
+      "Форумный титул Прядильщика судьбы"
+    ],
+    [
+      "DeliriumEliteFateweaverForum",
+      "Badge",
+      "Форумный титул Высшего Прядильщика судьбы"
+    ],
+    [
+      "MerchandiseToken",
+      "PhysicalItem",
+      "Наличные товары"
+    ],
+    [
+      "SolarisLunarisStatueToken",
+      "PhysicalItem",
+      "Статуэтка Солярис и Лунарис"
+    ],
+    [
+      "ExileConMysteryPackToken",
+      "PhysicalItem",
+      "Загадочный набор товаров ExileCon"
+    ],
+    [
+      "TencentGoddess",
+      "Badge",
+      "Goddess Forum Title"
+    ],
+    [
+      "HarvestMalice",
+      "Badge",
+      "Форумный титул Злобы"
+    ],
+    [
+      "HarvestInsatiableMalice",
+      "Badge",
+      "Форумный титул Ненасытной злобы"
+    ],
+    [
+      "HarvestBenevolence",
+      "Badge",
+      "Форумный титул Благоволения"
+    ],
+    [
+      "HarvestDivineBenevolence",
+      "Badge",
+      "Форумный титул Божественного Благоволения"
+    ],
+    [
+      "HeistSpellblade",
+      "Badge",
+      "Форумный титул Колдовского клинка"
+    ],
+    [
+      "HeistMasterSpellblade",
+      "Badge",
+      "Форумный титул Мастера колдовского клинка"
+    ],
+    [
+      "HeistEagle",
+      "Badge",
+      "Форумный титул Орла"
+    ],
+    [
+      "HeistImperialEagle",
+      "Badge",
+      "Форумный титул Императорского орла"
+    ],
+    [
+      "RitualRenegade",
+      "Badge",
+      "Форумный титул Отступника"
+    ],
+    [
+      "RitualDeadlyRenegade",
+      "Badge",
+      "Форумный титул Смертоносного отступника"
+    ],
+    [
+      "RitualFaithsworn",
+      "Badge",
+      "Форумный титул Веропоклонника"
+    ],
+    [
+      "RitualEliteFaithsworn",
+      "Badge",
+      "Форумный титул Элитного веропоклонника"
+    ],
+    [
+      "Core2021DelveForum",
+      "Badge",
+      "Форумный титул Спуска"
+    ],
+    [
+      "Core2021BreachForum",
+      "Badge",
+      "Форумный титул Разлома"
+    ],
+    [
+      "Core2021AbyssForum",
+      "Badge",
+      "Форумный титул Бездны"
+    ],
+    [
+      "Core2021HarvestForum",
+      "Badge",
+      "Форумный титул Жатвы"
+    ],
+    [
+      "Core2021AtlasForum",
+      "Badge",
+      "Форумный титул Атласа"
+    ],
+    [
+      "Core2021ShirtSelect",
+      "PhysicalItemSelect",
+      "Футболка со сферой возвышения или логотипом Path of Exile"
+    ],
+    [
+      "Core2021HoodieSelect",
+      "PhysicalItemSelect",
+      "Толстовка с капюшоном со сферой возвышения или логотипом Path of Exile"
+    ],
+    [
+      "Core2021Art",
+      "PhysicalItem",
+      "Набор подписанных постеров Path of Exile"
+    ],
+    [
+      "Core2021ShirtOptionCore2021S",
+      "PhysicalItemOption",
+      "Футболка со сферой возвышения S"
+    ],
+    [
+      "Core2021ShirtOptionCore2021M",
+      "PhysicalItemOption",
+      "Футболка со сферой возвышения M"
+    ],
+    [
+      "Core2021ShirtOptionCore2021L",
+      "PhysicalItemOption",
+      "Футболка со сферой возвышения L"
+    ],
+    [
+      "Core2021ShirtOptionCore2021XL",
+      "PhysicalItemOption",
+      "Футболка со сферой возвышения XL"
+    ],
+    [
+      "Core2021ShirtOptionCore2021XXL",
+      "PhysicalItemOption",
+      "Футболка со сферой возвышения XXL"
+    ],
+    [
+      "Core2021ShirtOptionCore20213XL",
+      "PhysicalItemOption",
+      "Футболка со сферой возвышения 3XL"
+    ],
+    [
+      "Core2021ShirtOptionCore20214XL",
+      "PhysicalItemOption",
+      "Футболка со сферой возвышения 4XL"
+    ],
+    [
+      "Core2021ShirtOptionCore2018S",
+      "PhysicalItemOption",
+      "Футболка с логотипом Path of Exile S"
+    ],
+    [
+      "Core2021ShirtOptionCore2018M",
+      "PhysicalItemOption",
+      "Футболка с логотипом Path of Exile M"
+    ],
+    [
+      "Core2021ShirtOptionCore2018L",
+      "PhysicalItemOption",
+      "Футболка с логотипом Path of Exile L"
+    ],
+    [
+      "Core2021ShirtOptionCore2018XL",
+      "PhysicalItemOption",
+      "Футболка с логотипом Path of Exile XL"
+    ],
+    [
+      "Core2021ShirtOptionCore2018XXL",
+      "PhysicalItemOption",
+      "Футболка с логотипом Path of Exile XXL"
+    ],
+    [
+      "Core2021ShirtOptionCore20183XL",
+      "PhysicalItemOption",
+      "Футболка с логотипом Path of Exile 3XL"
+    ],
+    [
+      "Core2021ShirtOptionCore20184XL",
+      "PhysicalItemOption",
+      "Футболка с логотипом Path of Exile 4XL"
+    ],
+    [
+      "Core2021HoodieOptionCore2021S",
+      "PhysicalItemOption",
+      "Толстовка с капюшоном со сферой возвышения S"
+    ],
+    [
+      "Core2021HoodieOptionCore2021M",
+      "PhysicalItemOption",
+      "Толстовка с капюшоном со сферой возвышения M"
+    ],
+    [
+      "Core2021HoodieOptionCore2021L",
+      "PhysicalItemOption",
+      "Толстовка с капюшоном со сферой возвышения L"
+    ],
+    [
+      "Core2021HoodieOptionCore2021XL",
+      "PhysicalItemOption",
+      "Толстовка с капюшоном со сферой возвышения XL"
+    ],
+    [
+      "Core2021HoodieOptionCore2021XXL",
+      "PhysicalItemOption",
+      "Толстовка с капюшоном со сферой возвышения XXL"
+    ],
+    [
+      "Core2021HoodieOptionCore20213XL",
+      "PhysicalItemOption",
+      "Толстовка с капюшоном со сферой возвышения 3XL"
+    ],
+    [
+      "Core2021HoodieOptionCore20214XL",
+      "PhysicalItemOption",
+      "Толстовка с капюшоном со сферой возвышения 4XL"
+    ],
+    [
+      "Core2021HoodieOptionCore2018S",
+      "PhysicalItemOption",
+      "Толстовка с логотипом Path of Exile S"
+    ],
+    [
+      "Core2021HoodieOptionCore2018M",
+      "PhysicalItemOption",
+      "Толстовка с логотипом Path of Exile M"
+    ],
+    [
+      "Core2021HoodieOptionCore2018L",
+      "PhysicalItemOption",
+      "Толстовка с логотипом Path of Exile L"
+    ],
+    [
+      "Core2021HoodieOptionCore2018XL",
+      "PhysicalItemOption",
+      "Толстовка с логотипом Path of Exile XL"
+    ],
+    [
+      "Core2021HoodieOptionCore2018XXL",
+      "PhysicalItemOption",
+      "Толстовка с логотипом Path of Exile XXL"
+    ],
+    [
+      "Core2021HoodieOptionCore20183XL",
+      "PhysicalItemOption",
+      "Толстовка с логотипом Path of Exile 3XL"
+    ],
+    [
+      "Core2021HoodieOptionCore20184XL",
+      "PhysicalItemOption",
+      "Толстовка с логотипом Path of Exile 4XL"
+    ]
+  ]
+}

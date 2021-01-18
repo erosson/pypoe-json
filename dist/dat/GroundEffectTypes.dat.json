@@ -1,1 +1,321 @@
-{"filename":"GroundEffectTypes.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":true,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown1","rowid":1,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown2","rowid":2,"type":"float","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0:.6f}","description":null},{"name":"Key0","rowid":3,"type":"ulong","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Key1","rowid":4,"type":"ulong","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Key2","rowid":5,"type":"ulong","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["Fire",4,24,3613,158,null],["Ice",4,0,6233,159,null],["CausticCloud",8,5,4615,463,null],["Tar",4,0,4966,160,null],["Smoke",8,0,12450,222,null],["Desecration",4,24,2197,197,null],["Consecration",10,0,8725,198,1235],["Lightning",6,0,10345,221,null],["Maelstorm",4,4,4860,689,null],["Haste",4,0,null,775,null],["Sandstorm",0,24,null,865,null],["Blizzard",4,0,null,794,null],["Spores",4,24,7331,444,null],["DevouringDarkness",4,24,null,834,null],["Quicksand",0,24,7977,913,null],["Blood",0,24,null,1111,null],["TemporalAnomaly",10,0,10140,998,1391],["OrionMeteor",0,0,null,1417,221],["CrownOfThorns",4,24,null,1562,null],["VaalCloud",4,24,null,296,null],["Profane",10,0,null,1534,null],["ChaosOfferingOfJudgement",6,24,null,489,511],["FireOfferingOfJudgement",6,24,null,488,511],["DespairBearGeyser",0,24,null,858,null],["Fungal",0,0,null,1381,1383],["BestiarySpiderWeb",0,24,null,1028,null],["VaalColdSnap",4,24,7918,1107,null],["Oil",4,24,null,1618,1619]]}
+{
+  "filename": "GroundEffectTypes.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown1",
+      "rowid": 1,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown2",
+      "rowid": 2,
+      "type": "float",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0:.6f}",
+      "description": null
+    },
+    {
+      "name": "Key0",
+      "rowid": 3,
+      "type": "ulong",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Key1",
+      "rowid": 4,
+      "type": "ulong",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Key2",
+      "rowid": 5,
+      "type": "ulong",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "Fire",
+      4,
+      24,
+      3613,
+      158,
+      null
+    ],
+    [
+      "Ice",
+      4,
+      0,
+      6233,
+      159,
+      null
+    ],
+    [
+      "CausticCloud",
+      8,
+      5,
+      4615,
+      463,
+      null
+    ],
+    [
+      "Tar",
+      4,
+      0,
+      4966,
+      160,
+      null
+    ],
+    [
+      "Smoke",
+      8,
+      0,
+      12450,
+      222,
+      null
+    ],
+    [
+      "Desecration",
+      4,
+      24,
+      2197,
+      197,
+      null
+    ],
+    [
+      "Consecration",
+      10,
+      0,
+      8725,
+      198,
+      1235
+    ],
+    [
+      "Lightning",
+      6,
+      0,
+      10345,
+      221,
+      null
+    ],
+    [
+      "Maelstorm",
+      4,
+      4,
+      4860,
+      689,
+      null
+    ],
+    [
+      "Haste",
+      4,
+      0,
+      null,
+      775,
+      null
+    ],
+    [
+      "Sandstorm",
+      0,
+      24,
+      null,
+      865,
+      null
+    ],
+    [
+      "Blizzard",
+      4,
+      0,
+      null,
+      794,
+      null
+    ],
+    [
+      "Spores",
+      4,
+      24,
+      7331,
+      444,
+      null
+    ],
+    [
+      "DevouringDarkness",
+      4,
+      24,
+      null,
+      834,
+      null
+    ],
+    [
+      "Quicksand",
+      0,
+      24,
+      7977,
+      913,
+      null
+    ],
+    [
+      "Blood",
+      0,
+      24,
+      null,
+      1111,
+      null
+    ],
+    [
+      "TemporalAnomaly",
+      10,
+      0,
+      10140,
+      998,
+      1391
+    ],
+    [
+      "OrionMeteor",
+      0,
+      0,
+      null,
+      1417,
+      221
+    ],
+    [
+      "CrownOfThorns",
+      4,
+      24,
+      null,
+      1562,
+      null
+    ],
+    [
+      "VaalCloud",
+      4,
+      24,
+      null,
+      296,
+      null
+    ],
+    [
+      "Profane",
+      10,
+      0,
+      null,
+      1534,
+      null
+    ],
+    [
+      "ChaosOfferingOfJudgement",
+      6,
+      24,
+      null,
+      489,
+      511
+    ],
+    [
+      "FireOfferingOfJudgement",
+      6,
+      24,
+      null,
+      488,
+      511
+    ],
+    [
+      "DespairBearGeyser",
+      0,
+      24,
+      null,
+      858,
+      null
+    ],
+    [
+      "Fungal",
+      0,
+      0,
+      null,
+      1381,
+      1383
+    ],
+    [
+      "BestiarySpiderWeb",
+      0,
+      24,
+      null,
+      1028,
+      null
+    ],
+    [
+      "VaalColdSnap",
+      4,
+      24,
+      7918,
+      1107,
+      null
+    ],
+    [
+      "Oil",
+      4,
+      24,
+      null,
+      1618,
+      1619
+    ]
+  ]
+}

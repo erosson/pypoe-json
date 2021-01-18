@@ -1,1 +1,376 @@
-{"filename":"BestiaryGenus.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":true,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Name","rowid":1,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"BestiaryGroupsKey","rowid":2,"type":"ulong","key":"BestiaryGroups.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Name2","rowid":3,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Icon","rowid":4,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":true,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["Gargantuans","가르강튀아",3,"가르강튀아","Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Gargantuans"],["Goatmen","염소인간",1,"염소인간","Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Goatman"],["GoatShamans","염소 주술사",1,"염소 주술사","Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/GoatShamans"],["Hellions","헬리온",0,"헬리온","Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Hellions"],["Wolves","늑대",2,"늑대",""],["Apes","유인원",1,"유인원","Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/BloodMonkey"],["Rhoas","로아",5,"로아","Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Rhoa"],["SandSpitters","모래 전갈",10,"모래 전갈",""],["SeaWitches","바다 마녀",9,"바다 마녀","Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Seawitch"],["ShieldCrabs","방패게",10,"방패게","Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/ShieldCrabs"],["Snakes","뱀",6,"뱀",""],["Spawn","유충",9,"유충",""],["Spiders","거미",8,"거미","Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Spiders"],["Maws","큰턱개구리",11,"큰턱개구리",""],["Chimerals","키메랄",6,"키메랄","Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Iguana"],["CarrionQueens","부패하는 여왕",7,"부패하는 여왕",""],["CarrionInsects","부패하는 벌레",7,"부패하는 벌레",""],["Retches","레치",5,"레치",""],["Goliaths","골리앗",4,"골리앗","Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Spiker"],["Devourers","포식자",7,"포식자","Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/RootSpider"],["Watchers","감시자",9,"감시자",""],["PlummetingUrsae","강하하는 곰",3,"곤두박질 곰","Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/DropBear"],["Vultures","시체매",5,"시체매","Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Vulture"],["Leapers","뜀박이",7,"리퍼",""],["KaruiHounds","카루이 사냥개",2,"카루이 사냥개","Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Hound"],["Pitbulls","투견",2,"투견","Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Pitbull"],["Cockerels","수탉",5,"수탉","Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Eyepecker"],["Bulls","황소",4,"황소","Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Bull"],["ApeChieftains","유인원 부족장",1,"유인원 부족장","Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/BloodChieftain"],["Parasites","기생충",7,"기생충",""],["Crabs","게",10,"게",""],["Hounds","사냥개",2,"사냥개",""],["Lurchers","러처",10,"러처","Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Lurchers"],["Arachnoscorpions","거미전갈",8,"거미전갈",""],["Rhexes","렉스",5,"렉스",""],["Scorpions","전갈",8,"전갈",""],["Lynxes","스라소니",0,"스라소니",""],["Tigers","호랑이",0,"호랑이",""],["SpiderCrabs","거미게",10,"거미게",""],["Octopuses","문어",9,"문어",""],["GemFrog","마석 개구리",11,"마석 개구리",""],["Frog","개구리",11,"개구리",""]]}
+{
+  "filename": "BestiaryGenus.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Name",
+      "rowid": 1,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "BestiaryGroupsKey",
+      "rowid": 2,
+      "type": "ulong",
+      "key": "BestiaryGroups.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Name2",
+      "rowid": 3,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Icon",
+      "rowid": 4,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": true,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "Gargantuans",
+      "가르강튀아",
+      3,
+      "가르강튀아",
+      "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Gargantuans"
+    ],
+    [
+      "Goatmen",
+      "염소인간",
+      1,
+      "염소인간",
+      "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Goatman"
+    ],
+    [
+      "GoatShamans",
+      "염소 주술사",
+      1,
+      "염소 주술사",
+      "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/GoatShamans"
+    ],
+    [
+      "Hellions",
+      "헬리온",
+      0,
+      "헬리온",
+      "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Hellions"
+    ],
+    [
+      "Wolves",
+      "늑대",
+      2,
+      "늑대",
+      ""
+    ],
+    [
+      "Apes",
+      "유인원",
+      1,
+      "유인원",
+      "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/BloodMonkey"
+    ],
+    [
+      "Rhoas",
+      "로아",
+      5,
+      "로아",
+      "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Rhoa"
+    ],
+    [
+      "SandSpitters",
+      "모래 전갈",
+      10,
+      "모래 전갈",
+      ""
+    ],
+    [
+      "SeaWitches",
+      "바다 마녀",
+      9,
+      "바다 마녀",
+      "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Seawitch"
+    ],
+    [
+      "ShieldCrabs",
+      "방패게",
+      10,
+      "방패게",
+      "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/ShieldCrabs"
+    ],
+    [
+      "Snakes",
+      "뱀",
+      6,
+      "뱀",
+      ""
+    ],
+    [
+      "Spawn",
+      "유충",
+      9,
+      "유충",
+      ""
+    ],
+    [
+      "Spiders",
+      "거미",
+      8,
+      "거미",
+      "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Spiders"
+    ],
+    [
+      "Maws",
+      "큰턱개구리",
+      11,
+      "큰턱개구리",
+      ""
+    ],
+    [
+      "Chimerals",
+      "키메랄",
+      6,
+      "키메랄",
+      "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Iguana"
+    ],
+    [
+      "CarrionQueens",
+      "부패하는 여왕",
+      7,
+      "부패하는 여왕",
+      ""
+    ],
+    [
+      "CarrionInsects",
+      "부패하는 벌레",
+      7,
+      "부패하는 벌레",
+      ""
+    ],
+    [
+      "Retches",
+      "레치",
+      5,
+      "레치",
+      ""
+    ],
+    [
+      "Goliaths",
+      "골리앗",
+      4,
+      "골리앗",
+      "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Spiker"
+    ],
+    [
+      "Devourers",
+      "포식자",
+      7,
+      "포식자",
+      "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/RootSpider"
+    ],
+    [
+      "Watchers",
+      "감시자",
+      9,
+      "감시자",
+      ""
+    ],
+    [
+      "PlummetingUrsae",
+      "강하하는 곰",
+      3,
+      "곤두박질 곰",
+      "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/DropBear"
+    ],
+    [
+      "Vultures",
+      "시체매",
+      5,
+      "시체매",
+      "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Vulture"
+    ],
+    [
+      "Leapers",
+      "뜀박이",
+      7,
+      "리퍼",
+      ""
+    ],
+    [
+      "KaruiHounds",
+      "카루이 사냥개",
+      2,
+      "카루이 사냥개",
+      "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Hound"
+    ],
+    [
+      "Pitbulls",
+      "투견",
+      2,
+      "투견",
+      "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Pitbull"
+    ],
+    [
+      "Cockerels",
+      "수탉",
+      5,
+      "수탉",
+      "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Eyepecker"
+    ],
+    [
+      "Bulls",
+      "황소",
+      4,
+      "황소",
+      "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Bull"
+    ],
+    [
+      "ApeChieftains",
+      "유인원 부족장",
+      1,
+      "유인원 부족장",
+      "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/BloodChieftain"
+    ],
+    [
+      "Parasites",
+      "기생충",
+      7,
+      "기생충",
+      ""
+    ],
+    [
+      "Crabs",
+      "게",
+      10,
+      "게",
+      ""
+    ],
+    [
+      "Hounds",
+      "사냥개",
+      2,
+      "사냥개",
+      ""
+    ],
+    [
+      "Lurchers",
+      "러처",
+      10,
+      "러처",
+      "Art/2DArt/UIImages/InGame/Bestiary/SmallIcons/Lurchers"
+    ],
+    [
+      "Arachnoscorpions",
+      "거미전갈",
+      8,
+      "거미전갈",
+      ""
+    ],
+    [
+      "Rhexes",
+      "렉스",
+      5,
+      "렉스",
+      ""
+    ],
+    [
+      "Scorpions",
+      "전갈",
+      8,
+      "전갈",
+      ""
+    ],
+    [
+      "Lynxes",
+      "스라소니",
+      0,
+      "스라소니",
+      ""
+    ],
+    [
+      "Tigers",
+      "호랑이",
+      0,
+      "호랑이",
+      ""
+    ],
+    [
+      "SpiderCrabs",
+      "거미게",
+      10,
+      "거미게",
+      ""
+    ],
+    [
+      "Octopuses",
+      "문어",
+      9,
+      "문어",
+      ""
+    ],
+    [
+      "GemFrog",
+      "마석 개구리",
+      11,
+      "마석 개구리",
+      ""
+    ],
+    [
+      "Frog",
+      "개구리",
+      11,
+      "개구리",
+      ""
+    ]
+  ]
+}

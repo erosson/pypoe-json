@@ -1,1 +1,189 @@
-{"filename":"DelveCraftingModifierDescriptions.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":true,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Description","rowid":1,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["BetterSellPrice","상인에게 판매할 때 얻는 화폐 증가"],["LuckyMods","속성 부여 결정 시 관련 수치 개선\r\n고레벨 속성 부여 등장 빈도 증가"],["RandomModifier","모든 화석 속성 부여 보유 가능"],["CorruptEssence","타락 에센스 속성 부여 보유"],["Duplicate","똑같은 복제본 생성"],["AbyssSocket","심연 홈 보유"],["VaalMod","바알 속성 부여 보유"],["Sockets","홈 증가\r\n하얀 홈 보유 가능"],["LabryinthEnchant","미궁 인챈트 보유"],["Quality","퀄리티 향상"],["MorePhysical","물리 속성 부여 증가"],["MoreFire","화염 속성 부여 증가"],["MoreCold","냉기 속성 부여 증가"],["MoreLightning","번개 속성 부여 증가"],["MoreChaos","카오스 속성 부여 증가"],["MoreElemental","원소 속성 부여 증가"],["MoreBleedPoison","물리 상태 이상 혹은 카오스 상태 이상 속성 부여 증가"],["MoreLife","생명력 속성 부여 증가"],["MoreDefences","방어 속성 부여 증가"],["MoreCaster","시전 속성 부여 증가"],["MoreAttack","공격 속성 부여 증가"],["MoreMana","마나 속성 부여 증가"],["MoreSpeed","속도 속성 부여 증가"],["MoreMinionAura","소환수 혹은 오라 혹은 저주 속성 부여 증가"],["MoreGemLevel","젬 속성 부여 증가"],["LessCaster","시전 속성 부여 감소"],["LessAttack","공격 속성 부여 감소"],["NoPhysical","물리 속성 부여 없음"],["NoFire","화염 속성 부여 없음"],["NoCold","냉기 속성 부여 없음"],["NoLightning","번개 속성 부여 없음"],["NoChaos","카오스 속성 부여 없음"],["NoLife","생명력 속성 부여 없음"],["NoDefences","방어 속성 부여 없음"],["NoElemental","원소 속성 부여 없음"],["NoBleedPoison","물리 상태 이상 혹은 카오스 상태 이상 속성 부여 없음"],["NoMana","마나 속성 부여 없음"],["NoSpeed","속도 속성 부여 없음"]]}
+{
+  "filename": "DelveCraftingModifierDescriptions.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Description",
+      "rowid": 1,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "BetterSellPrice",
+      "상인에게 판매할 때 얻는 화폐 증가"
+    ],
+    [
+      "LuckyMods",
+      "속성 부여 결정 시 관련 수치 개선\r\n고레벨 속성 부여 등장 빈도 증가"
+    ],
+    [
+      "RandomModifier",
+      "모든 화석 속성 부여 보유 가능"
+    ],
+    [
+      "CorruptEssence",
+      "타락 에센스 속성 부여 보유"
+    ],
+    [
+      "Duplicate",
+      "똑같은 복제본 생성"
+    ],
+    [
+      "AbyssSocket",
+      "심연 홈 보유"
+    ],
+    [
+      "VaalMod",
+      "바알 속성 부여 보유"
+    ],
+    [
+      "Sockets",
+      "홈 증가\r\n하얀 홈 보유 가능"
+    ],
+    [
+      "LabryinthEnchant",
+      "미궁 인챈트 보유"
+    ],
+    [
+      "Quality",
+      "퀄리티 향상"
+    ],
+    [
+      "MorePhysical",
+      "물리 속성 부여 증가"
+    ],
+    [
+      "MoreFire",
+      "화염 속성 부여 증가"
+    ],
+    [
+      "MoreCold",
+      "냉기 속성 부여 증가"
+    ],
+    [
+      "MoreLightning",
+      "번개 속성 부여 증가"
+    ],
+    [
+      "MoreChaos",
+      "카오스 속성 부여 증가"
+    ],
+    [
+      "MoreElemental",
+      "원소 속성 부여 증가"
+    ],
+    [
+      "MoreBleedPoison",
+      "물리 상태 이상 혹은 카오스 상태 이상 속성 부여 증가"
+    ],
+    [
+      "MoreLife",
+      "생명력 속성 부여 증가"
+    ],
+    [
+      "MoreDefences",
+      "방어 속성 부여 증가"
+    ],
+    [
+      "MoreCaster",
+      "시전 속성 부여 증가"
+    ],
+    [
+      "MoreAttack",
+      "공격 속성 부여 증가"
+    ],
+    [
+      "MoreMana",
+      "마나 속성 부여 증가"
+    ],
+    [
+      "MoreSpeed",
+      "속도 속성 부여 증가"
+    ],
+    [
+      "MoreMinionAura",
+      "소환수 혹은 오라 혹은 저주 속성 부여 증가"
+    ],
+    [
+      "MoreGemLevel",
+      "젬 속성 부여 증가"
+    ],
+    [
+      "LessCaster",
+      "시전 속성 부여 감소"
+    ],
+    [
+      "LessAttack",
+      "공격 속성 부여 감소"
+    ],
+    [
+      "NoPhysical",
+      "물리 속성 부여 없음"
+    ],
+    [
+      "NoFire",
+      "화염 속성 부여 없음"
+    ],
+    [
+      "NoCold",
+      "냉기 속성 부여 없음"
+    ],
+    [
+      "NoLightning",
+      "번개 속성 부여 없음"
+    ],
+    [
+      "NoChaos",
+      "카오스 속성 부여 없음"
+    ],
+    [
+      "NoLife",
+      "생명력 속성 부여 없음"
+    ],
+    [
+      "NoDefences",
+      "방어 속성 부여 없음"
+    ],
+    [
+      "NoElemental",
+      "원소 속성 부여 없음"
+    ],
+    [
+      "NoBleedPoison",
+      "물리 상태 이상 혹은 카오스 상태 이상 속성 부여 없음"
+    ],
+    [
+      "NoMana",
+      "마나 속성 부여 없음"
+    ],
+    [
+      "NoSpeed",
+      "속도 속성 부여 없음"
+    ]
+  ]
+}

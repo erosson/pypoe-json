@@ -1,1 +1,1291 @@
-{"filename":"BetrayalTraitorRewards.dat","header":[{"name":"BetrayalJobsKey","rowid":0,"type":"ulong","key":"BetrayalJobs.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"BetrayalTargetsKey","rowid":1,"type":"ulong","key":"BetrayalTargets.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"BetrayalRanksKey","rowid":2,"type":"ulong","key":"BetrayalRanks.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Description","rowid":3,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[[3,16,1,"Pilfering Metamorph Scarabs"],[3,16,2,"Pilfering Metamorph Scarabs"],[3,16,3,"Pilfering Metamorph Scarabs"],[1,16,1,"Preserving Veiled Armour and Jewellery"],[1,16,2,"Preserving Veiled Armour and Jewellery"],[1,16,3,"Preserving Veiled Armour and Jewellery"],[2,16,1,"Smuggling Veiled Weapons and Jewellery"],[2,16,2,"Smuggling Veiled Weapons and Jewellery"],[2,16,3,"Smuggling Veiled Weapons and Jewellery"],[4,16,1,"Extracting Veiled Magic"],[4,16,2,"Extracting Veiled Magic"],[4,16,3,"Extracting Veiled Magic"],[3,10,1,"Looting Breach Scarabs"],[3,10,2,"Looting Breach Scarabs"],[3,10,3,"Looting Breach Scarabs"],[1,10,1,"Stockpiling Abyss Jewels"],[1,10,2,"Stockpiling Abyss Jewels"],[1,10,3,"Stockpiling Abyss Jewels"],[2,10,1,"Transporting Breach Splinters"],[2,10,2,"Transporting Breach Splinters"],[2,10,3,"Transporting Breach Splinters"],[4,10,1,"Enriching Breachstones"],[4,10,2,"Enriching Breachstones"],[4,10,3,"Enriching Breachstones"],[3,15,1,"Pillaging Sulphite Scarabs"],[3,15,2,"Pillaging Sulphite Scarabs"],[3,15,3,"Pillaging Sulphite Scarabs"],[1,15,1,"Sheltering Harbinger Orbs"],[1,15,2,"Sheltering Harbinger Orbs"],[1,15,3,"Sheltering Harbinger Orbs"],[2,15,1,"Smuggling Timeworn Uniques"],[2,15,2,"Smuggling Timeworn Uniques"],[2,15,3,"Smuggling Timeworn Uniques"],[4,15,1,"Fabricating Sextants"],[4,15,2,"Fabricating Sextants"],[4,15,3,"Fabricating Sextants"],[3,2,1,"\"Reappropriating\" Reliquary Scarabs"],[3,2,2,"\"Reappropriating\" Reliquary Scarabs"],[3,2,3,"\"Reappropriating\" Reliquary Scarabs"],[1,2,1,"Safeguarding Unique Armour"],[1,2,2,"Safeguarding Unique Armour"],[1,2,3,"Safeguarding Unique Armour"],[2,2,1,"Escorting Unique Weaponry"],[2,2,2,"Escorting Unique Weaponry"],[2,2,3,"Escorting Unique Weaponry"],[4,2,1,"Manufacturing Unique Forgeries"],[4,2,2,"Manufacturing Unique Forgeries"],[4,2,3,"Manufacturing Unique Forgeries"],[3,11,1,"Acquiring Divination Scarab \"Donations\""],[3,11,2,"Acquiring Divination Scarab \"Donations\""],[3,11,3,"Acquiring Divination Scarab \"Donations\""],[1,11,1,"Amassing Divination Cards"],[1,11,2,"Amassing Divination Cards"],[1,11,3,"Amassing Divination Cards"],[2,11,1,"Laundering Divination Card Collections"],[2,11,2,"Laundering Divination Card Collections"],[2,11,3,"Laundering Divination Card Collections"],[4,11,1,"Trialing Divination Card Metamorphosis"],[4,11,2,"Trialing Divination Card Metamorphosis"],[4,11,3,"Trialing Divination Card Metamorphosis"],[3,8,1,"Gambling with Item Properties"],[3,8,2,"Gambling with Item Properties"],[3,8,3,"Gambling with Item Properties"],[1,8,1,"Betting on Item Outcomes"],[1,8,2,"Betting on Item Outcomes"],[1,8,3,"Betting on Item Outcomes"],[2,8,1,"Wagering on Item Worth"],[2,8,2,"Wagering on Item Worth"],[2,8,3,"Wagering on Item Worth"],[4,8,1,"Investigating Item Odds"],[4,8,2,"Investigating Item Odds"],[4,8,3,"Investigating Item Odds"],[3,1,1,"Stealing Strongbox Scarabs"],[3,1,2,"Stealing Strongbox Scarabs"],[3,1,3,"Stealing Strongbox Scarabs"],[1,1,1,"Hoarding Strongboxes"],[1,1,2,"Hoarding Strongboxes"],[1,1,3,"Hoarding Strongboxes"],[2,1,1,"Escorting Transportation of Goods"],[2,1,2,"Escorting Transportation of Goods"],[2,1,3,"Escorting Transportation of Goods"],[4,1,1,"Honing Item Condition"],[4,1,2,"Honing Item Condition"],[4,1,3,"Honing Item Condition"],[3,6,1,"Plundering Fine Cartography Equipment"],[3,6,2,"Plundering Fine Cartography Equipment"],[3,6,3,"Plundering Fine Cartography Equipment"],[1,6,1,"Guarding Fine Armoursmithing Equipment"],[1,6,2,"Guarding Fine Armoursmithing Equipment"],[1,6,3,"Guarding Fine Armoursmithing Equipment"],[2,6,1,"Escorting Personal Weaponsmithing Equipment"],[2,6,2,"Escorting Personal Weaponsmithing Equipment"],[2,6,3,"Escorting Personal Weaponsmithing Equipment"],[4,6,1,"Glassblowing (Impressive Lung Capacity!)"],[4,6,2,"Glassblowing (Impressive Lung Capacity!)"],[4,6,3,"Glassblowing (Impressive Lung Capacity!)"],[3,9,1,"\"Finding\" Perandus Scarabs (Traitor!)"],[3,9,2,"\"Finding\" Perandus Scarabs (Traitor!)"],[3,9,3,"\"Finding\" Perandus Scarabs (Traitor!)"],[1,9,1,"Accumulating Currency Shards (Pathetic!)"],[1,9,2,"Accumulating Currency Shards (Pathetic!)"],[1,9,3,"Accumulating Currency Shards (Pathetic!)"],[2,9,1,"Transporting Quality-Modifying Currency"],[2,9,2,"Transporting Quality-Modifying Currency"],[2,9,3,"Transporting Quality-Modifying Currency"],[4,9,1,"Securing Familial Coins (Fool!)"],[4,9,2,"Securing Familial Coins (Fool!)"],[4,9,3,"Securing Familial Coins (Fool!)"],[3,13,1,"Snatching Elder Scarabs"],[3,13,2,"Snatching Elder Scarabs"],[3,13,3,"Snatching Elder Scarabs"],[1,13,1,"Assembling Fragments"],[1,13,2,"Assembling Fragments"],[1,13,3,"Assembling Fragments"],[2,13,1,"Smuggling Essences"],[2,13,2,"Smuggling Essences"],[2,13,3,"Smuggling Essences"],[4,13,1,"Examining Fossils"],[4,13,2,"Examining Fossils"],[4,13,3,"Examining Fossils"],[3,7,1,"Claiming Torment Scarabs"],[3,7,2,"Claiming Torment Scarabs"],[3,7,3,"Claiming Torment Scarabs"],[1,7,1,"Banking Currency (Winnings?)"],[1,7,2,"Banking Currency (Winnings?)"],[1,7,3,"Banking Currency (Winnings?)"],[2,7,1,"Relocating Silver Coin Stash"],[2,7,2,"Relocating Silver Coin Stash"],[2,7,3,"Relocating Silver Coin Stash"],[4,7,1,"Testing Implicit Item Limits"],[4,7,2,"Testing Item Variance Capacity"],[4,7,3,"Imbuing Items With New Properties"],[3,17,1,"Boobytrapping Stashes"],[3,17,2,"Boobytrapping Stashes"],[3,17,3,"Boobytrapping Stashes"],[1,17,1,"Protecting Items from Theft (Paranoid?)"],[1,17,2,"Protecting Items from Theft (Paranoid?)"],[1,17,3,"Protecting Items from Theft (Paranoid?)"],[2,17,1,"Rigging Item Selections (Likes Contraptions!)"],[2,17,2,"Rigging Item Selections (Likes Contraptions!)"],[2,17,3,"Rigging Item Selections (Likes Contraptions!)"],[4,17,1,"Creating Item Conundrums"],[4,17,2,"Creating Item Conundrums"],[4,17,3,"Creating Item Conundrums"],[3,14,1,"Swiping Cartography Scarabs"],[3,14,2,"Swiping Cartography Scarabs"],[3,14,3,"Swiping Cartography Scarabs"],[1,14,1,"Securing Rare Maps"],[1,14,2,"Securing Rare Maps"],[1,14,3,"Securing Rare Maps"],[2,14,1,"Guiding Maps Between Locations"],[2,14,2,"Guiding Maps Between Locations"],[2,14,3,"Guiding Maps Between Locations"],[4,14,1,"Cataloguing Unique Maps"],[4,14,2,"Cataloguing Unique Maps"],[4,14,3,"Cataloguing Unique Maps"],[3,12,1,"Seizing Bestiary Scarabs"],[3,12,2,"Seizing Bestiary Scarabs"],[3,12,3,"Seizing Bestiary Scarabs"],[1,12,1,"Channeling the First Ones"],[1,12,2,"Channeling the First Ones"],[1,12,3,"Channeling the First Ones"],[2,12,1,"Carrying Talismans on Pilgrimage"],[2,12,2,"Carrying Talismans on Pilgrimage"],[2,12,3,"Carrying Talismans on Pilgrimage"],[4,12,1,"Imbuing Amulets with Talismanic Power"],[4,12,2,"Imbuing Amulets with Talismanic Power"],[4,12,3,"Imbuing Amulets with Talismanic Power"],[3,3,1,"Hunting for Harbinger Scarabs"],[3,3,2,"Hunting for Harbinger Scarabs"],[3,3,3,"Hunting for Harbinger Scarabs"],[1,3,1,"Enchanting Gloves"],[1,3,2,"Enchanting Boots"],[1,3,3,"Enchanting Helmets"],[2,3,1,"Creating Timed Item Traps (Careful!)"],[2,3,2,"Creating Timed Item Traps (Careful!)"],[2,3,3,"Creating Timed Item Traps (Careful!)"],[4,3,1,"Exposing Gems to Combat"],[4,3,2,"Exposing Gems to Combat"],[4,3,3,"Exposing Gems to Combat"],[3,4,1,"Selectively Stealing Legion Scarabs"],[3,4,2,"Selectively Stealing Legion Scarabs"],[3,4,3,"Selectively Stealing Legion Scarabs"],[1,4,1,"Patrolling Legion Cache"],[1,4,2,"Patrolling Legion Cache"],[1,4,3,"Patrolling Legion Cache"],[2,4,1,"Relocating Timeless Splinters"],[2,4,2,"Relocating Timeless Splinters"],[2,4,3,"Relocating Timeless Splinters"],[4,4,1,"Stashing Incubators"],[4,4,2,"Stashing Incubators"],[4,4,3,"Stashing Incubators"],[3,5,1,"Thieving Shaper Scarabs"],[3,5,2,"Thieving Shaper Scarabs"],[3,5,3,"Thieving Shaper Scarabs"],[1,5,1,"Stowing Socket-Modifying Orbs"],[1,5,2,"Stowing Socket-Modifying Orbs"],[1,5,3,"Stowing Socket-Modifying Orbs"],[2,5,1,"Smuggling High-quality Gems"],[2,5,2,"Smuggling High-quality Gems"],[2,5,3,"Smuggling High-quality Gems"],[4,5,1,"Forging Gem-Agnostic Sockets"],[4,5,2,"Forging Gem-Agnostic Sockets"],[4,5,3,"Forging Gem-Agnostic Sockets"]]}
+{
+  "filename": "BetrayalTraitorRewards.dat",
+  "header": [
+    {
+      "name": "BetrayalJobsKey",
+      "rowid": 0,
+      "type": "ulong",
+      "key": "BetrayalJobs.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "BetrayalTargetsKey",
+      "rowid": 1,
+      "type": "ulong",
+      "key": "BetrayalTargets.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "BetrayalRanksKey",
+      "rowid": 2,
+      "type": "ulong",
+      "key": "BetrayalRanks.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Description",
+      "rowid": 3,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      3,
+      16,
+      1,
+      "Pilfering Metamorph Scarabs"
+    ],
+    [
+      3,
+      16,
+      2,
+      "Pilfering Metamorph Scarabs"
+    ],
+    [
+      3,
+      16,
+      3,
+      "Pilfering Metamorph Scarabs"
+    ],
+    [
+      1,
+      16,
+      1,
+      "Preserving Veiled Armour and Jewellery"
+    ],
+    [
+      1,
+      16,
+      2,
+      "Preserving Veiled Armour and Jewellery"
+    ],
+    [
+      1,
+      16,
+      3,
+      "Preserving Veiled Armour and Jewellery"
+    ],
+    [
+      2,
+      16,
+      1,
+      "Smuggling Veiled Weapons and Jewellery"
+    ],
+    [
+      2,
+      16,
+      2,
+      "Smuggling Veiled Weapons and Jewellery"
+    ],
+    [
+      2,
+      16,
+      3,
+      "Smuggling Veiled Weapons and Jewellery"
+    ],
+    [
+      4,
+      16,
+      1,
+      "Extracting Veiled Magic"
+    ],
+    [
+      4,
+      16,
+      2,
+      "Extracting Veiled Magic"
+    ],
+    [
+      4,
+      16,
+      3,
+      "Extracting Veiled Magic"
+    ],
+    [
+      3,
+      10,
+      1,
+      "Looting Breach Scarabs"
+    ],
+    [
+      3,
+      10,
+      2,
+      "Looting Breach Scarabs"
+    ],
+    [
+      3,
+      10,
+      3,
+      "Looting Breach Scarabs"
+    ],
+    [
+      1,
+      10,
+      1,
+      "Stockpiling Abyss Jewels"
+    ],
+    [
+      1,
+      10,
+      2,
+      "Stockpiling Abyss Jewels"
+    ],
+    [
+      1,
+      10,
+      3,
+      "Stockpiling Abyss Jewels"
+    ],
+    [
+      2,
+      10,
+      1,
+      "Transporting Breach Splinters"
+    ],
+    [
+      2,
+      10,
+      2,
+      "Transporting Breach Splinters"
+    ],
+    [
+      2,
+      10,
+      3,
+      "Transporting Breach Splinters"
+    ],
+    [
+      4,
+      10,
+      1,
+      "Enriching Breachstones"
+    ],
+    [
+      4,
+      10,
+      2,
+      "Enriching Breachstones"
+    ],
+    [
+      4,
+      10,
+      3,
+      "Enriching Breachstones"
+    ],
+    [
+      3,
+      15,
+      1,
+      "Pillaging Sulphite Scarabs"
+    ],
+    [
+      3,
+      15,
+      2,
+      "Pillaging Sulphite Scarabs"
+    ],
+    [
+      3,
+      15,
+      3,
+      "Pillaging Sulphite Scarabs"
+    ],
+    [
+      1,
+      15,
+      1,
+      "Sheltering Harbinger Orbs"
+    ],
+    [
+      1,
+      15,
+      2,
+      "Sheltering Harbinger Orbs"
+    ],
+    [
+      1,
+      15,
+      3,
+      "Sheltering Harbinger Orbs"
+    ],
+    [
+      2,
+      15,
+      1,
+      "Smuggling Timeworn Uniques"
+    ],
+    [
+      2,
+      15,
+      2,
+      "Smuggling Timeworn Uniques"
+    ],
+    [
+      2,
+      15,
+      3,
+      "Smuggling Timeworn Uniques"
+    ],
+    [
+      4,
+      15,
+      1,
+      "Fabricating Sextants"
+    ],
+    [
+      4,
+      15,
+      2,
+      "Fabricating Sextants"
+    ],
+    [
+      4,
+      15,
+      3,
+      "Fabricating Sextants"
+    ],
+    [
+      3,
+      2,
+      1,
+      "\"Reappropriating\" Reliquary Scarabs"
+    ],
+    [
+      3,
+      2,
+      2,
+      "\"Reappropriating\" Reliquary Scarabs"
+    ],
+    [
+      3,
+      2,
+      3,
+      "\"Reappropriating\" Reliquary Scarabs"
+    ],
+    [
+      1,
+      2,
+      1,
+      "Safeguarding Unique Armour"
+    ],
+    [
+      1,
+      2,
+      2,
+      "Safeguarding Unique Armour"
+    ],
+    [
+      1,
+      2,
+      3,
+      "Safeguarding Unique Armour"
+    ],
+    [
+      2,
+      2,
+      1,
+      "Escorting Unique Weaponry"
+    ],
+    [
+      2,
+      2,
+      2,
+      "Escorting Unique Weaponry"
+    ],
+    [
+      2,
+      2,
+      3,
+      "Escorting Unique Weaponry"
+    ],
+    [
+      4,
+      2,
+      1,
+      "Manufacturing Unique Forgeries"
+    ],
+    [
+      4,
+      2,
+      2,
+      "Manufacturing Unique Forgeries"
+    ],
+    [
+      4,
+      2,
+      3,
+      "Manufacturing Unique Forgeries"
+    ],
+    [
+      3,
+      11,
+      1,
+      "Acquiring Divination Scarab \"Donations\""
+    ],
+    [
+      3,
+      11,
+      2,
+      "Acquiring Divination Scarab \"Donations\""
+    ],
+    [
+      3,
+      11,
+      3,
+      "Acquiring Divination Scarab \"Donations\""
+    ],
+    [
+      1,
+      11,
+      1,
+      "Amassing Divination Cards"
+    ],
+    [
+      1,
+      11,
+      2,
+      "Amassing Divination Cards"
+    ],
+    [
+      1,
+      11,
+      3,
+      "Amassing Divination Cards"
+    ],
+    [
+      2,
+      11,
+      1,
+      "Laundering Divination Card Collections"
+    ],
+    [
+      2,
+      11,
+      2,
+      "Laundering Divination Card Collections"
+    ],
+    [
+      2,
+      11,
+      3,
+      "Laundering Divination Card Collections"
+    ],
+    [
+      4,
+      11,
+      1,
+      "Trialing Divination Card Metamorphosis"
+    ],
+    [
+      4,
+      11,
+      2,
+      "Trialing Divination Card Metamorphosis"
+    ],
+    [
+      4,
+      11,
+      3,
+      "Trialing Divination Card Metamorphosis"
+    ],
+    [
+      3,
+      8,
+      1,
+      "Gambling with Item Properties"
+    ],
+    [
+      3,
+      8,
+      2,
+      "Gambling with Item Properties"
+    ],
+    [
+      3,
+      8,
+      3,
+      "Gambling with Item Properties"
+    ],
+    [
+      1,
+      8,
+      1,
+      "Betting on Item Outcomes"
+    ],
+    [
+      1,
+      8,
+      2,
+      "Betting on Item Outcomes"
+    ],
+    [
+      1,
+      8,
+      3,
+      "Betting on Item Outcomes"
+    ],
+    [
+      2,
+      8,
+      1,
+      "Wagering on Item Worth"
+    ],
+    [
+      2,
+      8,
+      2,
+      "Wagering on Item Worth"
+    ],
+    [
+      2,
+      8,
+      3,
+      "Wagering on Item Worth"
+    ],
+    [
+      4,
+      8,
+      1,
+      "Investigating Item Odds"
+    ],
+    [
+      4,
+      8,
+      2,
+      "Investigating Item Odds"
+    ],
+    [
+      4,
+      8,
+      3,
+      "Investigating Item Odds"
+    ],
+    [
+      3,
+      1,
+      1,
+      "Stealing Strongbox Scarabs"
+    ],
+    [
+      3,
+      1,
+      2,
+      "Stealing Strongbox Scarabs"
+    ],
+    [
+      3,
+      1,
+      3,
+      "Stealing Strongbox Scarabs"
+    ],
+    [
+      1,
+      1,
+      1,
+      "Hoarding Strongboxes"
+    ],
+    [
+      1,
+      1,
+      2,
+      "Hoarding Strongboxes"
+    ],
+    [
+      1,
+      1,
+      3,
+      "Hoarding Strongboxes"
+    ],
+    [
+      2,
+      1,
+      1,
+      "Escorting Transportation of Goods"
+    ],
+    [
+      2,
+      1,
+      2,
+      "Escorting Transportation of Goods"
+    ],
+    [
+      2,
+      1,
+      3,
+      "Escorting Transportation of Goods"
+    ],
+    [
+      4,
+      1,
+      1,
+      "Honing Item Condition"
+    ],
+    [
+      4,
+      1,
+      2,
+      "Honing Item Condition"
+    ],
+    [
+      4,
+      1,
+      3,
+      "Honing Item Condition"
+    ],
+    [
+      3,
+      6,
+      1,
+      "Plundering Fine Cartography Equipment"
+    ],
+    [
+      3,
+      6,
+      2,
+      "Plundering Fine Cartography Equipment"
+    ],
+    [
+      3,
+      6,
+      3,
+      "Plundering Fine Cartography Equipment"
+    ],
+    [
+      1,
+      6,
+      1,
+      "Guarding Fine Armoursmithing Equipment"
+    ],
+    [
+      1,
+      6,
+      2,
+      "Guarding Fine Armoursmithing Equipment"
+    ],
+    [
+      1,
+      6,
+      3,
+      "Guarding Fine Armoursmithing Equipment"
+    ],
+    [
+      2,
+      6,
+      1,
+      "Escorting Personal Weaponsmithing Equipment"
+    ],
+    [
+      2,
+      6,
+      2,
+      "Escorting Personal Weaponsmithing Equipment"
+    ],
+    [
+      2,
+      6,
+      3,
+      "Escorting Personal Weaponsmithing Equipment"
+    ],
+    [
+      4,
+      6,
+      1,
+      "Glassblowing (Impressive Lung Capacity!)"
+    ],
+    [
+      4,
+      6,
+      2,
+      "Glassblowing (Impressive Lung Capacity!)"
+    ],
+    [
+      4,
+      6,
+      3,
+      "Glassblowing (Impressive Lung Capacity!)"
+    ],
+    [
+      3,
+      9,
+      1,
+      "\"Finding\" Perandus Scarabs (Traitor!)"
+    ],
+    [
+      3,
+      9,
+      2,
+      "\"Finding\" Perandus Scarabs (Traitor!)"
+    ],
+    [
+      3,
+      9,
+      3,
+      "\"Finding\" Perandus Scarabs (Traitor!)"
+    ],
+    [
+      1,
+      9,
+      1,
+      "Accumulating Currency Shards (Pathetic!)"
+    ],
+    [
+      1,
+      9,
+      2,
+      "Accumulating Currency Shards (Pathetic!)"
+    ],
+    [
+      1,
+      9,
+      3,
+      "Accumulating Currency Shards (Pathetic!)"
+    ],
+    [
+      2,
+      9,
+      1,
+      "Transporting Quality-Modifying Currency"
+    ],
+    [
+      2,
+      9,
+      2,
+      "Transporting Quality-Modifying Currency"
+    ],
+    [
+      2,
+      9,
+      3,
+      "Transporting Quality-Modifying Currency"
+    ],
+    [
+      4,
+      9,
+      1,
+      "Securing Familial Coins (Fool!)"
+    ],
+    [
+      4,
+      9,
+      2,
+      "Securing Familial Coins (Fool!)"
+    ],
+    [
+      4,
+      9,
+      3,
+      "Securing Familial Coins (Fool!)"
+    ],
+    [
+      3,
+      13,
+      1,
+      "Snatching Elder Scarabs"
+    ],
+    [
+      3,
+      13,
+      2,
+      "Snatching Elder Scarabs"
+    ],
+    [
+      3,
+      13,
+      3,
+      "Snatching Elder Scarabs"
+    ],
+    [
+      1,
+      13,
+      1,
+      "Assembling Fragments"
+    ],
+    [
+      1,
+      13,
+      2,
+      "Assembling Fragments"
+    ],
+    [
+      1,
+      13,
+      3,
+      "Assembling Fragments"
+    ],
+    [
+      2,
+      13,
+      1,
+      "Smuggling Essences"
+    ],
+    [
+      2,
+      13,
+      2,
+      "Smuggling Essences"
+    ],
+    [
+      2,
+      13,
+      3,
+      "Smuggling Essences"
+    ],
+    [
+      4,
+      13,
+      1,
+      "Examining Fossils"
+    ],
+    [
+      4,
+      13,
+      2,
+      "Examining Fossils"
+    ],
+    [
+      4,
+      13,
+      3,
+      "Examining Fossils"
+    ],
+    [
+      3,
+      7,
+      1,
+      "Claiming Torment Scarabs"
+    ],
+    [
+      3,
+      7,
+      2,
+      "Claiming Torment Scarabs"
+    ],
+    [
+      3,
+      7,
+      3,
+      "Claiming Torment Scarabs"
+    ],
+    [
+      1,
+      7,
+      1,
+      "Banking Currency (Winnings?)"
+    ],
+    [
+      1,
+      7,
+      2,
+      "Banking Currency (Winnings?)"
+    ],
+    [
+      1,
+      7,
+      3,
+      "Banking Currency (Winnings?)"
+    ],
+    [
+      2,
+      7,
+      1,
+      "Relocating Silver Coin Stash"
+    ],
+    [
+      2,
+      7,
+      2,
+      "Relocating Silver Coin Stash"
+    ],
+    [
+      2,
+      7,
+      3,
+      "Relocating Silver Coin Stash"
+    ],
+    [
+      4,
+      7,
+      1,
+      "Testing Implicit Item Limits"
+    ],
+    [
+      4,
+      7,
+      2,
+      "Testing Item Variance Capacity"
+    ],
+    [
+      4,
+      7,
+      3,
+      "Imbuing Items With New Properties"
+    ],
+    [
+      3,
+      17,
+      1,
+      "Boobytrapping Stashes"
+    ],
+    [
+      3,
+      17,
+      2,
+      "Boobytrapping Stashes"
+    ],
+    [
+      3,
+      17,
+      3,
+      "Boobytrapping Stashes"
+    ],
+    [
+      1,
+      17,
+      1,
+      "Protecting Items from Theft (Paranoid?)"
+    ],
+    [
+      1,
+      17,
+      2,
+      "Protecting Items from Theft (Paranoid?)"
+    ],
+    [
+      1,
+      17,
+      3,
+      "Protecting Items from Theft (Paranoid?)"
+    ],
+    [
+      2,
+      17,
+      1,
+      "Rigging Item Selections (Likes Contraptions!)"
+    ],
+    [
+      2,
+      17,
+      2,
+      "Rigging Item Selections (Likes Contraptions!)"
+    ],
+    [
+      2,
+      17,
+      3,
+      "Rigging Item Selections (Likes Contraptions!)"
+    ],
+    [
+      4,
+      17,
+      1,
+      "Creating Item Conundrums"
+    ],
+    [
+      4,
+      17,
+      2,
+      "Creating Item Conundrums"
+    ],
+    [
+      4,
+      17,
+      3,
+      "Creating Item Conundrums"
+    ],
+    [
+      3,
+      14,
+      1,
+      "Swiping Cartography Scarabs"
+    ],
+    [
+      3,
+      14,
+      2,
+      "Swiping Cartography Scarabs"
+    ],
+    [
+      3,
+      14,
+      3,
+      "Swiping Cartography Scarabs"
+    ],
+    [
+      1,
+      14,
+      1,
+      "Securing Rare Maps"
+    ],
+    [
+      1,
+      14,
+      2,
+      "Securing Rare Maps"
+    ],
+    [
+      1,
+      14,
+      3,
+      "Securing Rare Maps"
+    ],
+    [
+      2,
+      14,
+      1,
+      "Guiding Maps Between Locations"
+    ],
+    [
+      2,
+      14,
+      2,
+      "Guiding Maps Between Locations"
+    ],
+    [
+      2,
+      14,
+      3,
+      "Guiding Maps Between Locations"
+    ],
+    [
+      4,
+      14,
+      1,
+      "Cataloguing Unique Maps"
+    ],
+    [
+      4,
+      14,
+      2,
+      "Cataloguing Unique Maps"
+    ],
+    [
+      4,
+      14,
+      3,
+      "Cataloguing Unique Maps"
+    ],
+    [
+      3,
+      12,
+      1,
+      "Seizing Bestiary Scarabs"
+    ],
+    [
+      3,
+      12,
+      2,
+      "Seizing Bestiary Scarabs"
+    ],
+    [
+      3,
+      12,
+      3,
+      "Seizing Bestiary Scarabs"
+    ],
+    [
+      1,
+      12,
+      1,
+      "Channeling the First Ones"
+    ],
+    [
+      1,
+      12,
+      2,
+      "Channeling the First Ones"
+    ],
+    [
+      1,
+      12,
+      3,
+      "Channeling the First Ones"
+    ],
+    [
+      2,
+      12,
+      1,
+      "Carrying Talismans on Pilgrimage"
+    ],
+    [
+      2,
+      12,
+      2,
+      "Carrying Talismans on Pilgrimage"
+    ],
+    [
+      2,
+      12,
+      3,
+      "Carrying Talismans on Pilgrimage"
+    ],
+    [
+      4,
+      12,
+      1,
+      "Imbuing Amulets with Talismanic Power"
+    ],
+    [
+      4,
+      12,
+      2,
+      "Imbuing Amulets with Talismanic Power"
+    ],
+    [
+      4,
+      12,
+      3,
+      "Imbuing Amulets with Talismanic Power"
+    ],
+    [
+      3,
+      3,
+      1,
+      "Hunting for Harbinger Scarabs"
+    ],
+    [
+      3,
+      3,
+      2,
+      "Hunting for Harbinger Scarabs"
+    ],
+    [
+      3,
+      3,
+      3,
+      "Hunting for Harbinger Scarabs"
+    ],
+    [
+      1,
+      3,
+      1,
+      "Enchanting Gloves"
+    ],
+    [
+      1,
+      3,
+      2,
+      "Enchanting Boots"
+    ],
+    [
+      1,
+      3,
+      3,
+      "Enchanting Helmets"
+    ],
+    [
+      2,
+      3,
+      1,
+      "Creating Timed Item Traps (Careful!)"
+    ],
+    [
+      2,
+      3,
+      2,
+      "Creating Timed Item Traps (Careful!)"
+    ],
+    [
+      2,
+      3,
+      3,
+      "Creating Timed Item Traps (Careful!)"
+    ],
+    [
+      4,
+      3,
+      1,
+      "Exposing Gems to Combat"
+    ],
+    [
+      4,
+      3,
+      2,
+      "Exposing Gems to Combat"
+    ],
+    [
+      4,
+      3,
+      3,
+      "Exposing Gems to Combat"
+    ],
+    [
+      3,
+      4,
+      1,
+      "Selectively Stealing Legion Scarabs"
+    ],
+    [
+      3,
+      4,
+      2,
+      "Selectively Stealing Legion Scarabs"
+    ],
+    [
+      3,
+      4,
+      3,
+      "Selectively Stealing Legion Scarabs"
+    ],
+    [
+      1,
+      4,
+      1,
+      "Patrolling Legion Cache"
+    ],
+    [
+      1,
+      4,
+      2,
+      "Patrolling Legion Cache"
+    ],
+    [
+      1,
+      4,
+      3,
+      "Patrolling Legion Cache"
+    ],
+    [
+      2,
+      4,
+      1,
+      "Relocating Timeless Splinters"
+    ],
+    [
+      2,
+      4,
+      2,
+      "Relocating Timeless Splinters"
+    ],
+    [
+      2,
+      4,
+      3,
+      "Relocating Timeless Splinters"
+    ],
+    [
+      4,
+      4,
+      1,
+      "Stashing Incubators"
+    ],
+    [
+      4,
+      4,
+      2,
+      "Stashing Incubators"
+    ],
+    [
+      4,
+      4,
+      3,
+      "Stashing Incubators"
+    ],
+    [
+      3,
+      5,
+      1,
+      "Thieving Shaper Scarabs"
+    ],
+    [
+      3,
+      5,
+      2,
+      "Thieving Shaper Scarabs"
+    ],
+    [
+      3,
+      5,
+      3,
+      "Thieving Shaper Scarabs"
+    ],
+    [
+      1,
+      5,
+      1,
+      "Stowing Socket-Modifying Orbs"
+    ],
+    [
+      1,
+      5,
+      2,
+      "Stowing Socket-Modifying Orbs"
+    ],
+    [
+      1,
+      5,
+      3,
+      "Stowing Socket-Modifying Orbs"
+    ],
+    [
+      2,
+      5,
+      1,
+      "Smuggling High-quality Gems"
+    ],
+    [
+      2,
+      5,
+      2,
+      "Smuggling High-quality Gems"
+    ],
+    [
+      2,
+      5,
+      3,
+      "Smuggling High-quality Gems"
+    ],
+    [
+      4,
+      5,
+      1,
+      "Forging Gem-Agnostic Sockets"
+    ],
+    [
+      4,
+      5,
+      2,
+      "Forging Gem-Agnostic Sockets"
+    ],
+    [
+      4,
+      5,
+      3,
+      "Forging Gem-Agnostic Sockets"
+    ]
+  ]
+}

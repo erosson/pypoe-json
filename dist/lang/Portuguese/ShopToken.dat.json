@@ -1,1 +1,1132 @@
-{"filename":"ShopToken.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"TypeId","rowid":1,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Description","rowid":2,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["ClosedBetaKey","Digital","Chave do Closed Beta"],["3ClosedBetaKeys","Digital","3 Chaves do Closed Beta"],["5ClosedBetaKeys","Digital","5 Chaves do Closed Beta"],["SupporterForum","Badge","Título de Fórum do Apoiador"],["BronzeForum","Badge","Título de Fórum do Apoiador Bronze"],["SilverForum","Badge","Título de Fórum do Apoiador Prata"],["GoldForum","Badge","Título de Fórum do Apoiador Ouro"],["DiamondForum","Badge","Título de Fórum do Apoiador Diamante"],["OriginalExtendedSoundtrack","Digital","Trilha Sonora Digital Extendida"],["PhysicalWraeclastPoster","PhysicalItem","Pôster do Mapa de Wraeclast"],["PhysicalDVD","PhysicalItem","DVD do Path of Exile"],["PhysicalCD","PhysicalItem","CD da Trilha Sonora"],["PhysicalOriginalShirt","PhysicalItem","Camiseta Path of Exile"],["PhysicalItemsSigned","PhysicalItem","Todos itens enviados assinados a pedido"],["NameInCredits","Digital","Seu nome nos créditos do Path of Exile"],["CustomAvatar","Digital","Um avatar do fórum personalizado conforme pedido"],["UniqueItem","Digital","Colabore conosco para desenvolver um Item Único baseado no seu design!"],["OpenBetaForum","Badge","Título de Fórum do Apoiador Open Beta"],["RegalForum","Badge","Título de Fórum do Apoiador Real"],["DivineForum","Badge","Título de Fórum do Apoiador Divino"],["ExaltedForum","Badge","Título de Fórum do Apoiador Exaltado"],["EternalForum","Badge","Título de Fórum do Apoiador Eterno"],["RulerOfWraeclastForum","Badge","Título de Fórum do Apoiador Governador de Wraeclast"],["OBTshirt","PhysicalItem","Camiseta do Logo do Path of Exile ou da Tabula Rasa"],["ChaosOrbKeyChain","PhysicalItem","Chaveiro do Orbe do Caos"],["OBStickers","PhysicalItem","2 Adesivos do Path of Exile"],["PhysicalWraeclastPosterSigned","PhysicalItem","Um segundo Pôster da Árvore de Habilidades com assinaturas personalizadas!"],["UniqueMonster","Digital","Crie um Monstro Personalizado!"],["UniqueMonsterPhysical","PhysicalItem","Receba um modelo físico do seu monstro"],["UniqueMonsterPetCodes","Digital","Receba 10 códigos para uma versão mascote do seu monstro no jogo"],["SurvivorForum","Badge","Título de Fórum do Apoiador Sobrevivente"],["WarriorForum","Badge","Título de Fórum do Apoiador Guerreiro"],["ChampionForum","Badge","Título de Fórum do Apoiador Campeão"],["ConquerorForum","Badge","Título de Fórum do Apoiador Conquistador"],["ExaltedTShirtHoodie","PhysicalItem","Camiseta e Moletom do Orbe Exaltado do Path of Exile"],["ApprenticeForum","Badge","Título de Fórum do Apoiador Aprendiz"],["JourneymanForum","Badge","Título de Fórum do Apoiador Trabalhador"],["MasterForum","Badge","Título de Fórum do Apoiador Mestre"],["GrandmasterForum","Badge","Título de Fórum do Apoiador Grão-Mestre"],["ForsakenMastersSignedArt","PhysicalItem","Arte Conceitual Assinada, Enviada para Você"],["AwakeningForum","Badge","Título de Fórum do Apoiador Awakening"],["AxiomForum","Badge","Título de Fórum do Apoiador Axiom"],["VaalForum","Badge","Título de Fórum do Apoiador Vaal"],["LunarisForum","Badge","Título de Fórum do Apoiador Lunaris"],["HighgateForum","Badge","Título de Fórum do Apoiador Highgate"],["AwakeningTShirt","PhysicalItem","Camiseta The Awakening"],["PhysicalGraphicNovel","PhysicalItem","História em Quadrinhos Física"],["DesignDivinationCard","Digital","Crie uma Carta de Adivinhação"],["DivinationCardAvatar","Digital","Usar Arte da Carta como Avatar do Fórum"],["AspirantForum","Badge","Título de Fórum do Apoiador Aspirante"],["ChallengerForum","Badge","Título de Fórum do Apoiador Desafiador"],["SovereignForum","Badge","Título de Fórum do Apoiador Soberano"],["AscendantForum","Badge","Título de Fórum do Apoiador Ascendente"],["AscendancyTShirt","PhysicalItem","Camiseta Ascendancy"],["AscendancyPhysicalArt","PhysicalItem","Arte do Ascendancy"],["AscendancySignedPhysicalArt","PhysicalItem","Arte do Ascendancy Assinada"],["Comic1","Digital","The Karui Way"],["Comic2","Digital","Sons of Virtue"],["Comic3","Digital","Death to Sin"],["Comic4","Digital","The Black Heart"],["ProphecyForum","Badge","Título de Fórum do Apoiador Prophecy"],["MinotaurForum","Badge","Título de Fórum do Apoiador Minotauro"],["HydraForum","Badge","Título de Fórum do Apoiador Hidra"],["ChimeraForum","Badge","Título de Fórum do Apoiador Quimera"],["PhoenixForum","Badge","Título de Fórum do Apoiador Fênix"],["AtlasTShirt","PhysicalItem","Camiseta Atlas of Worlds"],["ClothAtlasMap","PhysicalItem","Atlas de Microfibra"],["SignedClothAtlasMap","PhysicalItem","Atlas de Microfibra Assinado"],["BreachspawnForum","Badge","Título de Fórum do Apoiador Cria da Fenda"],["BreachlordForum","Badge","Título de Fórum do Apoiador Lorde da Fenda"],["ClassicForum","Badge","Título de Fórum do Apoiador Clássico"],["LegacyForum","Badge","Título de Fórum do Apoiador Legado"],["OriathTShirt","PhysicalItem","Camiseta Queda de Oriath"],["PantheonTShirt","PhysicalItem","Camiseta Premium Panteão"],["PurchaseDivinationCard","Digital","Direito de adquirir um Carta de Adivinhação por $620"],["OriathBetaKey","Grantable","Chave do Closed Beta de A Queda de Oriath"],["OriathForum","Badge","Título de Fórum do Apoiador Oriath"],["OutlawForum","Badge","Título de Fórum do Apoiador Fora da Lei"],["LegionForum","Badge","Título de Fórum do Apoiador Legião"],["EclipseForum","Badge","Título de Fórum do Apoiador Eclipse"],["BeastForum","Badge","Título de Fórum do Apoiador Bestial"],["KitavaForum","Badge","Título de Fórum do Apoiador Kitava"],["OriathArt","PhysicalItem","Livro Físico de Artes: A Arte do Path of Exile (Enviado em Outubro)"],["OriathBetaAccess","Grantable","Acesso ao Beta de A Queda de Oriath"],["PortentForum","Badge","Título de Fórum do Apoiador Prodígio"],["HarbingerForum","Badge","Título de Fórum do Apoiador Emissário"],["VagabondForum","Badge","Título de Fórum do Apoiador Poído"],["SeekerForum","Badge","Título de Fórum do Apoiador Observador"],["ScholarForum","Badge","Título de Fórum do Apoiador Erudito"],["RedeemerForum","Badge","Título de Fórum do Apoiador Redentor"],["SubjugatorForum","Badge","Título de Fórum do Apoiador Subjugador"],["DominatorForum","Badge","Título de Fórum do Apoiador Dominador"],["WarForTheAtlasTShirt","PhysicalItem","Camiseta Guerra pelo Atlas"],["AtlasIIClothMap","PhysicalItem","Atlas de Microfibra Não Assinado"],["SignedAtlasIIClothMap","PhysicalItem","Atlas de Microfibra Assinado por 10 Desenvolvedores"],["AbyssalImpForum","Badge","Título de Fórum do Apoiador Diabrete Abissal"],["AbyssalLichForum","Badge","Título de Fórum do Apoiador Lich Abissal"],["HarpyForum","Badge","Título de Fórum do Apoiador Harpia"],["AlphaHarpyForum","Badge","Título de Fórum do Apoiador Alfa Harpia"],["ManticoreForum","Badge","Título de Fórum do Apoiador Mantícora"],["AlphaManticoreForum","Badge","Título de Fórum do Apoiador Alfa Mantícora"],["ConquestForum","Badge","Título do Fórum Apoiador da Conquista"],["GrandConquestForum","Badge","Título do Fórum Apoiador da Grande Conquista"],["CouncilForum","Badge","Título do Fórum Apoiador do Conselho"],["HighCouncilForum","Badge","Título do Fórum Apoiador do Alto Conquista"],["DelveStalkerForum","Badge","Título do Fórum Apoiador Perseguidor"],["DelveShadowstalkerForum","Badge","Título do Fórum Apoiador Perseguidor das Sombras"],["DelveForgeForum","Badge","Título do Fórum Apoiador da Forja"],["DelveDreadforgeForum","Badge","Título do Fórum Apoiador da Forja Terrível"],["BetrayalSoulstealerForum","Badge","Título do Fórum Apoiador Ladrão de Almas"],["BetrayalMasterSoulstealerForum","Badge","Título do Fórum Apoiador Mestre Ladrão de Almas"],["BetrayalUndertakerForum","Badge","Título do Fórum Apoiador Sepultador"],["BetrayalMasterUndertakerForum","Badge","Título do Fórum Apoiador Mestre Sepultador"],["CorePitfighterForum","Badge","Título do Fórum Apoiador Combatente"],["CoreAssassinForum","Badge","Título do Fórum Apoiador Assassino"],["CoreVanguardForum","Badge","Título do Fórum Apoiador Infantaria"],["CoreEmpyreanForum","Badge","Título do Fórum Apoiador Empírico"],["CoreCrucibleForum","Badge","Título do Fórum Apoiador Crisol"],["CoreTShirt","PhysicalItem","Camiseta com o Logo do Path of Exile"],["CoreHoodie","PhysicalItem","Moletom com Capuz do Path of Exile"],["CoreArt","PhysicalItem","Pacote de Arte Assinada do Path of Exile"],["ExileconTicket","Digital","Ingresso da ExileCon"],["SynthesisSunstoneForum","Badge","Título do Fórum Apoiador Pedra Solar"],["SynthesisSunspireForum","Badge","Título do Fórum Apoiador Espiral Solar"],["SynthesisDoomcrowForum","Badge","Título do Fórum Apoiador Corvo da Perdição"],["SynthesisDoomguardForum","Badge","Título do Fórum Apoiador Guarda da Perdição"],["ExileconVIP","Digital","Passe VIP ExileCon"],["ExileconUltraVI","Digital","Passe Ultra VIP ExileCon"],["LegionCultofDarknessForum","Badge","Título de Fórum do Apoiador do Culto das Trevas"],["LegionCultofApocalypseForum","Badge","Título de Fórum do Apoiador do Culto Apocalíptico"],["LegionBloodKnightForum","Badge","Título de Fórum do Apoiador Cavaleiro Sanguinário"],["LegionBloodGuardianForum","Badge","Título de Fórum do Apoiador Guardião Sanguinário"],["ExileconRegularTicket","Digital","ExileCon Balcão"],["ExileconBalconyTicket","Digital","ExileCon Ingresso de Balcão"],["ExileconStaffBalconyTicket","Digital","ExileCon de Balcão da Equipe"],["ExileconStaffRegularTicket","Digital","ExileCon Normal da Equipe"],["ExileconStaffVIPTicket","Digital","ExileCon Ingresso VIP da Equipe"],["ExileconStaffUltraVIPTicket","Digital","ExileCon Ingresso Ultra VIP da Equipe"],["ExileconMediaBalconyTicket","Digital","ExileCon Ingresso de Balcão da Mídia"],["ExileconMediaRegularTicket","Digital","ExileCon Ingresso Normal da Mídia"],["ExileconMediaVIPTicket","Digital","ExileCon Ingresso VIP da Mídia"],["ExileconMediaUltraVIPTicket","Digital","ExileCon Ingresso Ultra VIP da Mídia"],["BlightLichForum","Badge","Título de Fórum Apoiador Lich"],["BlightBaneLichForum","Badge","Título de Fórum Apoiador Bane Lich"],["BlightSentinelForum","Badge","Título de Fórum Apoiador Sentinela"],["BlightSentinelOverlordForum","Badge","Título de Fórum Apoiador Sentinela Suserano"],["TencentChiyou","Badge","Título de Fórum Chiyou"],["MetamorphosisDamnationForum","Badge","Título de Fórum Apoiador da Danação"],["MetamorphosisEternalDamnationForum","Badge","Título de Fórum Apoiador da Danação Eterna"],["MetamorphosisSanctumForum","Badge","Título de Fórum Apoiador do Santuário"],["MetamorphosisGrandSanctumForum","Badge","Título de Fórum Apoiador do Grande Santuário"],["CoreBasiliskForum","Badge","Título de Fórum Apoiador Basilisco"],["CoreCrusaderForum","Badge","Título de Fórum Apoiador Cruzado"],["CoreEyrieForum","Badge","Título de Fórum Apoiador Eyrie"],["CoreJudicatorForum","Badge","Título de Fórum Apoiador Juiz"],["CoreOrionForum","Badge","Título de Fórum Apoiador Orion"],["CoreLabyrinthBook","PhysicalItem","Aventura Solo \"O Labirinto do Lorde\""],["TencentDarkDeicide","Badge","Título de Fórum do Deicide Sombrio"],["Core2020Art","PhysicalItem","Pacote de Arte Assinada do Path of Exile"],["AtlasIIIClothMap","PhysicalItem","Atlas de Microfibra"],["DeliriumDarkseerForum","Badge","Tïtulo de Fórum Apoiador Profeta Sombrio"],["DeliriumElderDarkseerForum","Badge","Tïtulo de Fórum Apoiador Profeta Sombrio Ancião"],["DeliriumFateweaverForum","Badge","Tïtulo de Fórum Apoiador Fiandeiro do Destino"],["DeliriumEliteFateweaverForum","Badge","Tïtulo de Fórum Apoiador Fiandeiro do Destino Elite"],["MerchandiseToken","PhysicalItem","Mercadorias"],["SolarisLunarisStatueToken","PhysicalItem","Estátua de Solaris e Lunaris"],["ExileConMysteryPackToken","PhysicalItem","Pacote Misterioso da ExileCon"],["TencentGoddess","Badge","Título de Fórum da Deusa"],["HarvestMalice","Badge","Título de Fórum Apoiador da Malícia"],["HarvestInsatiableMalice","Badge","Título de Fórum Apoiador da Malícia Insaciável"],["HarvestBenevolence","Badge","Título de Fórum Apoiador da Benevolência"],["HarvestDivineBenevolence","Badge","Título de Fórum Apoiador da Benevolência Divina"],["HeistSpellblade","Badge","Título de Fórum do Apoiador da Lâmina Mágica"],["HeistMasterSpellblade","Badge","Título de Fórum do Apoiador Mestre da Lâmina Mágica"],["HeistEagle","Badge","Título de Fórum do Apoiador Águia"],["HeistImperialEagle","Badge","Título de Fórum do Apoiador Águia Imperial"],["RitualRenegade","Badge","Título de Fórum Apoiador Renegado"],["RitualDeadlyRenegade","Badge","Título de Fórum Apoiador Renegado Mortal"],["RitualFaithsworn","Badge","Título de Fórum Apoiador Juramentado"],["RitualEliteFaithsworn","Badge","Título de Fórum Apoiador Juramentado Elite"],["Core2021DelveForum","Badge","Título de Fórum Apoiador Delve Principal"],["Core2021BreachForum","Badge","Título de Fórum Apoiador Breach Principal"],["Core2021AbyssForum","Badge","Título de Fórum Apoiador Abyss Principal"],["Core2021HarvestForum","Badge","Título de Fórum Apoiador Harvest Principal"],["Core2021AtlasForum","Badge","Título de Fórum Apoiador Atlas Principal"],["Core2021ShirtSelect","PhysicalItemSelect","Camiseta do Orbe Exaltado/Logo do Path of Exile"],["Core2021HoodieSelect","PhysicalItemSelect","Moletom do Orbe Exaltado/Logo do Path of Exile"],["Core2021Art","PhysicalItem","Pacote de Arte Assinado do Path of Exile"],["Core2021ShirtOptionCore2021S","PhysicalItemOption","Camiseta do Orbe Exaltado S"],["Core2021ShirtOptionCore2021M","PhysicalItemOption","Camiseta do Orbe Exaltado M"],["Core2021ShirtOptionCore2021L","PhysicalItemOption","Camiseta do Orbe Exaltado L"],["Core2021ShirtOptionCore2021XL","PhysicalItemOption","Camiseta do Orbe Exaltado XL"],["Core2021ShirtOptionCore2021XXL","PhysicalItemOption","Camiseta do Orbe Exaltado XXL"],["Core2021ShirtOptionCore20213XL","PhysicalItemOption","Camiseta do Orbe Exaltado 3XL"],["Core2021ShirtOptionCore20214XL","PhysicalItemOption","Camiseta do Orbe Exaltado 4XL"],["Core2021ShirtOptionCore2018S","PhysicalItemOption","Camiseta Logo do Path of Exile S"],["Core2021ShirtOptionCore2018M","PhysicalItemOption","Camiseta Logo do Path of Exile M"],["Core2021ShirtOptionCore2018L","PhysicalItemOption","Camiseta Logo do Path of Exile L"],["Core2021ShirtOptionCore2018XL","PhysicalItemOption","Camiseta Logo do Path of Exile XL"],["Core2021ShirtOptionCore2018XXL","PhysicalItemOption","Camiseta Logo do Path of Exile XXL"],["Core2021ShirtOptionCore20183XL","PhysicalItemOption","Camiseta Logo do Path of Exile 3XL"],["Core2021ShirtOptionCore20184XL","PhysicalItemOption","Camiseta Logo do Path of Exile 4XL"],["Core2021HoodieOptionCore2021S","PhysicalItemOption","Moletom do Orbe Exaltado S"],["Core2021HoodieOptionCore2021M","PhysicalItemOption","Moletom do Orbe Exaltado M"],["Core2021HoodieOptionCore2021L","PhysicalItemOption","Moletom do Orbe Exaltado L"],["Core2021HoodieOptionCore2021XL","PhysicalItemOption","Moletom do Orbe Exaltado XL"],["Core2021HoodieOptionCore2021XXL","PhysicalItemOption","Moletom do Orbe Exaltado XXL"],["Core2021HoodieOptionCore20213XL","PhysicalItemOption","Moletom do Orbe Exaltado 3XL"],["Core2021HoodieOptionCore20214XL","PhysicalItemOption","Moletom do Orbe Exaltado 4XL"],["Core2021HoodieOptionCore2018S","PhysicalItemOption","Moletom Logo do Path of Exile S"],["Core2021HoodieOptionCore2018M","PhysicalItemOption","Moletom Logo do Path of Exile M"],["Core2021HoodieOptionCore2018L","PhysicalItemOption","Moletom Logo do Path of Exile L"],["Core2021HoodieOptionCore2018XL","PhysicalItemOption","Moletom Logo do Path of Exile XL"],["Core2021HoodieOptionCore2018XXL","PhysicalItemOption","Moletom Logo do Path of Exile XXL"],["Core2021HoodieOptionCore20183XL","PhysicalItemOption","Moletom Logo do Path of Exile 3XL"],["Core2021HoodieOptionCore20184XL","PhysicalItemOption","Moletom Logo do Path of Exile 4XL"]]}
+{
+  "filename": "ShopToken.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "TypeId",
+      "rowid": 1,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Description",
+      "rowid": 2,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "ClosedBetaKey",
+      "Digital",
+      "Chave do Closed Beta"
+    ],
+    [
+      "3ClosedBetaKeys",
+      "Digital",
+      "3 Chaves do Closed Beta"
+    ],
+    [
+      "5ClosedBetaKeys",
+      "Digital",
+      "5 Chaves do Closed Beta"
+    ],
+    [
+      "SupporterForum",
+      "Badge",
+      "Título de Fórum do Apoiador"
+    ],
+    [
+      "BronzeForum",
+      "Badge",
+      "Título de Fórum do Apoiador Bronze"
+    ],
+    [
+      "SilverForum",
+      "Badge",
+      "Título de Fórum do Apoiador Prata"
+    ],
+    [
+      "GoldForum",
+      "Badge",
+      "Título de Fórum do Apoiador Ouro"
+    ],
+    [
+      "DiamondForum",
+      "Badge",
+      "Título de Fórum do Apoiador Diamante"
+    ],
+    [
+      "OriginalExtendedSoundtrack",
+      "Digital",
+      "Trilha Sonora Digital Extendida"
+    ],
+    [
+      "PhysicalWraeclastPoster",
+      "PhysicalItem",
+      "Pôster do Mapa de Wraeclast"
+    ],
+    [
+      "PhysicalDVD",
+      "PhysicalItem",
+      "DVD do Path of Exile"
+    ],
+    [
+      "PhysicalCD",
+      "PhysicalItem",
+      "CD da Trilha Sonora"
+    ],
+    [
+      "PhysicalOriginalShirt",
+      "PhysicalItem",
+      "Camiseta Path of Exile"
+    ],
+    [
+      "PhysicalItemsSigned",
+      "PhysicalItem",
+      "Todos itens enviados assinados a pedido"
+    ],
+    [
+      "NameInCredits",
+      "Digital",
+      "Seu nome nos créditos do Path of Exile"
+    ],
+    [
+      "CustomAvatar",
+      "Digital",
+      "Um avatar do fórum personalizado conforme pedido"
+    ],
+    [
+      "UniqueItem",
+      "Digital",
+      "Colabore conosco para desenvolver um Item Único baseado no seu design!"
+    ],
+    [
+      "OpenBetaForum",
+      "Badge",
+      "Título de Fórum do Apoiador Open Beta"
+    ],
+    [
+      "RegalForum",
+      "Badge",
+      "Título de Fórum do Apoiador Real"
+    ],
+    [
+      "DivineForum",
+      "Badge",
+      "Título de Fórum do Apoiador Divino"
+    ],
+    [
+      "ExaltedForum",
+      "Badge",
+      "Título de Fórum do Apoiador Exaltado"
+    ],
+    [
+      "EternalForum",
+      "Badge",
+      "Título de Fórum do Apoiador Eterno"
+    ],
+    [
+      "RulerOfWraeclastForum",
+      "Badge",
+      "Título de Fórum do Apoiador Governador de Wraeclast"
+    ],
+    [
+      "OBTshirt",
+      "PhysicalItem",
+      "Camiseta do Logo do Path of Exile ou da Tabula Rasa"
+    ],
+    [
+      "ChaosOrbKeyChain",
+      "PhysicalItem",
+      "Chaveiro do Orbe do Caos"
+    ],
+    [
+      "OBStickers",
+      "PhysicalItem",
+      "2 Adesivos do Path of Exile"
+    ],
+    [
+      "PhysicalWraeclastPosterSigned",
+      "PhysicalItem",
+      "Um segundo Pôster da Árvore de Habilidades com assinaturas personalizadas!"
+    ],
+    [
+      "UniqueMonster",
+      "Digital",
+      "Crie um Monstro Personalizado!"
+    ],
+    [
+      "UniqueMonsterPhysical",
+      "PhysicalItem",
+      "Receba um modelo físico do seu monstro"
+    ],
+    [
+      "UniqueMonsterPetCodes",
+      "Digital",
+      "Receba 10 códigos para uma versão mascote do seu monstro no jogo"
+    ],
+    [
+      "SurvivorForum",
+      "Badge",
+      "Título de Fórum do Apoiador Sobrevivente"
+    ],
+    [
+      "WarriorForum",
+      "Badge",
+      "Título de Fórum do Apoiador Guerreiro"
+    ],
+    [
+      "ChampionForum",
+      "Badge",
+      "Título de Fórum do Apoiador Campeão"
+    ],
+    [
+      "ConquerorForum",
+      "Badge",
+      "Título de Fórum do Apoiador Conquistador"
+    ],
+    [
+      "ExaltedTShirtHoodie",
+      "PhysicalItem",
+      "Camiseta e Moletom do Orbe Exaltado do Path of Exile"
+    ],
+    [
+      "ApprenticeForum",
+      "Badge",
+      "Título de Fórum do Apoiador Aprendiz"
+    ],
+    [
+      "JourneymanForum",
+      "Badge",
+      "Título de Fórum do Apoiador Trabalhador"
+    ],
+    [
+      "MasterForum",
+      "Badge",
+      "Título de Fórum do Apoiador Mestre"
+    ],
+    [
+      "GrandmasterForum",
+      "Badge",
+      "Título de Fórum do Apoiador Grão-Mestre"
+    ],
+    [
+      "ForsakenMastersSignedArt",
+      "PhysicalItem",
+      "Arte Conceitual Assinada, Enviada para Você"
+    ],
+    [
+      "AwakeningForum",
+      "Badge",
+      "Título de Fórum do Apoiador Awakening"
+    ],
+    [
+      "AxiomForum",
+      "Badge",
+      "Título de Fórum do Apoiador Axiom"
+    ],
+    [
+      "VaalForum",
+      "Badge",
+      "Título de Fórum do Apoiador Vaal"
+    ],
+    [
+      "LunarisForum",
+      "Badge",
+      "Título de Fórum do Apoiador Lunaris"
+    ],
+    [
+      "HighgateForum",
+      "Badge",
+      "Título de Fórum do Apoiador Highgate"
+    ],
+    [
+      "AwakeningTShirt",
+      "PhysicalItem",
+      "Camiseta The Awakening"
+    ],
+    [
+      "PhysicalGraphicNovel",
+      "PhysicalItem",
+      "História em Quadrinhos Física"
+    ],
+    [
+      "DesignDivinationCard",
+      "Digital",
+      "Crie uma Carta de Adivinhação"
+    ],
+    [
+      "DivinationCardAvatar",
+      "Digital",
+      "Usar Arte da Carta como Avatar do Fórum"
+    ],
+    [
+      "AspirantForum",
+      "Badge",
+      "Título de Fórum do Apoiador Aspirante"
+    ],
+    [
+      "ChallengerForum",
+      "Badge",
+      "Título de Fórum do Apoiador Desafiador"
+    ],
+    [
+      "SovereignForum",
+      "Badge",
+      "Título de Fórum do Apoiador Soberano"
+    ],
+    [
+      "AscendantForum",
+      "Badge",
+      "Título de Fórum do Apoiador Ascendente"
+    ],
+    [
+      "AscendancyTShirt",
+      "PhysicalItem",
+      "Camiseta Ascendancy"
+    ],
+    [
+      "AscendancyPhysicalArt",
+      "PhysicalItem",
+      "Arte do Ascendancy"
+    ],
+    [
+      "AscendancySignedPhysicalArt",
+      "PhysicalItem",
+      "Arte do Ascendancy Assinada"
+    ],
+    [
+      "Comic1",
+      "Digital",
+      "The Karui Way"
+    ],
+    [
+      "Comic2",
+      "Digital",
+      "Sons of Virtue"
+    ],
+    [
+      "Comic3",
+      "Digital",
+      "Death to Sin"
+    ],
+    [
+      "Comic4",
+      "Digital",
+      "The Black Heart"
+    ],
+    [
+      "ProphecyForum",
+      "Badge",
+      "Título de Fórum do Apoiador Prophecy"
+    ],
+    [
+      "MinotaurForum",
+      "Badge",
+      "Título de Fórum do Apoiador Minotauro"
+    ],
+    [
+      "HydraForum",
+      "Badge",
+      "Título de Fórum do Apoiador Hidra"
+    ],
+    [
+      "ChimeraForum",
+      "Badge",
+      "Título de Fórum do Apoiador Quimera"
+    ],
+    [
+      "PhoenixForum",
+      "Badge",
+      "Título de Fórum do Apoiador Fênix"
+    ],
+    [
+      "AtlasTShirt",
+      "PhysicalItem",
+      "Camiseta Atlas of Worlds"
+    ],
+    [
+      "ClothAtlasMap",
+      "PhysicalItem",
+      "Atlas de Microfibra"
+    ],
+    [
+      "SignedClothAtlasMap",
+      "PhysicalItem",
+      "Atlas de Microfibra Assinado"
+    ],
+    [
+      "BreachspawnForum",
+      "Badge",
+      "Título de Fórum do Apoiador Cria da Fenda"
+    ],
+    [
+      "BreachlordForum",
+      "Badge",
+      "Título de Fórum do Apoiador Lorde da Fenda"
+    ],
+    [
+      "ClassicForum",
+      "Badge",
+      "Título de Fórum do Apoiador Clássico"
+    ],
+    [
+      "LegacyForum",
+      "Badge",
+      "Título de Fórum do Apoiador Legado"
+    ],
+    [
+      "OriathTShirt",
+      "PhysicalItem",
+      "Camiseta Queda de Oriath"
+    ],
+    [
+      "PantheonTShirt",
+      "PhysicalItem",
+      "Camiseta Premium Panteão"
+    ],
+    [
+      "PurchaseDivinationCard",
+      "Digital",
+      "Direito de adquirir um Carta de Adivinhação por $620"
+    ],
+    [
+      "OriathBetaKey",
+      "Grantable",
+      "Chave do Closed Beta de A Queda de Oriath"
+    ],
+    [
+      "OriathForum",
+      "Badge",
+      "Título de Fórum do Apoiador Oriath"
+    ],
+    [
+      "OutlawForum",
+      "Badge",
+      "Título de Fórum do Apoiador Fora da Lei"
+    ],
+    [
+      "LegionForum",
+      "Badge",
+      "Título de Fórum do Apoiador Legião"
+    ],
+    [
+      "EclipseForum",
+      "Badge",
+      "Título de Fórum do Apoiador Eclipse"
+    ],
+    [
+      "BeastForum",
+      "Badge",
+      "Título de Fórum do Apoiador Bestial"
+    ],
+    [
+      "KitavaForum",
+      "Badge",
+      "Título de Fórum do Apoiador Kitava"
+    ],
+    [
+      "OriathArt",
+      "PhysicalItem",
+      "Livro Físico de Artes: A Arte do Path of Exile (Enviado em Outubro)"
+    ],
+    [
+      "OriathBetaAccess",
+      "Grantable",
+      "Acesso ao Beta de A Queda de Oriath"
+    ],
+    [
+      "PortentForum",
+      "Badge",
+      "Título de Fórum do Apoiador Prodígio"
+    ],
+    [
+      "HarbingerForum",
+      "Badge",
+      "Título de Fórum do Apoiador Emissário"
+    ],
+    [
+      "VagabondForum",
+      "Badge",
+      "Título de Fórum do Apoiador Poído"
+    ],
+    [
+      "SeekerForum",
+      "Badge",
+      "Título de Fórum do Apoiador Observador"
+    ],
+    [
+      "ScholarForum",
+      "Badge",
+      "Título de Fórum do Apoiador Erudito"
+    ],
+    [
+      "RedeemerForum",
+      "Badge",
+      "Título de Fórum do Apoiador Redentor"
+    ],
+    [
+      "SubjugatorForum",
+      "Badge",
+      "Título de Fórum do Apoiador Subjugador"
+    ],
+    [
+      "DominatorForum",
+      "Badge",
+      "Título de Fórum do Apoiador Dominador"
+    ],
+    [
+      "WarForTheAtlasTShirt",
+      "PhysicalItem",
+      "Camiseta Guerra pelo Atlas"
+    ],
+    [
+      "AtlasIIClothMap",
+      "PhysicalItem",
+      "Atlas de Microfibra Não Assinado"
+    ],
+    [
+      "SignedAtlasIIClothMap",
+      "PhysicalItem",
+      "Atlas de Microfibra Assinado por 10 Desenvolvedores"
+    ],
+    [
+      "AbyssalImpForum",
+      "Badge",
+      "Título de Fórum do Apoiador Diabrete Abissal"
+    ],
+    [
+      "AbyssalLichForum",
+      "Badge",
+      "Título de Fórum do Apoiador Lich Abissal"
+    ],
+    [
+      "HarpyForum",
+      "Badge",
+      "Título de Fórum do Apoiador Harpia"
+    ],
+    [
+      "AlphaHarpyForum",
+      "Badge",
+      "Título de Fórum do Apoiador Alfa Harpia"
+    ],
+    [
+      "ManticoreForum",
+      "Badge",
+      "Título de Fórum do Apoiador Mantícora"
+    ],
+    [
+      "AlphaManticoreForum",
+      "Badge",
+      "Título de Fórum do Apoiador Alfa Mantícora"
+    ],
+    [
+      "ConquestForum",
+      "Badge",
+      "Título do Fórum Apoiador da Conquista"
+    ],
+    [
+      "GrandConquestForum",
+      "Badge",
+      "Título do Fórum Apoiador da Grande Conquista"
+    ],
+    [
+      "CouncilForum",
+      "Badge",
+      "Título do Fórum Apoiador do Conselho"
+    ],
+    [
+      "HighCouncilForum",
+      "Badge",
+      "Título do Fórum Apoiador do Alto Conquista"
+    ],
+    [
+      "DelveStalkerForum",
+      "Badge",
+      "Título do Fórum Apoiador Perseguidor"
+    ],
+    [
+      "DelveShadowstalkerForum",
+      "Badge",
+      "Título do Fórum Apoiador Perseguidor das Sombras"
+    ],
+    [
+      "DelveForgeForum",
+      "Badge",
+      "Título do Fórum Apoiador da Forja"
+    ],
+    [
+      "DelveDreadforgeForum",
+      "Badge",
+      "Título do Fórum Apoiador da Forja Terrível"
+    ],
+    [
+      "BetrayalSoulstealerForum",
+      "Badge",
+      "Título do Fórum Apoiador Ladrão de Almas"
+    ],
+    [
+      "BetrayalMasterSoulstealerForum",
+      "Badge",
+      "Título do Fórum Apoiador Mestre Ladrão de Almas"
+    ],
+    [
+      "BetrayalUndertakerForum",
+      "Badge",
+      "Título do Fórum Apoiador Sepultador"
+    ],
+    [
+      "BetrayalMasterUndertakerForum",
+      "Badge",
+      "Título do Fórum Apoiador Mestre Sepultador"
+    ],
+    [
+      "CorePitfighterForum",
+      "Badge",
+      "Título do Fórum Apoiador Combatente"
+    ],
+    [
+      "CoreAssassinForum",
+      "Badge",
+      "Título do Fórum Apoiador Assassino"
+    ],
+    [
+      "CoreVanguardForum",
+      "Badge",
+      "Título do Fórum Apoiador Infantaria"
+    ],
+    [
+      "CoreEmpyreanForum",
+      "Badge",
+      "Título do Fórum Apoiador Empírico"
+    ],
+    [
+      "CoreCrucibleForum",
+      "Badge",
+      "Título do Fórum Apoiador Crisol"
+    ],
+    [
+      "CoreTShirt",
+      "PhysicalItem",
+      "Camiseta com o Logo do Path of Exile"
+    ],
+    [
+      "CoreHoodie",
+      "PhysicalItem",
+      "Moletom com Capuz do Path of Exile"
+    ],
+    [
+      "CoreArt",
+      "PhysicalItem",
+      "Pacote de Arte Assinada do Path of Exile"
+    ],
+    [
+      "ExileconTicket",
+      "Digital",
+      "Ingresso da ExileCon"
+    ],
+    [
+      "SynthesisSunstoneForum",
+      "Badge",
+      "Título do Fórum Apoiador Pedra Solar"
+    ],
+    [
+      "SynthesisSunspireForum",
+      "Badge",
+      "Título do Fórum Apoiador Espiral Solar"
+    ],
+    [
+      "SynthesisDoomcrowForum",
+      "Badge",
+      "Título do Fórum Apoiador Corvo da Perdição"
+    ],
+    [
+      "SynthesisDoomguardForum",
+      "Badge",
+      "Título do Fórum Apoiador Guarda da Perdição"
+    ],
+    [
+      "ExileconVIP",
+      "Digital",
+      "Passe VIP ExileCon"
+    ],
+    [
+      "ExileconUltraVI",
+      "Digital",
+      "Passe Ultra VIP ExileCon"
+    ],
+    [
+      "LegionCultofDarknessForum",
+      "Badge",
+      "Título de Fórum do Apoiador do Culto das Trevas"
+    ],
+    [
+      "LegionCultofApocalypseForum",
+      "Badge",
+      "Título de Fórum do Apoiador do Culto Apocalíptico"
+    ],
+    [
+      "LegionBloodKnightForum",
+      "Badge",
+      "Título de Fórum do Apoiador Cavaleiro Sanguinário"
+    ],
+    [
+      "LegionBloodGuardianForum",
+      "Badge",
+      "Título de Fórum do Apoiador Guardião Sanguinário"
+    ],
+    [
+      "ExileconRegularTicket",
+      "Digital",
+      "ExileCon Balcão"
+    ],
+    [
+      "ExileconBalconyTicket",
+      "Digital",
+      "ExileCon Ingresso de Balcão"
+    ],
+    [
+      "ExileconStaffBalconyTicket",
+      "Digital",
+      "ExileCon de Balcão da Equipe"
+    ],
+    [
+      "ExileconStaffRegularTicket",
+      "Digital",
+      "ExileCon Normal da Equipe"
+    ],
+    [
+      "ExileconStaffVIPTicket",
+      "Digital",
+      "ExileCon Ingresso VIP da Equipe"
+    ],
+    [
+      "ExileconStaffUltraVIPTicket",
+      "Digital",
+      "ExileCon Ingresso Ultra VIP da Equipe"
+    ],
+    [
+      "ExileconMediaBalconyTicket",
+      "Digital",
+      "ExileCon Ingresso de Balcão da Mídia"
+    ],
+    [
+      "ExileconMediaRegularTicket",
+      "Digital",
+      "ExileCon Ingresso Normal da Mídia"
+    ],
+    [
+      "ExileconMediaVIPTicket",
+      "Digital",
+      "ExileCon Ingresso VIP da Mídia"
+    ],
+    [
+      "ExileconMediaUltraVIPTicket",
+      "Digital",
+      "ExileCon Ingresso Ultra VIP da Mídia"
+    ],
+    [
+      "BlightLichForum",
+      "Badge",
+      "Título de Fórum Apoiador Lich"
+    ],
+    [
+      "BlightBaneLichForum",
+      "Badge",
+      "Título de Fórum Apoiador Bane Lich"
+    ],
+    [
+      "BlightSentinelForum",
+      "Badge",
+      "Título de Fórum Apoiador Sentinela"
+    ],
+    [
+      "BlightSentinelOverlordForum",
+      "Badge",
+      "Título de Fórum Apoiador Sentinela Suserano"
+    ],
+    [
+      "TencentChiyou",
+      "Badge",
+      "Título de Fórum Chiyou"
+    ],
+    [
+      "MetamorphosisDamnationForum",
+      "Badge",
+      "Título de Fórum Apoiador da Danação"
+    ],
+    [
+      "MetamorphosisEternalDamnationForum",
+      "Badge",
+      "Título de Fórum Apoiador da Danação Eterna"
+    ],
+    [
+      "MetamorphosisSanctumForum",
+      "Badge",
+      "Título de Fórum Apoiador do Santuário"
+    ],
+    [
+      "MetamorphosisGrandSanctumForum",
+      "Badge",
+      "Título de Fórum Apoiador do Grande Santuário"
+    ],
+    [
+      "CoreBasiliskForum",
+      "Badge",
+      "Título de Fórum Apoiador Basilisco"
+    ],
+    [
+      "CoreCrusaderForum",
+      "Badge",
+      "Título de Fórum Apoiador Cruzado"
+    ],
+    [
+      "CoreEyrieForum",
+      "Badge",
+      "Título de Fórum Apoiador Eyrie"
+    ],
+    [
+      "CoreJudicatorForum",
+      "Badge",
+      "Título de Fórum Apoiador Juiz"
+    ],
+    [
+      "CoreOrionForum",
+      "Badge",
+      "Título de Fórum Apoiador Orion"
+    ],
+    [
+      "CoreLabyrinthBook",
+      "PhysicalItem",
+      "Aventura Solo \"O Labirinto do Lorde\""
+    ],
+    [
+      "TencentDarkDeicide",
+      "Badge",
+      "Título de Fórum do Deicide Sombrio"
+    ],
+    [
+      "Core2020Art",
+      "PhysicalItem",
+      "Pacote de Arte Assinada do Path of Exile"
+    ],
+    [
+      "AtlasIIIClothMap",
+      "PhysicalItem",
+      "Atlas de Microfibra"
+    ],
+    [
+      "DeliriumDarkseerForum",
+      "Badge",
+      "Tïtulo de Fórum Apoiador Profeta Sombrio"
+    ],
+    [
+      "DeliriumElderDarkseerForum",
+      "Badge",
+      "Tïtulo de Fórum Apoiador Profeta Sombrio Ancião"
+    ],
+    [
+      "DeliriumFateweaverForum",
+      "Badge",
+      "Tïtulo de Fórum Apoiador Fiandeiro do Destino"
+    ],
+    [
+      "DeliriumEliteFateweaverForum",
+      "Badge",
+      "Tïtulo de Fórum Apoiador Fiandeiro do Destino Elite"
+    ],
+    [
+      "MerchandiseToken",
+      "PhysicalItem",
+      "Mercadorias"
+    ],
+    [
+      "SolarisLunarisStatueToken",
+      "PhysicalItem",
+      "Estátua de Solaris e Lunaris"
+    ],
+    [
+      "ExileConMysteryPackToken",
+      "PhysicalItem",
+      "Pacote Misterioso da ExileCon"
+    ],
+    [
+      "TencentGoddess",
+      "Badge",
+      "Título de Fórum da Deusa"
+    ],
+    [
+      "HarvestMalice",
+      "Badge",
+      "Título de Fórum Apoiador da Malícia"
+    ],
+    [
+      "HarvestInsatiableMalice",
+      "Badge",
+      "Título de Fórum Apoiador da Malícia Insaciável"
+    ],
+    [
+      "HarvestBenevolence",
+      "Badge",
+      "Título de Fórum Apoiador da Benevolência"
+    ],
+    [
+      "HarvestDivineBenevolence",
+      "Badge",
+      "Título de Fórum Apoiador da Benevolência Divina"
+    ],
+    [
+      "HeistSpellblade",
+      "Badge",
+      "Título de Fórum do Apoiador da Lâmina Mágica"
+    ],
+    [
+      "HeistMasterSpellblade",
+      "Badge",
+      "Título de Fórum do Apoiador Mestre da Lâmina Mágica"
+    ],
+    [
+      "HeistEagle",
+      "Badge",
+      "Título de Fórum do Apoiador Águia"
+    ],
+    [
+      "HeistImperialEagle",
+      "Badge",
+      "Título de Fórum do Apoiador Águia Imperial"
+    ],
+    [
+      "RitualRenegade",
+      "Badge",
+      "Título de Fórum Apoiador Renegado"
+    ],
+    [
+      "RitualDeadlyRenegade",
+      "Badge",
+      "Título de Fórum Apoiador Renegado Mortal"
+    ],
+    [
+      "RitualFaithsworn",
+      "Badge",
+      "Título de Fórum Apoiador Juramentado"
+    ],
+    [
+      "RitualEliteFaithsworn",
+      "Badge",
+      "Título de Fórum Apoiador Juramentado Elite"
+    ],
+    [
+      "Core2021DelveForum",
+      "Badge",
+      "Título de Fórum Apoiador Delve Principal"
+    ],
+    [
+      "Core2021BreachForum",
+      "Badge",
+      "Título de Fórum Apoiador Breach Principal"
+    ],
+    [
+      "Core2021AbyssForum",
+      "Badge",
+      "Título de Fórum Apoiador Abyss Principal"
+    ],
+    [
+      "Core2021HarvestForum",
+      "Badge",
+      "Título de Fórum Apoiador Harvest Principal"
+    ],
+    [
+      "Core2021AtlasForum",
+      "Badge",
+      "Título de Fórum Apoiador Atlas Principal"
+    ],
+    [
+      "Core2021ShirtSelect",
+      "PhysicalItemSelect",
+      "Camiseta do Orbe Exaltado/Logo do Path of Exile"
+    ],
+    [
+      "Core2021HoodieSelect",
+      "PhysicalItemSelect",
+      "Moletom do Orbe Exaltado/Logo do Path of Exile"
+    ],
+    [
+      "Core2021Art",
+      "PhysicalItem",
+      "Pacote de Arte Assinado do Path of Exile"
+    ],
+    [
+      "Core2021ShirtOptionCore2021S",
+      "PhysicalItemOption",
+      "Camiseta do Orbe Exaltado S"
+    ],
+    [
+      "Core2021ShirtOptionCore2021M",
+      "PhysicalItemOption",
+      "Camiseta do Orbe Exaltado M"
+    ],
+    [
+      "Core2021ShirtOptionCore2021L",
+      "PhysicalItemOption",
+      "Camiseta do Orbe Exaltado L"
+    ],
+    [
+      "Core2021ShirtOptionCore2021XL",
+      "PhysicalItemOption",
+      "Camiseta do Orbe Exaltado XL"
+    ],
+    [
+      "Core2021ShirtOptionCore2021XXL",
+      "PhysicalItemOption",
+      "Camiseta do Orbe Exaltado XXL"
+    ],
+    [
+      "Core2021ShirtOptionCore20213XL",
+      "PhysicalItemOption",
+      "Camiseta do Orbe Exaltado 3XL"
+    ],
+    [
+      "Core2021ShirtOptionCore20214XL",
+      "PhysicalItemOption",
+      "Camiseta do Orbe Exaltado 4XL"
+    ],
+    [
+      "Core2021ShirtOptionCore2018S",
+      "PhysicalItemOption",
+      "Camiseta Logo do Path of Exile S"
+    ],
+    [
+      "Core2021ShirtOptionCore2018M",
+      "PhysicalItemOption",
+      "Camiseta Logo do Path of Exile M"
+    ],
+    [
+      "Core2021ShirtOptionCore2018L",
+      "PhysicalItemOption",
+      "Camiseta Logo do Path of Exile L"
+    ],
+    [
+      "Core2021ShirtOptionCore2018XL",
+      "PhysicalItemOption",
+      "Camiseta Logo do Path of Exile XL"
+    ],
+    [
+      "Core2021ShirtOptionCore2018XXL",
+      "PhysicalItemOption",
+      "Camiseta Logo do Path of Exile XXL"
+    ],
+    [
+      "Core2021ShirtOptionCore20183XL",
+      "PhysicalItemOption",
+      "Camiseta Logo do Path of Exile 3XL"
+    ],
+    [
+      "Core2021ShirtOptionCore20184XL",
+      "PhysicalItemOption",
+      "Camiseta Logo do Path of Exile 4XL"
+    ],
+    [
+      "Core2021HoodieOptionCore2021S",
+      "PhysicalItemOption",
+      "Moletom do Orbe Exaltado S"
+    ],
+    [
+      "Core2021HoodieOptionCore2021M",
+      "PhysicalItemOption",
+      "Moletom do Orbe Exaltado M"
+    ],
+    [
+      "Core2021HoodieOptionCore2021L",
+      "PhysicalItemOption",
+      "Moletom do Orbe Exaltado L"
+    ],
+    [
+      "Core2021HoodieOptionCore2021XL",
+      "PhysicalItemOption",
+      "Moletom do Orbe Exaltado XL"
+    ],
+    [
+      "Core2021HoodieOptionCore2021XXL",
+      "PhysicalItemOption",
+      "Moletom do Orbe Exaltado XXL"
+    ],
+    [
+      "Core2021HoodieOptionCore20213XL",
+      "PhysicalItemOption",
+      "Moletom do Orbe Exaltado 3XL"
+    ],
+    [
+      "Core2021HoodieOptionCore20214XL",
+      "PhysicalItemOption",
+      "Moletom do Orbe Exaltado 4XL"
+    ],
+    [
+      "Core2021HoodieOptionCore2018S",
+      "PhysicalItemOption",
+      "Moletom Logo do Path of Exile S"
+    ],
+    [
+      "Core2021HoodieOptionCore2018M",
+      "PhysicalItemOption",
+      "Moletom Logo do Path of Exile M"
+    ],
+    [
+      "Core2021HoodieOptionCore2018L",
+      "PhysicalItemOption",
+      "Moletom Logo do Path of Exile L"
+    ],
+    [
+      "Core2021HoodieOptionCore2018XL",
+      "PhysicalItemOption",
+      "Moletom Logo do Path of Exile XL"
+    ],
+    [
+      "Core2021HoodieOptionCore2018XXL",
+      "PhysicalItemOption",
+      "Moletom Logo do Path of Exile XXL"
+    ],
+    [
+      "Core2021HoodieOptionCore20183XL",
+      "PhysicalItemOption",
+      "Moletom Logo do Path of Exile 3XL"
+    ],
+    [
+      "Core2021HoodieOptionCore20184XL",
+      "PhysicalItemOption",
+      "Moletom Logo do Path of Exile 4XL"
+    ]
+  ]
+}

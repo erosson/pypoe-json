@@ -1,1 +1,92 @@
-{"filename":"MonsterSpawnerOverrides.dat","header":[{"name":"Key0","rowid":0,"type":"ulong","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Base_MonsterVarietiesKey","rowid":1,"type":"ulong","key":"MonsterVarieties.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Override_MonsterVarietiesKey","rowid":2,"type":"ulong","key":"MonsterVarieties.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[[95,298,310],[44,1322,1333],[44,1324,1335],[44,1326,1337],[44,1382,1392],[44,1384,1394],[44,1388,1396],[44,1390,1398]]}
+{
+  "filename": "MonsterSpawnerOverrides.dat",
+  "header": [
+    {
+      "name": "Key0",
+      "rowid": 0,
+      "type": "ulong",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Base_MonsterVarietiesKey",
+      "rowid": 1,
+      "type": "ulong",
+      "key": "MonsterVarieties.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Override_MonsterVarietiesKey",
+      "rowid": 2,
+      "type": "ulong",
+      "key": "MonsterVarieties.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      95,
+      298,
+      310
+    ],
+    [
+      44,
+      1322,
+      1333
+    ],
+    [
+      44,
+      1324,
+      1335
+    ],
+    [
+      44,
+      1326,
+      1337
+    ],
+    [
+      44,
+      1382,
+      1392
+    ],
+    [
+      44,
+      1384,
+      1394
+    ],
+    [
+      44,
+      1388,
+      1396
+    ],
+    [
+      44,
+      1390,
+      1398
+    ]
+  ]
+}

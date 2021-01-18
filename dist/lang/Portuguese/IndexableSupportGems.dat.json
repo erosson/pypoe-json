@@ -1,1 +1,717 @@
-{"filename":"IndexableSupportGems.dat","header":[{"name":"Unknown0","rowid":0,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"BaseItemTypesKey","rowid":1,"type":"ulong","key":"BaseItemTypes.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Name","rowid":2,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[[1,35,"Projéteis Múltiplos Melhorado"],[2,304,"Manipulação do Vácuo"],[3,330,"Toxinas Letais"],[4,389,"Libertar"],[5,333,"Afecções Libertas"],[6,316,"Armadilhas Avançadas"],[7,282,"Dano de Armadilha e Mina"],[8,70,"Armadilha"],[9,427,"Montagem Rápida"],[10,347,"Convocar Fantasma"],[11,193,"Resistências Elementais de Lacaios e Totens"],[12,67,"Atordoar"],[13,343,"Canalização Infundida"],[14,346,"Chamado Ancestral"],[15,149,"Totem de Magia"],[16,388,"Intensificar"],[17,345,"Cascata Mágica"],[18,209,"Projéteis Lentos"],[19,402,"Onda de Choque"],[20,477,"Segunda Ventania"],[21,335,"Impiedade"],[22,423,"Mina de Alto Impacto"],[23,150,"Mina Remota"],[24,55,"Mana Reduzida"],[25,210,"Menos Duração"],[26,306,"Sofrimento Veloz"],[27,171,"Totem Balista"],[28,410,"Fúria"],[29,409,"Pulverizar "],[30,190,"Carga de Poder no Crítico"],[31,298,"Envenenar"],[32,145,"Queima-Roupa"],[33,69,"Atravessar"],[34,264,"Físico para Raio"],[35,230,"Projéteis Perigosos"],[36,344,"Rajada"],[37,336,"Agressividade"],[38,418,"Lâmina Noturna"],[39,199,"Múltiplas Armadilhas"],[40,376,"Totens Múltiplos"],[41,187,"Multi-ataque"],[42,188,"Eco Mágico"],[43,348,"Arqueiro Ilusório"],[44,315,"Campo Minado"],[45,189,"Propagar Dano"],[46,82,"Dano Físico Corpo a Corpo"],[47,148,"Dano com Vida Cheia"],[48,419,"Escudo de Carne"],[49,60,"Dreno de Mana"],[50,331,"Mutilação"],[51,174,"Penetração de Raio"],[52,59,"Dreno de Vida"],[53,114,"Ganho de Vida no Acerto"],[54,325,"Veneno Menor"],[55,36,"Projéteis Múltiplos Menor"],[56,58,"Empurrar"],[57,84,"Raridade de Itens"],[58,147,"Vontade de Ferro"],[59,146,"Empunhadura de Ferro"],[60,280,"Inervação"],[61,424,"Legião Infernal"],[62,110,"Velocidade do Lacaio"],[63,111,"Vida do Lacaio"],[64,106,"Dano do Lacaio"],[65,107,"Duração Aumentada"],[66,56,"Acertos Críticos Aumentados"],[67,57,"Dano Crítico Aumentado"],[68,192,"Dano Incendiário"],[69,40,"Efeito em Área Aumentado"],[70,406,"Empalar"],[71,332,"Imolação"],[72,323,"Proliferação de Incêndio"],[73,278,"Mordida Congelante"],[74,279,"Hipotermia"],[75,433,"Grande Rajada"],[76,112,"Dano Elemental com Ataques"],[77,245,"Generosidade"],[78,359,"Armadilhas Carregadas"],[79,276,"Fortificar"],[80,178,"Difundir"],[81,157,"Chance de Fugir"],[82,172,"Penetração de Fogo"],[83,415,"Frenesi Faminto"],[84,37,"Projéteis Rápidos"],[85,85,"Conjuração Acelerada"],[86,34,"Ataques Acelerados"],[87,382,"Dreno de Energia"],[88,204,"Carga de Tolerância ao Atordoar em Corpo a Corpo"],[89,140,"Proliferação Elemental"],[90,314,"Foco Elemental"],[91,329,"Eficácia"],[92,328,"Podridão"],[93,416,"Predador"],[94,326,"Afecções Mortais"],[95,194,"Amaldiçoar ao Acertar"],[96,144,"Golpe Abatedor"],[97,305,"Destruição Controlada"],[98,105,"Efeito Concentrado"],[99,108,"Gelo a Fogo"],[100,173,"Penetração de Gelo"],[101,307,"Grupo de Armadilhas"],[102,401,"Combate Próximo"],[103,360,"Minas Carregadas"],[104,367,"Suporte Toque Definhador"],[105,109,"Combustão"],[106,324,"Chance de Sangramento"],[107,176,"Ricochete"],[108,320,"Conjurar ao Canalizar"],[109,213,"Conjurar quando Atordoado"],[110,198,"Conjurar ao Matar Corpo a Corpo"],[111,211,"Conjurar ao Morrer"],[112,212,"Conjurar ao Sofrer Dano"],[113,197,"Conjurar no Acerto Crítico"],[114,334,"Brutalidade"],[115,368,"Suporte Resfriamento Ósseo"],[116,141,"Magia Sanguínea"],[117,113,"Sanguinolência"],[118,163,"Cegar"],[119,270,"Blasfêmia"],[120,430,"Barragem"],[121,429,"Nova de Flechas"],[122,476,"Arquimago"],[123,337,"Fúria Arcana"],[124,39,"Precisão Adicional"],[125,41,"Dano Adicional de Raio"],[126,33,"Dano Adicional de Fogo"],[127,38,"Dano Adicional de Gelo"],[128,61,"Dano Adicional de Caos"],[129,486,"Punho da Guerra"],[130,487,"Runa Repentina"],[131,488,"Ordens Urgentes"],[132,498,"Localizar"],[133,496,"Destruição Iminente"]]}
+{
+  "filename": "IndexableSupportGems.dat",
+  "header": [
+    {
+      "name": "Unknown0",
+      "rowid": 0,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "BaseItemTypesKey",
+      "rowid": 1,
+      "type": "ulong",
+      "key": "BaseItemTypes.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Name",
+      "rowid": 2,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      1,
+      35,
+      "Projéteis Múltiplos Melhorado"
+    ],
+    [
+      2,
+      304,
+      "Manipulação do Vácuo"
+    ],
+    [
+      3,
+      330,
+      "Toxinas Letais"
+    ],
+    [
+      4,
+      389,
+      "Libertar"
+    ],
+    [
+      5,
+      333,
+      "Afecções Libertas"
+    ],
+    [
+      6,
+      316,
+      "Armadilhas Avançadas"
+    ],
+    [
+      7,
+      282,
+      "Dano de Armadilha e Mina"
+    ],
+    [
+      8,
+      70,
+      "Armadilha"
+    ],
+    [
+      9,
+      427,
+      "Montagem Rápida"
+    ],
+    [
+      10,
+      347,
+      "Convocar Fantasma"
+    ],
+    [
+      11,
+      193,
+      "Resistências Elementais de Lacaios e Totens"
+    ],
+    [
+      12,
+      67,
+      "Atordoar"
+    ],
+    [
+      13,
+      343,
+      "Canalização Infundida"
+    ],
+    [
+      14,
+      346,
+      "Chamado Ancestral"
+    ],
+    [
+      15,
+      149,
+      "Totem de Magia"
+    ],
+    [
+      16,
+      388,
+      "Intensificar"
+    ],
+    [
+      17,
+      345,
+      "Cascata Mágica"
+    ],
+    [
+      18,
+      209,
+      "Projéteis Lentos"
+    ],
+    [
+      19,
+      402,
+      "Onda de Choque"
+    ],
+    [
+      20,
+      477,
+      "Segunda Ventania"
+    ],
+    [
+      21,
+      335,
+      "Impiedade"
+    ],
+    [
+      22,
+      423,
+      "Mina de Alto Impacto"
+    ],
+    [
+      23,
+      150,
+      "Mina Remota"
+    ],
+    [
+      24,
+      55,
+      "Mana Reduzida"
+    ],
+    [
+      25,
+      210,
+      "Menos Duração"
+    ],
+    [
+      26,
+      306,
+      "Sofrimento Veloz"
+    ],
+    [
+      27,
+      171,
+      "Totem Balista"
+    ],
+    [
+      28,
+      410,
+      "Fúria"
+    ],
+    [
+      29,
+      409,
+      "Pulverizar "
+    ],
+    [
+      30,
+      190,
+      "Carga de Poder no Crítico"
+    ],
+    [
+      31,
+      298,
+      "Envenenar"
+    ],
+    [
+      32,
+      145,
+      "Queima-Roupa"
+    ],
+    [
+      33,
+      69,
+      "Atravessar"
+    ],
+    [
+      34,
+      264,
+      "Físico para Raio"
+    ],
+    [
+      35,
+      230,
+      "Projéteis Perigosos"
+    ],
+    [
+      36,
+      344,
+      "Rajada"
+    ],
+    [
+      37,
+      336,
+      "Agressividade"
+    ],
+    [
+      38,
+      418,
+      "Lâmina Noturna"
+    ],
+    [
+      39,
+      199,
+      "Múltiplas Armadilhas"
+    ],
+    [
+      40,
+      376,
+      "Totens Múltiplos"
+    ],
+    [
+      41,
+      187,
+      "Multi-ataque"
+    ],
+    [
+      42,
+      188,
+      "Eco Mágico"
+    ],
+    [
+      43,
+      348,
+      "Arqueiro Ilusório"
+    ],
+    [
+      44,
+      315,
+      "Campo Minado"
+    ],
+    [
+      45,
+      189,
+      "Propagar Dano"
+    ],
+    [
+      46,
+      82,
+      "Dano Físico Corpo a Corpo"
+    ],
+    [
+      47,
+      148,
+      "Dano com Vida Cheia"
+    ],
+    [
+      48,
+      419,
+      "Escudo de Carne"
+    ],
+    [
+      49,
+      60,
+      "Dreno de Mana"
+    ],
+    [
+      50,
+      331,
+      "Mutilação"
+    ],
+    [
+      51,
+      174,
+      "Penetração de Raio"
+    ],
+    [
+      52,
+      59,
+      "Dreno de Vida"
+    ],
+    [
+      53,
+      114,
+      "Ganho de Vida no Acerto"
+    ],
+    [
+      54,
+      325,
+      "Veneno Menor"
+    ],
+    [
+      55,
+      36,
+      "Projéteis Múltiplos Menor"
+    ],
+    [
+      56,
+      58,
+      "Empurrar"
+    ],
+    [
+      57,
+      84,
+      "Raridade de Itens"
+    ],
+    [
+      58,
+      147,
+      "Vontade de Ferro"
+    ],
+    [
+      59,
+      146,
+      "Empunhadura de Ferro"
+    ],
+    [
+      60,
+      280,
+      "Inervação"
+    ],
+    [
+      61,
+      424,
+      "Legião Infernal"
+    ],
+    [
+      62,
+      110,
+      "Velocidade do Lacaio"
+    ],
+    [
+      63,
+      111,
+      "Vida do Lacaio"
+    ],
+    [
+      64,
+      106,
+      "Dano do Lacaio"
+    ],
+    [
+      65,
+      107,
+      "Duração Aumentada"
+    ],
+    [
+      66,
+      56,
+      "Acertos Críticos Aumentados"
+    ],
+    [
+      67,
+      57,
+      "Dano Crítico Aumentado"
+    ],
+    [
+      68,
+      192,
+      "Dano Incendiário"
+    ],
+    [
+      69,
+      40,
+      "Efeito em Área Aumentado"
+    ],
+    [
+      70,
+      406,
+      "Empalar"
+    ],
+    [
+      71,
+      332,
+      "Imolação"
+    ],
+    [
+      72,
+      323,
+      "Proliferação de Incêndio"
+    ],
+    [
+      73,
+      278,
+      "Mordida Congelante"
+    ],
+    [
+      74,
+      279,
+      "Hipotermia"
+    ],
+    [
+      75,
+      433,
+      "Grande Rajada"
+    ],
+    [
+      76,
+      112,
+      "Dano Elemental com Ataques"
+    ],
+    [
+      77,
+      245,
+      "Generosidade"
+    ],
+    [
+      78,
+      359,
+      "Armadilhas Carregadas"
+    ],
+    [
+      79,
+      276,
+      "Fortificar"
+    ],
+    [
+      80,
+      178,
+      "Difundir"
+    ],
+    [
+      81,
+      157,
+      "Chance de Fugir"
+    ],
+    [
+      82,
+      172,
+      "Penetração de Fogo"
+    ],
+    [
+      83,
+      415,
+      "Frenesi Faminto"
+    ],
+    [
+      84,
+      37,
+      "Projéteis Rápidos"
+    ],
+    [
+      85,
+      85,
+      "Conjuração Acelerada"
+    ],
+    [
+      86,
+      34,
+      "Ataques Acelerados"
+    ],
+    [
+      87,
+      382,
+      "Dreno de Energia"
+    ],
+    [
+      88,
+      204,
+      "Carga de Tolerância ao Atordoar em Corpo a Corpo"
+    ],
+    [
+      89,
+      140,
+      "Proliferação Elemental"
+    ],
+    [
+      90,
+      314,
+      "Foco Elemental"
+    ],
+    [
+      91,
+      329,
+      "Eficácia"
+    ],
+    [
+      92,
+      328,
+      "Podridão"
+    ],
+    [
+      93,
+      416,
+      "Predador"
+    ],
+    [
+      94,
+      326,
+      "Afecções Mortais"
+    ],
+    [
+      95,
+      194,
+      "Amaldiçoar ao Acertar"
+    ],
+    [
+      96,
+      144,
+      "Golpe Abatedor"
+    ],
+    [
+      97,
+      305,
+      "Destruição Controlada"
+    ],
+    [
+      98,
+      105,
+      "Efeito Concentrado"
+    ],
+    [
+      99,
+      108,
+      "Gelo a Fogo"
+    ],
+    [
+      100,
+      173,
+      "Penetração de Gelo"
+    ],
+    [
+      101,
+      307,
+      "Grupo de Armadilhas"
+    ],
+    [
+      102,
+      401,
+      "Combate Próximo"
+    ],
+    [
+      103,
+      360,
+      "Minas Carregadas"
+    ],
+    [
+      104,
+      367,
+      "Suporte Toque Definhador"
+    ],
+    [
+      105,
+      109,
+      "Combustão"
+    ],
+    [
+      106,
+      324,
+      "Chance de Sangramento"
+    ],
+    [
+      107,
+      176,
+      "Ricochete"
+    ],
+    [
+      108,
+      320,
+      "Conjurar ao Canalizar"
+    ],
+    [
+      109,
+      213,
+      "Conjurar quando Atordoado"
+    ],
+    [
+      110,
+      198,
+      "Conjurar ao Matar Corpo a Corpo"
+    ],
+    [
+      111,
+      211,
+      "Conjurar ao Morrer"
+    ],
+    [
+      112,
+      212,
+      "Conjurar ao Sofrer Dano"
+    ],
+    [
+      113,
+      197,
+      "Conjurar no Acerto Crítico"
+    ],
+    [
+      114,
+      334,
+      "Brutalidade"
+    ],
+    [
+      115,
+      368,
+      "Suporte Resfriamento Ósseo"
+    ],
+    [
+      116,
+      141,
+      "Magia Sanguínea"
+    ],
+    [
+      117,
+      113,
+      "Sanguinolência"
+    ],
+    [
+      118,
+      163,
+      "Cegar"
+    ],
+    [
+      119,
+      270,
+      "Blasfêmia"
+    ],
+    [
+      120,
+      430,
+      "Barragem"
+    ],
+    [
+      121,
+      429,
+      "Nova de Flechas"
+    ],
+    [
+      122,
+      476,
+      "Arquimago"
+    ],
+    [
+      123,
+      337,
+      "Fúria Arcana"
+    ],
+    [
+      124,
+      39,
+      "Precisão Adicional"
+    ],
+    [
+      125,
+      41,
+      "Dano Adicional de Raio"
+    ],
+    [
+      126,
+      33,
+      "Dano Adicional de Fogo"
+    ],
+    [
+      127,
+      38,
+      "Dano Adicional de Gelo"
+    ],
+    [
+      128,
+      61,
+      "Dano Adicional de Caos"
+    ],
+    [
+      129,
+      486,
+      "Punho da Guerra"
+    ],
+    [
+      130,
+      487,
+      "Runa Repentina"
+    ],
+    [
+      131,
+      488,
+      "Ordens Urgentes"
+    ],
+    [
+      132,
+      498,
+      "Localizar"
+    ],
+    [
+      133,
+      496,
+      "Destruição Iminente"
+    ]
+  ]
+}

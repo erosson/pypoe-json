@@ -1,1 +1,237 @@
-{"filename":"BestiaryNets.dat","header":[{"name":"BaseItemTypesKey","rowid":0,"type":"ulong","key":"BaseItemTypes.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown0","rowid":1,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"CaptureMinLevel","rowid":2,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"CaptureMaxLevel","rowid":3,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"DropMinLevel","rowid":4,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"DropMaxLevel","rowid":5,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown1","rowid":6,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"IsEnabled","rowid":7,"type":"bool","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[[212,60,1,13,1,17,1,false],[213,170,7,23,4,27,2,false],[214,650,15,35,12,39,3,false],[215,1400,25,46,22,50,4,false],[216,2500,37,56,34,60,5,false],[217,5000,48,66,45,69,6,false],[218,12500,58,70,55,73,7,false],[219,30000,60,75,57,78,8,false],[220,75000,64,100,61,100,9,false],[221,1200000,68,100,65,100,10,false],[222,0,0,0,0,0,1,true]]}
+{
+  "filename": "BestiaryNets.dat",
+  "header": [
+    {
+      "name": "BaseItemTypesKey",
+      "rowid": 0,
+      "type": "ulong",
+      "key": "BaseItemTypes.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown0",
+      "rowid": 1,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "CaptureMinLevel",
+      "rowid": 2,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "CaptureMaxLevel",
+      "rowid": 3,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "DropMinLevel",
+      "rowid": 4,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "DropMaxLevel",
+      "rowid": 5,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown1",
+      "rowid": 6,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "IsEnabled",
+      "rowid": 7,
+      "type": "bool",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      212,
+      60,
+      1,
+      13,
+      1,
+      17,
+      1,
+      false
+    ],
+    [
+      213,
+      170,
+      7,
+      23,
+      4,
+      27,
+      2,
+      false
+    ],
+    [
+      214,
+      650,
+      15,
+      35,
+      12,
+      39,
+      3,
+      false
+    ],
+    [
+      215,
+      1400,
+      25,
+      46,
+      22,
+      50,
+      4,
+      false
+    ],
+    [
+      216,
+      2500,
+      37,
+      56,
+      34,
+      60,
+      5,
+      false
+    ],
+    [
+      217,
+      5000,
+      48,
+      66,
+      45,
+      69,
+      6,
+      false
+    ],
+    [
+      218,
+      12500,
+      58,
+      70,
+      55,
+      73,
+      7,
+      false
+    ],
+    [
+      219,
+      30000,
+      60,
+      75,
+      57,
+      78,
+      8,
+      false
+    ],
+    [
+      220,
+      75000,
+      64,
+      100,
+      61,
+      100,
+      9,
+      false
+    ],
+    [
+      221,
+      1200000,
+      68,
+      100,
+      65,
+      100,
+      10,
+      false
+    ],
+    [
+      222,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      true
+    ]
+  ]
+}

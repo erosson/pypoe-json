@@ -1,1 +1,2402 @@
-{"filename":"Quest.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":true,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Act","rowid":1,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Name","rowid":2,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Icon_DDSFile","rowid":3,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":true,"file_ext":".dds","display":null,"display_type":"{0}","description":null},{"name":"QuestId","rowid":4,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Flag0","rowid":5,"type":"bool","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown4","rowid":6,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown5","rowid":7,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown6","rowid":8,"type":"ref|list|int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown7","rowid":9,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["a1q1",1,"Un enemigo en la puerta","Art/2DArt/QuestIcons/hillock.dds",6,false,0,0,[],37],["a1q5",1,"Misión misericordiosa","Art/2DArt/QuestIcons/medicinechest.dds",5,false,0,0,[],37],["a1q4",1,"Rompiendo algunos huevos","Art/2DArt/QuestIcons/mudflats.dds",4,false,0,0,[],37],["a1q8",1,"Un trabajo sucio","Art/2DArt/QuestIcons/dirtyjob.dds",9,true,1,0,[],37],["a1q7",1,"El Morador de las profundidades","Art/2DArt/QuestIcons/deepdweller.dds",8,true,1,0,[],37],["a1q2",1,"El bruto encarcelado","Art/2DArt/QuestIcons/brutus.dds",2,false,0,0,[],37],["a1q6",1,"El marinero abandonado","Art/2DArt/QuestIcons/fairgraves.dds",7,true,1,0,[],37],["a1q3",1,"La cadencia de la sirena","Art/2DArt/QuestIcons/merveil.dds",1,false,0,0,[],37],["a1q9",1,"El camino hacia adelante","Art/2DArt/QuestIcons/forest.dds",3,false,0,0,[],37],["a2q11",2,"El camino hacia adelante","Art/2DArt/QuestIcons/forest.dds",9,false,0,0,[],37],["a2q5",2,"A través de suelo sagrado","Art/2DArt/QuestIcons/goldenhand.dds",10,true,1,0,[],37],["a2q6",2,"Intrusos de negro","Art/2DArt/QuestIcons/chamberofsins.dds",8,false,0,0,[],37],["a2q10",2,"La gran bestia blanca","Art/2DArt/QuestIcons/greatwhitebeast.dds",12,true,1,0,[],37],["a2q4",2,"Puntiaguda y cruel","Art/2DArt/QuestIcons/poisonspear.dds",7,false,0,0,[],37],["a2q9",2,"La raíz del problema","Art/2DArt/QuestIcons/cathedralofbones.dds",6,false,0,0,[],37],["a2q7",2,"Encárgate de los bandidos","Art/2DArt/QuestIcons/bandits.dds",2,false,0,0,[],37],["a2q1",2,"El Señor Bandido Kraityn","Art/2DArt/QuestIcons/kraityn.dds",3,false,0,0,[],37],["a2q2",2,"La Señora Bandida Alira","Art/2DArt/QuestIcons/alira.dds",4,false,0,0,[],37],["a2q3",2,"El Señor Bandido Oak","Art/2DArt/QuestIcons/oak.dds",5,false,0,0,[],37],["a2q8",2,"Sombra de los vaal","Art/2DArt/QuestIcons/incaboss.dds",1,false,0,0,[],37],["a2q8a3",3,"Sombra de los vaal","Art/2DArt/QuestIcons/incaboss.dds",1,false,0,0,[],37],["a3q1",3,"Perdidamente enamorados","Art/2DArt/QuestIcons/findingclarity.dds",8,false,0,0,[],37],["a3q2",3,"Perdidamente enamorados","Art/2DArt/QuestIcons/findingclarity.dds",7,false,0,0,[],37],["a3q11",3,"Los secretos de Victario","Art/2DArt/QuestIcons/victariostash.dds",12,true,1,0,[],37],["a3q3",3,"La Reina Gemita","Art/2DArt/QuestIcons/tombofthegemlingqueen.dds",6,false,0,0,[],37],["a3q4",3,"El carrete de cintas","Art/2DArt/QuestIcons/ribbonspool.dds",5,false,0,0,[],37],["a3q5",3,"Polvo ardiente","Art/2DArt/QuestIcons/fierydust.dds",4,false,0,0,[],37],["a3q8",3,"Amputa la mano derecha","Art/2DArt/QuestIcons/severtherighthand.dds",11,false,0,0,[],37],["a3q12",3,"Un elemento del destino","Art/2DArt/QuestIcons/fourpages.dds",9,true,1,0,[],37],["a3q13",3,"Un trago de esperanza","Art/2DArt/QuestIcons/fairgraves2.dds",10,true,1,0,[],37],["a3q9",3,"Las mascotas de Piedad","Art/2DArt/QuestIcons/pietysproject.dds",3,false,0,0,[],37],["a3q10",3,"El cetro de Dios","Art/2DArt/QuestIcons/dominus.dds",2,false,0,0,[],37],["d2c1",0,"","",0,false,0,0,[],37],["d2c2",0,"","",0,false,0,0,[],37],["a4q1",4,"La pesadilla eterna","Art/2DArt/QuestIcons/act4Beast.dds",1,false,0,0,[],37],["a4q2",4,"Rompiendo el sello","Art/2DArt/QuestIcons/act4Banner.dds",2,false,0,0,[],37],["a4q3",4,"El rey de la furia","Art/2DArt/QuestIcons/act4Kaom.dds",3,false,0,0,[],37],["a4q4",4,"El rey del deseo","Art/2DArt/QuestIcons/act4Daresso.dds",4,false,0,0,[],37],["a4q5",4,"Corpus Malachus","Art/2DArt/QuestIcons/CorpusMalachus.dds",5,false,0,0,[],37],["a4q6",4,"Un Espíritu Indomable","Art/2DArt/QuestIcons/SpiritOfDeshret.dds",6,true,1,0,[],37],["zana_mission",0,"","",0,false,3,0,[],37],["niko_mission",0,"","",0,false,3,0,[],37],["alva_mission",0,"","",0,false,3,0,[],37],["einhar_mission",0,"","",0,false,3,0,[],37],["jun_mission_fort",0,"","",0,false,3,0,[],37],["jun_mission_cart",0,"","",0,false,3,0,[],37],["jun_mission_gank",0,"","",0,false,3,0,[],37],["jun_mission_lab",0,"","",0,false,3,0,[],37],["jun_mission_safehouse",0,"","",0,false,3,0,[],37],["jun_mission_catarina",0,"","",0,false,3,0,[],37],["bandit_respec",0,"","",0,false,0,0,[],37],["labyrinth_a1",1,"El Laberinto del Señor","Art/2DArt/QuestIcons/LabyrinthQuest.dds",-1,false,2,0,[],37],["labyrinth_a2",2,"El Laberinto del Señor","Art/2DArt/QuestIcons/LabyrinthQuest.dds",-1,false,2,0,[],37],["labyrinth_a3",3,"El Laberinto del Señor","Art/2DArt/QuestIcons/LabyrinthQuest.dds",-1,false,2,0,[],37],["labyrinth_a4",4,"El Laberinto del Señor","Art/2DArt/QuestIcons/LabyrinthQuest.dds",-1,false,2,0,[],37],["labyrinth_a5",5,"El Laberinto del Señor","Art/2DArt/QuestIcons/LabyrinthQuest.dds",-1,false,2,0,[],37],["labyrinth_a6",6,"El Laberinto del Señor","Art/2DArt/QuestIcons/LabyrinthQuest.dds",-1,false,2,0,[],37],["labyrinth_a7",7,"El Laberinto del Señor","Art/2DArt/QuestIcons/LabyrinthQuest.dds",-1,false,2,0,[],37],["labyrinth_a8",8,"El Laberinto del Señor","Art/2DArt/QuestIcons/LabyrinthQuest.dds",-1,false,2,0,[],37],["labyrinth_a9",9,"El Laberinto del Señor","Art/2DArt/QuestIcons/LabyrinthQuest.dds",-1,false,2,0,[],37],["labyrinth_a10",10,"El Laberinto del Señor","Art/2DArt/QuestIcons/LabyrinthQuest.dds",-1,false,2,0,[],37],["labyrinth_a11",11,"El Laberinto del Señor","Art/2DArt/QuestIcons/LabyrinthQuest.dds",-1,false,2,0,[],37],["a5q1a",4,"Regreso a Oriath","Art/2DArt/QuestIcons/ReturnToOriath.dds",-1,false,0,0,[],37],["a5q1b",5,"Regreso a Oriath","Art/2DArt/QuestIcons/ReturnToOriath.dds",1,false,0,0,[],37],["a5q2",5,"La Llave a la Libertad","Art/2DArt/QuestIcons/KeyToFreedom.dds",2,false,0,0,[],37],["a5q3",5,"Al Servicio de la Ciencia","Art/2DArt/QuestIcons/ServiceToScience.dds",6,true,1,0,[],37],["a5q4",5,"Muerte a la Pureza","Art/2DArt/QuestIcons/DeathToPurity.dds",4,false,0,0,[],37],["a5q5",5,"El Banquete del Rey","Art/2DArt/QuestIcons/KingsFeast.dds",5,false,0,0,[],37],["a5q6",5,"El Dios Voraz","Art/2DArt/QuestIcons/RavenousGod.dds",3,false,0,0,[],37],["a5q7",5,"Los Tormentos de Kitava","Art/2DArt/QuestIcons/KitavaTorments.dds",7,true,1,0,[],37],["a6q1",6,"El Rey del Mar","Art/2DArt/QuestIcons/TheBrineKing.dds",1,false,0,0,[],37],["a6q2",6,"Esencia de Umbra","Art/2DArt/QuestIcons/EssenceOfUmbra.dds",2,false,0,0,[],37],["a6q3",6,"El Padre de la Guerra","Art/2DArt/QuestIcons/FatherOfWar.dds",3,false,0,0,[],37],["a6q4",6,"Caído en Desgracia","Art/2DArt/QuestIcons/FallenFromGrace.dds",4,true,1,0,[],37],["a6q5",6,"La Epopeya de Bestel","Art/2DArt/QuestIcons/BestelsEpic.dds",5,true,1,0,[],37],["a6q6",6,"La Titiritera","Art/2DArt/QuestIcons/PuppetMistress.dds",6,true,1,0,[],37],["a6q7",6,"El Hendido","Art/2DArt/QuestIcons/ClovenGod.dds",7,true,1,0,[],37],["a7q1",7,"El Maestro de un Millón de Rostros","Art/2DArt/QuestIcons/Ralakesh.dds",5,false,0,0,[],37],["a7q2",7,"Esencia del Artista","Art/2DArt/QuestIcons/Maligaro.dds",3,false,0,0,[],37],["a7q3",7,"Telaraña de Secretos","Art/2DArt/QuestIcons/BlackDeath.dds",4,false,0,0,[],37],["a7q4",7,"La Madre de las Arañas","Art/2DArt/QuestIcons/Arakaali.dds",1,false,0,0,[],37],["a7q5",7,"El Relicario de Plata","Art/2DArt/QuestIcons/SilverLocket.dds",6,true,1,0,[],37],["a7q6",7,"La Estrella de Kishara","Art/2DArt/QuestIcons/KisharaStar.dds",7,true,1,0,[],37],["a7q7",7,"Iluminando el Camino","Art/2DArt/QuestIcons/LightingTheWay.dds",2,false,0,0,[],37],["a7q8",7,"En Memoria de Greust","Art/2DArt/QuestIcons/GruestMemorial.dds",8,true,1,0,[],37],["a7q9",7,"Reina de la Desesperación","Art/2DArt/QuestIcons/Gruthkul.dds",9,true,1,0,[],37],["a8q1",8,"Esencia de la Vieja Bruja","Art/2DArt/QuestIcons/Deodre.dds",1,false,0,0,[],37],["a8q2",8,"Eclipse Lunar","Art/2DArt/QuestIcons/Lunaris.dds",2,false,0,0,[],37],["a8q3",8,"Eclipse Solar","Art/2DArt/QuestIcons/Solaris.dds",3,false,0,0,[],37],["a8q4",8,"Reflejo del Terror","Art/2DArt/QuestIcons/Yugul.dds",4,true,1,0,[],37],["a8q5",8,"Las Alas de Vastiri","Art/2DArt/QuestIcons/WingsOfVastiri.dds",5,true,1,0,[],37],["a8q6",8,"El Amor está Muerto","Art/2DArt/QuestIcons/LoveIsDead.dds",6,true,1,0,[],37],["a8q7",8,"La Legión Gemita","Art/2DArt/QuestIcons/GemlingLegionnares.dds",7,true,1,0,[],37],["a9q1",9,"Pesadilla Recurrente","Art/2DArt/QuestIcons/RecurringNightmare.dds",1,false,0,0,[],37],["a9q2",9,"El Gobernante de Atalaya","Art/2DArt/QuestIcons/RulerOfHighgate.dds",2,true,1,0,[],37],["a9q3",9,"La Cuchilla de Tormenta","Art/2DArt/QuestIcons/TheStormBlade.dds",3,true,1,0,[],37],["a9q4",9,"Fastis Fortuna","Art/2DArt/QuestIcons/FastisFortuna.dds",4,true,1,0,[],37],["a9q5",9,"La Reina de las Arenas","Art/2DArt/QuestIcons/QueenOfTheSands.dds",5,true,1,0,[],37],["a10q1",10,"Pasaje Seguro","Art/2DArt/QuestIcons/SafePassage.dds",1,false,0,0,[],37],["a10q2",10,"Muerte y Reencarnación","Art/2DArt/QuestIcons/DeathAndRebirth.dds",2,false,0,0,[],37],["a10q3",10,"El Fin del Hambre","Art/2DArt/QuestIcons/EndToHunger.dds",3,false,0,0,[],37],["a10q4",10,"No hay Amor para los Viejos Fantasmas","Art/2DArt/QuestIcons/NoLoveForOldGhosts.dds",4,true,1,0,[],37],["a10q5",10,"Mapa hacia Tsoatha","Art/2DArt/QuestIcons/MapToTsoatha.dds",5,true,1,0,[],37],["a10q6",10,"La Venganza de Vilenta","Art/2DArt/QuestIcons/VilentasVengeance.dds",6,true,1,0,[],37],["a10q3a11",11,"El Fin del Hambre","Art/2DArt/QuestIcons/EndToHunger.dds",1,false,0,0,[],37],["a11q1",11,"Recolectando las piezas","Art/2DArt/QuestIcons/PickingUpThePieces.dds",2,false,0,0,[],37],["a11q2",11,"Persiguiendo un sueño","Art/2DArt/QuestIcons/ChasingADream.dds",3,false,0,0,[],37],["a11q3",11,"Los Asesinos del Antiguo","Art/2DArt/QuestIcons/TheElderslayers.dds",4,false,0,0,[],37],["a11q4",11,"El Cruzado","Art/2DArt/QuestIcons/TheCrusader.dds",5,false,0,0,[],37],["a11q5",11,"El Jefe de guerra","Art/2DArt/QuestIcons/TheWarlord.dds",6,false,0,0,[],37],["a11q6",11,"La Redentora","Art/2DArt/QuestIcons/TheRedeemer.dds",7,false,0,0,[],37],["a11q7",11,"El Cazador","Art/2DArt/QuestIcons/TheHunter.dds",8,false,0,0,[],37],["a11q8",11,"El Despertador de Mundos","Art/2DArt/QuestIcons/TheAwakenerOfWorlds.dds",9,false,0,0,[],37],["atlas_citadel",11,"Ciudadela abandonada","",0,false,3,0,[],37],["watchstones",0,"Rocas del vigilante perdidas","",0,false,3,0,[3],37],["bestiary1",2,"La Caza de Einhar","Art/2DArt/QuestIcons/EinharsHunt.dds",0,false,4,0,[],37],["bestiary2",2,"El Animalario de Einhar","Art/2DArt/QuestIcons/EinharsMenagerie.dds",0,false,4,0,[19],37],["incursion",7,"No hay mejor momento que el presente","Art/2DArt/QuestIcons/Alva.dds",0,false,4,0,[],37],["delve1",4,"El combustible de Niko","Art/2DArt/QuestIcons/NikosFuel.dds",0,false,4,0,[],37],["delve2",4,"La Mina de Niko","Art/2DArt/QuestIcons/NikosMine.dds",0,false,4,0,[27],37],["delve3",4,"Los explosivos de Niko","Art/2DArt/QuestIcons/NikosExplosives.dds",0,false,4,0,[27],37],["delve4",0,"Luz decreciente","",0,false,4,0,[27],37],["delve5",0,"Fortaleciendo la Oscuridad","",0,false,4,0,[27],37],["hideout1",2,"Sano y salvo","Art/2DArt/QuestIcons/hideout.dds",0,false,5,0,[3],37],["hideout",0,"","",0,false,3,0,[3],37],["prophecy",1,"Prisioneros del Destino","Art/2DArt/QuestIcons/Navali.dds",0,false,6,0,[],37],["betrayal",9,"El Sindicato Inmortal","Art/2DArt/QuestIcons/FortQuestIcon.dds",0,false,4,0,[],37],["synthesis1",1,"Pasado Destrozado","Art/2DArt/QuestIcons/MemoryFragment.dds",0,false,4,0,[],29],["synthesis2",1,"Hacia el Nexo","Art/2DArt/QuestIcons/NexusDevice.dds",0,false,4,0,[31,30],29],["synthesis3",1,"Fragmentos Reforjados","Art/2DArt/QuestIcons/Synthesis.dds",0,false,4,0,[31,30],29],["blight1",11,"Crecimientos Extraños","Art/2DArt/QuestIcons/FirstBlight.dds",0,false,4,0,[],37],["metamorphosis1",11,"Trozo de carne","Art/2DArt/QuestIcons/Metamorph.dds",0,false,4,0,[],37],["harvest1",1,"El Huerto sagrado","Art/2DArt/QuestIcons/GenericHarvest.dds",0,false,4,0,[34],34],["harvest2",1,"Recolector de fuerza vital","Art/2DArt/QuestIcons/Collector.dds",0,false,4,0,[34],34],["harvest3",1,"Diseminador de fuerza vital","Art/2DArt/QuestIcons/Disperser.dds",0,false,4,0,[34],34],["harvest4",1,"Almacenamiento de fuerza vital","Art/2DArt/QuestIcons/Condenser.dds",0,false,4,0,[34],34],["harvest5",11,"Corazón del huerto","Art/2DArt/QuestIcons/HarvestFinal.dds",0,false,4,0,[34],34],["harvestseedsgreen",1,"Semillas nuevas","",0,false,4,0,[34],34],["harvestseedsblue",1,"Semillas diferentes","",0,false,4,0,[34],34],["heist",0,"Atraco","",0,false,3,0,[35,36],35],["heist_intro",1,"El Puerto de los renegados","Art/2DArt/QuestIcons/Heist.dds",0,false,0,0,[35,36,1],35],["heist_tutorial",0,"Contrato: Periodo de prueba","",0,false,3,0,[35,36],35],["heist_quest_karst1",0,"Contrato: Ganzúas robadas","",0,false,3,0,[35,36],35],["heist_quest_karst2",0,"Contrato: La venganza de Karst","",0,false,3,0,[35,36],35],["heist_quest_karst3",0,"Contrato: El mérito a quien corresponde","",0,false,3,0,[35,36],35],["heist_quest_tibbs1",0,"Contrato: Encontrar a Opal","",0,false,3,0,[35,36],35],["heist_quest_tibbs2",0,"Contrato: Las joyas de Opal","",0,false,3,0,[35,36],35],["heist_quest_huck1",0,"Contrato: El paradero de Enoch","",0,false,3,0,[35,36],35],["heist_quest_huck2",0,"Contrato: Los restos de Enoch","",0,false,3,0,[35,36],35],["heist_quest_vinderi1",0,"Contrato: La lista de compras","",0,false,3,0,[35,36],35],["heist_quest_vinderi2",0,"Contrato: La bomba de Vinderi","",0,false,3,0,[35,36],35],["heist_quest_gianna1",0,"Contrato: La obra sin nombre","",0,false,3,0,[35,36],35],["heist_quest_gianna2",0,"Contrato: Los mejores disfraces","",0,false,3,0,[35,36],35],["heist_quest_tullina1",0,"Contrato: El vestido de novia","",0,false,3,0,[35,36],35],["heist_quest_tullina2",0,"Contrato: Ruptura","",0,false,3,0,[35,36],35],["heist_quest_niles1",0,"Contrato: Herramientas racionales","",0,false,3,0,[35,36],35],["heist_quest_niles2",0,"Contrato: Una muestra mundana","",0,false,3,0,[35,36],35],["heist_quest_nenet1",0,"Contrato: El libro de Jamanra","",0,false,3,0,[35,36],35],["heist_quest_nenet2",0,"Contrato: El descanso de Jamanra","",0,false,3,0,[35,36],35],["heist_quest_isla1",0,"Contrato: Los prototipos de Isla","",0,false,3,0,[35,36],35],["heist_quest_isla2",0,"Contrato: Los diseños de Isla","",0,false,3,0,[35,36],35],["heist_quest_isla3",0,"Contrato: Rompiendo lo irrompible","",0,false,3,0,[35,36],35],["heist_quest_adiyah1",0,"Contrato: Un tema de honor","",0,false,3,0,[35,36],35],["heist_quest_adiyah2",0,"Contrato: Usando colores ajenos","",0,false,3,0,[35,36],35],["heist_quest_adiyah3",0,"Contrato: Corazón de la gloria","",0,false,3,0,[35,36],35],["heist_quest_whakano1",0,"Contrato: La venganza del esclavista","",0,false,3,0,[35,36],35],["heist_quest_whakano2",0,"Contrato: Sigue el rastro de papel","",0,false,3,0,[35,36],35],["heist_quest_whakano3",0,"Contrato: El rey esclavista","",0,false,3,0,[35,36],35],["heist_quest_faustus1",0,"Contrato: Los registros del Almirante","",0,false,3,0,[35,36],35],["heist_quest_faustus2",0,"Contrato: Información para Fidium","",0,false,3,0,[35,36],35],["heist_quest_faustus3",0,"Contrato: Muerte a Darnaw","",0,false,3,0,[35,36],35],["heist_quest_kurai1",0,"Contrato: El regalo de Hyrri","",0,false,3,0,[35,36],35],["heist_quest_kurai2",0,"Contrato: La negociación","",0,false,3,0,[35,36],35],["heist_quest_kurai3",0,"Contrato: El rescate","",0,false,3,0,[35,36],35],["heist_quest_kurai4",0,"Contrato: Los gemelos","",0,false,3,0,[35,36],35]]}
+{
+  "filename": "Quest.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Act",
+      "rowid": 1,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Name",
+      "rowid": 2,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Icon_DDSFile",
+      "rowid": 3,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": true,
+      "file_ext": ".dds",
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "QuestId",
+      "rowid": 4,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Flag0",
+      "rowid": 5,
+      "type": "bool",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown4",
+      "rowid": 6,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown5",
+      "rowid": 7,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown6",
+      "rowid": 8,
+      "type": "ref|list|int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown7",
+      "rowid": 9,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "a1q1",
+      1,
+      "Un enemigo en la puerta",
+      "Art/2DArt/QuestIcons/hillock.dds",
+      6,
+      false,
+      0,
+      0,
+      [],
+      37
+    ],
+    [
+      "a1q5",
+      1,
+      "Misión misericordiosa",
+      "Art/2DArt/QuestIcons/medicinechest.dds",
+      5,
+      false,
+      0,
+      0,
+      [],
+      37
+    ],
+    [
+      "a1q4",
+      1,
+      "Rompiendo algunos huevos",
+      "Art/2DArt/QuestIcons/mudflats.dds",
+      4,
+      false,
+      0,
+      0,
+      [],
+      37
+    ],
+    [
+      "a1q8",
+      1,
+      "Un trabajo sucio",
+      "Art/2DArt/QuestIcons/dirtyjob.dds",
+      9,
+      true,
+      1,
+      0,
+      [],
+      37
+    ],
+    [
+      "a1q7",
+      1,
+      "El Morador de las profundidades",
+      "Art/2DArt/QuestIcons/deepdweller.dds",
+      8,
+      true,
+      1,
+      0,
+      [],
+      37
+    ],
+    [
+      "a1q2",
+      1,
+      "El bruto encarcelado",
+      "Art/2DArt/QuestIcons/brutus.dds",
+      2,
+      false,
+      0,
+      0,
+      [],
+      37
+    ],
+    [
+      "a1q6",
+      1,
+      "El marinero abandonado",
+      "Art/2DArt/QuestIcons/fairgraves.dds",
+      7,
+      true,
+      1,
+      0,
+      [],
+      37
+    ],
+    [
+      "a1q3",
+      1,
+      "La cadencia de la sirena",
+      "Art/2DArt/QuestIcons/merveil.dds",
+      1,
+      false,
+      0,
+      0,
+      [],
+      37
+    ],
+    [
+      "a1q9",
+      1,
+      "El camino hacia adelante",
+      "Art/2DArt/QuestIcons/forest.dds",
+      3,
+      false,
+      0,
+      0,
+      [],
+      37
+    ],
+    [
+      "a2q11",
+      2,
+      "El camino hacia adelante",
+      "Art/2DArt/QuestIcons/forest.dds",
+      9,
+      false,
+      0,
+      0,
+      [],
+      37
+    ],
+    [
+      "a2q5",
+      2,
+      "A través de suelo sagrado",
+      "Art/2DArt/QuestIcons/goldenhand.dds",
+      10,
+      true,
+      1,
+      0,
+      [],
+      37
+    ],
+    [
+      "a2q6",
+      2,
+      "Intrusos de negro",
+      "Art/2DArt/QuestIcons/chamberofsins.dds",
+      8,
+      false,
+      0,
+      0,
+      [],
+      37
+    ],
+    [
+      "a2q10",
+      2,
+      "La gran bestia blanca",
+      "Art/2DArt/QuestIcons/greatwhitebeast.dds",
+      12,
+      true,
+      1,
+      0,
+      [],
+      37
+    ],
+    [
+      "a2q4",
+      2,
+      "Puntiaguda y cruel",
+      "Art/2DArt/QuestIcons/poisonspear.dds",
+      7,
+      false,
+      0,
+      0,
+      [],
+      37
+    ],
+    [
+      "a2q9",
+      2,
+      "La raíz del problema",
+      "Art/2DArt/QuestIcons/cathedralofbones.dds",
+      6,
+      false,
+      0,
+      0,
+      [],
+      37
+    ],
+    [
+      "a2q7",
+      2,
+      "Encárgate de los bandidos",
+      "Art/2DArt/QuestIcons/bandits.dds",
+      2,
+      false,
+      0,
+      0,
+      [],
+      37
+    ],
+    [
+      "a2q1",
+      2,
+      "El Señor Bandido Kraityn",
+      "Art/2DArt/QuestIcons/kraityn.dds",
+      3,
+      false,
+      0,
+      0,
+      [],
+      37
+    ],
+    [
+      "a2q2",
+      2,
+      "La Señora Bandida Alira",
+      "Art/2DArt/QuestIcons/alira.dds",
+      4,
+      false,
+      0,
+      0,
+      [],
+      37
+    ],
+    [
+      "a2q3",
+      2,
+      "El Señor Bandido Oak",
+      "Art/2DArt/QuestIcons/oak.dds",
+      5,
+      false,
+      0,
+      0,
+      [],
+      37
+    ],
+    [
+      "a2q8",
+      2,
+      "Sombra de los vaal",
+      "Art/2DArt/QuestIcons/incaboss.dds",
+      1,
+      false,
+      0,
+      0,
+      [],
+      37
+    ],
+    [
+      "a2q8a3",
+      3,
+      "Sombra de los vaal",
+      "Art/2DArt/QuestIcons/incaboss.dds",
+      1,
+      false,
+      0,
+      0,
+      [],
+      37
+    ],
+    [
+      "a3q1",
+      3,
+      "Perdidamente enamorados",
+      "Art/2DArt/QuestIcons/findingclarity.dds",
+      8,
+      false,
+      0,
+      0,
+      [],
+      37
+    ],
+    [
+      "a3q2",
+      3,
+      "Perdidamente enamorados",
+      "Art/2DArt/QuestIcons/findingclarity.dds",
+      7,
+      false,
+      0,
+      0,
+      [],
+      37
+    ],
+    [
+      "a3q11",
+      3,
+      "Los secretos de Victario",
+      "Art/2DArt/QuestIcons/victariostash.dds",
+      12,
+      true,
+      1,
+      0,
+      [],
+      37
+    ],
+    [
+      "a3q3",
+      3,
+      "La Reina Gemita",
+      "Art/2DArt/QuestIcons/tombofthegemlingqueen.dds",
+      6,
+      false,
+      0,
+      0,
+      [],
+      37
+    ],
+    [
+      "a3q4",
+      3,
+      "El carrete de cintas",
+      "Art/2DArt/QuestIcons/ribbonspool.dds",
+      5,
+      false,
+      0,
+      0,
+      [],
+      37
+    ],
+    [
+      "a3q5",
+      3,
+      "Polvo ardiente",
+      "Art/2DArt/QuestIcons/fierydust.dds",
+      4,
+      false,
+      0,
+      0,
+      [],
+      37
+    ],
+    [
+      "a3q8",
+      3,
+      "Amputa la mano derecha",
+      "Art/2DArt/QuestIcons/severtherighthand.dds",
+      11,
+      false,
+      0,
+      0,
+      [],
+      37
+    ],
+    [
+      "a3q12",
+      3,
+      "Un elemento del destino",
+      "Art/2DArt/QuestIcons/fourpages.dds",
+      9,
+      true,
+      1,
+      0,
+      [],
+      37
+    ],
+    [
+      "a3q13",
+      3,
+      "Un trago de esperanza",
+      "Art/2DArt/QuestIcons/fairgraves2.dds",
+      10,
+      true,
+      1,
+      0,
+      [],
+      37
+    ],
+    [
+      "a3q9",
+      3,
+      "Las mascotas de Piedad",
+      "Art/2DArt/QuestIcons/pietysproject.dds",
+      3,
+      false,
+      0,
+      0,
+      [],
+      37
+    ],
+    [
+      "a3q10",
+      3,
+      "El cetro de Dios",
+      "Art/2DArt/QuestIcons/dominus.dds",
+      2,
+      false,
+      0,
+      0,
+      [],
+      37
+    ],
+    [
+      "d2c1",
+      0,
+      "",
+      "",
+      0,
+      false,
+      0,
+      0,
+      [],
+      37
+    ],
+    [
+      "d2c2",
+      0,
+      "",
+      "",
+      0,
+      false,
+      0,
+      0,
+      [],
+      37
+    ],
+    [
+      "a4q1",
+      4,
+      "La pesadilla eterna",
+      "Art/2DArt/QuestIcons/act4Beast.dds",
+      1,
+      false,
+      0,
+      0,
+      [],
+      37
+    ],
+    [
+      "a4q2",
+      4,
+      "Rompiendo el sello",
+      "Art/2DArt/QuestIcons/act4Banner.dds",
+      2,
+      false,
+      0,
+      0,
+      [],
+      37
+    ],
+    [
+      "a4q3",
+      4,
+      "El rey de la furia",
+      "Art/2DArt/QuestIcons/act4Kaom.dds",
+      3,
+      false,
+      0,
+      0,
+      [],
+      37
+    ],
+    [
+      "a4q4",
+      4,
+      "El rey del deseo",
+      "Art/2DArt/QuestIcons/act4Daresso.dds",
+      4,
+      false,
+      0,
+      0,
+      [],
+      37
+    ],
+    [
+      "a4q5",
+      4,
+      "Corpus Malachus",
+      "Art/2DArt/QuestIcons/CorpusMalachus.dds",
+      5,
+      false,
+      0,
+      0,
+      [],
+      37
+    ],
+    [
+      "a4q6",
+      4,
+      "Un Espíritu Indomable",
+      "Art/2DArt/QuestIcons/SpiritOfDeshret.dds",
+      6,
+      true,
+      1,
+      0,
+      [],
+      37
+    ],
+    [
+      "zana_mission",
+      0,
+      "",
+      "",
+      0,
+      false,
+      3,
+      0,
+      [],
+      37
+    ],
+    [
+      "niko_mission",
+      0,
+      "",
+      "",
+      0,
+      false,
+      3,
+      0,
+      [],
+      37
+    ],
+    [
+      "alva_mission",
+      0,
+      "",
+      "",
+      0,
+      false,
+      3,
+      0,
+      [],
+      37
+    ],
+    [
+      "einhar_mission",
+      0,
+      "",
+      "",
+      0,
+      false,
+      3,
+      0,
+      [],
+      37
+    ],
+    [
+      "jun_mission_fort",
+      0,
+      "",
+      "",
+      0,
+      false,
+      3,
+      0,
+      [],
+      37
+    ],
+    [
+      "jun_mission_cart",
+      0,
+      "",
+      "",
+      0,
+      false,
+      3,
+      0,
+      [],
+      37
+    ],
+    [
+      "jun_mission_gank",
+      0,
+      "",
+      "",
+      0,
+      false,
+      3,
+      0,
+      [],
+      37
+    ],
+    [
+      "jun_mission_lab",
+      0,
+      "",
+      "",
+      0,
+      false,
+      3,
+      0,
+      [],
+      37
+    ],
+    [
+      "jun_mission_safehouse",
+      0,
+      "",
+      "",
+      0,
+      false,
+      3,
+      0,
+      [],
+      37
+    ],
+    [
+      "jun_mission_catarina",
+      0,
+      "",
+      "",
+      0,
+      false,
+      3,
+      0,
+      [],
+      37
+    ],
+    [
+      "bandit_respec",
+      0,
+      "",
+      "",
+      0,
+      false,
+      0,
+      0,
+      [],
+      37
+    ],
+    [
+      "labyrinth_a1",
+      1,
+      "El Laberinto del Señor",
+      "Art/2DArt/QuestIcons/LabyrinthQuest.dds",
+      -1,
+      false,
+      2,
+      0,
+      [],
+      37
+    ],
+    [
+      "labyrinth_a2",
+      2,
+      "El Laberinto del Señor",
+      "Art/2DArt/QuestIcons/LabyrinthQuest.dds",
+      -1,
+      false,
+      2,
+      0,
+      [],
+      37
+    ],
+    [
+      "labyrinth_a3",
+      3,
+      "El Laberinto del Señor",
+      "Art/2DArt/QuestIcons/LabyrinthQuest.dds",
+      -1,
+      false,
+      2,
+      0,
+      [],
+      37
+    ],
+    [
+      "labyrinth_a4",
+      4,
+      "El Laberinto del Señor",
+      "Art/2DArt/QuestIcons/LabyrinthQuest.dds",
+      -1,
+      false,
+      2,
+      0,
+      [],
+      37
+    ],
+    [
+      "labyrinth_a5",
+      5,
+      "El Laberinto del Señor",
+      "Art/2DArt/QuestIcons/LabyrinthQuest.dds",
+      -1,
+      false,
+      2,
+      0,
+      [],
+      37
+    ],
+    [
+      "labyrinth_a6",
+      6,
+      "El Laberinto del Señor",
+      "Art/2DArt/QuestIcons/LabyrinthQuest.dds",
+      -1,
+      false,
+      2,
+      0,
+      [],
+      37
+    ],
+    [
+      "labyrinth_a7",
+      7,
+      "El Laberinto del Señor",
+      "Art/2DArt/QuestIcons/LabyrinthQuest.dds",
+      -1,
+      false,
+      2,
+      0,
+      [],
+      37
+    ],
+    [
+      "labyrinth_a8",
+      8,
+      "El Laberinto del Señor",
+      "Art/2DArt/QuestIcons/LabyrinthQuest.dds",
+      -1,
+      false,
+      2,
+      0,
+      [],
+      37
+    ],
+    [
+      "labyrinth_a9",
+      9,
+      "El Laberinto del Señor",
+      "Art/2DArt/QuestIcons/LabyrinthQuest.dds",
+      -1,
+      false,
+      2,
+      0,
+      [],
+      37
+    ],
+    [
+      "labyrinth_a10",
+      10,
+      "El Laberinto del Señor",
+      "Art/2DArt/QuestIcons/LabyrinthQuest.dds",
+      -1,
+      false,
+      2,
+      0,
+      [],
+      37
+    ],
+    [
+      "labyrinth_a11",
+      11,
+      "El Laberinto del Señor",
+      "Art/2DArt/QuestIcons/LabyrinthQuest.dds",
+      -1,
+      false,
+      2,
+      0,
+      [],
+      37
+    ],
+    [
+      "a5q1a",
+      4,
+      "Regreso a Oriath",
+      "Art/2DArt/QuestIcons/ReturnToOriath.dds",
+      -1,
+      false,
+      0,
+      0,
+      [],
+      37
+    ],
+    [
+      "a5q1b",
+      5,
+      "Regreso a Oriath",
+      "Art/2DArt/QuestIcons/ReturnToOriath.dds",
+      1,
+      false,
+      0,
+      0,
+      [],
+      37
+    ],
+    [
+      "a5q2",
+      5,
+      "La Llave a la Libertad",
+      "Art/2DArt/QuestIcons/KeyToFreedom.dds",
+      2,
+      false,
+      0,
+      0,
+      [],
+      37
+    ],
+    [
+      "a5q3",
+      5,
+      "Al Servicio de la Ciencia",
+      "Art/2DArt/QuestIcons/ServiceToScience.dds",
+      6,
+      true,
+      1,
+      0,
+      [],
+      37
+    ],
+    [
+      "a5q4",
+      5,
+      "Muerte a la Pureza",
+      "Art/2DArt/QuestIcons/DeathToPurity.dds",
+      4,
+      false,
+      0,
+      0,
+      [],
+      37
+    ],
+    [
+      "a5q5",
+      5,
+      "El Banquete del Rey",
+      "Art/2DArt/QuestIcons/KingsFeast.dds",
+      5,
+      false,
+      0,
+      0,
+      [],
+      37
+    ],
+    [
+      "a5q6",
+      5,
+      "El Dios Voraz",
+      "Art/2DArt/QuestIcons/RavenousGod.dds",
+      3,
+      false,
+      0,
+      0,
+      [],
+      37
+    ],
+    [
+      "a5q7",
+      5,
+      "Los Tormentos de Kitava",
+      "Art/2DArt/QuestIcons/KitavaTorments.dds",
+      7,
+      true,
+      1,
+      0,
+      [],
+      37
+    ],
+    [
+      "a6q1",
+      6,
+      "El Rey del Mar",
+      "Art/2DArt/QuestIcons/TheBrineKing.dds",
+      1,
+      false,
+      0,
+      0,
+      [],
+      37
+    ],
+    [
+      "a6q2",
+      6,
+      "Esencia de Umbra",
+      "Art/2DArt/QuestIcons/EssenceOfUmbra.dds",
+      2,
+      false,
+      0,
+      0,
+      [],
+      37
+    ],
+    [
+      "a6q3",
+      6,
+      "El Padre de la Guerra",
+      "Art/2DArt/QuestIcons/FatherOfWar.dds",
+      3,
+      false,
+      0,
+      0,
+      [],
+      37
+    ],
+    [
+      "a6q4",
+      6,
+      "Caído en Desgracia",
+      "Art/2DArt/QuestIcons/FallenFromGrace.dds",
+      4,
+      true,
+      1,
+      0,
+      [],
+      37
+    ],
+    [
+      "a6q5",
+      6,
+      "La Epopeya de Bestel",
+      "Art/2DArt/QuestIcons/BestelsEpic.dds",
+      5,
+      true,
+      1,
+      0,
+      [],
+      37
+    ],
+    [
+      "a6q6",
+      6,
+      "La Titiritera",
+      "Art/2DArt/QuestIcons/PuppetMistress.dds",
+      6,
+      true,
+      1,
+      0,
+      [],
+      37
+    ],
+    [
+      "a6q7",
+      6,
+      "El Hendido",
+      "Art/2DArt/QuestIcons/ClovenGod.dds",
+      7,
+      true,
+      1,
+      0,
+      [],
+      37
+    ],
+    [
+      "a7q1",
+      7,
+      "El Maestro de un Millón de Rostros",
+      "Art/2DArt/QuestIcons/Ralakesh.dds",
+      5,
+      false,
+      0,
+      0,
+      [],
+      37
+    ],
+    [
+      "a7q2",
+      7,
+      "Esencia del Artista",
+      "Art/2DArt/QuestIcons/Maligaro.dds",
+      3,
+      false,
+      0,
+      0,
+      [],
+      37
+    ],
+    [
+      "a7q3",
+      7,
+      "Telaraña de Secretos",
+      "Art/2DArt/QuestIcons/BlackDeath.dds",
+      4,
+      false,
+      0,
+      0,
+      [],
+      37
+    ],
+    [
+      "a7q4",
+      7,
+      "La Madre de las Arañas",
+      "Art/2DArt/QuestIcons/Arakaali.dds",
+      1,
+      false,
+      0,
+      0,
+      [],
+      37
+    ],
+    [
+      "a7q5",
+      7,
+      "El Relicario de Plata",
+      "Art/2DArt/QuestIcons/SilverLocket.dds",
+      6,
+      true,
+      1,
+      0,
+      [],
+      37
+    ],
+    [
+      "a7q6",
+      7,
+      "La Estrella de Kishara",
+      "Art/2DArt/QuestIcons/KisharaStar.dds",
+      7,
+      true,
+      1,
+      0,
+      [],
+      37
+    ],
+    [
+      "a7q7",
+      7,
+      "Iluminando el Camino",
+      "Art/2DArt/QuestIcons/LightingTheWay.dds",
+      2,
+      false,
+      0,
+      0,
+      [],
+      37
+    ],
+    [
+      "a7q8",
+      7,
+      "En Memoria de Greust",
+      "Art/2DArt/QuestIcons/GruestMemorial.dds",
+      8,
+      true,
+      1,
+      0,
+      [],
+      37
+    ],
+    [
+      "a7q9",
+      7,
+      "Reina de la Desesperación",
+      "Art/2DArt/QuestIcons/Gruthkul.dds",
+      9,
+      true,
+      1,
+      0,
+      [],
+      37
+    ],
+    [
+      "a8q1",
+      8,
+      "Esencia de la Vieja Bruja",
+      "Art/2DArt/QuestIcons/Deodre.dds",
+      1,
+      false,
+      0,
+      0,
+      [],
+      37
+    ],
+    [
+      "a8q2",
+      8,
+      "Eclipse Lunar",
+      "Art/2DArt/QuestIcons/Lunaris.dds",
+      2,
+      false,
+      0,
+      0,
+      [],
+      37
+    ],
+    [
+      "a8q3",
+      8,
+      "Eclipse Solar",
+      "Art/2DArt/QuestIcons/Solaris.dds",
+      3,
+      false,
+      0,
+      0,
+      [],
+      37
+    ],
+    [
+      "a8q4",
+      8,
+      "Reflejo del Terror",
+      "Art/2DArt/QuestIcons/Yugul.dds",
+      4,
+      true,
+      1,
+      0,
+      [],
+      37
+    ],
+    [
+      "a8q5",
+      8,
+      "Las Alas de Vastiri",
+      "Art/2DArt/QuestIcons/WingsOfVastiri.dds",
+      5,
+      true,
+      1,
+      0,
+      [],
+      37
+    ],
+    [
+      "a8q6",
+      8,
+      "El Amor está Muerto",
+      "Art/2DArt/QuestIcons/LoveIsDead.dds",
+      6,
+      true,
+      1,
+      0,
+      [],
+      37
+    ],
+    [
+      "a8q7",
+      8,
+      "La Legión Gemita",
+      "Art/2DArt/QuestIcons/GemlingLegionnares.dds",
+      7,
+      true,
+      1,
+      0,
+      [],
+      37
+    ],
+    [
+      "a9q1",
+      9,
+      "Pesadilla Recurrente",
+      "Art/2DArt/QuestIcons/RecurringNightmare.dds",
+      1,
+      false,
+      0,
+      0,
+      [],
+      37
+    ],
+    [
+      "a9q2",
+      9,
+      "El Gobernante de Atalaya",
+      "Art/2DArt/QuestIcons/RulerOfHighgate.dds",
+      2,
+      true,
+      1,
+      0,
+      [],
+      37
+    ],
+    [
+      "a9q3",
+      9,
+      "La Cuchilla de Tormenta",
+      "Art/2DArt/QuestIcons/TheStormBlade.dds",
+      3,
+      true,
+      1,
+      0,
+      [],
+      37
+    ],
+    [
+      "a9q4",
+      9,
+      "Fastis Fortuna",
+      "Art/2DArt/QuestIcons/FastisFortuna.dds",
+      4,
+      true,
+      1,
+      0,
+      [],
+      37
+    ],
+    [
+      "a9q5",
+      9,
+      "La Reina de las Arenas",
+      "Art/2DArt/QuestIcons/QueenOfTheSands.dds",
+      5,
+      true,
+      1,
+      0,
+      [],
+      37
+    ],
+    [
+      "a10q1",
+      10,
+      "Pasaje Seguro",
+      "Art/2DArt/QuestIcons/SafePassage.dds",
+      1,
+      false,
+      0,
+      0,
+      [],
+      37
+    ],
+    [
+      "a10q2",
+      10,
+      "Muerte y Reencarnación",
+      "Art/2DArt/QuestIcons/DeathAndRebirth.dds",
+      2,
+      false,
+      0,
+      0,
+      [],
+      37
+    ],
+    [
+      "a10q3",
+      10,
+      "El Fin del Hambre",
+      "Art/2DArt/QuestIcons/EndToHunger.dds",
+      3,
+      false,
+      0,
+      0,
+      [],
+      37
+    ],
+    [
+      "a10q4",
+      10,
+      "No hay Amor para los Viejos Fantasmas",
+      "Art/2DArt/QuestIcons/NoLoveForOldGhosts.dds",
+      4,
+      true,
+      1,
+      0,
+      [],
+      37
+    ],
+    [
+      "a10q5",
+      10,
+      "Mapa hacia Tsoatha",
+      "Art/2DArt/QuestIcons/MapToTsoatha.dds",
+      5,
+      true,
+      1,
+      0,
+      [],
+      37
+    ],
+    [
+      "a10q6",
+      10,
+      "La Venganza de Vilenta",
+      "Art/2DArt/QuestIcons/VilentasVengeance.dds",
+      6,
+      true,
+      1,
+      0,
+      [],
+      37
+    ],
+    [
+      "a10q3a11",
+      11,
+      "El Fin del Hambre",
+      "Art/2DArt/QuestIcons/EndToHunger.dds",
+      1,
+      false,
+      0,
+      0,
+      [],
+      37
+    ],
+    [
+      "a11q1",
+      11,
+      "Recolectando las piezas",
+      "Art/2DArt/QuestIcons/PickingUpThePieces.dds",
+      2,
+      false,
+      0,
+      0,
+      [],
+      37
+    ],
+    [
+      "a11q2",
+      11,
+      "Persiguiendo un sueño",
+      "Art/2DArt/QuestIcons/ChasingADream.dds",
+      3,
+      false,
+      0,
+      0,
+      [],
+      37
+    ],
+    [
+      "a11q3",
+      11,
+      "Los Asesinos del Antiguo",
+      "Art/2DArt/QuestIcons/TheElderslayers.dds",
+      4,
+      false,
+      0,
+      0,
+      [],
+      37
+    ],
+    [
+      "a11q4",
+      11,
+      "El Cruzado",
+      "Art/2DArt/QuestIcons/TheCrusader.dds",
+      5,
+      false,
+      0,
+      0,
+      [],
+      37
+    ],
+    [
+      "a11q5",
+      11,
+      "El Jefe de guerra",
+      "Art/2DArt/QuestIcons/TheWarlord.dds",
+      6,
+      false,
+      0,
+      0,
+      [],
+      37
+    ],
+    [
+      "a11q6",
+      11,
+      "La Redentora",
+      "Art/2DArt/QuestIcons/TheRedeemer.dds",
+      7,
+      false,
+      0,
+      0,
+      [],
+      37
+    ],
+    [
+      "a11q7",
+      11,
+      "El Cazador",
+      "Art/2DArt/QuestIcons/TheHunter.dds",
+      8,
+      false,
+      0,
+      0,
+      [],
+      37
+    ],
+    [
+      "a11q8",
+      11,
+      "El Despertador de Mundos",
+      "Art/2DArt/QuestIcons/TheAwakenerOfWorlds.dds",
+      9,
+      false,
+      0,
+      0,
+      [],
+      37
+    ],
+    [
+      "atlas_citadel",
+      11,
+      "Ciudadela abandonada",
+      "",
+      0,
+      false,
+      3,
+      0,
+      [],
+      37
+    ],
+    [
+      "watchstones",
+      0,
+      "Rocas del vigilante perdidas",
+      "",
+      0,
+      false,
+      3,
+      0,
+      [
+        3
+      ],
+      37
+    ],
+    [
+      "bestiary1",
+      2,
+      "La Caza de Einhar",
+      "Art/2DArt/QuestIcons/EinharsHunt.dds",
+      0,
+      false,
+      4,
+      0,
+      [],
+      37
+    ],
+    [
+      "bestiary2",
+      2,
+      "El Animalario de Einhar",
+      "Art/2DArt/QuestIcons/EinharsMenagerie.dds",
+      0,
+      false,
+      4,
+      0,
+      [
+        19
+      ],
+      37
+    ],
+    [
+      "incursion",
+      7,
+      "No hay mejor momento que el presente",
+      "Art/2DArt/QuestIcons/Alva.dds",
+      0,
+      false,
+      4,
+      0,
+      [],
+      37
+    ],
+    [
+      "delve1",
+      4,
+      "El combustible de Niko",
+      "Art/2DArt/QuestIcons/NikosFuel.dds",
+      0,
+      false,
+      4,
+      0,
+      [],
+      37
+    ],
+    [
+      "delve2",
+      4,
+      "La Mina de Niko",
+      "Art/2DArt/QuestIcons/NikosMine.dds",
+      0,
+      false,
+      4,
+      0,
+      [
+        27
+      ],
+      37
+    ],
+    [
+      "delve3",
+      4,
+      "Los explosivos de Niko",
+      "Art/2DArt/QuestIcons/NikosExplosives.dds",
+      0,
+      false,
+      4,
+      0,
+      [
+        27
+      ],
+      37
+    ],
+    [
+      "delve4",
+      0,
+      "Luz decreciente",
+      "",
+      0,
+      false,
+      4,
+      0,
+      [
+        27
+      ],
+      37
+    ],
+    [
+      "delve5",
+      0,
+      "Fortaleciendo la Oscuridad",
+      "",
+      0,
+      false,
+      4,
+      0,
+      [
+        27
+      ],
+      37
+    ],
+    [
+      "hideout1",
+      2,
+      "Sano y salvo",
+      "Art/2DArt/QuestIcons/hideout.dds",
+      0,
+      false,
+      5,
+      0,
+      [
+        3
+      ],
+      37
+    ],
+    [
+      "hideout",
+      0,
+      "",
+      "",
+      0,
+      false,
+      3,
+      0,
+      [
+        3
+      ],
+      37
+    ],
+    [
+      "prophecy",
+      1,
+      "Prisioneros del Destino",
+      "Art/2DArt/QuestIcons/Navali.dds",
+      0,
+      false,
+      6,
+      0,
+      [],
+      37
+    ],
+    [
+      "betrayal",
+      9,
+      "El Sindicato Inmortal",
+      "Art/2DArt/QuestIcons/FortQuestIcon.dds",
+      0,
+      false,
+      4,
+      0,
+      [],
+      37
+    ],
+    [
+      "synthesis1",
+      1,
+      "Pasado Destrozado",
+      "Art/2DArt/QuestIcons/MemoryFragment.dds",
+      0,
+      false,
+      4,
+      0,
+      [],
+      29
+    ],
+    [
+      "synthesis2",
+      1,
+      "Hacia el Nexo",
+      "Art/2DArt/QuestIcons/NexusDevice.dds",
+      0,
+      false,
+      4,
+      0,
+      [
+        31,
+        30
+      ],
+      29
+    ],
+    [
+      "synthesis3",
+      1,
+      "Fragmentos Reforjados",
+      "Art/2DArt/QuestIcons/Synthesis.dds",
+      0,
+      false,
+      4,
+      0,
+      [
+        31,
+        30
+      ],
+      29
+    ],
+    [
+      "blight1",
+      11,
+      "Crecimientos Extraños",
+      "Art/2DArt/QuestIcons/FirstBlight.dds",
+      0,
+      false,
+      4,
+      0,
+      [],
+      37
+    ],
+    [
+      "metamorphosis1",
+      11,
+      "Trozo de carne",
+      "Art/2DArt/QuestIcons/Metamorph.dds",
+      0,
+      false,
+      4,
+      0,
+      [],
+      37
+    ],
+    [
+      "harvest1",
+      1,
+      "El Huerto sagrado",
+      "Art/2DArt/QuestIcons/GenericHarvest.dds",
+      0,
+      false,
+      4,
+      0,
+      [
+        34
+      ],
+      34
+    ],
+    [
+      "harvest2",
+      1,
+      "Recolector de fuerza vital",
+      "Art/2DArt/QuestIcons/Collector.dds",
+      0,
+      false,
+      4,
+      0,
+      [
+        34
+      ],
+      34
+    ],
+    [
+      "harvest3",
+      1,
+      "Diseminador de fuerza vital",
+      "Art/2DArt/QuestIcons/Disperser.dds",
+      0,
+      false,
+      4,
+      0,
+      [
+        34
+      ],
+      34
+    ],
+    [
+      "harvest4",
+      1,
+      "Almacenamiento de fuerza vital",
+      "Art/2DArt/QuestIcons/Condenser.dds",
+      0,
+      false,
+      4,
+      0,
+      [
+        34
+      ],
+      34
+    ],
+    [
+      "harvest5",
+      11,
+      "Corazón del huerto",
+      "Art/2DArt/QuestIcons/HarvestFinal.dds",
+      0,
+      false,
+      4,
+      0,
+      [
+        34
+      ],
+      34
+    ],
+    [
+      "harvestseedsgreen",
+      1,
+      "Semillas nuevas",
+      "",
+      0,
+      false,
+      4,
+      0,
+      [
+        34
+      ],
+      34
+    ],
+    [
+      "harvestseedsblue",
+      1,
+      "Semillas diferentes",
+      "",
+      0,
+      false,
+      4,
+      0,
+      [
+        34
+      ],
+      34
+    ],
+    [
+      "heist",
+      0,
+      "Atraco",
+      "",
+      0,
+      false,
+      3,
+      0,
+      [
+        35,
+        36
+      ],
+      35
+    ],
+    [
+      "heist_intro",
+      1,
+      "El Puerto de los renegados",
+      "Art/2DArt/QuestIcons/Heist.dds",
+      0,
+      false,
+      0,
+      0,
+      [
+        35,
+        36,
+        1
+      ],
+      35
+    ],
+    [
+      "heist_tutorial",
+      0,
+      "Contrato: Periodo de prueba",
+      "",
+      0,
+      false,
+      3,
+      0,
+      [
+        35,
+        36
+      ],
+      35
+    ],
+    [
+      "heist_quest_karst1",
+      0,
+      "Contrato: Ganzúas robadas",
+      "",
+      0,
+      false,
+      3,
+      0,
+      [
+        35,
+        36
+      ],
+      35
+    ],
+    [
+      "heist_quest_karst2",
+      0,
+      "Contrato: La venganza de Karst",
+      "",
+      0,
+      false,
+      3,
+      0,
+      [
+        35,
+        36
+      ],
+      35
+    ],
+    [
+      "heist_quest_karst3",
+      0,
+      "Contrato: El mérito a quien corresponde",
+      "",
+      0,
+      false,
+      3,
+      0,
+      [
+        35,
+        36
+      ],
+      35
+    ],
+    [
+      "heist_quest_tibbs1",
+      0,
+      "Contrato: Encontrar a Opal",
+      "",
+      0,
+      false,
+      3,
+      0,
+      [
+        35,
+        36
+      ],
+      35
+    ],
+    [
+      "heist_quest_tibbs2",
+      0,
+      "Contrato: Las joyas de Opal",
+      "",
+      0,
+      false,
+      3,
+      0,
+      [
+        35,
+        36
+      ],
+      35
+    ],
+    [
+      "heist_quest_huck1",
+      0,
+      "Contrato: El paradero de Enoch",
+      "",
+      0,
+      false,
+      3,
+      0,
+      [
+        35,
+        36
+      ],
+      35
+    ],
+    [
+      "heist_quest_huck2",
+      0,
+      "Contrato: Los restos de Enoch",
+      "",
+      0,
+      false,
+      3,
+      0,
+      [
+        35,
+        36
+      ],
+      35
+    ],
+    [
+      "heist_quest_vinderi1",
+      0,
+      "Contrato: La lista de compras",
+      "",
+      0,
+      false,
+      3,
+      0,
+      [
+        35,
+        36
+      ],
+      35
+    ],
+    [
+      "heist_quest_vinderi2",
+      0,
+      "Contrato: La bomba de Vinderi",
+      "",
+      0,
+      false,
+      3,
+      0,
+      [
+        35,
+        36
+      ],
+      35
+    ],
+    [
+      "heist_quest_gianna1",
+      0,
+      "Contrato: La obra sin nombre",
+      "",
+      0,
+      false,
+      3,
+      0,
+      [
+        35,
+        36
+      ],
+      35
+    ],
+    [
+      "heist_quest_gianna2",
+      0,
+      "Contrato: Los mejores disfraces",
+      "",
+      0,
+      false,
+      3,
+      0,
+      [
+        35,
+        36
+      ],
+      35
+    ],
+    [
+      "heist_quest_tullina1",
+      0,
+      "Contrato: El vestido de novia",
+      "",
+      0,
+      false,
+      3,
+      0,
+      [
+        35,
+        36
+      ],
+      35
+    ],
+    [
+      "heist_quest_tullina2",
+      0,
+      "Contrato: Ruptura",
+      "",
+      0,
+      false,
+      3,
+      0,
+      [
+        35,
+        36
+      ],
+      35
+    ],
+    [
+      "heist_quest_niles1",
+      0,
+      "Contrato: Herramientas racionales",
+      "",
+      0,
+      false,
+      3,
+      0,
+      [
+        35,
+        36
+      ],
+      35
+    ],
+    [
+      "heist_quest_niles2",
+      0,
+      "Contrato: Una muestra mundana",
+      "",
+      0,
+      false,
+      3,
+      0,
+      [
+        35,
+        36
+      ],
+      35
+    ],
+    [
+      "heist_quest_nenet1",
+      0,
+      "Contrato: El libro de Jamanra",
+      "",
+      0,
+      false,
+      3,
+      0,
+      [
+        35,
+        36
+      ],
+      35
+    ],
+    [
+      "heist_quest_nenet2",
+      0,
+      "Contrato: El descanso de Jamanra",
+      "",
+      0,
+      false,
+      3,
+      0,
+      [
+        35,
+        36
+      ],
+      35
+    ],
+    [
+      "heist_quest_isla1",
+      0,
+      "Contrato: Los prototipos de Isla",
+      "",
+      0,
+      false,
+      3,
+      0,
+      [
+        35,
+        36
+      ],
+      35
+    ],
+    [
+      "heist_quest_isla2",
+      0,
+      "Contrato: Los diseños de Isla",
+      "",
+      0,
+      false,
+      3,
+      0,
+      [
+        35,
+        36
+      ],
+      35
+    ],
+    [
+      "heist_quest_isla3",
+      0,
+      "Contrato: Rompiendo lo irrompible",
+      "",
+      0,
+      false,
+      3,
+      0,
+      [
+        35,
+        36
+      ],
+      35
+    ],
+    [
+      "heist_quest_adiyah1",
+      0,
+      "Contrato: Un tema de honor",
+      "",
+      0,
+      false,
+      3,
+      0,
+      [
+        35,
+        36
+      ],
+      35
+    ],
+    [
+      "heist_quest_adiyah2",
+      0,
+      "Contrato: Usando colores ajenos",
+      "",
+      0,
+      false,
+      3,
+      0,
+      [
+        35,
+        36
+      ],
+      35
+    ],
+    [
+      "heist_quest_adiyah3",
+      0,
+      "Contrato: Corazón de la gloria",
+      "",
+      0,
+      false,
+      3,
+      0,
+      [
+        35,
+        36
+      ],
+      35
+    ],
+    [
+      "heist_quest_whakano1",
+      0,
+      "Contrato: La venganza del esclavista",
+      "",
+      0,
+      false,
+      3,
+      0,
+      [
+        35,
+        36
+      ],
+      35
+    ],
+    [
+      "heist_quest_whakano2",
+      0,
+      "Contrato: Sigue el rastro de papel",
+      "",
+      0,
+      false,
+      3,
+      0,
+      [
+        35,
+        36
+      ],
+      35
+    ],
+    [
+      "heist_quest_whakano3",
+      0,
+      "Contrato: El rey esclavista",
+      "",
+      0,
+      false,
+      3,
+      0,
+      [
+        35,
+        36
+      ],
+      35
+    ],
+    [
+      "heist_quest_faustus1",
+      0,
+      "Contrato: Los registros del Almirante",
+      "",
+      0,
+      false,
+      3,
+      0,
+      [
+        35,
+        36
+      ],
+      35
+    ],
+    [
+      "heist_quest_faustus2",
+      0,
+      "Contrato: Información para Fidium",
+      "",
+      0,
+      false,
+      3,
+      0,
+      [
+        35,
+        36
+      ],
+      35
+    ],
+    [
+      "heist_quest_faustus3",
+      0,
+      "Contrato: Muerte a Darnaw",
+      "",
+      0,
+      false,
+      3,
+      0,
+      [
+        35,
+        36
+      ],
+      35
+    ],
+    [
+      "heist_quest_kurai1",
+      0,
+      "Contrato: El regalo de Hyrri",
+      "",
+      0,
+      false,
+      3,
+      0,
+      [
+        35,
+        36
+      ],
+      35
+    ],
+    [
+      "heist_quest_kurai2",
+      0,
+      "Contrato: La negociación",
+      "",
+      0,
+      false,
+      3,
+      0,
+      [
+        35,
+        36
+      ],
+      35
+    ],
+    [
+      "heist_quest_kurai3",
+      0,
+      "Contrato: El rescate",
+      "",
+      0,
+      false,
+      3,
+      0,
+      [
+        35,
+        36
+      ],
+      35
+    ],
+    [
+      "heist_quest_kurai4",
+      0,
+      "Contrato: Los gemelos",
+      "",
+      0,
+      false,
+      3,
+      0,
+      [
+        35,
+        36
+      ],
+      35
+    ]
+  ]
+}

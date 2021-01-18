@@ -1,1 +1,881 @@
-{"filename":"UITalkText.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":true,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"UITalkCategoriesKey","rowid":1,"type":"int","key":"UITalkCategories.dat","key_id":null,"key_offset":1,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"OGGFile","rowid":2,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":true,"file_ext":".ogg","display":null,"display_type":"{0}","description":null},{"name":"Text","rowid":3,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Flag0","rowid":4,"type":"byte","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Key0","rowid":5,"type":"ulong","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["Incursion_FirstIncursionGreeting",1,"Audio/Dialogue/NPC/BetrayalLeague/Alva/AV_04.ogg","J’ai découvert un moyen de nous frayer un chemin jusqu’au légendaire Temple d'Atzoatl. Il s’agit d’un sortilège jeté sur ces jalons antiques qui se déclenche au contact du sang des Vaal ; or, il se trouve qu'un peu de ce sang coule justement dans mes veines. Le sortilège en question vous transportera au temps jadis grâce à un portail que vous maintiendrez ouvert en tranchant des gorges qui n'auront pas mérité mieux. Plus vous y resterez longtemps, plus j’obtiendrai des indices sur l’emplacement actuel du Temple.\r\n\r\nLorsque nous aurons enfin localisé ce dernier, nous aurons tout le loisir de faire main basse sur ses nombreux trésors. C'est pourquoi nous devons découvrir où il se trouve maintenant. Par contre, attention à ce que vous ferez quand vous y serez ; toutes vos actions se répercuteront à travers le temps pour venir altérer le Temple à notre époque. Eh bien, qu’attendez-vous ? Allez entrer dans l’Histoire !",1,null],["Incursion_FirstIncursionComplete",2,"Audio/Dialogue/NPC/Alva/AV05.ogg","Heureuse de voir que vous avez survécu à votre première Incursion.",1,null],["Incursion_FirstIncursionFarewell",3,"Audio/Dialogue/NPC/Alva/AV09.ogg","Ces sorts de sang étant d'une nature capricieuse, ils doivent être exécutés sous certaines conditions : un jour précis de la semaine, un alignement d'étoiles particulier, ce genre de choses. Je vais tout de suite partir en quête d'un nouvel endroit où accomplir le prochain rituel. Tâchez de me retrouver, que nous puissions poursuivre notre entreprise !",1,null],["Incursion_SecondIncursionGreeting",4,"Audio/Dialogue/NPC/Alva/AV10.ogg","Je savais que vous parviendriez à me retrouver ; vous et moi, on est comme les deux faces d'une même pièce. Votre précédente Incursion nous rapproche légèrement du Temple, mais comme la route est encore longue, j'espère que vous êtes d'humeur à remettre ça !",1,null],["Incursion_SecondIncursionPortal",5,"Audio/Dialogue/NPC/Alva/AV12.ogg","Cela vous paraît familier ? C'est le Temple tel que vous l'avez laissé la dernière fois. Chacune de vos Incursions apporte des modifications à mon plan. Lorsque nous en aurons suffisamment occasionné, peut-être l'emplacement actuel du Temple nous sera-t-il révélé !",1,null],["Incursion_GenericIncursionGreeting",6,"Audio/Dialogue/NPC/Alva/AV11.ogg","Ah, vous revoilà. On retourne dans le passé ? Plus vous ferez couler le sang, plus vous apporterez des modifications à mon plan, et plus nous serons à même de localiser le Temple dans le présent.",1,null],["Incursion_GenericIncursionPortal_1",7,"Audio/Dialogue/NPC/Alva/AV13_A.ogg","Voici le plan.",1,null],["Incursion_GenericIncursionPortal_2",7,"Audio/Dialogue/NPC/Alva/AV13_B.ogg","Jetons un coup d'œil à l'agencement des salles.",1,null],["Incursion_GenericIncursionPortal_3",7,"Audio/Dialogue/NPC/Alva/AV13_C.ogg","Chaque Incursion nécessite une préparation adéquate.",1,null],["Incursion_GenericIncursionPortal_4",7,"Audio/Dialogue/NPC/Alva/AV13_D.ogg","Voyez votre prochaine destination.",1,null],["Incursion_GenericIncursionComplete_1",8,"Audio/Dialogue/NPC/Alva/AV14_A.ogg","Beau travail.",1,null],["Incursion_GenericIncursionComplete_2",8,"Audio/Dialogue/NPC/Alva/AV14_B.ogg","Beau travail !",1,null],["Incursion_GenericIncursionFarewell",9,"Audio/Dialogue/NPC/Alva/AV19.ogg","Chaque étape franchie nous rapproche du Temple ! Rejoignez-moi à la suivante, que nous puissions poursuivre notre tâche.",1,null],["Incursion_TempleIsOpenFarewell",10,"Audio/Dialogue/NPC/Alva/AV20.ogg","Nous avons réussi à localiser l'emplacement du Temple. Assurez-vous d'avoir assez de provisions, puis faites-moi signe. J'ouvrirai alors un nouveau portail pour nous conduire là-bas.",1,null],["Incursion_TempleOpenGreeting",11,"Audio/Dialogue/NPC/Alva/AV23.ogg","J'ai réussi ! Pardon, <italic>{nous} avons réussi à localiser l'emplacement du Temple ! Faites bien attention où vous mettrez les pieds. Bien que nous ayons influencé l'agencement du Temple, n'oublions pas que bien des choses peuvent changer en un millénaire. Nous ignorons en outre quel genre de créatures ont pu élire domicile au cœur de ces ruines…",1,null],["Incursion_TemplePortal",12,"Audio/Dialogue/NPC/Alva/AV22.ogg","Ouvrez grand votre sac, car aujourd'hui nous empochons des richesses dignes d'un roi !",1,null],["Incursion_ArmourRoom1",13,"Audio/Dialogue/NPC/Alva/AV39.ogg","L'Architecte du Fer a installé une forge dans cette pièce. Faites attention à ses carapaces de métal.",1,null],["Incursion_ArmourRoom2",14,"Audio/Dialogue/NPC/Alva/AV40.ogg","Atmohua a gagné une belle armurerie grâce à vous, et tout le monde bénéficiera de sa protection par votre faute.",1,null],["Incursion_ArmourRoom3",15,"Audio/Dialogue/NPC/Alva/AV41.ogg","Vous avez permis à des troupes lourdement cuirassées d'investir les lieux. J'avoue avoir du mal à comprendre pourquoi diable vouloir une telle chose, mais peut-être pourrons-nous au moins revendre les armures au prix coûtant.",1,null],["Incursion_BreachRoom1",16,"Audio/Dialogue/NPC/Alva/AV42.ogg","Vous avez choisi de maintenir l'Architecte de la Brèche en vie. Je n'ai… aucune idée de ce qu'il va bien pouvoir manigancer dans cette salle.",1,null],["Incursion_BreachRoom2",17,"Audio/Dialogue/NPC/Alva/AV43.ogg","Vous permettez à Zilquapa de conserver ce qu'il a trouvé dans cette salle, quoi que cela puisse être ? C'est un poil risqué — mais pas de risque, pas de récompense, comme on dit.",1,null],["Incursion_BreachRoom3",18,"Audio/Dialogue/NPC/Alva/AV44.ogg","Quelle aubaine… La folie de Zilpaqua a attiré des… <italic>{choses}… dans le Temple. Était-ce là votre intention, ou dois-je applaudir votre témérité ?",1,null],["Incursion_BreedingRoom1",19,"Audio/Dialogue/NPC/Alva/AV45.ogg","Remettre cette salle aux mains de cet Architecte fut une sage décision. Plus de sang à répandre signifie plus de temps à notre disposition dans le Temple. À nous le butin de guerre !",1,null],["Incursion_BreedingRoom2",20,"Audio/Dialogue/NPC/Alva/AV46.ogg","Maintenant qu'il n'a plus de rival, Cholotl aura tout le loisir de recruter ses troupes comme il l'entend. J'imagine que ce n'est pas un problème pour vous.",1,null],["Incursion_BreedingRoom3",21,"Audio/Dialogue/NPC/Alva/AV47.ogg","Vous avez laissé Cholotl transformer cette salle en sanctuaire pour les plus sanguinaires des Vaal. En espérant que nous ne nous en mordrons pas les doigts.",1,null],["Incursion_CartographyRoom1",22,"Audio/Dialogue/NPC/Alva/AV48.ogg","L'Architecte de l'Expansion dispose maintenant d'une base opérationnelle qui lui permettra d'entreprendre son exploration de Wraeclast.",1,null],["Incursion_CartographyRoom2",23,"Audio/Dialogue/NPC/Alva/AV49.ogg","Maintenant que son rival est mort, Uromoti pourra consacrer toutes ses ressources au prodigieux projet d'expansion des Vaal.",1,null],["Incursion_CartographyRoom3",24,"Audio/Dialogue/NPC/Alva/AV50.ogg","La campagne d'exploration d'Uromoti a atteint une ampleur telle que je n'en avais jamais vu auparavant. Que cherchent-ils ? Que diable <italic>{reste-t-il} à découvrir ?",1,null],["Incursion_ChestsRoom1",25,"Audio/Dialogue/NPC/Alva/AV51.ogg","Vous avez laissé assez de place dans cette salle pour que l'Architecte des Réserves puisse y entreposer ses « trouvailles ».",1,null],["Incursion_ChestsRoom2",26,"Audio/Dialogue/NPC/Alva/AV52.ogg","Maintenant que son rival est hors d'état de nuire, Juatalotli dispose de beaucoup plus d'espace pour ranger sa drôle de collection.",1,null],["Incursion_ChestsRoom3",27,"Audio/Dialogue/NPC/Alva/AV53.ogg","Avec un autre de ses rivaux d'éliminé, l'Architecte des Réserves pourra remplir cette salle de tout un tas d'objets précieux. Bien vu.",1,null],["Incursion_CorruptionRoom1",28,"Audio/Dialogue/NPC/Alva/AV54.ogg","L'Architecte de la Corruption s'est saisi de cette salle afin d'y conduire ses expérimentations abominables.",1,null],["Incursion_CorruptionRoom2",29,"Audio/Dialogue/NPC/Alva/AV55.ogg","Paquate a utilisé son influence grandissante pour déverser encore plus d'énergies corruptrices dans cette salle.",1,null],["Incursion_CorruptionRoom3",30,"Audio/Dialogue/NPC/Alva/AV56.ogg","L'influence de sa corruption prend de plus en plus d'ampleur. Mais ça, vous le saviez déjà, non ?",1,null],["Incursion_CurrencyRoom1",31,"Audio/Dialogue/NPC/Alva/AV57.ogg","L'Architecte des Trésors a pris possession de cette salle ? Mais c'est une <italic>{excellente} nouvelle !",1,null],["Incursion_CurrencyRoom2",32,"Audio/Dialogue/NPC/Alva/AV58.ogg","Puisque vous avez tué son rival, on peut miser sur le fait qu'Estazunti aura emmagasiné encore plus de ses délectables richesses dans cette salle.",1,null],["Incursion_CurrencyRoom3",33,"Audio/Dialogue/NPC/Alva/AV59.ogg","Un pari, ça vous dit ? Eh bien, je vous parie qu'Estazunti a inondé cette pièce de trésors inestimables à l'heure qu'il est. Une perspective des plus réjouissantes, n'est-ce pas ?",1,null],["Incursion_HatcheryRoom1",34,"Audio/Dialogue/NPC/Alva/AV60.ogg","À cause de vos actions Citaqualotl, Architecte de la Nuée, ainsi que ses… expérimentations grouillantes ont élu domicile dans cette salle.",1,null],["Incursion_HatcheryRoom2",35,"Audio/Dialogue/NPC/Alva/AV61.ogg","Maintenant qu'il n'a plus de rival pour l'inquiéter, on dirait que Citaqualotl bricole des engins ambulants faits d'étranges métaux.",1,null],["Incursion_HatcheryRoom3",36,"Audio/Dialogue/NPC/Alva/AV62.ogg","Ainsi donc, ce savant fou a réuni les insectes et le métal ? Espérons que ses sujets d'expérience ne soient plus là quand nous arriverons.",1,null],["Incursion_FlameRoom1",37,"Audio/Dialogue/NPC/Alva/AV63.ogg","Maintenant, l'Architecte de la Forge joue du marteau dans cette salle, dans un nuage de vapeur et d'étincelles.",1,null],["Incursion_FlameRoom2",38,"Audio/Dialogue/NPC/Alva/AV64.ogg","Le marteau de Puhuarte va continuer de résonner dans le noir. Vous pouvez m'expliquer pourquoi ?",1,null],["Incursion_FlameRoom3",39,"Audio/Dialogue/NPC/Alva/AV65.ogg","Vos choix ont permis aux créations de Puhuarte de gambader librement dans cette salle. Quelles sortes d'engins horribles ont été forgés ici, dans les flammes ?",1,null],["Incursion_LightningRoom1",40,"Audio/Dialogue/NPC/Alva/AV66.ogg","L'électricité irradie maintenant dans cette salle. Cela signifie que Xopec, l'Architecte de l'Énergie, est désormais le maître des lieux.",1,null],["Incursion_LightningRoom2",41,"Audio/Dialogue/NPC/Alva/AV67.ogg","Les expériences de Xopec sur les forces vitales électriques ont gagné en intensité dans cette salle.",1,null],["Incursion_LightningRoom3",42,"Audio/Dialogue/NPC/Alva/AV68.ogg","Je me demande comment les pouvoirs de Xopec — que vous avez laissés croître en cette salle — vont se manifester dans le présent…",1,null],["Incursion_EmpoweringRoom1",43,"Audio/Dialogue/NPC/Alva/AV69.ogg","Vous avez donné cette salle à Quipolatl. Intéressant. Vous faut-il vraiment toujours prendre autant de risques ?",1,null],["Incursion_EmpoweringRoom2",44,"Audio/Dialogue/NPC/Alva/AV70.ogg","L'esprit de Quipolatl n'a d'yeux que pour le cœur du Temple, et cet esprit ne cesse de s'accroître à cause de votre choix.",1,null],["Incursion_EmpoweringRoom3",45,"Audio/Dialogue/NPC/Alva/AV71.ogg","Par tous les dieux ! Vous tenez vraiment à nous rendre la tâche difficile ! Qui sait maintenant ce que cette partie du Temple nous réservera dans le futur ?",1,null],["Incursion_ExplosivesRoom1",46,"Audio/Dialogue/NPC/Alva/AV72.ogg","Hayoxi n'a qu'une idée en tête : tout faire <italic>{péter}. Sachant cela, est-ce que lui permettre de venir ici… est vraiment une bonne chose ?",1,null],["Incursion_ExplosivesRoom2",47,"Audio/Dialogue/NPC/Alva/AV73.ogg","On jurerait que vous nourrissez la même soif de chaos qu'Hayoxi, parce que lui permettre de s'établir ici ne fait qu'augmenter son arsenal d'explosifs.",1,null],["Incursion_ExplosivesRoom3",48,"Audio/Dialogue/NPC/Alva/AV74.ogg","À ce stade, ce timbré aura truffé tout le Temple d'explosifs pour le réduire en poussière.",1,null],["Incursion_GemRoom1",49,"Audio/Dialogue/NPC/Alva/AV75.ogg","Nul doute que Zalatl nous récompensera — à son insu, s'entend — pour lui avoir confié le contrôle de cette salle.",1,null],["Incursion_GemRoom2",50,"Audio/Dialogue/NPC/Alva/AV76.ogg","Je vois que vous partagez le même amour pour les gemmes que l'Architecte de la Thaumaturgie.",1,null],["Incursion_GemRoom3",51,"Audio/Dialogue/NPC/Alva/AV77.ogg","On devrait baptiser cette salle « l'Écrin de Zalatl » ! Imaginez la valeur qu'auront toutes ces pierres précieuses de nos jours !",1,null],["Incursion_HealingRoom1",52,"Audio/Dialogue/NPC/Alva/AV78.ogg","De si jolies sources coulent dans cette salle. Quel dommage de savoir qu'elles seront souillées par Guatelitzi, mais la fin justifie les moyens, n'est-ce pas ?",1,null],["Incursion_HealingRoom2",53,"Audio/Dialogue/NPC/Alva/AV79.ogg","Ah, la belle salle de noyade que voilà… et son légendaire charme vaal… Au moins, l'Architecte de la Chair pourra s'avérer intéressant pour plus tard.",1,null],["Incursion_HealingRoom3",54,"Audio/Dialogue/NPC/Alva/AV80.ogg","Guatelitzi a bien pris ces bassins pour domicile. Espérons que ça nous soit profitable dans le présent.",1,null],["Incursion_PoisonRoom1",55,"Audio/Dialogue/NPC/Alva/AV81.ogg","Pouah, l'Architecte des Toxines — certainement pas le premier que j'aurais laissé prospérer dans cette partie du Temple…",1,null],["Incursion_PoisonRoom2",56,"Audio/Dialogue/NPC/Alva/AV82.ogg","On dirait que les plantes de Tacati sont en train d'envahir les lieux. Prions les dieux que vous sachiez ce que vous faites…",1,null],["Incursion_PoisonRoom3",57,"Audio/Dialogue/NPC/Alva/AV83.ogg","Vous avez libéré Tacati de toute forme d'opposition. Il a maintenant tout le loisir de jouer avec ses affreux poisons. J'espère ne pas tomber malade.",1,null],["Incursion_QueenRoom1",58,"Audio/Dialogue/NPC/Alva/AV84.ogg","L'Architecte Royal a réquisitionné cette salle au nom de sa Reine.",1,null],["Incursion_QueenRoom2",59,"Audio/Dialogue/NPC/Alva/AV85.ogg","Xipocado semble déterminé à faire de cette salle une sorte de chambre royale, et vous venez tout juste de lui faciliter la tâche.",1,null],["Incursion_QueenRoom3",60,"Audio/Dialogue/NPC/Alva/AV86.ogg","Devinez quel fessier viendra honorer le trône que l'Architecte Royal a installé dans cette salle — grâce à vous ?",1,null],["Incursion_SacrificeRoom1",61,"Audio/Dialogue/NPC/Alva/AV87.ogg","Vous avez laissé… l'Architecte des Cérémonies, celui qui a orchestré d'<italic>{innombrables} sacrifices humains, prendre cette salle ?",1,null],["Incursion_SacrificeRoom2",62,"Audio/Dialogue/NPC/Alva/AV88.ogg","Maintenant que son rival est mort, Ahuana pourra canaliser ses ressources pour arranger des sacrifices encore plus sanglants, toujours en l'honneur de ses faux dieux et de sa Reine ridicule.",1,null],["Incursion_SacrificeRoom3",63,"Audio/Dialogue/NPC/Alva/AV89.ogg","Le sang des sacrifiés d'Ahuana est sur vos mains — et attendez-vous à ce qu'il s'en verse encore davantage.",1,null],["Incursion_TempestRoom1",64,"Audio/Dialogue/NPC/Alva/AV90.ogg","Il va sans dire que Topotante possède un tempérament orageux. Mais si c'est lui que vous voulez voir dans cette salle, qui suis-je pour le contester ?",1,null],["Incursion_TempestRoom2",65,"Audio/Dialogue/NPC/Alva/AV91.ogg","Le vent du changement se déchaîne dans cette salle. L'Architecte des Tempêtes sera ravi de construire sur les fondations de votre fureur.",1,null],["Incursion_TempestRoom3",66,"Audio/Dialogue/NPC/Alva/AV92.ogg","Serait-ce la tempête du millénaire ? En tous les cas, espérons qu'elle ne gâche pas tout.",1,null],["Incursion_TrapsRoom1",67,"Audio/Dialogue/NPC/Alva/AV93.ogg","Vous avez laissé l'Architecte des Fortifications prendre cette salle. Vous savez pourtant ce que sont des fortifications, non ? Je vous signale pour mémoire que nous comptons <italic>{dévaliser} ce Temple !",1,null],["Incursion_TrapsRoom2",68,"Audio/Dialogue/NPC/Alva/AV94.ogg","Vous avez éliminé le rival de Matatl. Cela lui donnera les moyens de truffer le Temple de pièges. Des pièges qu'il nous faudra ensuite éviter, vous savez !",1,null],["Incursion_TrapsRoom3",69,"Audio/Dialogue/NPC/Alva/AV95.ogg","Matatl vous a remercié de lui avoir laissé la vie sauve en semant des pièges absolument partout. Je commence à me demander si vous savez ce que vous faites…",1,null],["Incursion_TrinketsRoom1",70,"Audio/Dialogue/NPC/Alva/AV96.ogg","L'Architecte de la Guilde était un joaillier réputé pour son talent. Avec lui dans les parages, attendons-nous à ce que le Temple scintille de partout !",1,null],["Incursion_TrinketsRoom2",71,"Audio/Dialogue/NPC/Alva/AV97.ogg","Le rival d'Azcapa est mort ? J'entends les joyaux pleuvoir d'ici ! Il me tarde de trouver ce Temple !",1,null],["Incursion_TrinketsRoom3",72,"Audio/Dialogue/NPC/Alva/AV98.ogg","Azcapa est toujours en vie ? Oh, vous allez me rendre <italic>{très} heureuse. Très heureuse et très riche.",1,null],["IncursionWeaponsRoom1",73,"Audio/Dialogue/NPC/Alva/AV99.ogg","Ticaba raffolait de ses combats de gladiateurs, cela va sans dire. Je présume que nous trouverons des armes plus facilement maintenant que vous lui avez laissé la vie sauve.",1,null],["IncursionWeaponsRoom2",74,"Audio/Dialogue/NPC/Alva/AV100.ogg","Il n'existe pas de meilleur endroit que l'arène pour répandre le sang des Vaal. Et il n'existe pas de meilleur Architecte que Ticaba pour en prendre le contrôle.",1,null],["IncursionWeaponsRoom3",75,"Audio/Dialogue/NPC/Alva/AV101.ogg","Ainsi donc, vous avez laissé Ticaba à ses souvenirs dans l'ombre de ses champions de l'arène… Souhaitons que l'éternité vous récompense pour vos actions.",1,null],["IncursionWorkshopRoom1",76,"Audio/Dialogue/NPC/Alva/AV102.ogg","Jiquani avait l'efficacité pour obsession. Donc si on le laisse dans cette salle, on sera a priori mieux récompensés, non ?",1,null],["IncursionWorkshopRoom2",77,"Audio/Dialogue/NPC/Alva/AV103.ogg","Je vois que Jiquani n'avait pas usurpé son titre : il a su non seulement rester en vie, mais aussi faire prospérer son activité de manière très « industrieuse ».",1,null],["IncursionWorkshopRoom3",78,"Audio/Dialogue/NPC/Alva/AV104.ogg","Je dois vous avouer que je meurs d'envie de savoir pourquoi vous avez laissé respirer cette ordure. J'ose croire que j'aurai ma réponse bien assez tôt.",1,null],["Incursion_ConnectionsChanged1",79,"Audio/Dialogue/NPC/Alva/AV18_A_1.ogg","Vous avez créé de nouvelles voies !",1,null],["Incursion_ConnectionsChanged2",79,"Audio/Dialogue/NPC/Alva/AV35_A.ogg","Oh, vous avez ouvert de nouveaux chemins !",1,null],["Incursion_ConnectionsChanged3",79,"Audio/Dialogue/NPC/Alva/AV35_B.ogg","Nos déplacements dans le Temple seront facilités grâce à vous !",1,null],["Incursion_ConnectionsChanged4",79,"Audio/Dialogue/NPC/Alva/AV35_C.ogg","Les chemins que vous avez ouverts nous seront utiles plus tard.",1,null],["Incursion_GenericNothingChanged1",80,"Audio/Dialogue/NPC/Alva/AV17_A.ogg","Hum, pas de chance cette fois-ci ; rien n'a changé sur le plan. Ce n'est pas une mauvaise chose… mais pas forcément une bonne chose non plus. Continuez.",1,null],["Incursion_GenericNothingChanged2",80,"Audio/Dialogue/NPC/Alva/AV17_B.ogg","Non, rien n'a changé ce coup-ci. Persévérez. Plus vous apporterez de modifications, plus nous avancerons.",1,null],["Incursion_GenericNothingChanged3",80,"Audio/Dialogue/NPC/Alva/AV17_C.ogg","Hum, aucun changement. J'espère que c'était là votre intention !",1,null],["Incursion_StrongboxRoom1",81,"Audio/Dialogue/NPC/BetrayalLeague/Alva/AV_13.ogg","Zantipi était mon genre d'Architecte ! Son obsession, c'était de remplir des coffres d'objets précieux et d'y fixer tout un tas de pièges.",1,null],["Incursion_StrongboxRoom2",82,"Audio/Dialogue/NPC/BetrayalLeague/Alva/AV_14.ogg","Avec l'influence de Zantipi qui va grandissant, nous allons certainement trouver des coffres encore plus dangereux — et lucratifs.",1,null],["Incursion_StrongboxRoom3",83,"Audio/Dialogue/NPC/BetrayalLeague/Alva/AV_15.ogg","Une pièce entière remplie de dangereux coffres-forts bourrés de trésors. Si vous saviez comme je vous aime !",1,null],["Incursion_TormentRoom1",84,"Audio/Dialogue/NPC/BetrayalLeague/Alva/AV_09.ogg","Tzamoto avait un sens tordu de la justice. Il réservait les exécutions aux coupables des crimes les plus brutaux… Les criminels mineurs, il les emprisonnait simplement pour le restant de leurs jours.",1,null],["Incursion_TormentRoom2",85,"Audio/Dialogue/NPC/BetrayalLeague/Alva/AV_10.ogg","Je suppose que vous avez vos raisons de vouloir agrandir la prison de Tzamoto, mais elles me sont totalement incompréhensibles.",1,null],["Incursion_TormentRoom3",86,"Audio/Dialogue/NPC/BetrayalLeague/Alva/AV_11.ogg","La prison de Tzamoto est gigantesque et regorge de criminels. Des criminels forcément sans le sou. Merveilleux. Vraiment, merci.",1,null],["Incursion_LegionRoom1",87,"","Opiloti s'est emparé de cette salle ? C'était un seigneur de guerre des plus brutal. J'espère que vous savez ce que vous faites, par égard pour moi !",1,null],["Incursion_LegionRoom2",88,"","Les Vaal sont plutôt considérés comme un peuple pacifique d'après nos mœurs contemporaines, mais il n'empêche que certains d'entre eux se repaissaient de violence. Vous venez précisément d'offrir à l'un de ceux-là ce qu'il voulait.",1,null],["Incursion_LegionRoom3",89,"","Opiloti répandait le sang de ses plus grands guerriers, convaincu que ça leur accorderait l'immortalité. On va bientôt savoir s'il avait raison !",1,null]]}
+{
+  "filename": "UITalkText.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "UITalkCategoriesKey",
+      "rowid": 1,
+      "type": "int",
+      "key": "UITalkCategories.dat",
+      "key_id": null,
+      "key_offset": 1,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "OGGFile",
+      "rowid": 2,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": true,
+      "file_ext": ".ogg",
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Text",
+      "rowid": 3,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Flag0",
+      "rowid": 4,
+      "type": "byte",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Key0",
+      "rowid": 5,
+      "type": "ulong",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "Incursion_FirstIncursionGreeting",
+      1,
+      "Audio/Dialogue/NPC/BetrayalLeague/Alva/AV_04.ogg",
+      "J’ai découvert un moyen de nous frayer un chemin jusqu’au légendaire Temple d'Atzoatl. Il s’agit d’un sortilège jeté sur ces jalons antiques qui se déclenche au contact du sang des Vaal ; or, il se trouve qu'un peu de ce sang coule justement dans mes veines. Le sortilège en question vous transportera au temps jadis grâce à un portail que vous maintiendrez ouvert en tranchant des gorges qui n'auront pas mérité mieux. Plus vous y resterez longtemps, plus j’obtiendrai des indices sur l’emplacement actuel du Temple.\r\n\r\nLorsque nous aurons enfin localisé ce dernier, nous aurons tout le loisir de faire main basse sur ses nombreux trésors. C'est pourquoi nous devons découvrir où il se trouve maintenant. Par contre, attention à ce que vous ferez quand vous y serez ; toutes vos actions se répercuteront à travers le temps pour venir altérer le Temple à notre époque. Eh bien, qu’attendez-vous ? Allez entrer dans l’Histoire !",
+      1,
+      null
+    ],
+    [
+      "Incursion_FirstIncursionComplete",
+      2,
+      "Audio/Dialogue/NPC/Alva/AV05.ogg",
+      "Heureuse de voir que vous avez survécu à votre première Incursion.",
+      1,
+      null
+    ],
+    [
+      "Incursion_FirstIncursionFarewell",
+      3,
+      "Audio/Dialogue/NPC/Alva/AV09.ogg",
+      "Ces sorts de sang étant d'une nature capricieuse, ils doivent être exécutés sous certaines conditions : un jour précis de la semaine, un alignement d'étoiles particulier, ce genre de choses. Je vais tout de suite partir en quête d'un nouvel endroit où accomplir le prochain rituel. Tâchez de me retrouver, que nous puissions poursuivre notre entreprise !",
+      1,
+      null
+    ],
+    [
+      "Incursion_SecondIncursionGreeting",
+      4,
+      "Audio/Dialogue/NPC/Alva/AV10.ogg",
+      "Je savais que vous parviendriez à me retrouver ; vous et moi, on est comme les deux faces d'une même pièce. Votre précédente Incursion nous rapproche légèrement du Temple, mais comme la route est encore longue, j'espère que vous êtes d'humeur à remettre ça !",
+      1,
+      null
+    ],
+    [
+      "Incursion_SecondIncursionPortal",
+      5,
+      "Audio/Dialogue/NPC/Alva/AV12.ogg",
+      "Cela vous paraît familier ? C'est le Temple tel que vous l'avez laissé la dernière fois. Chacune de vos Incursions apporte des modifications à mon plan. Lorsque nous en aurons suffisamment occasionné, peut-être l'emplacement actuel du Temple nous sera-t-il révélé !",
+      1,
+      null
+    ],
+    [
+      "Incursion_GenericIncursionGreeting",
+      6,
+      "Audio/Dialogue/NPC/Alva/AV11.ogg",
+      "Ah, vous revoilà. On retourne dans le passé ? Plus vous ferez couler le sang, plus vous apporterez des modifications à mon plan, et plus nous serons à même de localiser le Temple dans le présent.",
+      1,
+      null
+    ],
+    [
+      "Incursion_GenericIncursionPortal_1",
+      7,
+      "Audio/Dialogue/NPC/Alva/AV13_A.ogg",
+      "Voici le plan.",
+      1,
+      null
+    ],
+    [
+      "Incursion_GenericIncursionPortal_2",
+      7,
+      "Audio/Dialogue/NPC/Alva/AV13_B.ogg",
+      "Jetons un coup d'œil à l'agencement des salles.",
+      1,
+      null
+    ],
+    [
+      "Incursion_GenericIncursionPortal_3",
+      7,
+      "Audio/Dialogue/NPC/Alva/AV13_C.ogg",
+      "Chaque Incursion nécessite une préparation adéquate.",
+      1,
+      null
+    ],
+    [
+      "Incursion_GenericIncursionPortal_4",
+      7,
+      "Audio/Dialogue/NPC/Alva/AV13_D.ogg",
+      "Voyez votre prochaine destination.",
+      1,
+      null
+    ],
+    [
+      "Incursion_GenericIncursionComplete_1",
+      8,
+      "Audio/Dialogue/NPC/Alva/AV14_A.ogg",
+      "Beau travail.",
+      1,
+      null
+    ],
+    [
+      "Incursion_GenericIncursionComplete_2",
+      8,
+      "Audio/Dialogue/NPC/Alva/AV14_B.ogg",
+      "Beau travail !",
+      1,
+      null
+    ],
+    [
+      "Incursion_GenericIncursionFarewell",
+      9,
+      "Audio/Dialogue/NPC/Alva/AV19.ogg",
+      "Chaque étape franchie nous rapproche du Temple ! Rejoignez-moi à la suivante, que nous puissions poursuivre notre tâche.",
+      1,
+      null
+    ],
+    [
+      "Incursion_TempleIsOpenFarewell",
+      10,
+      "Audio/Dialogue/NPC/Alva/AV20.ogg",
+      "Nous avons réussi à localiser l'emplacement du Temple. Assurez-vous d'avoir assez de provisions, puis faites-moi signe. J'ouvrirai alors un nouveau portail pour nous conduire là-bas.",
+      1,
+      null
+    ],
+    [
+      "Incursion_TempleOpenGreeting",
+      11,
+      "Audio/Dialogue/NPC/Alva/AV23.ogg",
+      "J'ai réussi ! Pardon, <italic>{nous} avons réussi à localiser l'emplacement du Temple ! Faites bien attention où vous mettrez les pieds. Bien que nous ayons influencé l'agencement du Temple, n'oublions pas que bien des choses peuvent changer en un millénaire. Nous ignorons en outre quel genre de créatures ont pu élire domicile au cœur de ces ruines…",
+      1,
+      null
+    ],
+    [
+      "Incursion_TemplePortal",
+      12,
+      "Audio/Dialogue/NPC/Alva/AV22.ogg",
+      "Ouvrez grand votre sac, car aujourd'hui nous empochons des richesses dignes d'un roi !",
+      1,
+      null
+    ],
+    [
+      "Incursion_ArmourRoom1",
+      13,
+      "Audio/Dialogue/NPC/Alva/AV39.ogg",
+      "L'Architecte du Fer a installé une forge dans cette pièce. Faites attention à ses carapaces de métal.",
+      1,
+      null
+    ],
+    [
+      "Incursion_ArmourRoom2",
+      14,
+      "Audio/Dialogue/NPC/Alva/AV40.ogg",
+      "Atmohua a gagné une belle armurerie grâce à vous, et tout le monde bénéficiera de sa protection par votre faute.",
+      1,
+      null
+    ],
+    [
+      "Incursion_ArmourRoom3",
+      15,
+      "Audio/Dialogue/NPC/Alva/AV41.ogg",
+      "Vous avez permis à des troupes lourdement cuirassées d'investir les lieux. J'avoue avoir du mal à comprendre pourquoi diable vouloir une telle chose, mais peut-être pourrons-nous au moins revendre les armures au prix coûtant.",
+      1,
+      null
+    ],
+    [
+      "Incursion_BreachRoom1",
+      16,
+      "Audio/Dialogue/NPC/Alva/AV42.ogg",
+      "Vous avez choisi de maintenir l'Architecte de la Brèche en vie. Je n'ai… aucune idée de ce qu'il va bien pouvoir manigancer dans cette salle.",
+      1,
+      null
+    ],
+    [
+      "Incursion_BreachRoom2",
+      17,
+      "Audio/Dialogue/NPC/Alva/AV43.ogg",
+      "Vous permettez à Zilquapa de conserver ce qu'il a trouvé dans cette salle, quoi que cela puisse être ? C'est un poil risqué — mais pas de risque, pas de récompense, comme on dit.",
+      1,
+      null
+    ],
+    [
+      "Incursion_BreachRoom3",
+      18,
+      "Audio/Dialogue/NPC/Alva/AV44.ogg",
+      "Quelle aubaine… La folie de Zilpaqua a attiré des… <italic>{choses}… dans le Temple. Était-ce là votre intention, ou dois-je applaudir votre témérité ?",
+      1,
+      null
+    ],
+    [
+      "Incursion_BreedingRoom1",
+      19,
+      "Audio/Dialogue/NPC/Alva/AV45.ogg",
+      "Remettre cette salle aux mains de cet Architecte fut une sage décision. Plus de sang à répandre signifie plus de temps à notre disposition dans le Temple. À nous le butin de guerre !",
+      1,
+      null
+    ],
+    [
+      "Incursion_BreedingRoom2",
+      20,
+      "Audio/Dialogue/NPC/Alva/AV46.ogg",
+      "Maintenant qu'il n'a plus de rival, Cholotl aura tout le loisir de recruter ses troupes comme il l'entend. J'imagine que ce n'est pas un problème pour vous.",
+      1,
+      null
+    ],
+    [
+      "Incursion_BreedingRoom3",
+      21,
+      "Audio/Dialogue/NPC/Alva/AV47.ogg",
+      "Vous avez laissé Cholotl transformer cette salle en sanctuaire pour les plus sanguinaires des Vaal. En espérant que nous ne nous en mordrons pas les doigts.",
+      1,
+      null
+    ],
+    [
+      "Incursion_CartographyRoom1",
+      22,
+      "Audio/Dialogue/NPC/Alva/AV48.ogg",
+      "L'Architecte de l'Expansion dispose maintenant d'une base opérationnelle qui lui permettra d'entreprendre son exploration de Wraeclast.",
+      1,
+      null
+    ],
+    [
+      "Incursion_CartographyRoom2",
+      23,
+      "Audio/Dialogue/NPC/Alva/AV49.ogg",
+      "Maintenant que son rival est mort, Uromoti pourra consacrer toutes ses ressources au prodigieux projet d'expansion des Vaal.",
+      1,
+      null
+    ],
+    [
+      "Incursion_CartographyRoom3",
+      24,
+      "Audio/Dialogue/NPC/Alva/AV50.ogg",
+      "La campagne d'exploration d'Uromoti a atteint une ampleur telle que je n'en avais jamais vu auparavant. Que cherchent-ils ? Que diable <italic>{reste-t-il} à découvrir ?",
+      1,
+      null
+    ],
+    [
+      "Incursion_ChestsRoom1",
+      25,
+      "Audio/Dialogue/NPC/Alva/AV51.ogg",
+      "Vous avez laissé assez de place dans cette salle pour que l'Architecte des Réserves puisse y entreposer ses « trouvailles ».",
+      1,
+      null
+    ],
+    [
+      "Incursion_ChestsRoom2",
+      26,
+      "Audio/Dialogue/NPC/Alva/AV52.ogg",
+      "Maintenant que son rival est hors d'état de nuire, Juatalotli dispose de beaucoup plus d'espace pour ranger sa drôle de collection.",
+      1,
+      null
+    ],
+    [
+      "Incursion_ChestsRoom3",
+      27,
+      "Audio/Dialogue/NPC/Alva/AV53.ogg",
+      "Avec un autre de ses rivaux d'éliminé, l'Architecte des Réserves pourra remplir cette salle de tout un tas d'objets précieux. Bien vu.",
+      1,
+      null
+    ],
+    [
+      "Incursion_CorruptionRoom1",
+      28,
+      "Audio/Dialogue/NPC/Alva/AV54.ogg",
+      "L'Architecte de la Corruption s'est saisi de cette salle afin d'y conduire ses expérimentations abominables.",
+      1,
+      null
+    ],
+    [
+      "Incursion_CorruptionRoom2",
+      29,
+      "Audio/Dialogue/NPC/Alva/AV55.ogg",
+      "Paquate a utilisé son influence grandissante pour déverser encore plus d'énergies corruptrices dans cette salle.",
+      1,
+      null
+    ],
+    [
+      "Incursion_CorruptionRoom3",
+      30,
+      "Audio/Dialogue/NPC/Alva/AV56.ogg",
+      "L'influence de sa corruption prend de plus en plus d'ampleur. Mais ça, vous le saviez déjà, non ?",
+      1,
+      null
+    ],
+    [
+      "Incursion_CurrencyRoom1",
+      31,
+      "Audio/Dialogue/NPC/Alva/AV57.ogg",
+      "L'Architecte des Trésors a pris possession de cette salle ? Mais c'est une <italic>{excellente} nouvelle !",
+      1,
+      null
+    ],
+    [
+      "Incursion_CurrencyRoom2",
+      32,
+      "Audio/Dialogue/NPC/Alva/AV58.ogg",
+      "Puisque vous avez tué son rival, on peut miser sur le fait qu'Estazunti aura emmagasiné encore plus de ses délectables richesses dans cette salle.",
+      1,
+      null
+    ],
+    [
+      "Incursion_CurrencyRoom3",
+      33,
+      "Audio/Dialogue/NPC/Alva/AV59.ogg",
+      "Un pari, ça vous dit ? Eh bien, je vous parie qu'Estazunti a inondé cette pièce de trésors inestimables à l'heure qu'il est. Une perspective des plus réjouissantes, n'est-ce pas ?",
+      1,
+      null
+    ],
+    [
+      "Incursion_HatcheryRoom1",
+      34,
+      "Audio/Dialogue/NPC/Alva/AV60.ogg",
+      "À cause de vos actions Citaqualotl, Architecte de la Nuée, ainsi que ses… expérimentations grouillantes ont élu domicile dans cette salle.",
+      1,
+      null
+    ],
+    [
+      "Incursion_HatcheryRoom2",
+      35,
+      "Audio/Dialogue/NPC/Alva/AV61.ogg",
+      "Maintenant qu'il n'a plus de rival pour l'inquiéter, on dirait que Citaqualotl bricole des engins ambulants faits d'étranges métaux.",
+      1,
+      null
+    ],
+    [
+      "Incursion_HatcheryRoom3",
+      36,
+      "Audio/Dialogue/NPC/Alva/AV62.ogg",
+      "Ainsi donc, ce savant fou a réuni les insectes et le métal ? Espérons que ses sujets d'expérience ne soient plus là quand nous arriverons.",
+      1,
+      null
+    ],
+    [
+      "Incursion_FlameRoom1",
+      37,
+      "Audio/Dialogue/NPC/Alva/AV63.ogg",
+      "Maintenant, l'Architecte de la Forge joue du marteau dans cette salle, dans un nuage de vapeur et d'étincelles.",
+      1,
+      null
+    ],
+    [
+      "Incursion_FlameRoom2",
+      38,
+      "Audio/Dialogue/NPC/Alva/AV64.ogg",
+      "Le marteau de Puhuarte va continuer de résonner dans le noir. Vous pouvez m'expliquer pourquoi ?",
+      1,
+      null
+    ],
+    [
+      "Incursion_FlameRoom3",
+      39,
+      "Audio/Dialogue/NPC/Alva/AV65.ogg",
+      "Vos choix ont permis aux créations de Puhuarte de gambader librement dans cette salle. Quelles sortes d'engins horribles ont été forgés ici, dans les flammes ?",
+      1,
+      null
+    ],
+    [
+      "Incursion_LightningRoom1",
+      40,
+      "Audio/Dialogue/NPC/Alva/AV66.ogg",
+      "L'électricité irradie maintenant dans cette salle. Cela signifie que Xopec, l'Architecte de l'Énergie, est désormais le maître des lieux.",
+      1,
+      null
+    ],
+    [
+      "Incursion_LightningRoom2",
+      41,
+      "Audio/Dialogue/NPC/Alva/AV67.ogg",
+      "Les expériences de Xopec sur les forces vitales électriques ont gagné en intensité dans cette salle.",
+      1,
+      null
+    ],
+    [
+      "Incursion_LightningRoom3",
+      42,
+      "Audio/Dialogue/NPC/Alva/AV68.ogg",
+      "Je me demande comment les pouvoirs de Xopec — que vous avez laissés croître en cette salle — vont se manifester dans le présent…",
+      1,
+      null
+    ],
+    [
+      "Incursion_EmpoweringRoom1",
+      43,
+      "Audio/Dialogue/NPC/Alva/AV69.ogg",
+      "Vous avez donné cette salle à Quipolatl. Intéressant. Vous faut-il vraiment toujours prendre autant de risques ?",
+      1,
+      null
+    ],
+    [
+      "Incursion_EmpoweringRoom2",
+      44,
+      "Audio/Dialogue/NPC/Alva/AV70.ogg",
+      "L'esprit de Quipolatl n'a d'yeux que pour le cœur du Temple, et cet esprit ne cesse de s'accroître à cause de votre choix.",
+      1,
+      null
+    ],
+    [
+      "Incursion_EmpoweringRoom3",
+      45,
+      "Audio/Dialogue/NPC/Alva/AV71.ogg",
+      "Par tous les dieux ! Vous tenez vraiment à nous rendre la tâche difficile ! Qui sait maintenant ce que cette partie du Temple nous réservera dans le futur ?",
+      1,
+      null
+    ],
+    [
+      "Incursion_ExplosivesRoom1",
+      46,
+      "Audio/Dialogue/NPC/Alva/AV72.ogg",
+      "Hayoxi n'a qu'une idée en tête : tout faire <italic>{péter}. Sachant cela, est-ce que lui permettre de venir ici… est vraiment une bonne chose ?",
+      1,
+      null
+    ],
+    [
+      "Incursion_ExplosivesRoom2",
+      47,
+      "Audio/Dialogue/NPC/Alva/AV73.ogg",
+      "On jurerait que vous nourrissez la même soif de chaos qu'Hayoxi, parce que lui permettre de s'établir ici ne fait qu'augmenter son arsenal d'explosifs.",
+      1,
+      null
+    ],
+    [
+      "Incursion_ExplosivesRoom3",
+      48,
+      "Audio/Dialogue/NPC/Alva/AV74.ogg",
+      "À ce stade, ce timbré aura truffé tout le Temple d'explosifs pour le réduire en poussière.",
+      1,
+      null
+    ],
+    [
+      "Incursion_GemRoom1",
+      49,
+      "Audio/Dialogue/NPC/Alva/AV75.ogg",
+      "Nul doute que Zalatl nous récompensera — à son insu, s'entend — pour lui avoir confié le contrôle de cette salle.",
+      1,
+      null
+    ],
+    [
+      "Incursion_GemRoom2",
+      50,
+      "Audio/Dialogue/NPC/Alva/AV76.ogg",
+      "Je vois que vous partagez le même amour pour les gemmes que l'Architecte de la Thaumaturgie.",
+      1,
+      null
+    ],
+    [
+      "Incursion_GemRoom3",
+      51,
+      "Audio/Dialogue/NPC/Alva/AV77.ogg",
+      "On devrait baptiser cette salle « l'Écrin de Zalatl » ! Imaginez la valeur qu'auront toutes ces pierres précieuses de nos jours !",
+      1,
+      null
+    ],
+    [
+      "Incursion_HealingRoom1",
+      52,
+      "Audio/Dialogue/NPC/Alva/AV78.ogg",
+      "De si jolies sources coulent dans cette salle. Quel dommage de savoir qu'elles seront souillées par Guatelitzi, mais la fin justifie les moyens, n'est-ce pas ?",
+      1,
+      null
+    ],
+    [
+      "Incursion_HealingRoom2",
+      53,
+      "Audio/Dialogue/NPC/Alva/AV79.ogg",
+      "Ah, la belle salle de noyade que voilà… et son légendaire charme vaal… Au moins, l'Architecte de la Chair pourra s'avérer intéressant pour plus tard.",
+      1,
+      null
+    ],
+    [
+      "Incursion_HealingRoom3",
+      54,
+      "Audio/Dialogue/NPC/Alva/AV80.ogg",
+      "Guatelitzi a bien pris ces bassins pour domicile. Espérons que ça nous soit profitable dans le présent.",
+      1,
+      null
+    ],
+    [
+      "Incursion_PoisonRoom1",
+      55,
+      "Audio/Dialogue/NPC/Alva/AV81.ogg",
+      "Pouah, l'Architecte des Toxines — certainement pas le premier que j'aurais laissé prospérer dans cette partie du Temple…",
+      1,
+      null
+    ],
+    [
+      "Incursion_PoisonRoom2",
+      56,
+      "Audio/Dialogue/NPC/Alva/AV82.ogg",
+      "On dirait que les plantes de Tacati sont en train d'envahir les lieux. Prions les dieux que vous sachiez ce que vous faites…",
+      1,
+      null
+    ],
+    [
+      "Incursion_PoisonRoom3",
+      57,
+      "Audio/Dialogue/NPC/Alva/AV83.ogg",
+      "Vous avez libéré Tacati de toute forme d'opposition. Il a maintenant tout le loisir de jouer avec ses affreux poisons. J'espère ne pas tomber malade.",
+      1,
+      null
+    ],
+    [
+      "Incursion_QueenRoom1",
+      58,
+      "Audio/Dialogue/NPC/Alva/AV84.ogg",
+      "L'Architecte Royal a réquisitionné cette salle au nom de sa Reine.",
+      1,
+      null
+    ],
+    [
+      "Incursion_QueenRoom2",
+      59,
+      "Audio/Dialogue/NPC/Alva/AV85.ogg",
+      "Xipocado semble déterminé à faire de cette salle une sorte de chambre royale, et vous venez tout juste de lui faciliter la tâche.",
+      1,
+      null
+    ],
+    [
+      "Incursion_QueenRoom3",
+      60,
+      "Audio/Dialogue/NPC/Alva/AV86.ogg",
+      "Devinez quel fessier viendra honorer le trône que l'Architecte Royal a installé dans cette salle — grâce à vous ?",
+      1,
+      null
+    ],
+    [
+      "Incursion_SacrificeRoom1",
+      61,
+      "Audio/Dialogue/NPC/Alva/AV87.ogg",
+      "Vous avez laissé… l'Architecte des Cérémonies, celui qui a orchestré d'<italic>{innombrables} sacrifices humains, prendre cette salle ?",
+      1,
+      null
+    ],
+    [
+      "Incursion_SacrificeRoom2",
+      62,
+      "Audio/Dialogue/NPC/Alva/AV88.ogg",
+      "Maintenant que son rival est mort, Ahuana pourra canaliser ses ressources pour arranger des sacrifices encore plus sanglants, toujours en l'honneur de ses faux dieux et de sa Reine ridicule.",
+      1,
+      null
+    ],
+    [
+      "Incursion_SacrificeRoom3",
+      63,
+      "Audio/Dialogue/NPC/Alva/AV89.ogg",
+      "Le sang des sacrifiés d'Ahuana est sur vos mains — et attendez-vous à ce qu'il s'en verse encore davantage.",
+      1,
+      null
+    ],
+    [
+      "Incursion_TempestRoom1",
+      64,
+      "Audio/Dialogue/NPC/Alva/AV90.ogg",
+      "Il va sans dire que Topotante possède un tempérament orageux. Mais si c'est lui que vous voulez voir dans cette salle, qui suis-je pour le contester ?",
+      1,
+      null
+    ],
+    [
+      "Incursion_TempestRoom2",
+      65,
+      "Audio/Dialogue/NPC/Alva/AV91.ogg",
+      "Le vent du changement se déchaîne dans cette salle. L'Architecte des Tempêtes sera ravi de construire sur les fondations de votre fureur.",
+      1,
+      null
+    ],
+    [
+      "Incursion_TempestRoom3",
+      66,
+      "Audio/Dialogue/NPC/Alva/AV92.ogg",
+      "Serait-ce la tempête du millénaire ? En tous les cas, espérons qu'elle ne gâche pas tout.",
+      1,
+      null
+    ],
+    [
+      "Incursion_TrapsRoom1",
+      67,
+      "Audio/Dialogue/NPC/Alva/AV93.ogg",
+      "Vous avez laissé l'Architecte des Fortifications prendre cette salle. Vous savez pourtant ce que sont des fortifications, non ? Je vous signale pour mémoire que nous comptons <italic>{dévaliser} ce Temple !",
+      1,
+      null
+    ],
+    [
+      "Incursion_TrapsRoom2",
+      68,
+      "Audio/Dialogue/NPC/Alva/AV94.ogg",
+      "Vous avez éliminé le rival de Matatl. Cela lui donnera les moyens de truffer le Temple de pièges. Des pièges qu'il nous faudra ensuite éviter, vous savez !",
+      1,
+      null
+    ],
+    [
+      "Incursion_TrapsRoom3",
+      69,
+      "Audio/Dialogue/NPC/Alva/AV95.ogg",
+      "Matatl vous a remercié de lui avoir laissé la vie sauve en semant des pièges absolument partout. Je commence à me demander si vous savez ce que vous faites…",
+      1,
+      null
+    ],
+    [
+      "Incursion_TrinketsRoom1",
+      70,
+      "Audio/Dialogue/NPC/Alva/AV96.ogg",
+      "L'Architecte de la Guilde était un joaillier réputé pour son talent. Avec lui dans les parages, attendons-nous à ce que le Temple scintille de partout !",
+      1,
+      null
+    ],
+    [
+      "Incursion_TrinketsRoom2",
+      71,
+      "Audio/Dialogue/NPC/Alva/AV97.ogg",
+      "Le rival d'Azcapa est mort ? J'entends les joyaux pleuvoir d'ici ! Il me tarde de trouver ce Temple !",
+      1,
+      null
+    ],
+    [
+      "Incursion_TrinketsRoom3",
+      72,
+      "Audio/Dialogue/NPC/Alva/AV98.ogg",
+      "Azcapa est toujours en vie ? Oh, vous allez me rendre <italic>{très} heureuse. Très heureuse et très riche.",
+      1,
+      null
+    ],
+    [
+      "IncursionWeaponsRoom1",
+      73,
+      "Audio/Dialogue/NPC/Alva/AV99.ogg",
+      "Ticaba raffolait de ses combats de gladiateurs, cela va sans dire. Je présume que nous trouverons des armes plus facilement maintenant que vous lui avez laissé la vie sauve.",
+      1,
+      null
+    ],
+    [
+      "IncursionWeaponsRoom2",
+      74,
+      "Audio/Dialogue/NPC/Alva/AV100.ogg",
+      "Il n'existe pas de meilleur endroit que l'arène pour répandre le sang des Vaal. Et il n'existe pas de meilleur Architecte que Ticaba pour en prendre le contrôle.",
+      1,
+      null
+    ],
+    [
+      "IncursionWeaponsRoom3",
+      75,
+      "Audio/Dialogue/NPC/Alva/AV101.ogg",
+      "Ainsi donc, vous avez laissé Ticaba à ses souvenirs dans l'ombre de ses champions de l'arène… Souhaitons que l'éternité vous récompense pour vos actions.",
+      1,
+      null
+    ],
+    [
+      "IncursionWorkshopRoom1",
+      76,
+      "Audio/Dialogue/NPC/Alva/AV102.ogg",
+      "Jiquani avait l'efficacité pour obsession. Donc si on le laisse dans cette salle, on sera a priori mieux récompensés, non ?",
+      1,
+      null
+    ],
+    [
+      "IncursionWorkshopRoom2",
+      77,
+      "Audio/Dialogue/NPC/Alva/AV103.ogg",
+      "Je vois que Jiquani n'avait pas usurpé son titre : il a su non seulement rester en vie, mais aussi faire prospérer son activité de manière très « industrieuse ».",
+      1,
+      null
+    ],
+    [
+      "IncursionWorkshopRoom3",
+      78,
+      "Audio/Dialogue/NPC/Alva/AV104.ogg",
+      "Je dois vous avouer que je meurs d'envie de savoir pourquoi vous avez laissé respirer cette ordure. J'ose croire que j'aurai ma réponse bien assez tôt.",
+      1,
+      null
+    ],
+    [
+      "Incursion_ConnectionsChanged1",
+      79,
+      "Audio/Dialogue/NPC/Alva/AV18_A_1.ogg",
+      "Vous avez créé de nouvelles voies !",
+      1,
+      null
+    ],
+    [
+      "Incursion_ConnectionsChanged2",
+      79,
+      "Audio/Dialogue/NPC/Alva/AV35_A.ogg",
+      "Oh, vous avez ouvert de nouveaux chemins !",
+      1,
+      null
+    ],
+    [
+      "Incursion_ConnectionsChanged3",
+      79,
+      "Audio/Dialogue/NPC/Alva/AV35_B.ogg",
+      "Nos déplacements dans le Temple seront facilités grâce à vous !",
+      1,
+      null
+    ],
+    [
+      "Incursion_ConnectionsChanged4",
+      79,
+      "Audio/Dialogue/NPC/Alva/AV35_C.ogg",
+      "Les chemins que vous avez ouverts nous seront utiles plus tard.",
+      1,
+      null
+    ],
+    [
+      "Incursion_GenericNothingChanged1",
+      80,
+      "Audio/Dialogue/NPC/Alva/AV17_A.ogg",
+      "Hum, pas de chance cette fois-ci ; rien n'a changé sur le plan. Ce n'est pas une mauvaise chose… mais pas forcément une bonne chose non plus. Continuez.",
+      1,
+      null
+    ],
+    [
+      "Incursion_GenericNothingChanged2",
+      80,
+      "Audio/Dialogue/NPC/Alva/AV17_B.ogg",
+      "Non, rien n'a changé ce coup-ci. Persévérez. Plus vous apporterez de modifications, plus nous avancerons.",
+      1,
+      null
+    ],
+    [
+      "Incursion_GenericNothingChanged3",
+      80,
+      "Audio/Dialogue/NPC/Alva/AV17_C.ogg",
+      "Hum, aucun changement. J'espère que c'était là votre intention !",
+      1,
+      null
+    ],
+    [
+      "Incursion_StrongboxRoom1",
+      81,
+      "Audio/Dialogue/NPC/BetrayalLeague/Alva/AV_13.ogg",
+      "Zantipi était mon genre d'Architecte ! Son obsession, c'était de remplir des coffres d'objets précieux et d'y fixer tout un tas de pièges.",
+      1,
+      null
+    ],
+    [
+      "Incursion_StrongboxRoom2",
+      82,
+      "Audio/Dialogue/NPC/BetrayalLeague/Alva/AV_14.ogg",
+      "Avec l'influence de Zantipi qui va grandissant, nous allons certainement trouver des coffres encore plus dangereux — et lucratifs.",
+      1,
+      null
+    ],
+    [
+      "Incursion_StrongboxRoom3",
+      83,
+      "Audio/Dialogue/NPC/BetrayalLeague/Alva/AV_15.ogg",
+      "Une pièce entière remplie de dangereux coffres-forts bourrés de trésors. Si vous saviez comme je vous aime !",
+      1,
+      null
+    ],
+    [
+      "Incursion_TormentRoom1",
+      84,
+      "Audio/Dialogue/NPC/BetrayalLeague/Alva/AV_09.ogg",
+      "Tzamoto avait un sens tordu de la justice. Il réservait les exécutions aux coupables des crimes les plus brutaux… Les criminels mineurs, il les emprisonnait simplement pour le restant de leurs jours.",
+      1,
+      null
+    ],
+    [
+      "Incursion_TormentRoom2",
+      85,
+      "Audio/Dialogue/NPC/BetrayalLeague/Alva/AV_10.ogg",
+      "Je suppose que vous avez vos raisons de vouloir agrandir la prison de Tzamoto, mais elles me sont totalement incompréhensibles.",
+      1,
+      null
+    ],
+    [
+      "Incursion_TormentRoom3",
+      86,
+      "Audio/Dialogue/NPC/BetrayalLeague/Alva/AV_11.ogg",
+      "La prison de Tzamoto est gigantesque et regorge de criminels. Des criminels forcément sans le sou. Merveilleux. Vraiment, merci.",
+      1,
+      null
+    ],
+    [
+      "Incursion_LegionRoom1",
+      87,
+      "",
+      "Opiloti s'est emparé de cette salle ? C'était un seigneur de guerre des plus brutal. J'espère que vous savez ce que vous faites, par égard pour moi !",
+      1,
+      null
+    ],
+    [
+      "Incursion_LegionRoom2",
+      88,
+      "",
+      "Les Vaal sont plutôt considérés comme un peuple pacifique d'après nos mœurs contemporaines, mais il n'empêche que certains d'entre eux se repaissaient de violence. Vous venez précisément d'offrir à l'un de ceux-là ce qu'il voulait.",
+      1,
+      null
+    ],
+    [
+      "Incursion_LegionRoom3",
+      89,
+      "",
+      "Opiloti répandait le sang de ses plus grands guerriers, convaincu que ça leur accorderait l'immortalité. On va bientôt savoir s'il avait raison !",
+      1,
+      null
+    ]
+  ]
+}

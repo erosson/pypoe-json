@@ -1,1 +1,272 @@
-{"filename":"EvergreenAchievements.dat","header":[{"name":"Unknown0","rowid":0,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown1","rowid":1,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Keys0","rowid":2,"type":"ref|list|ulong","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[[2,90,[7359]],[3,20,[1010]],[4,20,[1576]],[5,5,[]],[7,0,[]],[8,0,[]],[1,0,[]],[2,100,[7436]],[9,0,[1175]],[10,0,[7434]],[11,0,[4222]],[12,0,[]],[13,0,[]],[14,0,[]],[15,0,[2507]],[16,1,[]],[16,2,[]],[16,3,[]],[16,4,[]],[16,5,[1029]],[17,2,[]],[18,100,[]],[18,270,[]],[18,300,[]],[18,600,[]],[23,0,[]],[19,10,[]],[19,50,[]],[19,100,[]],[19,150,[]],[20,0,[]],[21,2,[]],[21,3,[]],[21,4,[]],[21,5,[]],[22,0,[]],[24,0,[]],[25,0,[1026]],[26,0,[]],[28,0,[]]]}
+{
+  "filename": "EvergreenAchievements.dat",
+  "header": [
+    {
+      "name": "Unknown0",
+      "rowid": 0,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown1",
+      "rowid": 1,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Keys0",
+      "rowid": 2,
+      "type": "ref|list|ulong",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      2,
+      90,
+      [
+        7359
+      ]
+    ],
+    [
+      3,
+      20,
+      [
+        1010
+      ]
+    ],
+    [
+      4,
+      20,
+      [
+        1576
+      ]
+    ],
+    [
+      5,
+      5,
+      []
+    ],
+    [
+      7,
+      0,
+      []
+    ],
+    [
+      8,
+      0,
+      []
+    ],
+    [
+      1,
+      0,
+      []
+    ],
+    [
+      2,
+      100,
+      [
+        7436
+      ]
+    ],
+    [
+      9,
+      0,
+      [
+        1175
+      ]
+    ],
+    [
+      10,
+      0,
+      [
+        7434
+      ]
+    ],
+    [
+      11,
+      0,
+      [
+        4222
+      ]
+    ],
+    [
+      12,
+      0,
+      []
+    ],
+    [
+      13,
+      0,
+      []
+    ],
+    [
+      14,
+      0,
+      []
+    ],
+    [
+      15,
+      0,
+      [
+        2507
+      ]
+    ],
+    [
+      16,
+      1,
+      []
+    ],
+    [
+      16,
+      2,
+      []
+    ],
+    [
+      16,
+      3,
+      []
+    ],
+    [
+      16,
+      4,
+      []
+    ],
+    [
+      16,
+      5,
+      [
+        1029
+      ]
+    ],
+    [
+      17,
+      2,
+      []
+    ],
+    [
+      18,
+      100,
+      []
+    ],
+    [
+      18,
+      270,
+      []
+    ],
+    [
+      18,
+      300,
+      []
+    ],
+    [
+      18,
+      600,
+      []
+    ],
+    [
+      23,
+      0,
+      []
+    ],
+    [
+      19,
+      10,
+      []
+    ],
+    [
+      19,
+      50,
+      []
+    ],
+    [
+      19,
+      100,
+      []
+    ],
+    [
+      19,
+      150,
+      []
+    ],
+    [
+      20,
+      0,
+      []
+    ],
+    [
+      21,
+      2,
+      []
+    ],
+    [
+      21,
+      3,
+      []
+    ],
+    [
+      21,
+      4,
+      []
+    ],
+    [
+      21,
+      5,
+      []
+    ],
+    [
+      22,
+      0,
+      []
+    ],
+    [
+      24,
+      0,
+      []
+    ],
+    [
+      25,
+      0,
+      [
+        1026
+      ]
+    ],
+    [
+      26,
+      0,
+      []
+    ],
+    [
+      28,
+      0,
+      []
+    ]
+  ]
+}

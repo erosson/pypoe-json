@@ -1,1 +1,211 @@
-{"filename":"MetamorphosisRewardTypes.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":true,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Art","rowid":1,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":true,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Name","rowid":2,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"AchievementItemsKeys","rowid":3,"type":"ref|list|ulong","key":"AchievementItems.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["Currency","Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedCurrency","Objets monétaires",[]],["Uniques","Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedUniques","Uniques",[]],["Gems","Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedGems","Gemmes",[]],["Maps","Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedMaps","Cartes",[]],["Trinkets","Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedTrinkets","Accessoires",[]],["Armour","Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedArmour","Pièces d'armure",[]],["Weapon","Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedWeapons","Armes",[]],["Abyss","Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedAbyss","Objets abyssaux",[]],["Perandus","Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedPerandus","Objets de Pérandus",[]],["Harbinger","Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedHarbinger","Objets de Précurseur",[]],["Breach","Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedBreach","Objets de Brèche",[]],["Essences","Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedEssence","Essences",[]],["Essences2","Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedEssence","Essences",[]],["Fragments","Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedFragments","Fragments",[]],["Scarabs","Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedScarabs","Scarabées",[]],["Fossils","Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedFossils","Fossiles",[]],["Prophecies","Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedProphecies","Prophéties",[]],["DivinationCards","Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedDivination","Cartes divinatoires",[]],["Generic","Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedGeneric","Objets génériques",[]],["Talismans","Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedTalismans","Talismans",[]],["Labyrinth","Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedLabyrinth","Objets du Labyrinthe",[]],["Legion","Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedLegion","Objet de Légions",[]],["Blight","Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedBlight","Objets de l'Infestation",[]],["Metamorphosis","Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedMetamorph","Objets de Métamorphes",[]]]}
+{
+  "filename": "MetamorphosisRewardTypes.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Art",
+      "rowid": 1,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": true,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Name",
+      "rowid": 2,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "AchievementItemsKeys",
+      "rowid": 3,
+      "type": "ref|list|ulong",
+      "key": "AchievementItems.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "Currency",
+      "Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedCurrency",
+      "Objets monétaires",
+      []
+    ],
+    [
+      "Uniques",
+      "Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedUniques",
+      "Uniques",
+      []
+    ],
+    [
+      "Gems",
+      "Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedGems",
+      "Gemmes",
+      []
+    ],
+    [
+      "Maps",
+      "Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedMaps",
+      "Cartes",
+      []
+    ],
+    [
+      "Trinkets",
+      "Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedTrinkets",
+      "Accessoires",
+      []
+    ],
+    [
+      "Armour",
+      "Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedArmour",
+      "Pièces d'armure",
+      []
+    ],
+    [
+      "Weapon",
+      "Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedWeapons",
+      "Armes",
+      []
+    ],
+    [
+      "Abyss",
+      "Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedAbyss",
+      "Objets abyssaux",
+      []
+    ],
+    [
+      "Perandus",
+      "Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedPerandus",
+      "Objets de Pérandus",
+      []
+    ],
+    [
+      "Harbinger",
+      "Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedHarbinger",
+      "Objets de Précurseur",
+      []
+    ],
+    [
+      "Breach",
+      "Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedBreach",
+      "Objets de Brèche",
+      []
+    ],
+    [
+      "Essences",
+      "Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedEssence",
+      "Essences",
+      []
+    ],
+    [
+      "Essences2",
+      "Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedEssence",
+      "Essences",
+      []
+    ],
+    [
+      "Fragments",
+      "Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedFragments",
+      "Fragments",
+      []
+    ],
+    [
+      "Scarabs",
+      "Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedScarabs",
+      "Scarabées",
+      []
+    ],
+    [
+      "Fossils",
+      "Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedFossils",
+      "Fossiles",
+      []
+    ],
+    [
+      "Prophecies",
+      "Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedProphecies",
+      "Prophéties",
+      []
+    ],
+    [
+      "DivinationCards",
+      "Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedDivination",
+      "Cartes divinatoires",
+      []
+    ],
+    [
+      "Generic",
+      "Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedGeneric",
+      "Objets génériques",
+      []
+    ],
+    [
+      "Talismans",
+      "Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedTalismans",
+      "Talismans",
+      []
+    ],
+    [
+      "Labyrinth",
+      "Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedLabyrinth",
+      "Objets du Labyrinthe",
+      []
+    ],
+    [
+      "Legion",
+      "Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedLegion",
+      "Objet de Légions",
+      []
+    ],
+    [
+      "Blight",
+      "Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedBlight",
+      "Objets de l'Infestation",
+      []
+    ],
+    [
+      "Metamorphosis",
+      "Art/2DArt/UIImages/InGame/Metamorphosis/rewardsymbols/ChestUnopenedMetamorph",
+      "Objets de Métamorphes",
+      []
+    ]
+  ]
+}

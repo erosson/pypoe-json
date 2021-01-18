@@ -1,1 +1,57 @@
-{"filename":"MicrotransactionRarityDisplay.dat","header":[{"name":"Rarity","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":true,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"ImageFile","rowid":1,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":true,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["Common","Art/2DArt/UIImages/InGame/ItemsHeaderWhite"],["Magic","Art/2DArt/UIImages/InGame/ItemsHeaderMagic"],["Rare","Art/2DArt/UIImages/InGame/ItemsHeaderRareSingleLine"],["Unique","Art/2DArt/UIImages/InGame/ItemsHeaderUniqueSingleLine"],["Foil","Art/2DArt/UIImages/InGame/ItemsHeaderFoilSingleLine"]]}
+{
+  "filename": "MicrotransactionRarityDisplay.dat",
+  "header": [
+    {
+      "name": "Rarity",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "ImageFile",
+      "rowid": 1,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": true,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "Common",
+      "Art/2DArt/UIImages/InGame/ItemsHeaderWhite"
+    ],
+    [
+      "Magic",
+      "Art/2DArt/UIImages/InGame/ItemsHeaderMagic"
+    ],
+    [
+      "Rare",
+      "Art/2DArt/UIImages/InGame/ItemsHeaderRareSingleLine"
+    ],
+    [
+      "Unique",
+      "Art/2DArt/UIImages/InGame/ItemsHeaderUniqueSingleLine"
+    ],
+    [
+      "Foil",
+      "Art/2DArt/UIImages/InGame/ItemsHeaderFoilSingleLine"
+    ]
+  ]
+}

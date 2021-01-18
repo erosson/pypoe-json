@@ -1,1 +1,189 @@
-{"filename":"DelveCraftingModifierDescriptions.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":true,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Description","rowid":1,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["BetterSellPrice","ไอเทมขายให้ร้านค้าได้เกินราคา"],["LuckyMods","โชคดีในการสุ่มค่าตัวเลขของม็อด\r\nออกม็อดระดับสูงบ่อยขึ้น"],["RandomModifier","ออกม็อดของ Fossil ได้ทุกม็อด"],["CorruptEssence","มีม็อดจาก Essence ที่ต้อง Corrupt"],["Duplicate","สร้างมิร์เรอร์ก๊อบปี้"],["AbyssSocket","มีรู Abyssal หนึ่งรู"],["VaalMod","มีม็อด Vaal หนึ่งม็อด"],["Sockets","มีรูมากขึ้น\r\nสามารถมีรูสีขาวได้"],["LabryinthEnchant","มีคุณสมบัติจากวงกต"],["Quality","เพิ่มคุณภาพ"],["MorePhysical","เพิ่มม็อดกายภาพ"],["MoreFire","เพิ่มม็อดไฟ"],["MoreCold","เพิ่มม็อดน้ำแข็ง"],["MoreLightning","เพิ่มม็อดไฟฟ้า"],["MoreChaos","เพิ่มม็อดเคออส"],["MoreElemental","เพิ่มม็อดธาตุ"],["MoreBleedPoison","เพิ่มม็อดเจ็บป่วยกายภาพ และ เจ็บป่วยเคออส"],["MoreLife","เพิ่มม็อดพลังชีวิต"],["MoreDefences","เพิ่มม็อดป้องกัน"],["MoreCaster","เพิ่มม็อดนักเวท"],["MoreAttack","เพิ่มม็อดโจมตี"],["MoreMana","เพิ่มม็อดมานา"],["MoreSpeed","เพิ่มม็อดความเร็ว"],["MoreMinionAura","เพิ่มม็อดมิเนียน, ออร่า หรือคำสาป"],["MoreGemLevel","เพิ่มม็อดเกี่ยวกับหินสกิล"],["LessCaster","ลดม็อดนักเวท"],["LessAttack","ลดม็อดโจมตี"],["NoPhysical","ไม่ออกม็อดกายภาพ"],["NoFire","ไม่ออกม็อดไฟ"],["NoCold","ไม่ออกม็อดน้ำแข็ง"],["NoLightning","ไม่ออกม็อดไฟฟ้า"],["NoChaos","ไม่ออกม็อดเคออส"],["NoLife","ไม่ออกม็อดพลังชีวิต"],["NoDefences","ไม่ออกม็อดป้องกัน"],["NoElemental","ไม่ออกม็อดธาตุ"],["NoBleedPoison","ไม่ออกม็อดเจ็บป่วยกายภาพ และ เจ็บป่วยเคออส"],["NoMana","ไม่ออกม็อดมานา"],["NoSpeed","ไม่ออกม็อดความเร็ว"]]}
+{
+  "filename": "DelveCraftingModifierDescriptions.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Description",
+      "rowid": 1,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "BetterSellPrice",
+      "ไอเทมขายให้ร้านค้าได้เกินราคา"
+    ],
+    [
+      "LuckyMods",
+      "โชคดีในการสุ่มค่าตัวเลขของม็อด\r\nออกม็อดระดับสูงบ่อยขึ้น"
+    ],
+    [
+      "RandomModifier",
+      "ออกม็อดของ Fossil ได้ทุกม็อด"
+    ],
+    [
+      "CorruptEssence",
+      "มีม็อดจาก Essence ที่ต้อง Corrupt"
+    ],
+    [
+      "Duplicate",
+      "สร้างมิร์เรอร์ก๊อบปี้"
+    ],
+    [
+      "AbyssSocket",
+      "มีรู Abyssal หนึ่งรู"
+    ],
+    [
+      "VaalMod",
+      "มีม็อด Vaal หนึ่งม็อด"
+    ],
+    [
+      "Sockets",
+      "มีรูมากขึ้น\r\nสามารถมีรูสีขาวได้"
+    ],
+    [
+      "LabryinthEnchant",
+      "มีคุณสมบัติจากวงกต"
+    ],
+    [
+      "Quality",
+      "เพิ่มคุณภาพ"
+    ],
+    [
+      "MorePhysical",
+      "เพิ่มม็อดกายภาพ"
+    ],
+    [
+      "MoreFire",
+      "เพิ่มม็อดไฟ"
+    ],
+    [
+      "MoreCold",
+      "เพิ่มม็อดน้ำแข็ง"
+    ],
+    [
+      "MoreLightning",
+      "เพิ่มม็อดไฟฟ้า"
+    ],
+    [
+      "MoreChaos",
+      "เพิ่มม็อดเคออส"
+    ],
+    [
+      "MoreElemental",
+      "เพิ่มม็อดธาตุ"
+    ],
+    [
+      "MoreBleedPoison",
+      "เพิ่มม็อดเจ็บป่วยกายภาพ และ เจ็บป่วยเคออส"
+    ],
+    [
+      "MoreLife",
+      "เพิ่มม็อดพลังชีวิต"
+    ],
+    [
+      "MoreDefences",
+      "เพิ่มม็อดป้องกัน"
+    ],
+    [
+      "MoreCaster",
+      "เพิ่มม็อดนักเวท"
+    ],
+    [
+      "MoreAttack",
+      "เพิ่มม็อดโจมตี"
+    ],
+    [
+      "MoreMana",
+      "เพิ่มม็อดมานา"
+    ],
+    [
+      "MoreSpeed",
+      "เพิ่มม็อดความเร็ว"
+    ],
+    [
+      "MoreMinionAura",
+      "เพิ่มม็อดมิเนียน, ออร่า หรือคำสาป"
+    ],
+    [
+      "MoreGemLevel",
+      "เพิ่มม็อดเกี่ยวกับหินสกิล"
+    ],
+    [
+      "LessCaster",
+      "ลดม็อดนักเวท"
+    ],
+    [
+      "LessAttack",
+      "ลดม็อดโจมตี"
+    ],
+    [
+      "NoPhysical",
+      "ไม่ออกม็อดกายภาพ"
+    ],
+    [
+      "NoFire",
+      "ไม่ออกม็อดไฟ"
+    ],
+    [
+      "NoCold",
+      "ไม่ออกม็อดน้ำแข็ง"
+    ],
+    [
+      "NoLightning",
+      "ไม่ออกม็อดไฟฟ้า"
+    ],
+    [
+      "NoChaos",
+      "ไม่ออกม็อดเคออส"
+    ],
+    [
+      "NoLife",
+      "ไม่ออกม็อดพลังชีวิต"
+    ],
+    [
+      "NoDefences",
+      "ไม่ออกม็อดป้องกัน"
+    ],
+    [
+      "NoElemental",
+      "ไม่ออกม็อดธาตุ"
+    ],
+    [
+      "NoBleedPoison",
+      "ไม่ออกม็อดเจ็บป่วยกายภาพ และ เจ็บป่วยเคออส"
+    ],
+    [
+      "NoMana",
+      "ไม่ออกม็อดมานา"
+    ],
+    [
+      "NoSpeed",
+      "ไม่ออกม็อดความเร็ว"
+    ]
+  ]
+}

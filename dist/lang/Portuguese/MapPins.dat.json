@@ -1,1 +1,3143 @@
-{"filename":"MapPins.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":true,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"PositionX","rowid":1,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":"X starts at left side of image, can be negative"},{"name":"PositionY","rowid":2,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":"Y starts at top side of image, can be negative"},{"name":"Waypoint_WorldAreasKey","rowid":3,"type":"ulong","key":"WorldAreas.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"WorldAreasKeys","rowid":4,"type":"ref|list|ulong","key":"WorldAreas.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Name","rowid":5,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"FlavourText","rowid":6,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Data1","rowid":7,"type":"ref|list|uint","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Act","rowid":8,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"UnknownId","rowid":9,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Data0","rowid":10,"type":"ref|list|int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown13","rowid":11,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["1_town",264,405,1,[1],"Vigília de Lioneye","Frio, umidade e cheiro de infecção. É assim que a Esperança passa por Wraeclast.",[124],1,"1_town",[125],2299],["1_1",244,486,null,[2],"Costa do Crepúsculo","A Esperança morreu afogada aqui.",[],1,"1_1",[124],2299],["1_2",285,346,3,[3],"A Costa","Os penhascos ecoam a loucura voraz.",[45,125],1,"1_2",[126],2299],["1_2a",325,375,null,[4],"Ilha da Maré","Apesar do calor do sol, a brisa aqui mordisca com presas de gelo.",[45,126],1,"1_2a",[127],2299],["1_3",314,300,null,[5],"O Lamaçal","A lama e o ar fervilham com a vida deformada.",[126],1,"1_3",[31],2299],["1_3a",283,231,null,[6],"Lagoa Fétida","Águas vagarosas fervendo em podridão.",[225,31],1,"1_3a",[128],2299],["1_4_0",426,279,null,[7],"Profundezas Inundadas","A escuridão congelando à inanição.",[114,28],1,"1_4_0",[129],2299],["1_4",371,247,8,[8],"Passagem Submersa","Lodo, sombras e dentes muito afiados.",[114,31,230],1,"1_4",[28],2299],["1_5",419,211,9,[9],"O Desfiladeiro","Ventos empoeirados carregam o cheiro de ossos, velhos ou não.",[28,230],1,"1_5",[4],2299],["1_6",324,161,10,[10],"A Escalada","Os penhascos olham ameaçadoramente como juízes num tribunal.",[5,4,230],1,"1_6",[130],2299],["1_7",305,68,11,[11,12],"A Prisão","O ar é rico em desesperos e aparições.",[5,130,230],1,"1_7",[131],2299],["1_8",385,68,13,[13],"Portões da Prisão","Os penhascos observam com olhos caprinos.",[131,230],1,"1_8",[27],2299],["1_9",480,158,14,[14],"Necrópole de Navios","Agonias sussurradas dos mortos ilhados.",[27],1,"1_9",[34],2299],["1_9a",470,107,null,[15],"Caverna da Necrópole de Navios","A garganta de um cadáver exalando morte.",[34],1,"1_9a",[132],2299],["1_11",626,117,16,[16,17],"Cavernas de Merveil","O ar alfineta a pele com sua fúria frígida.",[9,34],1,"1_11",[133],2299],["1_fake_act2",580,-25,null,[],"Ato 2","NOTA DO DESENVOLVEDOR: Caminho fora do mapa para a missão Caminho Adiante",[133],1,"",[72],2299],["1_fake_road",365,-25,null,[],"Ato 2","NOTA DO DESENVOLVEDOR: Caminho fora do mapa para a missão Caminho Adiante",[27,230],1,"",[72],2299],["2_town",528,313,18,[18],"Acampamento da Floresta","Um resquício de civilidade na selva.",[11],2,"2_town",[134],2299],["2_1",574,400,19,[19],"A Floresta do Sul","Violência transpirante, úmida e luxuriante.",[],2,"2_1",[11],2299],["2_2",574,267,null,[20],"Campos Antigos","Pastos doentes e febris.",[54,21,97,98,134,245],2,"2_2",[135],2299],["2_2a",530,218,null,[21],"A Gruta","Quente e amargo como o arquejo do urso raivoso.",[137,245],2,"2_2a",[136],2299],["2_3",615,196,22,[22],"A Encruzilhada","A vida penúria onde já floresceu.",[135,98,97,54,21,22],2,"2_3",[137],2299],["2_5",745,275,23,[23,24],"A Cripta","Pedras suavizadas por séculos de devoção.",[97,148],2,"2_5",[139],2299],["2_6",540,122,25,[25,26],"Câmara dos Pecados","Sussurros fantasmas de uma paixão maníaca.",[98,137],2,"2_6",[102],2299],["2_4",641,121,27,[27],"Ponte Quebrada","Um rio puro e plácido que já esteve vermelho e cheio com as vítimas de guerra.",[54,21,22,137],2,"2_4",[138],2299],["2_7",411,340,28,[28],"Caminhos Fluviais","Os rios que já foram domados hoje correm livres.",[54,20,21,96,134],2,"2_7",[140],2299],["2_8",259,183,29,[29],"Floresta do Norte","A luz do dia é exilada aqui.",[144],2,"2_8",[141],2299],["2_9",221,288,30,[30],"Floresta Ocidental","Banhada na fria luz da obsessão.",[54,20,22,140,233,96],2,"2_9",[142],2299],["2_10",248,334,null,[31],"Aposentos da Weaver","Envolto em mortalhas.",[96,142],2,"2_10",[143],2299],["2_11",318,220,null,[32],"Ruínas Vaal","Sombras arranhando a pedra aprisionadora.",[145],2,"2_11",[144],2299],["2_12",355,270,33,[33],"Terras Inundadas","Águas corrompidas, jorrando do Manto acima.",[54,20,21,140],2,"2_12",[145],2299],["2_13",196,215,null,[34],"Matagal Horrendo","Natureza irrestrita. Ferocidade livre.",[141],2,"2_13",[146],2299],["2_14",144,91,35,[35,36],"As Cavernas","Dois mil anos de arrependimento.",[141,255],2,"2_14",[147],2299],["2_15",680,265,null,[37],"Ruínas do Santuário Caído","O chão sofre com a profanação.  A chuva tem sabor de ferrugem.",[97,137],2,"2_15",[148],2299],["3_town",461,369,38,[38],"Acampamento de Sarn","O chão que forjou heróis do passado e do presente.",[150],3,"3_town",[151],2299],["3_1",662,381,39,[39],"Cidade de Sarn","Uma luz severa em uma paisagem severa.",[],3,"3_1",[150],2299],["3_2",652,309,null,[40],"Favelas","Agora apenas o vento sussurra e geme aqui.",[151],3,"3_2",[152],2299],["3_3",714,309,41,[41],"Crematório","Engasgado com cinzas e brasas.",[152,153],3,"3_3",[153],2299],["3_5",589,185,42,[42],"Mercado","Todo o dinheiro no mundo não pode impedir que o mundo acabe.",[160,181,423,208],3,"3_5",[155],2299],["3_6",652,168,null,[43],"Catacumbas","Tossindo a poeira da devoção sem vida.",[155],3,"3_6",[156],2299],["3_7",478,140,44,[44],"Frente de Batalha","Carne carbonizada e entranhas espalhadas. Agridoce.",[155,181,186,208],3,"3_7",[157],2299],["3_8_1",556,97,45,[45],"Templo Solaris Nível 1","Um império em seu apogeu, refletido em ouro polido.",[157,181],3,"3_8",[158],2299],["3_8_2",503,61,46,[46],"Templo Solaris Nível 2","Um império em seu apogeu, refletido em ouro polido.",[158,181],3,"3_8",[375],2299],["3_9",394,118,47,[47],"Docas","A vida empalidece no despertar do progresso.",[157,191],3,"3_9",[159],2299],["3_10",616,252,48,[48],"Os Esgotos","Quais horrores se escondem nas entranhas da cidade?",[152],3,"3_10",[160],2299],["3_13",295,178,49,[49],"Quartel de Ébano","Superfícies polidas refletem a eficiência brutal.",[157,160,208,195],3,"3_13",[163],2299],["3_14",188,169,50,[50,51],"Templo Lunaris","A depravação não tem limites.",[163,214],3,"3_14",[164,661],2299],["3_15",262,129,52,[52],"Jardins Imperiais","A natureza sobrepuja os desígnios do Homem.",[163,197],3,"3_15",[165],2299],["3_17",217,98,53,[53,54],"Biblioteca","Todo o conhecimento no Império não pôde salvá-los.",[165],3,"3_17",[167],2299],["3_18",285,76,55,[55,56],"Cetro de Deus","O pináculo do poder. O tamanho da arrogância.",[165,221],3,"3_18",[168],2299],["4_town",610,370,57,[57],"Highgate","Uma frágil sarna de esperança protege contra o Pesadelo.",[674],4,"4_town",[673],2299],["4_1",749,477,58,[58],"Aqueduto","A força vital de um Império há muito morto.",[],4,"4_1",[674],2299],["4_2",315,518,null,[59],"Lago Seco","Ossos da traição, cinzas da purificação.",[673],4,"4_2",[675],2299],["4_3_1",555,275,null,[60,61],"As Minas","Doença na escuridão.",[673],4,"4_3_2",[676,677],2299],["4_3_3",474,236,62,[62],"Veias de Cristal","Presentes Bestiais, esperando serem levados.",[676,688],4,"4_3_3",[678],2299],["4_4_1",292,344,null,[63],"Sonho de Kaom","Fúria e chama avivadas.",[678],4,"4_4_1",[679],2299],["4_4_3",196,289,64,[64],"Fortaleza de Kaom","Um suporte feito de soberba.",[679,693],4,"4_4_3",[681],2299],["4_5_1",534,144,null,[65],"Sonho de Daresso","Não importa quão alto escalar, você nunca escapará do Fosso.",[678],4,"4_5_1",[682],2299],["4_5_2",464,90,66,[66],"Grande Arena","Sangue escorrendo e flores chorando.",[682,693],4,"4_5_3",[683],2299],["4_6_1",372,194,null,[67,68],"O Ventre da Besta","Entre no Pesadelo.",[678],4,"4_6_1",[684,685],2299],["4_6_3",280,144,69,[69],"A Colheita","Onde os sonhos vêm morrer.",[684],4,"4_6_3",[686],2299],["4_7",729,154,null,[70],"A Ascensão","Quanto maior a altura, maior a queda.",[665],4,"4_7",[314],2299],["5_town",164,285,72,[72],"Torre do Capataz","Vingança é a recompensa final do escravo.",[318],5,"5_town",[1041],2299],["5_1",75,298,71,[71],"Abrigo Escravo","No canto mais escuro de Oriath, uma faísca de rebelião acende.",[],5,"5_1",[318],2299],["5_2",230,350,null,[73],"Blocos de Controle","A ilusão de controle é rapidamente decepada pela lâmina da realidade.",[1041],5,"5_2",[1042],2299],["5_3",406,224,74,[74],"Praça de Oriath","O que já foi o coração da cidade agora é o coração da batalha.",[1042],5,"5_3",[1043],1072],["5_3b",406,224,75,[75],"Praça Arruinada","O coração sangrento de Oriath é o prato principal em um terrível banquete.",[1046,1076,1082],5,"5_3b",[1044],2299],["5_4",720,440,76,[76],"Corte Templária","Apenas aqueles com olhos fieis podem entrar nestas câmaras solenes voluntariamente.",[1043],5,"5_4",[1045],1072],["5_4b",720,440,null,[77],"Corte Incendiada","Carregado por sangue e caos, um inferno sombrio engole os salões da justiça.",[1072],5,"5_4b",[1046],2299],["5_5",660,505,78,[78],"Câmara de Innocence","No santuário mais sagrado, o Alto Templário comunga com Deus e entrega Seu divino julgamento.",[1045],5,"5_5",[1047],2299],["5_6",687,150,null,[79],"O Ossuário","Os fieis mortos vigiam a cidade com olhos vazios.",[1044,1082],5,"5_6",[1048],2299],["5_7",326,418,80,[80],"O Relicário","Um tesouro com relíquias vergonhosas exibidas com orgulho.",[1044,1087],5,"5_7",[1049],2299],["5_8",340,130,81,[81],"Telhado da Catedral","No topo deste monumento em chamas de arrogância, resta a última esperança de Oriath.",[1044],5,"5_8",[1050],2299],["6_town",195,475,82,[82],"Vigília de Lioneye","As marés arrepiantes trazem pouca esperança, apenas desespero e agonia.",[],6,"6_town",[1139],2299],["6_1",176,520,null,[83],"Costa do Crepúsculo","Aqueles que naufragam não buscam calor ou abrigo, apenas querem preencher um vazio sem fim de dor e fome.",[1139],6,"6_1",[1140],2299],["6_2",200,420,84,[84],"A Costa","Os Ancestrais retornam para conquistar os litorais mais uma vez.",[1139],6,"6_2",[1141],2299],["6_3",240,450,null,[85],"Ilha da Maré","Conforme a maré aumenta, a esperança se afoga.",[1141],6,"6_3",[1142],2299],["6_4",235,380,null,[86],"Lamaçal","Lama e sangue fazem uma bela tinta de guerra.",[1141],6,"6_4",[1143],2299],["6_5",180,345,null,[87],"Fortaleza Karui","As águas aqui, que já foram paradas e sujas, agora correm límpidas com um desejo ancestral por sangue.",[1143],6,"6_5",[1144],2299],["6_6",176,265,88,[88],"A Cordilheira","O ar está fino, o caminho, estreito.",[1144],6,"6_6",[1145],2299],["6_7",210,200,89,[89,90],"A Prisão","Ecos do passado trazem nova vida a um antigo experimento.",[1145],6,"6_7",[1146,1147],2299],["6_8",270,200,91,[91],"Portões da Prisão","As terras de caça do deus gretado.",[1146,1147],6,"6_8",[1148],2299],["6_9",280,150,92,[92],"Floresta Ocidental","Quais loucuras tremulam e rastejam pelas florestas escuras?",[1148],6,"6_9",[1149],2299],["6_10",370,180,93,[93],"Caminhos Fluviais","Estas águas violentas carregam avisos de morte.",[1149],6,"6_10",[1150],2299],["6_11",350,130,null,[94],"Terras Inundadas","Um verme corpulento vaga sem pensar, infestando a sujeira putrescente.",[1150],6,"6_11",[1151],2299],["6_12",450,200,95,[95],"Floresta do Sul","Uma crisália insidiosa se reproduz sob o calor sufocante.",[1150],6,"6_12",[1152],2299],["6_13",460,250,null,[96],"A Caverna da Cólera","Estalactites gotejam em luto por uma rainha do oceano.",[1152],6,"6_13",[1153],2299],["6_14",540,250,97,[97],"O Farol","Um eco do destino consome a terra.",[1153],6,"6_14",[1154],2299],["6_15",714,197,98,[98],"Recife do Rei da Salmoura","Um trono de coral para um deus salgado.",[1154],6,"6_15",[1155],2299],["7_town",675,218,99,[99],"Acampamento da Ponte","Roedores sobreviventes se agarram em rachaduras encontradas na maçonaria.",[],7,"7_town",[1255],2299],["7_1",617,234,null,[100],"Ponte Quebrada","As pedras tremem no topo desta terra petrificada.",[1255],7,"7_1",[1256],2299],["7_2",587,322,101,[101],"Encruzilhada","A crueldade ancestral dilacera através da intersecção pavimentada.",[1256],7,"7_2",[1257],2299],["7_3",663,402,null,[102],"Ruínas do Santuário Caído","Um espírito de sadismo mancha a terra.",[1257],7,"7_3",[1258],2299],["7_4",739,414,103,[103],"Cripta","Memórias ancestrais de volta à vida, depois enfurecidas.",[1258],7,"7_4",[1259],2299],["7_5",499,235,104,[104,105],"Câmara dos Pecados","Ruínas decrépitas renascidas. Um mal cobiçante à espreita pelos salões.",[1257],7,"7_5",[1260,1261],2299],["7_5_map",435,200,null,[106],"Santuário do Maligaro","As profundezas de uma escuridão decadente.",[1260,1261],7,"7_5_map",[1262],2299],["7_6",487,347,107,[107],"Gruta","Esporos encharcados florescem e se alimentam de carne podre.",[1260,1261],7,"7_6",[1263],2299],["7_7",485,458,108,[108],"Campos Cinzentos","Uma terra incendiada e cinzas dormentes.",[1257,1263],7,"7_7",[1264],2299],["7_8",170,307,109,[109],"Floresta do Norte","Uma torre alta de sentinelas de madeira.",[1264],7,"7_8",[1265],2299],["7_9",96,344,null,[110],"Matagal Horrendo","Gotejando com raiva e tristeza, o antigo matagal chora.",[1265],7,"7_9",[1266],2299],["7_10",206,203,111,[111],"A Ponte","Ruínas primordiais guardam segredos antiquários.",[1265],7,"7_10",[1267],2299],["7_11",155,161,112,[112],"Cidade Vaal","Antigo e arcano, uma civilização perdida na poeira da história.",[1267],7,"7_11",[1268],2299],["7_12",96,139,null,[113,114],"Templo da Decadência","Servos aracnídeos babam e salivam, uma carne peregrina cobiçada para alimentar desejos abomináveis.",[1268],7,"7_12",[1269],2299],["8_1",682,429,115,[115],"Bastião de Sarn","Um baluarte treme embaixo de um céu crescente.",[],8,"8_1",[1374],2299],["8_town",461,369,116,[116],"Acampamento de Sarn","Uma paz trêmula descende, apesar de espadas nunca descansarem.",[1374],8,"8_town",[1375],2299],["8_2",461,290,118,[117,118],"Canais Tóxicos","Feitiços de sangue mancham as águas abaixo.",[1375],8,"8_2",[1331],2299],["8_3",286,307,null,[119],"Grande Esplanada","O caminho favorito de nobres lordes, agora caídos e arruinados.",[1331,1413],8,"8_3",[1332],2299],["8_4",214,233,null,[120],"Grandes Jardins","Horrores rastejantes sufocam a vida deste terraço próspero.",[1413],8,"8_4",[1412],2299],["8_5",291,233,121,[121],"Balneário","Pecado escondido onde festas prosperam.",[1332,1414],8,"8_5",[1413],2299],["8_6",295,178,122,[122],"Pátio de Lunaris","Alianças enfraquecem como o minguar da lua.",[1413,1421],8,"8_6",[1414],2299],["8_7",188,169,123,[123,124],"Templo Lunaris","A beleza minguante eclipsada pela rivalidade das irmãs.",[1414],8,"8_7",[1415],2299],["8_8",565,270,null,[125],"Cais","Os mortos incansáveis se mexem debaixo de águas escurecidas.",[1331,1417],8,"8_8",[1416],2299],["8_9",662,252,126,[126],"Portão de Granito","Uma barreira treme perante os pés dos imortais.",[1416,1418],8,"8_9",[1417],2299],["8_10",781,164,127,[127],"Campos Imperiais","A selvageria da guerra mancha tanto a sujeira quanto a lama.",[1417,1420],8,"8_10",[1418],2299],["8_11",478,140,128,[128],"Pátio de Solaris","Conquistado pela neblina da guerra.",[1420,1421],8,"8_11",[1419],2299],["8_12",540,92,129,[129,130],"Templo Solaris","O brilho de luminárias extinguido pelo orgulho flamejante.",[1419,1418],8,"8_12",[1420],2299],["8_13",405,195,null,[131],"Ponte do Porto","Uma agitação sombria envie fitas à guerra.",[1414,1419],8,"8_13",[1421],2299],["9_1",364,506,132,[132],"Aqueduto de Sangue","Um vertedouro poderoso infectado pelo preto da escuridão e vermelho do sangue.",[],9,"9_1",[1501],2299],["9_town",252,425,133,[133],"Highgate","Sobreviventes se amontoam embaixo de sombras malignas de podridão e decadência.",[1501],9,"9_town",[1502],2299],["9_2",460,326,null,[134],"A Descida","Uma queda congelante para testar a determinação.",[1502],9,"9_2",[1529],2299],["9_3",680,508,135,[135],"Deserto Vastiri","Areia estrondosa, mais afiada que a lâmina de um bandido.",[1529],9,"9_3",[1530],2299],["9_4",805,334,null,[136],"Oásis","Um parasita escondido entre os ossos queimados e dunas escaldantes.",[1530],9,"9_4",[1531],2299],["9_5",640,285,137,[137],"Contraforte","Os segredos da história escondidos entre camadas de sujeira e poeira.",[1530],9,"9_5",[1532],2299],["9_6",590,193,null,[138],"Lago Fervente","Estas águas corrosivas devoram tanto a carne quanto os ossos.",[1532],9,"9_6",[1533],2299],["9_7",491,191,139,[139],"Túnel","Horrores indescritíveis assombram pela escuridão sem nome.",[1532],9,"9_7",[1534],2299],["9_8",376,161,140,[140],"Pedreira","Um terror monstruoso espreita minas ctônicas, ansiando pelo céu sem limites.",[1534],9,"9_8",[1535],2299],["9_9",396,113,null,[141],"Refinaria","A loucura foi visitada por aqueles que cavaram fundo demais.",[1535],9,"9_9",[1536],2299],["9_10",163,137,null,[142],"Ventre da Besta","Uma vez tingido pelo calor do sangue, agora apodrecido; consumido pela podridão de fungos.",[1535],9,"9_10_1",[1537],2299],["9_11",83,195,null,[143],"Núcleo em Putrefação","O interior pútrido transborda e deteriora.",[1537],9,"9_10_2",[1538],2299],["10_town",262,60,144,[144],"Docas de Oriath","Um refúgio final, retraído contra as ondas de um mar em fúria.",[],10,"10_town",[1539],2299],["10_1",340,130,null,[145],"Telhado da Catedral","De cima, o verdadeiro escopo da carnificina é claramente espiado.",[1539],10,"10_1",[1540],2299],["10_2",406,224,146,[146],"Praça Devastada","Um lugar próspero para comércio, mal reconhecido no meio de incontáveis mortes.",[1540],10,"10_2",[1541],2299],["10_3",720,440,null,[147],"Cortes Incendiadas","Sacerdotes devotos já aplicaram cruelmente a justiça nestes salões, agora ambos ardem em uma agonia silenciosa.",[1541],10,"10_3",[1542],2299],["10_4",660,505,148,[148],"Câmaras Desecradas","Homens loucos trabalham arduamente sob céus esfumaçados para corromper um santuário sagrado.",[1542],10,"10_4",[1543],2299],["10_5",640,223,null,[149],"Canais","Uma ruptura feita pelo homem, na qual tanto sangue como água escorrem.",[1541],10,"10_5",[1544],2299],["10_6",750,215,null,[150],"Comedouro","Gritos de tormento e choros patéticos enquanto o banquete ímpio de carne continua.",[1544],10,"10_6",[1545],2299],["10_7",230,350,151,[151],"Blocos de Controle","Sádicos e degoladores quebram tanto ossos quanto cérebro.",[1541],10,"10_7",[1546],2299],["10_8",326,418,152,[152],"Relicário","Prateleiras vazias e quebradas perduram, saqueadas e esquecidas como resultado desta guerra horrível.",[1541],10,"10_8",[1547],2299],["10_9",687,150,null,[153],"Ossuário","Os mortos agradecem por terem sido poupados desta última selvageria.",[1541],10,"10_9",[1548],2299],["11_town",406,224,154,[154],"Oriath","Um novo amanhecer brilha nesta pedra arruinada. De mãos dadas, aqueles que sobraram batalham por um mundo melhor.",[],11,"11_town",[1549],1898],["11_town2",781,354,162,[162],"Enseadas Karui","Os destinos de duas pessoas agora estão reservados, mas a história ensino humildade aos Oriatianos e compaixão aos Karui.",[1898],11,"11_town2",[1899],2299],["11_lab",528,185,null,[155],"Laboratório Templário","Taumaturgistas costumavam buscar conhecimentos sempre maiores. Agora eles correm e se escondem como todos os outros.",[1549],11,"11_lab",[149],1898],["11_1",720,440,null,[158],"Tribunais Caídos","Padres pios já causaram justiça cruel nestes salões, agora ambos ardem em agonia silenciosa.",[1997],11,"11_1",[1901],1898],["11_2",326,418,null,[160],"Relicário Assombrado","Vazias, prateleiras quebradas penduradas, pilhadas e esquecidas no fervor desta guerra horrível.",[1998],11,"11_2",[1902],1898]]}
+{
+  "filename": "MapPins.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "PositionX",
+      "rowid": 1,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": "X starts at left side of image, can be negative"
+    },
+    {
+      "name": "PositionY",
+      "rowid": 2,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": "Y starts at top side of image, can be negative"
+    },
+    {
+      "name": "Waypoint_WorldAreasKey",
+      "rowid": 3,
+      "type": "ulong",
+      "key": "WorldAreas.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "WorldAreasKeys",
+      "rowid": 4,
+      "type": "ref|list|ulong",
+      "key": "WorldAreas.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Name",
+      "rowid": 5,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "FlavourText",
+      "rowid": 6,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Data1",
+      "rowid": 7,
+      "type": "ref|list|uint",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Act",
+      "rowid": 8,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "UnknownId",
+      "rowid": 9,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Data0",
+      "rowid": 10,
+      "type": "ref|list|int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown13",
+      "rowid": 11,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "1_town",
+      264,
+      405,
+      1,
+      [
+        1
+      ],
+      "Vigília de Lioneye",
+      "Frio, umidade e cheiro de infecção. É assim que a Esperança passa por Wraeclast.",
+      [
+        124
+      ],
+      1,
+      "1_town",
+      [
+        125
+      ],
+      2299
+    ],
+    [
+      "1_1",
+      244,
+      486,
+      null,
+      [
+        2
+      ],
+      "Costa do Crepúsculo",
+      "A Esperança morreu afogada aqui.",
+      [],
+      1,
+      "1_1",
+      [
+        124
+      ],
+      2299
+    ],
+    [
+      "1_2",
+      285,
+      346,
+      3,
+      [
+        3
+      ],
+      "A Costa",
+      "Os penhascos ecoam a loucura voraz.",
+      [
+        45,
+        125
+      ],
+      1,
+      "1_2",
+      [
+        126
+      ],
+      2299
+    ],
+    [
+      "1_2a",
+      325,
+      375,
+      null,
+      [
+        4
+      ],
+      "Ilha da Maré",
+      "Apesar do calor do sol, a brisa aqui mordisca com presas de gelo.",
+      [
+        45,
+        126
+      ],
+      1,
+      "1_2a",
+      [
+        127
+      ],
+      2299
+    ],
+    [
+      "1_3",
+      314,
+      300,
+      null,
+      [
+        5
+      ],
+      "O Lamaçal",
+      "A lama e o ar fervilham com a vida deformada.",
+      [
+        126
+      ],
+      1,
+      "1_3",
+      [
+        31
+      ],
+      2299
+    ],
+    [
+      "1_3a",
+      283,
+      231,
+      null,
+      [
+        6
+      ],
+      "Lagoa Fétida",
+      "Águas vagarosas fervendo em podridão.",
+      [
+        225,
+        31
+      ],
+      1,
+      "1_3a",
+      [
+        128
+      ],
+      2299
+    ],
+    [
+      "1_4_0",
+      426,
+      279,
+      null,
+      [
+        7
+      ],
+      "Profundezas Inundadas",
+      "A escuridão congelando à inanição.",
+      [
+        114,
+        28
+      ],
+      1,
+      "1_4_0",
+      [
+        129
+      ],
+      2299
+    ],
+    [
+      "1_4",
+      371,
+      247,
+      8,
+      [
+        8
+      ],
+      "Passagem Submersa",
+      "Lodo, sombras e dentes muito afiados.",
+      [
+        114,
+        31,
+        230
+      ],
+      1,
+      "1_4",
+      [
+        28
+      ],
+      2299
+    ],
+    [
+      "1_5",
+      419,
+      211,
+      9,
+      [
+        9
+      ],
+      "O Desfiladeiro",
+      "Ventos empoeirados carregam o cheiro de ossos, velhos ou não.",
+      [
+        28,
+        230
+      ],
+      1,
+      "1_5",
+      [
+        4
+      ],
+      2299
+    ],
+    [
+      "1_6",
+      324,
+      161,
+      10,
+      [
+        10
+      ],
+      "A Escalada",
+      "Os penhascos olham ameaçadoramente como juízes num tribunal.",
+      [
+        5,
+        4,
+        230
+      ],
+      1,
+      "1_6",
+      [
+        130
+      ],
+      2299
+    ],
+    [
+      "1_7",
+      305,
+      68,
+      11,
+      [
+        11,
+        12
+      ],
+      "A Prisão",
+      "O ar é rico em desesperos e aparições.",
+      [
+        5,
+        130,
+        230
+      ],
+      1,
+      "1_7",
+      [
+        131
+      ],
+      2299
+    ],
+    [
+      "1_8",
+      385,
+      68,
+      13,
+      [
+        13
+      ],
+      "Portões da Prisão",
+      "Os penhascos observam com olhos caprinos.",
+      [
+        131,
+        230
+      ],
+      1,
+      "1_8",
+      [
+        27
+      ],
+      2299
+    ],
+    [
+      "1_9",
+      480,
+      158,
+      14,
+      [
+        14
+      ],
+      "Necrópole de Navios",
+      "Agonias sussurradas dos mortos ilhados.",
+      [
+        27
+      ],
+      1,
+      "1_9",
+      [
+        34
+      ],
+      2299
+    ],
+    [
+      "1_9a",
+      470,
+      107,
+      null,
+      [
+        15
+      ],
+      "Caverna da Necrópole de Navios",
+      "A garganta de um cadáver exalando morte.",
+      [
+        34
+      ],
+      1,
+      "1_9a",
+      [
+        132
+      ],
+      2299
+    ],
+    [
+      "1_11",
+      626,
+      117,
+      16,
+      [
+        16,
+        17
+      ],
+      "Cavernas de Merveil",
+      "O ar alfineta a pele com sua fúria frígida.",
+      [
+        9,
+        34
+      ],
+      1,
+      "1_11",
+      [
+        133
+      ],
+      2299
+    ],
+    [
+      "1_fake_act2",
+      580,
+      -25,
+      null,
+      [],
+      "Ato 2",
+      "NOTA DO DESENVOLVEDOR: Caminho fora do mapa para a missão Caminho Adiante",
+      [
+        133
+      ],
+      1,
+      "",
+      [
+        72
+      ],
+      2299
+    ],
+    [
+      "1_fake_road",
+      365,
+      -25,
+      null,
+      [],
+      "Ato 2",
+      "NOTA DO DESENVOLVEDOR: Caminho fora do mapa para a missão Caminho Adiante",
+      [
+        27,
+        230
+      ],
+      1,
+      "",
+      [
+        72
+      ],
+      2299
+    ],
+    [
+      "2_town",
+      528,
+      313,
+      18,
+      [
+        18
+      ],
+      "Acampamento da Floresta",
+      "Um resquício de civilidade na selva.",
+      [
+        11
+      ],
+      2,
+      "2_town",
+      [
+        134
+      ],
+      2299
+    ],
+    [
+      "2_1",
+      574,
+      400,
+      19,
+      [
+        19
+      ],
+      "A Floresta do Sul",
+      "Violência transpirante, úmida e luxuriante.",
+      [],
+      2,
+      "2_1",
+      [
+        11
+      ],
+      2299
+    ],
+    [
+      "2_2",
+      574,
+      267,
+      null,
+      [
+        20
+      ],
+      "Campos Antigos",
+      "Pastos doentes e febris.",
+      [
+        54,
+        21,
+        97,
+        98,
+        134,
+        245
+      ],
+      2,
+      "2_2",
+      [
+        135
+      ],
+      2299
+    ],
+    [
+      "2_2a",
+      530,
+      218,
+      null,
+      [
+        21
+      ],
+      "A Gruta",
+      "Quente e amargo como o arquejo do urso raivoso.",
+      [
+        137,
+        245
+      ],
+      2,
+      "2_2a",
+      [
+        136
+      ],
+      2299
+    ],
+    [
+      "2_3",
+      615,
+      196,
+      22,
+      [
+        22
+      ],
+      "A Encruzilhada",
+      "A vida penúria onde já floresceu.",
+      [
+        135,
+        98,
+        97,
+        54,
+        21,
+        22
+      ],
+      2,
+      "2_3",
+      [
+        137
+      ],
+      2299
+    ],
+    [
+      "2_5",
+      745,
+      275,
+      23,
+      [
+        23,
+        24
+      ],
+      "A Cripta",
+      "Pedras suavizadas por séculos de devoção.",
+      [
+        97,
+        148
+      ],
+      2,
+      "2_5",
+      [
+        139
+      ],
+      2299
+    ],
+    [
+      "2_6",
+      540,
+      122,
+      25,
+      [
+        25,
+        26
+      ],
+      "Câmara dos Pecados",
+      "Sussurros fantasmas de uma paixão maníaca.",
+      [
+        98,
+        137
+      ],
+      2,
+      "2_6",
+      [
+        102
+      ],
+      2299
+    ],
+    [
+      "2_4",
+      641,
+      121,
+      27,
+      [
+        27
+      ],
+      "Ponte Quebrada",
+      "Um rio puro e plácido que já esteve vermelho e cheio com as vítimas de guerra.",
+      [
+        54,
+        21,
+        22,
+        137
+      ],
+      2,
+      "2_4",
+      [
+        138
+      ],
+      2299
+    ],
+    [
+      "2_7",
+      411,
+      340,
+      28,
+      [
+        28
+      ],
+      "Caminhos Fluviais",
+      "Os rios que já foram domados hoje correm livres.",
+      [
+        54,
+        20,
+        21,
+        96,
+        134
+      ],
+      2,
+      "2_7",
+      [
+        140
+      ],
+      2299
+    ],
+    [
+      "2_8",
+      259,
+      183,
+      29,
+      [
+        29
+      ],
+      "Floresta do Norte",
+      "A luz do dia é exilada aqui.",
+      [
+        144
+      ],
+      2,
+      "2_8",
+      [
+        141
+      ],
+      2299
+    ],
+    [
+      "2_9",
+      221,
+      288,
+      30,
+      [
+        30
+      ],
+      "Floresta Ocidental",
+      "Banhada na fria luz da obsessão.",
+      [
+        54,
+        20,
+        22,
+        140,
+        233,
+        96
+      ],
+      2,
+      "2_9",
+      [
+        142
+      ],
+      2299
+    ],
+    [
+      "2_10",
+      248,
+      334,
+      null,
+      [
+        31
+      ],
+      "Aposentos da Weaver",
+      "Envolto em mortalhas.",
+      [
+        96,
+        142
+      ],
+      2,
+      "2_10",
+      [
+        143
+      ],
+      2299
+    ],
+    [
+      "2_11",
+      318,
+      220,
+      null,
+      [
+        32
+      ],
+      "Ruínas Vaal",
+      "Sombras arranhando a pedra aprisionadora.",
+      [
+        145
+      ],
+      2,
+      "2_11",
+      [
+        144
+      ],
+      2299
+    ],
+    [
+      "2_12",
+      355,
+      270,
+      33,
+      [
+        33
+      ],
+      "Terras Inundadas",
+      "Águas corrompidas, jorrando do Manto acima.",
+      [
+        54,
+        20,
+        21,
+        140
+      ],
+      2,
+      "2_12",
+      [
+        145
+      ],
+      2299
+    ],
+    [
+      "2_13",
+      196,
+      215,
+      null,
+      [
+        34
+      ],
+      "Matagal Horrendo",
+      "Natureza irrestrita. Ferocidade livre.",
+      [
+        141
+      ],
+      2,
+      "2_13",
+      [
+        146
+      ],
+      2299
+    ],
+    [
+      "2_14",
+      144,
+      91,
+      35,
+      [
+        35,
+        36
+      ],
+      "As Cavernas",
+      "Dois mil anos de arrependimento.",
+      [
+        141,
+        255
+      ],
+      2,
+      "2_14",
+      [
+        147
+      ],
+      2299
+    ],
+    [
+      "2_15",
+      680,
+      265,
+      null,
+      [
+        37
+      ],
+      "Ruínas do Santuário Caído",
+      "O chão sofre com a profanação.  A chuva tem sabor de ferrugem.",
+      [
+        97,
+        137
+      ],
+      2,
+      "2_15",
+      [
+        148
+      ],
+      2299
+    ],
+    [
+      "3_town",
+      461,
+      369,
+      38,
+      [
+        38
+      ],
+      "Acampamento de Sarn",
+      "O chão que forjou heróis do passado e do presente.",
+      [
+        150
+      ],
+      3,
+      "3_town",
+      [
+        151
+      ],
+      2299
+    ],
+    [
+      "3_1",
+      662,
+      381,
+      39,
+      [
+        39
+      ],
+      "Cidade de Sarn",
+      "Uma luz severa em uma paisagem severa.",
+      [],
+      3,
+      "3_1",
+      [
+        150
+      ],
+      2299
+    ],
+    [
+      "3_2",
+      652,
+      309,
+      null,
+      [
+        40
+      ],
+      "Favelas",
+      "Agora apenas o vento sussurra e geme aqui.",
+      [
+        151
+      ],
+      3,
+      "3_2",
+      [
+        152
+      ],
+      2299
+    ],
+    [
+      "3_3",
+      714,
+      309,
+      41,
+      [
+        41
+      ],
+      "Crematório",
+      "Engasgado com cinzas e brasas.",
+      [
+        152,
+        153
+      ],
+      3,
+      "3_3",
+      [
+        153
+      ],
+      2299
+    ],
+    [
+      "3_5",
+      589,
+      185,
+      42,
+      [
+        42
+      ],
+      "Mercado",
+      "Todo o dinheiro no mundo não pode impedir que o mundo acabe.",
+      [
+        160,
+        181,
+        423,
+        208
+      ],
+      3,
+      "3_5",
+      [
+        155
+      ],
+      2299
+    ],
+    [
+      "3_6",
+      652,
+      168,
+      null,
+      [
+        43
+      ],
+      "Catacumbas",
+      "Tossindo a poeira da devoção sem vida.",
+      [
+        155
+      ],
+      3,
+      "3_6",
+      [
+        156
+      ],
+      2299
+    ],
+    [
+      "3_7",
+      478,
+      140,
+      44,
+      [
+        44
+      ],
+      "Frente de Batalha",
+      "Carne carbonizada e entranhas espalhadas. Agridoce.",
+      [
+        155,
+        181,
+        186,
+        208
+      ],
+      3,
+      "3_7",
+      [
+        157
+      ],
+      2299
+    ],
+    [
+      "3_8_1",
+      556,
+      97,
+      45,
+      [
+        45
+      ],
+      "Templo Solaris Nível 1",
+      "Um império em seu apogeu, refletido em ouro polido.",
+      [
+        157,
+        181
+      ],
+      3,
+      "3_8",
+      [
+        158
+      ],
+      2299
+    ],
+    [
+      "3_8_2",
+      503,
+      61,
+      46,
+      [
+        46
+      ],
+      "Templo Solaris Nível 2",
+      "Um império em seu apogeu, refletido em ouro polido.",
+      [
+        158,
+        181
+      ],
+      3,
+      "3_8",
+      [
+        375
+      ],
+      2299
+    ],
+    [
+      "3_9",
+      394,
+      118,
+      47,
+      [
+        47
+      ],
+      "Docas",
+      "A vida empalidece no despertar do progresso.",
+      [
+        157,
+        191
+      ],
+      3,
+      "3_9",
+      [
+        159
+      ],
+      2299
+    ],
+    [
+      "3_10",
+      616,
+      252,
+      48,
+      [
+        48
+      ],
+      "Os Esgotos",
+      "Quais horrores se escondem nas entranhas da cidade?",
+      [
+        152
+      ],
+      3,
+      "3_10",
+      [
+        160
+      ],
+      2299
+    ],
+    [
+      "3_13",
+      295,
+      178,
+      49,
+      [
+        49
+      ],
+      "Quartel de Ébano",
+      "Superfícies polidas refletem a eficiência brutal.",
+      [
+        157,
+        160,
+        208,
+        195
+      ],
+      3,
+      "3_13",
+      [
+        163
+      ],
+      2299
+    ],
+    [
+      "3_14",
+      188,
+      169,
+      50,
+      [
+        50,
+        51
+      ],
+      "Templo Lunaris",
+      "A depravação não tem limites.",
+      [
+        163,
+        214
+      ],
+      3,
+      "3_14",
+      [
+        164,
+        661
+      ],
+      2299
+    ],
+    [
+      "3_15",
+      262,
+      129,
+      52,
+      [
+        52
+      ],
+      "Jardins Imperiais",
+      "A natureza sobrepuja os desígnios do Homem.",
+      [
+        163,
+        197
+      ],
+      3,
+      "3_15",
+      [
+        165
+      ],
+      2299
+    ],
+    [
+      "3_17",
+      217,
+      98,
+      53,
+      [
+        53,
+        54
+      ],
+      "Biblioteca",
+      "Todo o conhecimento no Império não pôde salvá-los.",
+      [
+        165
+      ],
+      3,
+      "3_17",
+      [
+        167
+      ],
+      2299
+    ],
+    [
+      "3_18",
+      285,
+      76,
+      55,
+      [
+        55,
+        56
+      ],
+      "Cetro de Deus",
+      "O pináculo do poder. O tamanho da arrogância.",
+      [
+        165,
+        221
+      ],
+      3,
+      "3_18",
+      [
+        168
+      ],
+      2299
+    ],
+    [
+      "4_town",
+      610,
+      370,
+      57,
+      [
+        57
+      ],
+      "Highgate",
+      "Uma frágil sarna de esperança protege contra o Pesadelo.",
+      [
+        674
+      ],
+      4,
+      "4_town",
+      [
+        673
+      ],
+      2299
+    ],
+    [
+      "4_1",
+      749,
+      477,
+      58,
+      [
+        58
+      ],
+      "Aqueduto",
+      "A força vital de um Império há muito morto.",
+      [],
+      4,
+      "4_1",
+      [
+        674
+      ],
+      2299
+    ],
+    [
+      "4_2",
+      315,
+      518,
+      null,
+      [
+        59
+      ],
+      "Lago Seco",
+      "Ossos da traição, cinzas da purificação.",
+      [
+        673
+      ],
+      4,
+      "4_2",
+      [
+        675
+      ],
+      2299
+    ],
+    [
+      "4_3_1",
+      555,
+      275,
+      null,
+      [
+        60,
+        61
+      ],
+      "As Minas",
+      "Doença na escuridão.",
+      [
+        673
+      ],
+      4,
+      "4_3_2",
+      [
+        676,
+        677
+      ],
+      2299
+    ],
+    [
+      "4_3_3",
+      474,
+      236,
+      62,
+      [
+        62
+      ],
+      "Veias de Cristal",
+      "Presentes Bestiais, esperando serem levados.",
+      [
+        676,
+        688
+      ],
+      4,
+      "4_3_3",
+      [
+        678
+      ],
+      2299
+    ],
+    [
+      "4_4_1",
+      292,
+      344,
+      null,
+      [
+        63
+      ],
+      "Sonho de Kaom",
+      "Fúria e chama avivadas.",
+      [
+        678
+      ],
+      4,
+      "4_4_1",
+      [
+        679
+      ],
+      2299
+    ],
+    [
+      "4_4_3",
+      196,
+      289,
+      64,
+      [
+        64
+      ],
+      "Fortaleza de Kaom",
+      "Um suporte feito de soberba.",
+      [
+        679,
+        693
+      ],
+      4,
+      "4_4_3",
+      [
+        681
+      ],
+      2299
+    ],
+    [
+      "4_5_1",
+      534,
+      144,
+      null,
+      [
+        65
+      ],
+      "Sonho de Daresso",
+      "Não importa quão alto escalar, você nunca escapará do Fosso.",
+      [
+        678
+      ],
+      4,
+      "4_5_1",
+      [
+        682
+      ],
+      2299
+    ],
+    [
+      "4_5_2",
+      464,
+      90,
+      66,
+      [
+        66
+      ],
+      "Grande Arena",
+      "Sangue escorrendo e flores chorando.",
+      [
+        682,
+        693
+      ],
+      4,
+      "4_5_3",
+      [
+        683
+      ],
+      2299
+    ],
+    [
+      "4_6_1",
+      372,
+      194,
+      null,
+      [
+        67,
+        68
+      ],
+      "O Ventre da Besta",
+      "Entre no Pesadelo.",
+      [
+        678
+      ],
+      4,
+      "4_6_1",
+      [
+        684,
+        685
+      ],
+      2299
+    ],
+    [
+      "4_6_3",
+      280,
+      144,
+      69,
+      [
+        69
+      ],
+      "A Colheita",
+      "Onde os sonhos vêm morrer.",
+      [
+        684
+      ],
+      4,
+      "4_6_3",
+      [
+        686
+      ],
+      2299
+    ],
+    [
+      "4_7",
+      729,
+      154,
+      null,
+      [
+        70
+      ],
+      "A Ascensão",
+      "Quanto maior a altura, maior a queda.",
+      [
+        665
+      ],
+      4,
+      "4_7",
+      [
+        314
+      ],
+      2299
+    ],
+    [
+      "5_town",
+      164,
+      285,
+      72,
+      [
+        72
+      ],
+      "Torre do Capataz",
+      "Vingança é a recompensa final do escravo.",
+      [
+        318
+      ],
+      5,
+      "5_town",
+      [
+        1041
+      ],
+      2299
+    ],
+    [
+      "5_1",
+      75,
+      298,
+      71,
+      [
+        71
+      ],
+      "Abrigo Escravo",
+      "No canto mais escuro de Oriath, uma faísca de rebelião acende.",
+      [],
+      5,
+      "5_1",
+      [
+        318
+      ],
+      2299
+    ],
+    [
+      "5_2",
+      230,
+      350,
+      null,
+      [
+        73
+      ],
+      "Blocos de Controle",
+      "A ilusão de controle é rapidamente decepada pela lâmina da realidade.",
+      [
+        1041
+      ],
+      5,
+      "5_2",
+      [
+        1042
+      ],
+      2299
+    ],
+    [
+      "5_3",
+      406,
+      224,
+      74,
+      [
+        74
+      ],
+      "Praça de Oriath",
+      "O que já foi o coração da cidade agora é o coração da batalha.",
+      [
+        1042
+      ],
+      5,
+      "5_3",
+      [
+        1043
+      ],
+      1072
+    ],
+    [
+      "5_3b",
+      406,
+      224,
+      75,
+      [
+        75
+      ],
+      "Praça Arruinada",
+      "O coração sangrento de Oriath é o prato principal em um terrível banquete.",
+      [
+        1046,
+        1076,
+        1082
+      ],
+      5,
+      "5_3b",
+      [
+        1044
+      ],
+      2299
+    ],
+    [
+      "5_4",
+      720,
+      440,
+      76,
+      [
+        76
+      ],
+      "Corte Templária",
+      "Apenas aqueles com olhos fieis podem entrar nestas câmaras solenes voluntariamente.",
+      [
+        1043
+      ],
+      5,
+      "5_4",
+      [
+        1045
+      ],
+      1072
+    ],
+    [
+      "5_4b",
+      720,
+      440,
+      null,
+      [
+        77
+      ],
+      "Corte Incendiada",
+      "Carregado por sangue e caos, um inferno sombrio engole os salões da justiça.",
+      [
+        1072
+      ],
+      5,
+      "5_4b",
+      [
+        1046
+      ],
+      2299
+    ],
+    [
+      "5_5",
+      660,
+      505,
+      78,
+      [
+        78
+      ],
+      "Câmara de Innocence",
+      "No santuário mais sagrado, o Alto Templário comunga com Deus e entrega Seu divino julgamento.",
+      [
+        1045
+      ],
+      5,
+      "5_5",
+      [
+        1047
+      ],
+      2299
+    ],
+    [
+      "5_6",
+      687,
+      150,
+      null,
+      [
+        79
+      ],
+      "O Ossuário",
+      "Os fieis mortos vigiam a cidade com olhos vazios.",
+      [
+        1044,
+        1082
+      ],
+      5,
+      "5_6",
+      [
+        1048
+      ],
+      2299
+    ],
+    [
+      "5_7",
+      326,
+      418,
+      80,
+      [
+        80
+      ],
+      "O Relicário",
+      "Um tesouro com relíquias vergonhosas exibidas com orgulho.",
+      [
+        1044,
+        1087
+      ],
+      5,
+      "5_7",
+      [
+        1049
+      ],
+      2299
+    ],
+    [
+      "5_8",
+      340,
+      130,
+      81,
+      [
+        81
+      ],
+      "Telhado da Catedral",
+      "No topo deste monumento em chamas de arrogância, resta a última esperança de Oriath.",
+      [
+        1044
+      ],
+      5,
+      "5_8",
+      [
+        1050
+      ],
+      2299
+    ],
+    [
+      "6_town",
+      195,
+      475,
+      82,
+      [
+        82
+      ],
+      "Vigília de Lioneye",
+      "As marés arrepiantes trazem pouca esperança, apenas desespero e agonia.",
+      [],
+      6,
+      "6_town",
+      [
+        1139
+      ],
+      2299
+    ],
+    [
+      "6_1",
+      176,
+      520,
+      null,
+      [
+        83
+      ],
+      "Costa do Crepúsculo",
+      "Aqueles que naufragam não buscam calor ou abrigo, apenas querem preencher um vazio sem fim de dor e fome.",
+      [
+        1139
+      ],
+      6,
+      "6_1",
+      [
+        1140
+      ],
+      2299
+    ],
+    [
+      "6_2",
+      200,
+      420,
+      84,
+      [
+        84
+      ],
+      "A Costa",
+      "Os Ancestrais retornam para conquistar os litorais mais uma vez.",
+      [
+        1139
+      ],
+      6,
+      "6_2",
+      [
+        1141
+      ],
+      2299
+    ],
+    [
+      "6_3",
+      240,
+      450,
+      null,
+      [
+        85
+      ],
+      "Ilha da Maré",
+      "Conforme a maré aumenta, a esperança se afoga.",
+      [
+        1141
+      ],
+      6,
+      "6_3",
+      [
+        1142
+      ],
+      2299
+    ],
+    [
+      "6_4",
+      235,
+      380,
+      null,
+      [
+        86
+      ],
+      "Lamaçal",
+      "Lama e sangue fazem uma bela tinta de guerra.",
+      [
+        1141
+      ],
+      6,
+      "6_4",
+      [
+        1143
+      ],
+      2299
+    ],
+    [
+      "6_5",
+      180,
+      345,
+      null,
+      [
+        87
+      ],
+      "Fortaleza Karui",
+      "As águas aqui, que já foram paradas e sujas, agora correm límpidas com um desejo ancestral por sangue.",
+      [
+        1143
+      ],
+      6,
+      "6_5",
+      [
+        1144
+      ],
+      2299
+    ],
+    [
+      "6_6",
+      176,
+      265,
+      88,
+      [
+        88
+      ],
+      "A Cordilheira",
+      "O ar está fino, o caminho, estreito.",
+      [
+        1144
+      ],
+      6,
+      "6_6",
+      [
+        1145
+      ],
+      2299
+    ],
+    [
+      "6_7",
+      210,
+      200,
+      89,
+      [
+        89,
+        90
+      ],
+      "A Prisão",
+      "Ecos do passado trazem nova vida a um antigo experimento.",
+      [
+        1145
+      ],
+      6,
+      "6_7",
+      [
+        1146,
+        1147
+      ],
+      2299
+    ],
+    [
+      "6_8",
+      270,
+      200,
+      91,
+      [
+        91
+      ],
+      "Portões da Prisão",
+      "As terras de caça do deus gretado.",
+      [
+        1146,
+        1147
+      ],
+      6,
+      "6_8",
+      [
+        1148
+      ],
+      2299
+    ],
+    [
+      "6_9",
+      280,
+      150,
+      92,
+      [
+        92
+      ],
+      "Floresta Ocidental",
+      "Quais loucuras tremulam e rastejam pelas florestas escuras?",
+      [
+        1148
+      ],
+      6,
+      "6_9",
+      [
+        1149
+      ],
+      2299
+    ],
+    [
+      "6_10",
+      370,
+      180,
+      93,
+      [
+        93
+      ],
+      "Caminhos Fluviais",
+      "Estas águas violentas carregam avisos de morte.",
+      [
+        1149
+      ],
+      6,
+      "6_10",
+      [
+        1150
+      ],
+      2299
+    ],
+    [
+      "6_11",
+      350,
+      130,
+      null,
+      [
+        94
+      ],
+      "Terras Inundadas",
+      "Um verme corpulento vaga sem pensar, infestando a sujeira putrescente.",
+      [
+        1150
+      ],
+      6,
+      "6_11",
+      [
+        1151
+      ],
+      2299
+    ],
+    [
+      "6_12",
+      450,
+      200,
+      95,
+      [
+        95
+      ],
+      "Floresta do Sul",
+      "Uma crisália insidiosa se reproduz sob o calor sufocante.",
+      [
+        1150
+      ],
+      6,
+      "6_12",
+      [
+        1152
+      ],
+      2299
+    ],
+    [
+      "6_13",
+      460,
+      250,
+      null,
+      [
+        96
+      ],
+      "A Caverna da Cólera",
+      "Estalactites gotejam em luto por uma rainha do oceano.",
+      [
+        1152
+      ],
+      6,
+      "6_13",
+      [
+        1153
+      ],
+      2299
+    ],
+    [
+      "6_14",
+      540,
+      250,
+      97,
+      [
+        97
+      ],
+      "O Farol",
+      "Um eco do destino consome a terra.",
+      [
+        1153
+      ],
+      6,
+      "6_14",
+      [
+        1154
+      ],
+      2299
+    ],
+    [
+      "6_15",
+      714,
+      197,
+      98,
+      [
+        98
+      ],
+      "Recife do Rei da Salmoura",
+      "Um trono de coral para um deus salgado.",
+      [
+        1154
+      ],
+      6,
+      "6_15",
+      [
+        1155
+      ],
+      2299
+    ],
+    [
+      "7_town",
+      675,
+      218,
+      99,
+      [
+        99
+      ],
+      "Acampamento da Ponte",
+      "Roedores sobreviventes se agarram em rachaduras encontradas na maçonaria.",
+      [],
+      7,
+      "7_town",
+      [
+        1255
+      ],
+      2299
+    ],
+    [
+      "7_1",
+      617,
+      234,
+      null,
+      [
+        100
+      ],
+      "Ponte Quebrada",
+      "As pedras tremem no topo desta terra petrificada.",
+      [
+        1255
+      ],
+      7,
+      "7_1",
+      [
+        1256
+      ],
+      2299
+    ],
+    [
+      "7_2",
+      587,
+      322,
+      101,
+      [
+        101
+      ],
+      "Encruzilhada",
+      "A crueldade ancestral dilacera através da intersecção pavimentada.",
+      [
+        1256
+      ],
+      7,
+      "7_2",
+      [
+        1257
+      ],
+      2299
+    ],
+    [
+      "7_3",
+      663,
+      402,
+      null,
+      [
+        102
+      ],
+      "Ruínas do Santuário Caído",
+      "Um espírito de sadismo mancha a terra.",
+      [
+        1257
+      ],
+      7,
+      "7_3",
+      [
+        1258
+      ],
+      2299
+    ],
+    [
+      "7_4",
+      739,
+      414,
+      103,
+      [
+        103
+      ],
+      "Cripta",
+      "Memórias ancestrais de volta à vida, depois enfurecidas.",
+      [
+        1258
+      ],
+      7,
+      "7_4",
+      [
+        1259
+      ],
+      2299
+    ],
+    [
+      "7_5",
+      499,
+      235,
+      104,
+      [
+        104,
+        105
+      ],
+      "Câmara dos Pecados",
+      "Ruínas decrépitas renascidas. Um mal cobiçante à espreita pelos salões.",
+      [
+        1257
+      ],
+      7,
+      "7_5",
+      [
+        1260,
+        1261
+      ],
+      2299
+    ],
+    [
+      "7_5_map",
+      435,
+      200,
+      null,
+      [
+        106
+      ],
+      "Santuário do Maligaro",
+      "As profundezas de uma escuridão decadente.",
+      [
+        1260,
+        1261
+      ],
+      7,
+      "7_5_map",
+      [
+        1262
+      ],
+      2299
+    ],
+    [
+      "7_6",
+      487,
+      347,
+      107,
+      [
+        107
+      ],
+      "Gruta",
+      "Esporos encharcados florescem e se alimentam de carne podre.",
+      [
+        1260,
+        1261
+      ],
+      7,
+      "7_6",
+      [
+        1263
+      ],
+      2299
+    ],
+    [
+      "7_7",
+      485,
+      458,
+      108,
+      [
+        108
+      ],
+      "Campos Cinzentos",
+      "Uma terra incendiada e cinzas dormentes.",
+      [
+        1257,
+        1263
+      ],
+      7,
+      "7_7",
+      [
+        1264
+      ],
+      2299
+    ],
+    [
+      "7_8",
+      170,
+      307,
+      109,
+      [
+        109
+      ],
+      "Floresta do Norte",
+      "Uma torre alta de sentinelas de madeira.",
+      [
+        1264
+      ],
+      7,
+      "7_8",
+      [
+        1265
+      ],
+      2299
+    ],
+    [
+      "7_9",
+      96,
+      344,
+      null,
+      [
+        110
+      ],
+      "Matagal Horrendo",
+      "Gotejando com raiva e tristeza, o antigo matagal chora.",
+      [
+        1265
+      ],
+      7,
+      "7_9",
+      [
+        1266
+      ],
+      2299
+    ],
+    [
+      "7_10",
+      206,
+      203,
+      111,
+      [
+        111
+      ],
+      "A Ponte",
+      "Ruínas primordiais guardam segredos antiquários.",
+      [
+        1265
+      ],
+      7,
+      "7_10",
+      [
+        1267
+      ],
+      2299
+    ],
+    [
+      "7_11",
+      155,
+      161,
+      112,
+      [
+        112
+      ],
+      "Cidade Vaal",
+      "Antigo e arcano, uma civilização perdida na poeira da história.",
+      [
+        1267
+      ],
+      7,
+      "7_11",
+      [
+        1268
+      ],
+      2299
+    ],
+    [
+      "7_12",
+      96,
+      139,
+      null,
+      [
+        113,
+        114
+      ],
+      "Templo da Decadência",
+      "Servos aracnídeos babam e salivam, uma carne peregrina cobiçada para alimentar desejos abomináveis.",
+      [
+        1268
+      ],
+      7,
+      "7_12",
+      [
+        1269
+      ],
+      2299
+    ],
+    [
+      "8_1",
+      682,
+      429,
+      115,
+      [
+        115
+      ],
+      "Bastião de Sarn",
+      "Um baluarte treme embaixo de um céu crescente.",
+      [],
+      8,
+      "8_1",
+      [
+        1374
+      ],
+      2299
+    ],
+    [
+      "8_town",
+      461,
+      369,
+      116,
+      [
+        116
+      ],
+      "Acampamento de Sarn",
+      "Uma paz trêmula descende, apesar de espadas nunca descansarem.",
+      [
+        1374
+      ],
+      8,
+      "8_town",
+      [
+        1375
+      ],
+      2299
+    ],
+    [
+      "8_2",
+      461,
+      290,
+      118,
+      [
+        117,
+        118
+      ],
+      "Canais Tóxicos",
+      "Feitiços de sangue mancham as águas abaixo.",
+      [
+        1375
+      ],
+      8,
+      "8_2",
+      [
+        1331
+      ],
+      2299
+    ],
+    [
+      "8_3",
+      286,
+      307,
+      null,
+      [
+        119
+      ],
+      "Grande Esplanada",
+      "O caminho favorito de nobres lordes, agora caídos e arruinados.",
+      [
+        1331,
+        1413
+      ],
+      8,
+      "8_3",
+      [
+        1332
+      ],
+      2299
+    ],
+    [
+      "8_4",
+      214,
+      233,
+      null,
+      [
+        120
+      ],
+      "Grandes Jardins",
+      "Horrores rastejantes sufocam a vida deste terraço próspero.",
+      [
+        1413
+      ],
+      8,
+      "8_4",
+      [
+        1412
+      ],
+      2299
+    ],
+    [
+      "8_5",
+      291,
+      233,
+      121,
+      [
+        121
+      ],
+      "Balneário",
+      "Pecado escondido onde festas prosperam.",
+      [
+        1332,
+        1414
+      ],
+      8,
+      "8_5",
+      [
+        1413
+      ],
+      2299
+    ],
+    [
+      "8_6",
+      295,
+      178,
+      122,
+      [
+        122
+      ],
+      "Pátio de Lunaris",
+      "Alianças enfraquecem como o minguar da lua.",
+      [
+        1413,
+        1421
+      ],
+      8,
+      "8_6",
+      [
+        1414
+      ],
+      2299
+    ],
+    [
+      "8_7",
+      188,
+      169,
+      123,
+      [
+        123,
+        124
+      ],
+      "Templo Lunaris",
+      "A beleza minguante eclipsada pela rivalidade das irmãs.",
+      [
+        1414
+      ],
+      8,
+      "8_7",
+      [
+        1415
+      ],
+      2299
+    ],
+    [
+      "8_8",
+      565,
+      270,
+      null,
+      [
+        125
+      ],
+      "Cais",
+      "Os mortos incansáveis se mexem debaixo de águas escurecidas.",
+      [
+        1331,
+        1417
+      ],
+      8,
+      "8_8",
+      [
+        1416
+      ],
+      2299
+    ],
+    [
+      "8_9",
+      662,
+      252,
+      126,
+      [
+        126
+      ],
+      "Portão de Granito",
+      "Uma barreira treme perante os pés dos imortais.",
+      [
+        1416,
+        1418
+      ],
+      8,
+      "8_9",
+      [
+        1417
+      ],
+      2299
+    ],
+    [
+      "8_10",
+      781,
+      164,
+      127,
+      [
+        127
+      ],
+      "Campos Imperiais",
+      "A selvageria da guerra mancha tanto a sujeira quanto a lama.",
+      [
+        1417,
+        1420
+      ],
+      8,
+      "8_10",
+      [
+        1418
+      ],
+      2299
+    ],
+    [
+      "8_11",
+      478,
+      140,
+      128,
+      [
+        128
+      ],
+      "Pátio de Solaris",
+      "Conquistado pela neblina da guerra.",
+      [
+        1420,
+        1421
+      ],
+      8,
+      "8_11",
+      [
+        1419
+      ],
+      2299
+    ],
+    [
+      "8_12",
+      540,
+      92,
+      129,
+      [
+        129,
+        130
+      ],
+      "Templo Solaris",
+      "O brilho de luminárias extinguido pelo orgulho flamejante.",
+      [
+        1419,
+        1418
+      ],
+      8,
+      "8_12",
+      [
+        1420
+      ],
+      2299
+    ],
+    [
+      "8_13",
+      405,
+      195,
+      null,
+      [
+        131
+      ],
+      "Ponte do Porto",
+      "Uma agitação sombria envie fitas à guerra.",
+      [
+        1414,
+        1419
+      ],
+      8,
+      "8_13",
+      [
+        1421
+      ],
+      2299
+    ],
+    [
+      "9_1",
+      364,
+      506,
+      132,
+      [
+        132
+      ],
+      "Aqueduto de Sangue",
+      "Um vertedouro poderoso infectado pelo preto da escuridão e vermelho do sangue.",
+      [],
+      9,
+      "9_1",
+      [
+        1501
+      ],
+      2299
+    ],
+    [
+      "9_town",
+      252,
+      425,
+      133,
+      [
+        133
+      ],
+      "Highgate",
+      "Sobreviventes se amontoam embaixo de sombras malignas de podridão e decadência.",
+      [
+        1501
+      ],
+      9,
+      "9_town",
+      [
+        1502
+      ],
+      2299
+    ],
+    [
+      "9_2",
+      460,
+      326,
+      null,
+      [
+        134
+      ],
+      "A Descida",
+      "Uma queda congelante para testar a determinação.",
+      [
+        1502
+      ],
+      9,
+      "9_2",
+      [
+        1529
+      ],
+      2299
+    ],
+    [
+      "9_3",
+      680,
+      508,
+      135,
+      [
+        135
+      ],
+      "Deserto Vastiri",
+      "Areia estrondosa, mais afiada que a lâmina de um bandido.",
+      [
+        1529
+      ],
+      9,
+      "9_3",
+      [
+        1530
+      ],
+      2299
+    ],
+    [
+      "9_4",
+      805,
+      334,
+      null,
+      [
+        136
+      ],
+      "Oásis",
+      "Um parasita escondido entre os ossos queimados e dunas escaldantes.",
+      [
+        1530
+      ],
+      9,
+      "9_4",
+      [
+        1531
+      ],
+      2299
+    ],
+    [
+      "9_5",
+      640,
+      285,
+      137,
+      [
+        137
+      ],
+      "Contraforte",
+      "Os segredos da história escondidos entre camadas de sujeira e poeira.",
+      [
+        1530
+      ],
+      9,
+      "9_5",
+      [
+        1532
+      ],
+      2299
+    ],
+    [
+      "9_6",
+      590,
+      193,
+      null,
+      [
+        138
+      ],
+      "Lago Fervente",
+      "Estas águas corrosivas devoram tanto a carne quanto os ossos.",
+      [
+        1532
+      ],
+      9,
+      "9_6",
+      [
+        1533
+      ],
+      2299
+    ],
+    [
+      "9_7",
+      491,
+      191,
+      139,
+      [
+        139
+      ],
+      "Túnel",
+      "Horrores indescritíveis assombram pela escuridão sem nome.",
+      [
+        1532
+      ],
+      9,
+      "9_7",
+      [
+        1534
+      ],
+      2299
+    ],
+    [
+      "9_8",
+      376,
+      161,
+      140,
+      [
+        140
+      ],
+      "Pedreira",
+      "Um terror monstruoso espreita minas ctônicas, ansiando pelo céu sem limites.",
+      [
+        1534
+      ],
+      9,
+      "9_8",
+      [
+        1535
+      ],
+      2299
+    ],
+    [
+      "9_9",
+      396,
+      113,
+      null,
+      [
+        141
+      ],
+      "Refinaria",
+      "A loucura foi visitada por aqueles que cavaram fundo demais.",
+      [
+        1535
+      ],
+      9,
+      "9_9",
+      [
+        1536
+      ],
+      2299
+    ],
+    [
+      "9_10",
+      163,
+      137,
+      null,
+      [
+        142
+      ],
+      "Ventre da Besta",
+      "Uma vez tingido pelo calor do sangue, agora apodrecido; consumido pela podridão de fungos.",
+      [
+        1535
+      ],
+      9,
+      "9_10_1",
+      [
+        1537
+      ],
+      2299
+    ],
+    [
+      "9_11",
+      83,
+      195,
+      null,
+      [
+        143
+      ],
+      "Núcleo em Putrefação",
+      "O interior pútrido transborda e deteriora.",
+      [
+        1537
+      ],
+      9,
+      "9_10_2",
+      [
+        1538
+      ],
+      2299
+    ],
+    [
+      "10_town",
+      262,
+      60,
+      144,
+      [
+        144
+      ],
+      "Docas de Oriath",
+      "Um refúgio final, retraído contra as ondas de um mar em fúria.",
+      [],
+      10,
+      "10_town",
+      [
+        1539
+      ],
+      2299
+    ],
+    [
+      "10_1",
+      340,
+      130,
+      null,
+      [
+        145
+      ],
+      "Telhado da Catedral",
+      "De cima, o verdadeiro escopo da carnificina é claramente espiado.",
+      [
+        1539
+      ],
+      10,
+      "10_1",
+      [
+        1540
+      ],
+      2299
+    ],
+    [
+      "10_2",
+      406,
+      224,
+      146,
+      [
+        146
+      ],
+      "Praça Devastada",
+      "Um lugar próspero para comércio, mal reconhecido no meio de incontáveis mortes.",
+      [
+        1540
+      ],
+      10,
+      "10_2",
+      [
+        1541
+      ],
+      2299
+    ],
+    [
+      "10_3",
+      720,
+      440,
+      null,
+      [
+        147
+      ],
+      "Cortes Incendiadas",
+      "Sacerdotes devotos já aplicaram cruelmente a justiça nestes salões, agora ambos ardem em uma agonia silenciosa.",
+      [
+        1541
+      ],
+      10,
+      "10_3",
+      [
+        1542
+      ],
+      2299
+    ],
+    [
+      "10_4",
+      660,
+      505,
+      148,
+      [
+        148
+      ],
+      "Câmaras Desecradas",
+      "Homens loucos trabalham arduamente sob céus esfumaçados para corromper um santuário sagrado.",
+      [
+        1542
+      ],
+      10,
+      "10_4",
+      [
+        1543
+      ],
+      2299
+    ],
+    [
+      "10_5",
+      640,
+      223,
+      null,
+      [
+        149
+      ],
+      "Canais",
+      "Uma ruptura feita pelo homem, na qual tanto sangue como água escorrem.",
+      [
+        1541
+      ],
+      10,
+      "10_5",
+      [
+        1544
+      ],
+      2299
+    ],
+    [
+      "10_6",
+      750,
+      215,
+      null,
+      [
+        150
+      ],
+      "Comedouro",
+      "Gritos de tormento e choros patéticos enquanto o banquete ímpio de carne continua.",
+      [
+        1544
+      ],
+      10,
+      "10_6",
+      [
+        1545
+      ],
+      2299
+    ],
+    [
+      "10_7",
+      230,
+      350,
+      151,
+      [
+        151
+      ],
+      "Blocos de Controle",
+      "Sádicos e degoladores quebram tanto ossos quanto cérebro.",
+      [
+        1541
+      ],
+      10,
+      "10_7",
+      [
+        1546
+      ],
+      2299
+    ],
+    [
+      "10_8",
+      326,
+      418,
+      152,
+      [
+        152
+      ],
+      "Relicário",
+      "Prateleiras vazias e quebradas perduram, saqueadas e esquecidas como resultado desta guerra horrível.",
+      [
+        1541
+      ],
+      10,
+      "10_8",
+      [
+        1547
+      ],
+      2299
+    ],
+    [
+      "10_9",
+      687,
+      150,
+      null,
+      [
+        153
+      ],
+      "Ossuário",
+      "Os mortos agradecem por terem sido poupados desta última selvageria.",
+      [
+        1541
+      ],
+      10,
+      "10_9",
+      [
+        1548
+      ],
+      2299
+    ],
+    [
+      "11_town",
+      406,
+      224,
+      154,
+      [
+        154
+      ],
+      "Oriath",
+      "Um novo amanhecer brilha nesta pedra arruinada. De mãos dadas, aqueles que sobraram batalham por um mundo melhor.",
+      [],
+      11,
+      "11_town",
+      [
+        1549
+      ],
+      1898
+    ],
+    [
+      "11_town2",
+      781,
+      354,
+      162,
+      [
+        162
+      ],
+      "Enseadas Karui",
+      "Os destinos de duas pessoas agora estão reservados, mas a história ensino humildade aos Oriatianos e compaixão aos Karui.",
+      [
+        1898
+      ],
+      11,
+      "11_town2",
+      [
+        1899
+      ],
+      2299
+    ],
+    [
+      "11_lab",
+      528,
+      185,
+      null,
+      [
+        155
+      ],
+      "Laboratório Templário",
+      "Taumaturgistas costumavam buscar conhecimentos sempre maiores. Agora eles correm e se escondem como todos os outros.",
+      [
+        1549
+      ],
+      11,
+      "11_lab",
+      [
+        149
+      ],
+      1898
+    ],
+    [
+      "11_1",
+      720,
+      440,
+      null,
+      [
+        158
+      ],
+      "Tribunais Caídos",
+      "Padres pios já causaram justiça cruel nestes salões, agora ambos ardem em agonia silenciosa.",
+      [
+        1997
+      ],
+      11,
+      "11_1",
+      [
+        1901
+      ],
+      1898
+    ],
+    [
+      "11_2",
+      326,
+      418,
+      null,
+      [
+        160
+      ],
+      "Relicário Assombrado",
+      "Vazias, prateleiras quebradas penduradas, pilhadas e esquecidas no fervor desta guerra horrível.",
+      [
+        1998
+      ],
+      11,
+      "11_2",
+      [
+        1902
+      ],
+      1898
+    ]
+  ]
+}

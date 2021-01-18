@@ -1,1 +1,169 @@
-{"filename":"MusicCategories.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":"True","file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Name","rowid":1,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Order","rowid":2,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Flag0","rowid":3,"type":"byte","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["Boss","Peleas contra jefes",10,0],["Town","Campamentos",11,1],["Act1","Acto I",0,0],["Act2","Acto II",1,0],["Act3","Acto III",2,0],["Act4","Acto IV",3,0],["Act5","Acto V",4,0],["Act6","Acto VI",5,0],["Act7","Acto VII",6,0],["Act8","Acto VIII",7,0],["Act9","Acto IX",8,0],["Act10","Acto X",9,0],["Map","Mapas Únicos",13,0],["Expansions","Expansiones",12,0],["Other","Otros",14,0],["Hideouts","Guaridas",15,0],["Trailers","Tráilers",16,0]]}
+{
+  "filename": "MusicCategories.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": "True",
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Name",
+      "rowid": 1,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Order",
+      "rowid": 2,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Flag0",
+      "rowid": 3,
+      "type": "byte",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "Boss",
+      "Peleas contra jefes",
+      10,
+      0
+    ],
+    [
+      "Town",
+      "Campamentos",
+      11,
+      1
+    ],
+    [
+      "Act1",
+      "Acto I",
+      0,
+      0
+    ],
+    [
+      "Act2",
+      "Acto II",
+      1,
+      0
+    ],
+    [
+      "Act3",
+      "Acto III",
+      2,
+      0
+    ],
+    [
+      "Act4",
+      "Acto IV",
+      3,
+      0
+    ],
+    [
+      "Act5",
+      "Acto V",
+      4,
+      0
+    ],
+    [
+      "Act6",
+      "Acto VI",
+      5,
+      0
+    ],
+    [
+      "Act7",
+      "Acto VII",
+      6,
+      0
+    ],
+    [
+      "Act8",
+      "Acto VIII",
+      7,
+      0
+    ],
+    [
+      "Act9",
+      "Acto IX",
+      8,
+      0
+    ],
+    [
+      "Act10",
+      "Acto X",
+      9,
+      0
+    ],
+    [
+      "Map",
+      "Mapas Únicos",
+      13,
+      0
+    ],
+    [
+      "Expansions",
+      "Expansiones",
+      12,
+      0
+    ],
+    [
+      "Other",
+      "Otros",
+      14,
+      0
+    ],
+    [
+      "Hideouts",
+      "Guaridas",
+      15,
+      0
+    ],
+    [
+      "Trailers",
+      "Tráilers",
+      16,
+      0
+    ]
+  ]
+}

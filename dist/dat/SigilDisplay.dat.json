@@ -1,1 +1,157 @@
-{"filename":"SigilDisplay.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":true,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Active_StatsKey","rowid":1,"type":"ulong","key":"Stats.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Inactive_StatsKey","rowid":2,"type":"ulong","key":"Stats.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"DDSFile","rowid":3,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":true,"file_ext":".dds","display":null,"display_type":"{0}","description":null},{"name":"Inactive_ArtFile","rowid":4,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":true,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Active_ArtFile","rowid":5,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":true,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Frame_ArtFile","rowid":6,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":true,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["Cataclysm",8656,8657,"Art/2DArt/SkillIcons/ArmageddonBrand.dds","Art/2DArt/UIImages/InGame/SigilInactiveRed","Art/2DArt/UIImages/InGame/SigilActiveRed","Art/2DArt/UIImages/InGame/SigilFrameBlue"],["Conduit",8654,8655,"Art/2DArt/SkillIcons/ConduitSigil.dds","Art/2DArt/UIImages/InGame/SigilInactiveBlue","Art/2DArt/UIImages/InGame/SigilActiveBlue","Art/2DArt/UIImages/InGame/SigilFrameRed"],["Trigger",11946,11947,"Art/2DArt/SkillIcons/ConduitSigilPurple.dds","Art/2DArt/UIImages/InGame/SigilInactivePurple","Art/2DArt/UIImages/InGame/SigilActivePurple","Art/2DArt/UIImages/InGame/SigilFramePurple"],["Magma",11949,11950,"Art/2DArt/SkillIcons/PhysicalLightningBrand.dds","Art/2DArt/UIImages/InGame/SigilInactiveBlueGold","Art/2DArt/UIImages/InGame/SigilActiveBlueGold","Art/2DArt/UIImages/InGame/SigilFrameBlueGold"],["Immolation",11951,11952,"Art/2DArt/SkillIcons/ColdBrand.dds","Art/2DArt/UIImages/InGame/SigilInactiveIcy","Art/2DArt/UIImages/InGame/SigilActiveIcy","Art/2DArt/UIImages/InGame/SigilFrameIcy"]]}
+{
+  "filename": "SigilDisplay.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Active_StatsKey",
+      "rowid": 1,
+      "type": "ulong",
+      "key": "Stats.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Inactive_StatsKey",
+      "rowid": 2,
+      "type": "ulong",
+      "key": "Stats.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "DDSFile",
+      "rowid": 3,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": true,
+      "file_ext": ".dds",
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Inactive_ArtFile",
+      "rowid": 4,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": true,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Active_ArtFile",
+      "rowid": 5,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": true,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Frame_ArtFile",
+      "rowid": 6,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": true,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "Cataclysm",
+      8656,
+      8657,
+      "Art/2DArt/SkillIcons/ArmageddonBrand.dds",
+      "Art/2DArt/UIImages/InGame/SigilInactiveRed",
+      "Art/2DArt/UIImages/InGame/SigilActiveRed",
+      "Art/2DArt/UIImages/InGame/SigilFrameBlue"
+    ],
+    [
+      "Conduit",
+      8654,
+      8655,
+      "Art/2DArt/SkillIcons/ConduitSigil.dds",
+      "Art/2DArt/UIImages/InGame/SigilInactiveBlue",
+      "Art/2DArt/UIImages/InGame/SigilActiveBlue",
+      "Art/2DArt/UIImages/InGame/SigilFrameRed"
+    ],
+    [
+      "Trigger",
+      11946,
+      11947,
+      "Art/2DArt/SkillIcons/ConduitSigilPurple.dds",
+      "Art/2DArt/UIImages/InGame/SigilInactivePurple",
+      "Art/2DArt/UIImages/InGame/SigilActivePurple",
+      "Art/2DArt/UIImages/InGame/SigilFramePurple"
+    ],
+    [
+      "Magma",
+      11949,
+      11950,
+      "Art/2DArt/SkillIcons/PhysicalLightningBrand.dds",
+      "Art/2DArt/UIImages/InGame/SigilInactiveBlueGold",
+      "Art/2DArt/UIImages/InGame/SigilActiveBlueGold",
+      "Art/2DArt/UIImages/InGame/SigilFrameBlueGold"
+    ],
+    [
+      "Immolation",
+      11951,
+      11952,
+      "Art/2DArt/SkillIcons/ColdBrand.dds",
+      "Art/2DArt/UIImages/InGame/SigilInactiveIcy",
+      "Art/2DArt/UIImages/InGame/SigilActiveIcy",
+      "Art/2DArt/UIImages/InGame/SigilFrameIcy"
+    ]
+  ]
+}

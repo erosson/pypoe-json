@@ -1,1 +1,405 @@
-{"filename":"NPCMaster.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown14","rowid":1,"type":"short","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Signature_ModsKey","rowid":2,"type":"ulong","key":"Mods.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Flag0","rowid":3,"type":"byte","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"SpawnWeight_TagsKeys","rowid":4,"type":"ref|list|ulong","key":"Tags.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"SpawnWeight_Values","rowid":5,"type":"ref|list|int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Data0","rowid":6,"type":"ref|list|int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Data1","rowid":7,"type":"ref|list|int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Key1","rowid":8,"type":"ulong","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"HelpText","rowid":9,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"HelpTextForNextLevel","rowid":10,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Key2","rowid":11,"type":"ulong","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown0","rowid":12,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"AreaDescription","rowid":13,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Key3","rowid":14,"type":"ulong","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown1","rowid":15,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["Navali",0,null,0,[0],[0],[],[],null,"","",null,910,"[DNT] Navali",null,910],["Einhar",0,null,0,[0],[0],[],[],null,"Capture uncaptured monsters in the Bestiary to increase Einhar's decoration level.","Capture {0} more new monsters in your Bestiary to increase Einhar's decoration level.",4206,598,"Area will contain powerful beasts, which Einhar will help you hunt.",4,910],["Alva",0,null,0,[0],[0],[],[],null,"Explore unexplored rooms in the present-day Temple of Atzoatl to increase Alva's decoration level.","Explore {0} more unexplored rooms in the present-day Temple of Atzoatl to increase Alva's decoration level.",4204,599,"Area will contain Incursions to the Temple of Atzoatl, which Alva will open.",2,910],["Helena",0,null,0,[0],[0],[],[],null,"","",null,910,"[DNT] Helena",null,910],["Niko",0,null,0,[0],[0],[],[],null,"Delve deeper into the Azurite Mine to increase Niko's decoration level.","Delve to Depth {0} in your Azurite Mine to increase Niko's decoration level.",4205,600,"Area will contain masses of Voltaxic Sulphite, which Niko will extract for you.",3,910],["Jun",0,null,0,[0],[0],[],[],null,"Defeat undefeated high-ranking members of the Immortal Syndicate to increase Jun's decoration level.","Defeat {0} members of the Immortal Syndicate undefeated at Rank {1} to increase Jun's decoration level.",4207,601,"Area will contain Immortal Syndicate activity, which Jun will help you combat.",5,910],["Zana",0,10374,0,[33,57,0],[0,1000,0],[],[],17,"Complete uncompleted Maps on the Atlas to increase Zana's decoration level.","Have {0} completed Maps on your Atlas to increase Zana's decoration level.",4210,602,"Area will contain Zana, who requests your help exploring the Atlas.",1,91]]}
+{
+  "filename": "NPCMaster.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown14",
+      "rowid": 1,
+      "type": "short",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Signature_ModsKey",
+      "rowid": 2,
+      "type": "ulong",
+      "key": "Mods.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Flag0",
+      "rowid": 3,
+      "type": "byte",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "SpawnWeight_TagsKeys",
+      "rowid": 4,
+      "type": "ref|list|ulong",
+      "key": "Tags.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "SpawnWeight_Values",
+      "rowid": 5,
+      "type": "ref|list|int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Data0",
+      "rowid": 6,
+      "type": "ref|list|int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Data1",
+      "rowid": 7,
+      "type": "ref|list|int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Key1",
+      "rowid": 8,
+      "type": "ulong",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "HelpText",
+      "rowid": 9,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "HelpTextForNextLevel",
+      "rowid": 10,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Key2",
+      "rowid": 11,
+      "type": "ulong",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown0",
+      "rowid": 12,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "AreaDescription",
+      "rowid": 13,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Key3",
+      "rowid": 14,
+      "type": "ulong",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown1",
+      "rowid": 15,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "Navali",
+      0,
+      null,
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [],
+      [],
+      null,
+      "",
+      "",
+      null,
+      910,
+      "[DNT] Navali",
+      null,
+      910
+    ],
+    [
+      "Einhar",
+      0,
+      null,
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [],
+      [],
+      null,
+      "Capture uncaptured monsters in the Bestiary to increase Einhar's decoration level.",
+      "Capture {0} more new monsters in your Bestiary to increase Einhar's decoration level.",
+      4206,
+      598,
+      "Area will contain powerful beasts, which Einhar will help you hunt.",
+      4,
+      910
+    ],
+    [
+      "Alva",
+      0,
+      null,
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [],
+      [],
+      null,
+      "Explore unexplored rooms in the present-day Temple of Atzoatl to increase Alva's decoration level.",
+      "Explore {0} more unexplored rooms in the present-day Temple of Atzoatl to increase Alva's decoration level.",
+      4204,
+      599,
+      "Area will contain Incursions to the Temple of Atzoatl, which Alva will open.",
+      2,
+      910
+    ],
+    [
+      "Helena",
+      0,
+      null,
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [],
+      [],
+      null,
+      "",
+      "",
+      null,
+      910,
+      "[DNT] Helena",
+      null,
+      910
+    ],
+    [
+      "Niko",
+      0,
+      null,
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [],
+      [],
+      null,
+      "Delve deeper into the Azurite Mine to increase Niko's decoration level.",
+      "Delve to Depth {0} in your Azurite Mine to increase Niko's decoration level.",
+      4205,
+      600,
+      "Area will contain masses of Voltaxic Sulphite, which Niko will extract for you.",
+      3,
+      910
+    ],
+    [
+      "Jun",
+      0,
+      null,
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [],
+      [],
+      null,
+      "Defeat undefeated high-ranking members of the Immortal Syndicate to increase Jun's decoration level.",
+      "Defeat {0} members of the Immortal Syndicate undefeated at Rank {1} to increase Jun's decoration level.",
+      4207,
+      601,
+      "Area will contain Immortal Syndicate activity, which Jun will help you combat.",
+      5,
+      910
+    ],
+    [
+      "Zana",
+      0,
+      10374,
+      0,
+      [
+        33,
+        57,
+        0
+      ],
+      [
+        0,
+        1000,
+        0
+      ],
+      [],
+      [],
+      17,
+      "Complete uncompleted Maps on the Atlas to increase Zana's decoration level.",
+      "Have {0} completed Maps on your Atlas to increase Zana's decoration level.",
+      4210,
+      602,
+      "Area will contain Zana, who requests your help exploring the Atlas.",
+      1,
+      91
+    ]
+  ]
+}

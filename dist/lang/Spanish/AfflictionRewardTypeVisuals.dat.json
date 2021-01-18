@@ -1,1 +1,172 @@
-{"filename":"AfflictionRewardTypeVisuals.dat","header":[{"name":"AfflictionRewardTypes","rowid":0,"type":"int","key":"AfflictionRewardTypes.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Id","rowid":1,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":true,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Name","rowid":2,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[[0,"DeliriumRewardCurrency","Objetos monetarios"],[1,"DeliriumRewardUniques","Objetos únicos"],[2,"DeliriumRewardGems","Gemas"],[3,"DeliriumRewardMaps","Objetos de mapa"],[4,"DeliriumRewardTrinkets","Joyería"],[5,"DeliriumRewardArmour","Armadura"],[6,"DeliriumRewardWeapon","Armas"],[7,"DeliriumRewardAbyss","Objetos de Abyss"],[8,"DeliriumRewardPerandus","Objetos Perandus"],[9,"DeliriumRewardHarbinger","Objetos de Harbinger"],[10,"DeliriumRewardBreach","Objetos de Breach"],[11,"DeliriumRewardEssences","Esencias"],[12,"DeliriumRewardEssences","Esencias"],[13,"DeliriumRewardFragments","Fragmentos"],[14,"DeliriumRewardScarabs","Escarabajos"],[15,"DeliriumRewardFossils","Fósiles"],[16,"DeliriumRewardProphecies","Objetos de Prophecy"],[17,"DeliriumRewardDivination","Cartas de Adivinación"],[18,"DeliriumRewardGeneric","Objetos misceláneos"],[19,"DeliriumRewardTalismans","Talismanes"],[20,"DeliriumRewardLabyrinth","Objetos de Laberinto"],[22,"DeliriumRewardIncubators","Incubadoras"],[23,"DeliriumRewardBlight","Objetos de Blight"],[24,"DeliriumRewardMetamorph","Catalizadores"]]}
+{
+  "filename": "AfflictionRewardTypeVisuals.dat",
+  "header": [
+    {
+      "name": "AfflictionRewardTypes",
+      "rowid": 0,
+      "type": "int",
+      "key": "AfflictionRewardTypes.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Id",
+      "rowid": 1,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Name",
+      "rowid": 2,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      0,
+      "DeliriumRewardCurrency",
+      "Objetos monetarios"
+    ],
+    [
+      1,
+      "DeliriumRewardUniques",
+      "Objetos únicos"
+    ],
+    [
+      2,
+      "DeliriumRewardGems",
+      "Gemas"
+    ],
+    [
+      3,
+      "DeliriumRewardMaps",
+      "Objetos de mapa"
+    ],
+    [
+      4,
+      "DeliriumRewardTrinkets",
+      "Joyería"
+    ],
+    [
+      5,
+      "DeliriumRewardArmour",
+      "Armadura"
+    ],
+    [
+      6,
+      "DeliriumRewardWeapon",
+      "Armas"
+    ],
+    [
+      7,
+      "DeliriumRewardAbyss",
+      "Objetos de Abyss"
+    ],
+    [
+      8,
+      "DeliriumRewardPerandus",
+      "Objetos Perandus"
+    ],
+    [
+      9,
+      "DeliriumRewardHarbinger",
+      "Objetos de Harbinger"
+    ],
+    [
+      10,
+      "DeliriumRewardBreach",
+      "Objetos de Breach"
+    ],
+    [
+      11,
+      "DeliriumRewardEssences",
+      "Esencias"
+    ],
+    [
+      12,
+      "DeliriumRewardEssences",
+      "Esencias"
+    ],
+    [
+      13,
+      "DeliriumRewardFragments",
+      "Fragmentos"
+    ],
+    [
+      14,
+      "DeliriumRewardScarabs",
+      "Escarabajos"
+    ],
+    [
+      15,
+      "DeliriumRewardFossils",
+      "Fósiles"
+    ],
+    [
+      16,
+      "DeliriumRewardProphecies",
+      "Objetos de Prophecy"
+    ],
+    [
+      17,
+      "DeliriumRewardDivination",
+      "Cartas de Adivinación"
+    ],
+    [
+      18,
+      "DeliriumRewardGeneric",
+      "Objetos misceláneos"
+    ],
+    [
+      19,
+      "DeliriumRewardTalismans",
+      "Talismanes"
+    ],
+    [
+      20,
+      "DeliriumRewardLabyrinth",
+      "Objetos de Laberinto"
+    ],
+    [
+      22,
+      "DeliriumRewardIncubators",
+      "Incubadoras"
+    ],
+    [
+      23,
+      "DeliriumRewardBlight",
+      "Objetos de Blight"
+    ],
+    [
+      24,
+      "DeliriumRewardMetamorph",
+      "Catalizadores"
+    ]
+  ]
+}

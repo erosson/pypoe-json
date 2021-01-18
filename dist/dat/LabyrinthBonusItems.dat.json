@@ -1,1 +1,67 @@
-{"filename":"LabyrinthBonusItems.dat","header":[{"name":"Key0","rowid":0,"type":"ulong","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown1","rowid":1,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown2","rowid":2,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[[5341,83,"Eternal Labyrinth of Fortune"],[5342,83,"Eternal Labyrinth of Opportunity"],[5343,83,"Eternal Labyrinth of Potential"]]}
+{
+  "filename": "LabyrinthBonusItems.dat",
+  "header": [
+    {
+      "name": "Key0",
+      "rowid": 0,
+      "type": "ulong",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown1",
+      "rowid": 1,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown2",
+      "rowid": 2,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      5341,
+      83,
+      "Eternal Labyrinth of Fortune"
+    ],
+    [
+      5342,
+      83,
+      "Eternal Labyrinth of Opportunity"
+    ],
+    [
+      5343,
+      83,
+      "Eternal Labyrinth of Potential"
+    ]
+  ]
+}

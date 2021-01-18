@@ -1,1 +1,487 @@
-{"filename":"Notifications.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":true,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Flag0","rowid":1,"type":"bool","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Flag1","rowid":2,"type":"bool","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Message","rowid":3,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown2","rowid":4,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown3","rowid":5,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Flag2","rowid":6,"type":"bool","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Flag3","rowid":7,"type":"bool","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["FriendRequest",true,true,"คำขอเป็นเพื่อน","",0,true,false],["FriendNowOnline",false,true,"เพื่อนกำลังออนไลน์","",1,true,false],["FriendNowOffline",false,true,"เพื่อนกำลังออฟไลน์","",2,true,false],["FriendAreaChanged",false,false,"เพื่อนเปลี่ยนพื้นที่","",3,true,false],["FriendLevelChanged",false,false,"เพื่อนเปลี่ยนเลเวล","",4,true,false],["FriendStatusMessageChanged",true,true,"เพื่อนเปลี่ยนสถานะ","",5,true,false],["PartyInvite",true,true,"คำเชิญเข้าร่วมปาร์ตี้","",6,true,false],["PartyJoined",false,true,"เข้าร่วมปาร์ตี้","",7,true,true],["PartyLeft",false,true,"ออกจากปาร์ตี้","",8,true,true],["PartyMemberInvited",false,true,"ส่งคำเชิญเป็นสมาชิกปาร์ตี้","",9,true,false],["PartyMemberJoined",false,true,"เข้าร่วมเป็นสมาชิกปาร์ตี้","",10,true,true],["PartyMemberLeft",false,true,"ออกจากการเป็นสมาชิกปาร์ตี้","",11,true,true],["PartyMemberPromotedToLeader",false,true,"เลื่อนตำแหน่งสมาชิกปาร์ตี้","",12,true,false],["GuildInvite",true,true,"คำเชิญเข้าร่วมกิลด์","",13,true,true],["GuildJoined",false,true,"เข้าร่วมกิลด์","",14,true,true],["GuildLeft",false,true,"ออกจากกิลด์","",15,true,true],["GuildRankChanged",false,true,"เปลี่ยนอันดับกิลด์","",16,true,true],["GuildMemberInvited",true,true,"ส่งคำเชิญเป็นสมาชิกกิลด์","",17,true,true],["GuildMemberJoined",true,true,"เข้าร่วมเป็นสมาชิกกิลด์","",18,true,true],["GuildMemberLeft",true,true,"ออกจากการเป็นสมาชิกกิลด์","",19,true,true],["GuildMemberRankChanged",true,true,"เปลี่ยนอันดับสมาชิกกิลด์","",20,true,true],["GiftReceived",true,true,"ได้รับของขวัญ","",21,true,false],["TradeRequest",true,true,"คำขอการแลกเปลี่ยน","",22,true,true],["AchievementComplete",false,true,"ความสำเร็จเสร็จสมบูรณ์","",23,true,true],["AchievementItemComplete",false,true,"ไอเท็มความสำเร็จเสร็จสมบูรณ์","แสดงการแจ้งเตือนเมื่อส่วนหนึ่งของความสำเร็จนั้นเรียบร้อยแล้ว",24,true,true],["AchievementItemFailed",false,true,"การติดตามความสำเร็จของไอเทมล้มเหลว","",24,true,true],["PVPDuelChallenge",true,true,"การท้าดวล PvP","",25,true,false],["PVPEvent",true,true,"กิจกรรม PvP","",26,true,false],["LeagueEvent",true,true,"กิจกรรมลีก","",27,true,true],["MarketNotifications",true,true,"การแจ้งเตือนตลาด","การแจ้งเตือนจะปรากฏขึ้นเมื่อคุณได้รับข้อเสนอ เมื่อพวกเขาได้ทำการยอมรับหรือเมื่อพวกเขานั้นปฏิเสธ",28,true,true],["BestiaryRecipeNotification",true,true,"สูตร Bestiary","",29,true,true],["RewardNotifications",true,true,"การแจ้งเตือนของรางวัล","แสดงการแจ้งเตือนเมื่อได้รับของรางวัลจากภารกิจท้าทาย",30,true,true],["LeagueInGame",true,true,"การแจ้งเตือน Harvest ภายในเกม","แสดงการแจ้งเตือนเกี่ยวกับลีก Harvest ภายในเกม",31,true,true],["ConsoleServerMessages",false,false,"ข้อความจากเซิร์ฟเวอร์","แสดงข้อความจากเซิร์ฟเวอร์ทั้งในหน้าต่างแยกและในช่องแชท",32,true,true],["ConsolePlayerLevelUp",false,false,"เลเวลอัพ","",33,true,true],["ConsoleGemLevelUp",false,false,"เลเวลหินสกิลอัพ","",34,true,true]]}
+{
+  "filename": "Notifications.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Flag0",
+      "rowid": 1,
+      "type": "bool",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Flag1",
+      "rowid": 2,
+      "type": "bool",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Message",
+      "rowid": 3,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown2",
+      "rowid": 4,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown3",
+      "rowid": 5,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Flag2",
+      "rowid": 6,
+      "type": "bool",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Flag3",
+      "rowid": 7,
+      "type": "bool",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "FriendRequest",
+      true,
+      true,
+      "คำขอเป็นเพื่อน",
+      "",
+      0,
+      true,
+      false
+    ],
+    [
+      "FriendNowOnline",
+      false,
+      true,
+      "เพื่อนกำลังออนไลน์",
+      "",
+      1,
+      true,
+      false
+    ],
+    [
+      "FriendNowOffline",
+      false,
+      true,
+      "เพื่อนกำลังออฟไลน์",
+      "",
+      2,
+      true,
+      false
+    ],
+    [
+      "FriendAreaChanged",
+      false,
+      false,
+      "เพื่อนเปลี่ยนพื้นที่",
+      "",
+      3,
+      true,
+      false
+    ],
+    [
+      "FriendLevelChanged",
+      false,
+      false,
+      "เพื่อนเปลี่ยนเลเวล",
+      "",
+      4,
+      true,
+      false
+    ],
+    [
+      "FriendStatusMessageChanged",
+      true,
+      true,
+      "เพื่อนเปลี่ยนสถานะ",
+      "",
+      5,
+      true,
+      false
+    ],
+    [
+      "PartyInvite",
+      true,
+      true,
+      "คำเชิญเข้าร่วมปาร์ตี้",
+      "",
+      6,
+      true,
+      false
+    ],
+    [
+      "PartyJoined",
+      false,
+      true,
+      "เข้าร่วมปาร์ตี้",
+      "",
+      7,
+      true,
+      true
+    ],
+    [
+      "PartyLeft",
+      false,
+      true,
+      "ออกจากปาร์ตี้",
+      "",
+      8,
+      true,
+      true
+    ],
+    [
+      "PartyMemberInvited",
+      false,
+      true,
+      "ส่งคำเชิญเป็นสมาชิกปาร์ตี้",
+      "",
+      9,
+      true,
+      false
+    ],
+    [
+      "PartyMemberJoined",
+      false,
+      true,
+      "เข้าร่วมเป็นสมาชิกปาร์ตี้",
+      "",
+      10,
+      true,
+      true
+    ],
+    [
+      "PartyMemberLeft",
+      false,
+      true,
+      "ออกจากการเป็นสมาชิกปาร์ตี้",
+      "",
+      11,
+      true,
+      true
+    ],
+    [
+      "PartyMemberPromotedToLeader",
+      false,
+      true,
+      "เลื่อนตำแหน่งสมาชิกปาร์ตี้",
+      "",
+      12,
+      true,
+      false
+    ],
+    [
+      "GuildInvite",
+      true,
+      true,
+      "คำเชิญเข้าร่วมกิลด์",
+      "",
+      13,
+      true,
+      true
+    ],
+    [
+      "GuildJoined",
+      false,
+      true,
+      "เข้าร่วมกิลด์",
+      "",
+      14,
+      true,
+      true
+    ],
+    [
+      "GuildLeft",
+      false,
+      true,
+      "ออกจากกิลด์",
+      "",
+      15,
+      true,
+      true
+    ],
+    [
+      "GuildRankChanged",
+      false,
+      true,
+      "เปลี่ยนอันดับกิลด์",
+      "",
+      16,
+      true,
+      true
+    ],
+    [
+      "GuildMemberInvited",
+      true,
+      true,
+      "ส่งคำเชิญเป็นสมาชิกกิลด์",
+      "",
+      17,
+      true,
+      true
+    ],
+    [
+      "GuildMemberJoined",
+      true,
+      true,
+      "เข้าร่วมเป็นสมาชิกกิลด์",
+      "",
+      18,
+      true,
+      true
+    ],
+    [
+      "GuildMemberLeft",
+      true,
+      true,
+      "ออกจากการเป็นสมาชิกกิลด์",
+      "",
+      19,
+      true,
+      true
+    ],
+    [
+      "GuildMemberRankChanged",
+      true,
+      true,
+      "เปลี่ยนอันดับสมาชิกกิลด์",
+      "",
+      20,
+      true,
+      true
+    ],
+    [
+      "GiftReceived",
+      true,
+      true,
+      "ได้รับของขวัญ",
+      "",
+      21,
+      true,
+      false
+    ],
+    [
+      "TradeRequest",
+      true,
+      true,
+      "คำขอการแลกเปลี่ยน",
+      "",
+      22,
+      true,
+      true
+    ],
+    [
+      "AchievementComplete",
+      false,
+      true,
+      "ความสำเร็จเสร็จสมบูรณ์",
+      "",
+      23,
+      true,
+      true
+    ],
+    [
+      "AchievementItemComplete",
+      false,
+      true,
+      "ไอเท็มความสำเร็จเสร็จสมบูรณ์",
+      "แสดงการแจ้งเตือนเมื่อส่วนหนึ่งของความสำเร็จนั้นเรียบร้อยแล้ว",
+      24,
+      true,
+      true
+    ],
+    [
+      "AchievementItemFailed",
+      false,
+      true,
+      "การติดตามความสำเร็จของไอเทมล้มเหลว",
+      "",
+      24,
+      true,
+      true
+    ],
+    [
+      "PVPDuelChallenge",
+      true,
+      true,
+      "การท้าดวล PvP",
+      "",
+      25,
+      true,
+      false
+    ],
+    [
+      "PVPEvent",
+      true,
+      true,
+      "กิจกรรม PvP",
+      "",
+      26,
+      true,
+      false
+    ],
+    [
+      "LeagueEvent",
+      true,
+      true,
+      "กิจกรรมลีก",
+      "",
+      27,
+      true,
+      true
+    ],
+    [
+      "MarketNotifications",
+      true,
+      true,
+      "การแจ้งเตือนตลาด",
+      "การแจ้งเตือนจะปรากฏขึ้นเมื่อคุณได้รับข้อเสนอ เมื่อพวกเขาได้ทำการยอมรับหรือเมื่อพวกเขานั้นปฏิเสธ",
+      28,
+      true,
+      true
+    ],
+    [
+      "BestiaryRecipeNotification",
+      true,
+      true,
+      "สูตร Bestiary",
+      "",
+      29,
+      true,
+      true
+    ],
+    [
+      "RewardNotifications",
+      true,
+      true,
+      "การแจ้งเตือนของรางวัล",
+      "แสดงการแจ้งเตือนเมื่อได้รับของรางวัลจากภารกิจท้าทาย",
+      30,
+      true,
+      true
+    ],
+    [
+      "LeagueInGame",
+      true,
+      true,
+      "การแจ้งเตือน Harvest ภายในเกม",
+      "แสดงการแจ้งเตือนเกี่ยวกับลีก Harvest ภายในเกม",
+      31,
+      true,
+      true
+    ],
+    [
+      "ConsoleServerMessages",
+      false,
+      false,
+      "ข้อความจากเซิร์ฟเวอร์",
+      "แสดงข้อความจากเซิร์ฟเวอร์ทั้งในหน้าต่างแยกและในช่องแชท",
+      32,
+      true,
+      true
+    ],
+    [
+      "ConsolePlayerLevelUp",
+      false,
+      false,
+      "เลเวลอัพ",
+      "",
+      33,
+      true,
+      true
+    ],
+    [
+      "ConsoleGemLevelUp",
+      false,
+      false,
+      "เลเวลหินสกิลอัพ",
+      "",
+      34,
+      true,
+      true
+    ]
+  ]
+}

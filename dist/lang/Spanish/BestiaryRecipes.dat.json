@@ -1,1 +1,753 @@
-{"filename":"BestiaryRecipes.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":true,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Description","rowid":1,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"BestiaryRecipeComponentKeys","rowid":2,"type":"ref|list|ulong","key":"BestiaryRecipeComponent.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Notes","rowid":3,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"HintText","rowid":4,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Flag0","rowid":5,"type":"bool","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"AchievementItemsKeys","rowid":6,"type":"ref|list|ulong","key":"AchievementItems.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Flag1","rowid":7,"type":"bool","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown1","rowid":8,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["EinharMasterCraft1","Una pila de 8 Orbes Cromáticos",[16],"","Crea Objetos Monetarios",false,[],true,0],["EinharMasterCraft2","Una pila de 4 Orbes de Joyero",[32],"","Crea Objetos Monetarios",false,[],true,0],["EinharMasterCraft3","Orbe de Fusión",[31],"Los valores numéricos de todos los mod. son modificados","Crea Objetos Monetarios",false,[],true,0],["EinharMasterCraft4","Objeto",[33],"","Crea un objeto Único",false,[],true,0],["EinharMasterCraft5","Anillo",[1],"","Crea un objeto Único",false,[],true,0],["EinharMasterCraft6","Amuleto",[4],"","Crea un objeto Único",false,[],true,0],["EinharMasterCraft7","Cinturón",[5],"","Crea un objeto Único",false,[],true,0],["EinharMasterCraft8","Frasco",[6],"","Crea un objeto Único",false,[],true,0],["EinharMasterCraft9","Casco",[10],"","Crea un objeto Único",false,[],true,0],["EinharMasterCraft10","Armadura",[11],"","Crea un objeto Único",false,[],true,0],["EinharMasterCraft11","Botas",[14],"","Crea un objeto Único",false,[],true,0],["EinharMasterCraft12","Guantes",[26],"","Crea un objeto Único",false,[],true,0],["EinharMasterCraft13","Joya",[29],"","Crea un objeto Único",false,[],true,0],["EinharMasterCraft14","Garra o daga",[30],"","Crea un objeto Único",false,[],true,0],["EinharMasterCraft15","Maza o cetro",[18],"","Crea un objeto Único",false,[],true,0],["EinharMasterCraft16","Escudo o carcaj",[23],"","Crea un objeto Único",false,[],true,0],["EinharMasterCraft17","Espada",[19],"","Crea un objeto Único",false,[],true,0],["EinharMasterCraft18","Báculo",[21],"","Crea un objeto Único",false,[],true,0],["EinharMasterCraft19","Hacha",[35],"","Crea un objeto Único",false,[],true,0],["EinharMasterCraft20","Arco",[13],"","Crea un objeto Único",false,[],true,0],["EinharMasterCraft21","Varita",[22],"","Crea un objeto Único",false,[],true,0],["EinharMasterCraft22","Mapa",[12],"","Crea un objeto Único",false,[],true,0],["EinharMasterCraft23","Gema Corrupta con 23% de Calidad",[8],"","Crea un Objeto",false,[],false,1],["EinharMasterCraft24","Gema Corrupta de Nivel 21",[9],"","Crea un Objeto",false,[],false,1],["EinharMasterCraft25","Objeto Raro con 6 Engarces totalmente Vinculados",[15],"","Crea un Objeto",false,[],false,1],["EinharMasterCraft26","Una Pila de 10  objetos Monetarios Aleatorios",[20],"","Crea un Objeto",false,[],false,1],["EinharMasterCraft27","De un objeto Mágico",[36],"","Crea una Copia",false,[],false,1],["EinharMasterCraft28","para que tenga 30% de Calidad",[28],"","Corrompe una Armadura o Arma",false,[],false,1],["EinharMasterCraft29","Tanto los mods. Implícitos como los Explícitos de un Objeto Raro",[2],"Los valores numéricos de todos los mods. serán cambiados","Aleatoriza los Valores de los Mods.",false,[],false,1],["EinharMasterCraft30","Agrega un Sufijo, Elimina un Prefijo Aleatorio",[3],"Solo funciona en objetos raros","Modifica los Mods. en un objeto",false,[],false,1],["EinharMasterCraft31","Agrega un Prefijo, Elimina un Sufijo Aleatorio",[7],"Solo funciona en objetos raros","Modifica los Mods. en un objeto",false,[],false,1],["EinharMasterCraft32","Con la Mitad de Mods. en Cada objeto",[24],"No funciona en objetos del Creador o del Antiguo","Divide un objeto en Dos",false,[],false,1],["EinharMasterCraft33","En Otro Objeto Único Aleatorio",[27],"No funciona en objetos del Creador ni del Antiguo","Convierte este Objeto Único",false,[],false,1],["EinharMasterCraftFlask1","Agrega \"de Calor\"",[184],"Requiere que el Frasco no tenga Sufijos existentes","Agrega un Mod. a un Frasco",false,[],false,1],["EinharMasterCraftFlask2","Agrega \"de Extinción\"",[184],"Requiere que el Frasco no tenga Sufijos existentes","Agrega un Mod. a un Frasco",false,[],false,1],["EinharMasterCraftFlask3","Agrega \"de Contención\"",[184],"Requiere que el Frasco no tenga Sufijos existentes","Agrega un Mod. a un Frasco",false,[],false,1],["EinharMasterCraftFlask4","Agrega \"de Aterrizaje\"",[184],"Requiere que el Frasco no tenga Sufijos existentes","Agrega un Mod. a un Frasco",false,[],false,1],["EinharMasterCraftFlask5","Agrega \"de Tratamiento\"",[184],"Requiere que el Frasco no tenga Sufijos existentes","Agrega un Mod. a un Frasco",false,[],false,1],["EinharMasterCraftFlask6","Agrega \"de Custodia\"",[184],"Requiere que el Frasco no tenga Sufijos existentes","Agrega un Mod. a un Frasco",false,[],false,1],["EinharMasterCraft34","a la Guarida de Farrul",[0],"","Abre un Portal",false,[],false,1],["EinharMasterCraft35","al Nido de Saqawal",[17],"","Abre un Portal",false,[],false,1],["EinharMasterCraft36","a la Madriguera de Fenumus",[25],"","Abre un Portal",false,[],false,1],["EinharMasterCraft37","a la Caleta de Craiceann",[34],"","Abre un Portal",false,[],true,1],["EinharMasterCraft38","Habilidad de Aspecto del Gato",[107],"","Fabrica una Habilidad de Aspecto en un objeto",false,[],true,1],["EinharMasterCraft39","Habilidad Aspecto del Ave",[108],"Solo funciona en objetos raros","Fabrica una Habilidad de Aspecto en un objeto",false,[],true,1],["EinharMasterCraft40","Habilidad Aspecto de la Araña",[109],"Solo funciona en objetos raros","Fabrica una Habilidad de Aspecto en un objeto",false,[],true,1],["EinharMasterCraft41","Habilidad Aspecto del Cangrejo",[110],"Reemplaza el Objeto que estás fabricando. El nuevo objeto está basado en el nivel del objeto viejo","Fabrica una Habilidad de Aspecto en un objeto",false,[],false,1]]}
+{
+  "filename": "BestiaryRecipes.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Description",
+      "rowid": 1,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "BestiaryRecipeComponentKeys",
+      "rowid": 2,
+      "type": "ref|list|ulong",
+      "key": "BestiaryRecipeComponent.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Notes",
+      "rowid": 3,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "HintText",
+      "rowid": 4,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Flag0",
+      "rowid": 5,
+      "type": "bool",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "AchievementItemsKeys",
+      "rowid": 6,
+      "type": "ref|list|ulong",
+      "key": "AchievementItems.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Flag1",
+      "rowid": 7,
+      "type": "bool",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown1",
+      "rowid": 8,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "EinharMasterCraft1",
+      "Una pila de 8 Orbes Cromáticos",
+      [
+        16
+      ],
+      "",
+      "Crea Objetos Monetarios",
+      false,
+      [],
+      true,
+      0
+    ],
+    [
+      "EinharMasterCraft2",
+      "Una pila de 4 Orbes de Joyero",
+      [
+        32
+      ],
+      "",
+      "Crea Objetos Monetarios",
+      false,
+      [],
+      true,
+      0
+    ],
+    [
+      "EinharMasterCraft3",
+      "Orbe de Fusión",
+      [
+        31
+      ],
+      "Los valores numéricos de todos los mod. son modificados",
+      "Crea Objetos Monetarios",
+      false,
+      [],
+      true,
+      0
+    ],
+    [
+      "EinharMasterCraft4",
+      "Objeto",
+      [
+        33
+      ],
+      "",
+      "Crea un objeto Único",
+      false,
+      [],
+      true,
+      0
+    ],
+    [
+      "EinharMasterCraft5",
+      "Anillo",
+      [
+        1
+      ],
+      "",
+      "Crea un objeto Único",
+      false,
+      [],
+      true,
+      0
+    ],
+    [
+      "EinharMasterCraft6",
+      "Amuleto",
+      [
+        4
+      ],
+      "",
+      "Crea un objeto Único",
+      false,
+      [],
+      true,
+      0
+    ],
+    [
+      "EinharMasterCraft7",
+      "Cinturón",
+      [
+        5
+      ],
+      "",
+      "Crea un objeto Único",
+      false,
+      [],
+      true,
+      0
+    ],
+    [
+      "EinharMasterCraft8",
+      "Frasco",
+      [
+        6
+      ],
+      "",
+      "Crea un objeto Único",
+      false,
+      [],
+      true,
+      0
+    ],
+    [
+      "EinharMasterCraft9",
+      "Casco",
+      [
+        10
+      ],
+      "",
+      "Crea un objeto Único",
+      false,
+      [],
+      true,
+      0
+    ],
+    [
+      "EinharMasterCraft10",
+      "Armadura",
+      [
+        11
+      ],
+      "",
+      "Crea un objeto Único",
+      false,
+      [],
+      true,
+      0
+    ],
+    [
+      "EinharMasterCraft11",
+      "Botas",
+      [
+        14
+      ],
+      "",
+      "Crea un objeto Único",
+      false,
+      [],
+      true,
+      0
+    ],
+    [
+      "EinharMasterCraft12",
+      "Guantes",
+      [
+        26
+      ],
+      "",
+      "Crea un objeto Único",
+      false,
+      [],
+      true,
+      0
+    ],
+    [
+      "EinharMasterCraft13",
+      "Joya",
+      [
+        29
+      ],
+      "",
+      "Crea un objeto Único",
+      false,
+      [],
+      true,
+      0
+    ],
+    [
+      "EinharMasterCraft14",
+      "Garra o daga",
+      [
+        30
+      ],
+      "",
+      "Crea un objeto Único",
+      false,
+      [],
+      true,
+      0
+    ],
+    [
+      "EinharMasterCraft15",
+      "Maza o cetro",
+      [
+        18
+      ],
+      "",
+      "Crea un objeto Único",
+      false,
+      [],
+      true,
+      0
+    ],
+    [
+      "EinharMasterCraft16",
+      "Escudo o carcaj",
+      [
+        23
+      ],
+      "",
+      "Crea un objeto Único",
+      false,
+      [],
+      true,
+      0
+    ],
+    [
+      "EinharMasterCraft17",
+      "Espada",
+      [
+        19
+      ],
+      "",
+      "Crea un objeto Único",
+      false,
+      [],
+      true,
+      0
+    ],
+    [
+      "EinharMasterCraft18",
+      "Báculo",
+      [
+        21
+      ],
+      "",
+      "Crea un objeto Único",
+      false,
+      [],
+      true,
+      0
+    ],
+    [
+      "EinharMasterCraft19",
+      "Hacha",
+      [
+        35
+      ],
+      "",
+      "Crea un objeto Único",
+      false,
+      [],
+      true,
+      0
+    ],
+    [
+      "EinharMasterCraft20",
+      "Arco",
+      [
+        13
+      ],
+      "",
+      "Crea un objeto Único",
+      false,
+      [],
+      true,
+      0
+    ],
+    [
+      "EinharMasterCraft21",
+      "Varita",
+      [
+        22
+      ],
+      "",
+      "Crea un objeto Único",
+      false,
+      [],
+      true,
+      0
+    ],
+    [
+      "EinharMasterCraft22",
+      "Mapa",
+      [
+        12
+      ],
+      "",
+      "Crea un objeto Único",
+      false,
+      [],
+      true,
+      0
+    ],
+    [
+      "EinharMasterCraft23",
+      "Gema Corrupta con 23% de Calidad",
+      [
+        8
+      ],
+      "",
+      "Crea un Objeto",
+      false,
+      [],
+      false,
+      1
+    ],
+    [
+      "EinharMasterCraft24",
+      "Gema Corrupta de Nivel 21",
+      [
+        9
+      ],
+      "",
+      "Crea un Objeto",
+      false,
+      [],
+      false,
+      1
+    ],
+    [
+      "EinharMasterCraft25",
+      "Objeto Raro con 6 Engarces totalmente Vinculados",
+      [
+        15
+      ],
+      "",
+      "Crea un Objeto",
+      false,
+      [],
+      false,
+      1
+    ],
+    [
+      "EinharMasterCraft26",
+      "Una Pila de 10  objetos Monetarios Aleatorios",
+      [
+        20
+      ],
+      "",
+      "Crea un Objeto",
+      false,
+      [],
+      false,
+      1
+    ],
+    [
+      "EinharMasterCraft27",
+      "De un objeto Mágico",
+      [
+        36
+      ],
+      "",
+      "Crea una Copia",
+      false,
+      [],
+      false,
+      1
+    ],
+    [
+      "EinharMasterCraft28",
+      "para que tenga 30% de Calidad",
+      [
+        28
+      ],
+      "",
+      "Corrompe una Armadura o Arma",
+      false,
+      [],
+      false,
+      1
+    ],
+    [
+      "EinharMasterCraft29",
+      "Tanto los mods. Implícitos como los Explícitos de un Objeto Raro",
+      [
+        2
+      ],
+      "Los valores numéricos de todos los mods. serán cambiados",
+      "Aleatoriza los Valores de los Mods.",
+      false,
+      [],
+      false,
+      1
+    ],
+    [
+      "EinharMasterCraft30",
+      "Agrega un Sufijo, Elimina un Prefijo Aleatorio",
+      [
+        3
+      ],
+      "Solo funciona en objetos raros",
+      "Modifica los Mods. en un objeto",
+      false,
+      [],
+      false,
+      1
+    ],
+    [
+      "EinharMasterCraft31",
+      "Agrega un Prefijo, Elimina un Sufijo Aleatorio",
+      [
+        7
+      ],
+      "Solo funciona en objetos raros",
+      "Modifica los Mods. en un objeto",
+      false,
+      [],
+      false,
+      1
+    ],
+    [
+      "EinharMasterCraft32",
+      "Con la Mitad de Mods. en Cada objeto",
+      [
+        24
+      ],
+      "No funciona en objetos del Creador o del Antiguo",
+      "Divide un objeto en Dos",
+      false,
+      [],
+      false,
+      1
+    ],
+    [
+      "EinharMasterCraft33",
+      "En Otro Objeto Único Aleatorio",
+      [
+        27
+      ],
+      "No funciona en objetos del Creador ni del Antiguo",
+      "Convierte este Objeto Único",
+      false,
+      [],
+      false,
+      1
+    ],
+    [
+      "EinharMasterCraftFlask1",
+      "Agrega \"de Calor\"",
+      [
+        184
+      ],
+      "Requiere que el Frasco no tenga Sufijos existentes",
+      "Agrega un Mod. a un Frasco",
+      false,
+      [],
+      false,
+      1
+    ],
+    [
+      "EinharMasterCraftFlask2",
+      "Agrega \"de Extinción\"",
+      [
+        184
+      ],
+      "Requiere que el Frasco no tenga Sufijos existentes",
+      "Agrega un Mod. a un Frasco",
+      false,
+      [],
+      false,
+      1
+    ],
+    [
+      "EinharMasterCraftFlask3",
+      "Agrega \"de Contención\"",
+      [
+        184
+      ],
+      "Requiere que el Frasco no tenga Sufijos existentes",
+      "Agrega un Mod. a un Frasco",
+      false,
+      [],
+      false,
+      1
+    ],
+    [
+      "EinharMasterCraftFlask4",
+      "Agrega \"de Aterrizaje\"",
+      [
+        184
+      ],
+      "Requiere que el Frasco no tenga Sufijos existentes",
+      "Agrega un Mod. a un Frasco",
+      false,
+      [],
+      false,
+      1
+    ],
+    [
+      "EinharMasterCraftFlask5",
+      "Agrega \"de Tratamiento\"",
+      [
+        184
+      ],
+      "Requiere que el Frasco no tenga Sufijos existentes",
+      "Agrega un Mod. a un Frasco",
+      false,
+      [],
+      false,
+      1
+    ],
+    [
+      "EinharMasterCraftFlask6",
+      "Agrega \"de Custodia\"",
+      [
+        184
+      ],
+      "Requiere que el Frasco no tenga Sufijos existentes",
+      "Agrega un Mod. a un Frasco",
+      false,
+      [],
+      false,
+      1
+    ],
+    [
+      "EinharMasterCraft34",
+      "a la Guarida de Farrul",
+      [
+        0
+      ],
+      "",
+      "Abre un Portal",
+      false,
+      [],
+      false,
+      1
+    ],
+    [
+      "EinharMasterCraft35",
+      "al Nido de Saqawal",
+      [
+        17
+      ],
+      "",
+      "Abre un Portal",
+      false,
+      [],
+      false,
+      1
+    ],
+    [
+      "EinharMasterCraft36",
+      "a la Madriguera de Fenumus",
+      [
+        25
+      ],
+      "",
+      "Abre un Portal",
+      false,
+      [],
+      false,
+      1
+    ],
+    [
+      "EinharMasterCraft37",
+      "a la Caleta de Craiceann",
+      [
+        34
+      ],
+      "",
+      "Abre un Portal",
+      false,
+      [],
+      true,
+      1
+    ],
+    [
+      "EinharMasterCraft38",
+      "Habilidad de Aspecto del Gato",
+      [
+        107
+      ],
+      "",
+      "Fabrica una Habilidad de Aspecto en un objeto",
+      false,
+      [],
+      true,
+      1
+    ],
+    [
+      "EinharMasterCraft39",
+      "Habilidad Aspecto del Ave",
+      [
+        108
+      ],
+      "Solo funciona en objetos raros",
+      "Fabrica una Habilidad de Aspecto en un objeto",
+      false,
+      [],
+      true,
+      1
+    ],
+    [
+      "EinharMasterCraft40",
+      "Habilidad Aspecto de la Araña",
+      [
+        109
+      ],
+      "Solo funciona en objetos raros",
+      "Fabrica una Habilidad de Aspecto en un objeto",
+      false,
+      [],
+      true,
+      1
+    ],
+    [
+      "EinharMasterCraft41",
+      "Habilidad Aspecto del Cangrejo",
+      [
+        110
+      ],
+      "Reemplaza el Objeto que estás fabricando. El nuevo objeto está basado en el nivel del objeto viejo",
+      "Fabrica una Habilidad de Aspecto en un objeto",
+      false,
+      [],
+      false,
+      1
+    ]
+  ]
+}

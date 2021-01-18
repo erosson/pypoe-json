@@ -1,1 +1,257 @@
-{"filename":"Tips.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":true,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Text","rowid":1,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"TextXBox","rowid":2,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["ProxyKey1","อย่าลืมใช้ขวด (<b>{1-5} บนแป้นพิมพ์)","Remember to use flasks (<<xbox_button_lb>> <<xbox_button_dpad_left>> <<xbox_button_dpad_up>> <<xbox_button_dpad_right>> <<xbox_button_rb>>)."],["ProxyKey2","คุณสามารถลบ <gemitem>{สกิลเจ็ม} จากไอเท็มโดยคลิกขวา","You can remove a <gemitem>{Skill Gem} from an item by pressing <<xbox_button_b>> on the item then <<xbox_button_a>>."],["ProxyKey3","พิมพ์ <b>{#} ก่อนที่ข้อความแชทของคุณเพื่อพูดคุยกับทุกคน",""],["ProxyKey4","พิมพ์ <b>{$} ก่อนที่ข้อความแชทของคุณเพื่อพูดคุยเรื่องซื้อขาย",""],["ProxyKey5","อินสแตนซ์จะรีเซ็ตหลังจากที่ี่ว่างเปล่าเป็นเวลา 8-15 นาที ซึ่งจะทำลายพอร์ทัลใดๆ ที่เชื่อมต่อ",""],["ProxyKey6","ใช้ <b>{Ctrl} + <b>{Alt} + <b>{คลิก} เพื่อลิงก์ไอเท็มให้กับผู้เล่นคนอื่นๆ ในแชท","Use <<xbox_button_lstick>> + <<xbox_button_b>> to link an item to other players in chat."],["ProxyKey7","ผู้เล่นในปาร์ตี้เดียวกันจะเข้าร่วมพื้นที่เดียวกัน",""],["ProxyKey8","คลิกขวาที่ผู้เล่นหรือส่งข้อความให้พวกเขาในการแชทเพื่อเชิญพวกเขามาที่ปาร์ตี้ของคุณ","Press <<xbox_button_a>> on a player or message them in chat to invite them to your party."],["ProxyKey9","ซัพพอร์ทเจ็มจะต้องใส่ในซอคเก็ทที่ลิงก์เพื่อให้ส่งผลต่อเจ็มอื่น",""],["ProxyKey10","กด <b>{Shift} ค้างเพื่อโจมตีจากตำแหน่งปัจจุบันของคุณ",""],["ProxyKey11","เวย์พอยน์สามารถใช้ในการเดินทางอย่างรวดเร็วระหว่างบางพื้นที่",""],["ProxyKey12","ขวดบนเข็มขัดของคุณจะเติมเมื่อคุณฆ่าศัตรู",""],["ProxyKey13","เมื่อต้องการใช้ <currencyitem>{สครอล} หรือ <currencyitem>{ออร์บ} ให้ <b>{คลิกขวา} แล้ว <b>{คลิกซ้าย} ไอเท็มเป้าหมาย","To use a <currencyitem>{scroll} or <currencyitem>{orb}, press <<xbox_button_a>> on it then <<xbox_button_a>> on the target item."],["ProxyKey14","กด <b>{Shift} ค้าง และคลิกที่กองของไอเท็มเพื่อแยกกอง","Press <<xbox_button_b>> on a stack of items to unstack them."],["ProxyKey15","อย่าให้ใครรู้รหัสผ่านของคุณ",""],["ProxyKey17","<gemitem>{สกิลเจ็ม} จะได้รับประสบการณ์ที่คุณทำในขณะที่สวมใส่",""],["ProxyKey18","ถ้าคุณไม่สามารถใช้เจ็มนั้นได้ การใส่ในไอเท็มจะทำให้คุณไม่สามารถใช้ไอเท็มได้",""],["ProxyKey19","การปาร์ตี้กับผู้เล่นอื่นๆ ทำให้ศัตรูแข็งแกร่งมากขึ้นและให้รางวัลมากขึ้น",""],["ProxyKey20","คุณสามารถเปลี่ยนการเชื่อมโยงปุ่มของคุณในเมนู <b>{ตัวเลือก}",""],["ProxyKey21","คุณสามารถเลื่อนแผนที่ซ้อนได้โดยใช้ <b>{ปุ่มลูกศร}",""],["ProxyKey22","ใช้ลูกกลิ้งเมาส์เพื่อซูมเข้าและออก",""],["ProxyKey23","ที่เก็บของของคุณสามารถใช้ในการย้ายไอเท็มระหว่างตัวละครของคุณได้",""],["ProxyKey24","มอนสเตอร์ที่สร้างความเสียหายจากน้ำแข็งสามารถแช่แข็งคุณได้",""],["ProxyKey25","ความเสียหายจากสายฟ้าสามารถช็อตคุณ และเพิ่มความเสียหายที่ได้รับ",""],["ProxyKey26","ความเสียหายจากไฟสามารถทำให้เป้าหมายลุกไหม้ ถูกเผาและได้รับความเสียหายเพิ่มขึ้น",""],["ProxyKey27","ไฮไลท์แสดงผลค้างไว้โดยกด (ค่าเริ่มต้น: <b> {Alt}) จะแสดงไอเทมที่อยู่บนพื้นและกด <b> {Z} จะสลับการแสดงไอเทมไปเรื่อยๆ",""],["ProxyKey28","มอนสเตอร์ที่มีม็อด \"Wealth\" ที่หายากมากจะดรอปไอเท็มที่ดีกว่ามาก",""],["ProxyKey29","การเปิด <b>{เวย์พอยน์} ใหม่เป็นวิธีการที่ช่วยประหยัดเวลาการสำรวจผ่าน Wraeclast",""],["ProxyKey30","คุณจะสามารถขายแหวนเหล็กและสกิลเจ็มแลกกับแหวนความต้านทานที่ผู้ค้าได้",""],["ProxyKey31","กด <b>{Alt} ค้างขณะที่ดูไอเท็มในช่องเก็บของของคุณเพื่อเปรียบเทียบกับที่สวมใส่","Hold <<xbox_button_lstick>> while viewing items in your inventory to compare them with their equipped counterpart."],["ProxyKey33","กด <b>{Ctrl} ค้าง และคลิกจุดเปลี่ยนพื้นที่และไอคอนเวย์พอยน์เพื่อบังคับการสร้างอินสแตนซ์ใหม่ของพื้นที่","Press <<xbox_button_y>> on area transitions and waypoint icons to forcibly create new instances of areas."],["ProxyKey34","รายงานบักด้วยคำสั่งการแชท /bug",""],["ProxyKey35","พิมพ์ /help ในการแชทสำหรับรายชื่อของคำสั่ง",""],["ProxyKey36","ขวดจะเติมเมื่อคุณเข้าเมือง",""],["ProxyKey37","การตายในระหว่าง PvP จะไม่ลบตัวละครของคุณออกจากลีกฮาร์ดคอร์",""],["ProxyKey38","คุณสามารถเข้าสู่สนาม Free-For-All PvP ได้ที่ Act 3",""],["ProxyKey39","คุณสามารถเข้าสู่ CTF และ team PvP โดยการคุยกับ NPC ที่ Act 2 และ Act 3",""],["ProxyKey40","เมื่อทำเควสท์สำเร็จจะสามารถหา Skill Gem และ Support Gem ที่เมือง",""],["ProxyKey41","คุณสามารถตั้งค่าตัวกรองไอเทมเพื่อแสดงผลเฉพาะไอเทมที่ต้องเฉพาะเจาะจงและเพื่อเปลี่ยนแปลงวการปรากฏ",""],["ProxyKey42","เมื่อคุณได้ตั้งค่าตัวกรองไอเทม คุณสามารถกด <b> {Z} เพื่อดูไอเทมทั้งหมด","Once you have set up an Item Filter, you can hold <<xbox_button_lstick>> to view all items."],["ProxyKey43","คุณจะได้รับที่ซ่อนส่วนตัวเมื่อผ่านภารกิจของ Helena ในบทที่ 2",""]]}
+{
+  "filename": "Tips.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Text",
+      "rowid": 1,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "TextXBox",
+      "rowid": 2,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "ProxyKey1",
+      "อย่าลืมใช้ขวด (<b>{1-5} บนแป้นพิมพ์)",
+      "Remember to use flasks (<<xbox_button_lb>> <<xbox_button_dpad_left>> <<xbox_button_dpad_up>> <<xbox_button_dpad_right>> <<xbox_button_rb>>)."
+    ],
+    [
+      "ProxyKey2",
+      "คุณสามารถลบ <gemitem>{สกิลเจ็ม} จากไอเท็มโดยคลิกขวา",
+      "You can remove a <gemitem>{Skill Gem} from an item by pressing <<xbox_button_b>> on the item then <<xbox_button_a>>."
+    ],
+    [
+      "ProxyKey3",
+      "พิมพ์ <b>{#} ก่อนที่ข้อความแชทของคุณเพื่อพูดคุยกับทุกคน",
+      ""
+    ],
+    [
+      "ProxyKey4",
+      "พิมพ์ <b>{$} ก่อนที่ข้อความแชทของคุณเพื่อพูดคุยเรื่องซื้อขาย",
+      ""
+    ],
+    [
+      "ProxyKey5",
+      "อินสแตนซ์จะรีเซ็ตหลังจากที่ี่ว่างเปล่าเป็นเวลา 8-15 นาที ซึ่งจะทำลายพอร์ทัลใดๆ ที่เชื่อมต่อ",
+      ""
+    ],
+    [
+      "ProxyKey6",
+      "ใช้ <b>{Ctrl} + <b>{Alt} + <b>{คลิก} เพื่อลิงก์ไอเท็มให้กับผู้เล่นคนอื่นๆ ในแชท",
+      "Use <<xbox_button_lstick>> + <<xbox_button_b>> to link an item to other players in chat."
+    ],
+    [
+      "ProxyKey7",
+      "ผู้เล่นในปาร์ตี้เดียวกันจะเข้าร่วมพื้นที่เดียวกัน",
+      ""
+    ],
+    [
+      "ProxyKey8",
+      "คลิกขวาที่ผู้เล่นหรือส่งข้อความให้พวกเขาในการแชทเพื่อเชิญพวกเขามาที่ปาร์ตี้ของคุณ",
+      "Press <<xbox_button_a>> on a player or message them in chat to invite them to your party."
+    ],
+    [
+      "ProxyKey9",
+      "ซัพพอร์ทเจ็มจะต้องใส่ในซอคเก็ทที่ลิงก์เพื่อให้ส่งผลต่อเจ็มอื่น",
+      ""
+    ],
+    [
+      "ProxyKey10",
+      "กด <b>{Shift} ค้างเพื่อโจมตีจากตำแหน่งปัจจุบันของคุณ",
+      ""
+    ],
+    [
+      "ProxyKey11",
+      "เวย์พอยน์สามารถใช้ในการเดินทางอย่างรวดเร็วระหว่างบางพื้นที่",
+      ""
+    ],
+    [
+      "ProxyKey12",
+      "ขวดบนเข็มขัดของคุณจะเติมเมื่อคุณฆ่าศัตรู",
+      ""
+    ],
+    [
+      "ProxyKey13",
+      "เมื่อต้องการใช้ <currencyitem>{สครอล} หรือ <currencyitem>{ออร์บ} ให้ <b>{คลิกขวา} แล้ว <b>{คลิกซ้าย} ไอเท็มเป้าหมาย",
+      "To use a <currencyitem>{scroll} or <currencyitem>{orb}, press <<xbox_button_a>> on it then <<xbox_button_a>> on the target item."
+    ],
+    [
+      "ProxyKey14",
+      "กด <b>{Shift} ค้าง และคลิกที่กองของไอเท็มเพื่อแยกกอง",
+      "Press <<xbox_button_b>> on a stack of items to unstack them."
+    ],
+    [
+      "ProxyKey15",
+      "อย่าให้ใครรู้รหัสผ่านของคุณ",
+      ""
+    ],
+    [
+      "ProxyKey17",
+      "<gemitem>{สกิลเจ็ม} จะได้รับประสบการณ์ที่คุณทำในขณะที่สวมใส่",
+      ""
+    ],
+    [
+      "ProxyKey18",
+      "ถ้าคุณไม่สามารถใช้เจ็มนั้นได้ การใส่ในไอเท็มจะทำให้คุณไม่สามารถใช้ไอเท็มได้",
+      ""
+    ],
+    [
+      "ProxyKey19",
+      "การปาร์ตี้กับผู้เล่นอื่นๆ ทำให้ศัตรูแข็งแกร่งมากขึ้นและให้รางวัลมากขึ้น",
+      ""
+    ],
+    [
+      "ProxyKey20",
+      "คุณสามารถเปลี่ยนการเชื่อมโยงปุ่มของคุณในเมนู <b>{ตัวเลือก}",
+      ""
+    ],
+    [
+      "ProxyKey21",
+      "คุณสามารถเลื่อนแผนที่ซ้อนได้โดยใช้ <b>{ปุ่มลูกศร}",
+      ""
+    ],
+    [
+      "ProxyKey22",
+      "ใช้ลูกกลิ้งเมาส์เพื่อซูมเข้าและออก",
+      ""
+    ],
+    [
+      "ProxyKey23",
+      "ที่เก็บของของคุณสามารถใช้ในการย้ายไอเท็มระหว่างตัวละครของคุณได้",
+      ""
+    ],
+    [
+      "ProxyKey24",
+      "มอนสเตอร์ที่สร้างความเสียหายจากน้ำแข็งสามารถแช่แข็งคุณได้",
+      ""
+    ],
+    [
+      "ProxyKey25",
+      "ความเสียหายจากสายฟ้าสามารถช็อตคุณ และเพิ่มความเสียหายที่ได้รับ",
+      ""
+    ],
+    [
+      "ProxyKey26",
+      "ความเสียหายจากไฟสามารถทำให้เป้าหมายลุกไหม้ ถูกเผาและได้รับความเสียหายเพิ่มขึ้น",
+      ""
+    ],
+    [
+      "ProxyKey27",
+      "ไฮไลท์แสดงผลค้างไว้โดยกด (ค่าเริ่มต้น: <b> {Alt}) จะแสดงไอเทมที่อยู่บนพื้นและกด <b> {Z} จะสลับการแสดงไอเทมไปเรื่อยๆ",
+      ""
+    ],
+    [
+      "ProxyKey28",
+      "มอนสเตอร์ที่มีม็อด \"Wealth\" ที่หายากมากจะดรอปไอเท็มที่ดีกว่ามาก",
+      ""
+    ],
+    [
+      "ProxyKey29",
+      "การเปิด <b>{เวย์พอยน์} ใหม่เป็นวิธีการที่ช่วยประหยัดเวลาการสำรวจผ่าน Wraeclast",
+      ""
+    ],
+    [
+      "ProxyKey30",
+      "คุณจะสามารถขายแหวนเหล็กและสกิลเจ็มแลกกับแหวนความต้านทานที่ผู้ค้าได้",
+      ""
+    ],
+    [
+      "ProxyKey31",
+      "กด <b>{Alt} ค้างขณะที่ดูไอเท็มในช่องเก็บของของคุณเพื่อเปรียบเทียบกับที่สวมใส่",
+      "Hold <<xbox_button_lstick>> while viewing items in your inventory to compare them with their equipped counterpart."
+    ],
+    [
+      "ProxyKey33",
+      "กด <b>{Ctrl} ค้าง และคลิกจุดเปลี่ยนพื้นที่และไอคอนเวย์พอยน์เพื่อบังคับการสร้างอินสแตนซ์ใหม่ของพื้นที่",
+      "Press <<xbox_button_y>> on area transitions and waypoint icons to forcibly create new instances of areas."
+    ],
+    [
+      "ProxyKey34",
+      "รายงานบักด้วยคำสั่งการแชท /bug",
+      ""
+    ],
+    [
+      "ProxyKey35",
+      "พิมพ์ /help ในการแชทสำหรับรายชื่อของคำสั่ง",
+      ""
+    ],
+    [
+      "ProxyKey36",
+      "ขวดจะเติมเมื่อคุณเข้าเมือง",
+      ""
+    ],
+    [
+      "ProxyKey37",
+      "การตายในระหว่าง PvP จะไม่ลบตัวละครของคุณออกจากลีกฮาร์ดคอร์",
+      ""
+    ],
+    [
+      "ProxyKey38",
+      "คุณสามารถเข้าสู่สนาม Free-For-All PvP ได้ที่ Act 3",
+      ""
+    ],
+    [
+      "ProxyKey39",
+      "คุณสามารถเข้าสู่ CTF และ team PvP โดยการคุยกับ NPC ที่ Act 2 และ Act 3",
+      ""
+    ],
+    [
+      "ProxyKey40",
+      "เมื่อทำเควสท์สำเร็จจะสามารถหา Skill Gem และ Support Gem ที่เมือง",
+      ""
+    ],
+    [
+      "ProxyKey41",
+      "คุณสามารถตั้งค่าตัวกรองไอเทมเพื่อแสดงผลเฉพาะไอเทมที่ต้องเฉพาะเจาะจงและเพื่อเปลี่ยนแปลงวการปรากฏ",
+      ""
+    ],
+    [
+      "ProxyKey42",
+      "เมื่อคุณได้ตั้งค่าตัวกรองไอเทม คุณสามารถกด <b> {Z} เพื่อดูไอเทมทั้งหมด",
+      "Once you have set up an Item Filter, you can hold <<xbox_button_lstick>> to view all items."
+    ],
+    [
+      "ProxyKey43",
+      "คุณจะได้รับที่ซ่อนส่วนตัวเมื่อผ่านภารกิจของ Helena ในบทที่ 2",
+      ""
+    ]
+  ]
+}

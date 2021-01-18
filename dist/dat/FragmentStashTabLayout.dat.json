@@ -1,1 +1,1007 @@
-{"filename":"FragmentStashTabLayout.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":true,"file_path":true,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"BaseItemTypesKey","rowid":1,"type":"ulong","key":"BaseItemTypes.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"PosX","rowid":2,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"PosY","rowid":3,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Order","rowid":4,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"SizeX","rowid":5,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"SizeY","rowid":6,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown0","rowid":7,"type":"byte","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["Metadata/Items/MapFragments/CurrencyVaalFragment1_1",5283,199,110,0,1,1,0],["Metadata/Items/MapFragments/CurrencyVaalFragment1_2",5284,199,177,1,1,1,0],["Metadata/Items/MapFragments/CurrencyVaalFragment1_3",5285,130,177,2,1,1,0],["Metadata/Items/MapFragments/CurrencyVaalFragment1_4",5286,130,110,3,1,1,0],["Metadata/Items/MapFragments/CurrencyVaalFragment2_1",5288,757,110,4,1,1,0],["Metadata/Items/MapFragments/CurrencyVaalFragment2_2",5289,757,177,5,1,1,0],["Metadata/Items/MapFragments/CurrencyVaalFragment2_3",5290,687,177,6,1,1,0],["Metadata/Items/MapFragments/CurrencyVaalFragment2_4",5291,687,110,7,1,1,0],["Metadata/Items/MapFragments/CurrencyProphecyFragment1",5293,381,110,8,1,1,0],["Metadata/Items/MapFragments/CurrencyProphecyFragment2",5294,381,177,9,1,1,0],["Metadata/Items/MapFragments/CurrencyProphecyFragment3",5295,311,177,10,1,1,0],["Metadata/Items/MapFragments/CurrencyProphecyFragment4",5296,311,110,11,1,1,0],["Metadata/Items/MapFragments/CurrencyShaperFragment1",5298,571,110,12,1,1,0],["Metadata/Items/MapFragments/CurrencyShaperFragment2",5299,571,177,13,1,1,0],["Metadata/Items/MapFragments/CurrencyShaperFragment3",5300,501,177,14,1,1,0],["Metadata/Items/MapFragments/CurrencyShaperFragment4",5301,501,110,15,1,1,0],["Metadata/Items/MapFragments/CurrencyFragmentPantheonFlask",5313,290,450,16,1,1,0],["Metadata/Items/MapFragments/CurrencyBreachFragmentFire",5314,130,254,17,1,1,0],["Metadata/Items/MapFragments/CurrencyBreachFragmentCold",5315,199,254,18,1,1,0],["Metadata/Items/MapFragments/CurrencyBreachFragmentLightning",5316,268,254,19,1,1,0],["Metadata/Items/MapFragments/CurrencyBreachFragmentPhysical",5317,337,254,20,1,1,0],["Metadata/Items/MapFragments/CurrencyBreachFragmentChaos",5318,407,254,21,1,1,0],["Metadata/Items/Currency/CurrencyBreachFireShard",179,130,322,22,1,1,1],["Metadata/Items/Currency/CurrencyBreachColdShard",180,199,322,23,1,1,1],["Metadata/Items/Currency/CurrencyBreachLightningShard",181,268,322,24,1,1,1],["Metadata/Items/Currency/CurrencyBreachPhysicalShard",182,337,322,25,1,1,1],["Metadata/Items/Currency/CurrencyBreachChaosShard",183,407,322,26,1,1,1],["Metadata/Items/MapFragments/CurrencyOfferingToTheGoddess",5340,595,450,27,1,1,0],["Metadata/Items/Scarabs/ScarabBreach1",6920,618,770,28,1,1,0],["Metadata/Items/Scarabs/ScarabBreach2",6921,687,770,29,1,1,0],["Metadata/Items/Scarabs/ScarabBreach3",6922,757,770,30,1,1,0],["Metadata/Items/Scarabs/ScarabMaps1",6924,377,770,31,1,1,0],["Metadata/Items/Scarabs/ScarabMaps2",6925,445,770,32,1,1,0],["Metadata/Items/Scarabs/ScarabMaps3",6926,514,770,33,1,1,0],["Metadata/Items/Scarabs/ScarabUniques1",6928,130,626,34,1,1,0],["Metadata/Items/Scarabs/ScarabUniques2",6929,199,626,35,1,1,0],["Metadata/Items/Scarabs/ScarabUniques3",6930,268,626,36,1,1,0],["Metadata/Items/Scarabs/ScarabBeasts1",6932,130,555,37,1,1,0],["Metadata/Items/Scarabs/ScarabBeasts2",6933,199,555,38,1,1,0],["Metadata/Items/Scarabs/ScarabBeasts3",6934,268,555,39,1,1,0],["Metadata/Items/Scarabs/ScarabShaperRares1",6940,377,626,40,1,1,0],["Metadata/Items/Scarabs/ScarabShaperRares2",6941,445,626,41,1,1,0],["Metadata/Items/Scarabs/ScarabShaperRares3",6942,514,626,42,1,1,0],["Metadata/Items/Scarabs/ScarabElderRares1",6944,618,626,43,1,1,0],["Metadata/Items/Scarabs/ScarabElderRares2",6945,687,626,44,1,1,0],["Metadata/Items/Scarabs/ScarabElderRares3",6946,757,626,45,1,1,0],["Metadata/Items/Scarabs/ScarabSulphite1",6948,130,770,46,1,1,0],["Metadata/Items/Scarabs/ScarabSulphite2",6949,199,770,47,1,1,0],["Metadata/Items/Scarabs/ScarabSulphite3",6950,268,770,48,1,1,0],["Metadata/Items/Scarabs/ScarabDivinationCards1",6952,618,696,49,1,1,0],["Metadata/Items/Scarabs/ScarabDivinationCards2",6953,687,696,50,1,1,0],["Metadata/Items/Scarabs/ScarabDivinationCards3",6954,757,696,51,1,1,0],["Metadata/Items/Scarabs/ScarabTorment1",6956,130,696,52,1,1,0],["Metadata/Items/Scarabs/ScarabTorment2",6957,199,696,53,1,1,0],["Metadata/Items/Scarabs/ScarabTorment3",6958,268,696,54,1,1,0],["Metadata/Items/Scarabs/ScarabStrongbox1",6960,377,555,55,1,1,0],["Metadata/Items/Scarabs/ScarabStrongbox2",6961,445,555,56,1,1,0],["Metadata/Items/Scarabs/ScarabStrongbox3",6962,514,555,57,1,1,0],["Metadata/Items/Scarabs/ScarabHarbinger1",6964,618,555,58,1,1,0],["Metadata/Items/Scarabs/ScarabHarbinger2",6965,687,555,59,1,1,0],["Metadata/Items/Scarabs/ScarabHarbinger3",6966,757,555,60,1,1,0],["Metadata/Items/Scarabs/ScarabPerandus1",6968,377,696,61,1,1,0],["Metadata/Items/Scarabs/ScarabPerandus2",6969,445,696,62,1,1,0],["Metadata/Items/Scarabs/ScarabPerandus3",6970,514,696,63,1,1,0],["Metadata/Items/MapFragments/CurrencyLegionFragmentKarui",5334,549,254,64,1,1,0],["Metadata/Items/MapFragments/CurrencyLegionFragmentMaraketh",5335,618,254,65,1,1,0],["Metadata/Items/MapFragments/CurrencyLegionFragmentEternal",5336,480,254,66,1,1,0],["Metadata/Items/MapFragments/CurrencyLegionFragmentTemplar",5337,687,254,67,1,1,0],["Metadata/Items/MapFragments/CurrencyLegionFragmentVaal",5338,757,254,68,1,1,0],["Metadata/Items/Currency/CurrencyLegionKaruiShard",189,549,322,69,1,1,1],["Metadata/Items/Currency/CurrencyLegionMarakethShard",190,618,322,70,1,1,1],["Metadata/Items/Currency/CurrencyLegionEternalEmpireShard",191,480,322,71,1,1,1],["Metadata/Items/Currency/CurrencyLegionTemplarShard",192,687,322,72,1,1,1],["Metadata/Items/Currency/CurrencyLegionVaalShard",193,757,322,73,1,1,1],["Metadata/Items/Scarabs/ScarabLegion1",6972,377,484,74,1,1,0],["Metadata/Items/Scarabs/ScarabLegion2",6973,445,484,75,1,1,0],["Metadata/Items/Scarabs/ScarabLegion3",6974,514,484,76,1,1,0],["Metadata/Items/MapFragments/CurrencyElderFragment1",5303,199,407,77,1,1,0],["Metadata/Items/MapFragments/CurrencyElderFragment2",5304,199,475,78,1,1,0],["Metadata/Items/MapFragments/CurrencyElderFragment3",5305,130,475,79,1,1,0],["Metadata/Items/MapFragments/CurrencyElderFragment4",5306,130,407,80,1,1,0],["Metadata/Items/MapFragments/CurrencyUberElderFragment1",5308,757,407,81,1,1,0],["Metadata/Items/MapFragments/CurrencyUberElderFragment2",5309,757,475,82,1,1,0],["Metadata/Items/MapFragments/CurrencyUberElderFragment3",5310,687,475,83,1,1,0],["Metadata/Items/MapFragments/CurrencyUberElderFragment4",5311,687,407,84,1,1,0],["Metadata/Items/Scarabs/ScarabMetamorph1",6976,377,413,85,1,1,0],["Metadata/Items/Scarabs/ScarabMetamorph2",6977,445,413,86,1,1,0],["Metadata/Items/Scarabs/ScarabMetamorph3",6978,514,413,87,1,1,0]]}
+{
+  "filename": "FragmentStashTabLayout.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": true,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "BaseItemTypesKey",
+      "rowid": 1,
+      "type": "ulong",
+      "key": "BaseItemTypes.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "PosX",
+      "rowid": 2,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "PosY",
+      "rowid": 3,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Order",
+      "rowid": 4,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "SizeX",
+      "rowid": 5,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "SizeY",
+      "rowid": 6,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown0",
+      "rowid": 7,
+      "type": "byte",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "Metadata/Items/MapFragments/CurrencyVaalFragment1_1",
+      5283,
+      199,
+      110,
+      0,
+      1,
+      1,
+      0
+    ],
+    [
+      "Metadata/Items/MapFragments/CurrencyVaalFragment1_2",
+      5284,
+      199,
+      177,
+      1,
+      1,
+      1,
+      0
+    ],
+    [
+      "Metadata/Items/MapFragments/CurrencyVaalFragment1_3",
+      5285,
+      130,
+      177,
+      2,
+      1,
+      1,
+      0
+    ],
+    [
+      "Metadata/Items/MapFragments/CurrencyVaalFragment1_4",
+      5286,
+      130,
+      110,
+      3,
+      1,
+      1,
+      0
+    ],
+    [
+      "Metadata/Items/MapFragments/CurrencyVaalFragment2_1",
+      5288,
+      757,
+      110,
+      4,
+      1,
+      1,
+      0
+    ],
+    [
+      "Metadata/Items/MapFragments/CurrencyVaalFragment2_2",
+      5289,
+      757,
+      177,
+      5,
+      1,
+      1,
+      0
+    ],
+    [
+      "Metadata/Items/MapFragments/CurrencyVaalFragment2_3",
+      5290,
+      687,
+      177,
+      6,
+      1,
+      1,
+      0
+    ],
+    [
+      "Metadata/Items/MapFragments/CurrencyVaalFragment2_4",
+      5291,
+      687,
+      110,
+      7,
+      1,
+      1,
+      0
+    ],
+    [
+      "Metadata/Items/MapFragments/CurrencyProphecyFragment1",
+      5293,
+      381,
+      110,
+      8,
+      1,
+      1,
+      0
+    ],
+    [
+      "Metadata/Items/MapFragments/CurrencyProphecyFragment2",
+      5294,
+      381,
+      177,
+      9,
+      1,
+      1,
+      0
+    ],
+    [
+      "Metadata/Items/MapFragments/CurrencyProphecyFragment3",
+      5295,
+      311,
+      177,
+      10,
+      1,
+      1,
+      0
+    ],
+    [
+      "Metadata/Items/MapFragments/CurrencyProphecyFragment4",
+      5296,
+      311,
+      110,
+      11,
+      1,
+      1,
+      0
+    ],
+    [
+      "Metadata/Items/MapFragments/CurrencyShaperFragment1",
+      5298,
+      571,
+      110,
+      12,
+      1,
+      1,
+      0
+    ],
+    [
+      "Metadata/Items/MapFragments/CurrencyShaperFragment2",
+      5299,
+      571,
+      177,
+      13,
+      1,
+      1,
+      0
+    ],
+    [
+      "Metadata/Items/MapFragments/CurrencyShaperFragment3",
+      5300,
+      501,
+      177,
+      14,
+      1,
+      1,
+      0
+    ],
+    [
+      "Metadata/Items/MapFragments/CurrencyShaperFragment4",
+      5301,
+      501,
+      110,
+      15,
+      1,
+      1,
+      0
+    ],
+    [
+      "Metadata/Items/MapFragments/CurrencyFragmentPantheonFlask",
+      5313,
+      290,
+      450,
+      16,
+      1,
+      1,
+      0
+    ],
+    [
+      "Metadata/Items/MapFragments/CurrencyBreachFragmentFire",
+      5314,
+      130,
+      254,
+      17,
+      1,
+      1,
+      0
+    ],
+    [
+      "Metadata/Items/MapFragments/CurrencyBreachFragmentCold",
+      5315,
+      199,
+      254,
+      18,
+      1,
+      1,
+      0
+    ],
+    [
+      "Metadata/Items/MapFragments/CurrencyBreachFragmentLightning",
+      5316,
+      268,
+      254,
+      19,
+      1,
+      1,
+      0
+    ],
+    [
+      "Metadata/Items/MapFragments/CurrencyBreachFragmentPhysical",
+      5317,
+      337,
+      254,
+      20,
+      1,
+      1,
+      0
+    ],
+    [
+      "Metadata/Items/MapFragments/CurrencyBreachFragmentChaos",
+      5318,
+      407,
+      254,
+      21,
+      1,
+      1,
+      0
+    ],
+    [
+      "Metadata/Items/Currency/CurrencyBreachFireShard",
+      179,
+      130,
+      322,
+      22,
+      1,
+      1,
+      1
+    ],
+    [
+      "Metadata/Items/Currency/CurrencyBreachColdShard",
+      180,
+      199,
+      322,
+      23,
+      1,
+      1,
+      1
+    ],
+    [
+      "Metadata/Items/Currency/CurrencyBreachLightningShard",
+      181,
+      268,
+      322,
+      24,
+      1,
+      1,
+      1
+    ],
+    [
+      "Metadata/Items/Currency/CurrencyBreachPhysicalShard",
+      182,
+      337,
+      322,
+      25,
+      1,
+      1,
+      1
+    ],
+    [
+      "Metadata/Items/Currency/CurrencyBreachChaosShard",
+      183,
+      407,
+      322,
+      26,
+      1,
+      1,
+      1
+    ],
+    [
+      "Metadata/Items/MapFragments/CurrencyOfferingToTheGoddess",
+      5340,
+      595,
+      450,
+      27,
+      1,
+      1,
+      0
+    ],
+    [
+      "Metadata/Items/Scarabs/ScarabBreach1",
+      6920,
+      618,
+      770,
+      28,
+      1,
+      1,
+      0
+    ],
+    [
+      "Metadata/Items/Scarabs/ScarabBreach2",
+      6921,
+      687,
+      770,
+      29,
+      1,
+      1,
+      0
+    ],
+    [
+      "Metadata/Items/Scarabs/ScarabBreach3",
+      6922,
+      757,
+      770,
+      30,
+      1,
+      1,
+      0
+    ],
+    [
+      "Metadata/Items/Scarabs/ScarabMaps1",
+      6924,
+      377,
+      770,
+      31,
+      1,
+      1,
+      0
+    ],
+    [
+      "Metadata/Items/Scarabs/ScarabMaps2",
+      6925,
+      445,
+      770,
+      32,
+      1,
+      1,
+      0
+    ],
+    [
+      "Metadata/Items/Scarabs/ScarabMaps3",
+      6926,
+      514,
+      770,
+      33,
+      1,
+      1,
+      0
+    ],
+    [
+      "Metadata/Items/Scarabs/ScarabUniques1",
+      6928,
+      130,
+      626,
+      34,
+      1,
+      1,
+      0
+    ],
+    [
+      "Metadata/Items/Scarabs/ScarabUniques2",
+      6929,
+      199,
+      626,
+      35,
+      1,
+      1,
+      0
+    ],
+    [
+      "Metadata/Items/Scarabs/ScarabUniques3",
+      6930,
+      268,
+      626,
+      36,
+      1,
+      1,
+      0
+    ],
+    [
+      "Metadata/Items/Scarabs/ScarabBeasts1",
+      6932,
+      130,
+      555,
+      37,
+      1,
+      1,
+      0
+    ],
+    [
+      "Metadata/Items/Scarabs/ScarabBeasts2",
+      6933,
+      199,
+      555,
+      38,
+      1,
+      1,
+      0
+    ],
+    [
+      "Metadata/Items/Scarabs/ScarabBeasts3",
+      6934,
+      268,
+      555,
+      39,
+      1,
+      1,
+      0
+    ],
+    [
+      "Metadata/Items/Scarabs/ScarabShaperRares1",
+      6940,
+      377,
+      626,
+      40,
+      1,
+      1,
+      0
+    ],
+    [
+      "Metadata/Items/Scarabs/ScarabShaperRares2",
+      6941,
+      445,
+      626,
+      41,
+      1,
+      1,
+      0
+    ],
+    [
+      "Metadata/Items/Scarabs/ScarabShaperRares3",
+      6942,
+      514,
+      626,
+      42,
+      1,
+      1,
+      0
+    ],
+    [
+      "Metadata/Items/Scarabs/ScarabElderRares1",
+      6944,
+      618,
+      626,
+      43,
+      1,
+      1,
+      0
+    ],
+    [
+      "Metadata/Items/Scarabs/ScarabElderRares2",
+      6945,
+      687,
+      626,
+      44,
+      1,
+      1,
+      0
+    ],
+    [
+      "Metadata/Items/Scarabs/ScarabElderRares3",
+      6946,
+      757,
+      626,
+      45,
+      1,
+      1,
+      0
+    ],
+    [
+      "Metadata/Items/Scarabs/ScarabSulphite1",
+      6948,
+      130,
+      770,
+      46,
+      1,
+      1,
+      0
+    ],
+    [
+      "Metadata/Items/Scarabs/ScarabSulphite2",
+      6949,
+      199,
+      770,
+      47,
+      1,
+      1,
+      0
+    ],
+    [
+      "Metadata/Items/Scarabs/ScarabSulphite3",
+      6950,
+      268,
+      770,
+      48,
+      1,
+      1,
+      0
+    ],
+    [
+      "Metadata/Items/Scarabs/ScarabDivinationCards1",
+      6952,
+      618,
+      696,
+      49,
+      1,
+      1,
+      0
+    ],
+    [
+      "Metadata/Items/Scarabs/ScarabDivinationCards2",
+      6953,
+      687,
+      696,
+      50,
+      1,
+      1,
+      0
+    ],
+    [
+      "Metadata/Items/Scarabs/ScarabDivinationCards3",
+      6954,
+      757,
+      696,
+      51,
+      1,
+      1,
+      0
+    ],
+    [
+      "Metadata/Items/Scarabs/ScarabTorment1",
+      6956,
+      130,
+      696,
+      52,
+      1,
+      1,
+      0
+    ],
+    [
+      "Metadata/Items/Scarabs/ScarabTorment2",
+      6957,
+      199,
+      696,
+      53,
+      1,
+      1,
+      0
+    ],
+    [
+      "Metadata/Items/Scarabs/ScarabTorment3",
+      6958,
+      268,
+      696,
+      54,
+      1,
+      1,
+      0
+    ],
+    [
+      "Metadata/Items/Scarabs/ScarabStrongbox1",
+      6960,
+      377,
+      555,
+      55,
+      1,
+      1,
+      0
+    ],
+    [
+      "Metadata/Items/Scarabs/ScarabStrongbox2",
+      6961,
+      445,
+      555,
+      56,
+      1,
+      1,
+      0
+    ],
+    [
+      "Metadata/Items/Scarabs/ScarabStrongbox3",
+      6962,
+      514,
+      555,
+      57,
+      1,
+      1,
+      0
+    ],
+    [
+      "Metadata/Items/Scarabs/ScarabHarbinger1",
+      6964,
+      618,
+      555,
+      58,
+      1,
+      1,
+      0
+    ],
+    [
+      "Metadata/Items/Scarabs/ScarabHarbinger2",
+      6965,
+      687,
+      555,
+      59,
+      1,
+      1,
+      0
+    ],
+    [
+      "Metadata/Items/Scarabs/ScarabHarbinger3",
+      6966,
+      757,
+      555,
+      60,
+      1,
+      1,
+      0
+    ],
+    [
+      "Metadata/Items/Scarabs/ScarabPerandus1",
+      6968,
+      377,
+      696,
+      61,
+      1,
+      1,
+      0
+    ],
+    [
+      "Metadata/Items/Scarabs/ScarabPerandus2",
+      6969,
+      445,
+      696,
+      62,
+      1,
+      1,
+      0
+    ],
+    [
+      "Metadata/Items/Scarabs/ScarabPerandus3",
+      6970,
+      514,
+      696,
+      63,
+      1,
+      1,
+      0
+    ],
+    [
+      "Metadata/Items/MapFragments/CurrencyLegionFragmentKarui",
+      5334,
+      549,
+      254,
+      64,
+      1,
+      1,
+      0
+    ],
+    [
+      "Metadata/Items/MapFragments/CurrencyLegionFragmentMaraketh",
+      5335,
+      618,
+      254,
+      65,
+      1,
+      1,
+      0
+    ],
+    [
+      "Metadata/Items/MapFragments/CurrencyLegionFragmentEternal",
+      5336,
+      480,
+      254,
+      66,
+      1,
+      1,
+      0
+    ],
+    [
+      "Metadata/Items/MapFragments/CurrencyLegionFragmentTemplar",
+      5337,
+      687,
+      254,
+      67,
+      1,
+      1,
+      0
+    ],
+    [
+      "Metadata/Items/MapFragments/CurrencyLegionFragmentVaal",
+      5338,
+      757,
+      254,
+      68,
+      1,
+      1,
+      0
+    ],
+    [
+      "Metadata/Items/Currency/CurrencyLegionKaruiShard",
+      189,
+      549,
+      322,
+      69,
+      1,
+      1,
+      1
+    ],
+    [
+      "Metadata/Items/Currency/CurrencyLegionMarakethShard",
+      190,
+      618,
+      322,
+      70,
+      1,
+      1,
+      1
+    ],
+    [
+      "Metadata/Items/Currency/CurrencyLegionEternalEmpireShard",
+      191,
+      480,
+      322,
+      71,
+      1,
+      1,
+      1
+    ],
+    [
+      "Metadata/Items/Currency/CurrencyLegionTemplarShard",
+      192,
+      687,
+      322,
+      72,
+      1,
+      1,
+      1
+    ],
+    [
+      "Metadata/Items/Currency/CurrencyLegionVaalShard",
+      193,
+      757,
+      322,
+      73,
+      1,
+      1,
+      1
+    ],
+    [
+      "Metadata/Items/Scarabs/ScarabLegion1",
+      6972,
+      377,
+      484,
+      74,
+      1,
+      1,
+      0
+    ],
+    [
+      "Metadata/Items/Scarabs/ScarabLegion2",
+      6973,
+      445,
+      484,
+      75,
+      1,
+      1,
+      0
+    ],
+    [
+      "Metadata/Items/Scarabs/ScarabLegion3",
+      6974,
+      514,
+      484,
+      76,
+      1,
+      1,
+      0
+    ],
+    [
+      "Metadata/Items/MapFragments/CurrencyElderFragment1",
+      5303,
+      199,
+      407,
+      77,
+      1,
+      1,
+      0
+    ],
+    [
+      "Metadata/Items/MapFragments/CurrencyElderFragment2",
+      5304,
+      199,
+      475,
+      78,
+      1,
+      1,
+      0
+    ],
+    [
+      "Metadata/Items/MapFragments/CurrencyElderFragment3",
+      5305,
+      130,
+      475,
+      79,
+      1,
+      1,
+      0
+    ],
+    [
+      "Metadata/Items/MapFragments/CurrencyElderFragment4",
+      5306,
+      130,
+      407,
+      80,
+      1,
+      1,
+      0
+    ],
+    [
+      "Metadata/Items/MapFragments/CurrencyUberElderFragment1",
+      5308,
+      757,
+      407,
+      81,
+      1,
+      1,
+      0
+    ],
+    [
+      "Metadata/Items/MapFragments/CurrencyUberElderFragment2",
+      5309,
+      757,
+      475,
+      82,
+      1,
+      1,
+      0
+    ],
+    [
+      "Metadata/Items/MapFragments/CurrencyUberElderFragment3",
+      5310,
+      687,
+      475,
+      83,
+      1,
+      1,
+      0
+    ],
+    [
+      "Metadata/Items/MapFragments/CurrencyUberElderFragment4",
+      5311,
+      687,
+      407,
+      84,
+      1,
+      1,
+      0
+    ],
+    [
+      "Metadata/Items/Scarabs/ScarabMetamorph1",
+      6976,
+      377,
+      413,
+      85,
+      1,
+      1,
+      0
+    ],
+    [
+      "Metadata/Items/Scarabs/ScarabMetamorph2",
+      6977,
+      445,
+      413,
+      86,
+      1,
+      1,
+      0
+    ],
+    [
+      "Metadata/Items/Scarabs/ScarabMetamorph3",
+      6978,
+      514,
+      413,
+      87,
+      1,
+      1,
+      0
+    ]
+  ]
+}

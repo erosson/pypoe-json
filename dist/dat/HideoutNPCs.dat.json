@@ -1,1 +1,252 @@
-{"filename":"HideoutNPCs.dat","header":[{"name":"Hideout_NPCsKey","rowid":0,"type":"ulong","key":"NPCs.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Regular_NPCsKeys","rowid":1,"type":"ref|list|ulong","key":"NPCs.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"HideoutDoodadsKey","rowid":2,"type":"ulong","key":"HideoutDoodads.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"NPCMasterKey","rowid":3,"type":"int","key":"NPCMaster.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown0","rowid":4,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown1","rowid":5,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown2","rowid":6,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Key0","rowid":7,"type":"ulong","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[[175,[170],1098,0,2299,2299,287,125],[176,[178],1100,1,2299,2299,112,115],[333,[347,332],1101,2,2299,2299,606,117],[345,[24,233,344],1097,3,2299,243,910,11],[340,[335,338],1102,4,2299,2299,68,118],[343,[341],1103,5,2299,2299,592,126],[136,[114],1099,6,2299,2299,91,106],[399,[397,398],1104,13,2299,2299,372,130],[403,[400],1105,14,2299,2299,660,131],[414,[412],1106,15,2299,2299,351,105]]}
+{
+  "filename": "HideoutNPCs.dat",
+  "header": [
+    {
+      "name": "Hideout_NPCsKey",
+      "rowid": 0,
+      "type": "ulong",
+      "key": "NPCs.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Regular_NPCsKeys",
+      "rowid": 1,
+      "type": "ref|list|ulong",
+      "key": "NPCs.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "HideoutDoodadsKey",
+      "rowid": 2,
+      "type": "ulong",
+      "key": "HideoutDoodads.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "NPCMasterKey",
+      "rowid": 3,
+      "type": "int",
+      "key": "NPCMaster.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown0",
+      "rowid": 4,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown1",
+      "rowid": 5,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown2",
+      "rowid": 6,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Key0",
+      "rowid": 7,
+      "type": "ulong",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      175,
+      [
+        170
+      ],
+      1098,
+      0,
+      2299,
+      2299,
+      287,
+      125
+    ],
+    [
+      176,
+      [
+        178
+      ],
+      1100,
+      1,
+      2299,
+      2299,
+      112,
+      115
+    ],
+    [
+      333,
+      [
+        347,
+        332
+      ],
+      1101,
+      2,
+      2299,
+      2299,
+      606,
+      117
+    ],
+    [
+      345,
+      [
+        24,
+        233,
+        344
+      ],
+      1097,
+      3,
+      2299,
+      243,
+      910,
+      11
+    ],
+    [
+      340,
+      [
+        335,
+        338
+      ],
+      1102,
+      4,
+      2299,
+      2299,
+      68,
+      118
+    ],
+    [
+      343,
+      [
+        341
+      ],
+      1103,
+      5,
+      2299,
+      2299,
+      592,
+      126
+    ],
+    [
+      136,
+      [
+        114
+      ],
+      1099,
+      6,
+      2299,
+      2299,
+      91,
+      106
+    ],
+    [
+      399,
+      [
+        397,
+        398
+      ],
+      1104,
+      13,
+      2299,
+      2299,
+      372,
+      130
+    ],
+    [
+      403,
+      [
+        400
+      ],
+      1105,
+      14,
+      2299,
+      2299,
+      660,
+      131
+    ],
+    [
+      414,
+      [
+        412
+      ],
+      1106,
+      15,
+      2299,
+      2299,
+      351,
+      105
+    ]
+  ]
+}

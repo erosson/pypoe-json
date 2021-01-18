@@ -1,1 +1,103 @@
-{"filename":"VoteType.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":true,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Text","rowid":1,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"AcceptText","rowid":2,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"RejectText","rowid":3,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown0","rowid":4,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["BanditVoteInt","Se você ajudar a Alira, você receberá permanentemente:\n\n{0}\n\nVocê terá que lutar contra quaisquer membros do grupo que não quiserem se aliar a você. Se você matar a Alira, você não poderá ajudá-la.","Ajudar Alira","Matar Alira",57],["BanditVoteStr","Se você ajudar o Oak, você receberá permanentemente:\n\n{0}\n\nVocê terá que lutar contra quaisquer membros do grupo que não quiserem se aliar a você. Se você matar o Oak, você não poderá ajudá-lo.","Ajudar Oak","Matar Oak",90],["BanditVoteDex","Se você ajudar o Kraityn, você receberá permanentemente:\n\n{0}\n\nVocê terá que lutar contra quaisquer membros do grupo que não quiserem se aliar a você. Se você matar o Kraityn, você não poderá ajudá-lo.","Ajudar Kraityn","Matar Kraityn",55]]}
+{
+  "filename": "VoteType.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Text",
+      "rowid": 1,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "AcceptText",
+      "rowid": 2,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "RejectText",
+      "rowid": 3,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown0",
+      "rowid": 4,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "BanditVoteInt",
+      "Se você ajudar a Alira, você receberá permanentemente:\n\n{0}\n\nVocê terá que lutar contra quaisquer membros do grupo que não quiserem se aliar a você. Se você matar a Alira, você não poderá ajudá-la.",
+      "Ajudar Alira",
+      "Matar Alira",
+      57
+    ],
+    [
+      "BanditVoteStr",
+      "Se você ajudar o Oak, você receberá permanentemente:\n\n{0}\n\nVocê terá que lutar contra quaisquer membros do grupo que não quiserem se aliar a você. Se você matar o Oak, você não poderá ajudá-lo.",
+      "Ajudar Oak",
+      "Matar Oak",
+      90
+    ],
+    [
+      "BanditVoteDex",
+      "Se você ajudar o Kraityn, você receberá permanentemente:\n\n{0}\n\nVocê terá que lutar contra quaisquer membros do grupo que não quiserem se aliar a você. Se você matar o Kraityn, você não poderá ajudá-lo.",
+      "Ajudar Kraityn",
+      "Matar Kraityn",
+      55
+    ]
+  ]
+}

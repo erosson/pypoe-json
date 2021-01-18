@@ -1,1 +1,1291 @@
-{"filename":"BetrayalTraitorRewards.dat","header":[{"name":"BetrayalJobsKey","rowid":0,"type":"ulong","key":"BetrayalJobs.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"BetrayalTargetsKey","rowid":1,"type":"ulong","key":"BetrayalTargets.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"BetrayalRanksKey","rowid":2,"type":"ulong","key":"BetrayalRanks.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Description","rowid":3,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[[3,16,1,"Furtando Escaravelhos Metamorfos"],[3,16,2,"Furtando Escaravelhos Metamorfos"],[3,16,3,"Furtando Escaravelhos Metamorfos"],[1,16,1,"Preservando Armaduras e Acessórios Ocultos"],[1,16,2,"Preservando Armaduras e Acessórios Ocultos"],[1,16,3,"Preservando Armaduras e Acessórios Ocultos"],[2,16,1,"Contrabandeando Armas e Acessórios Ocultos"],[2,16,2,"Contrabandeando Armas e Acessórios Ocultos"],[2,16,3,"Contrabandeando Armas e Acessórios Ocultos"],[4,16,1,"Extraindo Magia Oculta"],[4,16,2,"Extraindo Magia Oculta"],[4,16,3,"Extraindo Magia Oculta"],[3,10,1,"Pilhando Escaravelhos das Fendas"],[3,10,2,"Pilhando Escaravelhos das Fendas"],[3,10,3,"Pilhando Escaravelhos das Fendas"],[1,10,1,"Aglomerando Joias Abissais"],[1,10,2,"Aglomerando Joias Abissais"],[1,10,3,"Aglomerando Joias Abissais"],[2,10,1,"Transportando Fragmentos das Fendas"],[2,10,2,"Transportando Fragmentos das Fendas"],[2,10,3,"Transportando Fragmentos das Fendas"],[4,10,1,"Enriquecendo Pedras das Fendas"],[4,10,2,"Enriquecendo Pedras das Fendas"],[4,10,3,"Enriquecendo Pedras das Fendas"],[3,15,1,"Saqueando Escaravelhos de Sulfito"],[3,15,2,"Saqueando Escaravelhos de Sulfito"],[3,15,3,"Saqueando Escaravelhos de Sulfito"],[1,15,1,"Guardando Orbes dos Emissários"],[1,15,2,"Guardando Orbes dos Emissários"],[1,15,3,"Guardando Orbes dos Emissários"],[2,15,1,"Contrabandeando Únicos Gastos pelo Tempo"],[2,15,2,"Contrabandeando Únicos Gastos pelo Tempo"],[2,15,3,"Contrabandeando Únicos Gastos pelo Tempo"],[4,15,1,"Fabricando Sextantes"],[4,15,2,"Fabricando Sextantes"],[4,15,3,"Fabricando Sextantes"],[3,2,1,"\"Reaproximando\" Escaravelhos do Relicário"],[3,2,2,"\"Reaproximando\" Escaravelhos do Relicário"],[3,2,3,"\"Reaproximando\" Escaravelhos do Relicário"],[1,2,1,"Guardando Armaduras Únicas"],[1,2,2,"Guardando Armaduras Únicas"],[1,2,3,"Guardando Armaduras Únicas"],[2,2,1,"Escoltando Armamento Único"],[2,2,2,"Escoltando Armamento Único"],[2,2,3,"Escoltando Armamento Único"],[4,2,1,"Manufaturando Únicos Falsos"],[4,2,2,"Manufaturando Únicos Falsos"],[4,2,3,"Manufaturando Únicos Falsos"],[3,11,1,"Adquirindo \"Doações\" de Escaravelhos de Adivinhação"],[3,11,2,"Adquirindo \"Doações\" de Escaravelhos de Adivinhação"],[3,11,3,"Adquirindo \"Doações\" de Escaravelhos de Adivinhação"],[1,11,1,"Amontoando Cartas de Adivinhação"],[1,11,2,"Amontoando Cartas de Adivinhação"],[1,11,3,"Amontoando Cartas de Adivinhação"],[2,11,1,"Lavando Coleções de Cartas de Adivinhação"],[2,11,2,"Lavando Coleções de Cartas de Adivinhação"],[2,11,3,"Lavando Coleções de Cartas de Adivinhação"],[4,11,1,"Testando Metamorfoses de Cartas de Adivinhação"],[4,11,2,"Testando Metamorfoses de Cartas de Adivinhação"],[4,11,3,"Testando Metamorfoses de Cartas de Adivinhação"],[3,8,1,"Arriscando com Propriedades dos Itens"],[3,8,2,"Arriscando com Propriedades dos Itens"],[3,8,3,"Arriscando com Propriedades dos Itens"],[1,8,1,"Apostando em Resultados de Itens"],[1,8,2,"Apostando em Resultados de Itens"],[1,8,3,"Apostando em Resultados de Itens"],[2,8,1,"Jogando com o Valor dos Itens"],[2,8,2,"Jogando com o Valor dos Itens"],[2,8,3,"Jogando com o Valor dos Itens"],[4,8,1,"Investigando as Chances dos Itens"],[4,8,2,"Investigando as Chances dos Itens"],[4,8,3,"Investigando as Chances dos Itens"],[3,1,1,"Roubando Escaravelhos de Cofres"],[3,1,2,"Roubando Escaravelhos de Cofres"],[3,1,3,"Roubando Escaravelhos de Cofres"],[1,1,1,"Aglomerando Cofres"],[1,1,2,"Aglomerando Cofres"],[1,1,3,"Aglomerando Cofres"],[2,1,1,"Escoltando o Transporte de Mercadorias"],[2,1,2,"Escoltando o Transporte de Mercadorias"],[2,1,3,"Escoltando o Transporte de Mercadorias"],[4,1,1,"Aperfeiçoando a Condição dos Itens"],[4,1,2,"Aperfeiçoando a Condição dos Itens"],[4,1,3,"Aperfeiçoando a Condição dos Itens"],[3,6,1,"Pilhando Bons Equipamentos de Cartografia"],[3,6,2,"Pilhando Bons Equipamentos de Cartografia"],[3,6,3,"Pilhando Bons Equipamentos de Cartografia"],[1,6,1,"Guardando Bons Equipamentos de Armadura"],[1,6,2,"Guardando Bons Equipamentos de Armadura"],[1,6,3,"Guardando Bons Equipamentos de Armadura"],[2,6,1,"Escoltando Equipamentos Pessoais de Armária"],[2,6,2,"Escoltando Equipamentos Pessoais de Armária"],[2,6,3,"Escoltando Equipamentos Pessoais de Armária"],[4,6,1,"Soprando em Vidro (Capacidade Pulmonar Incrível!)"],[4,6,2,"Soprando em Vidro (Capacidade Pulmonar Incrível!)"],[4,6,3,"Soprando em Vidro (Capacidade Pulmonar Incrível!)"],[3,9,1,"\"Encontrando\" Escaravelhos Perandus (Traidor!)"],[3,9,2,"\"Encontrando\" Escaravelhos Perandus (Traidor!)"],[3,9,3,"\"Encontrando\" Escaravelhos Perandus (Traidor!)"],[1,9,1,"Acumulando Fragmentos de Itens Monetários (Patético!)"],[1,9,2,"Acumulando Fragmentos de Itens Monetários (Patético!)"],[1,9,3,"Acumulando Fragmentos de Itens Monetários (Patético!)"],[2,9,1,"Transportando Itens Moneários Modificadores de Qualidade"],[2,9,2,"Transportando Itens Moneários Modificadores de Qualidade"],[2,9,3,"Transportando Itens Moneários Modificadores de Qualidade"],[4,9,1,"Protegendo Moedas Familiares (Tolo!)"],[4,9,2,"Protegendo Moedas Familiares (Tolo!)"],[4,9,3,"Protegendo Moedas Familiares (Tolo!)"],[3,13,1,"Passando a Mão em Escaravelhos do Ancião"],[3,13,2,"Passando a Mão em Escaravelhos do Ancião"],[3,13,3,"Passando a Mão em Escaravelhos do Ancião"],[1,13,1,"Montando Fragmentos"],[1,13,2,"Montando Fragmentos"],[1,13,3,"Montando Fragmentos"],[2,13,1,"Contrabandeando Essências"],[2,13,2,"Contrabandeando Essências"],[2,13,3,"Contrabandeando Essências"],[4,13,1,"Examinando Fósseis"],[4,13,2,"Examinando Fósseis"],[4,13,3,"Examinando Fósseis"],[3,7,1,"Reinvidicando Escaravelhos Atormentados"],[3,7,2,"Reinvidicando Escaravelhos Atormentados"],[3,7,3,"Reinvidicando Escaravelhos Atormentados"],[1,7,1,"Aglomerando Itens Monetários (Vencendo?)"],[1,7,2,"Aglomerando Itens Monetários (Vencendo?)"],[1,7,3,"Aglomerando Itens Monetários (Vencendo?)"],[2,7,1,"Realocando o Baú de Moedas de Prata"],[2,7,2,"Realocando o Baú de Moedas de Prata"],[2,7,3,"Realocando o Baú de Moedas de Prata"],[4,7,1,"Testando os Limites Implícitos dos Itens"],[4,7,2,"Testando a Capacidade de Variação dos Itens"],[4,7,3,"Imbuindo Itens Com Novas Propriedades"],[3,17,1,"Aprisionando Baús em Corpos"],[3,17,2,"Aprisionando Baús em Corpos"],[3,17,3,"Aprisionando Baús em Corpos"],[1,17,1,"Protegendo Itens de Serem Roubados (Paranóia?)"],[1,17,2,"Protegendo Itens de Serem Roubados (Paranóia?)"],[1,17,3,"Protegendo Itens de Serem Roubados (Paranóia?)"],[2,17,1,"Armando Seleções de Itens (Gosta de Engenhocas!)"],[2,17,2,"Armando Seleções de Itens (Gosta de Engenhocas!)"],[2,17,3,"Armando Seleções de Itens (Gosta de Engenhocas!)"],[4,17,1,"Criando Enigmas de Itens"],[4,17,2,"Criando Enigmas de Itens"],[4,17,3,"Criando Enigmas de Itens"],[3,14,1,"Limpando Escaravelhos de Cartografia"],[3,14,2,"Limpando Escaravelhos de Cartografia"],[3,14,3,"Limpando Escaravelhos de Cartografia"],[1,14,1,"Protegendo Mapas Raros"],[1,14,2,"Protegendo Mapas Raros"],[1,14,3,"Protegendo Mapas Raros"],[2,14,1,"Guiando Mapas Entre Localidades"],[2,14,2,"Guiando Mapas Entre Localidades"],[2,14,3,"Guiando Mapas Entre Localidades"],[4,14,1,"Catalogando Mapas Únicos"],[4,14,2,"Catalogando Mapas Únicos"],[4,14,3,"Catalogando Mapas Únicos"],[3,12,1,"Confiscando Escaravelhos do Bestiário"],[3,12,2,"Confiscando Escaravelhos do Bestiário"],[3,12,3,"Confiscando Escaravelhos do Bestiário"],[1,12,1,"Canalizando os Primeiros Seres"],[1,12,2,"Canalizando os Primeiros Seres"],[1,12,3,"Canalizando os Primeiros Seres"],[2,12,1,"Carregando Talismãs em Peregrinação"],[2,12,2,"Carregando Talismãs em Peregrinação"],[2,12,3,"Carregando Talismãs em Peregrinação"],[4,12,1,"Imbuindo Amuletos com Poder Talismânico"],[4,12,2,"Imbuindo Amuletos com Poder Talismânico"],[4,12,3,"Imbuindo Amuletos com Poder Talismânico"],[3,3,1,"Caçando Escaravelhos de Emissários"],[3,3,2,"Caçando Escaravelhos de Emissários"],[3,3,3,"Caçando Escaravelhos de Emissários"],[1,3,1,"Encantando Luvas"],[1,3,2,"Encantando Botas"],[1,3,3,"Encantando Elmos"],[2,3,1,"Criando Armadilhas de Itens Temporizadas (Cuidado!)"],[2,3,2,"Criando Armadilhas de Itens Temporizadas (Cuidado!)"],[2,3,3,"Criando Armadilhas de Itens Temporizadas (Cuidado!)"],[4,3,1,"Expondo Gemas ao Combate"],[4,3,2,"Expondo Gemas ao Combate"],[4,3,3,"Expondo Gemas ao Combate"],[3,4,1,"Roubando Seletivamente Escaravelhos Legion"],[3,4,2,"Roubando Seletivamente Escaravelhos Legion"],[3,4,3,"Roubando Seletivamente Escaravelhos Legion"],[1,4,1,"Patrulhando Provisões Legion"],[1,4,2,"Patrulhando Provisões Legion"],[1,4,3,"Patrulhando Provisões Legion"],[2,4,1,"Realocando Fragmentos Atemporais"],[2,4,2,"Realocando Fragmentos Atemporais"],[2,4,3,"Realocando Fragmentos Atemporais"],[4,4,1,"Acumulando Incubadores"],[4,4,2,"Acumulando Incubadores"],[4,4,3,"Acumulando Incubadores"],[3,5,1,"Roubando Escaravelhos do Criador"],[3,5,2,"Roubando Escaravelhos do Criador"],[3,5,3,"Roubando Escaravelhos do Criador"],[1,5,1,"Arrumando os Orbes Modificadores de Encaixes"],[1,5,2,"Arrumando os Orbes Modificadores de Encaixes"],[1,5,3,"Arrumando os Orbes Modificadores de Encaixes"],[2,5,1,"Contrabandeando Gemas de Alta Qualidade"],[2,5,2,"Contrabandeando Gemas de Alta Qualidade"],[2,5,3,"Contrabandeando Gemas de Alta Qualidade"],[4,5,1,"Forjando Encaixes Agnósticos de Gemas"],[4,5,2,"Forjando Encaixes Agnósticos de Gemas"],[4,5,3,"Forjando Encaixes Agnósticos de Gemas"]]}
+{
+  "filename": "BetrayalTraitorRewards.dat",
+  "header": [
+    {
+      "name": "BetrayalJobsKey",
+      "rowid": 0,
+      "type": "ulong",
+      "key": "BetrayalJobs.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "BetrayalTargetsKey",
+      "rowid": 1,
+      "type": "ulong",
+      "key": "BetrayalTargets.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "BetrayalRanksKey",
+      "rowid": 2,
+      "type": "ulong",
+      "key": "BetrayalRanks.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Description",
+      "rowid": 3,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      3,
+      16,
+      1,
+      "Furtando Escaravelhos Metamorfos"
+    ],
+    [
+      3,
+      16,
+      2,
+      "Furtando Escaravelhos Metamorfos"
+    ],
+    [
+      3,
+      16,
+      3,
+      "Furtando Escaravelhos Metamorfos"
+    ],
+    [
+      1,
+      16,
+      1,
+      "Preservando Armaduras e Acessórios Ocultos"
+    ],
+    [
+      1,
+      16,
+      2,
+      "Preservando Armaduras e Acessórios Ocultos"
+    ],
+    [
+      1,
+      16,
+      3,
+      "Preservando Armaduras e Acessórios Ocultos"
+    ],
+    [
+      2,
+      16,
+      1,
+      "Contrabandeando Armas e Acessórios Ocultos"
+    ],
+    [
+      2,
+      16,
+      2,
+      "Contrabandeando Armas e Acessórios Ocultos"
+    ],
+    [
+      2,
+      16,
+      3,
+      "Contrabandeando Armas e Acessórios Ocultos"
+    ],
+    [
+      4,
+      16,
+      1,
+      "Extraindo Magia Oculta"
+    ],
+    [
+      4,
+      16,
+      2,
+      "Extraindo Magia Oculta"
+    ],
+    [
+      4,
+      16,
+      3,
+      "Extraindo Magia Oculta"
+    ],
+    [
+      3,
+      10,
+      1,
+      "Pilhando Escaravelhos das Fendas"
+    ],
+    [
+      3,
+      10,
+      2,
+      "Pilhando Escaravelhos das Fendas"
+    ],
+    [
+      3,
+      10,
+      3,
+      "Pilhando Escaravelhos das Fendas"
+    ],
+    [
+      1,
+      10,
+      1,
+      "Aglomerando Joias Abissais"
+    ],
+    [
+      1,
+      10,
+      2,
+      "Aglomerando Joias Abissais"
+    ],
+    [
+      1,
+      10,
+      3,
+      "Aglomerando Joias Abissais"
+    ],
+    [
+      2,
+      10,
+      1,
+      "Transportando Fragmentos das Fendas"
+    ],
+    [
+      2,
+      10,
+      2,
+      "Transportando Fragmentos das Fendas"
+    ],
+    [
+      2,
+      10,
+      3,
+      "Transportando Fragmentos das Fendas"
+    ],
+    [
+      4,
+      10,
+      1,
+      "Enriquecendo Pedras das Fendas"
+    ],
+    [
+      4,
+      10,
+      2,
+      "Enriquecendo Pedras das Fendas"
+    ],
+    [
+      4,
+      10,
+      3,
+      "Enriquecendo Pedras das Fendas"
+    ],
+    [
+      3,
+      15,
+      1,
+      "Saqueando Escaravelhos de Sulfito"
+    ],
+    [
+      3,
+      15,
+      2,
+      "Saqueando Escaravelhos de Sulfito"
+    ],
+    [
+      3,
+      15,
+      3,
+      "Saqueando Escaravelhos de Sulfito"
+    ],
+    [
+      1,
+      15,
+      1,
+      "Guardando Orbes dos Emissários"
+    ],
+    [
+      1,
+      15,
+      2,
+      "Guardando Orbes dos Emissários"
+    ],
+    [
+      1,
+      15,
+      3,
+      "Guardando Orbes dos Emissários"
+    ],
+    [
+      2,
+      15,
+      1,
+      "Contrabandeando Únicos Gastos pelo Tempo"
+    ],
+    [
+      2,
+      15,
+      2,
+      "Contrabandeando Únicos Gastos pelo Tempo"
+    ],
+    [
+      2,
+      15,
+      3,
+      "Contrabandeando Únicos Gastos pelo Tempo"
+    ],
+    [
+      4,
+      15,
+      1,
+      "Fabricando Sextantes"
+    ],
+    [
+      4,
+      15,
+      2,
+      "Fabricando Sextantes"
+    ],
+    [
+      4,
+      15,
+      3,
+      "Fabricando Sextantes"
+    ],
+    [
+      3,
+      2,
+      1,
+      "\"Reaproximando\" Escaravelhos do Relicário"
+    ],
+    [
+      3,
+      2,
+      2,
+      "\"Reaproximando\" Escaravelhos do Relicário"
+    ],
+    [
+      3,
+      2,
+      3,
+      "\"Reaproximando\" Escaravelhos do Relicário"
+    ],
+    [
+      1,
+      2,
+      1,
+      "Guardando Armaduras Únicas"
+    ],
+    [
+      1,
+      2,
+      2,
+      "Guardando Armaduras Únicas"
+    ],
+    [
+      1,
+      2,
+      3,
+      "Guardando Armaduras Únicas"
+    ],
+    [
+      2,
+      2,
+      1,
+      "Escoltando Armamento Único"
+    ],
+    [
+      2,
+      2,
+      2,
+      "Escoltando Armamento Único"
+    ],
+    [
+      2,
+      2,
+      3,
+      "Escoltando Armamento Único"
+    ],
+    [
+      4,
+      2,
+      1,
+      "Manufaturando Únicos Falsos"
+    ],
+    [
+      4,
+      2,
+      2,
+      "Manufaturando Únicos Falsos"
+    ],
+    [
+      4,
+      2,
+      3,
+      "Manufaturando Únicos Falsos"
+    ],
+    [
+      3,
+      11,
+      1,
+      "Adquirindo \"Doações\" de Escaravelhos de Adivinhação"
+    ],
+    [
+      3,
+      11,
+      2,
+      "Adquirindo \"Doações\" de Escaravelhos de Adivinhação"
+    ],
+    [
+      3,
+      11,
+      3,
+      "Adquirindo \"Doações\" de Escaravelhos de Adivinhação"
+    ],
+    [
+      1,
+      11,
+      1,
+      "Amontoando Cartas de Adivinhação"
+    ],
+    [
+      1,
+      11,
+      2,
+      "Amontoando Cartas de Adivinhação"
+    ],
+    [
+      1,
+      11,
+      3,
+      "Amontoando Cartas de Adivinhação"
+    ],
+    [
+      2,
+      11,
+      1,
+      "Lavando Coleções de Cartas de Adivinhação"
+    ],
+    [
+      2,
+      11,
+      2,
+      "Lavando Coleções de Cartas de Adivinhação"
+    ],
+    [
+      2,
+      11,
+      3,
+      "Lavando Coleções de Cartas de Adivinhação"
+    ],
+    [
+      4,
+      11,
+      1,
+      "Testando Metamorfoses de Cartas de Adivinhação"
+    ],
+    [
+      4,
+      11,
+      2,
+      "Testando Metamorfoses de Cartas de Adivinhação"
+    ],
+    [
+      4,
+      11,
+      3,
+      "Testando Metamorfoses de Cartas de Adivinhação"
+    ],
+    [
+      3,
+      8,
+      1,
+      "Arriscando com Propriedades dos Itens"
+    ],
+    [
+      3,
+      8,
+      2,
+      "Arriscando com Propriedades dos Itens"
+    ],
+    [
+      3,
+      8,
+      3,
+      "Arriscando com Propriedades dos Itens"
+    ],
+    [
+      1,
+      8,
+      1,
+      "Apostando em Resultados de Itens"
+    ],
+    [
+      1,
+      8,
+      2,
+      "Apostando em Resultados de Itens"
+    ],
+    [
+      1,
+      8,
+      3,
+      "Apostando em Resultados de Itens"
+    ],
+    [
+      2,
+      8,
+      1,
+      "Jogando com o Valor dos Itens"
+    ],
+    [
+      2,
+      8,
+      2,
+      "Jogando com o Valor dos Itens"
+    ],
+    [
+      2,
+      8,
+      3,
+      "Jogando com o Valor dos Itens"
+    ],
+    [
+      4,
+      8,
+      1,
+      "Investigando as Chances dos Itens"
+    ],
+    [
+      4,
+      8,
+      2,
+      "Investigando as Chances dos Itens"
+    ],
+    [
+      4,
+      8,
+      3,
+      "Investigando as Chances dos Itens"
+    ],
+    [
+      3,
+      1,
+      1,
+      "Roubando Escaravelhos de Cofres"
+    ],
+    [
+      3,
+      1,
+      2,
+      "Roubando Escaravelhos de Cofres"
+    ],
+    [
+      3,
+      1,
+      3,
+      "Roubando Escaravelhos de Cofres"
+    ],
+    [
+      1,
+      1,
+      1,
+      "Aglomerando Cofres"
+    ],
+    [
+      1,
+      1,
+      2,
+      "Aglomerando Cofres"
+    ],
+    [
+      1,
+      1,
+      3,
+      "Aglomerando Cofres"
+    ],
+    [
+      2,
+      1,
+      1,
+      "Escoltando o Transporte de Mercadorias"
+    ],
+    [
+      2,
+      1,
+      2,
+      "Escoltando o Transporte de Mercadorias"
+    ],
+    [
+      2,
+      1,
+      3,
+      "Escoltando o Transporte de Mercadorias"
+    ],
+    [
+      4,
+      1,
+      1,
+      "Aperfeiçoando a Condição dos Itens"
+    ],
+    [
+      4,
+      1,
+      2,
+      "Aperfeiçoando a Condição dos Itens"
+    ],
+    [
+      4,
+      1,
+      3,
+      "Aperfeiçoando a Condição dos Itens"
+    ],
+    [
+      3,
+      6,
+      1,
+      "Pilhando Bons Equipamentos de Cartografia"
+    ],
+    [
+      3,
+      6,
+      2,
+      "Pilhando Bons Equipamentos de Cartografia"
+    ],
+    [
+      3,
+      6,
+      3,
+      "Pilhando Bons Equipamentos de Cartografia"
+    ],
+    [
+      1,
+      6,
+      1,
+      "Guardando Bons Equipamentos de Armadura"
+    ],
+    [
+      1,
+      6,
+      2,
+      "Guardando Bons Equipamentos de Armadura"
+    ],
+    [
+      1,
+      6,
+      3,
+      "Guardando Bons Equipamentos de Armadura"
+    ],
+    [
+      2,
+      6,
+      1,
+      "Escoltando Equipamentos Pessoais de Armária"
+    ],
+    [
+      2,
+      6,
+      2,
+      "Escoltando Equipamentos Pessoais de Armária"
+    ],
+    [
+      2,
+      6,
+      3,
+      "Escoltando Equipamentos Pessoais de Armária"
+    ],
+    [
+      4,
+      6,
+      1,
+      "Soprando em Vidro (Capacidade Pulmonar Incrível!)"
+    ],
+    [
+      4,
+      6,
+      2,
+      "Soprando em Vidro (Capacidade Pulmonar Incrível!)"
+    ],
+    [
+      4,
+      6,
+      3,
+      "Soprando em Vidro (Capacidade Pulmonar Incrível!)"
+    ],
+    [
+      3,
+      9,
+      1,
+      "\"Encontrando\" Escaravelhos Perandus (Traidor!)"
+    ],
+    [
+      3,
+      9,
+      2,
+      "\"Encontrando\" Escaravelhos Perandus (Traidor!)"
+    ],
+    [
+      3,
+      9,
+      3,
+      "\"Encontrando\" Escaravelhos Perandus (Traidor!)"
+    ],
+    [
+      1,
+      9,
+      1,
+      "Acumulando Fragmentos de Itens Monetários (Patético!)"
+    ],
+    [
+      1,
+      9,
+      2,
+      "Acumulando Fragmentos de Itens Monetários (Patético!)"
+    ],
+    [
+      1,
+      9,
+      3,
+      "Acumulando Fragmentos de Itens Monetários (Patético!)"
+    ],
+    [
+      2,
+      9,
+      1,
+      "Transportando Itens Moneários Modificadores de Qualidade"
+    ],
+    [
+      2,
+      9,
+      2,
+      "Transportando Itens Moneários Modificadores de Qualidade"
+    ],
+    [
+      2,
+      9,
+      3,
+      "Transportando Itens Moneários Modificadores de Qualidade"
+    ],
+    [
+      4,
+      9,
+      1,
+      "Protegendo Moedas Familiares (Tolo!)"
+    ],
+    [
+      4,
+      9,
+      2,
+      "Protegendo Moedas Familiares (Tolo!)"
+    ],
+    [
+      4,
+      9,
+      3,
+      "Protegendo Moedas Familiares (Tolo!)"
+    ],
+    [
+      3,
+      13,
+      1,
+      "Passando a Mão em Escaravelhos do Ancião"
+    ],
+    [
+      3,
+      13,
+      2,
+      "Passando a Mão em Escaravelhos do Ancião"
+    ],
+    [
+      3,
+      13,
+      3,
+      "Passando a Mão em Escaravelhos do Ancião"
+    ],
+    [
+      1,
+      13,
+      1,
+      "Montando Fragmentos"
+    ],
+    [
+      1,
+      13,
+      2,
+      "Montando Fragmentos"
+    ],
+    [
+      1,
+      13,
+      3,
+      "Montando Fragmentos"
+    ],
+    [
+      2,
+      13,
+      1,
+      "Contrabandeando Essências"
+    ],
+    [
+      2,
+      13,
+      2,
+      "Contrabandeando Essências"
+    ],
+    [
+      2,
+      13,
+      3,
+      "Contrabandeando Essências"
+    ],
+    [
+      4,
+      13,
+      1,
+      "Examinando Fósseis"
+    ],
+    [
+      4,
+      13,
+      2,
+      "Examinando Fósseis"
+    ],
+    [
+      4,
+      13,
+      3,
+      "Examinando Fósseis"
+    ],
+    [
+      3,
+      7,
+      1,
+      "Reinvidicando Escaravelhos Atormentados"
+    ],
+    [
+      3,
+      7,
+      2,
+      "Reinvidicando Escaravelhos Atormentados"
+    ],
+    [
+      3,
+      7,
+      3,
+      "Reinvidicando Escaravelhos Atormentados"
+    ],
+    [
+      1,
+      7,
+      1,
+      "Aglomerando Itens Monetários (Vencendo?)"
+    ],
+    [
+      1,
+      7,
+      2,
+      "Aglomerando Itens Monetários (Vencendo?)"
+    ],
+    [
+      1,
+      7,
+      3,
+      "Aglomerando Itens Monetários (Vencendo?)"
+    ],
+    [
+      2,
+      7,
+      1,
+      "Realocando o Baú de Moedas de Prata"
+    ],
+    [
+      2,
+      7,
+      2,
+      "Realocando o Baú de Moedas de Prata"
+    ],
+    [
+      2,
+      7,
+      3,
+      "Realocando o Baú de Moedas de Prata"
+    ],
+    [
+      4,
+      7,
+      1,
+      "Testando os Limites Implícitos dos Itens"
+    ],
+    [
+      4,
+      7,
+      2,
+      "Testando a Capacidade de Variação dos Itens"
+    ],
+    [
+      4,
+      7,
+      3,
+      "Imbuindo Itens Com Novas Propriedades"
+    ],
+    [
+      3,
+      17,
+      1,
+      "Aprisionando Baús em Corpos"
+    ],
+    [
+      3,
+      17,
+      2,
+      "Aprisionando Baús em Corpos"
+    ],
+    [
+      3,
+      17,
+      3,
+      "Aprisionando Baús em Corpos"
+    ],
+    [
+      1,
+      17,
+      1,
+      "Protegendo Itens de Serem Roubados (Paranóia?)"
+    ],
+    [
+      1,
+      17,
+      2,
+      "Protegendo Itens de Serem Roubados (Paranóia?)"
+    ],
+    [
+      1,
+      17,
+      3,
+      "Protegendo Itens de Serem Roubados (Paranóia?)"
+    ],
+    [
+      2,
+      17,
+      1,
+      "Armando Seleções de Itens (Gosta de Engenhocas!)"
+    ],
+    [
+      2,
+      17,
+      2,
+      "Armando Seleções de Itens (Gosta de Engenhocas!)"
+    ],
+    [
+      2,
+      17,
+      3,
+      "Armando Seleções de Itens (Gosta de Engenhocas!)"
+    ],
+    [
+      4,
+      17,
+      1,
+      "Criando Enigmas de Itens"
+    ],
+    [
+      4,
+      17,
+      2,
+      "Criando Enigmas de Itens"
+    ],
+    [
+      4,
+      17,
+      3,
+      "Criando Enigmas de Itens"
+    ],
+    [
+      3,
+      14,
+      1,
+      "Limpando Escaravelhos de Cartografia"
+    ],
+    [
+      3,
+      14,
+      2,
+      "Limpando Escaravelhos de Cartografia"
+    ],
+    [
+      3,
+      14,
+      3,
+      "Limpando Escaravelhos de Cartografia"
+    ],
+    [
+      1,
+      14,
+      1,
+      "Protegendo Mapas Raros"
+    ],
+    [
+      1,
+      14,
+      2,
+      "Protegendo Mapas Raros"
+    ],
+    [
+      1,
+      14,
+      3,
+      "Protegendo Mapas Raros"
+    ],
+    [
+      2,
+      14,
+      1,
+      "Guiando Mapas Entre Localidades"
+    ],
+    [
+      2,
+      14,
+      2,
+      "Guiando Mapas Entre Localidades"
+    ],
+    [
+      2,
+      14,
+      3,
+      "Guiando Mapas Entre Localidades"
+    ],
+    [
+      4,
+      14,
+      1,
+      "Catalogando Mapas Únicos"
+    ],
+    [
+      4,
+      14,
+      2,
+      "Catalogando Mapas Únicos"
+    ],
+    [
+      4,
+      14,
+      3,
+      "Catalogando Mapas Únicos"
+    ],
+    [
+      3,
+      12,
+      1,
+      "Confiscando Escaravelhos do Bestiário"
+    ],
+    [
+      3,
+      12,
+      2,
+      "Confiscando Escaravelhos do Bestiário"
+    ],
+    [
+      3,
+      12,
+      3,
+      "Confiscando Escaravelhos do Bestiário"
+    ],
+    [
+      1,
+      12,
+      1,
+      "Canalizando os Primeiros Seres"
+    ],
+    [
+      1,
+      12,
+      2,
+      "Canalizando os Primeiros Seres"
+    ],
+    [
+      1,
+      12,
+      3,
+      "Canalizando os Primeiros Seres"
+    ],
+    [
+      2,
+      12,
+      1,
+      "Carregando Talismãs em Peregrinação"
+    ],
+    [
+      2,
+      12,
+      2,
+      "Carregando Talismãs em Peregrinação"
+    ],
+    [
+      2,
+      12,
+      3,
+      "Carregando Talismãs em Peregrinação"
+    ],
+    [
+      4,
+      12,
+      1,
+      "Imbuindo Amuletos com Poder Talismânico"
+    ],
+    [
+      4,
+      12,
+      2,
+      "Imbuindo Amuletos com Poder Talismânico"
+    ],
+    [
+      4,
+      12,
+      3,
+      "Imbuindo Amuletos com Poder Talismânico"
+    ],
+    [
+      3,
+      3,
+      1,
+      "Caçando Escaravelhos de Emissários"
+    ],
+    [
+      3,
+      3,
+      2,
+      "Caçando Escaravelhos de Emissários"
+    ],
+    [
+      3,
+      3,
+      3,
+      "Caçando Escaravelhos de Emissários"
+    ],
+    [
+      1,
+      3,
+      1,
+      "Encantando Luvas"
+    ],
+    [
+      1,
+      3,
+      2,
+      "Encantando Botas"
+    ],
+    [
+      1,
+      3,
+      3,
+      "Encantando Elmos"
+    ],
+    [
+      2,
+      3,
+      1,
+      "Criando Armadilhas de Itens Temporizadas (Cuidado!)"
+    ],
+    [
+      2,
+      3,
+      2,
+      "Criando Armadilhas de Itens Temporizadas (Cuidado!)"
+    ],
+    [
+      2,
+      3,
+      3,
+      "Criando Armadilhas de Itens Temporizadas (Cuidado!)"
+    ],
+    [
+      4,
+      3,
+      1,
+      "Expondo Gemas ao Combate"
+    ],
+    [
+      4,
+      3,
+      2,
+      "Expondo Gemas ao Combate"
+    ],
+    [
+      4,
+      3,
+      3,
+      "Expondo Gemas ao Combate"
+    ],
+    [
+      3,
+      4,
+      1,
+      "Roubando Seletivamente Escaravelhos Legion"
+    ],
+    [
+      3,
+      4,
+      2,
+      "Roubando Seletivamente Escaravelhos Legion"
+    ],
+    [
+      3,
+      4,
+      3,
+      "Roubando Seletivamente Escaravelhos Legion"
+    ],
+    [
+      1,
+      4,
+      1,
+      "Patrulhando Provisões Legion"
+    ],
+    [
+      1,
+      4,
+      2,
+      "Patrulhando Provisões Legion"
+    ],
+    [
+      1,
+      4,
+      3,
+      "Patrulhando Provisões Legion"
+    ],
+    [
+      2,
+      4,
+      1,
+      "Realocando Fragmentos Atemporais"
+    ],
+    [
+      2,
+      4,
+      2,
+      "Realocando Fragmentos Atemporais"
+    ],
+    [
+      2,
+      4,
+      3,
+      "Realocando Fragmentos Atemporais"
+    ],
+    [
+      4,
+      4,
+      1,
+      "Acumulando Incubadores"
+    ],
+    [
+      4,
+      4,
+      2,
+      "Acumulando Incubadores"
+    ],
+    [
+      4,
+      4,
+      3,
+      "Acumulando Incubadores"
+    ],
+    [
+      3,
+      5,
+      1,
+      "Roubando Escaravelhos do Criador"
+    ],
+    [
+      3,
+      5,
+      2,
+      "Roubando Escaravelhos do Criador"
+    ],
+    [
+      3,
+      5,
+      3,
+      "Roubando Escaravelhos do Criador"
+    ],
+    [
+      1,
+      5,
+      1,
+      "Arrumando os Orbes Modificadores de Encaixes"
+    ],
+    [
+      1,
+      5,
+      2,
+      "Arrumando os Orbes Modificadores de Encaixes"
+    ],
+    [
+      1,
+      5,
+      3,
+      "Arrumando os Orbes Modificadores de Encaixes"
+    ],
+    [
+      2,
+      5,
+      1,
+      "Contrabandeando Gemas de Alta Qualidade"
+    ],
+    [
+      2,
+      5,
+      2,
+      "Contrabandeando Gemas de Alta Qualidade"
+    ],
+    [
+      2,
+      5,
+      3,
+      "Contrabandeando Gemas de Alta Qualidade"
+    ],
+    [
+      4,
+      5,
+      1,
+      "Forjando Encaixes Agnósticos de Gemas"
+    ],
+    [
+      4,
+      5,
+      2,
+      "Forjando Encaixes Agnósticos de Gemas"
+    ],
+    [
+      4,
+      5,
+      3,
+      "Forjando Encaixes Agnósticos de Gemas"
+    ]
+  ]
+}

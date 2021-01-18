@@ -1,1 +1,985 @@
-{"filename":"BetrayalUpgrades.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":true,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Name","rowid":1,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Description","rowid":2,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"ModsKey","rowid":3,"type":"ref|list|ulong","key":"Mods.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"ArtFile","rowid":4,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":true,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"BetrayalUpgradeSlotsKey","rowid":5,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":"BETRAYAL_UPGRADE_SLOTS","unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown7","rowid":6,"type":"ref|list|int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"ItemVisualIdentityKey0","rowid":7,"type":"ulong","key":"ItemVisualIdentity.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"ItemVisualIdentityKey1","rowid":8,"type":"ulong","key":"ItemVisualIdentity.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Key2","rowid":9,"type":"ulong","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown11","rowid":10,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Key3","rowid":11,"type":"ulong","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["NoItem","ไม่มี","",[],"",5,[],null,null,null,0,null],["Boots1","Korim's Journey","เพิ่มความเร็วในการเคลื่อนที่",[15640],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/KorimsJourney",1,[],null,null,null,1,null],["Boots2","Azal's Alacrium","ความเร็วในการโจมตี",[15641],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/AzalsAlacrium",1,[],null,null,null,1,null],["Boots3","Harimal's Invasion","ได้รับ Onslaught เมื่อปะทะ",[15642],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/HarimalsInvasion",1,[],null,null,null,1,null],["Boots4","Urdamel's Age","เพิ่มพลังชีวิต",[15643],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/UrdamelsAge",1,[],null,null,null,1,null],["Boots5","Tau Poh's Toes","ความเร็วในการร่าย",[15644],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/TauPohsToes",1,[],null,null,null,1,null],["Boots6","Lorag's Firestarter","เสริมไฟจากกายภาพ และ ทำให้ลุกไหม้",[15645],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/LoragsFirestarter",1,[],null,null,null,1,null],["Boots7","Tekiton's Heel","โอกาสมึนงง",[15646],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/TekitonsHeel",1,[],null,null,null,1,null],["Boots8","Elgan's Crossing","ไม่สามารถถูกทำให้ช้ากว่าค่าเริ่มต้นได้",[15647],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/ElgansCrossing",1,[],null,null,null,1,null],["Boots9","Bu's Green Path","โอกาสติดพิษ",[15648],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/BusGreenPath",1,[],null,null,null,1,null],["Boots10","Cantar's Tangle","ระเบิดศพเป็นสายธาร",[15649],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/CantarsTangle",1,[],null,null,null,1,null],["HelmetAttachment1","Raust's Blessings","โล่พลังงานเพิ่มเติม",[15650],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/RaustsBlessings",0,[],null,null,null,1,null],["HelmetAttachment2","Gogori's Army","โอกาสเลือดไหล",[15651],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/GogorisArmy",0,[],null,null,null,1,null],["HelmetAttachment3","Urdamel's Madness","สร้าง Unholy Sentinels",[15652],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/UrdamelsMadness",0,[],null,null,null,1,null],["HelmetAttachment4","Silas' Spires","พื้นที่ส่งผล",[15653],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/SilasSpires",0,[],null,null,null,1,null],["HelmetAttachment5","Lorag's Dream","ต้านสาป",[15654],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/LoragsDream",0,[],null,null,null,1,null],["HelmetAttachment6","Azal's Eye","เสริมนำแข็งจากกายภาพ และ ทำให้หนาวเย็น",[15655],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/AzalsEye",0,[],null,null,null,1,null],["HelmetAttachment7","Moknuma's Watch","คริติคอล และ แม่นยำ",[15656],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/MoknumasWatch",0,[],null,null,null,1,null],["HelmetAttachment8","Bu's Delight","ดูดกลืนศพเพื่อพลังชีวิต",[15657],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/BusDelight",0,[],null,null,null,1,null],["HelmetAttachment9","Harimal's Wall","ได้รับ Summon Petrify Statue",[15658],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/HarimalsWall",0,[],null,null,null,1,null],["HelmetAttachment10","Sen-Kin's Descent","ไม่โดนดูดพลัง",[15659],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/SenKinsDescent",0,[],null,null,null,1,null],["BackAttachment1","Akanilim's Hide","ต้านทาน ไฟ",[15660],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/AkanilimsHide",3,[],null,null,null,1,null],["BackAttachment2","Shiaphet's Pall","ต้านทาน ไฟฟ้า",[15661],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/ShiaphetsPall",3,[],null,null,null,1,null],["BackAttachment3","Xunti's Parasol","ต้านทาน น้ำแข็ง",[15662],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/XuntisParasol",3,[],null,null,null,1,null],["BackAttachment4","Tekiton's Spine","ลดความเสียหาย กายภาพ ที่ได้รับ",[15663],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/TekitonsSpine",3,[],null,null,null,1,null],["BackAttachment5","Gogori's Plague","ต้านทาน เคออส",[15664],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/GogorisPlague",3,[],null,null,null,1,null],["BackAttachment6","Harimal's Campaign","กระสุนหลายลูก",[15665],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/HarimalsCampaign",3,[],null,null,null,1,null],["BackAttachment7","Tau Poh's Banner","เลี่ยงการเจ็บป่วย",[15666],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/TauPohsBanner",3,[],null,null,null,1,null],["BackAttachment8","Bu's Bottle","สร้าง Unholy Relics",[15667],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/BusBottle",3,[],null,null,null,1,null],["BackAttachment9","Rithkin's Dance","เสริมไฟฟ้าจากกายภาพ และ ทำให้ช็อค",[15668],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/RithkinsDance",3,[],null,null,null,1,null],["BackAttachment10","Cantar's Coffin","ระเบิดศพเป็นน้ำกรด",[15669],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/CantarsCoffine",3,[],null,null,null,1,null],["TwoHandAxe1","Silas' Flattener","เพิ่มพื้นที่ส่งผล",[15653],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/SilasFlattener",4,[],9396,null,null,1,16],["TwoHandMace1","Moknuma's Storm","ทำให้ขาหัก",[15670],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/MoknumasStorm",4,[],9397,null,null,1,17],["Bow1","Gogori's Stinger","Far shot",[15671],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/GogorisStinger",4,[],null,9398,null,1,13],["Bow2","Xunti's Zither","Point blank",[15672],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/XuntisZither",4,[],null,9399,null,1,13],["Bow3","Rithkin's Burden","ได้รับ Frenzy Charge เมื่อปะทะ",[15673],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/RithkinsBurden",4,[],null,9400,null,1,13],["OneHandSword1","Sen-Kin's Haunt","โอกาสและตัวคูณคริติคอล",[15674],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/SenkinsHaunt",4,[],9401,null,null,1,9],["OneHandSword2","Akanilim's Pattern","ความเร็วในการโจมตี",[15641],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/AkanilimsPattern",4,[],9402,null,null,1,9],["OneHandSword3","Korim's Decapitator","ความเสียหายโจมตี",[15675],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/KorimsDecapitator",4,[],9403,null,null,1,9],["OneHandSword4","Shiaphet's Needle","ทิ่มแทงเมื่อปะทะ",[15676],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/ShiaphetsNeedle",4,[],9404,null,null,1,9],["OneHandMace1","Raust's Judgement","ได้รับ Endurance Charge เมื่อปะทะ",[15677],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/RaustsJudgement",4,[],9405,null,null,1,12],["OneHandMace2","Elgan's Ritual","ความเร็วในการโจมตี",[15641],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/ElgansRitual",4,[],9406,null,null,1,12],["Sceptre1","Urdamel's Tyranny","ความเสียหาย ธาตุ",[15678],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/UrdamelsTyranny",4,[],9407,null,null,1,32],["Dagger1","Tau Poh's Deception","ได้รับ Power Charge เมื่อปะทะ",[15679],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/TauPohsDeceoption",4,[],9408,null,null,1,7],["Dagger2","Bu's Blossom","ทำให้ตาบอด",[15680],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/BusBlossom",4,[],9409,null,null,1,7],["Shield1","Tekiton's Mountain","โอกาสบล็อคเพิ่มเติม",[15681],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/TekitonsMountain",4,[],null,9410,null,1,26],["Shield2","Harimal's Feint","ได้ Fortify เมื่อปะทะ",[15682],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/HarimalsFeint",4,[],null,9411,null,1,26],["Claw1","Cantar's Pack","ดูดพลังชีวิต",[15683],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/CantarsPack",4,[],9412,null,null,1,6],["Gloves1","Moknuma's Conjuring","ได้รับ Arcane Surge เมื่อปะทะ",[15684],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/MoknumasConjuring",2,[],null,null,null,1,null],["Gloves2","Azal's Manipulation","ขัดขวางเมื่อปะทะ",[15685],"Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/AzalsManipulation",2,[],null,null,null,1,null]]}
+{
+  "filename": "BetrayalUpgrades.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Name",
+      "rowid": 1,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Description",
+      "rowid": 2,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "ModsKey",
+      "rowid": 3,
+      "type": "ref|list|ulong",
+      "key": "Mods.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "ArtFile",
+      "rowid": 4,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": true,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "BetrayalUpgradeSlotsKey",
+      "rowid": 5,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": "BETRAYAL_UPGRADE_SLOTS",
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown7",
+      "rowid": 6,
+      "type": "ref|list|int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "ItemVisualIdentityKey0",
+      "rowid": 7,
+      "type": "ulong",
+      "key": "ItemVisualIdentity.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "ItemVisualIdentityKey1",
+      "rowid": 8,
+      "type": "ulong",
+      "key": "ItemVisualIdentity.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Key2",
+      "rowid": 9,
+      "type": "ulong",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown11",
+      "rowid": 10,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Key3",
+      "rowid": 11,
+      "type": "ulong",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "NoItem",
+      "ไม่มี",
+      "",
+      [],
+      "",
+      5,
+      [],
+      null,
+      null,
+      null,
+      0,
+      null
+    ],
+    [
+      "Boots1",
+      "Korim's Journey",
+      "เพิ่มความเร็วในการเคลื่อนที่",
+      [
+        15640
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/KorimsJourney",
+      1,
+      [],
+      null,
+      null,
+      null,
+      1,
+      null
+    ],
+    [
+      "Boots2",
+      "Azal's Alacrium",
+      "ความเร็วในการโจมตี",
+      [
+        15641
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/AzalsAlacrium",
+      1,
+      [],
+      null,
+      null,
+      null,
+      1,
+      null
+    ],
+    [
+      "Boots3",
+      "Harimal's Invasion",
+      "ได้รับ Onslaught เมื่อปะทะ",
+      [
+        15642
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/HarimalsInvasion",
+      1,
+      [],
+      null,
+      null,
+      null,
+      1,
+      null
+    ],
+    [
+      "Boots4",
+      "Urdamel's Age",
+      "เพิ่มพลังชีวิต",
+      [
+        15643
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/UrdamelsAge",
+      1,
+      [],
+      null,
+      null,
+      null,
+      1,
+      null
+    ],
+    [
+      "Boots5",
+      "Tau Poh's Toes",
+      "ความเร็วในการร่าย",
+      [
+        15644
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/TauPohsToes",
+      1,
+      [],
+      null,
+      null,
+      null,
+      1,
+      null
+    ],
+    [
+      "Boots6",
+      "Lorag's Firestarter",
+      "เสริมไฟจากกายภาพ และ ทำให้ลุกไหม้",
+      [
+        15645
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/LoragsFirestarter",
+      1,
+      [],
+      null,
+      null,
+      null,
+      1,
+      null
+    ],
+    [
+      "Boots7",
+      "Tekiton's Heel",
+      "โอกาสมึนงง",
+      [
+        15646
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/TekitonsHeel",
+      1,
+      [],
+      null,
+      null,
+      null,
+      1,
+      null
+    ],
+    [
+      "Boots8",
+      "Elgan's Crossing",
+      "ไม่สามารถถูกทำให้ช้ากว่าค่าเริ่มต้นได้",
+      [
+        15647
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/ElgansCrossing",
+      1,
+      [],
+      null,
+      null,
+      null,
+      1,
+      null
+    ],
+    [
+      "Boots9",
+      "Bu's Green Path",
+      "โอกาสติดพิษ",
+      [
+        15648
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/BusGreenPath",
+      1,
+      [],
+      null,
+      null,
+      null,
+      1,
+      null
+    ],
+    [
+      "Boots10",
+      "Cantar's Tangle",
+      "ระเบิดศพเป็นสายธาร",
+      [
+        15649
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/CantarsTangle",
+      1,
+      [],
+      null,
+      null,
+      null,
+      1,
+      null
+    ],
+    [
+      "HelmetAttachment1",
+      "Raust's Blessings",
+      "โล่พลังงานเพิ่มเติม",
+      [
+        15650
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/RaustsBlessings",
+      0,
+      [],
+      null,
+      null,
+      null,
+      1,
+      null
+    ],
+    [
+      "HelmetAttachment2",
+      "Gogori's Army",
+      "โอกาสเลือดไหล",
+      [
+        15651
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/GogorisArmy",
+      0,
+      [],
+      null,
+      null,
+      null,
+      1,
+      null
+    ],
+    [
+      "HelmetAttachment3",
+      "Urdamel's Madness",
+      "สร้าง Unholy Sentinels",
+      [
+        15652
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/UrdamelsMadness",
+      0,
+      [],
+      null,
+      null,
+      null,
+      1,
+      null
+    ],
+    [
+      "HelmetAttachment4",
+      "Silas' Spires",
+      "พื้นที่ส่งผล",
+      [
+        15653
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/SilasSpires",
+      0,
+      [],
+      null,
+      null,
+      null,
+      1,
+      null
+    ],
+    [
+      "HelmetAttachment5",
+      "Lorag's Dream",
+      "ต้านสาป",
+      [
+        15654
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/LoragsDream",
+      0,
+      [],
+      null,
+      null,
+      null,
+      1,
+      null
+    ],
+    [
+      "HelmetAttachment6",
+      "Azal's Eye",
+      "เสริมนำแข็งจากกายภาพ และ ทำให้หนาวเย็น",
+      [
+        15655
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/AzalsEye",
+      0,
+      [],
+      null,
+      null,
+      null,
+      1,
+      null
+    ],
+    [
+      "HelmetAttachment7",
+      "Moknuma's Watch",
+      "คริติคอล และ แม่นยำ",
+      [
+        15656
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/MoknumasWatch",
+      0,
+      [],
+      null,
+      null,
+      null,
+      1,
+      null
+    ],
+    [
+      "HelmetAttachment8",
+      "Bu's Delight",
+      "ดูดกลืนศพเพื่อพลังชีวิต",
+      [
+        15657
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/BusDelight",
+      0,
+      [],
+      null,
+      null,
+      null,
+      1,
+      null
+    ],
+    [
+      "HelmetAttachment9",
+      "Harimal's Wall",
+      "ได้รับ Summon Petrify Statue",
+      [
+        15658
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/HarimalsWall",
+      0,
+      [],
+      null,
+      null,
+      null,
+      1,
+      null
+    ],
+    [
+      "HelmetAttachment10",
+      "Sen-Kin's Descent",
+      "ไม่โดนดูดพลัง",
+      [
+        15659
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/SenKinsDescent",
+      0,
+      [],
+      null,
+      null,
+      null,
+      1,
+      null
+    ],
+    [
+      "BackAttachment1",
+      "Akanilim's Hide",
+      "ต้านทาน ไฟ",
+      [
+        15660
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/AkanilimsHide",
+      3,
+      [],
+      null,
+      null,
+      null,
+      1,
+      null
+    ],
+    [
+      "BackAttachment2",
+      "Shiaphet's Pall",
+      "ต้านทาน ไฟฟ้า",
+      [
+        15661
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/ShiaphetsPall",
+      3,
+      [],
+      null,
+      null,
+      null,
+      1,
+      null
+    ],
+    [
+      "BackAttachment3",
+      "Xunti's Parasol",
+      "ต้านทาน น้ำแข็ง",
+      [
+        15662
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/XuntisParasol",
+      3,
+      [],
+      null,
+      null,
+      null,
+      1,
+      null
+    ],
+    [
+      "BackAttachment4",
+      "Tekiton's Spine",
+      "ลดความเสียหาย กายภาพ ที่ได้รับ",
+      [
+        15663
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/TekitonsSpine",
+      3,
+      [],
+      null,
+      null,
+      null,
+      1,
+      null
+    ],
+    [
+      "BackAttachment5",
+      "Gogori's Plague",
+      "ต้านทาน เคออส",
+      [
+        15664
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/GogorisPlague",
+      3,
+      [],
+      null,
+      null,
+      null,
+      1,
+      null
+    ],
+    [
+      "BackAttachment6",
+      "Harimal's Campaign",
+      "กระสุนหลายลูก",
+      [
+        15665
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/HarimalsCampaign",
+      3,
+      [],
+      null,
+      null,
+      null,
+      1,
+      null
+    ],
+    [
+      "BackAttachment7",
+      "Tau Poh's Banner",
+      "เลี่ยงการเจ็บป่วย",
+      [
+        15666
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/TauPohsBanner",
+      3,
+      [],
+      null,
+      null,
+      null,
+      1,
+      null
+    ],
+    [
+      "BackAttachment8",
+      "Bu's Bottle",
+      "สร้าง Unholy Relics",
+      [
+        15667
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/BusBottle",
+      3,
+      [],
+      null,
+      null,
+      null,
+      1,
+      null
+    ],
+    [
+      "BackAttachment9",
+      "Rithkin's Dance",
+      "เสริมไฟฟ้าจากกายภาพ และ ทำให้ช็อค",
+      [
+        15668
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/RithkinsDance",
+      3,
+      [],
+      null,
+      null,
+      null,
+      1,
+      null
+    ],
+    [
+      "BackAttachment10",
+      "Cantar's Coffin",
+      "ระเบิดศพเป็นน้ำกรด",
+      [
+        15669
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/CantarsCoffine",
+      3,
+      [],
+      null,
+      null,
+      null,
+      1,
+      null
+    ],
+    [
+      "TwoHandAxe1",
+      "Silas' Flattener",
+      "เพิ่มพื้นที่ส่งผล",
+      [
+        15653
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/SilasFlattener",
+      4,
+      [],
+      9396,
+      null,
+      null,
+      1,
+      16
+    ],
+    [
+      "TwoHandMace1",
+      "Moknuma's Storm",
+      "ทำให้ขาหัก",
+      [
+        15670
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/MoknumasStorm",
+      4,
+      [],
+      9397,
+      null,
+      null,
+      1,
+      17
+    ],
+    [
+      "Bow1",
+      "Gogori's Stinger",
+      "Far shot",
+      [
+        15671
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/GogorisStinger",
+      4,
+      [],
+      null,
+      9398,
+      null,
+      1,
+      13
+    ],
+    [
+      "Bow2",
+      "Xunti's Zither",
+      "Point blank",
+      [
+        15672
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/XuntisZither",
+      4,
+      [],
+      null,
+      9399,
+      null,
+      1,
+      13
+    ],
+    [
+      "Bow3",
+      "Rithkin's Burden",
+      "ได้รับ Frenzy Charge เมื่อปะทะ",
+      [
+        15673
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/RithkinsBurden",
+      4,
+      [],
+      null,
+      9400,
+      null,
+      1,
+      13
+    ],
+    [
+      "OneHandSword1",
+      "Sen-Kin's Haunt",
+      "โอกาสและตัวคูณคริติคอล",
+      [
+        15674
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/SenkinsHaunt",
+      4,
+      [],
+      9401,
+      null,
+      null,
+      1,
+      9
+    ],
+    [
+      "OneHandSword2",
+      "Akanilim's Pattern",
+      "ความเร็วในการโจมตี",
+      [
+        15641
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/AkanilimsPattern",
+      4,
+      [],
+      9402,
+      null,
+      null,
+      1,
+      9
+    ],
+    [
+      "OneHandSword3",
+      "Korim's Decapitator",
+      "ความเสียหายโจมตี",
+      [
+        15675
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/KorimsDecapitator",
+      4,
+      [],
+      9403,
+      null,
+      null,
+      1,
+      9
+    ],
+    [
+      "OneHandSword4",
+      "Shiaphet's Needle",
+      "ทิ่มแทงเมื่อปะทะ",
+      [
+        15676
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/ShiaphetsNeedle",
+      4,
+      [],
+      9404,
+      null,
+      null,
+      1,
+      9
+    ],
+    [
+      "OneHandMace1",
+      "Raust's Judgement",
+      "ได้รับ Endurance Charge เมื่อปะทะ",
+      [
+        15677
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/RaustsJudgement",
+      4,
+      [],
+      9405,
+      null,
+      null,
+      1,
+      12
+    ],
+    [
+      "OneHandMace2",
+      "Elgan's Ritual",
+      "ความเร็วในการโจมตี",
+      [
+        15641
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/ElgansRitual",
+      4,
+      [],
+      9406,
+      null,
+      null,
+      1,
+      12
+    ],
+    [
+      "Sceptre1",
+      "Urdamel's Tyranny",
+      "ความเสียหาย ธาตุ",
+      [
+        15678
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/UrdamelsTyranny",
+      4,
+      [],
+      9407,
+      null,
+      null,
+      1,
+      32
+    ],
+    [
+      "Dagger1",
+      "Tau Poh's Deception",
+      "ได้รับ Power Charge เมื่อปะทะ",
+      [
+        15679
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/TauPohsDeceoption",
+      4,
+      [],
+      9408,
+      null,
+      null,
+      1,
+      7
+    ],
+    [
+      "Dagger2",
+      "Bu's Blossom",
+      "ทำให้ตาบอด",
+      [
+        15680
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/BusBlossom",
+      4,
+      [],
+      9409,
+      null,
+      null,
+      1,
+      7
+    ],
+    [
+      "Shield1",
+      "Tekiton's Mountain",
+      "โอกาสบล็อคเพิ่มเติม",
+      [
+        15681
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/TekitonsMountain",
+      4,
+      [],
+      null,
+      9410,
+      null,
+      1,
+      26
+    ],
+    [
+      "Shield2",
+      "Harimal's Feint",
+      "ได้ Fortify เมื่อปะทะ",
+      [
+        15682
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/HarimalsFeint",
+      4,
+      [],
+      null,
+      9411,
+      null,
+      1,
+      26
+    ],
+    [
+      "Claw1",
+      "Cantar's Pack",
+      "ดูดพลังชีวิต",
+      [
+        15683
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/CantarsPack",
+      4,
+      [],
+      9412,
+      null,
+      null,
+      1,
+      6
+    ],
+    [
+      "Gloves1",
+      "Moknuma's Conjuring",
+      "ได้รับ Arcane Surge เมื่อปะทะ",
+      [
+        15684
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/MoknumasConjuring",
+      2,
+      [],
+      null,
+      null,
+      null,
+      1,
+      null
+    ],
+    [
+      "Gloves2",
+      "Azal's Manipulation",
+      "ขัดขวางเมื่อปะทะ",
+      [
+        15685
+      ],
+      "Art/2DArt/UIImages/InGame/Betrayal/ItemAttachments/AzalsManipulation",
+      2,
+      [],
+      null,
+      null,
+      null,
+      1,
+      null
+    ]
+  ]
+}

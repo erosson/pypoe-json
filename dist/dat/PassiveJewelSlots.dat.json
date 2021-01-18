@@ -1,1 +1,625 @@
-{"filename":"PassiveJewelSlots.dat","header":[{"name":"PassiveSkillsKey","rowid":0,"type":"ulong","key":"PassiveSkills.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Key0","rowid":1,"type":"ulong","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown0","rowid":2,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"PassiveJewelSlotsKey","rowid":3,"type":"ref|generic","key":"PassiveJewelSlots.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown1","rowid":4,"type":"ulong","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown2","rowid":5,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown3","rowid":6,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[[1309,null,0,null,null,0,8],[1310,null,0,null,null,0,8],[1311,null,0,null,null,0,8],[1312,null,0,null,null,0,8],[1313,null,0,null,null,0,8],[1314,null,0,null,null,0,8],[1315,null,0,null,null,0,8],[1316,null,0,null,null,0,8],[1317,null,0,null,null,0,8],[1318,null,0,null,null,0,8],[1319,null,0,null,null,0,8],[1320,2,0,null,2871,3,8],[1321,2,1,null,2872,3,20],[1322,2,2,null,2873,3,32],[1323,null,0,null,null,0,8],[1324,2,3,null,2874,3,44],[1325,null,0,null,null,0,8],[1326,2,4,null,2875,3,56],[1327,null,0,null,null,0,8],[1328,null,0,null,null,0,8],[1329,2,5,null,2876,3,68],[2835,1,0,11,2877,2,80],[2836,1,1,11,2878,2,88],[2837,1,2,11,2879,2,96],[2838,0,0,21,2880,1,104],[2839,0,0,22,2881,1,108],[2840,0,0,23,2882,1,112],[2841,1,0,12,2883,2,116],[2842,1,1,12,2884,2,124],[2843,1,2,12,2885,2,132],[2844,0,0,27,2886,1,140],[2845,0,0,28,2887,1,144],[2846,0,0,29,2888,1,148],[2847,1,0,13,2889,2,152],[2848,1,1,13,2890,2,80],[2849,1,2,13,2891,2,88],[2850,0,0,33,2892,1,148],[2851,0,0,34,2893,1,104],[2852,0,0,35,2894,1,108],[2853,1,0,15,2895,2,124],[2854,1,1,15,2896,2,152],[2855,1,2,15,2897,2,80],[2856,0,0,39,2898,1,144],[2857,0,0,40,2899,1,148],[2858,0,0,41,2900,1,104],[2859,1,0,17,2901,2,160],[2860,1,1,17,2902,2,116],[2861,1,2,17,2903,2,124],[2862,0,0,45,2904,1,112],[2863,0,0,46,2905,1,140],[2864,0,0,47,2906,1,144],[2865,1,0,20,2907,2,88],[2866,1,1,20,2908,2,160],[2867,1,2,20,2909,2,116],[2868,0,0,51,2910,1,108],[2869,0,0,52,2911,1,112],[2870,0,0,53,2912,1,140]]}
+{
+  "filename": "PassiveJewelSlots.dat",
+  "header": [
+    {
+      "name": "PassiveSkillsKey",
+      "rowid": 0,
+      "type": "ulong",
+      "key": "PassiveSkills.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Key0",
+      "rowid": 1,
+      "type": "ulong",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown0",
+      "rowid": 2,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "PassiveJewelSlotsKey",
+      "rowid": 3,
+      "type": "ref|generic",
+      "key": "PassiveJewelSlots.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown1",
+      "rowid": 4,
+      "type": "ulong",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown2",
+      "rowid": 5,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown3",
+      "rowid": 6,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      1309,
+      null,
+      0,
+      null,
+      null,
+      0,
+      8
+    ],
+    [
+      1310,
+      null,
+      0,
+      null,
+      null,
+      0,
+      8
+    ],
+    [
+      1311,
+      null,
+      0,
+      null,
+      null,
+      0,
+      8
+    ],
+    [
+      1312,
+      null,
+      0,
+      null,
+      null,
+      0,
+      8
+    ],
+    [
+      1313,
+      null,
+      0,
+      null,
+      null,
+      0,
+      8
+    ],
+    [
+      1314,
+      null,
+      0,
+      null,
+      null,
+      0,
+      8
+    ],
+    [
+      1315,
+      null,
+      0,
+      null,
+      null,
+      0,
+      8
+    ],
+    [
+      1316,
+      null,
+      0,
+      null,
+      null,
+      0,
+      8
+    ],
+    [
+      1317,
+      null,
+      0,
+      null,
+      null,
+      0,
+      8
+    ],
+    [
+      1318,
+      null,
+      0,
+      null,
+      null,
+      0,
+      8
+    ],
+    [
+      1319,
+      null,
+      0,
+      null,
+      null,
+      0,
+      8
+    ],
+    [
+      1320,
+      2,
+      0,
+      null,
+      2871,
+      3,
+      8
+    ],
+    [
+      1321,
+      2,
+      1,
+      null,
+      2872,
+      3,
+      20
+    ],
+    [
+      1322,
+      2,
+      2,
+      null,
+      2873,
+      3,
+      32
+    ],
+    [
+      1323,
+      null,
+      0,
+      null,
+      null,
+      0,
+      8
+    ],
+    [
+      1324,
+      2,
+      3,
+      null,
+      2874,
+      3,
+      44
+    ],
+    [
+      1325,
+      null,
+      0,
+      null,
+      null,
+      0,
+      8
+    ],
+    [
+      1326,
+      2,
+      4,
+      null,
+      2875,
+      3,
+      56
+    ],
+    [
+      1327,
+      null,
+      0,
+      null,
+      null,
+      0,
+      8
+    ],
+    [
+      1328,
+      null,
+      0,
+      null,
+      null,
+      0,
+      8
+    ],
+    [
+      1329,
+      2,
+      5,
+      null,
+      2876,
+      3,
+      68
+    ],
+    [
+      2835,
+      1,
+      0,
+      11,
+      2877,
+      2,
+      80
+    ],
+    [
+      2836,
+      1,
+      1,
+      11,
+      2878,
+      2,
+      88
+    ],
+    [
+      2837,
+      1,
+      2,
+      11,
+      2879,
+      2,
+      96
+    ],
+    [
+      2838,
+      0,
+      0,
+      21,
+      2880,
+      1,
+      104
+    ],
+    [
+      2839,
+      0,
+      0,
+      22,
+      2881,
+      1,
+      108
+    ],
+    [
+      2840,
+      0,
+      0,
+      23,
+      2882,
+      1,
+      112
+    ],
+    [
+      2841,
+      1,
+      0,
+      12,
+      2883,
+      2,
+      116
+    ],
+    [
+      2842,
+      1,
+      1,
+      12,
+      2884,
+      2,
+      124
+    ],
+    [
+      2843,
+      1,
+      2,
+      12,
+      2885,
+      2,
+      132
+    ],
+    [
+      2844,
+      0,
+      0,
+      27,
+      2886,
+      1,
+      140
+    ],
+    [
+      2845,
+      0,
+      0,
+      28,
+      2887,
+      1,
+      144
+    ],
+    [
+      2846,
+      0,
+      0,
+      29,
+      2888,
+      1,
+      148
+    ],
+    [
+      2847,
+      1,
+      0,
+      13,
+      2889,
+      2,
+      152
+    ],
+    [
+      2848,
+      1,
+      1,
+      13,
+      2890,
+      2,
+      80
+    ],
+    [
+      2849,
+      1,
+      2,
+      13,
+      2891,
+      2,
+      88
+    ],
+    [
+      2850,
+      0,
+      0,
+      33,
+      2892,
+      1,
+      148
+    ],
+    [
+      2851,
+      0,
+      0,
+      34,
+      2893,
+      1,
+      104
+    ],
+    [
+      2852,
+      0,
+      0,
+      35,
+      2894,
+      1,
+      108
+    ],
+    [
+      2853,
+      1,
+      0,
+      15,
+      2895,
+      2,
+      124
+    ],
+    [
+      2854,
+      1,
+      1,
+      15,
+      2896,
+      2,
+      152
+    ],
+    [
+      2855,
+      1,
+      2,
+      15,
+      2897,
+      2,
+      80
+    ],
+    [
+      2856,
+      0,
+      0,
+      39,
+      2898,
+      1,
+      144
+    ],
+    [
+      2857,
+      0,
+      0,
+      40,
+      2899,
+      1,
+      148
+    ],
+    [
+      2858,
+      0,
+      0,
+      41,
+      2900,
+      1,
+      104
+    ],
+    [
+      2859,
+      1,
+      0,
+      17,
+      2901,
+      2,
+      160
+    ],
+    [
+      2860,
+      1,
+      1,
+      17,
+      2902,
+      2,
+      116
+    ],
+    [
+      2861,
+      1,
+      2,
+      17,
+      2903,
+      2,
+      124
+    ],
+    [
+      2862,
+      0,
+      0,
+      45,
+      2904,
+      1,
+      112
+    ],
+    [
+      2863,
+      0,
+      0,
+      46,
+      2905,
+      1,
+      140
+    ],
+    [
+      2864,
+      0,
+      0,
+      47,
+      2906,
+      1,
+      144
+    ],
+    [
+      2865,
+      1,
+      0,
+      20,
+      2907,
+      2,
+      88
+    ],
+    [
+      2866,
+      1,
+      1,
+      20,
+      2908,
+      2,
+      160
+    ],
+    [
+      2867,
+      1,
+      2,
+      20,
+      2909,
+      2,
+      116
+    ],
+    [
+      2868,
+      0,
+      0,
+      51,
+      2910,
+      1,
+      108
+    ],
+    [
+      2869,
+      0,
+      0,
+      52,
+      2911,
+      1,
+      112
+    ],
+    [
+      2870,
+      0,
+      0,
+      53,
+      2912,
+      1,
+      140
+    ]
+  ]
+}

@@ -1,1 +1,292 @@
-{"filename":"EventSeason.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":true,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown1","rowid":1,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"RewardCommand","rowid":2,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["Season7",7,"unique UniqueBeltDemigods1 1 100"],["GarenaSeason2",102,"unique UniqueBeltDemigods1 1 100"],["Season8",8,"unique UniqueBeltDemigods1 1 100"],["GarenaSeason3",103,"unique UniqueBeltDemigods1 1 100"],["Season9",9,"unique UniqueRingDemigods1 1 100"],["GarenaSeason4",104,"unique UniqueRingDemigods1 1 100"],["GarenaTWSeason1",201,"unique UniqueRingDemigods1 1 100"],["EUPvPSeason1",1001,"unique UniqueAmuletVictor1 1 100"],["USPvPSeason1",1101,"unique UniqueAmuletVictor1 1 100"],["Season10",10,"unique UniqueRingDemigods1 1 100"],["GarenaTWSeason2",202,"unique UniqueRingDemigods1 1 100"],["GarenaTWPVPSeason1",2001,"unique UniqueAmuletVictor1 1 100"],["GarenaSeason5",105,"unique UniqueRingDemigods1 1 100"],["Season11",11,"unique UniqueRingDemigods1 1 100"],["EUPvPSeason2",1002,"unique UniqueAmuletVictor1 1 100"],["USPvPSeason2",1102,"unique UniqueAmuletVictor1 1 100"],["GarenaTWSeason3",203,"unique UniqueRingDemigods1 1 100"],["GarenaTWPVPSeason2",2002,"unique UniqueAmuletVictor1 1 100"],["GarenaSeason6",106,"unique UniqueRingDemigods1 1 100"],["GarenaCISSeason1",3000,"unique UniqueRingDemigods1 1 100"],["Emberwake",12,"unique UniqueShieldDemigods 1 100"],["GarenaTHPreSeason",400,"unique UniqueRingDemigods1 1 100"],["GarenaSeason7",107,"unique UniqueShieldDemigods 1 100"],["GarenaCISSeason2",301,"unique UniqueShieldDemigods 1 100"],["GarenaTWSeason4",204,"unique UniqueShieldDemigods 1 100"],["Bloodgrip",13,"unique UniqueShieldDemigods 1 100"],["GarenaSeason8",108,"unique UniqueShieldDemigods 1 100"],["GarenaTHSeason2",401,"unique UniqueShieldDemigods 1 100"],["GarenaCISSeason3",302,"unique UniqueShieldDemigods 1 100"],["Soulthirst",14,"unique UniqueShieldDemigods 1 100"],["GarenaTHPVPSeason1",4001,"unique UniqueShieldDemigods 1 100"],["GarenaCISSeason4",303,"unique UniqueHelmetWreath1 1 100"],["GarenaTWSeason5",205,"unique UniqueShieldDemigods 1 100"],["GarenaTHSeason3",402,"unique UniqueShieldDemigods 1 100"],["Winterheart",15,"unique UniqueBodyDemigods 1 100"],["GarenaSeason9",109,"unique UniqueShieldDemigods 1 100"],["GarenaTWSeason6",206,"unique UniqueShieldDemigods 1 100"],["GarenaTH4Winterheart",403,"unique UniqueBodyDemigods 1 100"],["GarenaCIS5Winterheart",304,"unique UniqueBodyDemigods 1 100"],["GarenaSG10Winterheart",110,"unique UniqueBodyDemigods 1 100"],["GarenaTWSeason7",207,"unique UniqueBodyDemigods 1 100"],["TenCentS1Winterheart",500,"unique UniqueBodyDemigods 1 100"],["Medallion",16,"unique UniqueBodyDemigods 1 100"],["GarenaCIS6Medallion",305,"unique UniqueBodyDemigods 1 100"],["GarenaTH5Medallion",404,"unique UniqueBodyDemigods 1 100"],["GarenaTW8Medallion",208,"unique UniqueBodyDemigods 1 100"],["GarenaSG11Medallion",111,"unique UniqueBodyDemigods 1 100"],["TenCentS2Medallion",501,"unique UniqueBodyDemigods 1 100"]]}
+{
+  "filename": "EventSeason.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown1",
+      "rowid": 1,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "RewardCommand",
+      "rowid": 2,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "Season7",
+      7,
+      "unique UniqueBeltDemigods1 1 100"
+    ],
+    [
+      "GarenaSeason2",
+      102,
+      "unique UniqueBeltDemigods1 1 100"
+    ],
+    [
+      "Season8",
+      8,
+      "unique UniqueBeltDemigods1 1 100"
+    ],
+    [
+      "GarenaSeason3",
+      103,
+      "unique UniqueBeltDemigods1 1 100"
+    ],
+    [
+      "Season9",
+      9,
+      "unique UniqueRingDemigods1 1 100"
+    ],
+    [
+      "GarenaSeason4",
+      104,
+      "unique UniqueRingDemigods1 1 100"
+    ],
+    [
+      "GarenaTWSeason1",
+      201,
+      "unique UniqueRingDemigods1 1 100"
+    ],
+    [
+      "EUPvPSeason1",
+      1001,
+      "unique UniqueAmuletVictor1 1 100"
+    ],
+    [
+      "USPvPSeason1",
+      1101,
+      "unique UniqueAmuletVictor1 1 100"
+    ],
+    [
+      "Season10",
+      10,
+      "unique UniqueRingDemigods1 1 100"
+    ],
+    [
+      "GarenaTWSeason2",
+      202,
+      "unique UniqueRingDemigods1 1 100"
+    ],
+    [
+      "GarenaTWPVPSeason1",
+      2001,
+      "unique UniqueAmuletVictor1 1 100"
+    ],
+    [
+      "GarenaSeason5",
+      105,
+      "unique UniqueRingDemigods1 1 100"
+    ],
+    [
+      "Season11",
+      11,
+      "unique UniqueRingDemigods1 1 100"
+    ],
+    [
+      "EUPvPSeason2",
+      1002,
+      "unique UniqueAmuletVictor1 1 100"
+    ],
+    [
+      "USPvPSeason2",
+      1102,
+      "unique UniqueAmuletVictor1 1 100"
+    ],
+    [
+      "GarenaTWSeason3",
+      203,
+      "unique UniqueRingDemigods1 1 100"
+    ],
+    [
+      "GarenaTWPVPSeason2",
+      2002,
+      "unique UniqueAmuletVictor1 1 100"
+    ],
+    [
+      "GarenaSeason6",
+      106,
+      "unique UniqueRingDemigods1 1 100"
+    ],
+    [
+      "GarenaCISSeason1",
+      3000,
+      "unique UniqueRingDemigods1 1 100"
+    ],
+    [
+      "Emberwake",
+      12,
+      "unique UniqueShieldDemigods 1 100"
+    ],
+    [
+      "GarenaTHPreSeason",
+      400,
+      "unique UniqueRingDemigods1 1 100"
+    ],
+    [
+      "GarenaSeason7",
+      107,
+      "unique UniqueShieldDemigods 1 100"
+    ],
+    [
+      "GarenaCISSeason2",
+      301,
+      "unique UniqueShieldDemigods 1 100"
+    ],
+    [
+      "GarenaTWSeason4",
+      204,
+      "unique UniqueShieldDemigods 1 100"
+    ],
+    [
+      "Bloodgrip",
+      13,
+      "unique UniqueShieldDemigods 1 100"
+    ],
+    [
+      "GarenaSeason8",
+      108,
+      "unique UniqueShieldDemigods 1 100"
+    ],
+    [
+      "GarenaTHSeason2",
+      401,
+      "unique UniqueShieldDemigods 1 100"
+    ],
+    [
+      "GarenaCISSeason3",
+      302,
+      "unique UniqueShieldDemigods 1 100"
+    ],
+    [
+      "Soulthirst",
+      14,
+      "unique UniqueShieldDemigods 1 100"
+    ],
+    [
+      "GarenaTHPVPSeason1",
+      4001,
+      "unique UniqueShieldDemigods 1 100"
+    ],
+    [
+      "GarenaCISSeason4",
+      303,
+      "unique UniqueHelmetWreath1 1 100"
+    ],
+    [
+      "GarenaTWSeason5",
+      205,
+      "unique UniqueShieldDemigods 1 100"
+    ],
+    [
+      "GarenaTHSeason3",
+      402,
+      "unique UniqueShieldDemigods 1 100"
+    ],
+    [
+      "Winterheart",
+      15,
+      "unique UniqueBodyDemigods 1 100"
+    ],
+    [
+      "GarenaSeason9",
+      109,
+      "unique UniqueShieldDemigods 1 100"
+    ],
+    [
+      "GarenaTWSeason6",
+      206,
+      "unique UniqueShieldDemigods 1 100"
+    ],
+    [
+      "GarenaTH4Winterheart",
+      403,
+      "unique UniqueBodyDemigods 1 100"
+    ],
+    [
+      "GarenaCIS5Winterheart",
+      304,
+      "unique UniqueBodyDemigods 1 100"
+    ],
+    [
+      "GarenaSG10Winterheart",
+      110,
+      "unique UniqueBodyDemigods 1 100"
+    ],
+    [
+      "GarenaTWSeason7",
+      207,
+      "unique UniqueBodyDemigods 1 100"
+    ],
+    [
+      "TenCentS1Winterheart",
+      500,
+      "unique UniqueBodyDemigods 1 100"
+    ],
+    [
+      "Medallion",
+      16,
+      "unique UniqueBodyDemigods 1 100"
+    ],
+    [
+      "GarenaCIS6Medallion",
+      305,
+      "unique UniqueBodyDemigods 1 100"
+    ],
+    [
+      "GarenaTH5Medallion",
+      404,
+      "unique UniqueBodyDemigods 1 100"
+    ],
+    [
+      "GarenaTW8Medallion",
+      208,
+      "unique UniqueBodyDemigods 1 100"
+    ],
+    [
+      "GarenaSG11Medallion",
+      111,
+      "unique UniqueBodyDemigods 1 100"
+    ],
+    [
+      "TenCentS2Medallion",
+      501,
+      "unique UniqueBodyDemigods 1 100"
+    ]
+  ]
+}

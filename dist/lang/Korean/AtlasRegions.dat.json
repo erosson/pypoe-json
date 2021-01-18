@@ -1,1 +1,138 @@
-{"filename":"AtlasRegions.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":true,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Name","rowid":1,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown0","rowid":2,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown1","rowid":3,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown2","rowid":4,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["OutsideTopLeft","헤이워크 촌락",399,14,0],["InsideTopLeft","티른의 끝자락",400,15,0],["InsideTopRight","렉스 프록시마",401,16,0],["OutsideTopRight","렉스 에요리스",402,17,0],["OutsideBottomLeft","뉴 바스티르",403,18,0],["InsideBottomLeft","글렌나크 돌무덤",404,19,0],["InsideBottomRight","발도의 휴식처",405,20,0],["OutsideBottomRight","리라 아르타인",406,21,0]]}
+{
+  "filename": "AtlasRegions.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Name",
+      "rowid": 1,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown0",
+      "rowid": 2,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown1",
+      "rowid": 3,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown2",
+      "rowid": 4,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "OutsideTopLeft",
+      "헤이워크 촌락",
+      399,
+      14,
+      0
+    ],
+    [
+      "InsideTopLeft",
+      "티른의 끝자락",
+      400,
+      15,
+      0
+    ],
+    [
+      "InsideTopRight",
+      "렉스 프록시마",
+      401,
+      16,
+      0
+    ],
+    [
+      "OutsideTopRight",
+      "렉스 에요리스",
+      402,
+      17,
+      0
+    ],
+    [
+      "OutsideBottomLeft",
+      "뉴 바스티르",
+      403,
+      18,
+      0
+    ],
+    [
+      "InsideBottomLeft",
+      "글렌나크 돌무덤",
+      404,
+      19,
+      0
+    ],
+    [
+      "InsideBottomRight",
+      "발도의 휴식처",
+      405,
+      20,
+      0
+    ],
+    [
+      "OutsideBottomRight",
+      "리라 아르타인",
+      406,
+      21,
+      0
+    ]
+  ]
+}

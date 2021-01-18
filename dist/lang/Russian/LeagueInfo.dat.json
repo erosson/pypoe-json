@@ -1,1 +1,2255 @@
-{"filename":"LeagueInfo.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":true,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"PanelImage","rowid":1,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":true,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"HeaderImage","rowid":2,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":true,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Screenshots","rowid":3,"type":"ref|list|ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":true,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Description","rowid":4,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"League","rowid":5,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Flag0","rowid":6,"type":"bool","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"ItemImages","rowid":7,"type":"ref|list|ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":true,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"HoverImages","rowid":8,"type":"ref|list|ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":true,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"TrailerVideoLink","rowid":9,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"BackgroundImage","rowid":10,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":true,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Flag1","rowid":11,"type":"bool","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["Delve1","Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel1","Art/2DArt/UIImages/Login/LeagueInfo/Delve/Heading1",[],"В Path of Exile: Спуск вы погрузитесь в бесконечные глубины Азуритовой шахты, чтобы добыть сокровища и разгадать её скрытые тайны.\nВ нашем новом дополнении мы представляем бесконечное подземелье и валюту с гнёздами, а также множество новых уникальных предметов, камни умений, изменения баланса, улучшения графического движка и многое другое!","Delve",false,[],[],"","",false],["Delve2","Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel2","Art/2DArt/UIImages/Login/LeagueInfo/Delve/Heading2",["Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel2/Screenshot1","Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel2/Screenshot2","Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel2/Screenshot3"],"Заброшенная более чем на 250 лет, Азуритовая шахта была поглощена зловещей тьмой, изгнавшей Вечную Империю. Изобретатель Нико сумел извлечь силу вольтаксового сульфита для создания Ползуна, машины, способной пробираться сквозь тьму. Спускайтесь в шахту, но не отходите далеко от света, иначе темнота вас раздавит. \r\nПолзун ускорится, если вы будете бежать впереди него.","Delve",true,[],[],"","",false],["Delve3","Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel3","Art/2DArt/UIImages/Login/LeagueInfo/Delve/Heading3",["Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel3/Screenshot1","Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel3/Screenshot2","Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel3/Screenshot3"],"Азуритовая шахта полна сокровищ для тех, кто достаточно смел, чтобы рискнуть ненадолго войти во тьму. Используйте факелы, чтобы отклониться от пути Ползуна, и динамит для уничтожения шатких стен, за которыми скрываются более ценные награды.","Delve",false,[],[],"","",false],["Delve4","Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel4","Art/2DArt/UIImages/Login/LeagueInfo/Delve/Heading4",["Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel4/Screenshot1","Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel4/Screenshot2","Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel4/Screenshot3"],"Весь азурит, найденный вами в шахте, можно сдать Нико в его лагере. В обмен он предложит улучшить Ползуна и сможет продать вам факелы, динамит и материалы, которые пригодятся для ваших исследований.","Delve",true,[],[],"","",false],["Delve5","Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel5","Art/2DArt/UIImages/Login/LeagueInfo/Delve/Heading5",["Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel5/Screenshot1","Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel5/Screenshot2","Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel5/Screenshot3"],"В глубинах Азуритовой шахты вы обнаружите множество различных биомов. Спускаясь ещё ниже, вы сможете найти затерянные города мрачной истории Рэкласта. В каждом городе вас ждут новые монстры, боссы, сражения и награды.","Delve",false,[],[],"","",false],["Delve6","Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel6","Art/2DArt/UIImages/Login/LeagueInfo/Delve/Heading6",[],"Древние цивилизации создали особые предметы, в которые можно поместить окаменелости для изменения их свойств.","Delve",true,["Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel6/GlyphicFossil","Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel6/JaggedFossil","Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel6/Reroll2x1A","Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel6/Reroll2x2B","Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel6/Upgrade1x1A","Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel6/HelmetDexInt11"],["Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel6/GlyphicFossilHover","Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel6/JaggedFossilHover","Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel6/Reroll2x1AHover","Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel6/Reroll2x2BHover","Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel6/Upgrade1x1AHover","Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel6/HelmetDexInt11Hover"],"","",false],["Delve7","Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel7","Art/2DArt/UIImages/Login/LeagueInfo/Delve/Heading7",[],"Азуритовая шахта - первое бесконечное подземелье в Path of Exile. Чем глубже вы спускаетесь, тем сложнее становится игра. В лиге Спуск вас ждут сражения, гораздо более трудные, чем на высокоуровневых картах. Ваш прогресс ограничен только силой вашего персонажа. Рейтинг Спуска будет отслеживать, кто глубже всех спустился в шахту.","Delve",false,[],[],"","",false],["Delve8","Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel8","Art/2DArt/UIImages/Login/LeagueInfo/Delve/Heading8",[],"В Path of Exile: Спуск входят 10 новых мощных или полностью переработанных умений для двух архетипов персонажей: Защитника и Следопыта. Играйте за священного воина, поражающего врагов уроном от молнии и дающего преимущества союзникам и приспешникам, или лучником с уроном от хаоса, использующим природные и ядовитые умения, чтобы замедлять и постепенно убивать врагов.","Delve",true,["Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel8/DominatingBlow","Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel8/RainofSporesGem","Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel8/SmiteGem"," Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel8/Unknown1","Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel8/Unknown2","Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel8/Unknown3","Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel8/Unknown4","Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel8/Unknown5","Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel8/Unknown6","Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel8/Unknown7"],["Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel8/DominatingBlowHover","Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel8/RainofSporesGemHover","Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel8/SmiteGemHover"," Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel8/UnknownHover","Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel8/UnknownHover","Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel8/UnknownHover","Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel8/UnknownHover","Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel8/UnknownHover","Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel8/UnknownHover","Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel8/UnknownHover"],"","",false],["Delve9","Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel9","Art/2DArt/UIImages/Login/LeagueInfo/Delve/Heading9",[],"Дополнение Path of Exile не обойдётся и без новых уникальных предметов! В дополнение Спуск входят 7 новых гадальных карт и 18 новых уникальных предметов, направленных на создание возможностей для новых мощных билдов.","Delve",false,["Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel9/CerebusLimb","Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel9/Doryanis","Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel9/TheGreySpire","Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel9/ThePrimordialChain"],["Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel9/CerebusLimbHover","Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel9/DoryanisHover","Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel9/TheGreySpireHover","Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel9/ThePrimordialChainHover"],"","",false],["Delve10","Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel10","Art/2DArt/UIImages/Login/LeagueInfo/Delve/Heading10",[],"В путешествии по Рэкласту вы сможете найти очень редкий ключ от Ветхого Реликвария. Этот ключ откроет портал в Ветхий Реликварий с одной из 150 уникальных реликвий из прошлых лиг Path of Exile.","Delve",true,["Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel10/AbyssBoots","Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel10/RigwaldsQuills","Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel10/SpiderArmourBody","Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel10/TasaliosSign"," Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel10/VaultMap3"],["Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel10/AbyssBootsHover","Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel10/RigwaldsQuillsHover","Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel10/SpiderArmourBodyHover","Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel10/TasaliosSignHover"," Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel10/VaultMap3Hover"],"","",false],["Delve11","Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel11","Art/2DArt/UIImages/Login/LeagueInfo/Delve/Heading11",[],"Кроме того, мы выпускаем два новых набора поддержки, Ловца теней и Горна ужаса. Оба набора представлены в двух версиях, из которых вы получите большое количество монет, наборы доспехов и другие эксклюзивные косметические микротранзакции.","Delve",false,[],[],"","",true],["Betrayal1","Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/Panel1","Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/Heading1",[],"В лиге Предательство Джун Ортой разыскивает таинственную организацию, известную как \"Бессмертный Синдикат\". Помогите ей повлиять на ранги в Синдикате, раскрыть личности его членов, обнаружить их укрытия и уничтожить главаря. ","Betrayal",false,[],[],"","",false],["Betrayal2","Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/Panel2","Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/Heading2",["Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/Panel2/Screenshot1","Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/Panel2/Screenshot2","Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/Panel2/Screenshot3"],"Бессмертный Синдикат состоит из четырёх подразделений, каждое со своими собственными задачами: укрепление, перевозка, исследование и нападение. В каждой области вы встретите члена Синдиката. Другие его участники могут появиться, чтобы помочь своим товарищам или помешать врагам. Как только битва завершится, вы должны решить, как продолжить ваше расследование. ","Betrayal",true,[],[],"","",false],["Betrayal3","Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/Panel3","Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/Heading3",[],"В Синдикате восемнадцать членов со своими особенностями, друзьями и врагами, которые будут меняться под вашим влиянием. Чтобы продолжить расследование, вам нужно договариваться с ними, казнить, допрашивать и даже побуждать их предавать друг друга.","Betrayal",false,[],[],"","",false],["Betrayal4","Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/Panel4","Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/Heading4",["Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/Panel4/Screenshot1","Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/Panel4/Screenshot2","Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/Panel4/Screenshot3"],"Ваша цель - собрать информацию, которая приведет вас к капитанам каждого подразделения. Совершайте набеги на их укрытия, чтобы разграбить их запасы и раскрыть истинную личность организатора Бессмертного Синдиката. Каждый член Синдиката хранит различные типы предметов в своих комнатах в укрытии. Чем выше ранг заговорщика, тем более ценные у него будут предметы. Вид наград зависит от подразделения. Управляйте Синдикатом, передвигая определенных его участников на те места, которые приведут к получению более ценных наград.","Betrayal",true,[],[],"","",false],["Betrayal5","Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/Panel5","Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/Heading5",[],"Из членов Бессмертного Синдиката могут выпадать предметы с новыми завуалированными свойствами. Чтобы раскрыть их, отнесите предметы Джун и выберите один из трёх вариантов завуалированного свойства. Раскрывая завуалированные свойства, вы научитесь добавлять их на другие предметы и сможете открыть высокоуровневые версии этих свойств.","Betrayal",false,["Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/items/SoulHunger","Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/items/HonourCarapace","Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/items/EagleRefuge","Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/items/CorruptionCord","Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/items/AgonyTread"],["Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/items/SoulHungerHOVER","Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/items/HonourCarapaceHOVER","Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/items/EagleRefugeHOVER","Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/items/CorruptionCordHOVER","Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/items/AgonyTreadHOVER"],"","",false],["Betrayal6","Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/Panel6","Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/Heading6",["Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/Panel6/Screenshot1","Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/Panel6/Screenshot2","Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/Panel6/Screenshot3"],"Со становлением Бессмертного Синдиката, прежние отверженные мастера таинственным образом исчезли. В их отсутствие Эйнар, Альва, Нико, Джун и Зана стали новой группой мастеров, которые смогут вам помочь. Контент их лиг, в том числе Спуска и Вмешательства, добавлен в основу Path of Exile. Бестиарий был переработан и упрощён: Эйнар будет сам ловить животных в сети, пока вы заняты охотой на них.","Betrayal",true,[],[],"","",false],["Betrayal7","Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/Panel7","Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/Heading7",[],"Мы переработали весь процесс добавления ремесленных свойств мастеров, от пользовательского интерфейса и до способа открытия новых ремесленных свойств. Теперь индивидуальные свойства мастеров будут доступны после завершения соответствующего контента, к примеру, комнат Вмешательства или узлов в шахте Спуска. Вам больше не нужно повышать уровни мастеров для открытия их свойств.","Betrayal",false,[],[],"","",false],["Betrayal8","Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/Panel8","Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/Heading8",["Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/Panel8/Screenshot1","Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/Panel8/Screenshot2","Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/Panel8/Screenshot3"],"Убежища, расположение мастеров и декорации стали общими для всех лиг. Вы можете загружать и сохранять шаблоны ваших убежищ, чтобы делиться ими с остальными игроками.","Betrayal",true,[],[],"","",false],["Betrayal9","Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/Panel9","Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/Heading9",["Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/Panel9/Screenshot1","Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/Panel9/Screenshot2","Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/Panel9/Screenshot3"],"Мы добавили четыре новых карты на Атлас миров, взяв для них окружение из популярных биомов глубин Азуритовой шахты. Мы также изменили расположение всех карт на самом Атласе. ","Betrayal",false,["Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/items/ChannelMap","Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/items/FleetFungalHollowMapofInsulation","Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/items/CyclopeanZiggurat","Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/items/ProfaneCramp"],["Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/items/ChannelMapHOVER","Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/items/FungalHollowMapHOVER","Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/items/CyclopeanZigguratHOVER","Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/items/ProfaneCrampHOVER"],"","",false],["Betrayal10","Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/Panel10","Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/Heading10",["Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/Panel10/Screenshot1","Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/Panel10/Screenshot2","Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/Panel10/Screenshot3","Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/Panel10/Screenshot4","Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/Panel10/Screenshot5","Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/Panel10/Screenshot6"],"Помимо улучшений баланса, в лиге Предательство появятся десять новых и переработанных умений для трех архетипов персонажей. Среди добавленных умений есть совершенно новые типы умений: Клеймо и Знамя.","Betrayal",true,[],[],"","",false],["Betrayal11","Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/Panel11","Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/Panel12",[],"На многих из 15 новых уникальных предметов Предательства есть завуалированные свойства, что позволит вам ещё сильнее подстроить предмет под вашего героя. В Предательстве также будут добавлены пять новых гадальных карт, созданных игроками-спонсорами.","Betrayal",false,["Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/items/TheCrimsonStorm","Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/items/Vivinsect","Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/items/SolsticeVigil"],["Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/items/TheCrimsonStormHOVER","Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/items/VivinsectHOVER","Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/items/SolsticeVigilHOVER"],"","",true],["Synthesis1","Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/Panel1","Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/Heading1",[],"В Path of Exile: Синтез вы встретите Каваса, восстановите его утерянные воспоминания и свяжете их воедино для получения ценных наград, битв с новыми боссами и новых возможностей по созданию предметов.\n\nНаше мартовское дополнение содержит лигу испытаний Синтез, новые предметы и камни навыков, полный ребаланс чар в Path of Exile, интегрированную версию лиги Предательство и многое, многое другое.","Synthesis",false,[],[],"","",false],["Synthesis2","Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/Panel2","Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/Heading2",["Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/Panel2/Screenshot1","Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/Panel2/Screenshot2","Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/Panel2/Screenshot3"],"Чтобы помочь Кавасу вспомнить прошлое, вы будете находить фрагменты его увядающих воспоминаний по всему Рэкласту. Прорывайтесь через монстров, населяющих воспоминания Каваса, чтобы активировать стабилизаторы прежде, чем воспоминания вокруг вас рухнут.","Synthesis",true,[],[],"","",false],["Synthesis3","Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/Panel3","Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/Heading3",["Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/Panel3/Screenshot1","Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/Panel3/Screenshot2","Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/Panel3/Screenshot3"],"Стабилизированные фрагменты воспоминаний можно соединять между собой для путешествия по пустоте в разуме Каваса и достижения отдалённых воспоминаний. Но учтите, что эти фрагменты можно исследовать только определённое количество раз, перед тем как они окончательно разрушатся, так что внимательно планируйте свой путь.","Synthesis",false,[],[],"","",false],["Synthesis4","Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/Panel4","Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/Heading4",["Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/Panel4/Screenshot1","Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/Panel4/Screenshot2","Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/Panel4/Screenshot3"],"Внутри отдалённых воспоминаний Каваса можно найти много различных ценных наград. По мере продвижения вглубь его мрачных воспоминаний, разум Каваса начинает синтезировать встречи с опасными и искажёнными проявлениями.","Synthesis",true,[],[],"","",false],["Synthesis5","Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/Panel5","Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/Heading5",[],"Увядающие воспоминания будут давать расколотые предметы с особыми заблокированными свойствами. Такие вещи, как правило, не особо полезны сами по себе, но вы сможете находить расколотые предметы с великолепными заблокированными свойствами, что существенно облегчит процесс создания предметов.","Synthesis",false,["Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/items/HarbingerBow","Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/items/HarbingerBow","Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/items/HubrisCirclet","Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/items/HubrisCirclet"],["Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/items/HarbingerBowHover1","Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/items/HarbingerBowHover2","Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/items/HubrisCircletHover1","Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/items/HubrisCircletHover2"],"","",false],["Synthesis6","Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/Panel6","Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/Heading6",[],"В Нексусе воспоминаний находится Синтезатор, мощное устройство, которое позволит вам разрушать расколотые предметы для создания базовых предметов с необычными собственными свойствами. Результат создания можно контролировать, тщательно выбирая предметы для поглощения.","Synthesis",true,["Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/items/SaphireRing","Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/items/MagistrateCrown","Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/items/StealthBoots"],["Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/items/SaphireRingHover","Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/items/MagistrateCrownHover","Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/items/StealthBootsHover"],"","",false],["Synthesis7","Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/Panel7","Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/Heading7",["Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/Panel7/Screenshot1","Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/Panel7/Screenshot2","Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/Panel7/Screenshot3"],"В Синтезе мы полностью пересмотрели баланс чар в Path of Exile, добавили шесть новых святых чар и чар хаоса, а также простимулировали самостоятельное сотворение чар, добавив также несколько новых камней поддержки.","Synthesis",false,[],[],"","",false],["Synthesis8","Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/Panel8","Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/Heading8",["Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/Panel8/Screenshot1","Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/Panel8/Screenshot2","Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/Panel8/Screenshot3","Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/Panel8/Screenshot4","Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/Panel8/Screenshot5","Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/Panel8/Screenshot6"],"Новый архетип Святой Чародей представляет первые в Path of Exile святые заклинания, включая Божественный гнев, Очищающий огонь и Волну осуждения. Чародей Хаоса не только облегчает знакомство с чарами хаоса с помощью Разрыва души, но также добавляет в Path of Exile много инструментов для уже существующего арсенала чар хаоса.","Synthesis",true,[],[],"","",false],["Synthesis9","Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/Panel9","Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/Heading9",[],"В дополнение к расколотым предметам, синтезированным предметам и более чем дюжине новых гадальных карт, созданных игроками-спонсорами, Path of Exile: Синтез содержит 16 новых мощных уникальных предметов, призванных повлиять на то, как игроки играют в Path of Exile.","Synthesis",false,["Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/items/AssasinsMitts","Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/items/VoidSceptre","Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/items/SulphurFlask","Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/items/TheMadKing","Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/items/ArroganceOfTheVaal","Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/items/TheSeeker"],["Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/items/AssasinsMittsHover","Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/items/VoidSceptreHover","Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/items/SulphurFlaskHover","Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/items/TheMadKingHover","Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/items/ArroganceOfTheVaalHover","Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/items/TheSeekerHover"],"","",false],["Synthesis10","Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/Panel10","Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/Heading10",[],"Синтез также включает в себя много других улучшений. Контент из декабрьской лиги Предательство будет интегрирован в основную игру, расположение карт в Атласе Миров вновь изменилось, а также переработке подверглось музыкальное сопровождение. Для получения дополнительной информации не забудьте ознакомиться со списком изменений, который выйдет в начале марта!","Synthesis",true,[],[],"","",false],["Synthesis11","Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/Panel11","Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/Heading11",[],"Кроме того, вместе с Синтезом мы выпускаем два новых набора поддержки, Солнечного шпиля и Стража Рока. Оба набора представлены в двух версиях, из которых вы получите большое количество монет, наборы доспехов и другие эксклюзивные косметические микротранзакции, включающие новые убежища!\n\nЗапуск Path of Exile: Синтез состоится 8 марта на ПК, 11 марта на Xbox One и в середине марта на PlayStation 4.","Synthesis",false,[],[],"","",true],["Legion1","Art/2DArt/UIImages/Login/LeagueInfo/Legion/TrailerThumbnail","",[],"","Legion",false,[],[],"http://web.poecdn.com/public/videos/LegionTrailer_EN.bk2","",false],["Legion2","Art/2DArt/UIImages/Login/LeagueInfo/Legion/Panel1","Art/2DArt/UIImages/Login/LeagueInfo/Legion/Heading1",[],"Запертые во владениях вневременной войны, самые могущественные полководцы в истории Рэкласта тысячи лет сражаются в вечной битве. В Path of Exile: Легион вы освободите их легионы на поле брани и победите их в бою ради ценных наград.\n\nВ июньское дополнение Path of Exile входят лига испытаний \"Легион\", новые предметы, новые умения, усовершенствование всего ближнего боя в игре, и многое-многое другое.","Legion",false,[],[],"","",false],["Legion3","Art/2DArt/UIImages/Login/LeagueInfo/Legion/Panel2","Art/2DArt/UIImages/Login/LeagueInfo/Legion/Heading2",["Art/2DArt/UIImages/Login/LeagueInfo/Legion/Panel2/Screenshot1","Art/2DArt/UIImages/Login/LeagueInfo/Legion/Panel2/Screenshot2","Art/2DArt/UIImages/Login/LeagueInfo/Legion/Panel2/Screenshot3"],"Исследуя Рэкласт в лиге Легион, вы будете находить монолиты. Коснитесь их, чтобы окунуться в древнюю борьбу между несколькими Легионами, застывшими во времени. Освобождайте врагов, нанося им урон, но будьте готовы сразиться с ними, когда действие монолита закончится. Поскольку некоторые противники сильны и при смерти оставляют ценные предметы, в Легионе у вас будет полный контроль над риском и наградой","Legion",true,[],[],"","",false],["Legion4","Art/2DArt/UIImages/Login/LeagueInfo/Legion/Panel3","Art/2DArt/UIImages/Login/LeagueInfo/Legion/Heading3",["Art/2DArt/UIImages/Login/LeagueInfo/Legion/Panel3/Screenshot1","Art/2DArt/UIImages/Login/LeagueInfo/Legion/Panel3/Screenshot2","Art/2DArt/UIImages/Login/LeagueInfo/Legion/Panel3/Screenshot3"],"При убийстве противников из каждого из пяти Легионов выпадают осколки, объединив которые, можно получить знак Легиона. Разместите два или больше знака разных Легионов в Машине картоходца, чтобы открыть путь во владения вневременной войны, где бушует вечная битва между этими Легионами. Разблокируйте улучшенную Машину картоходца, чтобы сразиться в великом противостоянии между всеми пятью Легионами.","Legion",false,["Art/2DArt/UIImages/Login/LeagueInfo/Legion/items/TimelessMarakethSplinter","Art/2DArt/UIImages/Login/LeagueInfo/Legion/items/TimelessTemplarSplinter","Art/2DArt/UIImages/Login/LeagueInfo/Legion/items/TimelessTemplarEmblem","Art/2DArt/UIImages/Login/LeagueInfo/Legion/items/TimelessKaruiEmblem"],["Art/2DArt/UIImages/Login/LeagueInfo/Legion/items/TimelessMarakethSplinterHover","Art/2DArt/UIImages/Login/LeagueInfo/Legion/items/TimelessTemplarSplinterHover","Art/2DArt/UIImages/Login/LeagueInfo/Legion/items/TimelessTemplarEmblemHover","Art/2DArt/UIImages/Login/LeagueInfo/Legion/items/TimelessKaruiEmblemHover"],"","",false],["Legion5","Art/2DArt/UIImages/Login/LeagueInfo/Legion/Panel4","Art/2DArt/UIImages/Login/LeagueInfo/Legion/Heading4",[],"Некоторые монстры Легиона будут выделены символами, обозначающими выпадающие при их убийстве предметы. Опытные игроки будут стараться высвобождать монстров с нужными наградами. Из отдельных монстров могут выпасть инкубируемые предметы, которые изменяют элемент снаряжения, гарантируя некую награду после убийства определённого числа врагов.","Legion",true,["Art/2DArt/UIImages/Login/LeagueInfo/Legion/items/OrnateIncubator","Art/2DArt/UIImages/Login/LeagueInfo/Legion/items/DivinersIncubator","Art/2DArt/UIImages/Login/LeagueInfo/Legion/items/HarbingersIncubator","Art/2DArt/UIImages/Login/LeagueInfo/Legion/items/NgamahusFlame","Art/2DArt/UIImages/Login/LeagueInfo/Legion/items/LoathMedallion"],["Art/2DArt/UIImages/Login/LeagueInfo/Legion/items/OrnateIncubatorHover","Art/2DArt/UIImages/Login/LeagueInfo/Legion/items/DivinersIncubatorHover","Art/2DArt/UIImages/Login/LeagueInfo/Legion/items/HarbingersIncubatorHover","Art/2DArt/UIImages/Login/LeagueInfo/Legion/items/NgamahusFlameHover","Art/2DArt/UIImages/Login/LeagueInfo/Legion/items/LoathMedallionHover"],"","",false],["Legion6","Art/2DArt/UIImages/Login/LeagueInfo/Legion/Panel5","Art/2DArt/UIImages/Login/LeagueInfo/Legion/Heading5",[],"В каждом из пяти Легионов можно получить особый уникальный самоцвет для размещения в вашем древе пассивных умений. Каждый из пяти самоцветов изменяет соседние с ним пассивные умения определённым образом, предоставляя принципиально новые возможности для развития персонажа, если вы достаточно умелы, чтобы добыть эти самоцветы.","Legion",false,["Art/2DArt/UIImages/Login/LeagueInfo/Legion/items/VaalCivilization","Art/2DArt/UIImages/Login/LeagueInfo/Legion/items/EternalEmpireCivilization","Art/2DArt/UIImages/Login/LeagueInfo/Legion/items/KaruiCivilization","Art/2DArt/UIImages/Login/LeagueInfo/Legion/items/MarakethCivilization","Art/2DArt/UIImages/Login/LeagueInfo/Legion/items/TemplarCivilization"],["Art/2DArt/UIImages/Login/LeagueInfo/Legion/items/VaalCivilizationHover","Art/2DArt/UIImages/Login/LeagueInfo/Legion/items/UnannouncedJewel","Art/2DArt/UIImages/Login/LeagueInfo/Legion/items/UnannouncedJewel","Art/2DArt/UIImages/Login/LeagueInfo/Legion/items/UnannouncedJewel","Art/2DArt/UIImages/Login/LeagueInfo/Legion/items/UnannouncedJewel"],"","",false],["Legion7","Art/2DArt/UIImages/Login/LeagueInfo/Legion/Panel6","Art/2DArt/UIImages/Login/LeagueInfo/Legion/Heading6",[],"Мы исправили большинство ключевых проблем с ближним боем в Path of Exile. Теперь вы можете прерывать анимацию атак после того, как они нанесут урон. Все умения передвижения теперь срабатывают немедленно, и в игру были добавлены новые низкоуровневые умения передвижения для многих классов. Все атаки ближнего боя теперь могут наносить удар по нескольким соседним противникам. Система анимации была значительно переделана, правила выбора цели улучшены, а меткость больше не ограничена 95%. В системе ближнего боя больше изменений, чем можно здесь перечислить, но они вкупе с переработкой большинства умений ближнего боя приводят к совершенно новому ощущению от сражений. ","Legion",true,[],[],"","",false],["Legion8","Art/2DArt/UIImages/Login/LeagueInfo/Legion/Panel7","Art/2DArt/UIImages/Login/LeagueInfo/Legion/Heading7",["Art/2DArt/UIImages/Login/LeagueInfo/Legion/Panel7/Screenshot1","Art/2DArt/UIImages/Login/LeagueInfo/Legion/Panel7/Screenshot2","Art/2DArt/UIImages/Login/LeagueInfo/Legion/Panel7/Screenshot3"],"Новый архетип Гладиатора \"Кровь и песок\" позволит переключаться между стойками крови и песка, на ходу меняя действие новых и существующих умений. Новый архетип яростного Берсерка изменяет систему Свирепости и добавляет новые умения, вырабатывающие и поглощающие заряды Свирепости. Эти могущественные архетипы с их новыми умениями предполагают дополнительные возможности развития для многих персонажей в Path of Exile.","Legion",false,[],[],"","",false],["Legion9","Art/2DArt/UIImages/Login/LeagueInfo/Legion/Panel8","Art/2DArt/UIImages/Login/LeagueInfo/Legion/Heading8",[],"Теперь, с улучшением ближнего боя, игроки смогут легко уворачиваться от атак. Мы воспользовались этим и переработали атаки монстров, которые раньше трудно было предугадать, таким образом, что теперь они будут видны заранее. Переработка включает в себя улучшения ИИ монстров и схваток с боссами в начале кампании.","Legion",true,[],[],"","",false],["Legion10","Art/2DArt/UIImages/Login/LeagueInfo/Legion/Panel9","Art/2DArt/UIImages/Login/LeagueInfo/Legion/Heading9",[],"Помимо 14 новых гадальных карт, в Path of Exile: Легион вы сможете найти 12 новых уникальных предметов. В дополнение к этому, мы выбрали 15 уже существующих уникальных предметов, относящихся к пяти армиям Легиона, и переработали их так, что в новой лиге они станут ценными наградами.","Legion",false,["Art/2DArt/UIImages/Login/LeagueInfo/Legion/items/DarkDreams","Art/2DArt/UIImages/Login/LeagueInfo/Legion/items/AlluringBounty","Art/2DArt/UIImages/Login/LeagueInfo/Legion/items/AukunasWill","Art/2DArt/UIImages/Login/LeagueInfo/Legion/items/MawofConquest","Art/2DArt/UIImages/Login/LeagueInfo/Legion/items/VollsProtector","Art/2DArt/UIImages/Login/LeagueInfo/Legion/items/LaviangasWisdom","Art/2DArt/UIImages/Login/LeagueInfo/Legion/items/RathpithGlobe"],["Art/2DArt/UIImages/Login/LeagueInfo/Legion/items/DarkDreamsHover","Art/2DArt/UIImages/Login/LeagueInfo/Legion/items/AlluringBountyHover","Art/2DArt/UIImages/Login/LeagueInfo/Legion/items/AukunasWillHover","Art/2DArt/UIImages/Login/LeagueInfo/Legion/items/MawofConquestHover","Art/2DArt/UIImages/Login/LeagueInfo/Legion/items/VollsProtectorHover","Art/2DArt/UIImages/Login/LeagueInfo/Legion/items/LaviangasWisdomHover","Art/2DArt/UIImages/Login/LeagueInfo/Legion/items/RathpithGlobeHover"],"","",false],["Legion11","Art/2DArt/UIImages/Login/LeagueInfo/Legion/Panel10","Art/2DArt/UIImages/Login/LeagueInfo/Legion/Heading10",[]," Кроме того, вместе с Легионом мы выпускаем два новых набора поддержки, Культа Тьмы и Рыцаря крови. Оба набора представлены в двух версиях, из которых вы получите большое количество монет, наборы доспехов и другие эксклюзивные косметические микротранзакции!\n\nЗапуск Path of Exile: Легион состоится 7 июня на ПК и 10 июня на Xbox One и PlayStation 4. ","Legion",true,[],[],"","",true],["Blight1","Art/2DArt/UIImages/Login/LeagueInfo/Blight/TrailerThumbnail","",[],"","Blight",false,[],[],"http://web.poecdn.com/public/videos/RUBlightTrailer.bk2","",false],["Blight2","Art/2DArt/UIImages/Login/LeagueInfo/Blight/Panel1","Art/2DArt/UIImages/Login/LeagueInfo/Blight/RU/Heading1",[],"В Path of Exile: Скверна вы должны остановить распространение смертоносной Скверны, строя башни для защиты от порабощённых ею монстров.\n\nНаше сентябрьское дополнение содержит лигу испытаний Скверна, три переработанных архетипа персонажей с новыми навыками и камнями поддержки, множество новых предметов и интеграцию двух старых лиг в основную игру, а также делает акцент на предоставлении вам большей свободы в выборе, в какой аспект контента Path of Exile вам играть и когда.","Blight",false,[],[],"","",false],["Blight3","Art/2DArt/UIImages/Login/LeagueInfo/Blight/Panel2","Art/2DArt/UIImages/Login/LeagueInfo/Blight/RU/Heading2",["Art/2DArt/UIImages/Login/LeagueInfo/Blight/Panel2/Screenshot1","Art/2DArt/UIImages/Login/LeagueInfo/Blight/Panel2/Screenshot2","Art/2DArt/UIImages/Login/LeagueInfo/Blight/Panel2/Screenshot3"],"Сестра Кассия, разрушая грибные наросты, пытается остановить распространение контролирующей разум Скверны. Будучи атакованной, Скверна приказывает заражённым монстрам защищать её. Монстры бездумно следуют за побегами Скверны, атакуя только тех врагов, что стоят у них на пути. Заражённые необычайно выносливы, поэтому вам нужно строить защитные башни, чтобы использовать специфические слабости каждого монстра. За каждую линию побегов, которую вы защитите, будет появляться сундук с вашими наградами.","Blight",true,[],[],"","",false],["Blight4","Art/2DArt/UIImages/Login/LeagueInfo/Blight/Panel3","Art/2DArt/UIImages/Login/LeagueInfo/Blight/RU/Heading3",[],"В арсенале Сестры Кассии есть башни, которые могут охлаждать, накладывать шок, оглушать, поджигать, призывать, усиливать, превращать в камень и истощать. Внимательно выбирайте, размещайте и улучшайте башни, чтобы получить максимальное преимущество от местности и слабостей заражённых монстров. Быстрые небольшие схватки в стиле защиты башен сочетают интенсивные бои Path of Exile с тактической составляющей этого популярного жанра.","Blight",false,["Art/2DArt/UIImages/Login/LeagueInfo/Blight/items/MoonstoneRing","Art/2DArt/UIImages/Login/LeagueInfo/Blight/items/HealthyPrismaticRingoftheFlatworm","Art/2DArt/UIImages/Login/LeagueInfo/Blight/items/MorbidHold"],["Art/2DArt/UIImages/Login/LeagueInfo/Blight/items/RU/MoonstoneRingHover","Art/2DArt/UIImages/Login/LeagueInfo/Blight/items/RU/HealthyPrismaticRingoftheFlatwormHover","Art/2DArt/UIImages/Login/LeagueInfo/Blight/items/RU/MorbidHoldHover"],"","",false],["Blight5","Art/2DArt/UIImages/Login/LeagueInfo/Blight/Panel4","Art/2DArt/UIImages/Login/LeagueInfo/Blight/RU/Heading4",[],"Высокоуровневый контент Path of Exile также не защищён от Скверны. Находите заражённые карты, содержащие гигантские по масштабу схватки со Скверной с десятками линий обороны и самыми ценными наградами лиги.","Blight",true,["Art/2DArt/UIImages/Login/LeagueInfo/Blight/items/BlightedRampartsMap","Art/2DArt/UIImages/Login/LeagueInfo/Blight/items/CeremonialBlightedToxicSewerMapofGiants","Art/2DArt/UIImages/Login/LeagueInfo/Blight/items/DirePoint"],["Art/2DArt/UIImages/Login/LeagueInfo/Blight/items/RU/BlightedRampartsMapHover","Art/2DArt/UIImages/Login/LeagueInfo/Blight/items/RU/CeremonialBlightedToxicSewerMapofGiantsHover","Art/2DArt/UIImages/Login/LeagueInfo/Blight/items/RU/DirePointHover"],"","",false],["Blight6","Art/2DArt/UIImages/Login/LeagueInfo/Blight/Panel5/ru_RU/Panel5","Art/2DArt/UIImages/Login/LeagueInfo/Blight/RU/Heading5",[],"Помимо других сокровищ, в Скверне можно найти масла, которые Сестра Кассия сможет использовать для обработки вашей бижутерии. Объедините два масла, чтобы зачаровать кольцо мощным свойством для башни. Объедините три масла, чтобы зачаровать ваш амулет одним из значимых умений с древа пассивных умений. Двенадцать масел значительно различаются по своей редкости, и каждая комбинация даёт различный результат.","Blight",false,["Art/2DArt/UIImages/Login/LeagueInfo/Blight/items/VioletOil","Art/2DArt/UIImages/Login/LeagueInfo/Blight/items/AmberOil","Art/2DArt/UIImages/Login/LeagueInfo/Blight/items/SilverOil","Art/2DArt/UIImages/Login/LeagueInfo/Blight/items/OpalescentOil","Art/2DArt/UIImages/Login/LeagueInfo/Blight/items/BlackOil","Art/2DArt/UIImages/Login/LeagueInfo/Blight/items/BlastingCitrineAmuletofRaiding","Art/2DArt/UIImages/Login/LeagueInfo/Blight/items/WoeChoker","Art/2DArt/UIImages/Login/LeagueInfo/Blight/items/ZerphisHeart"],["Art/2DArt/UIImages/Login/LeagueInfo/Blight/items/RU/VioletOilHover","Art/2DArt/UIImages/Login/LeagueInfo/Blight/items/RU/AmberOilHover","Art/2DArt/UIImages/Login/LeagueInfo/Blight/items/RU/SilverOilHover","Art/2DArt/UIImages/Login/LeagueInfo/Blight/items/RU/OpalescentOilHover","Art/2DArt/UIImages/Login/LeagueInfo/Blight/items/RU/BlackOilHover","Art/2DArt/UIImages/Login/LeagueInfo/Blight/items/RU/BlastingCitrineAmuletofRaidingHover","Art/2DArt/UIImages/Login/LeagueInfo/Blight/items/RU/WoeChokerHover","Art/2DArt/UIImages/Login/LeagueInfo/Blight/items/RU/ZerphisHeartHover"],"","",false],["Blight7","Art/2DArt/UIImages/Login/LeagueInfo/Blight/Panel6","Art/2DArt/UIImages/Login/LeagueInfo/Blight/RU/Heading6",[],"Четыре уникальных предмета, эксклюзивных для лиги Скверна, образуют набор доспехов, на который также могут быть нанесены значимые пассивные умения. В сочетании с обработанным амулетом, владелец этого набора может одновременно иметь до пяти дополнительных значимых пассивных умений, открывая бесчисленные возможности для билдов.","Blight",true,["Art/2DArt/UIImages/Login/LeagueInfo/Blight/items/TheStampede"],["Art/2DArt/UIImages/Login/LeagueInfo/Blight/items/RU/TheStampedeHover"],"","",false],["Blight8","Art/2DArt/UIImages/Login/LeagueInfo/Blight/Panel7","Art/2DArt/UIImages/Login/LeagueInfo/Blight/RU/Heading7",["Art/2DArt/UIImages/Login/LeagueInfo/Blight/Panel7/Screenshot1","Art/2DArt/UIImages/Login/LeagueInfo/Blight/Panel7/Screenshot2","Art/2DArt/UIImages/Login/LeagueInfo/Blight/Panel7/Screenshot3"],"Вам больше не придётся выполнять каждое задание Мастера как только вы с ним столкнётесь, или проходить произвольные карты для завершения ваших ежедневных заданий. Теперь вы получаете значительно больше заданий, проходя карты, а выполнять их сможете позже, поговорив с Мастером в вашем убежище. Задания можно копить бесконечно, так что вы сможете выполнять их тогда, когда у вас будет время, и на тех картах, которые вы выберете сами.\n\nМы также улучшили награды в Предательстве, упростили доступ к более глубоким уровням Спуска, интегрировали Легион и схватки с боссами Синтеза в основную игру.","Blight",false,[],[],"","",false],["Blight9","Art/2DArt/UIImages/Login/LeagueInfo/Blight/Panel8","Art/2DArt/UIImages/Login/LeagueInfo/Blight/RU/Heading8",["Art/2DArt/UIImages/Login/LeagueInfo/Blight/Panel8/ru_RU/Screenshot1","Art/2DArt/UIImages/Login/LeagueInfo/Blight/Panel8/ru_RU/Screenshot2","Art/2DArt/UIImages/Login/LeagueInfo/Blight/Panel8/ru_RU/Screenshot3"],"Призыватели являются одним из самых популярных стилей игры в ARPG. В Path of Exile: Скверна мы значительно переработали множество механик призыва и класс Восхождения Ведьмы \"Некромант\". Мы улучшили эффективность многих типов приспешников в зависимости от уровня камня умения, добавили новые камни поддержки, позволяющие точно настраивать поведение приспешников, переработали класс Восхождения Некромант, представили Трупного голема, добавили высокоуровневый базовый тип жезлов, на котором могут попасться мощные свойства для приспешников, и внесли много других изменений.\n\nЧтобы стало возможным использовать все новые навыки, мы добавили дополнительную панель для размещения навыков.","Blight",true,[],[],"","",false],["Blight10","Art/2DArt/UIImages/Login/LeagueInfo/Blight/Panel9","Art/2DArt/UIImages/Login/LeagueInfo/Blight/RU/Heading9",["Art/2DArt/UIImages/Login/LeagueInfo/Blight/Panel9/ru_RU/Screenshot1","Art/2DArt/UIImages/Login/LeagueInfo/Blight/Panel9/ru_RU/Screenshot2","Art/2DArt/UIImages/Login/LeagueInfo/Blight/Panel9/ru_RU/Screenshot3"],"\"Ядовитый\" Убийца, когда-то преобладающий стиль игры в Path of Exile, возвращается (почти) ко дням своей славы! В Скверне появится новый тематический камень поддержки, а также набор из пяти сильных камней навыков ядовитой тематики, включая Бросок кобры, который поражает ваших врагов по цепи отравленным снарядом. Новая механика Неуловимость, поддерживаемая новым значимым умением Восхождения, предоставит мощные возможности защиты и средства для отступления, а изменения в ключевом пассивном умении Совершенная агония и множителе урона для состояний от критических ударов обеспечат \"ядовитому\" Убийце заслуженное признание.","Blight",false,[],[],"","",false],["Blight11","Art/2DArt/UIImages/Login/LeagueInfo/Blight/Panel10","Art/2DArt/UIImages/Login/LeagueInfo/Blight/RU/Heading10",["Art/2DArt/UIImages/Login/LeagueInfo/Blight/Panel10/ru_RU/Screenshot1","Art/2DArt/UIImages/Login/LeagueInfo/Blight/Panel10/ru_RU/Screenshot2","Art/2DArt/UIImages/Login/LeagueInfo/Blight/Panel10/ru_RU/Screenshot3"],"Мы часто получали отзывы о том, что мины, хоть и наносят достаточно урона, но очень неуклюжи в использовании. В Скверне мы с нуля переработали механику мин. Брошенные к месту, а не к вашим ногам, мины теперь развёртываются быстрее и детонируют последовательно. Навыки мин теперь также вознаграждают вас за длинную череду детонаций. Новые и переработанные камни поддержки, включая мобильных мехаботов, предоставляют новые возможности взрывной силы. Все это дополняется изменениями в древе пассивных умений и классе восхождения Диверсант.","Blight",true,[],[],"","",false],["Blight12","Art/2DArt/UIImages/Login/LeagueInfo/Blight/Panel11","Art/2DArt/UIImages/Login/LeagueInfo/Blight/RU/Heading11",[],"Помимо масел, заражённых карт и новых зачарований для бижутерии, Path of Exile: Скверна содержит 18 новых гадальных карт, 16 новых камней умений и поддержки и 16 новых уникальных предметов, которые вы сможете найти. Также мы изменили 24 существующих уникальных предмета, шесть из которых подверглись полной переработке.","Blight",false,["Art/2DArt/UIImages/Login/LeagueInfo/Blight/items/PolishedLegionScarab","Art/2DArt/UIImages/Login/LeagueInfo/Blight/items/ColdIronPoint","Art/2DArt/UIImages/Login/LeagueInfo/Blight/items/TriadGrip","Art/2DArt/UIImages/Login/LeagueInfo/Blight/items/BadgeoftheBrotherhood","Art/2DArt/UIImages/Login/LeagueInfo/Blight/items/AkilsProphecy","Art/2DArt/UIImages/Login/LeagueInfo/Blight/items/NooksCrown"],["Art/2DArt/UIImages/Login/LeagueInfo/Blight/items/RU/PolishedLegionScarabHover","Art/2DArt/UIImages/Login/LeagueInfo/Blight/items/RU/ColdIronPointHover","Art/2DArt/UIImages/Login/LeagueInfo/Blight/items/RU/TriadGripHover","Art/2DArt/UIImages/Login/LeagueInfo/Blight/items/RU/BadgeoftheBrotherhoodHover","Art/2DArt/UIImages/Login/LeagueInfo/Blight/items/RU/AkilsProphecyHover","Art/2DArt/UIImages/Login/LeagueInfo/Blight/items/RU/NooksCrownHover"],"","",false],["Blight13","Art/2DArt/UIImages/Login/LeagueInfo/Blight/Panel12","Art/2DArt/UIImages/Login/LeagueInfo/Blight/RU/Heading12",[],"Одновременно с лигой Скверна мы выпускаем два новых набора поддержки - Лича и Стража. Оба набора представлены в двух версиях, из которых вы получите большое количество монет, комплекты доспехов и другие эксклюзивные косметические микротранзакции!\n\nЗапуск Path of Exile: Скверна состоится 6 сентября на ПК и 9 сентября на Xbox One и PlayStation 4.","Blight",true,[],[],"","",true],["Metamorph1","Art/2DArt/UIImages/Login/LeagueInfo/Metamorph/TrailerThumbnail","",[],"","Metamorph",false,[],[],"http://web.poecdn.com/public/videos/MetamorphTrailer_En.bk2","",false],["Metamorph2","Art/2DArt/UIImages/Login/LeagueInfo/Metamorph/Panel1","Art/2DArt/UIImages/Login/LeagueInfo/Metamorph/Heading1",[],"В лиге Метаморф вы встретите нового НИП, Танэ Октавиуса, мастера-алхимика, который обучался в Ориате. Изгнанный на Рэкласт за убийство своего учителя, Тейн ищет то, что составляет \"естество\" и использует приобретённые алхимические знания, чтобы сотворять сущности монстров. Он надеется найти способ излечения или хотя бы источник того, что он называет \"врождённой тьмой\", приведшей его к непростительной жестокости.","Metamorph",false,[],[],"","",false],["Metamorph3","Art/2DArt/UIImages/Login/LeagueInfo/Metamorph/Panel2","Art/2DArt/UIImages/Login/LeagueInfo/Metamorph/Heading2",["Art/2DArt/UIImages/Login/LeagueInfo/Metamorph/Panel2/Screenshot1","Art/2DArt/UIImages/Login/LeagueInfo/Metamorph/Panel2/Screenshot2","Art/2DArt/UIImages/Login/LeagueInfo/Metamorph/Panel2/Screenshot3"],"В каждой области, которую вы найдёте в лиге Метаморф, Танэ будет собирать образцы с отдельных убитых вами монстров. Призовите Тейна, чтобы объединить выбранные вами образцы и создать грозного врага-метаморфа. Во время схватки босс непредсказуемо меняет форму, а каждый образец добавляет ему способности. Тщательно подбирая образцы, вы контролируете возможности босса и награду за победу над ним.","Metamorph",true,[],[],"","",false],["Metamorph4","Art/2DArt/UIImages/Login/LeagueInfo/Metamorph/Panel3","Art/2DArt/UIImages/Login/LeagueInfo/Metamorph/Heading3",[],"Схватки с метаморфами также могут наградить вас катализаторами, валютой нового типа, которая повышает качество бижутерии. Есть много разновидностей такого качества, каждая из которых соответствует набору свойств. Повышение качества увеличивает значения соответствующих свойств на предмете, а потратив качество при помощи ремесла, можно повысить шанс получения связанных с ним свойств.","Metamorph",false,["Art/2DArt/UIImages/Login/LeagueInfo/Metamorph/items/ImbuedCatalyst","Art/2DArt/UIImages/Login/LeagueInfo/Metamorph/items/FertileCatalyst","Art/2DArt/UIImages/Login/LeagueInfo/Metamorph/items/PrismaticCatalyst"],["Art/2DArt/UIImages/Login/LeagueInfo/Metamorph/items/ImbuedCatalystHover","Art/2DArt/UIImages/Login/LeagueInfo/Metamorph/items/FertileCatalystHover","Art/2DArt/UIImages/Login/LeagueInfo/Metamorph/items/PrismaticCatalystHover"],"","",false],["Metamorph5","Art/2DArt/UIImages/Login/LeagueInfo/Metamorph/Panel4","Art/2DArt/UIImages/Login/LeagueInfo/Metamorph/Heading4",["Art/2DArt/UIImages/Login/LeagueInfo/Metamorph/Panel4/Screenshot1","Art/2DArt/UIImages/Login/LeagueInfo/Metamorph/Panel4/Screenshot2","Art/2DArt/UIImages/Login/LeagueInfo/Metamorph/Panel4/Screenshot3"],"Играя в лигу Метаморф на высоких уровнях, вы можете собирать образцы с боссов карт, чтобы затем создать смертельно опасных метаморфов, вобравших в себя силы, сложность и награды за убийство нескольких боссов в одной очень опасной схватке.","Metamorph",true,[],[],"","",false],["Metamorph6","Art/2DArt/UIImages/Login/LeagueInfo/Metamorph/Panel5","Art/2DArt/UIImages/Login/LeagueInfo/Metamorph/Heading5",[],"Лига Метаморф является частью более крупного дополнения Завоеватели Атласа, запуск которого состоится 13 декабря на ПК и на последующей неделе на Xbox One и PlayStation 4.","Metamorph",false,[],[],"","",true],["Delirium1","Art/2DArt/UIImages/Login/LeagueInfo/Delirium/ThumbnailTrailer","",[],"","Delirium",false,[],[],"http://web.poecdn.com/public/videos/DeliriumTrailer_En.bk2","",false],["Delirium2","Art/2DArt/UIImages/Login/LeagueInfo/Delirium/Panel1","Art/2DArt/UIImages/Login/LeagueInfo/Delirium/Heading1",[],"Загадочный недуг проник в ваш разум. Касаясь Зеркала Делириума, вы видите, как реальность обращается в дым и перед вашим взором предстают ваши худшие кошмары.\r\n\r\nВ наше мартовское дополнение входят лига испытаний Делириум, новая система кластерных самоцветов, новые умения и камни поддержки, мощные новые предметы и дальнейшие улучшения Атласа для позднего этапа игры.","Delirium",false,[],[],"","Art/2DArt/UIImages/Login/LeagueInfo/Delirium/textbackground",false],["Delirium3","Art/2DArt/UIImages/Login/LeagueInfo/Delirium/Panel2","Art/2DArt/UIImages/Login/LeagueInfo/Delirium/Heading2",["Art/2DArt/UIImages/Login/LeagueInfo/Delirium/Panel2/Screenshot1","Art/2DArt/UIImages/Login/LeagueInfo/Delirium/Panel2/Screenshot2","Art/2DArt/UIImages/Login/LeagueInfo/Delirium/Panel2/Screenshot3"],"Когда туманы делириума поглощают вас, вокруг рождаются новые враги, а знакомые противники приобретают жестокие способности. В Делириуме у монстров появятся десятки смертоносных свойств, будут добавлены многие новые боссы и ужасающие демоны, запертые внутри редких и уникальных врагов.","Delirium",true,[],[],"","Art/2DArt/UIImages/Login/LeagueInfo/Delirium/textbackground",false],["Delirium4","Art/2DArt/UIImages/Login/LeagueInfo/Delirium/Panel3","Art/2DArt/UIImages/Login/LeagueInfo/Delirium/Heading3",["Art/2DArt/UIImages/Login/LeagueInfo/Delirium/Panel3/Screenshot1","Art/2DArt/UIImages/Login/LeagueInfo/Delirium/Panel3/Screenshot2","Art/2DArt/UIImages/Login/LeagueInfo/Delirium/Panel3/Screenshot3"],"По мере погружения в Делириум вы будете сталкиваться с более многочисленными и опасными врагами, сулящими лучшую награду. Позволите ли вы жадности и гордыне втянуть вас в безумие?","Delirium",false,[],[],"","Art/2DArt/UIImages/Login/LeagueInfo/Delirium/textbackground",false],["Delirium5","Art/2DArt/UIImages/Login/LeagueInfo/Delirium/Panel4","Art/2DArt/UIImages/Login/LeagueInfo/Delirium/Heading4",["Art/2DArt/UIImages/Login/LeagueInfo/Delirium/Panel4/Screenshot1","Art/2DArt/UIImages/Login/LeagueInfo/Delirium/Panel4/Screenshot2","Art/2DArt/UIImages/Login/LeagueInfo/Delirium/Panel4/Screenshot3"],"Нигде нет спасения. Схватки, из которых вы прежде легко выходили победителем, теперь можно повторить под влиянием Делириума, существенно повысив их сложность и награды. Если вам хватит смелости, вы можете обратить Делириум в свою пользу, напитав им битвы прошлого.","Delirium",true,[],[],"","Art/2DArt/UIImages/Login/LeagueInfo/Delirium/textbackground",false],["Delirium6","Art/2DArt/UIImages/Login/LeagueInfo/Delirium/Panel5","Art/2DArt/UIImages/Login/LeagueInfo/Delirium/Heading5",[],"К высокоуровневым картам можно применять сферы Делириума, чтобы контролировать его интенсивность. Под действием сферы вы немедленно погружаетесь в Делириум на протяжении всей текущей карты. Одна сфера делает битву труднее, но на карте можно использовать до пяти сфер разом, чтобы максимально увеличить сложность игры и ценность наград.","Delirium",false,["Art/2DArt/UIImages/Login/LeagueInfo/Delirium/items/DeliriumOrbofCurrency","Art/2DArt/UIImages/Login/LeagueInfo/Delirium/items/DeliriumOrbofUniques","Art/2DArt/UIImages/Login/LeagueInfo/Delirium/items/DeliriumOrbofEssences","Art/2DArt/UIImages/Login/LeagueInfo/Delirium/items/DeliriumOrbofMaps","Art/2DArt/UIImages/Login/LeagueInfo/Delirium/items/DeliriumOrbofFossils","Art/2DArt/UIImages/Login/LeagueInfo/Delirium/items/FungalHollowMap"],["Art/2DArt/UIImages/Login/LeagueInfo/Delirium/items/DeliriumOrbofCurrency_hover","Art/2DArt/UIImages/Login/LeagueInfo/Delirium/items/DeliriumOrbofUniques_hover","Art/2DArt/UIImages/Login/LeagueInfo/Delirium/items/DeliriumOrbofEssences_hover","Art/2DArt/UIImages/Login/LeagueInfo/Delirium/items/DeliriumOrbofMaps_hover","Art/2DArt/UIImages/Login/LeagueInfo/Delirium/items/DeliriumOrbofFossils_hover","Art/2DArt/UIImages/Login/LeagueInfo/Delirium/items/FungalHollowMap_hover"],"","Art/2DArt/UIImages/Login/LeagueInfo/Delirium/textbackground",false],["Delirium7","Art/2DArt/UIImages/Login/LeagueInfo/Delirium/Panel6","Art/2DArt/UIImages/Login/LeagueInfo/Delirium/Heading6",[],"Ищите осколки в глубинах вашего безумия и объединяйте их, создавая Симулякр. Войдите в портал и попытайтесь выжить в самом опасном высокоуровневом испытании Делириума.","Delirium",true,["Art/2DArt/UIImages/Login/LeagueInfo/Delirium/items/SimulacrumSplinter","Art/2DArt/UIImages/Login/LeagueInfo/Delirium/items/Simulacrum"],["Art/2DArt/UIImages/Login/LeagueInfo/Delirium/items/SimulacrumSplinter_hover","Art/2DArt/UIImages/Login/LeagueInfo/Delirium/items/Simulacrum_hover"],"","Art/2DArt/UIImages/Login/LeagueInfo/Delirium/textbackground",false],["Delirium8","Art/2DArt/UIImages/Login/LeagueInfo/Delirium/Panel7","Art/2DArt/UIImages/Login/LeagueInfo/Delirium/Heading7",[],"Расширьте древо ваших пассивных умений, разместив кластерный самоцвет в одном из наружных гнёзд. С ремесленными свойствами, улучшающими генерируемые пассивные умения, добавляющими одно из 280 новых значимых умений и даже прививающими дополнительные гнёзда, кластерные самоцветы позволят вам вырастить собственное дерево умений.\r\n\r\nНовые самоцветы, выпадающие при убийстве любых монстров в лиге Делириум, - одно из наиболее значительных улучшений персонализации билдов со времён введения классов Восхождения.","Delirium",false,["Art/2DArt/UIImages/Login/LeagueInfo/Delirium/items/NotableSmallClusterJewel","Art/2DArt/UIImages/Login/LeagueInfo/Delirium/items/CarrionShine","Art/2DArt/UIImages/Login/LeagueInfo/Delirium/items/BroodRuin","Art/2DArt/UIImages/Login/LeagueInfo/Delirium/items/OneWithNothing","Art/2DArt/UIImages/Login/LeagueInfo/Delirium/items/Voices"],["Art/2DArt/UIImages/Login/LeagueInfo/Delirium/items/NotableSmallClusterJewel_hover","Art/2DArt/UIImages/Login/LeagueInfo/Delirium/items/CarrionShine_hover","Art/2DArt/UIImages/Login/LeagueInfo/Delirium/items/BroodRuin_hover","Art/2DArt/UIImages/Login/LeagueInfo/Delirium/items/OneWithNothing_hover","Art/2DArt/UIImages/Login/LeagueInfo/Delirium/items/Voices_hover"],"","Art/2DArt/UIImages/Login/LeagueInfo/Delirium/textbackground",false],["Delirium9","Art/2DArt/UIImages/Login/LeagueInfo/Delirium/Panel8","Art/2DArt/UIImages/Login/LeagueInfo/Delirium/Heading8",[],"Завоеватели Атласа оживили впечатления от высокоуровневой игры Path of Exile. В Делириуме мы сделали появление Завоевателей предопределённым, вернули в игру рецепты торговцев на секстанты, добавили дополнительные стимулы для достижения более высоких уровней Пробуждения, переработали побочные области ваал на картах, улучшили храм Ацоатль и многое другое.","Delirium",true,[],[],"","Art/2DArt/UIImages/Login/LeagueInfo/Delirium/textbackground",false],["Delirium10","Art/2DArt/UIImages/Login/LeagueInfo/Delirium/Panel9","Art/2DArt/UIImages/Login/LeagueInfo/Delirium/Heading9",["Art/2DArt/UIImages/Login/LeagueInfo/Delirium/Panel9/Screenshot1","Art/2DArt/UIImages/Login/LeagueInfo/Delirium/Panel9/Screenshot2","Art/2DArt/UIImages/Login/LeagueInfo/Delirium/Panel9/Screenshot3"],"Дополнение Делириум привнесёт четыре новых камня умений и три новых камня поддержки. В лучших традициях Path of Exile мы сконцентрировались на разнообразии вариантов их применения, и новые камни дополнят многие стили игры.","Delirium",false,[],[],"","Art/2DArt/UIImages/Login/LeagueInfo/Delirium/textbackground",false],["Delirium11","Art/2DArt/UIImages/Login/LeagueInfo/Delirium/Panel10","Art/2DArt/UIImages/Login/LeagueInfo/Delirium/Heading10",[],"В дополнение к новой валюте, кластерным самоцветам, камням и высокоуровневым картам Симулякра, в Path of Exile: Делириум появится множество новых гадальных карт и уникальных предметов, которые откроют новые грани ураганного игрового процесса.","Delirium",true,["Art/2DArt/UIImages/Login/LeagueInfo/Delirium/items/Perfidy","Art/2DArt/UIImages/Login/LeagueInfo/Delirium/items/AlgorMortis","Art/2DArt/UIImages/Login/LeagueInfo/Delirium/items/KitavasTeachings","Art/2DArt/UIImages/Login/LeagueInfo/Delirium/items/SplitPersonality","Art/2DArt/UIImages/Login/LeagueInfo/Delirium/items/TheTinkerersTable","Art/2DArt/UIImages/Login/LeagueInfo/Delirium/items/TheProgenyofLunaris"],["Art/2DArt/UIImages/Login/LeagueInfo/Delirium/items/Perfidy_hover","Art/2DArt/UIImages/Login/LeagueInfo/Delirium/items/AlgorMortis_hover","Art/2DArt/UIImages/Login/LeagueInfo/Delirium/items/KitavasTeachings_hover","Art/2DArt/UIImages/Login/LeagueInfo/Delirium/items/SplitPersonality_hover","Art/2DArt/UIImages/Login/LeagueInfo/Delirium/items/TheTinkerersTable_hover","Art/2DArt/UIImages/Login/LeagueInfo/Delirium/items/TheProgenyofLunaris_hover"],"","Art/2DArt/UIImages/Login/LeagueInfo/Delirium/textbackground",false],["Delirium12","Art/2DArt/UIImages/Login/LeagueInfo/Delirium/Panel11","Art/2DArt/UIImages/Login/LeagueInfo/Delirium/Heading11",[],"Вместе с Path of Exile: Делириум мы выпускаем два новых набора поддержки, Видящего тьму и Прядильщика судьбы. Оба набора представлены в двух версиях, из которых вы получите монеты, наборы доспехов и другие косметические микротранзакции!\r\n\r\nЗапуск Path of Exile: Делириум состоится 13 марта на ПК и на последующей неделе на Xbox One и PlayStation 4.","Delirium",false,[],[],"","Art/2DArt/UIImages/Login/LeagueInfo/Delirium/textbackground",true],["Harvest1","Art/2DArt/UIImages/Login/LeagueInfo/Harvest/ThumbnailTrailer","",[],"","Harvest",false,[],[],"http://web.poecdn.com/public/videos/HarvestTrailer_En.bk2","",false],["Harvest2","Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Panel1","Art/2DArt/UIImages/Login/LeagueInfo/Harvest/heading1",[],"В Path of Exile: Жатва Ошаби возделывает Священную рощу, древний сад таинственной силы. Сажайте семена, вырастающие в опасных врагов, и добавляйте их жизненную силу к своим предметам.\n\nВ наше июньское дополнение входят лига испытаний Жатва, мощные новые возможности ремесла, 8 новых умений, 2 новых камня поддержки, обновление двуручного оружия, боевых кличей, клейм, мощных ударов и самого дерева пассивных умений. Мы также добавляем 12 новых уникальных предметов и перерабатываем более 50 существующих.","Harvest",false,[],[],"","Art/2DArt/UIImages/Login/LeagueInfo/Delirium/textbackground",false],["Harvest3","Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Panel2","Art/2DArt/UIImages/Login/LeagueInfo/Harvest/heading2",["Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Panel2/Screenshot1","Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Panel2/Screenshot2","Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Panel2/Screenshot3"],"<italic>{\"Она красива, правда? Я думаю, она старше Вечной Империи. Старше ваал? Не уверена. Но она не похожа на дело их рук. Мне нравится думать, что она – творение моих предков азмири. Когда-то земля одарила меня тесной связью с собою. Она говорила со мной и кормила меня. Но эта связь была разорвана. И в ответ моё племя разорвало связь со мной. Я была одинока. Потеряна. Земля молчала... пока я не нашла это место,\"} -- Ошаби","Harvest",true,[],[],"","Art/2DArt/UIImages/Login/LeagueInfo/Delirium/textbackground",false],["Harvest4","Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Panel3","Art/2DArt/UIImages/Login/LeagueInfo/Harvest/heading3",[],"Ищите тайники с семенами в каждой области, какую исследуете. Несите семена через портал Ошаби в Священную рощу. Засевайте ими землю, чтобы вырастить опасных и ценных монстров. Хотя большинство семян прорастают без труда, редкие образцы требуют более тщательного планирования, но и приносят более ценный результат. ","Harvest",false,["Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Items/PrimalFeastingHorrorGrain","Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Items/VividRazorlegSeed","Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Items/WildBramblebackBulb"],["Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Items/PrimalSeed","Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Items/VividSeed","Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Items/WildSeed"],"","Art/2DArt/UIImages/Login/LeagueInfo/Delirium/textbackground",false],["Harvest5","Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Panel4","Art/2DArt/UIImages/Login/LeagueInfo/Harvest/heading4",["Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Panel4/Screenshot1","Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Panel4/Screenshot2","Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Panel4/Screenshot3"],"Когда ваши монстры готовы к жатве, убивайте их и вытягивайте их жизненную силу. Каждого своего противника в Священной роще вы выращиваете намеренно. Подстраивайте бои под возможности вашего персонажа и нужные вам награды.","Harvest",true,[],[],"","Art/2DArt/UIImages/Login/LeagueInfo/Delirium/textbackground",false],["Harvest6","Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Panel5","Art/2DArt/UIImages/Login/LeagueInfo/Harvest/heading5",[],"Каждый побеждённый вами монстр в Священной роще дарует вам возможность для ремесла. Использование одной из этих мощных возможностей расходует жизненную силу только что убитых вами противников. Чтобы увеличить доступную вам жизненную силу и, следовательно, расширить ремесленный потенциал, готовьтесь сразиться со столькими монстрами, со сколькими рискнёте совладать. Ремесло в Жатве предоставляет направленный функционал невиданных в Path of Exile масштабов.","Harvest",false,["Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Items/QuicksilverFlaskItem","Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Items/TributetotheGoddessItem","Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Items/JewelledLegionScarabItem","Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Items/ChaosPoint","Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Items/TheBeachhead"],["Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Items/QuicksilverFlask","Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Items/TributeToTheGoddess","Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Items/JewelledLegionScarab","Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Items/ChaosPointDigMap","Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Items/TheBeachheadHarbingerMap"],"","Art/2DArt/UIImages/Login/LeagueInfo/Delirium/textbackground",false],["Harvest7","Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Panel6","Art/2DArt/UIImages/Login/LeagueInfo/Harvest/heading6",[],"Выращивая легендарный сад, вы обнаружите экзотические семена, для прорастания которых требуются особые условия. Разнообразные трубы, конденсаторы и дозаторы помогут вам удобрить сад оставшейся жизненной силой.","Harvest",true,["Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Items/DisperserItem","Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Items/CondenserItem","Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Items/WildLifeforceCollectorItem"],["Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Items/Disperser","Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Items/Condenser","Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Items/WildLifeforceCollector"],"","Art/2DArt/UIImages/Login/LeagueInfo/Delirium/textbackground",false],["Harvest8","Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Panel7","Art/2DArt/UIImages/Login/LeagueInfo/Harvest/heading7",["Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Panel7/Screenshot1","Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Panel7/Screenshot2","Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Panel7/Screenshot3"],"Ошаби знает легенду о трёх первородных зверях: Эрси, Джанаар и Намхариме. Тем, кто сможет вырастить эти редкие семена, родившиеся из них огромные монстры принесут самые ценные награды Жатвы.","Harvest",false,[],[],"","Art/2DArt/UIImages/Login/LeagueInfo/Delirium/textbackground",false],["Harvest9","Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Panel8","Art/2DArt/UIImages/Login/LeagueInfo/Harvest/heading8",[],"Дерево пассивных умений получило множество долгожданных улучшений, включая лучшую поддержку некоторых механик (например, двуручного оружия или свирепости) за счёт как повышения цифровых значений, так и полностью новых групп умений. Всё это - в дополнение ко множеству новых значимых и ключевых умений, среди которых есть и полюбившиеся игрокам умения вневременных самоцветов, и даже совершенно новые умения.","Harvest",true,[],[],"","Art/2DArt/UIImages/Login/LeagueInfo/Delirium/textbackground",false],["Harvest10","Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Panel9","Art/2DArt/UIImages/Login/LeagueInfo/Harvest/heading9",["Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Panel9/Screenshot1","Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Panel9/Screenshot2","Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Panel9/Screenshot3"],"Как часть улучшений двуручного оружия, несколько умений ближнего боя теперь выделены в отдельную категорию мощных ударов. В этой категории появились новое умение и камень поддержки Кулак войны. Также мы обновили несколько существующих мощных ударов, улучшив их функциональность, добавив им новые визуальные эффекты и увеличив их силу в руках обладателей двуручного оружия.","Harvest",false,[],[],"","Art/2DArt/UIImages/Login/LeagueInfo/Delirium/textbackground",false],["Harvest11","Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Panel10","Art/2DArt/UIImages/Login/LeagueInfo/Harvest/heading10",["Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Panel10/Screenshot1","Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Panel10/Screenshot2","Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Panel10/Screenshot3"],"Мы добавили четыре новых боевых клича и переработали три существующих. Эффект боевых кличей теперь зависит от силы ближайших врагов, а не их количества. Многие кличи также <italic>{улучшают} ваши атаки, на короткое время увеличивая их мощь.","Harvest",true,[],[],"","Art/2DArt/UIImages/Login/LeagueInfo/Delirium/textbackground",false],["Harvest12","Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Panel11","Art/2DArt/UIImages/Login/LeagueInfo/Harvest/heading11",["Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Panel11/Screenshot1","Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Panel11/Screenshot2","Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Panel11/Screenshot3"],"Мы ввели в игру три новых клейма, один камень поддержки клейм, и обновили существующие клейма. Мы сделали клейма гораздо более могущественными, в то же время пересмотрев принцип их механики. Возврат клейм больше не доминирует над остальными умениями, но является полезным инструментом наравне со многими другими возможностями.","Harvest",false,[],[],"","Art/2DArt/UIImages/Login/LeagueInfo/Delirium/textbackground",false],["Harvest13","Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Panel12","Art/2DArt/UIImages/Login/LeagueInfo/Harvest/heading12",[],"Мы добавляем 12 новых уникальных предметов и перерабатываем более 50 существующих.","Harvest",true,["Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Items/StormSecret","Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Items/DoryanisPrototype","Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Items/MoonbendersWing","Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Items/WakeofDestruction"],["Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Items/StormSecretTopazRing","Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Items/DoryanisPrototypeSaintsHauberk","Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Items/MoonbendersWingTomahawk","Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Items/WakeOfDestructionMeshBoots"],"","Art/2DArt/UIImages/Login/LeagueInfo/Delirium/textbackground",false],["Harvest14","Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Panel13","Art/2DArt/UIImages/Login/LeagueInfo/Harvest/heading13",[],"Делириум и кластерные самоцветы переносятся в основу Path of Exile! Поскольку Делириум сочетается с механиками других лиг, повышая их сложность и награды, вероятность столкнуться с ним растёт экспоненциально по мере увеличения числа различных механик лиг в области.","Harvest",false,[],[],"","Art/2DArt/UIImages/Login/LeagueInfo/Delirium/textbackground",false],["Harvest15","Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Panel14","Art/2DArt/UIImages/Login/LeagueInfo/Harvest/heading14",[],"На прошлой неделе мы выпустили бета-версию нашего нового отрисовщика на основе Vulkan, который резко сократил задержки и увеличил плавность игры. Для многих игроков этот отрисовщик стал большим шагом вперёд, и мы планируем устранить неполадки, с которыми столкнулись другие пользователи, до выхода Жатвы. Новому отрисовщику сопутствуют непрерывные улучшения графических технологий, как, например, новая система свечения, широко используемая в лиге Жатва.","Harvest",true,[],[],"","Art/2DArt/UIImages/Login/LeagueInfo/Delirium/textbackground",false],["Harvest16","Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Panel15","Art/2DArt/UIImages/Login/LeagueInfo/Harvest/heading15",[],"Одновременно с лигой Жатва мы выпускаем два новых набора поддержки - Злобы и Благоволения. Оба набора представлены в двух версиях, из которых вы получите большое количество монет, комплекты доспехов и другие эксклюзивные косметические микротранзакции!\n\nЗапуск Path of Exile: Жатва состоится 19 июня на ПК и 24 июня на Xbox One и PlayStation 4.","Harvest",false,[],[],"","Art/2DArt/UIImages/Login/LeagueInfo/Delirium/textbackground",true],["Heist1","Art/2DArt/UIImages/Login/LeagueInfo/Heist/ThumbnailTrailer","",[],"","Heist",false,[],[],"http://web.poecdn.com/public/videos/HeistTrailer_En.bk2","",false],["Heist2","Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel1","Art/2DArt/UIImages/Login/LeagueInfo/Heist/Heading1",[],"В <italic>{Path of Exile: Кража} вы будете нанимать опытных воров, которые помогут вам проворачивать рискованные ограбления. Крадите ценные артефакты, чтобы обеспечивать ваш отряд средствами и тренировать его участников, пока вы готовитесь осуществить Большое Ограбление.\n\nВ наше сентябрьское дополнение входят лига испытаний Кража, девять новых умений и камней поддержки, изменения проклятий, умений стали и некоторых чар. Большие Ограбления позволят получить эксклюзивные новые награды, такие как зачарования для оружия и нательного доспеха, украшения Кражи, камни с изменённым эффектом качества и копии уникальных предметов.","Heist",false,[],[],"","Art/2DArt/UIImages/Login/LeagueInfo/Heist/textbackground",false],["Heist3","Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel2","Art/2DArt/UIImages/Login/LeagueInfo/Heist/Heading2",["Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel2/Screenshot1","Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel2/Screenshot2","Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel2/Screenshot3"],"Купите себе пропуск в Разбойничью гавань, где сможете вести дела с шайкой воров, предлагающих тёмные услуги. Себе в помощь можно нанять тринадцать авантюристов, которые помогут организовать или осуществить кражу, взяв на себя различные роли наподобие перевозки, взлома или подрыва. ","Heist",true,[],[],"","Art/2DArt/UIImages/Login/LeagueInfo/Heist/textbackground",false],["Heist4","Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel3","Art/2DArt/UIImages/Login/LeagueInfo/Heist/Heading3",["Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel3/Screenshot1","Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel3/Screenshot2","Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel3/Screenshot3"],"Чтобы осуществить ограбление, необходимо знать, где лежит ценный артефакт и как он охраняется. Контракты с подсказками можно найти по всему Рэкласту вместе с монетами, на которых отчеканена загадочная эмблема Разбойничьей гавани. Доберитесь туда и обменяйте эти находки на опытные руки, нужные вам для кражи.","Heist",false,["Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/RoguesMarker","Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/ContractBunker","Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/ForgottenSight","Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/UrnofFarud","Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/IncenseofKeth"],["Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/RoguesMarkerHover","Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/ContractBunkerHover","Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/ForgottenSightHover","Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/UrnofFarudHover","Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/IncenseofKethHover"],"","Art/2DArt/UIImages/Login/LeagueInfo/Heist/textbackground",false],["Heist5","Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel4","Art/2DArt/UIImages/Login/LeagueInfo/Heist/Heading4",["Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel4/Screenshot1","Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel4/Screenshot2","Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel4/Screenshot3"],"Если вы не сумеете скрыться с места преступления, то потеряете всё, что украли по ходу проникновения на объект. Вам потребуется прикрывать ваших людей, пока они обходят охрану, чтобы добраться до хранилища. Будьте осторожны и не поднимите слишком много шума, иначе сработает сигнализация и место кражи будет изолировано. Когда такое происходит, пора делать ноги.","Heist",true,[],[],"","Art/2DArt/UIImages/Login/LeagueInfo/Heist/textbackground",false],["Heist6","Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel5","Art/2DArt/UIImages/Login/LeagueInfo/Heist/Heading5",[],"Авантюристов можно снабдить особыми предметами, чтобы сделать их тише, смертоноснее и успешнее в своих ролях. Как и любую другую экипировку, эту можно изготавливать с помощью ремесла и валюты. Хорошо снаряжённый отряд будет как нельзя кстати при проведении самых сложных ограблений.","Heist",false,["Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/CriminalsGoldenBrooch","Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/SulphurBlowtorch","Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/EnforcersStandardSharpeningStoneoftheNewt","Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/HonourVisage"],["Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/CriminalsGoldenBroochHover","Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/SulphurBlowtorchHover","Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/EnforcersStandardSharpeningStoneoftheNewtHover","Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/HonourVisageHover"],"","Art/2DArt/UIImages/Login/LeagueInfo/Heist/textbackground",false],["Heist7","Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel6","Art/2DArt/UIImages/Login/LeagueInfo/Heist/Heading6",["Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel6/Screenshot1","Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel6/Screenshot2","Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel6/Screenshot3"],"Главная цель вора - провернуть Большое Ограбление. Для этого требуется доступ к чертежам, на которых видно, где в сети помещений расположены хранилища. Столь искусную работу необходимо тщательно планировать, приобретать дополнительные сведения о месте действия и нанимать нескольких профессионалов, чтобы преодолеть многочисленные препятствия. План способен окупиться с лихвой, поскольку в каждом хранилище находятся свои уникальные награды.","Heist",true,["Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/BlueprintLaboratory","Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/FleetBlueprintBunkerofInsulation","Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/GhastlyView"],["Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/BlueprintLaboratoryHover","Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/FleetBlueprintBunkerofInsulationHover","Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/GhastlyViewHover"],"","Art/2DArt/UIImages/Login/LeagueInfo/Heist/textbackground",false],["Heist8","Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel7","Art/2DArt/UIImages/Login/LeagueInfo/Heist/Heading7",[],"В качестве одной из уникальных наград в Больших Ограблениях вы можете завладеть украшениями, которые помещаются в специально отведённое для них место в окне экипировки персонажа. Эти магические предметы влияют на то, какие ценности вы найдёте во время будущих краж. Некоторые их свойства касаются предметов, выпадающих из сундуков и при убийстве монстров, другие влияют конкретно на награды, получаемые из сундуков Кражи.","Heist",false,["Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/ArmageddonCurio","Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/FateCurio"],["Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/ArmageddonCurioHover","Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/FateCurioHover"],"","Art/2DArt/UIImages/Login/LeagueInfo/Heist/textbackground",false],["Heist9","Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel8","Art/2DArt/UIImages/Login/LeagueInfo/Heist/Heading8",[],"Камни с изменённым эффектом качества добываются в комнатах с наградами во время Больших Ограблений и придают существующим камням умений и поддержки ещё большую глубину. Каждый встречающийся в Path of Exile камень имеет вплоть до трёх версий с изменённым эффектом качества, отличным от оригинального камня. Одни версии просто увеличивают мощь камня, тогда как другие в корне меняют его полезность для тех или иных билдов.","Heist",true,["Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/ArchmageSupport","Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/Cleave","Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/HeraldofAgony"],["Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/ArchmageSupportHover","Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/CleaveHover","Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/HeraldofAgonyHover"],"","Art/2DArt/UIImages/Login/LeagueInfo/Heist/textbackground",false],["Heist10","Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel9","Art/2DArt/UIImages/Login/LeagueInfo/Heist/Heading9",[],"Другой наградой за Большие Ограбления служат копии уникальных предметов и предметы экспериментального базового типа. Копии уникальных предметов - это результат попытки воссоздания легендарных уникальных предметов, где итоговый предмет обладает рядом критических отличий. Копии часто годятся для совершенно других билдов, нежели их оригиналы. Предметы экспериментального базового типа - это разнообразные базовые предметы, имеющие уникальные свойства, которые отличают их от типовых базовых предметов.","Heist",false,["Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/ReplicaSorrowoftheDivine","Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/ReplicaLioneyesPaws","Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/ReplicaAbyssus","Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/SkullBarrage"],["Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/ReplicaSorrowoftheDivineHover","Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/ReplicaLioneyesPawsHover","Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/ReplicaAbyssusHover","Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/SkullBarrageHover"],"","Art/2DArt/UIImages/Login/LeagueInfo/Heist/textbackground",false],["Heist11","Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel10","Art/2DArt/UIImages/Login/LeagueInfo/Heist/Heading10",[],"Последним доступным в Больших Ограблениях видом награды является набор зачарований для оружия и нательного доспеха. Данные зачарования появляются на сверхъестественно мощных редких предметах и влияют на величину свойств данных предметов. Некоторые из этих зачарований столь могущественны, что имеют и значительные негативные эффекты.","Heist",true,["Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/DragonWrap","Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/HonourMangler"],["Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/DragonWrapHover","Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/HonourManglerHover"],"","Art/2DArt/UIImages/Login/LeagueInfo/Heist/textbackground",false],["Heist12","Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel11","Art/2DArt/UIImages/Login/LeagueInfo/Heist/Heading11",["Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel11/Screenshot1","Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel11/Screenshot2","Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel11/Screenshot3"],"Мы добавили новое связанное с проклятиями умение и новый камень поддержки проклятий. Новая механика Рока заставляет самостоятельно сотворённое проклятие постепенно усиливаться, пока не кончится срок его действия. Этот эффект хорошо сочетается с камнем поддержки Обречённость, вызывающим взрыв хаоса по завершении действия связанных проклятий. Проклятия также получили новый внешний вид.","Heist",false,[],[],"","Art/2DArt/UIImages/Login/LeagueInfo/Heist/textbackground",false],["Heist13","Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel12","Art/2DArt/UIImages/Login/LeagueInfo/Heist/Heading12",["Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel12/Screenshot1","Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel12/Screenshot2","Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel12/Screenshot3"],"Мы обновили умения стали, добавив осколки - смертоносные фрагменты лезвий, парящие рядом с вашим персонажем. Вооружившись умением стали, вы получаете доступ к Зову стали. При его использовании из земли появляются осколки, обеспечивая стальные снаряды дополнительным боезапасом, а уже существующие осколки вылетают из проколотых врагов. Мы также переработали Дробящую и Пронзающую сталь и добавили одно новое умение стали.","Heist",true,[],[],"","Art/2DArt/UIImages/Login/LeagueInfo/Heist/textbackground",false],["Heist14","Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel13","Art/2DArt/UIImages/Login/LeagueInfo/Heist/Heading13",["Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel13/Screenshot1","Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel13/Screenshot2","Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel13/Screenshot3"],"Помимо добавления шести новых чар, мы переработали Разряд и Ледяной каскад. Суть новых чар в том, что, будучи эффективными в разнообразных билдах, они получают дополнительные преимущества при их сотворении вручную.","Heist",false,[],[],"","Art/2DArt/UIImages/Login/LeagueInfo/Heist/textbackground",false],["Heist15","Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel14","Art/2DArt/UIImages/Login/LeagueInfo/Heist/Heading14",[],"В <italic>{Path of Exile: Кража} также войдут более 25 новых уникальных предметов, 12 новых гадальных карт, обновление внешнего вида некоторых эффектов умений и многое другое.","Heist",true,["Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/Corpsewalker","Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/ChainsofEmancipation","Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/Triskaidekaphobia"],["Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/CorpsewalkerHover","Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/ChainsofEmancipationHover","Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/TriskaidekaphobiaHover"],"","Art/2DArt/UIImages/Login/LeagueInfo/Heist/textbackground",false],["Heist16","Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel15","Art/2DArt/UIImages/Login/LeagueInfo/Heist/Heading15",[],"Параллельно с дополнением Path of Exile выходит на macOS! Данная версия Path of Exile полностью интегрирована с основным международным сервером на ПК, так что у вас будет доступ к уже имеющимся у вас учётным записям и микротранзакциям.","Heist",false,[],[],"","Art/2DArt/UIImages/Login/LeagueInfo/Heist/textbackground",false],["Heist17","Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel16","Art/2DArt/UIImages/Login/LeagueInfo/Heist/Heading16",[],"Одновременно с лигой Кража мы выпускаем два новых набора поддержки - Колдовского клинка и Орла. Оба набора представлены в двух версиях, из которых вы получите большое количество монет, несколько эксклюзивных микротранзакций и новый тип эффекта персонажа, который заряжается по мере убийства монстров.\n\nЗапуск <italic>{Path of Exile: Кража} состоится 18 сентября на ПК и 23 сентября на Xbox One и PlayStation 4.","Heist",true,[],[],"","Art/2DArt/UIImages/Login/LeagueInfo/Heist/textbackground",true]]}
+{
+  "filename": "LeagueInfo.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "PanelImage",
+      "rowid": 1,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": true,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "HeaderImage",
+      "rowid": 2,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": true,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Screenshots",
+      "rowid": 3,
+      "type": "ref|list|ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": true,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Description",
+      "rowid": 4,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "League",
+      "rowid": 5,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Flag0",
+      "rowid": 6,
+      "type": "bool",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "ItemImages",
+      "rowid": 7,
+      "type": "ref|list|ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": true,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "HoverImages",
+      "rowid": 8,
+      "type": "ref|list|ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": true,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "TrailerVideoLink",
+      "rowid": 9,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "BackgroundImage",
+      "rowid": 10,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": true,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Flag1",
+      "rowid": 11,
+      "type": "bool",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "Delve1",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel1",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Delve/Heading1",
+      [],
+      "В Path of Exile: Спуск вы погрузитесь в бесконечные глубины Азуритовой шахты, чтобы добыть сокровища и разгадать её скрытые тайны.\nВ нашем новом дополнении мы представляем бесконечное подземелье и валюту с гнёздами, а также множество новых уникальных предметов, камни умений, изменения баланса, улучшения графического движка и многое другое!",
+      "Delve",
+      false,
+      [],
+      [],
+      "",
+      "",
+      false
+    ],
+    [
+      "Delve2",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel2",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Delve/Heading2",
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel2/Screenshot1",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel2/Screenshot2",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel2/Screenshot3"
+      ],
+      "Заброшенная более чем на 250 лет, Азуритовая шахта была поглощена зловещей тьмой, изгнавшей Вечную Империю. Изобретатель Нико сумел извлечь силу вольтаксового сульфита для создания Ползуна, машины, способной пробираться сквозь тьму. Спускайтесь в шахту, но не отходите далеко от света, иначе темнота вас раздавит. \r\nПолзун ускорится, если вы будете бежать впереди него.",
+      "Delve",
+      true,
+      [],
+      [],
+      "",
+      "",
+      false
+    ],
+    [
+      "Delve3",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel3",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Delve/Heading3",
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel3/Screenshot1",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel3/Screenshot2",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel3/Screenshot3"
+      ],
+      "Азуритовая шахта полна сокровищ для тех, кто достаточно смел, чтобы рискнуть ненадолго войти во тьму. Используйте факелы, чтобы отклониться от пути Ползуна, и динамит для уничтожения шатких стен, за которыми скрываются более ценные награды.",
+      "Delve",
+      false,
+      [],
+      [],
+      "",
+      "",
+      false
+    ],
+    [
+      "Delve4",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel4",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Delve/Heading4",
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel4/Screenshot1",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel4/Screenshot2",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel4/Screenshot3"
+      ],
+      "Весь азурит, найденный вами в шахте, можно сдать Нико в его лагере. В обмен он предложит улучшить Ползуна и сможет продать вам факелы, динамит и материалы, которые пригодятся для ваших исследований.",
+      "Delve",
+      true,
+      [],
+      [],
+      "",
+      "",
+      false
+    ],
+    [
+      "Delve5",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel5",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Delve/Heading5",
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel5/Screenshot1",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel5/Screenshot2",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel5/Screenshot3"
+      ],
+      "В глубинах Азуритовой шахты вы обнаружите множество различных биомов. Спускаясь ещё ниже, вы сможете найти затерянные города мрачной истории Рэкласта. В каждом городе вас ждут новые монстры, боссы, сражения и награды.",
+      "Delve",
+      false,
+      [],
+      [],
+      "",
+      "",
+      false
+    ],
+    [
+      "Delve6",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel6",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Delve/Heading6",
+      [],
+      "Древние цивилизации создали особые предметы, в которые можно поместить окаменелости для изменения их свойств.",
+      "Delve",
+      true,
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel6/GlyphicFossil",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel6/JaggedFossil",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel6/Reroll2x1A",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel6/Reroll2x2B",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel6/Upgrade1x1A",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel6/HelmetDexInt11"
+      ],
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel6/GlyphicFossilHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel6/JaggedFossilHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel6/Reroll2x1AHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel6/Reroll2x2BHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel6/Upgrade1x1AHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel6/HelmetDexInt11Hover"
+      ],
+      "",
+      "",
+      false
+    ],
+    [
+      "Delve7",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel7",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Delve/Heading7",
+      [],
+      "Азуритовая шахта - первое бесконечное подземелье в Path of Exile. Чем глубже вы спускаетесь, тем сложнее становится игра. В лиге Спуск вас ждут сражения, гораздо более трудные, чем на высокоуровневых картах. Ваш прогресс ограничен только силой вашего персонажа. Рейтинг Спуска будет отслеживать, кто глубже всех спустился в шахту.",
+      "Delve",
+      false,
+      [],
+      [],
+      "",
+      "",
+      false
+    ],
+    [
+      "Delve8",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel8",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Delve/Heading8",
+      [],
+      "В Path of Exile: Спуск входят 10 новых мощных или полностью переработанных умений для двух архетипов персонажей: Защитника и Следопыта. Играйте за священного воина, поражающего врагов уроном от молнии и дающего преимущества союзникам и приспешникам, или лучником с уроном от хаоса, использующим природные и ядовитые умения, чтобы замедлять и постепенно убивать врагов.",
+      "Delve",
+      true,
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel8/DominatingBlow",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel8/RainofSporesGem",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel8/SmiteGem",
+        " Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel8/Unknown1",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel8/Unknown2",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel8/Unknown3",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel8/Unknown4",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel8/Unknown5",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel8/Unknown6",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel8/Unknown7"
+      ],
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel8/DominatingBlowHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel8/RainofSporesGemHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel8/SmiteGemHover",
+        " Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel8/UnknownHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel8/UnknownHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel8/UnknownHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel8/UnknownHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel8/UnknownHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel8/UnknownHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel8/UnknownHover"
+      ],
+      "",
+      "",
+      false
+    ],
+    [
+      "Delve9",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel9",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Delve/Heading9",
+      [],
+      "Дополнение Path of Exile не обойдётся и без новых уникальных предметов! В дополнение Спуск входят 7 новых гадальных карт и 18 новых уникальных предметов, направленных на создание возможностей для новых мощных билдов.",
+      "Delve",
+      false,
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel9/CerebusLimb",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel9/Doryanis",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel9/TheGreySpire",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel9/ThePrimordialChain"
+      ],
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel9/CerebusLimbHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel9/DoryanisHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel9/TheGreySpireHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel9/ThePrimordialChainHover"
+      ],
+      "",
+      "",
+      false
+    ],
+    [
+      "Delve10",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel10",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Delve/Heading10",
+      [],
+      "В путешествии по Рэкласту вы сможете найти очень редкий ключ от Ветхого Реликвария. Этот ключ откроет портал в Ветхий Реликварий с одной из 150 уникальных реликвий из прошлых лиг Path of Exile.",
+      "Delve",
+      true,
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel10/AbyssBoots",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel10/RigwaldsQuills",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel10/SpiderArmourBody",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel10/TasaliosSign",
+        " Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel10/VaultMap3"
+      ],
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel10/AbyssBootsHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel10/RigwaldsQuillsHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel10/SpiderArmourBodyHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel10/TasaliosSignHover",
+        " Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel10/VaultMap3Hover"
+      ],
+      "",
+      "",
+      false
+    ],
+    [
+      "Delve11",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Delve/Panel11",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Delve/Heading11",
+      [],
+      "Кроме того, мы выпускаем два новых набора поддержки, Ловца теней и Горна ужаса. Оба набора представлены в двух версиях, из которых вы получите большое количество монет, наборы доспехов и другие эксклюзивные косметические микротранзакции.",
+      "Delve",
+      false,
+      [],
+      [],
+      "",
+      "",
+      true
+    ],
+    [
+      "Betrayal1",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/Panel1",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/Heading1",
+      [],
+      "В лиге Предательство Джун Ортой разыскивает таинственную организацию, известную как \"Бессмертный Синдикат\". Помогите ей повлиять на ранги в Синдикате, раскрыть личности его членов, обнаружить их укрытия и уничтожить главаря. ",
+      "Betrayal",
+      false,
+      [],
+      [],
+      "",
+      "",
+      false
+    ],
+    [
+      "Betrayal2",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/Panel2",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/Heading2",
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/Panel2/Screenshot1",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/Panel2/Screenshot2",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/Panel2/Screenshot3"
+      ],
+      "Бессмертный Синдикат состоит из четырёх подразделений, каждое со своими собственными задачами: укрепление, перевозка, исследование и нападение. В каждой области вы встретите члена Синдиката. Другие его участники могут появиться, чтобы помочь своим товарищам или помешать врагам. Как только битва завершится, вы должны решить, как продолжить ваше расследование. ",
+      "Betrayal",
+      true,
+      [],
+      [],
+      "",
+      "",
+      false
+    ],
+    [
+      "Betrayal3",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/Panel3",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/Heading3",
+      [],
+      "В Синдикате восемнадцать членов со своими особенностями, друзьями и врагами, которые будут меняться под вашим влиянием. Чтобы продолжить расследование, вам нужно договариваться с ними, казнить, допрашивать и даже побуждать их предавать друг друга.",
+      "Betrayal",
+      false,
+      [],
+      [],
+      "",
+      "",
+      false
+    ],
+    [
+      "Betrayal4",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/Panel4",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/Heading4",
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/Panel4/Screenshot1",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/Panel4/Screenshot2",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/Panel4/Screenshot3"
+      ],
+      "Ваша цель - собрать информацию, которая приведет вас к капитанам каждого подразделения. Совершайте набеги на их укрытия, чтобы разграбить их запасы и раскрыть истинную личность организатора Бессмертного Синдиката. Каждый член Синдиката хранит различные типы предметов в своих комнатах в укрытии. Чем выше ранг заговорщика, тем более ценные у него будут предметы. Вид наград зависит от подразделения. Управляйте Синдикатом, передвигая определенных его участников на те места, которые приведут к получению более ценных наград.",
+      "Betrayal",
+      true,
+      [],
+      [],
+      "",
+      "",
+      false
+    ],
+    [
+      "Betrayal5",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/Panel5",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/Heading5",
+      [],
+      "Из членов Бессмертного Синдиката могут выпадать предметы с новыми завуалированными свойствами. Чтобы раскрыть их, отнесите предметы Джун и выберите один из трёх вариантов завуалированного свойства. Раскрывая завуалированные свойства, вы научитесь добавлять их на другие предметы и сможете открыть высокоуровневые версии этих свойств.",
+      "Betrayal",
+      false,
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/items/SoulHunger",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/items/HonourCarapace",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/items/EagleRefuge",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/items/CorruptionCord",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/items/AgonyTread"
+      ],
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/items/SoulHungerHOVER",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/items/HonourCarapaceHOVER",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/items/EagleRefugeHOVER",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/items/CorruptionCordHOVER",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/items/AgonyTreadHOVER"
+      ],
+      "",
+      "",
+      false
+    ],
+    [
+      "Betrayal6",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/Panel6",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/Heading6",
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/Panel6/Screenshot1",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/Panel6/Screenshot2",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/Panel6/Screenshot3"
+      ],
+      "Со становлением Бессмертного Синдиката, прежние отверженные мастера таинственным образом исчезли. В их отсутствие Эйнар, Альва, Нико, Джун и Зана стали новой группой мастеров, которые смогут вам помочь. Контент их лиг, в том числе Спуска и Вмешательства, добавлен в основу Path of Exile. Бестиарий был переработан и упрощён: Эйнар будет сам ловить животных в сети, пока вы заняты охотой на них.",
+      "Betrayal",
+      true,
+      [],
+      [],
+      "",
+      "",
+      false
+    ],
+    [
+      "Betrayal7",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/Panel7",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/Heading7",
+      [],
+      "Мы переработали весь процесс добавления ремесленных свойств мастеров, от пользовательского интерфейса и до способа открытия новых ремесленных свойств. Теперь индивидуальные свойства мастеров будут доступны после завершения соответствующего контента, к примеру, комнат Вмешательства или узлов в шахте Спуска. Вам больше не нужно повышать уровни мастеров для открытия их свойств.",
+      "Betrayal",
+      false,
+      [],
+      [],
+      "",
+      "",
+      false
+    ],
+    [
+      "Betrayal8",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/Panel8",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/Heading8",
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/Panel8/Screenshot1",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/Panel8/Screenshot2",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/Panel8/Screenshot3"
+      ],
+      "Убежища, расположение мастеров и декорации стали общими для всех лиг. Вы можете загружать и сохранять шаблоны ваших убежищ, чтобы делиться ими с остальными игроками.",
+      "Betrayal",
+      true,
+      [],
+      [],
+      "",
+      "",
+      false
+    ],
+    [
+      "Betrayal9",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/Panel9",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/Heading9",
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/Panel9/Screenshot1",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/Panel9/Screenshot2",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/Panel9/Screenshot3"
+      ],
+      "Мы добавили четыре новых карты на Атлас миров, взяв для них окружение из популярных биомов глубин Азуритовой шахты. Мы также изменили расположение всех карт на самом Атласе. ",
+      "Betrayal",
+      false,
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/items/ChannelMap",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/items/FleetFungalHollowMapofInsulation",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/items/CyclopeanZiggurat",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/items/ProfaneCramp"
+      ],
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/items/ChannelMapHOVER",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/items/FungalHollowMapHOVER",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/items/CyclopeanZigguratHOVER",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/items/ProfaneCrampHOVER"
+      ],
+      "",
+      "",
+      false
+    ],
+    [
+      "Betrayal10",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/Panel10",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/Heading10",
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/Panel10/Screenshot1",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/Panel10/Screenshot2",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/Panel10/Screenshot3",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/Panel10/Screenshot4",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/Panel10/Screenshot5",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/Panel10/Screenshot6"
+      ],
+      "Помимо улучшений баланса, в лиге Предательство появятся десять новых и переработанных умений для трех архетипов персонажей. Среди добавленных умений есть совершенно новые типы умений: Клеймо и Знамя.",
+      "Betrayal",
+      true,
+      [],
+      [],
+      "",
+      "",
+      false
+    ],
+    [
+      "Betrayal11",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/Panel11",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/Panel12",
+      [],
+      "На многих из 15 новых уникальных предметов Предательства есть завуалированные свойства, что позволит вам ещё сильнее подстроить предмет под вашего героя. В Предательстве также будут добавлены пять новых гадальных карт, созданных игроками-спонсорами.",
+      "Betrayal",
+      false,
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/items/TheCrimsonStorm",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/items/Vivinsect",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/items/SolsticeVigil"
+      ],
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/items/TheCrimsonStormHOVER",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/items/VivinsectHOVER",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Betrayal/items/SolsticeVigilHOVER"
+      ],
+      "",
+      "",
+      true
+    ],
+    [
+      "Synthesis1",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/Panel1",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/Heading1",
+      [],
+      "В Path of Exile: Синтез вы встретите Каваса, восстановите его утерянные воспоминания и свяжете их воедино для получения ценных наград, битв с новыми боссами и новых возможностей по созданию предметов.\n\nНаше мартовское дополнение содержит лигу испытаний Синтез, новые предметы и камни навыков, полный ребаланс чар в Path of Exile, интегрированную версию лиги Предательство и многое, многое другое.",
+      "Synthesis",
+      false,
+      [],
+      [],
+      "",
+      "",
+      false
+    ],
+    [
+      "Synthesis2",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/Panel2",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/Heading2",
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/Panel2/Screenshot1",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/Panel2/Screenshot2",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/Panel2/Screenshot3"
+      ],
+      "Чтобы помочь Кавасу вспомнить прошлое, вы будете находить фрагменты его увядающих воспоминаний по всему Рэкласту. Прорывайтесь через монстров, населяющих воспоминания Каваса, чтобы активировать стабилизаторы прежде, чем воспоминания вокруг вас рухнут.",
+      "Synthesis",
+      true,
+      [],
+      [],
+      "",
+      "",
+      false
+    ],
+    [
+      "Synthesis3",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/Panel3",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/Heading3",
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/Panel3/Screenshot1",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/Panel3/Screenshot2",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/Panel3/Screenshot3"
+      ],
+      "Стабилизированные фрагменты воспоминаний можно соединять между собой для путешествия по пустоте в разуме Каваса и достижения отдалённых воспоминаний. Но учтите, что эти фрагменты можно исследовать только определённое количество раз, перед тем как они окончательно разрушатся, так что внимательно планируйте свой путь.",
+      "Synthesis",
+      false,
+      [],
+      [],
+      "",
+      "",
+      false
+    ],
+    [
+      "Synthesis4",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/Panel4",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/Heading4",
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/Panel4/Screenshot1",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/Panel4/Screenshot2",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/Panel4/Screenshot3"
+      ],
+      "Внутри отдалённых воспоминаний Каваса можно найти много различных ценных наград. По мере продвижения вглубь его мрачных воспоминаний, разум Каваса начинает синтезировать встречи с опасными и искажёнными проявлениями.",
+      "Synthesis",
+      true,
+      [],
+      [],
+      "",
+      "",
+      false
+    ],
+    [
+      "Synthesis5",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/Panel5",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/Heading5",
+      [],
+      "Увядающие воспоминания будут давать расколотые предметы с особыми заблокированными свойствами. Такие вещи, как правило, не особо полезны сами по себе, но вы сможете находить расколотые предметы с великолепными заблокированными свойствами, что существенно облегчит процесс создания предметов.",
+      "Synthesis",
+      false,
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/items/HarbingerBow",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/items/HarbingerBow",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/items/HubrisCirclet",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/items/HubrisCirclet"
+      ],
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/items/HarbingerBowHover1",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/items/HarbingerBowHover2",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/items/HubrisCircletHover1",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/items/HubrisCircletHover2"
+      ],
+      "",
+      "",
+      false
+    ],
+    [
+      "Synthesis6",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/Panel6",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/Heading6",
+      [],
+      "В Нексусе воспоминаний находится Синтезатор, мощное устройство, которое позволит вам разрушать расколотые предметы для создания базовых предметов с необычными собственными свойствами. Результат создания можно контролировать, тщательно выбирая предметы для поглощения.",
+      "Synthesis",
+      true,
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/items/SaphireRing",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/items/MagistrateCrown",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/items/StealthBoots"
+      ],
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/items/SaphireRingHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/items/MagistrateCrownHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/items/StealthBootsHover"
+      ],
+      "",
+      "",
+      false
+    ],
+    [
+      "Synthesis7",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/Panel7",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/Heading7",
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/Panel7/Screenshot1",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/Panel7/Screenshot2",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/Panel7/Screenshot3"
+      ],
+      "В Синтезе мы полностью пересмотрели баланс чар в Path of Exile, добавили шесть новых святых чар и чар хаоса, а также простимулировали самостоятельное сотворение чар, добавив также несколько новых камней поддержки.",
+      "Synthesis",
+      false,
+      [],
+      [],
+      "",
+      "",
+      false
+    ],
+    [
+      "Synthesis8",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/Panel8",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/Heading8",
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/Panel8/Screenshot1",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/Panel8/Screenshot2",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/Panel8/Screenshot3",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/Panel8/Screenshot4",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/Panel8/Screenshot5",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/Panel8/Screenshot6"
+      ],
+      "Новый архетип Святой Чародей представляет первые в Path of Exile святые заклинания, включая Божественный гнев, Очищающий огонь и Волну осуждения. Чародей Хаоса не только облегчает знакомство с чарами хаоса с помощью Разрыва души, но также добавляет в Path of Exile много инструментов для уже существующего арсенала чар хаоса.",
+      "Synthesis",
+      true,
+      [],
+      [],
+      "",
+      "",
+      false
+    ],
+    [
+      "Synthesis9",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/Panel9",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/Heading9",
+      [],
+      "В дополнение к расколотым предметам, синтезированным предметам и более чем дюжине новых гадальных карт, созданных игроками-спонсорами, Path of Exile: Синтез содержит 16 новых мощных уникальных предметов, призванных повлиять на то, как игроки играют в Path of Exile.",
+      "Synthesis",
+      false,
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/items/AssasinsMitts",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/items/VoidSceptre",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/items/SulphurFlask",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/items/TheMadKing",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/items/ArroganceOfTheVaal",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/items/TheSeeker"
+      ],
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/items/AssasinsMittsHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/items/VoidSceptreHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/items/SulphurFlaskHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/items/TheMadKingHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/items/ArroganceOfTheVaalHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/items/TheSeekerHover"
+      ],
+      "",
+      "",
+      false
+    ],
+    [
+      "Synthesis10",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/Panel10",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/Heading10",
+      [],
+      "Синтез также включает в себя много других улучшений. Контент из декабрьской лиги Предательство будет интегрирован в основную игру, расположение карт в Атласе Миров вновь изменилось, а также переработке подверглось музыкальное сопровождение. Для получения дополнительной информации не забудьте ознакомиться со списком изменений, который выйдет в начале марта!",
+      "Synthesis",
+      true,
+      [],
+      [],
+      "",
+      "",
+      false
+    ],
+    [
+      "Synthesis11",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/Panel11",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Synthesis/Heading11",
+      [],
+      "Кроме того, вместе с Синтезом мы выпускаем два новых набора поддержки, Солнечного шпиля и Стража Рока. Оба набора представлены в двух версиях, из которых вы получите большое количество монет, наборы доспехов и другие эксклюзивные косметические микротранзакции, включающие новые убежища!\n\nЗапуск Path of Exile: Синтез состоится 8 марта на ПК, 11 марта на Xbox One и в середине марта на PlayStation 4.",
+      "Synthesis",
+      false,
+      [],
+      [],
+      "",
+      "",
+      true
+    ],
+    [
+      "Legion1",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Legion/TrailerThumbnail",
+      "",
+      [],
+      "",
+      "Legion",
+      false,
+      [],
+      [],
+      "http://web.poecdn.com/public/videos/LegionTrailer_EN.bk2",
+      "",
+      false
+    ],
+    [
+      "Legion2",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Legion/Panel1",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Legion/Heading1",
+      [],
+      "Запертые во владениях вневременной войны, самые могущественные полководцы в истории Рэкласта тысячи лет сражаются в вечной битве. В Path of Exile: Легион вы освободите их легионы на поле брани и победите их в бою ради ценных наград.\n\nВ июньское дополнение Path of Exile входят лига испытаний \"Легион\", новые предметы, новые умения, усовершенствование всего ближнего боя в игре, и многое-многое другое.",
+      "Legion",
+      false,
+      [],
+      [],
+      "",
+      "",
+      false
+    ],
+    [
+      "Legion3",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Legion/Panel2",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Legion/Heading2",
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Legion/Panel2/Screenshot1",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Legion/Panel2/Screenshot2",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Legion/Panel2/Screenshot3"
+      ],
+      "Исследуя Рэкласт в лиге Легион, вы будете находить монолиты. Коснитесь их, чтобы окунуться в древнюю борьбу между несколькими Легионами, застывшими во времени. Освобождайте врагов, нанося им урон, но будьте готовы сразиться с ними, когда действие монолита закончится. Поскольку некоторые противники сильны и при смерти оставляют ценные предметы, в Легионе у вас будет полный контроль над риском и наградой",
+      "Legion",
+      true,
+      [],
+      [],
+      "",
+      "",
+      false
+    ],
+    [
+      "Legion4",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Legion/Panel3",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Legion/Heading3",
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Legion/Panel3/Screenshot1",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Legion/Panel3/Screenshot2",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Legion/Panel3/Screenshot3"
+      ],
+      "При убийстве противников из каждого из пяти Легионов выпадают осколки, объединив которые, можно получить знак Легиона. Разместите два или больше знака разных Легионов в Машине картоходца, чтобы открыть путь во владения вневременной войны, где бушует вечная битва между этими Легионами. Разблокируйте улучшенную Машину картоходца, чтобы сразиться в великом противостоянии между всеми пятью Легионами.",
+      "Legion",
+      false,
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Legion/items/TimelessMarakethSplinter",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Legion/items/TimelessTemplarSplinter",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Legion/items/TimelessTemplarEmblem",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Legion/items/TimelessKaruiEmblem"
+      ],
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Legion/items/TimelessMarakethSplinterHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Legion/items/TimelessTemplarSplinterHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Legion/items/TimelessTemplarEmblemHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Legion/items/TimelessKaruiEmblemHover"
+      ],
+      "",
+      "",
+      false
+    ],
+    [
+      "Legion5",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Legion/Panel4",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Legion/Heading4",
+      [],
+      "Некоторые монстры Легиона будут выделены символами, обозначающими выпадающие при их убийстве предметы. Опытные игроки будут стараться высвобождать монстров с нужными наградами. Из отдельных монстров могут выпасть инкубируемые предметы, которые изменяют элемент снаряжения, гарантируя некую награду после убийства определённого числа врагов.",
+      "Legion",
+      true,
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Legion/items/OrnateIncubator",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Legion/items/DivinersIncubator",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Legion/items/HarbingersIncubator",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Legion/items/NgamahusFlame",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Legion/items/LoathMedallion"
+      ],
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Legion/items/OrnateIncubatorHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Legion/items/DivinersIncubatorHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Legion/items/HarbingersIncubatorHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Legion/items/NgamahusFlameHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Legion/items/LoathMedallionHover"
+      ],
+      "",
+      "",
+      false
+    ],
+    [
+      "Legion6",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Legion/Panel5",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Legion/Heading5",
+      [],
+      "В каждом из пяти Легионов можно получить особый уникальный самоцвет для размещения в вашем древе пассивных умений. Каждый из пяти самоцветов изменяет соседние с ним пассивные умения определённым образом, предоставляя принципиально новые возможности для развития персонажа, если вы достаточно умелы, чтобы добыть эти самоцветы.",
+      "Legion",
+      false,
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Legion/items/VaalCivilization",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Legion/items/EternalEmpireCivilization",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Legion/items/KaruiCivilization",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Legion/items/MarakethCivilization",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Legion/items/TemplarCivilization"
+      ],
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Legion/items/VaalCivilizationHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Legion/items/UnannouncedJewel",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Legion/items/UnannouncedJewel",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Legion/items/UnannouncedJewel",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Legion/items/UnannouncedJewel"
+      ],
+      "",
+      "",
+      false
+    ],
+    [
+      "Legion7",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Legion/Panel6",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Legion/Heading6",
+      [],
+      "Мы исправили большинство ключевых проблем с ближним боем в Path of Exile. Теперь вы можете прерывать анимацию атак после того, как они нанесут урон. Все умения передвижения теперь срабатывают немедленно, и в игру были добавлены новые низкоуровневые умения передвижения для многих классов. Все атаки ближнего боя теперь могут наносить удар по нескольким соседним противникам. Система анимации была значительно переделана, правила выбора цели улучшены, а меткость больше не ограничена 95%. В системе ближнего боя больше изменений, чем можно здесь перечислить, но они вкупе с переработкой большинства умений ближнего боя приводят к совершенно новому ощущению от сражений. ",
+      "Legion",
+      true,
+      [],
+      [],
+      "",
+      "",
+      false
+    ],
+    [
+      "Legion8",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Legion/Panel7",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Legion/Heading7",
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Legion/Panel7/Screenshot1",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Legion/Panel7/Screenshot2",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Legion/Panel7/Screenshot3"
+      ],
+      "Новый архетип Гладиатора \"Кровь и песок\" позволит переключаться между стойками крови и песка, на ходу меняя действие новых и существующих умений. Новый архетип яростного Берсерка изменяет систему Свирепости и добавляет новые умения, вырабатывающие и поглощающие заряды Свирепости. Эти могущественные архетипы с их новыми умениями предполагают дополнительные возможности развития для многих персонажей в Path of Exile.",
+      "Legion",
+      false,
+      [],
+      [],
+      "",
+      "",
+      false
+    ],
+    [
+      "Legion9",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Legion/Panel8",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Legion/Heading8",
+      [],
+      "Теперь, с улучшением ближнего боя, игроки смогут легко уворачиваться от атак. Мы воспользовались этим и переработали атаки монстров, которые раньше трудно было предугадать, таким образом, что теперь они будут видны заранее. Переработка включает в себя улучшения ИИ монстров и схваток с боссами в начале кампании.",
+      "Legion",
+      true,
+      [],
+      [],
+      "",
+      "",
+      false
+    ],
+    [
+      "Legion10",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Legion/Panel9",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Legion/Heading9",
+      [],
+      "Помимо 14 новых гадальных карт, в Path of Exile: Легион вы сможете найти 12 новых уникальных предметов. В дополнение к этому, мы выбрали 15 уже существующих уникальных предметов, относящихся к пяти армиям Легиона, и переработали их так, что в новой лиге они станут ценными наградами.",
+      "Legion",
+      false,
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Legion/items/DarkDreams",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Legion/items/AlluringBounty",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Legion/items/AukunasWill",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Legion/items/MawofConquest",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Legion/items/VollsProtector",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Legion/items/LaviangasWisdom",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Legion/items/RathpithGlobe"
+      ],
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Legion/items/DarkDreamsHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Legion/items/AlluringBountyHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Legion/items/AukunasWillHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Legion/items/MawofConquestHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Legion/items/VollsProtectorHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Legion/items/LaviangasWisdomHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Legion/items/RathpithGlobeHover"
+      ],
+      "",
+      "",
+      false
+    ],
+    [
+      "Legion11",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Legion/Panel10",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Legion/Heading10",
+      [],
+      " Кроме того, вместе с Легионом мы выпускаем два новых набора поддержки, Культа Тьмы и Рыцаря крови. Оба набора представлены в двух версиях, из которых вы получите большое количество монет, наборы доспехов и другие эксклюзивные косметические микротранзакции!\n\nЗапуск Path of Exile: Легион состоится 7 июня на ПК и 10 июня на Xbox One и PlayStation 4. ",
+      "Legion",
+      true,
+      [],
+      [],
+      "",
+      "",
+      true
+    ],
+    [
+      "Blight1",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Blight/TrailerThumbnail",
+      "",
+      [],
+      "",
+      "Blight",
+      false,
+      [],
+      [],
+      "http://web.poecdn.com/public/videos/RUBlightTrailer.bk2",
+      "",
+      false
+    ],
+    [
+      "Blight2",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Blight/Panel1",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Blight/RU/Heading1",
+      [],
+      "В Path of Exile: Скверна вы должны остановить распространение смертоносной Скверны, строя башни для защиты от порабощённых ею монстров.\n\nНаше сентябрьское дополнение содержит лигу испытаний Скверна, три переработанных архетипа персонажей с новыми навыками и камнями поддержки, множество новых предметов и интеграцию двух старых лиг в основную игру, а также делает акцент на предоставлении вам большей свободы в выборе, в какой аспект контента Path of Exile вам играть и когда.",
+      "Blight",
+      false,
+      [],
+      [],
+      "",
+      "",
+      false
+    ],
+    [
+      "Blight3",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Blight/Panel2",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Blight/RU/Heading2",
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Blight/Panel2/Screenshot1",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Blight/Panel2/Screenshot2",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Blight/Panel2/Screenshot3"
+      ],
+      "Сестра Кассия, разрушая грибные наросты, пытается остановить распространение контролирующей разум Скверны. Будучи атакованной, Скверна приказывает заражённым монстрам защищать её. Монстры бездумно следуют за побегами Скверны, атакуя только тех врагов, что стоят у них на пути. Заражённые необычайно выносливы, поэтому вам нужно строить защитные башни, чтобы использовать специфические слабости каждого монстра. За каждую линию побегов, которую вы защитите, будет появляться сундук с вашими наградами.",
+      "Blight",
+      true,
+      [],
+      [],
+      "",
+      "",
+      false
+    ],
+    [
+      "Blight4",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Blight/Panel3",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Blight/RU/Heading3",
+      [],
+      "В арсенале Сестры Кассии есть башни, которые могут охлаждать, накладывать шок, оглушать, поджигать, призывать, усиливать, превращать в камень и истощать. Внимательно выбирайте, размещайте и улучшайте башни, чтобы получить максимальное преимущество от местности и слабостей заражённых монстров. Быстрые небольшие схватки в стиле защиты башен сочетают интенсивные бои Path of Exile с тактической составляющей этого популярного жанра.",
+      "Blight",
+      false,
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Blight/items/MoonstoneRing",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Blight/items/HealthyPrismaticRingoftheFlatworm",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Blight/items/MorbidHold"
+      ],
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Blight/items/RU/MoonstoneRingHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Blight/items/RU/HealthyPrismaticRingoftheFlatwormHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Blight/items/RU/MorbidHoldHover"
+      ],
+      "",
+      "",
+      false
+    ],
+    [
+      "Blight5",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Blight/Panel4",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Blight/RU/Heading4",
+      [],
+      "Высокоуровневый контент Path of Exile также не защищён от Скверны. Находите заражённые карты, содержащие гигантские по масштабу схватки со Скверной с десятками линий обороны и самыми ценными наградами лиги.",
+      "Blight",
+      true,
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Blight/items/BlightedRampartsMap",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Blight/items/CeremonialBlightedToxicSewerMapofGiants",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Blight/items/DirePoint"
+      ],
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Blight/items/RU/BlightedRampartsMapHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Blight/items/RU/CeremonialBlightedToxicSewerMapofGiantsHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Blight/items/RU/DirePointHover"
+      ],
+      "",
+      "",
+      false
+    ],
+    [
+      "Blight6",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Blight/Panel5/ru_RU/Panel5",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Blight/RU/Heading5",
+      [],
+      "Помимо других сокровищ, в Скверне можно найти масла, которые Сестра Кассия сможет использовать для обработки вашей бижутерии. Объедините два масла, чтобы зачаровать кольцо мощным свойством для башни. Объедините три масла, чтобы зачаровать ваш амулет одним из значимых умений с древа пассивных умений. Двенадцать масел значительно различаются по своей редкости, и каждая комбинация даёт различный результат.",
+      "Blight",
+      false,
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Blight/items/VioletOil",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Blight/items/AmberOil",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Blight/items/SilverOil",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Blight/items/OpalescentOil",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Blight/items/BlackOil",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Blight/items/BlastingCitrineAmuletofRaiding",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Blight/items/WoeChoker",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Blight/items/ZerphisHeart"
+      ],
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Blight/items/RU/VioletOilHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Blight/items/RU/AmberOilHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Blight/items/RU/SilverOilHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Blight/items/RU/OpalescentOilHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Blight/items/RU/BlackOilHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Blight/items/RU/BlastingCitrineAmuletofRaidingHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Blight/items/RU/WoeChokerHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Blight/items/RU/ZerphisHeartHover"
+      ],
+      "",
+      "",
+      false
+    ],
+    [
+      "Blight7",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Blight/Panel6",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Blight/RU/Heading6",
+      [],
+      "Четыре уникальных предмета, эксклюзивных для лиги Скверна, образуют набор доспехов, на который также могут быть нанесены значимые пассивные умения. В сочетании с обработанным амулетом, владелец этого набора может одновременно иметь до пяти дополнительных значимых пассивных умений, открывая бесчисленные возможности для билдов.",
+      "Blight",
+      true,
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Blight/items/TheStampede"
+      ],
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Blight/items/RU/TheStampedeHover"
+      ],
+      "",
+      "",
+      false
+    ],
+    [
+      "Blight8",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Blight/Panel7",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Blight/RU/Heading7",
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Blight/Panel7/Screenshot1",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Blight/Panel7/Screenshot2",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Blight/Panel7/Screenshot3"
+      ],
+      "Вам больше не придётся выполнять каждое задание Мастера как только вы с ним столкнётесь, или проходить произвольные карты для завершения ваших ежедневных заданий. Теперь вы получаете значительно больше заданий, проходя карты, а выполнять их сможете позже, поговорив с Мастером в вашем убежище. Задания можно копить бесконечно, так что вы сможете выполнять их тогда, когда у вас будет время, и на тех картах, которые вы выберете сами.\n\nМы также улучшили награды в Предательстве, упростили доступ к более глубоким уровням Спуска, интегрировали Легион и схватки с боссами Синтеза в основную игру.",
+      "Blight",
+      false,
+      [],
+      [],
+      "",
+      "",
+      false
+    ],
+    [
+      "Blight9",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Blight/Panel8",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Blight/RU/Heading8",
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Blight/Panel8/ru_RU/Screenshot1",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Blight/Panel8/ru_RU/Screenshot2",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Blight/Panel8/ru_RU/Screenshot3"
+      ],
+      "Призыватели являются одним из самых популярных стилей игры в ARPG. В Path of Exile: Скверна мы значительно переработали множество механик призыва и класс Восхождения Ведьмы \"Некромант\". Мы улучшили эффективность многих типов приспешников в зависимости от уровня камня умения, добавили новые камни поддержки, позволяющие точно настраивать поведение приспешников, переработали класс Восхождения Некромант, представили Трупного голема, добавили высокоуровневый базовый тип жезлов, на котором могут попасться мощные свойства для приспешников, и внесли много других изменений.\n\nЧтобы стало возможным использовать все новые навыки, мы добавили дополнительную панель для размещения навыков.",
+      "Blight",
+      true,
+      [],
+      [],
+      "",
+      "",
+      false
+    ],
+    [
+      "Blight10",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Blight/Panel9",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Blight/RU/Heading9",
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Blight/Panel9/ru_RU/Screenshot1",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Blight/Panel9/ru_RU/Screenshot2",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Blight/Panel9/ru_RU/Screenshot3"
+      ],
+      "\"Ядовитый\" Убийца, когда-то преобладающий стиль игры в Path of Exile, возвращается (почти) ко дням своей славы! В Скверне появится новый тематический камень поддержки, а также набор из пяти сильных камней навыков ядовитой тематики, включая Бросок кобры, который поражает ваших врагов по цепи отравленным снарядом. Новая механика Неуловимость, поддерживаемая новым значимым умением Восхождения, предоставит мощные возможности защиты и средства для отступления, а изменения в ключевом пассивном умении Совершенная агония и множителе урона для состояний от критических ударов обеспечат \"ядовитому\" Убийце заслуженное признание.",
+      "Blight",
+      false,
+      [],
+      [],
+      "",
+      "",
+      false
+    ],
+    [
+      "Blight11",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Blight/Panel10",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Blight/RU/Heading10",
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Blight/Panel10/ru_RU/Screenshot1",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Blight/Panel10/ru_RU/Screenshot2",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Blight/Panel10/ru_RU/Screenshot3"
+      ],
+      "Мы часто получали отзывы о том, что мины, хоть и наносят достаточно урона, но очень неуклюжи в использовании. В Скверне мы с нуля переработали механику мин. Брошенные к месту, а не к вашим ногам, мины теперь развёртываются быстрее и детонируют последовательно. Навыки мин теперь также вознаграждают вас за длинную череду детонаций. Новые и переработанные камни поддержки, включая мобильных мехаботов, предоставляют новые возможности взрывной силы. Все это дополняется изменениями в древе пассивных умений и классе восхождения Диверсант.",
+      "Blight",
+      true,
+      [],
+      [],
+      "",
+      "",
+      false
+    ],
+    [
+      "Blight12",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Blight/Panel11",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Blight/RU/Heading11",
+      [],
+      "Помимо масел, заражённых карт и новых зачарований для бижутерии, Path of Exile: Скверна содержит 18 новых гадальных карт, 16 новых камней умений и поддержки и 16 новых уникальных предметов, которые вы сможете найти. Также мы изменили 24 существующих уникальных предмета, шесть из которых подверглись полной переработке.",
+      "Blight",
+      false,
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Blight/items/PolishedLegionScarab",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Blight/items/ColdIronPoint",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Blight/items/TriadGrip",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Blight/items/BadgeoftheBrotherhood",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Blight/items/AkilsProphecy",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Blight/items/NooksCrown"
+      ],
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Blight/items/RU/PolishedLegionScarabHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Blight/items/RU/ColdIronPointHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Blight/items/RU/TriadGripHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Blight/items/RU/BadgeoftheBrotherhoodHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Blight/items/RU/AkilsProphecyHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Blight/items/RU/NooksCrownHover"
+      ],
+      "",
+      "",
+      false
+    ],
+    [
+      "Blight13",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Blight/Panel12",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Blight/RU/Heading12",
+      [],
+      "Одновременно с лигой Скверна мы выпускаем два новых набора поддержки - Лича и Стража. Оба набора представлены в двух версиях, из которых вы получите большое количество монет, комплекты доспехов и другие эксклюзивные косметические микротранзакции!\n\nЗапуск Path of Exile: Скверна состоится 6 сентября на ПК и 9 сентября на Xbox One и PlayStation 4.",
+      "Blight",
+      true,
+      [],
+      [],
+      "",
+      "",
+      true
+    ],
+    [
+      "Metamorph1",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Metamorph/TrailerThumbnail",
+      "",
+      [],
+      "",
+      "Metamorph",
+      false,
+      [],
+      [],
+      "http://web.poecdn.com/public/videos/MetamorphTrailer_En.bk2",
+      "",
+      false
+    ],
+    [
+      "Metamorph2",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Metamorph/Panel1",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Metamorph/Heading1",
+      [],
+      "В лиге Метаморф вы встретите нового НИП, Танэ Октавиуса, мастера-алхимика, который обучался в Ориате. Изгнанный на Рэкласт за убийство своего учителя, Тейн ищет то, что составляет \"естество\" и использует приобретённые алхимические знания, чтобы сотворять сущности монстров. Он надеется найти способ излечения или хотя бы источник того, что он называет \"врождённой тьмой\", приведшей его к непростительной жестокости.",
+      "Metamorph",
+      false,
+      [],
+      [],
+      "",
+      "",
+      false
+    ],
+    [
+      "Metamorph3",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Metamorph/Panel2",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Metamorph/Heading2",
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Metamorph/Panel2/Screenshot1",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Metamorph/Panel2/Screenshot2",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Metamorph/Panel2/Screenshot3"
+      ],
+      "В каждой области, которую вы найдёте в лиге Метаморф, Танэ будет собирать образцы с отдельных убитых вами монстров. Призовите Тейна, чтобы объединить выбранные вами образцы и создать грозного врага-метаморфа. Во время схватки босс непредсказуемо меняет форму, а каждый образец добавляет ему способности. Тщательно подбирая образцы, вы контролируете возможности босса и награду за победу над ним.",
+      "Metamorph",
+      true,
+      [],
+      [],
+      "",
+      "",
+      false
+    ],
+    [
+      "Metamorph4",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Metamorph/Panel3",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Metamorph/Heading3",
+      [],
+      "Схватки с метаморфами также могут наградить вас катализаторами, валютой нового типа, которая повышает качество бижутерии. Есть много разновидностей такого качества, каждая из которых соответствует набору свойств. Повышение качества увеличивает значения соответствующих свойств на предмете, а потратив качество при помощи ремесла, можно повысить шанс получения связанных с ним свойств.",
+      "Metamorph",
+      false,
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Metamorph/items/ImbuedCatalyst",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Metamorph/items/FertileCatalyst",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Metamorph/items/PrismaticCatalyst"
+      ],
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Metamorph/items/ImbuedCatalystHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Metamorph/items/FertileCatalystHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Metamorph/items/PrismaticCatalystHover"
+      ],
+      "",
+      "",
+      false
+    ],
+    [
+      "Metamorph5",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Metamorph/Panel4",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Metamorph/Heading4",
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Metamorph/Panel4/Screenshot1",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Metamorph/Panel4/Screenshot2",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Metamorph/Panel4/Screenshot3"
+      ],
+      "Играя в лигу Метаморф на высоких уровнях, вы можете собирать образцы с боссов карт, чтобы затем создать смертельно опасных метаморфов, вобравших в себя силы, сложность и награды за убийство нескольких боссов в одной очень опасной схватке.",
+      "Metamorph",
+      true,
+      [],
+      [],
+      "",
+      "",
+      false
+    ],
+    [
+      "Metamorph6",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Metamorph/Panel5",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Metamorph/Heading5",
+      [],
+      "Лига Метаморф является частью более крупного дополнения Завоеватели Атласа, запуск которого состоится 13 декабря на ПК и на последующей неделе на Xbox One и PlayStation 4.",
+      "Metamorph",
+      false,
+      [],
+      [],
+      "",
+      "",
+      true
+    ],
+    [
+      "Delirium1",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/ThumbnailTrailer",
+      "",
+      [],
+      "",
+      "Delirium",
+      false,
+      [],
+      [],
+      "http://web.poecdn.com/public/videos/DeliriumTrailer_En.bk2",
+      "",
+      false
+    ],
+    [
+      "Delirium2",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/Panel1",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/Heading1",
+      [],
+      "Загадочный недуг проник в ваш разум. Касаясь Зеркала Делириума, вы видите, как реальность обращается в дым и перед вашим взором предстают ваши худшие кошмары.\r\n\r\nВ наше мартовское дополнение входят лига испытаний Делириум, новая система кластерных самоцветов, новые умения и камни поддержки, мощные новые предметы и дальнейшие улучшения Атласа для позднего этапа игры.",
+      "Delirium",
+      false,
+      [],
+      [],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/textbackground",
+      false
+    ],
+    [
+      "Delirium3",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/Panel2",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/Heading2",
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/Panel2/Screenshot1",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/Panel2/Screenshot2",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/Panel2/Screenshot3"
+      ],
+      "Когда туманы делириума поглощают вас, вокруг рождаются новые враги, а знакомые противники приобретают жестокие способности. В Делириуме у монстров появятся десятки смертоносных свойств, будут добавлены многие новые боссы и ужасающие демоны, запертые внутри редких и уникальных врагов.",
+      "Delirium",
+      true,
+      [],
+      [],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/textbackground",
+      false
+    ],
+    [
+      "Delirium4",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/Panel3",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/Heading3",
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/Panel3/Screenshot1",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/Panel3/Screenshot2",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/Panel3/Screenshot3"
+      ],
+      "По мере погружения в Делириум вы будете сталкиваться с более многочисленными и опасными врагами, сулящими лучшую награду. Позволите ли вы жадности и гордыне втянуть вас в безумие?",
+      "Delirium",
+      false,
+      [],
+      [],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/textbackground",
+      false
+    ],
+    [
+      "Delirium5",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/Panel4",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/Heading4",
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/Panel4/Screenshot1",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/Panel4/Screenshot2",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/Panel4/Screenshot3"
+      ],
+      "Нигде нет спасения. Схватки, из которых вы прежде легко выходили победителем, теперь можно повторить под влиянием Делириума, существенно повысив их сложность и награды. Если вам хватит смелости, вы можете обратить Делириум в свою пользу, напитав им битвы прошлого.",
+      "Delirium",
+      true,
+      [],
+      [],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/textbackground",
+      false
+    ],
+    [
+      "Delirium6",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/Panel5",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/Heading5",
+      [],
+      "К высокоуровневым картам можно применять сферы Делириума, чтобы контролировать его интенсивность. Под действием сферы вы немедленно погружаетесь в Делириум на протяжении всей текущей карты. Одна сфера делает битву труднее, но на карте можно использовать до пяти сфер разом, чтобы максимально увеличить сложность игры и ценность наград.",
+      "Delirium",
+      false,
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/items/DeliriumOrbofCurrency",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/items/DeliriumOrbofUniques",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/items/DeliriumOrbofEssences",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/items/DeliriumOrbofMaps",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/items/DeliriumOrbofFossils",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/items/FungalHollowMap"
+      ],
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/items/DeliriumOrbofCurrency_hover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/items/DeliriumOrbofUniques_hover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/items/DeliriumOrbofEssences_hover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/items/DeliriumOrbofMaps_hover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/items/DeliriumOrbofFossils_hover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/items/FungalHollowMap_hover"
+      ],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/textbackground",
+      false
+    ],
+    [
+      "Delirium7",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/Panel6",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/Heading6",
+      [],
+      "Ищите осколки в глубинах вашего безумия и объединяйте их, создавая Симулякр. Войдите в портал и попытайтесь выжить в самом опасном высокоуровневом испытании Делириума.",
+      "Delirium",
+      true,
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/items/SimulacrumSplinter",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/items/Simulacrum"
+      ],
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/items/SimulacrumSplinter_hover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/items/Simulacrum_hover"
+      ],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/textbackground",
+      false
+    ],
+    [
+      "Delirium8",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/Panel7",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/Heading7",
+      [],
+      "Расширьте древо ваших пассивных умений, разместив кластерный самоцвет в одном из наружных гнёзд. С ремесленными свойствами, улучшающими генерируемые пассивные умения, добавляющими одно из 280 новых значимых умений и даже прививающими дополнительные гнёзда, кластерные самоцветы позволят вам вырастить собственное дерево умений.\r\n\r\nНовые самоцветы, выпадающие при убийстве любых монстров в лиге Делириум, - одно из наиболее значительных улучшений персонализации билдов со времён введения классов Восхождения.",
+      "Delirium",
+      false,
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/items/NotableSmallClusterJewel",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/items/CarrionShine",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/items/BroodRuin",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/items/OneWithNothing",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/items/Voices"
+      ],
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/items/NotableSmallClusterJewel_hover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/items/CarrionShine_hover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/items/BroodRuin_hover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/items/OneWithNothing_hover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/items/Voices_hover"
+      ],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/textbackground",
+      false
+    ],
+    [
+      "Delirium9",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/Panel8",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/Heading8",
+      [],
+      "Завоеватели Атласа оживили впечатления от высокоуровневой игры Path of Exile. В Делириуме мы сделали появление Завоевателей предопределённым, вернули в игру рецепты торговцев на секстанты, добавили дополнительные стимулы для достижения более высоких уровней Пробуждения, переработали побочные области ваал на картах, улучшили храм Ацоатль и многое другое.",
+      "Delirium",
+      true,
+      [],
+      [],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/textbackground",
+      false
+    ],
+    [
+      "Delirium10",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/Panel9",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/Heading9",
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/Panel9/Screenshot1",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/Panel9/Screenshot2",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/Panel9/Screenshot3"
+      ],
+      "Дополнение Делириум привнесёт четыре новых камня умений и три новых камня поддержки. В лучших традициях Path of Exile мы сконцентрировались на разнообразии вариантов их применения, и новые камни дополнят многие стили игры.",
+      "Delirium",
+      false,
+      [],
+      [],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/textbackground",
+      false
+    ],
+    [
+      "Delirium11",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/Panel10",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/Heading10",
+      [],
+      "В дополнение к новой валюте, кластерным самоцветам, камням и высокоуровневым картам Симулякра, в Path of Exile: Делириум появится множество новых гадальных карт и уникальных предметов, которые откроют новые грани ураганного игрового процесса.",
+      "Delirium",
+      true,
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/items/Perfidy",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/items/AlgorMortis",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/items/KitavasTeachings",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/items/SplitPersonality",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/items/TheTinkerersTable",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/items/TheProgenyofLunaris"
+      ],
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/items/Perfidy_hover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/items/AlgorMortis_hover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/items/KitavasTeachings_hover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/items/SplitPersonality_hover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/items/TheTinkerersTable_hover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/items/TheProgenyofLunaris_hover"
+      ],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/textbackground",
+      false
+    ],
+    [
+      "Delirium12",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/Panel11",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/Heading11",
+      [],
+      "Вместе с Path of Exile: Делириум мы выпускаем два новых набора поддержки, Видящего тьму и Прядильщика судьбы. Оба набора представлены в двух версиях, из которых вы получите монеты, наборы доспехов и другие косметические микротранзакции!\r\n\r\nЗапуск Path of Exile: Делириум состоится 13 марта на ПК и на последующей неделе на Xbox One и PlayStation 4.",
+      "Delirium",
+      false,
+      [],
+      [],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/textbackground",
+      true
+    ],
+    [
+      "Harvest1",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Harvest/ThumbnailTrailer",
+      "",
+      [],
+      "",
+      "Harvest",
+      false,
+      [],
+      [],
+      "http://web.poecdn.com/public/videos/HarvestTrailer_En.bk2",
+      "",
+      false
+    ],
+    [
+      "Harvest2",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Panel1",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Harvest/heading1",
+      [],
+      "В Path of Exile: Жатва Ошаби возделывает Священную рощу, древний сад таинственной силы. Сажайте семена, вырастающие в опасных врагов, и добавляйте их жизненную силу к своим предметам.\n\nВ наше июньское дополнение входят лига испытаний Жатва, мощные новые возможности ремесла, 8 новых умений, 2 новых камня поддержки, обновление двуручного оружия, боевых кличей, клейм, мощных ударов и самого дерева пассивных умений. Мы также добавляем 12 новых уникальных предметов и перерабатываем более 50 существующих.",
+      "Harvest",
+      false,
+      [],
+      [],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/textbackground",
+      false
+    ],
+    [
+      "Harvest3",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Panel2",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Harvest/heading2",
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Panel2/Screenshot1",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Panel2/Screenshot2",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Panel2/Screenshot3"
+      ],
+      "<italic>{\"Она красива, правда? Я думаю, она старше Вечной Империи. Старше ваал? Не уверена. Но она не похожа на дело их рук. Мне нравится думать, что она – творение моих предков азмири. Когда-то земля одарила меня тесной связью с собою. Она говорила со мной и кормила меня. Но эта связь была разорвана. И в ответ моё племя разорвало связь со мной. Я была одинока. Потеряна. Земля молчала... пока я не нашла это место,\"} -- Ошаби",
+      "Harvest",
+      true,
+      [],
+      [],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/textbackground",
+      false
+    ],
+    [
+      "Harvest4",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Panel3",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Harvest/heading3",
+      [],
+      "Ищите тайники с семенами в каждой области, какую исследуете. Несите семена через портал Ошаби в Священную рощу. Засевайте ими землю, чтобы вырастить опасных и ценных монстров. Хотя большинство семян прорастают без труда, редкие образцы требуют более тщательного планирования, но и приносят более ценный результат. ",
+      "Harvest",
+      false,
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Items/PrimalFeastingHorrorGrain",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Items/VividRazorlegSeed",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Items/WildBramblebackBulb"
+      ],
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Items/PrimalSeed",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Items/VividSeed",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Items/WildSeed"
+      ],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/textbackground",
+      false
+    ],
+    [
+      "Harvest5",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Panel4",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Harvest/heading4",
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Panel4/Screenshot1",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Panel4/Screenshot2",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Panel4/Screenshot3"
+      ],
+      "Когда ваши монстры готовы к жатве, убивайте их и вытягивайте их жизненную силу. Каждого своего противника в Священной роще вы выращиваете намеренно. Подстраивайте бои под возможности вашего персонажа и нужные вам награды.",
+      "Harvest",
+      true,
+      [],
+      [],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/textbackground",
+      false
+    ],
+    [
+      "Harvest6",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Panel5",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Harvest/heading5",
+      [],
+      "Каждый побеждённый вами монстр в Священной роще дарует вам возможность для ремесла. Использование одной из этих мощных возможностей расходует жизненную силу только что убитых вами противников. Чтобы увеличить доступную вам жизненную силу и, следовательно, расширить ремесленный потенциал, готовьтесь сразиться со столькими монстрами, со сколькими рискнёте совладать. Ремесло в Жатве предоставляет направленный функционал невиданных в Path of Exile масштабов.",
+      "Harvest",
+      false,
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Items/QuicksilverFlaskItem",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Items/TributetotheGoddessItem",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Items/JewelledLegionScarabItem",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Items/ChaosPoint",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Items/TheBeachhead"
+      ],
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Items/QuicksilverFlask",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Items/TributeToTheGoddess",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Items/JewelledLegionScarab",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Items/ChaosPointDigMap",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Items/TheBeachheadHarbingerMap"
+      ],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/textbackground",
+      false
+    ],
+    [
+      "Harvest7",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Panel6",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Harvest/heading6",
+      [],
+      "Выращивая легендарный сад, вы обнаружите экзотические семена, для прорастания которых требуются особые условия. Разнообразные трубы, конденсаторы и дозаторы помогут вам удобрить сад оставшейся жизненной силой.",
+      "Harvest",
+      true,
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Items/DisperserItem",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Items/CondenserItem",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Items/WildLifeforceCollectorItem"
+      ],
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Items/Disperser",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Items/Condenser",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Items/WildLifeforceCollector"
+      ],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/textbackground",
+      false
+    ],
+    [
+      "Harvest8",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Panel7",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Harvest/heading7",
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Panel7/Screenshot1",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Panel7/Screenshot2",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Panel7/Screenshot3"
+      ],
+      "Ошаби знает легенду о трёх первородных зверях: Эрси, Джанаар и Намхариме. Тем, кто сможет вырастить эти редкие семена, родившиеся из них огромные монстры принесут самые ценные награды Жатвы.",
+      "Harvest",
+      false,
+      [],
+      [],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/textbackground",
+      false
+    ],
+    [
+      "Harvest9",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Panel8",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Harvest/heading8",
+      [],
+      "Дерево пассивных умений получило множество долгожданных улучшений, включая лучшую поддержку некоторых механик (например, двуручного оружия или свирепости) за счёт как повышения цифровых значений, так и полностью новых групп умений. Всё это - в дополнение ко множеству новых значимых и ключевых умений, среди которых есть и полюбившиеся игрокам умения вневременных самоцветов, и даже совершенно новые умения.",
+      "Harvest",
+      true,
+      [],
+      [],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/textbackground",
+      false
+    ],
+    [
+      "Harvest10",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Panel9",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Harvest/heading9",
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Panel9/Screenshot1",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Panel9/Screenshot2",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Panel9/Screenshot3"
+      ],
+      "Как часть улучшений двуручного оружия, несколько умений ближнего боя теперь выделены в отдельную категорию мощных ударов. В этой категории появились новое умение и камень поддержки Кулак войны. Также мы обновили несколько существующих мощных ударов, улучшив их функциональность, добавив им новые визуальные эффекты и увеличив их силу в руках обладателей двуручного оружия.",
+      "Harvest",
+      false,
+      [],
+      [],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/textbackground",
+      false
+    ],
+    [
+      "Harvest11",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Panel10",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Harvest/heading10",
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Panel10/Screenshot1",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Panel10/Screenshot2",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Panel10/Screenshot3"
+      ],
+      "Мы добавили четыре новых боевых клича и переработали три существующих. Эффект боевых кличей теперь зависит от силы ближайших врагов, а не их количества. Многие кличи также <italic>{улучшают} ваши атаки, на короткое время увеличивая их мощь.",
+      "Harvest",
+      true,
+      [],
+      [],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/textbackground",
+      false
+    ],
+    [
+      "Harvest12",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Panel11",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Harvest/heading11",
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Panel11/Screenshot1",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Panel11/Screenshot2",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Panel11/Screenshot3"
+      ],
+      "Мы ввели в игру три новых клейма, один камень поддержки клейм, и обновили существующие клейма. Мы сделали клейма гораздо более могущественными, в то же время пересмотрев принцип их механики. Возврат клейм больше не доминирует над остальными умениями, но является полезным инструментом наравне со многими другими возможностями.",
+      "Harvest",
+      false,
+      [],
+      [],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/textbackground",
+      false
+    ],
+    [
+      "Harvest13",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Panel12",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Harvest/heading12",
+      [],
+      "Мы добавляем 12 новых уникальных предметов и перерабатываем более 50 существующих.",
+      "Harvest",
+      true,
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Items/StormSecret",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Items/DoryanisPrototype",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Items/MoonbendersWing",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Items/WakeofDestruction"
+      ],
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Items/StormSecretTopazRing",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Items/DoryanisPrototypeSaintsHauberk",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Items/MoonbendersWingTomahawk",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Items/WakeOfDestructionMeshBoots"
+      ],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/textbackground",
+      false
+    ],
+    [
+      "Harvest14",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Panel13",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Harvest/heading13",
+      [],
+      "Делириум и кластерные самоцветы переносятся в основу Path of Exile! Поскольку Делириум сочетается с механиками других лиг, повышая их сложность и награды, вероятность столкнуться с ним растёт экспоненциально по мере увеличения числа различных механик лиг в области.",
+      "Harvest",
+      false,
+      [],
+      [],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/textbackground",
+      false
+    ],
+    [
+      "Harvest15",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Panel14",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Harvest/heading14",
+      [],
+      "На прошлой неделе мы выпустили бета-версию нашего нового отрисовщика на основе Vulkan, который резко сократил задержки и увеличил плавность игры. Для многих игроков этот отрисовщик стал большим шагом вперёд, и мы планируем устранить неполадки, с которыми столкнулись другие пользователи, до выхода Жатвы. Новому отрисовщику сопутствуют непрерывные улучшения графических технологий, как, например, новая система свечения, широко используемая в лиге Жатва.",
+      "Harvest",
+      true,
+      [],
+      [],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/textbackground",
+      false
+    ],
+    [
+      "Harvest16",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Harvest/Panel15",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Harvest/heading15",
+      [],
+      "Одновременно с лигой Жатва мы выпускаем два новых набора поддержки - Злобы и Благоволения. Оба набора представлены в двух версиях, из которых вы получите большое количество монет, комплекты доспехов и другие эксклюзивные косметические микротранзакции!\n\nЗапуск Path of Exile: Жатва состоится 19 июня на ПК и 24 июня на Xbox One и PlayStation 4.",
+      "Harvest",
+      false,
+      [],
+      [],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Delirium/textbackground",
+      true
+    ],
+    [
+      "Heist1",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Heist/ThumbnailTrailer",
+      "",
+      [],
+      "",
+      "Heist",
+      false,
+      [],
+      [],
+      "http://web.poecdn.com/public/videos/HeistTrailer_En.bk2",
+      "",
+      false
+    ],
+    [
+      "Heist2",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel1",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Heading1",
+      [],
+      "В <italic>{Path of Exile: Кража} вы будете нанимать опытных воров, которые помогут вам проворачивать рискованные ограбления. Крадите ценные артефакты, чтобы обеспечивать ваш отряд средствами и тренировать его участников, пока вы готовитесь осуществить Большое Ограбление.\n\nВ наше сентябрьское дополнение входят лига испытаний Кража, девять новых умений и камней поддержки, изменения проклятий, умений стали и некоторых чар. Большие Ограбления позволят получить эксклюзивные новые награды, такие как зачарования для оружия и нательного доспеха, украшения Кражи, камни с изменённым эффектом качества и копии уникальных предметов.",
+      "Heist",
+      false,
+      [],
+      [],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Heist/textbackground",
+      false
+    ],
+    [
+      "Heist3",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel2",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Heading2",
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel2/Screenshot1",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel2/Screenshot2",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel2/Screenshot3"
+      ],
+      "Купите себе пропуск в Разбойничью гавань, где сможете вести дела с шайкой воров, предлагающих тёмные услуги. Себе в помощь можно нанять тринадцать авантюристов, которые помогут организовать или осуществить кражу, взяв на себя различные роли наподобие перевозки, взлома или подрыва. ",
+      "Heist",
+      true,
+      [],
+      [],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Heist/textbackground",
+      false
+    ],
+    [
+      "Heist4",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel3",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Heading3",
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel3/Screenshot1",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel3/Screenshot2",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel3/Screenshot3"
+      ],
+      "Чтобы осуществить ограбление, необходимо знать, где лежит ценный артефакт и как он охраняется. Контракты с подсказками можно найти по всему Рэкласту вместе с монетами, на которых отчеканена загадочная эмблема Разбойничьей гавани. Доберитесь туда и обменяйте эти находки на опытные руки, нужные вам для кражи.",
+      "Heist",
+      false,
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/RoguesMarker",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/ContractBunker",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/ForgottenSight",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/UrnofFarud",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/IncenseofKeth"
+      ],
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/RoguesMarkerHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/ContractBunkerHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/ForgottenSightHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/UrnofFarudHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/IncenseofKethHover"
+      ],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Heist/textbackground",
+      false
+    ],
+    [
+      "Heist5",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel4",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Heading4",
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel4/Screenshot1",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel4/Screenshot2",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel4/Screenshot3"
+      ],
+      "Если вы не сумеете скрыться с места преступления, то потеряете всё, что украли по ходу проникновения на объект. Вам потребуется прикрывать ваших людей, пока они обходят охрану, чтобы добраться до хранилища. Будьте осторожны и не поднимите слишком много шума, иначе сработает сигнализация и место кражи будет изолировано. Когда такое происходит, пора делать ноги.",
+      "Heist",
+      true,
+      [],
+      [],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Heist/textbackground",
+      false
+    ],
+    [
+      "Heist6",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel5",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Heading5",
+      [],
+      "Авантюристов можно снабдить особыми предметами, чтобы сделать их тише, смертоноснее и успешнее в своих ролях. Как и любую другую экипировку, эту можно изготавливать с помощью ремесла и валюты. Хорошо снаряжённый отряд будет как нельзя кстати при проведении самых сложных ограблений.",
+      "Heist",
+      false,
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/CriminalsGoldenBrooch",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/SulphurBlowtorch",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/EnforcersStandardSharpeningStoneoftheNewt",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/HonourVisage"
+      ],
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/CriminalsGoldenBroochHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/SulphurBlowtorchHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/EnforcersStandardSharpeningStoneoftheNewtHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/HonourVisageHover"
+      ],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Heist/textbackground",
+      false
+    ],
+    [
+      "Heist7",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel6",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Heading6",
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel6/Screenshot1",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel6/Screenshot2",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel6/Screenshot3"
+      ],
+      "Главная цель вора - провернуть Большое Ограбление. Для этого требуется доступ к чертежам, на которых видно, где в сети помещений расположены хранилища. Столь искусную работу необходимо тщательно планировать, приобретать дополнительные сведения о месте действия и нанимать нескольких профессионалов, чтобы преодолеть многочисленные препятствия. План способен окупиться с лихвой, поскольку в каждом хранилище находятся свои уникальные награды.",
+      "Heist",
+      true,
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/BlueprintLaboratory",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/FleetBlueprintBunkerofInsulation",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/GhastlyView"
+      ],
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/BlueprintLaboratoryHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/FleetBlueprintBunkerofInsulationHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/GhastlyViewHover"
+      ],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Heist/textbackground",
+      false
+    ],
+    [
+      "Heist8",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel7",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Heading7",
+      [],
+      "В качестве одной из уникальных наград в Больших Ограблениях вы можете завладеть украшениями, которые помещаются в специально отведённое для них место в окне экипировки персонажа. Эти магические предметы влияют на то, какие ценности вы найдёте во время будущих краж. Некоторые их свойства касаются предметов, выпадающих из сундуков и при убийстве монстров, другие влияют конкретно на награды, получаемые из сундуков Кражи.",
+      "Heist",
+      false,
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/ArmageddonCurio",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/FateCurio"
+      ],
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/ArmageddonCurioHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/FateCurioHover"
+      ],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Heist/textbackground",
+      false
+    ],
+    [
+      "Heist9",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel8",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Heading8",
+      [],
+      "Камни с изменённым эффектом качества добываются в комнатах с наградами во время Больших Ограблений и придают существующим камням умений и поддержки ещё большую глубину. Каждый встречающийся в Path of Exile камень имеет вплоть до трёх версий с изменённым эффектом качества, отличным от оригинального камня. Одни версии просто увеличивают мощь камня, тогда как другие в корне меняют его полезность для тех или иных билдов.",
+      "Heist",
+      true,
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/ArchmageSupport",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/Cleave",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/HeraldofAgony"
+      ],
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/ArchmageSupportHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/CleaveHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/HeraldofAgonyHover"
+      ],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Heist/textbackground",
+      false
+    ],
+    [
+      "Heist10",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel9",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Heading9",
+      [],
+      "Другой наградой за Большие Ограбления служат копии уникальных предметов и предметы экспериментального базового типа. Копии уникальных предметов - это результат попытки воссоздания легендарных уникальных предметов, где итоговый предмет обладает рядом критических отличий. Копии часто годятся для совершенно других билдов, нежели их оригиналы. Предметы экспериментального базового типа - это разнообразные базовые предметы, имеющие уникальные свойства, которые отличают их от типовых базовых предметов.",
+      "Heist",
+      false,
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/ReplicaSorrowoftheDivine",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/ReplicaLioneyesPaws",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/ReplicaAbyssus",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/SkullBarrage"
+      ],
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/ReplicaSorrowoftheDivineHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/ReplicaLioneyesPawsHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/ReplicaAbyssusHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/SkullBarrageHover"
+      ],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Heist/textbackground",
+      false
+    ],
+    [
+      "Heist11",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel10",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Heading10",
+      [],
+      "Последним доступным в Больших Ограблениях видом награды является набор зачарований для оружия и нательного доспеха. Данные зачарования появляются на сверхъестественно мощных редких предметах и влияют на величину свойств данных предметов. Некоторые из этих зачарований столь могущественны, что имеют и значительные негативные эффекты.",
+      "Heist",
+      true,
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/DragonWrap",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/HonourMangler"
+      ],
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/DragonWrapHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/HonourManglerHover"
+      ],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Heist/textbackground",
+      false
+    ],
+    [
+      "Heist12",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel11",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Heading11",
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel11/Screenshot1",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel11/Screenshot2",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel11/Screenshot3"
+      ],
+      "Мы добавили новое связанное с проклятиями умение и новый камень поддержки проклятий. Новая механика Рока заставляет самостоятельно сотворённое проклятие постепенно усиливаться, пока не кончится срок его действия. Этот эффект хорошо сочетается с камнем поддержки Обречённость, вызывающим взрыв хаоса по завершении действия связанных проклятий. Проклятия также получили новый внешний вид.",
+      "Heist",
+      false,
+      [],
+      [],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Heist/textbackground",
+      false
+    ],
+    [
+      "Heist13",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel12",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Heading12",
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel12/Screenshot1",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel12/Screenshot2",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel12/Screenshot3"
+      ],
+      "Мы обновили умения стали, добавив осколки - смертоносные фрагменты лезвий, парящие рядом с вашим персонажем. Вооружившись умением стали, вы получаете доступ к Зову стали. При его использовании из земли появляются осколки, обеспечивая стальные снаряды дополнительным боезапасом, а уже существующие осколки вылетают из проколотых врагов. Мы также переработали Дробящую и Пронзающую сталь и добавили одно новое умение стали.",
+      "Heist",
+      true,
+      [],
+      [],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Heist/textbackground",
+      false
+    ],
+    [
+      "Heist14",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel13",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Heading13",
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel13/Screenshot1",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel13/Screenshot2",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel13/Screenshot3"
+      ],
+      "Помимо добавления шести новых чар, мы переработали Разряд и Ледяной каскад. Суть новых чар в том, что, будучи эффективными в разнообразных билдах, они получают дополнительные преимущества при их сотворении вручную.",
+      "Heist",
+      false,
+      [],
+      [],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Heist/textbackground",
+      false
+    ],
+    [
+      "Heist15",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel14",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Heading14",
+      [],
+      "В <italic>{Path of Exile: Кража} также войдут более 25 новых уникальных предметов, 12 новых гадальных карт, обновление внешнего вида некоторых эффектов умений и многое другое.",
+      "Heist",
+      true,
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/Corpsewalker",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/ChainsofEmancipation",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/Triskaidekaphobia"
+      ],
+      [
+        "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/CorpsewalkerHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/ChainsofEmancipationHover",
+        "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Items/TriskaidekaphobiaHover"
+      ],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Heist/textbackground",
+      false
+    ],
+    [
+      "Heist16",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel15",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Heading15",
+      [],
+      "Параллельно с дополнением Path of Exile выходит на macOS! Данная версия Path of Exile полностью интегрирована с основным международным сервером на ПК, так что у вас будет доступ к уже имеющимся у вас учётным записям и микротранзакциям.",
+      "Heist",
+      false,
+      [],
+      [],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Heist/textbackground",
+      false
+    ],
+    [
+      "Heist17",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel16",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Heading16",
+      [],
+      "Одновременно с лигой Кража мы выпускаем два новых набора поддержки - Колдовского клинка и Орла. Оба набора представлены в двух версиях, из которых вы получите большое количество монет, несколько эксклюзивных микротранзакций и новый тип эффекта персонажа, который заряжается по мере убийства монстров.\n\nЗапуск <italic>{Path of Exile: Кража} состоится 18 сентября на ПК и 23 сентября на Xbox One и PlayStation 4.",
+      "Heist",
+      true,
+      [],
+      [],
+      "",
+      "Art/2DArt/UIImages/Login/LeagueInfo/Heist/textbackground",
+      true
+    ]
+  ]
+}

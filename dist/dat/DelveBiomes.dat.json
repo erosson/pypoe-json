@@ -1,1 +1,603 @@
-{"filename":"DelveBiomes.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":"True","file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Name","rowid":1,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"WorldAreasKeys","rowid":2,"type":"ref|list|ulong","key":"WorldAreas.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"UIImage","rowid":3,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":true,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"SpawnWeight_Depth","rowid":4,"type":"ref|list|int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"SpawnWeight_Values","rowid":5,"type":"ref|list|int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Data2","rowid":6,"type":"ref|list|int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Data3","rowid":7,"type":"ref|list|int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"2DArt","rowid":8,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":true,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"AchievementItemsKeys","rowid":9,"type":"ref|list|ulong","key":"AchievementItems.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Flag0","rowid":10,"type":"bool","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown0","rowid":11,"type":"ref|list|int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["Mines","Mines",[306,307,308,309,310,311,312,313],"Art/2DArt/UIImages/InGame/Delve/MapBiomes/Mines",[0,40,65,0,30,52],[100,100,0],[5,5,5],[10,15,5],"Art/2DArt/DelveMap/MinesGround",[],false,[0,3]],["FungalCaverns","Fungal Caverns",[314,315,316,317,318,319,320,321],"Art/2DArt/UIImages/InGame/Delve/MapBiomes/FungalCaverns",[4,20],[0,100],[5,15],[16,30],"Art/2DArt/DelveMap/FungalGround",[],false,[0]],["PetrifiedForest","Petrified Forest",[322,323,324,325,326,327,328,329],"Art/2DArt/UIImages/InGame/Delve/MapBiomes/PetrifiedForest",[4,20],[0,100],[5,15],[16,30],"Art/2DArt/DelveMap/PetrifiedGround",[],false,[0]],["AbyssalDepths","Abyssal Depths",[330,331,332,333,334,335,336,337],"Art/2DArt/UIImages/InGame/Delve/MapBiomes/AbyssalDepths",[10,25],[0,100],[5,15],[16,30],"Art/2DArt/DelveMap/AbyssalGround",[],false,[0]],["FrozenHollow","Frozen Hollow",[338,339,340,341,342,343,344,345],"Art/2DArt/UIImages/InGame/Delve/MapBiomes/FrozenHollow",[20,40,15,30],[0,100],[5,15],[16,30],"Art/2DArt/DelveMap/FrozenGround",[],false,[0,3]],["MagmaFissure","Magma Fissure",[346,347,348,349,350,351,352,353],"Art/2DArt/UIImages/InGame/Delve/MapBiomes/MagmaFissure",[30,50,20,40],[0,100],[5,15],[16,30],"Art/2DArt/DelveMap/MagmaGround",[],false,[0,3]],["SulphurVents","Sulphur Vents",[354,355,356,357,358,359,360,361],"Art/2DArt/UIImages/InGame/Delve/MapBiomes/SulphurVents",[55,75,45,75],[0,100],[5,15],[16,30],"Art/2DArt/DelveMap/SulphurGround",[],false,[0,3]],["VaalOutpost","Vaal Outpost",[362,363,364,365,366,367,368,369],"Art/2DArt/UIImages/InGame/Delve/MapBiomes/VaalOutpost",[22,83,600,22,52,600],[0,12,18],[5,8,8],[6,12,12],"Art/2DArt/DelveMap/VaalGround",[],true,[0,3]],["AbyssalCity","Abyssal City",[370,371,372,373,374,375,376,377],"Art/2DArt/UIImages/InGame/Delve/MapBiomes/AbyssalCity",[82,83,220,600,51,52,220,600],[0,4,12,18],[5,5,8,8],[7,7,13,13],"Art/2DArt/DelveMap/AbyssalCityGround",[],true,[0,3]],["Primeval","Primeval Ruins",[378,379,380,381,382,383,384,385],"Art/2DArt/UIImages/InGame/Delve/MapBiomes/PrimevalRuins",[219,220,600,150,151,600],[0,4,12],[7,7,10],[8,8,14],"Art/2DArt/DelveMap/PrimevalGround",[],true,[0,4]]]}
+{
+  "filename": "DelveBiomes.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": "True",
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Name",
+      "rowid": 1,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "WorldAreasKeys",
+      "rowid": 2,
+      "type": "ref|list|ulong",
+      "key": "WorldAreas.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "UIImage",
+      "rowid": 3,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": true,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "SpawnWeight_Depth",
+      "rowid": 4,
+      "type": "ref|list|int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "SpawnWeight_Values",
+      "rowid": 5,
+      "type": "ref|list|int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Data2",
+      "rowid": 6,
+      "type": "ref|list|int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Data3",
+      "rowid": 7,
+      "type": "ref|list|int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "2DArt",
+      "rowid": 8,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": true,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "AchievementItemsKeys",
+      "rowid": 9,
+      "type": "ref|list|ulong",
+      "key": "AchievementItems.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Flag0",
+      "rowid": 10,
+      "type": "bool",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown0",
+      "rowid": 11,
+      "type": "ref|list|int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "Mines",
+      "Mines",
+      [
+        306,
+        307,
+        308,
+        309,
+        310,
+        311,
+        312,
+        313
+      ],
+      "Art/2DArt/UIImages/InGame/Delve/MapBiomes/Mines",
+      [
+        0,
+        40,
+        65,
+        0,
+        30,
+        52
+      ],
+      [
+        100,
+        100,
+        0
+      ],
+      [
+        5,
+        5,
+        5
+      ],
+      [
+        10,
+        15,
+        5
+      ],
+      "Art/2DArt/DelveMap/MinesGround",
+      [],
+      false,
+      [
+        0,
+        3
+      ]
+    ],
+    [
+      "FungalCaverns",
+      "Fungal Caverns",
+      [
+        314,
+        315,
+        316,
+        317,
+        318,
+        319,
+        320,
+        321
+      ],
+      "Art/2DArt/UIImages/InGame/Delve/MapBiomes/FungalCaverns",
+      [
+        4,
+        20
+      ],
+      [
+        0,
+        100
+      ],
+      [
+        5,
+        15
+      ],
+      [
+        16,
+        30
+      ],
+      "Art/2DArt/DelveMap/FungalGround",
+      [],
+      false,
+      [
+        0
+      ]
+    ],
+    [
+      "PetrifiedForest",
+      "Petrified Forest",
+      [
+        322,
+        323,
+        324,
+        325,
+        326,
+        327,
+        328,
+        329
+      ],
+      "Art/2DArt/UIImages/InGame/Delve/MapBiomes/PetrifiedForest",
+      [
+        4,
+        20
+      ],
+      [
+        0,
+        100
+      ],
+      [
+        5,
+        15
+      ],
+      [
+        16,
+        30
+      ],
+      "Art/2DArt/DelveMap/PetrifiedGround",
+      [],
+      false,
+      [
+        0
+      ]
+    ],
+    [
+      "AbyssalDepths",
+      "Abyssal Depths",
+      [
+        330,
+        331,
+        332,
+        333,
+        334,
+        335,
+        336,
+        337
+      ],
+      "Art/2DArt/UIImages/InGame/Delve/MapBiomes/AbyssalDepths",
+      [
+        10,
+        25
+      ],
+      [
+        0,
+        100
+      ],
+      [
+        5,
+        15
+      ],
+      [
+        16,
+        30
+      ],
+      "Art/2DArt/DelveMap/AbyssalGround",
+      [],
+      false,
+      [
+        0
+      ]
+    ],
+    [
+      "FrozenHollow",
+      "Frozen Hollow",
+      [
+        338,
+        339,
+        340,
+        341,
+        342,
+        343,
+        344,
+        345
+      ],
+      "Art/2DArt/UIImages/InGame/Delve/MapBiomes/FrozenHollow",
+      [
+        20,
+        40,
+        15,
+        30
+      ],
+      [
+        0,
+        100
+      ],
+      [
+        5,
+        15
+      ],
+      [
+        16,
+        30
+      ],
+      "Art/2DArt/DelveMap/FrozenGround",
+      [],
+      false,
+      [
+        0,
+        3
+      ]
+    ],
+    [
+      "MagmaFissure",
+      "Magma Fissure",
+      [
+        346,
+        347,
+        348,
+        349,
+        350,
+        351,
+        352,
+        353
+      ],
+      "Art/2DArt/UIImages/InGame/Delve/MapBiomes/MagmaFissure",
+      [
+        30,
+        50,
+        20,
+        40
+      ],
+      [
+        0,
+        100
+      ],
+      [
+        5,
+        15
+      ],
+      [
+        16,
+        30
+      ],
+      "Art/2DArt/DelveMap/MagmaGround",
+      [],
+      false,
+      [
+        0,
+        3
+      ]
+    ],
+    [
+      "SulphurVents",
+      "Sulphur Vents",
+      [
+        354,
+        355,
+        356,
+        357,
+        358,
+        359,
+        360,
+        361
+      ],
+      "Art/2DArt/UIImages/InGame/Delve/MapBiomes/SulphurVents",
+      [
+        55,
+        75,
+        45,
+        75
+      ],
+      [
+        0,
+        100
+      ],
+      [
+        5,
+        15
+      ],
+      [
+        16,
+        30
+      ],
+      "Art/2DArt/DelveMap/SulphurGround",
+      [],
+      false,
+      [
+        0,
+        3
+      ]
+    ],
+    [
+      "VaalOutpost",
+      "Vaal Outpost",
+      [
+        362,
+        363,
+        364,
+        365,
+        366,
+        367,
+        368,
+        369
+      ],
+      "Art/2DArt/UIImages/InGame/Delve/MapBiomes/VaalOutpost",
+      [
+        22,
+        83,
+        600,
+        22,
+        52,
+        600
+      ],
+      [
+        0,
+        12,
+        18
+      ],
+      [
+        5,
+        8,
+        8
+      ],
+      [
+        6,
+        12,
+        12
+      ],
+      "Art/2DArt/DelveMap/VaalGround",
+      [],
+      true,
+      [
+        0,
+        3
+      ]
+    ],
+    [
+      "AbyssalCity",
+      "Abyssal City",
+      [
+        370,
+        371,
+        372,
+        373,
+        374,
+        375,
+        376,
+        377
+      ],
+      "Art/2DArt/UIImages/InGame/Delve/MapBiomes/AbyssalCity",
+      [
+        82,
+        83,
+        220,
+        600,
+        51,
+        52,
+        220,
+        600
+      ],
+      [
+        0,
+        4,
+        12,
+        18
+      ],
+      [
+        5,
+        5,
+        8,
+        8
+      ],
+      [
+        7,
+        7,
+        13,
+        13
+      ],
+      "Art/2DArt/DelveMap/AbyssalCityGround",
+      [],
+      true,
+      [
+        0,
+        3
+      ]
+    ],
+    [
+      "Primeval",
+      "Primeval Ruins",
+      [
+        378,
+        379,
+        380,
+        381,
+        382,
+        383,
+        384,
+        385
+      ],
+      "Art/2DArt/UIImages/InGame/Delve/MapBiomes/PrimevalRuins",
+      [
+        219,
+        220,
+        600,
+        150,
+        151,
+        600
+      ],
+      [
+        0,
+        4,
+        12
+      ],
+      [
+        7,
+        7,
+        10
+      ],
+      [
+        8,
+        8,
+        14
+      ],
+      "Art/2DArt/DelveMap/PrimevalGround",
+      [],
+      true,
+      [
+        0,
+        4
+      ]
+    ]
+  ]
+}

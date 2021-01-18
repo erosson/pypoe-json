@@ -1,1 +1,220 @@
-{"filename":"MapSeries.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":"True","file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Name","rowid":1,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"BaseIcon_DDSFile","rowid":2,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":true,"file_ext":".dds","display":null,"display_type":"{0}","description":null},{"name":"Infected_DDSFile","rowid":3,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":true,"file_ext":".dds","display":null,"display_type":"{0}","description":null},{"name":"Shaper_DDSFile","rowid":4,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":true,"file_ext":".dds","display":null,"display_type":"{0}","description":null},{"name":"Elder_DDSFile","rowid":5,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":true,"file_ext":".dds","display":null,"display_type":"{0}","description":null},{"name":"Drawn_DDSFile","rowid":6,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":true,"file_ext":".dds","display":null,"display_type":"{0}","description":null}],"data":[["Map","본편","","","","",""],["Map2","각성","","","","",""],["MapAtlas","아틀라스의 세계","","","","",""],["MapWorlds","아틀라스의 격전","Art/2DItems/Maps/Atlas2Maps/New/Base.dds","","","",""],["Betrayal","배신","Art/2DItems/Maps/Atlas2Maps/New/Base2.dds","","","",""],["Synthesis","결합","Art/2DItems/Maps/Atlas2Maps/New/Base3.dds","","","",""],["Legion","군단","Art/2DItems/Maps/Atlas2Maps/New/Base4.dds","","","",""],["Blight","역병","Art/2DItems/Maps/Atlas2Maps/New/Base5.dds","Art/2DItems/Maps/Atlas2Maps/New/BaseInfected.dds","","",""],["Metamorphosis","변형","Art/2DItems/Maps/Atlas2Maps/New/Base6.dds","Art/2DItems/Maps/Atlas2Maps/New/Base6Infected.dds","Art/2DItems/Maps/Atlas2Maps/New/Base6Shaper.dds","Art/2DItems/Maps/Atlas2Maps/New/Base6Elder.dds","Art/2DItems/Maps/Atlas2Maps/New/Base6Drawn.dds"],["Delirium","환영","Art/2DItems/Maps/Atlas2Maps/New/Base7.dds","Art/2DItems/Maps/Atlas2Maps/New/Base7Infected.dds","Art/2DItems/Maps/Atlas2Maps/New/Base7Shaper.dds","Art/2DItems/Maps/Atlas2Maps/New/Base7Elder.dds","Art/2DItems/Maps/Atlas2Maps/New/Base7Drawn.dds"],["Harvest","수확","Art/2DItems/Maps/Atlas2Maps/New/Base8.dds","Art/2DItems/Maps/Atlas2Maps/New/Base8Infected.dds","Art/2DItems/Maps/Atlas2Maps/New/Base8Shaper.dds","Art/2DItems/Maps/Atlas2Maps/New/Base8Elder.dds","Art/2DItems/Maps/Atlas2Maps/New/Base8Drawn.dds"],["Heist","강탈","Art/2DItems/Maps/Atlas2Maps/New/Base9.dds","Art/2DItems/Maps/Atlas2Maps/New/Base9Infected.dds","Art/2DItems/Maps/Atlas2Maps/New/Base9Shaper.dds","Art/2DItems/Maps/Atlas2Maps/New/Base9Elder.dds","Art/2DItems/Maps/Atlas2Maps/New/Base9Drawn.dds"]]}
+{
+  "filename": "MapSeries.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": "True",
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Name",
+      "rowid": 1,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "BaseIcon_DDSFile",
+      "rowid": 2,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": true,
+      "file_ext": ".dds",
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Infected_DDSFile",
+      "rowid": 3,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": true,
+      "file_ext": ".dds",
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Shaper_DDSFile",
+      "rowid": 4,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": true,
+      "file_ext": ".dds",
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Elder_DDSFile",
+      "rowid": 5,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": true,
+      "file_ext": ".dds",
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Drawn_DDSFile",
+      "rowid": 6,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": true,
+      "file_ext": ".dds",
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "Map",
+      "본편",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Map2",
+      "각성",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "MapAtlas",
+      "아틀라스의 세계",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "MapWorlds",
+      "아틀라스의 격전",
+      "Art/2DItems/Maps/Atlas2Maps/New/Base.dds",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Betrayal",
+      "배신",
+      "Art/2DItems/Maps/Atlas2Maps/New/Base2.dds",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Synthesis",
+      "결합",
+      "Art/2DItems/Maps/Atlas2Maps/New/Base3.dds",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Legion",
+      "군단",
+      "Art/2DItems/Maps/Atlas2Maps/New/Base4.dds",
+      "",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Blight",
+      "역병",
+      "Art/2DItems/Maps/Atlas2Maps/New/Base5.dds",
+      "Art/2DItems/Maps/Atlas2Maps/New/BaseInfected.dds",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Metamorphosis",
+      "변형",
+      "Art/2DItems/Maps/Atlas2Maps/New/Base6.dds",
+      "Art/2DItems/Maps/Atlas2Maps/New/Base6Infected.dds",
+      "Art/2DItems/Maps/Atlas2Maps/New/Base6Shaper.dds",
+      "Art/2DItems/Maps/Atlas2Maps/New/Base6Elder.dds",
+      "Art/2DItems/Maps/Atlas2Maps/New/Base6Drawn.dds"
+    ],
+    [
+      "Delirium",
+      "환영",
+      "Art/2DItems/Maps/Atlas2Maps/New/Base7.dds",
+      "Art/2DItems/Maps/Atlas2Maps/New/Base7Infected.dds",
+      "Art/2DItems/Maps/Atlas2Maps/New/Base7Shaper.dds",
+      "Art/2DItems/Maps/Atlas2Maps/New/Base7Elder.dds",
+      "Art/2DItems/Maps/Atlas2Maps/New/Base7Drawn.dds"
+    ],
+    [
+      "Harvest",
+      "수확",
+      "Art/2DItems/Maps/Atlas2Maps/New/Base8.dds",
+      "Art/2DItems/Maps/Atlas2Maps/New/Base8Infected.dds",
+      "Art/2DItems/Maps/Atlas2Maps/New/Base8Shaper.dds",
+      "Art/2DItems/Maps/Atlas2Maps/New/Base8Elder.dds",
+      "Art/2DItems/Maps/Atlas2Maps/New/Base8Drawn.dds"
+    ],
+    [
+      "Heist",
+      "강탈",
+      "Art/2DItems/Maps/Atlas2Maps/New/Base9.dds",
+      "Art/2DItems/Maps/Atlas2Maps/New/Base9Infected.dds",
+      "Art/2DItems/Maps/Atlas2Maps/New/Base9Shaper.dds",
+      "Art/2DItems/Maps/Atlas2Maps/New/Base9Elder.dds",
+      "Art/2DItems/Maps/Atlas2Maps/New/Base9Drawn.dds"
+    ]
+  ]
+}

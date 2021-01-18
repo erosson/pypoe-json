@@ -1,1 +1,804 @@
-{"filename":"AdvancedSkillsTutorial.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":true,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Keys1","rowid":1,"type":"ref|list|ulong","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Key2","rowid":2,"type":"ref|list|ulong","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Description","rowid":3,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"International_BK2File","rowid":4,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":true,"file_ext":".bk2","display":null,"display_type":"{0}","description":null},{"name":"Key0","rowid":5,"type":"ulong","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"China_BK2File","rowid":6,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":true,"file_ext":".bk2","display":null,"display_type":"{0}","description":null},{"name":"CharactersKey","rowid":7,"type":"ref|list|ulong","key":"Characters.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["Blight",[2,1,120],[3,4,141],"Un sort de chaos canalisé et en zone qui applique un effet néfaste aux ennemis. Les ennemis affectés subissent des Dégâts de chaos sur la durée, ainsi qu'une Réduction à leur Vitesse de déplacement.","http://web.poecdn.com/public/videos/Blight/BlightMainDemo.bk2 ",301,"http://down.qq.com/poe/videos/skills/Blight/BlightMainDemo.bk2",[6,2,1,5]],["FreezingPulse",[7,6,9],[8,5,144],"Un sort de froid sous forme de projectile qui Transperce les ennemis. Ce sort inflige des Dégâts de froid et a des chances de Geler les ennemis. Le projectile perd en Dégâts et en Chances de Geler au fur et à mesure de son trajet.","http://web.poecdn.com/public/videos/FreezingPulse/FreezingPulseMainDemo.bk2 ",76,"http://down.qq.com/poe/videos/skills/FreezingPulse/FreezingPulseFullDemo.bk2",[6,1,5]],["LightningTendrils",[12,14,13],[11,121,122],"Un sort de zone canalisé qui inflige des Dégâts aux ennemis à chaque pulsation qu'il produit. Une fois relâchée, cette aptitude libère une pulsation plus puissante toutes les 4 pulsations canalisées.","http://web.poecdn.com/public/videos/LightningTendrils/LightingTendrilsMainDemo.bk2 ",253,"http://down.qq.com/poe/videos/skills/LightningTendrils/LightningTendrilsMainDemo.bk2",[6,2,1,5]],["MagmaOrb",[15,17,16],[18,19,148],"Un sort de feu en zone sous forme de projectile. Les projectiles qu'il génère rebondissent vers la cible en infligeant des Dégâts de feu. Quand elle est de niveau élevée, cette aptitude effectue des Ricochets, ce qui permet à ses projectiles de rebondir plus de fois.","http://web.poecdn.com/public/videos/MagmaOrb/MagmaOrbMainDemo.bk2 ",281,"http://down.qq.com/poe/videos/skills/MagmaOrb/MagmaOrbFullDemo.bk2",[6,2,1,5]],["Fireball ",[22,21,26],[27,24,29],"Un sort de feu en zone sous forme de projectile qui inflige des Dégâts de feu aux ennemis. Cette aptitude a de grandes chances d'Embraser les ennemis. L'Embrasement inflige des Dégâts de feu sur la durée.","http://web.poecdn.com/public/videos/Fireball/FireballMainDemo.bk2",0,"http://down.qq.com/poe/videos/skills/Fireball/FireballFullDemo.bk2",[6,2,0,1,5,3]],["RaiseZombies",[31,32,34],[149,30,33],"Un sort de Créature qui génère un Zombie à partir d'un cadavre. Ce Zombie vous suivra et combattra pour vous en utilisant des attaques de mêlée.","http://web.poecdn.com/public/videos/RaiseZombies/RaiseZombiesMainDemo.bk2",44,"http://down.qq.com/poe/videos/skills/RaiseZombies/RaiseZombiesFullDemo.bk2",[6,2,1]],["GlacialHammer",[38,40,39],[36,37,147],"Une attaque de mêlée monocible qui inflige des Dégâts physiques et des Dégâts de froid. Cette aptitude a des chances inhérentes de Geler les ennemis, en plus de les Fracasser s'ils sont Gelés et que leur Vie est basse.","http://web.poecdn.com/public/videos/GlacialHammer/GlacialHammerFullDemo.bk2",73,"http://down.qq.com/poe/videos/skills/GlacialHammer/GlacialHammerFullDemo.bk2",[6,4,0]],["EtheralKnives",[47,46,43],[42,44,45],"Un sort physique qui envoie plusieurs projectiles en éventail devant votre personnage.","http://web.poecdn.com/public/videos/EtherealKnives/EtherealKnivesFullDemo.bk2",162,"http://down.qq.com/poe/videos/skills/EtherealKnives/EtherealKnivesFullDemo.bk2",[0,1,5]],["ExplosiveTrap",[49,48,52],[51,50,53],"Une aptitude qui jette un Piège au sol. Une fois déclenché, ce Piège crée plusieurs petites explosions qui infligent des Dégâts physiques et des Dégâts de feu aux ennemis à proximité.","http://web.poecdn.com/public/videos/ExplosiveTrap/ExplosiveTrapFullDemo.bk2",351,"http://down.qq.com/poe/videos/skills/ExplosiveTrap/ExplosiveTrapFullDemo.bk2",[2,1,5,3]],["FrostBlades",[54,58,56],[57,55,145],"Une attaque de mêlée sous forme de projectile qui convertit 60% de ses Dégâts physiques en Dégâts de froid. Lorsque la frappe initiale de cette attaque touche un ennemi, elle éclate en plusieurs projectiles capables de blesser d'autres ennemis.","http://web.poecdn.com/public/videos/FrostBlades/FrostBladesMainDemo.bk2",277,"http://down.qq.com/poe/videos/skills/FrostBlades/FrostbladesFullDemo.bk2",[2,2,5,3]],["ViperStrike",[60,64,63],[61,65,62],"Une attaque de mêlée monocible qui convertit 25% de ses Dégâts physiques en Dégâts de chaos. Cette aptitude a de grandes chances d'Empoisonner l'ennemi ciblé.","http://web.poecdn.com/public/videos/ViperStrike/ViperStrikeFullDemo.bk2",79,"http://down.qq.com/poe/videos/skills/ViperStrike/ViperStrikeFullDemo.bk2",[2,4,5,3]],["SpectralThrow",[67,70,68],[66,71,150],"Cette attaque envoie une réplique de votre arme sous forme de projectile vers vos ennemis. Ce projectile Transperce tous les ennemis sur son chemin avant de revenir vers vous en les touchant potentiellement une seconde fois.","http://web.poecdn.com/public/videos/SpectralThrow/SpectralThrowFullDemo.bk2",207,"http://down.qq.com/poe/videos/skills/SpectralThrow/SpectralThrowFullDemo.bk2",[6,2,4,0,5,3]],["IceShot",[73,77,74],[75,72,76],"Tire une flèche qui convertit 60% de ses Dégâts physiques en Dégâts de froid. Lorsque cette aptitude touche un ennemi, elle inflige des Dégâts de froid en zone sous forme de cône et crée une petite zone de Sol frigorifiant qui Ralentit les ennemis qui s'y trouvent. ","http://web.poecdn.com/public/videos/Iceshot/IceshotFullDemo.bk2",164,"http://down.qq.com/poe/videos/skills/IceShot/IceshotMainDemo.bk2",[2,4,3]],["ShrapnelShot",[182,183,187],[184,185,186],"Déchaîne une salve de foudre à partir de l'arc dans vos mains. Cette attaque inflige des dégâts aux ennemis à proximité et tire trois flèches devant vous sous forme de cône. Ces flèches ont une durée très limitée et disparaissent rapidement. Cette aptitude a tout intérêt à être utilisée à courte portée.","http://web.poecdn.com/public/videos/GalvanicArrow/EGalvanicArrowIntro.bk2",286,"http://down.qq.com/poe/videos/tutorial/TGalvanicArrowIntro.bk2",[2,4,3]],["SplitArrow",[89,87,86],[84,151,152],"Une attaque à l'arc sous forme de projectiles qui vous permet de tirer plusieurs flèches d'un coup.","http://web.poecdn.com/public/videos/SplitArrow/SplitArrowMainDemo.bk2",32,"http://down.qq.com/poe/videos/skills/SplitArrow/SplitArrowMainDemo.bk2",[2,4,5,3]],["GroundSlam",[95,94,91],[93,90,92],"Une attaque de mêlée en zone qui génère une vague de dégâts à partir de votre arme principale. Les ennemis qui se trouvent à proximité de vous subissent Davantage de Dégâts. Cette aptitude a également plus de chances d'Étourdir les ennemis.","http://web.poecdn.com/public/videos/GroundSlam/GroundSlamFullDemo.bk2",13,"http://down.qq.com/poe/videos/skills/GroundSlam/GroundSlamMainDemo.bk2",[6,4,0]],["HeavyStrike",[100,101,99],[98,96,97],"Une attaque de mêlée capable de Repousser les ennemis.","http://web.poecdn.com/public/videos/HeavyStrike/HeavyStrikeFullDemo.bk2",100,"http://down.qq.com/poe/videos/skills/HeavyStrike/HeavyStrikeFullDemo.bk2",[6,2,4,0]],["Cleave ",[107,106,102],[105,104,103],"Une attaque de mêlée de zone qui inflige des Dégâts en cône. Si vous avez une arme dans chaque main, cette attaque tient compte de ces deux armes.","http://web.poecdn.com/public/videos/Cleave/CleaveFullDemo.bk2",15,"http://down.qq.com/poe/videos/skills/Cleave/CleaveMainDemo.bk2",[2,4,0,3]],["DoubleStrike",[112,113,109],[110,108,111],"Une attaque de mêlée monocible qui frappe deux fois d'affilée. Cette aptitude inflige des Dégâts bonus contre les ennemis qui Saignent.","http://web.poecdn.com/public/videos/DoubleStrike/DoubleStrikeFullDemo.bk2",18,"http://down.qq.com/poe/videos/skills/DoubleStrike/DoublestrikeFullDemo.bk2",[2,4,0,5,3]],["MoltenStrike",[114,117,118],[116,115,119],"Une attaque de mêlée en zone. Elle envoie des boules de magma qui comptent comme des projectiles. 50% des Dégâts physiques de cette aptitude sont convertis en Dégâts de feu.","http://web.poecdn.com/public/videos/MoltenStrike/MoltenStrikeFullDemo.bk2",240,"http://down.qq.com/poe/videos/skills/MoltenStrike/MoltenStrikeFullDemo.bk2",[6,2,4,0]],["Smite",[129,130,131],[133,132,134],"Une attaque de mêlée qui fait déferler la foudre à l'endroit ciblé ou sur un ennemi à proximité en infligeant des Dégâts de zone. Lorsqu'elle touche un ennemi, cette aptitude offre également une Aura temporaire qui donne des Dégâts de foudre à vos et à vos alliés.","http://web.poecdn.com/public/videos/Smite/SmiteFullDemo.bk2",363,"http://down.qq.com/poe/videos/skills/Smite/SmiteFullDemo.bk2",[6,2,0]],["CausticArrow",[126,125,143],[142,123,124],"Une attaque à l'arc sous forme de projectile qui génère une flaque de Sol caustique. Cette flaque inflige des Dégâts de chaos sur la durée à tous les ennemis qui s'y trouvent.","http://web.poecdn.com/public/videos/CausticArrow/CausticArrowFullDemo.bk2",45,"http://down.qq.com/poe/videos/skills/CausticArrow/CausticArrowMainDemo.bk2",[2,4,5,3]],["Frostbolt",[139,137,138],[136,135,146],"Un sort qui envoie un projectile très lent qui Transperce les ennemis en leur infligeant des Dégâts de froid. Ce projectile a des chances supplémentaires de Frigorifier et de Geler les ennemis.","http://web.poecdn.com/public/videos/Frostbolt/FrostboltFullDemo.bk2",312,"http://down.qq.com/poe/videos/skills/Frostbolt/Frostbolt%20Full%20Demo.bk2",[6,2,1,5]],["PurifyingFlame",[154,155,156],[153,157,158],"Un sort en zone d'effet qui inflige des Dégâts physiques et des Dégâts de feu avant de créer du Sol consacré. En relançant le sort, vous créerez une vague qui infligera des Dégâts aux ennemis se trouvant à proximité de vos Sols consacrés.","http://web.poecdn.com/public/videos/PurifyingFlame/PurifyingFlamesFullDemo.bk2",379,"https://down.qq.com/poe/videos/skills/PurifyingFlames/PurfiyingFlamesFullDemo.bk2",[6]],["CobraLash",[166,167,168],[169,170,171],"Envoie une réplique de votre arme en tant que projectile. Cette réplique rebondit d'ennemi en ennemi et les Empoisonne.\n\nLe Poison inflige des Dégâts de chaos sur la durée en fonction de vos Dégâts physiques et Dégâts de chaos. Cette aptitude vous permet d'Empoisonner plusieurs ennemis à la fois et nécessite une Dague ou une Griffe.","http://web.poecdn.com/public/videos/CobraLash/ECobraLashIntro.bk2",411,"https://down.qq.com/poe/videos/skills/TCobraLashIntro.bk2",[5]],["StormblastMine",[159,160,161],[162,163,164,165],"Une aptitude qui jette une Mine. Vous pouvez la faire exploser pour infliger des Dégâts de foudre aux ennemis à proximité. Cette aptitude peut également les Électrocuter, augmentant ainsi les Dégâts qu'ils subissent.\n\nCette aptitude augmente les Dégâts subis par les ennemis à proximité ; ce bonus de Dégâts est proportionnel au nombre de Mines qui explosent.","http://web.poecdn.com/public/videos/StormblastMine/EStormblastIntro.bk2",421,"https://down.qq.com/poe/videos/skills/TStormblastIntro.bk2",[5]],["Perforate",[172,173,174],[175,176,177],"Fracasse le sol et crée des pieux mortels qui blessent les ennemis. Ces pieux sortent du sol en même temps et peuvent toucher plusieurs ennemis plus d'une fois.\n\nGrâce aux gemmes Sang & Sable, vous pouvez adopter la Posture du Sable et générer des pieux qui sortent du sol en touchant une zone plus importante.","http://web.poecdn.com/public/videos/Perforate/EPerforateIntro.bk2",398,"https://down.qq.com/poe/videos/skills/TPerforateIntro.bk2",[4]],["Frostblink",[],[179,178],"Une aptitude de déplacement qui vous téléporte sur une courte distance en créant derrière vous une explosion de Dégâts de froid et du Sol frigorifiant capable de Ralentir les ennemis. Cette aptitude est très importante dès lors que vous souhaitez éviter les attaques ennemies.\n\nLes Gemmes de déplacement profitent assez peu des Gemmes de soutien — cette aptitude fonctionne donc très bien même si vous y reliez peu de Gemmes de soutien.","http://web.poecdn.com/public/videos/Frostblink/EFrostblinkIntro.bk2",403,"https://down.qq.com/poe/videos/skills/TFrostblinkIntro.bk2",[1,6,5,2]],["Dash",[],[],"Une aptitude de déplacement qui vous propulse sur une courte distance, très utile pour vous mettre hors de danger.\n\nLes Gemmes de déplacement profitent assez peu des Gemmes de soutien — cette aptitude fonctionne donc très bien même si vous y reliez peu de Gemmes de soutien.","http://web.poecdn.com/public/videos/Dash/EDashIntro.bk2",392,"https://down.qq.com/poe/videos/skills/TDashIntro.bk2",[3,4,5,2]],["Steelskin",[],[180,181],"Renforce votre défense, réduisant considérablement les dégâts que vous subissez pendant une courte durée. Peau d'acier est une aptitude de protection qui absorbe une partie des dégâts qui vous sont infligés tant qu'elle est active.\n\nLes Gemmes de protection profitent assez peu des Gemmes de soutien — cette aptitude fonctionne donc très bien même si vous y reliez peu de Gemmes de soutien.","http://web.poecdn.com/public/videos/Steelskin/ESteelskinIntro.bk2",390,"https://down.qq.com/poe/videos/skills/TSteelskinIntro.bk2",[0,6,4,2]],["KineticBolt",[189,190],[188,192,191],"Envoie un projectile qui effectue des zigzags devant vous à partir de votre baguette. Ce projectile se scinde à chaque fois qu'il zigzague, créant ainsi d'autres sources de dégâts capables de blesser les ennemis.","http://web.poecdn.com/public/videos/EKineticBolt/EKineticBoltIntro.bk2",472,"http://down.qq.com/poe/videos/tutorial/TKineticBoltIntro.bk2",[1]]]}
+{
+  "filename": "AdvancedSkillsTutorial.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Keys1",
+      "rowid": 1,
+      "type": "ref|list|ulong",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Key2",
+      "rowid": 2,
+      "type": "ref|list|ulong",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Description",
+      "rowid": 3,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "International_BK2File",
+      "rowid": 4,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": true,
+      "file_ext": ".bk2",
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Key0",
+      "rowid": 5,
+      "type": "ulong",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "China_BK2File",
+      "rowid": 6,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": true,
+      "file_ext": ".bk2",
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "CharactersKey",
+      "rowid": 7,
+      "type": "ref|list|ulong",
+      "key": "Characters.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "Blight",
+      [
+        2,
+        1,
+        120
+      ],
+      [
+        3,
+        4,
+        141
+      ],
+      "Un sort de chaos canalisé et en zone qui applique un effet néfaste aux ennemis. Les ennemis affectés subissent des Dégâts de chaos sur la durée, ainsi qu'une Réduction à leur Vitesse de déplacement.",
+      "http://web.poecdn.com/public/videos/Blight/BlightMainDemo.bk2 ",
+      301,
+      "http://down.qq.com/poe/videos/skills/Blight/BlightMainDemo.bk2",
+      [
+        6,
+        2,
+        1,
+        5
+      ]
+    ],
+    [
+      "FreezingPulse",
+      [
+        7,
+        6,
+        9
+      ],
+      [
+        8,
+        5,
+        144
+      ],
+      "Un sort de froid sous forme de projectile qui Transperce les ennemis. Ce sort inflige des Dégâts de froid et a des chances de Geler les ennemis. Le projectile perd en Dégâts et en Chances de Geler au fur et à mesure de son trajet.",
+      "http://web.poecdn.com/public/videos/FreezingPulse/FreezingPulseMainDemo.bk2 ",
+      76,
+      "http://down.qq.com/poe/videos/skills/FreezingPulse/FreezingPulseFullDemo.bk2",
+      [
+        6,
+        1,
+        5
+      ]
+    ],
+    [
+      "LightningTendrils",
+      [
+        12,
+        14,
+        13
+      ],
+      [
+        11,
+        121,
+        122
+      ],
+      "Un sort de zone canalisé qui inflige des Dégâts aux ennemis à chaque pulsation qu'il produit. Une fois relâchée, cette aptitude libère une pulsation plus puissante toutes les 4 pulsations canalisées.",
+      "http://web.poecdn.com/public/videos/LightningTendrils/LightingTendrilsMainDemo.bk2 ",
+      253,
+      "http://down.qq.com/poe/videos/skills/LightningTendrils/LightningTendrilsMainDemo.bk2",
+      [
+        6,
+        2,
+        1,
+        5
+      ]
+    ],
+    [
+      "MagmaOrb",
+      [
+        15,
+        17,
+        16
+      ],
+      [
+        18,
+        19,
+        148
+      ],
+      "Un sort de feu en zone sous forme de projectile. Les projectiles qu'il génère rebondissent vers la cible en infligeant des Dégâts de feu. Quand elle est de niveau élevée, cette aptitude effectue des Ricochets, ce qui permet à ses projectiles de rebondir plus de fois.",
+      "http://web.poecdn.com/public/videos/MagmaOrb/MagmaOrbMainDemo.bk2 ",
+      281,
+      "http://down.qq.com/poe/videos/skills/MagmaOrb/MagmaOrbFullDemo.bk2",
+      [
+        6,
+        2,
+        1,
+        5
+      ]
+    ],
+    [
+      "Fireball ",
+      [
+        22,
+        21,
+        26
+      ],
+      [
+        27,
+        24,
+        29
+      ],
+      "Un sort de feu en zone sous forme de projectile qui inflige des Dégâts de feu aux ennemis. Cette aptitude a de grandes chances d'Embraser les ennemis. L'Embrasement inflige des Dégâts de feu sur la durée.",
+      "http://web.poecdn.com/public/videos/Fireball/FireballMainDemo.bk2",
+      0,
+      "http://down.qq.com/poe/videos/skills/Fireball/FireballFullDemo.bk2",
+      [
+        6,
+        2,
+        0,
+        1,
+        5,
+        3
+      ]
+    ],
+    [
+      "RaiseZombies",
+      [
+        31,
+        32,
+        34
+      ],
+      [
+        149,
+        30,
+        33
+      ],
+      "Un sort de Créature qui génère un Zombie à partir d'un cadavre. Ce Zombie vous suivra et combattra pour vous en utilisant des attaques de mêlée.",
+      "http://web.poecdn.com/public/videos/RaiseZombies/RaiseZombiesMainDemo.bk2",
+      44,
+      "http://down.qq.com/poe/videos/skills/RaiseZombies/RaiseZombiesFullDemo.bk2",
+      [
+        6,
+        2,
+        1
+      ]
+    ],
+    [
+      "GlacialHammer",
+      [
+        38,
+        40,
+        39
+      ],
+      [
+        36,
+        37,
+        147
+      ],
+      "Une attaque de mêlée monocible qui inflige des Dégâts physiques et des Dégâts de froid. Cette aptitude a des chances inhérentes de Geler les ennemis, en plus de les Fracasser s'ils sont Gelés et que leur Vie est basse.",
+      "http://web.poecdn.com/public/videos/GlacialHammer/GlacialHammerFullDemo.bk2",
+      73,
+      "http://down.qq.com/poe/videos/skills/GlacialHammer/GlacialHammerFullDemo.bk2",
+      [
+        6,
+        4,
+        0
+      ]
+    ],
+    [
+      "EtheralKnives",
+      [
+        47,
+        46,
+        43
+      ],
+      [
+        42,
+        44,
+        45
+      ],
+      "Un sort physique qui envoie plusieurs projectiles en éventail devant votre personnage.",
+      "http://web.poecdn.com/public/videos/EtherealKnives/EtherealKnivesFullDemo.bk2",
+      162,
+      "http://down.qq.com/poe/videos/skills/EtherealKnives/EtherealKnivesFullDemo.bk2",
+      [
+        0,
+        1,
+        5
+      ]
+    ],
+    [
+      "ExplosiveTrap",
+      [
+        49,
+        48,
+        52
+      ],
+      [
+        51,
+        50,
+        53
+      ],
+      "Une aptitude qui jette un Piège au sol. Une fois déclenché, ce Piège crée plusieurs petites explosions qui infligent des Dégâts physiques et des Dégâts de feu aux ennemis à proximité.",
+      "http://web.poecdn.com/public/videos/ExplosiveTrap/ExplosiveTrapFullDemo.bk2",
+      351,
+      "http://down.qq.com/poe/videos/skills/ExplosiveTrap/ExplosiveTrapFullDemo.bk2",
+      [
+        2,
+        1,
+        5,
+        3
+      ]
+    ],
+    [
+      "FrostBlades",
+      [
+        54,
+        58,
+        56
+      ],
+      [
+        57,
+        55,
+        145
+      ],
+      "Une attaque de mêlée sous forme de projectile qui convertit 60% de ses Dégâts physiques en Dégâts de froid. Lorsque la frappe initiale de cette attaque touche un ennemi, elle éclate en plusieurs projectiles capables de blesser d'autres ennemis.",
+      "http://web.poecdn.com/public/videos/FrostBlades/FrostBladesMainDemo.bk2",
+      277,
+      "http://down.qq.com/poe/videos/skills/FrostBlades/FrostbladesFullDemo.bk2",
+      [
+        2,
+        2,
+        5,
+        3
+      ]
+    ],
+    [
+      "ViperStrike",
+      [
+        60,
+        64,
+        63
+      ],
+      [
+        61,
+        65,
+        62
+      ],
+      "Une attaque de mêlée monocible qui convertit 25% de ses Dégâts physiques en Dégâts de chaos. Cette aptitude a de grandes chances d'Empoisonner l'ennemi ciblé.",
+      "http://web.poecdn.com/public/videos/ViperStrike/ViperStrikeFullDemo.bk2",
+      79,
+      "http://down.qq.com/poe/videos/skills/ViperStrike/ViperStrikeFullDemo.bk2",
+      [
+        2,
+        4,
+        5,
+        3
+      ]
+    ],
+    [
+      "SpectralThrow",
+      [
+        67,
+        70,
+        68
+      ],
+      [
+        66,
+        71,
+        150
+      ],
+      "Cette attaque envoie une réplique de votre arme sous forme de projectile vers vos ennemis. Ce projectile Transperce tous les ennemis sur son chemin avant de revenir vers vous en les touchant potentiellement une seconde fois.",
+      "http://web.poecdn.com/public/videos/SpectralThrow/SpectralThrowFullDemo.bk2",
+      207,
+      "http://down.qq.com/poe/videos/skills/SpectralThrow/SpectralThrowFullDemo.bk2",
+      [
+        6,
+        2,
+        4,
+        0,
+        5,
+        3
+      ]
+    ],
+    [
+      "IceShot",
+      [
+        73,
+        77,
+        74
+      ],
+      [
+        75,
+        72,
+        76
+      ],
+      "Tire une flèche qui convertit 60% de ses Dégâts physiques en Dégâts de froid. Lorsque cette aptitude touche un ennemi, elle inflige des Dégâts de froid en zone sous forme de cône et crée une petite zone de Sol frigorifiant qui Ralentit les ennemis qui s'y trouvent. ",
+      "http://web.poecdn.com/public/videos/Iceshot/IceshotFullDemo.bk2",
+      164,
+      "http://down.qq.com/poe/videos/skills/IceShot/IceshotMainDemo.bk2",
+      [
+        2,
+        4,
+        3
+      ]
+    ],
+    [
+      "ShrapnelShot",
+      [
+        182,
+        183,
+        187
+      ],
+      [
+        184,
+        185,
+        186
+      ],
+      "Déchaîne une salve de foudre à partir de l'arc dans vos mains. Cette attaque inflige des dégâts aux ennemis à proximité et tire trois flèches devant vous sous forme de cône. Ces flèches ont une durée très limitée et disparaissent rapidement. Cette aptitude a tout intérêt à être utilisée à courte portée.",
+      "http://web.poecdn.com/public/videos/GalvanicArrow/EGalvanicArrowIntro.bk2",
+      286,
+      "http://down.qq.com/poe/videos/tutorial/TGalvanicArrowIntro.bk2",
+      [
+        2,
+        4,
+        3
+      ]
+    ],
+    [
+      "SplitArrow",
+      [
+        89,
+        87,
+        86
+      ],
+      [
+        84,
+        151,
+        152
+      ],
+      "Une attaque à l'arc sous forme de projectiles qui vous permet de tirer plusieurs flèches d'un coup.",
+      "http://web.poecdn.com/public/videos/SplitArrow/SplitArrowMainDemo.bk2",
+      32,
+      "http://down.qq.com/poe/videos/skills/SplitArrow/SplitArrowMainDemo.bk2",
+      [
+        2,
+        4,
+        5,
+        3
+      ]
+    ],
+    [
+      "GroundSlam",
+      [
+        95,
+        94,
+        91
+      ],
+      [
+        93,
+        90,
+        92
+      ],
+      "Une attaque de mêlée en zone qui génère une vague de dégâts à partir de votre arme principale. Les ennemis qui se trouvent à proximité de vous subissent Davantage de Dégâts. Cette aptitude a également plus de chances d'Étourdir les ennemis.",
+      "http://web.poecdn.com/public/videos/GroundSlam/GroundSlamFullDemo.bk2",
+      13,
+      "http://down.qq.com/poe/videos/skills/GroundSlam/GroundSlamMainDemo.bk2",
+      [
+        6,
+        4,
+        0
+      ]
+    ],
+    [
+      "HeavyStrike",
+      [
+        100,
+        101,
+        99
+      ],
+      [
+        98,
+        96,
+        97
+      ],
+      "Une attaque de mêlée capable de Repousser les ennemis.",
+      "http://web.poecdn.com/public/videos/HeavyStrike/HeavyStrikeFullDemo.bk2",
+      100,
+      "http://down.qq.com/poe/videos/skills/HeavyStrike/HeavyStrikeFullDemo.bk2",
+      [
+        6,
+        2,
+        4,
+        0
+      ]
+    ],
+    [
+      "Cleave ",
+      [
+        107,
+        106,
+        102
+      ],
+      [
+        105,
+        104,
+        103
+      ],
+      "Une attaque de mêlée de zone qui inflige des Dégâts en cône. Si vous avez une arme dans chaque main, cette attaque tient compte de ces deux armes.",
+      "http://web.poecdn.com/public/videos/Cleave/CleaveFullDemo.bk2",
+      15,
+      "http://down.qq.com/poe/videos/skills/Cleave/CleaveMainDemo.bk2",
+      [
+        2,
+        4,
+        0,
+        3
+      ]
+    ],
+    [
+      "DoubleStrike",
+      [
+        112,
+        113,
+        109
+      ],
+      [
+        110,
+        108,
+        111
+      ],
+      "Une attaque de mêlée monocible qui frappe deux fois d'affilée. Cette aptitude inflige des Dégâts bonus contre les ennemis qui Saignent.",
+      "http://web.poecdn.com/public/videos/DoubleStrike/DoubleStrikeFullDemo.bk2",
+      18,
+      "http://down.qq.com/poe/videos/skills/DoubleStrike/DoublestrikeFullDemo.bk2",
+      [
+        2,
+        4,
+        0,
+        5,
+        3
+      ]
+    ],
+    [
+      "MoltenStrike",
+      [
+        114,
+        117,
+        118
+      ],
+      [
+        116,
+        115,
+        119
+      ],
+      "Une attaque de mêlée en zone. Elle envoie des boules de magma qui comptent comme des projectiles. 50% des Dégâts physiques de cette aptitude sont convertis en Dégâts de feu.",
+      "http://web.poecdn.com/public/videos/MoltenStrike/MoltenStrikeFullDemo.bk2",
+      240,
+      "http://down.qq.com/poe/videos/skills/MoltenStrike/MoltenStrikeFullDemo.bk2",
+      [
+        6,
+        2,
+        4,
+        0
+      ]
+    ],
+    [
+      "Smite",
+      [
+        129,
+        130,
+        131
+      ],
+      [
+        133,
+        132,
+        134
+      ],
+      "Une attaque de mêlée qui fait déferler la foudre à l'endroit ciblé ou sur un ennemi à proximité en infligeant des Dégâts de zone. Lorsqu'elle touche un ennemi, cette aptitude offre également une Aura temporaire qui donne des Dégâts de foudre à vos et à vos alliés.",
+      "http://web.poecdn.com/public/videos/Smite/SmiteFullDemo.bk2",
+      363,
+      "http://down.qq.com/poe/videos/skills/Smite/SmiteFullDemo.bk2",
+      [
+        6,
+        2,
+        0
+      ]
+    ],
+    [
+      "CausticArrow",
+      [
+        126,
+        125,
+        143
+      ],
+      [
+        142,
+        123,
+        124
+      ],
+      "Une attaque à l'arc sous forme de projectile qui génère une flaque de Sol caustique. Cette flaque inflige des Dégâts de chaos sur la durée à tous les ennemis qui s'y trouvent.",
+      "http://web.poecdn.com/public/videos/CausticArrow/CausticArrowFullDemo.bk2",
+      45,
+      "http://down.qq.com/poe/videos/skills/CausticArrow/CausticArrowMainDemo.bk2",
+      [
+        2,
+        4,
+        5,
+        3
+      ]
+    ],
+    [
+      "Frostbolt",
+      [
+        139,
+        137,
+        138
+      ],
+      [
+        136,
+        135,
+        146
+      ],
+      "Un sort qui envoie un projectile très lent qui Transperce les ennemis en leur infligeant des Dégâts de froid. Ce projectile a des chances supplémentaires de Frigorifier et de Geler les ennemis.",
+      "http://web.poecdn.com/public/videos/Frostbolt/FrostboltFullDemo.bk2",
+      312,
+      "http://down.qq.com/poe/videos/skills/Frostbolt/Frostbolt%20Full%20Demo.bk2",
+      [
+        6,
+        2,
+        1,
+        5
+      ]
+    ],
+    [
+      "PurifyingFlame",
+      [
+        154,
+        155,
+        156
+      ],
+      [
+        153,
+        157,
+        158
+      ],
+      "Un sort en zone d'effet qui inflige des Dégâts physiques et des Dégâts de feu avant de créer du Sol consacré. En relançant le sort, vous créerez une vague qui infligera des Dégâts aux ennemis se trouvant à proximité de vos Sols consacrés.",
+      "http://web.poecdn.com/public/videos/PurifyingFlame/PurifyingFlamesFullDemo.bk2",
+      379,
+      "https://down.qq.com/poe/videos/skills/PurifyingFlames/PurfiyingFlamesFullDemo.bk2",
+      [
+        6
+      ]
+    ],
+    [
+      "CobraLash",
+      [
+        166,
+        167,
+        168
+      ],
+      [
+        169,
+        170,
+        171
+      ],
+      "Envoie une réplique de votre arme en tant que projectile. Cette réplique rebondit d'ennemi en ennemi et les Empoisonne.\n\nLe Poison inflige des Dégâts de chaos sur la durée en fonction de vos Dégâts physiques et Dégâts de chaos. Cette aptitude vous permet d'Empoisonner plusieurs ennemis à la fois et nécessite une Dague ou une Griffe.",
+      "http://web.poecdn.com/public/videos/CobraLash/ECobraLashIntro.bk2",
+      411,
+      "https://down.qq.com/poe/videos/skills/TCobraLashIntro.bk2",
+      [
+        5
+      ]
+    ],
+    [
+      "StormblastMine",
+      [
+        159,
+        160,
+        161
+      ],
+      [
+        162,
+        163,
+        164,
+        165
+      ],
+      "Une aptitude qui jette une Mine. Vous pouvez la faire exploser pour infliger des Dégâts de foudre aux ennemis à proximité. Cette aptitude peut également les Électrocuter, augmentant ainsi les Dégâts qu'ils subissent.\n\nCette aptitude augmente les Dégâts subis par les ennemis à proximité ; ce bonus de Dégâts est proportionnel au nombre de Mines qui explosent.",
+      "http://web.poecdn.com/public/videos/StormblastMine/EStormblastIntro.bk2",
+      421,
+      "https://down.qq.com/poe/videos/skills/TStormblastIntro.bk2",
+      [
+        5
+      ]
+    ],
+    [
+      "Perforate",
+      [
+        172,
+        173,
+        174
+      ],
+      [
+        175,
+        176,
+        177
+      ],
+      "Fracasse le sol et crée des pieux mortels qui blessent les ennemis. Ces pieux sortent du sol en même temps et peuvent toucher plusieurs ennemis plus d'une fois.\n\nGrâce aux gemmes Sang & Sable, vous pouvez adopter la Posture du Sable et générer des pieux qui sortent du sol en touchant une zone plus importante.",
+      "http://web.poecdn.com/public/videos/Perforate/EPerforateIntro.bk2",
+      398,
+      "https://down.qq.com/poe/videos/skills/TPerforateIntro.bk2",
+      [
+        4
+      ]
+    ],
+    [
+      "Frostblink",
+      [],
+      [
+        179,
+        178
+      ],
+      "Une aptitude de déplacement qui vous téléporte sur une courte distance en créant derrière vous une explosion de Dégâts de froid et du Sol frigorifiant capable de Ralentir les ennemis. Cette aptitude est très importante dès lors que vous souhaitez éviter les attaques ennemies.\n\nLes Gemmes de déplacement profitent assez peu des Gemmes de soutien — cette aptitude fonctionne donc très bien même si vous y reliez peu de Gemmes de soutien.",
+      "http://web.poecdn.com/public/videos/Frostblink/EFrostblinkIntro.bk2",
+      403,
+      "https://down.qq.com/poe/videos/skills/TFrostblinkIntro.bk2",
+      [
+        1,
+        6,
+        5,
+        2
+      ]
+    ],
+    [
+      "Dash",
+      [],
+      [],
+      "Une aptitude de déplacement qui vous propulse sur une courte distance, très utile pour vous mettre hors de danger.\n\nLes Gemmes de déplacement profitent assez peu des Gemmes de soutien — cette aptitude fonctionne donc très bien même si vous y reliez peu de Gemmes de soutien.",
+      "http://web.poecdn.com/public/videos/Dash/EDashIntro.bk2",
+      392,
+      "https://down.qq.com/poe/videos/skills/TDashIntro.bk2",
+      [
+        3,
+        4,
+        5,
+        2
+      ]
+    ],
+    [
+      "Steelskin",
+      [],
+      [
+        180,
+        181
+      ],
+      "Renforce votre défense, réduisant considérablement les dégâts que vous subissez pendant une courte durée. Peau d'acier est une aptitude de protection qui absorbe une partie des dégâts qui vous sont infligés tant qu'elle est active.\n\nLes Gemmes de protection profitent assez peu des Gemmes de soutien — cette aptitude fonctionne donc très bien même si vous y reliez peu de Gemmes de soutien.",
+      "http://web.poecdn.com/public/videos/Steelskin/ESteelskinIntro.bk2",
+      390,
+      "https://down.qq.com/poe/videos/skills/TSteelskinIntro.bk2",
+      [
+        0,
+        6,
+        4,
+        2
+      ]
+    ],
+    [
+      "KineticBolt",
+      [
+        189,
+        190
+      ],
+      [
+        188,
+        192,
+        191
+      ],
+      "Envoie un projectile qui effectue des zigzags devant vous à partir de votre baguette. Ce projectile se scinde à chaque fois qu'il zigzague, créant ainsi d'autres sources de dégâts capables de blesser les ennemis.",
+      "http://web.poecdn.com/public/videos/EKineticBolt/EKineticBoltIntro.bk2",
+      472,
+      "http://down.qq.com/poe/videos/tutorial/TKineticBoltIntro.bk2",
+      [
+        1
+      ]
+    ]
+  ]
+}

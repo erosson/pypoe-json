@@ -1,1 +1,1312 @@
-{"filename":"MetamorphosisRewardTypeItemsClient.dat","header":[{"name":"MetamorphosisRewardTypesKey","rowid":0,"type":"ulong","key":"MetamorphosisRewardTypes.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown2","rowid":1,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Description","rowid":2,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[[0,0,"Lässt zusätzliche Währungsgegenstände fallen"],[0,1,"Lässt zusätzliche Währungsgegenstände fallen"],[0,2,"Lässt zusätzliche Währungsgegenstände fallen"],[0,3,"Lässt zusätzliche Währungsgegenstände fallen"],[0,4,"Lässt zusätzliche Währungsgegenstände fallen"],[0,5,"Lässt zusätzliche Währungsgegenstände fallen"],[0,6,"Lässt zusätzliche Währungsgegenstände fallen"],[0,7,"Lässt zusätzliche Währungsgegenstände fallen"],[0,8,"Lässt zusätzliche Währungsgegenstände fallen"],[0,9,"Lässt zusätzliche Währungsgegenstände fallen"],[0,10,"Lässt zusätzliche Währungsgegenstände fallen"],[0,11,"Lässt zusätzliche Währungsgegenstände fallen"],[0,12,"Lässt zusätzliche Währungsgegenstände fallen"],[0,13,"Lässt zusätzliche Währungsgegenstände fallen"],[0,14,"Lässt zusätzliche Währungsgegenstände fallen"],[0,15,"Lässt zusätzliche Währungsgegenstände fallen"],[1,0,"Lässt einen einzigartigen Gegenstand fallen"],[1,1,"Lässt zusätzliche einzigartige Gegenstände fallen"],[1,2,"Lässt einen liga-spezifischen einzigartigen Gegenstand fallen"],[2,0,"Lässt zusätzliche Gemmen mit Qualität fallen"],[2,1,"Lässt zusätzliche Gemmen mit Qualität fallen"],[2,2,"Lässt zusätzliche Gemmen mit Qualität fallen"],[2,3,"Lässt zusätzliche Gemmen mit Qualität fallen"],[2,4,"Lässt zusätzliche Gemmen mit Qualität fallen"],[2,5,"Lässt zusätzliche Gemmen mit Qualität fallen"],[2,6,"Lässt zusätzliche Gemmen mit Qualität fallen"],[2,7,"Lässt eine wertvolle Gemme fallen"],[2,8,"Lässt eine wertvolle Gemme fallen"],[2,9,"Lässt eine wertvolle Gemme fallen"],[2,10,"Lässt eine wertvolle Gemme fallen"],[2,11,"Lässt eine wertvolle Gemme fallen"],[2,12,"Lässt eine wertvolle Gemme fallen"],[2,13,"Lässt eine wertvolle Gemme fallen"],[3,0,"Lässt zusätzliche Karten fallen"],[3,1,"Lässt zusätzliche Karten fallen"],[3,2,"Lässt zusätzliche Karten fallen"],[3,3,"Lässt zusätzliche Karten fallen"],[3,4,"Lässt zusätzliche Karten fallen"],[3,5,"Lässt zusätzliche Karten fallen"],[3,6,"Lässt zusätzliche Karten fallen"],[3,7,"Lässt zusätzliche Karten fallen"],[3,8,"Lässt zusätzliche Karten fallen"],[3,9,"Lässt zusätzliche Karten fallen"],[4,0,"Lässt zusätzlichen seltenen Schmuck fallen"],[4,1,"Lässt zusätzlichen seltenen Schmuck fallen"],[4,2,"Lässt zusätzlichen seltenen Schmuck fallen"],[4,3,"Lässt zusätzlichen seltenen Schmuck fallen"],[4,4,"Lässt zusätzlichen Atlas-Schmuck fallen"],[4,5,"Lässt zusätzlichen Incursion-Schmuck fallen"],[4,6,"Lässt zusätzlichen Incursion-Schmuck fallen"],[4,7,"Lässt zusätzlichen Incursion-Schmuck fallen"],[4,8,"Lässt zusätzlichen Incursion-Schmuck fallen"],[4,9,"Lässt zusätzlichen Schöpfer- oder Ältesten-Schmuck fallen"],[4,10,"Lässt zusätzlichen Schöpfer- oder Ältesten-Schmuck fallen"],[4,11,"Lässt zusätzlichen verhüllten Schmuck fallen"],[4,12,"Lässt zusätzlichen verhüllten Schmuck fallen"],[4,13,"Lässt zusätzlichen einzigartigen Schmuck fallen"],[4,14,"Lässt zusätzliche Juwelen fallen"],[4,15,"Lässt zusätzliche Juwelen fallen"],[4,16,"Lässt zusätzliche Juwelen fallen"],[4,17,"Lässt zusätzliche Juwelen fallen"],[5,0,"Lässt zusätzliche seltene Rüstungsgegenstände fallen"],[5,1,"Lässt zusätzliche seltene Rüstungsgegenstände fallen"],[5,2,"Lässt zusätzliche seltene Rüstungsgegenstände fallen"],[5,3,"Lässt zusätzliche seltene Rüstungsgegenstände fallen"],[5,4,"Lässt zusätzliche einzigartige Rüstungsgegenstände fallen"],[5,5,"Lässt zusätzliche Schöpfer-Rüstungsgegenstände fallen"],[5,6,"Lässt zusätzliche Ältesten-Rüstungsgegenstände fallen"],[5,7,"Lässt zusätzliche verhüllte Rüstungsgegenstände fallen"],[5,8,"Lässt zusätzliche verhüllte Rüstungsgegenstände fallen"],[5,9,"Lässt zusätzliche Incursion-Rüstungsgegenstände fallen"],[5,10,"Lässt zusätzliche Incursion-Rüstungsgegenstände fallen"],[5,11,"Lässt zusätzliche Incursion-Rüstungsgegenstände fallen"],[5,12,"Lässt zusätzliche Incursion-Rüstungsgegenstände fallen"],[5,13,"Lässt zusätzliche Incursion-Rüstungsgegenstände fallen"],[5,14,"Lässt zusätzliche Incursion-Rüstungsgegenstände fallen"],[5,15,"Lässt zusätzliche Incursion-Rüstungsgegenstände fallen"],[5,16,"Lässt zusätzliche Incursion-Rüstungsgegenstände fallen"],[5,17,"Lässt eine einzigartige Körperrüstung mit 6 Verbindungen fallen"],[6,0,"Lässt eine seltene Waffe fallen"],[6,1,"Lässt eine seltene Waffe fallen"],[6,2,"Lässt eine seltene Waffe fallen"],[6,3,"Lässt zusätzliche seltene Waffen fallen"],[6,4,"Lässt eine einzigartige Waffe fallen"],[6,5,"Lässt eine Schöpfer-Waffe fallen"],[6,6,"Lässt eine Ältesten-Waffe fallen"],[6,7,"Lässt eine verhüllte Waffe fallen"],[6,8,"Lässt eine verhüllte Waffe fallen"],[6,9,"Lässt eine Incursion-Waffe fallen"],[6,10,"Lässt eine Incursion-Waffe fallen"],[6,11,"Lässt eine Incursion-Waffe fallen"],[6,12,"Lässt eine Incursion-Waffe fallen"],[6,13,"Lässt eine Incursion-Waffe fallen"],[6,14,"Lässt eine Incursion-Waffe fallen"],[6,15,"Lässt eine Incursion-Waffe fallen"],[6,16,"Lässt eine Incursion-Waffe fallen"],[6,17,"Lässt eine Incursion-Waffe fallen"],[6,18,"Lässt eine Incursion-Waffe fallen"],[6,19,"Lässt eine Incursion-Waffe fallen"],[6,20,"Lässt eine Incursion-Waffe fallen"],[6,21,"Lässt eine Incursion-Waffe fallen"],[6,22,"Lässt eine Incursion-Waffe fallen"],[6,23,"Lässt eine Waffe mit 6 Verbindungen fallen"],[6,24,"Lässt eine Waffe mit 30% Qualität fallen"],[7,0,"Lässt ein Abgrundjuwel fallen"],[7,1,"Lässt zusätzliche Abgrundjuwelen fallen"],[7,2,"Lässt eine Styx-Schlinge fallen"],[7,3,"Lässt einen einzigartigen Abyss-Gegenstand fallen"],[8,0,"Lässt zusätzliche Perandus-Münzen fallen"],[8,1,"Lässt zusätzliche Perandus-Münzen fallen"],[8,2,"Lässt zusätzliche Perandus-Münzen fallen"],[9,0,"Lässt zusätzliche Währungsscherben fallen"],[9,1,"Lässt zusätzliche Währungsscherben fallen"],[9,2,"Lässt zusätzliche wertvolle Währungsscherben fallen"],[9,3,"Lässt zusätzliche Vorboten-Währung fallen"],[9,4,"Lässt zusätzliche Vorboten-Währung fallen"],[9,5,"Lässt zusätzliche Vorboten-Währung fallen"],[9,6,"Lässt zusätzliche Vorboten-Währung fallen"],[9,7,"Lässt die einzigartige Karte Brückenkopf fallen"],[9,8,"Lässt die einzigartige Karte Brückenkopf fallen"],[9,9,"Lässt die einzigartige Karte Brückenkopf fallen"],[10,0,"Lässt zusätzliche Riss-Splitter fallen"],[10,1,"Lässt zusätzliche Riss-Splitter fallen"],[10,2,"Lässt zusätzliche Riss-Splitter fallen"],[10,3,"Lässt eine Riss-Segnung fallen"],[10,4,"Lässt einen Riss-Stein fallen"],[10,5,"Lässt einen Riss-Stein fallen"],[10,6,"Lässt einen Riss-Stein fallen"],[10,7,"Lässt einen Riss-Stein fallen"],[11,0,"Lässt zusätzliche Essenzen fallen"],[11,1,"Lässt zusätzliche Essenzen fallen"],[11,3,"Lässt zusätzliche Essenzen fallen"],[12,1,"Lässt zusätzliche Essenzen fallen"],[12,2,"Lässt zusätzliche Essenzen fallen"],[12,3,"Lässt zusätzliche Essenzen fallen"],[12,4,"Lässt zusätzliche Essenzen fallen"],[13,0,"Lässt zusätzliche Kartenfragmente fallen"],[13,1,"Lässt zusätzliche Kartenfragmente fallen"],[13,2,"Lässt zusätzliche Kartenfragmente fallen"],[13,3,"Lässt zusätzliche Kartenfragmente fallen"],[13,4,"Lässt zusätzliche Kartenfragmente fallen"],[13,5,"Lässt zusätzliche Kartenfragmente fallen"],[13,6,"Lässt zusätzliche Kartenfragmente fallen"],[13,7,"Lässt zusätzliche Kartenfragmente fallen"],[14,0,"Lässt zusätzliche Verrostete Skarabäen fallen"],[14,1,"Lässt zusätzliche Glänzende Skarabäen fallen"],[14,2,"Lässt zusätzliche Vergoldete Skarabäen fallen"],[15,0,"Lässt zusätzliche Fossilien fallen"],[15,1,"Lässt zusätzliche Fossilien fallen"],[15,2,"Lässt zusätzliche Fossilien fallen"],[15,3,"Lässt zusätzliche Fossilien fallen"],[15,4,"Lässt zusätzliche Fossilien fallen"],[15,5,"Lässt zusätzliche Fossilien fallen"],[15,6,"Lässt einen Resonator fallen"],[16,0,"Lässt zusätzliche Silbermünzen fallen"],[16,1,"Lässt zusätzliche Silbermünzen fallen"],[16,2,"Lässt zusätzliche Silbermünzen fallen"],[16,3,"Lässt zusätzliche Silbermünzen fallen"],[16,4,"Lässt zusätzliche Silbermünzen fallen"],[16,5,"Lässt zusätzliche Silbermünzen fallen"],[16,6,"Lässt eine versiegelte Prophezeiung fallen"],[16,7,"Lässt versiegelte Prophezeiungen fallen"],[16,8,"Lässt versiegelte Prophezeiungen fallen"],[16,9,"Lässt versiegelte Prophezeiungen fallen"],[16,10,"Lässt eine versiegelte Prophezeiung fallen"],[16,11,"Lässt eine versiegelte Prophezeiung fallen"],[16,12,"Lässt eine versiegelte Prophezeiung fallen"],[16,13,"Lässt eine versiegelte Prophezeiung fallen"],[16,14,"Lässt eine versiegelte Prophezeiung fallen"],[16,15,"Lässt eine versiegelte Prophezeiung fallen"],[16,16,"Lässt eine versiegelte Prophezeiung fallen"],[16,17,"Lässt eine versiegelte Prophezeiung fallen"],[16,18,"Lässt eine versiegelte Prophezeiung fallen"],[16,19,"Lässt eine versiegelte Prophezeiung fallen"],[16,20,"Lässt eine versiegelte Prophezeiung fallen"],[16,21,"Lässt eine versiegelte Prophezeiung fallen"],[17,0,"Lässt zusätzliche Weissagungskarten fallen"],[17,1,"Lässt zusätzliche Weissagungskarten fallen"],[17,2,"Lässt zusätzliche Weissagungskarten fallen"],[17,3,"Lässt zusätzliche Weissagungskarten fallen"],[17,4,"Lässt zusätzliche Weissagungskarten fallen"],[17,5,"Lässt zusätzliche Weissagungskarten fallen"],[17,6,"Lässt zusätzliche Weissagungskarten fallen"],[17,7,"Lässt zusätzliche Weissagungskarten fallen"],[18,0,"Lässt zusätzliche Währungsgegenstände fallen"],[18,1,"Lässt zusätzliche Währungsgegenstände fallen"],[18,2,"Lässt zusätzliche Währungsgegenstände fallen"],[18,3,"Lässt zusätzliche Währungsgegenstände fallen"],[18,4,"Lässt zusätzliche Währungsgegenstände fallen"],[18,5,"Lässt zusätzliche Währungsgegenstände fallen"],[18,6,"Lässt zusätzliche Gemmen mit Qualität fallen"],[18,7,"Lässt zusätzliche Gemmen mit Qualität fallen"],[18,8,"Lässt einen Kartengegenstand fallen"],[18,9,"Lässt zusätzlichen seltenen Schmuck fallen"],[18,10,"Lässt zusätzliche seltene Rüstungsgegenstände fallen"],[18,11,"Lässt zusätzliche seltene Waffen fallen"],[19,0,"Lässt zusätzliche seltene Talismane fallen"],[19,1,"Lässt zusätzliche seltene Talismane fallen"],[19,2,"Lässt zusätzliche seltene Talismane fallen"],[19,3,"Lässt zusätzliche seltene Talismane fallen"],[19,4,"Lässt zusätzliche seltene Talismane fallen"],[19,5,"Lässt zusätzliche seltene Talismane fallen"],[19,6,"Lässt zusätzliche seltene Talismane fallen"],[19,7,"Lässt zusätzliche seltene Talismane fallen"],[19,8,"Lässt zusätzliche seltene Talismane fallen"],[19,11,"Lässt zusätzliche seltene Talismane fallen"],[19,12,"Lässt zusätzliche seltene Talismane fallen"],[19,13,"Lässt einen einzigartigen Talisman-Gegenstand fallen"],[20,0,"Lässt verzauberte Handschuhe fallen"],[20,1,"Lässt verzauberte Stiefel fallen"],[20,2,"Lässt einen verzauberten Helm fallen"],[20,3,"Lässt eine Opfergabe an die Göttin fallen"],[20,4,"Lässt eine versiegelte Prophezeiung fallen"],[21,1,"Lässt zusätzliche Legion-Inkubatoren fallen"],[21,2,"Lässt zusätzliche Legion-Inkubatoren fallen"],[21,3,"Lässt zusätzliche Legion-Inkubatoren fallen"],[21,4,"Lässt zusätzliche Legion-Inkubatoren fallen"],[22,0,"Lässt zusätzliche Blight-Öle fallen"],[22,1,"Lässt zusätzliche Blight-Öle fallen"],[22,2,"Lässt zusätzliche Blight-Öle fallen"],[22,3,"Lässt zusätzliche Blight-Öle fallen"],[22,4,"Lässt zusätzliche Blight-Öle fallen"],[22,5,"Lässt zusätzliche Blight-Öle fallen"],[22,6,"Lässt zusätzliche Blight-Öle fallen"],[22,7,"Lässt zusätzliche Blight-Öle fallen"],[22,8,"Lässt zusätzliche Blight-Öle fallen"],[22,9,"Lässt zusätzliche Blight-Öle fallen"],[22,10,"Lässt zusätzliche Blight-Öle fallen"],[22,11,"Lässt zusätzliche Blight-Öle fallen"],[22,12,"Lässt zusätzliche Blight-Öle fallen"],[22,13,"Lässt zusätzliche Blight-Öle fallen"],[22,14,"Lässt zusätzliche Blight-Öle fallen"],[22,15,"Lässt zusätzliche Blight-Öle fallen"],[22,16,"Lässt eine befallene Karte fallen"],[22,17,"Lässt eine befallene Karte fallen"],[22,18,"Lässt eine befallene Karte fallen"],[22,19,"Lässt eine befallene Karte fallen"],[22,20,"Lässt eine befallene Karte fallen"],[22,21,"Lässt eine befallene Karte fallen"],[22,22,"Lässt eine befallene Karte fallen"],[22,23,"Lässt eine befallene Karte fallen"],[22,24,"Lässt eine befallene Karte fallen"],[22,25,"Lässt eine befallene Karte fallen"],[22,26,"Lässt eine befallene Karte fallen"],[22,27,"Lässt eine befallene Karte fallen"],[22,28,"Lässt eine befallene Karte fallen"],[22,29,"Lässt eine befallene Karte fallen"],[22,30,"Lässt eine befallene Karte fallen"],[22,31,"Lässt eine befallene Karte fallen"],[23,0,"Lässt zusätzliche Katalysatoren fallen"],[23,1,"Lässt zusätzliche Katalysatoren fallen"],[23,2,"Lässt zusätzliche Katalysatoren fallen"]]}
+{
+  "filename": "MetamorphosisRewardTypeItemsClient.dat",
+  "header": [
+    {
+      "name": "MetamorphosisRewardTypesKey",
+      "rowid": 0,
+      "type": "ulong",
+      "key": "MetamorphosisRewardTypes.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown2",
+      "rowid": 1,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Description",
+      "rowid": 2,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      0,
+      0,
+      "Lässt zusätzliche Währungsgegenstände fallen"
+    ],
+    [
+      0,
+      1,
+      "Lässt zusätzliche Währungsgegenstände fallen"
+    ],
+    [
+      0,
+      2,
+      "Lässt zusätzliche Währungsgegenstände fallen"
+    ],
+    [
+      0,
+      3,
+      "Lässt zusätzliche Währungsgegenstände fallen"
+    ],
+    [
+      0,
+      4,
+      "Lässt zusätzliche Währungsgegenstände fallen"
+    ],
+    [
+      0,
+      5,
+      "Lässt zusätzliche Währungsgegenstände fallen"
+    ],
+    [
+      0,
+      6,
+      "Lässt zusätzliche Währungsgegenstände fallen"
+    ],
+    [
+      0,
+      7,
+      "Lässt zusätzliche Währungsgegenstände fallen"
+    ],
+    [
+      0,
+      8,
+      "Lässt zusätzliche Währungsgegenstände fallen"
+    ],
+    [
+      0,
+      9,
+      "Lässt zusätzliche Währungsgegenstände fallen"
+    ],
+    [
+      0,
+      10,
+      "Lässt zusätzliche Währungsgegenstände fallen"
+    ],
+    [
+      0,
+      11,
+      "Lässt zusätzliche Währungsgegenstände fallen"
+    ],
+    [
+      0,
+      12,
+      "Lässt zusätzliche Währungsgegenstände fallen"
+    ],
+    [
+      0,
+      13,
+      "Lässt zusätzliche Währungsgegenstände fallen"
+    ],
+    [
+      0,
+      14,
+      "Lässt zusätzliche Währungsgegenstände fallen"
+    ],
+    [
+      0,
+      15,
+      "Lässt zusätzliche Währungsgegenstände fallen"
+    ],
+    [
+      1,
+      0,
+      "Lässt einen einzigartigen Gegenstand fallen"
+    ],
+    [
+      1,
+      1,
+      "Lässt zusätzliche einzigartige Gegenstände fallen"
+    ],
+    [
+      1,
+      2,
+      "Lässt einen liga-spezifischen einzigartigen Gegenstand fallen"
+    ],
+    [
+      2,
+      0,
+      "Lässt zusätzliche Gemmen mit Qualität fallen"
+    ],
+    [
+      2,
+      1,
+      "Lässt zusätzliche Gemmen mit Qualität fallen"
+    ],
+    [
+      2,
+      2,
+      "Lässt zusätzliche Gemmen mit Qualität fallen"
+    ],
+    [
+      2,
+      3,
+      "Lässt zusätzliche Gemmen mit Qualität fallen"
+    ],
+    [
+      2,
+      4,
+      "Lässt zusätzliche Gemmen mit Qualität fallen"
+    ],
+    [
+      2,
+      5,
+      "Lässt zusätzliche Gemmen mit Qualität fallen"
+    ],
+    [
+      2,
+      6,
+      "Lässt zusätzliche Gemmen mit Qualität fallen"
+    ],
+    [
+      2,
+      7,
+      "Lässt eine wertvolle Gemme fallen"
+    ],
+    [
+      2,
+      8,
+      "Lässt eine wertvolle Gemme fallen"
+    ],
+    [
+      2,
+      9,
+      "Lässt eine wertvolle Gemme fallen"
+    ],
+    [
+      2,
+      10,
+      "Lässt eine wertvolle Gemme fallen"
+    ],
+    [
+      2,
+      11,
+      "Lässt eine wertvolle Gemme fallen"
+    ],
+    [
+      2,
+      12,
+      "Lässt eine wertvolle Gemme fallen"
+    ],
+    [
+      2,
+      13,
+      "Lässt eine wertvolle Gemme fallen"
+    ],
+    [
+      3,
+      0,
+      "Lässt zusätzliche Karten fallen"
+    ],
+    [
+      3,
+      1,
+      "Lässt zusätzliche Karten fallen"
+    ],
+    [
+      3,
+      2,
+      "Lässt zusätzliche Karten fallen"
+    ],
+    [
+      3,
+      3,
+      "Lässt zusätzliche Karten fallen"
+    ],
+    [
+      3,
+      4,
+      "Lässt zusätzliche Karten fallen"
+    ],
+    [
+      3,
+      5,
+      "Lässt zusätzliche Karten fallen"
+    ],
+    [
+      3,
+      6,
+      "Lässt zusätzliche Karten fallen"
+    ],
+    [
+      3,
+      7,
+      "Lässt zusätzliche Karten fallen"
+    ],
+    [
+      3,
+      8,
+      "Lässt zusätzliche Karten fallen"
+    ],
+    [
+      3,
+      9,
+      "Lässt zusätzliche Karten fallen"
+    ],
+    [
+      4,
+      0,
+      "Lässt zusätzlichen seltenen Schmuck fallen"
+    ],
+    [
+      4,
+      1,
+      "Lässt zusätzlichen seltenen Schmuck fallen"
+    ],
+    [
+      4,
+      2,
+      "Lässt zusätzlichen seltenen Schmuck fallen"
+    ],
+    [
+      4,
+      3,
+      "Lässt zusätzlichen seltenen Schmuck fallen"
+    ],
+    [
+      4,
+      4,
+      "Lässt zusätzlichen Atlas-Schmuck fallen"
+    ],
+    [
+      4,
+      5,
+      "Lässt zusätzlichen Incursion-Schmuck fallen"
+    ],
+    [
+      4,
+      6,
+      "Lässt zusätzlichen Incursion-Schmuck fallen"
+    ],
+    [
+      4,
+      7,
+      "Lässt zusätzlichen Incursion-Schmuck fallen"
+    ],
+    [
+      4,
+      8,
+      "Lässt zusätzlichen Incursion-Schmuck fallen"
+    ],
+    [
+      4,
+      9,
+      "Lässt zusätzlichen Schöpfer- oder Ältesten-Schmuck fallen"
+    ],
+    [
+      4,
+      10,
+      "Lässt zusätzlichen Schöpfer- oder Ältesten-Schmuck fallen"
+    ],
+    [
+      4,
+      11,
+      "Lässt zusätzlichen verhüllten Schmuck fallen"
+    ],
+    [
+      4,
+      12,
+      "Lässt zusätzlichen verhüllten Schmuck fallen"
+    ],
+    [
+      4,
+      13,
+      "Lässt zusätzlichen einzigartigen Schmuck fallen"
+    ],
+    [
+      4,
+      14,
+      "Lässt zusätzliche Juwelen fallen"
+    ],
+    [
+      4,
+      15,
+      "Lässt zusätzliche Juwelen fallen"
+    ],
+    [
+      4,
+      16,
+      "Lässt zusätzliche Juwelen fallen"
+    ],
+    [
+      4,
+      17,
+      "Lässt zusätzliche Juwelen fallen"
+    ],
+    [
+      5,
+      0,
+      "Lässt zusätzliche seltene Rüstungsgegenstände fallen"
+    ],
+    [
+      5,
+      1,
+      "Lässt zusätzliche seltene Rüstungsgegenstände fallen"
+    ],
+    [
+      5,
+      2,
+      "Lässt zusätzliche seltene Rüstungsgegenstände fallen"
+    ],
+    [
+      5,
+      3,
+      "Lässt zusätzliche seltene Rüstungsgegenstände fallen"
+    ],
+    [
+      5,
+      4,
+      "Lässt zusätzliche einzigartige Rüstungsgegenstände fallen"
+    ],
+    [
+      5,
+      5,
+      "Lässt zusätzliche Schöpfer-Rüstungsgegenstände fallen"
+    ],
+    [
+      5,
+      6,
+      "Lässt zusätzliche Ältesten-Rüstungsgegenstände fallen"
+    ],
+    [
+      5,
+      7,
+      "Lässt zusätzliche verhüllte Rüstungsgegenstände fallen"
+    ],
+    [
+      5,
+      8,
+      "Lässt zusätzliche verhüllte Rüstungsgegenstände fallen"
+    ],
+    [
+      5,
+      9,
+      "Lässt zusätzliche Incursion-Rüstungsgegenstände fallen"
+    ],
+    [
+      5,
+      10,
+      "Lässt zusätzliche Incursion-Rüstungsgegenstände fallen"
+    ],
+    [
+      5,
+      11,
+      "Lässt zusätzliche Incursion-Rüstungsgegenstände fallen"
+    ],
+    [
+      5,
+      12,
+      "Lässt zusätzliche Incursion-Rüstungsgegenstände fallen"
+    ],
+    [
+      5,
+      13,
+      "Lässt zusätzliche Incursion-Rüstungsgegenstände fallen"
+    ],
+    [
+      5,
+      14,
+      "Lässt zusätzliche Incursion-Rüstungsgegenstände fallen"
+    ],
+    [
+      5,
+      15,
+      "Lässt zusätzliche Incursion-Rüstungsgegenstände fallen"
+    ],
+    [
+      5,
+      16,
+      "Lässt zusätzliche Incursion-Rüstungsgegenstände fallen"
+    ],
+    [
+      5,
+      17,
+      "Lässt eine einzigartige Körperrüstung mit 6 Verbindungen fallen"
+    ],
+    [
+      6,
+      0,
+      "Lässt eine seltene Waffe fallen"
+    ],
+    [
+      6,
+      1,
+      "Lässt eine seltene Waffe fallen"
+    ],
+    [
+      6,
+      2,
+      "Lässt eine seltene Waffe fallen"
+    ],
+    [
+      6,
+      3,
+      "Lässt zusätzliche seltene Waffen fallen"
+    ],
+    [
+      6,
+      4,
+      "Lässt eine einzigartige Waffe fallen"
+    ],
+    [
+      6,
+      5,
+      "Lässt eine Schöpfer-Waffe fallen"
+    ],
+    [
+      6,
+      6,
+      "Lässt eine Ältesten-Waffe fallen"
+    ],
+    [
+      6,
+      7,
+      "Lässt eine verhüllte Waffe fallen"
+    ],
+    [
+      6,
+      8,
+      "Lässt eine verhüllte Waffe fallen"
+    ],
+    [
+      6,
+      9,
+      "Lässt eine Incursion-Waffe fallen"
+    ],
+    [
+      6,
+      10,
+      "Lässt eine Incursion-Waffe fallen"
+    ],
+    [
+      6,
+      11,
+      "Lässt eine Incursion-Waffe fallen"
+    ],
+    [
+      6,
+      12,
+      "Lässt eine Incursion-Waffe fallen"
+    ],
+    [
+      6,
+      13,
+      "Lässt eine Incursion-Waffe fallen"
+    ],
+    [
+      6,
+      14,
+      "Lässt eine Incursion-Waffe fallen"
+    ],
+    [
+      6,
+      15,
+      "Lässt eine Incursion-Waffe fallen"
+    ],
+    [
+      6,
+      16,
+      "Lässt eine Incursion-Waffe fallen"
+    ],
+    [
+      6,
+      17,
+      "Lässt eine Incursion-Waffe fallen"
+    ],
+    [
+      6,
+      18,
+      "Lässt eine Incursion-Waffe fallen"
+    ],
+    [
+      6,
+      19,
+      "Lässt eine Incursion-Waffe fallen"
+    ],
+    [
+      6,
+      20,
+      "Lässt eine Incursion-Waffe fallen"
+    ],
+    [
+      6,
+      21,
+      "Lässt eine Incursion-Waffe fallen"
+    ],
+    [
+      6,
+      22,
+      "Lässt eine Incursion-Waffe fallen"
+    ],
+    [
+      6,
+      23,
+      "Lässt eine Waffe mit 6 Verbindungen fallen"
+    ],
+    [
+      6,
+      24,
+      "Lässt eine Waffe mit 30% Qualität fallen"
+    ],
+    [
+      7,
+      0,
+      "Lässt ein Abgrundjuwel fallen"
+    ],
+    [
+      7,
+      1,
+      "Lässt zusätzliche Abgrundjuwelen fallen"
+    ],
+    [
+      7,
+      2,
+      "Lässt eine Styx-Schlinge fallen"
+    ],
+    [
+      7,
+      3,
+      "Lässt einen einzigartigen Abyss-Gegenstand fallen"
+    ],
+    [
+      8,
+      0,
+      "Lässt zusätzliche Perandus-Münzen fallen"
+    ],
+    [
+      8,
+      1,
+      "Lässt zusätzliche Perandus-Münzen fallen"
+    ],
+    [
+      8,
+      2,
+      "Lässt zusätzliche Perandus-Münzen fallen"
+    ],
+    [
+      9,
+      0,
+      "Lässt zusätzliche Währungsscherben fallen"
+    ],
+    [
+      9,
+      1,
+      "Lässt zusätzliche Währungsscherben fallen"
+    ],
+    [
+      9,
+      2,
+      "Lässt zusätzliche wertvolle Währungsscherben fallen"
+    ],
+    [
+      9,
+      3,
+      "Lässt zusätzliche Vorboten-Währung fallen"
+    ],
+    [
+      9,
+      4,
+      "Lässt zusätzliche Vorboten-Währung fallen"
+    ],
+    [
+      9,
+      5,
+      "Lässt zusätzliche Vorboten-Währung fallen"
+    ],
+    [
+      9,
+      6,
+      "Lässt zusätzliche Vorboten-Währung fallen"
+    ],
+    [
+      9,
+      7,
+      "Lässt die einzigartige Karte Brückenkopf fallen"
+    ],
+    [
+      9,
+      8,
+      "Lässt die einzigartige Karte Brückenkopf fallen"
+    ],
+    [
+      9,
+      9,
+      "Lässt die einzigartige Karte Brückenkopf fallen"
+    ],
+    [
+      10,
+      0,
+      "Lässt zusätzliche Riss-Splitter fallen"
+    ],
+    [
+      10,
+      1,
+      "Lässt zusätzliche Riss-Splitter fallen"
+    ],
+    [
+      10,
+      2,
+      "Lässt zusätzliche Riss-Splitter fallen"
+    ],
+    [
+      10,
+      3,
+      "Lässt eine Riss-Segnung fallen"
+    ],
+    [
+      10,
+      4,
+      "Lässt einen Riss-Stein fallen"
+    ],
+    [
+      10,
+      5,
+      "Lässt einen Riss-Stein fallen"
+    ],
+    [
+      10,
+      6,
+      "Lässt einen Riss-Stein fallen"
+    ],
+    [
+      10,
+      7,
+      "Lässt einen Riss-Stein fallen"
+    ],
+    [
+      11,
+      0,
+      "Lässt zusätzliche Essenzen fallen"
+    ],
+    [
+      11,
+      1,
+      "Lässt zusätzliche Essenzen fallen"
+    ],
+    [
+      11,
+      3,
+      "Lässt zusätzliche Essenzen fallen"
+    ],
+    [
+      12,
+      1,
+      "Lässt zusätzliche Essenzen fallen"
+    ],
+    [
+      12,
+      2,
+      "Lässt zusätzliche Essenzen fallen"
+    ],
+    [
+      12,
+      3,
+      "Lässt zusätzliche Essenzen fallen"
+    ],
+    [
+      12,
+      4,
+      "Lässt zusätzliche Essenzen fallen"
+    ],
+    [
+      13,
+      0,
+      "Lässt zusätzliche Kartenfragmente fallen"
+    ],
+    [
+      13,
+      1,
+      "Lässt zusätzliche Kartenfragmente fallen"
+    ],
+    [
+      13,
+      2,
+      "Lässt zusätzliche Kartenfragmente fallen"
+    ],
+    [
+      13,
+      3,
+      "Lässt zusätzliche Kartenfragmente fallen"
+    ],
+    [
+      13,
+      4,
+      "Lässt zusätzliche Kartenfragmente fallen"
+    ],
+    [
+      13,
+      5,
+      "Lässt zusätzliche Kartenfragmente fallen"
+    ],
+    [
+      13,
+      6,
+      "Lässt zusätzliche Kartenfragmente fallen"
+    ],
+    [
+      13,
+      7,
+      "Lässt zusätzliche Kartenfragmente fallen"
+    ],
+    [
+      14,
+      0,
+      "Lässt zusätzliche Verrostete Skarabäen fallen"
+    ],
+    [
+      14,
+      1,
+      "Lässt zusätzliche Glänzende Skarabäen fallen"
+    ],
+    [
+      14,
+      2,
+      "Lässt zusätzliche Vergoldete Skarabäen fallen"
+    ],
+    [
+      15,
+      0,
+      "Lässt zusätzliche Fossilien fallen"
+    ],
+    [
+      15,
+      1,
+      "Lässt zusätzliche Fossilien fallen"
+    ],
+    [
+      15,
+      2,
+      "Lässt zusätzliche Fossilien fallen"
+    ],
+    [
+      15,
+      3,
+      "Lässt zusätzliche Fossilien fallen"
+    ],
+    [
+      15,
+      4,
+      "Lässt zusätzliche Fossilien fallen"
+    ],
+    [
+      15,
+      5,
+      "Lässt zusätzliche Fossilien fallen"
+    ],
+    [
+      15,
+      6,
+      "Lässt einen Resonator fallen"
+    ],
+    [
+      16,
+      0,
+      "Lässt zusätzliche Silbermünzen fallen"
+    ],
+    [
+      16,
+      1,
+      "Lässt zusätzliche Silbermünzen fallen"
+    ],
+    [
+      16,
+      2,
+      "Lässt zusätzliche Silbermünzen fallen"
+    ],
+    [
+      16,
+      3,
+      "Lässt zusätzliche Silbermünzen fallen"
+    ],
+    [
+      16,
+      4,
+      "Lässt zusätzliche Silbermünzen fallen"
+    ],
+    [
+      16,
+      5,
+      "Lässt zusätzliche Silbermünzen fallen"
+    ],
+    [
+      16,
+      6,
+      "Lässt eine versiegelte Prophezeiung fallen"
+    ],
+    [
+      16,
+      7,
+      "Lässt versiegelte Prophezeiungen fallen"
+    ],
+    [
+      16,
+      8,
+      "Lässt versiegelte Prophezeiungen fallen"
+    ],
+    [
+      16,
+      9,
+      "Lässt versiegelte Prophezeiungen fallen"
+    ],
+    [
+      16,
+      10,
+      "Lässt eine versiegelte Prophezeiung fallen"
+    ],
+    [
+      16,
+      11,
+      "Lässt eine versiegelte Prophezeiung fallen"
+    ],
+    [
+      16,
+      12,
+      "Lässt eine versiegelte Prophezeiung fallen"
+    ],
+    [
+      16,
+      13,
+      "Lässt eine versiegelte Prophezeiung fallen"
+    ],
+    [
+      16,
+      14,
+      "Lässt eine versiegelte Prophezeiung fallen"
+    ],
+    [
+      16,
+      15,
+      "Lässt eine versiegelte Prophezeiung fallen"
+    ],
+    [
+      16,
+      16,
+      "Lässt eine versiegelte Prophezeiung fallen"
+    ],
+    [
+      16,
+      17,
+      "Lässt eine versiegelte Prophezeiung fallen"
+    ],
+    [
+      16,
+      18,
+      "Lässt eine versiegelte Prophezeiung fallen"
+    ],
+    [
+      16,
+      19,
+      "Lässt eine versiegelte Prophezeiung fallen"
+    ],
+    [
+      16,
+      20,
+      "Lässt eine versiegelte Prophezeiung fallen"
+    ],
+    [
+      16,
+      21,
+      "Lässt eine versiegelte Prophezeiung fallen"
+    ],
+    [
+      17,
+      0,
+      "Lässt zusätzliche Weissagungskarten fallen"
+    ],
+    [
+      17,
+      1,
+      "Lässt zusätzliche Weissagungskarten fallen"
+    ],
+    [
+      17,
+      2,
+      "Lässt zusätzliche Weissagungskarten fallen"
+    ],
+    [
+      17,
+      3,
+      "Lässt zusätzliche Weissagungskarten fallen"
+    ],
+    [
+      17,
+      4,
+      "Lässt zusätzliche Weissagungskarten fallen"
+    ],
+    [
+      17,
+      5,
+      "Lässt zusätzliche Weissagungskarten fallen"
+    ],
+    [
+      17,
+      6,
+      "Lässt zusätzliche Weissagungskarten fallen"
+    ],
+    [
+      17,
+      7,
+      "Lässt zusätzliche Weissagungskarten fallen"
+    ],
+    [
+      18,
+      0,
+      "Lässt zusätzliche Währungsgegenstände fallen"
+    ],
+    [
+      18,
+      1,
+      "Lässt zusätzliche Währungsgegenstände fallen"
+    ],
+    [
+      18,
+      2,
+      "Lässt zusätzliche Währungsgegenstände fallen"
+    ],
+    [
+      18,
+      3,
+      "Lässt zusätzliche Währungsgegenstände fallen"
+    ],
+    [
+      18,
+      4,
+      "Lässt zusätzliche Währungsgegenstände fallen"
+    ],
+    [
+      18,
+      5,
+      "Lässt zusätzliche Währungsgegenstände fallen"
+    ],
+    [
+      18,
+      6,
+      "Lässt zusätzliche Gemmen mit Qualität fallen"
+    ],
+    [
+      18,
+      7,
+      "Lässt zusätzliche Gemmen mit Qualität fallen"
+    ],
+    [
+      18,
+      8,
+      "Lässt einen Kartengegenstand fallen"
+    ],
+    [
+      18,
+      9,
+      "Lässt zusätzlichen seltenen Schmuck fallen"
+    ],
+    [
+      18,
+      10,
+      "Lässt zusätzliche seltene Rüstungsgegenstände fallen"
+    ],
+    [
+      18,
+      11,
+      "Lässt zusätzliche seltene Waffen fallen"
+    ],
+    [
+      19,
+      0,
+      "Lässt zusätzliche seltene Talismane fallen"
+    ],
+    [
+      19,
+      1,
+      "Lässt zusätzliche seltene Talismane fallen"
+    ],
+    [
+      19,
+      2,
+      "Lässt zusätzliche seltene Talismane fallen"
+    ],
+    [
+      19,
+      3,
+      "Lässt zusätzliche seltene Talismane fallen"
+    ],
+    [
+      19,
+      4,
+      "Lässt zusätzliche seltene Talismane fallen"
+    ],
+    [
+      19,
+      5,
+      "Lässt zusätzliche seltene Talismane fallen"
+    ],
+    [
+      19,
+      6,
+      "Lässt zusätzliche seltene Talismane fallen"
+    ],
+    [
+      19,
+      7,
+      "Lässt zusätzliche seltene Talismane fallen"
+    ],
+    [
+      19,
+      8,
+      "Lässt zusätzliche seltene Talismane fallen"
+    ],
+    [
+      19,
+      11,
+      "Lässt zusätzliche seltene Talismane fallen"
+    ],
+    [
+      19,
+      12,
+      "Lässt zusätzliche seltene Talismane fallen"
+    ],
+    [
+      19,
+      13,
+      "Lässt einen einzigartigen Talisman-Gegenstand fallen"
+    ],
+    [
+      20,
+      0,
+      "Lässt verzauberte Handschuhe fallen"
+    ],
+    [
+      20,
+      1,
+      "Lässt verzauberte Stiefel fallen"
+    ],
+    [
+      20,
+      2,
+      "Lässt einen verzauberten Helm fallen"
+    ],
+    [
+      20,
+      3,
+      "Lässt eine Opfergabe an die Göttin fallen"
+    ],
+    [
+      20,
+      4,
+      "Lässt eine versiegelte Prophezeiung fallen"
+    ],
+    [
+      21,
+      1,
+      "Lässt zusätzliche Legion-Inkubatoren fallen"
+    ],
+    [
+      21,
+      2,
+      "Lässt zusätzliche Legion-Inkubatoren fallen"
+    ],
+    [
+      21,
+      3,
+      "Lässt zusätzliche Legion-Inkubatoren fallen"
+    ],
+    [
+      21,
+      4,
+      "Lässt zusätzliche Legion-Inkubatoren fallen"
+    ],
+    [
+      22,
+      0,
+      "Lässt zusätzliche Blight-Öle fallen"
+    ],
+    [
+      22,
+      1,
+      "Lässt zusätzliche Blight-Öle fallen"
+    ],
+    [
+      22,
+      2,
+      "Lässt zusätzliche Blight-Öle fallen"
+    ],
+    [
+      22,
+      3,
+      "Lässt zusätzliche Blight-Öle fallen"
+    ],
+    [
+      22,
+      4,
+      "Lässt zusätzliche Blight-Öle fallen"
+    ],
+    [
+      22,
+      5,
+      "Lässt zusätzliche Blight-Öle fallen"
+    ],
+    [
+      22,
+      6,
+      "Lässt zusätzliche Blight-Öle fallen"
+    ],
+    [
+      22,
+      7,
+      "Lässt zusätzliche Blight-Öle fallen"
+    ],
+    [
+      22,
+      8,
+      "Lässt zusätzliche Blight-Öle fallen"
+    ],
+    [
+      22,
+      9,
+      "Lässt zusätzliche Blight-Öle fallen"
+    ],
+    [
+      22,
+      10,
+      "Lässt zusätzliche Blight-Öle fallen"
+    ],
+    [
+      22,
+      11,
+      "Lässt zusätzliche Blight-Öle fallen"
+    ],
+    [
+      22,
+      12,
+      "Lässt zusätzliche Blight-Öle fallen"
+    ],
+    [
+      22,
+      13,
+      "Lässt zusätzliche Blight-Öle fallen"
+    ],
+    [
+      22,
+      14,
+      "Lässt zusätzliche Blight-Öle fallen"
+    ],
+    [
+      22,
+      15,
+      "Lässt zusätzliche Blight-Öle fallen"
+    ],
+    [
+      22,
+      16,
+      "Lässt eine befallene Karte fallen"
+    ],
+    [
+      22,
+      17,
+      "Lässt eine befallene Karte fallen"
+    ],
+    [
+      22,
+      18,
+      "Lässt eine befallene Karte fallen"
+    ],
+    [
+      22,
+      19,
+      "Lässt eine befallene Karte fallen"
+    ],
+    [
+      22,
+      20,
+      "Lässt eine befallene Karte fallen"
+    ],
+    [
+      22,
+      21,
+      "Lässt eine befallene Karte fallen"
+    ],
+    [
+      22,
+      22,
+      "Lässt eine befallene Karte fallen"
+    ],
+    [
+      22,
+      23,
+      "Lässt eine befallene Karte fallen"
+    ],
+    [
+      22,
+      24,
+      "Lässt eine befallene Karte fallen"
+    ],
+    [
+      22,
+      25,
+      "Lässt eine befallene Karte fallen"
+    ],
+    [
+      22,
+      26,
+      "Lässt eine befallene Karte fallen"
+    ],
+    [
+      22,
+      27,
+      "Lässt eine befallene Karte fallen"
+    ],
+    [
+      22,
+      28,
+      "Lässt eine befallene Karte fallen"
+    ],
+    [
+      22,
+      29,
+      "Lässt eine befallene Karte fallen"
+    ],
+    [
+      22,
+      30,
+      "Lässt eine befallene Karte fallen"
+    ],
+    [
+      22,
+      31,
+      "Lässt eine befallene Karte fallen"
+    ],
+    [
+      23,
+      0,
+      "Lässt zusätzliche Katalysatoren fallen"
+    ],
+    [
+      23,
+      1,
+      "Lässt zusätzliche Katalysatoren fallen"
+    ],
+    [
+      23,
+      2,
+      "Lässt zusätzliche Katalysatoren fallen"
+    ]
+  ]
+}

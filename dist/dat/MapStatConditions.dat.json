@@ -1,1 +1,460 @@
-{"filename":"MapStatConditions.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":true,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"StatsKey","rowid":1,"type":"ulong","key":"Stats.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Flag0","rowid":2,"type":"byte","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"StatMin","rowid":3,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"StatMax","rowid":4,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["IsMagic",1957,0,1,1],["IsRare",1957,0,2,2],["IsUnique",1957,0,3,3],["IsTwinned",984,1,1,1],["IsUnidentified",1361,1,1,1],["IsCorrupted",2536,1,1,1],["Has8ExplicitMods",4517,1,8,8],["Has10TotalMods",6533,1,10,10],["Has3Leaguestones",5831,1,3,3],["HasZanaMod",7732,1,1,1],["HasCraftedMods",7733,1,1,1],["HasShaperInfluence",6870,0,1,1],["HasElderInfluence",6870,0,2,2],["HasShaperOrElderInfluence",6870,0,1,2],["IsWhiteTier",10084,0,1,5],["IsYellowTier",10084,0,6,10],["IsRedTier",10084,0,11,16],["HasSextantMod",5864,1,1,1],["HasNemesisSextant",4959,1,1,1],["HasGroundHasteSextant",5080,1,1,1],["HasNoReflectSextant",5106,1,1,1],["HasExtraTeamMonstersSextant",5114,1,1,1],["HasBodyguardsSextant",5143,1,1,1],["HasBarrelSextant1",5140,1,1,1],["HasBarrelSextant2",5167,1,1,1],["HasBarrelSextant3",5168,1,1,1],["HasBarrelSextant4",5169,1,1,1],["HasBarrelSextant5",5170,1,1,1],["HasBarrelSextant6",5171,1,1,1],["HasConvertOnDeathSextant",5113,1,1,1],["HasOnslaughtIfHitRecentlySextant",5063,1,1,1],["HasQualityAffectsRaritySextant",5098,1,1,1],["HasCorruptedDropsSextant",5100,1,1,1],["HasMinStrongboxRaritySextant",5166,1,1,1],["HasPossessedRustedScarabSextant",9400,1,1,1],["HasPossessedPolishedScarabSextant",9401,1,1,1],["HasPossessedGildedScarabSextant",9402,1,1,1],["HasPossessedUniqueDropSextant",9403,1,1,1],["HasPossessedMapDropSextant",9404,1,1,1],["HasShrineDurationSextant",5743,1,1,1],["HasCurrencyShardSextant",9408,1,1,1],["HasVaalMonstersSextant",9432,1,1,1],["HasBeyondSextant",9424,1,1,1],["HasTormentBetrayersSextant",9461,1,1,1],["HasTormentHereticsSextant",9462,1,1,1],["HasTormentGraverobbersSextant",9460,1,1,1],["HasCorruptEssenceSextant",9880,1,1,1],["HasTempests",3137,1,1,1],["HasLegionSextant",9421,1,1,1],["HasQuality",5099,1,20,20],["IsDeliriumMap",11590,1,1,1],["IsMaximumDelirium",11590,1,100,100],["AwakeningLevel8",10780,1,8,8],["ContainsElderGuardian",6589,1,1,1]]}
+{
+  "filename": "MapStatConditions.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "StatsKey",
+      "rowid": 1,
+      "type": "ulong",
+      "key": "Stats.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Flag0",
+      "rowid": 2,
+      "type": "byte",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "StatMin",
+      "rowid": 3,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "StatMax",
+      "rowid": 4,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "IsMagic",
+      1957,
+      0,
+      1,
+      1
+    ],
+    [
+      "IsRare",
+      1957,
+      0,
+      2,
+      2
+    ],
+    [
+      "IsUnique",
+      1957,
+      0,
+      3,
+      3
+    ],
+    [
+      "IsTwinned",
+      984,
+      1,
+      1,
+      1
+    ],
+    [
+      "IsUnidentified",
+      1361,
+      1,
+      1,
+      1
+    ],
+    [
+      "IsCorrupted",
+      2536,
+      1,
+      1,
+      1
+    ],
+    [
+      "Has8ExplicitMods",
+      4517,
+      1,
+      8,
+      8
+    ],
+    [
+      "Has10TotalMods",
+      6533,
+      1,
+      10,
+      10
+    ],
+    [
+      "Has3Leaguestones",
+      5831,
+      1,
+      3,
+      3
+    ],
+    [
+      "HasZanaMod",
+      7732,
+      1,
+      1,
+      1
+    ],
+    [
+      "HasCraftedMods",
+      7733,
+      1,
+      1,
+      1
+    ],
+    [
+      "HasShaperInfluence",
+      6870,
+      0,
+      1,
+      1
+    ],
+    [
+      "HasElderInfluence",
+      6870,
+      0,
+      2,
+      2
+    ],
+    [
+      "HasShaperOrElderInfluence",
+      6870,
+      0,
+      1,
+      2
+    ],
+    [
+      "IsWhiteTier",
+      10084,
+      0,
+      1,
+      5
+    ],
+    [
+      "IsYellowTier",
+      10084,
+      0,
+      6,
+      10
+    ],
+    [
+      "IsRedTier",
+      10084,
+      0,
+      11,
+      16
+    ],
+    [
+      "HasSextantMod",
+      5864,
+      1,
+      1,
+      1
+    ],
+    [
+      "HasNemesisSextant",
+      4959,
+      1,
+      1,
+      1
+    ],
+    [
+      "HasGroundHasteSextant",
+      5080,
+      1,
+      1,
+      1
+    ],
+    [
+      "HasNoReflectSextant",
+      5106,
+      1,
+      1,
+      1
+    ],
+    [
+      "HasExtraTeamMonstersSextant",
+      5114,
+      1,
+      1,
+      1
+    ],
+    [
+      "HasBodyguardsSextant",
+      5143,
+      1,
+      1,
+      1
+    ],
+    [
+      "HasBarrelSextant1",
+      5140,
+      1,
+      1,
+      1
+    ],
+    [
+      "HasBarrelSextant2",
+      5167,
+      1,
+      1,
+      1
+    ],
+    [
+      "HasBarrelSextant3",
+      5168,
+      1,
+      1,
+      1
+    ],
+    [
+      "HasBarrelSextant4",
+      5169,
+      1,
+      1,
+      1
+    ],
+    [
+      "HasBarrelSextant5",
+      5170,
+      1,
+      1,
+      1
+    ],
+    [
+      "HasBarrelSextant6",
+      5171,
+      1,
+      1,
+      1
+    ],
+    [
+      "HasConvertOnDeathSextant",
+      5113,
+      1,
+      1,
+      1
+    ],
+    [
+      "HasOnslaughtIfHitRecentlySextant",
+      5063,
+      1,
+      1,
+      1
+    ],
+    [
+      "HasQualityAffectsRaritySextant",
+      5098,
+      1,
+      1,
+      1
+    ],
+    [
+      "HasCorruptedDropsSextant",
+      5100,
+      1,
+      1,
+      1
+    ],
+    [
+      "HasMinStrongboxRaritySextant",
+      5166,
+      1,
+      1,
+      1
+    ],
+    [
+      "HasPossessedRustedScarabSextant",
+      9400,
+      1,
+      1,
+      1
+    ],
+    [
+      "HasPossessedPolishedScarabSextant",
+      9401,
+      1,
+      1,
+      1
+    ],
+    [
+      "HasPossessedGildedScarabSextant",
+      9402,
+      1,
+      1,
+      1
+    ],
+    [
+      "HasPossessedUniqueDropSextant",
+      9403,
+      1,
+      1,
+      1
+    ],
+    [
+      "HasPossessedMapDropSextant",
+      9404,
+      1,
+      1,
+      1
+    ],
+    [
+      "HasShrineDurationSextant",
+      5743,
+      1,
+      1,
+      1
+    ],
+    [
+      "HasCurrencyShardSextant",
+      9408,
+      1,
+      1,
+      1
+    ],
+    [
+      "HasVaalMonstersSextant",
+      9432,
+      1,
+      1,
+      1
+    ],
+    [
+      "HasBeyondSextant",
+      9424,
+      1,
+      1,
+      1
+    ],
+    [
+      "HasTormentBetrayersSextant",
+      9461,
+      1,
+      1,
+      1
+    ],
+    [
+      "HasTormentHereticsSextant",
+      9462,
+      1,
+      1,
+      1
+    ],
+    [
+      "HasTormentGraverobbersSextant",
+      9460,
+      1,
+      1,
+      1
+    ],
+    [
+      "HasCorruptEssenceSextant",
+      9880,
+      1,
+      1,
+      1
+    ],
+    [
+      "HasTempests",
+      3137,
+      1,
+      1,
+      1
+    ],
+    [
+      "HasLegionSextant",
+      9421,
+      1,
+      1,
+      1
+    ],
+    [
+      "HasQuality",
+      5099,
+      1,
+      20,
+      20
+    ],
+    [
+      "IsDeliriumMap",
+      11590,
+      1,
+      1,
+      1
+    ],
+    [
+      "IsMaximumDelirium",
+      11590,
+      1,
+      100,
+      100
+    ],
+    [
+      "AwakeningLevel8",
+      10780,
+      1,
+      8,
+      8
+    ],
+    [
+      "ContainsElderGuardian",
+      6589,
+      1,
+      1,
+      1
+    ]
+  ]
+}

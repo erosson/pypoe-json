@@ -1,1 +1,238 @@
-{"filename":"PassiveTreeExpansionJewels.dat","header":[{"name":"BaseItemTypesKey","rowid":0,"type":"ulong","key":"BaseItemTypes.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"PassiveTreeExpansionJewelSizesKey","rowid":1,"type":"ulong","key":"PassiveTreeExpansionJewelSizes.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"MinNodes","rowid":2,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"MaxNodes","rowid":3,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"SmallIndices","rowid":4,"type":"ref|list|int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"NotableIndices","rowid":5,"type":"ref|list|int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"SocketIndices","rowid":6,"type":"ref|list|int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Art","rowid":7,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":true,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"TotalIndices","rowid":8,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"SoundEffectsKey","rowid":9,"type":"ulong","key":"SoundEffects.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[[4789,0,2,3,[0,4,2],[4],[4],"Art/2DArt/UIImages/InGame/PassiveSkillScreenJewelSocketActiveAltRed",6,217],[4788,1,4,6,[0,6,8,4,10,2],[6,10,2,0],[6],"Art/2DArt/UIImages/InGame/PassiveSkillScreenJewelSocketActiveAltBlue",12,218],[4787,2,8,12,[0,4,6,8,10,2,7,5,9,3,11,1],[6,4,8,10,2],[4,8,6],"Art/2DArt/UIImages/InGame/PassiveSkillScreenJewelSocketActiveAltPurple",12,219]]}
+{
+  "filename": "PassiveTreeExpansionJewels.dat",
+  "header": [
+    {
+      "name": "BaseItemTypesKey",
+      "rowid": 0,
+      "type": "ulong",
+      "key": "BaseItemTypes.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "PassiveTreeExpansionJewelSizesKey",
+      "rowid": 1,
+      "type": "ulong",
+      "key": "PassiveTreeExpansionJewelSizes.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "MinNodes",
+      "rowid": 2,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "MaxNodes",
+      "rowid": 3,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "SmallIndices",
+      "rowid": 4,
+      "type": "ref|list|int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "NotableIndices",
+      "rowid": 5,
+      "type": "ref|list|int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "SocketIndices",
+      "rowid": 6,
+      "type": "ref|list|int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Art",
+      "rowid": 7,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": true,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "TotalIndices",
+      "rowid": 8,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "SoundEffectsKey",
+      "rowid": 9,
+      "type": "ulong",
+      "key": "SoundEffects.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      4789,
+      0,
+      2,
+      3,
+      [
+        0,
+        4,
+        2
+      ],
+      [
+        4
+      ],
+      [
+        4
+      ],
+      "Art/2DArt/UIImages/InGame/PassiveSkillScreenJewelSocketActiveAltRed",
+      6,
+      217
+    ],
+    [
+      4788,
+      1,
+      4,
+      6,
+      [
+        0,
+        6,
+        8,
+        4,
+        10,
+        2
+      ],
+      [
+        6,
+        10,
+        2,
+        0
+      ],
+      [
+        6
+      ],
+      "Art/2DArt/UIImages/InGame/PassiveSkillScreenJewelSocketActiveAltBlue",
+      12,
+      218
+    ],
+    [
+      4787,
+      2,
+      8,
+      12,
+      [
+        0,
+        4,
+        6,
+        8,
+        10,
+        2,
+        7,
+        5,
+        9,
+        3,
+        11,
+        1
+      ],
+      [
+        6,
+        4,
+        8,
+        10,
+        2
+      ],
+      [
+        4,
+        8,
+        6
+      ],
+      "Art/2DArt/UIImages/InGame/PassiveSkillScreenJewelSocketActiveAltPurple",
+      12,
+      219
+    ]
+  ]
+}

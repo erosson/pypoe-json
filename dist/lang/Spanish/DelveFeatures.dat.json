@@ -1,1 +1,6012 @@
-{"filename":"DelveFeatures.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":true,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Name","rowid":1,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"SpawnWeight","rowid":2,"type":"ref|list|int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"WorldAreasKey","rowid":3,"type":"ulong","key":"WorldAreas.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Image","rowid":4,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":true,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"AchievementItemsKeys","rowid":5,"type":"ref|list|ulong","key":"AchievementItems.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"MinTier","rowid":6,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Type","rowid":7,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"MinDepth","rowid":8,"type":"ref|list|int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Description","rowid":9,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown0","rowid":10,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Data1","rowid":11,"type":"ref|list|int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Data2","rowid":12,"type":"ref|list|int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Data3","rowid":13,"type":"ref|list|int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["Nothing","",[0],null,"",[],0,"MineEntrance",[],"",0,[],[0],[]],["MineEntrance","Entrada de la mina",[0],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/MineEntrance",[],0,"MineEntrance",[],"",0,[],[0],[]],["ObstructionNorth","",[0],null,"",[],0,"MineEntrance",[],"",0,[],[0],[]],["ObstructionEast","",[0],null,"",[],0,"MineEntrance",[],"",0,[],[0],[]],["ObstructionSouth","",[0],null,"",[],0,"MineEntrance",[],"",0,[],[0],[]],["ObstructionWest","",[0],null,"",[],0,"MineEntrance",[],"",0,[],[0],[]],["DarkChest","",[0],null,"",[],0,"MineEntrance",[],"",0,[],[0],[]],["Azurite1_Q","Cavidad de Azurita",[0],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/AzuriteVein",[],0,"MineEntrance",[],"Contiene azurita",0,[],[0],[]],["Breach","Galería susurrante",[100],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Breach",[],2,"\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000Contiene una fisura",[10],"Contiene una fisura",0,[0],[0],[0,4]],["Harbinger","Caverna rúnica",[100],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Harbinger",[],2,"\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000Contiene una fisura",[10],"Contiene un heraldo",0,[0],[0],[0,4]],["Azurite1_1","Cavidad de Azurita",[500],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/AzuriteVein",[],1,"",[],"Contiene azurita",0,[],[0],[0]],["Azurite1_2","Cavidad de Azurita",[500],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/AzuriteVein",[],1,"",[],"Contiene azurita",0,[],[0],[0]],["Azurite1_3","Cavidad de Azurita",[500],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/AzuriteVein",[],1,"",[],"Contiene azurita",0,[],[0],[0]],["Azurite1_4","Cavidad de Azurita",[500],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/AzuriteVein",[],1,"",[],"Contiene azurita",0,[],[0],[0]],["Azurite2_1","Cámara de Azurita",[300],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/AzuriteVeinII",[],1,"\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",[20],"Contiene azurita",0,[0],[0],[0]],["Azurite2_2","Cámara de Azurita",[300],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/AzuriteVeinII",[],1,"\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",[20],"Contiene azurita",0,[0],[0],[0]],["Azurite2_3","Cámara de Azurita",[300],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/AzuriteVeinII",[],1,"\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",[20],"Contiene azurita",0,[0],[0],[0]],["Azurite2_4","Cámara de Azurita",[300],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/AzuriteVeinII",[],1,"\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",[20],"Contiene azurita",0,[0],[0],[0]],["Azurite3_1","Fisura de Azurita",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/AzuriteVeinIII",[],1,"\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",[40,35],"Contiene azurita",0,[0,4],[0],[0]],["Azurite3_2","Fisura de Azurita",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/AzuriteVeinIII",[],1,"\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",[40,35],"Contiene azurita",0,[0,4],[0],[0]],["Azurite3_3","Fisura de Azurita",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/AzuriteVeinIII",[],1,"\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",[40,35],"Contiene azurita",0,[0,4],[0],[0]],["FungalCavernsFossil","Tumba embrujada",[100],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Fossil",[],1,"\u0004\u0000\u0004\u0000S\u00004\u0000#\u0000Contiene fósiles",[83,52,35],"Contiene fósiles",0,[0,3,4],[0],[0]],["PetrifiedForestFossil","Hondonada de Madera de Piedra",[100],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Fossil",[],1,"\u0004\u0000\u0004\u0000S\u00004\u0000#\u0000Contiene fósiles",[83,52,35],"Contiene fósiles",0,[0,3,4],[0],[0]],["AbyssalDepthsFossil","Aguja de Cristal",[100],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Fossil",[],1,"\u0004\u0000\u0004\u0000S\u00004\u0000#\u0000Contiene fósiles",[83,52,35],"Contiene fósiles",0,[0,3,4],[0],[0]],["FrozenHollowFossil","Caverna perdida en el tiempo",[100],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Fossil",[],1,"\u0004\u0000\u0004\u0000S\u00004\u0000#\u0000Contiene fósiles",[83,52,35],"Contiene fósiles",0,[0,3,4],[0],[0]],["MagmaFissureFossil","Cavidad fundida",[100],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Fossil",[],1,"\u0004\u0000\u0004\u0000S\u00004\u0000#\u0000Contiene fósiles",[83,52,35],"Contiene fósiles",0,[0,3,4],[0],[0]],["SulphurVentsFossil","Fisura húmeda",[100],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Fossil",[],1,"\u0004\u0000\u0004\u0000S\u00004\u0000#\u0000Contiene fósiles",[83,52,35],"Contiene fósiles",0,[0,3,4],[0],[0]],["WolvesGeneric","Madriguera aullante",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",[],1,"",[],"Contiene objetos",0,[],[0],[0]],["WolvesArmour","Madriguera aullante",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",[],1,"",[],"Contiene armaduras",0,[],[0],[0]],["WolvesWeapon","Madriguera aullante",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",[],1,"",[],"Contiene armas",0,[],[0],[0]],["WolvesTrinkets","Madriguera aullante",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",[],1,"\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",[],"Contiene joyería",0,[],[0],[0]],["WolvesGems","Madriguera aullante",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Gems",[],1,"\u0002\u0000\u0002\u0000Contiene gemas",[],"Contiene gemas",0,[],[0],[0]],["WolvesCurrency","Madriguera aullante",[150],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",[],1,"\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",[],"Contiene objetos monetarios",0,[],[0],[0]],["ExilesArmour","Alijo del contrabandista",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",[],1,"",[],"Contiene armaduras",0,[],[0],[0]],["ExilesWeapon","Alijo del contrabandista",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",[],1,"",[],"Contiene armas",0,[],[0],[0]],["ExilesMaps","Alijo del contrabandista",[75],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Maps",[],1,"\u0003\u0000\u0004\u0000Contiene mapas",[83,52,35],"Contiene mapas",0,[0,3,4],[0],[0]],["ExilesFossils","Alijo del contrabandista",[100],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Fossil",[],2,"\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000Contiene una fisura",[15],"Contiene fósiles",0,[0],[0],[0,4]],["IceGolemGeneric","Escombros inquietos",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",[],1,"",[],"Contiene objetos",0,[],[0],[0]],["IceGolemGems","Escombros inquietos",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Gems",[],1,"\u0002\u0000\u0002\u0000Contiene gemas",[],"Contiene gemas",0,[],[0],[0]],["IceGolemCold","Escombros inquietos",[100],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Cold",[],2,"\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000Contiene una fisura",[50],"Contiene objetos de hielo",0,[1],[0],[0,4]],["FireGolemGeneric","Escombros inquietos",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",[],1,"",[],"Contiene objetos",0,[],[0],[0]],["FireGolemGems","Escombros inquietos",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Gems",[],1,"\u0002\u0000\u0002\u0000Contiene gemas",[],"Contiene gemas",0,[],[0],[0]],["FireGolemFire","Escombros inquietos",[100],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Fire",[],2,"\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000Contiene una fisura",[50],"Contiene objetos de fuego",0,[1],[0],[0,4]],["MantleHellionsGeneric","Madriguera abrasadora",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",[],1,"",[],"Contiene objetos",0,[],[0],[0]],["MantleHellionsArmour","Madriguera abrasadora",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",[],1,"",[],"Contiene armaduras",0,[],[0],[0]],["MantleHellionsWeapon","Madriguera abrasadora",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",[],1,"",[],"Contiene armas",0,[],[0],[0]],["MantleHellionsTrinkets","Madriguera abrasadora",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",[],1,"\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",[],"Contiene joyería",0,[],[0],[0]],["MantleHellionsCurrency","Madriguera abrasadora",[150],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",[],1,"\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",[],"Contiene objetos monetarios",0,[],[0],[0]],["MantleHellionsFire","Madriguera abrasadora",[100],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Fire",[],2,"\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000Contiene una fisura",[50],"Contiene objetos de fuego",0,[0],[0],[0,4]],["MantleCampsiteGeneric","Campamento chamuscado",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",[],1,"",[],"Contiene objetos",0,[],[0],[0]],["MantleCampsiteArmour","Campamento chamuscado",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",[],1,"",[],"Contiene armaduras",0,[],[0],[0]],["MantleCampsiteWeapon","Campamento chamuscado",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",[],1,"",[],"Contiene armas",0,[],[0],[0]],["MantleCampsiteTrinkets","Campamento chamuscado",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",[],1,"\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",[],"Contiene joyería",0,[],[0],[0]],["MantleCampsiteCurrency","Campamento chamuscado",[150],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",[],1,"\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",[],"Contiene objetos monetarios",0,[],[0],[0]],["MantleCampsiteMaps","Campamento chamuscado",[75],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Maps",[],1,"\u0003\u0000\u0004\u0000Contiene mapas",[83,52,35],"Contiene mapas",0,[0,3,4],[0],[0]],["MantleSkeletonGeneric","Tumba ardiente",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",[],1,"",[],"Contiene objetos",0,[],[0],[0]],["MantleSkeletonArmour","Tumba ardiente",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",[],1,"",[],"Contiene armaduras",0,[],[0],[0]],["MantleSkeletonWeapon","Tumba ardiente",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",[],1,"",[],"Contiene armas",0,[],[0],[0]],["MantleSkeletonTrinkets","Tumba ardiente",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",[],1,"\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",[],"Contiene joyería",0,[],[0],[0]],["MantleSkeletonGems","Tumba ardiente",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Gems",[],1,"\u0002\u0000\u0002\u0000Contiene gemas",[],"Contiene gemas",0,[],[0],[0]],["MantleSkeletonCurrency","Tumba ardiente",[150],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",[],1,"\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",[],"Contiene objetos monetarios",0,[],[0],[0]],["MantleSkeletonMaps","Tumba ardiente",[75],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Maps",[],1,"\u0003\u0000\u0004\u0000Contiene mapas",[83,52,35],"Contiene mapas",0,[0,3,4],[0],[0]],["VaalChamberTier0","Cámara en ruinas",[100],389,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/VaalCity",[],0,"MineEntrance",[],"Contenido desconocido",0,[],[0],[]],["VaalChamberTier1","Cámara en ruinas",[100],389,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/VaalCity",[],1,"\u0001\u0000\u0001\u0000VaalChamberTier2",[],"Contenido desconocido",0,[],[0],[0]],["VaalChamberTier2","Cámara en ruinas",[25000],389,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/VaalCity",[],1,"\u0002\u0000\u0002\u0000Contiene gemas",[],"Contenido desconocido",0,[],[0],[0]],["VaalChamberTier3","Cámara en ruinas",[5000],389,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/VaalCity",[],1,"\u0003\u0000\u0003\u0000VaalChamberTier4",[],"Contenido desconocido",0,[],[0],[0]],["VaalChamberTier4","Cámara en ruinas",[1],389,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/VaalCity",[],1,"\u0004\u0000\u0004\u0000S\u00004\u0000#\u0000Contiene fósiles",[],"Contenido desconocido",0,[],[0],[0]],["ProtoVaalChamberTier0","Cámara primitiva",[100],390,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/ProtoVaalCity",[],0,"MineEntrance",[],"Contenido desconocido",0,[],[0],[]],["ProtoVaalChamberTier1","Cámara primitiva",[100],390,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/ProtoVaalCity",[],1,"\u0001\u0000\u0001\u0000VaalChamberTier2",[],"Contenido desconocido",0,[],[0],[0]],["ProtoVaalChamberTier2","Cámara primitiva",[75000],390,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/ProtoVaalCity",[],1,"\u0002\u0000\u0002\u0000Contiene gemas",[],"Contenido desconocido",0,[],[0],[0]],["ProtoVaalChamberTier3","Cámara primitiva",[10000],390,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/ProtoVaalCity",[],1,"\u0003\u0000\u0003\u0000VaalChamberTier4",[],"Contenido desconocido",0,[],[0],[0]],["ProtoVaalChamberTier4","Cámara primitiva",[1],390,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/ProtoVaalCity",[],1,"\u0004\u0000\u0004\u0000S\u00004\u0000#\u0000Contiene fósiles",[],"Contenido desconocido",0,[],[0],[0]],["AbyssalChamberTier0","Cámara abisal",[100],391,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/AbyssalCity",[],0,"MineEntrance",[],"Contenido desconocido",0,[],[0],[]],["AbyssalChamberTier1","Cámara abisal",[100],391,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/AbyssalCity",[],1,"\u0001\u0000\u0001\u0000VaalChamberTier2",[],"Contenido desconocido",0,[],[0],[0]],["AbyssalChamberTier2","Cámara abisal",[42500],391,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/AbyssalCity",[],1,"\u0002\u0000\u0002\u0000Contiene gemas",[],"Contenido desconocido",0,[],[0],[0]],["AbyssalChamberTier3","Cámara abisal",[7500],391,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/AbyssalCity",[],1,"\u0003\u0000\u0003\u0000VaalChamberTier4",[],"Contenido desconocido",0,[],[0],[0]],["AbyssalChamberTier4","Cámara abisal",[1],391,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/AbyssalCity",[],1,"\u0004\u0000\u0004\u0000S\u00004\u0000#\u0000Contiene fósiles",[],"Contenido desconocido",0,[],[0],[0]],["AbyssalBoss","La tumba del Liche",[7500,13500],387,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/BossAbyss",[],1,"\u0002\u0000\u0004\u0000\u0000n\u0000ProtoVaalBoss",[150,110],"Contenido desconocido",1,[0,4],[0,2],[0]],["ProtoVaalBoss","El Trono del Rey de Cristal",[10000,20000],388,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/BossProtoVaal",[],1,"\u0002\u0000\u0004\u0000\u0000n\u0000ProtoVaalBoss",[250,171],"Contenido desconocido",1,[0,4],[0,2],[0]],["VaalBoss","Templo del Gran Arquitecto",[5000,8000],386,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/BossVaalCity",[],1,"\u0002\u0000\u0004\u0000\u0000n\u0000ProtoVaalBoss",[83,52,35],"Contenido desconocido",1,[0,3,4],[0,2],[0]],["Prospero","Depósito de Próspero",[100],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Prospero",[],2,"\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000Contiene una fisura",[83,52,35],"Contenido desconocido",0,[0,3,4],[0],[0,4]],["MantleFireWarbands1","Retiro de los Cuchilla Roja",[100],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/WarbandFire",[],2,"\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000Contiene una fisura",[50],"Contiene objetos de fuego",0,[0],[0],[0,4]],["MantleFireWarbands2","Base de los Cuchilla Roja",[100],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/WarbandFire",[],2,"\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000Contiene una fisura",[83,52,35],"Contiene objetos de fuego",0,[0,3,4],[0],[0,4]],["IceCavesColdWarbands1","Retiro de los Viento Mudo",[100],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/WarbandCold",[],2,"\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000Contiene una fisura",[50],"Contiene objetos de hielo",0,[0],[0],[0,4]],["IceCavesColdWarbands2","Base de los Viento Mudo",[100],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/WarbandCold",[],2,"\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000Contiene una fisura",[83,52,35],"Contiene objetos de hielo",0,[0,3,4],[0],[0,4]],["IceCavesEssence1","Recoveco helado",[100],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/EssenceEncounter",[],1,"\u0002\u0000\u0002\u0000Contiene gemas",[],"Contiene esencias",0,[],[0],[0]],["IceCavesPiratesGeneric","Recoveco helado",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",[],1,"",[],"Contiene objetos",0,[],[0],[0]],["IceCavesPiratesArmour","Recoveco helado",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",[],1,"",[],"Contiene armaduras",0,[],[0],[0]],["IceCavesPiratesWeapon","Recoveco helado",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",[],1,"",[],"Contiene armas",0,[],[0],[0]],["IceCavesPiratesTrinkets","Recoveco helado",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",[],1,"\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",[],"Contiene joyería",0,[],[0],[0]],["IceCavesPiratesCurrency","Recoveco helado",[150],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",[],1,"\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",[],"Contiene objetos monetarios",0,[],[0],[0]],["IceCavesPiratesCold","Recoveco helado",[100],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Cold",[],2,"\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000Contiene una fisura",[50],"Contiene objetos de hielo",0,[0],[0],[0,4]],["IceCavesCampsiteGeneric","Campamento inhóspito",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",[],1,"",[],"Contiene objetos",0,[],[0],[0]],["IceCavesCampsiteArmour","Campamento inhóspito",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",[],1,"",[],"Contiene armaduras",0,[],[0],[0]],["IceCavesCampsiteWeapon","Campamento inhóspito",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",[],1,"",[],"Contiene armas",0,[],[0],[0]],["IceCavesCampsiteTrinkets","Campamento inhóspito",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",[],1,"\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",[],"Contiene joyería",0,[],[0],[0]],["IceCavesCampsiteCurrency","Campamento inhóspito",[150],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",[],1,"\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",[],"Contiene objetos monetarios",0,[],[0],[0]],["IceCavesCampsiteMaps","Campamento inhóspito",[75],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Maps",[],1,"\u0003\u0000\u0004\u0000Contiene mapas",[83,52,35],"Contiene mapas",0,[0,3,4],[0],[0]],["IceCavesSkeletonGeneric","Tumba congelada",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",[],1,"",[],"Contiene objetos",0,[],[0],[0]],["IceCavesSkeletonArmour","Tumba congelada",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",[],1,"",[],"Contiene armaduras",0,[],[0],[0]],["IceCavesSkeletonWeapon","Tumba congelada",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",[],1,"",[],"Contiene armas",0,[],[0],[0]],["IceCavesSkeletonTrinkets","Tumba congelada",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",[],1,"\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",[],"Contiene joyería",0,[],[0],[0]],["IceCavesSkeletonGems","Tumba congelada",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Gems",[],1,"\u0002\u0000\u0002\u0000Contiene gemas",[],"Contiene gemas",0,[],[0],[0]],["IceCavesSkeletonCurrency","Tumba congelada",[150],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",[],1,"\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",[],"Contiene objetos monetarios",0,[],[0],[0]],["IceCavesSkeletonMaps","Tumba congelada",[75],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Maps",[],1,"\u0003\u0000\u0004\u0000Contiene mapas",[83,52,35],"Contiene mapas",0,[0,3,4],[0],[0]],["SulphurLightningWarbands1","Retiro de los Salmuera",[100],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/WarbandLightning",[],2,"\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000Contiene una fisura",[50],"Contiene objetos de rayo",0,[0],[0],[0,4]],["SulphurLightningWarbands2","Retiro de los Salmuera",[100],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/WarbandLightning",[],2,"\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000Contiene una fisura",[83,52,35],"Contiene objetos de rayo",0,[0,3,4],[0],[0,4]],["SulphurCrabsGeneric","Colmena húmeda",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",[],1,"",[],"Contiene objetos",0,[],[0],[0]],["SulphurCrabsArmour","Colmena húmeda",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",[],1,"",[],"Contiene armaduras",0,[],[0],[0]],["SulphurCrabsWeapon","Colmena húmeda",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",[],1,"",[],"Contiene armas",0,[],[0],[0]],["SulphurCrabsTrinkets","Colmena húmeda",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",[],1,"\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",[],"Contiene joyería",0,[],[0],[0]],["SulphurCrabsCurrency","Colmena húmeda",[150],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",[],1,"\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",[],"Contiene objetos monetarios",0,[],[0],[0]],["SulphurCampsiteGeneric","Campamento precario",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",[],1,"",[],"Contiene objetos",0,[],[0],[0]],["SulphurCampsiteArmour","Campamento precario",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",[],1,"",[],"Contiene armaduras",0,[],[0],[0]],["SulphurCampsiteWeapon","Campamento precario",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",[],1,"",[],"Contiene armas",0,[],[0],[0]],["SulphurCampsiteTrinkets","Campamento precario",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",[],1,"\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",[],"Contiene joyería",0,[],[0],[0]],["SulphurCampsiteCurrency","Campamento precario",[150],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",[],1,"\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",[],"Contiene objetos monetarios",0,[],[0],[0]],["SulphurCampsiteMaps","Campamento precario",[75],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Maps",[],1,"\u0003\u0000\u0004\u0000Contiene mapas",[83,52,35],"Contiene mapas",0,[0,3,4],[0],[0]],["SulphurSandTrinkets","Fumarolas de polvo",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",[],1,"\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",[],"Contiene joyería",0,[],[0],[0]],["SulphurSandCurrency","Fumarolas de polvo",[150],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",[],1,"\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",[],"Contiene objetos monetarios",0,[],[0],[0]],["SulphurSandMaps","Fumarolas de polvo",[75],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Maps",[],1,"\u0003\u0000\u0004\u0000Contiene mapas",[83,52,35],"Contiene mapas",0,[0,3,4],[0],[0]],["LightningGolemsGeneric","Escombros inquietos",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",[],1,"",[],"Contiene objetos",0,[],[0],[0]],["LightningGolemsGems","Escombros inquietos",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Gems",[],1,"\u0002\u0000\u0002\u0000Contiene gemas",[],"Contiene gemas",0,[],[0],[0]],["LightningGolemsLightning","Escombros inquietos",[100],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Lightning",[],2,"\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000Contiene una fisura",[50],"Contiene objetos de rayo",0,[0],[0],[0,4]],["CavernsChaosWarbands1","Campamento de renegados",[100],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/WarbandChaos",[],2,"\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000Contiene una fisura",[83,52,35],"Contiene objetos de caos",0,[0,3,4],[0],[0,4]],["MineSandTrinkets","Cámara polvorienta",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",[],1,"\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",[],"Contiene joyería",0,[],[0],[0]],["MineSandCurrency","Cámara polvorienta",[150],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",[],1,"\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",[],"Contiene objetos monetarios",0,[],[0],[0]],["MineAnimatedWeapon","Caverna resonante",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",[],1,"",[],"Contiene armas",0,[],[0],[0]],["MineAnimatedArmour","Caverna resonante",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",[],1,"",[],"Contiene armaduras",0,[],[0],[0]],["MineSkeletonGeneric","Campamento enterrado",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",[],1,"",[],"Contiene objetos",0,[],[0],[0]],["MineSkeletonArmour","Campamento enterrado",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",[],1,"",[],"Contiene armaduras",0,[],[0],[0]],["MineSkeletonWeapon","Campamento enterrado",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",[],1,"",[],"Contiene armas",0,[],[0],[0]],["MineSkeletonTrinkets","Campamento enterrado",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",[],1,"\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",[],"Contiene joyería",0,[],[0],[0]],["MineSkeletonGems","Campamento enterrado",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Gems",[],1,"\u0002\u0000\u0002\u0000Contiene gemas",[],"Contiene gemas",0,[],[0],[0]],["MineSkeletonCurrency","Campamento enterrado",[150],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",[],1,"\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",[],"Contiene objetos monetarios",0,[],[0],[0]],["MineRockGolemGeneric","Escombros inquietos",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",[],1,"",[],"Contiene objetos",0,[],[0],[0]],["MineRockGolemGems","Escombros inquietos",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Gems",[],1,"\u0002\u0000\u0002\u0000Contiene gemas",[],"Contiene gemas",0,[],[0],[0]],["MineChaosGolemGeneric","Escombros inquietos",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",[],1,"",[],"Contiene objetos",0,[],[0],[0]],["MineChaosGolemGems","Escombros inquietos",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Gems",[],1,"\u0002\u0000\u0002\u0000Contiene gemas",[],"Contiene gemas",0,[],[0],[0]],["MineAmplifierGeneric","Amplificador abandonado",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",[],1,"",[],"Contiene objetos",0,[],[0],[0]],["MineAmplifierArmour","Amplificador abandonado",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",[],1,"",[],"Contiene armaduras",0,[],[0],[0]],["MineAmplifierWeapons","Amplificador abandonado",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",[],1,"",[],"Contiene armas",0,[],[0],[0]],["MineAmplifierTrinkets","Amplificador abandonado",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",[],1,"\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",[],"Contiene joyería",0,[],[0],[0]],["MineAmplifierGems","Amplificador abandonado",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Gems",[],1,"\u0002\u0000\u0002\u0000Contiene gemas",[],"Contiene gemas",0,[],[0],[0]],["MineAmplifierCurrency","Amplificador abandonado",[150],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",[],1,"\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",[],"Contiene objetos monetarios",0,[],[0],[0]],["MineSpiderGeneric","Mina arácnida",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",[],1,"",[],"Contiene objetos",0,[],[0],[0]],["MineSpiderTrinkets","Mina arácnida",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",[],1,"\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",[],"Contiene joyería",0,[],[0],[0]],["MineSpiderCurrency","Mina arácnida",[150],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",[],1,"\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",[],"Contiene objetos monetarios",0,[],[0],[0]],["MineCampsiteGeneric","Campamento abandonado",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",[],1,"",[],"Contiene objetos",0,[],[0],[0]],["MineCampsiteArmour","Campamento abandonado",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",[],1,"",[],"Contiene armaduras",0,[],[0],[0]],["MineCampsiteWeapon","Campamento abandonado",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",[],1,"",[],"Contiene armas",0,[],[0],[0]],["MineCampsiteTrinkets","Campamento abandonado",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",[],1,"\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",[],"Contiene joyería",0,[],[0],[0]],["MineCampsiteCurrency","Campamento abandonado",[150],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",[],1,"\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",[],"Contiene objetos monetarios",0,[],[0],[0]],["Beyond","Gruta pulsante",[100],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Beyond",[],1,"\u0002\u0000\u0002\u0000Contiene gemas",[10],"Contiene monstruos del más allá",0,[0],[0],[0]],["ForestRhoaGeneric","Zona de anidación",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",[],1,"",[],"Contiene objetos",0,[],[0],[0]],["ForestRhoaArmour","Zona de anidación",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",[],1,"",[],"Contiene armaduras",0,[],[0],[0]],["ForestRhoaWeapon","Zona de anidación",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",[],1,"",[],"Contiene armas",0,[],[0],[0]],["ForestRhoaTrinkets","Zona de anidación",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",[],1,"\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",[],"Contiene joyería",0,[],[0],[0]],["ForestRhoaCurrency","Zona de anidación",[150],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",[],1,"\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",[],"Contiene objetos monetarios",0,[],[0],[0]],["ForestRhoaBlood","Zona de anidación",[100],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Blood",[],2,"\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000Contiene una fisura",[50],"Contiene objetos físicos",0,[0],[0],[0,4]],["ForestCampsiteGeneric","Campamento muerto",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",[],1,"",[],"Contiene objetos",0,[],[0],[0]],["ForestCampsiteArmour","Campamento muerto",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",[],1,"",[],"Contiene armaduras",0,[],[0],[0]],["ForestCampsiteWeapon","Campamento muerto",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",[],1,"",[],"Contiene armas",0,[],[0],[0]],["ForestCampsiteTrinkets","Campamento muerto",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",[],1,"\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",[],"Contiene joyería",0,[],[0],[0]],["ForestCampsiteCurrency","Campamento muerto",[150],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",[],1,"\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",[],"Contiene objetos monetarios",0,[],[0],[0]],["ForestCampsiteMaps","Campamento muerto",[75],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Maps",[],1,"\u0003\u0000\u0004\u0000Contiene mapas",[83,52,35],"Contiene mapas",0,[0,3,4],[0],[0]],["ForestTalisman","Tierras de ritual",[100],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Talisman",[],2,"\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000Contiene una fisura",[],"Contiene talismanes",0,[],[0],[0,4]],["ForestSandTrinkets","Arboleda polvorienta",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",[],1,"\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",[],"Contiene joyería",0,[],[0],[0]],["ForestSandCurrency","Arboleda polvorienta",[150],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",[],1,"\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",[],"Contiene objetos monetarios",0,[],[0],[0]],["ForestSandMaps","Arboleda polvorienta",[75],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Maps",[],1,"\u0003\u0000\u0004\u0000Contiene mapas",[83,52,35],"Contiene mapas",0,[0,3,4],[0],[0]],["ForestNecromancerGeneric","Cadáver sombrío",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",[],1,"",[],"Contiene objetos",0,[],[0],[0]],["ForestNecromancerTinkets","Cadáver sombrío",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",[],1,"\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",[],"Contiene joyería",0,[],[0],[0]],["ForestNecromancerCurrency","Cadáver sombrío",[150],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",[],1,"\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",[],"Contiene objetos monetarios",0,[],[0],[0]],["ForestNecromancerMinions","Cadáver sombrío",[100],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Minion",[],2,"\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000Contiene una fisura",[50],"Contiene objetos de esbirros o auras",0,[0],[0],[0,4]],["ForestDropbearsGeneric","Arboleda rugiente",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",[],1,"",[],"Contiene objetos",0,[],[0],[0]],["ForestDropbearsArmour","Arboleda rugiente",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",[],1,"",[],"Contiene armaduras",0,[],[0],[0]],["ForestDropbearsWeapon","Arboleda rugiente",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",[],1,"",[],"Contiene armas",0,[],[0],[0]],["ForestDropbearsTrinkets","Arboleda rugiente",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",[],1,"\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",[],"Contiene joyería",0,[],[0],[0]],["ForestDropbearsCurrency","Arboleda rugiente",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",[],1,"\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",[],"Contiene objetos monetarios",0,[],[0],[0]],["ForestDevourersGeneric","Matorral infestado",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",[],1,"",[],"Contiene objetos",0,[],[0],[0]],["ForestDevourersArmour","Matorral infestado",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",[],1,"",[],"Contiene armaduras",0,[],[0],[0]],["ForestDevourersWeapon","Matorral infestado",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",[],1,"",[],"Contiene armas",0,[],[0],[0]],["ForestDevourersTrinkets","Matorral infestado",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",[],1,"\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",[],"Contiene joyería",0,[],[0],[0]],["ForestDevourersCurrency","Matorral infestado",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",[],1,"\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",[],"Contiene objetos monetarios",0,[],[0],[0]],["CavernsNecromancerGeneric","Excavación del Nigromante",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",[],1,"",[],"Contiene objetos",0,[],[0],[0]],["CavernsNecromancerTrinkets","Excavación del Nigromante",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",[],1,"\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",[],"Contiene joyería",0,[],[0],[0]],["CavernsNecromancerCurrency","Excavación del Nigromante",[150],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",[],1,"\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",[],"Contiene objetos monetarios",0,[],[0],[0]],["CavernsNecromancerMinions","Excavación del Nigromante",[100],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Minion",[],2,"\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000Contiene una fisura",[50],"Contiene objetos de esbirros o auras",0,[0],[0],[0,4]],["CavernsBeastGeneric","Madriguera de la bestia",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",[],1,"",[],"Contiene objetos",0,[],[0],[0]],["CavernsBeastArmour","Madriguera de la bestia",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",[],1,"",[],"Contiene armaduras",0,[],[0],[0]],["CavernsBeastWeapon","Madriguera de la bestia",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",[],1,"",[],"Contiene armas",0,[],[0],[0]],["CavernsBeastTrinkets","Madriguera de la bestia",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",[],1,"\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",[],"Contiene joyería",0,[],[0],[0]],["CavernsBeastCurrency","Madriguera de la bestia",[150],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",[],1,"\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",[],"Contiene objetos monetarios",0,[],[0],[0]],["CavernsBeastMinions","Madriguera de la bestia",[100],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Minion",[],2,"\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000Contiene una fisura",[50],"Contiene objetos de esbirros o auras",0,[1],[0],[0,4]],["CavernsMossMonsterGeneric","Pedruscos durmientes",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",[],1,"",[],"Contiene objetos",0,[],[0],[0]],["CavernsMossMonsterTrinkets","Pedruscos durmientes",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",[],1,"\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",[],"Contiene joyería",0,[],[0],[0]],["CavernsMossMonsterCurrency","Pedruscos durmientes",[150],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",[],1,"\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",[],"Contiene objetos monetarios",0,[],[0],[0]],["CavernsMossMonsterGems","Pedruscos durmientes",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Gems",[],1,"\u0002\u0000\u0002\u0000Contiene gemas",[],"Contiene gemas",0,[],[0],[0]],["CavernsRockGolemGeneric","Escombros inquietos",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",[],1,"",[],"Contiene objetos",0,[],[0],[0]],["CavernsRockGolemGems","Escombros inquietos",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Gems",[],1,"\u0002\u0000\u0002\u0000Contiene gemas",[],"Contiene gemas",0,[],[0],[0]],["CavernsChaosGolemGeneric","Escombros inquietos",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",[],1,"",[],"Contiene objetos",0,[],[0],[0]],["CavernsChaosGolemGems","Escombros inquietos",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Gems",[],1,"\u0002\u0000\u0002\u0000Contiene gemas",[],"Contiene gemas",0,[],[0],[0]],["CavernsChaosGolemChaos","Escombros inquietos",[100],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chaos",[],2,"\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000Contiene una fisura",[50],"Contiene objetos de caos",0,[0],[0],[0,4]],["Strongbox","Alijo subterráneo",[100],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Strongbox",[],2,"\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000Contiene una fisura",[],"Contiene cajas fuertes",0,[],[0],[0,4]],["CavernsBestiaryYellow","Guarida resonante",[100],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Bestiary",[],2,"\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000Contiene una fisura",[50],"contiene objetos animalísticos",0,[0],[0],[0,4]],["CavernsBestiaryRed","Guarida resonante",[100],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Bestiary",[],2,"\u0004\u0000\u0004\u0000\u0003\u0000\u0004\u0000CavernsCampsiteGeneric",[50],"contiene objetos animalísticos",0,[0],[0],[0,4]],["CavernsCampsiteGeneric","Campamento enmohecido",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",[],1,"",[],"Contiene objetos",0,[],[0],[0]],["CavernsCampsiteArmour","Campamento enmohecido",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",[],1,"",[],"Contiene armaduras",0,[],[0],[0]],["CavernsCampsiteWeapons","Campamento enmohecido",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",[],1,"",[],"Contiene armas",0,[],[0],[0]],["CavernsCampsiteTrinkets","Campamento enmohecido",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",[],1,"\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",[],"Contiene joyería",0,[],[0],[0]],["CavernsCampsiteCurrency","Campamento enmohecido",[150],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",[],1,"\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",[],"Contiene objetos monetarios",0,[],[0],[0]],["CavernsSkeletonGeneric","Tumba mohosa",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",[],1,"",[],"Contiene objetos",0,[],[0],[0]],["CavernsSkeletonArmour","Tumba mohosa",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",[],1,"",[],"Contiene armaduras",0,[],[0],[0]],["CavernsSkeletonWeapon","Tumba mohosa",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",[],1,"",[],"Contiene armas",0,[],[0],[0]],["CavernsSkeletonTrinkets","Tumba mohosa",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",[],1,"\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",[],"Contiene joyería",0,[],[0],[0]],["CavernsSkeletonGems","Tumba mohosa",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Gems",[],1,"\u0002\u0000\u0002\u0000Contiene gemas",[],"Contiene gemas",0,[],[0],[0]],["CavernsSkeletonCurrency","Tumba mohosa",[150],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",[],1,"\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",[],"Contiene objetos monetarios",0,[],[0],[0]],["CavernsSkeletonMaps","Tumba mohosa",[75],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Maps",[],1,"\u0003\u0000\u0004\u0000Contiene mapas",[83,52,35],"Contiene mapas",0,[0,3,4],[0],[0]],["CavernsDropbearsGeneric","Guarida rugiente",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",[],1,"",[],"Contiene objetos",0,[],[0],[0]],["CavernsDropbearsArmour","Guarida rugiente",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",[],1,"",[],"Contiene armaduras",0,[],[0],[0]],["CavernsDropbearsWeapon","Guarida rugiente",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",[],1,"",[],"Contiene armas",0,[],[0],[0]],["CavernsDropbearsTrinkets","Guarida rugiente",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",[],1,"\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",[],"Contiene joyería",0,[],[0],[0]],["CavernsDropbearsCurrency","Guarida rugiente",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",[],1,"\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",[],"Contiene objetos monetarios",0,[],[0],[0]],["CavernsDevourersGeneric","Túneles infestados",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",[],1,"",[],"Contiene objetos",0,[],[0],[0]],["CavernsDevourersArmour","Túneles infestados",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",[],1,"",[],"Contiene armaduras",0,[],[0],[0]],["CavernsDevourersWeapon","Túneles infestados",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",[],1,"",[],"Contiene armas",0,[],[0],[0]],["CavernsDevourersTrinkets","Túneles infestados",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",[],1,"\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",[],"Contiene joyería",0,[],[0],[0]],["CavernsDevourersCurrency","Túneles infestados",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",[],1,"\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",[],"Contiene objetos monetarios",0,[],[0],[0]],["AbyssalDepthsGhostGeneric","Restos embrujados",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",[],1,"",[42],"Contiene objetos",0,[0],[0],[0]],["AbyssalDepthsGhostArmour","Restos embrujados",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",[],1,"",[42],"Contiene armaduras",0,[0],[0],[0]],["AbyssalDepthsGhostWeapons","Restos embrujados",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",[],1,"",[42],"Contiene armas",0,[0],[0],[0]],["AbyssalDepthsGhostTrinkets","Restos embrujados",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",[],1,"\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",[42],"Contiene joyería",0,[0],[0],[0]],["AbyssalDepthsGhostCurrency","Restos embrujados",[150],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",[],1,"\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",[42],"Contiene objetos monetarios",0,[0],[0],[0]],["AbyssalDepthsGhostCurse","Restos embrujados",[100],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Curse",[],2,"\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000Contiene una fisura",[50],"Contiene objetos de maná o maldiciones",0,[0],[0],[0,4]],["AbyssalDepthsAbyss","Restos embrujados",[100],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/AbyssEncounter",[],2,"\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000Contiene una fisura",[50],"Contiene objetos de abismo",0,[0],[0],[0,4]],["AbyssalDepthsCampsiteGeneric","Campamento devastado",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",[],1,"",[],"Contiene objetos",0,[],[0],[0]],["AbyssalDepthsCampsiteArmour","Campamento devastado",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",[],1,"",[],"Contiene armaduras",0,[],[0],[0]],["AbyssalDepthsCampsiteWeapon","Campamento devastado",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",[],1,"",[],"Contiene armas",0,[],[0],[0]],["AbyssalDepthsCampsiteTrinkets","Campamento devastado",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",[],1,"\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",[],"Contiene joyería",0,[],[0],[0]],["AbyssalDepthsCampsiteCurrency","Campamento devastado",[150],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",[],1,"\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",[],"Contiene objetos monetarios",0,[],[0],[0]],["AbyssalDepthsCampsiteMaps","Campamento devastado",[75],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Maps",[],1,"\u0003\u0000\u0004\u0000Contiene mapas",[83,52,35],"Contiene mapas",0,[0,3,4],[0],[0]],["AbyssalDepthsNecromancerGeneric","Excavación del Nigromante",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",[],1,"",[],"Contiene objetos",0,[],[0],[0]],["AbyssalDepthsNecromancerTrinkets","Excavación del Nigromante",[200],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",[],1,"\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",[],"Contiene joyería",0,[],[0],[0]],["AbyssalDepthsNecromancerCurrency","Excavación del Nigromante",[150],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",[],1,"\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",[],"Contiene objetos monetarios",0,[],[0],[0]],["AbyssalDepthsNecromancerMinions","Excavación del Nigromante",[100],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Minion",[],2,"\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000Contiene una fisura",[50],"Contiene objetos de esbirros o auras",0,[0],[0],[0,4]],["AbyssalDepthsCultists","Santuario innombrable",[100],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/AbyssEncounter",[],2,"\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000Contiene una fisura",[50],"Contiene objetos de abismo",0,[0],[0],[0,4]],["Legion","Monolito enterrado",[100],null,"Art/2DArt/UIImages/InGame/Delve/MapEncounters/Legion",[],1,"\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",[0,35],"Contiene un encuentro de Legion",0,[4,5],[4],[4]]]}
+{
+  "filename": "DelveFeatures.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Name",
+      "rowid": 1,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "SpawnWeight",
+      "rowid": 2,
+      "type": "ref|list|int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "WorldAreasKey",
+      "rowid": 3,
+      "type": "ulong",
+      "key": "WorldAreas.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Image",
+      "rowid": 4,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": true,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "AchievementItemsKeys",
+      "rowid": 5,
+      "type": "ref|list|ulong",
+      "key": "AchievementItems.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "MinTier",
+      "rowid": 6,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Type",
+      "rowid": 7,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "MinDepth",
+      "rowid": 8,
+      "type": "ref|list|int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Description",
+      "rowid": 9,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown0",
+      "rowid": 10,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Data1",
+      "rowid": 11,
+      "type": "ref|list|int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Data2",
+      "rowid": 12,
+      "type": "ref|list|int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Data3",
+      "rowid": 13,
+      "type": "ref|list|int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "Nothing",
+      "",
+      [
+        0
+      ],
+      null,
+      "",
+      [],
+      0,
+      "MineEntrance",
+      [],
+      "",
+      0,
+      [],
+      [
+        0
+      ],
+      []
+    ],
+    [
+      "MineEntrance",
+      "Entrada de la mina",
+      [
+        0
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/MineEntrance",
+      [],
+      0,
+      "MineEntrance",
+      [],
+      "",
+      0,
+      [],
+      [
+        0
+      ],
+      []
+    ],
+    [
+      "ObstructionNorth",
+      "",
+      [
+        0
+      ],
+      null,
+      "",
+      [],
+      0,
+      "MineEntrance",
+      [],
+      "",
+      0,
+      [],
+      [
+        0
+      ],
+      []
+    ],
+    [
+      "ObstructionEast",
+      "",
+      [
+        0
+      ],
+      null,
+      "",
+      [],
+      0,
+      "MineEntrance",
+      [],
+      "",
+      0,
+      [],
+      [
+        0
+      ],
+      []
+    ],
+    [
+      "ObstructionSouth",
+      "",
+      [
+        0
+      ],
+      null,
+      "",
+      [],
+      0,
+      "MineEntrance",
+      [],
+      "",
+      0,
+      [],
+      [
+        0
+      ],
+      []
+    ],
+    [
+      "ObstructionWest",
+      "",
+      [
+        0
+      ],
+      null,
+      "",
+      [],
+      0,
+      "MineEntrance",
+      [],
+      "",
+      0,
+      [],
+      [
+        0
+      ],
+      []
+    ],
+    [
+      "DarkChest",
+      "",
+      [
+        0
+      ],
+      null,
+      "",
+      [],
+      0,
+      "MineEntrance",
+      [],
+      "",
+      0,
+      [],
+      [
+        0
+      ],
+      []
+    ],
+    [
+      "Azurite1_Q",
+      "Cavidad de Azurita",
+      [
+        0
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/AzuriteVein",
+      [],
+      0,
+      "MineEntrance",
+      [],
+      "Contiene azurita",
+      0,
+      [],
+      [
+        0
+      ],
+      []
+    ],
+    [
+      "Breach",
+      "Galería susurrante",
+      [
+        100
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Breach",
+      [],
+      2,
+      "\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000Contiene una fisura",
+      [
+        10
+      ],
+      "Contiene una fisura",
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0,
+        4
+      ]
+    ],
+    [
+      "Harbinger",
+      "Caverna rúnica",
+      [
+        100
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Harbinger",
+      [],
+      2,
+      "\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000Contiene una fisura",
+      [
+        10
+      ],
+      "Contiene un heraldo",
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0,
+        4
+      ]
+    ],
+    [
+      "Azurite1_1",
+      "Cavidad de Azurita",
+      [
+        500
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/AzuriteVein",
+      [],
+      1,
+      "",
+      [],
+      "Contiene azurita",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "Azurite1_2",
+      "Cavidad de Azurita",
+      [
+        500
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/AzuriteVein",
+      [],
+      1,
+      "",
+      [],
+      "Contiene azurita",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "Azurite1_3",
+      "Cavidad de Azurita",
+      [
+        500
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/AzuriteVein",
+      [],
+      1,
+      "",
+      [],
+      "Contiene azurita",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "Azurite1_4",
+      "Cavidad de Azurita",
+      [
+        500
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/AzuriteVein",
+      [],
+      1,
+      "",
+      [],
+      "Contiene azurita",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "Azurite2_1",
+      "Cámara de Azurita",
+      [
+        300
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/AzuriteVeinII",
+      [],
+      1,
+      "\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",
+      [
+        20
+      ],
+      "Contiene azurita",
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "Azurite2_2",
+      "Cámara de Azurita",
+      [
+        300
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/AzuriteVeinII",
+      [],
+      1,
+      "\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",
+      [
+        20
+      ],
+      "Contiene azurita",
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "Azurite2_3",
+      "Cámara de Azurita",
+      [
+        300
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/AzuriteVeinII",
+      [],
+      1,
+      "\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",
+      [
+        20
+      ],
+      "Contiene azurita",
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "Azurite2_4",
+      "Cámara de Azurita",
+      [
+        300
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/AzuriteVeinII",
+      [],
+      1,
+      "\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",
+      [
+        20
+      ],
+      "Contiene azurita",
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "Azurite3_1",
+      "Fisura de Azurita",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/AzuriteVeinIII",
+      [],
+      1,
+      "\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",
+      [
+        40,
+        35
+      ],
+      "Contiene azurita",
+      0,
+      [
+        0,
+        4
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "Azurite3_2",
+      "Fisura de Azurita",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/AzuriteVeinIII",
+      [],
+      1,
+      "\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",
+      [
+        40,
+        35
+      ],
+      "Contiene azurita",
+      0,
+      [
+        0,
+        4
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "Azurite3_3",
+      "Fisura de Azurita",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/AzuriteVeinIII",
+      [],
+      1,
+      "\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",
+      [
+        40,
+        35
+      ],
+      "Contiene azurita",
+      0,
+      [
+        0,
+        4
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "FungalCavernsFossil",
+      "Tumba embrujada",
+      [
+        100
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Fossil",
+      [],
+      1,
+      "\u0004\u0000\u0004\u0000S\u00004\u0000#\u0000Contiene fósiles",
+      [
+        83,
+        52,
+        35
+      ],
+      "Contiene fósiles",
+      0,
+      [
+        0,
+        3,
+        4
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "PetrifiedForestFossil",
+      "Hondonada de Madera de Piedra",
+      [
+        100
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Fossil",
+      [],
+      1,
+      "\u0004\u0000\u0004\u0000S\u00004\u0000#\u0000Contiene fósiles",
+      [
+        83,
+        52,
+        35
+      ],
+      "Contiene fósiles",
+      0,
+      [
+        0,
+        3,
+        4
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "AbyssalDepthsFossil",
+      "Aguja de Cristal",
+      [
+        100
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Fossil",
+      [],
+      1,
+      "\u0004\u0000\u0004\u0000S\u00004\u0000#\u0000Contiene fósiles",
+      [
+        83,
+        52,
+        35
+      ],
+      "Contiene fósiles",
+      0,
+      [
+        0,
+        3,
+        4
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "FrozenHollowFossil",
+      "Caverna perdida en el tiempo",
+      [
+        100
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Fossil",
+      [],
+      1,
+      "\u0004\u0000\u0004\u0000S\u00004\u0000#\u0000Contiene fósiles",
+      [
+        83,
+        52,
+        35
+      ],
+      "Contiene fósiles",
+      0,
+      [
+        0,
+        3,
+        4
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MagmaFissureFossil",
+      "Cavidad fundida",
+      [
+        100
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Fossil",
+      [],
+      1,
+      "\u0004\u0000\u0004\u0000S\u00004\u0000#\u0000Contiene fósiles",
+      [
+        83,
+        52,
+        35
+      ],
+      "Contiene fósiles",
+      0,
+      [
+        0,
+        3,
+        4
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "SulphurVentsFossil",
+      "Fisura húmeda",
+      [
+        100
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Fossil",
+      [],
+      1,
+      "\u0004\u0000\u0004\u0000S\u00004\u0000#\u0000Contiene fósiles",
+      [
+        83,
+        52,
+        35
+      ],
+      "Contiene fósiles",
+      0,
+      [
+        0,
+        3,
+        4
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "WolvesGeneric",
+      "Madriguera aullante",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",
+      [],
+      1,
+      "",
+      [],
+      "Contiene objetos",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "WolvesArmour",
+      "Madriguera aullante",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",
+      [],
+      1,
+      "",
+      [],
+      "Contiene armaduras",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "WolvesWeapon",
+      "Madriguera aullante",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",
+      [],
+      1,
+      "",
+      [],
+      "Contiene armas",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "WolvesTrinkets",
+      "Madriguera aullante",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",
+      [],
+      1,
+      "\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",
+      [],
+      "Contiene joyería",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "WolvesGems",
+      "Madriguera aullante",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Gems",
+      [],
+      1,
+      "\u0002\u0000\u0002\u0000Contiene gemas",
+      [],
+      "Contiene gemas",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "WolvesCurrency",
+      "Madriguera aullante",
+      [
+        150
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",
+      [],
+      1,
+      "\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",
+      [],
+      "Contiene objetos monetarios",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "ExilesArmour",
+      "Alijo del contrabandista",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",
+      [],
+      1,
+      "",
+      [],
+      "Contiene armaduras",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "ExilesWeapon",
+      "Alijo del contrabandista",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",
+      [],
+      1,
+      "",
+      [],
+      "Contiene armas",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "ExilesMaps",
+      "Alijo del contrabandista",
+      [
+        75
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Maps",
+      [],
+      1,
+      "\u0003\u0000\u0004\u0000Contiene mapas",
+      [
+        83,
+        52,
+        35
+      ],
+      "Contiene mapas",
+      0,
+      [
+        0,
+        3,
+        4
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "ExilesFossils",
+      "Alijo del contrabandista",
+      [
+        100
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Fossil",
+      [],
+      2,
+      "\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000Contiene una fisura",
+      [
+        15
+      ],
+      "Contiene fósiles",
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0,
+        4
+      ]
+    ],
+    [
+      "IceGolemGeneric",
+      "Escombros inquietos",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",
+      [],
+      1,
+      "",
+      [],
+      "Contiene objetos",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "IceGolemGems",
+      "Escombros inquietos",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Gems",
+      [],
+      1,
+      "\u0002\u0000\u0002\u0000Contiene gemas",
+      [],
+      "Contiene gemas",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "IceGolemCold",
+      "Escombros inquietos",
+      [
+        100
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Cold",
+      [],
+      2,
+      "\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000Contiene una fisura",
+      [
+        50
+      ],
+      "Contiene objetos de hielo",
+      0,
+      [
+        1
+      ],
+      [
+        0
+      ],
+      [
+        0,
+        4
+      ]
+    ],
+    [
+      "FireGolemGeneric",
+      "Escombros inquietos",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",
+      [],
+      1,
+      "",
+      [],
+      "Contiene objetos",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "FireGolemGems",
+      "Escombros inquietos",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Gems",
+      [],
+      1,
+      "\u0002\u0000\u0002\u0000Contiene gemas",
+      [],
+      "Contiene gemas",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "FireGolemFire",
+      "Escombros inquietos",
+      [
+        100
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Fire",
+      [],
+      2,
+      "\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000Contiene una fisura",
+      [
+        50
+      ],
+      "Contiene objetos de fuego",
+      0,
+      [
+        1
+      ],
+      [
+        0
+      ],
+      [
+        0,
+        4
+      ]
+    ],
+    [
+      "MantleHellionsGeneric",
+      "Madriguera abrasadora",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",
+      [],
+      1,
+      "",
+      [],
+      "Contiene objetos",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MantleHellionsArmour",
+      "Madriguera abrasadora",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",
+      [],
+      1,
+      "",
+      [],
+      "Contiene armaduras",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MantleHellionsWeapon",
+      "Madriguera abrasadora",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",
+      [],
+      1,
+      "",
+      [],
+      "Contiene armas",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MantleHellionsTrinkets",
+      "Madriguera abrasadora",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",
+      [],
+      1,
+      "\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",
+      [],
+      "Contiene joyería",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MantleHellionsCurrency",
+      "Madriguera abrasadora",
+      [
+        150
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",
+      [],
+      1,
+      "\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",
+      [],
+      "Contiene objetos monetarios",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MantleHellionsFire",
+      "Madriguera abrasadora",
+      [
+        100
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Fire",
+      [],
+      2,
+      "\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000Contiene una fisura",
+      [
+        50
+      ],
+      "Contiene objetos de fuego",
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0,
+        4
+      ]
+    ],
+    [
+      "MantleCampsiteGeneric",
+      "Campamento chamuscado",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",
+      [],
+      1,
+      "",
+      [],
+      "Contiene objetos",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MantleCampsiteArmour",
+      "Campamento chamuscado",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",
+      [],
+      1,
+      "",
+      [],
+      "Contiene armaduras",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MantleCampsiteWeapon",
+      "Campamento chamuscado",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",
+      [],
+      1,
+      "",
+      [],
+      "Contiene armas",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MantleCampsiteTrinkets",
+      "Campamento chamuscado",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",
+      [],
+      1,
+      "\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",
+      [],
+      "Contiene joyería",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MantleCampsiteCurrency",
+      "Campamento chamuscado",
+      [
+        150
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",
+      [],
+      1,
+      "\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",
+      [],
+      "Contiene objetos monetarios",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MantleCampsiteMaps",
+      "Campamento chamuscado",
+      [
+        75
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Maps",
+      [],
+      1,
+      "\u0003\u0000\u0004\u0000Contiene mapas",
+      [
+        83,
+        52,
+        35
+      ],
+      "Contiene mapas",
+      0,
+      [
+        0,
+        3,
+        4
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MantleSkeletonGeneric",
+      "Tumba ardiente",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",
+      [],
+      1,
+      "",
+      [],
+      "Contiene objetos",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MantleSkeletonArmour",
+      "Tumba ardiente",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",
+      [],
+      1,
+      "",
+      [],
+      "Contiene armaduras",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MantleSkeletonWeapon",
+      "Tumba ardiente",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",
+      [],
+      1,
+      "",
+      [],
+      "Contiene armas",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MantleSkeletonTrinkets",
+      "Tumba ardiente",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",
+      [],
+      1,
+      "\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",
+      [],
+      "Contiene joyería",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MantleSkeletonGems",
+      "Tumba ardiente",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Gems",
+      [],
+      1,
+      "\u0002\u0000\u0002\u0000Contiene gemas",
+      [],
+      "Contiene gemas",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MantleSkeletonCurrency",
+      "Tumba ardiente",
+      [
+        150
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",
+      [],
+      1,
+      "\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",
+      [],
+      "Contiene objetos monetarios",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MantleSkeletonMaps",
+      "Tumba ardiente",
+      [
+        75
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Maps",
+      [],
+      1,
+      "\u0003\u0000\u0004\u0000Contiene mapas",
+      [
+        83,
+        52,
+        35
+      ],
+      "Contiene mapas",
+      0,
+      [
+        0,
+        3,
+        4
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "VaalChamberTier0",
+      "Cámara en ruinas",
+      [
+        100
+      ],
+      389,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/VaalCity",
+      [],
+      0,
+      "MineEntrance",
+      [],
+      "Contenido desconocido",
+      0,
+      [],
+      [
+        0
+      ],
+      []
+    ],
+    [
+      "VaalChamberTier1",
+      "Cámara en ruinas",
+      [
+        100
+      ],
+      389,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/VaalCity",
+      [],
+      1,
+      "\u0001\u0000\u0001\u0000VaalChamberTier2",
+      [],
+      "Contenido desconocido",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "VaalChamberTier2",
+      "Cámara en ruinas",
+      [
+        25000
+      ],
+      389,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/VaalCity",
+      [],
+      1,
+      "\u0002\u0000\u0002\u0000Contiene gemas",
+      [],
+      "Contenido desconocido",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "VaalChamberTier3",
+      "Cámara en ruinas",
+      [
+        5000
+      ],
+      389,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/VaalCity",
+      [],
+      1,
+      "\u0003\u0000\u0003\u0000VaalChamberTier4",
+      [],
+      "Contenido desconocido",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "VaalChamberTier4",
+      "Cámara en ruinas",
+      [
+        1
+      ],
+      389,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/VaalCity",
+      [],
+      1,
+      "\u0004\u0000\u0004\u0000S\u00004\u0000#\u0000Contiene fósiles",
+      [],
+      "Contenido desconocido",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "ProtoVaalChamberTier0",
+      "Cámara primitiva",
+      [
+        100
+      ],
+      390,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/ProtoVaalCity",
+      [],
+      0,
+      "MineEntrance",
+      [],
+      "Contenido desconocido",
+      0,
+      [],
+      [
+        0
+      ],
+      []
+    ],
+    [
+      "ProtoVaalChamberTier1",
+      "Cámara primitiva",
+      [
+        100
+      ],
+      390,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/ProtoVaalCity",
+      [],
+      1,
+      "\u0001\u0000\u0001\u0000VaalChamberTier2",
+      [],
+      "Contenido desconocido",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "ProtoVaalChamberTier2",
+      "Cámara primitiva",
+      [
+        75000
+      ],
+      390,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/ProtoVaalCity",
+      [],
+      1,
+      "\u0002\u0000\u0002\u0000Contiene gemas",
+      [],
+      "Contenido desconocido",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "ProtoVaalChamberTier3",
+      "Cámara primitiva",
+      [
+        10000
+      ],
+      390,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/ProtoVaalCity",
+      [],
+      1,
+      "\u0003\u0000\u0003\u0000VaalChamberTier4",
+      [],
+      "Contenido desconocido",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "ProtoVaalChamberTier4",
+      "Cámara primitiva",
+      [
+        1
+      ],
+      390,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/ProtoVaalCity",
+      [],
+      1,
+      "\u0004\u0000\u0004\u0000S\u00004\u0000#\u0000Contiene fósiles",
+      [],
+      "Contenido desconocido",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "AbyssalChamberTier0",
+      "Cámara abisal",
+      [
+        100
+      ],
+      391,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/AbyssalCity",
+      [],
+      0,
+      "MineEntrance",
+      [],
+      "Contenido desconocido",
+      0,
+      [],
+      [
+        0
+      ],
+      []
+    ],
+    [
+      "AbyssalChamberTier1",
+      "Cámara abisal",
+      [
+        100
+      ],
+      391,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/AbyssalCity",
+      [],
+      1,
+      "\u0001\u0000\u0001\u0000VaalChamberTier2",
+      [],
+      "Contenido desconocido",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "AbyssalChamberTier2",
+      "Cámara abisal",
+      [
+        42500
+      ],
+      391,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/AbyssalCity",
+      [],
+      1,
+      "\u0002\u0000\u0002\u0000Contiene gemas",
+      [],
+      "Contenido desconocido",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "AbyssalChamberTier3",
+      "Cámara abisal",
+      [
+        7500
+      ],
+      391,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/AbyssalCity",
+      [],
+      1,
+      "\u0003\u0000\u0003\u0000VaalChamberTier4",
+      [],
+      "Contenido desconocido",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "AbyssalChamberTier4",
+      "Cámara abisal",
+      [
+        1
+      ],
+      391,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/AbyssalCity",
+      [],
+      1,
+      "\u0004\u0000\u0004\u0000S\u00004\u0000#\u0000Contiene fósiles",
+      [],
+      "Contenido desconocido",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "AbyssalBoss",
+      "La tumba del Liche",
+      [
+        7500,
+        13500
+      ],
+      387,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/BossAbyss",
+      [],
+      1,
+      "\u0002\u0000\u0004\u0000\u0000n\u0000ProtoVaalBoss",
+      [
+        150,
+        110
+      ],
+      "Contenido desconocido",
+      1,
+      [
+        0,
+        4
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "ProtoVaalBoss",
+      "El Trono del Rey de Cristal",
+      [
+        10000,
+        20000
+      ],
+      388,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/BossProtoVaal",
+      [],
+      1,
+      "\u0002\u0000\u0004\u0000\u0000n\u0000ProtoVaalBoss",
+      [
+        250,
+        171
+      ],
+      "Contenido desconocido",
+      1,
+      [
+        0,
+        4
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "VaalBoss",
+      "Templo del Gran Arquitecto",
+      [
+        5000,
+        8000
+      ],
+      386,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/BossVaalCity",
+      [],
+      1,
+      "\u0002\u0000\u0004\u0000\u0000n\u0000ProtoVaalBoss",
+      [
+        83,
+        52,
+        35
+      ],
+      "Contenido desconocido",
+      1,
+      [
+        0,
+        3,
+        4
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "Prospero",
+      "Depósito de Próspero",
+      [
+        100
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Prospero",
+      [],
+      2,
+      "\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000Contiene una fisura",
+      [
+        83,
+        52,
+        35
+      ],
+      "Contenido desconocido",
+      0,
+      [
+        0,
+        3,
+        4
+      ],
+      [
+        0
+      ],
+      [
+        0,
+        4
+      ]
+    ],
+    [
+      "MantleFireWarbands1",
+      "Retiro de los Cuchilla Roja",
+      [
+        100
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/WarbandFire",
+      [],
+      2,
+      "\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000Contiene una fisura",
+      [
+        50
+      ],
+      "Contiene objetos de fuego",
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0,
+        4
+      ]
+    ],
+    [
+      "MantleFireWarbands2",
+      "Base de los Cuchilla Roja",
+      [
+        100
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/WarbandFire",
+      [],
+      2,
+      "\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000Contiene una fisura",
+      [
+        83,
+        52,
+        35
+      ],
+      "Contiene objetos de fuego",
+      0,
+      [
+        0,
+        3,
+        4
+      ],
+      [
+        0
+      ],
+      [
+        0,
+        4
+      ]
+    ],
+    [
+      "IceCavesColdWarbands1",
+      "Retiro de los Viento Mudo",
+      [
+        100
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/WarbandCold",
+      [],
+      2,
+      "\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000Contiene una fisura",
+      [
+        50
+      ],
+      "Contiene objetos de hielo",
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0,
+        4
+      ]
+    ],
+    [
+      "IceCavesColdWarbands2",
+      "Base de los Viento Mudo",
+      [
+        100
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/WarbandCold",
+      [],
+      2,
+      "\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000Contiene una fisura",
+      [
+        83,
+        52,
+        35
+      ],
+      "Contiene objetos de hielo",
+      0,
+      [
+        0,
+        3,
+        4
+      ],
+      [
+        0
+      ],
+      [
+        0,
+        4
+      ]
+    ],
+    [
+      "IceCavesEssence1",
+      "Recoveco helado",
+      [
+        100
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/EssenceEncounter",
+      [],
+      1,
+      "\u0002\u0000\u0002\u0000Contiene gemas",
+      [],
+      "Contiene esencias",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "IceCavesPiratesGeneric",
+      "Recoveco helado",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",
+      [],
+      1,
+      "",
+      [],
+      "Contiene objetos",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "IceCavesPiratesArmour",
+      "Recoveco helado",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",
+      [],
+      1,
+      "",
+      [],
+      "Contiene armaduras",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "IceCavesPiratesWeapon",
+      "Recoveco helado",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",
+      [],
+      1,
+      "",
+      [],
+      "Contiene armas",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "IceCavesPiratesTrinkets",
+      "Recoveco helado",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",
+      [],
+      1,
+      "\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",
+      [],
+      "Contiene joyería",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "IceCavesPiratesCurrency",
+      "Recoveco helado",
+      [
+        150
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",
+      [],
+      1,
+      "\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",
+      [],
+      "Contiene objetos monetarios",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "IceCavesPiratesCold",
+      "Recoveco helado",
+      [
+        100
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Cold",
+      [],
+      2,
+      "\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000Contiene una fisura",
+      [
+        50
+      ],
+      "Contiene objetos de hielo",
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0,
+        4
+      ]
+    ],
+    [
+      "IceCavesCampsiteGeneric",
+      "Campamento inhóspito",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",
+      [],
+      1,
+      "",
+      [],
+      "Contiene objetos",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "IceCavesCampsiteArmour",
+      "Campamento inhóspito",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",
+      [],
+      1,
+      "",
+      [],
+      "Contiene armaduras",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "IceCavesCampsiteWeapon",
+      "Campamento inhóspito",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",
+      [],
+      1,
+      "",
+      [],
+      "Contiene armas",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "IceCavesCampsiteTrinkets",
+      "Campamento inhóspito",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",
+      [],
+      1,
+      "\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",
+      [],
+      "Contiene joyería",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "IceCavesCampsiteCurrency",
+      "Campamento inhóspito",
+      [
+        150
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",
+      [],
+      1,
+      "\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",
+      [],
+      "Contiene objetos monetarios",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "IceCavesCampsiteMaps",
+      "Campamento inhóspito",
+      [
+        75
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Maps",
+      [],
+      1,
+      "\u0003\u0000\u0004\u0000Contiene mapas",
+      [
+        83,
+        52,
+        35
+      ],
+      "Contiene mapas",
+      0,
+      [
+        0,
+        3,
+        4
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "IceCavesSkeletonGeneric",
+      "Tumba congelada",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",
+      [],
+      1,
+      "",
+      [],
+      "Contiene objetos",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "IceCavesSkeletonArmour",
+      "Tumba congelada",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",
+      [],
+      1,
+      "",
+      [],
+      "Contiene armaduras",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "IceCavesSkeletonWeapon",
+      "Tumba congelada",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",
+      [],
+      1,
+      "",
+      [],
+      "Contiene armas",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "IceCavesSkeletonTrinkets",
+      "Tumba congelada",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",
+      [],
+      1,
+      "\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",
+      [],
+      "Contiene joyería",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "IceCavesSkeletonGems",
+      "Tumba congelada",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Gems",
+      [],
+      1,
+      "\u0002\u0000\u0002\u0000Contiene gemas",
+      [],
+      "Contiene gemas",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "IceCavesSkeletonCurrency",
+      "Tumba congelada",
+      [
+        150
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",
+      [],
+      1,
+      "\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",
+      [],
+      "Contiene objetos monetarios",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "IceCavesSkeletonMaps",
+      "Tumba congelada",
+      [
+        75
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Maps",
+      [],
+      1,
+      "\u0003\u0000\u0004\u0000Contiene mapas",
+      [
+        83,
+        52,
+        35
+      ],
+      "Contiene mapas",
+      0,
+      [
+        0,
+        3,
+        4
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "SulphurLightningWarbands1",
+      "Retiro de los Salmuera",
+      [
+        100
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/WarbandLightning",
+      [],
+      2,
+      "\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000Contiene una fisura",
+      [
+        50
+      ],
+      "Contiene objetos de rayo",
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0,
+        4
+      ]
+    ],
+    [
+      "SulphurLightningWarbands2",
+      "Retiro de los Salmuera",
+      [
+        100
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/WarbandLightning",
+      [],
+      2,
+      "\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000Contiene una fisura",
+      [
+        83,
+        52,
+        35
+      ],
+      "Contiene objetos de rayo",
+      0,
+      [
+        0,
+        3,
+        4
+      ],
+      [
+        0
+      ],
+      [
+        0,
+        4
+      ]
+    ],
+    [
+      "SulphurCrabsGeneric",
+      "Colmena húmeda",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",
+      [],
+      1,
+      "",
+      [],
+      "Contiene objetos",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "SulphurCrabsArmour",
+      "Colmena húmeda",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",
+      [],
+      1,
+      "",
+      [],
+      "Contiene armaduras",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "SulphurCrabsWeapon",
+      "Colmena húmeda",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",
+      [],
+      1,
+      "",
+      [],
+      "Contiene armas",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "SulphurCrabsTrinkets",
+      "Colmena húmeda",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",
+      [],
+      1,
+      "\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",
+      [],
+      "Contiene joyería",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "SulphurCrabsCurrency",
+      "Colmena húmeda",
+      [
+        150
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",
+      [],
+      1,
+      "\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",
+      [],
+      "Contiene objetos monetarios",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "SulphurCampsiteGeneric",
+      "Campamento precario",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",
+      [],
+      1,
+      "",
+      [],
+      "Contiene objetos",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "SulphurCampsiteArmour",
+      "Campamento precario",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",
+      [],
+      1,
+      "",
+      [],
+      "Contiene armaduras",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "SulphurCampsiteWeapon",
+      "Campamento precario",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",
+      [],
+      1,
+      "",
+      [],
+      "Contiene armas",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "SulphurCampsiteTrinkets",
+      "Campamento precario",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",
+      [],
+      1,
+      "\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",
+      [],
+      "Contiene joyería",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "SulphurCampsiteCurrency",
+      "Campamento precario",
+      [
+        150
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",
+      [],
+      1,
+      "\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",
+      [],
+      "Contiene objetos monetarios",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "SulphurCampsiteMaps",
+      "Campamento precario",
+      [
+        75
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Maps",
+      [],
+      1,
+      "\u0003\u0000\u0004\u0000Contiene mapas",
+      [
+        83,
+        52,
+        35
+      ],
+      "Contiene mapas",
+      0,
+      [
+        0,
+        3,
+        4
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "SulphurSandTrinkets",
+      "Fumarolas de polvo",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",
+      [],
+      1,
+      "\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",
+      [],
+      "Contiene joyería",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "SulphurSandCurrency",
+      "Fumarolas de polvo",
+      [
+        150
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",
+      [],
+      1,
+      "\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",
+      [],
+      "Contiene objetos monetarios",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "SulphurSandMaps",
+      "Fumarolas de polvo",
+      [
+        75
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Maps",
+      [],
+      1,
+      "\u0003\u0000\u0004\u0000Contiene mapas",
+      [
+        83,
+        52,
+        35
+      ],
+      "Contiene mapas",
+      0,
+      [
+        0,
+        3,
+        4
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "LightningGolemsGeneric",
+      "Escombros inquietos",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",
+      [],
+      1,
+      "",
+      [],
+      "Contiene objetos",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "LightningGolemsGems",
+      "Escombros inquietos",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Gems",
+      [],
+      1,
+      "\u0002\u0000\u0002\u0000Contiene gemas",
+      [],
+      "Contiene gemas",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "LightningGolemsLightning",
+      "Escombros inquietos",
+      [
+        100
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Lightning",
+      [],
+      2,
+      "\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000Contiene una fisura",
+      [
+        50
+      ],
+      "Contiene objetos de rayo",
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0,
+        4
+      ]
+    ],
+    [
+      "CavernsChaosWarbands1",
+      "Campamento de renegados",
+      [
+        100
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/WarbandChaos",
+      [],
+      2,
+      "\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000Contiene una fisura",
+      [
+        83,
+        52,
+        35
+      ],
+      "Contiene objetos de caos",
+      0,
+      [
+        0,
+        3,
+        4
+      ],
+      [
+        0
+      ],
+      [
+        0,
+        4
+      ]
+    ],
+    [
+      "MineSandTrinkets",
+      "Cámara polvorienta",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",
+      [],
+      1,
+      "\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",
+      [],
+      "Contiene joyería",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MineSandCurrency",
+      "Cámara polvorienta",
+      [
+        150
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",
+      [],
+      1,
+      "\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",
+      [],
+      "Contiene objetos monetarios",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MineAnimatedWeapon",
+      "Caverna resonante",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",
+      [],
+      1,
+      "",
+      [],
+      "Contiene armas",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MineAnimatedArmour",
+      "Caverna resonante",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",
+      [],
+      1,
+      "",
+      [],
+      "Contiene armaduras",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MineSkeletonGeneric",
+      "Campamento enterrado",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",
+      [],
+      1,
+      "",
+      [],
+      "Contiene objetos",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MineSkeletonArmour",
+      "Campamento enterrado",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",
+      [],
+      1,
+      "",
+      [],
+      "Contiene armaduras",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MineSkeletonWeapon",
+      "Campamento enterrado",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",
+      [],
+      1,
+      "",
+      [],
+      "Contiene armas",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MineSkeletonTrinkets",
+      "Campamento enterrado",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",
+      [],
+      1,
+      "\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",
+      [],
+      "Contiene joyería",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MineSkeletonGems",
+      "Campamento enterrado",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Gems",
+      [],
+      1,
+      "\u0002\u0000\u0002\u0000Contiene gemas",
+      [],
+      "Contiene gemas",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MineSkeletonCurrency",
+      "Campamento enterrado",
+      [
+        150
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",
+      [],
+      1,
+      "\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",
+      [],
+      "Contiene objetos monetarios",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MineRockGolemGeneric",
+      "Escombros inquietos",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",
+      [],
+      1,
+      "",
+      [],
+      "Contiene objetos",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MineRockGolemGems",
+      "Escombros inquietos",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Gems",
+      [],
+      1,
+      "\u0002\u0000\u0002\u0000Contiene gemas",
+      [],
+      "Contiene gemas",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MineChaosGolemGeneric",
+      "Escombros inquietos",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",
+      [],
+      1,
+      "",
+      [],
+      "Contiene objetos",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MineChaosGolemGems",
+      "Escombros inquietos",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Gems",
+      [],
+      1,
+      "\u0002\u0000\u0002\u0000Contiene gemas",
+      [],
+      "Contiene gemas",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MineAmplifierGeneric",
+      "Amplificador abandonado",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",
+      [],
+      1,
+      "",
+      [],
+      "Contiene objetos",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MineAmplifierArmour",
+      "Amplificador abandonado",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",
+      [],
+      1,
+      "",
+      [],
+      "Contiene armaduras",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MineAmplifierWeapons",
+      "Amplificador abandonado",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",
+      [],
+      1,
+      "",
+      [],
+      "Contiene armas",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MineAmplifierTrinkets",
+      "Amplificador abandonado",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",
+      [],
+      1,
+      "\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",
+      [],
+      "Contiene joyería",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MineAmplifierGems",
+      "Amplificador abandonado",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Gems",
+      [],
+      1,
+      "\u0002\u0000\u0002\u0000Contiene gemas",
+      [],
+      "Contiene gemas",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MineAmplifierCurrency",
+      "Amplificador abandonado",
+      [
+        150
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",
+      [],
+      1,
+      "\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",
+      [],
+      "Contiene objetos monetarios",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MineSpiderGeneric",
+      "Mina arácnida",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",
+      [],
+      1,
+      "",
+      [],
+      "Contiene objetos",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MineSpiderTrinkets",
+      "Mina arácnida",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",
+      [],
+      1,
+      "\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",
+      [],
+      "Contiene joyería",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MineSpiderCurrency",
+      "Mina arácnida",
+      [
+        150
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",
+      [],
+      1,
+      "\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",
+      [],
+      "Contiene objetos monetarios",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MineCampsiteGeneric",
+      "Campamento abandonado",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",
+      [],
+      1,
+      "",
+      [],
+      "Contiene objetos",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MineCampsiteArmour",
+      "Campamento abandonado",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",
+      [],
+      1,
+      "",
+      [],
+      "Contiene armaduras",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MineCampsiteWeapon",
+      "Campamento abandonado",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",
+      [],
+      1,
+      "",
+      [],
+      "Contiene armas",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MineCampsiteTrinkets",
+      "Campamento abandonado",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",
+      [],
+      1,
+      "\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",
+      [],
+      "Contiene joyería",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "MineCampsiteCurrency",
+      "Campamento abandonado",
+      [
+        150
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",
+      [],
+      1,
+      "\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",
+      [],
+      "Contiene objetos monetarios",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "Beyond",
+      "Gruta pulsante",
+      [
+        100
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Beyond",
+      [],
+      1,
+      "\u0002\u0000\u0002\u0000Contiene gemas",
+      [
+        10
+      ],
+      "Contiene monstruos del más allá",
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "ForestRhoaGeneric",
+      "Zona de anidación",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",
+      [],
+      1,
+      "",
+      [],
+      "Contiene objetos",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "ForestRhoaArmour",
+      "Zona de anidación",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",
+      [],
+      1,
+      "",
+      [],
+      "Contiene armaduras",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "ForestRhoaWeapon",
+      "Zona de anidación",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",
+      [],
+      1,
+      "",
+      [],
+      "Contiene armas",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "ForestRhoaTrinkets",
+      "Zona de anidación",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",
+      [],
+      1,
+      "\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",
+      [],
+      "Contiene joyería",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "ForestRhoaCurrency",
+      "Zona de anidación",
+      [
+        150
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",
+      [],
+      1,
+      "\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",
+      [],
+      "Contiene objetos monetarios",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "ForestRhoaBlood",
+      "Zona de anidación",
+      [
+        100
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Blood",
+      [],
+      2,
+      "\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000Contiene una fisura",
+      [
+        50
+      ],
+      "Contiene objetos físicos",
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0,
+        4
+      ]
+    ],
+    [
+      "ForestCampsiteGeneric",
+      "Campamento muerto",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",
+      [],
+      1,
+      "",
+      [],
+      "Contiene objetos",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "ForestCampsiteArmour",
+      "Campamento muerto",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",
+      [],
+      1,
+      "",
+      [],
+      "Contiene armaduras",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "ForestCampsiteWeapon",
+      "Campamento muerto",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",
+      [],
+      1,
+      "",
+      [],
+      "Contiene armas",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "ForestCampsiteTrinkets",
+      "Campamento muerto",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",
+      [],
+      1,
+      "\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",
+      [],
+      "Contiene joyería",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "ForestCampsiteCurrency",
+      "Campamento muerto",
+      [
+        150
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",
+      [],
+      1,
+      "\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",
+      [],
+      "Contiene objetos monetarios",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "ForestCampsiteMaps",
+      "Campamento muerto",
+      [
+        75
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Maps",
+      [],
+      1,
+      "\u0003\u0000\u0004\u0000Contiene mapas",
+      [
+        83,
+        52,
+        35
+      ],
+      "Contiene mapas",
+      0,
+      [
+        0,
+        3,
+        4
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "ForestTalisman",
+      "Tierras de ritual",
+      [
+        100
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Talisman",
+      [],
+      2,
+      "\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000Contiene una fisura",
+      [],
+      "Contiene talismanes",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0,
+        4
+      ]
+    ],
+    [
+      "ForestSandTrinkets",
+      "Arboleda polvorienta",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",
+      [],
+      1,
+      "\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",
+      [],
+      "Contiene joyería",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "ForestSandCurrency",
+      "Arboleda polvorienta",
+      [
+        150
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",
+      [],
+      1,
+      "\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",
+      [],
+      "Contiene objetos monetarios",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "ForestSandMaps",
+      "Arboleda polvorienta",
+      [
+        75
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Maps",
+      [],
+      1,
+      "\u0003\u0000\u0004\u0000Contiene mapas",
+      [
+        83,
+        52,
+        35
+      ],
+      "Contiene mapas",
+      0,
+      [
+        0,
+        3,
+        4
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "ForestNecromancerGeneric",
+      "Cadáver sombrío",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",
+      [],
+      1,
+      "",
+      [],
+      "Contiene objetos",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "ForestNecromancerTinkets",
+      "Cadáver sombrío",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",
+      [],
+      1,
+      "\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",
+      [],
+      "Contiene joyería",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "ForestNecromancerCurrency",
+      "Cadáver sombrío",
+      [
+        150
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",
+      [],
+      1,
+      "\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",
+      [],
+      "Contiene objetos monetarios",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "ForestNecromancerMinions",
+      "Cadáver sombrío",
+      [
+        100
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Minion",
+      [],
+      2,
+      "\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000Contiene una fisura",
+      [
+        50
+      ],
+      "Contiene objetos de esbirros o auras",
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0,
+        4
+      ]
+    ],
+    [
+      "ForestDropbearsGeneric",
+      "Arboleda rugiente",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",
+      [],
+      1,
+      "",
+      [],
+      "Contiene objetos",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "ForestDropbearsArmour",
+      "Arboleda rugiente",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",
+      [],
+      1,
+      "",
+      [],
+      "Contiene armaduras",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "ForestDropbearsWeapon",
+      "Arboleda rugiente",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",
+      [],
+      1,
+      "",
+      [],
+      "Contiene armas",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "ForestDropbearsTrinkets",
+      "Arboleda rugiente",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",
+      [],
+      1,
+      "\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",
+      [],
+      "Contiene joyería",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "ForestDropbearsCurrency",
+      "Arboleda rugiente",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",
+      [],
+      1,
+      "\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",
+      [],
+      "Contiene objetos monetarios",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "ForestDevourersGeneric",
+      "Matorral infestado",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",
+      [],
+      1,
+      "",
+      [],
+      "Contiene objetos",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "ForestDevourersArmour",
+      "Matorral infestado",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",
+      [],
+      1,
+      "",
+      [],
+      "Contiene armaduras",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "ForestDevourersWeapon",
+      "Matorral infestado",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",
+      [],
+      1,
+      "",
+      [],
+      "Contiene armas",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "ForestDevourersTrinkets",
+      "Matorral infestado",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",
+      [],
+      1,
+      "\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",
+      [],
+      "Contiene joyería",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "ForestDevourersCurrency",
+      "Matorral infestado",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",
+      [],
+      1,
+      "\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",
+      [],
+      "Contiene objetos monetarios",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "CavernsNecromancerGeneric",
+      "Excavación del Nigromante",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",
+      [],
+      1,
+      "",
+      [],
+      "Contiene objetos",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "CavernsNecromancerTrinkets",
+      "Excavación del Nigromante",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",
+      [],
+      1,
+      "\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",
+      [],
+      "Contiene joyería",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "CavernsNecromancerCurrency",
+      "Excavación del Nigromante",
+      [
+        150
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",
+      [],
+      1,
+      "\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",
+      [],
+      "Contiene objetos monetarios",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "CavernsNecromancerMinions",
+      "Excavación del Nigromante",
+      [
+        100
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Minion",
+      [],
+      2,
+      "\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000Contiene una fisura",
+      [
+        50
+      ],
+      "Contiene objetos de esbirros o auras",
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0,
+        4
+      ]
+    ],
+    [
+      "CavernsBeastGeneric",
+      "Madriguera de la bestia",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",
+      [],
+      1,
+      "",
+      [],
+      "Contiene objetos",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "CavernsBeastArmour",
+      "Madriguera de la bestia",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",
+      [],
+      1,
+      "",
+      [],
+      "Contiene armaduras",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "CavernsBeastWeapon",
+      "Madriguera de la bestia",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",
+      [],
+      1,
+      "",
+      [],
+      "Contiene armas",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "CavernsBeastTrinkets",
+      "Madriguera de la bestia",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",
+      [],
+      1,
+      "\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",
+      [],
+      "Contiene joyería",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "CavernsBeastCurrency",
+      "Madriguera de la bestia",
+      [
+        150
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",
+      [],
+      1,
+      "\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",
+      [],
+      "Contiene objetos monetarios",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "CavernsBeastMinions",
+      "Madriguera de la bestia",
+      [
+        100
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Minion",
+      [],
+      2,
+      "\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000Contiene una fisura",
+      [
+        50
+      ],
+      "Contiene objetos de esbirros o auras",
+      0,
+      [
+        1
+      ],
+      [
+        0
+      ],
+      [
+        0,
+        4
+      ]
+    ],
+    [
+      "CavernsMossMonsterGeneric",
+      "Pedruscos durmientes",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",
+      [],
+      1,
+      "",
+      [],
+      "Contiene objetos",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "CavernsMossMonsterTrinkets",
+      "Pedruscos durmientes",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",
+      [],
+      1,
+      "\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",
+      [],
+      "Contiene joyería",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "CavernsMossMonsterCurrency",
+      "Pedruscos durmientes",
+      [
+        150
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",
+      [],
+      1,
+      "\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",
+      [],
+      "Contiene objetos monetarios",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "CavernsMossMonsterGems",
+      "Pedruscos durmientes",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Gems",
+      [],
+      1,
+      "\u0002\u0000\u0002\u0000Contiene gemas",
+      [],
+      "Contiene gemas",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "CavernsRockGolemGeneric",
+      "Escombros inquietos",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",
+      [],
+      1,
+      "",
+      [],
+      "Contiene objetos",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "CavernsRockGolemGems",
+      "Escombros inquietos",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Gems",
+      [],
+      1,
+      "\u0002\u0000\u0002\u0000Contiene gemas",
+      [],
+      "Contiene gemas",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "CavernsChaosGolemGeneric",
+      "Escombros inquietos",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",
+      [],
+      1,
+      "",
+      [],
+      "Contiene objetos",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "CavernsChaosGolemGems",
+      "Escombros inquietos",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Gems",
+      [],
+      1,
+      "\u0002\u0000\u0002\u0000Contiene gemas",
+      [],
+      "Contiene gemas",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "CavernsChaosGolemChaos",
+      "Escombros inquietos",
+      [
+        100
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chaos",
+      [],
+      2,
+      "\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000Contiene una fisura",
+      [
+        50
+      ],
+      "Contiene objetos de caos",
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0,
+        4
+      ]
+    ],
+    [
+      "Strongbox",
+      "Alijo subterráneo",
+      [
+        100
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Strongbox",
+      [],
+      2,
+      "\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000Contiene una fisura",
+      [],
+      "Contiene cajas fuertes",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0,
+        4
+      ]
+    ],
+    [
+      "CavernsBestiaryYellow",
+      "Guarida resonante",
+      [
+        100
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Bestiary",
+      [],
+      2,
+      "\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000Contiene una fisura",
+      [
+        50
+      ],
+      "contiene objetos animalísticos",
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0,
+        4
+      ]
+    ],
+    [
+      "CavernsBestiaryRed",
+      "Guarida resonante",
+      [
+        100
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Bestiary",
+      [],
+      2,
+      "\u0004\u0000\u0004\u0000\u0003\u0000\u0004\u0000CavernsCampsiteGeneric",
+      [
+        50
+      ],
+      "contiene objetos animalísticos",
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0,
+        4
+      ]
+    ],
+    [
+      "CavernsCampsiteGeneric",
+      "Campamento enmohecido",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",
+      [],
+      1,
+      "",
+      [],
+      "Contiene objetos",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "CavernsCampsiteArmour",
+      "Campamento enmohecido",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",
+      [],
+      1,
+      "",
+      [],
+      "Contiene armaduras",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "CavernsCampsiteWeapons",
+      "Campamento enmohecido",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",
+      [],
+      1,
+      "",
+      [],
+      "Contiene armas",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "CavernsCampsiteTrinkets",
+      "Campamento enmohecido",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",
+      [],
+      1,
+      "\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",
+      [],
+      "Contiene joyería",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "CavernsCampsiteCurrency",
+      "Campamento enmohecido",
+      [
+        150
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",
+      [],
+      1,
+      "\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",
+      [],
+      "Contiene objetos monetarios",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "CavernsSkeletonGeneric",
+      "Tumba mohosa",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",
+      [],
+      1,
+      "",
+      [],
+      "Contiene objetos",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "CavernsSkeletonArmour",
+      "Tumba mohosa",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",
+      [],
+      1,
+      "",
+      [],
+      "Contiene armaduras",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "CavernsSkeletonWeapon",
+      "Tumba mohosa",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",
+      [],
+      1,
+      "",
+      [],
+      "Contiene armas",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "CavernsSkeletonTrinkets",
+      "Tumba mohosa",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",
+      [],
+      1,
+      "\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",
+      [],
+      "Contiene joyería",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "CavernsSkeletonGems",
+      "Tumba mohosa",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Gems",
+      [],
+      1,
+      "\u0002\u0000\u0002\u0000Contiene gemas",
+      [],
+      "Contiene gemas",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "CavernsSkeletonCurrency",
+      "Tumba mohosa",
+      [
+        150
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",
+      [],
+      1,
+      "\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",
+      [],
+      "Contiene objetos monetarios",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "CavernsSkeletonMaps",
+      "Tumba mohosa",
+      [
+        75
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Maps",
+      [],
+      1,
+      "\u0003\u0000\u0004\u0000Contiene mapas",
+      [
+        83,
+        52,
+        35
+      ],
+      "Contiene mapas",
+      0,
+      [
+        0,
+        3,
+        4
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "CavernsDropbearsGeneric",
+      "Guarida rugiente",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",
+      [],
+      1,
+      "",
+      [],
+      "Contiene objetos",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "CavernsDropbearsArmour",
+      "Guarida rugiente",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",
+      [],
+      1,
+      "",
+      [],
+      "Contiene armaduras",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "CavernsDropbearsWeapon",
+      "Guarida rugiente",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",
+      [],
+      1,
+      "",
+      [],
+      "Contiene armas",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "CavernsDropbearsTrinkets",
+      "Guarida rugiente",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",
+      [],
+      1,
+      "\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",
+      [],
+      "Contiene joyería",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "CavernsDropbearsCurrency",
+      "Guarida rugiente",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",
+      [],
+      1,
+      "\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",
+      [],
+      "Contiene objetos monetarios",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "CavernsDevourersGeneric",
+      "Túneles infestados",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",
+      [],
+      1,
+      "",
+      [],
+      "Contiene objetos",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "CavernsDevourersArmour",
+      "Túneles infestados",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",
+      [],
+      1,
+      "",
+      [],
+      "Contiene armaduras",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "CavernsDevourersWeapon",
+      "Túneles infestados",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",
+      [],
+      1,
+      "",
+      [],
+      "Contiene armas",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "CavernsDevourersTrinkets",
+      "Túneles infestados",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",
+      [],
+      1,
+      "\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",
+      [],
+      "Contiene joyería",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "CavernsDevourersCurrency",
+      "Túneles infestados",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",
+      [],
+      1,
+      "\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",
+      [],
+      "Contiene objetos monetarios",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "AbyssalDepthsGhostGeneric",
+      "Restos embrujados",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",
+      [],
+      1,
+      "",
+      [
+        42
+      ],
+      "Contiene objetos",
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "AbyssalDepthsGhostArmour",
+      "Restos embrujados",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",
+      [],
+      1,
+      "",
+      [
+        42
+      ],
+      "Contiene armaduras",
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "AbyssalDepthsGhostWeapons",
+      "Restos embrujados",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",
+      [],
+      1,
+      "",
+      [
+        42
+      ],
+      "Contiene armas",
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "AbyssalDepthsGhostTrinkets",
+      "Restos embrujados",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",
+      [],
+      1,
+      "\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",
+      [
+        42
+      ],
+      "Contiene joyería",
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "AbyssalDepthsGhostCurrency",
+      "Restos embrujados",
+      [
+        150
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",
+      [],
+      1,
+      "\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",
+      [
+        42
+      ],
+      "Contiene objetos monetarios",
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "AbyssalDepthsGhostCurse",
+      "Restos embrujados",
+      [
+        100
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Curse",
+      [],
+      2,
+      "\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000Contiene una fisura",
+      [
+        50
+      ],
+      "Contiene objetos de maná o maldiciones",
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0,
+        4
+      ]
+    ],
+    [
+      "AbyssalDepthsAbyss",
+      "Restos embrujados",
+      [
+        100
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/AbyssEncounter",
+      [],
+      2,
+      "\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000Contiene una fisura",
+      [
+        50
+      ],
+      "Contiene objetos de abismo",
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0,
+        4
+      ]
+    ],
+    [
+      "AbyssalDepthsCampsiteGeneric",
+      "Campamento devastado",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",
+      [],
+      1,
+      "",
+      [],
+      "Contiene objetos",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "AbyssalDepthsCampsiteArmour",
+      "Campamento devastado",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Armour",
+      [],
+      1,
+      "",
+      [],
+      "Contiene armaduras",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "AbyssalDepthsCampsiteWeapon",
+      "Campamento devastado",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Weapons",
+      [],
+      1,
+      "",
+      [],
+      "Contiene armas",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "AbyssalDepthsCampsiteTrinkets",
+      "Campamento devastado",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",
+      [],
+      1,
+      "\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",
+      [],
+      "Contiene joyería",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "AbyssalDepthsCampsiteCurrency",
+      "Campamento devastado",
+      [
+        150
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",
+      [],
+      1,
+      "\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",
+      [],
+      "Contiene objetos monetarios",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "AbyssalDepthsCampsiteMaps",
+      "Campamento devastado",
+      [
+        75
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Maps",
+      [],
+      1,
+      "\u0003\u0000\u0004\u0000Contiene mapas",
+      [
+        83,
+        52,
+        35
+      ],
+      "Contiene mapas",
+      0,
+      [
+        0,
+        3,
+        4
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "AbyssalDepthsNecromancerGeneric",
+      "Excavación del Nigromante",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Chest",
+      [],
+      1,
+      "",
+      [],
+      "Contiene objetos",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "AbyssalDepthsNecromancerTrinkets",
+      "Excavación del Nigromante",
+      [
+        200
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Trinkets",
+      [],
+      1,
+      "\u0001\u0000\u0002\u0000\u0014\u0000Azurite2_2",
+      [],
+      "Contiene joyería",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "AbyssalDepthsNecromancerCurrency",
+      "Excavación del Nigromante",
+      [
+        150
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Currency",
+      [],
+      1,
+      "\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",
+      [],
+      "Contiene objetos monetarios",
+      0,
+      [],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      "AbyssalDepthsNecromancerMinions",
+      "Excavación del Nigromante",
+      [
+        100
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Minion",
+      [],
+      2,
+      "\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000Contiene una fisura",
+      [
+        50
+      ],
+      "Contiene objetos de esbirros o auras",
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0,
+        4
+      ]
+    ],
+    [
+      "AbyssalDepthsCultists",
+      "Santuario innombrable",
+      [
+        100
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/AbyssEncounter",
+      [],
+      2,
+      "\u0003\u0000\u0003\u0000\u0002\u0000\u0003\u0000\n\u0000Contiene una fisura",
+      [
+        50
+      ],
+      "Contiene objetos de abismo",
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0,
+        4
+      ]
+    ],
+    [
+      "Legion",
+      "Monolito enterrado",
+      [
+        100
+      ],
+      null,
+      "Art/2DArt/UIImages/InGame/Delve/MapEncounters/Legion",
+      [],
+      1,
+      "\u0002\u0000\u0003\u0000(\u0000#\u0000Azurite3_2",
+      [
+        0,
+        35
+      ],
+      "Contiene un encuentro de Legion",
+      0,
+      [
+        4,
+        5
+      ],
+      [
+        4
+      ],
+      [
+        4
+      ]
+    ]
+  ]
+}

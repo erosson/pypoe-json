@@ -1,1 +1,400 @@
-{"filename":"UniqueMaps.dat","header":[{"name":"ItemVisualIdentityKey","rowid":0,"type":"ulong","key":"ItemVisualIdentity.dat","key_id":null,"key_offset":0,"enum":null,"unique":true,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"WorldAreasKey","rowid":1,"type":"ulong","key":"WorldAreas.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"WordsKey","rowid":2,"type":"ulong","key":"Words.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"FlavourTextKey","rowid":3,"type":"ulong","key":"FlavourText.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"HasGuildCharacter","rowid":4,"type":"bool","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"GuildCharacter","rowid":5,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Name","rowid":6,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[[5440,1146,97,79,false,"g","앗지리의 금고실(Vaults of Atziri)"],[6248,1124,148,149,false,"Ç","혼돈의 마엘스트롬 (Maelstrom of Chaos)"],[6267,1180,152,153,false,"Å","겁쟁이의 시험(The Coward's Trial)"],[6310,1197,154,159,false,"Ô","액턴의 악몽(Acton's Nightmare)"],[6343,1166,184,191,false,"ß","푸어조이의 은신처(Poorjoy's Asylum)"],[6360,1153,207,209,false,"À","마오 쿤(Mao Kun)"],[6364,1202,211,213,false,"#","오바의 저주받은 전리품(Oba's Cursed Trove)"],[6421,1136,214,216,false,"$","올멕의 지성소(Olmec's Sanctum)"],[6422,1155,215,217,true,"","때묻지 않은 낙원(Untainted Paradise)"],[6575,1204,301,303,false,"¿","죽음과 의무(Death and Taxes)"],[6725,1096,363,390,false,"È","와카와 투아후(Whakawairua Tuahu)"],[7277,1183,386,413,false,"Ù","명인의 전당(Hall of Grandmasters)"],[7278,1150,587,573,false,"²","빙타 광장(The Vinktar Square)"],[8439,1138,643,802,false,"æ","캐어블레이드 늑대의 소굴(Caer Blaidd, Wolfpack's Den)"],[8508,1098,700,889,false,"™","페란두스 저택(The Perandus Manor)"],[8823,1169,784,1045,false,"Õ","악취 나는 수도원(The Putrid Cloister)"],[8824,1126,786,1047,false,"Ð","거룩한 대지(Hallowed Ground)"],[9042,1234,927,1377,true,"","교두보(The Beachhead)"],[9043,1235,927,1377,true,"","교두보(The Beachhead)"],[9044,1236,927,1377,true,"","교두보(The Beachhead)"],[9046,1158,929,1398,false,"^","황혼의 사원(The Twilight Temple)"],[9047,1108,933,1399,false,"‹","도리아니의 기계실(Doryani's Machinarium)"],[9048,1134,937,1400,false,"›","아룬의 기둥(Pillars of Arun)"],[9612,441,1157,1827,true,"","뒤바뀐 희미한 기억(Altered Distant Memory)"],[9613,442,1158,1828,true,"","강화된 희미한 기억(Augmented Distant Memory)"],[9614,443,1159,1829,true,"","뒤틀린 희미한 기억(Twisted Distant Memory)"],[9615,444,1160,1830,true,"","다시 쓰인 희미한 기억(Rewritten Distant Memory)"],[9616,440,1161,1831,true,"","코텍스(Cortex)"],[9045,1237,1248,1377,true,"","주입된 교두보(Infused Beachhead)"],[9617,440,1162,1831,true,"","코텍스"],[9049,1134,938,1400,false,"","아룬의 기둥(Pillars of Arun)"],[6344,1166,185,191,false,"","푸어조이의 은신처(Poorjoy's Asylum)"]]}
+{
+  "filename": "UniqueMaps.dat",
+  "header": [
+    {
+      "name": "ItemVisualIdentityKey",
+      "rowid": 0,
+      "type": "ulong",
+      "key": "ItemVisualIdentity.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "WorldAreasKey",
+      "rowid": 1,
+      "type": "ulong",
+      "key": "WorldAreas.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "WordsKey",
+      "rowid": 2,
+      "type": "ulong",
+      "key": "Words.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "FlavourTextKey",
+      "rowid": 3,
+      "type": "ulong",
+      "key": "FlavourText.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "HasGuildCharacter",
+      "rowid": 4,
+      "type": "bool",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "GuildCharacter",
+      "rowid": 5,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Name",
+      "rowid": 6,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      5440,
+      1146,
+      97,
+      79,
+      false,
+      "g",
+      "앗지리의 금고실(Vaults of Atziri)"
+    ],
+    [
+      6248,
+      1124,
+      148,
+      149,
+      false,
+      "Ç",
+      "혼돈의 마엘스트롬 (Maelstrom of Chaos)"
+    ],
+    [
+      6267,
+      1180,
+      152,
+      153,
+      false,
+      "Å",
+      "겁쟁이의 시험(The Coward's Trial)"
+    ],
+    [
+      6310,
+      1197,
+      154,
+      159,
+      false,
+      "Ô",
+      "액턴의 악몽(Acton's Nightmare)"
+    ],
+    [
+      6343,
+      1166,
+      184,
+      191,
+      false,
+      "ß",
+      "푸어조이의 은신처(Poorjoy's Asylum)"
+    ],
+    [
+      6360,
+      1153,
+      207,
+      209,
+      false,
+      "À",
+      "마오 쿤(Mao Kun)"
+    ],
+    [
+      6364,
+      1202,
+      211,
+      213,
+      false,
+      "#",
+      "오바의 저주받은 전리품(Oba's Cursed Trove)"
+    ],
+    [
+      6421,
+      1136,
+      214,
+      216,
+      false,
+      "$",
+      "올멕의 지성소(Olmec's Sanctum)"
+    ],
+    [
+      6422,
+      1155,
+      215,
+      217,
+      true,
+      "",
+      "때묻지 않은 낙원(Untainted Paradise)"
+    ],
+    [
+      6575,
+      1204,
+      301,
+      303,
+      false,
+      "¿",
+      "죽음과 의무(Death and Taxes)"
+    ],
+    [
+      6725,
+      1096,
+      363,
+      390,
+      false,
+      "È",
+      "와카와 투아후(Whakawairua Tuahu)"
+    ],
+    [
+      7277,
+      1183,
+      386,
+      413,
+      false,
+      "Ù",
+      "명인의 전당(Hall of Grandmasters)"
+    ],
+    [
+      7278,
+      1150,
+      587,
+      573,
+      false,
+      "²",
+      "빙타 광장(The Vinktar Square)"
+    ],
+    [
+      8439,
+      1138,
+      643,
+      802,
+      false,
+      "æ",
+      "캐어블레이드 늑대의 소굴(Caer Blaidd, Wolfpack's Den)"
+    ],
+    [
+      8508,
+      1098,
+      700,
+      889,
+      false,
+      "™",
+      "페란두스 저택(The Perandus Manor)"
+    ],
+    [
+      8823,
+      1169,
+      784,
+      1045,
+      false,
+      "Õ",
+      "악취 나는 수도원(The Putrid Cloister)"
+    ],
+    [
+      8824,
+      1126,
+      786,
+      1047,
+      false,
+      "Ð",
+      "거룩한 대지(Hallowed Ground)"
+    ],
+    [
+      9042,
+      1234,
+      927,
+      1377,
+      true,
+      "",
+      "교두보(The Beachhead)"
+    ],
+    [
+      9043,
+      1235,
+      927,
+      1377,
+      true,
+      "",
+      "교두보(The Beachhead)"
+    ],
+    [
+      9044,
+      1236,
+      927,
+      1377,
+      true,
+      "",
+      "교두보(The Beachhead)"
+    ],
+    [
+      9046,
+      1158,
+      929,
+      1398,
+      false,
+      "^",
+      "황혼의 사원(The Twilight Temple)"
+    ],
+    [
+      9047,
+      1108,
+      933,
+      1399,
+      false,
+      "‹",
+      "도리아니의 기계실(Doryani's Machinarium)"
+    ],
+    [
+      9048,
+      1134,
+      937,
+      1400,
+      false,
+      "›",
+      "아룬의 기둥(Pillars of Arun)"
+    ],
+    [
+      9612,
+      441,
+      1157,
+      1827,
+      true,
+      "",
+      "뒤바뀐 희미한 기억(Altered Distant Memory)"
+    ],
+    [
+      9613,
+      442,
+      1158,
+      1828,
+      true,
+      "",
+      "강화된 희미한 기억(Augmented Distant Memory)"
+    ],
+    [
+      9614,
+      443,
+      1159,
+      1829,
+      true,
+      "",
+      "뒤틀린 희미한 기억(Twisted Distant Memory)"
+    ],
+    [
+      9615,
+      444,
+      1160,
+      1830,
+      true,
+      "",
+      "다시 쓰인 희미한 기억(Rewritten Distant Memory)"
+    ],
+    [
+      9616,
+      440,
+      1161,
+      1831,
+      true,
+      "",
+      "코텍스(Cortex)"
+    ],
+    [
+      9045,
+      1237,
+      1248,
+      1377,
+      true,
+      "",
+      "주입된 교두보(Infused Beachhead)"
+    ],
+    [
+      9617,
+      440,
+      1162,
+      1831,
+      true,
+      "",
+      "코텍스"
+    ],
+    [
+      9049,
+      1134,
+      938,
+      1400,
+      false,
+      "",
+      "아룬의 기둥(Pillars of Arun)"
+    ],
+    [
+      6344,
+      1166,
+      185,
+      191,
+      false,
+      "",
+      "푸어조이의 은신처(Poorjoy's Asylum)"
+    ]
+  ]
+}

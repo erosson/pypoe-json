@@ -1,1 +1,172 @@
-{"filename":"AfflictionRewardTypeVisuals.dat","header":[{"name":"AfflictionRewardTypes","rowid":0,"type":"int","key":"AfflictionRewardTypes.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Id","rowid":1,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":true,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Name","rowid":2,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[[0,"DeliriumRewardCurrency","เคอเรนซี่"],[1,"DeliriumRewardUniques","ไอเทมยูนิค"],[2,"DeliriumRewardGems","หินสกิล"],[3,"DeliriumRewardMaps","ไอเทมแผนที่"],[4,"DeliriumRewardTrinkets","เครื่องประดับ"],[5,"DeliriumRewardArmour","ชุดเกราะ"],[6,"DeliriumRewardWeapon","อาวุธ"],[7,"DeliriumRewardAbyss","ไอเทมขุมอะบิส"],[8,"DeliriumRewardPerandus","ไอเทมเพรันดัส"],[9,"DeliriumRewardHarbinger","ไอเทมฮาร์บินเจอร์"],[10,"DeliriumRewardBreach","ไอเทมบรีช"],[11,"DeliriumRewardEssences","เอสเซ้นส์"],[12,"DeliriumRewardEssences","เอสเซ้นส์"],[13,"DeliriumRewardFragments","ชิ้นส่วนต่างๆ"],[14,"DeliriumRewardScarabs","แมลงซแคแร็บ"],[15,"DeliriumRewardFossils","ฟอสซิล"],[16,"DeliriumRewardProphecies","ไอเทมคำทำนาย"],[17,"DeliriumRewardDivination","ไพ่พยากรณ์"],[18,"DeliriumRewardGeneric","ไอเทมเบ็ดเตล็ด"],[19,"DeliriumRewardTalismans","สร้อยเครื่องราง"],[20,"DeliriumRewardLabyrinth","ไอเทมจากเขาวงกต"],[22,"DeliriumRewardIncubators","ตัวบ่มฟัก"],[23,"DeliriumRewardBlight","ไอเทมไบล์ท"],[24,"DeliriumRewardMetamorph","ตัวเร่งปฏิกิริยา"]]}
+{
+  "filename": "AfflictionRewardTypeVisuals.dat",
+  "header": [
+    {
+      "name": "AfflictionRewardTypes",
+      "rowid": 0,
+      "type": "int",
+      "key": "AfflictionRewardTypes.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Id",
+      "rowid": 1,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Name",
+      "rowid": 2,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      0,
+      "DeliriumRewardCurrency",
+      "เคอเรนซี่"
+    ],
+    [
+      1,
+      "DeliriumRewardUniques",
+      "ไอเทมยูนิค"
+    ],
+    [
+      2,
+      "DeliriumRewardGems",
+      "หินสกิล"
+    ],
+    [
+      3,
+      "DeliriumRewardMaps",
+      "ไอเทมแผนที่"
+    ],
+    [
+      4,
+      "DeliriumRewardTrinkets",
+      "เครื่องประดับ"
+    ],
+    [
+      5,
+      "DeliriumRewardArmour",
+      "ชุดเกราะ"
+    ],
+    [
+      6,
+      "DeliriumRewardWeapon",
+      "อาวุธ"
+    ],
+    [
+      7,
+      "DeliriumRewardAbyss",
+      "ไอเทมขุมอะบิส"
+    ],
+    [
+      8,
+      "DeliriumRewardPerandus",
+      "ไอเทมเพรันดัส"
+    ],
+    [
+      9,
+      "DeliriumRewardHarbinger",
+      "ไอเทมฮาร์บินเจอร์"
+    ],
+    [
+      10,
+      "DeliriumRewardBreach",
+      "ไอเทมบรีช"
+    ],
+    [
+      11,
+      "DeliriumRewardEssences",
+      "เอสเซ้นส์"
+    ],
+    [
+      12,
+      "DeliriumRewardEssences",
+      "เอสเซ้นส์"
+    ],
+    [
+      13,
+      "DeliriumRewardFragments",
+      "ชิ้นส่วนต่างๆ"
+    ],
+    [
+      14,
+      "DeliriumRewardScarabs",
+      "แมลงซแคแร็บ"
+    ],
+    [
+      15,
+      "DeliriumRewardFossils",
+      "ฟอสซิล"
+    ],
+    [
+      16,
+      "DeliriumRewardProphecies",
+      "ไอเทมคำทำนาย"
+    ],
+    [
+      17,
+      "DeliriumRewardDivination",
+      "ไพ่พยากรณ์"
+    ],
+    [
+      18,
+      "DeliriumRewardGeneric",
+      "ไอเทมเบ็ดเตล็ด"
+    ],
+    [
+      19,
+      "DeliriumRewardTalismans",
+      "สร้อยเครื่องราง"
+    ],
+    [
+      20,
+      "DeliriumRewardLabyrinth",
+      "ไอเทมจากเขาวงกต"
+    ],
+    [
+      22,
+      "DeliriumRewardIncubators",
+      "ตัวบ่มฟัก"
+    ],
+    [
+      23,
+      "DeliriumRewardBlight",
+      "ไอเทมไบล์ท"
+    ],
+    [
+      24,
+      "DeliriumRewardMetamorph",
+      "ตัวเร่งปฏิกิริยา"
+    ]
+  ]
+}

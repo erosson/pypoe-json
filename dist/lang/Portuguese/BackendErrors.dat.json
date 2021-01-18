@@ -1,1 +1,2165 @@
-{"filename":"BackendErrors.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":true,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Text","rowid":1,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["AccountNameAlreadyExists","Já existe uma conta com este nome."],["AccountNameInvalid","O nome da conta deve ter no mínimo 3 caracteres e está restrito aos caracteres de a-z, 0-9 e _"],["EmailInvalid","Endereço de e-mail inválido."],["EmailAlreadyExists","Já existe uma conta com este endereço de e-mail."],["AccountDoesNotExist","A conta especificada não existe."],["InvalidPassword","Senha incorreta para esta conta."],["AlreadyLoggedOn","A operação não pode ser concluída porque esta conta já foi acessada por outra pessoa."],["InvalidProtocolVersion","Há uma atualização obrigatória para você. Por favor, reinicie o Path of Exile."],["NotAllowedGameLogin","O acesso ao jogo está desabilitado para esta conta no momento."],["OtherAccountLoggedOn","Outra pessoa entrou com esta conta."],["AccountNotLoggedIn","Esta operação requer que você esteja conectado."],["Timeout","Tempo limite excedido para a operação."],["Disconnected","Desconectado do servidor."],["TerrainGenerationOutOfSync","O gerador de terreno do cliente está dessincronizado com o servidor. Por favor, crie uma nova instância e tente novamente."],["UnexpectedDisconnect","Você foi inesperadamente desconectado."],["CharacterDoesNotExist","O personagem especificado não existe."],["NotCharacterOwner","Foi feita uma tentativa de recuperar um personagem que não é dessa conta."],["LinkedItemDoesNotExist","O item ligado especificado não existe."],["DatabaseError","Ocorreu um erro inesperado no banco de dados. Tente novamente."],["TransferredToInstance","A conta foi transferida para outra instância."],["CharacterNameAlreadyExists","Já existe um personagem com este nome."],["CharacterNameInvalid","O nome do personagem contém caracteres inválidos. Nomes válidos possuem apenas letras e o símbolo de underline."],["CharacterNameTooShort","O nome do personagem é muito curto."],["CharacterNameTooLong","O nome do personagem é muito longo."],["CharacterInvalidClass","Classe de personagem inválida."],["LeagueDoesNotExist","Esta liga não existe."],["InvalidCharacterFlags","Bandeiras de personagem inválidas."],["LeagueNameAlreadyExists","Já existe uma liga com este nome."],["LeagueNameInvalid","Nome de liga inválido."],["LeagueDescriptionInvalid","Descrição de liga inválida."],["AlreadyInParty","A operação não pode ser concluída porque você já está em um grupo."],["NotItemOwner","Seu personagem não é o dono deste item."],["NotAPartyMember","O alvo dessa operação não era um membro do grupo."],["PartyPromotionRequired","Você não pode executar esta operação porque você não é um membro promovido do grupo"],["PartyDoesNotExist","O grupo não existe."],["ServiceDoesNotExist","O serviço não existe."],["CommandInvalid","O serviço não responde a este comando ou houve um erro de sintaxe."],["DestinationUnreachable","Impossível contatar o serviço."],["NotInPartyWith","Você deve estar em um grupo com este jogador."],["NotInParty","Você não está neste grupo."],["InstanceFull","A instância está cheia."],["InvalidInstanceTransfer","Não é permitido mudar para essa instância utilizando este método."],["PortalDoesNotExist","O outro lado do portal desconectou."],["OutOfYourLeague","Este personagem não está na sua liga (e você sabe disso)."],["DownForMaintenance","O servidor está em manutenção e indisponível no momento. Tente novamente mais tarde."],["InstanceAuthenticationInvalid","Sua autenticação para transferência de instância foi inválida."],["PartyFull","Seu grupo está cheio."],["TooManyCharacters","Você não tem espaços de personagem restantes."],["InvalidActivationKey","Chave de ativação inválida."],["EmailValidationRequired","Já foi criada uma conta com este endereço de e-mail. Você deve verificar sua conta por e-mail antes de entrar."],["MissingRequiredField","Por favor, preencha todos os campos obrigatórios."],["InvalidArgument","Um argumento foi inválido."],["GameComplete","O jogo foi encerrado."],["LeagueHasEnded","A liga foi encerrada. Você não pode criar mais personagens."],["LeagueClosedForEntry","Entrada para essa liga foi fechada."],["AlreadyOnIgnoreList","Esta conta já está na sua lista de ignorados."],["NotOnIgnoreList","Esta conta não está na sua lista de ignorados."],["IgnoreListFull","Sua lista de ignorados está cheia."],["AddToIgnoreListFailed","Impossível adicionar {0} à lista de ignorados porque: {1}"],["AddedToIgnoreList","{0} foi adicionado à sua lista de ignorados."],["RemoveFromIgnoreListFailed","Impossível remover {0} da lista de ignorados porque: {1}"],["RemovedFromIgnoreList","{0} foi removido da sua lista de ignorados."],["FailedToClearIgnoreList","Impossível limpar sua lista de ignorados porque: {0}"],["IgnoreListCleared","Sua lista de ignorados foi limpa."],["FailedToAddNamedFriend","Impossível adicionar {0} à lista de amigos porque: {1}"],["FailedToAddUnnamedFriend","Impossível adicionar a conta à lista de amigos porque: {0}"],["FailedToAcceptFriend","Impossível aceitar a solicitação de amizade porque: {0}"],["FailedToRemoveFriend","Impossível remover o amigo da lista porque: {0}"],["TriedToFriendSelf","Você não pode adicionar a si próprio como amigo."],["AccountBanned","Sua conta foi banida por um administrador."],["AccountChildLocked","Sua conta foi bloqueada pelos seus pais."],["LoginRateLimited","Você tentou entrar muitas vezes em um curto período de tempo. Tente novamente mais tarde."],["AccountLocked","Sua conta foi bloqueada. Por favor, entre em contato com o suporte."],["NotAccountOwner","A operação não pode ser executada porque a conta não pertence a esta instância."],["TemporaryLockout","Sua conta foi bloqueada temporariamente enquanto um administrador verifica isso."],["Kicked","Você foi chutado do servidor por um administrador."],["StashTabDoesNotExist","A aba do baú especificada não existe."],["LeaguePasswordInvalid","Senha incorreta para esta liga."],["InstanceRateLimited","Você foi chutado por executar ações demais num período muito curto."],["FriendsListFull","Sua lista de amigos alcançou o limite máximo."],["NotOnFriendsList","Esta conta não está na sua lista de amigos."],["AlreadyOnFriendsList","Esta conta já está na sua lista de amigos."],["LeagueUnavailableToNonBeta","Esta liga só está disponível para jogadores do Beta."],["InstanceDoesNotExist","A instância não existe."],["Muted","Você não pode executar esta ação enquanto estiver silenciado."],["Ignored","Você foi ignorado pelo jogador alvo."],["PvPMatchDoesNotExist","Este tipo de partida PvP não existe."],["ItemDoesNotExist","O item especificado não existe."],["NeedNormalStashTab","Você deve ter ao menos uma aba do baú normal para aprimorar."],["NotEnoughCredit","Você não tem créditos suficientes para comprar este item."],["PackagePurchaseIncomplete","Sua compra não foi concluída com sucesso. Por favor, entre em contato com o suporte."],["MultiplePurchasesNotAllowed","Você só pode comprar esta microtransação uma vez."],["CantDeleteWithMicrotransactions","Por favor, remova todos os efeitos cosméticos dos itens nesse personagem primeiro. Você pode fazer isso no Baú de Microtransações."],["NotEnoughRoomForItem","Espaço insuficiente para o item."],["SavedCredentialsNewLocation","Você está conectando de um novo lugar. Por favor, insira sua senha novamente."],["SavedCredentialsBad","Suas credenciais salvas estão desatualizadas. Por favor, insira sua senha novamente."],["LoginRequiresUnlockCode","Sua conta foi bloqueada até que você insira um código de desbloqueio de seu e-mail."],["UnlockCodeIncorrect","O código de desbloqueio inserido está incorreto."],["UnlockEmailTooSoon","O último e-mail de desbloqueio foi enviado há muito pouco tempo."],["DailyDealDoesNotExist","Promoção do Dia não existe."],["MicrotransactionDoesNotExist","Microtransação não existe."],["AccountNameDisallowed","Nome de conta não permitido."],["BannedLoginIp","Seu IP foi banido. Por favor, entre em contato com o suporte se você acredita que isso foi um erro."],["GeneralFailure","Ocorreu um problema inesperado."],["CurrencyTradingPrevented","Você não pode negociar moeda ou itens únicos com outros jogadores até ter alcançado o nível 25 em ao menos um personagem em sua conta."],["AccountAlreadyHasSteam","Esta conta já tem uma conta do Steam associada."],["SteamAssociateEmailSent","Um e-mail foi enviado para confirmar que você é o proprietário dessa conta. Por favor, clique no link em seu e-mail para continuar."],["SteamIdAlreadyInUse","Esta conta do Steam já tem uma conta de Path of Exile associada."],["NoAssociatedSteamId","Esta conta não tem uma conta do Steam associada."],["MapDeviceBusy","Falha na ativação. O dispositivo está ocupado."],["MapDeviceTooManyItems","Falha na ativação."],["MapDeviceTooManyItemsSound","Falha na ativação. Você ouve um som distante."],["MapDeviceNotMap","Falha na ativação. Não há nenhum mapa no dispositivo de mapas."],["MapDeviceCreateInstanceFailed","Falha na ativação. Impossível abrir portais para a área."],["MapDeviceCancelled","Ativação cancelada."],["MapDeviceEmpty","Falha na ativação. Este dispositivo requer um mapa."],["PlayerDisconnected","{0} saiu da área."],["PlayerJoined","{0} entrou na área."],["EnteredArea","Você entrou em: {0}"],["LeagueNotYetStarted","A liga ainda não começou e portanto você não pode se mover. Quando a liga começar você poderá se mover."],["LeagueAlreadyEnded","Esta liga já encerrou."],["LadderRankAlive","{1}. {0}, {3} Nível {2}, Exp: {4}"],["LadderRankDead","{1}. {0} (Morto), {3} Nível {2}, Exp: {4}"],["LadderRankTimed","{1}. {0}, {3} Nível {2}, Tempo: {4}"],["LevelUp","{0} ({1}) chegou no nível {2}"],["AlreadyInPVPQueue","Você deve cancelar sua fila PvP antes."],["MissingRequiredQuestState","Você não tem o estado da missão necessário."],["FailedToJoinAnyInstances","Erro: Falha ao entrar em qualquer instância."],["FailedToJoinInstance","Erro: Falha ao entrar na instância porque: {0}"],["FailedToConnectToInstance","Falha ao conectar à instância."],["FailedToApplyCurrency","Falha ao aplicar o item: {0}"],["TooManyGlobalItemLinks","Você não pode enviar mais de {0} itens no chat global."],["MutedUntilSeconds","Sua conta foi silenciada por um GM. Você poderá falar novamente em {0}."],["ObaPlayerJoined","Você deve ser corajoso ou estúpido demais se pensa que vai levar meu tesouro daqui e viver. De qualquer forma, eu te aplaudo!"],["ObaDoorUnlocked","Prossiga, exilado, e pegue o que puder, enquanto puder."],["ObaBeginDeathCount","A corrupção está crescendo. Apresse-se, antes que ela te consuma como fez comigo."],["ObaFinalCountdown","{0}"],["ObaKillPlayer","Aah! Você é indigno de levar meu legado. Alimente a corrupção com seu cadáver. "],["Oba75PercentOxygen","O Pesadelo tem seu cheiro. Agora ele tem fome da sua carne."],["Oba50PercentOxygen","Seu copo está meio vazio ou meio cheio, exilado?"],["Oba25PercentOxygen","Decepcionante. Parece que a corrupção levará o melhor de você no fim das contas. "],["CowardsTrialNextWave","A escuridão paira iminente..."],["CowardsTrialRoomClear","A sala cresce firme e silenciosa..."],["CowardsTrialLevelClear","A atmosfera opressora dissipa lentamente..."],["VaalKillOversoul","Você precisa matar o Sobrealma Vaal."],["VaalDeliverAmulets","Você precisa dar os amuletos dos bandidos para Eramir e adquirir o Ápice."],["VaalAcquireAmulets","Você precisa adquirir os amuletos dos lordes bandidos."],["VaalGetApexDex","Você precisa tomar o Ápice de Kraityn."],["VaalGetApexStr","Você precisa tomar o Ápice de Oak."],["VaalGetApexInt","Você precisa tomar o Ápice de Alira."],["VaalGetApexTown","Você precisa tomar o Ápice de Eramir."],["MonsterRemaining1","1 monstro restante."],["MonstersRemainingN","{0} monstros restantes."],["MonstersRemainingMoreThan50","Mais de 50 monstros restantes."],["PlayerDeathCount1","Você morreu 1 vez."],["PlayerDeathCountN","Você morreu {0} vezes."],["PlayerKillCount","Você matou {0} monstros."],["PvPStats1v1","1v1 V/D/E: {0}/{1}/{2}"],["PvPStats3v3","3v3 V/D/E: {0}/{1}/{2}"],["PvPPlayerJoinedTeam","{0} entrou na equipe {1}."],["PvPNotEnoughPlayers","Falha ao iniciar a partida. Não entraram jogadores suficientes."],["PvPPlayerKilled","{0} foi morto por {1}."],["PvPPartyTooLarge","Incapaz de juntar-se ao PvP: Membros demais do grupo para esse tipo de PvP."],["PvPPlayerAlreadyInQueue","Incapaz de juntar-se ao PvP: Você já está na fila do PvP."],["PvPPartyMemberAlreadyInQueue","Incapaz de juntar-se ao PvP: Um membro do grupo já está na fila do PvP."],["PvPPlayerTooFarQuest","Incapaz de juntar-se ao PvP: Você progrediu além do limite da missão para esse tipo de PvP."],["PvPPartyMemberTooFarQuest","Incapaz de juntar-se ao PvP: Um membro do grupo progrediu além do limite da missão para esse tipo de PvP."],["PvPPlayerTooHighLevel","Incapaz de juntar-se ao PvP: Você está acima do nível máximo para esse tipo de PvP."],["PvPPartyMemberTooHighLevel","Incapaz de juntar-se ao PvP: Um membro do grupo está acima do nível máximo para esse tipo de PvP."],["PvPPlayerHasAscendancy","Incapaz de juntar-se ao PvP: Você escolheu uma Classe Ascendente que não é permitida nesse tipo de PvP."],["PvPPartyMemberHasAscendancy","Incapaz de juntar-se ao PvP: Um membro do grupo escolheu uma Classe Ascendente que não é permitida nesse tipo de PvP."],["PvPJoinFail","Impossível entrar na fila PvP porque: {0}"],["PvPQueueCancelled","Fila PvP cancelada."],["PvPQueueCancelledBy","Fila PvP cancelada por {0}."],["PvPMatchListUnreachable","Impossível obter lista de partidas PvP porque: {0}"],["PvPDisabled","O PvP está desabilitado aqui."],["PlayerSuicide","{0} cometeu suicídio."],["PlayerSlain","{0} foi morto."],["NoCharacterSpecified","Por favor, especifique um nome de personagem."],["WhoIsOffline","{0} ({3}) nível {2} na liga {1} que não está online no momento."],["WhoIsOnline","{0} ({3}) nível {2} na liga {1} que está jogando em {4} no momento."],["ItemOnCursorLevel","O item no cursor é nível {0}."],["NoItemOnCursor","Não há nenhum item no cursor."],["ItemOnCursorHasNoLevel","O item no cursor não tem um nível (ele precisa ser um que possa receber propriedades)."],["FixMyHelmetSuccess","Elmo atualizado."],["OperationFailed","Falha na operação."],["FixMyHelmetAlreadyFixed","Este elmo já tem a identidade visual correta."],["FixMyHelmetUnique","O elmo no cursor é Único."],["FixMyHelmetNotHelmet","O item no cursor não é um elmo."],["ItemHasMicrotransaction","Você não pode fazer isso em um item com um efeito de microtransação. Por favor, remova o efeito de microtransação e tente novamente."],["BugReportNumber","Seu número de referência do relatório de erros é {0}."],["PlayedTime","Você jogou por {0}."],["CharacterAge","Seu personagem foi criado há {0}."],["CharacterAgeUnknown","Seu personagem não tem registro de data de criação."],["HelpCtrlClick","Ctrl+Clique numa transição de área ou ponto de passagem para criar uma nova instância de área"],["ReceivedRespecPoint1","Você recebeu um Ponto de Restituição de Passivas."],["ReceivedRespecPointN","Você recebeu {0} Pontos de Restituição de Passivas."],["ReceivedPassivePoint1","Você recebeu um Ponto de Habilidade Passiva."],["ReceivedPassivePointN","Você recebeu {0} Pontos de Habilidades Passivas."],["ReceivedStatBonus","Você recebeu {0}."],["LeagueTradeDisabled","Você não pode negociar nesta Liga."],["TradeItemOnCursor","Você não pode negociar com um item no cursor."],["TradePlayerBusy","Esse jogador está ocupado no momento."],["TradeAccepted","Negociação aceita."],["TradeCancelled","Negociação cancelada."],["YouWereIgnored","Esse jogador te ignorou."],["AchievementServerUnreachable","Erro: Impossível conectar ao servidor de conquistas."],["DestroyCursorItem","Item no cursor destruído."],["DestroyItemInTrade","Você não pode destruir itens na negociação."],["DestroyQuestItem","Você não pode destruir itens de missão."],["DestroyMicrotransactions","Você não pode destruir itens com efeitos de microtransação aplicados."],["DestroyBanditRespec","Este item não pode ser destruído, mas você pode vendê-lo a um NPC para obter um reembolso."],["CannotCreatePublicPartyYet","Você deve alcançar a primeira vila antes de criar grupos públicos."],["PublicPartyListUnreachable","Impossível obter lista de grupos públicos porque: {0}"],["FullPassiveSkillRefund","Suas habilidades passivas foram devolvidas."],["TeleportFailed","Falha no teleporte: impossível colocar jogador no destino."],["TutorialShowItems","Mantenha o Alt pressionado para exibir itens no chão."],["FinishedDescent","Parabéns, você conquistou a Descent!"],["JoinedGlobalChannel","Você entrou no canal de chat global {1} {0}."],["JoinedTradeChannel","Você entrou no canal de chat de comércio {1} {0}."],["ShopPackageDoesNotExist","Pacote da Loja não existe."],["ShopPackagePurchaseFailed","Falha ao comprar o pacote."],["ShopPackageTransactionDoesNotExist","Transação da loja não existe."],["DownForMaintenanceTemp","O servidor que você estava foi derrubado para manutenção. Por favor, entre novamente."],["ThirdPartyIdAlreadyExists","Esta conta de terceiro já tem uma conta de Path of Exile associada."],["GuildNameTooLong","O nome da guilda é grande demais."],["GuildTagTooLong","A marca da guilda é grande demais."],["AccountAlreadyInGuild","Esta conta já está em uma guilda."],["GuildDoesNotExist","A guilda especificada não foi encontrada."],["GuildMustBeOfficer","Você deve ser um líder ou oficial de guilda para executar esta ação."],["NotInGuild","A conta não faz parte dessa guilda."],["GuildFull","A guilda está cheia e não pode adicionar mais membros."],["GuildMustBeLeader","Você deve ser o líder da guilda para executar esta ação."],["DisallowedOnSelf","Você não pode fazer isso consigo mesmo."],["TooManyGuildInvites","O personagem já foi convidado para guildas demais."],["GuildStatusMessageTooLong","A mensagem do status da guilda é comprida demais."],["NotEnoughPointsForTransaction","Você não tem pontos suficientes para completar esta transação."],["GuildMustBeMember","Você deve ser um membro da guilda para executar esta ação."],["RemoteStashAlreadyLocked","O baú remoto já está trancado. Tente novamente em breve."],["RemoteStashOperationRequiresLock","O baú remoto precisa de um cadeado antes que esta operação possa ser executada"],["BadGuildStashPermissions","Você não tem permissão para executar esta ação no baú da guilda."],["MaximumGuildSlots","Você não tem mais espaços na guilda permitidos."],["GuildTagTooShort","A marca da Guilda deve ter ao menos 3 caracteres."],["GuildKickDisabledForAccount","Você não pode remover esta conta da guilda porque eles deram créditos de microtransação muito recentemente."],["FriendNoteTooLong","Esta anotação de amigo é muito comprida."],["TooHighLevelForCap","Esta área tem nível máximo de {0}"],["PlayerWins","{0} venceu"],["TooLowLevelToSendWhisper","Você não pode enviar sussurros até chegar no nível {0}"],["TooLowLevelToSendChat","Você não pode falar no chat {0} até chegar no nível {1}"],["ReachedRegularChatLimit","Por favor, aguarde antes de enviar outra mensagem no chat."],["ReachedTradeChatLimit","Por favor, aguarde antes de enviar outra mensagem no chat de comércio."],["PortalEffectChanged","Seu personagem agora utilizará o {0}."],["PortraitFrameChanged","Seu personagem agora utilizará a {0}. Você deve deslogar e logar novamente para que a mudança tenha efeito."],["CharacterPortraitChanged","Seu personagem agora utilizará a {0}. Você deve deslogar e logar novamente para que a mudança tenha efeito."],["NoHideout","Este jogador não tem Refúgio nesta liga."],["FailedToUseItem","Falha ao utilizar o item: {0}"],["ObaCompleted","Haha! Você é de fato um poderoso aventureiro. Utilize o que eu te dei e espalhe meu legado por toda Wraeclast."],["ArenaScoreTitle","Classificação atual: (Matou/Morreu)"],["ArenaScore","{1}: {0} ({2}/{3})"],["LostPassivePoint1","Você perdeu um Ponto de Habilidade Passiva."],["LostPassivePointN","Você perdeu {0} Pontos de Habilidades Passivas."],["LostStatBonus","Você perdeu {0}."],["FFALadderUpdate","Agora você é o #{0} na área."],["CraftingFailed","Falha na criação: {0}"],["SpectatorJoined","{0} está assistindo agora."],["LeagueStartingSoonGlobal","O próximo evento de corrida começa em {1}. Para entrar, vá para a tela de seleção de personagem e clique em Entrar na liga \"{0}\". Informações sobre este evento estão disponíveis no fórum de Eventos/Ligas."],["LeagueStartingSoonLocal","A liga começará em {0}."],["LeagueStartingNow","A liga começou!"],["LeagueEndingMinutes","A liga encerrará em {0}."],["LeagueFinished","A liga terminou!"],["LeagueFirstToReachLevel","{0} foi o primeiro personagem a alcançar o nível {1}!"],["LeagueFirstToEnterArea","{0} foi o primeiro personagem a entrar em {1}!"],["LeagueFirstToEnterDelveLevelSolo","{0} foi o primeiro personagem a escavar sozinho até a profundidade {1}!"],["LeagueFirstToEnterDelveLevelParty","{0} foi o primeiro personagem à Escavar até a profundidade {1}!"],["LeagueFirstToFullyClear","{0} foi o primeiro personagem a limpar {1} completamente!"],["LeagueFirstToDoQuest","{0} foi o primeiro personagem a {1}!"],["RealmRestartingSoon","O servidor reiniciará em {0}."],["RealmShuttingDownSown","O servidor será desligado em {0}."],["RealmRestarting","Começando reinício do servidor..."],["RealmShuttingDown","Começando desligamento do servidor..."],["RealmRestartDeployPatchNotification","Estamos reiniciando o servidor para implementar a atualização {0}. As notas do patch estão no fórum de Atualizações. {1}."],["RealmMaintenanceNotification","Estamos desligando o servidor para manutenção. {0}"],["CharacterOffline","Esse personagem está offline."],["CharacterNameOffline","{0} não está online."],["CharacterDifferentLeague","Esse personagem está em uma liga diferente."],["NotMutualFriends","Essa conta não aceitou sua solicitação de amizade."],["CharacterNotInPvP","Esse personagem não está no PvP atualmente."],["SpectateFollow","Você agora está na fila para assistir essa conta."],["HideoutDoodadLimitReached","Impossível colocar outro objeto no refúgio. Você está limitado a um máximo de 750 objetos em seu refúgio."],["HardcoreDeathAnnouncement","{0} (Nível {1}) morreu na posição {2} no ranking."],["InteractErrorIncaBossSpawner","Isso parece precisar de uma chave triangular."],["InteractErrorMalachaiPortal","Você não matou Malachai ou não estava na área quando ele foi morto."],["InteractErrorMervielExit","Você não matou Merveil ou não estava na área quando ela foi morta."],["InteractErrorHillockGate","Você deve matar Hillock antes."],["InteractErrorTowerTransition","Você não matou Dominus ou não estava na área quando ele foi morto."],["InteractErrorMineEntranceSeal","As portas estão trancadas por um Selo."],["InteractErrorLockedDoor","A porta está trancada."],["InteractErrorTowerKey","A Chave da Torre não foi utilizada para destrancar a porta."],["InteractErrorPoisonTree","Raízes de árvore bloqueiam seu caminho.\r\nTalvez elas possam ser abertas mais tarde."],["InsteractErrorUndyingBlockage","O caminho está bloqueado."],["InteractErrorLocked","Está trancado."],["InteractErrorBlockageTransition","O caminho está bloqueado."],["InteractErrorSpikeBlockage","Isso parece precisar de algum tipo de chave."],["InteractErrorGlyphWall","A parede parece precisar de três objetos com formatos estranhos."],["InteractErrorWaterCave","Você deve encontrar uma forma de drenar a água primeiro."],["InteractErrorNotYourCraftingTable","Você não pode utilizar as bancadas de artesanato de outras pessoas."],["InteractErrorNotYourMapDevice","Você não pode utilizar o dispositivo de mapas de outras pessoas."],["InteractErrorCoreTransition","Você deve abater todos os três guardiões do Malachai para acessar o Núcleo Negro."],["InteractErrorCoreTransitionOrgans","Você deve abater todos os três guardiões do Malachai e entregar os órgãos à Piety para acessar o Núcleo Negro."],["InteractErrorPietyGateTransition","Você deve lidar com Piety primeiro."],["InteractErrorVinktarSquareGateLocked","O portão está transbordando com o poder dos Guardiões."],["NotAllowedInPlayersHideout","Você não pode acessar a área deste jogador no momento."],["CantChangeToHideoutFromHere","Você não pode ir para esta área daqui."],["StrMissionStartPointRocks","A entrada desabou"],["LoginTokenExpired","Suas credenciais expiraram. Por favor reinicie o jogo."],["IgnoredPvP","Você foi ignorado."],["LocalChatDisabledWhileSpectating","O chat local está desabilitado enquanto estiver assistindo o PvP."],["AbandonDailyNotInHideout","Você só pode utilizar este comando dentro de seu Refúgio."],["NoDailyActive","Você não tem uma missão diária aberta."],["MissionComplete","Missão Completa. Você ganhou {0} de favor com o Mestre."],["GrandmasterSaved","O arquivo Grão-Mestre foi salvo. A equipe da Grinding Gear Games será notificada."],["LeagueFinishTimeRaceCompleted","Você completou o objetivo dessa corrida. Verifique a o tópico do ranking para ver a sua classificação."],["LeagueFinishTimeRaceLogin","Você já completou os objetivos dessa corrida com este personagem."],["CharacterNotFriendOrGuildmate","Essa conta não é de um amigo ou colega de guilda."],["MapDeviceDisabled","O Dispositivo de Mapas está desabilitado nessa guilda."],["PVPTeamDoesNotExist","A equipe PvP não foi registrada para este evento."],["ForwardedToMasterShard","Esta solicitação foi encaminhada para o banco de dados mestre. Esta solicitação deve ser resolvida sem respostas."],["PVPTournamentFinished","O torneio foi concluído."],["ErrorNotInHideout","Você deve estar em seu Refúgio para fazer isso."],["ClaimCraftingBenchSuccess","Adicionando bancada de artesanato ao seu baú do Refúgio."],["CharacterIsPVPOnly","Personagens apenas de PvP não podem fazer isso."],["StoppedSpectateFollow","Você não está mais na fila para assistir."],["CannotTradeItemLockedToCharacter","O item não pode ser negociado ou modificado."],["CannotTradeItemLockedToAccount","O item não pode ser negociado."],["PvPRelocatingArena","Você está sendo movido para outra arena PvP para rebalancear o número de jogadores."],["MapCraftingFailedCost","Você não tem saldo suficiente."],["MapCraftingFailedTrade","Falha ao abrir o mapa. Não pode consumir itens enquanto uma janela de troca estiver aberta."],["PvPMustHaveFullParty","Seu grupo não é grande o suficiente para jogar nesta partida PvP."],["WithdrawnFromPVPTournament","Você desistiu desse torneio PvP."],["SpectatingDisabled","Assistir está desabilitado para esta partida."],["ChestLocked","Este baú está trancado."],["HideoutPortalLocked","Portais de Mapas foram travados."],["PVPCTFOwnFlag","Traga a bandeira de outra equipe aqui para ganhar um ponto."],["SpiderChestLocked","Você ouve algo deslizando por perto..."],["AFKModeEnabled","Modo LDT Ativado. Reposta automática \"{0}\""],["AFKModeDisabled","Modo LDT Desativado."],["DNDModeEnabled","Modo NP Ativado. Reposta automática \"{0}\""],["DNDModeDisabled","Modo NP Desativado."],["AutoReplyEnabled","Resposta automática: \"{0}\""],["IncaApexDoorLocked","Esta porta não pode ser aberta no momento."],["CharacterNameExistsButCanExpire","Criar este personagem expiraria o nome de outro personagem."],["CharacterIsNotExpired","O nome deste personagem não expirou."],["CharacterIsExpired","O nome deste personagem foi tomado por outro jogador devido à inatividade nesta conta. Ele deve ser renomeado."],["OrphanedInstance","O servidor do jogo perdeu contato com o reino."],["ErrorLabyrinthLocked","Este Labirinto já foi aberto, por isso não pode mais ser entrado. Visite uma nova Praça dos Aspirantes para iniciar um novo Labirinto."],["ErrorZanaMissionLocked","Você já visitou esta área instável antes, e não pode acessá-la novamente."],["InteractErrorDoorRequiresGoldenKey","Esta porta está trancada. Você precisa de uma Chave Dourada para abrir."],["InteractErrorDoorRequiresSilverKey","Esta porta está trancada. Você precisa de uma Chave Prateada para abrir."],["InteractErrorDoorRequiresBronzeKey","Esta porta está trancada. Você precisa de uma Chave de Bronze para abrir."],["TooManyCharacterSlots","Você não pode ter mais de 255 espaços para personagens em uma única conta."],["EchoClientString","{0}"],["ErrorCannotWhisperIgnored","Você não pode sussurrar para pessoas em sua lista de ignorados."],["AccountIsOnline","Esta conta está online no momento."],["IzaroChestLocked","Esse baú está trancado. Uma Chave do Tesouro é necessária para abri-lo."],["ProfanityCheckFailed","O texto digitado contém profanidade."],["ErrorCannotChangeAscendancyClass","Você não pode modificar sua classe Ascendente nesta Liga. "],["TencentAasLoginDenied","Você é menor de idade e não pode logar."],["TencentAasNotification","Você está jogando por {0} horas, por favor, considere fazer uma pausa."],["TencentAasAlarm","Você jogou por mais de três horas e é menor de idade. Você não poderá logar até que tenha tido um descanso de cinco horas."],["LeagueDisallowsCharacterDeletion","Esta liga não permite deletar personagens no momento."],["ErrorCannotAccessMapLabyrinth","Você ainda não completou as Provações do Labirinto em Mapas."],["ErrorCannotSealProphecy","Falha ao Selar a Profecia."],["InviteErrorAlreadyInParty","Convite de grupo falhou. Esse personagem já está em um grupo."],["TencentCannotAccessMapDevice","Complete o Labirinto do Lorde para ganhar acesso ao Dispositivo de Mapas. Viaje para o Acampamento de Sarn e clique na Placa de Ascensão para descobrir mais sobre o Labirinto. Termine as Provações de Ascensão e derrote o Imperador Izaro em seu Labirinto para ganhar acesso aos mapas avançados."],["DailyPortalBlocked","Não é possível abrir missão diária: Localização do portal está bloqueada. Use o Modo de Edição para mover o mestre para outro local, e tente novamente."],["OfferDoesNotExist","A oferta não existe mais."],["OfferInWrongState","A oferta está em um estado inválido para essa ação."],["OfferContainsUntradeableItems","A oferta não pode ser enviada, pois ela possui itens não negociáveis."],["NoOffersOnYourOwnItems","Você não pode fazer uma oferta neste item, pois você já o possui."],["PublicListingLockedDueToLevel","Você não pode listar itens publicamente à venda até que tenha tido pelo menos um personagem nível 25 na sua conta."],["OffersLockedDueToLevel","Você não pode fazer ofertas em itens até que tenha tido pelo menos um personagem nível 25 na sua conta."],["AccountNoLongerHasItem","O jogador não possui mais o item listado."],["TooManyBuyerOffers","Você só pode ter 5 ofertas ativas por vez, por favor, resolva ofertas ativas para criar novas."],["TooManySellerOffers","O vendedor possui muitas ofertas em seus itens. Por favor, tente novamente mais tarde."],["AlreadyHaveOfferOnItem","Você já possui uma oferta em andamento para este item."],["SentOfferTooRecently","Você enviou uma oferta para essa conta há pouco tempo."],["EventErrorLevelTooLow","Você deve ser no mínimo nível {0} para entrar neste evento."],["EnteredPathOfEnduranceLevel","Você alcançou Nível {0}"],["EventEndsIn","Este evento termina em {0}"],["GuildTagAlreadyExists","Essa marca de guilda já está sendo usada."],["GlobalChatOnCooldown","Por favor, aguarde alguns segundos antes de usar o Chat Global novamente."],["InteractErrorKaruiDoorLocked","O portão está trancado, mas parece estar faltando um olho..."],["LabyrinthErrorPartyTooBigTencent","Você só pode entrar no Labirinto com {0} ou menos jogadores no seu grupo."],["InteractErrorNoSignOfPurity","Você precisa do Sinal da Pureza para ativar isso."],["InteractErrorCannotAccessEndgame","Você não pode acessar o conteúdo avançado antes de completar o Ato 10."],["CharacterNameContainsProfanity","Este nome de Personagem é proibido."],["ConsoleDisconnectedBecauseActiveUserChanged","Desconectado porque o usuário ativo saiu"],["ConsoleDisconnectedBecauseSuspending","Desconectado porque o jogo foi suspenso"],["InteractErrorNeedSunMoonOrbs","Você precisa do Orbe Lunar e do Orbe Solar para ativar isto."],["TheBeaconLever","A tocha não tem combustível suficiente para ser acesa."],["OnlyOneAllowedInHideout","Você não pode posicionar mais de um item deste tipo no seu Refúgio."],["AccountLoggedInOnOtherRealm","Você não pode estar conectado nos servidores beta e normal do Path of Exile ao mesmo tempo."],["KitavaArenaLocked","Não é seguro se teleportar para esta área."],["InteractErrorBeaconMissingFlag","Você precisa da Bandeira Negra da Caverna da Cólera para usar o Farol."],["InteractErrorGreustShrine","Um antigo altar de Azmeri. Talvez Helena saiba algo sobre ele."],["PantheonFailedToCreateSoulItem","A Alma Capturada falhou em ser gerada no Dispositivo de Mapas."],["PantheonCannotConsumeVessel","Falha na ativação. O Chefe neste mapa não pode ter sua Alma capturada."],["PantheonCannotConsumeVesselAlreadyCaptured","Falha na ativação. Você já capturou a Alma deste Chefe de Mapa."],["ExitToLoginFailed","Falha ao conectar ao servidor de login. Por favor, conecte-se e tente novamente."],["MessageDoesNotExist","A mensagem especificada não existe."],["MessageTooLong","A mensagem é muito longa."],["AreaErrorLevelTooLow","Você deve ser pelo menos Nível {0} para acessar esta área."],["AreaErrorLevelTooLowGeneric","Você não atingiu um Nível alto o suficiente para acessar esta área."],["TradeMarketCloseOfferWithItems","Você ainda possui itens presentes na oferta. Remova estes itens para fechar a oferta."],["TradeMarketSendOfferWithNoItems","Você não pode enviar uma oferta sem oferecer itens monetários."],["XboxLoginErrorNoLiveAccess","Não foi possível se conectar, pois o Xbox Live não pôde ser acessado."],["ConsoleLoginErrorNoInternetConnection","Impossível fazer login por falta de conexão com a Internet."],["ErrorChatIsFull","Falha ao juntar-se ao canal de chat requisitado pois ele está cheio."],["LoginConnectionLimitReached","O servidor de login está atualmente sobrecarregado. Por favor, tente novamente mais tarde."],["TooManyObjects","Objetos demais foram requisitados. Por favor, contate o suporte."],["SubtabAlreadyExists","Esta aba secundária já existe."],["MaxInventoryColumns","You have reached the maximum number of inventory columns allowed. CHINA ONLY NOT FOR WORLDWIDE REALM"],["IncorrectInventoryColumnUpgrade","You are trying to purchase the inventory upgrade for the incorrect number of existing slots. CHINA ONLY NOT FOR WORLDWIDE REALM"],["GenericRateLimit","Falha na solicitação porque você fez várias solicitações em um curto espaço de tempo."],["RequestInProgress","Um pedido já está sendo processado. Por favor, tente novamente mais tarde."],["ItemNotInStash","O item não está no baú designado."],["BestiaryNetChanged","Seu personagem agora utiliza {0} para capturar Bestas."],["ErrorPlayerHasNoMenagerie","Este jogador não possui um Viveiro."],["MasterBonusExpUpdate","Recebido {1} de reputação e favor bônus por {0}"],["MicrotransactionNotAvailableInLeague","Você não pode comprar essa microtransação nesta liga."],["CaptureMonsterSuccess","Bestas Capturadas: {0}"],["PlayersRemainingN","{0} jogadores restantes."],["AccountNotVerifiedChatError","Você precisa verificar sua conta antes de utilizar o chat."],["TooLowLevelToChooseChatIndex","Você não pode escolher um canal de chat específico até que seja nível {0}"],["IncursionLockedDoorError","Você não possui o item necessário para abrir esta passagem."],["IncursionDestructibleWallError","Você não possui explosivos."],["InstanceExpiredError","Impossível conectar à instância. Esta sub-área expirou porque não é mais a mais recente instância ligada à esta área."],["InstanceTerminatedError","Impossível conectar à instância. Essa sub-área não existe mais."],["FailedToLoadDelveMap","Falha ao carregar as informações do mapa da Escavação: {0}"],["DelveInProgressError","Você não pode se juntar à uma Escavação que esteja em andamento."],["LoginRequiresUnlockCodeStrict","Sua conta foi trancada até que você possa providenciar o código de destravamento do seu email (restrito)."],["DelveSocketableCurrencySameFossilError","Você não pode encaixar Fósseis identicos no mesmo Ressonador."],["GenericSocketError","Você não pode encaixar o item atual"],["OfferNotYetReadyForAccept","A oferta está aguardando um envio anterior ser resolvido. Tente mais tarde."],["InteractErrorEssence","Outra coisa está mantendo essa Essência aprisionada."],["NotEnoughIngredients","Você não possui ingredientes suficientes para essa ação."],["ConsoleDisconnectedBecauseActiveUserSignedOut","Desconectado porque o usuário ativo saiu"],["PS4LoginErrorNoPSNAccess","Impossível logar porque a \"PlayStation Network\" não pode ser encontrada."],["PS4LoginErrorOutOfMemory","Impossível logar porqque estamos sem memória."],["PS4LoginErrorSignedOut","Impossível logar porque você não entrou."],["PS4LoginErrorNotSignedUp","Impossível logar porque você não se registrou."],["PS4LoginErrorAgeRestriction","Impossível logar por conta de restrição de idade."],["PS4LoginErrorLoggedOut","Impossível logar porque você não está logado."],["PS4LoginErrorLatestSystemSoftwareExist","Impossível logar porque um arquivo de atualização para uma nova versão do software do sistema existe."],["PS4LoginErrorLatestSystemSoftwareExistForTitle","Impossível logar porque uma nova versão um arquivo de atualização do software do sistema necessário existe para essa aplicação."],["PS4LoginErrorLatestPatchPackageExists","Impossível logar porque uma nova versão do pacote de patch existe."],["PS4LoginErrorLatestPatchPackageDownloaded","Impossível logar porque uma nova versão do pacote de patch baixado existe."],["PS4LoginErrorPatchNotChecked","Impossível logar porque foi impossível averiguar se uma nova versão do arquivo de atualização está disponível. Tente novamente."],["HideoutExportFailed","Você precisa estar em um Refúgio para exportar um template de Refúgio."],["HideoutImportSuccess","Template de refúgio importado com sucesso."],["HideoutImportFailed","Falha ao importar o template de Refúgio."],["HideoutImportFailedMustBeInHideout","Você precisa estar em seu Refúgio para importar um template de Refúgio."],["HideoutImportFailedWrongHideout","Você primeiro precisa configurar seu Refúgio para {0} para importar esse template de Refúgio."],["TencentTradeMarketNotExactPrice","Sua oferta não bate com o preço exato para esse item."],["TencentTradeMarketTooManyCompletedOffers","Você possui trocas completadas demais em seu Comérgio para fazer essa oferta."],["IncursionRecipeUnlockRejected","Receita de criação já destravada"],["FailedToReclaimSomeHideoutDoodads","Falha ao recuperar um ou mais itens de refúgio. Por favor crie uma nova instância de refúgio e tente novamente."],["HideoutImportWarningGeneric","Aviso:  {0} itens não puderam ser importados."],["HideoutImportWarningUnowned","Aviso: {0} itens não puderam ser importados porque você não possui mais nenhum."],["HideoutImportWarningBlocked","Aviso: {0} itens não puderam ser importados porque o local especificado está bloqueado."],["HideoutReclaimAllSuccess","Todos os objetos de Refúgio foram recuperados."],["AreaTransitionPartyError","Você precisa estar em um grupo com o dono da área para acessar esta área."],["AreaTransitionOwnerError","O dono da área precisa estar presente para acessar esta área."],["BestiaryErrorNoData","Falha ao recobrar as informações do Bestiário."],["BestiaryErrorFailedToCaptureMonster","Falha ao salvar o monstro capturado: {0}"],["PS4BadRedeemToken","Falha no resgatem do token"],["CurrencyTradingPrevented2","Você não pode negociar itens monetários ou únicos com outros jogadores até ter verificado sua conta."],["PublicListingLockedDueToVerified","Você não pode listar itens publicamente à venda até que tenha verificado sua conta."],["OffersLockedDueToVerified","Você não pode fazer ofertas em itens até que tenha verificado sua conta."],["SynthesisPortalFullyDecayed","Está área decaiu."],["SynthesisTooManyMemories","Você colocou memórias demais, por favor remova algumas antes de tentar colocar mais."],["SynthesisOtherMemoryInstance","Você não pode colocar memórias no Nexus de Memórias ou Extensão de Memórias de outras pessoas."],["ConsoleDisconnectedBecauseNoInternetConnection","Desconectado por falta de conexão com a Internet. "],["PS4DisconnectedBecauseNoPSNAccess","Desconectado por falta de acesso ao “PlayStation Network”."],["XboxDisconnectedBecauseNoXboxLiveAccess","Desconectado por falta de acesso ao Xbox Live."],["PS4CannotLogInUGMRestriction","Impossível logar devido ao controle parental. "],["SynthesisMaxGlobalModsReached","Você alcançou o número máximo de Modificadores de Memórias no seu Mapa Synthesis."],["BetrayalCannotAccessLab","Você tem outra Tarefa Betrayal pendente. Complete o outro encontro ou faça as escolhas restantes para habilitar essa entrada."],["SynthesisCannotApplyGlobalMod","A Memória selecionada e as Memórias colocadas próximas a ela não podem aplicar mais Modificadores de Memórias."],["KakaoAPIError","Falha ao autorizar com o servidor de autenticação da Kakao."],["KakaoRequireLogin","Você precisa entrar em sua conta da Kakao novamente."],["KakaoIdAlreadyInUse","Esta conta kakao já está associada com outra conta do Path of Exile."],["NoAssociatedKakaoId","Não existe uma conta kakao associada com esta conta do Path of Exile"],["AccountAlreadyHasKakao","Já existe uma conta da Kakao associada com esta conta do Path of Exile"],["MapDeviceCannotUseFragmentWithMap","Falha na Ativação. {0} não pode ser usada com um Mapa."],["MapDeviceFragmentNeedsRecipe","Falha na Ativação. {0} precisa ser usada com outros Fragmentos de Mapas do mesmo conjunto."],["MapDeviceFragmentNeedsRecipeOrMap","Falha na Ativação. {0} precisa ser usada com um Mapa, ou com outros Fragmentos de Mapa do mesmo conjunto."],["MapDeviceDuplicateFragments","Falha na ativação. Você não pode usar múltiplos Fragmentos de Mapas do mesmo tipo."],["EmailLoginDisabledKakao","Esta forma de login foi desativada para esta conta. Por favor faça login através do gttp://poe.game.daum.net"],["EmailLoginDisabled","Esta forma de login foi desativada para esta conta. "],["GatewayDisallowedForThisLoginType","Esta entrada de login não está disponível para esta forma de login."],["UnacceptableChatMessage","Conteúdo da mensagem é inaceitável."],["ChannelOnlyAllowsASCII","Conteúdo da mensagem é inaceitável. Por favor só utilize caractéres ASCII neste canal."],["ActionRejectedDueToPerPlayerFreeze","Você morreu recentemente e não pode executar ações poro {0}."],["PerPlayerDeathFreezeRemoved","Agora você pode executar ações."],["LeagueDisallowsManualMigration","Você não pode migrar desta liga no momento."],["RecycleMicroItemNotFound","Microtransação não foi encontrada."],["RecycleMicroCannotRemoveMicro","Microtransação não pode ser removida."],["RecycleMicroNoValue","Microtransação não tem valor."],["RecycleMicroGeneric","Não pode completar a ação neste momento."],["TradeBanError","Você não pode fazer isso agora. Sua conta foi banida por ações de comércio."],["InteractErrorCoreTransitionMap","Você precisa matar todos os guardiões do Devorador de Almas para acessar o Núcleo Negro."],["CombineMTXTimeLimitedError","Não pode combinar Microtransações com tempo limitado."],["SalvageMTXTimeLimitedError","Não pode reciclar Microtransações com tempo limitado."],["ItemIsInLeagueInventory","Você não pode fazer esta operação em um item em um inventário da liga"],["MetamorphosisCannotOpenUIError","Amostras Metamorph só podem ser obtidas pelo dono da instância."],["HarvestSeedCacheLockedError","O Baú de Sementes só pode ser aberto pelo dono da área."],["AccountAlreadyHasEpic","Esta conta já possui uma conta Epic associada à ela."],["EpicAssociateEmailSent","Um e-mail foi enviado apra confirmar que você é o dono desta conta. Por favor clique no link em seu e-mail para continuar."],["EpicIdAlreadyInUse","Esta conta Epic já tem uma conta do Path of Exile associada à ela."],["NoAssociatedEpicId","Esta conta não possui uma conta Epic associada à ela."],["DestroyHarvestInfrastructure","Você não pode destruir itens de Infraestrutura Harvest."],["CharacterActionDeniedHarvestItems","Você precisa remover todos os itens de Infraestrutura Harvest do seu personagem antes de executar essa ação."],["HarvestOshabiFightOnlyInMaps","O Encontro só pode ser iniciado no Mapa"],["ConsoleGuildTagProfanityError","A tag de guilda que você está tentando configurar contém uma frase restrita. Por favor tente novamente com um nome diferente."],["ConsoleGuildNameProfanityError","O nome de guilda que você está tentando configurar contém uma frase restrita. Por favor tente novamente com um nome diferente."],["ConsoleGuildStashTabProfanityError","O nome da aba de baú que você está tentando configurar contém uma frase restrita. Por favor tente novamente com um nome diferente."],["TradeErrorItemStolenFromHeist","Itens não podem ser trocados."],["HeistAlarmError","Erro: não pode entrar em uma área Heist que esteja em Confinamento"],["HeistHubAccessError","Você precisa usar uma Insígnia do Renegado para acessar o Porto dos Renegados."],["NotHeistOwner","Erro: Você não é o dono desse Golpe"],["StashAffinityFailedNoRoom","Sua Aba de Baú com Afinidade {0} não possui espaço suficiente para este item."]]}
+{
+  "filename": "BackendErrors.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Text",
+      "rowid": 1,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "AccountNameAlreadyExists",
+      "Já existe uma conta com este nome."
+    ],
+    [
+      "AccountNameInvalid",
+      "O nome da conta deve ter no mínimo 3 caracteres e está restrito aos caracteres de a-z, 0-9 e _"
+    ],
+    [
+      "EmailInvalid",
+      "Endereço de e-mail inválido."
+    ],
+    [
+      "EmailAlreadyExists",
+      "Já existe uma conta com este endereço de e-mail."
+    ],
+    [
+      "AccountDoesNotExist",
+      "A conta especificada não existe."
+    ],
+    [
+      "InvalidPassword",
+      "Senha incorreta para esta conta."
+    ],
+    [
+      "AlreadyLoggedOn",
+      "A operação não pode ser concluída porque esta conta já foi acessada por outra pessoa."
+    ],
+    [
+      "InvalidProtocolVersion",
+      "Há uma atualização obrigatória para você. Por favor, reinicie o Path of Exile."
+    ],
+    [
+      "NotAllowedGameLogin",
+      "O acesso ao jogo está desabilitado para esta conta no momento."
+    ],
+    [
+      "OtherAccountLoggedOn",
+      "Outra pessoa entrou com esta conta."
+    ],
+    [
+      "AccountNotLoggedIn",
+      "Esta operação requer que você esteja conectado."
+    ],
+    [
+      "Timeout",
+      "Tempo limite excedido para a operação."
+    ],
+    [
+      "Disconnected",
+      "Desconectado do servidor."
+    ],
+    [
+      "TerrainGenerationOutOfSync",
+      "O gerador de terreno do cliente está dessincronizado com o servidor. Por favor, crie uma nova instância e tente novamente."
+    ],
+    [
+      "UnexpectedDisconnect",
+      "Você foi inesperadamente desconectado."
+    ],
+    [
+      "CharacterDoesNotExist",
+      "O personagem especificado não existe."
+    ],
+    [
+      "NotCharacterOwner",
+      "Foi feita uma tentativa de recuperar um personagem que não é dessa conta."
+    ],
+    [
+      "LinkedItemDoesNotExist",
+      "O item ligado especificado não existe."
+    ],
+    [
+      "DatabaseError",
+      "Ocorreu um erro inesperado no banco de dados. Tente novamente."
+    ],
+    [
+      "TransferredToInstance",
+      "A conta foi transferida para outra instância."
+    ],
+    [
+      "CharacterNameAlreadyExists",
+      "Já existe um personagem com este nome."
+    ],
+    [
+      "CharacterNameInvalid",
+      "O nome do personagem contém caracteres inválidos. Nomes válidos possuem apenas letras e o símbolo de underline."
+    ],
+    [
+      "CharacterNameTooShort",
+      "O nome do personagem é muito curto."
+    ],
+    [
+      "CharacterNameTooLong",
+      "O nome do personagem é muito longo."
+    ],
+    [
+      "CharacterInvalidClass",
+      "Classe de personagem inválida."
+    ],
+    [
+      "LeagueDoesNotExist",
+      "Esta liga não existe."
+    ],
+    [
+      "InvalidCharacterFlags",
+      "Bandeiras de personagem inválidas."
+    ],
+    [
+      "LeagueNameAlreadyExists",
+      "Já existe uma liga com este nome."
+    ],
+    [
+      "LeagueNameInvalid",
+      "Nome de liga inválido."
+    ],
+    [
+      "LeagueDescriptionInvalid",
+      "Descrição de liga inválida."
+    ],
+    [
+      "AlreadyInParty",
+      "A operação não pode ser concluída porque você já está em um grupo."
+    ],
+    [
+      "NotItemOwner",
+      "Seu personagem não é o dono deste item."
+    ],
+    [
+      "NotAPartyMember",
+      "O alvo dessa operação não era um membro do grupo."
+    ],
+    [
+      "PartyPromotionRequired",
+      "Você não pode executar esta operação porque você não é um membro promovido do grupo"
+    ],
+    [
+      "PartyDoesNotExist",
+      "O grupo não existe."
+    ],
+    [
+      "ServiceDoesNotExist",
+      "O serviço não existe."
+    ],
+    [
+      "CommandInvalid",
+      "O serviço não responde a este comando ou houve um erro de sintaxe."
+    ],
+    [
+      "DestinationUnreachable",
+      "Impossível contatar o serviço."
+    ],
+    [
+      "NotInPartyWith",
+      "Você deve estar em um grupo com este jogador."
+    ],
+    [
+      "NotInParty",
+      "Você não está neste grupo."
+    ],
+    [
+      "InstanceFull",
+      "A instância está cheia."
+    ],
+    [
+      "InvalidInstanceTransfer",
+      "Não é permitido mudar para essa instância utilizando este método."
+    ],
+    [
+      "PortalDoesNotExist",
+      "O outro lado do portal desconectou."
+    ],
+    [
+      "OutOfYourLeague",
+      "Este personagem não está na sua liga (e você sabe disso)."
+    ],
+    [
+      "DownForMaintenance",
+      "O servidor está em manutenção e indisponível no momento. Tente novamente mais tarde."
+    ],
+    [
+      "InstanceAuthenticationInvalid",
+      "Sua autenticação para transferência de instância foi inválida."
+    ],
+    [
+      "PartyFull",
+      "Seu grupo está cheio."
+    ],
+    [
+      "TooManyCharacters",
+      "Você não tem espaços de personagem restantes."
+    ],
+    [
+      "InvalidActivationKey",
+      "Chave de ativação inválida."
+    ],
+    [
+      "EmailValidationRequired",
+      "Já foi criada uma conta com este endereço de e-mail. Você deve verificar sua conta por e-mail antes de entrar."
+    ],
+    [
+      "MissingRequiredField",
+      "Por favor, preencha todos os campos obrigatórios."
+    ],
+    [
+      "InvalidArgument",
+      "Um argumento foi inválido."
+    ],
+    [
+      "GameComplete",
+      "O jogo foi encerrado."
+    ],
+    [
+      "LeagueHasEnded",
+      "A liga foi encerrada. Você não pode criar mais personagens."
+    ],
+    [
+      "LeagueClosedForEntry",
+      "Entrada para essa liga foi fechada."
+    ],
+    [
+      "AlreadyOnIgnoreList",
+      "Esta conta já está na sua lista de ignorados."
+    ],
+    [
+      "NotOnIgnoreList",
+      "Esta conta não está na sua lista de ignorados."
+    ],
+    [
+      "IgnoreListFull",
+      "Sua lista de ignorados está cheia."
+    ],
+    [
+      "AddToIgnoreListFailed",
+      "Impossível adicionar {0} à lista de ignorados porque: {1}"
+    ],
+    [
+      "AddedToIgnoreList",
+      "{0} foi adicionado à sua lista de ignorados."
+    ],
+    [
+      "RemoveFromIgnoreListFailed",
+      "Impossível remover {0} da lista de ignorados porque: {1}"
+    ],
+    [
+      "RemovedFromIgnoreList",
+      "{0} foi removido da sua lista de ignorados."
+    ],
+    [
+      "FailedToClearIgnoreList",
+      "Impossível limpar sua lista de ignorados porque: {0}"
+    ],
+    [
+      "IgnoreListCleared",
+      "Sua lista de ignorados foi limpa."
+    ],
+    [
+      "FailedToAddNamedFriend",
+      "Impossível adicionar {0} à lista de amigos porque: {1}"
+    ],
+    [
+      "FailedToAddUnnamedFriend",
+      "Impossível adicionar a conta à lista de amigos porque: {0}"
+    ],
+    [
+      "FailedToAcceptFriend",
+      "Impossível aceitar a solicitação de amizade porque: {0}"
+    ],
+    [
+      "FailedToRemoveFriend",
+      "Impossível remover o amigo da lista porque: {0}"
+    ],
+    [
+      "TriedToFriendSelf",
+      "Você não pode adicionar a si próprio como amigo."
+    ],
+    [
+      "AccountBanned",
+      "Sua conta foi banida por um administrador."
+    ],
+    [
+      "AccountChildLocked",
+      "Sua conta foi bloqueada pelos seus pais."
+    ],
+    [
+      "LoginRateLimited",
+      "Você tentou entrar muitas vezes em um curto período de tempo. Tente novamente mais tarde."
+    ],
+    [
+      "AccountLocked",
+      "Sua conta foi bloqueada. Por favor, entre em contato com o suporte."
+    ],
+    [
+      "NotAccountOwner",
+      "A operação não pode ser executada porque a conta não pertence a esta instância."
+    ],
+    [
+      "TemporaryLockout",
+      "Sua conta foi bloqueada temporariamente enquanto um administrador verifica isso."
+    ],
+    [
+      "Kicked",
+      "Você foi chutado do servidor por um administrador."
+    ],
+    [
+      "StashTabDoesNotExist",
+      "A aba do baú especificada não existe."
+    ],
+    [
+      "LeaguePasswordInvalid",
+      "Senha incorreta para esta liga."
+    ],
+    [
+      "InstanceRateLimited",
+      "Você foi chutado por executar ações demais num período muito curto."
+    ],
+    [
+      "FriendsListFull",
+      "Sua lista de amigos alcançou o limite máximo."
+    ],
+    [
+      "NotOnFriendsList",
+      "Esta conta não está na sua lista de amigos."
+    ],
+    [
+      "AlreadyOnFriendsList",
+      "Esta conta já está na sua lista de amigos."
+    ],
+    [
+      "LeagueUnavailableToNonBeta",
+      "Esta liga só está disponível para jogadores do Beta."
+    ],
+    [
+      "InstanceDoesNotExist",
+      "A instância não existe."
+    ],
+    [
+      "Muted",
+      "Você não pode executar esta ação enquanto estiver silenciado."
+    ],
+    [
+      "Ignored",
+      "Você foi ignorado pelo jogador alvo."
+    ],
+    [
+      "PvPMatchDoesNotExist",
+      "Este tipo de partida PvP não existe."
+    ],
+    [
+      "ItemDoesNotExist",
+      "O item especificado não existe."
+    ],
+    [
+      "NeedNormalStashTab",
+      "Você deve ter ao menos uma aba do baú normal para aprimorar."
+    ],
+    [
+      "NotEnoughCredit",
+      "Você não tem créditos suficientes para comprar este item."
+    ],
+    [
+      "PackagePurchaseIncomplete",
+      "Sua compra não foi concluída com sucesso. Por favor, entre em contato com o suporte."
+    ],
+    [
+      "MultiplePurchasesNotAllowed",
+      "Você só pode comprar esta microtransação uma vez."
+    ],
+    [
+      "CantDeleteWithMicrotransactions",
+      "Por favor, remova todos os efeitos cosméticos dos itens nesse personagem primeiro. Você pode fazer isso no Baú de Microtransações."
+    ],
+    [
+      "NotEnoughRoomForItem",
+      "Espaço insuficiente para o item."
+    ],
+    [
+      "SavedCredentialsNewLocation",
+      "Você está conectando de um novo lugar. Por favor, insira sua senha novamente."
+    ],
+    [
+      "SavedCredentialsBad",
+      "Suas credenciais salvas estão desatualizadas. Por favor, insira sua senha novamente."
+    ],
+    [
+      "LoginRequiresUnlockCode",
+      "Sua conta foi bloqueada até que você insira um código de desbloqueio de seu e-mail."
+    ],
+    [
+      "UnlockCodeIncorrect",
+      "O código de desbloqueio inserido está incorreto."
+    ],
+    [
+      "UnlockEmailTooSoon",
+      "O último e-mail de desbloqueio foi enviado há muito pouco tempo."
+    ],
+    [
+      "DailyDealDoesNotExist",
+      "Promoção do Dia não existe."
+    ],
+    [
+      "MicrotransactionDoesNotExist",
+      "Microtransação não existe."
+    ],
+    [
+      "AccountNameDisallowed",
+      "Nome de conta não permitido."
+    ],
+    [
+      "BannedLoginIp",
+      "Seu IP foi banido. Por favor, entre em contato com o suporte se você acredita que isso foi um erro."
+    ],
+    [
+      "GeneralFailure",
+      "Ocorreu um problema inesperado."
+    ],
+    [
+      "CurrencyTradingPrevented",
+      "Você não pode negociar moeda ou itens únicos com outros jogadores até ter alcançado o nível 25 em ao menos um personagem em sua conta."
+    ],
+    [
+      "AccountAlreadyHasSteam",
+      "Esta conta já tem uma conta do Steam associada."
+    ],
+    [
+      "SteamAssociateEmailSent",
+      "Um e-mail foi enviado para confirmar que você é o proprietário dessa conta. Por favor, clique no link em seu e-mail para continuar."
+    ],
+    [
+      "SteamIdAlreadyInUse",
+      "Esta conta do Steam já tem uma conta de Path of Exile associada."
+    ],
+    [
+      "NoAssociatedSteamId",
+      "Esta conta não tem uma conta do Steam associada."
+    ],
+    [
+      "MapDeviceBusy",
+      "Falha na ativação. O dispositivo está ocupado."
+    ],
+    [
+      "MapDeviceTooManyItems",
+      "Falha na ativação."
+    ],
+    [
+      "MapDeviceTooManyItemsSound",
+      "Falha na ativação. Você ouve um som distante."
+    ],
+    [
+      "MapDeviceNotMap",
+      "Falha na ativação. Não há nenhum mapa no dispositivo de mapas."
+    ],
+    [
+      "MapDeviceCreateInstanceFailed",
+      "Falha na ativação. Impossível abrir portais para a área."
+    ],
+    [
+      "MapDeviceCancelled",
+      "Ativação cancelada."
+    ],
+    [
+      "MapDeviceEmpty",
+      "Falha na ativação. Este dispositivo requer um mapa."
+    ],
+    [
+      "PlayerDisconnected",
+      "{0} saiu da área."
+    ],
+    [
+      "PlayerJoined",
+      "{0} entrou na área."
+    ],
+    [
+      "EnteredArea",
+      "Você entrou em: {0}"
+    ],
+    [
+      "LeagueNotYetStarted",
+      "A liga ainda não começou e portanto você não pode se mover. Quando a liga começar você poderá se mover."
+    ],
+    [
+      "LeagueAlreadyEnded",
+      "Esta liga já encerrou."
+    ],
+    [
+      "LadderRankAlive",
+      "{1}. {0}, {3} Nível {2}, Exp: {4}"
+    ],
+    [
+      "LadderRankDead",
+      "{1}. {0} (Morto), {3} Nível {2}, Exp: {4}"
+    ],
+    [
+      "LadderRankTimed",
+      "{1}. {0}, {3} Nível {2}, Tempo: {4}"
+    ],
+    [
+      "LevelUp",
+      "{0} ({1}) chegou no nível {2}"
+    ],
+    [
+      "AlreadyInPVPQueue",
+      "Você deve cancelar sua fila PvP antes."
+    ],
+    [
+      "MissingRequiredQuestState",
+      "Você não tem o estado da missão necessário."
+    ],
+    [
+      "FailedToJoinAnyInstances",
+      "Erro: Falha ao entrar em qualquer instância."
+    ],
+    [
+      "FailedToJoinInstance",
+      "Erro: Falha ao entrar na instância porque: {0}"
+    ],
+    [
+      "FailedToConnectToInstance",
+      "Falha ao conectar à instância."
+    ],
+    [
+      "FailedToApplyCurrency",
+      "Falha ao aplicar o item: {0}"
+    ],
+    [
+      "TooManyGlobalItemLinks",
+      "Você não pode enviar mais de {0} itens no chat global."
+    ],
+    [
+      "MutedUntilSeconds",
+      "Sua conta foi silenciada por um GM. Você poderá falar novamente em {0}."
+    ],
+    [
+      "ObaPlayerJoined",
+      "Você deve ser corajoso ou estúpido demais se pensa que vai levar meu tesouro daqui e viver. De qualquer forma, eu te aplaudo!"
+    ],
+    [
+      "ObaDoorUnlocked",
+      "Prossiga, exilado, e pegue o que puder, enquanto puder."
+    ],
+    [
+      "ObaBeginDeathCount",
+      "A corrupção está crescendo. Apresse-se, antes que ela te consuma como fez comigo."
+    ],
+    [
+      "ObaFinalCountdown",
+      "{0}"
+    ],
+    [
+      "ObaKillPlayer",
+      "Aah! Você é indigno de levar meu legado. Alimente a corrupção com seu cadáver. "
+    ],
+    [
+      "Oba75PercentOxygen",
+      "O Pesadelo tem seu cheiro. Agora ele tem fome da sua carne."
+    ],
+    [
+      "Oba50PercentOxygen",
+      "Seu copo está meio vazio ou meio cheio, exilado?"
+    ],
+    [
+      "Oba25PercentOxygen",
+      "Decepcionante. Parece que a corrupção levará o melhor de você no fim das contas. "
+    ],
+    [
+      "CowardsTrialNextWave",
+      "A escuridão paira iminente..."
+    ],
+    [
+      "CowardsTrialRoomClear",
+      "A sala cresce firme e silenciosa..."
+    ],
+    [
+      "CowardsTrialLevelClear",
+      "A atmosfera opressora dissipa lentamente..."
+    ],
+    [
+      "VaalKillOversoul",
+      "Você precisa matar o Sobrealma Vaal."
+    ],
+    [
+      "VaalDeliverAmulets",
+      "Você precisa dar os amuletos dos bandidos para Eramir e adquirir o Ápice."
+    ],
+    [
+      "VaalAcquireAmulets",
+      "Você precisa adquirir os amuletos dos lordes bandidos."
+    ],
+    [
+      "VaalGetApexDex",
+      "Você precisa tomar o Ápice de Kraityn."
+    ],
+    [
+      "VaalGetApexStr",
+      "Você precisa tomar o Ápice de Oak."
+    ],
+    [
+      "VaalGetApexInt",
+      "Você precisa tomar o Ápice de Alira."
+    ],
+    [
+      "VaalGetApexTown",
+      "Você precisa tomar o Ápice de Eramir."
+    ],
+    [
+      "MonsterRemaining1",
+      "1 monstro restante."
+    ],
+    [
+      "MonstersRemainingN",
+      "{0} monstros restantes."
+    ],
+    [
+      "MonstersRemainingMoreThan50",
+      "Mais de 50 monstros restantes."
+    ],
+    [
+      "PlayerDeathCount1",
+      "Você morreu 1 vez."
+    ],
+    [
+      "PlayerDeathCountN",
+      "Você morreu {0} vezes."
+    ],
+    [
+      "PlayerKillCount",
+      "Você matou {0} monstros."
+    ],
+    [
+      "PvPStats1v1",
+      "1v1 V/D/E: {0}/{1}/{2}"
+    ],
+    [
+      "PvPStats3v3",
+      "3v3 V/D/E: {0}/{1}/{2}"
+    ],
+    [
+      "PvPPlayerJoinedTeam",
+      "{0} entrou na equipe {1}."
+    ],
+    [
+      "PvPNotEnoughPlayers",
+      "Falha ao iniciar a partida. Não entraram jogadores suficientes."
+    ],
+    [
+      "PvPPlayerKilled",
+      "{0} foi morto por {1}."
+    ],
+    [
+      "PvPPartyTooLarge",
+      "Incapaz de juntar-se ao PvP: Membros demais do grupo para esse tipo de PvP."
+    ],
+    [
+      "PvPPlayerAlreadyInQueue",
+      "Incapaz de juntar-se ao PvP: Você já está na fila do PvP."
+    ],
+    [
+      "PvPPartyMemberAlreadyInQueue",
+      "Incapaz de juntar-se ao PvP: Um membro do grupo já está na fila do PvP."
+    ],
+    [
+      "PvPPlayerTooFarQuest",
+      "Incapaz de juntar-se ao PvP: Você progrediu além do limite da missão para esse tipo de PvP."
+    ],
+    [
+      "PvPPartyMemberTooFarQuest",
+      "Incapaz de juntar-se ao PvP: Um membro do grupo progrediu além do limite da missão para esse tipo de PvP."
+    ],
+    [
+      "PvPPlayerTooHighLevel",
+      "Incapaz de juntar-se ao PvP: Você está acima do nível máximo para esse tipo de PvP."
+    ],
+    [
+      "PvPPartyMemberTooHighLevel",
+      "Incapaz de juntar-se ao PvP: Um membro do grupo está acima do nível máximo para esse tipo de PvP."
+    ],
+    [
+      "PvPPlayerHasAscendancy",
+      "Incapaz de juntar-se ao PvP: Você escolheu uma Classe Ascendente que não é permitida nesse tipo de PvP."
+    ],
+    [
+      "PvPPartyMemberHasAscendancy",
+      "Incapaz de juntar-se ao PvP: Um membro do grupo escolheu uma Classe Ascendente que não é permitida nesse tipo de PvP."
+    ],
+    [
+      "PvPJoinFail",
+      "Impossível entrar na fila PvP porque: {0}"
+    ],
+    [
+      "PvPQueueCancelled",
+      "Fila PvP cancelada."
+    ],
+    [
+      "PvPQueueCancelledBy",
+      "Fila PvP cancelada por {0}."
+    ],
+    [
+      "PvPMatchListUnreachable",
+      "Impossível obter lista de partidas PvP porque: {0}"
+    ],
+    [
+      "PvPDisabled",
+      "O PvP está desabilitado aqui."
+    ],
+    [
+      "PlayerSuicide",
+      "{0} cometeu suicídio."
+    ],
+    [
+      "PlayerSlain",
+      "{0} foi morto."
+    ],
+    [
+      "NoCharacterSpecified",
+      "Por favor, especifique um nome de personagem."
+    ],
+    [
+      "WhoIsOffline",
+      "{0} ({3}) nível {2} na liga {1} que não está online no momento."
+    ],
+    [
+      "WhoIsOnline",
+      "{0} ({3}) nível {2} na liga {1} que está jogando em {4} no momento."
+    ],
+    [
+      "ItemOnCursorLevel",
+      "O item no cursor é nível {0}."
+    ],
+    [
+      "NoItemOnCursor",
+      "Não há nenhum item no cursor."
+    ],
+    [
+      "ItemOnCursorHasNoLevel",
+      "O item no cursor não tem um nível (ele precisa ser um que possa receber propriedades)."
+    ],
+    [
+      "FixMyHelmetSuccess",
+      "Elmo atualizado."
+    ],
+    [
+      "OperationFailed",
+      "Falha na operação."
+    ],
+    [
+      "FixMyHelmetAlreadyFixed",
+      "Este elmo já tem a identidade visual correta."
+    ],
+    [
+      "FixMyHelmetUnique",
+      "O elmo no cursor é Único."
+    ],
+    [
+      "FixMyHelmetNotHelmet",
+      "O item no cursor não é um elmo."
+    ],
+    [
+      "ItemHasMicrotransaction",
+      "Você não pode fazer isso em um item com um efeito de microtransação. Por favor, remova o efeito de microtransação e tente novamente."
+    ],
+    [
+      "BugReportNumber",
+      "Seu número de referência do relatório de erros é {0}."
+    ],
+    [
+      "PlayedTime",
+      "Você jogou por {0}."
+    ],
+    [
+      "CharacterAge",
+      "Seu personagem foi criado há {0}."
+    ],
+    [
+      "CharacterAgeUnknown",
+      "Seu personagem não tem registro de data de criação."
+    ],
+    [
+      "HelpCtrlClick",
+      "Ctrl+Clique numa transição de área ou ponto de passagem para criar uma nova instância de área"
+    ],
+    [
+      "ReceivedRespecPoint1",
+      "Você recebeu um Ponto de Restituição de Passivas."
+    ],
+    [
+      "ReceivedRespecPointN",
+      "Você recebeu {0} Pontos de Restituição de Passivas."
+    ],
+    [
+      "ReceivedPassivePoint1",
+      "Você recebeu um Ponto de Habilidade Passiva."
+    ],
+    [
+      "ReceivedPassivePointN",
+      "Você recebeu {0} Pontos de Habilidades Passivas."
+    ],
+    [
+      "ReceivedStatBonus",
+      "Você recebeu {0}."
+    ],
+    [
+      "LeagueTradeDisabled",
+      "Você não pode negociar nesta Liga."
+    ],
+    [
+      "TradeItemOnCursor",
+      "Você não pode negociar com um item no cursor."
+    ],
+    [
+      "TradePlayerBusy",
+      "Esse jogador está ocupado no momento."
+    ],
+    [
+      "TradeAccepted",
+      "Negociação aceita."
+    ],
+    [
+      "TradeCancelled",
+      "Negociação cancelada."
+    ],
+    [
+      "YouWereIgnored",
+      "Esse jogador te ignorou."
+    ],
+    [
+      "AchievementServerUnreachable",
+      "Erro: Impossível conectar ao servidor de conquistas."
+    ],
+    [
+      "DestroyCursorItem",
+      "Item no cursor destruído."
+    ],
+    [
+      "DestroyItemInTrade",
+      "Você não pode destruir itens na negociação."
+    ],
+    [
+      "DestroyQuestItem",
+      "Você não pode destruir itens de missão."
+    ],
+    [
+      "DestroyMicrotransactions",
+      "Você não pode destruir itens com efeitos de microtransação aplicados."
+    ],
+    [
+      "DestroyBanditRespec",
+      "Este item não pode ser destruído, mas você pode vendê-lo a um NPC para obter um reembolso."
+    ],
+    [
+      "CannotCreatePublicPartyYet",
+      "Você deve alcançar a primeira vila antes de criar grupos públicos."
+    ],
+    [
+      "PublicPartyListUnreachable",
+      "Impossível obter lista de grupos públicos porque: {0}"
+    ],
+    [
+      "FullPassiveSkillRefund",
+      "Suas habilidades passivas foram devolvidas."
+    ],
+    [
+      "TeleportFailed",
+      "Falha no teleporte: impossível colocar jogador no destino."
+    ],
+    [
+      "TutorialShowItems",
+      "Mantenha o Alt pressionado para exibir itens no chão."
+    ],
+    [
+      "FinishedDescent",
+      "Parabéns, você conquistou a Descent!"
+    ],
+    [
+      "JoinedGlobalChannel",
+      "Você entrou no canal de chat global {1} {0}."
+    ],
+    [
+      "JoinedTradeChannel",
+      "Você entrou no canal de chat de comércio {1} {0}."
+    ],
+    [
+      "ShopPackageDoesNotExist",
+      "Pacote da Loja não existe."
+    ],
+    [
+      "ShopPackagePurchaseFailed",
+      "Falha ao comprar o pacote."
+    ],
+    [
+      "ShopPackageTransactionDoesNotExist",
+      "Transação da loja não existe."
+    ],
+    [
+      "DownForMaintenanceTemp",
+      "O servidor que você estava foi derrubado para manutenção. Por favor, entre novamente."
+    ],
+    [
+      "ThirdPartyIdAlreadyExists",
+      "Esta conta de terceiro já tem uma conta de Path of Exile associada."
+    ],
+    [
+      "GuildNameTooLong",
+      "O nome da guilda é grande demais."
+    ],
+    [
+      "GuildTagTooLong",
+      "A marca da guilda é grande demais."
+    ],
+    [
+      "AccountAlreadyInGuild",
+      "Esta conta já está em uma guilda."
+    ],
+    [
+      "GuildDoesNotExist",
+      "A guilda especificada não foi encontrada."
+    ],
+    [
+      "GuildMustBeOfficer",
+      "Você deve ser um líder ou oficial de guilda para executar esta ação."
+    ],
+    [
+      "NotInGuild",
+      "A conta não faz parte dessa guilda."
+    ],
+    [
+      "GuildFull",
+      "A guilda está cheia e não pode adicionar mais membros."
+    ],
+    [
+      "GuildMustBeLeader",
+      "Você deve ser o líder da guilda para executar esta ação."
+    ],
+    [
+      "DisallowedOnSelf",
+      "Você não pode fazer isso consigo mesmo."
+    ],
+    [
+      "TooManyGuildInvites",
+      "O personagem já foi convidado para guildas demais."
+    ],
+    [
+      "GuildStatusMessageTooLong",
+      "A mensagem do status da guilda é comprida demais."
+    ],
+    [
+      "NotEnoughPointsForTransaction",
+      "Você não tem pontos suficientes para completar esta transação."
+    ],
+    [
+      "GuildMustBeMember",
+      "Você deve ser um membro da guilda para executar esta ação."
+    ],
+    [
+      "RemoteStashAlreadyLocked",
+      "O baú remoto já está trancado. Tente novamente em breve."
+    ],
+    [
+      "RemoteStashOperationRequiresLock",
+      "O baú remoto precisa de um cadeado antes que esta operação possa ser executada"
+    ],
+    [
+      "BadGuildStashPermissions",
+      "Você não tem permissão para executar esta ação no baú da guilda."
+    ],
+    [
+      "MaximumGuildSlots",
+      "Você não tem mais espaços na guilda permitidos."
+    ],
+    [
+      "GuildTagTooShort",
+      "A marca da Guilda deve ter ao menos 3 caracteres."
+    ],
+    [
+      "GuildKickDisabledForAccount",
+      "Você não pode remover esta conta da guilda porque eles deram créditos de microtransação muito recentemente."
+    ],
+    [
+      "FriendNoteTooLong",
+      "Esta anotação de amigo é muito comprida."
+    ],
+    [
+      "TooHighLevelForCap",
+      "Esta área tem nível máximo de {0}"
+    ],
+    [
+      "PlayerWins",
+      "{0} venceu"
+    ],
+    [
+      "TooLowLevelToSendWhisper",
+      "Você não pode enviar sussurros até chegar no nível {0}"
+    ],
+    [
+      "TooLowLevelToSendChat",
+      "Você não pode falar no chat {0} até chegar no nível {1}"
+    ],
+    [
+      "ReachedRegularChatLimit",
+      "Por favor, aguarde antes de enviar outra mensagem no chat."
+    ],
+    [
+      "ReachedTradeChatLimit",
+      "Por favor, aguarde antes de enviar outra mensagem no chat de comércio."
+    ],
+    [
+      "PortalEffectChanged",
+      "Seu personagem agora utilizará o {0}."
+    ],
+    [
+      "PortraitFrameChanged",
+      "Seu personagem agora utilizará a {0}. Você deve deslogar e logar novamente para que a mudança tenha efeito."
+    ],
+    [
+      "CharacterPortraitChanged",
+      "Seu personagem agora utilizará a {0}. Você deve deslogar e logar novamente para que a mudança tenha efeito."
+    ],
+    [
+      "NoHideout",
+      "Este jogador não tem Refúgio nesta liga."
+    ],
+    [
+      "FailedToUseItem",
+      "Falha ao utilizar o item: {0}"
+    ],
+    [
+      "ObaCompleted",
+      "Haha! Você é de fato um poderoso aventureiro. Utilize o que eu te dei e espalhe meu legado por toda Wraeclast."
+    ],
+    [
+      "ArenaScoreTitle",
+      "Classificação atual: (Matou/Morreu)"
+    ],
+    [
+      "ArenaScore",
+      "{1}: {0} ({2}/{3})"
+    ],
+    [
+      "LostPassivePoint1",
+      "Você perdeu um Ponto de Habilidade Passiva."
+    ],
+    [
+      "LostPassivePointN",
+      "Você perdeu {0} Pontos de Habilidades Passivas."
+    ],
+    [
+      "LostStatBonus",
+      "Você perdeu {0}."
+    ],
+    [
+      "FFALadderUpdate",
+      "Agora você é o #{0} na área."
+    ],
+    [
+      "CraftingFailed",
+      "Falha na criação: {0}"
+    ],
+    [
+      "SpectatorJoined",
+      "{0} está assistindo agora."
+    ],
+    [
+      "LeagueStartingSoonGlobal",
+      "O próximo evento de corrida começa em {1}. Para entrar, vá para a tela de seleção de personagem e clique em Entrar na liga \"{0}\". Informações sobre este evento estão disponíveis no fórum de Eventos/Ligas."
+    ],
+    [
+      "LeagueStartingSoonLocal",
+      "A liga começará em {0}."
+    ],
+    [
+      "LeagueStartingNow",
+      "A liga começou!"
+    ],
+    [
+      "LeagueEndingMinutes",
+      "A liga encerrará em {0}."
+    ],
+    [
+      "LeagueFinished",
+      "A liga terminou!"
+    ],
+    [
+      "LeagueFirstToReachLevel",
+      "{0} foi o primeiro personagem a alcançar o nível {1}!"
+    ],
+    [
+      "LeagueFirstToEnterArea",
+      "{0} foi o primeiro personagem a entrar em {1}!"
+    ],
+    [
+      "LeagueFirstToEnterDelveLevelSolo",
+      "{0} foi o primeiro personagem a escavar sozinho até a profundidade {1}!"
+    ],
+    [
+      "LeagueFirstToEnterDelveLevelParty",
+      "{0} foi o primeiro personagem à Escavar até a profundidade {1}!"
+    ],
+    [
+      "LeagueFirstToFullyClear",
+      "{0} foi o primeiro personagem a limpar {1} completamente!"
+    ],
+    [
+      "LeagueFirstToDoQuest",
+      "{0} foi o primeiro personagem a {1}!"
+    ],
+    [
+      "RealmRestartingSoon",
+      "O servidor reiniciará em {0}."
+    ],
+    [
+      "RealmShuttingDownSown",
+      "O servidor será desligado em {0}."
+    ],
+    [
+      "RealmRestarting",
+      "Começando reinício do servidor..."
+    ],
+    [
+      "RealmShuttingDown",
+      "Começando desligamento do servidor..."
+    ],
+    [
+      "RealmRestartDeployPatchNotification",
+      "Estamos reiniciando o servidor para implementar a atualização {0}. As notas do patch estão no fórum de Atualizações. {1}."
+    ],
+    [
+      "RealmMaintenanceNotification",
+      "Estamos desligando o servidor para manutenção. {0}"
+    ],
+    [
+      "CharacterOffline",
+      "Esse personagem está offline."
+    ],
+    [
+      "CharacterNameOffline",
+      "{0} não está online."
+    ],
+    [
+      "CharacterDifferentLeague",
+      "Esse personagem está em uma liga diferente."
+    ],
+    [
+      "NotMutualFriends",
+      "Essa conta não aceitou sua solicitação de amizade."
+    ],
+    [
+      "CharacterNotInPvP",
+      "Esse personagem não está no PvP atualmente."
+    ],
+    [
+      "SpectateFollow",
+      "Você agora está na fila para assistir essa conta."
+    ],
+    [
+      "HideoutDoodadLimitReached",
+      "Impossível colocar outro objeto no refúgio. Você está limitado a um máximo de 750 objetos em seu refúgio."
+    ],
+    [
+      "HardcoreDeathAnnouncement",
+      "{0} (Nível {1}) morreu na posição {2} no ranking."
+    ],
+    [
+      "InteractErrorIncaBossSpawner",
+      "Isso parece precisar de uma chave triangular."
+    ],
+    [
+      "InteractErrorMalachaiPortal",
+      "Você não matou Malachai ou não estava na área quando ele foi morto."
+    ],
+    [
+      "InteractErrorMervielExit",
+      "Você não matou Merveil ou não estava na área quando ela foi morta."
+    ],
+    [
+      "InteractErrorHillockGate",
+      "Você deve matar Hillock antes."
+    ],
+    [
+      "InteractErrorTowerTransition",
+      "Você não matou Dominus ou não estava na área quando ele foi morto."
+    ],
+    [
+      "InteractErrorMineEntranceSeal",
+      "As portas estão trancadas por um Selo."
+    ],
+    [
+      "InteractErrorLockedDoor",
+      "A porta está trancada."
+    ],
+    [
+      "InteractErrorTowerKey",
+      "A Chave da Torre não foi utilizada para destrancar a porta."
+    ],
+    [
+      "InteractErrorPoisonTree",
+      "Raízes de árvore bloqueiam seu caminho.\r\nTalvez elas possam ser abertas mais tarde."
+    ],
+    [
+      "InsteractErrorUndyingBlockage",
+      "O caminho está bloqueado."
+    ],
+    [
+      "InteractErrorLocked",
+      "Está trancado."
+    ],
+    [
+      "InteractErrorBlockageTransition",
+      "O caminho está bloqueado."
+    ],
+    [
+      "InteractErrorSpikeBlockage",
+      "Isso parece precisar de algum tipo de chave."
+    ],
+    [
+      "InteractErrorGlyphWall",
+      "A parede parece precisar de três objetos com formatos estranhos."
+    ],
+    [
+      "InteractErrorWaterCave",
+      "Você deve encontrar uma forma de drenar a água primeiro."
+    ],
+    [
+      "InteractErrorNotYourCraftingTable",
+      "Você não pode utilizar as bancadas de artesanato de outras pessoas."
+    ],
+    [
+      "InteractErrorNotYourMapDevice",
+      "Você não pode utilizar o dispositivo de mapas de outras pessoas."
+    ],
+    [
+      "InteractErrorCoreTransition",
+      "Você deve abater todos os três guardiões do Malachai para acessar o Núcleo Negro."
+    ],
+    [
+      "InteractErrorCoreTransitionOrgans",
+      "Você deve abater todos os três guardiões do Malachai e entregar os órgãos à Piety para acessar o Núcleo Negro."
+    ],
+    [
+      "InteractErrorPietyGateTransition",
+      "Você deve lidar com Piety primeiro."
+    ],
+    [
+      "InteractErrorVinktarSquareGateLocked",
+      "O portão está transbordando com o poder dos Guardiões."
+    ],
+    [
+      "NotAllowedInPlayersHideout",
+      "Você não pode acessar a área deste jogador no momento."
+    ],
+    [
+      "CantChangeToHideoutFromHere",
+      "Você não pode ir para esta área daqui."
+    ],
+    [
+      "StrMissionStartPointRocks",
+      "A entrada desabou"
+    ],
+    [
+      "LoginTokenExpired",
+      "Suas credenciais expiraram. Por favor reinicie o jogo."
+    ],
+    [
+      "IgnoredPvP",
+      "Você foi ignorado."
+    ],
+    [
+      "LocalChatDisabledWhileSpectating",
+      "O chat local está desabilitado enquanto estiver assistindo o PvP."
+    ],
+    [
+      "AbandonDailyNotInHideout",
+      "Você só pode utilizar este comando dentro de seu Refúgio."
+    ],
+    [
+      "NoDailyActive",
+      "Você não tem uma missão diária aberta."
+    ],
+    [
+      "MissionComplete",
+      "Missão Completa. Você ganhou {0} de favor com o Mestre."
+    ],
+    [
+      "GrandmasterSaved",
+      "O arquivo Grão-Mestre foi salvo. A equipe da Grinding Gear Games será notificada."
+    ],
+    [
+      "LeagueFinishTimeRaceCompleted",
+      "Você completou o objetivo dessa corrida. Verifique a o tópico do ranking para ver a sua classificação."
+    ],
+    [
+      "LeagueFinishTimeRaceLogin",
+      "Você já completou os objetivos dessa corrida com este personagem."
+    ],
+    [
+      "CharacterNotFriendOrGuildmate",
+      "Essa conta não é de um amigo ou colega de guilda."
+    ],
+    [
+      "MapDeviceDisabled",
+      "O Dispositivo de Mapas está desabilitado nessa guilda."
+    ],
+    [
+      "PVPTeamDoesNotExist",
+      "A equipe PvP não foi registrada para este evento."
+    ],
+    [
+      "ForwardedToMasterShard",
+      "Esta solicitação foi encaminhada para o banco de dados mestre. Esta solicitação deve ser resolvida sem respostas."
+    ],
+    [
+      "PVPTournamentFinished",
+      "O torneio foi concluído."
+    ],
+    [
+      "ErrorNotInHideout",
+      "Você deve estar em seu Refúgio para fazer isso."
+    ],
+    [
+      "ClaimCraftingBenchSuccess",
+      "Adicionando bancada de artesanato ao seu baú do Refúgio."
+    ],
+    [
+      "CharacterIsPVPOnly",
+      "Personagens apenas de PvP não podem fazer isso."
+    ],
+    [
+      "StoppedSpectateFollow",
+      "Você não está mais na fila para assistir."
+    ],
+    [
+      "CannotTradeItemLockedToCharacter",
+      "O item não pode ser negociado ou modificado."
+    ],
+    [
+      "CannotTradeItemLockedToAccount",
+      "O item não pode ser negociado."
+    ],
+    [
+      "PvPRelocatingArena",
+      "Você está sendo movido para outra arena PvP para rebalancear o número de jogadores."
+    ],
+    [
+      "MapCraftingFailedCost",
+      "Você não tem saldo suficiente."
+    ],
+    [
+      "MapCraftingFailedTrade",
+      "Falha ao abrir o mapa. Não pode consumir itens enquanto uma janela de troca estiver aberta."
+    ],
+    [
+      "PvPMustHaveFullParty",
+      "Seu grupo não é grande o suficiente para jogar nesta partida PvP."
+    ],
+    [
+      "WithdrawnFromPVPTournament",
+      "Você desistiu desse torneio PvP."
+    ],
+    [
+      "SpectatingDisabled",
+      "Assistir está desabilitado para esta partida."
+    ],
+    [
+      "ChestLocked",
+      "Este baú está trancado."
+    ],
+    [
+      "HideoutPortalLocked",
+      "Portais de Mapas foram travados."
+    ],
+    [
+      "PVPCTFOwnFlag",
+      "Traga a bandeira de outra equipe aqui para ganhar um ponto."
+    ],
+    [
+      "SpiderChestLocked",
+      "Você ouve algo deslizando por perto..."
+    ],
+    [
+      "AFKModeEnabled",
+      "Modo LDT Ativado. Reposta automática \"{0}\""
+    ],
+    [
+      "AFKModeDisabled",
+      "Modo LDT Desativado."
+    ],
+    [
+      "DNDModeEnabled",
+      "Modo NP Ativado. Reposta automática \"{0}\""
+    ],
+    [
+      "DNDModeDisabled",
+      "Modo NP Desativado."
+    ],
+    [
+      "AutoReplyEnabled",
+      "Resposta automática: \"{0}\""
+    ],
+    [
+      "IncaApexDoorLocked",
+      "Esta porta não pode ser aberta no momento."
+    ],
+    [
+      "CharacterNameExistsButCanExpire",
+      "Criar este personagem expiraria o nome de outro personagem."
+    ],
+    [
+      "CharacterIsNotExpired",
+      "O nome deste personagem não expirou."
+    ],
+    [
+      "CharacterIsExpired",
+      "O nome deste personagem foi tomado por outro jogador devido à inatividade nesta conta. Ele deve ser renomeado."
+    ],
+    [
+      "OrphanedInstance",
+      "O servidor do jogo perdeu contato com o reino."
+    ],
+    [
+      "ErrorLabyrinthLocked",
+      "Este Labirinto já foi aberto, por isso não pode mais ser entrado. Visite uma nova Praça dos Aspirantes para iniciar um novo Labirinto."
+    ],
+    [
+      "ErrorZanaMissionLocked",
+      "Você já visitou esta área instável antes, e não pode acessá-la novamente."
+    ],
+    [
+      "InteractErrorDoorRequiresGoldenKey",
+      "Esta porta está trancada. Você precisa de uma Chave Dourada para abrir."
+    ],
+    [
+      "InteractErrorDoorRequiresSilverKey",
+      "Esta porta está trancada. Você precisa de uma Chave Prateada para abrir."
+    ],
+    [
+      "InteractErrorDoorRequiresBronzeKey",
+      "Esta porta está trancada. Você precisa de uma Chave de Bronze para abrir."
+    ],
+    [
+      "TooManyCharacterSlots",
+      "Você não pode ter mais de 255 espaços para personagens em uma única conta."
+    ],
+    [
+      "EchoClientString",
+      "{0}"
+    ],
+    [
+      "ErrorCannotWhisperIgnored",
+      "Você não pode sussurrar para pessoas em sua lista de ignorados."
+    ],
+    [
+      "AccountIsOnline",
+      "Esta conta está online no momento."
+    ],
+    [
+      "IzaroChestLocked",
+      "Esse baú está trancado. Uma Chave do Tesouro é necessária para abri-lo."
+    ],
+    [
+      "ProfanityCheckFailed",
+      "O texto digitado contém profanidade."
+    ],
+    [
+      "ErrorCannotChangeAscendancyClass",
+      "Você não pode modificar sua classe Ascendente nesta Liga. "
+    ],
+    [
+      "TencentAasLoginDenied",
+      "Você é menor de idade e não pode logar."
+    ],
+    [
+      "TencentAasNotification",
+      "Você está jogando por {0} horas, por favor, considere fazer uma pausa."
+    ],
+    [
+      "TencentAasAlarm",
+      "Você jogou por mais de três horas e é menor de idade. Você não poderá logar até que tenha tido um descanso de cinco horas."
+    ],
+    [
+      "LeagueDisallowsCharacterDeletion",
+      "Esta liga não permite deletar personagens no momento."
+    ],
+    [
+      "ErrorCannotAccessMapLabyrinth",
+      "Você ainda não completou as Provações do Labirinto em Mapas."
+    ],
+    [
+      "ErrorCannotSealProphecy",
+      "Falha ao Selar a Profecia."
+    ],
+    [
+      "InviteErrorAlreadyInParty",
+      "Convite de grupo falhou. Esse personagem já está em um grupo."
+    ],
+    [
+      "TencentCannotAccessMapDevice",
+      "Complete o Labirinto do Lorde para ganhar acesso ao Dispositivo de Mapas. Viaje para o Acampamento de Sarn e clique na Placa de Ascensão para descobrir mais sobre o Labirinto. Termine as Provações de Ascensão e derrote o Imperador Izaro em seu Labirinto para ganhar acesso aos mapas avançados."
+    ],
+    [
+      "DailyPortalBlocked",
+      "Não é possível abrir missão diária: Localização do portal está bloqueada. Use o Modo de Edição para mover o mestre para outro local, e tente novamente."
+    ],
+    [
+      "OfferDoesNotExist",
+      "A oferta não existe mais."
+    ],
+    [
+      "OfferInWrongState",
+      "A oferta está em um estado inválido para essa ação."
+    ],
+    [
+      "OfferContainsUntradeableItems",
+      "A oferta não pode ser enviada, pois ela possui itens não negociáveis."
+    ],
+    [
+      "NoOffersOnYourOwnItems",
+      "Você não pode fazer uma oferta neste item, pois você já o possui."
+    ],
+    [
+      "PublicListingLockedDueToLevel",
+      "Você não pode listar itens publicamente à venda até que tenha tido pelo menos um personagem nível 25 na sua conta."
+    ],
+    [
+      "OffersLockedDueToLevel",
+      "Você não pode fazer ofertas em itens até que tenha tido pelo menos um personagem nível 25 na sua conta."
+    ],
+    [
+      "AccountNoLongerHasItem",
+      "O jogador não possui mais o item listado."
+    ],
+    [
+      "TooManyBuyerOffers",
+      "Você só pode ter 5 ofertas ativas por vez, por favor, resolva ofertas ativas para criar novas."
+    ],
+    [
+      "TooManySellerOffers",
+      "O vendedor possui muitas ofertas em seus itens. Por favor, tente novamente mais tarde."
+    ],
+    [
+      "AlreadyHaveOfferOnItem",
+      "Você já possui uma oferta em andamento para este item."
+    ],
+    [
+      "SentOfferTooRecently",
+      "Você enviou uma oferta para essa conta há pouco tempo."
+    ],
+    [
+      "EventErrorLevelTooLow",
+      "Você deve ser no mínimo nível {0} para entrar neste evento."
+    ],
+    [
+      "EnteredPathOfEnduranceLevel",
+      "Você alcançou Nível {0}"
+    ],
+    [
+      "EventEndsIn",
+      "Este evento termina em {0}"
+    ],
+    [
+      "GuildTagAlreadyExists",
+      "Essa marca de guilda já está sendo usada."
+    ],
+    [
+      "GlobalChatOnCooldown",
+      "Por favor, aguarde alguns segundos antes de usar o Chat Global novamente."
+    ],
+    [
+      "InteractErrorKaruiDoorLocked",
+      "O portão está trancado, mas parece estar faltando um olho..."
+    ],
+    [
+      "LabyrinthErrorPartyTooBigTencent",
+      "Você só pode entrar no Labirinto com {0} ou menos jogadores no seu grupo."
+    ],
+    [
+      "InteractErrorNoSignOfPurity",
+      "Você precisa do Sinal da Pureza para ativar isso."
+    ],
+    [
+      "InteractErrorCannotAccessEndgame",
+      "Você não pode acessar o conteúdo avançado antes de completar o Ato 10."
+    ],
+    [
+      "CharacterNameContainsProfanity",
+      "Este nome de Personagem é proibido."
+    ],
+    [
+      "ConsoleDisconnectedBecauseActiveUserChanged",
+      "Desconectado porque o usuário ativo saiu"
+    ],
+    [
+      "ConsoleDisconnectedBecauseSuspending",
+      "Desconectado porque o jogo foi suspenso"
+    ],
+    [
+      "InteractErrorNeedSunMoonOrbs",
+      "Você precisa do Orbe Lunar e do Orbe Solar para ativar isto."
+    ],
+    [
+      "TheBeaconLever",
+      "A tocha não tem combustível suficiente para ser acesa."
+    ],
+    [
+      "OnlyOneAllowedInHideout",
+      "Você não pode posicionar mais de um item deste tipo no seu Refúgio."
+    ],
+    [
+      "AccountLoggedInOnOtherRealm",
+      "Você não pode estar conectado nos servidores beta e normal do Path of Exile ao mesmo tempo."
+    ],
+    [
+      "KitavaArenaLocked",
+      "Não é seguro se teleportar para esta área."
+    ],
+    [
+      "InteractErrorBeaconMissingFlag",
+      "Você precisa da Bandeira Negra da Caverna da Cólera para usar o Farol."
+    ],
+    [
+      "InteractErrorGreustShrine",
+      "Um antigo altar de Azmeri. Talvez Helena saiba algo sobre ele."
+    ],
+    [
+      "PantheonFailedToCreateSoulItem",
+      "A Alma Capturada falhou em ser gerada no Dispositivo de Mapas."
+    ],
+    [
+      "PantheonCannotConsumeVessel",
+      "Falha na ativação. O Chefe neste mapa não pode ter sua Alma capturada."
+    ],
+    [
+      "PantheonCannotConsumeVesselAlreadyCaptured",
+      "Falha na ativação. Você já capturou a Alma deste Chefe de Mapa."
+    ],
+    [
+      "ExitToLoginFailed",
+      "Falha ao conectar ao servidor de login. Por favor, conecte-se e tente novamente."
+    ],
+    [
+      "MessageDoesNotExist",
+      "A mensagem especificada não existe."
+    ],
+    [
+      "MessageTooLong",
+      "A mensagem é muito longa."
+    ],
+    [
+      "AreaErrorLevelTooLow",
+      "Você deve ser pelo menos Nível {0} para acessar esta área."
+    ],
+    [
+      "AreaErrorLevelTooLowGeneric",
+      "Você não atingiu um Nível alto o suficiente para acessar esta área."
+    ],
+    [
+      "TradeMarketCloseOfferWithItems",
+      "Você ainda possui itens presentes na oferta. Remova estes itens para fechar a oferta."
+    ],
+    [
+      "TradeMarketSendOfferWithNoItems",
+      "Você não pode enviar uma oferta sem oferecer itens monetários."
+    ],
+    [
+      "XboxLoginErrorNoLiveAccess",
+      "Não foi possível se conectar, pois o Xbox Live não pôde ser acessado."
+    ],
+    [
+      "ConsoleLoginErrorNoInternetConnection",
+      "Impossível fazer login por falta de conexão com a Internet."
+    ],
+    [
+      "ErrorChatIsFull",
+      "Falha ao juntar-se ao canal de chat requisitado pois ele está cheio."
+    ],
+    [
+      "LoginConnectionLimitReached",
+      "O servidor de login está atualmente sobrecarregado. Por favor, tente novamente mais tarde."
+    ],
+    [
+      "TooManyObjects",
+      "Objetos demais foram requisitados. Por favor, contate o suporte."
+    ],
+    [
+      "SubtabAlreadyExists",
+      "Esta aba secundária já existe."
+    ],
+    [
+      "MaxInventoryColumns",
+      "You have reached the maximum number of inventory columns allowed. CHINA ONLY NOT FOR WORLDWIDE REALM"
+    ],
+    [
+      "IncorrectInventoryColumnUpgrade",
+      "You are trying to purchase the inventory upgrade for the incorrect number of existing slots. CHINA ONLY NOT FOR WORLDWIDE REALM"
+    ],
+    [
+      "GenericRateLimit",
+      "Falha na solicitação porque você fez várias solicitações em um curto espaço de tempo."
+    ],
+    [
+      "RequestInProgress",
+      "Um pedido já está sendo processado. Por favor, tente novamente mais tarde."
+    ],
+    [
+      "ItemNotInStash",
+      "O item não está no baú designado."
+    ],
+    [
+      "BestiaryNetChanged",
+      "Seu personagem agora utiliza {0} para capturar Bestas."
+    ],
+    [
+      "ErrorPlayerHasNoMenagerie",
+      "Este jogador não possui um Viveiro."
+    ],
+    [
+      "MasterBonusExpUpdate",
+      "Recebido {1} de reputação e favor bônus por {0}"
+    ],
+    [
+      "MicrotransactionNotAvailableInLeague",
+      "Você não pode comprar essa microtransação nesta liga."
+    ],
+    [
+      "CaptureMonsterSuccess",
+      "Bestas Capturadas: {0}"
+    ],
+    [
+      "PlayersRemainingN",
+      "{0} jogadores restantes."
+    ],
+    [
+      "AccountNotVerifiedChatError",
+      "Você precisa verificar sua conta antes de utilizar o chat."
+    ],
+    [
+      "TooLowLevelToChooseChatIndex",
+      "Você não pode escolher um canal de chat específico até que seja nível {0}"
+    ],
+    [
+      "IncursionLockedDoorError",
+      "Você não possui o item necessário para abrir esta passagem."
+    ],
+    [
+      "IncursionDestructibleWallError",
+      "Você não possui explosivos."
+    ],
+    [
+      "InstanceExpiredError",
+      "Impossível conectar à instância. Esta sub-área expirou porque não é mais a mais recente instância ligada à esta área."
+    ],
+    [
+      "InstanceTerminatedError",
+      "Impossível conectar à instância. Essa sub-área não existe mais."
+    ],
+    [
+      "FailedToLoadDelveMap",
+      "Falha ao carregar as informações do mapa da Escavação: {0}"
+    ],
+    [
+      "DelveInProgressError",
+      "Você não pode se juntar à uma Escavação que esteja em andamento."
+    ],
+    [
+      "LoginRequiresUnlockCodeStrict",
+      "Sua conta foi trancada até que você possa providenciar o código de destravamento do seu email (restrito)."
+    ],
+    [
+      "DelveSocketableCurrencySameFossilError",
+      "Você não pode encaixar Fósseis identicos no mesmo Ressonador."
+    ],
+    [
+      "GenericSocketError",
+      "Você não pode encaixar o item atual"
+    ],
+    [
+      "OfferNotYetReadyForAccept",
+      "A oferta está aguardando um envio anterior ser resolvido. Tente mais tarde."
+    ],
+    [
+      "InteractErrorEssence",
+      "Outra coisa está mantendo essa Essência aprisionada."
+    ],
+    [
+      "NotEnoughIngredients",
+      "Você não possui ingredientes suficientes para essa ação."
+    ],
+    [
+      "ConsoleDisconnectedBecauseActiveUserSignedOut",
+      "Desconectado porque o usuário ativo saiu"
+    ],
+    [
+      "PS4LoginErrorNoPSNAccess",
+      "Impossível logar porque a \"PlayStation Network\" não pode ser encontrada."
+    ],
+    [
+      "PS4LoginErrorOutOfMemory",
+      "Impossível logar porqque estamos sem memória."
+    ],
+    [
+      "PS4LoginErrorSignedOut",
+      "Impossível logar porque você não entrou."
+    ],
+    [
+      "PS4LoginErrorNotSignedUp",
+      "Impossível logar porque você não se registrou."
+    ],
+    [
+      "PS4LoginErrorAgeRestriction",
+      "Impossível logar por conta de restrição de idade."
+    ],
+    [
+      "PS4LoginErrorLoggedOut",
+      "Impossível logar porque você não está logado."
+    ],
+    [
+      "PS4LoginErrorLatestSystemSoftwareExist",
+      "Impossível logar porque um arquivo de atualização para uma nova versão do software do sistema existe."
+    ],
+    [
+      "PS4LoginErrorLatestSystemSoftwareExistForTitle",
+      "Impossível logar porque uma nova versão um arquivo de atualização do software do sistema necessário existe para essa aplicação."
+    ],
+    [
+      "PS4LoginErrorLatestPatchPackageExists",
+      "Impossível logar porque uma nova versão do pacote de patch existe."
+    ],
+    [
+      "PS4LoginErrorLatestPatchPackageDownloaded",
+      "Impossível logar porque uma nova versão do pacote de patch baixado existe."
+    ],
+    [
+      "PS4LoginErrorPatchNotChecked",
+      "Impossível logar porque foi impossível averiguar se uma nova versão do arquivo de atualização está disponível. Tente novamente."
+    ],
+    [
+      "HideoutExportFailed",
+      "Você precisa estar em um Refúgio para exportar um template de Refúgio."
+    ],
+    [
+      "HideoutImportSuccess",
+      "Template de refúgio importado com sucesso."
+    ],
+    [
+      "HideoutImportFailed",
+      "Falha ao importar o template de Refúgio."
+    ],
+    [
+      "HideoutImportFailedMustBeInHideout",
+      "Você precisa estar em seu Refúgio para importar um template de Refúgio."
+    ],
+    [
+      "HideoutImportFailedWrongHideout",
+      "Você primeiro precisa configurar seu Refúgio para {0} para importar esse template de Refúgio."
+    ],
+    [
+      "TencentTradeMarketNotExactPrice",
+      "Sua oferta não bate com o preço exato para esse item."
+    ],
+    [
+      "TencentTradeMarketTooManyCompletedOffers",
+      "Você possui trocas completadas demais em seu Comérgio para fazer essa oferta."
+    ],
+    [
+      "IncursionRecipeUnlockRejected",
+      "Receita de criação já destravada"
+    ],
+    [
+      "FailedToReclaimSomeHideoutDoodads",
+      "Falha ao recuperar um ou mais itens de refúgio. Por favor crie uma nova instância de refúgio e tente novamente."
+    ],
+    [
+      "HideoutImportWarningGeneric",
+      "Aviso:  {0} itens não puderam ser importados."
+    ],
+    [
+      "HideoutImportWarningUnowned",
+      "Aviso: {0} itens não puderam ser importados porque você não possui mais nenhum."
+    ],
+    [
+      "HideoutImportWarningBlocked",
+      "Aviso: {0} itens não puderam ser importados porque o local especificado está bloqueado."
+    ],
+    [
+      "HideoutReclaimAllSuccess",
+      "Todos os objetos de Refúgio foram recuperados."
+    ],
+    [
+      "AreaTransitionPartyError",
+      "Você precisa estar em um grupo com o dono da área para acessar esta área."
+    ],
+    [
+      "AreaTransitionOwnerError",
+      "O dono da área precisa estar presente para acessar esta área."
+    ],
+    [
+      "BestiaryErrorNoData",
+      "Falha ao recobrar as informações do Bestiário."
+    ],
+    [
+      "BestiaryErrorFailedToCaptureMonster",
+      "Falha ao salvar o monstro capturado: {0}"
+    ],
+    [
+      "PS4BadRedeemToken",
+      "Falha no resgatem do token"
+    ],
+    [
+      "CurrencyTradingPrevented2",
+      "Você não pode negociar itens monetários ou únicos com outros jogadores até ter verificado sua conta."
+    ],
+    [
+      "PublicListingLockedDueToVerified",
+      "Você não pode listar itens publicamente à venda até que tenha verificado sua conta."
+    ],
+    [
+      "OffersLockedDueToVerified",
+      "Você não pode fazer ofertas em itens até que tenha verificado sua conta."
+    ],
+    [
+      "SynthesisPortalFullyDecayed",
+      "Está área decaiu."
+    ],
+    [
+      "SynthesisTooManyMemories",
+      "Você colocou memórias demais, por favor remova algumas antes de tentar colocar mais."
+    ],
+    [
+      "SynthesisOtherMemoryInstance",
+      "Você não pode colocar memórias no Nexus de Memórias ou Extensão de Memórias de outras pessoas."
+    ],
+    [
+      "ConsoleDisconnectedBecauseNoInternetConnection",
+      "Desconectado por falta de conexão com a Internet. "
+    ],
+    [
+      "PS4DisconnectedBecauseNoPSNAccess",
+      "Desconectado por falta de acesso ao “PlayStation Network”."
+    ],
+    [
+      "XboxDisconnectedBecauseNoXboxLiveAccess",
+      "Desconectado por falta de acesso ao Xbox Live."
+    ],
+    [
+      "PS4CannotLogInUGMRestriction",
+      "Impossível logar devido ao controle parental. "
+    ],
+    [
+      "SynthesisMaxGlobalModsReached",
+      "Você alcançou o número máximo de Modificadores de Memórias no seu Mapa Synthesis."
+    ],
+    [
+      "BetrayalCannotAccessLab",
+      "Você tem outra Tarefa Betrayal pendente. Complete o outro encontro ou faça as escolhas restantes para habilitar essa entrada."
+    ],
+    [
+      "SynthesisCannotApplyGlobalMod",
+      "A Memória selecionada e as Memórias colocadas próximas a ela não podem aplicar mais Modificadores de Memórias."
+    ],
+    [
+      "KakaoAPIError",
+      "Falha ao autorizar com o servidor de autenticação da Kakao."
+    ],
+    [
+      "KakaoRequireLogin",
+      "Você precisa entrar em sua conta da Kakao novamente."
+    ],
+    [
+      "KakaoIdAlreadyInUse",
+      "Esta conta kakao já está associada com outra conta do Path of Exile."
+    ],
+    [
+      "NoAssociatedKakaoId",
+      "Não existe uma conta kakao associada com esta conta do Path of Exile"
+    ],
+    [
+      "AccountAlreadyHasKakao",
+      "Já existe uma conta da Kakao associada com esta conta do Path of Exile"
+    ],
+    [
+      "MapDeviceCannotUseFragmentWithMap",
+      "Falha na Ativação. {0} não pode ser usada com um Mapa."
+    ],
+    [
+      "MapDeviceFragmentNeedsRecipe",
+      "Falha na Ativação. {0} precisa ser usada com outros Fragmentos de Mapas do mesmo conjunto."
+    ],
+    [
+      "MapDeviceFragmentNeedsRecipeOrMap",
+      "Falha na Ativação. {0} precisa ser usada com um Mapa, ou com outros Fragmentos de Mapa do mesmo conjunto."
+    ],
+    [
+      "MapDeviceDuplicateFragments",
+      "Falha na ativação. Você não pode usar múltiplos Fragmentos de Mapas do mesmo tipo."
+    ],
+    [
+      "EmailLoginDisabledKakao",
+      "Esta forma de login foi desativada para esta conta. Por favor faça login através do gttp://poe.game.daum.net"
+    ],
+    [
+      "EmailLoginDisabled",
+      "Esta forma de login foi desativada para esta conta. "
+    ],
+    [
+      "GatewayDisallowedForThisLoginType",
+      "Esta entrada de login não está disponível para esta forma de login."
+    ],
+    [
+      "UnacceptableChatMessage",
+      "Conteúdo da mensagem é inaceitável."
+    ],
+    [
+      "ChannelOnlyAllowsASCII",
+      "Conteúdo da mensagem é inaceitável. Por favor só utilize caractéres ASCII neste canal."
+    ],
+    [
+      "ActionRejectedDueToPerPlayerFreeze",
+      "Você morreu recentemente e não pode executar ações poro {0}."
+    ],
+    [
+      "PerPlayerDeathFreezeRemoved",
+      "Agora você pode executar ações."
+    ],
+    [
+      "LeagueDisallowsManualMigration",
+      "Você não pode migrar desta liga no momento."
+    ],
+    [
+      "RecycleMicroItemNotFound",
+      "Microtransação não foi encontrada."
+    ],
+    [
+      "RecycleMicroCannotRemoveMicro",
+      "Microtransação não pode ser removida."
+    ],
+    [
+      "RecycleMicroNoValue",
+      "Microtransação não tem valor."
+    ],
+    [
+      "RecycleMicroGeneric",
+      "Não pode completar a ação neste momento."
+    ],
+    [
+      "TradeBanError",
+      "Você não pode fazer isso agora. Sua conta foi banida por ações de comércio."
+    ],
+    [
+      "InteractErrorCoreTransitionMap",
+      "Você precisa matar todos os guardiões do Devorador de Almas para acessar o Núcleo Negro."
+    ],
+    [
+      "CombineMTXTimeLimitedError",
+      "Não pode combinar Microtransações com tempo limitado."
+    ],
+    [
+      "SalvageMTXTimeLimitedError",
+      "Não pode reciclar Microtransações com tempo limitado."
+    ],
+    [
+      "ItemIsInLeagueInventory",
+      "Você não pode fazer esta operação em um item em um inventário da liga"
+    ],
+    [
+      "MetamorphosisCannotOpenUIError",
+      "Amostras Metamorph só podem ser obtidas pelo dono da instância."
+    ],
+    [
+      "HarvestSeedCacheLockedError",
+      "O Baú de Sementes só pode ser aberto pelo dono da área."
+    ],
+    [
+      "AccountAlreadyHasEpic",
+      "Esta conta já possui uma conta Epic associada à ela."
+    ],
+    [
+      "EpicAssociateEmailSent",
+      "Um e-mail foi enviado apra confirmar que você é o dono desta conta. Por favor clique no link em seu e-mail para continuar."
+    ],
+    [
+      "EpicIdAlreadyInUse",
+      "Esta conta Epic já tem uma conta do Path of Exile associada à ela."
+    ],
+    [
+      "NoAssociatedEpicId",
+      "Esta conta não possui uma conta Epic associada à ela."
+    ],
+    [
+      "DestroyHarvestInfrastructure",
+      "Você não pode destruir itens de Infraestrutura Harvest."
+    ],
+    [
+      "CharacterActionDeniedHarvestItems",
+      "Você precisa remover todos os itens de Infraestrutura Harvest do seu personagem antes de executar essa ação."
+    ],
+    [
+      "HarvestOshabiFightOnlyInMaps",
+      "O Encontro só pode ser iniciado no Mapa"
+    ],
+    [
+      "ConsoleGuildTagProfanityError",
+      "A tag de guilda que você está tentando configurar contém uma frase restrita. Por favor tente novamente com um nome diferente."
+    ],
+    [
+      "ConsoleGuildNameProfanityError",
+      "O nome de guilda que você está tentando configurar contém uma frase restrita. Por favor tente novamente com um nome diferente."
+    ],
+    [
+      "ConsoleGuildStashTabProfanityError",
+      "O nome da aba de baú que você está tentando configurar contém uma frase restrita. Por favor tente novamente com um nome diferente."
+    ],
+    [
+      "TradeErrorItemStolenFromHeist",
+      "Itens não podem ser trocados."
+    ],
+    [
+      "HeistAlarmError",
+      "Erro: não pode entrar em uma área Heist que esteja em Confinamento"
+    ],
+    [
+      "HeistHubAccessError",
+      "Você precisa usar uma Insígnia do Renegado para acessar o Porto dos Renegados."
+    ],
+    [
+      "NotHeistOwner",
+      "Erro: Você não é o dono desse Golpe"
+    ],
+    [
+      "StashAffinityFailedNoRoom",
+      "Sua Aba de Baú com Afinidade {0} não possui espaço suficiente para este item."
+    ]
+  ]
+}

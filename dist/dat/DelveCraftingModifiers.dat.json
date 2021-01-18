@@ -1,1 +1,1063 @@
-{"filename":"DelveCraftingModifiers.dat","header":[{"name":"BaseItemTypesKey","rowid":0,"type":"ulong","key":"BaseItemTypes.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"AddedModsKeys","rowid":1,"type":"ref|list|ulong","key":"Mods.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"NegativeWeight_TagsKeys","rowid":2,"type":"ref|list|ulong","key":"Tags.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"NegativeWeight_Values","rowid":3,"type":"ref|list|int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"ForcedAddModsKeys","rowid":4,"type":"ref|list|ulong","key":"Mods.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"ForbiddenDelveCraftingTagsKeys","rowid":5,"type":"ref|list|ulong","key":"DelveCraftingTags.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"AllowedDelveCraftingTagsKeys","rowid":6,"type":"ref|list|ulong","key":"DelveCraftingTags.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"CanMirrorItem","rowid":7,"type":"bool","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"CorruptedEssenceChance","rowid":8,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"CanImproveQuality","rowid":9,"type":"bool","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"CanRollEnchant","rowid":10,"type":"bool","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"HasLuckyRolls","rowid":11,"type":"bool","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"SellPrice_ModsKeys","rowid":12,"type":"ref|list|ulong","key":"Mods.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"CanRollWhiteSockets","rowid":13,"type":"bool","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Weight_TagsKeys","rowid":14,"type":"ref|list|ulong","key":"Tags.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Weight_Values","rowid":15,"type":"ref|list|int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"DelveCraftingModifierDescriptionsKeys","rowid":16,"type":"ref|list|ulong","key":"DelveCraftingModifierDescriptions.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"BlockedDelveCraftingModifierDescriptionsKeys","rowid":17,"type":"ref|list|ulong","key":"DelveCraftingModifierDescriptions.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[[232,[],[310],[0],[],[],[],false,0,false,false,false,[],false,[309],[1000],[11,29],[12]],[233,[],[309],[0],[],[],[],false,0,false,false,false,[],false,[310],[1000],[12,28],[11]],[234,[],[313],[0],[],[],[],false,0,false,false,false,[],false,[311],[1000],[13,27],[10]],[235,[],[312],[0],[],[],[],false,0,false,false,false,[],false,[313],[1000],[10,31],[14]],[236,[],[311],[0],[],[],[],false,0,false,false,false,[],false,[312],[1000],[14,30],[13]],[237,[],[317],[0],[],[],[],false,0,false,false,false,[],false,[316],[1000],[17,33],[18]],[238,[],[316],[0],[],[],[],false,0,false,false,false,[],false,[317],[1000],[18,32],[17]],[239,[],[318],[0],[],[],[],false,0,false,false,false,[],false,[315,314],[1000,1000],[16,34],[15]],[240,[],[315,314],[0,0],[],[],[],false,0,false,false,false,[],false,[318],[600],[15,35],[16]],[241,[],[319],[15],[],[],[],false,0,false,false,false,[],false,[34],[1000],[19,26],[25]],[242,[],[34],[15],[],[],[],false,0,false,false,false,[],false,[319],[1000],[20,25],[26]],[243,[],[324],[0],[],[],[],false,0,false,false,false,[],false,[323],[1000],[21,37],[22]],[244,[],[323],[0],[],[],[],false,0,false,false,false,[],false,[324],[1000],[22,36],[21]],[245,[],[],[],[],[],[],false,0,false,false,false,[],false,[320,321,647],[1000,1000,1000],[23],[]],[246,[],[],[],[],[],[0,2,5,6,4,3,7],false,0,true,false,false,[],false,[],[],[9],[]],[247,[],[],[],[],[],[4,5,6],false,0,false,true,false,[],false,[],[],[8],[]],[248,[],[],[],[],[],[0,2,5,6,4,3],false,0,false,false,false,[],true,[],[],[7],[]],[249,[14262,14263,14264],[],[],[],[],[],false,0,false,false,false,[],false,[27],[1000],[24],[]],[250,[],[],[],[14266,14267,14268,14270,14271,14272,14269,14273],[13,14,15],[],false,0,false,false,false,[],false,[],[],[6],[]],[251,[],[],[],[14265],[],[0,4,6,5,2],false,0,false,false,false,[],false,[],[],[5],[]],[252,[],[],[],[],[],[],true,0,false,false,false,[],false,[],[],[4],[]],[253,[],[],[],[],[],[0,2,5,6,4,3,8,9,10,11],false,100,false,false,false,[],false,[],[],[3],[]],[254,[14262,14263,14264,14266,14267,14268,14270,14271,14272,14269,14265],[],[],[],[],[],false,10,false,false,false,[],false,[],[],[2],[]],[255,[],[],[],[],[],[],false,0,false,false,true,[],false,[],[],[1],[]],[256,[],[],[],[],[],[],false,0,false,false,false,[13931,13932,13933,13934,13935,13936,13937,13938,13939],false,[],[],[0],[]]]}
+{
+  "filename": "DelveCraftingModifiers.dat",
+  "header": [
+    {
+      "name": "BaseItemTypesKey",
+      "rowid": 0,
+      "type": "ulong",
+      "key": "BaseItemTypes.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "AddedModsKeys",
+      "rowid": 1,
+      "type": "ref|list|ulong",
+      "key": "Mods.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "NegativeWeight_TagsKeys",
+      "rowid": 2,
+      "type": "ref|list|ulong",
+      "key": "Tags.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "NegativeWeight_Values",
+      "rowid": 3,
+      "type": "ref|list|int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "ForcedAddModsKeys",
+      "rowid": 4,
+      "type": "ref|list|ulong",
+      "key": "Mods.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "ForbiddenDelveCraftingTagsKeys",
+      "rowid": 5,
+      "type": "ref|list|ulong",
+      "key": "DelveCraftingTags.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "AllowedDelveCraftingTagsKeys",
+      "rowid": 6,
+      "type": "ref|list|ulong",
+      "key": "DelveCraftingTags.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "CanMirrorItem",
+      "rowid": 7,
+      "type": "bool",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "CorruptedEssenceChance",
+      "rowid": 8,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "CanImproveQuality",
+      "rowid": 9,
+      "type": "bool",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "CanRollEnchant",
+      "rowid": 10,
+      "type": "bool",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "HasLuckyRolls",
+      "rowid": 11,
+      "type": "bool",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "SellPrice_ModsKeys",
+      "rowid": 12,
+      "type": "ref|list|ulong",
+      "key": "Mods.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "CanRollWhiteSockets",
+      "rowid": 13,
+      "type": "bool",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Weight_TagsKeys",
+      "rowid": 14,
+      "type": "ref|list|ulong",
+      "key": "Tags.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Weight_Values",
+      "rowid": 15,
+      "type": "ref|list|int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "DelveCraftingModifierDescriptionsKeys",
+      "rowid": 16,
+      "type": "ref|list|ulong",
+      "key": "DelveCraftingModifierDescriptions.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "BlockedDelveCraftingModifierDescriptionsKeys",
+      "rowid": 17,
+      "type": "ref|list|ulong",
+      "key": "DelveCraftingModifierDescriptions.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      232,
+      [],
+      [
+        310
+      ],
+      [
+        0
+      ],
+      [],
+      [],
+      [],
+      false,
+      0,
+      false,
+      false,
+      false,
+      [],
+      false,
+      [
+        309
+      ],
+      [
+        1000
+      ],
+      [
+        11,
+        29
+      ],
+      [
+        12
+      ]
+    ],
+    [
+      233,
+      [],
+      [
+        309
+      ],
+      [
+        0
+      ],
+      [],
+      [],
+      [],
+      false,
+      0,
+      false,
+      false,
+      false,
+      [],
+      false,
+      [
+        310
+      ],
+      [
+        1000
+      ],
+      [
+        12,
+        28
+      ],
+      [
+        11
+      ]
+    ],
+    [
+      234,
+      [],
+      [
+        313
+      ],
+      [
+        0
+      ],
+      [],
+      [],
+      [],
+      false,
+      0,
+      false,
+      false,
+      false,
+      [],
+      false,
+      [
+        311
+      ],
+      [
+        1000
+      ],
+      [
+        13,
+        27
+      ],
+      [
+        10
+      ]
+    ],
+    [
+      235,
+      [],
+      [
+        312
+      ],
+      [
+        0
+      ],
+      [],
+      [],
+      [],
+      false,
+      0,
+      false,
+      false,
+      false,
+      [],
+      false,
+      [
+        313
+      ],
+      [
+        1000
+      ],
+      [
+        10,
+        31
+      ],
+      [
+        14
+      ]
+    ],
+    [
+      236,
+      [],
+      [
+        311
+      ],
+      [
+        0
+      ],
+      [],
+      [],
+      [],
+      false,
+      0,
+      false,
+      false,
+      false,
+      [],
+      false,
+      [
+        312
+      ],
+      [
+        1000
+      ],
+      [
+        14,
+        30
+      ],
+      [
+        13
+      ]
+    ],
+    [
+      237,
+      [],
+      [
+        317
+      ],
+      [
+        0
+      ],
+      [],
+      [],
+      [],
+      false,
+      0,
+      false,
+      false,
+      false,
+      [],
+      false,
+      [
+        316
+      ],
+      [
+        1000
+      ],
+      [
+        17,
+        33
+      ],
+      [
+        18
+      ]
+    ],
+    [
+      238,
+      [],
+      [
+        316
+      ],
+      [
+        0
+      ],
+      [],
+      [],
+      [],
+      false,
+      0,
+      false,
+      false,
+      false,
+      [],
+      false,
+      [
+        317
+      ],
+      [
+        1000
+      ],
+      [
+        18,
+        32
+      ],
+      [
+        17
+      ]
+    ],
+    [
+      239,
+      [],
+      [
+        318
+      ],
+      [
+        0
+      ],
+      [],
+      [],
+      [],
+      false,
+      0,
+      false,
+      false,
+      false,
+      [],
+      false,
+      [
+        315,
+        314
+      ],
+      [
+        1000,
+        1000
+      ],
+      [
+        16,
+        34
+      ],
+      [
+        15
+      ]
+    ],
+    [
+      240,
+      [],
+      [
+        315,
+        314
+      ],
+      [
+        0,
+        0
+      ],
+      [],
+      [],
+      [],
+      false,
+      0,
+      false,
+      false,
+      false,
+      [],
+      false,
+      [
+        318
+      ],
+      [
+        600
+      ],
+      [
+        15,
+        35
+      ],
+      [
+        16
+      ]
+    ],
+    [
+      241,
+      [],
+      [
+        319
+      ],
+      [
+        15
+      ],
+      [],
+      [],
+      [],
+      false,
+      0,
+      false,
+      false,
+      false,
+      [],
+      false,
+      [
+        34
+      ],
+      [
+        1000
+      ],
+      [
+        19,
+        26
+      ],
+      [
+        25
+      ]
+    ],
+    [
+      242,
+      [],
+      [
+        34
+      ],
+      [
+        15
+      ],
+      [],
+      [],
+      [],
+      false,
+      0,
+      false,
+      false,
+      false,
+      [],
+      false,
+      [
+        319
+      ],
+      [
+        1000
+      ],
+      [
+        20,
+        25
+      ],
+      [
+        26
+      ]
+    ],
+    [
+      243,
+      [],
+      [
+        324
+      ],
+      [
+        0
+      ],
+      [],
+      [],
+      [],
+      false,
+      0,
+      false,
+      false,
+      false,
+      [],
+      false,
+      [
+        323
+      ],
+      [
+        1000
+      ],
+      [
+        21,
+        37
+      ],
+      [
+        22
+      ]
+    ],
+    [
+      244,
+      [],
+      [
+        323
+      ],
+      [
+        0
+      ],
+      [],
+      [],
+      [],
+      false,
+      0,
+      false,
+      false,
+      false,
+      [],
+      false,
+      [
+        324
+      ],
+      [
+        1000
+      ],
+      [
+        22,
+        36
+      ],
+      [
+        21
+      ]
+    ],
+    [
+      245,
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      false,
+      0,
+      false,
+      false,
+      false,
+      [],
+      false,
+      [
+        320,
+        321,
+        647
+      ],
+      [
+        1000,
+        1000,
+        1000
+      ],
+      [
+        23
+      ],
+      []
+    ],
+    [
+      246,
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        0,
+        2,
+        5,
+        6,
+        4,
+        3,
+        7
+      ],
+      false,
+      0,
+      true,
+      false,
+      false,
+      [],
+      false,
+      [],
+      [],
+      [
+        9
+      ],
+      []
+    ],
+    [
+      247,
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        4,
+        5,
+        6
+      ],
+      false,
+      0,
+      false,
+      true,
+      false,
+      [],
+      false,
+      [],
+      [],
+      [
+        8
+      ],
+      []
+    ],
+    [
+      248,
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        0,
+        2,
+        5,
+        6,
+        4,
+        3
+      ],
+      false,
+      0,
+      false,
+      false,
+      false,
+      [],
+      true,
+      [],
+      [],
+      [
+        7
+      ],
+      []
+    ],
+    [
+      249,
+      [
+        14262,
+        14263,
+        14264
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      false,
+      0,
+      false,
+      false,
+      false,
+      [],
+      false,
+      [
+        27
+      ],
+      [
+        1000
+      ],
+      [
+        24
+      ],
+      []
+    ],
+    [
+      250,
+      [],
+      [],
+      [],
+      [
+        14266,
+        14267,
+        14268,
+        14270,
+        14271,
+        14272,
+        14269,
+        14273
+      ],
+      [
+        13,
+        14,
+        15
+      ],
+      [],
+      false,
+      0,
+      false,
+      false,
+      false,
+      [],
+      false,
+      [],
+      [],
+      [
+        6
+      ],
+      []
+    ],
+    [
+      251,
+      [],
+      [],
+      [],
+      [
+        14265
+      ],
+      [],
+      [
+        0,
+        4,
+        6,
+        5,
+        2
+      ],
+      false,
+      0,
+      false,
+      false,
+      false,
+      [],
+      false,
+      [],
+      [],
+      [
+        5
+      ],
+      []
+    ],
+    [
+      252,
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      true,
+      0,
+      false,
+      false,
+      false,
+      [],
+      false,
+      [],
+      [],
+      [
+        4
+      ],
+      []
+    ],
+    [
+      253,
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        0,
+        2,
+        5,
+        6,
+        4,
+        3,
+        8,
+        9,
+        10,
+        11
+      ],
+      false,
+      100,
+      false,
+      false,
+      false,
+      [],
+      false,
+      [],
+      [],
+      [
+        3
+      ],
+      []
+    ],
+    [
+      254,
+      [
+        14262,
+        14263,
+        14264,
+        14266,
+        14267,
+        14268,
+        14270,
+        14271,
+        14272,
+        14269,
+        14265
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      false,
+      10,
+      false,
+      false,
+      false,
+      [],
+      false,
+      [],
+      [],
+      [
+        2
+      ],
+      []
+    ],
+    [
+      255,
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      false,
+      0,
+      false,
+      false,
+      true,
+      [],
+      false,
+      [],
+      [],
+      [
+        1
+      ],
+      []
+    ],
+    [
+      256,
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      false,
+      0,
+      false,
+      false,
+      false,
+      [
+        13931,
+        13932,
+        13933,
+        13934,
+        13935,
+        13936,
+        13937,
+        13938,
+        13939
+      ],
+      false,
+      [],
+      [],
+      [
+        0
+      ],
+      []
+    ]
+  ]
+}

@@ -1,1 +1,405 @@
-{"filename":"NPCMaster.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown14","rowid":1,"type":"short","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Signature_ModsKey","rowid":2,"type":"ulong","key":"Mods.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Flag0","rowid":3,"type":"byte","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"SpawnWeight_TagsKeys","rowid":4,"type":"ref|list|ulong","key":"Tags.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"SpawnWeight_Values","rowid":5,"type":"ref|list|int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Data0","rowid":6,"type":"ref|list|int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Data1","rowid":7,"type":"ref|list|int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Key1","rowid":8,"type":"ulong","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"HelpText","rowid":9,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"HelpTextForNextLevel","rowid":10,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Key2","rowid":11,"type":"ulong","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown0","rowid":12,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"AreaDescription","rowid":13,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Key3","rowid":14,"type":"ulong","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown1","rowid":15,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["Navali",0,null,0,[0],[0],[],[],null,"","",null,910,"[DNT] Navali",null,910],["Einhar",0,null,0,[0],[0],[],[],null,"จับมอนสเตอร์ใน Bestiary เพื่อเพิ่มเลเวลของ Einhar","จับสัตว์เพิ่ม {0} ตัว เพื่อเพิ่มระดับของตกแต่งของ Einhar",4206,598,"พื้นที่จะมีสัตว์ร้ายที่น่าเกรงขามอยู่ ซึ่งไอนาร์จะเป็นคนช่วยคุณออกล่ามัน",4,910],["Alva",0,null,0,[0],[0],[],[],null,"สำรวจห้องในวิหารแอ็ทโซแอทล์ให้มากขึ้น เพื่อเพิ่มเลเวลของ Alva","สำรวจห้องของวิหารแห่งแอ็ทโซแอทล์เวลาปัจจุบันเพิ่มอีก {0} ห้อง เพื่อเพิ่มระดับของตกแต่งของ Alva",4204,599,"พื้นที่จะมีการย้อนเวลาไปสู่วิหารแห่งแอ็ทโซแอทล์ ซึ่งอัลว่าจะเป็นคนพาเปิดมัน",2,910],["Helena",0,null,0,[0],[0],[],[],null,"","",null,910,"[DNT] Helena",null,910],["Niko",0,null,0,[0],[0],[],[],null,"ดำดิ่งลึกลงไปในเมืองอะซูไรต์เพื่อเพิ่มเลเวลของ Niko","ดำดิ่งลึกไปถึงระดับความลึก {0} ในเหมืองอะซูไรต์ เพื่อเพิ่มระดับของตกแต่งของ Niko",4205,600,"พื้นที่จะมีแร่ Voltaxic Sulphite ซึ่งนิคโค่จะเป็นคนขุดมันให้คุณ",3,910],["Jun",0,null,0,[0],[0],[],[],null,"สยบสมาชิกระดับสูงขององค์กรอิมมอร์ทัลเพิ่มเลเวลของ Jun","สยบสมาชิกองค์กรอิมมอร์ทัลที่ยังไม่เคยสยบในยศ {1} เพิ่ม {0} คน เพื่อเพิ่มระดับของตกแต่งของ Jun",4207,601,"พื้นที่จะมีการเคลื่อนไหวขององค์กรอิมมอร์ทัล ซึ่งจุนจะเป็นคนช่วยคุณต่อกรกับพวกมัน",5,910],["Zana",0,10374,0,[33,57,0],[0,1000,0],[],[],17,"จบแผนที่ในสมุดแผนที่ให้มากขึ้นเพื่อเพิ่มเลเวลของ Zana","จบแผนที่ {0} แผนที่ในสมุดแผนที่ของคุณ เพื่อเพิ่มระดับของตกแต่งของ Zana",4210,602,"พื้นที่จะมีซานะคอยอยู่ ผู้ที่จะร้องขอให้คุณช่วยสำรวจสมุดแผนที่",1,91]]}
+{
+  "filename": "NPCMaster.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown14",
+      "rowid": 1,
+      "type": "short",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Signature_ModsKey",
+      "rowid": 2,
+      "type": "ulong",
+      "key": "Mods.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Flag0",
+      "rowid": 3,
+      "type": "byte",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "SpawnWeight_TagsKeys",
+      "rowid": 4,
+      "type": "ref|list|ulong",
+      "key": "Tags.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "SpawnWeight_Values",
+      "rowid": 5,
+      "type": "ref|list|int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Data0",
+      "rowid": 6,
+      "type": "ref|list|int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Data1",
+      "rowid": 7,
+      "type": "ref|list|int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Key1",
+      "rowid": 8,
+      "type": "ulong",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "HelpText",
+      "rowid": 9,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "HelpTextForNextLevel",
+      "rowid": 10,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Key2",
+      "rowid": 11,
+      "type": "ulong",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown0",
+      "rowid": 12,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "AreaDescription",
+      "rowid": 13,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Key3",
+      "rowid": 14,
+      "type": "ulong",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown1",
+      "rowid": 15,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "Navali",
+      0,
+      null,
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [],
+      [],
+      null,
+      "",
+      "",
+      null,
+      910,
+      "[DNT] Navali",
+      null,
+      910
+    ],
+    [
+      "Einhar",
+      0,
+      null,
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [],
+      [],
+      null,
+      "จับมอนสเตอร์ใน Bestiary เพื่อเพิ่มเลเวลของ Einhar",
+      "จับสัตว์เพิ่ม {0} ตัว เพื่อเพิ่มระดับของตกแต่งของ Einhar",
+      4206,
+      598,
+      "พื้นที่จะมีสัตว์ร้ายที่น่าเกรงขามอยู่ ซึ่งไอนาร์จะเป็นคนช่วยคุณออกล่ามัน",
+      4,
+      910
+    ],
+    [
+      "Alva",
+      0,
+      null,
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [],
+      [],
+      null,
+      "สำรวจห้องในวิหารแอ็ทโซแอทล์ให้มากขึ้น เพื่อเพิ่มเลเวลของ Alva",
+      "สำรวจห้องของวิหารแห่งแอ็ทโซแอทล์เวลาปัจจุบันเพิ่มอีก {0} ห้อง เพื่อเพิ่มระดับของตกแต่งของ Alva",
+      4204,
+      599,
+      "พื้นที่จะมีการย้อนเวลาไปสู่วิหารแห่งแอ็ทโซแอทล์ ซึ่งอัลว่าจะเป็นคนพาเปิดมัน",
+      2,
+      910
+    ],
+    [
+      "Helena",
+      0,
+      null,
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [],
+      [],
+      null,
+      "",
+      "",
+      null,
+      910,
+      "[DNT] Helena",
+      null,
+      910
+    ],
+    [
+      "Niko",
+      0,
+      null,
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [],
+      [],
+      null,
+      "ดำดิ่งลึกลงไปในเมืองอะซูไรต์เพื่อเพิ่มเลเวลของ Niko",
+      "ดำดิ่งลึกไปถึงระดับความลึก {0} ในเหมืองอะซูไรต์ เพื่อเพิ่มระดับของตกแต่งของ Niko",
+      4205,
+      600,
+      "พื้นที่จะมีแร่ Voltaxic Sulphite ซึ่งนิคโค่จะเป็นคนขุดมันให้คุณ",
+      3,
+      910
+    ],
+    [
+      "Jun",
+      0,
+      null,
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [],
+      [],
+      null,
+      "สยบสมาชิกระดับสูงขององค์กรอิมมอร์ทัลเพิ่มเลเวลของ Jun",
+      "สยบสมาชิกองค์กรอิมมอร์ทัลที่ยังไม่เคยสยบในยศ {1} เพิ่ม {0} คน เพื่อเพิ่มระดับของตกแต่งของ Jun",
+      4207,
+      601,
+      "พื้นที่จะมีการเคลื่อนไหวขององค์กรอิมมอร์ทัล ซึ่งจุนจะเป็นคนช่วยคุณต่อกรกับพวกมัน",
+      5,
+      910
+    ],
+    [
+      "Zana",
+      0,
+      10374,
+      0,
+      [
+        33,
+        57,
+        0
+      ],
+      [
+        0,
+        1000,
+        0
+      ],
+      [],
+      [],
+      17,
+      "จบแผนที่ในสมุดแผนที่ให้มากขึ้นเพื่อเพิ่มเลเวลของ Zana",
+      "จบแผนที่ {0} แผนที่ในสมุดแผนที่ของคุณ เพื่อเพิ่มระดับของตกแต่งของ Zana",
+      4210,
+      602,
+      "พื้นที่จะมีซานะคอยอยู่ ผู้ที่จะร้องขอให้คุณช่วยสำรวจสมุดแผนที่",
+      1,
+      91
+    ]
+  ]
+}

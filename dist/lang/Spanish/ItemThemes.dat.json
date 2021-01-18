@@ -1,1 +1,765 @@
-{"filename":"ItemThemes.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":true,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Name","rowid":1,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["Infernal","Infernal"],["Necrotic","Necrótico"],["Breach","Fisura"],["Legacy","Legado"],["Gore","Sangriento"],["Ghostflame","Llama Fantasmal"],["Gloom","Penumbra"],["Dragon","Dragón"],["Demonic","Demoníaco"],["Deicide","Deicidio"],["Arctic","Ártico"],["Arcane","Arcano"],["Steampunk","Steampunk"],["Vampiric","Vampírico"],["Verdant","Verde"],["Seraph","Serafín"],["Prophecy","Profecía"],["Consumable","Consumible"],["Ebony","de Ébano"],["Radiant","Radiante"],["Lightning","Rayo"],["Acid","Ácido"],["Crimson","Carmesí"],["Celestial","Celestial"],["Golden","Dorado"],["Purple","Morado"],["Emerald","Esmeralda"],["Dance","Baile"],["Animal","Animal"],["Tribal","Tribal"],["ChallengeRewards","Recompensas de Desafío"],["ClosedBetaSupporterPacks","Paquetes de Colaborador de la Beta Cerrada"],["OpenBetaSupporterPacks","Paquetes de Colaborador de la Beta Abierta"],["ReleaseSupporterPacks","Paquetes de Colaborador de Lanzamiento"],["ForsakenMasters","Maestros Errantes"],["Awakening","Despertar"],["Ascendancy","Ascendencia"],["Atlas","Atlas"],["FallofOriath","Caída de Oriath"],["Miscellaneous","Misceláneos"],["UltimateChaos","Caos Definitivo"],["PureLight","Pura Luz"],["Harbinger","Heraldo"],["PitchBlack","Completamente Negro"],["WastelandWarrior","Guerrero del Páramo"],["Desert","Desértico"],["Executioner","Ejecutor"],["Fire","Fuego"],["Ice","Hielo"],["Polar","Polar"],["Lich","Liche"],["FireAndIce","Hielo y Fuego"],["Abyss","Abismo"],["Halloween","Halloween"],["Cultist","Cultista"],["Warlock","Brujo"],["Pirate","Pirata"],["AtlasWar","Guerra por el Atlas"],["Nature","de Naturaleza"],["Gothic","Gótico"],["SinAndInnocence","Pecado e Inocencia"],["Bestiary","Bestiario"],["Stygian","Estigio"],["Manticore","Mantícora"],["Seawitch","Bruja Marina"],["Phantasmal","Fantasmal"],["FallenAngel","Ángel Caído"],["Malachai","Malachai"],["Crystal","Cristal"],["Incursion","Incursion"],["Carnage","Carnicería"],["Apocalypse","Apocalipsis"],["IvoryChaos","Caos de Marfil"],["Madman","Lunático"],["Gryffon","de Grifo"],["Gorgon","de Gorgona"],["BloodGuard","Guardia de Sangre"],["FaithGuard","Guardia de Fe"],["Sphinx","Esfinge"],["Delve","Delve"],["Oriath","Oriath"],["Pyre","Pira"],["Coliseum","Coliseo"],["NightLotus","Loto nocturno"],["Harpyon","Harpyon"],["Elder","Antiguo"],["Betrayal","Betrayal"],["Fairgraves","Fairgraves"],["Utility","Utilidad"],["Coastal","Costero"],["Encampment","Campamento"],["Forest","Bosque"],["Ruins","Ruinas"],["Vaal","Vaal"],["Dungeon","Mazmorra"],["Sarn","Sarn"],["Gardens","Jardines"],["Ornate","Ornamentado"],["Sceptre","Cetro"],["Crypt","Cripta"],["Effects","Efectos"],["Cave","Cueva"],["Beast","Bestia"],["Karui","Karui"],["Labyrinth","Laberinto"],["Highgate","Atalaya"],["Ossuary","Osario"],["Reliquary","Relicario"],["Ezomyte","Ezomita"],["Vanguard","Vanguardia"],["Pitfighter","Luchador del Pozo"],["Crucible","Crisol"],["Library","Biblioteca"],["SlavePens","Jaulas de Esclavos"],["Innocence","Inocencia"],["Assassin","Asesino"],["Empyrean","Empíreo"],["Blackguard","Guardia Negro"],["ChamberOfSins","Aposento de Pecados"],["Temple","Templo"],["Excavation","Excavación"],["Bones","Huesos"],["Church","Iglesia"],["Courthouse","Tribunal"],["Exiles","Exiliados"],["Synthesis","Synthesis"],["Primeval","Primitivo"],["Glimmerwood","Bosque encantado"],["Maraketh","Maraketh"],["Viper","Víbora"],["Darkprism","Prisma Oscuro"],["Sunprism","Prisma Solar"],["Gargoyle","Gárgola"],["Mageguard","Guardia Mago"],["Extinction","Extinción"],["Legion","Legion"],["Plated","de Placas"],["Frontier","de la Frontera"],["Illusionist","Ilusionista"],["Elemental","Elemental"],["Zenith","Cenit"],["Miracle","Milagroso"],["Cardinal","Cardenal"],["VaalViper","Víbora Vaal"],["VoidEmperor","Emperador del vacío"],["Carnival","Circense"],["Chiyou","Chiyou"],["Blight","Blight"],["Havenwood","Santuario del Bosque"],["Polaris","Polaris"],["Basilisk","Basilisco"],["Crusader","Cruzado"],["Eyrie","Nido de halcones"],["Judicator","Enjuiciador"],["Orion","Orión"],["Metamorph","Metamorph"],["ExileCon","ExileCon"],["Revenant","Retornado"],["Coldsnap","Ruptura de hielo"],["Malice","Malicia"],["Thaumaturgy","Taumaturgia"],["Balefire","Fuego siniestro"],["Delirium","Delirium"],["Heartseeker","Buscacorazones"],["DarkMagic","Magia negra"],["Jinli","Jinli"],["Imagination","Imaginación"],["HighPriest","Gran Sacerdote"],["Goddess","Diosa"],["Sawblade","Sierras"],["Dreadspire","Espiral del terror"],["AngelsAndDemons","Ángeles y demonios"],["Nightwatch","Guardia de la noche"],["Harvest","Harvest"],["Heist","Heist"],["Twilight","Crepúsculo"],["Ethercraft","Etermancia"],["Darkwood","Bosque oscuro"],["Judgement","Juicio"],["Core2021","Universal 2021"],["AtlasCore2021","Universal del Atlas"],["Ritual","Ritual"]]}
+{
+  "filename": "ItemThemes.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Name",
+      "rowid": 1,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "Infernal",
+      "Infernal"
+    ],
+    [
+      "Necrotic",
+      "Necrótico"
+    ],
+    [
+      "Breach",
+      "Fisura"
+    ],
+    [
+      "Legacy",
+      "Legado"
+    ],
+    [
+      "Gore",
+      "Sangriento"
+    ],
+    [
+      "Ghostflame",
+      "Llama Fantasmal"
+    ],
+    [
+      "Gloom",
+      "Penumbra"
+    ],
+    [
+      "Dragon",
+      "Dragón"
+    ],
+    [
+      "Demonic",
+      "Demoníaco"
+    ],
+    [
+      "Deicide",
+      "Deicidio"
+    ],
+    [
+      "Arctic",
+      "Ártico"
+    ],
+    [
+      "Arcane",
+      "Arcano"
+    ],
+    [
+      "Steampunk",
+      "Steampunk"
+    ],
+    [
+      "Vampiric",
+      "Vampírico"
+    ],
+    [
+      "Verdant",
+      "Verde"
+    ],
+    [
+      "Seraph",
+      "Serafín"
+    ],
+    [
+      "Prophecy",
+      "Profecía"
+    ],
+    [
+      "Consumable",
+      "Consumible"
+    ],
+    [
+      "Ebony",
+      "de Ébano"
+    ],
+    [
+      "Radiant",
+      "Radiante"
+    ],
+    [
+      "Lightning",
+      "Rayo"
+    ],
+    [
+      "Acid",
+      "Ácido"
+    ],
+    [
+      "Crimson",
+      "Carmesí"
+    ],
+    [
+      "Celestial",
+      "Celestial"
+    ],
+    [
+      "Golden",
+      "Dorado"
+    ],
+    [
+      "Purple",
+      "Morado"
+    ],
+    [
+      "Emerald",
+      "Esmeralda"
+    ],
+    [
+      "Dance",
+      "Baile"
+    ],
+    [
+      "Animal",
+      "Animal"
+    ],
+    [
+      "Tribal",
+      "Tribal"
+    ],
+    [
+      "ChallengeRewards",
+      "Recompensas de Desafío"
+    ],
+    [
+      "ClosedBetaSupporterPacks",
+      "Paquetes de Colaborador de la Beta Cerrada"
+    ],
+    [
+      "OpenBetaSupporterPacks",
+      "Paquetes de Colaborador de la Beta Abierta"
+    ],
+    [
+      "ReleaseSupporterPacks",
+      "Paquetes de Colaborador de Lanzamiento"
+    ],
+    [
+      "ForsakenMasters",
+      "Maestros Errantes"
+    ],
+    [
+      "Awakening",
+      "Despertar"
+    ],
+    [
+      "Ascendancy",
+      "Ascendencia"
+    ],
+    [
+      "Atlas",
+      "Atlas"
+    ],
+    [
+      "FallofOriath",
+      "Caída de Oriath"
+    ],
+    [
+      "Miscellaneous",
+      "Misceláneos"
+    ],
+    [
+      "UltimateChaos",
+      "Caos Definitivo"
+    ],
+    [
+      "PureLight",
+      "Pura Luz"
+    ],
+    [
+      "Harbinger",
+      "Heraldo"
+    ],
+    [
+      "PitchBlack",
+      "Completamente Negro"
+    ],
+    [
+      "WastelandWarrior",
+      "Guerrero del Páramo"
+    ],
+    [
+      "Desert",
+      "Desértico"
+    ],
+    [
+      "Executioner",
+      "Ejecutor"
+    ],
+    [
+      "Fire",
+      "Fuego"
+    ],
+    [
+      "Ice",
+      "Hielo"
+    ],
+    [
+      "Polar",
+      "Polar"
+    ],
+    [
+      "Lich",
+      "Liche"
+    ],
+    [
+      "FireAndIce",
+      "Hielo y Fuego"
+    ],
+    [
+      "Abyss",
+      "Abismo"
+    ],
+    [
+      "Halloween",
+      "Halloween"
+    ],
+    [
+      "Cultist",
+      "Cultista"
+    ],
+    [
+      "Warlock",
+      "Brujo"
+    ],
+    [
+      "Pirate",
+      "Pirata"
+    ],
+    [
+      "AtlasWar",
+      "Guerra por el Atlas"
+    ],
+    [
+      "Nature",
+      "de Naturaleza"
+    ],
+    [
+      "Gothic",
+      "Gótico"
+    ],
+    [
+      "SinAndInnocence",
+      "Pecado e Inocencia"
+    ],
+    [
+      "Bestiary",
+      "Bestiario"
+    ],
+    [
+      "Stygian",
+      "Estigio"
+    ],
+    [
+      "Manticore",
+      "Mantícora"
+    ],
+    [
+      "Seawitch",
+      "Bruja Marina"
+    ],
+    [
+      "Phantasmal",
+      "Fantasmal"
+    ],
+    [
+      "FallenAngel",
+      "Ángel Caído"
+    ],
+    [
+      "Malachai",
+      "Malachai"
+    ],
+    [
+      "Crystal",
+      "Cristal"
+    ],
+    [
+      "Incursion",
+      "Incursion"
+    ],
+    [
+      "Carnage",
+      "Carnicería"
+    ],
+    [
+      "Apocalypse",
+      "Apocalipsis"
+    ],
+    [
+      "IvoryChaos",
+      "Caos de Marfil"
+    ],
+    [
+      "Madman",
+      "Lunático"
+    ],
+    [
+      "Gryffon",
+      "de Grifo"
+    ],
+    [
+      "Gorgon",
+      "de Gorgona"
+    ],
+    [
+      "BloodGuard",
+      "Guardia de Sangre"
+    ],
+    [
+      "FaithGuard",
+      "Guardia de Fe"
+    ],
+    [
+      "Sphinx",
+      "Esfinge"
+    ],
+    [
+      "Delve",
+      "Delve"
+    ],
+    [
+      "Oriath",
+      "Oriath"
+    ],
+    [
+      "Pyre",
+      "Pira"
+    ],
+    [
+      "Coliseum",
+      "Coliseo"
+    ],
+    [
+      "NightLotus",
+      "Loto nocturno"
+    ],
+    [
+      "Harpyon",
+      "Harpyon"
+    ],
+    [
+      "Elder",
+      "Antiguo"
+    ],
+    [
+      "Betrayal",
+      "Betrayal"
+    ],
+    [
+      "Fairgraves",
+      "Fairgraves"
+    ],
+    [
+      "Utility",
+      "Utilidad"
+    ],
+    [
+      "Coastal",
+      "Costero"
+    ],
+    [
+      "Encampment",
+      "Campamento"
+    ],
+    [
+      "Forest",
+      "Bosque"
+    ],
+    [
+      "Ruins",
+      "Ruinas"
+    ],
+    [
+      "Vaal",
+      "Vaal"
+    ],
+    [
+      "Dungeon",
+      "Mazmorra"
+    ],
+    [
+      "Sarn",
+      "Sarn"
+    ],
+    [
+      "Gardens",
+      "Jardines"
+    ],
+    [
+      "Ornate",
+      "Ornamentado"
+    ],
+    [
+      "Sceptre",
+      "Cetro"
+    ],
+    [
+      "Crypt",
+      "Cripta"
+    ],
+    [
+      "Effects",
+      "Efectos"
+    ],
+    [
+      "Cave",
+      "Cueva"
+    ],
+    [
+      "Beast",
+      "Bestia"
+    ],
+    [
+      "Karui",
+      "Karui"
+    ],
+    [
+      "Labyrinth",
+      "Laberinto"
+    ],
+    [
+      "Highgate",
+      "Atalaya"
+    ],
+    [
+      "Ossuary",
+      "Osario"
+    ],
+    [
+      "Reliquary",
+      "Relicario"
+    ],
+    [
+      "Ezomyte",
+      "Ezomita"
+    ],
+    [
+      "Vanguard",
+      "Vanguardia"
+    ],
+    [
+      "Pitfighter",
+      "Luchador del Pozo"
+    ],
+    [
+      "Crucible",
+      "Crisol"
+    ],
+    [
+      "Library",
+      "Biblioteca"
+    ],
+    [
+      "SlavePens",
+      "Jaulas de Esclavos"
+    ],
+    [
+      "Innocence",
+      "Inocencia"
+    ],
+    [
+      "Assassin",
+      "Asesino"
+    ],
+    [
+      "Empyrean",
+      "Empíreo"
+    ],
+    [
+      "Blackguard",
+      "Guardia Negro"
+    ],
+    [
+      "ChamberOfSins",
+      "Aposento de Pecados"
+    ],
+    [
+      "Temple",
+      "Templo"
+    ],
+    [
+      "Excavation",
+      "Excavación"
+    ],
+    [
+      "Bones",
+      "Huesos"
+    ],
+    [
+      "Church",
+      "Iglesia"
+    ],
+    [
+      "Courthouse",
+      "Tribunal"
+    ],
+    [
+      "Exiles",
+      "Exiliados"
+    ],
+    [
+      "Synthesis",
+      "Synthesis"
+    ],
+    [
+      "Primeval",
+      "Primitivo"
+    ],
+    [
+      "Glimmerwood",
+      "Bosque encantado"
+    ],
+    [
+      "Maraketh",
+      "Maraketh"
+    ],
+    [
+      "Viper",
+      "Víbora"
+    ],
+    [
+      "Darkprism",
+      "Prisma Oscuro"
+    ],
+    [
+      "Sunprism",
+      "Prisma Solar"
+    ],
+    [
+      "Gargoyle",
+      "Gárgola"
+    ],
+    [
+      "Mageguard",
+      "Guardia Mago"
+    ],
+    [
+      "Extinction",
+      "Extinción"
+    ],
+    [
+      "Legion",
+      "Legion"
+    ],
+    [
+      "Plated",
+      "de Placas"
+    ],
+    [
+      "Frontier",
+      "de la Frontera"
+    ],
+    [
+      "Illusionist",
+      "Ilusionista"
+    ],
+    [
+      "Elemental",
+      "Elemental"
+    ],
+    [
+      "Zenith",
+      "Cenit"
+    ],
+    [
+      "Miracle",
+      "Milagroso"
+    ],
+    [
+      "Cardinal",
+      "Cardenal"
+    ],
+    [
+      "VaalViper",
+      "Víbora Vaal"
+    ],
+    [
+      "VoidEmperor",
+      "Emperador del vacío"
+    ],
+    [
+      "Carnival",
+      "Circense"
+    ],
+    [
+      "Chiyou",
+      "Chiyou"
+    ],
+    [
+      "Blight",
+      "Blight"
+    ],
+    [
+      "Havenwood",
+      "Santuario del Bosque"
+    ],
+    [
+      "Polaris",
+      "Polaris"
+    ],
+    [
+      "Basilisk",
+      "Basilisco"
+    ],
+    [
+      "Crusader",
+      "Cruzado"
+    ],
+    [
+      "Eyrie",
+      "Nido de halcones"
+    ],
+    [
+      "Judicator",
+      "Enjuiciador"
+    ],
+    [
+      "Orion",
+      "Orión"
+    ],
+    [
+      "Metamorph",
+      "Metamorph"
+    ],
+    [
+      "ExileCon",
+      "ExileCon"
+    ],
+    [
+      "Revenant",
+      "Retornado"
+    ],
+    [
+      "Coldsnap",
+      "Ruptura de hielo"
+    ],
+    [
+      "Malice",
+      "Malicia"
+    ],
+    [
+      "Thaumaturgy",
+      "Taumaturgia"
+    ],
+    [
+      "Balefire",
+      "Fuego siniestro"
+    ],
+    [
+      "Delirium",
+      "Delirium"
+    ],
+    [
+      "Heartseeker",
+      "Buscacorazones"
+    ],
+    [
+      "DarkMagic",
+      "Magia negra"
+    ],
+    [
+      "Jinli",
+      "Jinli"
+    ],
+    [
+      "Imagination",
+      "Imaginación"
+    ],
+    [
+      "HighPriest",
+      "Gran Sacerdote"
+    ],
+    [
+      "Goddess",
+      "Diosa"
+    ],
+    [
+      "Sawblade",
+      "Sierras"
+    ],
+    [
+      "Dreadspire",
+      "Espiral del terror"
+    ],
+    [
+      "AngelsAndDemons",
+      "Ángeles y demonios"
+    ],
+    [
+      "Nightwatch",
+      "Guardia de la noche"
+    ],
+    [
+      "Harvest",
+      "Harvest"
+    ],
+    [
+      "Heist",
+      "Heist"
+    ],
+    [
+      "Twilight",
+      "Crepúsculo"
+    ],
+    [
+      "Ethercraft",
+      "Etermancia"
+    ],
+    [
+      "Darkwood",
+      "Bosque oscuro"
+    ],
+    [
+      "Judgement",
+      "Juicio"
+    ],
+    [
+      "Core2021",
+      "Universal 2021"
+    ],
+    [
+      "AtlasCore2021",
+      "Universal del Atlas"
+    ],
+    [
+      "Ritual",
+      "Ritual"
+    ]
+  ]
+}

@@ -1,1 +1,1059 @@
-{"filename":"AchievementSetRewards.dat","header":[{"name":"AchievementSetsDisplayKey","rowid":0,"type":"int","key":"AchievementSetsDisplay.dat","key_id":"Id","key_offset":1,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown1","rowid":1,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"BaseItemTypesKeys","rowid":2,"type":"ref|list|ulong","key":"BaseItemTypes.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown2","rowid":3,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Message","rowid":4,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"DDSFile","rowid":5,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":true,"file_ext":".dds","display":null,"display_type":"{0}","description":null}],"data":[[8,1,[487],0,"",""],[8,2,[486],0,"",""],[8,3,[488],0,"",""],[8,4,[489],0,"",""],[9,1,[499],0,"",""],[9,2,[498],0,"",""],[9,3,[500],0,"",""],[9,4,[501],0,"",""],[7,1,[5789],0,"",""],[10,1,[5791],0,"",""],[11,5,[491],0,"",""],[11,10,[492],0,"",""],[11,15,[490],0,"",""],[11,20,[493],0,"",""],[12,7,[636],0,"",""],[12,14,[637],0,"",""],[12,21,[638],0,"",""],[12,28,[635],0,"",""],[12,18,[5793],2,"",""],[13,12,[671],0,"",""],[13,24,[672],0,"",""],[13,36,[673],0,"",""],[13,19,[5795],3,"",""],[14,12,[694],0,"",""],[14,24,[695],0,"",""],[14,36,[3063],0,"",""],[14,19,[5797],3,"",""],[15,12,[762],0,"",""],[15,24,[760],0,"",""],[15,36,[761],0,"",""],[15,19,[5799],3,"",""],[16,12,[819],0,"",""],[16,24,[800],0,"",""],[16,36,[790],0,"",""],[16,19,[5801],3,"",""],[17,12,[877],0,"",""],[17,24,[883],0,"",""],[17,36,[832],0,"",""],[17,19,[5803],3,"",""],[18,12,[983],0,"",""],[18,24,[984,985],0,"",""],[18,36,[986],0,"",""],[18,19,[5805],3,"",""],[19,12,[1183],0,"",""],[19,24,[1059],0,"",""],[19,36,[1186],0,"",""],[19,19,[5807],3,"",""],[20,12,[1564],0,"",""],[20,24,[1544],0,"",""],[20,36,[1565],0,"",""],[20,19,[5809],3,"",""],[21,1,[],0,"",""],[22,12,[1601],0,"",""],[22,24,[1603],0,"",""],[22,36,[1604],0,"",""],[22,19,[5811],3,"",""],[23,1,[],0,"",""],[24,12,[3127],0,"",""],[24,24,[1775],0,"",""],[24,36,[1765],0,"",""],[24,19,[5813],3,"",""],[25,12,[1831],0,"",""],[25,24,[1832],0,"",""],[25,36,[1833],0,"",""],[25,19,[5815],3,"",""],[26,12,[2014,2015],0,"",""],[26,24,[3141],0,"",""],[26,36,[2016],0,"",""],[26,19,[5817],3,"",""],[27,1,[],0,"",""],[28,12,[2197],0,"Ganhou a Microtransação Coroa do Monólito!",""],[28,24,[2198],0,"Ganhou a Microtransação Efeito Aura do Monólito!",""],[28,36,[2199],0,"Ganhou a Microtransação Asas do Monólito!",""],[28,19,[5819],3,"Ganhou o Totem Legion!\nQuanto mais desafios completar, maior ele fica!",""],[29,12,[2286],0,"Ganhou a Microtransação Elmo da Praga!",""],[29,24,[2287],0,"Ganhou a Microtransação Efeito Portal da Praga!",""],[29,36,[2288],0,"Ganhou a Microtransação Asas da Praga!",""],[29,19,[5821],3,"Ganhou o Totem da Praga!\nQuanto mais desafios completar, maior ele fica!",""],[30,12,[2415],0,"Ganhou a Microtransação Efeito Pegadas Metamorfas",""],[30,24,[2416],0,"Ganhou a Microtransação Efeito Arma Metamorfa",""],[30,36,[2417],0,"Ganhou a Microtransação Efeito Portal Metamorfo!",""],[30,19,[5823],0,"Ganhou o Totem Metamorfo!\nQuanto mais desafios completar, maior ele fica!",""],[31,12,[2528],0,"Ganhou a Microtransação Chifres do Delírio!",""],[31,24,[2529],0,"Ganhou a Microtransação Capa do Delírio!",""],[31,36,[2530],0,"Ganhou a Microtransação Asas do Delírio!",""],[31,19,[5825],3,"Ganhou o Totem do Delírio!\nQuanto mais desafios completar, maior ele fica!",""],[32,12,[2680],0,"Ganhou a Microtransação Efeito Pegadas da Colheita!",""],[32,24,[2681],0,"Ganhou a Microtransação Capa da Colheita!",""],[32,36,[2682],0,"Ganhou a Microtransação Efeito Portal da Colheita!",""],[32,19,[5827],3,"Ganhou o Totem da Colheita!\nQuanto mais desafios completar, maior ele fica!",""],[33,12,[2785,2786,2787],0,"Ganhou o Pacote de Elmos Heist!","Art/2DItems/Effects/Hats/HeistHelmetPack.dds"],[33,24,[3219],0,"Ganhou a Microtransação Mascote Gato Heist!",""],[33,36,[2788],0,"Ganhou a Microtransação Efeito Portal Heist!",""],[33,19,[5829],3,"Ganhou o Totem Heist!\nQuanto mais desafios completar, maior ele fica!",""],[34,1,[],0,"Parabéns!\nVocê ganhou uma Caixa Misteriosa do Crepúsculo!",""],[35,1,[],0,"Parabéns!\nVocê ganhou uma Caixa Misteriosa do Crepúsculo!",""],[36,1,[],0,"Parabéns!\nVocê ganhou uma Caixa Misteriosa do Crepúsculo!",""]]}
+{
+  "filename": "AchievementSetRewards.dat",
+  "header": [
+    {
+      "name": "AchievementSetsDisplayKey",
+      "rowid": 0,
+      "type": "int",
+      "key": "AchievementSetsDisplay.dat",
+      "key_id": "Id",
+      "key_offset": 1,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown1",
+      "rowid": 1,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "BaseItemTypesKeys",
+      "rowid": 2,
+      "type": "ref|list|ulong",
+      "key": "BaseItemTypes.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown2",
+      "rowid": 3,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Message",
+      "rowid": 4,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "DDSFile",
+      "rowid": 5,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": true,
+      "file_ext": ".dds",
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      8,
+      1,
+      [
+        487
+      ],
+      0,
+      "",
+      ""
+    ],
+    [
+      8,
+      2,
+      [
+        486
+      ],
+      0,
+      "",
+      ""
+    ],
+    [
+      8,
+      3,
+      [
+        488
+      ],
+      0,
+      "",
+      ""
+    ],
+    [
+      8,
+      4,
+      [
+        489
+      ],
+      0,
+      "",
+      ""
+    ],
+    [
+      9,
+      1,
+      [
+        499
+      ],
+      0,
+      "",
+      ""
+    ],
+    [
+      9,
+      2,
+      [
+        498
+      ],
+      0,
+      "",
+      ""
+    ],
+    [
+      9,
+      3,
+      [
+        500
+      ],
+      0,
+      "",
+      ""
+    ],
+    [
+      9,
+      4,
+      [
+        501
+      ],
+      0,
+      "",
+      ""
+    ],
+    [
+      7,
+      1,
+      [
+        5789
+      ],
+      0,
+      "",
+      ""
+    ],
+    [
+      10,
+      1,
+      [
+        5791
+      ],
+      0,
+      "",
+      ""
+    ],
+    [
+      11,
+      5,
+      [
+        491
+      ],
+      0,
+      "",
+      ""
+    ],
+    [
+      11,
+      10,
+      [
+        492
+      ],
+      0,
+      "",
+      ""
+    ],
+    [
+      11,
+      15,
+      [
+        490
+      ],
+      0,
+      "",
+      ""
+    ],
+    [
+      11,
+      20,
+      [
+        493
+      ],
+      0,
+      "",
+      ""
+    ],
+    [
+      12,
+      7,
+      [
+        636
+      ],
+      0,
+      "",
+      ""
+    ],
+    [
+      12,
+      14,
+      [
+        637
+      ],
+      0,
+      "",
+      ""
+    ],
+    [
+      12,
+      21,
+      [
+        638
+      ],
+      0,
+      "",
+      ""
+    ],
+    [
+      12,
+      28,
+      [
+        635
+      ],
+      0,
+      "",
+      ""
+    ],
+    [
+      12,
+      18,
+      [
+        5793
+      ],
+      2,
+      "",
+      ""
+    ],
+    [
+      13,
+      12,
+      [
+        671
+      ],
+      0,
+      "",
+      ""
+    ],
+    [
+      13,
+      24,
+      [
+        672
+      ],
+      0,
+      "",
+      ""
+    ],
+    [
+      13,
+      36,
+      [
+        673
+      ],
+      0,
+      "",
+      ""
+    ],
+    [
+      13,
+      19,
+      [
+        5795
+      ],
+      3,
+      "",
+      ""
+    ],
+    [
+      14,
+      12,
+      [
+        694
+      ],
+      0,
+      "",
+      ""
+    ],
+    [
+      14,
+      24,
+      [
+        695
+      ],
+      0,
+      "",
+      ""
+    ],
+    [
+      14,
+      36,
+      [
+        3063
+      ],
+      0,
+      "",
+      ""
+    ],
+    [
+      14,
+      19,
+      [
+        5797
+      ],
+      3,
+      "",
+      ""
+    ],
+    [
+      15,
+      12,
+      [
+        762
+      ],
+      0,
+      "",
+      ""
+    ],
+    [
+      15,
+      24,
+      [
+        760
+      ],
+      0,
+      "",
+      ""
+    ],
+    [
+      15,
+      36,
+      [
+        761
+      ],
+      0,
+      "",
+      ""
+    ],
+    [
+      15,
+      19,
+      [
+        5799
+      ],
+      3,
+      "",
+      ""
+    ],
+    [
+      16,
+      12,
+      [
+        819
+      ],
+      0,
+      "",
+      ""
+    ],
+    [
+      16,
+      24,
+      [
+        800
+      ],
+      0,
+      "",
+      ""
+    ],
+    [
+      16,
+      36,
+      [
+        790
+      ],
+      0,
+      "",
+      ""
+    ],
+    [
+      16,
+      19,
+      [
+        5801
+      ],
+      3,
+      "",
+      ""
+    ],
+    [
+      17,
+      12,
+      [
+        877
+      ],
+      0,
+      "",
+      ""
+    ],
+    [
+      17,
+      24,
+      [
+        883
+      ],
+      0,
+      "",
+      ""
+    ],
+    [
+      17,
+      36,
+      [
+        832
+      ],
+      0,
+      "",
+      ""
+    ],
+    [
+      17,
+      19,
+      [
+        5803
+      ],
+      3,
+      "",
+      ""
+    ],
+    [
+      18,
+      12,
+      [
+        983
+      ],
+      0,
+      "",
+      ""
+    ],
+    [
+      18,
+      24,
+      [
+        984,
+        985
+      ],
+      0,
+      "",
+      ""
+    ],
+    [
+      18,
+      36,
+      [
+        986
+      ],
+      0,
+      "",
+      ""
+    ],
+    [
+      18,
+      19,
+      [
+        5805
+      ],
+      3,
+      "",
+      ""
+    ],
+    [
+      19,
+      12,
+      [
+        1183
+      ],
+      0,
+      "",
+      ""
+    ],
+    [
+      19,
+      24,
+      [
+        1059
+      ],
+      0,
+      "",
+      ""
+    ],
+    [
+      19,
+      36,
+      [
+        1186
+      ],
+      0,
+      "",
+      ""
+    ],
+    [
+      19,
+      19,
+      [
+        5807
+      ],
+      3,
+      "",
+      ""
+    ],
+    [
+      20,
+      12,
+      [
+        1564
+      ],
+      0,
+      "",
+      ""
+    ],
+    [
+      20,
+      24,
+      [
+        1544
+      ],
+      0,
+      "",
+      ""
+    ],
+    [
+      20,
+      36,
+      [
+        1565
+      ],
+      0,
+      "",
+      ""
+    ],
+    [
+      20,
+      19,
+      [
+        5809
+      ],
+      3,
+      "",
+      ""
+    ],
+    [
+      21,
+      1,
+      [],
+      0,
+      "",
+      ""
+    ],
+    [
+      22,
+      12,
+      [
+        1601
+      ],
+      0,
+      "",
+      ""
+    ],
+    [
+      22,
+      24,
+      [
+        1603
+      ],
+      0,
+      "",
+      ""
+    ],
+    [
+      22,
+      36,
+      [
+        1604
+      ],
+      0,
+      "",
+      ""
+    ],
+    [
+      22,
+      19,
+      [
+        5811
+      ],
+      3,
+      "",
+      ""
+    ],
+    [
+      23,
+      1,
+      [],
+      0,
+      "",
+      ""
+    ],
+    [
+      24,
+      12,
+      [
+        3127
+      ],
+      0,
+      "",
+      ""
+    ],
+    [
+      24,
+      24,
+      [
+        1775
+      ],
+      0,
+      "",
+      ""
+    ],
+    [
+      24,
+      36,
+      [
+        1765
+      ],
+      0,
+      "",
+      ""
+    ],
+    [
+      24,
+      19,
+      [
+        5813
+      ],
+      3,
+      "",
+      ""
+    ],
+    [
+      25,
+      12,
+      [
+        1831
+      ],
+      0,
+      "",
+      ""
+    ],
+    [
+      25,
+      24,
+      [
+        1832
+      ],
+      0,
+      "",
+      ""
+    ],
+    [
+      25,
+      36,
+      [
+        1833
+      ],
+      0,
+      "",
+      ""
+    ],
+    [
+      25,
+      19,
+      [
+        5815
+      ],
+      3,
+      "",
+      ""
+    ],
+    [
+      26,
+      12,
+      [
+        2014,
+        2015
+      ],
+      0,
+      "",
+      ""
+    ],
+    [
+      26,
+      24,
+      [
+        3141
+      ],
+      0,
+      "",
+      ""
+    ],
+    [
+      26,
+      36,
+      [
+        2016
+      ],
+      0,
+      "",
+      ""
+    ],
+    [
+      26,
+      19,
+      [
+        5817
+      ],
+      3,
+      "",
+      ""
+    ],
+    [
+      27,
+      1,
+      [],
+      0,
+      "",
+      ""
+    ],
+    [
+      28,
+      12,
+      [
+        2197
+      ],
+      0,
+      "Ganhou a Microtransação Coroa do Monólito!",
+      ""
+    ],
+    [
+      28,
+      24,
+      [
+        2198
+      ],
+      0,
+      "Ganhou a Microtransação Efeito Aura do Monólito!",
+      ""
+    ],
+    [
+      28,
+      36,
+      [
+        2199
+      ],
+      0,
+      "Ganhou a Microtransação Asas do Monólito!",
+      ""
+    ],
+    [
+      28,
+      19,
+      [
+        5819
+      ],
+      3,
+      "Ganhou o Totem Legion!\nQuanto mais desafios completar, maior ele fica!",
+      ""
+    ],
+    [
+      29,
+      12,
+      [
+        2286
+      ],
+      0,
+      "Ganhou a Microtransação Elmo da Praga!",
+      ""
+    ],
+    [
+      29,
+      24,
+      [
+        2287
+      ],
+      0,
+      "Ganhou a Microtransação Efeito Portal da Praga!",
+      ""
+    ],
+    [
+      29,
+      36,
+      [
+        2288
+      ],
+      0,
+      "Ganhou a Microtransação Asas da Praga!",
+      ""
+    ],
+    [
+      29,
+      19,
+      [
+        5821
+      ],
+      3,
+      "Ganhou o Totem da Praga!\nQuanto mais desafios completar, maior ele fica!",
+      ""
+    ],
+    [
+      30,
+      12,
+      [
+        2415
+      ],
+      0,
+      "Ganhou a Microtransação Efeito Pegadas Metamorfas",
+      ""
+    ],
+    [
+      30,
+      24,
+      [
+        2416
+      ],
+      0,
+      "Ganhou a Microtransação Efeito Arma Metamorfa",
+      ""
+    ],
+    [
+      30,
+      36,
+      [
+        2417
+      ],
+      0,
+      "Ganhou a Microtransação Efeito Portal Metamorfo!",
+      ""
+    ],
+    [
+      30,
+      19,
+      [
+        5823
+      ],
+      0,
+      "Ganhou o Totem Metamorfo!\nQuanto mais desafios completar, maior ele fica!",
+      ""
+    ],
+    [
+      31,
+      12,
+      [
+        2528
+      ],
+      0,
+      "Ganhou a Microtransação Chifres do Delírio!",
+      ""
+    ],
+    [
+      31,
+      24,
+      [
+        2529
+      ],
+      0,
+      "Ganhou a Microtransação Capa do Delírio!",
+      ""
+    ],
+    [
+      31,
+      36,
+      [
+        2530
+      ],
+      0,
+      "Ganhou a Microtransação Asas do Delírio!",
+      ""
+    ],
+    [
+      31,
+      19,
+      [
+        5825
+      ],
+      3,
+      "Ganhou o Totem do Delírio!\nQuanto mais desafios completar, maior ele fica!",
+      ""
+    ],
+    [
+      32,
+      12,
+      [
+        2680
+      ],
+      0,
+      "Ganhou a Microtransação Efeito Pegadas da Colheita!",
+      ""
+    ],
+    [
+      32,
+      24,
+      [
+        2681
+      ],
+      0,
+      "Ganhou a Microtransação Capa da Colheita!",
+      ""
+    ],
+    [
+      32,
+      36,
+      [
+        2682
+      ],
+      0,
+      "Ganhou a Microtransação Efeito Portal da Colheita!",
+      ""
+    ],
+    [
+      32,
+      19,
+      [
+        5827
+      ],
+      3,
+      "Ganhou o Totem da Colheita!\nQuanto mais desafios completar, maior ele fica!",
+      ""
+    ],
+    [
+      33,
+      12,
+      [
+        2785,
+        2786,
+        2787
+      ],
+      0,
+      "Ganhou o Pacote de Elmos Heist!",
+      "Art/2DItems/Effects/Hats/HeistHelmetPack.dds"
+    ],
+    [
+      33,
+      24,
+      [
+        3219
+      ],
+      0,
+      "Ganhou a Microtransação Mascote Gato Heist!",
+      ""
+    ],
+    [
+      33,
+      36,
+      [
+        2788
+      ],
+      0,
+      "Ganhou a Microtransação Efeito Portal Heist!",
+      ""
+    ],
+    [
+      33,
+      19,
+      [
+        5829
+      ],
+      3,
+      "Ganhou o Totem Heist!\nQuanto mais desafios completar, maior ele fica!",
+      ""
+    ],
+    [
+      34,
+      1,
+      [],
+      0,
+      "Parabéns!\nVocê ganhou uma Caixa Misteriosa do Crepúsculo!",
+      ""
+    ],
+    [
+      35,
+      1,
+      [],
+      0,
+      "Parabéns!\nVocê ganhou uma Caixa Misteriosa do Crepúsculo!",
+      ""
+    ],
+    [
+      36,
+      1,
+      [],
+      0,
+      "Parabéns!\nVocê ganhou uma Caixa Misteriosa do Crepúsculo!",
+      ""
+    ]
+  ]
+}

@@ -1,1 +1,117 @@
-{"filename":"BlightCraftingItems.dat","header":[{"name":"BaseItemTypesKey","rowid":0,"type":"ulong","key":"BaseItemTypes.dat","key_id":null,"key_offset":0,"enum":null,"unique":true,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Tier","rowid":1,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"AchievementItemsKeys","rowid":2,"type":"ref|list|ulong","key":"AchievementItems.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[[6980,1,[]],[6981,2,[]],[6982,3,[]],[6983,4,[]],[6984,5,[]],[6985,6,[]],[6986,7,[]],[6987,8,[]],[6988,9,[]],[6989,10,[]],[6990,11,[]],[6991,12,[]],[6992,13,[]]]}
+{
+  "filename": "BlightCraftingItems.dat",
+  "header": [
+    {
+      "name": "BaseItemTypesKey",
+      "rowid": 0,
+      "type": "ulong",
+      "key": "BaseItemTypes.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Tier",
+      "rowid": 1,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "AchievementItemsKeys",
+      "rowid": 2,
+      "type": "ref|list|ulong",
+      "key": "AchievementItems.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      6980,
+      1,
+      []
+    ],
+    [
+      6981,
+      2,
+      []
+    ],
+    [
+      6982,
+      3,
+      []
+    ],
+    [
+      6983,
+      4,
+      []
+    ],
+    [
+      6984,
+      5,
+      []
+    ],
+    [
+      6985,
+      6,
+      []
+    ],
+    [
+      6986,
+      7,
+      []
+    ],
+    [
+      6987,
+      8,
+      []
+    ],
+    [
+      6988,
+      9,
+      []
+    ],
+    [
+      6989,
+      10,
+      []
+    ],
+    [
+      6990,
+      11,
+      []
+    ],
+    [
+      6991,
+      12,
+      []
+    ],
+    [
+      6992,
+      13,
+      []
+    ]
+  ]
+}

@@ -1,1 +1,763 @@
-{"filename":"LabyrinthAreas.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Normal_WorldAreasKeys","rowid":1,"type":"ref|list|ulong","key":"WorldAreas.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Cruel_WorldAreasKeys","rowid":2,"type":"ref|list|ulong","key":"WorldAreas.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Merciless_WorldAreasKeys","rowid":3,"type":"ref|list|ulong","key":"WorldAreas.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Endgame_WorldAreasKeys","rowid":4,"type":"ref|list|ulong","key":"WorldAreas.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown1","rowid":5,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["OutdoorEnd",[470,504],[543,576],[615,648],[687,720],1],["OutdoorEndBottleneck",[471,505,494],[544,577,566],[616,649,638],[688,721,710],1],["OutdoorStraight",[472,495,506],[545,567,578],[617,639,650],[689,711,722],2],["OutdoorStraightBottleneck",[507,496,473],[579,568,546],[651,640,618],[723,712,690],2],["OutdoorBranch",[474,497,508],[547,569,580],[619,641,652],[691,713,724],3],["OutdoorBranchBottleneck1",[498,509],[570,581],[642,653],[714,725],3],["OutdoorBranchBottleneck2",[510,499,476],[582,571,549],[654,643,621],[726,715,693],3],["OutdoorQuad",[478,501,512],[551,573,584],[623,645,656],[695,717,728],4],["IndoorShortcut",[450],[523],[595],[667],2],["IndoorEndBottleneck",[449,460,483],[522,533,555],[594,605,627],[666,677,699],1],["IndoorStraight",[484,461,450],[556,534,523],[628,606,595],[700,678,667],2],["IndoorStraightBottleneck",[451,485,462],[524,557,535],[596,629,607],[668,701,679],2],["IndoorBranch",[486,463,452],[558,536,525],[630,608,597],[702,680,669],3],["IndoorBranchBottleneck1",[453,487,464],[526,559,537],[598,631,609],[670,703,681],3],["IndoorBranchBottleneck2",[454,488,465],[527,560,538],[599,632,610],[671,704,682],3],["IndoorQuad",[456,467,490],[529,540,562],[601,612,634],[673,684,706],4],["OutdoorQuadDoor",[514,480,503],[586,553,575],[658,625,647],[730,697,719],4],["OutdoorBranchDoor",[511,477,500],[583,550,572],[655,622,644],[727,694,716],3],["IndoorQuadDoor",[458,469,492],[531,542,564],[603,614,636],[675,686,708],4],["IndoorBranchDoor",[455,466,489],[528,539,561],[600,611,633],[672,683,705],3],["EntranceStraight",[506],[578],[650],[722],2],["EntranceQuadDoor",[514],[586],[658],[730],4],["EntranceQuad",[512],[584],[656],[728],4],["EntranceBranch",[508],[580],[652],[724],3],["EntranceBranchDoor",[511],[583],[655],[727],3],["EntranceStraightBottleneck",[507],[579],[651],[723],2],["ElegantBlockBranch",[481],[],[],[],3],["Boss1",[515],[587],[659],[731],2],["Boss2",[516],[588],[660],[732],3],["Boss3",[517],[589],[661],[733],4],["FinalBoss1",[518],[590],[662],[734],2],["FinalBoss2",[519],[591],[663],[735],3],["FinalBoss3",[520],[592],[664],[736],4]]}
+{
+  "filename": "LabyrinthAreas.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Normal_WorldAreasKeys",
+      "rowid": 1,
+      "type": "ref|list|ulong",
+      "key": "WorldAreas.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Cruel_WorldAreasKeys",
+      "rowid": 2,
+      "type": "ref|list|ulong",
+      "key": "WorldAreas.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Merciless_WorldAreasKeys",
+      "rowid": 3,
+      "type": "ref|list|ulong",
+      "key": "WorldAreas.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Endgame_WorldAreasKeys",
+      "rowid": 4,
+      "type": "ref|list|ulong",
+      "key": "WorldAreas.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown1",
+      "rowid": 5,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "OutdoorEnd",
+      [
+        470,
+        504
+      ],
+      [
+        543,
+        576
+      ],
+      [
+        615,
+        648
+      ],
+      [
+        687,
+        720
+      ],
+      1
+    ],
+    [
+      "OutdoorEndBottleneck",
+      [
+        471,
+        505,
+        494
+      ],
+      [
+        544,
+        577,
+        566
+      ],
+      [
+        616,
+        649,
+        638
+      ],
+      [
+        688,
+        721,
+        710
+      ],
+      1
+    ],
+    [
+      "OutdoorStraight",
+      [
+        472,
+        495,
+        506
+      ],
+      [
+        545,
+        567,
+        578
+      ],
+      [
+        617,
+        639,
+        650
+      ],
+      [
+        689,
+        711,
+        722
+      ],
+      2
+    ],
+    [
+      "OutdoorStraightBottleneck",
+      [
+        507,
+        496,
+        473
+      ],
+      [
+        579,
+        568,
+        546
+      ],
+      [
+        651,
+        640,
+        618
+      ],
+      [
+        723,
+        712,
+        690
+      ],
+      2
+    ],
+    [
+      "OutdoorBranch",
+      [
+        474,
+        497,
+        508
+      ],
+      [
+        547,
+        569,
+        580
+      ],
+      [
+        619,
+        641,
+        652
+      ],
+      [
+        691,
+        713,
+        724
+      ],
+      3
+    ],
+    [
+      "OutdoorBranchBottleneck1",
+      [
+        498,
+        509
+      ],
+      [
+        570,
+        581
+      ],
+      [
+        642,
+        653
+      ],
+      [
+        714,
+        725
+      ],
+      3
+    ],
+    [
+      "OutdoorBranchBottleneck2",
+      [
+        510,
+        499,
+        476
+      ],
+      [
+        582,
+        571,
+        549
+      ],
+      [
+        654,
+        643,
+        621
+      ],
+      [
+        726,
+        715,
+        693
+      ],
+      3
+    ],
+    [
+      "OutdoorQuad",
+      [
+        478,
+        501,
+        512
+      ],
+      [
+        551,
+        573,
+        584
+      ],
+      [
+        623,
+        645,
+        656
+      ],
+      [
+        695,
+        717,
+        728
+      ],
+      4
+    ],
+    [
+      "IndoorShortcut",
+      [
+        450
+      ],
+      [
+        523
+      ],
+      [
+        595
+      ],
+      [
+        667
+      ],
+      2
+    ],
+    [
+      "IndoorEndBottleneck",
+      [
+        449,
+        460,
+        483
+      ],
+      [
+        522,
+        533,
+        555
+      ],
+      [
+        594,
+        605,
+        627
+      ],
+      [
+        666,
+        677,
+        699
+      ],
+      1
+    ],
+    [
+      "IndoorStraight",
+      [
+        484,
+        461,
+        450
+      ],
+      [
+        556,
+        534,
+        523
+      ],
+      [
+        628,
+        606,
+        595
+      ],
+      [
+        700,
+        678,
+        667
+      ],
+      2
+    ],
+    [
+      "IndoorStraightBottleneck",
+      [
+        451,
+        485,
+        462
+      ],
+      [
+        524,
+        557,
+        535
+      ],
+      [
+        596,
+        629,
+        607
+      ],
+      [
+        668,
+        701,
+        679
+      ],
+      2
+    ],
+    [
+      "IndoorBranch",
+      [
+        486,
+        463,
+        452
+      ],
+      [
+        558,
+        536,
+        525
+      ],
+      [
+        630,
+        608,
+        597
+      ],
+      [
+        702,
+        680,
+        669
+      ],
+      3
+    ],
+    [
+      "IndoorBranchBottleneck1",
+      [
+        453,
+        487,
+        464
+      ],
+      [
+        526,
+        559,
+        537
+      ],
+      [
+        598,
+        631,
+        609
+      ],
+      [
+        670,
+        703,
+        681
+      ],
+      3
+    ],
+    [
+      "IndoorBranchBottleneck2",
+      [
+        454,
+        488,
+        465
+      ],
+      [
+        527,
+        560,
+        538
+      ],
+      [
+        599,
+        632,
+        610
+      ],
+      [
+        671,
+        704,
+        682
+      ],
+      3
+    ],
+    [
+      "IndoorQuad",
+      [
+        456,
+        467,
+        490
+      ],
+      [
+        529,
+        540,
+        562
+      ],
+      [
+        601,
+        612,
+        634
+      ],
+      [
+        673,
+        684,
+        706
+      ],
+      4
+    ],
+    [
+      "OutdoorQuadDoor",
+      [
+        514,
+        480,
+        503
+      ],
+      [
+        586,
+        553,
+        575
+      ],
+      [
+        658,
+        625,
+        647
+      ],
+      [
+        730,
+        697,
+        719
+      ],
+      4
+    ],
+    [
+      "OutdoorBranchDoor",
+      [
+        511,
+        477,
+        500
+      ],
+      [
+        583,
+        550,
+        572
+      ],
+      [
+        655,
+        622,
+        644
+      ],
+      [
+        727,
+        694,
+        716
+      ],
+      3
+    ],
+    [
+      "IndoorQuadDoor",
+      [
+        458,
+        469,
+        492
+      ],
+      [
+        531,
+        542,
+        564
+      ],
+      [
+        603,
+        614,
+        636
+      ],
+      [
+        675,
+        686,
+        708
+      ],
+      4
+    ],
+    [
+      "IndoorBranchDoor",
+      [
+        455,
+        466,
+        489
+      ],
+      [
+        528,
+        539,
+        561
+      ],
+      [
+        600,
+        611,
+        633
+      ],
+      [
+        672,
+        683,
+        705
+      ],
+      3
+    ],
+    [
+      "EntranceStraight",
+      [
+        506
+      ],
+      [
+        578
+      ],
+      [
+        650
+      ],
+      [
+        722
+      ],
+      2
+    ],
+    [
+      "EntranceQuadDoor",
+      [
+        514
+      ],
+      [
+        586
+      ],
+      [
+        658
+      ],
+      [
+        730
+      ],
+      4
+    ],
+    [
+      "EntranceQuad",
+      [
+        512
+      ],
+      [
+        584
+      ],
+      [
+        656
+      ],
+      [
+        728
+      ],
+      4
+    ],
+    [
+      "EntranceBranch",
+      [
+        508
+      ],
+      [
+        580
+      ],
+      [
+        652
+      ],
+      [
+        724
+      ],
+      3
+    ],
+    [
+      "EntranceBranchDoor",
+      [
+        511
+      ],
+      [
+        583
+      ],
+      [
+        655
+      ],
+      [
+        727
+      ],
+      3
+    ],
+    [
+      "EntranceStraightBottleneck",
+      [
+        507
+      ],
+      [
+        579
+      ],
+      [
+        651
+      ],
+      [
+        723
+      ],
+      2
+    ],
+    [
+      "ElegantBlockBranch",
+      [
+        481
+      ],
+      [],
+      [],
+      [],
+      3
+    ],
+    [
+      "Boss1",
+      [
+        515
+      ],
+      [
+        587
+      ],
+      [
+        659
+      ],
+      [
+        731
+      ],
+      2
+    ],
+    [
+      "Boss2",
+      [
+        516
+      ],
+      [
+        588
+      ],
+      [
+        660
+      ],
+      [
+        732
+      ],
+      3
+    ],
+    [
+      "Boss3",
+      [
+        517
+      ],
+      [
+        589
+      ],
+      [
+        661
+      ],
+      [
+        733
+      ],
+      4
+    ],
+    [
+      "FinalBoss1",
+      [
+        518
+      ],
+      [
+        590
+      ],
+      [
+        662
+      ],
+      [
+        734
+      ],
+      2
+    ],
+    [
+      "FinalBoss2",
+      [
+        519
+      ],
+      [
+        591
+      ],
+      [
+        663
+      ],
+      [
+        735
+      ],
+      3
+    ],
+    [
+      "FinalBoss3",
+      [
+        520
+      ],
+      [
+        592
+      ],
+      [
+        664
+      ],
+      [
+        736
+      ],
+      4
+    ]
+  ]
+}

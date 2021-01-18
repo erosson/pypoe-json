@@ -1,1 +1,377 @@
-{"filename":"HarvestObjects.dat","header":[{"name":"BaseItemTypesKey","rowid":0,"type":"ulong","key":"BaseItemTypes.dat","key_id":null,"key_offset":0,"enum":null,"unique":true,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"AOFile","rowid":1,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":true,"file_ext":".ao","display":null,"display_type":"{0}","description":null},{"name":"ObjectType","rowid":2,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":"HARVEST_OBJECT_TYPES","unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[[7037,"Metadata/Effects/Spells/monsters_effects/LeagueHarvest/machinery/harvest_pole.ao",0],[7038,"Metadata/Effects/Spells/monsters_effects/LeagueHarvest/machinery/harvest_sprinkler.ao",0],[7039,"Metadata/Effects/Spells/monsters_effects/LeagueHarvest/machinery/harvest_tank.ao",0],[7041,"Metadata/Effects/Spells/monsters_effects/LeagueHarvest/machinery/harvest_workbench.ao",0],[7042,"Metadata/Effects/Spells/monsters_effects/LeagueHarvest/machinery/harvest_extractor_RED.ao",1],[7043,"Metadata/Effects/Spells/monsters_effects/LeagueHarvest/machinery/harvest_extractor_GREEN.ao",2],[7044,"Metadata/Effects/Spells/monsters_effects/LeagueHarvest/machinery/harvest_extractor_BLUE.ao",3],[7054,"Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/thorn/tier_01/thorn_tier01_Hatch.ao",1],[7055,"Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/thorn/tier_01/thorn_tier01_Hatch.ao",1],[7056,"Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/thorn/tier_01/thorn_tier01_Hatch.ao",1],[7057,"Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/thorn/tier_01/thorn_tier01_Hatch.ao",1],[7058,"Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/thorn/tier_01/thorn_tier01_Hatch.ao",1],[7059,"Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/thorn/tier_01/thorn_tier01_Hatch.ao",1],[7060,"Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/thorn/tier_01/thorn_tier01_Hatch.ao",1],[7061,"Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/thorn/tier_01/thorn_tier01_Hatch.ao",1],[7062,"Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/thorn/tier_01/thorn_tier01_Hatch.ao",1],[7063,"Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/thorn/tier_01/thorn_tier01_Hatch.ao",1],[7064,"Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/thorn/tier_01/thorn_tier01_Hatch.ao",1],[7065,"Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/thorn/tier_01/thorn_tier01_Hatch.ao",1],[7066,"Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/thorn/tier_01/thorn_tier01_Hatch.ao",1],[7067,"Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/thorn/tier_01/thorn_tier01_Hatch.ao",1],[7068,"Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/thorn/tier_01/thorn_tier01_Hatch.ao",1],[7069,"Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/thorn/boss/thorn_boss_hatch.ao",1],[7070,"Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/scale/tier_01/scale_tier01_Hatch.ao",2],[7071,"Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/scale/tier_01/scale_tier01_Hatch.ao",2],[7072,"Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/scale/tier_01/scale_tier01_Hatch.ao",2],[7073,"Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/scale/tier_01/scale_tier01_Hatch.ao",2],[7074,"Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/scale/tier_01/scale_tier01_Hatch.ao",2],[7075,"Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/scale/tier_01/scale_tier01_Hatch.ao",2],[7076,"Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/scale/tier_01/scale_tier01_Hatch.ao",2],[7077,"Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/scale/tier_01/scale_tier01_Hatch.ao",2],[7078,"Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/scale/tier_01/scale_tier01_Hatch.ao",2],[7079,"Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/scale/tier_01/scale_tier01_Hatch.ao",2],[7080,"Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/scale/tier_01/scale_tier01_Hatch.ao",2],[7081,"Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/scale/tier_01/scale_tier01_Hatch.ao",2],[7082,"Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/scale/tier_01/scale_tier01_Hatch.ao",2],[7083,"Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/scale/tier_01/scale_tier01_Hatch.ao",2],[7084,"Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/scale/tier_01/scale_tier01_Hatch.ao",2],[7085,"Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/scale/boss/scale_boss_hatch.ao",2],[7086,"Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/bulb/tier_01/bulb_tier01_hatch.ao",3],[7087,"Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/bulb/tier_01/bulb_tier01_hatch.ao",3],[7088,"Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/bulb/tier_01/bulb_tier01_hatch.ao",3],[7089,"Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/bulb/tier_01/bulb_tier01_hatch.ao",3],[7090,"Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/bulb/tier_01/bulb_tier01_hatch.ao",3],[7091,"Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/bulb/tier_02/bulb_tier02_hatch.ao",3],[7092,"Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/bulb/tier_02/bulb_tier02_hatch.ao",3],[7093,"Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/bulb/tier_02/bulb_tier02_hatch.ao",3],[7094,"Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/bulb/tier_02/bulb_tier02_hatch.ao",3],[7095,"Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/bulb/tier_02/bulb_tier02_hatch.ao",3],[7096,"Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/bulb/tier_03/bulb_tier03_hatch.ao",3],[7097,"Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/bulb/tier_03/bulb_tier03_hatch.ao",3],[7098,"Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/bulb/tier_03/bulb_tier03_hatch.ao",3],[7099,"Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/bulb/tier_03/bulb_tier03_hatch.ao",3],[7100,"Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/bulb/tier_03/bulb_tier03_hatch.ao",3],[7101,"Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/bulb/boss/bulb_boss_hatch.ao",3],[7045,"Metadata/Effects/Spells/monsters_effects/LeagueHarvest/oshabi_flower/oshabiFlowerwhite.ao",0],[7046,"Metadata/Effects/Spells/monsters_effects/LeagueHarvest/oshabi_flower/oshabiFlowerwhite.ao",0],[7047,"Metadata/Effects/Spells/monsters_effects/LeagueHarvest/oshabi_flower/oshabiFlowerwhite.ao",0],[7048,"Metadata/Effects/Spells/monsters_effects/LeagueHarvest/oshabi_flower/oshabiFlowerRed.ao",0],[7049,"Metadata/Effects/Spells/monsters_effects/LeagueHarvest/oshabi_flower/oshabiFlowerRed.ao",0],[7050,"Metadata/Effects/Spells/monsters_effects/LeagueHarvest/oshabi_flower/oshabiFlowerRed.ao",0],[7051,"Metadata/Effects/Spells/monsters_effects/LeagueHarvest/oshabi_flower/oshabiFlowerGreen.ao",0],[7052,"Metadata/Effects/Spells/monsters_effects/LeagueHarvest/oshabi_flower/oshabiFlowerGreen.ao",0],[7053,"Metadata/Effects/Spells/monsters_effects/LeagueHarvest/oshabi_flower/oshabiFlowerGreen.ao",0],[7040,"Metadata/Effects/Spells/monsters_effects/LeagueHarvest/machinery/harvest_tank_modern.ao",0]]}
+{
+  "filename": "HarvestObjects.dat",
+  "header": [
+    {
+      "name": "BaseItemTypesKey",
+      "rowid": 0,
+      "type": "ulong",
+      "key": "BaseItemTypes.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "AOFile",
+      "rowid": 1,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": true,
+      "file_ext": ".ao",
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "ObjectType",
+      "rowid": 2,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": "HARVEST_OBJECT_TYPES",
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      7037,
+      "Metadata/Effects/Spells/monsters_effects/LeagueHarvest/machinery/harvest_pole.ao",
+      0
+    ],
+    [
+      7038,
+      "Metadata/Effects/Spells/monsters_effects/LeagueHarvest/machinery/harvest_sprinkler.ao",
+      0
+    ],
+    [
+      7039,
+      "Metadata/Effects/Spells/monsters_effects/LeagueHarvest/machinery/harvest_tank.ao",
+      0
+    ],
+    [
+      7041,
+      "Metadata/Effects/Spells/monsters_effects/LeagueHarvest/machinery/harvest_workbench.ao",
+      0
+    ],
+    [
+      7042,
+      "Metadata/Effects/Spells/monsters_effects/LeagueHarvest/machinery/harvest_extractor_RED.ao",
+      1
+    ],
+    [
+      7043,
+      "Metadata/Effects/Spells/monsters_effects/LeagueHarvest/machinery/harvest_extractor_GREEN.ao",
+      2
+    ],
+    [
+      7044,
+      "Metadata/Effects/Spells/monsters_effects/LeagueHarvest/machinery/harvest_extractor_BLUE.ao",
+      3
+    ],
+    [
+      7054,
+      "Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/thorn/tier_01/thorn_tier01_Hatch.ao",
+      1
+    ],
+    [
+      7055,
+      "Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/thorn/tier_01/thorn_tier01_Hatch.ao",
+      1
+    ],
+    [
+      7056,
+      "Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/thorn/tier_01/thorn_tier01_Hatch.ao",
+      1
+    ],
+    [
+      7057,
+      "Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/thorn/tier_01/thorn_tier01_Hatch.ao",
+      1
+    ],
+    [
+      7058,
+      "Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/thorn/tier_01/thorn_tier01_Hatch.ao",
+      1
+    ],
+    [
+      7059,
+      "Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/thorn/tier_01/thorn_tier01_Hatch.ao",
+      1
+    ],
+    [
+      7060,
+      "Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/thorn/tier_01/thorn_tier01_Hatch.ao",
+      1
+    ],
+    [
+      7061,
+      "Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/thorn/tier_01/thorn_tier01_Hatch.ao",
+      1
+    ],
+    [
+      7062,
+      "Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/thorn/tier_01/thorn_tier01_Hatch.ao",
+      1
+    ],
+    [
+      7063,
+      "Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/thorn/tier_01/thorn_tier01_Hatch.ao",
+      1
+    ],
+    [
+      7064,
+      "Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/thorn/tier_01/thorn_tier01_Hatch.ao",
+      1
+    ],
+    [
+      7065,
+      "Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/thorn/tier_01/thorn_tier01_Hatch.ao",
+      1
+    ],
+    [
+      7066,
+      "Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/thorn/tier_01/thorn_tier01_Hatch.ao",
+      1
+    ],
+    [
+      7067,
+      "Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/thorn/tier_01/thorn_tier01_Hatch.ao",
+      1
+    ],
+    [
+      7068,
+      "Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/thorn/tier_01/thorn_tier01_Hatch.ao",
+      1
+    ],
+    [
+      7069,
+      "Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/thorn/boss/thorn_boss_hatch.ao",
+      1
+    ],
+    [
+      7070,
+      "Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/scale/tier_01/scale_tier01_Hatch.ao",
+      2
+    ],
+    [
+      7071,
+      "Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/scale/tier_01/scale_tier01_Hatch.ao",
+      2
+    ],
+    [
+      7072,
+      "Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/scale/tier_01/scale_tier01_Hatch.ao",
+      2
+    ],
+    [
+      7073,
+      "Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/scale/tier_01/scale_tier01_Hatch.ao",
+      2
+    ],
+    [
+      7074,
+      "Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/scale/tier_01/scale_tier01_Hatch.ao",
+      2
+    ],
+    [
+      7075,
+      "Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/scale/tier_01/scale_tier01_Hatch.ao",
+      2
+    ],
+    [
+      7076,
+      "Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/scale/tier_01/scale_tier01_Hatch.ao",
+      2
+    ],
+    [
+      7077,
+      "Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/scale/tier_01/scale_tier01_Hatch.ao",
+      2
+    ],
+    [
+      7078,
+      "Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/scale/tier_01/scale_tier01_Hatch.ao",
+      2
+    ],
+    [
+      7079,
+      "Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/scale/tier_01/scale_tier01_Hatch.ao",
+      2
+    ],
+    [
+      7080,
+      "Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/scale/tier_01/scale_tier01_Hatch.ao",
+      2
+    ],
+    [
+      7081,
+      "Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/scale/tier_01/scale_tier01_Hatch.ao",
+      2
+    ],
+    [
+      7082,
+      "Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/scale/tier_01/scale_tier01_Hatch.ao",
+      2
+    ],
+    [
+      7083,
+      "Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/scale/tier_01/scale_tier01_Hatch.ao",
+      2
+    ],
+    [
+      7084,
+      "Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/scale/tier_01/scale_tier01_Hatch.ao",
+      2
+    ],
+    [
+      7085,
+      "Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/scale/boss/scale_boss_hatch.ao",
+      2
+    ],
+    [
+      7086,
+      "Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/bulb/tier_01/bulb_tier01_hatch.ao",
+      3
+    ],
+    [
+      7087,
+      "Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/bulb/tier_01/bulb_tier01_hatch.ao",
+      3
+    ],
+    [
+      7088,
+      "Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/bulb/tier_01/bulb_tier01_hatch.ao",
+      3
+    ],
+    [
+      7089,
+      "Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/bulb/tier_01/bulb_tier01_hatch.ao",
+      3
+    ],
+    [
+      7090,
+      "Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/bulb/tier_01/bulb_tier01_hatch.ao",
+      3
+    ],
+    [
+      7091,
+      "Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/bulb/tier_02/bulb_tier02_hatch.ao",
+      3
+    ],
+    [
+      7092,
+      "Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/bulb/tier_02/bulb_tier02_hatch.ao",
+      3
+    ],
+    [
+      7093,
+      "Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/bulb/tier_02/bulb_tier02_hatch.ao",
+      3
+    ],
+    [
+      7094,
+      "Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/bulb/tier_02/bulb_tier02_hatch.ao",
+      3
+    ],
+    [
+      7095,
+      "Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/bulb/tier_02/bulb_tier02_hatch.ao",
+      3
+    ],
+    [
+      7096,
+      "Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/bulb/tier_03/bulb_tier03_hatch.ao",
+      3
+    ],
+    [
+      7097,
+      "Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/bulb/tier_03/bulb_tier03_hatch.ao",
+      3
+    ],
+    [
+      7098,
+      "Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/bulb/tier_03/bulb_tier03_hatch.ao",
+      3
+    ],
+    [
+      7099,
+      "Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/bulb/tier_03/bulb_tier03_hatch.ao",
+      3
+    ],
+    [
+      7100,
+      "Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/bulb/tier_03/bulb_tier03_hatch.ao",
+      3
+    ],
+    [
+      7101,
+      "Metadata/Effects/Spells/monsters_effects/LeagueHarvest/monster_plants/bulb/boss/bulb_boss_hatch.ao",
+      3
+    ],
+    [
+      7045,
+      "Metadata/Effects/Spells/monsters_effects/LeagueHarvest/oshabi_flower/oshabiFlowerwhite.ao",
+      0
+    ],
+    [
+      7046,
+      "Metadata/Effects/Spells/monsters_effects/LeagueHarvest/oshabi_flower/oshabiFlowerwhite.ao",
+      0
+    ],
+    [
+      7047,
+      "Metadata/Effects/Spells/monsters_effects/LeagueHarvest/oshabi_flower/oshabiFlowerwhite.ao",
+      0
+    ],
+    [
+      7048,
+      "Metadata/Effects/Spells/monsters_effects/LeagueHarvest/oshabi_flower/oshabiFlowerRed.ao",
+      0
+    ],
+    [
+      7049,
+      "Metadata/Effects/Spells/monsters_effects/LeagueHarvest/oshabi_flower/oshabiFlowerRed.ao",
+      0
+    ],
+    [
+      7050,
+      "Metadata/Effects/Spells/monsters_effects/LeagueHarvest/oshabi_flower/oshabiFlowerRed.ao",
+      0
+    ],
+    [
+      7051,
+      "Metadata/Effects/Spells/monsters_effects/LeagueHarvest/oshabi_flower/oshabiFlowerGreen.ao",
+      0
+    ],
+    [
+      7052,
+      "Metadata/Effects/Spells/monsters_effects/LeagueHarvest/oshabi_flower/oshabiFlowerGreen.ao",
+      0
+    ],
+    [
+      7053,
+      "Metadata/Effects/Spells/monsters_effects/LeagueHarvest/oshabi_flower/oshabiFlowerGreen.ao",
+      0
+    ],
+    [
+      7040,
+      "Metadata/Effects/Spells/monsters_effects/LeagueHarvest/machinery/harvest_tank_modern.ao",
+      0
+    ]
+  ]
+}

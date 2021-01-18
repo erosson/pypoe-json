@@ -1,1 +1,709 @@
-{"filename":"SynthesisRewardTypes.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":true,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Description","rowid":1,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"ArtFile","rowid":2,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":true,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"AchievementItemsKey","rowid":3,"type":"ulong","key":"AchievementItems.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["Currency","มีหีบสมบัติสังเคราะ ไอเทมเคอเรนซี่ อยู่ 2 ถึง 3 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIcon",null],["Currency2","มีหีบสมบัติสังเคราะ ไอเทมเคอเรนซี่ อยู่ 3 ถึง 4 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIcon",null],["Currency3","มีหีบสมบัติสังเคราะ ไอเทมเคอเรนซี่ อยู่ 4 ถึง 5 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIcon",null],["CurrencyHigh3","มีหีบสมบัติสังเคราะ ไอเทมเคอเรนซี่ ที่มีค่า อยู่ 2 ถึง 3 หีบ\r\nมีหีบสมบัติสังเคราะ ไอเทมเคอเรนซี่ อยู่ 2 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIconTier2",null],["Currency4","มีหีบสมบัติสังเคราะ ไอเทมเคอเรนซี่ อยู่ 5 ถึง 6 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIcon",null],["CurrencyHigh4","มีหีบสมบัติสังเคราะ ไอเทมเคอเรนซี่ ที่มีค่า อยู่ 3 ถึง 4 หีบ\r\nมีหีบสมบัติสังเคราะ ไอเทมเคอเรนซี่ อยู่ 2 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIconTier2",null],["CurrencyEpic4","มีหีบสมบัติสังเคราะ ไอเทมเคอเรนซี่ ที่มีค่า มากๆ อยู่ 1 หีบ\r\nมีหีบสมบัติสังเคราะ ไอเทมเคอเรนซี่ อยู่ 4 ถึง 5 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIconTier3",null],["Currency5","มีหีบสมบัติสังเคราะ ไอเทมเคอเรนซี่ อยู่ 6 ถึง 7 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIcon",null],["CurrencyHigh5","มีหีบสมบัติสังเคราะ ไอเทมเคอเรนซี่ ที่มีค่า อยู่ 4 ถึง 5 หีบ\r\nมีหีบสมบัติสังเคราะ ไอเทมเคอเรนซี่ อยู่ 2 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIconTier2",null],["CurrencyEpic5","มีหีบสมบัติสังเคราะ ไอเทมเคอเรนซี่ ที่มีค่า มากๆ อยู่ 1 หีบ\r\nมีหีบสมบัติสังเคราะ ไอเทมเคอเรนซี่ อยู่ 5 ถึง 6 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIconTier3",null],["Uniques","มีหีบสมบัติสังเคราะที่มีไอเทมยูนิคหนึ่งชิ้น อยู่ 1 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทมแตกร้าวอยู่ 1 ถึง 2 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/UniqueItemRewardIcon",null],["Uniques2","มีหีบสมบัติสังเคราะที่มีไอเทมยูนิคหนึ่งชิ้น อยู่ 1 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทมแตกร้าวอยู่ 2 ถึง 3 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/UniqueItemRewardIcon",null],["Uniques3","มีหีบสมบัติสังเคราะที่มีไอเทมยูนิคหนึ่งชิ้น อยู่ 2 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทมแตกร้าวอยู่ 2 ถึง 3 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/UniqueItemRewardIcon",null],["Uniques4","มีหีบสมบัติสังเคราะที่มีไอเทมยูนิคหนึ่งชิ้น อยู่ 2 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทมแตกร้าวอยู่ 3 ถึง 4 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/UniqueItemRewardIcon",null],["Uniques5","มีหีบสมบัติสังเคราะที่มีไอเทมยูนิคหนึ่งชิ้น อยู่ 3 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทมแตกร้าวอยู่ 3 ถึง 4 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/UniqueItemRewardIcon",null],["UniquesHigh5","มีหีบสมบัติสังเคราะที่มีไอเทมยูนิคหนึ่งชิ้น ที่มีค่า อยู่ 1 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทมแตกร้าวอยู่ 3 ถึง 4 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/UniqueItemRewardIconTier2",null],["FracturedItems3","มีหีบสมบัติสังเคราะ ไอเทมแตกร้าว ที่มีค่า อยู่ 2 ถึง 3 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/FracturedItemRewardIconTier3",null],["Gems","มีหีบสมบัติสังเคราะ ไอเทมเจม อยู่ 1 ถึง 2 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/SkillGemItemRewardIcon",null],["Gems2","มีหีบสมบัติสังเคราะ ไอเทมเจม อยู่ 2 ถึง 3 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/SkillGemItemRewardIcon",null],["Gems3","มีหีบสมบัติสังเคราะ ไอเทมเจม อยู่ 3 ถึง 4 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/SkillGemItemRewardIcon",null],["GemsHigh3","มีหีบสมบัติสังเคราะ ไอเทมเจม ที่มีค่า อยู่ 2 ถึง 3 หีบ\r\nมีหีบสมบัติสังเคราะ ไอเทมเจม อยู่ 1 ถึง 2 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/SkillGemItemRewardIconTier2",null],["Maps","มีหีบสมบัติสังเคราะ ไอเทมแผนที่ อยู่ 1 ถึง 2 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/MapItemRewardIcon",null],["Maps2","มีหีบสมบัติสังเคราะ ไอเทมแผนที่ อยู่ 2 ถึง 3 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/MapItemRewardIcon",null],["Maps3","มีหีบสมบัติสังเคราะ ไอเทมแผนที่ อยู่ 3 ถึง 4 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/MapItemRewardIcon",null],["Trinkets","มีหีบสมบัติสังเคราะที่มีไอเทม เครื่องประดับ อยู่ 1 ถึง 2 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม เครื่องประดับ ที่แต่ร้าว อยู่ 1 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",null],["Trinkets2","มีหีบสมบัติสังเคราะที่มีไอเทม เครื่องประดับ อยู่ 2 ถึง 3 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม เครื่องประดับ ที่แต่ร้าว อยู่ 1 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",null],["Trinkets3","มีหีบสมบัติสังเคราะที่มีไอเทม เครื่องประดับ อยู่ 3 ถึง 4 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม เครื่องประดับ ที่แต่ร้าว อยู่ 1 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",null],["TrinketsHigh3","มีหีบสมบัติสังเคราะที่มีไอเทม เครื่องประดับ ที่มีค่า อยู่ 2 ถึง 3 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม เครื่องประดับ ที่แต่ร้าว อยู่ 2 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",null],["Trinkets4","มีหีบสมบัติสังเคราะที่มีไอเทม เครื่องประดับ อยู่ 4 ถึง 5 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม เครื่องประดับ ที่แต่ร้าว อยู่ 1 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",null],["TrinketsHigh4","มีหีบสมบัติสังเคราะที่มีไอเทม เครื่องประดับ ที่มีค่า อยู่ 3 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม เครื่องประดับ ที่แต่ร้าว อยู่ 3 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",null],["TrinketsEpic4","มีหีบสมบัติสังเคราะที่มีไอเทม เครื่องประดับ ที่มีค่ามากๆ อยู่ 1 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม เครื่องประดับ ที่แต่ร้าว อยู่ 4 ถึง 5 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",null],["Trinkets5","มีหีบสมบัติสังเคราะที่มีไอเทม เครื่องประดับ อยู่ 4 ถึง 5 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม เครื่องประดับ ที่แต่ร้าว อยู่ 2 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",null],["TrinketsHigh5","มีหีบสมบัติสังเคราะที่มีไอเทม เครื่องประดับ ที่มีค่า อยู่ 3 ถึง 4 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม เครื่องประดับ ที่แต่ร้าว อยู่ 4 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",null],["TrinketsEpic5","มีหีบสมบัติสังเคราะที่มีไอเทม เครื่องประดับ ที่มีค่ามากๆ อยู่ 1 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม เครื่องประดับ ที่แต่ร้าว อยู่ 5 ถึง 6 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",null],["Abyss","มีหีบสมบัติสังเคราะที่มีไอเทม Abyssal อยู่ 2 ถึง 3 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/AbyssItemRewardIcon",null],["Abyss2","มีหีบสมบัติสังเคราะที่มีไอเทม Abyssal อยู่ 3 ถึง 4 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/AbyssItemRewardIcon",null],["AbyssHigh2","มีหีบสมบัติสังเคราะที่มีไอเทม Abyssal ที่มีค่า อยู่ 3 ถึง 4 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/AbyssItemRewardIconTier2",null],["Armour","มีหีบสมบัติสังเคราะที่มีไอเทม เครื่องป้องกัน อยู่ 1 ถึง 2 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม เครื่องป้องกัน ที่แต่ร้าว อยู่ 1 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",null],["Armour2","มีหีบสมบัติสังเคราะที่มีไอเทม เครื่องป้องกัน อยู่ 2 ถึง 3 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม เครื่องป้องกัน ที่แต่ร้าว อยู่ 1 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",null],["Armour3","มีหีบสมบัติสังเคราะที่มีไอเทม เครื่องป้องกัน อยู่ 3 ถึง 4 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม เครื่องป้องกัน ที่แต่ร้าว อยู่ 1 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",null],["ArmourHigh3","มีหีบสมบัติสังเคราะที่มีไอเทม เครื่องป้องกัน ที่มีค่า อยู่ 2 ถึง 3 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม เครื่องป้องกัน ที่แต่ร้าว อยู่ 2 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",null],["Armour4","มีหีบสมบัติสังเคราะที่มีไอเทม เครื่องป้องกัน อยู่ 4 ถึง 5 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม เครื่องป้องกัน ที่แต่ร้าว อยู่ 1 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",null],["ArmourHigh4","มีหีบสมบัติสังเคราะที่มีไอเทม เครื่องป้องกัน ที่มีค่า อยู่ 3 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม เครื่องป้องกัน ที่แต่ร้าว อยู่ 3 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",null],["ArmourEpic4","มีหีบสมบัติสังเคราะที่มีไอเทม เครื่องป้องกัน ที่มีค่ามากๆ อยู่ 1 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม เครื่องป้องกัน ที่มีค่า อยู่ 2 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",null],["Armour5","มีหีบสมบัติสังเคราะที่มีไอเทม เครื่องป้องกัน อยู่ 4 ถึง 5 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม เครื่องป้องกัน ที่แต่ร้าว อยู่ 2 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",null],["ArmourHigh5","มีหีบสมบัติสังเคราะที่มีไอเทม เครื่องป้องกัน ที่มีค่า อยู่ 3 ถึง 4 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม เครื่องป้องกัน ที่แต่ร้าว อยู่ 4 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",null],["ArmourEpic5","มีหีบสมบัติสังเคราะที่มีไอเทม เครื่องป้องกัน ที่มีค่ามากๆ อยู่ 1 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม เครื่องป้องกัน ที่มีค่า อยู่ 3 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",null],["Weapons","มีหีบสมบัติสังเคราะที่มีไอเทม อาวุธ อยู่ 1 ถึง 2 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม อาวุธ ที่แต่ร้าว อยู่ 1 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",null],["Weapons2","มีหีบสมบัติสังเคราะที่มีไอเทม อาวุธ อยู่ 2 ถึง 3 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม อาวุธ ที่แต่ร้าว อยู่ 1 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",null],["Weapons3","มีหีบสมบัติสังเคราะที่มีไอเทม อาวุธ อยู่ 3 ถึง 4 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม อาวุธ ที่แต่ร้าว อยู่ 1 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",null],["WeaponsHigh3","มีหีบสมบัติสังเคราะที่มีไอเทม อาวุธ ที่มีค่า อยู่ 2 ถึง 3 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม อาวุธ ที่แต่ร้าว อยู่ 2 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",null],["Weapons4","มีหีบสมบัติสังเคราะที่มีไอเทม อาวุธ อยู่ 4 ถึง 5 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม อาวุธ ที่แต่ร้าว อยู่ 1 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",null],["WeaponsHigh4","มีหีบสมบัติสังเคราะที่มีไอเทม อาวุธ ที่มีค่า อยู่ 3 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม อาวุธ ที่แต่ร้าว อยู่ 3 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",null],["WeaponsEpic4","มีหีบสมบัติสังเคราะที่มีไอเทม อาวุธ ที่มีค่ามากๆ อยู่ 1 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม อาวุธ ที่มีค่า อยู่ 2 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",null],["Weapons5","มีหีบสมบัติสังเคราะที่มีไอเทม อาวุธ อยู่ 4 ถึง 5 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม อาวุธ ที่แต่ร้าว อยู่ 2 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",null],["WeaponsHigh5","มีหีบสมบัติสังเคราะที่มีไอเทม อาวุธ ที่มีค่า อยู่ 3 ถึง 4 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม อาวุธ ที่แต่ร้าว อยู่ 4 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",null],["WeaponsEpic5","มีหีบสมบัติสังเคราะที่มีไอเทม อาวุธ ที่มีค่ามากๆ อยู่ 1 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม อาวุธ ที่มีค่า อยู่ 3 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",null],["Perandus","มีหีบสมบัติสังเคราะที่มีไอเทม Perandus อยู่ 2 ถึง 3 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PerandusItemRewardIcon",null],["Perandus2","มีหีบสมบัติสังเคราะที่มีไอเทม Perandus อยู่ 3 ถึง 4 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PerandusItemRewardIcon",null],["Perandus3","มีหีบสมบัติสังเคราะที่มีไอเทม Perandus อยู่ 4 ถึง 5 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PerandusItemRewardIcon",null],["Perandus4","มีหีบสมบัติสังเคราะที่มีไอเทม Perandus อยู่ 5 ถึง 6 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PerandusItemRewardIcon",null],["Harbinger","มีหีบสมบัติสังเคราะที่มีไอเทม Harbinger อยู่ 1 ถึง 2 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม Harbinger ที่มีค่า อยู่ 1 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/HarbingerItemRewardIcon",null],["Harbinger2","มีหีบสมบัติสังเคราะที่มีไอเทม Harbinger อยู่ 2 ถึง 3 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม Harbinger ที่มีค่า อยู่ 1 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/HarbingerItemRewardIcon",null],["Harbinger3","มีหีบสมบัติสังเคราะที่มีไอเทม Harbinger อยู่ 2 ถึง 3 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม Harbinger ที่มีค่า อยู่ 2 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/HarbingerItemRewardIcon",null],["Breach","มีหีบสมบัติสังเคราะที่มีไอเทม Breach อยู่ 1 ถึง 2 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม Breach ที่มีค่า อยู่ 1 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/BreachItemRewardIcon",null],["Breach2","มีหีบสมบัติสังเคราะที่มีไอเทม Breach อยู่ 2 ถึง 3 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม Breach ที่มีค่า อยู่ 1 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/BreachItemRewardIcon",null],["Breach3","มีหีบสมบัติสังเคราะที่มีไอเทม Breach อยู่ 2 ถึง 3 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม Breach ที่มีค่า อยู่ 2 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/BreachItemRewardIcon",null],["Essences","มีหีบสมบัติสังเคราะที่มีไอเทม Essence อยู่ 1 ถึง 2 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/EssencesItemRewardIcon",null],["Essences2","มีหีบสมบัติสังเคราะที่มีไอเทม Essence อยู่ 2 ถึง 3 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/EssencesItemRewardIcon",null],["Essences3","มีหีบสมบัติสังเคราะที่มีไอเทม Essence อยู่ 3 ถึง 4 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/EssencesItemRewardIcon",null],["EssencesHigh3","มีหีบสมบัติสังเคราะที่มีไอเทม Essence ที่มีค่า อยู่ 1 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม Essence อยู่ 3 ถึง 4 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/EssencesItemRewardIconTier2",null],["Essences4","มีหีบสมบัติสังเคราะที่มีไอเทม Essence อยู่ 4 ถึง 5 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/EssencesItemRewardIcon",null],["EssencesHigh4","มีหีบสมบัติสังเคราะที่มีไอเทม Essence ที่มีค่า อยู่ 2 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม Essence อยู่ 3 ถึง 4 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/EssencesItemRewardIconTier2",null],["Fragments","มีหีบสมบัติสังเคราะที่มีไอเทม Fragment อยู่ 1 ถึง 2 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/FragmentsItemRewardIcon",null],["Fragments2","มีหีบสมบัติสังเคราะที่มีไอเทม Fragment อยู่ 2 ถึง 3 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/FragmentsItemRewardIcon",null],["Fragments3","มีหีบสมบัติสังเคราะที่มีไอเทม Fragment อยู่ 3 ถึง 4 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/FragmentsItemRewardIcon",null],["FragmentsHigh3","มีหีบสมบัติสังเคราะที่มีไอเทม Fragment ที่มีค่า อยู่ 1 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม Fragment อยู่ 2 ถึง 3 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/FragmentsItemRewardIconTier2",null],["Scarabs","มีหีบสมบัติสังเคราะที่มีไอเทม Scarab อยู่ 2 ถึง 3 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ScarabItemRewardIcon",null],["Scarabs2","มีหีบสมบัติสังเคราะที่มีไอเทม Scarab ที่มีค่า อยู่ 1 ถึง 2 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม Scarab อยู่ 1 ถึง 2 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ScarabItemRewardIconTier2",null],["Scarabs3","มีหีบสมบัติสังเคราะที่มีไอเทม Scarab ที่มีค่ามากๆ อยู่ 1 ถึง 2 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม Scarab ที่มีค่า อยู่ 1 ถึง 2 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ScarabItemRewardIconTier3",null],["Fossils","มีหีบสมบัติสังเคราะที่มีไอเทม Fossil อยู่ 2 ถึง 3 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/FossilItemRewardIcon",null],["Fossils2","มีหีบสมบัติสังเคราะที่มีไอเทม Fossil ที่มีค่า อยู่ 1 ถึง 2 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม Fossil อยู่ 1 ถึง 2 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/FossilItemRewardIconTier2",null],["Fossils3","มีหีบสมบัติสังเคราะที่มีไอเทม Fossil ที่มีค่ามากๆ อยู่ 1 ถึง 2 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม Fossil ที่มีค่า อยู่ 1 ถึง 2 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/FossilItemRewardIconTier3",null],["Prophecies","มีหีบสมบัติสังเคราะที่มีไอเทม Prophecy อยู่ 2 ถึง 3 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PropheciesItemRewardIcon",null],["Prophecies2","มีหีบสมบัติสังเคราะที่มีไอเทม Prophecy อยู่ 3 ถึง 4 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PropheciesItemRewardIcon",null],["Prophecies3","มีหีบสมบัติสังเคราะที่มีไอเทม Prophecy อยู่ 4 ถึง 5 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PropheciesItemRewardIcon",null],["PropheciesHigh3","มีหีบสมบัติสังเคราะที่มีไอเทม Prophecy ที่มีค่า อยู่ 1 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม Prophecy อยู่ 3 ถึง 4 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PropheciesItemRewardIconTier2",null],["Prophecies4","มีหีบสมบัติสังเคราะที่มีไอเทม Prophecy อยู่ 5 ถึง 6 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PropheciesItemRewardIcon",null],["PropheciesHigh4","มีหีบสมบัติสังเคราะที่มีไอเทม Prophecy ที่มีค่า อยู่ 2 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม Prophecy อยู่ 3 ถึง 4 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PropheciesItemRewardIconTier2",null],["DivinationCards","มีหีบสมบัติสังเคราะที่มีไพ่พยากรณ์อยู่ 1 ถึง 2 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/DivinationCardsItemRewardIcon",null],["DivinationCards2","มีหีบสมบัติสังเคราะที่มีไพ่พยากรณ์อยู่ 2 ถึง 3 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/DivinationCardsItemRewardIcon",null],["DivinationCards3","มีหีบสมบัติสังเคราะที่มีไพ่พยากรณ์อยู่ 3 ถึง 4 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/DivinationCardsItemRewardIcon",null],["DivinationCards4","มีหีบสมบัติสังเคราะที่มีไพ่พยากรณ์อยู่ 4 ถึง 5 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/DivinationCardsItemRewardIcon",null],["Generic","มีหีบสมบัติสังเคราะอยู่ 3 ถึง 4 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทมแตกร้าวอยู่ 1 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/GenericItemRewardIcon",null],["Generic2","มีหีบสมบัติสังเคราะอยู่ 4 ถึง 5 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทมแตกร้าวอยู่ 1 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/GenericItemRewardIcon",null],["Generic3","มีหีบสมบัติสังเคราะอยู่ 5 ถึง 6 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทมแตกร้าวอยู่ 2 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/GenericItemRewardIcon",null],["Generic4","มีหีบสมบัติสังเคราะอยู่ 6 ถึง 8 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทมแตกร้าวอยู่ 2 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/GenericItemRewardIcon",null],["Generic5","มีหีบสมบัติสังเคราะอยู่ 6 ถึง 8 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทมแตกร้าวอยู่ 3 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/GenericItemRewardIcon",null],["Talismans","มีหีบสมบัติสังเคราะ ไอเทม Talisman อยู่ 1 ถึง 2 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TalismansItemRewardIcon",null],["Talismans2","มีหีบสมบัติสังเคราะ ไอเทม Talisman อยู่ 2 ถึง 3 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TalismansItemRewardIcon",null],["Talismans3","มีหีบสมบัติสังเคราะ ไอเทม Talisman อยู่ 3 ถึง 4 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TalismansItemRewardIcon",null],["Labyrinth","มีหีบสมบัติสังเคราะ ไอเทมเขาวงกต อยู่ 1 ถึง 2 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/LabyrinthItemRewardIcon",null],["Labyrinth2","มีหีบสมบัติสังเคราะ ไอเทมเขาวงกต อยู่ 2 ถึง 3 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/LabyrinthItemRewardIcon",null],["Labyrinth3","มีหีบสมบัติสังเคราะ ไอเทมเขาวงกต อยู่ 3 ถึง 4 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/LabyrinthItemRewardIcon",null],["Labyrinth4","มีหีบสมบัติสังเคราะ ไอเทมเขาวงกต อยู่ 4 ถึง 5 หีบ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/LabyrinthItemRewardIcon",null],["GlobalMod1","มีตัวเปลี่ยนม็อดความทรงจำ","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/GlobalModTier1",null],["GlobalMod2","มีตัวเปลี่ยนม็อดความทรงจำหลายตัว","Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/GlobalModTier2",null]]}
+{
+  "filename": "SynthesisRewardTypes.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Description",
+      "rowid": 1,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "ArtFile",
+      "rowid": 2,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": true,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "AchievementItemsKey",
+      "rowid": 3,
+      "type": "ulong",
+      "key": "AchievementItems.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "Currency",
+      "มีหีบสมบัติสังเคราะ ไอเทมเคอเรนซี่ อยู่ 2 ถึง 3 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIcon",
+      null
+    ],
+    [
+      "Currency2",
+      "มีหีบสมบัติสังเคราะ ไอเทมเคอเรนซี่ อยู่ 3 ถึง 4 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIcon",
+      null
+    ],
+    [
+      "Currency3",
+      "มีหีบสมบัติสังเคราะ ไอเทมเคอเรนซี่ อยู่ 4 ถึง 5 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIcon",
+      null
+    ],
+    [
+      "CurrencyHigh3",
+      "มีหีบสมบัติสังเคราะ ไอเทมเคอเรนซี่ ที่มีค่า อยู่ 2 ถึง 3 หีบ\r\nมีหีบสมบัติสังเคราะ ไอเทมเคอเรนซี่ อยู่ 2 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIconTier2",
+      null
+    ],
+    [
+      "Currency4",
+      "มีหีบสมบัติสังเคราะ ไอเทมเคอเรนซี่ อยู่ 5 ถึง 6 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIcon",
+      null
+    ],
+    [
+      "CurrencyHigh4",
+      "มีหีบสมบัติสังเคราะ ไอเทมเคอเรนซี่ ที่มีค่า อยู่ 3 ถึง 4 หีบ\r\nมีหีบสมบัติสังเคราะ ไอเทมเคอเรนซี่ อยู่ 2 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIconTier2",
+      null
+    ],
+    [
+      "CurrencyEpic4",
+      "มีหีบสมบัติสังเคราะ ไอเทมเคอเรนซี่ ที่มีค่า มากๆ อยู่ 1 หีบ\r\nมีหีบสมบัติสังเคราะ ไอเทมเคอเรนซี่ อยู่ 4 ถึง 5 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIconTier3",
+      null
+    ],
+    [
+      "Currency5",
+      "มีหีบสมบัติสังเคราะ ไอเทมเคอเรนซี่ อยู่ 6 ถึง 7 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIcon",
+      null
+    ],
+    [
+      "CurrencyHigh5",
+      "มีหีบสมบัติสังเคราะ ไอเทมเคอเรนซี่ ที่มีค่า อยู่ 4 ถึง 5 หีบ\r\nมีหีบสมบัติสังเคราะ ไอเทมเคอเรนซี่ อยู่ 2 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIconTier2",
+      null
+    ],
+    [
+      "CurrencyEpic5",
+      "มีหีบสมบัติสังเคราะ ไอเทมเคอเรนซี่ ที่มีค่า มากๆ อยู่ 1 หีบ\r\nมีหีบสมบัติสังเคราะ ไอเทมเคอเรนซี่ อยู่ 5 ถึง 6 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/CurrencyItemRewardIconTier3",
+      null
+    ],
+    [
+      "Uniques",
+      "มีหีบสมบัติสังเคราะที่มีไอเทมยูนิคหนึ่งชิ้น อยู่ 1 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทมแตกร้าวอยู่ 1 ถึง 2 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/UniqueItemRewardIcon",
+      null
+    ],
+    [
+      "Uniques2",
+      "มีหีบสมบัติสังเคราะที่มีไอเทมยูนิคหนึ่งชิ้น อยู่ 1 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทมแตกร้าวอยู่ 2 ถึง 3 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/UniqueItemRewardIcon",
+      null
+    ],
+    [
+      "Uniques3",
+      "มีหีบสมบัติสังเคราะที่มีไอเทมยูนิคหนึ่งชิ้น อยู่ 2 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทมแตกร้าวอยู่ 2 ถึง 3 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/UniqueItemRewardIcon",
+      null
+    ],
+    [
+      "Uniques4",
+      "มีหีบสมบัติสังเคราะที่มีไอเทมยูนิคหนึ่งชิ้น อยู่ 2 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทมแตกร้าวอยู่ 3 ถึง 4 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/UniqueItemRewardIcon",
+      null
+    ],
+    [
+      "Uniques5",
+      "มีหีบสมบัติสังเคราะที่มีไอเทมยูนิคหนึ่งชิ้น อยู่ 3 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทมแตกร้าวอยู่ 3 ถึง 4 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/UniqueItemRewardIcon",
+      null
+    ],
+    [
+      "UniquesHigh5",
+      "มีหีบสมบัติสังเคราะที่มีไอเทมยูนิคหนึ่งชิ้น ที่มีค่า อยู่ 1 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทมแตกร้าวอยู่ 3 ถึง 4 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/UniqueItemRewardIconTier2",
+      null
+    ],
+    [
+      "FracturedItems3",
+      "มีหีบสมบัติสังเคราะ ไอเทมแตกร้าว ที่มีค่า อยู่ 2 ถึง 3 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/FracturedItemRewardIconTier3",
+      null
+    ],
+    [
+      "Gems",
+      "มีหีบสมบัติสังเคราะ ไอเทมเจม อยู่ 1 ถึง 2 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/SkillGemItemRewardIcon",
+      null
+    ],
+    [
+      "Gems2",
+      "มีหีบสมบัติสังเคราะ ไอเทมเจม อยู่ 2 ถึง 3 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/SkillGemItemRewardIcon",
+      null
+    ],
+    [
+      "Gems3",
+      "มีหีบสมบัติสังเคราะ ไอเทมเจม อยู่ 3 ถึง 4 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/SkillGemItemRewardIcon",
+      null
+    ],
+    [
+      "GemsHigh3",
+      "มีหีบสมบัติสังเคราะ ไอเทมเจม ที่มีค่า อยู่ 2 ถึง 3 หีบ\r\nมีหีบสมบัติสังเคราะ ไอเทมเจม อยู่ 1 ถึง 2 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/SkillGemItemRewardIconTier2",
+      null
+    ],
+    [
+      "Maps",
+      "มีหีบสมบัติสังเคราะ ไอเทมแผนที่ อยู่ 1 ถึง 2 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/MapItemRewardIcon",
+      null
+    ],
+    [
+      "Maps2",
+      "มีหีบสมบัติสังเคราะ ไอเทมแผนที่ อยู่ 2 ถึง 3 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/MapItemRewardIcon",
+      null
+    ],
+    [
+      "Maps3",
+      "มีหีบสมบัติสังเคราะ ไอเทมแผนที่ อยู่ 3 ถึง 4 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/MapItemRewardIcon",
+      null
+    ],
+    [
+      "Trinkets",
+      "มีหีบสมบัติสังเคราะที่มีไอเทม เครื่องประดับ อยู่ 1 ถึง 2 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม เครื่องประดับ ที่แต่ร้าว อยู่ 1 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",
+      null
+    ],
+    [
+      "Trinkets2",
+      "มีหีบสมบัติสังเคราะที่มีไอเทม เครื่องประดับ อยู่ 2 ถึง 3 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม เครื่องประดับ ที่แต่ร้าว อยู่ 1 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",
+      null
+    ],
+    [
+      "Trinkets3",
+      "มีหีบสมบัติสังเคราะที่มีไอเทม เครื่องประดับ อยู่ 3 ถึง 4 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม เครื่องประดับ ที่แต่ร้าว อยู่ 1 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",
+      null
+    ],
+    [
+      "TrinketsHigh3",
+      "มีหีบสมบัติสังเคราะที่มีไอเทม เครื่องประดับ ที่มีค่า อยู่ 2 ถึง 3 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม เครื่องประดับ ที่แต่ร้าว อยู่ 2 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",
+      null
+    ],
+    [
+      "Trinkets4",
+      "มีหีบสมบัติสังเคราะที่มีไอเทม เครื่องประดับ อยู่ 4 ถึง 5 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม เครื่องประดับ ที่แต่ร้าว อยู่ 1 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",
+      null
+    ],
+    [
+      "TrinketsHigh4",
+      "มีหีบสมบัติสังเคราะที่มีไอเทม เครื่องประดับ ที่มีค่า อยู่ 3 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม เครื่องประดับ ที่แต่ร้าว อยู่ 3 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",
+      null
+    ],
+    [
+      "TrinketsEpic4",
+      "มีหีบสมบัติสังเคราะที่มีไอเทม เครื่องประดับ ที่มีค่ามากๆ อยู่ 1 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม เครื่องประดับ ที่แต่ร้าว อยู่ 4 ถึง 5 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",
+      null
+    ],
+    [
+      "Trinkets5",
+      "มีหีบสมบัติสังเคราะที่มีไอเทม เครื่องประดับ อยู่ 4 ถึง 5 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม เครื่องประดับ ที่แต่ร้าว อยู่ 2 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",
+      null
+    ],
+    [
+      "TrinketsHigh5",
+      "มีหีบสมบัติสังเคราะที่มีไอเทม เครื่องประดับ ที่มีค่า อยู่ 3 ถึง 4 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม เครื่องประดับ ที่แต่ร้าว อยู่ 4 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",
+      null
+    ],
+    [
+      "TrinketsEpic5",
+      "มีหีบสมบัติสังเคราะที่มีไอเทม เครื่องประดับ ที่มีค่ามากๆ อยู่ 1 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม เครื่องประดับ ที่แต่ร้าว อยู่ 5 ถึง 6 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TrinketsItemRewardIcon",
+      null
+    ],
+    [
+      "Abyss",
+      "มีหีบสมบัติสังเคราะที่มีไอเทม Abyssal อยู่ 2 ถึง 3 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/AbyssItemRewardIcon",
+      null
+    ],
+    [
+      "Abyss2",
+      "มีหีบสมบัติสังเคราะที่มีไอเทม Abyssal อยู่ 3 ถึง 4 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/AbyssItemRewardIcon",
+      null
+    ],
+    [
+      "AbyssHigh2",
+      "มีหีบสมบัติสังเคราะที่มีไอเทม Abyssal ที่มีค่า อยู่ 3 ถึง 4 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/AbyssItemRewardIconTier2",
+      null
+    ],
+    [
+      "Armour",
+      "มีหีบสมบัติสังเคราะที่มีไอเทม เครื่องป้องกัน อยู่ 1 ถึง 2 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม เครื่องป้องกัน ที่แต่ร้าว อยู่ 1 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",
+      null
+    ],
+    [
+      "Armour2",
+      "มีหีบสมบัติสังเคราะที่มีไอเทม เครื่องป้องกัน อยู่ 2 ถึง 3 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม เครื่องป้องกัน ที่แต่ร้าว อยู่ 1 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",
+      null
+    ],
+    [
+      "Armour3",
+      "มีหีบสมบัติสังเคราะที่มีไอเทม เครื่องป้องกัน อยู่ 3 ถึง 4 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม เครื่องป้องกัน ที่แต่ร้าว อยู่ 1 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",
+      null
+    ],
+    [
+      "ArmourHigh3",
+      "มีหีบสมบัติสังเคราะที่มีไอเทม เครื่องป้องกัน ที่มีค่า อยู่ 2 ถึง 3 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม เครื่องป้องกัน ที่แต่ร้าว อยู่ 2 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",
+      null
+    ],
+    [
+      "Armour4",
+      "มีหีบสมบัติสังเคราะที่มีไอเทม เครื่องป้องกัน อยู่ 4 ถึง 5 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม เครื่องป้องกัน ที่แต่ร้าว อยู่ 1 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",
+      null
+    ],
+    [
+      "ArmourHigh4",
+      "มีหีบสมบัติสังเคราะที่มีไอเทม เครื่องป้องกัน ที่มีค่า อยู่ 3 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม เครื่องป้องกัน ที่แต่ร้าว อยู่ 3 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",
+      null
+    ],
+    [
+      "ArmourEpic4",
+      "มีหีบสมบัติสังเคราะที่มีไอเทม เครื่องป้องกัน ที่มีค่ามากๆ อยู่ 1 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม เครื่องป้องกัน ที่มีค่า อยู่ 2 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",
+      null
+    ],
+    [
+      "Armour5",
+      "มีหีบสมบัติสังเคราะที่มีไอเทม เครื่องป้องกัน อยู่ 4 ถึง 5 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม เครื่องป้องกัน ที่แต่ร้าว อยู่ 2 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",
+      null
+    ],
+    [
+      "ArmourHigh5",
+      "มีหีบสมบัติสังเคราะที่มีไอเทม เครื่องป้องกัน ที่มีค่า อยู่ 3 ถึง 4 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม เครื่องป้องกัน ที่แต่ร้าว อยู่ 4 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",
+      null
+    ],
+    [
+      "ArmourEpic5",
+      "มีหีบสมบัติสังเคราะที่มีไอเทม เครื่องป้องกัน ที่มีค่ามากๆ อยู่ 1 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม เครื่องป้องกัน ที่มีค่า อยู่ 3 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ArmourItemRewardIcon",
+      null
+    ],
+    [
+      "Weapons",
+      "มีหีบสมบัติสังเคราะที่มีไอเทม อาวุธ อยู่ 1 ถึง 2 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม อาวุธ ที่แต่ร้าว อยู่ 1 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",
+      null
+    ],
+    [
+      "Weapons2",
+      "มีหีบสมบัติสังเคราะที่มีไอเทม อาวุธ อยู่ 2 ถึง 3 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม อาวุธ ที่แต่ร้าว อยู่ 1 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",
+      null
+    ],
+    [
+      "Weapons3",
+      "มีหีบสมบัติสังเคราะที่มีไอเทม อาวุธ อยู่ 3 ถึง 4 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม อาวุธ ที่แต่ร้าว อยู่ 1 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",
+      null
+    ],
+    [
+      "WeaponsHigh3",
+      "มีหีบสมบัติสังเคราะที่มีไอเทม อาวุธ ที่มีค่า อยู่ 2 ถึง 3 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม อาวุธ ที่แต่ร้าว อยู่ 2 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",
+      null
+    ],
+    [
+      "Weapons4",
+      "มีหีบสมบัติสังเคราะที่มีไอเทม อาวุธ อยู่ 4 ถึง 5 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม อาวุธ ที่แต่ร้าว อยู่ 1 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",
+      null
+    ],
+    [
+      "WeaponsHigh4",
+      "มีหีบสมบัติสังเคราะที่มีไอเทม อาวุธ ที่มีค่า อยู่ 3 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม อาวุธ ที่แต่ร้าว อยู่ 3 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",
+      null
+    ],
+    [
+      "WeaponsEpic4",
+      "มีหีบสมบัติสังเคราะที่มีไอเทม อาวุธ ที่มีค่ามากๆ อยู่ 1 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม อาวุธ ที่มีค่า อยู่ 2 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",
+      null
+    ],
+    [
+      "Weapons5",
+      "มีหีบสมบัติสังเคราะที่มีไอเทม อาวุธ อยู่ 4 ถึง 5 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม อาวุธ ที่แต่ร้าว อยู่ 2 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",
+      null
+    ],
+    [
+      "WeaponsHigh5",
+      "มีหีบสมบัติสังเคราะที่มีไอเทม อาวุธ ที่มีค่า อยู่ 3 ถึง 4 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม อาวุธ ที่แต่ร้าว อยู่ 4 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",
+      null
+    ],
+    [
+      "WeaponsEpic5",
+      "มีหีบสมบัติสังเคราะที่มีไอเทม อาวุธ ที่มีค่ามากๆ อยู่ 1 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม อาวุธ ที่มีค่า อยู่ 3 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/WeaponsItemRewardIcon",
+      null
+    ],
+    [
+      "Perandus",
+      "มีหีบสมบัติสังเคราะที่มีไอเทม Perandus อยู่ 2 ถึง 3 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PerandusItemRewardIcon",
+      null
+    ],
+    [
+      "Perandus2",
+      "มีหีบสมบัติสังเคราะที่มีไอเทม Perandus อยู่ 3 ถึง 4 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PerandusItemRewardIcon",
+      null
+    ],
+    [
+      "Perandus3",
+      "มีหีบสมบัติสังเคราะที่มีไอเทม Perandus อยู่ 4 ถึง 5 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PerandusItemRewardIcon",
+      null
+    ],
+    [
+      "Perandus4",
+      "มีหีบสมบัติสังเคราะที่มีไอเทม Perandus อยู่ 5 ถึง 6 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PerandusItemRewardIcon",
+      null
+    ],
+    [
+      "Harbinger",
+      "มีหีบสมบัติสังเคราะที่มีไอเทม Harbinger อยู่ 1 ถึง 2 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม Harbinger ที่มีค่า อยู่ 1 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/HarbingerItemRewardIcon",
+      null
+    ],
+    [
+      "Harbinger2",
+      "มีหีบสมบัติสังเคราะที่มีไอเทม Harbinger อยู่ 2 ถึง 3 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม Harbinger ที่มีค่า อยู่ 1 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/HarbingerItemRewardIcon",
+      null
+    ],
+    [
+      "Harbinger3",
+      "มีหีบสมบัติสังเคราะที่มีไอเทม Harbinger อยู่ 2 ถึง 3 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม Harbinger ที่มีค่า อยู่ 2 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/HarbingerItemRewardIcon",
+      null
+    ],
+    [
+      "Breach",
+      "มีหีบสมบัติสังเคราะที่มีไอเทม Breach อยู่ 1 ถึง 2 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม Breach ที่มีค่า อยู่ 1 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/BreachItemRewardIcon",
+      null
+    ],
+    [
+      "Breach2",
+      "มีหีบสมบัติสังเคราะที่มีไอเทม Breach อยู่ 2 ถึง 3 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม Breach ที่มีค่า อยู่ 1 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/BreachItemRewardIcon",
+      null
+    ],
+    [
+      "Breach3",
+      "มีหีบสมบัติสังเคราะที่มีไอเทม Breach อยู่ 2 ถึง 3 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม Breach ที่มีค่า อยู่ 2 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/BreachItemRewardIcon",
+      null
+    ],
+    [
+      "Essences",
+      "มีหีบสมบัติสังเคราะที่มีไอเทม Essence อยู่ 1 ถึง 2 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/EssencesItemRewardIcon",
+      null
+    ],
+    [
+      "Essences2",
+      "มีหีบสมบัติสังเคราะที่มีไอเทม Essence อยู่ 2 ถึง 3 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/EssencesItemRewardIcon",
+      null
+    ],
+    [
+      "Essences3",
+      "มีหีบสมบัติสังเคราะที่มีไอเทม Essence อยู่ 3 ถึง 4 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/EssencesItemRewardIcon",
+      null
+    ],
+    [
+      "EssencesHigh3",
+      "มีหีบสมบัติสังเคราะที่มีไอเทม Essence ที่มีค่า อยู่ 1 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม Essence อยู่ 3 ถึง 4 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/EssencesItemRewardIconTier2",
+      null
+    ],
+    [
+      "Essences4",
+      "มีหีบสมบัติสังเคราะที่มีไอเทม Essence อยู่ 4 ถึง 5 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/EssencesItemRewardIcon",
+      null
+    ],
+    [
+      "EssencesHigh4",
+      "มีหีบสมบัติสังเคราะที่มีไอเทม Essence ที่มีค่า อยู่ 2 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม Essence อยู่ 3 ถึง 4 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/EssencesItemRewardIconTier2",
+      null
+    ],
+    [
+      "Fragments",
+      "มีหีบสมบัติสังเคราะที่มีไอเทม Fragment อยู่ 1 ถึง 2 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/FragmentsItemRewardIcon",
+      null
+    ],
+    [
+      "Fragments2",
+      "มีหีบสมบัติสังเคราะที่มีไอเทม Fragment อยู่ 2 ถึง 3 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/FragmentsItemRewardIcon",
+      null
+    ],
+    [
+      "Fragments3",
+      "มีหีบสมบัติสังเคราะที่มีไอเทม Fragment อยู่ 3 ถึง 4 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/FragmentsItemRewardIcon",
+      null
+    ],
+    [
+      "FragmentsHigh3",
+      "มีหีบสมบัติสังเคราะที่มีไอเทม Fragment ที่มีค่า อยู่ 1 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม Fragment อยู่ 2 ถึง 3 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/FragmentsItemRewardIconTier2",
+      null
+    ],
+    [
+      "Scarabs",
+      "มีหีบสมบัติสังเคราะที่มีไอเทม Scarab อยู่ 2 ถึง 3 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ScarabItemRewardIcon",
+      null
+    ],
+    [
+      "Scarabs2",
+      "มีหีบสมบัติสังเคราะที่มีไอเทม Scarab ที่มีค่า อยู่ 1 ถึง 2 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม Scarab อยู่ 1 ถึง 2 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ScarabItemRewardIconTier2",
+      null
+    ],
+    [
+      "Scarabs3",
+      "มีหีบสมบัติสังเคราะที่มีไอเทม Scarab ที่มีค่ามากๆ อยู่ 1 ถึง 2 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม Scarab ที่มีค่า อยู่ 1 ถึง 2 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/ScarabItemRewardIconTier3",
+      null
+    ],
+    [
+      "Fossils",
+      "มีหีบสมบัติสังเคราะที่มีไอเทม Fossil อยู่ 2 ถึง 3 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/FossilItemRewardIcon",
+      null
+    ],
+    [
+      "Fossils2",
+      "มีหีบสมบัติสังเคราะที่มีไอเทม Fossil ที่มีค่า อยู่ 1 ถึง 2 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม Fossil อยู่ 1 ถึง 2 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/FossilItemRewardIconTier2",
+      null
+    ],
+    [
+      "Fossils3",
+      "มีหีบสมบัติสังเคราะที่มีไอเทม Fossil ที่มีค่ามากๆ อยู่ 1 ถึง 2 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม Fossil ที่มีค่า อยู่ 1 ถึง 2 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/FossilItemRewardIconTier3",
+      null
+    ],
+    [
+      "Prophecies",
+      "มีหีบสมบัติสังเคราะที่มีไอเทม Prophecy อยู่ 2 ถึง 3 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PropheciesItemRewardIcon",
+      null
+    ],
+    [
+      "Prophecies2",
+      "มีหีบสมบัติสังเคราะที่มีไอเทม Prophecy อยู่ 3 ถึง 4 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PropheciesItemRewardIcon",
+      null
+    ],
+    [
+      "Prophecies3",
+      "มีหีบสมบัติสังเคราะที่มีไอเทม Prophecy อยู่ 4 ถึง 5 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PropheciesItemRewardIcon",
+      null
+    ],
+    [
+      "PropheciesHigh3",
+      "มีหีบสมบัติสังเคราะที่มีไอเทม Prophecy ที่มีค่า อยู่ 1 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม Prophecy อยู่ 3 ถึง 4 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PropheciesItemRewardIconTier2",
+      null
+    ],
+    [
+      "Prophecies4",
+      "มีหีบสมบัติสังเคราะที่มีไอเทม Prophecy อยู่ 5 ถึง 6 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PropheciesItemRewardIcon",
+      null
+    ],
+    [
+      "PropheciesHigh4",
+      "มีหีบสมบัติสังเคราะที่มีไอเทม Prophecy ที่มีค่า อยู่ 2 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทม Prophecy อยู่ 3 ถึง 4 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/PropheciesItemRewardIconTier2",
+      null
+    ],
+    [
+      "DivinationCards",
+      "มีหีบสมบัติสังเคราะที่มีไพ่พยากรณ์อยู่ 1 ถึง 2 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/DivinationCardsItemRewardIcon",
+      null
+    ],
+    [
+      "DivinationCards2",
+      "มีหีบสมบัติสังเคราะที่มีไพ่พยากรณ์อยู่ 2 ถึง 3 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/DivinationCardsItemRewardIcon",
+      null
+    ],
+    [
+      "DivinationCards3",
+      "มีหีบสมบัติสังเคราะที่มีไพ่พยากรณ์อยู่ 3 ถึง 4 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/DivinationCardsItemRewardIcon",
+      null
+    ],
+    [
+      "DivinationCards4",
+      "มีหีบสมบัติสังเคราะที่มีไพ่พยากรณ์อยู่ 4 ถึง 5 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/DivinationCardsItemRewardIcon",
+      null
+    ],
+    [
+      "Generic",
+      "มีหีบสมบัติสังเคราะอยู่ 3 ถึง 4 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทมแตกร้าวอยู่ 1 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/GenericItemRewardIcon",
+      null
+    ],
+    [
+      "Generic2",
+      "มีหีบสมบัติสังเคราะอยู่ 4 ถึง 5 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทมแตกร้าวอยู่ 1 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/GenericItemRewardIcon",
+      null
+    ],
+    [
+      "Generic3",
+      "มีหีบสมบัติสังเคราะอยู่ 5 ถึง 6 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทมแตกร้าวอยู่ 2 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/GenericItemRewardIcon",
+      null
+    ],
+    [
+      "Generic4",
+      "มีหีบสมบัติสังเคราะอยู่ 6 ถึง 8 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทมแตกร้าวอยู่ 2 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/GenericItemRewardIcon",
+      null
+    ],
+    [
+      "Generic5",
+      "มีหีบสมบัติสังเคราะอยู่ 6 ถึง 8 หีบ\r\nมีหีบสมบัติสังเคราะที่มีไอเทมแตกร้าวอยู่ 3 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/GenericItemRewardIcon",
+      null
+    ],
+    [
+      "Talismans",
+      "มีหีบสมบัติสังเคราะ ไอเทม Talisman อยู่ 1 ถึง 2 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TalismansItemRewardIcon",
+      null
+    ],
+    [
+      "Talismans2",
+      "มีหีบสมบัติสังเคราะ ไอเทม Talisman อยู่ 2 ถึง 3 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TalismansItemRewardIcon",
+      null
+    ],
+    [
+      "Talismans3",
+      "มีหีบสมบัติสังเคราะ ไอเทม Talisman อยู่ 3 ถึง 4 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/TalismansItemRewardIcon",
+      null
+    ],
+    [
+      "Labyrinth",
+      "มีหีบสมบัติสังเคราะ ไอเทมเขาวงกต อยู่ 1 ถึง 2 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/LabyrinthItemRewardIcon",
+      null
+    ],
+    [
+      "Labyrinth2",
+      "มีหีบสมบัติสังเคราะ ไอเทมเขาวงกต อยู่ 2 ถึง 3 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/LabyrinthItemRewardIcon",
+      null
+    ],
+    [
+      "Labyrinth3",
+      "มีหีบสมบัติสังเคราะ ไอเทมเขาวงกต อยู่ 3 ถึง 4 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/LabyrinthItemRewardIcon",
+      null
+    ],
+    [
+      "Labyrinth4",
+      "มีหีบสมบัติสังเคราะ ไอเทมเขาวงกต อยู่ 4 ถึง 5 หีบ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/LabyrinthItemRewardIcon",
+      null
+    ],
+    [
+      "GlobalMod1",
+      "มีตัวเปลี่ยนม็อดความทรงจำ",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/GlobalModTier1",
+      null
+    ],
+    [
+      "GlobalMod2",
+      "มีตัวเปลี่ยนม็อดความทรงจำหลายตัว",
+      "Art/2DArt/UIImages/InGame/Synthesis/Tiles/MapIslands/GlobalModTier2",
+      null
+    ]
+  ]
+}

@@ -1,1 +1,521 @@
-{"filename":"Commands.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":true,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Command","rowid":1,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Flag0","rowid":2,"type":"bool","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Command2","rowid":3,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Description","rowid":4,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Flag1","rowid":5,"type":"bool","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["PerformDance","tanzen",true,"dance","",true],["ShowTimePlayed","gespielt",true,"played","/gespielt zeigt an, wie lange du diesen Charakter spielst.",true],["ShowCharacterAge","alter",true,"age","/alter zeigt an, wann du diesen Charakter erstellt hast.",true],["ShowMonstersRemaining","übrig",true,"remaining","/übrig zeigt die Anzahl der restlichen Monster im betreffenden Gebiet an.",true],["ShowDeaths","tode",true,"deaths","/tode zeigt an, wie oft dein Charakter gestorben ist.",true],["ShowPvPStats","pvp",true,"pvp","",false],["ShowLadder","rangliste",true,"ladder","/rangliste zeigt die ersten zehn Charaktere der aktuellen Liste.",true],["ForceResync","sync",true,"oos","",true],["DestroyCursorItem","zerstören",true,"destroy","/zerstören vernichtet den Gegenstand am Cursor (seid vorsichtig!)",true],["Whois","werist",true,"whois","/werist zeigt Informationen über einen Charakter an.",true],["ShowHelp","hilfe",false,"help","",true],["ShowCursorItemLevel","stufe",true,"itemlevel","/stufe zeigt die Stufe des Gegenstands am Cursor an.",true],["FixMyHelmet","helmrichten",true,"fixmyhelmet","",true],["ReportBug","bug",true,"bug","/bug meldet einen Fehler und gibt eine Berichtskennziffer aus.",true],["Debug","debug",true,"debug","",true],["Ignore1","ignorieren",false,"ignore","/ignorieren ignoriert das Konto eines Charakters.",true],["Ignore2","unterdrücken",false,"squelch","",true],["Unignore1","ignorieren_aufheben",false,"unignore","/ignorieren_aufheben hebt die Kontosperrung für einen Charakter wieder auf.",true],["Unignore2","unterdrücken_aufheben",false,"unsquelch","",true],["ClearIgnoreList","ignorierliste_leeren",false,"clear_ignore_list","/ignorierliste_leeren entfernt alle Konten aus deiner Ignorieren-Liste.",true],["SetStatus","status",false,"status","",true],["ShowPassives","punkte",false,"passives","/punkte zeigt eine Aufstellung deiner passiven Fertigkeitspunkte an.",true],["InviteToParty","einladen",false,"invite","/einladen lädt jemanden namentlich in deine Gruppe ein.",false],["AddFriend","befreunden",false,"friend","/befreunden fügt namentlich Freunde zu deiner Liste hinzu.",false],["RemoveFriend","entfreunden",false,"unfriend","",false],["AcceptFriend","annehmen",false,"accept","",false],["KickPartyMember","rauswerfen",false,"kick","",true],["SetPartyDescription","gruppe",false,"party_description","",true],["InitiateTrade","handelmit",false,"tradewith","",true],["ClearMessage1","leeren",false,"cls","",true],["ClearMessage2","löschen",false,"clear","",true],["ToggleNoChat1","keinchat",false,"nochat","",true],["ToggleNoChat2","keinchatumschalt",false,"togglenochat","",true],["AutoReply","antwort",true,"autoreply","/antwort [Nachricht] Sendet eine selbstgewählte automatische Antwort an Flüsterer.",true],["SetAFK","afk",true,"afk","/afk [Nachricht] Automatische Antwort auf Flüsternachricht, dass du AFK bist. Das Ausführen einer beliebigen Aktion, inklusive Chatten, bricht den AFK-Modus ab.",true],["DoNotDisturb1","dnd",true,"dnd","/dnd [Nachricht] Automatische Antwort auf Flüsternachricht, dass du nicht gestört werden möchtest. Alle eingehenden Nachrichten werden ignoriert.",true],["DoNotDisturb2","donotdisturb",true,"donotdisturb","",true],["ExitToCharacterSelection","beenden",false,"exit","",true],["SpectatePvP","zuschauen",true,"spectate","",false],["SpectatePvPReturn","stadt",true,"town","",true],["SetGlobalChatChannel","global",false,"global","Mit /global x kannst du zum globalen Chatkanal x wechseln.",true],["SetTradeChatChannel","handel",false,"trade","Mit /handel x kannst du zum globalen Handels-Chat x wechseln.",true],["RecheckAchievements","errungenschaften",true,"recheck_achievements","/errungenschaften Erzwingt eine erneute Überprüfung bestimmter Errungenschaften.",true],["WarpToHideout","versteck",true,"hideout","",true],["ResetExperiencePerHour","xp_zurück",false,"reset_xp","/xp_zurück setzt deine Erfahrung pro Stunde zurück.",true],["WarpToMenagerie","menagerie",true,"menagerie","",true],["WarpToDelveMineHub","delve",true,"delve","",true],["SaveHideout","versteck_speichern",true,"save_hideout","/versteck_speichern Speichert das derzeitige Versteck-Layout als Datei, die zu einem späteren Zeitpunkt geladen oder geteilt werden kann.",false],["RecoverOldCraftingBenchItem","recoveroldcraftingbenchitem",true,"recoveroldcraftingbenchitem","",true],["WarpToSynthesisHub","synthesis",true,"synthesis","",true],["WarpToMetamorphosisLab","metamorph",true,"metamorph","",true],["WarpToHarvestGrove","harvest",true,"harvest","",true],["ForceResyncPlayer","oosme",true,"oosme","",true]]}
+{
+  "filename": "Commands.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Command",
+      "rowid": 1,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Flag0",
+      "rowid": 2,
+      "type": "bool",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Command2",
+      "rowid": 3,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Description",
+      "rowid": 4,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Flag1",
+      "rowid": 5,
+      "type": "bool",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "PerformDance",
+      "tanzen",
+      true,
+      "dance",
+      "",
+      true
+    ],
+    [
+      "ShowTimePlayed",
+      "gespielt",
+      true,
+      "played",
+      "/gespielt zeigt an, wie lange du diesen Charakter spielst.",
+      true
+    ],
+    [
+      "ShowCharacterAge",
+      "alter",
+      true,
+      "age",
+      "/alter zeigt an, wann du diesen Charakter erstellt hast.",
+      true
+    ],
+    [
+      "ShowMonstersRemaining",
+      "übrig",
+      true,
+      "remaining",
+      "/übrig zeigt die Anzahl der restlichen Monster im betreffenden Gebiet an.",
+      true
+    ],
+    [
+      "ShowDeaths",
+      "tode",
+      true,
+      "deaths",
+      "/tode zeigt an, wie oft dein Charakter gestorben ist.",
+      true
+    ],
+    [
+      "ShowPvPStats",
+      "pvp",
+      true,
+      "pvp",
+      "",
+      false
+    ],
+    [
+      "ShowLadder",
+      "rangliste",
+      true,
+      "ladder",
+      "/rangliste zeigt die ersten zehn Charaktere der aktuellen Liste.",
+      true
+    ],
+    [
+      "ForceResync",
+      "sync",
+      true,
+      "oos",
+      "",
+      true
+    ],
+    [
+      "DestroyCursorItem",
+      "zerstören",
+      true,
+      "destroy",
+      "/zerstören vernichtet den Gegenstand am Cursor (seid vorsichtig!)",
+      true
+    ],
+    [
+      "Whois",
+      "werist",
+      true,
+      "whois",
+      "/werist zeigt Informationen über einen Charakter an.",
+      true
+    ],
+    [
+      "ShowHelp",
+      "hilfe",
+      false,
+      "help",
+      "",
+      true
+    ],
+    [
+      "ShowCursorItemLevel",
+      "stufe",
+      true,
+      "itemlevel",
+      "/stufe zeigt die Stufe des Gegenstands am Cursor an.",
+      true
+    ],
+    [
+      "FixMyHelmet",
+      "helmrichten",
+      true,
+      "fixmyhelmet",
+      "",
+      true
+    ],
+    [
+      "ReportBug",
+      "bug",
+      true,
+      "bug",
+      "/bug meldet einen Fehler und gibt eine Berichtskennziffer aus.",
+      true
+    ],
+    [
+      "Debug",
+      "debug",
+      true,
+      "debug",
+      "",
+      true
+    ],
+    [
+      "Ignore1",
+      "ignorieren",
+      false,
+      "ignore",
+      "/ignorieren ignoriert das Konto eines Charakters.",
+      true
+    ],
+    [
+      "Ignore2",
+      "unterdrücken",
+      false,
+      "squelch",
+      "",
+      true
+    ],
+    [
+      "Unignore1",
+      "ignorieren_aufheben",
+      false,
+      "unignore",
+      "/ignorieren_aufheben hebt die Kontosperrung für einen Charakter wieder auf.",
+      true
+    ],
+    [
+      "Unignore2",
+      "unterdrücken_aufheben",
+      false,
+      "unsquelch",
+      "",
+      true
+    ],
+    [
+      "ClearIgnoreList",
+      "ignorierliste_leeren",
+      false,
+      "clear_ignore_list",
+      "/ignorierliste_leeren entfernt alle Konten aus deiner Ignorieren-Liste.",
+      true
+    ],
+    [
+      "SetStatus",
+      "status",
+      false,
+      "status",
+      "",
+      true
+    ],
+    [
+      "ShowPassives",
+      "punkte",
+      false,
+      "passives",
+      "/punkte zeigt eine Aufstellung deiner passiven Fertigkeitspunkte an.",
+      true
+    ],
+    [
+      "InviteToParty",
+      "einladen",
+      false,
+      "invite",
+      "/einladen lädt jemanden namentlich in deine Gruppe ein.",
+      false
+    ],
+    [
+      "AddFriend",
+      "befreunden",
+      false,
+      "friend",
+      "/befreunden fügt namentlich Freunde zu deiner Liste hinzu.",
+      false
+    ],
+    [
+      "RemoveFriend",
+      "entfreunden",
+      false,
+      "unfriend",
+      "",
+      false
+    ],
+    [
+      "AcceptFriend",
+      "annehmen",
+      false,
+      "accept",
+      "",
+      false
+    ],
+    [
+      "KickPartyMember",
+      "rauswerfen",
+      false,
+      "kick",
+      "",
+      true
+    ],
+    [
+      "SetPartyDescription",
+      "gruppe",
+      false,
+      "party_description",
+      "",
+      true
+    ],
+    [
+      "InitiateTrade",
+      "handelmit",
+      false,
+      "tradewith",
+      "",
+      true
+    ],
+    [
+      "ClearMessage1",
+      "leeren",
+      false,
+      "cls",
+      "",
+      true
+    ],
+    [
+      "ClearMessage2",
+      "löschen",
+      false,
+      "clear",
+      "",
+      true
+    ],
+    [
+      "ToggleNoChat1",
+      "keinchat",
+      false,
+      "nochat",
+      "",
+      true
+    ],
+    [
+      "ToggleNoChat2",
+      "keinchatumschalt",
+      false,
+      "togglenochat",
+      "",
+      true
+    ],
+    [
+      "AutoReply",
+      "antwort",
+      true,
+      "autoreply",
+      "/antwort [Nachricht] Sendet eine selbstgewählte automatische Antwort an Flüsterer.",
+      true
+    ],
+    [
+      "SetAFK",
+      "afk",
+      true,
+      "afk",
+      "/afk [Nachricht] Automatische Antwort auf Flüsternachricht, dass du AFK bist. Das Ausführen einer beliebigen Aktion, inklusive Chatten, bricht den AFK-Modus ab.",
+      true
+    ],
+    [
+      "DoNotDisturb1",
+      "dnd",
+      true,
+      "dnd",
+      "/dnd [Nachricht] Automatische Antwort auf Flüsternachricht, dass du nicht gestört werden möchtest. Alle eingehenden Nachrichten werden ignoriert.",
+      true
+    ],
+    [
+      "DoNotDisturb2",
+      "donotdisturb",
+      true,
+      "donotdisturb",
+      "",
+      true
+    ],
+    [
+      "ExitToCharacterSelection",
+      "beenden",
+      false,
+      "exit",
+      "",
+      true
+    ],
+    [
+      "SpectatePvP",
+      "zuschauen",
+      true,
+      "spectate",
+      "",
+      false
+    ],
+    [
+      "SpectatePvPReturn",
+      "stadt",
+      true,
+      "town",
+      "",
+      true
+    ],
+    [
+      "SetGlobalChatChannel",
+      "global",
+      false,
+      "global",
+      "Mit /global x kannst du zum globalen Chatkanal x wechseln.",
+      true
+    ],
+    [
+      "SetTradeChatChannel",
+      "handel",
+      false,
+      "trade",
+      "Mit /handel x kannst du zum globalen Handels-Chat x wechseln.",
+      true
+    ],
+    [
+      "RecheckAchievements",
+      "errungenschaften",
+      true,
+      "recheck_achievements",
+      "/errungenschaften Erzwingt eine erneute Überprüfung bestimmter Errungenschaften.",
+      true
+    ],
+    [
+      "WarpToHideout",
+      "versteck",
+      true,
+      "hideout",
+      "",
+      true
+    ],
+    [
+      "ResetExperiencePerHour",
+      "xp_zurück",
+      false,
+      "reset_xp",
+      "/xp_zurück setzt deine Erfahrung pro Stunde zurück.",
+      true
+    ],
+    [
+      "WarpToMenagerie",
+      "menagerie",
+      true,
+      "menagerie",
+      "",
+      true
+    ],
+    [
+      "WarpToDelveMineHub",
+      "delve",
+      true,
+      "delve",
+      "",
+      true
+    ],
+    [
+      "SaveHideout",
+      "versteck_speichern",
+      true,
+      "save_hideout",
+      "/versteck_speichern Speichert das derzeitige Versteck-Layout als Datei, die zu einem späteren Zeitpunkt geladen oder geteilt werden kann.",
+      false
+    ],
+    [
+      "RecoverOldCraftingBenchItem",
+      "recoveroldcraftingbenchitem",
+      true,
+      "recoveroldcraftingbenchitem",
+      "",
+      true
+    ],
+    [
+      "WarpToSynthesisHub",
+      "synthesis",
+      true,
+      "synthesis",
+      "",
+      true
+    ],
+    [
+      "WarpToMetamorphosisLab",
+      "metamorph",
+      true,
+      "metamorph",
+      "",
+      true
+    ],
+    [
+      "WarpToHarvestGrove",
+      "harvest",
+      true,
+      "harvest",
+      "",
+      true
+    ],
+    [
+      "ForceResyncPlayer",
+      "oosme",
+      true,
+      "oosme",
+      "",
+      true
+    ]
+  ]
+}

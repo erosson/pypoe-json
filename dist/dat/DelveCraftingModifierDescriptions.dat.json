@@ -1,1 +1,189 @@
-{"filename":"DelveCraftingModifierDescriptions.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":true,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Description","rowid":1,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["BetterSellPrice","Item is overvalued by vendors"],["LuckyMods","Numeric modifier values are lucky\r\nHigh Level modifiers are more common"],["RandomModifier","Can have any Fossil modifiers"],["CorruptEssence","Has a Corrupt Essence modifier"],["Duplicate","Creates a mirrored copy"],["AbyssSocket","Has an Abyssal socket"],["VaalMod","Has a Vaal modifier"],["Sockets","More sockets\r\nCan have white sockets"],["LabryinthEnchant","Has a Labyrinth Enchantment"],["Quality","Improved Quality"],["MorePhysical","More Physical modifiers"],["MoreFire","More Fire modifiers"],["MoreCold","More Cold modifiers"],["MoreLightning","More Lightning modifiers"],["MoreChaos","More Chaos modifiers"],["MoreElemental","More Elemental modifiers"],["MoreBleedPoison","More Physical Ailment or Chaos Ailment modifiers"],["MoreLife","More Life modifiers"],["MoreDefences","More Defence modifiers"],["MoreCaster","More Caster modifiers"],["MoreAttack","More Attack modifiers"],["MoreMana","More Mana modifiers"],["MoreSpeed","More Speed modifiers"],["MoreMinionAura","More Minion, Aura or Curse modifiers"],["MoreGemLevel","More Gem modifiers"],["LessCaster","Fewer Caster modifiers"],["LessAttack","Fewer Attack modifiers"],["NoPhysical","No Physical modifiers"],["NoFire","No Fire modifiers"],["NoCold","No Cold modifiers"],["NoLightning","No Lightning modifiers"],["NoChaos","No Chaos modifiers"],["NoLife","No Life modifiers"],["NoDefences","No Defence modifiers"],["NoElemental","No Elemental modifiers"],["NoBleedPoison","No Physical Ailment or Chaos Ailment Modifiers"],["NoMana","No Mana modifiers"],["NoSpeed","No Speed modifiers"]]}
+{
+  "filename": "DelveCraftingModifierDescriptions.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Description",
+      "rowid": 1,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "BetterSellPrice",
+      "Item is overvalued by vendors"
+    ],
+    [
+      "LuckyMods",
+      "Numeric modifier values are lucky\r\nHigh Level modifiers are more common"
+    ],
+    [
+      "RandomModifier",
+      "Can have any Fossil modifiers"
+    ],
+    [
+      "CorruptEssence",
+      "Has a Corrupt Essence modifier"
+    ],
+    [
+      "Duplicate",
+      "Creates a mirrored copy"
+    ],
+    [
+      "AbyssSocket",
+      "Has an Abyssal socket"
+    ],
+    [
+      "VaalMod",
+      "Has a Vaal modifier"
+    ],
+    [
+      "Sockets",
+      "More sockets\r\nCan have white sockets"
+    ],
+    [
+      "LabryinthEnchant",
+      "Has a Labyrinth Enchantment"
+    ],
+    [
+      "Quality",
+      "Improved Quality"
+    ],
+    [
+      "MorePhysical",
+      "More Physical modifiers"
+    ],
+    [
+      "MoreFire",
+      "More Fire modifiers"
+    ],
+    [
+      "MoreCold",
+      "More Cold modifiers"
+    ],
+    [
+      "MoreLightning",
+      "More Lightning modifiers"
+    ],
+    [
+      "MoreChaos",
+      "More Chaos modifiers"
+    ],
+    [
+      "MoreElemental",
+      "More Elemental modifiers"
+    ],
+    [
+      "MoreBleedPoison",
+      "More Physical Ailment or Chaos Ailment modifiers"
+    ],
+    [
+      "MoreLife",
+      "More Life modifiers"
+    ],
+    [
+      "MoreDefences",
+      "More Defence modifiers"
+    ],
+    [
+      "MoreCaster",
+      "More Caster modifiers"
+    ],
+    [
+      "MoreAttack",
+      "More Attack modifiers"
+    ],
+    [
+      "MoreMana",
+      "More Mana modifiers"
+    ],
+    [
+      "MoreSpeed",
+      "More Speed modifiers"
+    ],
+    [
+      "MoreMinionAura",
+      "More Minion, Aura or Curse modifiers"
+    ],
+    [
+      "MoreGemLevel",
+      "More Gem modifiers"
+    ],
+    [
+      "LessCaster",
+      "Fewer Caster modifiers"
+    ],
+    [
+      "LessAttack",
+      "Fewer Attack modifiers"
+    ],
+    [
+      "NoPhysical",
+      "No Physical modifiers"
+    ],
+    [
+      "NoFire",
+      "No Fire modifiers"
+    ],
+    [
+      "NoCold",
+      "No Cold modifiers"
+    ],
+    [
+      "NoLightning",
+      "No Lightning modifiers"
+    ],
+    [
+      "NoChaos",
+      "No Chaos modifiers"
+    ],
+    [
+      "NoLife",
+      "No Life modifiers"
+    ],
+    [
+      "NoDefences",
+      "No Defence modifiers"
+    ],
+    [
+      "NoElemental",
+      "No Elemental modifiers"
+    ],
+    [
+      "NoBleedPoison",
+      "No Physical Ailment or Chaos Ailment Modifiers"
+    ],
+    [
+      "NoMana",
+      "No Mana modifiers"
+    ],
+    [
+      "NoSpeed",
+      "No Speed modifiers"
+    ]
+  ]
+}

@@ -1,1 +1,281 @@
-{"filename":"MonsterSegments.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Shapes","rowid":1,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["Bandit","bandit_legs_0Shape1,bandit_legs_0Shape2,bandit_legs_0Shape3,bandit_legs_0Shape5 ! bandit_head_0Shape5,bandit_head_0Shape3,bandit_head_0Shape2,bandit_head_0Shape1 ! bandit_Rhand_0Shape2,bandit_Rhand_0Shape3,bandit_Rhand_0Shape5,bandit_Rhand_0Shape1 ! bandit_Lhand_0Shape1,bandit_Lhand_0Shape5,bandit_Lhand_0Shape3,bandit_Lhand_0Shape2 ! bandit_upperbody_0Shape2,bandit_upperbody_0Shape3,bandit_upperbody_0Shape1,bandit_upperbody_0Shape5"],["BanditChampion","bandit_legs_0Shape1 ! bandit_head_0Shape5,bandit_head_0Shape3,bandit_head_0Shape2,bandit_head_0Shape1 ! bandit_Rhand_0Shape2,bandit_Rhand_0Shape3,bandit_Rhand_0Shape5,bandit_Rhand_0Shape1 ! bandit_Lhand_0Shape1,bandit_Lhand_0Shape5,bandit_Lhand_0Shape3,bandit_Lhand_0Shape2 ! bandit_upperbody_0Shape3"],["BanditBoss","bandit_legs_0Shape1 ! bandit_head_0Shape2 ! bandit_Rhand_0Shape3 ! bandit_Lhand_0Shape1 ! bandit_upperbody_0Shape3"],["BanditBowBoss","bandit_legs_0Shape5 ! bandit_head_0Shape2 ! bandit_Rhand_0Shape2 ! bandit_Lhand_0Shape1 ! bandit_upperbody_0Shape3"],["BanditMission","bandit_legs_0Shape1,bandit_legs_0Shape2,bandit_legs_0Shape3,bandit_legs_0Shape5 ! bandit_head_0Shape5,bandit_head_0Shape3,bandit_head_0Shape2,bandit_head_0Shape1 ! bandit_Rhand_0Shape2,bandit_Rhand_0Shape3,bandit_Rhand_0Shape5,bandit_Rhand_0Shape1 ! bandit_Lhand_0Shape1,bandit_Lhand_0Shape5,bandit_Lhand_0Shape3,bandit_Lhand_0Shape2 ! bandit_upperbody_0Shape2,bandit_upperbody_0Shape3,bandit_upperbody_0Shape1,bandit_upperbody_0Shape5"],["HalfSkeletonRange","PokerHeadShape ! HalfSkeletonShape"],["HalfSkeleton","ChoppingHeadShape ! HalfSkeletonShape"],["Pirate","pirate_Lhand_0Shape1, pirate_Lhand_0Shape2, pirate_Lhand_0Shape3 ! pirate_Rhand_0Shape1, pirate_Rhand_0Shape2, pirate_Rhand_0Shape3 ! pirate_head_01Shape, pirate_head_02Shape, pirate_head_03Shape ! pirate_legs_01Shape, pirate_legs_02Shape, pirate_legs_03Shape ! pirate_upperbody_01Shape, pirate_upperbody_02Shape, pirate_upperbody_03Shape"],["PirateMission","pirate_Lhand_0Shape1, pirate_Lhand_0Shape2, pirate_Lhand_0Shape3 ! pirate_Rhand_0Shape1, pirate_Rhand_0Shape2, pirate_Rhand_0Shape3 ! pirate_head_01Shape, pirate_head_02Shape, pirate_head_03Shape ! pirate_legs_01Shape, pirate_legs_02Shape, pirate_legs_03Shape ! pirate_upperbody_01Shape, pirate_upperbody_02Shape, pirate_upperbody_03Shape"],["GreenGhost","pirate_Lhand_0Shape1, pirate_Lhand_0Shape2, pirate_Lhand_0Shape3 ! pirate_Rhand_0Shape1, pirate_Rhand_0Shape2, pirate_Rhand_0Shape3 ! pirate_head_01Shape, pirate_head_03Shape ! pirate_legs_01Shape, pirate_legs_02Shape, pirate_legs_03Shape ! pirate_upperbody_01Shape, pirate_upperbody_02Shape, pirate_upperbody_03Shape"],["PirateBandit","bandit_Lhand_0Shape1,bandit_Lhand_0Shape2,bandit_Lhand_0Shape3,bandit_Lhand_0Shape5 ! bandit_Rhand_0Shape1,bandit_Rhand_0Shape2,bandit_Rhand_0Shape3,bandit_Rhand_0Shape5 ! bandit_head_0Shape1,bandit_head_0Shape2,bandit_head_0Shape3,bandit_head_0Shape5 ! bandit_legs_0Shape2,bandit_legs_0Shape3 ! bandit_upperbody_0Shape2,bandit_upperbody_0Shape3,bandit_upperbody_0Shape5"],["VaganRangerAlly","hunter_beltShape ! hunter_feetShape ! hunter_forearmsShape ! hunter_handsShape ! hunter_headShape ! hunter_lower_legsShape ! hunter_neckShape ! hunter_upper_legsShape"],["VaganShadowAlly","feetShape ! handsShape ! lower_legsShape ! neckShape"],["Zombie1","hair_zombie01Shape ! head_zombie01Shape ! intestine1_zombie01Shape ! intestine2_zombie01Shape ! intestine3_zombie01Shape ! Larm_zombie01Shape ! Lleg_zombie01Shape ! lower_body_zombie01Shape ! Rarm_zombie01Shape ! Rleg_zombie01Shape ! upper_body_zombie01Shape"],["Zombie2","hair_zombie02Shape ! head_zombie02Shape ! intestine1_zombie02Shape ! intestine2_zombie02Shape ! intestine3_zombie02Shape ! Larm_zombie02Shape ! Lleg_zombie02Shape ! lowerbody_zombie02Shape ! Rarm_zombie02Shape ! Rleg_zombie02Shape ! upperbody_zombie02Shape"],["Zombie3","hair_zombie03Shape ! head_zombie03Shape ! intestine1_zombie03Shape ! intestine2_zombie03Shape ! intestine3_zombie03Shape ! Larm_zombie03Shape ! leg_zombie03Shape ! Rarm_zombie03Shape ! upperbody_zombie03Shape"],["SkeletonBelly","FourSkull01_modelShape,FourSkull02_modelShape,FourSkull03_modelShape,FourSkull04_modelShape ! claviclesShape ! doublesidedShape ! feetShape ! forearmsShape ! handsShape ! lower_legsShape ! pelvisShape ! skullShape ! spineShape ! thighsShape ! upper_armsShape ! baseShape ! doublesidedShape ! armour1Shape ! helmetShape ! skinShape"],["Demon","demon_Lleg_0Shape1,demon_Lleg_0Shape2,demon_Lleg_0Shape3 ! demon_cloth_0Shape1,demon_cloth_0Shape2,demon_cloth_0Shape3 !demon_Larm_0Shape1,demon_Larm_0Shape2,demon_Larm_0Shape3 !demon_head_0Shape1,demon_head_0Shape2,demon_head_0Shape3 !demon_Rarm_0Shape1,demon_Rarm_0Shape2,demon_Rarm_0Shape3 !demon_Rleg_0Shape1,demon_Rleg_0Shape2,demon_Rleg_0Shape3 !demon_upperbody_0Shape1,demon_upperbody_0Shape2,demon_upperbody_0Shape3"],["Bull","BullBase0203Shape & saddle02Shape, BullBase0203Shape & saddle03Shape !forearm02Shape, forearm03Shape, forearms04Shape, dagger01Shape & shield01Shape, dagger01Shape & shield02Shape, dagger01Shape & shield03Shape !helmet02Shape, helmet03Shape, helmet04Shape, * !plates02Shape, skirt03Shape, skirt04Shape, * !shoulderpads02Shape, shoulder03Shape, shoulders04Shape * !straps02Shape, straps03Shape, straps04Shape *"],["MinotaurNoArmour","~axe1Shape ! ~axeShape ! ~shoulder03Shape ! BullBase01Shape"],["BeyondDemon","bandit_head_02_glowShape ! bandit_legs_02_glowShape ! bandit_Lhand_02_glowShape ! bandit_Rhand_02_glowShape ! bandit_upperbody_02_glowShape"],["AtziriLightning","AtziriUpdate_baseShape ! AtziriUpdate_discShape ! AtziriUpdate_Rarm0Shape2 ! AtziriUpdate_skirtShape ! AtziriUpdate_skullsShape ! glow_eyesShape ! AtziriUpdate_Rarm0Shape3"],["AtziriSpear","AtziriUpdate_baseShape ! AtziriUpdate_discShape ! AtziriUpdate_Larm0Shape2 ! AtziriUpdate_skirtShape ! AtziriUpdate_skullsShape ! glow_eyesShape"],["AtziriFire","AtziriUpdate_baseShape ! AtziriUpdate_discShape ! AtziriUpdate_Rarm0Shape1 ! AtziriUpdate_skirtShape ! AtziriUpdate_skullsShape ! glow_eyesShape"],["AtziriMirror","AtziriUpdate_baseShape ! AtziriUpdate_discShape ! AtziriUpdate_Larm0Shape1 ! AtziriUpdate_skirtShape ! AtziriUpdate_skullsShape ! glow_eyesShape"],["CannibalFemale","arms01Shape,arms02Shape,arms03Shape ! legs01Shape,legs02Shape,legs03Shape ! skirt01Shape,skirt03Shape ! torso01Shape,torso02Shape,torso03Shape !"],["CannibalFemaleBoss","arms03Shape ! legs03Shape ! skirt02Shape ! torso03Shape !"],["CannibalFemaleProphecy","arms01Shape, arms02Shape, arms03Shape ! legs01Shape, legs02Shape, legs03Shape ! skirt01Shape, skirt03Shape ! torso01Shape, torso02Shape, torso03Shape ! belt_meshShape ! mask_meshShape ! mask_mesh1Shape"],["CannibalMale","arms02Shape,arms03Shape,arms04Shape ! legs02Shape,legs03Shape,legs04Shape ! skirt02Shape,pants03Shape,skirt04Shape ! torso02Shape,torso03Shape,torso04Shape !"],["CannibalMaleBoss","arms01Shape ! legs01Shape ! pants01Shape ! torso01Shape !"],["CannibalMaleProphecy","arms02Shape, arms03Shape ! legs01Shape, legs02Shape, legs03Shape ! pants01Shape, pants03Shape, skirt02Shape ! torso02Shape, torso03Shape ! nohairbelt_meshShape ! mask_meshShape ! mask_mesh1Shape"],["CannibalMaleProphecyBoss","arms03Shape ! legs01Shape ! skirt02Shape ! pants01Shape ! torso03Shape ! nohairbelt_meshShape ! mask_meshShape ! mask_mesh1Shape"],["LabyrinthLieutenantBull","BullBase0203Shape ! forearm02Shape ! helmet02Shape ! saddle02Shape ! shield02Shape ! shoulderpads02Shape ! skirt04Shape ! straps02Shape"],["ProphecyBandit","bandit_legs_0Shape3 ! bandit_head_0Shape1 ! bandit_Rhand_0Shape1 ! bandit_Lhand_0Shape1 ! bandit_upperbody_0Shape5"],["FrostfireMageMapBoss","bandit_head0Shape2 ! bandit_legs_0Shape2 ! bandit_Lhand_0Shape2 ! bandit_Rhand_0Shape2 ! bandit_upperbody_0Shape2"],["LivingCrystal","mainShape"],["BlackguardJaeger","Body1Shape ! helmet1Shape ! cape1Shape ! plate1Shape"],["BlackguardJaegerZombie","Body1Shape ! helmet1Shape, * ! cape1Shape, * ! plate1Shape, *"],["Kitava1","KitavaPhaseA_modelShape ! KitavaPhaseA_glowShape"],["Kitava2","KitavaPhaseB_modelShape ! KitavaPhaseB_glowShape ! KitavaPhaseB_glow1Shape"],["Kitava3","KitavaPhaseC_modelShape ! KitavaPhaseC_glow_atShape ! KitavaPhaseC_glowShape"],["KitavaFinal","KitavaPhaseC_modelShape ! KitavaPhaseC_glow_atShape ! KitavaPhaseC_glowShape"],["InvisibleReligiousTemplar","~polySurface11Shape ! ~polySurfaceShape11 ! ~polySurfaceShape12 ! ~polySurfaceShape7 ! ~capeLOW_polySurface1Shape"],["Wraith","baseShape ! capeShape ! hairShape ! skirt_innerShape"],["BlackguardClericKitavaShadow","BaseShape ! DoubleSidedShape ! hornsShape ! BookShape"],["ArakaaliSegments","back_fleshShape! body_fleshShape! clawsShape! spikeShape! spikesShape ! tendrilsShape ! back_gearsShape ! back_plate_beltsShape ! back_plates_1Shape ! back_plates_Shape2 ! back_plates_Shape3 ! back_plates_Shape4 ! back_plates_Shape5 ! back_plates_Shape6 ! claw_baseShape ! gearShape ! head_gearsShape ! head_plateShape ! head_ringShape ! plate_baseShape ! plate_bodyShape ! plate_front_innerShape ! plate_frontShape"],["Lunaris","LunarisShape ! Lunaris_glaiveShape ! Lunaris_glaive_glowShape ! Lunaris_glowShape"],["Solaris","SolarisShape ! Solaris_lanceShape ! Solaris_shieldShape ! Solaris1Shape ! Solaris_lance1Shape ! Solaris_shield1Shape"],["ChaosGolemNoPebbles","BaseShape ! LLeg1Shape ! LLegShape ! RLeg1Shape ! RLegShape"],["Titucius","~swordman_hairShape ! ~swordman_headShape ! ~swordman_neckShape"],["CityStalkerNoGlow","CityStalker_Male1Shape ! bodyShape ! helmetShape"],["KitavaMinionMelee","weaponShape ! bodyShape ! hairShape ! ArmourShape"],["KitavaMinionCaster","staffShape ! glowShape ! staffhornsShape ! bodyShape ! hairShape"],["Avatar","armsShape ! bodyShape ! feetShape ! forearmsShape ! handsShape ! headShape ! lower_legsShape ! neckShape ! upper_legsShape"],["CrabParasiteBleached","bodyShape ! geo_armsShape ! L_legsShape1 ! L_legsShape2 ! L_legsShape3 ! L_legsShape4 ! LB_legShape ! R_legsShape1 ! R_legsShape2 ! R_legsShape3 ! R_legsShape4 ! RB_legShape"],["CandelabrumCultist","CultOfKitava_0Shape2"],["SkeletonOssuary","skeleton_completeShape"],["LichCrystal","crystalShape1 ! crystalShape10 ! crystalShape11 ! crystalShape12 ! crystalShape13 ! crystalShape14 ! crystalShape3 ! crystalShape4 ! crystalShape5 ! crystalShape6 ! crystalShape7 ! crystalShape8 ! crystalShape9 ! crystal_large2Shape"],["LichCrystal2","crystalShape1 ! crystalShape10 ! crystalShape12 ! crystalShape4 ! crystalShape8 ! crystal_large2Shape"],["LichCrystal3","crystalShape11 ! crystalShape13 ! crystalShape3 ! crystalShape6 ! crystalShape7 ! crystalShape9"],["KitavaMinionCasterFire","staff2Shape ! glowShape ! staffhornsShape ! bodyShape ! hairShape"]]}
+{
+  "filename": "MonsterSegments.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Shapes",
+      "rowid": 1,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "Bandit",
+      "bandit_legs_0Shape1,bandit_legs_0Shape2,bandit_legs_0Shape3,bandit_legs_0Shape5 ! bandit_head_0Shape5,bandit_head_0Shape3,bandit_head_0Shape2,bandit_head_0Shape1 ! bandit_Rhand_0Shape2,bandit_Rhand_0Shape3,bandit_Rhand_0Shape5,bandit_Rhand_0Shape1 ! bandit_Lhand_0Shape1,bandit_Lhand_0Shape5,bandit_Lhand_0Shape3,bandit_Lhand_0Shape2 ! bandit_upperbody_0Shape2,bandit_upperbody_0Shape3,bandit_upperbody_0Shape1,bandit_upperbody_0Shape5"
+    ],
+    [
+      "BanditChampion",
+      "bandit_legs_0Shape1 ! bandit_head_0Shape5,bandit_head_0Shape3,bandit_head_0Shape2,bandit_head_0Shape1 ! bandit_Rhand_0Shape2,bandit_Rhand_0Shape3,bandit_Rhand_0Shape5,bandit_Rhand_0Shape1 ! bandit_Lhand_0Shape1,bandit_Lhand_0Shape5,bandit_Lhand_0Shape3,bandit_Lhand_0Shape2 ! bandit_upperbody_0Shape3"
+    ],
+    [
+      "BanditBoss",
+      "bandit_legs_0Shape1 ! bandit_head_0Shape2 ! bandit_Rhand_0Shape3 ! bandit_Lhand_0Shape1 ! bandit_upperbody_0Shape3"
+    ],
+    [
+      "BanditBowBoss",
+      "bandit_legs_0Shape5 ! bandit_head_0Shape2 ! bandit_Rhand_0Shape2 ! bandit_Lhand_0Shape1 ! bandit_upperbody_0Shape3"
+    ],
+    [
+      "BanditMission",
+      "bandit_legs_0Shape1,bandit_legs_0Shape2,bandit_legs_0Shape3,bandit_legs_0Shape5 ! bandit_head_0Shape5,bandit_head_0Shape3,bandit_head_0Shape2,bandit_head_0Shape1 ! bandit_Rhand_0Shape2,bandit_Rhand_0Shape3,bandit_Rhand_0Shape5,bandit_Rhand_0Shape1 ! bandit_Lhand_0Shape1,bandit_Lhand_0Shape5,bandit_Lhand_0Shape3,bandit_Lhand_0Shape2 ! bandit_upperbody_0Shape2,bandit_upperbody_0Shape3,bandit_upperbody_0Shape1,bandit_upperbody_0Shape5"
+    ],
+    [
+      "HalfSkeletonRange",
+      "PokerHeadShape ! HalfSkeletonShape"
+    ],
+    [
+      "HalfSkeleton",
+      "ChoppingHeadShape ! HalfSkeletonShape"
+    ],
+    [
+      "Pirate",
+      "pirate_Lhand_0Shape1, pirate_Lhand_0Shape2, pirate_Lhand_0Shape3 ! pirate_Rhand_0Shape1, pirate_Rhand_0Shape2, pirate_Rhand_0Shape3 ! pirate_head_01Shape, pirate_head_02Shape, pirate_head_03Shape ! pirate_legs_01Shape, pirate_legs_02Shape, pirate_legs_03Shape ! pirate_upperbody_01Shape, pirate_upperbody_02Shape, pirate_upperbody_03Shape"
+    ],
+    [
+      "PirateMission",
+      "pirate_Lhand_0Shape1, pirate_Lhand_0Shape2, pirate_Lhand_0Shape3 ! pirate_Rhand_0Shape1, pirate_Rhand_0Shape2, pirate_Rhand_0Shape3 ! pirate_head_01Shape, pirate_head_02Shape, pirate_head_03Shape ! pirate_legs_01Shape, pirate_legs_02Shape, pirate_legs_03Shape ! pirate_upperbody_01Shape, pirate_upperbody_02Shape, pirate_upperbody_03Shape"
+    ],
+    [
+      "GreenGhost",
+      "pirate_Lhand_0Shape1, pirate_Lhand_0Shape2, pirate_Lhand_0Shape3 ! pirate_Rhand_0Shape1, pirate_Rhand_0Shape2, pirate_Rhand_0Shape3 ! pirate_head_01Shape, pirate_head_03Shape ! pirate_legs_01Shape, pirate_legs_02Shape, pirate_legs_03Shape ! pirate_upperbody_01Shape, pirate_upperbody_02Shape, pirate_upperbody_03Shape"
+    ],
+    [
+      "PirateBandit",
+      "bandit_Lhand_0Shape1,bandit_Lhand_0Shape2,bandit_Lhand_0Shape3,bandit_Lhand_0Shape5 ! bandit_Rhand_0Shape1,bandit_Rhand_0Shape2,bandit_Rhand_0Shape3,bandit_Rhand_0Shape5 ! bandit_head_0Shape1,bandit_head_0Shape2,bandit_head_0Shape3,bandit_head_0Shape5 ! bandit_legs_0Shape2,bandit_legs_0Shape3 ! bandit_upperbody_0Shape2,bandit_upperbody_0Shape3,bandit_upperbody_0Shape5"
+    ],
+    [
+      "VaganRangerAlly",
+      "hunter_beltShape ! hunter_feetShape ! hunter_forearmsShape ! hunter_handsShape ! hunter_headShape ! hunter_lower_legsShape ! hunter_neckShape ! hunter_upper_legsShape"
+    ],
+    [
+      "VaganShadowAlly",
+      "feetShape ! handsShape ! lower_legsShape ! neckShape"
+    ],
+    [
+      "Zombie1",
+      "hair_zombie01Shape ! head_zombie01Shape ! intestine1_zombie01Shape ! intestine2_zombie01Shape ! intestine3_zombie01Shape ! Larm_zombie01Shape ! Lleg_zombie01Shape ! lower_body_zombie01Shape ! Rarm_zombie01Shape ! Rleg_zombie01Shape ! upper_body_zombie01Shape"
+    ],
+    [
+      "Zombie2",
+      "hair_zombie02Shape ! head_zombie02Shape ! intestine1_zombie02Shape ! intestine2_zombie02Shape ! intestine3_zombie02Shape ! Larm_zombie02Shape ! Lleg_zombie02Shape ! lowerbody_zombie02Shape ! Rarm_zombie02Shape ! Rleg_zombie02Shape ! upperbody_zombie02Shape"
+    ],
+    [
+      "Zombie3",
+      "hair_zombie03Shape ! head_zombie03Shape ! intestine1_zombie03Shape ! intestine2_zombie03Shape ! intestine3_zombie03Shape ! Larm_zombie03Shape ! leg_zombie03Shape ! Rarm_zombie03Shape ! upperbody_zombie03Shape"
+    ],
+    [
+      "SkeletonBelly",
+      "FourSkull01_modelShape,FourSkull02_modelShape,FourSkull03_modelShape,FourSkull04_modelShape ! claviclesShape ! doublesidedShape ! feetShape ! forearmsShape ! handsShape ! lower_legsShape ! pelvisShape ! skullShape ! spineShape ! thighsShape ! upper_armsShape ! baseShape ! doublesidedShape ! armour1Shape ! helmetShape ! skinShape"
+    ],
+    [
+      "Demon",
+      "demon_Lleg_0Shape1,demon_Lleg_0Shape2,demon_Lleg_0Shape3 ! demon_cloth_0Shape1,demon_cloth_0Shape2,demon_cloth_0Shape3 !demon_Larm_0Shape1,demon_Larm_0Shape2,demon_Larm_0Shape3 !demon_head_0Shape1,demon_head_0Shape2,demon_head_0Shape3 !demon_Rarm_0Shape1,demon_Rarm_0Shape2,demon_Rarm_0Shape3 !demon_Rleg_0Shape1,demon_Rleg_0Shape2,demon_Rleg_0Shape3 !demon_upperbody_0Shape1,demon_upperbody_0Shape2,demon_upperbody_0Shape3"
+    ],
+    [
+      "Bull",
+      "BullBase0203Shape & saddle02Shape, BullBase0203Shape & saddle03Shape !forearm02Shape, forearm03Shape, forearms04Shape, dagger01Shape & shield01Shape, dagger01Shape & shield02Shape, dagger01Shape & shield03Shape !helmet02Shape, helmet03Shape, helmet04Shape, * !plates02Shape, skirt03Shape, skirt04Shape, * !shoulderpads02Shape, shoulder03Shape, shoulders04Shape * !straps02Shape, straps03Shape, straps04Shape *"
+    ],
+    [
+      "MinotaurNoArmour",
+      "~axe1Shape ! ~axeShape ! ~shoulder03Shape ! BullBase01Shape"
+    ],
+    [
+      "BeyondDemon",
+      "bandit_head_02_glowShape ! bandit_legs_02_glowShape ! bandit_Lhand_02_glowShape ! bandit_Rhand_02_glowShape ! bandit_upperbody_02_glowShape"
+    ],
+    [
+      "AtziriLightning",
+      "AtziriUpdate_baseShape ! AtziriUpdate_discShape ! AtziriUpdate_Rarm0Shape2 ! AtziriUpdate_skirtShape ! AtziriUpdate_skullsShape ! glow_eyesShape ! AtziriUpdate_Rarm0Shape3"
+    ],
+    [
+      "AtziriSpear",
+      "AtziriUpdate_baseShape ! AtziriUpdate_discShape ! AtziriUpdate_Larm0Shape2 ! AtziriUpdate_skirtShape ! AtziriUpdate_skullsShape ! glow_eyesShape"
+    ],
+    [
+      "AtziriFire",
+      "AtziriUpdate_baseShape ! AtziriUpdate_discShape ! AtziriUpdate_Rarm0Shape1 ! AtziriUpdate_skirtShape ! AtziriUpdate_skullsShape ! glow_eyesShape"
+    ],
+    [
+      "AtziriMirror",
+      "AtziriUpdate_baseShape ! AtziriUpdate_discShape ! AtziriUpdate_Larm0Shape1 ! AtziriUpdate_skirtShape ! AtziriUpdate_skullsShape ! glow_eyesShape"
+    ],
+    [
+      "CannibalFemale",
+      "arms01Shape,arms02Shape,arms03Shape ! legs01Shape,legs02Shape,legs03Shape ! skirt01Shape,skirt03Shape ! torso01Shape,torso02Shape,torso03Shape !"
+    ],
+    [
+      "CannibalFemaleBoss",
+      "arms03Shape ! legs03Shape ! skirt02Shape ! torso03Shape !"
+    ],
+    [
+      "CannibalFemaleProphecy",
+      "arms01Shape, arms02Shape, arms03Shape ! legs01Shape, legs02Shape, legs03Shape ! skirt01Shape, skirt03Shape ! torso01Shape, torso02Shape, torso03Shape ! belt_meshShape ! mask_meshShape ! mask_mesh1Shape"
+    ],
+    [
+      "CannibalMale",
+      "arms02Shape,arms03Shape,arms04Shape ! legs02Shape,legs03Shape,legs04Shape ! skirt02Shape,pants03Shape,skirt04Shape ! torso02Shape,torso03Shape,torso04Shape !"
+    ],
+    [
+      "CannibalMaleBoss",
+      "arms01Shape ! legs01Shape ! pants01Shape ! torso01Shape !"
+    ],
+    [
+      "CannibalMaleProphecy",
+      "arms02Shape, arms03Shape ! legs01Shape, legs02Shape, legs03Shape ! pants01Shape, pants03Shape, skirt02Shape ! torso02Shape, torso03Shape ! nohairbelt_meshShape ! mask_meshShape ! mask_mesh1Shape"
+    ],
+    [
+      "CannibalMaleProphecyBoss",
+      "arms03Shape ! legs01Shape ! skirt02Shape ! pants01Shape ! torso03Shape ! nohairbelt_meshShape ! mask_meshShape ! mask_mesh1Shape"
+    ],
+    [
+      "LabyrinthLieutenantBull",
+      "BullBase0203Shape ! forearm02Shape ! helmet02Shape ! saddle02Shape ! shield02Shape ! shoulderpads02Shape ! skirt04Shape ! straps02Shape"
+    ],
+    [
+      "ProphecyBandit",
+      "bandit_legs_0Shape3 ! bandit_head_0Shape1 ! bandit_Rhand_0Shape1 ! bandit_Lhand_0Shape1 ! bandit_upperbody_0Shape5"
+    ],
+    [
+      "FrostfireMageMapBoss",
+      "bandit_head0Shape2 ! bandit_legs_0Shape2 ! bandit_Lhand_0Shape2 ! bandit_Rhand_0Shape2 ! bandit_upperbody_0Shape2"
+    ],
+    [
+      "LivingCrystal",
+      "mainShape"
+    ],
+    [
+      "BlackguardJaeger",
+      "Body1Shape ! helmet1Shape ! cape1Shape ! plate1Shape"
+    ],
+    [
+      "BlackguardJaegerZombie",
+      "Body1Shape ! helmet1Shape, * ! cape1Shape, * ! plate1Shape, *"
+    ],
+    [
+      "Kitava1",
+      "KitavaPhaseA_modelShape ! KitavaPhaseA_glowShape"
+    ],
+    [
+      "Kitava2",
+      "KitavaPhaseB_modelShape ! KitavaPhaseB_glowShape ! KitavaPhaseB_glow1Shape"
+    ],
+    [
+      "Kitava3",
+      "KitavaPhaseC_modelShape ! KitavaPhaseC_glow_atShape ! KitavaPhaseC_glowShape"
+    ],
+    [
+      "KitavaFinal",
+      "KitavaPhaseC_modelShape ! KitavaPhaseC_glow_atShape ! KitavaPhaseC_glowShape"
+    ],
+    [
+      "InvisibleReligiousTemplar",
+      "~polySurface11Shape ! ~polySurfaceShape11 ! ~polySurfaceShape12 ! ~polySurfaceShape7 ! ~capeLOW_polySurface1Shape"
+    ],
+    [
+      "Wraith",
+      "baseShape ! capeShape ! hairShape ! skirt_innerShape"
+    ],
+    [
+      "BlackguardClericKitavaShadow",
+      "BaseShape ! DoubleSidedShape ! hornsShape ! BookShape"
+    ],
+    [
+      "ArakaaliSegments",
+      "back_fleshShape! body_fleshShape! clawsShape! spikeShape! spikesShape ! tendrilsShape ! back_gearsShape ! back_plate_beltsShape ! back_plates_1Shape ! back_plates_Shape2 ! back_plates_Shape3 ! back_plates_Shape4 ! back_plates_Shape5 ! back_plates_Shape6 ! claw_baseShape ! gearShape ! head_gearsShape ! head_plateShape ! head_ringShape ! plate_baseShape ! plate_bodyShape ! plate_front_innerShape ! plate_frontShape"
+    ],
+    [
+      "Lunaris",
+      "LunarisShape ! Lunaris_glaiveShape ! Lunaris_glaive_glowShape ! Lunaris_glowShape"
+    ],
+    [
+      "Solaris",
+      "SolarisShape ! Solaris_lanceShape ! Solaris_shieldShape ! Solaris1Shape ! Solaris_lance1Shape ! Solaris_shield1Shape"
+    ],
+    [
+      "ChaosGolemNoPebbles",
+      "BaseShape ! LLeg1Shape ! LLegShape ! RLeg1Shape ! RLegShape"
+    ],
+    [
+      "Titucius",
+      "~swordman_hairShape ! ~swordman_headShape ! ~swordman_neckShape"
+    ],
+    [
+      "CityStalkerNoGlow",
+      "CityStalker_Male1Shape ! bodyShape ! helmetShape"
+    ],
+    [
+      "KitavaMinionMelee",
+      "weaponShape ! bodyShape ! hairShape ! ArmourShape"
+    ],
+    [
+      "KitavaMinionCaster",
+      "staffShape ! glowShape ! staffhornsShape ! bodyShape ! hairShape"
+    ],
+    [
+      "Avatar",
+      "armsShape ! bodyShape ! feetShape ! forearmsShape ! handsShape ! headShape ! lower_legsShape ! neckShape ! upper_legsShape"
+    ],
+    [
+      "CrabParasiteBleached",
+      "bodyShape ! geo_armsShape ! L_legsShape1 ! L_legsShape2 ! L_legsShape3 ! L_legsShape4 ! LB_legShape ! R_legsShape1 ! R_legsShape2 ! R_legsShape3 ! R_legsShape4 ! RB_legShape"
+    ],
+    [
+      "CandelabrumCultist",
+      "CultOfKitava_0Shape2"
+    ],
+    [
+      "SkeletonOssuary",
+      "skeleton_completeShape"
+    ],
+    [
+      "LichCrystal",
+      "crystalShape1 ! crystalShape10 ! crystalShape11 ! crystalShape12 ! crystalShape13 ! crystalShape14 ! crystalShape3 ! crystalShape4 ! crystalShape5 ! crystalShape6 ! crystalShape7 ! crystalShape8 ! crystalShape9 ! crystal_large2Shape"
+    ],
+    [
+      "LichCrystal2",
+      "crystalShape1 ! crystalShape10 ! crystalShape12 ! crystalShape4 ! crystalShape8 ! crystal_large2Shape"
+    ],
+    [
+      "LichCrystal3",
+      "crystalShape11 ! crystalShape13 ! crystalShape3 ! crystalShape6 ! crystalShape7 ! crystalShape9"
+    ],
+    [
+      "KitavaMinionCasterFire",
+      "staff2Shape ! glowShape ! staffhornsShape ! bodyShape ! hairShape"
+    ]
+  ]
+}

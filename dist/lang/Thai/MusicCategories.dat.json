@@ -1,1 +1,169 @@
-{"filename":"MusicCategories.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":"True","file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Name","rowid":1,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Order","rowid":2,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Flag0","rowid":3,"type":"byte","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["Boss","สู้บอส",10,0],["Town","ค่าย",11,1],["Act1","บทที่ ๑",0,0],["Act2","บทที่ ๒",1,0],["Act3","บทที่ ๓",2,0],["Act4","บทที่ ๔",3,0],["Act5","บทที่ ๕",4,0],["Act6","บทที่ ๖",5,0],["Act7","บทที่ ๗",6,0],["Act8","บทที่ ๘",7,0],["Act9","บทที่ ๙",8,0],["Act10","บทที่ ๑๐",9,0],["Map","แผนที่ยูนิค",13,0],["Expansions","ภาคเสริม",12,0],["Other","อื่นๆ",14,0],["Hideouts","ที่ซ่อน",15,0],["Trailers","จากคลิปตัวอย่าง",16,0]]}
+{
+  "filename": "MusicCategories.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": "True",
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Name",
+      "rowid": 1,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Order",
+      "rowid": 2,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Flag0",
+      "rowid": 3,
+      "type": "byte",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "Boss",
+      "สู้บอส",
+      10,
+      0
+    ],
+    [
+      "Town",
+      "ค่าย",
+      11,
+      1
+    ],
+    [
+      "Act1",
+      "บทที่ ๑",
+      0,
+      0
+    ],
+    [
+      "Act2",
+      "บทที่ ๒",
+      1,
+      0
+    ],
+    [
+      "Act3",
+      "บทที่ ๓",
+      2,
+      0
+    ],
+    [
+      "Act4",
+      "บทที่ ๔",
+      3,
+      0
+    ],
+    [
+      "Act5",
+      "บทที่ ๕",
+      4,
+      0
+    ],
+    [
+      "Act6",
+      "บทที่ ๖",
+      5,
+      0
+    ],
+    [
+      "Act7",
+      "บทที่ ๗",
+      6,
+      0
+    ],
+    [
+      "Act8",
+      "บทที่ ๘",
+      7,
+      0
+    ],
+    [
+      "Act9",
+      "บทที่ ๙",
+      8,
+      0
+    ],
+    [
+      "Act10",
+      "บทที่ ๑๐",
+      9,
+      0
+    ],
+    [
+      "Map",
+      "แผนที่ยูนิค",
+      13,
+      0
+    ],
+    [
+      "Expansions",
+      "ภาคเสริม",
+      12,
+      0
+    ],
+    [
+      "Other",
+      "อื่นๆ",
+      14,
+      0
+    ],
+    [
+      "Hideouts",
+      "ที่ซ่อน",
+      15,
+      0
+    ],
+    [
+      "Trailers",
+      "จากคลิปตัวอย่าง",
+      16,
+      0
+    ]
+  ]
+}

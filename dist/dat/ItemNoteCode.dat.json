@@ -1,1 +1,289 @@
-{"filename":"ItemNoteCode.dat","header":[{"name":"BaseItemTypesKey","rowid":0,"type":"ulong","key":"BaseItemTypes.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Code","rowid":1,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown3","rowid":2,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Flag0","rowid":3,"type":"bool","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[[7,"alch",0,true],[10,"alt",0,true],[195,"annul",0,true],[173,"apprentice-sextant",0,true],[9,"aug",0,false],[15,"bauble",0,false],[22,"blessed",0,true],[5,"chance",0,true],[4,"chaos",20,true],[17,"chisel",0,true],[18,"chrome",0,true],[21,"divine",0,true],[199,"engineers",0,false],[12,"exalted",0,true],[344,"facetors",0,false],[19,"fusing",0,true],[16,"gcp",0,true],[200,"infused-engineers-orb",0,false],[20,"jewellers",0,true],[174,"journeyman-sextant",0,true],[175,"master-sextant",0,true],[1,"mirror",0,true],[262,"offer",0,false],[265,"offer-dedication",0,false],[264,"offer-gift",0,false],[263,"offer-tribute",0,false],[35,"p",0,true],[14,"portal",0,false],[13,"regal",0,true],[3,"regret",0,true],[11,"scour",0,true],[0,"scrap",0,false],[36,"silver",0,true],[6,"transmute",0,false],[30,"vaal",0,true],[8,"whetstone",0,false],[2,"wisdom",0,false]]}
+{
+  "filename": "ItemNoteCode.dat",
+  "header": [
+    {
+      "name": "BaseItemTypesKey",
+      "rowid": 0,
+      "type": "ulong",
+      "key": "BaseItemTypes.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Code",
+      "rowid": 1,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown3",
+      "rowid": 2,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Flag0",
+      "rowid": 3,
+      "type": "bool",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      7,
+      "alch",
+      0,
+      true
+    ],
+    [
+      10,
+      "alt",
+      0,
+      true
+    ],
+    [
+      195,
+      "annul",
+      0,
+      true
+    ],
+    [
+      173,
+      "apprentice-sextant",
+      0,
+      true
+    ],
+    [
+      9,
+      "aug",
+      0,
+      false
+    ],
+    [
+      15,
+      "bauble",
+      0,
+      false
+    ],
+    [
+      22,
+      "blessed",
+      0,
+      true
+    ],
+    [
+      5,
+      "chance",
+      0,
+      true
+    ],
+    [
+      4,
+      "chaos",
+      20,
+      true
+    ],
+    [
+      17,
+      "chisel",
+      0,
+      true
+    ],
+    [
+      18,
+      "chrome",
+      0,
+      true
+    ],
+    [
+      21,
+      "divine",
+      0,
+      true
+    ],
+    [
+      199,
+      "engineers",
+      0,
+      false
+    ],
+    [
+      12,
+      "exalted",
+      0,
+      true
+    ],
+    [
+      344,
+      "facetors",
+      0,
+      false
+    ],
+    [
+      19,
+      "fusing",
+      0,
+      true
+    ],
+    [
+      16,
+      "gcp",
+      0,
+      true
+    ],
+    [
+      200,
+      "infused-engineers-orb",
+      0,
+      false
+    ],
+    [
+      20,
+      "jewellers",
+      0,
+      true
+    ],
+    [
+      174,
+      "journeyman-sextant",
+      0,
+      true
+    ],
+    [
+      175,
+      "master-sextant",
+      0,
+      true
+    ],
+    [
+      1,
+      "mirror",
+      0,
+      true
+    ],
+    [
+      262,
+      "offer",
+      0,
+      false
+    ],
+    [
+      265,
+      "offer-dedication",
+      0,
+      false
+    ],
+    [
+      264,
+      "offer-gift",
+      0,
+      false
+    ],
+    [
+      263,
+      "offer-tribute",
+      0,
+      false
+    ],
+    [
+      35,
+      "p",
+      0,
+      true
+    ],
+    [
+      14,
+      "portal",
+      0,
+      false
+    ],
+    [
+      13,
+      "regal",
+      0,
+      true
+    ],
+    [
+      3,
+      "regret",
+      0,
+      true
+    ],
+    [
+      11,
+      "scour",
+      0,
+      true
+    ],
+    [
+      0,
+      "scrap",
+      0,
+      false
+    ],
+    [
+      36,
+      "silver",
+      0,
+      true
+    ],
+    [
+      6,
+      "transmute",
+      0,
+      false
+    ],
+    [
+      30,
+      "vaal",
+      0,
+      true
+    ],
+    [
+      8,
+      "whetstone",
+      0,
+      false
+    ],
+    [
+      2,
+      "wisdom",
+      0,
+      false
+    ]
+  ]
+}

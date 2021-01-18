@@ -1,1 +1,2209 @@
-{"filename":"ShopCategory.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":true,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"ClientText","rowid":1,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"ClientJPGFile","rowid":2,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":true,"file_ext":".jpg","display":null,"display_type":"{0}","description":null},{"name":"WebsiteText","rowid":3,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"WebsiteJPGFile","rowid":4,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown0","rowid":5,"type":"ref|int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"AppliedTo_BaseItemTypesKey","rowid":6,"type":"ulong","key":"BaseItemTypes.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["NewItems","Новинки","Art/2DArt/Shop/category/newly-added.jpg","Новинки","",0,null],["StashTabs","Секции сундука","Art/2DArt/Shop/category/stash-tab.jpg","Секции сундука","",0,null],["Bundles","Наборы","Art/2DArt/Shop/category/bundles.jpg","Наборы","",0,null],["ArmourEffects","Доспехи","Art/2DArt/Shop/category/armour-effects.jpg","Доспехи","shop/daily-deal/categories/ArmorEffects.jpg",0,null],["BackAttachments","Заплечные украшения","Art/2DArt/Shop/category/back-attachment.jpg","Заплечные украшения","",0,null],["WeaponEffects","Оружие","Art/2DArt/Shop/category/weaponeffects.jpg","Оружие","shop/daily-deal/categories/WeaponEffects.jpg",0,null],["Portals","Порталы","Art/2DArt/Shop/category/portals.jpg","Порталы","",0,null],["AlternateSkillEffects","Эффекты умений","Art/2DArt/Shop/category/alternate-skills.jpg","Эффекты умений","shop/daily-deal/categories/SkillEffect.jpg",0,null],["CharacterEffects","Персонаж","Art/2DArt/Shop/category/character-effects.jpg","Персонаж","shop/daily-deal/categories/CharacterEffects.jpg",0,null],["FootprintEffects","Следы","Art/2DArt/Shop/category/footprints.jpg","Следы","",0,null],["Guild","Гильдия","Art/2DArt/Shop/category/guild.jpg","Гильдия","shop/daily-deal/categories/Guild.jpg",0,null],["Pets","Питомцы","Art/2DArt/Shop/category/pets.jpg","Питомцы","shop/daily-deal/categories/Pets.jpg",0,null],["HideoutDecorations","Убежище","Art/2DArt/Shop/category/hideout.jpg","Убежище","shop/daily-deal/categories/HideoutDecorations.jpg",0,null],["MysteryPacks","Загадочные коробки","Art/2DArt/Shop/category/mystery.jpg","Загадочные","",0,null],["MostPopular","Популярные","Art/2DArt/Shop/category/best-selling.jpg","Популярные","",0,null],["AccountFeatures","Свойства аккаунта","Art/2DArt/Shop/category/account-features.jpg","Аккаунт","shop/daily-deal/categories/AccountFeatures.jpg",0,null],["ClassicEffects","Эффекты","Art/2DArt/Shop/category/classic-effects.jpg","Эффекты","shop/daily-deal/categories/CategoryDailyDealClassic.jpg",0,null],["WeaponSkin1Mtx","Внешний вид оружия","","Внешний вид оружия","",0,null],["WeaponSkin2Mtx","Внешний вид оружия","","Внешний вид оружия","",0,null],["WeaponEffect1Mtx","Эффект оружия","","Эффект оружия","",0,null],["WeaponEffect2Mtx","Эффект оружия","","Эффект оружия","",0,null],["WeaponAddedEffect1Mtx","Добавленный эффект оружия","","Добавленный эффект оружия","",0,null],["WeaponAddedEffect2Mtx","Добавленный эффект оружия","","Добавленный эффект оружия","",0,null],["HelmetSkinMtx","Внешний вид шлема","","Внешний вид шлема","",0,null],["HelmetAttachmentMtx","Эффект шлема","","Эффект шлема","",0,null],["ArmourSkinMtx","Внешний вид брони","","Внешний вид брони","",0,null],["ArmourAttachmentMtx","Заплечное украшение","","Заплечное украшение","",0,null],["GlovesMtx","Перчатки","","Перчатки","",0,null],["BootsMtx","Сапоги","","Сапоги","",0,null],["FootprintsMtx","Следы","","Следы","",0,null],["ApparitionMtx","Временный эффект","","Временный эффект","",0,null],["CharacterEffectMtx","Эффект персонажа","","Эффект персонажа","",0,null],["PetMtx","Питомец","","Питомец","",0,null],["SocialFrameMtx","Социальная рамка","","Социальная рамка","",0,null],["PortraitMtx","Портрет","","Портрет","",0,null],["PortalMtx","Портал","","Портал","",0,null],["AncestralCallMtx","Зов предков","","Зов предков","",0,4626],["AncestralWarchiefMtx","Вождь предков","","Вождь предков","",0,4594],["AngerMtx","Гнев","","Гнев","",0,4400],["ArcMtx","Цепь молний","","Цепь молний","",0,4393],["ArcticArmourMtx","Северная броня","","Северная броня","",0,4426],["BallLightningMtx","Шаровая молния","","Шаровая молния","",0,4477],["BarrageMtx","Очередь","","Очередь","",0,4476],["BladefallMtx","Мечепад","","Мечепад","",0,4568],["BladeflurryMtx","Порыв клинков","","Порыв клинков","",0,4284],["BladeVortexMtx","Вихрь клинков","","Вихрь клинков","",0,4571],["BlasphemyMtx","Богохульство","","Богохульство","",0,4549],["BlastRainMtx","Дождь взрывов","","Дождь взрывов","",0,4567],["BlinkArrowMtx","Стрела-телепорт","","Стрела-телепорт","",0,4541],["BloodRageMtx","Кровавый угар","","Кровавый угар","",0,4320],["ClarityMtx","Ясность ума","","Ясность ума","",0,4406],["CleaveMtx","Рассечение","","Рассечение","",0,4288],["ChargedDashMtx","Заряженный рывок","","Заряженный рывок","",0,4283],["ColdSnapMtx","Укус стужи","","Укус стужи","",0,4298],["ContagionMtx","Инфекция","","Инфекция","",0,4580],["ConvocationMtx","Сбор","","Сбор","",0,4489],["CremationMtx","Кремация","","Кремация","",0,4619],["CycloneMtx","Вихрь","","Вихрь","",0,4442],["DecoyTotemMtx","Тотем-приманка","","Тотем-приманка","",0,4422],["DesecrateMtx","Осквернение","","Осквернение","",0,4484],["DeterminationMtx","Решимость","","Решимость","",0,4399],["DevouringTotemMtx","Поглощающий тотем","","Поглощающий тотем","",0,4423],["DischargeMtx","Разряд","","Разряд","",0,4325],["DisciplineMtx","Дисциплина","","Дисциплина","",0,4397],["DoubleStrikeMtx","Двойной удар","","Двойной удар","",0,4291],["EarthquakeMtx","Землетрясение","","Землетрясение","",0,4579],["ElementalHitMtx","Удар стихии","","Удар стихии","",0,4293],["EssenceDrainMtx","Похищение сущности","","Похищение сущности","",0,4583],["EtherealKnivesMtx","Бесплотные ножи","","Бесплотные ножи","",0,4424],["FireballMtx","Огненный шар","","Огненный шар","",0,4280],["FirestormMtx","Огненный шторм","","Огненный шторм","",0,4385],["FlameblastMtx","Пламенный взрыв","","Пламенный взрыв","",0,4475],["FlameDashMtx","Огненный рывок","","Огненный рывок","",0,4555],["FlameTotemMtx","Тотем священного огня","","Тотем священного огня","",0,4427],["FlickerStrikeMtx","Внезапный удар","","Внезапный удар","",0,4336],["FreezingPulseMtx","Волна холода","","Волна холода","",0,4346],["FrostBladesMtx","Ледяные клинки","","Ледяные клинки","",0,4556],["FrostBoltMtx","Морозный шар","","Морозный шар","",0,4590],["FrostBoltNovaMtx","Пурга","","Пурга","",0,4591],["FrostBombMtx","Морозная бомба","","Морозная бомба","",0,4574],["GlacialCascadeMtx","Ледяной каскад","","Ледяной каскад","",0,4488],["GraceMtx","Грация","","Грация","",0,4398],["GroundSlamMtx","Сотрясение","","Сотрясение","",0,4287],["HasteMtx","Спешка","","Спешка","",0,4394],["HatredMtx","Холодная ненависть","","Холодная ненависть","",0,4401],["HeraldOfAgonyMtx","Вестник агонии","","Вестник агонии","",0,4533],["HeraldOfAshMtx","Вестник пепла","","Вестник пепла","",0,4530],["HeraldOfIceMtx","Вестник льда","","Вестник льда","",0,4531],["HeraldOfLightMtx","Вестник чистоты","","Вестник чистоты","",0,4534],["HeraldOfThunderMtx","Вестник грома","","Вестник грома","",0,4532],["HolyRelicMtx","Призыв священной реликвии","","Призыв священной реликвии","",0,4646],["IceNovaMtx","Кольцо льда","","Кольцо льда","",0,4281],["IceSpearMtx","Ледяное копье","","Ледяное копье","",0,4339],["IceTrapMtx","Ледяная ловушка","","Ледяная ловушка","",0,4564],["ImmortalCallMtx","Призыв к бессмертию","","Призыв к бессмертию","",0,4294],["IncinerateMtx","Испепеление","","Испепеление","",0,4441],["KineticBlastMtx","Кинетический взрыв","","Кинетический взрыв","",0,4542],["LacerateMtx","Разрубание","","Разрубание","",0,4292],["LightningSpireMtx","Шпиль молний","","Шпиль молний","",0,4634],["LightningWarpMtx","Грозовой переход","","Грозовой переход","",0,4366],["LeapSlamMtx","Наскок","","Наскок","",0,4282],["LightningArrowMtx","Стрела молний","","Стрела молний","",0,4392],["MagmaOrbMtx","Магмовый шар","","Магмовый шар","",0,4562],["MirageArcherMtx","Призрачный лучник","","Призрачный лучник","",0,4628],["MirrorArrowMtx","Стрела-двойник","","Стрела-двойник","",0,4540],["MoltenShellMtx","Расплавленный панцирь","","Расплавленный панцирь","",0,4388],["MoltenStrikeMtx","Магмовый удар","","Магмовый удар","",0,4514],["OrbOfStormsMtx","Сфера бурь","","Сфера бурь","",0,4575],["PhaseRunMtx","Призрачный бег","","Призрачный бег","",0,4351],["PoisonArrowMtx","Едкая стрела","","Едкая стрела","",0,4304],["PurityMtx","Спасение","","Спасение","",0,4395],["PurityofFireMtx","Спасение от огня","","Спасение от огня","",0,4468],["PurityofIceMtx","Спасение от холода","","Спасение от холода","",0,4470],["PurityofLightningMtx","Спасение от молнии","","Спасение от молнии","",0,4472],["RainOfArrowsMtx","Ливень стрел","","Ливень стрел","",0,4374],["RaiseSpectreMtx","Сотворение призрака","","Сотворение призрака","",0,4342],["RaiseZombieMtx","Поднятие зомби","","Поднятие зомби","",0,4299],["ReaveMtx","Опустошение","","Опустошение","",0,4451],["RejuvenationTotemMtx","Восполняющий тотем","","Восполняющий тотем","",0,4416],["RighteousFireMtx","Праведный огонь","","Праведный огонь","",0,4323],["ScorchingRayMtx","Опаляющий луч","","Опаляющий луч","",0,4598],["ScourgeArrowMtx","Стрела скверны","","Стрела скверны","",0,4644],["SearingBondMtx","Обжигающие узы","","Обжигающие узы","",0,4447],["ShieldChargeMtx","Удар щитом","","Удар щитом","",0,4289],["ShockNovaMtx","Кольцо молний","","Кольцо молний","",0,4347],["ShockwaveTotemMtx","Сотрясающий тотем","","Сотрясающий тотем","",0,4415],["SiegeBallistaMtx","Осадная баллиста","","Осадная баллиста","",0,4569],["SparkMtx","Искра","","Искра","",0,4337],["SpectralShieldThrowMtx","Бросок призрачного щита","","Бросок призрачного щита","",0,4279],["SplitArrowMtx","Расколотая стрела","","Расколотая стрела","",0,4308],["StormCallMtx","Призыв бури","","Призыв бури","",0,4474],["SummonChaosGolemMtx","Призыв голема хаоса","","Призыв голема хаоса","",0,4545],["SummonFlameGolemMtx","Призыв голема огня","","Призыв голема огня","",0,4547],["SummonIceGolemMtx","Призыв голема льда","","Призыв голема льда","",0,4546],["SummonLightningGolemMtx","Призыв голема молнии","","Призыв голема молнии","",0,4548],["SummonRagingSpiritMtx","Призыв неистового духа","","Призыв неистового духа","",0,4481],["SummonStoneGolemMtx","Призыв каменного голема","","Призыв каменного голема","",0,4576],["SummonSkeletonsMtx","Сотворение скелетов","","Сотворение скелетов","",0,4367],["SunderMtx","Раскол","","Раскол","",0,4589],["TempestShieldMtx","Щит бури","","Щит бури","",0,4387],["ThrownWeaponMtx","Призрачный бросок","","Призрачный бросок","",0,4460],["TornadoShotMtx","Вихрь стрел","","Вихрь стрел","",0,4526],["ToxicRainMtx","Токсичный дождь","","Токсичный дождь","",0,4645],["VaalAncestralWarchiefMtx","Вождь предков ваал","","Вождь предков ваал","",0,4641],["VaalArcMtx","Цепь молний ваал","","Цепь молний ваал","",0,4491],["VaalBladeVortexMtx","Вихрь клинков ваал","","Вихрь клинков ваал","",0,4573],["VaalClarityMtx","Ясность ума ваал","","Ясность ума ваал","",0,4515],["VaalColdSnapMtx","Укус стужи ваал","","Укус стужи ваал","",0,4504],["VaalCycloneMtx","Вихрь ваал","","Вихрь ваал","",0,4498],["VaalDisciplineMtx","Дисциплина ваал","","Дисциплина ваал","",0,4517],["VaalDoubleStrikeMtx","Двойной удар ваал","","Двойной удар ваал","",0,4508],["VaalEarthquakeMtx","Землетрясение ваал","","Землетрясение ваал","",0,4637],["VaalFireballMtx","Огненный шар ваал","","Огненный шар ваал","",0,4490],["VaalFlameblastMtx","Пламенный взрыв ваал","","Пламенный взрыв ваал","",0,4524],["VaalGraceMtx","Грация ваал","","Грация ваал","",0,4516],["VaalGroundSlamMtx","Сотрясение ваал","","Сотрясение ваал","",0,4502],["VaalHasteMtx","Спешка ваал","","Спешка ваал","",0,4518],["VaalIceNovaMtx","Кольцо льда ваал","","Кольцо льда ваал","",0,4499],["VaalImmortalCall","Призыв к бессмертию ваал","","Призыв к бессмертию ваал","",0,4496],["VaalLightningWarpMtx","Грозовой переход ваал","","Грозовой переход ваал","",0,4495],["VaalMoltenShellMtx","Расплавленный панцирь ваал","","Расплавленный панцирь ваал","",0,4494],["VaalPurityOfFireMtx","Погибель от огня ваал","","Погибель от огня ваал","",0,4469],["VaalPurityOfIceMtx","Погибель от холода ваал","","Погибель от холода ваал","",0,4471],["VaalPurityOfLightningMtx","Погибель от молнии ваал","","Погибель от молнии ваал","",0,4473],["VaalRainOfArrowsMtx","Ливень стрел ваал","","Ливень стрел ваал","",0,4503],["VaalReaveMtx","Опустошение ваал","","Опустошение ваал","",0,4513],["VaalRighteousFireMtx","Праведный огонь ваал","","Праведный огонь ваал","",0,4521],["VaalSparkMtx","Искра ваал","","Искра ваал","",0,4492],["VaalStormCallMtx","Призыв бури ваал","","Призыв бури ваал","",0,4511],["VaalSummonSkeletonsMtx","Сотворение скелетов ваал","","Сотворение скелетов ваал","",0,4510],["VaalThrownWeaponMtx","Призрачный бросок ваал","","Призрачный бросок ваал","",0,4505],["VaalPowerSiphonMtx","Перелив энергии ваал","","Перелив энергии ваал","",0,4497],["VitalityMtx","Живучесть","","Живучесть","",0,4396],["VolatileDeadMtx","Нестабильный труп","","Нестабильный труп","",0,4301],["WhirlingBladesMtx","Шквал клинков","","Шквал клинков","",0,4296],["WitherMtx","Увядание","","Увядание","",0,4581],["WrathMtx","Грозный гнев","","Грозный гнев","",0,4402],["RangedAttackTotemMtx","Стреляющий тотем","","Стреляющий тотем","",0,4429],["SpellTotemMtx","Колдующий тотем","","Колдующий тотем","",0,4413],["TencentSecondary"," ",""," ","",0,null],["WarBannerMtx","Знамя войны","","Знамя войны","",0,4653],["DreadBannerMtx","Знамя страха","","Знамя страха","",0,4654],["ZealotryMtx","Фанатизм","","Фанатизм","",0,4666],["MalevolenceMtx","Злорадство","","Злорадство","",0,4668],["SoulrendMtx","Разрыв души","","Разрыв души","",0,4660],["DivineIreMtx","Божественный гнев","","Божественный гнев","",0,4663],["WinterOrbMtx","Зимняя сфера","","Зимняя сфера","",0,4649],["BaneMtx","Погибель","","Погибель","",0,4661],["IceDashMtx","Ледяной скачок","","Ледяной скачок","",0,4684],["QuickDodgeMtx","Рывок","","Рывок","",0,4673],["PrecisionMtx","Точность","","Точность","",0,4685],["PrideMtx","Гордость","","Гордость","",0,4689],["LightningTrapMtx","Ловушка молний","","Ловушка молний","",0,4456],["VaalLightningTrapMtx","Ловушка молний ваал","","Ловушка молний ваал","",0,4527],["BladestormMtx","Ураган лезвий","","Ураган лезвий","",0,4676],["BloodAndSandMtx","Кровь и песок","","Кровь и песок","",0,4677],["FleshAndStoneMtx","Камень и плоть","","Камень и плоть","",0,4686],["StormBrandMtx","Клеймо бури","","Клеймо бури","",0,4652],["BlightMtx","Мор","","Мор","",0,4582],["VaalBlightMtx","Мор ваал","","Мор ваал","",0,4638],["PyroclastMineMtx","Пирокластовая мина","","Пирокластовая мина","",0,4525],["HailstormMineMtx","Шквальная мина","","Шквальная мина","",0,4417],["StormblastMineMtx","Штормовая мина","","Штормовая мина","",0,4701],["BlastChainMineMtx","Мина","","Цепной подрыв","",0,4414],["HighImpactMineMtx","Мина","","Усиленная мина","",0,4703],["SummonSkitterbotsMtx","Призыв мехаботов","","Призыв мехаботов","",0,4702],["ArtilleryBallistaMtx","Артиллерийская баллиста","","Артиллерийская баллиста","",0,4711],["ShrapnelBallistaMtx","Осколочная баллиста","","Осколочная баллиста","",0,4707],["ExplosiveArrowMtx","Взрывная стрела","","Взрывная стрела","",0,4356],["BlasphemyPlusMtx","Пробужденный: Богохульство","","Пробужденный: Богохульство","",0,4549],["SummonCarrionGolemMtx","Призыв трупного голема","","Призыв трупного голема","",0,4693],["BladeBlastMtx","Взрыв клинков","","Взрыв клинков","",0,4752],["AnimateWeaponMtx","Живое оружие","","Живое оружие","",0,4466],["KineticBoltMtx","Кинетический заряд","","Кинетический заряд","",0,4751],["PowerSiphonMtx","Перелив энергии","","Перелив энергии","",0,4389],["StormbindMtx","Электрическое поле","","Электрическое поле","",0,4662],["DominatingBlowMtx","Удар власти","","Удар власти","",0,4373],["EnduringCryMtx","Клич стойкости","","Клич стойкости","",0,4290],["RallyingCryMtx","Клич сплочения","","Клич сплочения","",0,4551],["AbyssalCryMtx","Клич преисподней","","Клич преисподней","",0,4552],["IntimidatingCryMtx","Устрашающий клич","","Устрашающий клич","",0,4760],["GeneralsCryMtx","Клич полководца","","Клич полководца","",0,4765],["AncestralCryMtx","Клич предков","","Клич предков","",0,4761],["SeismicCryMtx","Сейсмический клич","","Сейсмический клич","",0,4553],["TectonicSlamMtx","Тектонический удар","","Тектонический удар","",0,4622],["FistOfWarMtx","Кулак войны","","Кулак войны","",0,4758],["IceCrashMtx","Ледяное сокрушение","","Ледяное сокрушение","",0,4550],["LancingSteelMtx","Пронзающая сталь","","Пронзающая сталь","",0,4651],["ShatteringSteelMtx","Дробящая сталь","","Дробящая сталь","",0,4655],["DetonateDeadMtx","Подрыв трупа","","Подрыв трупа","",0,4300],["VaalDetonateDeadMtx","Подрыв трупа ваал","","Подрыв трупа ваал","",0,4501],["VoidSphereMtx","Сфера пустоты","","Сфера пустоты","",0,4769],["FlameWallMtx","Стена пламени","","Стена пламени","",0,4774]]}
+{
+  "filename": "ShopCategory.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "ClientText",
+      "rowid": 1,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "ClientJPGFile",
+      "rowid": 2,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": true,
+      "file_ext": ".jpg",
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "WebsiteText",
+      "rowid": 3,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "WebsiteJPGFile",
+      "rowid": 4,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown0",
+      "rowid": 5,
+      "type": "ref|int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "AppliedTo_BaseItemTypesKey",
+      "rowid": 6,
+      "type": "ulong",
+      "key": "BaseItemTypes.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "NewItems",
+      "Новинки",
+      "Art/2DArt/Shop/category/newly-added.jpg",
+      "Новинки",
+      "",
+      0,
+      null
+    ],
+    [
+      "StashTabs",
+      "Секции сундука",
+      "Art/2DArt/Shop/category/stash-tab.jpg",
+      "Секции сундука",
+      "",
+      0,
+      null
+    ],
+    [
+      "Bundles",
+      "Наборы",
+      "Art/2DArt/Shop/category/bundles.jpg",
+      "Наборы",
+      "",
+      0,
+      null
+    ],
+    [
+      "ArmourEffects",
+      "Доспехи",
+      "Art/2DArt/Shop/category/armour-effects.jpg",
+      "Доспехи",
+      "shop/daily-deal/categories/ArmorEffects.jpg",
+      0,
+      null
+    ],
+    [
+      "BackAttachments",
+      "Заплечные украшения",
+      "Art/2DArt/Shop/category/back-attachment.jpg",
+      "Заплечные украшения",
+      "",
+      0,
+      null
+    ],
+    [
+      "WeaponEffects",
+      "Оружие",
+      "Art/2DArt/Shop/category/weaponeffects.jpg",
+      "Оружие",
+      "shop/daily-deal/categories/WeaponEffects.jpg",
+      0,
+      null
+    ],
+    [
+      "Portals",
+      "Порталы",
+      "Art/2DArt/Shop/category/portals.jpg",
+      "Порталы",
+      "",
+      0,
+      null
+    ],
+    [
+      "AlternateSkillEffects",
+      "Эффекты умений",
+      "Art/2DArt/Shop/category/alternate-skills.jpg",
+      "Эффекты умений",
+      "shop/daily-deal/categories/SkillEffect.jpg",
+      0,
+      null
+    ],
+    [
+      "CharacterEffects",
+      "Персонаж",
+      "Art/2DArt/Shop/category/character-effects.jpg",
+      "Персонаж",
+      "shop/daily-deal/categories/CharacterEffects.jpg",
+      0,
+      null
+    ],
+    [
+      "FootprintEffects",
+      "Следы",
+      "Art/2DArt/Shop/category/footprints.jpg",
+      "Следы",
+      "",
+      0,
+      null
+    ],
+    [
+      "Guild",
+      "Гильдия",
+      "Art/2DArt/Shop/category/guild.jpg",
+      "Гильдия",
+      "shop/daily-deal/categories/Guild.jpg",
+      0,
+      null
+    ],
+    [
+      "Pets",
+      "Питомцы",
+      "Art/2DArt/Shop/category/pets.jpg",
+      "Питомцы",
+      "shop/daily-deal/categories/Pets.jpg",
+      0,
+      null
+    ],
+    [
+      "HideoutDecorations",
+      "Убежище",
+      "Art/2DArt/Shop/category/hideout.jpg",
+      "Убежище",
+      "shop/daily-deal/categories/HideoutDecorations.jpg",
+      0,
+      null
+    ],
+    [
+      "MysteryPacks",
+      "Загадочные коробки",
+      "Art/2DArt/Shop/category/mystery.jpg",
+      "Загадочные",
+      "",
+      0,
+      null
+    ],
+    [
+      "MostPopular",
+      "Популярные",
+      "Art/2DArt/Shop/category/best-selling.jpg",
+      "Популярные",
+      "",
+      0,
+      null
+    ],
+    [
+      "AccountFeatures",
+      "Свойства аккаунта",
+      "Art/2DArt/Shop/category/account-features.jpg",
+      "Аккаунт",
+      "shop/daily-deal/categories/AccountFeatures.jpg",
+      0,
+      null
+    ],
+    [
+      "ClassicEffects",
+      "Эффекты",
+      "Art/2DArt/Shop/category/classic-effects.jpg",
+      "Эффекты",
+      "shop/daily-deal/categories/CategoryDailyDealClassic.jpg",
+      0,
+      null
+    ],
+    [
+      "WeaponSkin1Mtx",
+      "Внешний вид оружия",
+      "",
+      "Внешний вид оружия",
+      "",
+      0,
+      null
+    ],
+    [
+      "WeaponSkin2Mtx",
+      "Внешний вид оружия",
+      "",
+      "Внешний вид оружия",
+      "",
+      0,
+      null
+    ],
+    [
+      "WeaponEffect1Mtx",
+      "Эффект оружия",
+      "",
+      "Эффект оружия",
+      "",
+      0,
+      null
+    ],
+    [
+      "WeaponEffect2Mtx",
+      "Эффект оружия",
+      "",
+      "Эффект оружия",
+      "",
+      0,
+      null
+    ],
+    [
+      "WeaponAddedEffect1Mtx",
+      "Добавленный эффект оружия",
+      "",
+      "Добавленный эффект оружия",
+      "",
+      0,
+      null
+    ],
+    [
+      "WeaponAddedEffect2Mtx",
+      "Добавленный эффект оружия",
+      "",
+      "Добавленный эффект оружия",
+      "",
+      0,
+      null
+    ],
+    [
+      "HelmetSkinMtx",
+      "Внешний вид шлема",
+      "",
+      "Внешний вид шлема",
+      "",
+      0,
+      null
+    ],
+    [
+      "HelmetAttachmentMtx",
+      "Эффект шлема",
+      "",
+      "Эффект шлема",
+      "",
+      0,
+      null
+    ],
+    [
+      "ArmourSkinMtx",
+      "Внешний вид брони",
+      "",
+      "Внешний вид брони",
+      "",
+      0,
+      null
+    ],
+    [
+      "ArmourAttachmentMtx",
+      "Заплечное украшение",
+      "",
+      "Заплечное украшение",
+      "",
+      0,
+      null
+    ],
+    [
+      "GlovesMtx",
+      "Перчатки",
+      "",
+      "Перчатки",
+      "",
+      0,
+      null
+    ],
+    [
+      "BootsMtx",
+      "Сапоги",
+      "",
+      "Сапоги",
+      "",
+      0,
+      null
+    ],
+    [
+      "FootprintsMtx",
+      "Следы",
+      "",
+      "Следы",
+      "",
+      0,
+      null
+    ],
+    [
+      "ApparitionMtx",
+      "Временный эффект",
+      "",
+      "Временный эффект",
+      "",
+      0,
+      null
+    ],
+    [
+      "CharacterEffectMtx",
+      "Эффект персонажа",
+      "",
+      "Эффект персонажа",
+      "",
+      0,
+      null
+    ],
+    [
+      "PetMtx",
+      "Питомец",
+      "",
+      "Питомец",
+      "",
+      0,
+      null
+    ],
+    [
+      "SocialFrameMtx",
+      "Социальная рамка",
+      "",
+      "Социальная рамка",
+      "",
+      0,
+      null
+    ],
+    [
+      "PortraitMtx",
+      "Портрет",
+      "",
+      "Портрет",
+      "",
+      0,
+      null
+    ],
+    [
+      "PortalMtx",
+      "Портал",
+      "",
+      "Портал",
+      "",
+      0,
+      null
+    ],
+    [
+      "AncestralCallMtx",
+      "Зов предков",
+      "",
+      "Зов предков",
+      "",
+      0,
+      4626
+    ],
+    [
+      "AncestralWarchiefMtx",
+      "Вождь предков",
+      "",
+      "Вождь предков",
+      "",
+      0,
+      4594
+    ],
+    [
+      "AngerMtx",
+      "Гнев",
+      "",
+      "Гнев",
+      "",
+      0,
+      4400
+    ],
+    [
+      "ArcMtx",
+      "Цепь молний",
+      "",
+      "Цепь молний",
+      "",
+      0,
+      4393
+    ],
+    [
+      "ArcticArmourMtx",
+      "Северная броня",
+      "",
+      "Северная броня",
+      "",
+      0,
+      4426
+    ],
+    [
+      "BallLightningMtx",
+      "Шаровая молния",
+      "",
+      "Шаровая молния",
+      "",
+      0,
+      4477
+    ],
+    [
+      "BarrageMtx",
+      "Очередь",
+      "",
+      "Очередь",
+      "",
+      0,
+      4476
+    ],
+    [
+      "BladefallMtx",
+      "Мечепад",
+      "",
+      "Мечепад",
+      "",
+      0,
+      4568
+    ],
+    [
+      "BladeflurryMtx",
+      "Порыв клинков",
+      "",
+      "Порыв клинков",
+      "",
+      0,
+      4284
+    ],
+    [
+      "BladeVortexMtx",
+      "Вихрь клинков",
+      "",
+      "Вихрь клинков",
+      "",
+      0,
+      4571
+    ],
+    [
+      "BlasphemyMtx",
+      "Богохульство",
+      "",
+      "Богохульство",
+      "",
+      0,
+      4549
+    ],
+    [
+      "BlastRainMtx",
+      "Дождь взрывов",
+      "",
+      "Дождь взрывов",
+      "",
+      0,
+      4567
+    ],
+    [
+      "BlinkArrowMtx",
+      "Стрела-телепорт",
+      "",
+      "Стрела-телепорт",
+      "",
+      0,
+      4541
+    ],
+    [
+      "BloodRageMtx",
+      "Кровавый угар",
+      "",
+      "Кровавый угар",
+      "",
+      0,
+      4320
+    ],
+    [
+      "ClarityMtx",
+      "Ясность ума",
+      "",
+      "Ясность ума",
+      "",
+      0,
+      4406
+    ],
+    [
+      "CleaveMtx",
+      "Рассечение",
+      "",
+      "Рассечение",
+      "",
+      0,
+      4288
+    ],
+    [
+      "ChargedDashMtx",
+      "Заряженный рывок",
+      "",
+      "Заряженный рывок",
+      "",
+      0,
+      4283
+    ],
+    [
+      "ColdSnapMtx",
+      "Укус стужи",
+      "",
+      "Укус стужи",
+      "",
+      0,
+      4298
+    ],
+    [
+      "ContagionMtx",
+      "Инфекция",
+      "",
+      "Инфекция",
+      "",
+      0,
+      4580
+    ],
+    [
+      "ConvocationMtx",
+      "Сбор",
+      "",
+      "Сбор",
+      "",
+      0,
+      4489
+    ],
+    [
+      "CremationMtx",
+      "Кремация",
+      "",
+      "Кремация",
+      "",
+      0,
+      4619
+    ],
+    [
+      "CycloneMtx",
+      "Вихрь",
+      "",
+      "Вихрь",
+      "",
+      0,
+      4442
+    ],
+    [
+      "DecoyTotemMtx",
+      "Тотем-приманка",
+      "",
+      "Тотем-приманка",
+      "",
+      0,
+      4422
+    ],
+    [
+      "DesecrateMtx",
+      "Осквернение",
+      "",
+      "Осквернение",
+      "",
+      0,
+      4484
+    ],
+    [
+      "DeterminationMtx",
+      "Решимость",
+      "",
+      "Решимость",
+      "",
+      0,
+      4399
+    ],
+    [
+      "DevouringTotemMtx",
+      "Поглощающий тотем",
+      "",
+      "Поглощающий тотем",
+      "",
+      0,
+      4423
+    ],
+    [
+      "DischargeMtx",
+      "Разряд",
+      "",
+      "Разряд",
+      "",
+      0,
+      4325
+    ],
+    [
+      "DisciplineMtx",
+      "Дисциплина",
+      "",
+      "Дисциплина",
+      "",
+      0,
+      4397
+    ],
+    [
+      "DoubleStrikeMtx",
+      "Двойной удар",
+      "",
+      "Двойной удар",
+      "",
+      0,
+      4291
+    ],
+    [
+      "EarthquakeMtx",
+      "Землетрясение",
+      "",
+      "Землетрясение",
+      "",
+      0,
+      4579
+    ],
+    [
+      "ElementalHitMtx",
+      "Удар стихии",
+      "",
+      "Удар стихии",
+      "",
+      0,
+      4293
+    ],
+    [
+      "EssenceDrainMtx",
+      "Похищение сущности",
+      "",
+      "Похищение сущности",
+      "",
+      0,
+      4583
+    ],
+    [
+      "EtherealKnivesMtx",
+      "Бесплотные ножи",
+      "",
+      "Бесплотные ножи",
+      "",
+      0,
+      4424
+    ],
+    [
+      "FireballMtx",
+      "Огненный шар",
+      "",
+      "Огненный шар",
+      "",
+      0,
+      4280
+    ],
+    [
+      "FirestormMtx",
+      "Огненный шторм",
+      "",
+      "Огненный шторм",
+      "",
+      0,
+      4385
+    ],
+    [
+      "FlameblastMtx",
+      "Пламенный взрыв",
+      "",
+      "Пламенный взрыв",
+      "",
+      0,
+      4475
+    ],
+    [
+      "FlameDashMtx",
+      "Огненный рывок",
+      "",
+      "Огненный рывок",
+      "",
+      0,
+      4555
+    ],
+    [
+      "FlameTotemMtx",
+      "Тотем священного огня",
+      "",
+      "Тотем священного огня",
+      "",
+      0,
+      4427
+    ],
+    [
+      "FlickerStrikeMtx",
+      "Внезапный удар",
+      "",
+      "Внезапный удар",
+      "",
+      0,
+      4336
+    ],
+    [
+      "FreezingPulseMtx",
+      "Волна холода",
+      "",
+      "Волна холода",
+      "",
+      0,
+      4346
+    ],
+    [
+      "FrostBladesMtx",
+      "Ледяные клинки",
+      "",
+      "Ледяные клинки",
+      "",
+      0,
+      4556
+    ],
+    [
+      "FrostBoltMtx",
+      "Морозный шар",
+      "",
+      "Морозный шар",
+      "",
+      0,
+      4590
+    ],
+    [
+      "FrostBoltNovaMtx",
+      "Пурга",
+      "",
+      "Пурга",
+      "",
+      0,
+      4591
+    ],
+    [
+      "FrostBombMtx",
+      "Морозная бомба",
+      "",
+      "Морозная бомба",
+      "",
+      0,
+      4574
+    ],
+    [
+      "GlacialCascadeMtx",
+      "Ледяной каскад",
+      "",
+      "Ледяной каскад",
+      "",
+      0,
+      4488
+    ],
+    [
+      "GraceMtx",
+      "Грация",
+      "",
+      "Грация",
+      "",
+      0,
+      4398
+    ],
+    [
+      "GroundSlamMtx",
+      "Сотрясение",
+      "",
+      "Сотрясение",
+      "",
+      0,
+      4287
+    ],
+    [
+      "HasteMtx",
+      "Спешка",
+      "",
+      "Спешка",
+      "",
+      0,
+      4394
+    ],
+    [
+      "HatredMtx",
+      "Холодная ненависть",
+      "",
+      "Холодная ненависть",
+      "",
+      0,
+      4401
+    ],
+    [
+      "HeraldOfAgonyMtx",
+      "Вестник агонии",
+      "",
+      "Вестник агонии",
+      "",
+      0,
+      4533
+    ],
+    [
+      "HeraldOfAshMtx",
+      "Вестник пепла",
+      "",
+      "Вестник пепла",
+      "",
+      0,
+      4530
+    ],
+    [
+      "HeraldOfIceMtx",
+      "Вестник льда",
+      "",
+      "Вестник льда",
+      "",
+      0,
+      4531
+    ],
+    [
+      "HeraldOfLightMtx",
+      "Вестник чистоты",
+      "",
+      "Вестник чистоты",
+      "",
+      0,
+      4534
+    ],
+    [
+      "HeraldOfThunderMtx",
+      "Вестник грома",
+      "",
+      "Вестник грома",
+      "",
+      0,
+      4532
+    ],
+    [
+      "HolyRelicMtx",
+      "Призыв священной реликвии",
+      "",
+      "Призыв священной реликвии",
+      "",
+      0,
+      4646
+    ],
+    [
+      "IceNovaMtx",
+      "Кольцо льда",
+      "",
+      "Кольцо льда",
+      "",
+      0,
+      4281
+    ],
+    [
+      "IceSpearMtx",
+      "Ледяное копье",
+      "",
+      "Ледяное копье",
+      "",
+      0,
+      4339
+    ],
+    [
+      "IceTrapMtx",
+      "Ледяная ловушка",
+      "",
+      "Ледяная ловушка",
+      "",
+      0,
+      4564
+    ],
+    [
+      "ImmortalCallMtx",
+      "Призыв к бессмертию",
+      "",
+      "Призыв к бессмертию",
+      "",
+      0,
+      4294
+    ],
+    [
+      "IncinerateMtx",
+      "Испепеление",
+      "",
+      "Испепеление",
+      "",
+      0,
+      4441
+    ],
+    [
+      "KineticBlastMtx",
+      "Кинетический взрыв",
+      "",
+      "Кинетический взрыв",
+      "",
+      0,
+      4542
+    ],
+    [
+      "LacerateMtx",
+      "Разрубание",
+      "",
+      "Разрубание",
+      "",
+      0,
+      4292
+    ],
+    [
+      "LightningSpireMtx",
+      "Шпиль молний",
+      "",
+      "Шпиль молний",
+      "",
+      0,
+      4634
+    ],
+    [
+      "LightningWarpMtx",
+      "Грозовой переход",
+      "",
+      "Грозовой переход",
+      "",
+      0,
+      4366
+    ],
+    [
+      "LeapSlamMtx",
+      "Наскок",
+      "",
+      "Наскок",
+      "",
+      0,
+      4282
+    ],
+    [
+      "LightningArrowMtx",
+      "Стрела молний",
+      "",
+      "Стрела молний",
+      "",
+      0,
+      4392
+    ],
+    [
+      "MagmaOrbMtx",
+      "Магмовый шар",
+      "",
+      "Магмовый шар",
+      "",
+      0,
+      4562
+    ],
+    [
+      "MirageArcherMtx",
+      "Призрачный лучник",
+      "",
+      "Призрачный лучник",
+      "",
+      0,
+      4628
+    ],
+    [
+      "MirrorArrowMtx",
+      "Стрела-двойник",
+      "",
+      "Стрела-двойник",
+      "",
+      0,
+      4540
+    ],
+    [
+      "MoltenShellMtx",
+      "Расплавленный панцирь",
+      "",
+      "Расплавленный панцирь",
+      "",
+      0,
+      4388
+    ],
+    [
+      "MoltenStrikeMtx",
+      "Магмовый удар",
+      "",
+      "Магмовый удар",
+      "",
+      0,
+      4514
+    ],
+    [
+      "OrbOfStormsMtx",
+      "Сфера бурь",
+      "",
+      "Сфера бурь",
+      "",
+      0,
+      4575
+    ],
+    [
+      "PhaseRunMtx",
+      "Призрачный бег",
+      "",
+      "Призрачный бег",
+      "",
+      0,
+      4351
+    ],
+    [
+      "PoisonArrowMtx",
+      "Едкая стрела",
+      "",
+      "Едкая стрела",
+      "",
+      0,
+      4304
+    ],
+    [
+      "PurityMtx",
+      "Спасение",
+      "",
+      "Спасение",
+      "",
+      0,
+      4395
+    ],
+    [
+      "PurityofFireMtx",
+      "Спасение от огня",
+      "",
+      "Спасение от огня",
+      "",
+      0,
+      4468
+    ],
+    [
+      "PurityofIceMtx",
+      "Спасение от холода",
+      "",
+      "Спасение от холода",
+      "",
+      0,
+      4470
+    ],
+    [
+      "PurityofLightningMtx",
+      "Спасение от молнии",
+      "",
+      "Спасение от молнии",
+      "",
+      0,
+      4472
+    ],
+    [
+      "RainOfArrowsMtx",
+      "Ливень стрел",
+      "",
+      "Ливень стрел",
+      "",
+      0,
+      4374
+    ],
+    [
+      "RaiseSpectreMtx",
+      "Сотворение призрака",
+      "",
+      "Сотворение призрака",
+      "",
+      0,
+      4342
+    ],
+    [
+      "RaiseZombieMtx",
+      "Поднятие зомби",
+      "",
+      "Поднятие зомби",
+      "",
+      0,
+      4299
+    ],
+    [
+      "ReaveMtx",
+      "Опустошение",
+      "",
+      "Опустошение",
+      "",
+      0,
+      4451
+    ],
+    [
+      "RejuvenationTotemMtx",
+      "Восполняющий тотем",
+      "",
+      "Восполняющий тотем",
+      "",
+      0,
+      4416
+    ],
+    [
+      "RighteousFireMtx",
+      "Праведный огонь",
+      "",
+      "Праведный огонь",
+      "",
+      0,
+      4323
+    ],
+    [
+      "ScorchingRayMtx",
+      "Опаляющий луч",
+      "",
+      "Опаляющий луч",
+      "",
+      0,
+      4598
+    ],
+    [
+      "ScourgeArrowMtx",
+      "Стрела скверны",
+      "",
+      "Стрела скверны",
+      "",
+      0,
+      4644
+    ],
+    [
+      "SearingBondMtx",
+      "Обжигающие узы",
+      "",
+      "Обжигающие узы",
+      "",
+      0,
+      4447
+    ],
+    [
+      "ShieldChargeMtx",
+      "Удар щитом",
+      "",
+      "Удар щитом",
+      "",
+      0,
+      4289
+    ],
+    [
+      "ShockNovaMtx",
+      "Кольцо молний",
+      "",
+      "Кольцо молний",
+      "",
+      0,
+      4347
+    ],
+    [
+      "ShockwaveTotemMtx",
+      "Сотрясающий тотем",
+      "",
+      "Сотрясающий тотем",
+      "",
+      0,
+      4415
+    ],
+    [
+      "SiegeBallistaMtx",
+      "Осадная баллиста",
+      "",
+      "Осадная баллиста",
+      "",
+      0,
+      4569
+    ],
+    [
+      "SparkMtx",
+      "Искра",
+      "",
+      "Искра",
+      "",
+      0,
+      4337
+    ],
+    [
+      "SpectralShieldThrowMtx",
+      "Бросок призрачного щита",
+      "",
+      "Бросок призрачного щита",
+      "",
+      0,
+      4279
+    ],
+    [
+      "SplitArrowMtx",
+      "Расколотая стрела",
+      "",
+      "Расколотая стрела",
+      "",
+      0,
+      4308
+    ],
+    [
+      "StormCallMtx",
+      "Призыв бури",
+      "",
+      "Призыв бури",
+      "",
+      0,
+      4474
+    ],
+    [
+      "SummonChaosGolemMtx",
+      "Призыв голема хаоса",
+      "",
+      "Призыв голема хаоса",
+      "",
+      0,
+      4545
+    ],
+    [
+      "SummonFlameGolemMtx",
+      "Призыв голема огня",
+      "",
+      "Призыв голема огня",
+      "",
+      0,
+      4547
+    ],
+    [
+      "SummonIceGolemMtx",
+      "Призыв голема льда",
+      "",
+      "Призыв голема льда",
+      "",
+      0,
+      4546
+    ],
+    [
+      "SummonLightningGolemMtx",
+      "Призыв голема молнии",
+      "",
+      "Призыв голема молнии",
+      "",
+      0,
+      4548
+    ],
+    [
+      "SummonRagingSpiritMtx",
+      "Призыв неистового духа",
+      "",
+      "Призыв неистового духа",
+      "",
+      0,
+      4481
+    ],
+    [
+      "SummonStoneGolemMtx",
+      "Призыв каменного голема",
+      "",
+      "Призыв каменного голема",
+      "",
+      0,
+      4576
+    ],
+    [
+      "SummonSkeletonsMtx",
+      "Сотворение скелетов",
+      "",
+      "Сотворение скелетов",
+      "",
+      0,
+      4367
+    ],
+    [
+      "SunderMtx",
+      "Раскол",
+      "",
+      "Раскол",
+      "",
+      0,
+      4589
+    ],
+    [
+      "TempestShieldMtx",
+      "Щит бури",
+      "",
+      "Щит бури",
+      "",
+      0,
+      4387
+    ],
+    [
+      "ThrownWeaponMtx",
+      "Призрачный бросок",
+      "",
+      "Призрачный бросок",
+      "",
+      0,
+      4460
+    ],
+    [
+      "TornadoShotMtx",
+      "Вихрь стрел",
+      "",
+      "Вихрь стрел",
+      "",
+      0,
+      4526
+    ],
+    [
+      "ToxicRainMtx",
+      "Токсичный дождь",
+      "",
+      "Токсичный дождь",
+      "",
+      0,
+      4645
+    ],
+    [
+      "VaalAncestralWarchiefMtx",
+      "Вождь предков ваал",
+      "",
+      "Вождь предков ваал",
+      "",
+      0,
+      4641
+    ],
+    [
+      "VaalArcMtx",
+      "Цепь молний ваал",
+      "",
+      "Цепь молний ваал",
+      "",
+      0,
+      4491
+    ],
+    [
+      "VaalBladeVortexMtx",
+      "Вихрь клинков ваал",
+      "",
+      "Вихрь клинков ваал",
+      "",
+      0,
+      4573
+    ],
+    [
+      "VaalClarityMtx",
+      "Ясность ума ваал",
+      "",
+      "Ясность ума ваал",
+      "",
+      0,
+      4515
+    ],
+    [
+      "VaalColdSnapMtx",
+      "Укус стужи ваал",
+      "",
+      "Укус стужи ваал",
+      "",
+      0,
+      4504
+    ],
+    [
+      "VaalCycloneMtx",
+      "Вихрь ваал",
+      "",
+      "Вихрь ваал",
+      "",
+      0,
+      4498
+    ],
+    [
+      "VaalDisciplineMtx",
+      "Дисциплина ваал",
+      "",
+      "Дисциплина ваал",
+      "",
+      0,
+      4517
+    ],
+    [
+      "VaalDoubleStrikeMtx",
+      "Двойной удар ваал",
+      "",
+      "Двойной удар ваал",
+      "",
+      0,
+      4508
+    ],
+    [
+      "VaalEarthquakeMtx",
+      "Землетрясение ваал",
+      "",
+      "Землетрясение ваал",
+      "",
+      0,
+      4637
+    ],
+    [
+      "VaalFireballMtx",
+      "Огненный шар ваал",
+      "",
+      "Огненный шар ваал",
+      "",
+      0,
+      4490
+    ],
+    [
+      "VaalFlameblastMtx",
+      "Пламенный взрыв ваал",
+      "",
+      "Пламенный взрыв ваал",
+      "",
+      0,
+      4524
+    ],
+    [
+      "VaalGraceMtx",
+      "Грация ваал",
+      "",
+      "Грация ваал",
+      "",
+      0,
+      4516
+    ],
+    [
+      "VaalGroundSlamMtx",
+      "Сотрясение ваал",
+      "",
+      "Сотрясение ваал",
+      "",
+      0,
+      4502
+    ],
+    [
+      "VaalHasteMtx",
+      "Спешка ваал",
+      "",
+      "Спешка ваал",
+      "",
+      0,
+      4518
+    ],
+    [
+      "VaalIceNovaMtx",
+      "Кольцо льда ваал",
+      "",
+      "Кольцо льда ваал",
+      "",
+      0,
+      4499
+    ],
+    [
+      "VaalImmortalCall",
+      "Призыв к бессмертию ваал",
+      "",
+      "Призыв к бессмертию ваал",
+      "",
+      0,
+      4496
+    ],
+    [
+      "VaalLightningWarpMtx",
+      "Грозовой переход ваал",
+      "",
+      "Грозовой переход ваал",
+      "",
+      0,
+      4495
+    ],
+    [
+      "VaalMoltenShellMtx",
+      "Расплавленный панцирь ваал",
+      "",
+      "Расплавленный панцирь ваал",
+      "",
+      0,
+      4494
+    ],
+    [
+      "VaalPurityOfFireMtx",
+      "Погибель от огня ваал",
+      "",
+      "Погибель от огня ваал",
+      "",
+      0,
+      4469
+    ],
+    [
+      "VaalPurityOfIceMtx",
+      "Погибель от холода ваал",
+      "",
+      "Погибель от холода ваал",
+      "",
+      0,
+      4471
+    ],
+    [
+      "VaalPurityOfLightningMtx",
+      "Погибель от молнии ваал",
+      "",
+      "Погибель от молнии ваал",
+      "",
+      0,
+      4473
+    ],
+    [
+      "VaalRainOfArrowsMtx",
+      "Ливень стрел ваал",
+      "",
+      "Ливень стрел ваал",
+      "",
+      0,
+      4503
+    ],
+    [
+      "VaalReaveMtx",
+      "Опустошение ваал",
+      "",
+      "Опустошение ваал",
+      "",
+      0,
+      4513
+    ],
+    [
+      "VaalRighteousFireMtx",
+      "Праведный огонь ваал",
+      "",
+      "Праведный огонь ваал",
+      "",
+      0,
+      4521
+    ],
+    [
+      "VaalSparkMtx",
+      "Искра ваал",
+      "",
+      "Искра ваал",
+      "",
+      0,
+      4492
+    ],
+    [
+      "VaalStormCallMtx",
+      "Призыв бури ваал",
+      "",
+      "Призыв бури ваал",
+      "",
+      0,
+      4511
+    ],
+    [
+      "VaalSummonSkeletonsMtx",
+      "Сотворение скелетов ваал",
+      "",
+      "Сотворение скелетов ваал",
+      "",
+      0,
+      4510
+    ],
+    [
+      "VaalThrownWeaponMtx",
+      "Призрачный бросок ваал",
+      "",
+      "Призрачный бросок ваал",
+      "",
+      0,
+      4505
+    ],
+    [
+      "VaalPowerSiphonMtx",
+      "Перелив энергии ваал",
+      "",
+      "Перелив энергии ваал",
+      "",
+      0,
+      4497
+    ],
+    [
+      "VitalityMtx",
+      "Живучесть",
+      "",
+      "Живучесть",
+      "",
+      0,
+      4396
+    ],
+    [
+      "VolatileDeadMtx",
+      "Нестабильный труп",
+      "",
+      "Нестабильный труп",
+      "",
+      0,
+      4301
+    ],
+    [
+      "WhirlingBladesMtx",
+      "Шквал клинков",
+      "",
+      "Шквал клинков",
+      "",
+      0,
+      4296
+    ],
+    [
+      "WitherMtx",
+      "Увядание",
+      "",
+      "Увядание",
+      "",
+      0,
+      4581
+    ],
+    [
+      "WrathMtx",
+      "Грозный гнев",
+      "",
+      "Грозный гнев",
+      "",
+      0,
+      4402
+    ],
+    [
+      "RangedAttackTotemMtx",
+      "Стреляющий тотем",
+      "",
+      "Стреляющий тотем",
+      "",
+      0,
+      4429
+    ],
+    [
+      "SpellTotemMtx",
+      "Колдующий тотем",
+      "",
+      "Колдующий тотем",
+      "",
+      0,
+      4413
+    ],
+    [
+      "TencentSecondary",
+      " ",
+      "",
+      " ",
+      "",
+      0,
+      null
+    ],
+    [
+      "WarBannerMtx",
+      "Знамя войны",
+      "",
+      "Знамя войны",
+      "",
+      0,
+      4653
+    ],
+    [
+      "DreadBannerMtx",
+      "Знамя страха",
+      "",
+      "Знамя страха",
+      "",
+      0,
+      4654
+    ],
+    [
+      "ZealotryMtx",
+      "Фанатизм",
+      "",
+      "Фанатизм",
+      "",
+      0,
+      4666
+    ],
+    [
+      "MalevolenceMtx",
+      "Злорадство",
+      "",
+      "Злорадство",
+      "",
+      0,
+      4668
+    ],
+    [
+      "SoulrendMtx",
+      "Разрыв души",
+      "",
+      "Разрыв души",
+      "",
+      0,
+      4660
+    ],
+    [
+      "DivineIreMtx",
+      "Божественный гнев",
+      "",
+      "Божественный гнев",
+      "",
+      0,
+      4663
+    ],
+    [
+      "WinterOrbMtx",
+      "Зимняя сфера",
+      "",
+      "Зимняя сфера",
+      "",
+      0,
+      4649
+    ],
+    [
+      "BaneMtx",
+      "Погибель",
+      "",
+      "Погибель",
+      "",
+      0,
+      4661
+    ],
+    [
+      "IceDashMtx",
+      "Ледяной скачок",
+      "",
+      "Ледяной скачок",
+      "",
+      0,
+      4684
+    ],
+    [
+      "QuickDodgeMtx",
+      "Рывок",
+      "",
+      "Рывок",
+      "",
+      0,
+      4673
+    ],
+    [
+      "PrecisionMtx",
+      "Точность",
+      "",
+      "Точность",
+      "",
+      0,
+      4685
+    ],
+    [
+      "PrideMtx",
+      "Гордость",
+      "",
+      "Гордость",
+      "",
+      0,
+      4689
+    ],
+    [
+      "LightningTrapMtx",
+      "Ловушка молний",
+      "",
+      "Ловушка молний",
+      "",
+      0,
+      4456
+    ],
+    [
+      "VaalLightningTrapMtx",
+      "Ловушка молний ваал",
+      "",
+      "Ловушка молний ваал",
+      "",
+      0,
+      4527
+    ],
+    [
+      "BladestormMtx",
+      "Ураган лезвий",
+      "",
+      "Ураган лезвий",
+      "",
+      0,
+      4676
+    ],
+    [
+      "BloodAndSandMtx",
+      "Кровь и песок",
+      "",
+      "Кровь и песок",
+      "",
+      0,
+      4677
+    ],
+    [
+      "FleshAndStoneMtx",
+      "Камень и плоть",
+      "",
+      "Камень и плоть",
+      "",
+      0,
+      4686
+    ],
+    [
+      "StormBrandMtx",
+      "Клеймо бури",
+      "",
+      "Клеймо бури",
+      "",
+      0,
+      4652
+    ],
+    [
+      "BlightMtx",
+      "Мор",
+      "",
+      "Мор",
+      "",
+      0,
+      4582
+    ],
+    [
+      "VaalBlightMtx",
+      "Мор ваал",
+      "",
+      "Мор ваал",
+      "",
+      0,
+      4638
+    ],
+    [
+      "PyroclastMineMtx",
+      "Пирокластовая мина",
+      "",
+      "Пирокластовая мина",
+      "",
+      0,
+      4525
+    ],
+    [
+      "HailstormMineMtx",
+      "Шквальная мина",
+      "",
+      "Шквальная мина",
+      "",
+      0,
+      4417
+    ],
+    [
+      "StormblastMineMtx",
+      "Штормовая мина",
+      "",
+      "Штормовая мина",
+      "",
+      0,
+      4701
+    ],
+    [
+      "BlastChainMineMtx",
+      "Мина",
+      "",
+      "Цепной подрыв",
+      "",
+      0,
+      4414
+    ],
+    [
+      "HighImpactMineMtx",
+      "Мина",
+      "",
+      "Усиленная мина",
+      "",
+      0,
+      4703
+    ],
+    [
+      "SummonSkitterbotsMtx",
+      "Призыв мехаботов",
+      "",
+      "Призыв мехаботов",
+      "",
+      0,
+      4702
+    ],
+    [
+      "ArtilleryBallistaMtx",
+      "Артиллерийская баллиста",
+      "",
+      "Артиллерийская баллиста",
+      "",
+      0,
+      4711
+    ],
+    [
+      "ShrapnelBallistaMtx",
+      "Осколочная баллиста",
+      "",
+      "Осколочная баллиста",
+      "",
+      0,
+      4707
+    ],
+    [
+      "ExplosiveArrowMtx",
+      "Взрывная стрела",
+      "",
+      "Взрывная стрела",
+      "",
+      0,
+      4356
+    ],
+    [
+      "BlasphemyPlusMtx",
+      "Пробужденный: Богохульство",
+      "",
+      "Пробужденный: Богохульство",
+      "",
+      0,
+      4549
+    ],
+    [
+      "SummonCarrionGolemMtx",
+      "Призыв трупного голема",
+      "",
+      "Призыв трупного голема",
+      "",
+      0,
+      4693
+    ],
+    [
+      "BladeBlastMtx",
+      "Взрыв клинков",
+      "",
+      "Взрыв клинков",
+      "",
+      0,
+      4752
+    ],
+    [
+      "AnimateWeaponMtx",
+      "Живое оружие",
+      "",
+      "Живое оружие",
+      "",
+      0,
+      4466
+    ],
+    [
+      "KineticBoltMtx",
+      "Кинетический заряд",
+      "",
+      "Кинетический заряд",
+      "",
+      0,
+      4751
+    ],
+    [
+      "PowerSiphonMtx",
+      "Перелив энергии",
+      "",
+      "Перелив энергии",
+      "",
+      0,
+      4389
+    ],
+    [
+      "StormbindMtx",
+      "Электрическое поле",
+      "",
+      "Электрическое поле",
+      "",
+      0,
+      4662
+    ],
+    [
+      "DominatingBlowMtx",
+      "Удар власти",
+      "",
+      "Удар власти",
+      "",
+      0,
+      4373
+    ],
+    [
+      "EnduringCryMtx",
+      "Клич стойкости",
+      "",
+      "Клич стойкости",
+      "",
+      0,
+      4290
+    ],
+    [
+      "RallyingCryMtx",
+      "Клич сплочения",
+      "",
+      "Клич сплочения",
+      "",
+      0,
+      4551
+    ],
+    [
+      "AbyssalCryMtx",
+      "Клич преисподней",
+      "",
+      "Клич преисподней",
+      "",
+      0,
+      4552
+    ],
+    [
+      "IntimidatingCryMtx",
+      "Устрашающий клич",
+      "",
+      "Устрашающий клич",
+      "",
+      0,
+      4760
+    ],
+    [
+      "GeneralsCryMtx",
+      "Клич полководца",
+      "",
+      "Клич полководца",
+      "",
+      0,
+      4765
+    ],
+    [
+      "AncestralCryMtx",
+      "Клич предков",
+      "",
+      "Клич предков",
+      "",
+      0,
+      4761
+    ],
+    [
+      "SeismicCryMtx",
+      "Сейсмический клич",
+      "",
+      "Сейсмический клич",
+      "",
+      0,
+      4553
+    ],
+    [
+      "TectonicSlamMtx",
+      "Тектонический удар",
+      "",
+      "Тектонический удар",
+      "",
+      0,
+      4622
+    ],
+    [
+      "FistOfWarMtx",
+      "Кулак войны",
+      "",
+      "Кулак войны",
+      "",
+      0,
+      4758
+    ],
+    [
+      "IceCrashMtx",
+      "Ледяное сокрушение",
+      "",
+      "Ледяное сокрушение",
+      "",
+      0,
+      4550
+    ],
+    [
+      "LancingSteelMtx",
+      "Пронзающая сталь",
+      "",
+      "Пронзающая сталь",
+      "",
+      0,
+      4651
+    ],
+    [
+      "ShatteringSteelMtx",
+      "Дробящая сталь",
+      "",
+      "Дробящая сталь",
+      "",
+      0,
+      4655
+    ],
+    [
+      "DetonateDeadMtx",
+      "Подрыв трупа",
+      "",
+      "Подрыв трупа",
+      "",
+      0,
+      4300
+    ],
+    [
+      "VaalDetonateDeadMtx",
+      "Подрыв трупа ваал",
+      "",
+      "Подрыв трупа ваал",
+      "",
+      0,
+      4501
+    ],
+    [
+      "VoidSphereMtx",
+      "Сфера пустоты",
+      "",
+      "Сфера пустоты",
+      "",
+      0,
+      4769
+    ],
+    [
+      "FlameWallMtx",
+      "Стена пламени",
+      "",
+      "Стена пламени",
+      "",
+      0,
+      4774
+    ]
+  ]
+}

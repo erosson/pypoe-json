@@ -1,1 +1,804 @@
-{"filename":"AdvancedSkillsTutorial.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":true,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Keys1","rowid":1,"type":"ref|list|ulong","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Key2","rowid":2,"type":"ref|list|ulong","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Description","rowid":3,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"International_BK2File","rowid":4,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":true,"file_ext":".bk2","display":null,"display_type":"{0}","description":null},{"name":"Key0","rowid":5,"type":"ulong","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"China_BK2File","rowid":6,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":true,"file_ext":".bk2","display":null,"display_type":"{0}","description":null},{"name":"CharactersKey","rowid":7,"type":"ref|list|ulong","key":"Characters.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["Blight",[2,1,120],[3,4,141],"집중 유지로 적에게 디버프를 부여하는 광역 카오스 주문입니다. 디버프가 적용된 적들은 이동 속도가 감소하고 지속 카오스 피해를 받습니다.","http://web.poecdn.com/public/videos/Blight/BlightMainDemo.bk2 ",301,"http://down.qq.com/poe/videos/skills/Blight/BlightMainDemo.bk2",[6,2,1,5]],["FreezingPulse",[7,6,9],[8,5,144],"적들을 관통하고 냉기 피해를 주며, 일정 확률로 동결시키는 냉기 기반 투사체 주문입니다. 투사체가 멀리 이동할수록 피해와 동결 확률이 감소합니다.","http://web.poecdn.com/public/videos/FreezingPulse/FreezingPulseMainDemo.bk2 ",76,"http://down.qq.com/poe/videos/skills/FreezingPulse/FreezingPulseFullDemo.bk2",[6,1,5]],["LightningTendrils",[12,14,13],[11,121,122],"집중 유지로 적에게 번개 피해를 주는 파동형 범위 주문입니다. 4번째 파동마다 더 강한 파동을 방출합니다.","http://web.poecdn.com/public/videos/LightningTendrils/LightingTendrilsMainDemo.bk2 ",253,"http://down.qq.com/poe/videos/skills/LightningTendrils/LightningTendrilsMainDemo.bk2",[6,2,1,5]],["MagmaOrb",[15,17,16],[18,19,148],"화염 기반의 범위 피해 투사체 주문입니다. 투사체는 대상을 향해 튀어 오르면서 화염 피해를 줍니다. 스킬 레벨이 높아지면 투사체가 튀어 오르는 횟수가 증가합니다.","http://web.poecdn.com/public/videos/MagmaOrb/MagmaOrbMainDemo.bk2 ",281,"http://down.qq.com/poe/videos/skills/MagmaOrb/MagmaOrbFullDemo.bk2",[6,2,1,5]],["Fireball ",[22,21,26],[27,24,29],"화염 기반의 범위 피해 투사체 주문입니다. 적들에게 화염 피해를 주고, 높은 확률로 점화시켜 지속 화염 피해를 줍니다. ","http://web.poecdn.com/public/videos/Fireball/FireballMainDemo.bk2",0,"http://down.qq.com/poe/videos/skills/Fireball/FireballFullDemo.bk2",[6,2,0,1,5,3]],["RaiseZombies",[31,32,34],[149,30,33],"시체에서 좀비를 일으키는 소환수 주문입니다. 좀비는 플레이어를 따라다니며 근접 공격으로 적과 싸웁니다.","http://web.poecdn.com/public/videos/RaiseZombies/RaiseZombiesMainDemo.bk2",44,"http://down.qq.com/poe/videos/skills/RaiseZombies/RaiseZombiesFullDemo.bk2",[6,2,1]],["GlacialHammer",[38,40,39],[36,37,147],"물리/냉기 기반의 단일 대상 근접 공격입니다. 빙하 망치에는 일정 확률로 적을 동결시키고, 동결된 적이 낮은 생명력 상태일 경우 산산조각 내는 기능이 장착되어 있습니다.","http://web.poecdn.com/public/videos/GlacialHammer/GlacialHammerFullDemo.bk2",73,"http://down.qq.com/poe/videos/skills/GlacialHammer/GlacialHammerFullDemo.bk2",[6,4,0]],["EtheralKnives",[47,46,43],[42,44,45],"시전자 전방에 원호 형태로 몇 개의 투사체를 발사하는 물리 기반 투사체 주문입니다.","http://web.poecdn.com/public/videos/EtherealKnives/EtherealKnivesFullDemo.bk2",162,"http://down.qq.com/poe/videos/skills/EtherealKnives/EtherealKnivesFullDemo.bk2",[0,1,5]],["ExplosiveTrap",[49,48,52],[51,50,53],"발동 시 몇 개의 작은 폭발을 일으켜, 주변의 적들에게 물리 피해와 화염 피해를 주는 덫을 투척합니다.","http://web.poecdn.com/public/videos/ExplosiveTrap/ExplosiveTrapFullDemo.bk2",351,"http://down.qq.com/poe/videos/skills/ExplosiveTrap/ExplosiveTrapFullDemo.bk2",[2,1,5,3]],["FrostBlades",[54,58,56],[57,55,145],"물리 피해의 60%를 냉기 피해로 전환하는 투사체 기반 근접 공격 스킬입니다. 근접 타격이 대상을 명중시킬 경우 다수의 투사체로 분열되어, 다수의 2차 대상들에게 피해를 줄 수 있습니다.","http://web.poecdn.com/public/videos/FrostBlades/FrostBladesMainDemo.bk2",277,"http://down.qq.com/poe/videos/skills/FrostBlades/FrostbladesFullDemo.bk2",[2,2,5,3]],["ViperStrike",[60,64,63],[61,65,62],"물리 피해의 25%를 카오스 피해로 전환하고, 높은 확률로 대상을 중독시키는 단일 대상 근접 공격 스킬입니다.","http://web.poecdn.com/public/videos/ViperStrike/ViperStrikeFullDemo.bk2",79,"http://down.qq.com/poe/videos/skills/ViperStrike/ViperStrikeFullDemo.bk2",[2,4,5,3]],["SpectralThrow",[67,70,68],[66,71,150],"적들에게 무기의 복제품을 투사체 형태로 투척합니다. 투사체는 적들을 관통한 후 플레이어에게 돌아오면서, 하나의 적을 두 번 명중시킬 수도 있습니다.","http://web.poecdn.com/public/videos/SpectralThrow/SpectralThrowFullDemo.bk2",207,"http://down.qq.com/poe/videos/skills/SpectralThrow/SpectralThrowFullDemo.bk2",[6,2,4,0,5,3]],["IceShot",[73,77,74],[75,72,76],"물리 피해의 60%를 냉기 피해로 전환하는 화살을 발사합니다. 화살이 대상을 명중시킬 경우 지면을 냉각시켜, 영향을 받은 적들을 느리게 만듭니다. 또한 대상과 충돌 시 후방 부채꼴 범위에 냉기 피해를 줍니다.","http://web.poecdn.com/public/videos/Iceshot/IceshotFullDemo.bk2",164,"http://down.qq.com/poe/videos/skills/IceShot/IceshotMainDemo.bk2",[2,4,3]],["ShrapnelShot",[182,183,187],[184,185,186],"활에서 격렬하게 폭발하는 번개가 방출됩니다. 번개 폭발 시, 주변 적에게 피해를 주고 전방 부채꼴 범위에 화살 3개가 발사됩니다. 화살은 오래 지속되지 않으며 잠시 후 사그러집니다. 주변 적에 맞설 만한 가장 효율적인 스킬은 충격 화살입니다.","http://web.poecdn.com/public/videos/GalvanicArrow/EGalvanicArrowIntro.bk2",286,"http://down.qq.com/poe/videos/tutorial/TGalvanicArrowIntro.bk2",[2,4,3]],["SplitArrow",[89,87,86],[84,151,152],"다수의 화살을 발사하는 단순한 투사체 공격입니다.","http://web.poecdn.com/public/videos/SplitArrow/SplitArrowMainDemo.bk2",32,"http://down.qq.com/poe/videos/skills/SplitArrow/SplitArrowMainDemo.bk2",[2,4,5,3]],["GroundSlam",[95,94,91],[93,90,92],"주 무기를 사용해, 파동으로 범위 피해를 주는 광역 근접 공격입니다. 가까운 적일수록 더 많은 피해를 받습니다. 대지 강타는 적들을 기절시킬 확률 또한 증가합니다.","http://web.poecdn.com/public/videos/GroundSlam/GroundSlamFullDemo.bk2",13,"http://down.qq.com/poe/videos/skills/GroundSlam/GroundSlamMainDemo.bk2",[6,4,0]],["HeavyStrike",[100,101,99],[98,96,97],"적들을 밀어내는 단순한 단일 대상 근접 공격입니다.","http://web.poecdn.com/public/videos/HeavyStrike/HeavyStrikeFullDemo.bk2",100,"http://down.qq.com/poe/videos/skills/HeavyStrike/HeavyStrikeFullDemo.bk2",[6,2,4,0]],["Cleave ",[107,106,102],[105,104,103],"원호 형태로 피해를 주는 광역 근접 공격입니다. 쌍수 무기를 사용할 경우 회전베기는 양쪽의 무기를 모두 사용하게 됩니다. ","http://web.poecdn.com/public/videos/Cleave/CleaveFullDemo.bk2",15,"http://down.qq.com/poe/videos/skills/Cleave/CleaveMainDemo.bk2",[2,4,0,3]],["DoubleStrike",[112,113,109],[110,108,111],"대상을 빠르게 두 번 연속해서 명중시키는, 단순한 단일 대상 근접 공격입니다. 출혈 상태인 적에게는 별도의 물리 피해를 줍니다.","http://web.poecdn.com/public/videos/DoubleStrike/DoubleStrikeFullDemo.bk2",18,"http://down.qq.com/poe/videos/skills/DoubleStrike/DoublestrikeFullDemo.bk2",[2,4,0,5,3]],["MoltenStrike",[114,117,118],[116,115,119],"녹아내린 투사체 구를 적에게 발사하는 광역 근접 공격입니다. 물리 피해의 50%가 화염 피해로 전환됩니다.","http://web.poecdn.com/public/videos/MoltenStrike/MoltenStrikeFullDemo.bk2",240,"http://down.qq.com/poe/videos/skills/MoltenStrike/MoltenStrikeFullDemo.bk2",[6,2,4,0]],["Smite",[129,130,131],[133,132,134],"목표 지점이나 주변의 적에게 번개를 떨어트려 범위 피해를 주는 근접 공격입니다. 징벌은 또한 명중 시, 짧은 시간 동안 플레이어와 동료들에게 번개 피해를 추가해주는 오라를 부여합니다. ","http://web.poecdn.com/public/videos/Smite/SmiteFullDemo.bk2",363,"http://down.qq.com/poe/videos/skills/Smite/SmiteFullDemo.bk2",[6,2,0]],["CausticArrow",[126,125,143],[142,123,124],"명중 시 부식성 대지를 만들어, 영향을 받은 적들에게 지속 카오스 피해를 주는 투사체 공격입니다.","http://web.poecdn.com/public/videos/CausticArrow/CausticArrowFullDemo.bk2",45,"http://down.qq.com/poe/videos/skills/CausticArrow/CausticArrowMainDemo.bk2",[2,4,5,3]],["Frostbolt",[139,137,138],[136,135,146],"천천히 움직이는 투사체를 발사하여 적들을 관통하고 냉기 피해를 주며, 일정 확률로 냉각시키고 동결시킵니다.","http://web.poecdn.com/public/videos/Frostbolt/FrostboltFullDemo.bk2",312,"http://down.qq.com/poe/videos/skills/Frostbolt/Frostbolt%20Full%20Demo.bk2",[6,2,1,5]],["PurifyingFlame",[154,155,156],[153,157,158],"일정한 지역에 물리 피해와 화염 피해를 가하고 신성화 지대를 만들어내는 광역 주문입니다. 주문을 반복해서 사용하면 신성화 지대에 주변의 적들에게 피해를 주는 파도를 만들어냅니다.","http://web.poecdn.com/public/videos/PurifyingFlame/PurifyingFlamesFullDemo.bk2",379,"https://down.qq.com/poe/videos/skills/PurifyingFlames/PurfiyingFlamesFullDemo.bk2",[6]],["CobraLash",[166,167,168],[169,170,171],"무기를 복제한 투사체를 던집니다. 이 투사체는 적 사이를 튕기며 이동하여 적을 중독시킵니다.\n\n중독된 적은 플레이어의 카오스 및 물리 피해에 비례한 지속 카오스 피해를 받습니다. 동시에 여러 적을 중독시킬 수 있으며, 단검 또는 클로가 필요합니다.","http://web.poecdn.com/public/videos/CobraLash/ECobraLashIntro.bk2",411,"https://down.qq.com/poe/videos/skills/TCobraLashIntro.bk2",[5]],["StormblastMine",[159,160,161],[162,163,164,165],"기폭 시 주변 적들에게 번개 피해를 주는 지뢰를 투척합니다. 주변 적들은 감전될 수 있으며, 감전 시 받는 피해가 증가합니다.\n\n태풍 파열 지뢰는 주변 적이 받는 피해를 증가시킵니다. 적 주변에 지뢰가 많을수록 적이 받는 피해가 증가합니다.","http://web.poecdn.com/public/videos/StormblastMine/EStormblastIntro.bk2",421,"https://down.qq.com/poe/videos/skills/TStormblastIntro.bk2",[5]],["Perforate",[172,173,174],[175,176,177],"땅을 내려치면 적을 향해 치명적인 가시가 솟아오릅니다. 가시는 빽빽하게 들어차 여러 적을 공격할 수도, 하나의 적을 여러 번 공격할 수 있습니다.\n\n피와 모래 젬을 사용하여 모래 태세로 전환 시, 가시가 솟는 범위가 더 넓어집니다.","http://web.poecdn.com/public/videos/Perforate/EPerforateIntro.bk2",398,"https://down.qq.com/poe/videos/skills/TPerforateIntro.bk2",[4]],["Frostblink",[],[179,178],"짧은 거리를 이동하며 냉기 폭발 피해와 얼음 지대로 적을 느리게 만들어 다목적으로 사용 가능한, 이동 전용 스킬입니다. 서리점멸은 위험을 회피할 때도 매우 유용합니다.\n\n이동 전용 스킬은 보조 젬의 효과를 크게 받지 못하지만, 서리점멸은 보조 젬 없이도 유용하게 사용할 수 있습니다.","http://web.poecdn.com/public/videos/Frostblink/EFrostblinkIntro.bk2",403,"https://down.qq.com/poe/videos/skills/TFrostblinkIntro.bk2",[1,6,5,2]],["Dash",[],[],"질주는 짧은 거리를 이동하며 위험 회피에 유용한 다목적 이동 전용 스킬입니다.\n이동 전용 스킬은 보조 젬의 효과를 크게 받지 못하지만, 질주는 보조 젬 없이도 유용하게 사용할 수 있습니다.","http://web.poecdn.com/public/videos/Dash/EDashIntro.bk2",392,"https://down.qq.com/poe/videos/skills/TDashIntro.bk2",[3,4,5,2]],["Steelskin",[],[180,181],"방어도를 강화해 짧은 시간 동안 피격 시 받는 피해를 크게 줄입니다. 강철피부는 상당한 양의 피해를 차단하는 다목적용 방어 스킬입니다. 감소되고 남은 피해는 그대로 전달됩니다.\n\n방어 스킬은 보조 젬의 효과를 크게 받지 못하지만, 강철피부는 보조 젬 없이도 유용하게 사용할 수 있습니다.","http://web.poecdn.com/public/videos/Steelskin/ESteelskinIntro.bk2",390,"https://down.qq.com/poe/videos/skills/TSteelskinIntro.bk2",[0,6,4,2]],["KineticBolt",[189,190],[188,192,191],"마법봉에서 발사된 화살이 전방을 향해 지그재그 모양으로 날아가 피해를 줍니다. 발사된 화살이 방향을 돌리면 투사체 1개가 발사되어 적에게 피해를 줍니다.","http://web.poecdn.com/public/videos/EKineticBolt/EKineticBoltIntro.bk2",472,"http://down.qq.com/poe/videos/tutorial/TKineticBoltIntro.bk2",[1]]]}
+{
+  "filename": "AdvancedSkillsTutorial.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Keys1",
+      "rowid": 1,
+      "type": "ref|list|ulong",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Key2",
+      "rowid": 2,
+      "type": "ref|list|ulong",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Description",
+      "rowid": 3,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "International_BK2File",
+      "rowid": 4,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": true,
+      "file_ext": ".bk2",
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Key0",
+      "rowid": 5,
+      "type": "ulong",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "China_BK2File",
+      "rowid": 6,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": true,
+      "file_ext": ".bk2",
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "CharactersKey",
+      "rowid": 7,
+      "type": "ref|list|ulong",
+      "key": "Characters.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "Blight",
+      [
+        2,
+        1,
+        120
+      ],
+      [
+        3,
+        4,
+        141
+      ],
+      "집중 유지로 적에게 디버프를 부여하는 광역 카오스 주문입니다. 디버프가 적용된 적들은 이동 속도가 감소하고 지속 카오스 피해를 받습니다.",
+      "http://web.poecdn.com/public/videos/Blight/BlightMainDemo.bk2 ",
+      301,
+      "http://down.qq.com/poe/videos/skills/Blight/BlightMainDemo.bk2",
+      [
+        6,
+        2,
+        1,
+        5
+      ]
+    ],
+    [
+      "FreezingPulse",
+      [
+        7,
+        6,
+        9
+      ],
+      [
+        8,
+        5,
+        144
+      ],
+      "적들을 관통하고 냉기 피해를 주며, 일정 확률로 동결시키는 냉기 기반 투사체 주문입니다. 투사체가 멀리 이동할수록 피해와 동결 확률이 감소합니다.",
+      "http://web.poecdn.com/public/videos/FreezingPulse/FreezingPulseMainDemo.bk2 ",
+      76,
+      "http://down.qq.com/poe/videos/skills/FreezingPulse/FreezingPulseFullDemo.bk2",
+      [
+        6,
+        1,
+        5
+      ]
+    ],
+    [
+      "LightningTendrils",
+      [
+        12,
+        14,
+        13
+      ],
+      [
+        11,
+        121,
+        122
+      ],
+      "집중 유지로 적에게 번개 피해를 주는 파동형 범위 주문입니다. 4번째 파동마다 더 강한 파동을 방출합니다.",
+      "http://web.poecdn.com/public/videos/LightningTendrils/LightingTendrilsMainDemo.bk2 ",
+      253,
+      "http://down.qq.com/poe/videos/skills/LightningTendrils/LightningTendrilsMainDemo.bk2",
+      [
+        6,
+        2,
+        1,
+        5
+      ]
+    ],
+    [
+      "MagmaOrb",
+      [
+        15,
+        17,
+        16
+      ],
+      [
+        18,
+        19,
+        148
+      ],
+      "화염 기반의 범위 피해 투사체 주문입니다. 투사체는 대상을 향해 튀어 오르면서 화염 피해를 줍니다. 스킬 레벨이 높아지면 투사체가 튀어 오르는 횟수가 증가합니다.",
+      "http://web.poecdn.com/public/videos/MagmaOrb/MagmaOrbMainDemo.bk2 ",
+      281,
+      "http://down.qq.com/poe/videos/skills/MagmaOrb/MagmaOrbFullDemo.bk2",
+      [
+        6,
+        2,
+        1,
+        5
+      ]
+    ],
+    [
+      "Fireball ",
+      [
+        22,
+        21,
+        26
+      ],
+      [
+        27,
+        24,
+        29
+      ],
+      "화염 기반의 범위 피해 투사체 주문입니다. 적들에게 화염 피해를 주고, 높은 확률로 점화시켜 지속 화염 피해를 줍니다. ",
+      "http://web.poecdn.com/public/videos/Fireball/FireballMainDemo.bk2",
+      0,
+      "http://down.qq.com/poe/videos/skills/Fireball/FireballFullDemo.bk2",
+      [
+        6,
+        2,
+        0,
+        1,
+        5,
+        3
+      ]
+    ],
+    [
+      "RaiseZombies",
+      [
+        31,
+        32,
+        34
+      ],
+      [
+        149,
+        30,
+        33
+      ],
+      "시체에서 좀비를 일으키는 소환수 주문입니다. 좀비는 플레이어를 따라다니며 근접 공격으로 적과 싸웁니다.",
+      "http://web.poecdn.com/public/videos/RaiseZombies/RaiseZombiesMainDemo.bk2",
+      44,
+      "http://down.qq.com/poe/videos/skills/RaiseZombies/RaiseZombiesFullDemo.bk2",
+      [
+        6,
+        2,
+        1
+      ]
+    ],
+    [
+      "GlacialHammer",
+      [
+        38,
+        40,
+        39
+      ],
+      [
+        36,
+        37,
+        147
+      ],
+      "물리/냉기 기반의 단일 대상 근접 공격입니다. 빙하 망치에는 일정 확률로 적을 동결시키고, 동결된 적이 낮은 생명력 상태일 경우 산산조각 내는 기능이 장착되어 있습니다.",
+      "http://web.poecdn.com/public/videos/GlacialHammer/GlacialHammerFullDemo.bk2",
+      73,
+      "http://down.qq.com/poe/videos/skills/GlacialHammer/GlacialHammerFullDemo.bk2",
+      [
+        6,
+        4,
+        0
+      ]
+    ],
+    [
+      "EtheralKnives",
+      [
+        47,
+        46,
+        43
+      ],
+      [
+        42,
+        44,
+        45
+      ],
+      "시전자 전방에 원호 형태로 몇 개의 투사체를 발사하는 물리 기반 투사체 주문입니다.",
+      "http://web.poecdn.com/public/videos/EtherealKnives/EtherealKnivesFullDemo.bk2",
+      162,
+      "http://down.qq.com/poe/videos/skills/EtherealKnives/EtherealKnivesFullDemo.bk2",
+      [
+        0,
+        1,
+        5
+      ]
+    ],
+    [
+      "ExplosiveTrap",
+      [
+        49,
+        48,
+        52
+      ],
+      [
+        51,
+        50,
+        53
+      ],
+      "발동 시 몇 개의 작은 폭발을 일으켜, 주변의 적들에게 물리 피해와 화염 피해를 주는 덫을 투척합니다.",
+      "http://web.poecdn.com/public/videos/ExplosiveTrap/ExplosiveTrapFullDemo.bk2",
+      351,
+      "http://down.qq.com/poe/videos/skills/ExplosiveTrap/ExplosiveTrapFullDemo.bk2",
+      [
+        2,
+        1,
+        5,
+        3
+      ]
+    ],
+    [
+      "FrostBlades",
+      [
+        54,
+        58,
+        56
+      ],
+      [
+        57,
+        55,
+        145
+      ],
+      "물리 피해의 60%를 냉기 피해로 전환하는 투사체 기반 근접 공격 스킬입니다. 근접 타격이 대상을 명중시킬 경우 다수의 투사체로 분열되어, 다수의 2차 대상들에게 피해를 줄 수 있습니다.",
+      "http://web.poecdn.com/public/videos/FrostBlades/FrostBladesMainDemo.bk2",
+      277,
+      "http://down.qq.com/poe/videos/skills/FrostBlades/FrostbladesFullDemo.bk2",
+      [
+        2,
+        2,
+        5,
+        3
+      ]
+    ],
+    [
+      "ViperStrike",
+      [
+        60,
+        64,
+        63
+      ],
+      [
+        61,
+        65,
+        62
+      ],
+      "물리 피해의 25%를 카오스 피해로 전환하고, 높은 확률로 대상을 중독시키는 단일 대상 근접 공격 스킬입니다.",
+      "http://web.poecdn.com/public/videos/ViperStrike/ViperStrikeFullDemo.bk2",
+      79,
+      "http://down.qq.com/poe/videos/skills/ViperStrike/ViperStrikeFullDemo.bk2",
+      [
+        2,
+        4,
+        5,
+        3
+      ]
+    ],
+    [
+      "SpectralThrow",
+      [
+        67,
+        70,
+        68
+      ],
+      [
+        66,
+        71,
+        150
+      ],
+      "적들에게 무기의 복제품을 투사체 형태로 투척합니다. 투사체는 적들을 관통한 후 플레이어에게 돌아오면서, 하나의 적을 두 번 명중시킬 수도 있습니다.",
+      "http://web.poecdn.com/public/videos/SpectralThrow/SpectralThrowFullDemo.bk2",
+      207,
+      "http://down.qq.com/poe/videos/skills/SpectralThrow/SpectralThrowFullDemo.bk2",
+      [
+        6,
+        2,
+        4,
+        0,
+        5,
+        3
+      ]
+    ],
+    [
+      "IceShot",
+      [
+        73,
+        77,
+        74
+      ],
+      [
+        75,
+        72,
+        76
+      ],
+      "물리 피해의 60%를 냉기 피해로 전환하는 화살을 발사합니다. 화살이 대상을 명중시킬 경우 지면을 냉각시켜, 영향을 받은 적들을 느리게 만듭니다. 또한 대상과 충돌 시 후방 부채꼴 범위에 냉기 피해를 줍니다.",
+      "http://web.poecdn.com/public/videos/Iceshot/IceshotFullDemo.bk2",
+      164,
+      "http://down.qq.com/poe/videos/skills/IceShot/IceshotMainDemo.bk2",
+      [
+        2,
+        4,
+        3
+      ]
+    ],
+    [
+      "ShrapnelShot",
+      [
+        182,
+        183,
+        187
+      ],
+      [
+        184,
+        185,
+        186
+      ],
+      "활에서 격렬하게 폭발하는 번개가 방출됩니다. 번개 폭발 시, 주변 적에게 피해를 주고 전방 부채꼴 범위에 화살 3개가 발사됩니다. 화살은 오래 지속되지 않으며 잠시 후 사그러집니다. 주변 적에 맞설 만한 가장 효율적인 스킬은 충격 화살입니다.",
+      "http://web.poecdn.com/public/videos/GalvanicArrow/EGalvanicArrowIntro.bk2",
+      286,
+      "http://down.qq.com/poe/videos/tutorial/TGalvanicArrowIntro.bk2",
+      [
+        2,
+        4,
+        3
+      ]
+    ],
+    [
+      "SplitArrow",
+      [
+        89,
+        87,
+        86
+      ],
+      [
+        84,
+        151,
+        152
+      ],
+      "다수의 화살을 발사하는 단순한 투사체 공격입니다.",
+      "http://web.poecdn.com/public/videos/SplitArrow/SplitArrowMainDemo.bk2",
+      32,
+      "http://down.qq.com/poe/videos/skills/SplitArrow/SplitArrowMainDemo.bk2",
+      [
+        2,
+        4,
+        5,
+        3
+      ]
+    ],
+    [
+      "GroundSlam",
+      [
+        95,
+        94,
+        91
+      ],
+      [
+        93,
+        90,
+        92
+      ],
+      "주 무기를 사용해, 파동으로 범위 피해를 주는 광역 근접 공격입니다. 가까운 적일수록 더 많은 피해를 받습니다. 대지 강타는 적들을 기절시킬 확률 또한 증가합니다.",
+      "http://web.poecdn.com/public/videos/GroundSlam/GroundSlamFullDemo.bk2",
+      13,
+      "http://down.qq.com/poe/videos/skills/GroundSlam/GroundSlamMainDemo.bk2",
+      [
+        6,
+        4,
+        0
+      ]
+    ],
+    [
+      "HeavyStrike",
+      [
+        100,
+        101,
+        99
+      ],
+      [
+        98,
+        96,
+        97
+      ],
+      "적들을 밀어내는 단순한 단일 대상 근접 공격입니다.",
+      "http://web.poecdn.com/public/videos/HeavyStrike/HeavyStrikeFullDemo.bk2",
+      100,
+      "http://down.qq.com/poe/videos/skills/HeavyStrike/HeavyStrikeFullDemo.bk2",
+      [
+        6,
+        2,
+        4,
+        0
+      ]
+    ],
+    [
+      "Cleave ",
+      [
+        107,
+        106,
+        102
+      ],
+      [
+        105,
+        104,
+        103
+      ],
+      "원호 형태로 피해를 주는 광역 근접 공격입니다. 쌍수 무기를 사용할 경우 회전베기는 양쪽의 무기를 모두 사용하게 됩니다. ",
+      "http://web.poecdn.com/public/videos/Cleave/CleaveFullDemo.bk2",
+      15,
+      "http://down.qq.com/poe/videos/skills/Cleave/CleaveMainDemo.bk2",
+      [
+        2,
+        4,
+        0,
+        3
+      ]
+    ],
+    [
+      "DoubleStrike",
+      [
+        112,
+        113,
+        109
+      ],
+      [
+        110,
+        108,
+        111
+      ],
+      "대상을 빠르게 두 번 연속해서 명중시키는, 단순한 단일 대상 근접 공격입니다. 출혈 상태인 적에게는 별도의 물리 피해를 줍니다.",
+      "http://web.poecdn.com/public/videos/DoubleStrike/DoubleStrikeFullDemo.bk2",
+      18,
+      "http://down.qq.com/poe/videos/skills/DoubleStrike/DoublestrikeFullDemo.bk2",
+      [
+        2,
+        4,
+        0,
+        5,
+        3
+      ]
+    ],
+    [
+      "MoltenStrike",
+      [
+        114,
+        117,
+        118
+      ],
+      [
+        116,
+        115,
+        119
+      ],
+      "녹아내린 투사체 구를 적에게 발사하는 광역 근접 공격입니다. 물리 피해의 50%가 화염 피해로 전환됩니다.",
+      "http://web.poecdn.com/public/videos/MoltenStrike/MoltenStrikeFullDemo.bk2",
+      240,
+      "http://down.qq.com/poe/videos/skills/MoltenStrike/MoltenStrikeFullDemo.bk2",
+      [
+        6,
+        2,
+        4,
+        0
+      ]
+    ],
+    [
+      "Smite",
+      [
+        129,
+        130,
+        131
+      ],
+      [
+        133,
+        132,
+        134
+      ],
+      "목표 지점이나 주변의 적에게 번개를 떨어트려 범위 피해를 주는 근접 공격입니다. 징벌은 또한 명중 시, 짧은 시간 동안 플레이어와 동료들에게 번개 피해를 추가해주는 오라를 부여합니다. ",
+      "http://web.poecdn.com/public/videos/Smite/SmiteFullDemo.bk2",
+      363,
+      "http://down.qq.com/poe/videos/skills/Smite/SmiteFullDemo.bk2",
+      [
+        6,
+        2,
+        0
+      ]
+    ],
+    [
+      "CausticArrow",
+      [
+        126,
+        125,
+        143
+      ],
+      [
+        142,
+        123,
+        124
+      ],
+      "명중 시 부식성 대지를 만들어, 영향을 받은 적들에게 지속 카오스 피해를 주는 투사체 공격입니다.",
+      "http://web.poecdn.com/public/videos/CausticArrow/CausticArrowFullDemo.bk2",
+      45,
+      "http://down.qq.com/poe/videos/skills/CausticArrow/CausticArrowMainDemo.bk2",
+      [
+        2,
+        4,
+        5,
+        3
+      ]
+    ],
+    [
+      "Frostbolt",
+      [
+        139,
+        137,
+        138
+      ],
+      [
+        136,
+        135,
+        146
+      ],
+      "천천히 움직이는 투사체를 발사하여 적들을 관통하고 냉기 피해를 주며, 일정 확률로 냉각시키고 동결시킵니다.",
+      "http://web.poecdn.com/public/videos/Frostbolt/FrostboltFullDemo.bk2",
+      312,
+      "http://down.qq.com/poe/videos/skills/Frostbolt/Frostbolt%20Full%20Demo.bk2",
+      [
+        6,
+        2,
+        1,
+        5
+      ]
+    ],
+    [
+      "PurifyingFlame",
+      [
+        154,
+        155,
+        156
+      ],
+      [
+        153,
+        157,
+        158
+      ],
+      "일정한 지역에 물리 피해와 화염 피해를 가하고 신성화 지대를 만들어내는 광역 주문입니다. 주문을 반복해서 사용하면 신성화 지대에 주변의 적들에게 피해를 주는 파도를 만들어냅니다.",
+      "http://web.poecdn.com/public/videos/PurifyingFlame/PurifyingFlamesFullDemo.bk2",
+      379,
+      "https://down.qq.com/poe/videos/skills/PurifyingFlames/PurfiyingFlamesFullDemo.bk2",
+      [
+        6
+      ]
+    ],
+    [
+      "CobraLash",
+      [
+        166,
+        167,
+        168
+      ],
+      [
+        169,
+        170,
+        171
+      ],
+      "무기를 복제한 투사체를 던집니다. 이 투사체는 적 사이를 튕기며 이동하여 적을 중독시킵니다.\n\n중독된 적은 플레이어의 카오스 및 물리 피해에 비례한 지속 카오스 피해를 받습니다. 동시에 여러 적을 중독시킬 수 있으며, 단검 또는 클로가 필요합니다.",
+      "http://web.poecdn.com/public/videos/CobraLash/ECobraLashIntro.bk2",
+      411,
+      "https://down.qq.com/poe/videos/skills/TCobraLashIntro.bk2",
+      [
+        5
+      ]
+    ],
+    [
+      "StormblastMine",
+      [
+        159,
+        160,
+        161
+      ],
+      [
+        162,
+        163,
+        164,
+        165
+      ],
+      "기폭 시 주변 적들에게 번개 피해를 주는 지뢰를 투척합니다. 주변 적들은 감전될 수 있으며, 감전 시 받는 피해가 증가합니다.\n\n태풍 파열 지뢰는 주변 적이 받는 피해를 증가시킵니다. 적 주변에 지뢰가 많을수록 적이 받는 피해가 증가합니다.",
+      "http://web.poecdn.com/public/videos/StormblastMine/EStormblastIntro.bk2",
+      421,
+      "https://down.qq.com/poe/videos/skills/TStormblastIntro.bk2",
+      [
+        5
+      ]
+    ],
+    [
+      "Perforate",
+      [
+        172,
+        173,
+        174
+      ],
+      [
+        175,
+        176,
+        177
+      ],
+      "땅을 내려치면 적을 향해 치명적인 가시가 솟아오릅니다. 가시는 빽빽하게 들어차 여러 적을 공격할 수도, 하나의 적을 여러 번 공격할 수 있습니다.\n\n피와 모래 젬을 사용하여 모래 태세로 전환 시, 가시가 솟는 범위가 더 넓어집니다.",
+      "http://web.poecdn.com/public/videos/Perforate/EPerforateIntro.bk2",
+      398,
+      "https://down.qq.com/poe/videos/skills/TPerforateIntro.bk2",
+      [
+        4
+      ]
+    ],
+    [
+      "Frostblink",
+      [],
+      [
+        179,
+        178
+      ],
+      "짧은 거리를 이동하며 냉기 폭발 피해와 얼음 지대로 적을 느리게 만들어 다목적으로 사용 가능한, 이동 전용 스킬입니다. 서리점멸은 위험을 회피할 때도 매우 유용합니다.\n\n이동 전용 스킬은 보조 젬의 효과를 크게 받지 못하지만, 서리점멸은 보조 젬 없이도 유용하게 사용할 수 있습니다.",
+      "http://web.poecdn.com/public/videos/Frostblink/EFrostblinkIntro.bk2",
+      403,
+      "https://down.qq.com/poe/videos/skills/TFrostblinkIntro.bk2",
+      [
+        1,
+        6,
+        5,
+        2
+      ]
+    ],
+    [
+      "Dash",
+      [],
+      [],
+      "질주는 짧은 거리를 이동하며 위험 회피에 유용한 다목적 이동 전용 스킬입니다.\n이동 전용 스킬은 보조 젬의 효과를 크게 받지 못하지만, 질주는 보조 젬 없이도 유용하게 사용할 수 있습니다.",
+      "http://web.poecdn.com/public/videos/Dash/EDashIntro.bk2",
+      392,
+      "https://down.qq.com/poe/videos/skills/TDashIntro.bk2",
+      [
+        3,
+        4,
+        5,
+        2
+      ]
+    ],
+    [
+      "Steelskin",
+      [],
+      [
+        180,
+        181
+      ],
+      "방어도를 강화해 짧은 시간 동안 피격 시 받는 피해를 크게 줄입니다. 강철피부는 상당한 양의 피해를 차단하는 다목적용 방어 스킬입니다. 감소되고 남은 피해는 그대로 전달됩니다.\n\n방어 스킬은 보조 젬의 효과를 크게 받지 못하지만, 강철피부는 보조 젬 없이도 유용하게 사용할 수 있습니다.",
+      "http://web.poecdn.com/public/videos/Steelskin/ESteelskinIntro.bk2",
+      390,
+      "https://down.qq.com/poe/videos/skills/TSteelskinIntro.bk2",
+      [
+        0,
+        6,
+        4,
+        2
+      ]
+    ],
+    [
+      "KineticBolt",
+      [
+        189,
+        190
+      ],
+      [
+        188,
+        192,
+        191
+      ],
+      "마법봉에서 발사된 화살이 전방을 향해 지그재그 모양으로 날아가 피해를 줍니다. 발사된 화살이 방향을 돌리면 투사체 1개가 발사되어 적에게 피해를 줍니다.",
+      "http://web.poecdn.com/public/videos/EKineticBolt/EKineticBoltIntro.bk2",
+      472,
+      "http://down.qq.com/poe/videos/tutorial/TKineticBoltIntro.bk2",
+      [
+        1
+      ]
+    ]
+  ]
+}

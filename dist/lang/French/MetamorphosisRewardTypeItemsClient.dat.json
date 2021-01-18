@@ -1,1 +1,1312 @@
-{"filename":"MetamorphosisRewardTypeItemsClient.dat","header":[{"name":"MetamorphosisRewardTypesKey","rowid":0,"type":"ulong","key":"MetamorphosisRewardTypes.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown2","rowid":1,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Description","rowid":2,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[[0,0,"Cède des Objets monétaires supplémentaires"],[0,1,"Cède des Objets monétaires supplémentaires"],[0,2,"Cède des Objets monétaires supplémentaires"],[0,3,"Cède des Objets monétaires supplémentaires"],[0,4,"Cède des Objets monétaires supplémentaires"],[0,5,"Cède des Objets monétaires supplémentaires"],[0,6,"Cède des Objets monétaires supplémentaires"],[0,7,"Cède des Objets monétaires supplémentaires"],[0,8,"Cède des Objets monétaires supplémentaires"],[0,9,"Cède des Objets monétaires supplémentaires"],[0,10,"Cède des Objets monétaires supplémentaires"],[0,11,"Cède des Objets monétaires supplémentaires"],[0,12,"Cède des Objets monétaires supplémentaires"],[0,13,"Cède des Objets monétaires supplémentaires"],[0,14,"Cède des Objets monétaires supplémentaires"],[0,15,"Cède des Objets monétaires supplémentaires"],[1,0,"Cède un Objet unique"],[1,1,"Cède des Objets uniques supplémentaires"],[1,2,"Cède un Objet unique spécifique à une ligue"],[2,0,"Cède des Gemmes de qualité supplémentaires"],[2,1,"Cède des Gemmes de qualité supplémentaires"],[2,2,"Cède des Gemmes de qualité supplémentaires"],[2,3,"Cède des Gemmes de qualité supplémentaires"],[2,4,"Cède des Gemmes de qualité supplémentaires"],[2,5,"Cède des Gemmes de qualité supplémentaires"],[2,6,"Cède des Gemmes de qualité supplémentaires"],[2,7,"Cède une Gemme de valeur"],[2,8,"Cède une Gemme de valeur"],[2,9,"Cède une Gemme de valeur"],[2,10,"Cède une Gemme de valeur"],[2,11,"Cède une Gemme de valeur"],[2,12,"Cède une Gemme de valeur"],[2,13,"Cède une Gemme de valeur"],[3,0,"Cède des Cartes supplémentaires"],[3,1,"Cède des Cartes supplémentaires"],[3,2,"Cède des Cartes supplémentaires"],[3,3,"Cède des Cartes supplémentaires"],[3,4,"Cède des Cartes supplémentaires"],[3,5,"Cède des Cartes supplémentaires"],[3,6,"Cède des Cartes supplémentaires"],[3,7,"Cède des Cartes supplémentaires"],[3,8,"Cède des Cartes supplémentaires"],[3,9,"Cède des Cartes supplémentaires"],[4,0,"Cède des Accessoires rares supplémentaires"],[4,1,"Cède des Accessoires rares supplémentaires"],[4,2,"Cède des Accessoires rares supplémentaires"],[4,3,"Cède des Accessoires rares supplémentaires"],[4,4,"Cède des Accessoires de l'Atlas supplémentaires"],[4,5,"Cède des Accessoires d'Incursion supplémentaires"],[4,6,"Cède des Accessoires d'Incursion supplémentaires"],[4,7,"Cède des Accessoires d'Incursion supplémentaires"],[4,8,"Cède des Accessoires d'Incursion supplémentaires"],[4,9,"Cède des Accessoires du Façonneur ou de l'Ancien supplémentaires"],[4,10,"Cède des Accessoires du Façonneur ou de l'Ancien supplémentaires"],[4,11,"Cède des Accessoires cryptés supplémentaires"],[4,12,"Cède des Accessoires cryptés supplémentaires"],[4,13,"Cède des Accessoires uniques supplémentaires"],[4,14,"Cède des Joyaux supplémentaires"],[4,15,"Cède des Joyaux supplémentaires"],[4,16,"Cède des Joyaux supplémentaires"],[4,17,"Cède des Joyaux supplémentaires"],[5,0,"Cède des Pièces d'armure rares supplémentaires"],[5,1,"Cède des Pièces d'armure rares supplémentaires"],[5,2,"Cède des Pièces d'armure rares supplémentaires"],[5,3,"Cède des Pièces d'armure rares supplémentaires"],[5,4,"Cède des Pièces d'armure uniques supplémentaires"],[5,5,"Cède des Pièces d'armure du Façonneur supplémentaires"],[5,6,"Cède des Pièces d'armure de l'Ancien supplémentaires"],[5,7,"Cède des Pièces d'armure cryptées supplémentaires"],[5,8,"Cède des Pièces d'armure cryptées supplémentaires"],[5,9,"Cède des Pièces d'armure d'Incursion supplémentaires"],[5,10,"Cède des Pièces d'armure d'Incursion supplémentaires"],[5,11,"Cède des Pièces d'armure d'Incursion supplémentaires"],[5,12,"Cède des Pièces d'armure d'Incursion supplémentaires"],[5,13,"Cède des Pièces d'armure d'Incursion supplémentaires"],[5,14,"Cède des Pièces d'armure d'Incursion supplémentaires"],[5,15,"Cède des Pièces d'armure d'Incursion supplémentaires"],[5,16,"Cède des Pièces d'armure d'Incursion supplémentaires"],[5,17,"Cède une Armure avec 6 châsses reliées"],[6,0,"Cède une Arme rare"],[6,1,"Cède une Arme rare"],[6,2,"Cède une Arme rare"],[6,3,"Cède des Armes rares supplémentaires"],[6,4,"Cède une Arme unique"],[6,5,"Cède une Arme du Façonneur"],[6,6,"Cède une Arme de l'Ancien"],[6,7,"Cède une Arme cryptée"],[6,8,"Cède une Arme cryptée"],[6,9,"Cède une Arme d'Incursion"],[6,10,"Cède une Arme d'Incursion"],[6,11,"Cède une Arme d'Incursion"],[6,12,"Cède une Arme d'Incursion"],[6,13,"Cède une Arme d'Incursion"],[6,14,"Cède une Arme d'Incursion"],[6,15,"Cède une Arme d'Incursion"],[6,16,"Cède une Arme d'Incursion"],[6,17,"Cède une Arme d'Incursion"],[6,18,"Cède une Arme d'Incursion"],[6,19,"Cède une Arme d'Incursion"],[6,20,"Cède une Arme d'Incursion"],[6,21,"Cède une Arme d'Incursion"],[6,22,"Cède une Arme d'Incursion"],[6,23,"Cède une Arme avec 6 châsses reliées"],[6,24,"Cède une Arme à 30% de qualité"],[7,0,"Cède un Joyau abyssal"],[7,1,"Cède des Joyaux abyssaux supplémentaires"],[7,2,"Cède un Carcan stygien"],[7,3,"Cède un Objet unique d'Abysse"],[8,0,"Cède des Pièces de Pérandus supplémentaires"],[8,1,"Cède des Pièces de Pérandus supplémentaires"],[8,2,"Cède des Pièces de Pérandus supplémentaires"],[9,0,"Cède des Éclats d'Objets monétaires supplémentaires"],[9,1,"Cède des Éclats d'Objets monétaires supplémentaires"],[9,2,"Cède des Éclats d'Objets monétaires de valeur supplémentaires"],[9,3,"Cède des Objets monétaires de Précurseur supplémentaires"],[9,4,"Cède des Objets monétaires de Précurseur supplémentaires"],[9,5,"Cède des Objets monétaires de Précurseur supplémentaires"],[9,6,"Cède des Objets monétaires de Précurseur supplémentaires"],[9,7,"Cède la Carte unique La Tête de pont"],[9,8,"Cède la Carte unique La Tête de pont"],[9,9,"Cède la Carte unique La Tête de pont"],[10,0,"Cède des Esquilles de Brèche supplémentaires"],[10,1,"Cède des Esquilles de Brèche supplémentaires"],[10,2,"Cède des Esquilles de Brèche supplémentaires"],[10,3,"Cède une Bénédiction de Brèche"],[10,4,"Cède une Pierre de Brèche"],[10,5,"Cède une Pierre de Brèche"],[10,6,"Cède une Pierre de Brèche"],[10,7,"Cède une Pierre de Brèche"],[11,0,"Cède des Essences supplémentaires"],[11,1,"Cède des Essences supplémentaires"],[11,3,"Cède des Essences supplémentaires"],[12,1,"Cède des Essences supplémentaires"],[12,2,"Cède des Essences supplémentaires"],[12,3,"Cède des Essences supplémentaires"],[12,4,"Cède des Essences supplémentaires"],[13,0,"Cède des Fragments de Carte supplémentaires"],[13,1,"Cède des Fragments de Carte supplémentaires"],[13,2,"Cède des Fragments de Carte supplémentaires"],[13,3,"Cède des Fragments de Carte supplémentaires"],[13,4,"Cède des Fragments de Carte supplémentaires"],[13,5,"Cède des Fragments de Carte supplémentaires"],[13,6,"Cède des Fragments de Carte supplémentaires"],[13,7,"Cède des Fragments de Carte supplémentaires"],[14,0,"Cède des Scarabées rouillés supplémentaires"],[14,1,"Cède des Scarabées brillants supplémentaires"],[14,2,"Cède des Scarabées dorés supplémentaires"],[15,0,"Cède des Fossiles supplémentaires"],[15,1,"Cède des Fossiles supplémentaires"],[15,2,"Cède des Fossiles supplémentaires"],[15,3,"Cède des Fossiles supplémentaires"],[15,4,"Cède des Fossiles supplémentaires"],[15,5,"Cède des Fossiles supplémentaires"],[15,6,"Cède un Résonateur"],[16,0,"Cède des Pièces d'argent supplémentaires"],[16,1,"Cède des Pièces d'argent supplémentaires"],[16,2,"Cède des Pièces d'argent supplémentaires"],[16,3,"Cède des Pièces d'argent supplémentaires"],[16,4,"Cède des Pièces d'argent supplémentaires"],[16,5,"Cède des Pièces d'argent supplémentaires"],[16,6,"Cède une Prophétie scellée"],[16,7,"Cède des Prophéties scellées"],[16,8,"Cède des Prophéties scellées"],[16,9,"Cède des Prophéties scellées"],[16,10,"Cède une Prophétie scellée"],[16,11,"Cède une Prophétie scellée"],[16,12,"Cède une Prophétie scellée"],[16,13,"Cède une Prophétie scellée"],[16,14,"Cède une Prophétie scellée"],[16,15,"Cède une Prophétie scellée"],[16,16,"Cède une Prophétie scellée"],[16,17,"Cède une Prophétie scellée"],[16,18,"Cède une Prophétie scellée"],[16,19,"Cède une Prophétie scellée"],[16,20,"Cède une Prophétie scellée"],[16,21,"Cède une Prophétie scellée"],[17,0,"Cède des Cartes divinatoires supplémentaires"],[17,1,"Cède des Cartes divinatoires supplémentaires"],[17,2,"Cède des Cartes divinatoires supplémentaires"],[17,3,"Cède des Cartes divinatoires supplémentaires"],[17,4,"Cède des Cartes divinatoires supplémentaires"],[17,5,"Cède des Cartes divinatoires supplémentaires"],[17,6,"Cède des Cartes divinatoires supplémentaires"],[17,7,"Cède des Cartes divinatoires supplémentaires"],[18,0,"Cède des Objets monétaires supplémentaires"],[18,1,"Cède des Objets monétaires supplémentaires"],[18,2,"Cède des Objets monétaires supplémentaires"],[18,3,"Cède des Objets monétaires supplémentaires"],[18,4,"Cède des Objets monétaires supplémentaires"],[18,5,"Cède des Objets monétaires supplémentaires"],[18,6,"Cède des Gemmes de qualité"],[18,7,"Cède des Gemmes de qualité"],[18,8,"Cède un Objet de Carte"],[18,9,"Cède des Accessoires rares supplémentaires"],[18,10,"Cède des Pièces d'armure rares supplémentaires"],[18,11,"Cède des Armes rares supplémentaires"],[19,0,"Cède des Talismans rares supplémentaires"],[19,1,"Cède des Talismans rares supplémentaires"],[19,2,"Cède des Talismans rares supplémentaires"],[19,3,"Cède des Talismans rares supplémentaires"],[19,4,"Cède des Talismans rares supplémentaires"],[19,5,"Cède des Talismans rares supplémentaires"],[19,6,"Cède des Talismans rares supplémentaires"],[19,7,"Cède des Talismans rares supplémentaires"],[19,8,"Cède des Talismans rares supplémentaires"],[19,11,"Cède des Talismans rares supplémentaires"],[19,12,"Cède des Talismans rares supplémentaires"],[19,13,"Cède un Talisman unique"],[20,0,"Cède des Gants enchantés"],[20,1,"Cède des Bottes enchantées"],[20,2,"Cède un Casque enchanté"],[20,3,"Cède une Offrande à la Déesse"],[20,4,"Cède une Prophétie scellée"],[21,1,"Cède des Incubateurs supplémentaires"],[21,2,"Cède des Incubateurs supplémentaires"],[21,3,"Cède des Incubateurs supplémentaires"],[21,4,"Cède des Incubateurs supplémentaires"],[22,0,"Cède des Huiles supplémentaires"],[22,1,"Cède des Huiles supplémentaires"],[22,2,"Cède des Huiles supplémentaires"],[22,3,"Cède des Huiles supplémentaires"],[22,4,"Cède des Huiles supplémentaires"],[22,5,"Cède des Huiles supplémentaires"],[22,6,"Cède des Huiles supplémentaires"],[22,7,"Cède des Huiles supplémentaires"],[22,8,"Cède des Huiles supplémentaires"],[22,9,"Cède des Huiles supplémentaires"],[22,10,"Cède des Huiles supplémentaires"],[22,11,"Cède des Huiles supplémentaires"],[22,12,"Cède des Huiles supplémentaires"],[22,13,"Cède des Huiles supplémentaires"],[22,14,"Cède des Huiles supplémentaires"],[22,15,"Cède des Huiles supplémentaires"],[22,16,"Cède une Carte infestée"],[22,17,"Cède une Carte infestée"],[22,18,"Cède une Carte infestée"],[22,19,"Cède une Carte infestée"],[22,20,"Cède une Carte infestée"],[22,21,"Cède une Carte infestée"],[22,22,"Cède une Carte infestée"],[22,23,"Cède une Carte infestée"],[22,24,"Cède une Carte infestée"],[22,25,"Cède une Carte infestée"],[22,26,"Cède une Carte infestée"],[22,27,"Cède une Carte infestée"],[22,28,"Cède une Carte infestée"],[22,29,"Cède une Carte infestée"],[22,30,"Cède une Carte infestée"],[22,31,"Cède une Carte infestée"],[23,0,"Cède des Catalyseurs supplémentaires"],[23,1,"Cède des Catalyseurs supplémentaires"],[23,2,"Cède des Catalyseurs supplémentaires"]]}
+{
+  "filename": "MetamorphosisRewardTypeItemsClient.dat",
+  "header": [
+    {
+      "name": "MetamorphosisRewardTypesKey",
+      "rowid": 0,
+      "type": "ulong",
+      "key": "MetamorphosisRewardTypes.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown2",
+      "rowid": 1,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Description",
+      "rowid": 2,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      0,
+      0,
+      "Cède des Objets monétaires supplémentaires"
+    ],
+    [
+      0,
+      1,
+      "Cède des Objets monétaires supplémentaires"
+    ],
+    [
+      0,
+      2,
+      "Cède des Objets monétaires supplémentaires"
+    ],
+    [
+      0,
+      3,
+      "Cède des Objets monétaires supplémentaires"
+    ],
+    [
+      0,
+      4,
+      "Cède des Objets monétaires supplémentaires"
+    ],
+    [
+      0,
+      5,
+      "Cède des Objets monétaires supplémentaires"
+    ],
+    [
+      0,
+      6,
+      "Cède des Objets monétaires supplémentaires"
+    ],
+    [
+      0,
+      7,
+      "Cède des Objets monétaires supplémentaires"
+    ],
+    [
+      0,
+      8,
+      "Cède des Objets monétaires supplémentaires"
+    ],
+    [
+      0,
+      9,
+      "Cède des Objets monétaires supplémentaires"
+    ],
+    [
+      0,
+      10,
+      "Cède des Objets monétaires supplémentaires"
+    ],
+    [
+      0,
+      11,
+      "Cède des Objets monétaires supplémentaires"
+    ],
+    [
+      0,
+      12,
+      "Cède des Objets monétaires supplémentaires"
+    ],
+    [
+      0,
+      13,
+      "Cède des Objets monétaires supplémentaires"
+    ],
+    [
+      0,
+      14,
+      "Cède des Objets monétaires supplémentaires"
+    ],
+    [
+      0,
+      15,
+      "Cède des Objets monétaires supplémentaires"
+    ],
+    [
+      1,
+      0,
+      "Cède un Objet unique"
+    ],
+    [
+      1,
+      1,
+      "Cède des Objets uniques supplémentaires"
+    ],
+    [
+      1,
+      2,
+      "Cède un Objet unique spécifique à une ligue"
+    ],
+    [
+      2,
+      0,
+      "Cède des Gemmes de qualité supplémentaires"
+    ],
+    [
+      2,
+      1,
+      "Cède des Gemmes de qualité supplémentaires"
+    ],
+    [
+      2,
+      2,
+      "Cède des Gemmes de qualité supplémentaires"
+    ],
+    [
+      2,
+      3,
+      "Cède des Gemmes de qualité supplémentaires"
+    ],
+    [
+      2,
+      4,
+      "Cède des Gemmes de qualité supplémentaires"
+    ],
+    [
+      2,
+      5,
+      "Cède des Gemmes de qualité supplémentaires"
+    ],
+    [
+      2,
+      6,
+      "Cède des Gemmes de qualité supplémentaires"
+    ],
+    [
+      2,
+      7,
+      "Cède une Gemme de valeur"
+    ],
+    [
+      2,
+      8,
+      "Cède une Gemme de valeur"
+    ],
+    [
+      2,
+      9,
+      "Cède une Gemme de valeur"
+    ],
+    [
+      2,
+      10,
+      "Cède une Gemme de valeur"
+    ],
+    [
+      2,
+      11,
+      "Cède une Gemme de valeur"
+    ],
+    [
+      2,
+      12,
+      "Cède une Gemme de valeur"
+    ],
+    [
+      2,
+      13,
+      "Cède une Gemme de valeur"
+    ],
+    [
+      3,
+      0,
+      "Cède des Cartes supplémentaires"
+    ],
+    [
+      3,
+      1,
+      "Cède des Cartes supplémentaires"
+    ],
+    [
+      3,
+      2,
+      "Cède des Cartes supplémentaires"
+    ],
+    [
+      3,
+      3,
+      "Cède des Cartes supplémentaires"
+    ],
+    [
+      3,
+      4,
+      "Cède des Cartes supplémentaires"
+    ],
+    [
+      3,
+      5,
+      "Cède des Cartes supplémentaires"
+    ],
+    [
+      3,
+      6,
+      "Cède des Cartes supplémentaires"
+    ],
+    [
+      3,
+      7,
+      "Cède des Cartes supplémentaires"
+    ],
+    [
+      3,
+      8,
+      "Cède des Cartes supplémentaires"
+    ],
+    [
+      3,
+      9,
+      "Cède des Cartes supplémentaires"
+    ],
+    [
+      4,
+      0,
+      "Cède des Accessoires rares supplémentaires"
+    ],
+    [
+      4,
+      1,
+      "Cède des Accessoires rares supplémentaires"
+    ],
+    [
+      4,
+      2,
+      "Cède des Accessoires rares supplémentaires"
+    ],
+    [
+      4,
+      3,
+      "Cède des Accessoires rares supplémentaires"
+    ],
+    [
+      4,
+      4,
+      "Cède des Accessoires de l'Atlas supplémentaires"
+    ],
+    [
+      4,
+      5,
+      "Cède des Accessoires d'Incursion supplémentaires"
+    ],
+    [
+      4,
+      6,
+      "Cède des Accessoires d'Incursion supplémentaires"
+    ],
+    [
+      4,
+      7,
+      "Cède des Accessoires d'Incursion supplémentaires"
+    ],
+    [
+      4,
+      8,
+      "Cède des Accessoires d'Incursion supplémentaires"
+    ],
+    [
+      4,
+      9,
+      "Cède des Accessoires du Façonneur ou de l'Ancien supplémentaires"
+    ],
+    [
+      4,
+      10,
+      "Cède des Accessoires du Façonneur ou de l'Ancien supplémentaires"
+    ],
+    [
+      4,
+      11,
+      "Cède des Accessoires cryptés supplémentaires"
+    ],
+    [
+      4,
+      12,
+      "Cède des Accessoires cryptés supplémentaires"
+    ],
+    [
+      4,
+      13,
+      "Cède des Accessoires uniques supplémentaires"
+    ],
+    [
+      4,
+      14,
+      "Cède des Joyaux supplémentaires"
+    ],
+    [
+      4,
+      15,
+      "Cède des Joyaux supplémentaires"
+    ],
+    [
+      4,
+      16,
+      "Cède des Joyaux supplémentaires"
+    ],
+    [
+      4,
+      17,
+      "Cède des Joyaux supplémentaires"
+    ],
+    [
+      5,
+      0,
+      "Cède des Pièces d'armure rares supplémentaires"
+    ],
+    [
+      5,
+      1,
+      "Cède des Pièces d'armure rares supplémentaires"
+    ],
+    [
+      5,
+      2,
+      "Cède des Pièces d'armure rares supplémentaires"
+    ],
+    [
+      5,
+      3,
+      "Cède des Pièces d'armure rares supplémentaires"
+    ],
+    [
+      5,
+      4,
+      "Cède des Pièces d'armure uniques supplémentaires"
+    ],
+    [
+      5,
+      5,
+      "Cède des Pièces d'armure du Façonneur supplémentaires"
+    ],
+    [
+      5,
+      6,
+      "Cède des Pièces d'armure de l'Ancien supplémentaires"
+    ],
+    [
+      5,
+      7,
+      "Cède des Pièces d'armure cryptées supplémentaires"
+    ],
+    [
+      5,
+      8,
+      "Cède des Pièces d'armure cryptées supplémentaires"
+    ],
+    [
+      5,
+      9,
+      "Cède des Pièces d'armure d'Incursion supplémentaires"
+    ],
+    [
+      5,
+      10,
+      "Cède des Pièces d'armure d'Incursion supplémentaires"
+    ],
+    [
+      5,
+      11,
+      "Cède des Pièces d'armure d'Incursion supplémentaires"
+    ],
+    [
+      5,
+      12,
+      "Cède des Pièces d'armure d'Incursion supplémentaires"
+    ],
+    [
+      5,
+      13,
+      "Cède des Pièces d'armure d'Incursion supplémentaires"
+    ],
+    [
+      5,
+      14,
+      "Cède des Pièces d'armure d'Incursion supplémentaires"
+    ],
+    [
+      5,
+      15,
+      "Cède des Pièces d'armure d'Incursion supplémentaires"
+    ],
+    [
+      5,
+      16,
+      "Cède des Pièces d'armure d'Incursion supplémentaires"
+    ],
+    [
+      5,
+      17,
+      "Cède une Armure avec 6 châsses reliées"
+    ],
+    [
+      6,
+      0,
+      "Cède une Arme rare"
+    ],
+    [
+      6,
+      1,
+      "Cède une Arme rare"
+    ],
+    [
+      6,
+      2,
+      "Cède une Arme rare"
+    ],
+    [
+      6,
+      3,
+      "Cède des Armes rares supplémentaires"
+    ],
+    [
+      6,
+      4,
+      "Cède une Arme unique"
+    ],
+    [
+      6,
+      5,
+      "Cède une Arme du Façonneur"
+    ],
+    [
+      6,
+      6,
+      "Cède une Arme de l'Ancien"
+    ],
+    [
+      6,
+      7,
+      "Cède une Arme cryptée"
+    ],
+    [
+      6,
+      8,
+      "Cède une Arme cryptée"
+    ],
+    [
+      6,
+      9,
+      "Cède une Arme d'Incursion"
+    ],
+    [
+      6,
+      10,
+      "Cède une Arme d'Incursion"
+    ],
+    [
+      6,
+      11,
+      "Cède une Arme d'Incursion"
+    ],
+    [
+      6,
+      12,
+      "Cède une Arme d'Incursion"
+    ],
+    [
+      6,
+      13,
+      "Cède une Arme d'Incursion"
+    ],
+    [
+      6,
+      14,
+      "Cède une Arme d'Incursion"
+    ],
+    [
+      6,
+      15,
+      "Cède une Arme d'Incursion"
+    ],
+    [
+      6,
+      16,
+      "Cède une Arme d'Incursion"
+    ],
+    [
+      6,
+      17,
+      "Cède une Arme d'Incursion"
+    ],
+    [
+      6,
+      18,
+      "Cède une Arme d'Incursion"
+    ],
+    [
+      6,
+      19,
+      "Cède une Arme d'Incursion"
+    ],
+    [
+      6,
+      20,
+      "Cède une Arme d'Incursion"
+    ],
+    [
+      6,
+      21,
+      "Cède une Arme d'Incursion"
+    ],
+    [
+      6,
+      22,
+      "Cède une Arme d'Incursion"
+    ],
+    [
+      6,
+      23,
+      "Cède une Arme avec 6 châsses reliées"
+    ],
+    [
+      6,
+      24,
+      "Cède une Arme à 30% de qualité"
+    ],
+    [
+      7,
+      0,
+      "Cède un Joyau abyssal"
+    ],
+    [
+      7,
+      1,
+      "Cède des Joyaux abyssaux supplémentaires"
+    ],
+    [
+      7,
+      2,
+      "Cède un Carcan stygien"
+    ],
+    [
+      7,
+      3,
+      "Cède un Objet unique d'Abysse"
+    ],
+    [
+      8,
+      0,
+      "Cède des Pièces de Pérandus supplémentaires"
+    ],
+    [
+      8,
+      1,
+      "Cède des Pièces de Pérandus supplémentaires"
+    ],
+    [
+      8,
+      2,
+      "Cède des Pièces de Pérandus supplémentaires"
+    ],
+    [
+      9,
+      0,
+      "Cède des Éclats d'Objets monétaires supplémentaires"
+    ],
+    [
+      9,
+      1,
+      "Cède des Éclats d'Objets monétaires supplémentaires"
+    ],
+    [
+      9,
+      2,
+      "Cède des Éclats d'Objets monétaires de valeur supplémentaires"
+    ],
+    [
+      9,
+      3,
+      "Cède des Objets monétaires de Précurseur supplémentaires"
+    ],
+    [
+      9,
+      4,
+      "Cède des Objets monétaires de Précurseur supplémentaires"
+    ],
+    [
+      9,
+      5,
+      "Cède des Objets monétaires de Précurseur supplémentaires"
+    ],
+    [
+      9,
+      6,
+      "Cède des Objets monétaires de Précurseur supplémentaires"
+    ],
+    [
+      9,
+      7,
+      "Cède la Carte unique La Tête de pont"
+    ],
+    [
+      9,
+      8,
+      "Cède la Carte unique La Tête de pont"
+    ],
+    [
+      9,
+      9,
+      "Cède la Carte unique La Tête de pont"
+    ],
+    [
+      10,
+      0,
+      "Cède des Esquilles de Brèche supplémentaires"
+    ],
+    [
+      10,
+      1,
+      "Cède des Esquilles de Brèche supplémentaires"
+    ],
+    [
+      10,
+      2,
+      "Cède des Esquilles de Brèche supplémentaires"
+    ],
+    [
+      10,
+      3,
+      "Cède une Bénédiction de Brèche"
+    ],
+    [
+      10,
+      4,
+      "Cède une Pierre de Brèche"
+    ],
+    [
+      10,
+      5,
+      "Cède une Pierre de Brèche"
+    ],
+    [
+      10,
+      6,
+      "Cède une Pierre de Brèche"
+    ],
+    [
+      10,
+      7,
+      "Cède une Pierre de Brèche"
+    ],
+    [
+      11,
+      0,
+      "Cède des Essences supplémentaires"
+    ],
+    [
+      11,
+      1,
+      "Cède des Essences supplémentaires"
+    ],
+    [
+      11,
+      3,
+      "Cède des Essences supplémentaires"
+    ],
+    [
+      12,
+      1,
+      "Cède des Essences supplémentaires"
+    ],
+    [
+      12,
+      2,
+      "Cède des Essences supplémentaires"
+    ],
+    [
+      12,
+      3,
+      "Cède des Essences supplémentaires"
+    ],
+    [
+      12,
+      4,
+      "Cède des Essences supplémentaires"
+    ],
+    [
+      13,
+      0,
+      "Cède des Fragments de Carte supplémentaires"
+    ],
+    [
+      13,
+      1,
+      "Cède des Fragments de Carte supplémentaires"
+    ],
+    [
+      13,
+      2,
+      "Cède des Fragments de Carte supplémentaires"
+    ],
+    [
+      13,
+      3,
+      "Cède des Fragments de Carte supplémentaires"
+    ],
+    [
+      13,
+      4,
+      "Cède des Fragments de Carte supplémentaires"
+    ],
+    [
+      13,
+      5,
+      "Cède des Fragments de Carte supplémentaires"
+    ],
+    [
+      13,
+      6,
+      "Cède des Fragments de Carte supplémentaires"
+    ],
+    [
+      13,
+      7,
+      "Cède des Fragments de Carte supplémentaires"
+    ],
+    [
+      14,
+      0,
+      "Cède des Scarabées rouillés supplémentaires"
+    ],
+    [
+      14,
+      1,
+      "Cède des Scarabées brillants supplémentaires"
+    ],
+    [
+      14,
+      2,
+      "Cède des Scarabées dorés supplémentaires"
+    ],
+    [
+      15,
+      0,
+      "Cède des Fossiles supplémentaires"
+    ],
+    [
+      15,
+      1,
+      "Cède des Fossiles supplémentaires"
+    ],
+    [
+      15,
+      2,
+      "Cède des Fossiles supplémentaires"
+    ],
+    [
+      15,
+      3,
+      "Cède des Fossiles supplémentaires"
+    ],
+    [
+      15,
+      4,
+      "Cède des Fossiles supplémentaires"
+    ],
+    [
+      15,
+      5,
+      "Cède des Fossiles supplémentaires"
+    ],
+    [
+      15,
+      6,
+      "Cède un Résonateur"
+    ],
+    [
+      16,
+      0,
+      "Cède des Pièces d'argent supplémentaires"
+    ],
+    [
+      16,
+      1,
+      "Cède des Pièces d'argent supplémentaires"
+    ],
+    [
+      16,
+      2,
+      "Cède des Pièces d'argent supplémentaires"
+    ],
+    [
+      16,
+      3,
+      "Cède des Pièces d'argent supplémentaires"
+    ],
+    [
+      16,
+      4,
+      "Cède des Pièces d'argent supplémentaires"
+    ],
+    [
+      16,
+      5,
+      "Cède des Pièces d'argent supplémentaires"
+    ],
+    [
+      16,
+      6,
+      "Cède une Prophétie scellée"
+    ],
+    [
+      16,
+      7,
+      "Cède des Prophéties scellées"
+    ],
+    [
+      16,
+      8,
+      "Cède des Prophéties scellées"
+    ],
+    [
+      16,
+      9,
+      "Cède des Prophéties scellées"
+    ],
+    [
+      16,
+      10,
+      "Cède une Prophétie scellée"
+    ],
+    [
+      16,
+      11,
+      "Cède une Prophétie scellée"
+    ],
+    [
+      16,
+      12,
+      "Cède une Prophétie scellée"
+    ],
+    [
+      16,
+      13,
+      "Cède une Prophétie scellée"
+    ],
+    [
+      16,
+      14,
+      "Cède une Prophétie scellée"
+    ],
+    [
+      16,
+      15,
+      "Cède une Prophétie scellée"
+    ],
+    [
+      16,
+      16,
+      "Cède une Prophétie scellée"
+    ],
+    [
+      16,
+      17,
+      "Cède une Prophétie scellée"
+    ],
+    [
+      16,
+      18,
+      "Cède une Prophétie scellée"
+    ],
+    [
+      16,
+      19,
+      "Cède une Prophétie scellée"
+    ],
+    [
+      16,
+      20,
+      "Cède une Prophétie scellée"
+    ],
+    [
+      16,
+      21,
+      "Cède une Prophétie scellée"
+    ],
+    [
+      17,
+      0,
+      "Cède des Cartes divinatoires supplémentaires"
+    ],
+    [
+      17,
+      1,
+      "Cède des Cartes divinatoires supplémentaires"
+    ],
+    [
+      17,
+      2,
+      "Cède des Cartes divinatoires supplémentaires"
+    ],
+    [
+      17,
+      3,
+      "Cède des Cartes divinatoires supplémentaires"
+    ],
+    [
+      17,
+      4,
+      "Cède des Cartes divinatoires supplémentaires"
+    ],
+    [
+      17,
+      5,
+      "Cède des Cartes divinatoires supplémentaires"
+    ],
+    [
+      17,
+      6,
+      "Cède des Cartes divinatoires supplémentaires"
+    ],
+    [
+      17,
+      7,
+      "Cède des Cartes divinatoires supplémentaires"
+    ],
+    [
+      18,
+      0,
+      "Cède des Objets monétaires supplémentaires"
+    ],
+    [
+      18,
+      1,
+      "Cède des Objets monétaires supplémentaires"
+    ],
+    [
+      18,
+      2,
+      "Cède des Objets monétaires supplémentaires"
+    ],
+    [
+      18,
+      3,
+      "Cède des Objets monétaires supplémentaires"
+    ],
+    [
+      18,
+      4,
+      "Cède des Objets monétaires supplémentaires"
+    ],
+    [
+      18,
+      5,
+      "Cède des Objets monétaires supplémentaires"
+    ],
+    [
+      18,
+      6,
+      "Cède des Gemmes de qualité"
+    ],
+    [
+      18,
+      7,
+      "Cède des Gemmes de qualité"
+    ],
+    [
+      18,
+      8,
+      "Cède un Objet de Carte"
+    ],
+    [
+      18,
+      9,
+      "Cède des Accessoires rares supplémentaires"
+    ],
+    [
+      18,
+      10,
+      "Cède des Pièces d'armure rares supplémentaires"
+    ],
+    [
+      18,
+      11,
+      "Cède des Armes rares supplémentaires"
+    ],
+    [
+      19,
+      0,
+      "Cède des Talismans rares supplémentaires"
+    ],
+    [
+      19,
+      1,
+      "Cède des Talismans rares supplémentaires"
+    ],
+    [
+      19,
+      2,
+      "Cède des Talismans rares supplémentaires"
+    ],
+    [
+      19,
+      3,
+      "Cède des Talismans rares supplémentaires"
+    ],
+    [
+      19,
+      4,
+      "Cède des Talismans rares supplémentaires"
+    ],
+    [
+      19,
+      5,
+      "Cède des Talismans rares supplémentaires"
+    ],
+    [
+      19,
+      6,
+      "Cède des Talismans rares supplémentaires"
+    ],
+    [
+      19,
+      7,
+      "Cède des Talismans rares supplémentaires"
+    ],
+    [
+      19,
+      8,
+      "Cède des Talismans rares supplémentaires"
+    ],
+    [
+      19,
+      11,
+      "Cède des Talismans rares supplémentaires"
+    ],
+    [
+      19,
+      12,
+      "Cède des Talismans rares supplémentaires"
+    ],
+    [
+      19,
+      13,
+      "Cède un Talisman unique"
+    ],
+    [
+      20,
+      0,
+      "Cède des Gants enchantés"
+    ],
+    [
+      20,
+      1,
+      "Cède des Bottes enchantées"
+    ],
+    [
+      20,
+      2,
+      "Cède un Casque enchanté"
+    ],
+    [
+      20,
+      3,
+      "Cède une Offrande à la Déesse"
+    ],
+    [
+      20,
+      4,
+      "Cède une Prophétie scellée"
+    ],
+    [
+      21,
+      1,
+      "Cède des Incubateurs supplémentaires"
+    ],
+    [
+      21,
+      2,
+      "Cède des Incubateurs supplémentaires"
+    ],
+    [
+      21,
+      3,
+      "Cède des Incubateurs supplémentaires"
+    ],
+    [
+      21,
+      4,
+      "Cède des Incubateurs supplémentaires"
+    ],
+    [
+      22,
+      0,
+      "Cède des Huiles supplémentaires"
+    ],
+    [
+      22,
+      1,
+      "Cède des Huiles supplémentaires"
+    ],
+    [
+      22,
+      2,
+      "Cède des Huiles supplémentaires"
+    ],
+    [
+      22,
+      3,
+      "Cède des Huiles supplémentaires"
+    ],
+    [
+      22,
+      4,
+      "Cède des Huiles supplémentaires"
+    ],
+    [
+      22,
+      5,
+      "Cède des Huiles supplémentaires"
+    ],
+    [
+      22,
+      6,
+      "Cède des Huiles supplémentaires"
+    ],
+    [
+      22,
+      7,
+      "Cède des Huiles supplémentaires"
+    ],
+    [
+      22,
+      8,
+      "Cède des Huiles supplémentaires"
+    ],
+    [
+      22,
+      9,
+      "Cède des Huiles supplémentaires"
+    ],
+    [
+      22,
+      10,
+      "Cède des Huiles supplémentaires"
+    ],
+    [
+      22,
+      11,
+      "Cède des Huiles supplémentaires"
+    ],
+    [
+      22,
+      12,
+      "Cède des Huiles supplémentaires"
+    ],
+    [
+      22,
+      13,
+      "Cède des Huiles supplémentaires"
+    ],
+    [
+      22,
+      14,
+      "Cède des Huiles supplémentaires"
+    ],
+    [
+      22,
+      15,
+      "Cède des Huiles supplémentaires"
+    ],
+    [
+      22,
+      16,
+      "Cède une Carte infestée"
+    ],
+    [
+      22,
+      17,
+      "Cède une Carte infestée"
+    ],
+    [
+      22,
+      18,
+      "Cède une Carte infestée"
+    ],
+    [
+      22,
+      19,
+      "Cède une Carte infestée"
+    ],
+    [
+      22,
+      20,
+      "Cède une Carte infestée"
+    ],
+    [
+      22,
+      21,
+      "Cède une Carte infestée"
+    ],
+    [
+      22,
+      22,
+      "Cède une Carte infestée"
+    ],
+    [
+      22,
+      23,
+      "Cède une Carte infestée"
+    ],
+    [
+      22,
+      24,
+      "Cède une Carte infestée"
+    ],
+    [
+      22,
+      25,
+      "Cède une Carte infestée"
+    ],
+    [
+      22,
+      26,
+      "Cède une Carte infestée"
+    ],
+    [
+      22,
+      27,
+      "Cède une Carte infestée"
+    ],
+    [
+      22,
+      28,
+      "Cède une Carte infestée"
+    ],
+    [
+      22,
+      29,
+      "Cède une Carte infestée"
+    ],
+    [
+      22,
+      30,
+      "Cède une Carte infestée"
+    ],
+    [
+      22,
+      31,
+      "Cède une Carte infestée"
+    ],
+    [
+      23,
+      0,
+      "Cède des Catalyseurs supplémentaires"
+    ],
+    [
+      23,
+      1,
+      "Cède des Catalyseurs supplémentaires"
+    ],
+    [
+      23,
+      2,
+      "Cède des Catalyseurs supplémentaires"
+    ]
+  ]
+}

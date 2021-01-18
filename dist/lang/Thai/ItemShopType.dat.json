@@ -1,1 +1,137 @@
-{"filename":"ItemShopType.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":true,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Name","rowid":1,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["Consumable","สามารถใช้ได้"],["Aura","Apparition"],["ArmourAttachment","Armour Attachment"],["ArmourSkin","Armour Skin"],["BootsSkin","Boots Skin"],["CharacterEffect","Character Effect"],["CraftingBench","โต๊ะคราฟ"],["Dance","เต้น"],["Footprints","รอยเท้า"],["GlovesSkin","Gloves Skin"],["HelmetMask","Helmet Attachment"],["HelmetSkin","Helmet Skin"],["HideoutDecorationMtx","สินค้าตกแต่งที่ซ่อน"],["HideoutDecoration","ของตกแต่งที่ซ่อน"],["ChallengeTrophy","ถ้วยรางวัลภารกิจท้าทาย"],["Pet","สัตว์เลี้ยง"],["Portal","Portal"],["SkillGem","Skill Gem Effect"],["Frame","Social Frame"],["Portrait","Portrait"],["WeaponAddedEffect","เพิ่้ม Effect ให้กับ อาวุธ"],["WeaponEffect","Effect อาวุธ"],["WeaponSkin","Weapon Skin"],["ShieldSkin","Shield Skin"],["Misc","อื่นๆ"]]}
+{
+  "filename": "ItemShopType.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Name",
+      "rowid": 1,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "Consumable",
+      "สามารถใช้ได้"
+    ],
+    [
+      "Aura",
+      "Apparition"
+    ],
+    [
+      "ArmourAttachment",
+      "Armour Attachment"
+    ],
+    [
+      "ArmourSkin",
+      "Armour Skin"
+    ],
+    [
+      "BootsSkin",
+      "Boots Skin"
+    ],
+    [
+      "CharacterEffect",
+      "Character Effect"
+    ],
+    [
+      "CraftingBench",
+      "โต๊ะคราฟ"
+    ],
+    [
+      "Dance",
+      "เต้น"
+    ],
+    [
+      "Footprints",
+      "รอยเท้า"
+    ],
+    [
+      "GlovesSkin",
+      "Gloves Skin"
+    ],
+    [
+      "HelmetMask",
+      "Helmet Attachment"
+    ],
+    [
+      "HelmetSkin",
+      "Helmet Skin"
+    ],
+    [
+      "HideoutDecorationMtx",
+      "สินค้าตกแต่งที่ซ่อน"
+    ],
+    [
+      "HideoutDecoration",
+      "ของตกแต่งที่ซ่อน"
+    ],
+    [
+      "ChallengeTrophy",
+      "ถ้วยรางวัลภารกิจท้าทาย"
+    ],
+    [
+      "Pet",
+      "สัตว์เลี้ยง"
+    ],
+    [
+      "Portal",
+      "Portal"
+    ],
+    [
+      "SkillGem",
+      "Skill Gem Effect"
+    ],
+    [
+      "Frame",
+      "Social Frame"
+    ],
+    [
+      "Portrait",
+      "Portrait"
+    ],
+    [
+      "WeaponAddedEffect",
+      "เพิ่้ม Effect ให้กับ อาวุธ"
+    ],
+    [
+      "WeaponEffect",
+      "Effect อาวุธ"
+    ],
+    [
+      "WeaponSkin",
+      "Weapon Skin"
+    ],
+    [
+      "ShieldSkin",
+      "Shield Skin"
+    ],
+    [
+      "Misc",
+      "อื่นๆ"
+    ]
+  ]
+}

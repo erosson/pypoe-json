@@ -1,1 +1,257 @@
-{"filename":"Tips.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":true,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Text","rowid":1,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"TextXBox","rowid":2,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["ProxyKey1","N'oubliez pas d'utiliser vos Flacons (<b>{1-5} sur le clavier).","N'oubliez pas d'utiliser vos Flacons (<<xbox_button_lb>> <<xbox_button_dpad_left>> <<xbox_button_dpad_up>> <<xbox_button_dpad_right>> <<xbox_button_rb>>)."],["ProxyKey2","Un clic droit vous permet de retirer une <gemitem>{Gemme} enchâssée dans un objet.","Mettez votre curseur sur un objet et faites <<xbox_button_b>> puis <<xbox_button_a>> pour retirer une <gemitem>{Gemme} enchâssée dans cet objet."],["ProxyKey3","Pour parler dans le tchat global, tapez un <b>{#} avant votre message.",""],["ProxyKey4","Pour parler dans le tchat d'échanges, tapez un <b>{$} avant votre message.",""],["ProxyKey5","Les instances sont réinitialisées après 8 à 15 minutes d'inactivité, détruisant ainsi tout portail connecté.",""],["ProxyKey6","Faites <b>{Ctrl} + <b>{Alt} + <b>{clic} pour montrer un objet à d'autres joueurs dans le tchat.","Appuyez sur <<xbox_button_lstick>> + <<xbox_button_b>> pour montrer un objet à d'autres joueurs dans le tchat."],["ProxyKey7","Les joueurs d'un même groupe rejoignent les mêmes zones.",""],["ProxyKey8","Faites un clic droit sur un joueur ou envoyez-lui un message pour l'inviter à rejoindre votre groupe.","Appuyez sur <<xbox_button_a>> en étant près d'un joueur pour l'inviter à rejoindre votre groupe."],["ProxyKey9","Les Gemmes de soutien doivent se trouver dans des châsses reliées pour avoir un effet sur une autre gemme.",""],["ProxyKey10","Maintenez <b>{Maj} pour attaquer à partir de votre position actuelle.",""],["ProxyKey11","Les Points de téléportation peuvent être utilisés pour voyager rapidement entre certaines zones.",""],["ProxyKey12","Les Flacons à votre ceinture se remplissent quand vous tuez des ennemis.",""],["ProxyKey13","<size:40>{Pour utiliser un <currencyitem>{parchemin} ou un <currencyitem>{orbe}, faites un <b>{clic droit} dessus, puis un <b>{clic gauche} sur l'objet de votre choix.}","Pour utiliser un <currencyitem>{parchemin} ou un <currencyitem>{orbe}, appuyez sur <<xbox_button_a>> puis faites <<xbox_button_a>> sur l'objet de votre choix."],["ProxyKey14","Maintenez <b>{Maj} et cliquez sur un ensemble d'objets pour le séparer en deux.","Mettez votre curseur sur un ensemble d'objets et appuyez sur <<xbox_button_b>> pour le séparer en deux."],["ProxyKey15","Ne donnez jamais votre mot de passe à qui que ce soit.",""],["ProxyKey17","Les <gemitem>{Gemmes d'aptitude} gagnent de l'expérience en même temps que vous lorsqu'elles sont équipées.",""],["ProxyKey18","Une gemme que vous ne pouvez pas utiliser vous empêchera également de porter un objet dans lequel elle est enchâssée.",""],["ProxyKey19","Lorsque vous jouez en groupe, les ennemis sont plus coriaces mais donnent plus de récompenses.",""],["ProxyKey20","Vous pouvez modifier vos raccourcis clavier dans le menu des <b>{Options}.",""],["ProxyKey21","Vous pouvez déplacer la carte en transparence à l'aide des <b>{touches fléchées}.",""],["ProxyKey22","Utilisez la molette de la souris pour zoomer/dézoomer.",""],["ProxyKey23","Vous pouvez utiliser votre Réserve pour échanger des objets entre vos personnages.",""],["ProxyKey24","Les monstres qui infligent des dégâts de froid peuvent vous geler.",""],["ProxyKey25","Les dégâts de foudre peuvent vous électrocuter, augmentant ainsi les dégâts que vous subissez.",""],["ProxyKey26","Les dégâts de feu peuvent embraser leurs victimes et leur infliger plus de dégâts en les brûlant.",""],["ProxyKey27","<size:40>{Maintenez la touche de surbrillance (<b>{Alt} par défaut) pour afficher les noms des objets au sol, ou appuyez sur <b>{Z} pour les voir en permanence.}",""],["ProxyKey28","Les monstres dotés du mod très rare \"Richesse\" détiennent de bien meilleurs objets.",""],["ProxyKey29","L'activation d'un nouveau <b>{point de téléportation} permet d'enregistrer votre exploration de Wraeclast.",""],["ProxyKey30","Vendez un Anneau de fer et une Gemme d'aptitude à un marchand pour obtenir une Bague de résistance.",""],["ProxyKey31","Maintenez <b>{Alt} pour comparer un objet sous votre curseur avec celui que vous portez.","Maintenez <<xbox_button_lstick>> pour comparer un objet sous votre curseur avec celui que vous portez."],["ProxyKey33","<size:40>{Maintenez <b>{Ctrl} et cliquez sur une transition de zone ou l'icône d'un point de téléportation pour créer une nouvelle instance.}","Faites <<xbox_button_y>> sur une transition de zone ou l'icône d'un point de téléportation pour créer une nouvelle instance."],["ProxyKey34","Signalez les bugs en tapant /bug dans le tchat.",""],["ProxyKey35","Tapez /aide dans le tchat pour obtenir une liste des commandes.",""],["ProxyKey36","Vos Flacons se remplissent lorsque vous entrez en ville.",""],["ProxyKey37","Un personnage qui meurt en PvP dans une Ligue Hardcore ne sera pas transféré en Standard.",""],["ProxyKey38","Vous pouvez accéder à l'arène PvP Chacun pour soi depuis la ville de l'Acte 3.",""],["ProxyKey39","Vous pouvez accéder au PvP de groupe et au mode Capture du drapeau en parlant à certains PNJ dans les villes des Actes 2 et 3.",""],["ProxyKey40","<size:40>{Dans chaque ville, l'un des marchands vous proposera de nouvelles Gemmes d'aptitude et de soutien au fil des quêtes que vous terminez.}",""],["ProxyKey41","<size:40>{Vous pouvez configurer un Filtre d'objets afin de n'afficher que certains objets au sol, en plus de personnaliser la façon dont ils apparaissent.}",""],["ProxyKey42","Si vous utilisez un Filtre d'objets, appuyez sur <b>{Z} pour voir les objets qu'il masque.","Si vous utilisez un Filtre d'objets, appuyez sur <<xbox_button_lstick>> pour voir les objets qu'il masque."],["ProxyKey43","Pour obtenir votre propre Repaire, terminez une certaine quête pour Héléna dans l'Acte 2.",""]]}
+{
+  "filename": "Tips.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Text",
+      "rowid": 1,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "TextXBox",
+      "rowid": 2,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "ProxyKey1",
+      "N'oubliez pas d'utiliser vos Flacons (<b>{1-5} sur le clavier).",
+      "N'oubliez pas d'utiliser vos Flacons (<<xbox_button_lb>> <<xbox_button_dpad_left>> <<xbox_button_dpad_up>> <<xbox_button_dpad_right>> <<xbox_button_rb>>)."
+    ],
+    [
+      "ProxyKey2",
+      "Un clic droit vous permet de retirer une <gemitem>{Gemme} enchâssée dans un objet.",
+      "Mettez votre curseur sur un objet et faites <<xbox_button_b>> puis <<xbox_button_a>> pour retirer une <gemitem>{Gemme} enchâssée dans cet objet."
+    ],
+    [
+      "ProxyKey3",
+      "Pour parler dans le tchat global, tapez un <b>{#} avant votre message.",
+      ""
+    ],
+    [
+      "ProxyKey4",
+      "Pour parler dans le tchat d'échanges, tapez un <b>{$} avant votre message.",
+      ""
+    ],
+    [
+      "ProxyKey5",
+      "Les instances sont réinitialisées après 8 à 15 minutes d'inactivité, détruisant ainsi tout portail connecté.",
+      ""
+    ],
+    [
+      "ProxyKey6",
+      "Faites <b>{Ctrl} + <b>{Alt} + <b>{clic} pour montrer un objet à d'autres joueurs dans le tchat.",
+      "Appuyez sur <<xbox_button_lstick>> + <<xbox_button_b>> pour montrer un objet à d'autres joueurs dans le tchat."
+    ],
+    [
+      "ProxyKey7",
+      "Les joueurs d'un même groupe rejoignent les mêmes zones.",
+      ""
+    ],
+    [
+      "ProxyKey8",
+      "Faites un clic droit sur un joueur ou envoyez-lui un message pour l'inviter à rejoindre votre groupe.",
+      "Appuyez sur <<xbox_button_a>> en étant près d'un joueur pour l'inviter à rejoindre votre groupe."
+    ],
+    [
+      "ProxyKey9",
+      "Les Gemmes de soutien doivent se trouver dans des châsses reliées pour avoir un effet sur une autre gemme.",
+      ""
+    ],
+    [
+      "ProxyKey10",
+      "Maintenez <b>{Maj} pour attaquer à partir de votre position actuelle.",
+      ""
+    ],
+    [
+      "ProxyKey11",
+      "Les Points de téléportation peuvent être utilisés pour voyager rapidement entre certaines zones.",
+      ""
+    ],
+    [
+      "ProxyKey12",
+      "Les Flacons à votre ceinture se remplissent quand vous tuez des ennemis.",
+      ""
+    ],
+    [
+      "ProxyKey13",
+      "<size:40>{Pour utiliser un <currencyitem>{parchemin} ou un <currencyitem>{orbe}, faites un <b>{clic droit} dessus, puis un <b>{clic gauche} sur l'objet de votre choix.}",
+      "Pour utiliser un <currencyitem>{parchemin} ou un <currencyitem>{orbe}, appuyez sur <<xbox_button_a>> puis faites <<xbox_button_a>> sur l'objet de votre choix."
+    ],
+    [
+      "ProxyKey14",
+      "Maintenez <b>{Maj} et cliquez sur un ensemble d'objets pour le séparer en deux.",
+      "Mettez votre curseur sur un ensemble d'objets et appuyez sur <<xbox_button_b>> pour le séparer en deux."
+    ],
+    [
+      "ProxyKey15",
+      "Ne donnez jamais votre mot de passe à qui que ce soit.",
+      ""
+    ],
+    [
+      "ProxyKey17",
+      "Les <gemitem>{Gemmes d'aptitude} gagnent de l'expérience en même temps que vous lorsqu'elles sont équipées.",
+      ""
+    ],
+    [
+      "ProxyKey18",
+      "Une gemme que vous ne pouvez pas utiliser vous empêchera également de porter un objet dans lequel elle est enchâssée.",
+      ""
+    ],
+    [
+      "ProxyKey19",
+      "Lorsque vous jouez en groupe, les ennemis sont plus coriaces mais donnent plus de récompenses.",
+      ""
+    ],
+    [
+      "ProxyKey20",
+      "Vous pouvez modifier vos raccourcis clavier dans le menu des <b>{Options}.",
+      ""
+    ],
+    [
+      "ProxyKey21",
+      "Vous pouvez déplacer la carte en transparence à l'aide des <b>{touches fléchées}.",
+      ""
+    ],
+    [
+      "ProxyKey22",
+      "Utilisez la molette de la souris pour zoomer/dézoomer.",
+      ""
+    ],
+    [
+      "ProxyKey23",
+      "Vous pouvez utiliser votre Réserve pour échanger des objets entre vos personnages.",
+      ""
+    ],
+    [
+      "ProxyKey24",
+      "Les monstres qui infligent des dégâts de froid peuvent vous geler.",
+      ""
+    ],
+    [
+      "ProxyKey25",
+      "Les dégâts de foudre peuvent vous électrocuter, augmentant ainsi les dégâts que vous subissez.",
+      ""
+    ],
+    [
+      "ProxyKey26",
+      "Les dégâts de feu peuvent embraser leurs victimes et leur infliger plus de dégâts en les brûlant.",
+      ""
+    ],
+    [
+      "ProxyKey27",
+      "<size:40>{Maintenez la touche de surbrillance (<b>{Alt} par défaut) pour afficher les noms des objets au sol, ou appuyez sur <b>{Z} pour les voir en permanence.}",
+      ""
+    ],
+    [
+      "ProxyKey28",
+      "Les monstres dotés du mod très rare \"Richesse\" détiennent de bien meilleurs objets.",
+      ""
+    ],
+    [
+      "ProxyKey29",
+      "L'activation d'un nouveau <b>{point de téléportation} permet d'enregistrer votre exploration de Wraeclast.",
+      ""
+    ],
+    [
+      "ProxyKey30",
+      "Vendez un Anneau de fer et une Gemme d'aptitude à un marchand pour obtenir une Bague de résistance.",
+      ""
+    ],
+    [
+      "ProxyKey31",
+      "Maintenez <b>{Alt} pour comparer un objet sous votre curseur avec celui que vous portez.",
+      "Maintenez <<xbox_button_lstick>> pour comparer un objet sous votre curseur avec celui que vous portez."
+    ],
+    [
+      "ProxyKey33",
+      "<size:40>{Maintenez <b>{Ctrl} et cliquez sur une transition de zone ou l'icône d'un point de téléportation pour créer une nouvelle instance.}",
+      "Faites <<xbox_button_y>> sur une transition de zone ou l'icône d'un point de téléportation pour créer une nouvelle instance."
+    ],
+    [
+      "ProxyKey34",
+      "Signalez les bugs en tapant /bug dans le tchat.",
+      ""
+    ],
+    [
+      "ProxyKey35",
+      "Tapez /aide dans le tchat pour obtenir une liste des commandes.",
+      ""
+    ],
+    [
+      "ProxyKey36",
+      "Vos Flacons se remplissent lorsque vous entrez en ville.",
+      ""
+    ],
+    [
+      "ProxyKey37",
+      "Un personnage qui meurt en PvP dans une Ligue Hardcore ne sera pas transféré en Standard.",
+      ""
+    ],
+    [
+      "ProxyKey38",
+      "Vous pouvez accéder à l'arène PvP Chacun pour soi depuis la ville de l'Acte 3.",
+      ""
+    ],
+    [
+      "ProxyKey39",
+      "Vous pouvez accéder au PvP de groupe et au mode Capture du drapeau en parlant à certains PNJ dans les villes des Actes 2 et 3.",
+      ""
+    ],
+    [
+      "ProxyKey40",
+      "<size:40>{Dans chaque ville, l'un des marchands vous proposera de nouvelles Gemmes d'aptitude et de soutien au fil des quêtes que vous terminez.}",
+      ""
+    ],
+    [
+      "ProxyKey41",
+      "<size:40>{Vous pouvez configurer un Filtre d'objets afin de n'afficher que certains objets au sol, en plus de personnaliser la façon dont ils apparaissent.}",
+      ""
+    ],
+    [
+      "ProxyKey42",
+      "Si vous utilisez un Filtre d'objets, appuyez sur <b>{Z} pour voir les objets qu'il masque.",
+      "Si vous utilisez un Filtre d'objets, appuyez sur <<xbox_button_lstick>> pour voir les objets qu'il masque."
+    ],
+    [
+      "ProxyKey43",
+      "Pour obtenir votre propre Repaire, terminez une certaine quête pour Héléna dans l'Acte 2.",
+      ""
+    ]
+  ]
+}

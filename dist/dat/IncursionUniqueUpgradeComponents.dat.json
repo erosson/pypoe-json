@@ -1,1 +1,81 @@
-{"filename":"IncursionUniqueUpgradeComponents.dat","header":[{"name":"UniqueItemsKey","rowid":0,"type":"ulong","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"BaseItemTypesKey","rowid":1,"type":"ulong","key":"BaseItemTypes.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[[1068,227],[1046,223],[1048,224],[1050,225],[1053,231],[1055,230],[1056,230],[1057,230],[1061,229],[1064,226],[1066,228]]}
+{
+  "filename": "IncursionUniqueUpgradeComponents.dat",
+  "header": [
+    {
+      "name": "UniqueItemsKey",
+      "rowid": 0,
+      "type": "ulong",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "BaseItemTypesKey",
+      "rowid": 1,
+      "type": "ulong",
+      "key": "BaseItemTypes.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      1068,
+      227
+    ],
+    [
+      1046,
+      223
+    ],
+    [
+      1048,
+      224
+    ],
+    [
+      1050,
+      225
+    ],
+    [
+      1053,
+      231
+    ],
+    [
+      1055,
+      230
+    ],
+    [
+      1056,
+      230
+    ],
+    [
+      1057,
+      230
+    ],
+    [
+      1061,
+      229
+    ],
+    [
+      1064,
+      226
+    ],
+    [
+      1066,
+      228
+    ]
+  ]
+}

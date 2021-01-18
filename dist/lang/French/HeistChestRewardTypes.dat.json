@@ -1,1 +1,525 @@
-{"filename":"HeistChestRewardTypes.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":true,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Art","rowid":1,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":true,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"RewardTypeName","rowid":2,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown0","rowid":3,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"RewardRoomName","rowid":4,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"MinLevel","rowid":5,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"MaxLevel","rowid":6,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Weight","rowid":7,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"RewardRoomName2","rowid":8,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Keys0","rowid":9,"type":"ref|list|ulong","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown1","rowid":10,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["EscapeRoom","","Échappatoire",0,"Currency",0,100,0,"Échappatoire",[],0],["Currency","Art/2DArt/UIImages/InGame/Heist/Blueprints/Rewards/HeistRewardCurrency","Objets monétaires",0,"Salle de récompenses :\nObjets monétaires",5,100,500,"Salle de récompenses :\nObjets monétaires",[0,4,6],500],["Uniques","Art/2DArt/UIImages/InGame/Heist/Blueprints/Rewards/HeistRewardUniques","Objets uniques",0,"Salle de récompenses :\nObjets uniques",10,100,300,"Salle de récompenses :\nObjets uniques",[1,8],300],["Gems","Art/2DArt/UIImages/InGame/Heist/Blueprints/Rewards/HeistRewardGems","Gemmes",0,"Salle de récompenses :\nGemmes",6,100,300,"Salle de récompenses :\nGemmes",[4],300],["Maps","Art/2DArt/UIImages/InGame/Heist/Blueprints/Rewards/HeistRewardMaps","Cartes",0,"Salle de récompenses :\nCartes",68,100,100,"Salle de récompenses :\nCartes",[8],100],["Trinkets","Art/2DArt/UIImages/InGame/Heist/Blueprints/Rewards/HeistRewardTrinkets","Accessoires",0,"Salle de récompenses :\nAccessoires",1,100,200,"Salle de récompenses :\nAccessoires",[0,2,4],0],["Armour","Art/2DArt/UIImages/InGame/Heist/Blueprints/Rewards/HeistRewardArmour","Pièces d'armure",0,"Salle de récompenses :\nPièces d'armure",1,100,200,"Salle de récompenses :\nPièces d'armure",[5,6,7],0],["Weapon","Art/2DArt/UIImages/InGame/Heist/Blueprints/Rewards/HeistRewardWeapon","Armes",0,"Salle de récompenses :\nArmes",1,100,200,"Salle de récompenses :\nArmes",[1,5],0],["Abyss","Art/2DArt/UIImages/InGame/Heist/Blueprints/Rewards/HeistRewardAbyss","Abysse",0,"Salle de récompenses :\nObjets d'Abysse",46,100,150,"Salle de récompenses :\nObjets d'Abysse",[5],150],["Perandus","Art/2DArt/UIImages/InGame/Heist/Blueprints/Rewards/HeistRewardPerandus","Pérandus",0,"Salle de récompenses :\nObjets de Pérandus",0,100,0,"Salle de récompenses :\nObjets de Pérandus",[],0],["Harbinger","Art/2DArt/UIImages/InGame/Heist/Blueprints/Rewards/HeistRewardHarbinger","Précurseur",0,"Salle de récompenses :\nObjets de Précurseurs",68,100,150,"Salle de récompenses :\nObjets de Précurseurs",[6,7],150],["Breach","Art/2DArt/UIImages/InGame/Heist/Blueprints/Rewards/HeistRewardBreach","Brèche",0,"Salle de récompenses :\nObjets de Brèche",68,100,150,"Salle de récompenses :\nObjets de Brèche",[5],150],["Essences","Art/2DArt/UIImages/InGame/Heist/Blueprints/Rewards/HeistRewardEssences","Essences",0,"Salle de récompenses :\nEssences",5,100,250,"Salle de récompenses :\nEssences",[6,8],250],["Fragments","Art/2DArt/UIImages/InGame/Heist/Blueprints/Rewards/HeistRewardFragments","Fragments",0,"Salle de récompenses :\nFragments",68,100,250,"Salle de récompenses :\nFragments",[0],250],["Fossils","Art/2DArt/UIImages/InGame/Heist/Blueprints/Rewards/HeistRewardFossils","Fossiles",0,"Salle de récompenses :\nFossiles",34,100,150,"Salle de récompenses :\nFossiles",[1,6],150],["Prophecies","Art/2DArt/UIImages/InGame/Heist/Blueprints/Rewards/HeistRewardProphecies","Prophéties",0,"Salle de récompenses :\nProphéties",8,100,250,"Salle de récompenses :\nProphéties",[2],250],["DivinationCards","Art/2DArt/UIImages/InGame/Heist/Blueprints/Rewards/HeistRewardDivination","Cartes divinatoires",0,"Salle de récompenses :\nCartes divinatoires",36,100,300,"Salle de récompenses :\nCartes divinatoires",[2,7],300],["Generic","Art/2DArt/UIImages/InGame/Heist/Blueprints/Rewards/HeistRewardGeneric","Objets génériques",0,"Salle de récompenses :\nObjets génériques",1,67,100,"Salle de récompenses :\nObjets génériques",[3],100],["Talismans","Art/2DArt/UIImages/InGame/Heist/Blueprints/Rewards/HeistRewardTalismans","Talismans",0,"Salle de récompenses :\nTalismans",1,100,150,"Salle de récompenses :\nTalismans",[5],150],["Legion","Art/2DArt/UIImages/InGame/Heist/Blueprints/Rewards/HeistRewardLegion","Légion",0,"Salle de récompenses :\nObjets de Légions",68,100,150,"Salle de récompenses :\nObjets de Légions",[5],150],["Blight","Art/2DArt/UIImages/InGame/Heist/Blueprints/Rewards/HeistRewardBlight","Infestation",0,"Salle de récompenses :\nObjets de l'Infestation",68,100,150,"Salle de récompenses :\nObjets de l'Infestation",[3],150],["Metamorphosis","Art/2DArt/UIImages/InGame/Heist/Blueprints/Rewards/HeistRewardMetamorph","Métamorphe",0,"Salle de récompenses :\nObjets de Métamorphe",68,100,150,"Salle de récompenses :\nObjets de Métamorphe",[3],150],["Delirium","Art/2DArt/UIImages/InGame/Heist/Blueprints/Rewards/HeistRewardDelirium","Délire",0,"Salle de récompenses :\nObjets des brumes du Délire",68,100,150,"Salle de récompenses :\nObjets des brumes du Délire",[3],150]]}
+{
+  "filename": "HeistChestRewardTypes.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Art",
+      "rowid": 1,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": true,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "RewardTypeName",
+      "rowid": 2,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown0",
+      "rowid": 3,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "RewardRoomName",
+      "rowid": 4,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "MinLevel",
+      "rowid": 5,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "MaxLevel",
+      "rowid": 6,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Weight",
+      "rowid": 7,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "RewardRoomName2",
+      "rowid": 8,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Keys0",
+      "rowid": 9,
+      "type": "ref|list|ulong",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown1",
+      "rowid": 10,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "EscapeRoom",
+      "",
+      "Échappatoire",
+      0,
+      "Currency",
+      0,
+      100,
+      0,
+      "Échappatoire",
+      [],
+      0
+    ],
+    [
+      "Currency",
+      "Art/2DArt/UIImages/InGame/Heist/Blueprints/Rewards/HeistRewardCurrency",
+      "Objets monétaires",
+      0,
+      "Salle de récompenses :\nObjets monétaires",
+      5,
+      100,
+      500,
+      "Salle de récompenses :\nObjets monétaires",
+      [
+        0,
+        4,
+        6
+      ],
+      500
+    ],
+    [
+      "Uniques",
+      "Art/2DArt/UIImages/InGame/Heist/Blueprints/Rewards/HeistRewardUniques",
+      "Objets uniques",
+      0,
+      "Salle de récompenses :\nObjets uniques",
+      10,
+      100,
+      300,
+      "Salle de récompenses :\nObjets uniques",
+      [
+        1,
+        8
+      ],
+      300
+    ],
+    [
+      "Gems",
+      "Art/2DArt/UIImages/InGame/Heist/Blueprints/Rewards/HeistRewardGems",
+      "Gemmes",
+      0,
+      "Salle de récompenses :\nGemmes",
+      6,
+      100,
+      300,
+      "Salle de récompenses :\nGemmes",
+      [
+        4
+      ],
+      300
+    ],
+    [
+      "Maps",
+      "Art/2DArt/UIImages/InGame/Heist/Blueprints/Rewards/HeistRewardMaps",
+      "Cartes",
+      0,
+      "Salle de récompenses :\nCartes",
+      68,
+      100,
+      100,
+      "Salle de récompenses :\nCartes",
+      [
+        8
+      ],
+      100
+    ],
+    [
+      "Trinkets",
+      "Art/2DArt/UIImages/InGame/Heist/Blueprints/Rewards/HeistRewardTrinkets",
+      "Accessoires",
+      0,
+      "Salle de récompenses :\nAccessoires",
+      1,
+      100,
+      200,
+      "Salle de récompenses :\nAccessoires",
+      [
+        0,
+        2,
+        4
+      ],
+      0
+    ],
+    [
+      "Armour",
+      "Art/2DArt/UIImages/InGame/Heist/Blueprints/Rewards/HeistRewardArmour",
+      "Pièces d'armure",
+      0,
+      "Salle de récompenses :\nPièces d'armure",
+      1,
+      100,
+      200,
+      "Salle de récompenses :\nPièces d'armure",
+      [
+        5,
+        6,
+        7
+      ],
+      0
+    ],
+    [
+      "Weapon",
+      "Art/2DArt/UIImages/InGame/Heist/Blueprints/Rewards/HeistRewardWeapon",
+      "Armes",
+      0,
+      "Salle de récompenses :\nArmes",
+      1,
+      100,
+      200,
+      "Salle de récompenses :\nArmes",
+      [
+        1,
+        5
+      ],
+      0
+    ],
+    [
+      "Abyss",
+      "Art/2DArt/UIImages/InGame/Heist/Blueprints/Rewards/HeistRewardAbyss",
+      "Abysse",
+      0,
+      "Salle de récompenses :\nObjets d'Abysse",
+      46,
+      100,
+      150,
+      "Salle de récompenses :\nObjets d'Abysse",
+      [
+        5
+      ],
+      150
+    ],
+    [
+      "Perandus",
+      "Art/2DArt/UIImages/InGame/Heist/Blueprints/Rewards/HeistRewardPerandus",
+      "Pérandus",
+      0,
+      "Salle de récompenses :\nObjets de Pérandus",
+      0,
+      100,
+      0,
+      "Salle de récompenses :\nObjets de Pérandus",
+      [],
+      0
+    ],
+    [
+      "Harbinger",
+      "Art/2DArt/UIImages/InGame/Heist/Blueprints/Rewards/HeistRewardHarbinger",
+      "Précurseur",
+      0,
+      "Salle de récompenses :\nObjets de Précurseurs",
+      68,
+      100,
+      150,
+      "Salle de récompenses :\nObjets de Précurseurs",
+      [
+        6,
+        7
+      ],
+      150
+    ],
+    [
+      "Breach",
+      "Art/2DArt/UIImages/InGame/Heist/Blueprints/Rewards/HeistRewardBreach",
+      "Brèche",
+      0,
+      "Salle de récompenses :\nObjets de Brèche",
+      68,
+      100,
+      150,
+      "Salle de récompenses :\nObjets de Brèche",
+      [
+        5
+      ],
+      150
+    ],
+    [
+      "Essences",
+      "Art/2DArt/UIImages/InGame/Heist/Blueprints/Rewards/HeistRewardEssences",
+      "Essences",
+      0,
+      "Salle de récompenses :\nEssences",
+      5,
+      100,
+      250,
+      "Salle de récompenses :\nEssences",
+      [
+        6,
+        8
+      ],
+      250
+    ],
+    [
+      "Fragments",
+      "Art/2DArt/UIImages/InGame/Heist/Blueprints/Rewards/HeistRewardFragments",
+      "Fragments",
+      0,
+      "Salle de récompenses :\nFragments",
+      68,
+      100,
+      250,
+      "Salle de récompenses :\nFragments",
+      [
+        0
+      ],
+      250
+    ],
+    [
+      "Fossils",
+      "Art/2DArt/UIImages/InGame/Heist/Blueprints/Rewards/HeistRewardFossils",
+      "Fossiles",
+      0,
+      "Salle de récompenses :\nFossiles",
+      34,
+      100,
+      150,
+      "Salle de récompenses :\nFossiles",
+      [
+        1,
+        6
+      ],
+      150
+    ],
+    [
+      "Prophecies",
+      "Art/2DArt/UIImages/InGame/Heist/Blueprints/Rewards/HeistRewardProphecies",
+      "Prophéties",
+      0,
+      "Salle de récompenses :\nProphéties",
+      8,
+      100,
+      250,
+      "Salle de récompenses :\nProphéties",
+      [
+        2
+      ],
+      250
+    ],
+    [
+      "DivinationCards",
+      "Art/2DArt/UIImages/InGame/Heist/Blueprints/Rewards/HeistRewardDivination",
+      "Cartes divinatoires",
+      0,
+      "Salle de récompenses :\nCartes divinatoires",
+      36,
+      100,
+      300,
+      "Salle de récompenses :\nCartes divinatoires",
+      [
+        2,
+        7
+      ],
+      300
+    ],
+    [
+      "Generic",
+      "Art/2DArt/UIImages/InGame/Heist/Blueprints/Rewards/HeistRewardGeneric",
+      "Objets génériques",
+      0,
+      "Salle de récompenses :\nObjets génériques",
+      1,
+      67,
+      100,
+      "Salle de récompenses :\nObjets génériques",
+      [
+        3
+      ],
+      100
+    ],
+    [
+      "Talismans",
+      "Art/2DArt/UIImages/InGame/Heist/Blueprints/Rewards/HeistRewardTalismans",
+      "Talismans",
+      0,
+      "Salle de récompenses :\nTalismans",
+      1,
+      100,
+      150,
+      "Salle de récompenses :\nTalismans",
+      [
+        5
+      ],
+      150
+    ],
+    [
+      "Legion",
+      "Art/2DArt/UIImages/InGame/Heist/Blueprints/Rewards/HeistRewardLegion",
+      "Légion",
+      0,
+      "Salle de récompenses :\nObjets de Légions",
+      68,
+      100,
+      150,
+      "Salle de récompenses :\nObjets de Légions",
+      [
+        5
+      ],
+      150
+    ],
+    [
+      "Blight",
+      "Art/2DArt/UIImages/InGame/Heist/Blueprints/Rewards/HeistRewardBlight",
+      "Infestation",
+      0,
+      "Salle de récompenses :\nObjets de l'Infestation",
+      68,
+      100,
+      150,
+      "Salle de récompenses :\nObjets de l'Infestation",
+      [
+        3
+      ],
+      150
+    ],
+    [
+      "Metamorphosis",
+      "Art/2DArt/UIImages/InGame/Heist/Blueprints/Rewards/HeistRewardMetamorph",
+      "Métamorphe",
+      0,
+      "Salle de récompenses :\nObjets de Métamorphe",
+      68,
+      100,
+      150,
+      "Salle de récompenses :\nObjets de Métamorphe",
+      [
+        3
+      ],
+      150
+    ],
+    [
+      "Delirium",
+      "Art/2DArt/UIImages/InGame/Heist/Blueprints/Rewards/HeistRewardDelirium",
+      "Délire",
+      0,
+      "Salle de récompenses :\nObjets des brumes du Délire",
+      68,
+      100,
+      150,
+      "Salle de récompenses :\nObjets des brumes du Délire",
+      [
+        3
+      ],
+      150
+    ]
+  ]
+}

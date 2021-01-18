@@ -1,1 +1,103 @@
-{"filename":"VoteType.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":true,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Text","rowid":1,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"AcceptText","rowid":2,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"RejectText","rowid":3,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown0","rowid":4,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["BanditVoteInt","알리라를 도우면 지속적으로 다음과 같은 영향을 받습니다.\n\n{0}\n\n다른 대장의 편을 든 파티원과 싸워야 합니다. 알리라를 처치하게 되면 도울 수 없습니다.","알리라 돕기","알리라 처치",57],["BanditVoteStr","오크를 도우면 지속적으로 다음과 같은 영향을 받습니다.\n\n{0}\n\n다른 대장의 편을 든 파티원과 싸워야 합니다. 오크를 처치하게 되면 도울 수 없습니다.","오크 돕기","오크 처치",90],["BanditVoteDex","크레이틴을 도우면 지속적으로 다음과 같은 영향을 받습니다.\n\n{0}\n\n다른 대장의 편을 든 파티원과 싸워야 합니다. 크레이틴을 처치하게 되면 도울 수 없습니다.","크레이틴 돕기","크레이틴 처치",55]]}
+{
+  "filename": "VoteType.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": true,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Text",
+      "rowid": 1,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "AcceptText",
+      "rowid": 2,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "RejectText",
+      "rowid": 3,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown0",
+      "rowid": 4,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "BanditVoteInt",
+      "알리라를 도우면 지속적으로 다음과 같은 영향을 받습니다.\n\n{0}\n\n다른 대장의 편을 든 파티원과 싸워야 합니다. 알리라를 처치하게 되면 도울 수 없습니다.",
+      "알리라 돕기",
+      "알리라 처치",
+      57
+    ],
+    [
+      "BanditVoteStr",
+      "오크를 도우면 지속적으로 다음과 같은 영향을 받습니다.\n\n{0}\n\n다른 대장의 편을 든 파티원과 싸워야 합니다. 오크를 처치하게 되면 도울 수 없습니다.",
+      "오크 돕기",
+      "오크 처치",
+      90
+    ],
+    [
+      "BanditVoteDex",
+      "크레이틴을 도우면 지속적으로 다음과 같은 영향을 받습니다.\n\n{0}\n\n다른 대장의 편을 든 파티원과 싸워야 합니다. 크레이틴을 처치하게 되면 도울 수 없습니다.",
+      "크레이틴 돕기",
+      "크레이틴 처치",
+      55
+    ]
+  ]
+}

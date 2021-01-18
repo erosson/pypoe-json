@@ -1,1 +1,1291 @@
-{"filename":"BetrayalTraitorRewards.dat","header":[{"name":"BetrayalJobsKey","rowid":0,"type":"ulong","key":"BetrayalJobs.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"BetrayalTargetsKey","rowid":1,"type":"ulong","key":"BetrayalTargets.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"BetrayalRanksKey","rowid":2,"type":"ulong","key":"BetrayalRanks.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Description","rowid":3,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[[3,16,1,"Dérobe des Scarabées de Métamorphes"],[3,16,2,"Dérobe des Scarabées de Métamorphes"],[3,16,3,"Dérobe des Scarabées de Métamorphes"],[1,16,1,"Préserve des Accessoires et des Pièces d'armure cryptés"],[1,16,2,"Préserve des Accessoires et des Pièces d'armure cryptés"],[1,16,3,"Préserve des Accessoires et des Pièces d'armure cryptés"],[2,16,1,"Fait de la contrebande d'Accessoires et d'Armes cryptés"],[2,16,2,"Fait de la contrebande d'Accessoires et d'Armes cryptés"],[2,16,3,"Fait de la contrebande d'Accessoires et d'Armes cryptés"],[4,16,1,"Extrait de la magie cryptée"],[4,16,2,"Extrait de la magie cryptée"],[4,16,3,"Extrait de la magie cryptée"],[3,10,1,"Ramasse des Scarabées de Brèche"],[3,10,2,"Ramasse des Scarabées de Brèche"],[3,10,3,"Ramasse des Scarabées de Brèche"],[1,10,1,"Stocke des Joyaux abyssaux"],[1,10,2,"Stocke des Joyaux abyssaux"],[1,10,3,"Stocke des Joyaux abyssaux"],[2,10,1,"Transporte des Esquilles de Brèche"],[2,10,2,"Transporte des Esquilles de Brèche"],[2,10,3,"Transporte des Esquilles de Brèche"],[4,10,1,"Enrichit des Pierres de Brèche"],[4,10,2,"Enrichit des Pierres de Brèche"],[4,10,3,"Enrichit des Pierres de Brèche"],[3,15,1,"Fait main basse sur des Scarabées de Sulfite"],[3,15,2,"Fait main basse sur des Scarabées de Sulfite"],[3,15,3,"Fait main basse sur des Scarabées de Sulfite"],[1,15,1,"Met des Orbes de Précurseur à l'abri"],[1,15,2,"Met des Orbes de Précurseur à l'abri"],[1,15,3,"Met des Orbes de Précurseur à l'abri"],[2,15,1,"Fait du trafic d'Uniques érodés par le temps"],[2,15,2,"Fait du trafic d'Uniques érodés par le temps"],[2,15,3,"Fait du trafic d'Uniques érodés par le temps"],[4,15,1,"Fabrique des Sextants"],[4,15,2,"Fabrique des Sextants"],[4,15,3,"Fabrique des Sextants"],[3,2,1,"Reprend « ses » Scarabées du Reliquaire"],[3,2,2,"Reprend « ses » Scarabées du Reliquaire"],[3,2,3,"Reprend « ses » Scarabées du Reliquaire"],[1,2,1,"Sauvegarde des Pièces d'armure uniques"],[1,2,2,"Sauvegarde des Pièces d'armure uniques"],[1,2,3,"Sauvegarde des Pièces d'armure uniques"],[2,2,1,"Achemine des Armes uniques"],[2,2,2,"Achemine des Armes uniques"],[2,2,3,"Achemine des Armes uniques"],[4,2,1,"Contrefait des Objets uniques"],[4,2,2,"Contrefait des Objets uniques"],[4,2,3,"Contrefait des Objets uniques"],[3,11,1,"Reçoit des « dons » de Scarabées de Divination"],[3,11,2,"Reçoit des « dons » de Scarabées de Divination"],[3,11,3,"Reçoit des « dons » de Scarabées de Divination"],[1,11,1,"Accumule des Cartes divinatoires"],[1,11,2,"Accumule des Cartes divinatoires"],[1,11,3,"Accumule des Cartes divinatoires"],[2,11,1,"Blanchit des Collections de Cartes divinatoires"],[2,11,2,"Blanchit des Collections de Cartes divinatoires"],[2,11,3,"Blanchit des Collections de Cartes divinatoires"],[4,11,1,"Essaye la Métamorphose de Cartes divinatoires"],[4,11,2,"Essaye la Métamorphose de Cartes divinatoires"],[4,11,3,"Essaye la Métamorphose de Cartes divinatoires"],[3,8,1,"Joue avec les Propriétés des Objets"],[3,8,2,"Joue avec les Propriétés des Objets"],[3,8,3,"Joue avec les Propriétés des Objets"],[1,8,1,"Mise sur le Résultat des Objets"],[1,8,2,"Mise sur le Résultat des Objets"],[1,8,3,"Mise sur le Résultat des Objets"],[2,8,1,"Parie sur la Valeur des Objets"],[2,8,2,"Parie sur la Valeur des Objets"],[2,8,3,"Parie sur la Valeur des Objets"],[4,8,1,"Cherche à comprendre les Probabilités des Objets"],[4,8,2,"Cherche à comprendre les Probabilités des Objets"],[4,8,3,"Cherche à comprendre les Probabilités des Objets"],[3,1,1,"Vole des Scarabées de Coffre-fort"],[3,1,2,"Vole des Scarabées de Coffre-fort"],[3,1,3,"Vole des Scarabées de Coffre-fort"],[1,1,1,"Entrepose des Coffres-forts"],[1,1,2,"Entrepose des Coffres-forts"],[1,1,3,"Entrepose des Coffres-forts"],[2,1,1,"Achemine un Convoi de marchandises"],[2,1,2,"Achemine un Convoi de marchandises"],[2,1,3,"Achemine un Convoi de marchandises"],[4,1,1,"Peaufine des Objets"],[4,1,2,"Peaufine des Objets"],[4,1,3,"Peaufine des Objets"],[3,6,1,"Pille de l'excellent Matériel de Cartographie"],[3,6,2,"Pille de l'excellent Matériel de Cartographie"],[3,6,3,"Pille de l'excellent Matériel de Cartographie"],[1,6,1,"Garde de l'excellent Matériel d'Armurier"],[1,6,2,"Garde de l'excellent Matériel d'Armurier"],[1,6,3,"Garde de l'excellent Matériel d'Armurier"],[2,6,1,"Achemine son Matériel personnel de Forgeron"],[2,6,2,"Achemine son Matériel personnel de Forgeron"],[2,6,3,"Achemine son Matériel personnel de Forgeron"],[4,6,1,"Souffle du verre (sacrés poumons !)"],[4,6,2,"Souffle du verre (sacrés poumons !)"],[4,6,3,"Souffle du verre (sacrés poumons !)"],[3,9,1,"« Trouve » des Scarabées de Pérandus (sale traître !)"],[3,9,2,"« Trouve » des Scarabées de Pérandus (sale traître !)"],[3,9,3,"« Trouve » des Scarabées de Pérandus (sale traître !)"],[1,9,1,"Accumule des Éclats d'Objets monétaires (c'est pitoyable !)"],[1,9,2,"Accumule des Éclats d'Objets monétaires (c'est pitoyable !)"],[1,9,3,"Accumule des Éclats d'Objets monétaires (c'est pitoyable !)"],[2,9,1,"Transporte des Objets monétaires altérant la Qualité"],[2,9,2,"Transporte des Objets monétaires altérant la Qualité"],[2,9,3,"Transporte des Objets monétaires altérant la Qualité"],[4,9,1,"Met des Pièces familliales en sûreté (quel imbécile !)"],[4,9,2,"Met des Pièces familliales en sûreté (quel imbécile !)"],[4,9,3,"Met des Pièces familliales en sûreté (quel imbécile !)"],[3,13,1,"S'empare de Scarabées de l'Ancien"],[3,13,2,"S'empare de Scarabées de l'Ancien"],[3,13,3,"S'empare de Scarabées de l'Ancien"],[1,13,1,"Assemble des Fragments"],[1,13,2,"Assemble des Fragments"],[1,13,3,"Assemble des Fragments"],[2,13,1,"Fait de la contrebande d'Essences"],[2,13,2,"Fait de la contrebande d'Essences"],[2,13,3,"Fait de la contrebande d'Essences"],[4,13,1,"Étudie des Fossiles"],[4,13,2,"Étudie des Fossiles"],[4,13,3,"Étudie des Fossiles"],[3,7,1,"Perçoit des Scarabées du Tourment"],[3,7,2,"Perçoit des Scarabées du Tourment"],[3,7,3,"Perçoit des Scarabées du Tourment"],[1,7,1,"Empoche des Objets monétaires (gagnés au jeu ?)"],[1,7,2,"Empoche des Objets monétaires (gagnés au jeu ?)"],[1,7,3,"Empoche des Objets monétaires (gagnés au jeu ?)"],[2,7,1,"Transfère un magot de Pièces d'argent"],[2,7,2,"Transfère un magot de Pièces d'argent"],[2,7,3,"Transfère un magot de Pièces d'argent"],[4,7,1,"Teste les limites de l'Implicite des Objets"],[4,7,2,"Teste les Variances numériques des Objets"],[4,7,3,"Imprègne des Objets avec de nouvelles Propriétés"],[3,17,1,"Piège des Réserves"],[3,17,2,"Piège des Réserves"],[3,17,3,"Piège des Réserves"],[1,17,1,"Protège des Objets contre le vol (serait-il paranoïaque ?)"],[1,17,2,"Protège des Objets contre le vol (serait-il paranoïaque ?)"],[1,17,3,"Protège des Objets contre le vol (serait-il paranoïaque ?)"],[2,17,1,"Truque des Assortiments d'Objets (il adore les mécanismes !)"],[2,17,2,"Truque des Assortiments d'Objets (il adore les mécanismes !)"],[2,17,3,"Truque des Assortiments d'Objets (il adore les mécanismes !)"],[4,17,1,"Œuvre à créer des Dilemmes avec des Objets"],[4,17,2,"Œuvre à créer des Dilemmes avec des Objets"],[4,17,3,"Œuvre à créer des Dilemmes avec des Objets"],[3,14,1,"Pique des Scarabées de Cartographie"],[3,14,2,"Pique des Scarabées de Cartographie"],[3,14,3,"Pique des Scarabées de Cartographie"],[1,14,1,"Met des Cartes rares en sûreté"],[1,14,2,"Met des Cartes rares en sûreté"],[1,14,3,"Met des Cartes rares en sûreté"],[2,14,1,"Déplace des Cartes d'un endroit à un autre"],[2,14,2,"Déplace des Cartes d'un endroit à un autre"],[2,14,3,"Déplace des Cartes d'un endroit à un autre"],[4,14,1,"Répertorie des Cartes uniques"],[4,14,2,"Répertorie des Cartes uniques"],[4,14,3,"Répertorie des Cartes uniques"],[3,12,1,"Usurpe des Scarabées du Bestiaire"],[3,12,2,"Usurpe des Scarabées du Bestiaire"],[3,12,3,"Usurpe des Scarabées du Bestiaire"],[1,12,1,"Canalise les Premiers"],[1,12,2,"Canalise les Premiers"],[1,12,3,"Canalise les Premiers"],[2,12,1,"Emporte des Talismans en pélerinage"],[2,12,2,"Emporte des Talismans en pélerinage"],[2,12,3,"Emporte des Talismans en pélerinage"],[4,12,1,"Imprègne des Amulettes de pouvoirs Talismaniques"],[4,12,2,"Imprègne des Amulettes de pouvoirs Talismaniques"],[4,12,3,"Imprègne des Amulettes de pouvoirs Talismaniques"],[3,3,1,"Cherche des Scarabées de Précurseur"],[3,3,2,"Cherche des Scarabées de Précurseur"],[3,3,3,"Cherche des Scarabées de Précurseur"],[1,3,1,"Enchante des Gants"],[1,3,2,"Enchante des Bottes"],[1,3,3,"Enchante des Casques"],[2,3,1,"Élabore des Pièges minutés (attention !)"],[2,3,2,"Élabore des Pièges minutés (attention !)"],[2,3,3,"Élabore des Pièges minutés (attention !)"],[4,3,1,"Met des Gemmes à l'épreuve du combat"],[4,3,2,"Met des Gemmes à l'épreuve du combat"],[4,3,3,"Met des Gemmes à l'épreuve du combat"],[3,4,1,"Sélectionne des Scarabées de Légion avant de s'en emparer"],[3,4,2,"Sélectionne des Scarabées de Légion avant de s'en emparer"],[3,4,3,"Sélectionne des Scarabées de Légion avant de s'en emparer"],[1,4,1,"Monte la garde devant une cache de Légion"],[1,4,2,"Monte la garde devant une cache de Légion"],[1,4,3,"Monte la garde devant une cache de Légion"],[2,4,1,"Transfère des Esquilles intemporelles"],[2,4,2,"Transfère des Esquilles intemporelles"],[2,4,3,"Transfère des Esquilles intemporelles"],[4,4,1,"Planque des Incubateurs"],[4,4,2,"Planque des Incubateurs"],[4,4,3,"Planque des Incubateurs"],[3,5,1,"Subtilise des Scarabées du Façonneur"],[3,5,2,"Subtilise des Scarabées du Façonneur"],[3,5,3,"Subtilise des Scarabées du Façonneur"],[1,5,1,"Range des Orbes altérant les Châsses"],[1,5,2,"Range des Orbes altérant les Châsses"],[1,5,3,"Range des Orbes altérant les Châsses"],[2,5,1,"Fait du trafic de Gemmes de haute Qualité"],[2,5,2,"Fait du trafic de Gemmes de haute Qualité"],[2,5,3,"Fait du trafic de Gemmes de haute Qualité"],[4,5,1,"Travaille des Châsses incolores"],[4,5,2,"Travaille des Châsses incolores"],[4,5,3,"Travaille des Châsses incolores"]]}
+{
+  "filename": "BetrayalTraitorRewards.dat",
+  "header": [
+    {
+      "name": "BetrayalJobsKey",
+      "rowid": 0,
+      "type": "ulong",
+      "key": "BetrayalJobs.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "BetrayalTargetsKey",
+      "rowid": 1,
+      "type": "ulong",
+      "key": "BetrayalTargets.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "BetrayalRanksKey",
+      "rowid": 2,
+      "type": "ulong",
+      "key": "BetrayalRanks.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Description",
+      "rowid": 3,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      3,
+      16,
+      1,
+      "Dérobe des Scarabées de Métamorphes"
+    ],
+    [
+      3,
+      16,
+      2,
+      "Dérobe des Scarabées de Métamorphes"
+    ],
+    [
+      3,
+      16,
+      3,
+      "Dérobe des Scarabées de Métamorphes"
+    ],
+    [
+      1,
+      16,
+      1,
+      "Préserve des Accessoires et des Pièces d'armure cryptés"
+    ],
+    [
+      1,
+      16,
+      2,
+      "Préserve des Accessoires et des Pièces d'armure cryptés"
+    ],
+    [
+      1,
+      16,
+      3,
+      "Préserve des Accessoires et des Pièces d'armure cryptés"
+    ],
+    [
+      2,
+      16,
+      1,
+      "Fait de la contrebande d'Accessoires et d'Armes cryptés"
+    ],
+    [
+      2,
+      16,
+      2,
+      "Fait de la contrebande d'Accessoires et d'Armes cryptés"
+    ],
+    [
+      2,
+      16,
+      3,
+      "Fait de la contrebande d'Accessoires et d'Armes cryptés"
+    ],
+    [
+      4,
+      16,
+      1,
+      "Extrait de la magie cryptée"
+    ],
+    [
+      4,
+      16,
+      2,
+      "Extrait de la magie cryptée"
+    ],
+    [
+      4,
+      16,
+      3,
+      "Extrait de la magie cryptée"
+    ],
+    [
+      3,
+      10,
+      1,
+      "Ramasse des Scarabées de Brèche"
+    ],
+    [
+      3,
+      10,
+      2,
+      "Ramasse des Scarabées de Brèche"
+    ],
+    [
+      3,
+      10,
+      3,
+      "Ramasse des Scarabées de Brèche"
+    ],
+    [
+      1,
+      10,
+      1,
+      "Stocke des Joyaux abyssaux"
+    ],
+    [
+      1,
+      10,
+      2,
+      "Stocke des Joyaux abyssaux"
+    ],
+    [
+      1,
+      10,
+      3,
+      "Stocke des Joyaux abyssaux"
+    ],
+    [
+      2,
+      10,
+      1,
+      "Transporte des Esquilles de Brèche"
+    ],
+    [
+      2,
+      10,
+      2,
+      "Transporte des Esquilles de Brèche"
+    ],
+    [
+      2,
+      10,
+      3,
+      "Transporte des Esquilles de Brèche"
+    ],
+    [
+      4,
+      10,
+      1,
+      "Enrichit des Pierres de Brèche"
+    ],
+    [
+      4,
+      10,
+      2,
+      "Enrichit des Pierres de Brèche"
+    ],
+    [
+      4,
+      10,
+      3,
+      "Enrichit des Pierres de Brèche"
+    ],
+    [
+      3,
+      15,
+      1,
+      "Fait main basse sur des Scarabées de Sulfite"
+    ],
+    [
+      3,
+      15,
+      2,
+      "Fait main basse sur des Scarabées de Sulfite"
+    ],
+    [
+      3,
+      15,
+      3,
+      "Fait main basse sur des Scarabées de Sulfite"
+    ],
+    [
+      1,
+      15,
+      1,
+      "Met des Orbes de Précurseur à l'abri"
+    ],
+    [
+      1,
+      15,
+      2,
+      "Met des Orbes de Précurseur à l'abri"
+    ],
+    [
+      1,
+      15,
+      3,
+      "Met des Orbes de Précurseur à l'abri"
+    ],
+    [
+      2,
+      15,
+      1,
+      "Fait du trafic d'Uniques érodés par le temps"
+    ],
+    [
+      2,
+      15,
+      2,
+      "Fait du trafic d'Uniques érodés par le temps"
+    ],
+    [
+      2,
+      15,
+      3,
+      "Fait du trafic d'Uniques érodés par le temps"
+    ],
+    [
+      4,
+      15,
+      1,
+      "Fabrique des Sextants"
+    ],
+    [
+      4,
+      15,
+      2,
+      "Fabrique des Sextants"
+    ],
+    [
+      4,
+      15,
+      3,
+      "Fabrique des Sextants"
+    ],
+    [
+      3,
+      2,
+      1,
+      "Reprend « ses » Scarabées du Reliquaire"
+    ],
+    [
+      3,
+      2,
+      2,
+      "Reprend « ses » Scarabées du Reliquaire"
+    ],
+    [
+      3,
+      2,
+      3,
+      "Reprend « ses » Scarabées du Reliquaire"
+    ],
+    [
+      1,
+      2,
+      1,
+      "Sauvegarde des Pièces d'armure uniques"
+    ],
+    [
+      1,
+      2,
+      2,
+      "Sauvegarde des Pièces d'armure uniques"
+    ],
+    [
+      1,
+      2,
+      3,
+      "Sauvegarde des Pièces d'armure uniques"
+    ],
+    [
+      2,
+      2,
+      1,
+      "Achemine des Armes uniques"
+    ],
+    [
+      2,
+      2,
+      2,
+      "Achemine des Armes uniques"
+    ],
+    [
+      2,
+      2,
+      3,
+      "Achemine des Armes uniques"
+    ],
+    [
+      4,
+      2,
+      1,
+      "Contrefait des Objets uniques"
+    ],
+    [
+      4,
+      2,
+      2,
+      "Contrefait des Objets uniques"
+    ],
+    [
+      4,
+      2,
+      3,
+      "Contrefait des Objets uniques"
+    ],
+    [
+      3,
+      11,
+      1,
+      "Reçoit des « dons » de Scarabées de Divination"
+    ],
+    [
+      3,
+      11,
+      2,
+      "Reçoit des « dons » de Scarabées de Divination"
+    ],
+    [
+      3,
+      11,
+      3,
+      "Reçoit des « dons » de Scarabées de Divination"
+    ],
+    [
+      1,
+      11,
+      1,
+      "Accumule des Cartes divinatoires"
+    ],
+    [
+      1,
+      11,
+      2,
+      "Accumule des Cartes divinatoires"
+    ],
+    [
+      1,
+      11,
+      3,
+      "Accumule des Cartes divinatoires"
+    ],
+    [
+      2,
+      11,
+      1,
+      "Blanchit des Collections de Cartes divinatoires"
+    ],
+    [
+      2,
+      11,
+      2,
+      "Blanchit des Collections de Cartes divinatoires"
+    ],
+    [
+      2,
+      11,
+      3,
+      "Blanchit des Collections de Cartes divinatoires"
+    ],
+    [
+      4,
+      11,
+      1,
+      "Essaye la Métamorphose de Cartes divinatoires"
+    ],
+    [
+      4,
+      11,
+      2,
+      "Essaye la Métamorphose de Cartes divinatoires"
+    ],
+    [
+      4,
+      11,
+      3,
+      "Essaye la Métamorphose de Cartes divinatoires"
+    ],
+    [
+      3,
+      8,
+      1,
+      "Joue avec les Propriétés des Objets"
+    ],
+    [
+      3,
+      8,
+      2,
+      "Joue avec les Propriétés des Objets"
+    ],
+    [
+      3,
+      8,
+      3,
+      "Joue avec les Propriétés des Objets"
+    ],
+    [
+      1,
+      8,
+      1,
+      "Mise sur le Résultat des Objets"
+    ],
+    [
+      1,
+      8,
+      2,
+      "Mise sur le Résultat des Objets"
+    ],
+    [
+      1,
+      8,
+      3,
+      "Mise sur le Résultat des Objets"
+    ],
+    [
+      2,
+      8,
+      1,
+      "Parie sur la Valeur des Objets"
+    ],
+    [
+      2,
+      8,
+      2,
+      "Parie sur la Valeur des Objets"
+    ],
+    [
+      2,
+      8,
+      3,
+      "Parie sur la Valeur des Objets"
+    ],
+    [
+      4,
+      8,
+      1,
+      "Cherche à comprendre les Probabilités des Objets"
+    ],
+    [
+      4,
+      8,
+      2,
+      "Cherche à comprendre les Probabilités des Objets"
+    ],
+    [
+      4,
+      8,
+      3,
+      "Cherche à comprendre les Probabilités des Objets"
+    ],
+    [
+      3,
+      1,
+      1,
+      "Vole des Scarabées de Coffre-fort"
+    ],
+    [
+      3,
+      1,
+      2,
+      "Vole des Scarabées de Coffre-fort"
+    ],
+    [
+      3,
+      1,
+      3,
+      "Vole des Scarabées de Coffre-fort"
+    ],
+    [
+      1,
+      1,
+      1,
+      "Entrepose des Coffres-forts"
+    ],
+    [
+      1,
+      1,
+      2,
+      "Entrepose des Coffres-forts"
+    ],
+    [
+      1,
+      1,
+      3,
+      "Entrepose des Coffres-forts"
+    ],
+    [
+      2,
+      1,
+      1,
+      "Achemine un Convoi de marchandises"
+    ],
+    [
+      2,
+      1,
+      2,
+      "Achemine un Convoi de marchandises"
+    ],
+    [
+      2,
+      1,
+      3,
+      "Achemine un Convoi de marchandises"
+    ],
+    [
+      4,
+      1,
+      1,
+      "Peaufine des Objets"
+    ],
+    [
+      4,
+      1,
+      2,
+      "Peaufine des Objets"
+    ],
+    [
+      4,
+      1,
+      3,
+      "Peaufine des Objets"
+    ],
+    [
+      3,
+      6,
+      1,
+      "Pille de l'excellent Matériel de Cartographie"
+    ],
+    [
+      3,
+      6,
+      2,
+      "Pille de l'excellent Matériel de Cartographie"
+    ],
+    [
+      3,
+      6,
+      3,
+      "Pille de l'excellent Matériel de Cartographie"
+    ],
+    [
+      1,
+      6,
+      1,
+      "Garde de l'excellent Matériel d'Armurier"
+    ],
+    [
+      1,
+      6,
+      2,
+      "Garde de l'excellent Matériel d'Armurier"
+    ],
+    [
+      1,
+      6,
+      3,
+      "Garde de l'excellent Matériel d'Armurier"
+    ],
+    [
+      2,
+      6,
+      1,
+      "Achemine son Matériel personnel de Forgeron"
+    ],
+    [
+      2,
+      6,
+      2,
+      "Achemine son Matériel personnel de Forgeron"
+    ],
+    [
+      2,
+      6,
+      3,
+      "Achemine son Matériel personnel de Forgeron"
+    ],
+    [
+      4,
+      6,
+      1,
+      "Souffle du verre (sacrés poumons !)"
+    ],
+    [
+      4,
+      6,
+      2,
+      "Souffle du verre (sacrés poumons !)"
+    ],
+    [
+      4,
+      6,
+      3,
+      "Souffle du verre (sacrés poumons !)"
+    ],
+    [
+      3,
+      9,
+      1,
+      "« Trouve » des Scarabées de Pérandus (sale traître !)"
+    ],
+    [
+      3,
+      9,
+      2,
+      "« Trouve » des Scarabées de Pérandus (sale traître !)"
+    ],
+    [
+      3,
+      9,
+      3,
+      "« Trouve » des Scarabées de Pérandus (sale traître !)"
+    ],
+    [
+      1,
+      9,
+      1,
+      "Accumule des Éclats d'Objets monétaires (c'est pitoyable !)"
+    ],
+    [
+      1,
+      9,
+      2,
+      "Accumule des Éclats d'Objets monétaires (c'est pitoyable !)"
+    ],
+    [
+      1,
+      9,
+      3,
+      "Accumule des Éclats d'Objets monétaires (c'est pitoyable !)"
+    ],
+    [
+      2,
+      9,
+      1,
+      "Transporte des Objets monétaires altérant la Qualité"
+    ],
+    [
+      2,
+      9,
+      2,
+      "Transporte des Objets monétaires altérant la Qualité"
+    ],
+    [
+      2,
+      9,
+      3,
+      "Transporte des Objets monétaires altérant la Qualité"
+    ],
+    [
+      4,
+      9,
+      1,
+      "Met des Pièces familliales en sûreté (quel imbécile !)"
+    ],
+    [
+      4,
+      9,
+      2,
+      "Met des Pièces familliales en sûreté (quel imbécile !)"
+    ],
+    [
+      4,
+      9,
+      3,
+      "Met des Pièces familliales en sûreté (quel imbécile !)"
+    ],
+    [
+      3,
+      13,
+      1,
+      "S'empare de Scarabées de l'Ancien"
+    ],
+    [
+      3,
+      13,
+      2,
+      "S'empare de Scarabées de l'Ancien"
+    ],
+    [
+      3,
+      13,
+      3,
+      "S'empare de Scarabées de l'Ancien"
+    ],
+    [
+      1,
+      13,
+      1,
+      "Assemble des Fragments"
+    ],
+    [
+      1,
+      13,
+      2,
+      "Assemble des Fragments"
+    ],
+    [
+      1,
+      13,
+      3,
+      "Assemble des Fragments"
+    ],
+    [
+      2,
+      13,
+      1,
+      "Fait de la contrebande d'Essences"
+    ],
+    [
+      2,
+      13,
+      2,
+      "Fait de la contrebande d'Essences"
+    ],
+    [
+      2,
+      13,
+      3,
+      "Fait de la contrebande d'Essences"
+    ],
+    [
+      4,
+      13,
+      1,
+      "Étudie des Fossiles"
+    ],
+    [
+      4,
+      13,
+      2,
+      "Étudie des Fossiles"
+    ],
+    [
+      4,
+      13,
+      3,
+      "Étudie des Fossiles"
+    ],
+    [
+      3,
+      7,
+      1,
+      "Perçoit des Scarabées du Tourment"
+    ],
+    [
+      3,
+      7,
+      2,
+      "Perçoit des Scarabées du Tourment"
+    ],
+    [
+      3,
+      7,
+      3,
+      "Perçoit des Scarabées du Tourment"
+    ],
+    [
+      1,
+      7,
+      1,
+      "Empoche des Objets monétaires (gagnés au jeu ?)"
+    ],
+    [
+      1,
+      7,
+      2,
+      "Empoche des Objets monétaires (gagnés au jeu ?)"
+    ],
+    [
+      1,
+      7,
+      3,
+      "Empoche des Objets monétaires (gagnés au jeu ?)"
+    ],
+    [
+      2,
+      7,
+      1,
+      "Transfère un magot de Pièces d'argent"
+    ],
+    [
+      2,
+      7,
+      2,
+      "Transfère un magot de Pièces d'argent"
+    ],
+    [
+      2,
+      7,
+      3,
+      "Transfère un magot de Pièces d'argent"
+    ],
+    [
+      4,
+      7,
+      1,
+      "Teste les limites de l'Implicite des Objets"
+    ],
+    [
+      4,
+      7,
+      2,
+      "Teste les Variances numériques des Objets"
+    ],
+    [
+      4,
+      7,
+      3,
+      "Imprègne des Objets avec de nouvelles Propriétés"
+    ],
+    [
+      3,
+      17,
+      1,
+      "Piège des Réserves"
+    ],
+    [
+      3,
+      17,
+      2,
+      "Piège des Réserves"
+    ],
+    [
+      3,
+      17,
+      3,
+      "Piège des Réserves"
+    ],
+    [
+      1,
+      17,
+      1,
+      "Protège des Objets contre le vol (serait-il paranoïaque ?)"
+    ],
+    [
+      1,
+      17,
+      2,
+      "Protège des Objets contre le vol (serait-il paranoïaque ?)"
+    ],
+    [
+      1,
+      17,
+      3,
+      "Protège des Objets contre le vol (serait-il paranoïaque ?)"
+    ],
+    [
+      2,
+      17,
+      1,
+      "Truque des Assortiments d'Objets (il adore les mécanismes !)"
+    ],
+    [
+      2,
+      17,
+      2,
+      "Truque des Assortiments d'Objets (il adore les mécanismes !)"
+    ],
+    [
+      2,
+      17,
+      3,
+      "Truque des Assortiments d'Objets (il adore les mécanismes !)"
+    ],
+    [
+      4,
+      17,
+      1,
+      "Œuvre à créer des Dilemmes avec des Objets"
+    ],
+    [
+      4,
+      17,
+      2,
+      "Œuvre à créer des Dilemmes avec des Objets"
+    ],
+    [
+      4,
+      17,
+      3,
+      "Œuvre à créer des Dilemmes avec des Objets"
+    ],
+    [
+      3,
+      14,
+      1,
+      "Pique des Scarabées de Cartographie"
+    ],
+    [
+      3,
+      14,
+      2,
+      "Pique des Scarabées de Cartographie"
+    ],
+    [
+      3,
+      14,
+      3,
+      "Pique des Scarabées de Cartographie"
+    ],
+    [
+      1,
+      14,
+      1,
+      "Met des Cartes rares en sûreté"
+    ],
+    [
+      1,
+      14,
+      2,
+      "Met des Cartes rares en sûreté"
+    ],
+    [
+      1,
+      14,
+      3,
+      "Met des Cartes rares en sûreté"
+    ],
+    [
+      2,
+      14,
+      1,
+      "Déplace des Cartes d'un endroit à un autre"
+    ],
+    [
+      2,
+      14,
+      2,
+      "Déplace des Cartes d'un endroit à un autre"
+    ],
+    [
+      2,
+      14,
+      3,
+      "Déplace des Cartes d'un endroit à un autre"
+    ],
+    [
+      4,
+      14,
+      1,
+      "Répertorie des Cartes uniques"
+    ],
+    [
+      4,
+      14,
+      2,
+      "Répertorie des Cartes uniques"
+    ],
+    [
+      4,
+      14,
+      3,
+      "Répertorie des Cartes uniques"
+    ],
+    [
+      3,
+      12,
+      1,
+      "Usurpe des Scarabées du Bestiaire"
+    ],
+    [
+      3,
+      12,
+      2,
+      "Usurpe des Scarabées du Bestiaire"
+    ],
+    [
+      3,
+      12,
+      3,
+      "Usurpe des Scarabées du Bestiaire"
+    ],
+    [
+      1,
+      12,
+      1,
+      "Canalise les Premiers"
+    ],
+    [
+      1,
+      12,
+      2,
+      "Canalise les Premiers"
+    ],
+    [
+      1,
+      12,
+      3,
+      "Canalise les Premiers"
+    ],
+    [
+      2,
+      12,
+      1,
+      "Emporte des Talismans en pélerinage"
+    ],
+    [
+      2,
+      12,
+      2,
+      "Emporte des Talismans en pélerinage"
+    ],
+    [
+      2,
+      12,
+      3,
+      "Emporte des Talismans en pélerinage"
+    ],
+    [
+      4,
+      12,
+      1,
+      "Imprègne des Amulettes de pouvoirs Talismaniques"
+    ],
+    [
+      4,
+      12,
+      2,
+      "Imprègne des Amulettes de pouvoirs Talismaniques"
+    ],
+    [
+      4,
+      12,
+      3,
+      "Imprègne des Amulettes de pouvoirs Talismaniques"
+    ],
+    [
+      3,
+      3,
+      1,
+      "Cherche des Scarabées de Précurseur"
+    ],
+    [
+      3,
+      3,
+      2,
+      "Cherche des Scarabées de Précurseur"
+    ],
+    [
+      3,
+      3,
+      3,
+      "Cherche des Scarabées de Précurseur"
+    ],
+    [
+      1,
+      3,
+      1,
+      "Enchante des Gants"
+    ],
+    [
+      1,
+      3,
+      2,
+      "Enchante des Bottes"
+    ],
+    [
+      1,
+      3,
+      3,
+      "Enchante des Casques"
+    ],
+    [
+      2,
+      3,
+      1,
+      "Élabore des Pièges minutés (attention !)"
+    ],
+    [
+      2,
+      3,
+      2,
+      "Élabore des Pièges minutés (attention !)"
+    ],
+    [
+      2,
+      3,
+      3,
+      "Élabore des Pièges minutés (attention !)"
+    ],
+    [
+      4,
+      3,
+      1,
+      "Met des Gemmes à l'épreuve du combat"
+    ],
+    [
+      4,
+      3,
+      2,
+      "Met des Gemmes à l'épreuve du combat"
+    ],
+    [
+      4,
+      3,
+      3,
+      "Met des Gemmes à l'épreuve du combat"
+    ],
+    [
+      3,
+      4,
+      1,
+      "Sélectionne des Scarabées de Légion avant de s'en emparer"
+    ],
+    [
+      3,
+      4,
+      2,
+      "Sélectionne des Scarabées de Légion avant de s'en emparer"
+    ],
+    [
+      3,
+      4,
+      3,
+      "Sélectionne des Scarabées de Légion avant de s'en emparer"
+    ],
+    [
+      1,
+      4,
+      1,
+      "Monte la garde devant une cache de Légion"
+    ],
+    [
+      1,
+      4,
+      2,
+      "Monte la garde devant une cache de Légion"
+    ],
+    [
+      1,
+      4,
+      3,
+      "Monte la garde devant une cache de Légion"
+    ],
+    [
+      2,
+      4,
+      1,
+      "Transfère des Esquilles intemporelles"
+    ],
+    [
+      2,
+      4,
+      2,
+      "Transfère des Esquilles intemporelles"
+    ],
+    [
+      2,
+      4,
+      3,
+      "Transfère des Esquilles intemporelles"
+    ],
+    [
+      4,
+      4,
+      1,
+      "Planque des Incubateurs"
+    ],
+    [
+      4,
+      4,
+      2,
+      "Planque des Incubateurs"
+    ],
+    [
+      4,
+      4,
+      3,
+      "Planque des Incubateurs"
+    ],
+    [
+      3,
+      5,
+      1,
+      "Subtilise des Scarabées du Façonneur"
+    ],
+    [
+      3,
+      5,
+      2,
+      "Subtilise des Scarabées du Façonneur"
+    ],
+    [
+      3,
+      5,
+      3,
+      "Subtilise des Scarabées du Façonneur"
+    ],
+    [
+      1,
+      5,
+      1,
+      "Range des Orbes altérant les Châsses"
+    ],
+    [
+      1,
+      5,
+      2,
+      "Range des Orbes altérant les Châsses"
+    ],
+    [
+      1,
+      5,
+      3,
+      "Range des Orbes altérant les Châsses"
+    ],
+    [
+      2,
+      5,
+      1,
+      "Fait du trafic de Gemmes de haute Qualité"
+    ],
+    [
+      2,
+      5,
+      2,
+      "Fait du trafic de Gemmes de haute Qualité"
+    ],
+    [
+      2,
+      5,
+      3,
+      "Fait du trafic de Gemmes de haute Qualité"
+    ],
+    [
+      4,
+      5,
+      1,
+      "Travaille des Châsses incolores"
+    ],
+    [
+      4,
+      5,
+      2,
+      "Travaille des Châsses incolores"
+    ],
+    [
+      4,
+      5,
+      3,
+      "Travaille des Châsses incolores"
+    ]
+  ]
+}

@@ -1,1 +1,101 @@
-{"filename":"DelveCraftingTags.dat","header":[{"name":"TagsKey","rowid":0,"type":"ulong","key":"Tags.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"ItemClass","rowid":1,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[[8,"Armas"],[134,"Joyas"],[16,"Armaduras"],[1,"Escudos"],[25,"Cascos"],[22,"Guantes"],[4,"Botas"],[57,"Mapas"],[3,"Amuletos"],[26,"Cinturones"],[2,"Anillos"],[21,"Carcajes"],[238,"Joyas abisales"],[632,"Contratos"],[672,"Planos"],[683,"Equipamiento de Heist"]]}
+{
+  "filename": "DelveCraftingTags.dat",
+  "header": [
+    {
+      "name": "TagsKey",
+      "rowid": 0,
+      "type": "ulong",
+      "key": "Tags.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "ItemClass",
+      "rowid": 1,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      8,
+      "Armas"
+    ],
+    [
+      134,
+      "Joyas"
+    ],
+    [
+      16,
+      "Armaduras"
+    ],
+    [
+      1,
+      "Escudos"
+    ],
+    [
+      25,
+      "Cascos"
+    ],
+    [
+      22,
+      "Guantes"
+    ],
+    [
+      4,
+      "Botas"
+    ],
+    [
+      57,
+      "Mapas"
+    ],
+    [
+      3,
+      "Amuletos"
+    ],
+    [
+      26,
+      "Cinturones"
+    ],
+    [
+      2,
+      "Anillos"
+    ],
+    [
+      21,
+      "Carcajes"
+    ],
+    [
+      238,
+      "Joyas abisales"
+    ],
+    [
+      632,
+      "Contratos"
+    ],
+    [
+      672,
+      "Planos"
+    ],
+    [
+      683,
+      "Equipamiento de Heist"
+    ]
+  ]
+}

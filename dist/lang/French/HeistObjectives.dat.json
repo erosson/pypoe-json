@@ -1,1 +1,452 @@
-{"filename":"HeistObjectives.dat","header":[{"name":"key0","rowid":0,"type":"ulong","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Unknown1","rowid":1,"type":"float","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0:.6f}","description":null},{"name":"Name","rowid":2,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[[7215,0.8500000238418579,"Bazira"],[7216,0.8500000238418579,"Tsvet Matveï"],[7217,0.8500000238418579,"Bazira"],[7218,0.8500000238418579,"Conte Géonor"],[7219,0.8500000238418579,"Le Scribe pourpre"],[7220,0.8500000238418579,"L'Horloger de minuit"],[7221,0.8500000238418579,"Aline Koltz"],[7222,0.8500000238418579,"Tsvet Matveï"],[7223,0.8500000238418579,"Administrateur Qotra"],[7224,0.8500000238418579,"Conte Géonor"],[7225,0.8500000238418579,"Nishem"],[7226,0.8500000238418579,"Aline Koltz"],[7227,0.8500000238418579,"Conte Géonor"],[7228,0.8500000238418579,"Marcine Clavus"],[7229,0.8500000238418579,"Marcine Clavus"],[7230,0.8500000238418579,"Marcine Clavus"],[7231,0.8500000238418579,"Marcine Clavus"],[7232,0.8500000238418579,"Marcine Clavus"],[7233,1.2000000476837158,"Selwyn Eddard"],[7234,1.2000000476837158,"Kondor Larcius"],[7235,1.2000000476837158,"Grond Œil de fer"],[7236,1.2000000476837158,"Bazira"],[7237,1.2000000476837158,"Bazira"],[7238,1.2000000476837158,"Kondor Larcius"],[7239,1.2000000476837158,"Le Scribe pourpre"],[7240,1.2000000476837158,"Administrateur Qotra"],[7241,1.2000000476837158,"Administrateur Qotra"],[7242,1.2000000476837158,"Le Scribe pourpre"],[7243,1.2000000476837158,"Remus Hestor"],[7244,1.2000000476837158,"Nishem"],[7245,1.2000000476837158,"Le Scribe pourpre"],[7246,1.2000000476837158,"Anton Laffrey"],[7247,1.5,"Tsvet Matveï"],[7248,1.5,"Kondor Larcius"],[7249,1.5,"L'Horloger de minuit"],[7250,1.5,"Bazira"],[7251,1.5,"Kondor Larcius"],[7252,1.5,"Le Scribe pourpre"],[7253,3,"Administrateur Qotra"],[7254,3,"Cardinal Uthélius"],[7255,3,"Castor Pollinius III"],[7256,0.30000001192092896,""],[7257,0.30000001192092896,""],[7258,0.30000001192092896,""],[7259,0.30000001192092896,""],[7260,0.30000001192092896,""],[7261,0.30000001192092896,""],[7262,0,"Karst"],[7263,0,"Karst"],[7264,0,"Karst"],[7265,0,"Tibbs"],[7266,0,"Tibbs"],[7267,0,"Huck"],[7268,0,"Huck"],[7269,0,"Vindéri"],[7270,0,"Vindéri"],[7271,0,"Gianna"],[7272,0,"Gianna"],[7273,0,"Tullina"],[7274,0,"Tullina"],[7275,0,"Niles"],[7276,0,"Niles"],[7277,0,"Nenet"],[7278,0,"Nenet"],[7279,0,"Isla"],[7280,0,"Isla"],[7281,0,"Isla"],[7282,0,"Adiyah"],[7283,0,"Adiyah"],[7284,0,"Adiyah"],[7285,0,"Whakano"],[7286,0,"Whakano"],[7287,0,"Whakano"],[7288,0,"Faustus"],[7290,0,"Faustus"],[7291,0,"Faustus"],[7292,0,"Kuraï"],[7293,0,"Kuraï"],[7294,0,"Kuraï"],[7295,0,"Kuraï"]]}
+{
+  "filename": "HeistObjectives.dat",
+  "header": [
+    {
+      "name": "key0",
+      "rowid": 0,
+      "type": "ulong",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown1",
+      "rowid": 1,
+      "type": "float",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0:.6f}",
+      "description": null
+    },
+    {
+      "name": "Name",
+      "rowid": 2,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      7215,
+      0.8500000238418579,
+      "Bazira"
+    ],
+    [
+      7216,
+      0.8500000238418579,
+      "Tsvet Matveï"
+    ],
+    [
+      7217,
+      0.8500000238418579,
+      "Bazira"
+    ],
+    [
+      7218,
+      0.8500000238418579,
+      "Conte Géonor"
+    ],
+    [
+      7219,
+      0.8500000238418579,
+      "Le Scribe pourpre"
+    ],
+    [
+      7220,
+      0.8500000238418579,
+      "L'Horloger de minuit"
+    ],
+    [
+      7221,
+      0.8500000238418579,
+      "Aline Koltz"
+    ],
+    [
+      7222,
+      0.8500000238418579,
+      "Tsvet Matveï"
+    ],
+    [
+      7223,
+      0.8500000238418579,
+      "Administrateur Qotra"
+    ],
+    [
+      7224,
+      0.8500000238418579,
+      "Conte Géonor"
+    ],
+    [
+      7225,
+      0.8500000238418579,
+      "Nishem"
+    ],
+    [
+      7226,
+      0.8500000238418579,
+      "Aline Koltz"
+    ],
+    [
+      7227,
+      0.8500000238418579,
+      "Conte Géonor"
+    ],
+    [
+      7228,
+      0.8500000238418579,
+      "Marcine Clavus"
+    ],
+    [
+      7229,
+      0.8500000238418579,
+      "Marcine Clavus"
+    ],
+    [
+      7230,
+      0.8500000238418579,
+      "Marcine Clavus"
+    ],
+    [
+      7231,
+      0.8500000238418579,
+      "Marcine Clavus"
+    ],
+    [
+      7232,
+      0.8500000238418579,
+      "Marcine Clavus"
+    ],
+    [
+      7233,
+      1.2000000476837158,
+      "Selwyn Eddard"
+    ],
+    [
+      7234,
+      1.2000000476837158,
+      "Kondor Larcius"
+    ],
+    [
+      7235,
+      1.2000000476837158,
+      "Grond Œil de fer"
+    ],
+    [
+      7236,
+      1.2000000476837158,
+      "Bazira"
+    ],
+    [
+      7237,
+      1.2000000476837158,
+      "Bazira"
+    ],
+    [
+      7238,
+      1.2000000476837158,
+      "Kondor Larcius"
+    ],
+    [
+      7239,
+      1.2000000476837158,
+      "Le Scribe pourpre"
+    ],
+    [
+      7240,
+      1.2000000476837158,
+      "Administrateur Qotra"
+    ],
+    [
+      7241,
+      1.2000000476837158,
+      "Administrateur Qotra"
+    ],
+    [
+      7242,
+      1.2000000476837158,
+      "Le Scribe pourpre"
+    ],
+    [
+      7243,
+      1.2000000476837158,
+      "Remus Hestor"
+    ],
+    [
+      7244,
+      1.2000000476837158,
+      "Nishem"
+    ],
+    [
+      7245,
+      1.2000000476837158,
+      "Le Scribe pourpre"
+    ],
+    [
+      7246,
+      1.2000000476837158,
+      "Anton Laffrey"
+    ],
+    [
+      7247,
+      1.5,
+      "Tsvet Matveï"
+    ],
+    [
+      7248,
+      1.5,
+      "Kondor Larcius"
+    ],
+    [
+      7249,
+      1.5,
+      "L'Horloger de minuit"
+    ],
+    [
+      7250,
+      1.5,
+      "Bazira"
+    ],
+    [
+      7251,
+      1.5,
+      "Kondor Larcius"
+    ],
+    [
+      7252,
+      1.5,
+      "Le Scribe pourpre"
+    ],
+    [
+      7253,
+      3,
+      "Administrateur Qotra"
+    ],
+    [
+      7254,
+      3,
+      "Cardinal Uthélius"
+    ],
+    [
+      7255,
+      3,
+      "Castor Pollinius III"
+    ],
+    [
+      7256,
+      0.30000001192092896,
+      ""
+    ],
+    [
+      7257,
+      0.30000001192092896,
+      ""
+    ],
+    [
+      7258,
+      0.30000001192092896,
+      ""
+    ],
+    [
+      7259,
+      0.30000001192092896,
+      ""
+    ],
+    [
+      7260,
+      0.30000001192092896,
+      ""
+    ],
+    [
+      7261,
+      0.30000001192092896,
+      ""
+    ],
+    [
+      7262,
+      0,
+      "Karst"
+    ],
+    [
+      7263,
+      0,
+      "Karst"
+    ],
+    [
+      7264,
+      0,
+      "Karst"
+    ],
+    [
+      7265,
+      0,
+      "Tibbs"
+    ],
+    [
+      7266,
+      0,
+      "Tibbs"
+    ],
+    [
+      7267,
+      0,
+      "Huck"
+    ],
+    [
+      7268,
+      0,
+      "Huck"
+    ],
+    [
+      7269,
+      0,
+      "Vindéri"
+    ],
+    [
+      7270,
+      0,
+      "Vindéri"
+    ],
+    [
+      7271,
+      0,
+      "Gianna"
+    ],
+    [
+      7272,
+      0,
+      "Gianna"
+    ],
+    [
+      7273,
+      0,
+      "Tullina"
+    ],
+    [
+      7274,
+      0,
+      "Tullina"
+    ],
+    [
+      7275,
+      0,
+      "Niles"
+    ],
+    [
+      7276,
+      0,
+      "Niles"
+    ],
+    [
+      7277,
+      0,
+      "Nenet"
+    ],
+    [
+      7278,
+      0,
+      "Nenet"
+    ],
+    [
+      7279,
+      0,
+      "Isla"
+    ],
+    [
+      7280,
+      0,
+      "Isla"
+    ],
+    [
+      7281,
+      0,
+      "Isla"
+    ],
+    [
+      7282,
+      0,
+      "Adiyah"
+    ],
+    [
+      7283,
+      0,
+      "Adiyah"
+    ],
+    [
+      7284,
+      0,
+      "Adiyah"
+    ],
+    [
+      7285,
+      0,
+      "Whakano"
+    ],
+    [
+      7286,
+      0,
+      "Whakano"
+    ],
+    [
+      7287,
+      0,
+      "Whakano"
+    ],
+    [
+      7288,
+      0,
+      "Faustus"
+    ],
+    [
+      7290,
+      0,
+      "Faustus"
+    ],
+    [
+      7291,
+      0,
+      "Faustus"
+    ],
+    [
+      7292,
+      0,
+      "Kuraï"
+    ],
+    [
+      7293,
+      0,
+      "Kuraï"
+    ],
+    [
+      7294,
+      0,
+      "Kuraï"
+    ],
+    [
+      7295,
+      0,
+      "Kuraï"
+    ]
+  ]
+}

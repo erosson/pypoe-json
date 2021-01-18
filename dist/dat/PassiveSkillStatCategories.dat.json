@@ -1,1 +1,117 @@
-{"filename":"PassiveSkillStatCategories.dat","header":[{"name":"Id","rowid":0,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":"True","file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Name","rowid":1,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[["Attributes","Attributes"],["Damage","Damage"],["Ailments","Ailments"],["Skill Speed","Skill Speed"],["Critical Strikes","Critical Strike"],["Accuracy","Accuracy"],["Other Offensive Stats","Other Offensive Stats"],["Life","Life"],["Mana","Mana"],["Defences","Defences"],["Resistances","Resistances"],["Other Survivability Stats","Other Survivability Stats"],["Minions","Minions"],["Totems","Totems"],["Traps","Traps"],["Mines","Mines"],["Charges","Charges"],["Flasks","Flasks"],["Misc","Misc"],["Ascendancy","Ascendancy"]]}
+{
+  "filename": "PassiveSkillStatCategories.dat",
+  "header": [
+    {
+      "name": "Id",
+      "rowid": 0,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": "True",
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Name",
+      "rowid": 1,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      "Attributes",
+      "Attributes"
+    ],
+    [
+      "Damage",
+      "Damage"
+    ],
+    [
+      "Ailments",
+      "Ailments"
+    ],
+    [
+      "Skill Speed",
+      "Skill Speed"
+    ],
+    [
+      "Critical Strikes",
+      "Critical Strike"
+    ],
+    [
+      "Accuracy",
+      "Accuracy"
+    ],
+    [
+      "Other Offensive Stats",
+      "Other Offensive Stats"
+    ],
+    [
+      "Life",
+      "Life"
+    ],
+    [
+      "Mana",
+      "Mana"
+    ],
+    [
+      "Defences",
+      "Defences"
+    ],
+    [
+      "Resistances",
+      "Resistances"
+    ],
+    [
+      "Other Survivability Stats",
+      "Other Survivability Stats"
+    ],
+    [
+      "Minions",
+      "Minions"
+    ],
+    [
+      "Totems",
+      "Totems"
+    ],
+    [
+      "Traps",
+      "Traps"
+    ],
+    [
+      "Mines",
+      "Mines"
+    ],
+    [
+      "Charges",
+      "Charges"
+    ],
+    [
+      "Flasks",
+      "Flasks"
+    ],
+    [
+      "Misc",
+      "Misc"
+    ],
+    [
+      "Ascendancy",
+      "Ascendancy"
+    ]
+  ]
+}

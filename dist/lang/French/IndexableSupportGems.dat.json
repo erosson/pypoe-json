@@ -1,1 +1,717 @@
-{"filename":"IndexableSupportGems.dat","header":[{"name":"Unknown0","rowid":0,"type":"int","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"BaseItemTypesKey","rowid":1,"type":"ulong","key":"BaseItemTypes.dat","key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null},{"name":"Name","rowid":2,"type":"ref|string","key":null,"key_id":null,"key_offset":0,"enum":null,"unique":false,"file_path":false,"file_ext":null,"display":null,"display_type":"{0}","description":null}],"data":[[1,35,"Projectiles multiples majeurs"],[2,304,"Manipulation du Néant"],[3,330,"Toxines corrosives"],[4,389,"Déchaînement"],[5,333,"Altérations déchaînées"],[6,316,"Pièges perfectionnés"],[7,282,"Dégâts des Mines et des Pièges"],[8,70,"Piège"],[9,427,"Assemblage rapide"],[10,347,"Invocation d'Apparition"],[11,193,"Armée élémentaire"],[12,67,"Étourdissement"],[13,343,"Canalisation infusée"],[14,346,"Appel ancestral"],[15,149,"Totem incantateur"],[16,388,"Intensification"],[17,345,"Cascade de sorts"],[18,209,"Ralentissement des Projectiles"],[19,402,"Onde de choc"],[20,477,"Second souffle"],[21,335,"Impitoyabilité"],[22,423,"Mine à charge creuse"],[23,150,"Mine à réaction en chaîne"],[24,55,"Inspiration"],[25,210,"Perte de Durée"],[26,306,"Affliction fulgurante"],[27,171,"Totem Baliste"],[28,410,"Rage"],[29,409,"Pulvérisation"],[30,190,"Charge de pouvoir par Coup critique"],[31,298,"Poison"],[32,145,"À bout portant"],[33,69,"Transpercement"],[34,264,"Conversion du physique en foudre"],[35,230,"Projectiles cruels"],[36,344,"Volée"],[37,336,"Assaut"],[38,418,"Lame nocturne"],[39,199,"Pièges multiples"],[40,376,"Totems multiples"],[41,187,"Multifrappe"],[42,188,"Écho de sortilèges"],[43,348,"Archer mirage"],[44,315,"Champ de Mines"],[45,189,"Dégâts de mêlée collatéraux"],[46,82,"Dégâts physiques de mêlée"],[47,148,"Dégâts lorsque la Vie est Pleine"],[48,419,"Souffre-douleur"],[49,60,"Drain de Mana"],[50,331,"Mutilation"],[51,174,"Pénétration de la foudre"],[52,59,"Drain de Vie"],[53,114,"Gain de Vie au Toucher"],[54,325,"Empoisonnement mineur"],[55,36,"Projectiles multiples mineurs"],[56,58,"Repoussement"],[57,84,"Rareté des Objets"],[58,147,"Volonté de fer"],[59,146,"Poigne de fer"],[60,280,"Innervation"],[61,424,"Légion infernale"],[62,110,"Vitesse des Créatures"],[63,111,"Vie des Créatures"],[64,106,"Dégâts des Créatures"],[65,107,"Augmentation de Durée"],[66,56,"Augmentation des Chances de coup critique"],[67,57,"Augmentation des Dégâts critiques"],[68,192,"Dégâts de Brûlure"],[69,40,"Augmentation de Zone d'effet"],[70,406,"Empalement"],[71,332,"Immolation"],[72,323,"Propagation d'Embrasement"],[73,278,"Morsure du froid"],[74,279,"Hypothermie"],[75,433,"Volée majeure"],[76,112,"Dégâts élémentaires des Attaques"],[77,245,"Générosité"],[78,359,"Pièges galvanisants"],[79,276,"Renforcement"],[80,178,"Scindement"],[81,157,"Chances de fuite"],[82,172,"Pénétration du feu"],[83,415,"Frénésie dévorante"],[84,37,"Vitesse des projectiles"],[85,85,"Vitesse d'incantation"],[86,34,"Vitesse d'attaque"],[87,382,"Drain d'énergie"],[88,204,"Charge d'endurance par Étourdissement en mêlée"],[89,140,"Propagation élémentaire"],[90,314,"Focalisation élémentaire"],[91,329,"Efficacité"],[92,328,"Décomposition"],[93,416,"Prédation"],[94,326,"Altérations funestes"],[95,194,"Toucher maudit"],[96,144,"Coup de grâce"],[97,305,"Destruction maîtrisée"],[98,105,"Effet concentré"],[99,108,"Conversion du froid en feu"],[100,173,"Pénétration du froid"],[101,307,"Amas de Pièges"],[102,401,"Combat rapproché"],[103,360,"Mines galvanisantes"],[104,367,"Toucher flétrissant"],[105,109,"Combustion"],[106,324,"Chances de Saignement"],[107,176,"Ricochet"],[108,320,"Déclenchement durant la Canalisation"],[109,213,"Déclenchement par Étourdissement subi"],[110,198,"Déclenchement en Tuant en mêlée"],[111,211,"Déclenchement en mourant"],[112,212,"Déclenchement par seuil de Dégâts subis"],[113,197,"Déclenchement par Coup critique infligé"],[114,334,"Brutalité"],[115,368,"Soutien : Frisson hivernal"],[116,141,"Magie du sang"],[117,113,"Soif de sang"],[118,163,"Aveuglement"],[119,270,"Blasphème"],[120,430,"Tir de barrage"],[121,429,"Nova de flèches"],[122,476,"Archimage"],[123,337,"Soutien : Éruption arcanique"],[124,39,"Précision accrue"],[125,41,"Dégâts de foudre supplémentaires"],[126,33,"Dégâts de feu Rajoutés"],[127,38,"Dégâts de froid supplémentaires"],[128,61,"Dégâts de chaos supplémentaires"],[129,486,"Poing de guerre"],[130,487,"Symboles précipités"],[131,488,"Ordres d'urgence"],[132,498,"Projectiles convergents"],[133,496,"Fatalité imminente"]]}
+{
+  "filename": "IndexableSupportGems.dat",
+  "header": [
+    {
+      "name": "Unknown0",
+      "rowid": 0,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "BaseItemTypesKey",
+      "rowid": 1,
+      "type": "ulong",
+      "key": "BaseItemTypes.dat",
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Name",
+      "rowid": 2,
+      "type": "ref|string",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      1,
+      35,
+      "Projectiles multiples majeurs"
+    ],
+    [
+      2,
+      304,
+      "Manipulation du Néant"
+    ],
+    [
+      3,
+      330,
+      "Toxines corrosives"
+    ],
+    [
+      4,
+      389,
+      "Déchaînement"
+    ],
+    [
+      5,
+      333,
+      "Altérations déchaînées"
+    ],
+    [
+      6,
+      316,
+      "Pièges perfectionnés"
+    ],
+    [
+      7,
+      282,
+      "Dégâts des Mines et des Pièges"
+    ],
+    [
+      8,
+      70,
+      "Piège"
+    ],
+    [
+      9,
+      427,
+      "Assemblage rapide"
+    ],
+    [
+      10,
+      347,
+      "Invocation d'Apparition"
+    ],
+    [
+      11,
+      193,
+      "Armée élémentaire"
+    ],
+    [
+      12,
+      67,
+      "Étourdissement"
+    ],
+    [
+      13,
+      343,
+      "Canalisation infusée"
+    ],
+    [
+      14,
+      346,
+      "Appel ancestral"
+    ],
+    [
+      15,
+      149,
+      "Totem incantateur"
+    ],
+    [
+      16,
+      388,
+      "Intensification"
+    ],
+    [
+      17,
+      345,
+      "Cascade de sorts"
+    ],
+    [
+      18,
+      209,
+      "Ralentissement des Projectiles"
+    ],
+    [
+      19,
+      402,
+      "Onde de choc"
+    ],
+    [
+      20,
+      477,
+      "Second souffle"
+    ],
+    [
+      21,
+      335,
+      "Impitoyabilité"
+    ],
+    [
+      22,
+      423,
+      "Mine à charge creuse"
+    ],
+    [
+      23,
+      150,
+      "Mine à réaction en chaîne"
+    ],
+    [
+      24,
+      55,
+      "Inspiration"
+    ],
+    [
+      25,
+      210,
+      "Perte de Durée"
+    ],
+    [
+      26,
+      306,
+      "Affliction fulgurante"
+    ],
+    [
+      27,
+      171,
+      "Totem Baliste"
+    ],
+    [
+      28,
+      410,
+      "Rage"
+    ],
+    [
+      29,
+      409,
+      "Pulvérisation"
+    ],
+    [
+      30,
+      190,
+      "Charge de pouvoir par Coup critique"
+    ],
+    [
+      31,
+      298,
+      "Poison"
+    ],
+    [
+      32,
+      145,
+      "À bout portant"
+    ],
+    [
+      33,
+      69,
+      "Transpercement"
+    ],
+    [
+      34,
+      264,
+      "Conversion du physique en foudre"
+    ],
+    [
+      35,
+      230,
+      "Projectiles cruels"
+    ],
+    [
+      36,
+      344,
+      "Volée"
+    ],
+    [
+      37,
+      336,
+      "Assaut"
+    ],
+    [
+      38,
+      418,
+      "Lame nocturne"
+    ],
+    [
+      39,
+      199,
+      "Pièges multiples"
+    ],
+    [
+      40,
+      376,
+      "Totems multiples"
+    ],
+    [
+      41,
+      187,
+      "Multifrappe"
+    ],
+    [
+      42,
+      188,
+      "Écho de sortilèges"
+    ],
+    [
+      43,
+      348,
+      "Archer mirage"
+    ],
+    [
+      44,
+      315,
+      "Champ de Mines"
+    ],
+    [
+      45,
+      189,
+      "Dégâts de mêlée collatéraux"
+    ],
+    [
+      46,
+      82,
+      "Dégâts physiques de mêlée"
+    ],
+    [
+      47,
+      148,
+      "Dégâts lorsque la Vie est Pleine"
+    ],
+    [
+      48,
+      419,
+      "Souffre-douleur"
+    ],
+    [
+      49,
+      60,
+      "Drain de Mana"
+    ],
+    [
+      50,
+      331,
+      "Mutilation"
+    ],
+    [
+      51,
+      174,
+      "Pénétration de la foudre"
+    ],
+    [
+      52,
+      59,
+      "Drain de Vie"
+    ],
+    [
+      53,
+      114,
+      "Gain de Vie au Toucher"
+    ],
+    [
+      54,
+      325,
+      "Empoisonnement mineur"
+    ],
+    [
+      55,
+      36,
+      "Projectiles multiples mineurs"
+    ],
+    [
+      56,
+      58,
+      "Repoussement"
+    ],
+    [
+      57,
+      84,
+      "Rareté des Objets"
+    ],
+    [
+      58,
+      147,
+      "Volonté de fer"
+    ],
+    [
+      59,
+      146,
+      "Poigne de fer"
+    ],
+    [
+      60,
+      280,
+      "Innervation"
+    ],
+    [
+      61,
+      424,
+      "Légion infernale"
+    ],
+    [
+      62,
+      110,
+      "Vitesse des Créatures"
+    ],
+    [
+      63,
+      111,
+      "Vie des Créatures"
+    ],
+    [
+      64,
+      106,
+      "Dégâts des Créatures"
+    ],
+    [
+      65,
+      107,
+      "Augmentation de Durée"
+    ],
+    [
+      66,
+      56,
+      "Augmentation des Chances de coup critique"
+    ],
+    [
+      67,
+      57,
+      "Augmentation des Dégâts critiques"
+    ],
+    [
+      68,
+      192,
+      "Dégâts de Brûlure"
+    ],
+    [
+      69,
+      40,
+      "Augmentation de Zone d'effet"
+    ],
+    [
+      70,
+      406,
+      "Empalement"
+    ],
+    [
+      71,
+      332,
+      "Immolation"
+    ],
+    [
+      72,
+      323,
+      "Propagation d'Embrasement"
+    ],
+    [
+      73,
+      278,
+      "Morsure du froid"
+    ],
+    [
+      74,
+      279,
+      "Hypothermie"
+    ],
+    [
+      75,
+      433,
+      "Volée majeure"
+    ],
+    [
+      76,
+      112,
+      "Dégâts élémentaires des Attaques"
+    ],
+    [
+      77,
+      245,
+      "Générosité"
+    ],
+    [
+      78,
+      359,
+      "Pièges galvanisants"
+    ],
+    [
+      79,
+      276,
+      "Renforcement"
+    ],
+    [
+      80,
+      178,
+      "Scindement"
+    ],
+    [
+      81,
+      157,
+      "Chances de fuite"
+    ],
+    [
+      82,
+      172,
+      "Pénétration du feu"
+    ],
+    [
+      83,
+      415,
+      "Frénésie dévorante"
+    ],
+    [
+      84,
+      37,
+      "Vitesse des projectiles"
+    ],
+    [
+      85,
+      85,
+      "Vitesse d'incantation"
+    ],
+    [
+      86,
+      34,
+      "Vitesse d'attaque"
+    ],
+    [
+      87,
+      382,
+      "Drain d'énergie"
+    ],
+    [
+      88,
+      204,
+      "Charge d'endurance par Étourdissement en mêlée"
+    ],
+    [
+      89,
+      140,
+      "Propagation élémentaire"
+    ],
+    [
+      90,
+      314,
+      "Focalisation élémentaire"
+    ],
+    [
+      91,
+      329,
+      "Efficacité"
+    ],
+    [
+      92,
+      328,
+      "Décomposition"
+    ],
+    [
+      93,
+      416,
+      "Prédation"
+    ],
+    [
+      94,
+      326,
+      "Altérations funestes"
+    ],
+    [
+      95,
+      194,
+      "Toucher maudit"
+    ],
+    [
+      96,
+      144,
+      "Coup de grâce"
+    ],
+    [
+      97,
+      305,
+      "Destruction maîtrisée"
+    ],
+    [
+      98,
+      105,
+      "Effet concentré"
+    ],
+    [
+      99,
+      108,
+      "Conversion du froid en feu"
+    ],
+    [
+      100,
+      173,
+      "Pénétration du froid"
+    ],
+    [
+      101,
+      307,
+      "Amas de Pièges"
+    ],
+    [
+      102,
+      401,
+      "Combat rapproché"
+    ],
+    [
+      103,
+      360,
+      "Mines galvanisantes"
+    ],
+    [
+      104,
+      367,
+      "Toucher flétrissant"
+    ],
+    [
+      105,
+      109,
+      "Combustion"
+    ],
+    [
+      106,
+      324,
+      "Chances de Saignement"
+    ],
+    [
+      107,
+      176,
+      "Ricochet"
+    ],
+    [
+      108,
+      320,
+      "Déclenchement durant la Canalisation"
+    ],
+    [
+      109,
+      213,
+      "Déclenchement par Étourdissement subi"
+    ],
+    [
+      110,
+      198,
+      "Déclenchement en Tuant en mêlée"
+    ],
+    [
+      111,
+      211,
+      "Déclenchement en mourant"
+    ],
+    [
+      112,
+      212,
+      "Déclenchement par seuil de Dégâts subis"
+    ],
+    [
+      113,
+      197,
+      "Déclenchement par Coup critique infligé"
+    ],
+    [
+      114,
+      334,
+      "Brutalité"
+    ],
+    [
+      115,
+      368,
+      "Soutien : Frisson hivernal"
+    ],
+    [
+      116,
+      141,
+      "Magie du sang"
+    ],
+    [
+      117,
+      113,
+      "Soif de sang"
+    ],
+    [
+      118,
+      163,
+      "Aveuglement"
+    ],
+    [
+      119,
+      270,
+      "Blasphème"
+    ],
+    [
+      120,
+      430,
+      "Tir de barrage"
+    ],
+    [
+      121,
+      429,
+      "Nova de flèches"
+    ],
+    [
+      122,
+      476,
+      "Archimage"
+    ],
+    [
+      123,
+      337,
+      "Soutien : Éruption arcanique"
+    ],
+    [
+      124,
+      39,
+      "Précision accrue"
+    ],
+    [
+      125,
+      41,
+      "Dégâts de foudre supplémentaires"
+    ],
+    [
+      126,
+      33,
+      "Dégâts de feu Rajoutés"
+    ],
+    [
+      127,
+      38,
+      "Dégâts de froid supplémentaires"
+    ],
+    [
+      128,
+      61,
+      "Dégâts de chaos supplémentaires"
+    ],
+    [
+      129,
+      486,
+      "Poing de guerre"
+    ],
+    [
+      130,
+      487,
+      "Symboles précipités"
+    ],
+    [
+      131,
+      488,
+      "Ordres d'urgence"
+    ],
+    [
+      132,
+      498,
+      "Projectiles convergents"
+    ],
+    [
+      133,
+      496,
+      "Fatalité imminente"
+    ]
+  ]
+}
