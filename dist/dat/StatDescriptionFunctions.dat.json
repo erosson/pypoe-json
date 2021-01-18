@@ -208,6 +208,18 @@
     [
       "MillisecondsToSecondsHalved",
       "milliseconds_to_seconds_halved"
+    ],
+    [
+      "DivideByTen1dp",
+      "divide_by_ten_1dp"
+    ],
+    [
+      "DivideByTen1dpIfRequired",
+      "divide_by_ten_1dp_if_required"
+    ],
+    [
+      "DivideByOneHundred2dpIfRequired",
+      "divide_by_one_hundred_2dp_if_required"
     ]
   ]
 }

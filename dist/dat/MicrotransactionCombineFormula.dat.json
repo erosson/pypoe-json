@@ -110,54 +110,6 @@
   "data": [
     [
       "MicrotransactionFireandIceHelmet",
-      1163,
-      [
-        1153,
-        1158
-      ],
-      "Art/Videos/MysteryBox_Combine.bk2",
-      [],
-      0,
-      0
-    ],
-    [
-      "MicrotransactionFireandIceBoots",
-      1164,
-      [
-        1154,
-        1159
-      ],
-      "Art/Videos/MysteryBox_Combine.bk2",
-      [],
-      0,
-      0
-    ],
-    [
-      "MicrotransactionFireandIceGloves",
-      1165,
-      [
-        1155,
-        1160
-      ],
-      "Art/Videos/MysteryBox_Combine.bk2",
-      [],
-      0,
-      0
-    ],
-    [
-      "MicrotransactionFireandIceBodyArmour",
-      1166,
-      [
-        1156,
-        1161
-      ],
-      "Art/Videos/MysteryBox_Combine.bk2",
-      [],
-      0,
-      0
-    ],
-    [
-      "MicrotransactionFireandIceCloak",
       1167,
       [
         1157,
@@ -169,11 +121,59 @@
       0
     ],
     [
-      "MicrotransactionFireandIceWings",
-      1056,
+      "MicrotransactionFireandIceBoots",
+      1168,
       [
-        1057,
-        1058
+        1158,
+        1163
+      ],
+      "Art/Videos/MysteryBox_Combine.bk2",
+      [],
+      0,
+      0
+    ],
+    [
+      "MicrotransactionFireandIceGloves",
+      1169,
+      [
+        1159,
+        1164
+      ],
+      "Art/Videos/MysteryBox_Combine.bk2",
+      [],
+      0,
+      0
+    ],
+    [
+      "MicrotransactionFireandIceBodyArmour",
+      1170,
+      [
+        1160,
+        1165
+      ],
+      "Art/Videos/MysteryBox_Combine.bk2",
+      [],
+      0,
+      0
+    ],
+    [
+      "MicrotransactionFireandIceCloak",
+      1171,
+      [
+        1161,
+        1166
+      ],
+      "Art/Videos/MysteryBox_Combine.bk2",
+      [],
+      0,
+      0
+    ],
+    [
+      "MicrotransactionFireandIceWings",
+      1060,
+      [
+        1061,
+        1062
       ],
       "Art/Videos/MysteryBox_Combine.bk2",
       [],
@@ -182,10 +182,10 @@
     ],
     [
       "MicrotransactionFireandIcePortalEffect",
-      1152,
+      1156,
       [
-        1150,
-        1151
+        1154,
+        1155
       ],
       "Art/Videos/MysteryBox_Combine.bk2",
       [],
@@ -194,18 +194,6 @@
     ],
     [
       "MicrotransactionFireandIceShield",
-      1172,
-      [
-        1170,
-        1171
-      ],
-      "Art/Videos/MysteryBox_Combine.bk2",
-      [],
-      0,
-      0
-    ],
-    [
-      "MicrotransactionFireandIceHorns",
       1176,
       [
         1174,
@@ -217,91 +205,19 @@
       0
     ],
     [
+      "MicrotransactionFireandIceHorns",
+      1180,
+      [
+        1178,
+        1179
+      ],
+      "Art/Videos/MysteryBox_Combine.bk2",
+      [],
+      0,
+      0
+    ],
+    [
       "MicrotransactionSinandInnocenceHelmet",
-      1532,
-      [
-        1502,
-        1517
-      ],
-      "Art/Videos/MysteryBox_Combine_InnocenceSin.bk2",
-      [],
-      0,
-      0
-    ],
-    [
-      "MicrotransactionSinandInnocenceBoots",
-      1533,
-      [
-        1503,
-        1518
-      ],
-      "Art/Videos/MysteryBox_Combine_InnocenceSin.bk2",
-      [],
-      0,
-      0
-    ],
-    [
-      "MicrotransactionSinandInnocenceGloves",
-      1534,
-      [
-        1504,
-        1519
-      ],
-      "Art/Videos/MysteryBox_Combine_InnocenceSin.bk2",
-      [],
-      0,
-      0
-    ],
-    [
-      "MicrotransactionSinandInnocenceBodyArmour",
-      1535,
-      [
-        1505,
-        1520
-      ],
-      "Art/Videos/MysteryBox_Combine_InnocenceSin.bk2",
-      [],
-      0,
-      0
-    ],
-    [
-      "MicrotransactionSinandInnocenceCloak",
-      1531,
-      [
-        1501,
-        1516
-      ],
-      "Art/Videos/MysteryBox_Combine_InnocenceSin.bk2",
-      [],
-      0,
-      0
-    ],
-    [
-      "MicrotransactionSinandInnocenceWings",
-      1530,
-      [
-        1500,
-        1515
-      ],
-      "Art/Videos/MysteryBox_Combine_InnocenceSin.bk2",
-      [],
-      0,
-      0
-    ],
-    [
-      "MicrotransactionSinandInnocencePortalEffect",
-      1538,
-      [
-        1514,
-        1529
-      ],
-      "Art/Videos/MysteryBox_Combine_InnocenceSin.bk2",
-      [],
-      0,
-      0
-    ],
-    [
-      "MicrotransactionSinandInnocenceHelmetAttachment",
       1536,
       [
         1506,
@@ -313,11 +229,11 @@
       0
     ],
     [
-      "MicrotransactionSinandInnocenceFootprintsEffect",
+      "MicrotransactionSinandInnocenceBoots",
       1537,
       [
-        1511,
-        1526
+        1507,
+        1522
       ],
       "Art/Videos/MysteryBox_Combine_InnocenceSin.bk2",
       [],
@@ -325,7 +241,19 @@
       0
     ],
     [
-      "MicrotransactionSinandInnocenceShortsword",
+      "MicrotransactionSinandInnocenceGloves",
+      1538,
+      [
+        1508,
+        1523
+      ],
+      "Art/Videos/MysteryBox_Combine_InnocenceSin.bk2",
+      [],
+      0,
+      0
+    ],
+    [
+      "MicrotransactionSinandInnocenceBodyArmour",
       1539,
       [
         1509,
@@ -337,7 +265,43 @@
       0
     ],
     [
-      "MicrotransactionSinandInnocenceLongsword",
+      "MicrotransactionSinandInnocenceCloak",
+      1535,
+      [
+        1505,
+        1520
+      ],
+      "Art/Videos/MysteryBox_Combine_InnocenceSin.bk2",
+      [],
+      0,
+      0
+    ],
+    [
+      "MicrotransactionSinandInnocenceWings",
+      1534,
+      [
+        1504,
+        1519
+      ],
+      "Art/Videos/MysteryBox_Combine_InnocenceSin.bk2",
+      [],
+      0,
+      0
+    ],
+    [
+      "MicrotransactionSinandInnocencePortalEffect",
+      1542,
+      [
+        1518,
+        1533
+      ],
+      "Art/Videos/MysteryBox_Combine_InnocenceSin.bk2",
+      [],
+      0,
+      0
+    ],
+    [
+      "MicrotransactionSinandInnocenceHelmetAttachment",
       1540,
       [
         1510,
@@ -349,11 +313,47 @@
       0
     ],
     [
-      "MicrotransactionSinandInnocenceShield",
-      1979,
+      "MicrotransactionSinandInnocenceFootprintsEffect",
+      1541,
       [
-        1977,
-        1978
+        1515,
+        1530
+      ],
+      "Art/Videos/MysteryBox_Combine_InnocenceSin.bk2",
+      [],
+      0,
+      0
+    ],
+    [
+      "MicrotransactionSinandInnocenceShortsword",
+      1543,
+      [
+        1513,
+        1528
+      ],
+      "Art/Videos/MysteryBox_Combine_InnocenceSin.bk2",
+      [],
+      0,
+      0
+    ],
+    [
+      "MicrotransactionSinandInnocenceLongsword",
+      1544,
+      [
+        1514,
+        1529
+      ],
+      "Art/Videos/MysteryBox_Combine_InnocenceSin.bk2",
+      [],
+      0,
+      0
+    ],
+    [
+      "MicrotransactionSinandInnocenceShield",
+      1985,
+      [
+        1983,
+        1984
       ],
       "Art/Videos/MysteryBox_Combine_InnocenceSin.bk2",
       [],
@@ -362,10 +362,10 @@
     ],
     [
       "SinandInnocenceWeapon",
-      3103,
+      3192,
       [
-        3101,
-        3102
+        3190,
+        3191
       ],
       "Art/Videos/MysteryBox_Combine_InnocenceSin.bk2",
       [],
@@ -374,54 +374,6 @@
     ],
     [
       "MicrotransactionApocalypseHelmet",
-      1657,
-      [
-        1627,
-        1642
-      ],
-      "Art/Videos/MysteryBox_Combine_Apocalypse.bk2",
-      [],
-      0,
-      0
-    ],
-    [
-      "MicrotransactionApocalypseBoots",
-      1658,
-      [
-        1628,
-        1643
-      ],
-      "Art/Videos/MysteryBox_Combine_Apocalypse.bk2",
-      [],
-      0,
-      0
-    ],
-    [
-      "MicrotransactionApocalypseGloves",
-      1659,
-      [
-        1629,
-        1644
-      ],
-      "Art/Videos/MysteryBox_Combine_Apocalypse.bk2",
-      [],
-      0,
-      0
-    ],
-    [
-      "MicrotransactionApocalypseBodyArmour",
-      1660,
-      [
-        1630,
-        1645
-      ],
-      "Art/Videos/MysteryBox_Combine_Apocalypse.bk2",
-      [],
-      0,
-      0
-    ],
-    [
-      "MicrotransactionApocalypseCloak",
       1661,
       [
         1631,
@@ -433,7 +385,7 @@
       0
     ],
     [
-      "MicrotransactionApocalypseWings",
+      "MicrotransactionApocalypseBoots",
       1662,
       [
         1632,
@@ -445,8 +397,44 @@
       0
     ],
     [
-      "MicrotransactionApocalypsePortalEffect",
+      "MicrotransactionApocalypseGloves",
       1663,
+      [
+        1633,
+        1648
+      ],
+      "Art/Videos/MysteryBox_Combine_Apocalypse.bk2",
+      [],
+      0,
+      0
+    ],
+    [
+      "MicrotransactionApocalypseBodyArmour",
+      1664,
+      [
+        1634,
+        1649
+      ],
+      "Art/Videos/MysteryBox_Combine_Apocalypse.bk2",
+      [],
+      0,
+      0
+    ],
+    [
+      "MicrotransactionApocalypseCloak",
+      1665,
+      [
+        1635,
+        1650
+      ],
+      "Art/Videos/MysteryBox_Combine_Apocalypse.bk2",
+      [],
+      0,
+      0
+    ],
+    [
+      "MicrotransactionApocalypseWings",
+      1666,
       [
         1636,
         1651
@@ -457,11 +445,23 @@
       0
     ],
     [
-      "MicrotransactionApocalypseHelmetAttachment",
-      1664,
+      "MicrotransactionApocalypsePortalEffect",
+      1667,
       [
-        1637,
-        1652
+        1640,
+        1655
+      ],
+      "Art/Videos/MysteryBox_Combine_Apocalypse.bk2",
+      [],
+      0,
+      0
+    ],
+    [
+      "MicrotransactionApocalypseHelmetAttachment",
+      1668,
+      [
+        1641,
+        1656
       ],
       "Art/Videos/MysteryBox_Combine_Apocalypse.bk2",
       [],
@@ -470,10 +470,10 @@
     ],
     [
       "MicrotransactionApocalypseFootprintsEffect",
-      1665,
+      1669,
       [
-        1638,
-        1653
+        1642,
+        1657
       ],
       "Art/Videos/MysteryBox_Combine_Apocalypse.bk2",
       [],
@@ -482,10 +482,10 @@
     ],
     [
       "MicrotransactionOriathHelmet",
-      1711,
+      1717,
       [
-        1703,
-        1707
+        1709,
+        1713
       ],
       "Art/Videos/MysteryBox_Combine_Oriathan.bk2",
       [],
@@ -494,10 +494,10 @@
     ],
     [
       "MicrotransactionOriathBoots",
-      1712,
+      1718,
       [
-        1704,
-        1708
+        1710,
+        1714
       ],
       "Art/Videos/MysteryBox_Combine_Oriathan.bk2",
       [],
@@ -506,10 +506,10 @@
     ],
     [
       "MicrotransactionOriathGloves",
-      1713,
+      1719,
       [
-        1705,
-        1709
+        1711,
+        1715
       ],
       "Art/Videos/MysteryBox_Combine_Oriathan.bk2",
       [],
@@ -518,21 +518,9 @@
     ],
     [
       "MicrotransactionOriathBodyArmour",
-      1714,
+      1720,
       [
-        1706,
-        1710
-      ],
-      "Art/Videos/MysteryBox_Combine_Oriathan.bk2",
-      [],
-      0,
-      0
-    ],
-    [
-      "MicrotransactionOriathWings",
-      1717,
-      [
-        1715,
+        1712,
         1716
       ],
       "Art/Videos/MysteryBox_Combine_Oriathan.bk2",
@@ -541,11 +529,23 @@
       0
     ],
     [
-      "MicrotransactionOriathCloak",
-      1720,
+      "MicrotransactionOriathWings",
+      1723,
       [
-        1718,
-        1719
+        1721,
+        1722
+      ],
+      "Art/Videos/MysteryBox_Combine_Oriathan.bk2",
+      [],
+      0,
+      0
+    ],
+    [
+      "MicrotransactionOriathCloak",
+      1726,
+      [
+        1724,
+        1725
       ],
       "Art/Videos/MysteryBox_Combine_Oriathan.bk2",
       [],
@@ -554,10 +554,10 @@
     ],
     [
       "MicrotransactionOriathPortalEffect",
-      1725,
+      1731,
       [
-        1723,
-        1724
+        1729,
+        1730
       ],
       "Art/Videos/MysteryBox_Combine_Oriathan.bk2",
       [],
@@ -566,10 +566,10 @@
     ],
     [
       "MicrotransactionOriathWeapon",
-      1732,
+      1738,
       [
-        1730,
-        1731
+        1736,
+        1737
       ],
       "Art/Videos/MysteryBox_Combine_Oriathan.bk2",
       [],
@@ -578,10 +578,10 @@
     ],
     [
       "OriathPet",
-      3120,
+      3209,
       [
-        3118,
-        3119
+        3207,
+        3208
       ],
       "Art/Videos/MysteryBox_Combine_Oriathan.bk2",
       [],
@@ -590,10 +590,10 @@
     ],
     [
       "MicrotransactionOriathHelmetAttachment",
-      1737,
+      1743,
       [
-        1735,
-        1736
+        1741,
+        1742
       ],
       "Art/Videos/MysteryBox_Combine_Oriathan.bk2",
       [],
@@ -602,10 +602,10 @@
     ],
     [
       "MicrotransactionOriathFootprintsEffect",
-      1740,
+      1746,
       [
-        1738,
-        1739
+        1744,
+        1745
       ],
       "Art/Videos/MysteryBox_Combine_Oriathan.bk2",
       [],
@@ -614,10 +614,10 @@
     ],
     [
       "MicrotransactionOriathShield",
-      1950,
+      1956,
       [
-        1768,
-        1825
+        1774,
+        1831
       ],
       "Art/Videos/MysteryBox_Combine_Oriathan.bk2",
       [],
@@ -626,10 +626,10 @@
     ],
     [
       "MicrotransactionStalkerWingsUpgrade2",
-      1778,
+      1784,
       [
-        1777,
-        290
+        1783,
+        294
       ],
       "Art/Videos/MysteryBox_Combine.bk2",
       [],
@@ -638,10 +638,10 @@
     ],
     [
       "MicrotransactionStalkerWingsUpgrade3",
-      1779,
+      1785,
       [
-        1778,
-        290
+        1784,
+        294
       ],
       "Art/Videos/MysteryBox_Combine.bk2",
       [
@@ -653,10 +653,10 @@
     ],
     [
       "MicrotransactionSpectreHelmet",
-      1865,
+      1871,
       [
-        1854,
-        1839
+        1860,
+        1845
       ],
       "Art/Videos/MysteryBox_Combine_Corsair .bk2",
       [],
@@ -665,91 +665,7 @@
     ],
     [
       "MicrotransactionSpectreBoots",
-      1866,
-      [
-        1857,
-        1842
-      ],
-      "Art/Videos/MysteryBox_Combine_Corsair .bk2",
-      [],
-      0,
-      0
-    ],
-    [
-      "MicrotransactionSpectreGloves",
-      1867,
-      [
-        1856,
-        1841
-      ],
-      "Art/Videos/MysteryBox_Combine_Corsair .bk2",
-      [],
-      0,
-      0
-    ],
-    [
-      "MicrotransactionSpectreBodyArmour",
-      1868,
-      [
-        1855,
-        1840
-      ],
-      "Art/Videos/MysteryBox_Combine_Corsair .bk2",
-      [],
-      0,
-      0
-    ],
-    [
-      "MicrotransactionSpectreWings",
-      1869,
-      [
-        1850,
-        1836
-      ],
-      "Art/Videos/MysteryBox_Combine_Corsair .bk2",
-      [],
-      0,
-      0
-    ],
-    [
-      "MicrotransactionSpectreCloak",
-      1870,
-      [
-        1851,
-        1837
-      ],
-      "Art/Videos/MysteryBox_Combine_Corsair .bk2",
-      [],
-      0,
-      0
-    ],
-    [
-      "MicrotransactionSpectrePortalEffect",
-      1871,
-      [
-        1859,
-        1844
-      ],
-      "Art/Videos/MysteryBox_Combine_Corsair .bk2",
-      [],
-      0,
-      0
-    ],
-    [
-      "MicrotransactionSpectreHood",
       1872,
-      [
-        1852,
-        1838
-      ],
-      "Art/Videos/MysteryBox_Combine_Corsair .bk2",
-      [],
-      0,
-      0
-    ],
-    [
-      "MicrotransactionSpectreStaff",
-      1873,
       [
         1863,
         1848
@@ -760,8 +676,8 @@
       0
     ],
     [
-      "MicrotransactionSpectreFootprintsEffect",
-      1874,
+      "MicrotransactionSpectreGloves",
+      1873,
       [
         1862,
         1847
@@ -772,10 +688,34 @@
       0
     ],
     [
-      "MicrotransactionSpectreCharacterEffect",
+      "MicrotransactionSpectreBodyArmour",
+      1874,
+      [
+        1861,
+        1846
+      ],
+      "Art/Videos/MysteryBox_Combine_Corsair .bk2",
+      [],
+      0,
+      0
+    ],
+    [
+      "MicrotransactionSpectreWings",
       1875,
       [
-        1858,
+        1856,
+        1842
+      ],
+      "Art/Videos/MysteryBox_Combine_Corsair .bk2",
+      [],
+      0,
+      0
+    ],
+    [
+      "MicrotransactionSpectreCloak",
+      1876,
+      [
+        1857,
         1843
       ],
       "Art/Videos/MysteryBox_Combine_Corsair .bk2",
@@ -784,11 +724,71 @@
       0
     ],
     [
-      "MicrotransactionMarakethCharacterEffectUpgrade4",
-      1963,
+      "MicrotransactionSpectrePortalEffect",
+      1877,
       [
-        1961,
-        291
+        1865,
+        1850
+      ],
+      "Art/Videos/MysteryBox_Combine_Corsair .bk2",
+      [],
+      0,
+      0
+    ],
+    [
+      "MicrotransactionSpectreHood",
+      1878,
+      [
+        1858,
+        1844
+      ],
+      "Art/Videos/MysteryBox_Combine_Corsair .bk2",
+      [],
+      0,
+      0
+    ],
+    [
+      "MicrotransactionSpectreStaff",
+      1879,
+      [
+        1869,
+        1854
+      ],
+      "Art/Videos/MysteryBox_Combine_Corsair .bk2",
+      [],
+      0,
+      0
+    ],
+    [
+      "MicrotransactionSpectreFootprintsEffect",
+      1880,
+      [
+        1868,
+        1853
+      ],
+      "Art/Videos/MysteryBox_Combine_Corsair .bk2",
+      [],
+      0,
+      0
+    ],
+    [
+      "MicrotransactionSpectreCharacterEffect",
+      1881,
+      [
+        1864,
+        1849
+      ],
+      "Art/Videos/MysteryBox_Combine_Corsair .bk2",
+      [],
+      0,
+      0
+    ],
+    [
+      "MicrotransactionMarakethCharacterEffectUpgrade4",
+      1969,
+      [
+        1967,
+        295
       ],
       "Art/Videos/MysteryBox_Combine.bk2",
       [
@@ -800,10 +800,10 @@
     ],
     [
       "MicrotransactionMarakethCharacterEffectUpgrade6",
-      1965,
+      1971,
       [
-        1963,
-        291
+        1969,
+        295
       ],
       "Art/Videos/MysteryBox_Combine.bk2",
       [
@@ -815,78 +815,6 @@
     ],
     [
       "MicrotransactionTranscendenceWings",
-      2045,
-      [
-        2017,
-        2031
-      ],
-      "Art/Videos/MysteryBox_Combine_Darkwood.bk2",
-      [],
-      0,
-      0
-    ],
-    [
-      "MicrotransactionTranscendenceBackAttachment",
-      2046,
-      [
-        2018,
-        2032
-      ],
-      "Art/Videos/MysteryBox_Combine_Darkwood.bk2",
-      [],
-      0,
-      0
-    ],
-    [
-      "MicrotransactionTranscendenceHood",
-      2047,
-      [
-        2019,
-        2033
-      ],
-      "Art/Videos/MysteryBox_Combine_Darkwood.bk2",
-      [],
-      0,
-      0
-    ],
-    [
-      "MicrotransactionTranscendenceHelmet",
-      2048,
-      [
-        2020,
-        2034
-      ],
-      "Art/Videos/MysteryBox_Combine_Darkwood.bk2",
-      [],
-      0,
-      0
-    ],
-    [
-      "MicrotransactionTranscendenceBoots",
-      2049,
-      [
-        2022,
-        2035
-      ],
-      "Art/Videos/MysteryBox_Combine_Darkwood.bk2",
-      [],
-      0,
-      0
-    ],
-    [
-      "MicrotransactionTranscendenceGloves",
-      2050,
-      [
-        2021,
-        2036
-      ],
-      "Art/Videos/MysteryBox_Combine_Darkwood.bk2",
-      [],
-      0,
-      0
-    ],
-    [
-      "MicrotransactionTranscendenceBodyArmour",
       2051,
       [
         2023,
@@ -898,7 +826,7 @@
       0
     ],
     [
-      "MicrotransactionTranscendenceDagger",
+      "MicrotransactionTranscendenceBackAttachment",
       2052,
       [
         2024,
@@ -910,7 +838,7 @@
       0
     ],
     [
-      "MicrotransactionTranscendencePortalEffect",
+      "MicrotransactionTranscendenceHood",
       2053,
       [
         2025,
@@ -922,8 +850,56 @@
       0
     ],
     [
-      "MicrotransactionTranscendenceFootprintsEffect",
+      "MicrotransactionTranscendenceHelmet",
       2054,
+      [
+        2026,
+        2040
+      ],
+      "Art/Videos/MysteryBox_Combine_Darkwood.bk2",
+      [],
+      0,
+      0
+    ],
+    [
+      "MicrotransactionTranscendenceBoots",
+      2055,
+      [
+        2028,
+        2041
+      ],
+      "Art/Videos/MysteryBox_Combine_Darkwood.bk2",
+      [],
+      0,
+      0
+    ],
+    [
+      "MicrotransactionTranscendenceGloves",
+      2056,
+      [
+        2027,
+        2042
+      ],
+      "Art/Videos/MysteryBox_Combine_Darkwood.bk2",
+      [],
+      0,
+      0
+    ],
+    [
+      "MicrotransactionTranscendenceBodyArmour",
+      2057,
+      [
+        2029,
+        2043
+      ],
+      "Art/Videos/MysteryBox_Combine_Darkwood.bk2",
+      [],
+      0,
+      0
+    ],
+    [
+      "MicrotransactionTranscendenceDagger",
+      2058,
       [
         2030,
         2044
@@ -934,11 +910,35 @@
       0
     ],
     [
-      "MicrotransactionCelestialAuraEffect2",
-      2006,
+      "MicrotransactionTranscendencePortalEffect",
+      2059,
       [
-        2005,
-        292
+        2031,
+        2045
+      ],
+      "Art/Videos/MysteryBox_Combine_Darkwood.bk2",
+      [],
+      0,
+      0
+    ],
+    [
+      "MicrotransactionTranscendenceFootprintsEffect",
+      2060,
+      [
+        2036,
+        2050
+      ],
+      "Art/Videos/MysteryBox_Combine_Darkwood.bk2",
+      [],
+      0,
+      0
+    ],
+    [
+      "MicrotransactionCelestialAuraEffect2",
+      2012,
+      [
+        2011,
+        296
       ],
       "Art/Videos/MysteryBox_Combine.bk2",
       [
@@ -950,10 +950,10 @@
     ],
     [
       "MicrotransactionCelestialAuraEffect3",
-      2007,
+      2013,
       [
-        2006,
-        292
+        2012,
+        296
       ],
       "Art/Videos/MysteryBox_Combine.bk2",
       [
@@ -965,9 +965,9 @@
     ],
     [
       "MicrotransactionWildGoldPortalEffect",
-      2146,
+      2154,
       [
-        2134
+        2142
       ],
       "Art/Videos/MysteryBox_Combine_Frontier.bk2",
       [
@@ -978,9 +978,9 @@
     ],
     [
       "MicrotransactionWildGoldWings",
-      2144,
+      2152,
       [
-        2130
+        2137
       ],
       "Art/Videos/MysteryBox_Combine_Frontier.bk2",
       [
@@ -991,9 +991,9 @@
     ],
     [
       "MicrotransactionWildGoldCloak",
-      2143,
+      2151,
       [
-        2129
+        2136
       ],
       "Art/Videos/MysteryBox_Combine_Frontier.bk2",
       [
@@ -1004,9 +1004,9 @@
     ],
     [
       "MicrotransactionWildGoldHood",
-      2138,
+      2146,
       [
-        2124
+        2131
       ],
       "Art/Videos/MysteryBox_Combine_Frontier.bk2",
       [
@@ -1017,59 +1017,7 @@
     ],
     [
       "MicrotransactionWildGoldHelmet",
-      2139,
-      [
-        2125
-      ],
-      "Art/Videos/MysteryBox_Combine_Frontier.bk2",
-      [
-        2
-      ],
-      0,
-      0
-    ],
-    [
-      "MicrotransactionWildGoldBoots",
-      2140,
-      [
-        2126
-      ],
-      "Art/Videos/MysteryBox_Combine_Frontier.bk2",
-      [
-        2
-      ],
-      0,
-      0
-    ],
-    [
-      "MicrotransactionWildGoldGloves",
-      2141,
-      [
-        2127
-      ],
-      "Art/Videos/MysteryBox_Combine_Frontier.bk2",
-      [
-        2
-      ],
-      0,
-      0
-    ],
-    [
-      "MicrotransactionWildGoldBodyArmour",
-      2142,
-      [
-        2128
-      ],
-      "Art/Videos/MysteryBox_Combine_Frontier.bk2",
-      [
-        2
-      ],
-      0,
-      0
-    ],
-    [
-      "MicrotransactionWildGoldFootprintsEffect",
-      2145,
+      2147,
       [
         2132
       ],
@@ -1081,10 +1029,62 @@
       0
     ],
     [
-      "MicrotransactionSilverWranglerPortalEffect",
-      2169,
+      "MicrotransactionWildGoldBoots",
+      2148,
       [
-        2157
+        2133
+      ],
+      "Art/Videos/MysteryBox_Combine_Frontier.bk2",
+      [
+        2
+      ],
+      0,
+      0
+    ],
+    [
+      "MicrotransactionWildGoldGloves",
+      2149,
+      [
+        2134
+      ],
+      "Art/Videos/MysteryBox_Combine_Frontier.bk2",
+      [
+        2
+      ],
+      0,
+      0
+    ],
+    [
+      "MicrotransactionWildGoldBodyArmour",
+      2150,
+      [
+        2135
+      ],
+      "Art/Videos/MysteryBox_Combine_Frontier.bk2",
+      [
+        2
+      ],
+      0,
+      0
+    ],
+    [
+      "MicrotransactionWildGoldFootprintsEffect",
+      2153,
+      [
+        2140
+      ],
+      "Art/Videos/MysteryBox_Combine_Frontier.bk2",
+      [
+        2
+      ],
+      0,
+      0
+    ],
+    [
+      "MicrotransactionSilverWranglerPortalEffect",
+      2177,
+      [
+        2165
       ],
       "Art/Videos/MysteryBox_Combine_Frontier.bk2",
       [
@@ -1095,9 +1095,9 @@
     ],
     [
       "MicrotransactionSilverWranglerWings",
-      2167,
+      2175,
       [
-        2153
+        2161
       ],
       "Art/Videos/MysteryBox_Combine_Frontier.bk2",
       [
@@ -1108,9 +1108,9 @@
     ],
     [
       "MicrotransactionSilverWranglerCloak",
-      2166,
+      2174,
       [
-        2152
+        2160
       ],
       "Art/Videos/MysteryBox_Combine_Frontier.bk2",
       [
@@ -1121,72 +1121,7 @@
     ],
     [
       "MicrotransactionSilverWranglerHat",
-      2161,
-      [
-        2147
-      ],
-      "Art/Videos/MysteryBox_Combine_Frontier.bk2",
-      [
-        2
-      ],
-      0,
-      0
-    ],
-    [
-      "MicrotransactionSilverWranglerHelmet",
-      2162,
-      [
-        2148
-      ],
-      "Art/Videos/MysteryBox_Combine_Frontier.bk2",
-      [
-        2
-      ],
-      0,
-      0
-    ],
-    [
-      "MicrotransactionSilverWranglerBoots",
-      2163,
-      [
-        2149
-      ],
-      "Art/Videos/MysteryBox_Combine_Frontier.bk2",
-      [
-        2
-      ],
-      0,
-      0
-    ],
-    [
-      "MicrotransactionSilverWranglerGloves",
-      2164,
-      [
-        2150
-      ],
-      "Art/Videos/MysteryBox_Combine_Frontier.bk2",
-      [
-        2
-      ],
-      0,
-      0
-    ],
-    [
-      "MicrotransactionSilverWranglerBodyArmour",
-      2165,
-      [
-        2151
-      ],
-      "Art/Videos/MysteryBox_Combine_Frontier.bk2",
-      [
-        2
-      ],
-      0,
-      0
-    ],
-    [
-      "MicrotransactionSilverWranglerFootprintsEffect",
-      2168,
+      2169,
       [
         2155
       ],
@@ -1198,11 +1133,76 @@
       0
     ],
     [
-      "MicrotransactionZenithBackAttachment2",
-      2215,
+      "MicrotransactionSilverWranglerHelmet",
+      2170,
       [
-        2214,
-        293
+        2156
+      ],
+      "Art/Videos/MysteryBox_Combine_Frontier.bk2",
+      [
+        2
+      ],
+      0,
+      0
+    ],
+    [
+      "MicrotransactionSilverWranglerBoots",
+      2171,
+      [
+        2157
+      ],
+      "Art/Videos/MysteryBox_Combine_Frontier.bk2",
+      [
+        2
+      ],
+      0,
+      0
+    ],
+    [
+      "MicrotransactionSilverWranglerGloves",
+      2172,
+      [
+        2158
+      ],
+      "Art/Videos/MysteryBox_Combine_Frontier.bk2",
+      [
+        2
+      ],
+      0,
+      0
+    ],
+    [
+      "MicrotransactionSilverWranglerBodyArmour",
+      2173,
+      [
+        2159
+      ],
+      "Art/Videos/MysteryBox_Combine_Frontier.bk2",
+      [
+        2
+      ],
+      0,
+      0
+    ],
+    [
+      "MicrotransactionSilverWranglerFootprintsEffect",
+      2176,
+      [
+        2163
+      ],
+      "Art/Videos/MysteryBox_Combine_Frontier.bk2",
+      [
+        2
+      ],
+      0,
+      0
+    ],
+    [
+      "MicrotransactionZenithBackAttachment2",
+      2223,
+      [
+        2222,
+        297
       ],
       "Art/Videos/MysteryBox_Combine.bk2",
       [
@@ -1214,10 +1214,10 @@
     ],
     [
       "MicrotransactionZenithBackAttachment3",
-      2216,
+      2224,
       [
-        2215,
-        293
+        2223,
+        297
       ],
       "Art/Videos/MysteryBox_Combine.bk2",
       [
@@ -1229,9 +1229,9 @@
     ],
     [
       "MicrotransactionJovialRingmasterHat",
-      2254,
+      2262,
       [
-        2240
+        2248
       ],
       "Art/Videos/MysteryBox_Combine_Carnival.bk2",
       [
@@ -1242,85 +1242,7 @@
     ],
     [
       "MicrotransactionJovialRingmasterHelmet",
-      2255,
-      [
-        2241
-      ],
-      "Art/Videos/MysteryBox_Combine_Carnival.bk2",
-      [
-        2
-      ],
-      0,
-      0
-    ],
-    [
-      "MicrotransactionJovialRingmasterBoots",
-      2256,
-      [
-        2242
-      ],
-      "Art/Videos/MysteryBox_Combine_Carnival.bk2",
-      [
-        2
-      ],
-      0,
-      0
-    ],
-    [
-      "MicrotransactionJovialRingmasterGloves",
-      2257,
-      [
-        2243
-      ],
-      "Art/Videos/MysteryBox_Combine_Carnival.bk2",
-      [
-        2
-      ],
-      0,
-      0
-    ],
-    [
-      "MicrotransactionJovialRingmasterBodyArmour",
-      2258,
-      [
-        2244
-      ],
-      "Art/Videos/MysteryBox_Combine_Carnival.bk2",
-      [
-        2
-      ],
-      0,
-      0
-    ],
-    [
-      "MicrotransactionJovialRingmasterCloak",
-      2259,
-      [
-        2245
-      ],
-      "Art/Videos/MysteryBox_Combine_Carnival.bk2",
-      [
-        2
-      ],
-      0,
-      0
-    ],
-    [
-      "MicrotransactionJovialRingmasterWings",
-      2260,
-      [
-        2246
-      ],
-      "Art/Videos/MysteryBox_Combine_Carnival.bk2",
-      [
-        2
-      ],
-      0,
-      0
-    ],
-    [
-      "MicrotransactionJovialRingmasterPortalEffect",
-      2261,
+      2263,
       [
         2249
       ],
@@ -1332,8 +1254,21 @@
       0
     ],
     [
-      "MicrotransactionJovialRingmasterFootprintsEffect",
-      2262,
+      "MicrotransactionJovialRingmasterBoots",
+      2264,
+      [
+        2250
+      ],
+      "Art/Videos/MysteryBox_Combine_Carnival.bk2",
+      [
+        2
+      ],
+      0,
+      0
+    ],
+    [
+      "MicrotransactionJovialRingmasterGloves",
+      2265,
       [
         2251
       ],
@@ -1345,10 +1280,75 @@
       0
     ],
     [
-      "MicrotransactionDismalHarlequinHat",
-      2277,
+      "MicrotransactionJovialRingmasterBodyArmour",
+      2266,
       [
-        2263
+        2252
+      ],
+      "Art/Videos/MysteryBox_Combine_Carnival.bk2",
+      [
+        2
+      ],
+      0,
+      0
+    ],
+    [
+      "MicrotransactionJovialRingmasterCloak",
+      2267,
+      [
+        2253
+      ],
+      "Art/Videos/MysteryBox_Combine_Carnival.bk2",
+      [
+        2
+      ],
+      0,
+      0
+    ],
+    [
+      "MicrotransactionJovialRingmasterWings",
+      2268,
+      [
+        2254
+      ],
+      "Art/Videos/MysteryBox_Combine_Carnival.bk2",
+      [
+        2
+      ],
+      0,
+      0
+    ],
+    [
+      "MicrotransactionJovialRingmasterPortalEffect",
+      2269,
+      [
+        2257
+      ],
+      "Art/Videos/MysteryBox_Combine_Carnival.bk2",
+      [
+        2
+      ],
+      0,
+      0
+    ],
+    [
+      "MicrotransactionJovialRingmasterFootprintsEffect",
+      2270,
+      [
+        2259
+      ],
+      "Art/Videos/MysteryBox_Combine_Carnival.bk2",
+      [
+        2
+      ],
+      0,
+      0
+    ],
+    [
+      "MicrotransactionDismalHarlequinHat",
+      2285,
+      [
+        2271
       ],
       "Art/Videos/MysteryBox_Combine_Carnival.bk2",
       [
@@ -1359,85 +1359,7 @@
     ],
     [
       "MicrotransactionDismalHarlequinHelmet",
-      2278,
-      [
-        2264
-      ],
-      "Art/Videos/MysteryBox_Combine_Carnival.bk2",
-      [
-        2
-      ],
-      0,
-      0
-    ],
-    [
-      "MicrotransactionDismalHarlequinBoots",
-      2279,
-      [
-        2265
-      ],
-      "Art/Videos/MysteryBox_Combine_Carnival.bk2",
-      [
-        2
-      ],
-      0,
-      0
-    ],
-    [
-      "MicrotransactionDismalHarlequinGloves",
-      2280,
-      [
-        2266
-      ],
-      "Art/Videos/MysteryBox_Combine_Carnival.bk2",
-      [
-        2
-      ],
-      0,
-      0
-    ],
-    [
-      "MicrotransactionDismalHarlequinBodyArmour",
-      2281,
-      [
-        2267
-      ],
-      "Art/Videos/MysteryBox_Combine_Carnival.bk2",
-      [
-        2
-      ],
-      0,
-      0
-    ],
-    [
-      "MicrotransactionDismalHarlequinCloak",
-      2282,
-      [
-        2268
-      ],
-      "Art/Videos/MysteryBox_Combine_Carnival.bk2",
-      [
-        2
-      ],
-      0,
-      0
-    ],
-    [
-      "MicrotransactionDismalHarlequinWings",
-      2283,
-      [
-        2269
-      ],
-      "Art/Videos/MysteryBox_Combine_Carnival.bk2",
-      [
-        2
-      ],
-      0,
-      0
-    ],
-    [
-      "MicrotransactionDismalHarlequinPortalEffect",
-      2284,
+      2286,
       [
         2272
       ],
@@ -1449,8 +1371,21 @@
       0
     ],
     [
-      "MicrotransactionDismalHarlequinFootprintsEffect",
-      2285,
+      "MicrotransactionDismalHarlequinBoots",
+      2287,
+      [
+        2273
+      ],
+      "Art/Videos/MysteryBox_Combine_Carnival.bk2",
+      [
+        2
+      ],
+      0,
+      0
+    ],
+    [
+      "MicrotransactionDismalHarlequinGloves",
+      2288,
       [
         2274
       ],
@@ -1462,11 +1397,76 @@
       0
     ],
     [
-      "GargoyleAmaranthinePremium",
-      3058,
+      "MicrotransactionDismalHarlequinBodyArmour",
+      2289,
       [
-        3057,
-        287
+        2275
+      ],
+      "Art/Videos/MysteryBox_Combine_Carnival.bk2",
+      [
+        2
+      ],
+      0,
+      0
+    ],
+    [
+      "MicrotransactionDismalHarlequinCloak",
+      2290,
+      [
+        2276
+      ],
+      "Art/Videos/MysteryBox_Combine_Carnival.bk2",
+      [
+        2
+      ],
+      0,
+      0
+    ],
+    [
+      "MicrotransactionDismalHarlequinWings",
+      2291,
+      [
+        2277
+      ],
+      "Art/Videos/MysteryBox_Combine_Carnival.bk2",
+      [
+        2
+      ],
+      0,
+      0
+    ],
+    [
+      "MicrotransactionDismalHarlequinPortalEffect",
+      2292,
+      [
+        2280
+      ],
+      "Art/Videos/MysteryBox_Combine_Carnival.bk2",
+      [
+        2
+      ],
+      0,
+      0
+    ],
+    [
+      "MicrotransactionDismalHarlequinFootprintsEffect",
+      2293,
+      [
+        2282
+      ],
+      "Art/Videos/MysteryBox_Combine_Carnival.bk2",
+      [
+        2
+      ],
+      0,
+      0
+    ],
+    [
+      "GargoyleAmaranthinePremium",
+      3147,
+      [
+        3146,
+        291
       ],
       "Art/Videos/MysteryBox_Combine.bk2",
       [
@@ -1478,10 +1478,10 @@
     ],
     [
       "ChiyouPremiumPet",
-      3166,
+      3255,
       [
-        3165,
-        287
+        3254,
+        291
       ],
       "Art/Videos/MysteryBox_Combine.bk2",
       [
@@ -1493,10 +1493,10 @@
     ],
     [
       "DragonHunterPremiumPet",
-      3131,
+      3220,
       [
-        3130,
-        287
+        3219,
+        291
       ],
       "Art/Videos/MysteryBox_Combine.bk2",
       [
@@ -1508,10 +1508,10 @@
     ],
     [
       "ArcticDragonHunterPremiumPet",
-      3145,
+      3234,
       [
-        3144,
-        287
+        3233,
+        291
       ],
       "Art/Videos/MysteryBox_Combine.bk2",
       [
@@ -1523,10 +1523,10 @@
     ],
     [
       "NineTailedFoxPremiumPet",
-      3149,
+      3238,
       [
-        3148,
-        287
+        3237,
+        291
       ],
       "Art/Videos/MysteryBox_Combine.bk2",
       [
@@ -1538,10 +1538,10 @@
     ],
     [
       "MicrotransactionBlackandWhiteHood",
-      2448,
+      2456,
       [
-        2420,
-        2434
+        2428,
+        2442
       ],
       "Art/Videos/MysteryBox_Combine_Polaris.bk2",
       [],
@@ -1550,79 +1550,7 @@
     ],
     [
       "MicrotransactionBlackandWhiteHelmet",
-      2449,
-      [
-        2421,
-        2435
-      ],
-      "Art/Videos/MysteryBox_Combine_Polaris.bk2",
-      [],
-      0,
-      0
-    ],
-    [
-      "MicrotransactionBlackandWhiteBoots",
-      2450,
-      [
-        2422,
-        2436
-      ],
-      "Art/Videos/MysteryBox_Combine_Polaris.bk2",
-      [],
-      0,
-      0
-    ],
-    [
-      "MicrotransactionBlackandWhiteGloves",
-      2451,
-      [
-        2423,
-        2437
-      ],
-      "Art/Videos/MysteryBox_Combine_Polaris.bk2",
-      [],
-      0,
-      0
-    ],
-    [
-      "MicrotransactionBlackandWhiteBodyArmour",
-      2452,
-      [
-        2424,
-        2438
-      ],
-      "Art/Videos/MysteryBox_Combine_Polaris.bk2",
-      [],
-      0,
-      0
-    ],
-    [
-      "MicrotransactionBlackandWhiteWings",
-      2453,
-      [
-        2425,
-        2439
-      ],
-      "Art/Videos/MysteryBox_Combine_Polaris.bk2",
-      [],
-      0,
-      0
-    ],
-    [
-      "MicrotransactionBlackandWhiteCloak",
-      2454,
-      [
-        2426,
-        2440
-      ],
-      "Art/Videos/MysteryBox_Combine_Polaris.bk2",
-      [],
-      0,
-      0
-    ],
-    [
-      "MicrotransactionBlackandWhitePortalEffect",
-      2456,
+      2457,
       [
         2429,
         2443
@@ -1633,8 +1561,8 @@
       0
     ],
     [
-      "MicrotransactionBlackandWhiteFootprintsEffect",
-      2455,
+      "MicrotransactionBlackandWhiteBoots",
+      2458,
       [
         2430,
         2444
@@ -1645,11 +1573,83 @@
       0
     ],
     [
-      "MicrotranasctionBlackandWhiteDragonPet",
-      3178,
+      "MicrotransactionBlackandWhiteGloves",
+      2459,
       [
-        3172,
-        3175
+        2431,
+        2445
+      ],
+      "Art/Videos/MysteryBox_Combine_Polaris.bk2",
+      [],
+      0,
+      0
+    ],
+    [
+      "MicrotransactionBlackandWhiteBodyArmour",
+      2460,
+      [
+        2432,
+        2446
+      ],
+      "Art/Videos/MysteryBox_Combine_Polaris.bk2",
+      [],
+      0,
+      0
+    ],
+    [
+      "MicrotransactionBlackandWhiteWings",
+      2461,
+      [
+        2433,
+        2447
+      ],
+      "Art/Videos/MysteryBox_Combine_Polaris.bk2",
+      [],
+      0,
+      0
+    ],
+    [
+      "MicrotransactionBlackandWhiteCloak",
+      2462,
+      [
+        2434,
+        2448
+      ],
+      "Art/Videos/MysteryBox_Combine_Polaris.bk2",
+      [],
+      0,
+      0
+    ],
+    [
+      "MicrotransactionBlackandWhitePortalEffect",
+      2464,
+      [
+        2437,
+        2451
+      ],
+      "Art/Videos/MysteryBox_Combine_Polaris.bk2",
+      [],
+      0,
+      0
+    ],
+    [
+      "MicrotransactionBlackandWhiteFootprintsEffect",
+      2463,
+      [
+        2438,
+        2452
+      ],
+      "Art/Videos/MysteryBox_Combine_Polaris.bk2",
+      [],
+      0,
+      0
+    ],
+    [
+      "MicrotranasctionBlackandWhiteDragonPet",
+      3267,
+      [
+        3261,
+        3264
       ],
       "Art/Videos/MysteryBox_Combine_Polaris.bk2",
       [
@@ -1661,10 +1661,10 @@
     ],
     [
       "MicrotransactionImaginationCharacterEffect2",
-      2526,
+      2534,
       [
-        2525,
-        295
+        2533,
+        299
       ],
       "Art/Videos/MysteryBox_Combine.bk2",
       [
@@ -1676,10 +1676,10 @@
     ],
     [
       "MicrotransactionImaginationCharacterEffect3",
-      2527,
+      2535,
       [
-        2526,
-        295
+        2534,
+        299
       ],
       "Art/Videos/MysteryBox_Combine.bk2",
       [
@@ -1691,10 +1691,10 @@
     ],
     [
       "MicrotransactionThaumaturgyHood",
-      2563,
+      2571,
       [
-        2548,
-        2533
+        2556,
+        2541
       ],
       "Art/Videos/MysteryBox_Combine_Thaumaturgy.bk2",
       [],
@@ -1703,10 +1703,10 @@
     ],
     [
       "MicrotransactionThaumaturgyHelmet",
-      2562,
+      2570,
       [
-        2547,
-        2532
+        2555,
+        2540
       ],
       "Art/Videos/MysteryBox_Combine_Thaumaturgy.bk2",
       [],
@@ -1715,67 +1715,7 @@
     ],
     [
       "MicrotransactionThaumaturgyBoots",
-      2564,
-      [
-        2549,
-        2534
-      ],
-      "Art/Videos/MysteryBox_Combine_Thaumaturgy.bk2",
-      [],
-      0,
-      0
-    ],
-    [
-      "MicrotransactionThaumaturgyGloves",
-      2565,
-      [
-        2550,
-        2535
-      ],
-      "Art/Videos/MysteryBox_Combine_Thaumaturgy.bk2",
-      [],
-      0,
-      0
-    ],
-    [
-      "MicrotransactionThaumaturgyBodyArmour",
-      2566,
-      [
-        2551,
-        2536
-      ],
-      "Art/Videos/MysteryBox_Combine_Thaumaturgy.bk2",
-      [],
-      0,
-      0
-    ],
-    [
-      "MicrotransactionThaumaturgyWings",
-      2567,
-      [
-        2552,
-        2537
-      ],
-      "Art/Videos/MysteryBox_Combine_Thaumaturgy.bk2",
-      [],
-      0,
-      0
-    ],
-    [
-      "MicrotransactionThaumaturgyCloak",
-      2568,
-      [
-        2553,
-        2538
-      ],
-      "Art/Videos/MysteryBox_Combine_Thaumaturgy.bk2",
-      [],
-      0,
-      0
-    ],
-    [
-      "MicrotransactionThaumaturgyFootprintsEffect",
-      2569,
+      2572,
       [
         2557,
         2542
@@ -1786,8 +1726,32 @@
       0
     ],
     [
-      "MicrotransactionThaumaturgyPortalEffect",
-      2570,
+      "MicrotransactionThaumaturgyGloves",
+      2573,
+      [
+        2558,
+        2543
+      ],
+      "Art/Videos/MysteryBox_Combine_Thaumaturgy.bk2",
+      [],
+      0,
+      0
+    ],
+    [
+      "MicrotransactionThaumaturgyBodyArmour",
+      2574,
+      [
+        2559,
+        2544
+      ],
+      "Art/Videos/MysteryBox_Combine_Thaumaturgy.bk2",
+      [],
+      0,
+      0
+    ],
+    [
+      "MicrotransactionThaumaturgyWings",
+      2575,
       [
         2560,
         2545
@@ -1798,11 +1762,47 @@
       0
     ],
     [
-      "GargoyleAmaranthinePremium2",
-      3058,
+      "MicrotransactionThaumaturgyCloak",
+      2576,
       [
-        3059,
-        287
+        2561,
+        2546
+      ],
+      "Art/Videos/MysteryBox_Combine_Thaumaturgy.bk2",
+      [],
+      0,
+      0
+    ],
+    [
+      "MicrotransactionThaumaturgyFootprintsEffect",
+      2578,
+      [
+        2565,
+        2550
+      ],
+      "Art/Videos/MysteryBox_Combine_Thaumaturgy.bk2",
+      [],
+      0,
+      0
+    ],
+    [
+      "MicrotransactionThaumaturgyPortalEffect",
+      2579,
+      [
+        2568,
+        2553
+      ],
+      "Art/Videos/MysteryBox_Combine_Thaumaturgy.bk2",
+      [],
+      0,
+      0
+    ],
+    [
+      "GargoyleAmaranthinePremium2",
+      3147,
+      [
+        3148,
+        291
       ],
       "Art/Videos/MysteryBox_Combine.bk2",
       [
@@ -1814,10 +1814,10 @@
     ],
     [
       "ChiyouPremiumPet2",
-      3166,
+      3255,
       [
-        3167,
-        287
+        3256,
+        291
       ],
       "Art/Videos/MysteryBox_Combine.bk2",
       [
@@ -1829,10 +1829,10 @@
     ],
     [
       "DragonHunterPremiumPet2",
-      3131,
+      3220,
       [
-        3132,
-        287
+        3221,
+        291
       ],
       "Art/Videos/MysteryBox_Combine.bk2",
       [
@@ -1844,10 +1844,10 @@
     ],
     [
       "ArcticDragonHunterPremiumPet2",
-      3145,
+      3234,
       [
-        3146,
-        287
+        3235,
+        291
       ],
       "Art/Videos/MysteryBox_Combine.bk2",
       [
@@ -1859,10 +1859,10 @@
     ],
     [
       "NineTailedFoxPremiumPet2",
-      3149,
+      3238,
       [
-        3150,
-        287
+        3239,
+        291
       ],
       "Art/Videos/MysteryBox_Combine.bk2",
       [
@@ -1874,10 +1874,10 @@
     ],
     [
       "BlackDragonPremiumPet2",
-      3173,
+      3262,
       [
-        3174,
-        287
+        3263,
+        291
       ],
       "Art/Videos/MysteryBox_Combine_Polaris.bk2",
       [
@@ -1889,10 +1889,10 @@
     ],
     [
       "WhiteDragonPremiumPet2",
-      3176,
+      3265,
       [
-        3177,
-        287
+        3266,
+        291
       ],
       "Art/Videos/MysteryBox_Combine_Polaris.bk2",
       [
@@ -1904,10 +1904,10 @@
     ],
     [
       "SunprismPremiumPet",
-      3184,
+      3273,
       [
-        3183,
-        287
+        3272,
+        291
       ],
       "Art/Videos/MysteryBox_Combine.bk2",
       [
@@ -1919,10 +1919,10 @@
     ],
     [
       "SunprismPremiumPet2",
-      3184,
+      3273,
       [
-        3185,
-        287
+        3274,
+        291
       ],
       "Art/Videos/MysteryBox_Combine.bk2",
       [
@@ -1934,10 +1934,10 @@
     ],
     [
       "MicrotransactionPandemoniumHood",
-      2669,
+      2678,
       [
-        2638,
-        2654
+        2647,
+        2663
       ],
       "Art/Videos/MysteryBox_Combine_AngelsAndDemons.bk2",
       [
@@ -1949,10 +1949,10 @@
     ],
     [
       "MicrotransactionPandemoniumHelmet",
-      2670,
+      2679,
       [
-        2639,
-        2655
+        2648,
+        2664
       ],
       "Art/Videos/MysteryBox_Combine_AngelsAndDemons.bk2",
       [
@@ -1964,84 +1964,9 @@
     ],
     [
       "MicrotransactionPandemoniumBoots",
-      2671,
+      2680,
       [
-        2640,
-        2656
-      ],
-      "Art/Videos/MysteryBox_Combine_AngelsAndDemons.bk2",
-      [
-        1,
-        1
-      ],
-      0,
-      0
-    ],
-    [
-      "MicrotransactionPandemoniumGloves",
-      2672,
-      [
-        2641,
-        2657
-      ],
-      "Art/Videos/MysteryBox_Combine_AngelsAndDemons.bk2",
-      [
-        1,
-        1
-      ],
-      0,
-      0
-    ],
-    [
-      "MicrotransactionPandemoniumBodyArmour",
-      2673,
-      [
-        2642,
-        2658
-      ],
-      "Art/Videos/MysteryBox_Combine_AngelsAndDemons.bk2",
-      [
-        1,
-        1
-      ],
-      0,
-      0
-    ],
-    [
-      "MicrotransactionPandemoniumCloak",
-      2674,
-      [
-        2643,
-        2659
-      ],
-      "Art/Videos/MysteryBox_Combine_AngelsAndDemons.bk2",
-      [
-        1,
-        1
-      ],
-      0,
-      0
-    ],
-    [
-      "MicrotransactionPandemoniumWings",
-      2675,
-      [
-        2644,
-        2660
-      ],
-      "Art/Videos/MysteryBox_Combine_AngelsAndDemons.bk2",
-      [
-        1,
-        1
-      ],
-      0,
-      0
-    ],
-    [
-      "MicrotransactionPandemoniumFootprintsEffect",
-      2676,
-      [
-        2650,
+        2649,
         2665
       ],
       "Art/Videos/MysteryBox_Combine_AngelsAndDemons.bk2",
@@ -2053,10 +1978,10 @@
       0
     ],
     [
-      "MicrotransactionPandemoniumPortalEffect",
-      2677,
+      "MicrotransactionPandemoniumGloves",
+      2681,
       [
-        2651,
+        2650,
         2666
       ],
       "Art/Videos/MysteryBox_Combine_AngelsAndDemons.bk2",
@@ -2068,11 +1993,86 @@
       0
     ],
     [
-      "MicrotransactionPandemoniumShield",
-      2678,
+      "MicrotransactionPandemoniumBodyArmour",
+      2682,
       [
-        2647,
-        2662
+        2651,
+        2667
+      ],
+      "Art/Videos/MysteryBox_Combine_AngelsAndDemons.bk2",
+      [
+        1,
+        1
+      ],
+      0,
+      0
+    ],
+    [
+      "MicrotransactionPandemoniumCloak",
+      2683,
+      [
+        2652,
+        2668
+      ],
+      "Art/Videos/MysteryBox_Combine_AngelsAndDemons.bk2",
+      [
+        1,
+        1
+      ],
+      0,
+      0
+    ],
+    [
+      "MicrotransactionPandemoniumWings",
+      2684,
+      [
+        2653,
+        2669
+      ],
+      "Art/Videos/MysteryBox_Combine_AngelsAndDemons.bk2",
+      [
+        1,
+        1
+      ],
+      0,
+      0
+    ],
+    [
+      "MicrotransactionPandemoniumFootprintsEffect",
+      2685,
+      [
+        2659,
+        2674
+      ],
+      "Art/Videos/MysteryBox_Combine_AngelsAndDemons.bk2",
+      [
+        1,
+        1
+      ],
+      0,
+      0
+    ],
+    [
+      "MicrotransactionPandemoniumPortalEffect",
+      2686,
+      [
+        2660,
+        2675
+      ],
+      "Art/Videos/MysteryBox_Combine_AngelsAndDemons.bk2",
+      [
+        1,
+        1
+      ],
+      0,
+      0
+    ],
+    [
+      "MicrotransactionPandemoniumShield",
+      2687,
+      [
+        2656,
+        2671
       ],
       "Art/Videos/MysteryBox_Combine_AngelsAndDemons.bk2",
       [
@@ -2084,10 +2084,10 @@
     ],
     [
       "DaughterOfSinPremiumPet",
-      3208,
+      3297,
       [
-        3207,
-        288
+        3296,
+        292
       ],
       "Art/Videos/MysteryBox_Combine.bk2",
       [
@@ -2099,10 +2099,10 @@
     ],
     [
       "DaughterOfSinPremiumPet2",
-      3208,
+      3297,
       [
-        3209,
-        288
+        3298,
+        292
       ],
       "Art/Videos/MysteryBox_Combine.bk2",
       [
@@ -2114,10 +2114,10 @@
     ],
     [
       "MicrotransactionGlimmerwoodWings2",
-      2690,
+      2699,
       [
-        2689,
-        296
+        2698,
+        300
       ],
       "Art/Videos/MysteryBox_Combine.bk2",
       [
@@ -2129,10 +2129,10 @@
     ],
     [
       "MicrotransactionGlimmerwoodWings3",
-      2691,
+      2700,
       [
-        2690,
-        296
+        2699,
+        300
       ],
       "Art/Videos/MysteryBox_Combine.bk2",
       [
@@ -2144,7 +2144,67 @@
     ],
     [
       "MicrotransactionTwilightPortalEffect",
-      2825,
+      2833,
+      [
+        2808,
+        2822
+      ],
+      "Art/Videos/MysteryBox_Combine_Twilight.bk2",
+      [],
+      0,
+      0
+    ],
+    [
+      "MicrotransactionTwilightFootprintsEffect",
+      2832,
+      [
+        2807,
+        2821
+      ],
+      "Art/Videos/MysteryBox_Combine_Twilight.bk2",
+      [],
+      0,
+      0
+    ],
+    [
+      "MicrotransactionTwilightWings",
+      2831,
+      [
+        2803,
+        2817
+      ],
+      "Art/Videos/MysteryBox_Combine_Twilight.bk2",
+      [],
+      0,
+      0
+    ],
+    [
+      "MicrotransactionTwilightCloak",
+      2830,
+      [
+        2802,
+        2816
+      ],
+      "Art/Videos/MysteryBox_Combine_Twilight.bk2",
+      [],
+      0,
+      0
+    ],
+    [
+      "MicrotransactionTwilightBodyArmour",
+      2829,
+      [
+        2801,
+        2815
+      ],
+      "Art/Videos/MysteryBox_Combine_Twilight.bk2",
+      [],
+      0,
+      0
+    ],
+    [
+      "MicrotransactionTwilightGloves",
+      2828,
       [
         2800,
         2814
@@ -2155,8 +2215,8 @@
       0
     ],
     [
-      "MicrotransactionTwilightFootprintsEffect",
-      2824,
+      "MicrotransactionTwilightBoots",
+      2827,
       [
         2799,
         2813
@@ -2167,71 +2227,11 @@
       0
     ],
     [
-      "MicrotransactionTwilightWings",
-      2823,
-      [
-        2795,
-        2809
-      ],
-      "Art/Videos/MysteryBox_Combine_Twilight.bk2",
-      [],
-      0,
-      0
-    ],
-    [
-      "MicrotransactionTwilightCloak",
-      2822,
-      [
-        2794,
-        2808
-      ],
-      "Art/Videos/MysteryBox_Combine_Twilight.bk2",
-      [],
-      0,
-      0
-    ],
-    [
-      "MicrotransactionTwilightBodyArmour",
-      2821,
-      [
-        2793,
-        2807
-      ],
-      "Art/Videos/MysteryBox_Combine_Twilight.bk2",
-      [],
-      0,
-      0
-    ],
-    [
-      "MicrotransactionTwilightGloves",
-      2820,
-      [
-        2792,
-        2806
-      ],
-      "Art/Videos/MysteryBox_Combine_Twilight.bk2",
-      [],
-      0,
-      0
-    ],
-    [
-      "MicrotransactionTwilightBoots",
-      2819,
-      [
-        2791,
-        2805
-      ],
-      "Art/Videos/MysteryBox_Combine_Twilight.bk2",
-      [],
-      0,
-      0
-    ],
-    [
       "MicrotransactionTwilightHelmet",
-      2818,
+      2826,
       [
-        2790,
-        2804
+        2798,
+        2812
       ],
       "Art/Videos/MysteryBox_Combine_Twilight.bk2",
       [],
@@ -2240,10 +2240,10 @@
     ],
     [
       "MicrotransactionTwilightHelmetAttachment",
-      2817,
+      2825,
       [
-        2789,
-        2803
+        2797,
+        2811
       ],
       "Art/Videos/MysteryBox_Combine_Twilight.bk2",
       [],
@@ -2252,10 +2252,10 @@
     ],
     [
       "FreyaPremiumPet",
-      3230,
+      3321,
       [
-        3229,
-        288
+        3320,
+        292
       ],
       "Art/Videos/MysteryBox_Combine.bk2",
       [],
@@ -2264,10 +2264,10 @@
     ],
     [
       "FreyaPremiumPet2",
-      3230,
+      3321,
       [
-        3231,
-        288
+        3322,
+        292
       ],
       "Art/Videos/MysteryBox_Combine.bk2",
       [],
@@ -2276,10 +2276,10 @@
     ],
     [
       "MicrotransactionGoddessBlueHelmet",
-      2726,
+      2735,
       [
-        2713,
-        289
+        2722,
+        293
       ],
       "Art/Videos/MysteryBox_Combine.bk2",
       [],
@@ -2288,10 +2288,10 @@
     ],
     [
       "MicrotransactionGoddessBlueBoots",
-      2727,
+      2736,
       [
-        2715,
-        289
+        2724,
+        293
       ],
       "Art/Videos/MysteryBox_Combine.bk2",
       [],
@@ -2300,10 +2300,10 @@
     ],
     [
       "MicrotransactionGoddessBlueGloves",
-      2728,
+      2737,
       [
-        2716,
-        289
+        2725,
+        293
       ],
       "Art/Videos/MysteryBox_Combine.bk2",
       [],
@@ -2312,10 +2312,10 @@
     ],
     [
       "MicrotransactionGoddessBlueBodyArmour",
-      2729,
+      2738,
       [
-        2717,
-        289
+        2726,
+        293
       ],
       "Art/Videos/MysteryBox_Combine.bk2",
       [],
@@ -2324,10 +2324,10 @@
     ],
     [
       "MicrotransactionGoddessBlueWeaponSkin",
-      2730,
+      2739,
       [
-        2720,
-        289
+        2729,
+        293
       ],
       "Art/Videos/MysteryBox_Combine.bk2",
       [],
@@ -2336,10 +2336,10 @@
     ],
     [
       "MicrotransactionGoddessBlueWeaponEffect",
-      2731,
+      2740,
       [
-        2721,
-        289
+        2730,
+        293
       ],
       "Art/Videos/MysteryBox_Combine.bk2",
       [],
@@ -2348,10 +2348,10 @@
     ],
     [
       "MicrotranasctionGoddessBlueCharacterEffect",
-      2732,
+      2741,
       [
-        2722,
-        289
+        2731,
+        293
       ],
       "Art/Videos/MysteryBox_Combine.bk2",
       [],
@@ -2360,10 +2360,10 @@
     ],
     [
       "MicrotransactionGoddessBlueFootprintsEffect",
-      2733,
+      2742,
       [
-        2723,
-        289
+        2732,
+        293
       ],
       "Art/Videos/MysteryBox_Combine.bk2",
       [],
@@ -2371,11 +2371,41 @@
       0
     ],
     [
-      "MicrotransactionCelestialTentaclesCharacterEffect2",
-      2827,
+      "GoddessPremiumPet",
+      3306,
       [
-        2826,
-        297
+        3305,
+        291
+      ],
+      "Art/Videos/MysteryBox_Combine.bk2",
+      [
+        1,
+        1
+      ],
+      90,
+      0
+    ],
+    [
+      "GoddessPremiumPet2",
+      3306,
+      [
+        3307,
+        291
+      ],
+      "Art/Videos/MysteryBox_Combine.bk2",
+      [
+        1,
+        1
+      ],
+      90,
+      0
+    ],
+    [
+      "MicrotransactionCelestialTentaclesCharacterEffect2",
+      2835,
+      [
+        2834,
+        301
       ],
       "Art/Videos/MysteryBox_Combine.bk2",
       [
@@ -2387,10 +2417,10 @@
     ],
     [
       "MicrotransactionCelestialTentaclesCharacterEffect3",
-      2828,
+      2836,
       [
-        2827,
-        297
+        2835,
+        301
       ],
       "Art/Videos/MysteryBox_Combine.bk2",
       [
@@ -2398,6 +2428,216 @@
         2
       ],
       0,
+      0
+    ],
+    [
+      "MicrotransactionNightfallDragonPet1",
+      3313,
+      [
+        3312,
+        291
+      ],
+      "Art/Videos/MysteryBox_Combine.bk2",
+      [
+        1,
+        1
+      ],
+      90,
+      0
+    ],
+    [
+      "MicrotransactionNightfallDragonPet2",
+      3313,
+      [
+        3314,
+        291
+      ],
+      "Art/Videos/MysteryBox_Combine.bk2",
+      [
+        1,
+        1
+      ],
+      90,
+      0
+    ],
+    [
+      "MicrotransactionDespairHelmetAttachment",
+      3012,
+      [
+        2984,
+        2998
+      ],
+      "Art/Videos/MysteryBox_Combine_Warlord.bk2",
+      [
+        1,
+        1
+      ],
+      0,
+      0
+    ],
+    [
+      "MicrotransactionDespairHelmet",
+      3013,
+      [
+        2985,
+        2999
+      ],
+      "Art/Videos/MysteryBox_Combine_Warlord.bk2",
+      [
+        1,
+        1
+      ],
+      0,
+      0
+    ],
+    [
+      "MicrotransactionDespairBoots",
+      3014,
+      [
+        2986,
+        3000
+      ],
+      "Art/Videos/MysteryBox_Combine_Warlord.bk2",
+      [
+        1,
+        1
+      ],
+      0,
+      0
+    ],
+    [
+      "MicrotransactionDespairGloves",
+      3015,
+      [
+        2987,
+        3001
+      ],
+      "Art/Videos/MysteryBox_Combine_Warlord.bk2",
+      [
+        1,
+        1
+      ],
+      0,
+      0
+    ],
+    [
+      "MicrotransactionDespairBodyArmour",
+      3016,
+      [
+        2988,
+        3002
+      ],
+      "Art/Videos/MysteryBox_Combine_Warlord.bk2",
+      [
+        1,
+        1
+      ],
+      0,
+      0
+    ],
+    [
+      "MicrotransactionDespairWings",
+      3018,
+      [
+        2990,
+        3004
+      ],
+      "Art/Videos/MysteryBox_Combine_Warlord.bk2",
+      [
+        1,
+        1
+      ],
+      0,
+      0
+    ],
+    [
+      "MicrotransactionDespairCloak",
+      3017,
+      [
+        2989,
+        3003
+      ],
+      "Art/Videos/MysteryBox_Combine_Warlord.bk2",
+      [
+        1,
+        1
+      ],
+      0,
+      0
+    ],
+    [
+      "MicrotransactionDespairPortalEffect",
+      3020,
+      [
+        2994,
+        3008
+      ],
+      "Art/Videos/MysteryBox_Combine_Warlord.bk2",
+      [
+        1,
+        1
+      ],
+      0,
+      0
+    ],
+    [
+      "MicrotransactionDespairFootprintsEffect",
+      3021,
+      [
+        2995,
+        3009
+      ],
+      "Art/Videos/MysteryBox_Combine_Warlord.bk2",
+      [
+        1,
+        1
+      ],
+      0,
+      0
+    ],
+    [
+      "MicrotransactionDespairHeraldEffect",
+      3019,
+      [
+        2997,
+        3011
+      ],
+      "Art/Videos/MysteryBox_Combine_Warlord.bk2",
+      [
+        1,
+        1
+      ],
+      0,
+      0
+    ],
+    [
+      "TwilightPegasusPremiumPet",
+      3335,
+      [
+        3334,
+        291
+      ],
+      "Art/Videos/MysteryBox_Combine.bk2",
+      [
+        1,
+        1
+      ],
+      90,
+      0
+    ],
+    [
+      "TwilightPegasusPremiumPet2",
+      3335,
+      [
+        3336,
+        291
+      ],
+      "Art/Videos/MysteryBox_Combine.bk2",
+      [
+        1,
+        1
+      ],
+      90,
       0
     ]
   ]

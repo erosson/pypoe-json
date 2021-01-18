@@ -566,6 +566,10 @@
       "Tu cuenta ha sido silenciada por un GM. Podrás hablar nuevamente en {0}."
     ],
     [
+      "MutedUntilSecondsConsole",
+      "Tu cuenta ha sido silenciada por un GM. Podrás hablar nuevamente en {0}."
+    ],
+    [
       "ObaPlayerJoined",
       "Debes ser valiente o estúpido si piensas que puedes robar mi tesoro y sobrevivir. ¡En cualquier caso, te aplaudo!"
     ],
@@ -2158,8 +2162,40 @@
       "Error: No eres el propietario de esta instancia"
     ],
     [
+      "ReceivedAtlasRespecPoint1",
+      "Has recibido un punto de reasignación de pasivas del Atlas."
+    ],
+    [
+      "ReceivedAtlasRespecPointN",
+      "Has recibido {0} puntos de reasignación de pasivas del Atlas."
+    ],
+    [
+      "ReceivedAtlasPassivePointN",
+      "Has recibido {1} puntos de habilidad del Atlas por {0}."
+    ],
+    [
+      "MavenNotEnoughBosses",
+      "La activación ha fallado. No has recolectado suficientes jefes de esta región del Atlas."
+    ],
+    [
+      "MavenCitadelNotUnlocked",
+      "La activación ha fallado. No has desbloqueado la ciudadela de esta región del Atlas."
+    ],
+    [
       "StashAffinityFailedNoRoom",
       "Tu pestaña de alijo con afinidad de {0} no tiene espacio suficiente para este objeto."
+    ],
+    [
+      "FailedToAddMavenToMap",
+      "No se ha podido agregar a la Especialista al mapa porque: {0}"
+    ],
+    [
+      "RitualFragmentNotValidForUse",
+      "La activación ha fallado. Los recipientes bañados en sangre solo se pueden usar en la liga de Ritual."
+    ],
+    [
+      "MapDeviceInvalidQuestState",
+      "La activación ha fallado. No tienes el estado de misión necesario."
     ]
   ]
 }

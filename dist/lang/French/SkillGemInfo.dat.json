@@ -1956,6 +1956,58 @@
       55,
       "http://down.qq.com/poe/videos/tutorial/TKineticBoltInspiration.bk2",
       []
+    ],
+    [
+      "SplittingSteel&Impale",
+      "Deal more physical damage and Impale enemies, dealing additional damage to enemies with additional hits. You can impale enemies up to five times to deal even more additional damage to enemies.",
+      "http://web.poecdn.com/public/videos/ShatteringSteel/ESplitImpale.bk2",
+      406,
+      "http://down.qq.com/poe/videos/tutorial/TSplitBrutal.bk2",
+      []
+    ],
+    [
+      "SplittingSteel&Brutality",
+      "Cause Splitting Steel to deal much more physical damage, but no elemental damage.\n\nTry not to get additional lightning, fire, cold or chaos damage with this support gem, as they will be reduced to zero.",
+      "http://web.poecdn.com/public/videos/ShatteringSteel/ESplitBrutality.bk2",
+      334,
+      "http://down.qq.com/poe/videos/tutorial/TSplitImpale.bk2",
+      []
+    ],
+    [
+      "SplittingSteel&LMP",
+      "Increase the number of shards that explode from Splitting Steel when you launch a Steel Shard, hitting more enemies.\n\nObtain the Greater Multiple Projectiles Support gem at later levels to throw more projectiles and hit larger groups of enemies.",
+      "http://web.poecdn.com/public/videos/ShatteringSteel/ESplitMultiProj.bk2",
+      36,
+      "http://down.qq.com/poe/videos/tutorial/TSplitMultiProj.bk2",
+      [
+        4
+      ]
+    ],
+    [
+      "SplittingSteel&ViciousProjectiles",
+      "Greatly increases the physical damage dealt by Splitting Steel, at the cost of slightly reducing your attack speed. An invaluable way to increase your damage.",
+      "http://web.poecdn.com/public/videos/ShatteringSteel/ESplitViciousProj.bk2",
+      230,
+      "http://down.qq.com/poe/videos/tutorial/TSplitViciousProj.bk2",
+      []
+    ],
+    [
+      "SplittingSteel&Maim",
+      "Support Splitting Steel with this gem to Maim enemies, dealing more physical damage and slowing their movement. Slow monsters to make them easier to avoid.",
+      "http://web.poecdn.com/public/videos/ShatteringSteel/ESplitMaim.bk2",
+      331,
+      "http://down.qq.com/poe/videos/tutorial/TSplitMaim.bk2",
+      [
+        4
+      ]
+    ],
+    [
+      "SplittingSteel&SlowerProjectiles",
+      "Slow down your bolts of Splitting Steel to make them hit harder for more damage. The projectiles that explode from Call of Steel's shards are also slower, and deal more damage.",
+      "http://web.poecdn.com/public/videos/ShatteringSteel/ESplitSlowerProj.bk2",
+      209,
+      "http://down.qq.com/poe/videos/tutorial/TSplitSlowerProj.bk2",
+      []
     ]
   ]
 }

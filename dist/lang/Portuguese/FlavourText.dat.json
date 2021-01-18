@@ -2071,7 +2071,7 @@
     [
       "UniqueOneHandAxe5",
       35728,
-      "\"Ei, você com essas mãos. Sabe qual é a jogada?\r\nMe dá um pouquinho de vida, e eu te dou mais morte do que você aguenta.\r\nQue tal?\""
+      "\"Mais sangue... dilacerar a carne... devo beber...\""
     ],
     [
       "UniqueGlovesStrInt2",
@@ -6694,6 +6694,81 @@
       "Uma boa espiã não esquece que está disfarçada."
     ],
     [
+      "DivinationCardHauntingShadows",
+      31356,
+      "Na calada da noite você pode se esconder das suas sombras, \r\nmas elas sempre lhe encontrarão pela manhã. "
+    ],
+    [
+      "DivinationCardAcclimatisation",
+      6686,
+      "<size:24>{O mundo está em constante mudança. \r\nFlorestas, uma vez exuberantes, agora se perdem sob areias movediças. \r\nGrandes cidades agora se afogam sob águas turbulentas. \r\nAdapte-se ou pereça. }"
+    ],
+    [
+      "DivinationCardTheWhiteout",
+      65530,
+      "<size:25>{Acharam que o inverno viera cedo, \r\nque a neve cobrira a terra, \r\nmas na verdade, chegara a hora \r\nde pagar pelos pecados.}"
+    ],
+    [
+      "DivinationCardSocietysRemorse",
+      23082,
+      "<size:28>{Vivemos para sonhar com mundos em que não estamos, \r\numa narrativa falsa que usamos para preenchermos nossas almas com dúvidas; \r\nO mundo já é belo, \r\nnão há necessidade de sonhar.}"
+    ],
+    [
+      "DivinationCardDyingLight",
+      61967,
+      "Até o mais brilhante eventualmente desaparece na escuridão. "
+    ],
+    [
+      "DivinationCardFatefulMeeting",
+      48206,
+      "<size:25>{Certas pessoas são como farois, iluminando o caminho de outras. Tive sorte de conhecer alguém assim. \r\n\r\n- Anton para Zhenya}"
+    ],
+    [
+      "DivinationCardTheAstromancer_",
+      50690,
+      "<size:24>{Diriam que ele era um homem perigoso, \r\ndesprovido de senso moral, \r\nmas do que isso importa, \r\nquando seu amor pela humanidade é inegável \r\ne a conclusão de seu trabalho beneficiaria a todos?}"
+    ],
+    [
+      "DivinationCardKeepersCorruption",
+      62509,
+      "Com grande poder vem... \r\n\r\n...Ainda mais poder."
+    ],
+    [
+      "DivinationCardRecklessAmbition",
+      60655,
+      "Por que se contentar quando mais nunca é o suficiente."
+    ],
+    [
+      "DivinationCardLoveThroughIce",
+      49986,
+      "\"Conheço uma moça pela qual arrancaria meu coração para proteger.\" \r\n\r\n- Derrok, o Sinhador "
+    ],
+    [
+      "DivinationCardDrapedInDreams",
+      28016,
+      "O traje que visto, \r\né pesado e vazio. \r\nUma tela, ao que parece, dando vida aos sonhos. "
+    ],
+    [
+      "DivinationCardThePatient",
+      35413,
+      "Tenho uma dor de cabela, alguém pode chamar uma enfermeira?"
+    ],
+    [
+      "DivinationCardTheLongWatch",
+      10729,
+      "<size:26>{A chuva cai forte, lama agarra em seus pés, enquanto o pensamento daqueles sob seus cuidados reforça sua determinação.}"
+    ],
+    [
+      "DivinationCardTheBearWoman",
+      50113,
+      "<size:24>{Pela ursa abençoado na caverna, \r\nCem dias passam em silêncio e escuridão, \r\naté a lua começar sua quarta passagem, \r\na ursa olta seu pelo bestial,\r\ne renasce, humana e completa.}"
+    ],
+    [
+      "DivinationCardBrotherhoodInExile",
+      57908,
+      "<size:25>{Buscando abrigo da noite, \r\nno calor da estalagem precária, \r\nantigos inimigos deixam a briga de lado, \r\npara fraternizarem com whiskey e gim.}"
+    ],
+    [
       "UniqueShieldStr11",
       32047,
       "\"Não é Karui, Azmeri e nem Vaal nas origens,\r\nmas uma coisa é certa. É muito, muito antigo.\"\r\n- Icius Perandus, Coleção de Antiguidades, Item 46"
@@ -9144,6 +9219,61 @@
       "O odor úmido e reprodutor da vida diminui, cedendo ao ritual puro da decomposição da morte."
     ],
     [
+      "MapWorldsDrySea",
+      53637,
+      "Onde antes as ondas batiam com força esmagadora,\r\nossos frágeis de madeira contam grandes histórias."
+    ],
+    [
+      "MapWorldsStagnation_",
+      48254,
+      "Com ajuda da chuva implacável,\r\na podridão devora uma nova vida em seu primeiro sinal."
+    ],
+    [
+      "MapWorldsBramblefall",
+      25038,
+      "Os menores vestígios da civilização\r\nresistem desafiantes aos tentáculos da natureza.\r\nUm esforço admirável, porém fútil."
+    ],
+    [
+      "MapWorldsFrozenCabins",
+      51403,
+      "A frota se encontra presa nos escombos do inverno,\r\naqueles à bordo jamais verão a luz do dia novamente. "
+    ],
+    [
+      "MapWorldsBurn",
+      23867,
+      "A terra rejeita os mortos,\r\nou os mortos rejeitam seu destino?"
+    ],
+    [
+      "MapWorldsCrimsonTownship",
+      10687,
+      "A chuva lavará as manchas,\r\nmas a loucura e as memórias jamais desaparecerão."
+    ],
+    [
+      "MapWorldsForkingRiver",
+      29382,
+      "Grandes torres de pedra estragaram a ordem natural\r\ne foram prontamente colocadas em seu devido lugar."
+    ],
+    [
+      "MapWorldsThaumaturgistsLair",
+      51477,
+      "O homem sempre tenta imitar seu criador,\r\ne só consegue corresponder à sua indiferença."
+    ],
+    [
+      "MapWorldsColdRiver",
+      9863,
+      "O gelo forja um caminho instável,\r\nassim como aqueles sob seu véu podem confirmar. "
+    ],
+    [
+      "MapWorldsForbiddenWoods",
+      26156,
+      "Todos os instintos te dizem para dormir pelo frio amargo; uma morte certa.\r\nAqueles que ainda sobreviverão devem lutar com cada movimento doloroso. "
+    ],
+    [
+      "MapWorldsSilo",
+      24497,
+      "Bênçãos impiedosas sussurram no lugar mais profundo e secreto. "
+    ],
+    [
       "MapWorldsChimera",
       14512,
       "Um de meus aprisionadores escondeu uma besta em seu coração. Agora sua verdadeira essência pode ser vista por todos."
@@ -9496,7 +9626,7 @@
     [
       "UniqueJewel142",
       29148,
-      "Damas costumavam ameaçar enviar as crianças teimosas\r\nda nobreza aos fossos embaixo da Grande Arena."
+      "Damas costumavam ameaçar enviar as crianças teimosas\r\nda nobreza aos fossos embaixo da Grande Arena.\r\nPara os filhos de escravos, era mais que apenas um a ameaça."
     ],
     [
       "UniqueJewel143",
@@ -9566,7 +9696,7 @@
     [
       "UniqueHelmetStrInt18x",
       52782,
-      "\"Acreditava ter entendito bem completamente o Protótipo #112, até a cobaia com ancestralidade Azmeri o colocar. Serei assombradi pelos resultados desse teste o resto da vida.\" - Pesquisador Graven"
+      "\"Acreditava ter entendito bem completamente o Protótipo #112, até a cobaia com ancestralidade Azmeri o colocar. Serei assombrado pelos resultados desse pelo resto da minha vida.\" - Pesquisador Graven"
     ],
     [
       "UniqueGlovesDex6",
@@ -9586,7 +9716,7 @@
     [
       "UniqueShieldStrInt13",
       40776,
-      "O sucesso de Chitus veio de sua astúcia, tomando riscos calculados para que grandes perigos fossem evitados."
+      "O sucesso de Chitus veio de sua astúcia, tomando riscos calculados para que os maiores perigos fossem evitados."
     ],
     [
       "UniqueAmulet62",
@@ -9701,7 +9831,7 @@
     [
       "UniqueHelmetStrInt19",
       15014,
-      "A linha que divide a esperança e o medo,\r\nvida e morte, multidão e aglomeração,\r\né tão fina quanto um sussurro."
+      "A linha que separa esperança e medo,\r\nvida e morte, multidão e ralé,\r\né fina como agulha."
     ],
     [
       "UniqueBelt39",
@@ -9877,6 +10007,71 @@
       "UniqueJewel151",
       24568,
       "Seu aprendiz passa horas trabalhando o aço,\r\ne o resultado final é derretido sem dó.\r\nCada um feito melhor do que o outro.\r\nCada um feito mais rapidamente.\r\nEla conhece bem o caminho."
+    ],
+    [
+      "UniqueShieldDexInt8",
+      42567,
+      "É preciso ter cautela ao fazer experimentos horrendos com carne corrompida."
+    ],
+    [
+      "UniqueRing69",
+      51378,
+      "Além do véu da morte, uma chama queima\r\npela luz de quem a noite nasce."
+    ],
+    [
+      "UniqueGlovesStrInt12",
+      14979,
+      "Um sacrifício de sangue invoca Sua vingança.\r\nQue os justos se tornem a Mão de Deus."
+    ],
+    [
+      "UniqueBelt41",
+      7746,
+      "O fardo é mais pesado não para os que morreram,\r\nmas para aqueles que vivem."
+    ],
+    [
+      "UniqueHelmetStrInt20",
+      48682,
+      "Suas irmãs lutaram eternamente por aquele ápice brilhante nos céus,\r\nmas ao invés disso, Viridi achou força na humildade.\"\r\n- Mito da Criação Azmeri"
+    ],
+    [
+      "UniqueDagger21",
+      53588,
+      "\"Aquela garota de bronze com certeza sabe colocar alguém em seu devido lugar!\"\r\n -Bertrand, o Luxuoso"
+    ],
+    [
+      "UniqueBodyDexInt14",
+      9858,
+      "Dentro de cada um de nós existe um ser puramente malicioso,\r\npreso apenas pelas mentiras que contamos a nós mesmos. "
+    ],
+    [
+      "UniqueBelt42a",
+      60094,
+      "O pensador torturado fica mais pesado com a carga de sua culpa. "
+    ],
+    [
+      "UniqueBelt42b_",
+      21864,
+      "O pensador cruel encontra alegria em torturas mais precisas. "
+    ],
+    [
+      "UniqueBelt42c",
+      44904,
+      "O maior sucesso do pensador covarde é simplesmente sobreviver. "
+    ],
+    [
+      "UniqueRing70",
+      5681,
+      "Aceite a infecção, deixe tomar conta.\r\nDepois carregue-a para todo lugar. "
+    ],
+    [
+      "UniqueHelmetStrInt21",
+      29453,
+      "A fúria primitiva adormece, esperando ser chamada\r\npelas estrelas para retornar e engolir o mundo. "
+    ],
+    [
+      "UniqueBootsStrDex7",
+      3846,
+      "Tudo que foi amado, tudo que foi odiado - \r\nnão sobra nada além de cinzas"
     ],
     [
       "UniqueOneHandSwordDemigods1",
@@ -10227,6 +10422,66 @@
       "HeistUrnOfTheOriginalAshes",
       9799,
       "\"Certa vez um enorme incêndio devastou a terra, e nossos líderes se tornaram cinzas. A urna contem exatamente o que você pensa, e derve como prova de nossa longa linhagem.\""
+    ],
+    [
+      "WatchstoneMaven",
+      65260,
+      "Apenas as almas aprisionadas por dentro podem testemunhar as tendências obscuras de Maven, e elas não se atrevem a falar sobre. "
+    ],
+    [
+      "MavenKey",
+      25406,
+      "Seria tolice obedecer às exigências de Maven.\r\nTambém seria tolice não obedecer. "
+    ],
+    [
+      "MavenTrial",
+      4342,
+      "Àqueles que não devem suportar, \r\npode-se encontrar uma alegria perversa\r\nem observar a luta pela sobrevivência.\r\n\r\n"
+    ],
+    [
+      "MavenKeyFragment",
+      15548,
+      "Precioso e perigoso,\r\nTantador e terrível. "
+    ],
+    [
+      "UniqueWatchstone11a",
+      5031,
+      "\"The village was locked within its walls,\r\nprotected from those who could do them harm,\r\nprotected from those who could save them.\""
+    ],
+    [
+      "UniqueWatchstone11b",
+      53618,
+      "\"Believing them to have discovered new lands,\r\nthey planted their flag in the dirt and called it their own.\r\nA gesture not taken with a great deal of pleasure\r\nby those who already dwelt there.\""
+    ],
+    [
+      "UniqueWatchstone11c",
+      3340,
+      "\"The first explorers took to the hills to discover the lay of the land,\r\nand watched with wonder as the land undulated, crashed and twisted.\""
+    ],
+    [
+      "UniqueWatchstone11d",
+      10001,
+      "\"Atop the highest peaks, the sunlight pierced but did not warm.\r\nThe air choked and did not nourish.\r\nAnd those that made the trek realised the folly of their desire for greatness.\""
+    ],
+    [
+      "UniqueWatchstone11e",
+      23060,
+      "\"Where once a mountain stood there was now but fields and dust.\r\nOne by one, the stones were moved and placed with intention,\r\nthe consequences borne by the destination and the origin.\""
+    ],
+    [
+      "UniqueWatchstone11f",
+      33164,
+      "\"The Shade walked the land with no end in sight,\r\nno purpose in mind,\r\nbut the one it invented to pass the time.\""
+    ],
+    [
+      "UniqueWatchstone11g",
+      33387,
+      "\"There were seasons in this strange new place, but not of sun and snow.\r\nSeasons of stone that rose and fell like waves.\r\nSeasons of structure and growth and madness and chaos.\r\nSeasons of birth and decay that seemed untethered to cause.\""
+    ],
+    [
+      "UniqueWatchstone11h",
+      63600,
+      "\"For a time, it was thought this place could seed an empire\r\ngreater than any in history.\r\nThe lands could be tamed, and commanded, they thought.\r\nBut control, like all things in that place, was an illusion.\""
     ]
   ]
 }

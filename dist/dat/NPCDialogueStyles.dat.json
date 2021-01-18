@@ -154,24 +154,36 @@
   ],
   "data": [
     [
+      "LEGACY",
+      "",
+      "",
+      [],
+      [],
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
       "Default",
-      "Art/2DArt/UIImages/InGame/NPCWindow/Heist/DialogueHeaderBase",
-      "Art/2DArt/UIImages/InGame/NPCWindow/Heist/DialogueBottom",
+      "Art/2DArt/UIImages/InGame/NPCWindow/DialogueTop",
+      "Art/2DArt/UIImages/InGame/NPCWindow/DialogueBottom",
       [
-        "Art/2DArt/UIImages/InGame/NPCWindow/Heist/DialogueBannerTop",
-        "Art/2DArt/UIImages/InGame/NPCWindow/Heist/DialogueBannerMiddle",
-        "Art/2DArt/UIImages/InGame/NPCWindow/Heist/DialogueBannerBottom"
+        "Art/2DArt/UIImages/InGame/NPCWindow/DialogueBannerTop",
+        "Art/2DArt/UIImages/InGame/NPCWindow/DialogueBannerMiddle",
+        "Art/2DArt/UIImages/InGame/NPCWindow/DialogueBannerBottom"
       ],
       [
-        "Art/2DArt/UIImages/InGame/NPCWindow/Heist/DialogueHeaderNameLeft",
-        "Art/2DArt/UIImages/InGame/NPCWindow/Heist/DialogueHeaderNameMiddle",
-        "Art/2DArt/UIImages/InGame/NPCWindow/Heist/DialogueHeaderNameRight"
+        "Art/2DArt/UIImages/InGame/NPCWindow/DialogueHeaderNameLeft",
+        "Art/2DArt/UIImages/InGame/NPCWindow/DialogueHeaderNameMiddle",
+        "Art/2DArt/UIImages/InGame/NPCWindow/DialogueHeaderNameRight"
       ],
-      9,
       5,
-      27,
-      13,
-      130
+      3,
+      20,
+      14,
+      160
     ],
     [
       "Heist",

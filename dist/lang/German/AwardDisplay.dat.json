@@ -179,72 +179,72 @@
       "",
       "Art/2DArt/UIImages/InGame/GenericRewardMapDevice5",
       "Audio/Sound Effects/UI/Atlas/Upgrade.ogg",
-      2299
+      2370
     ],
     [
       "AtlasMissionZana",
       "Atlasmission von Zana erhalten",
       "Art/2DArt/UIImages/InGame/AtlasMissionNotificationZana",
-      910,
+      1084,
       3,
       2,
       "",
       "",
       "",
       "Audio/Sound Effects/UI/Atlas/Receive.ogg",
-      2299
+      2370
     ],
     [
       "AtlasMissionAlva",
       "Atlasmission von Alva erhalten",
       "Art/2DArt/UIImages/InGame/AtlasMissionNotificationAlva",
-      910,
+      1084,
       3,
       2,
       "",
       "",
       "",
       "Audio/Sound Effects/UI/Atlas/Receive.ogg",
-      2299
+      2370
     ],
     [
       "AtlasMissionNiko",
       "Atlasmission von Niko erhalten",
       "Art/2DArt/UIImages/InGame/AtlasMissionNotificationNiko",
-      910,
+      1084,
       3,
       2,
       "",
       "",
       "",
       "Audio/Sound Effects/UI/Atlas/Receive.ogg",
-      2299
+      2370
     ],
     [
       "AtlasMissionEinhar",
       "Atlasmission von Einhar erhalten",
       "Art/2DArt/UIImages/InGame/AtlasMissionNotificationEinhar",
-      910,
+      1084,
       3,
       2,
       "",
       "",
       "",
       "Audio/Sound Effects/UI/Atlas/Receive.ogg",
-      2299
+      2370
     ],
     [
       "AtlasMissionJun",
       "Atlasmission von Jun erhalten",
       "Art/2DArt/UIImages/InGame/AtlasMissionNotificationJun",
-      910,
+      1084,
       3,
       2,
       "",
       "",
       "",
       "Audio/Sound Effects/UI/Atlas/Receive.ogg",
-      2299
+      2370
     ],
     [
       "AtlasCitadelOutsideTopLeft",
@@ -257,7 +257,7 @@
       "",
       "Art/2DArt/UIImages/InGame/CitadelAwardDisplay",
       "Audio/Sound Effects/UI/Atlas/Citadel.ogg",
-      2299
+      2370
     ],
     [
       "AtlasCitadelInsideTopLeft",
@@ -270,7 +270,7 @@
       "",
       "Art/2DArt/UIImages/InGame/CitadelAwardDisplay",
       "Audio/Sound Effects/UI/Atlas/Citadel.ogg",
-      2299
+      2370
     ],
     [
       "AtlasCitadelInsideTopRight",
@@ -283,7 +283,7 @@
       "",
       "Art/2DArt/UIImages/InGame/CitadelAwardDisplay",
       "Audio/Sound Effects/UI/Atlas/Citadel.ogg",
-      2299
+      2370
     ],
     [
       "AtlasCitadelOutsideTopRight",
@@ -296,7 +296,7 @@
       "",
       "Art/2DArt/UIImages/InGame/CitadelAwardDisplay",
       "Audio/Sound Effects/UI/Atlas/Citadel.ogg",
-      2299
+      2370
     ],
     [
       "AtlasCitadelOutsideBottomLeft",
@@ -309,7 +309,7 @@
       "",
       "Art/2DArt/UIImages/InGame/CitadelAwardDisplay",
       "Audio/Sound Effects/UI/Atlas/Citadel.ogg",
-      2299
+      2370
     ],
     [
       "AtlasCitadelInsideBottomLeft",
@@ -322,7 +322,7 @@
       "",
       "Art/2DArt/UIImages/InGame/CitadelAwardDisplay",
       "Audio/Sound Effects/UI/Atlas/Citadel.ogg",
-      2299
+      2370
     ],
     [
       "AtlasCitadelInsideBottomRight",
@@ -335,7 +335,7 @@
       "",
       "Art/2DArt/UIImages/InGame/CitadelAwardDisplay",
       "Audio/Sound Effects/UI/Atlas/Citadel.ogg",
-      2299
+      2370
     ],
     [
       "AtlasCitadelOutsideBottomRight",
@@ -348,137 +348,150 @@
       "",
       "Art/2DArt/UIImages/InGame/CitadelAwardDisplay",
       "Audio/Sound Effects/UI/Atlas/Citadel.ogg",
-      2299
+      2370
     ],
     [
       "FavouredMapSlotUnlockedOutsideTopLeft",
       "Slot für Lieblingskarte freigeschaltet:\nHaewark Hamlet",
       "Art/2DArt/UIImages/InGame/UnlockedFavouredMapNotification",
-      910,
+      1084,
       3,
       2,
       "",
       "",
       "Art/2DArt/UIImages/InGame/UnlockedFavouredMapHeader",
       "Audio/Sound Effects/UI/Atlas/Citadel.ogg",
-      2299
+      2370
     ],
     [
       "FavouredMapSlotUnlockedInsideTopLeft",
       "Slot für Lieblingskarte freigeschaltet:\nTirns Ende",
       "Art/2DArt/UIImages/InGame/UnlockedFavouredMapNotification",
-      910,
+      1084,
       3,
       2,
       "",
       "",
       "Art/2DArt/UIImages/InGame/UnlockedFavouredMapHeader",
       "Audio/Sound Effects/UI/Atlas/Citadel.ogg",
-      2299
+      2370
     ],
     [
       "FavouredMapSlotUnlockedInsideTopRight",
       "Slot für Lieblingskarte freigeschaltet:\nLex Proxima",
       "Art/2DArt/UIImages/InGame/UnlockedFavouredMapNotification",
-      910,
+      1084,
       3,
       2,
       "",
       "",
       "Art/2DArt/UIImages/InGame/UnlockedFavouredMapHeader",
       "Audio/Sound Effects/UI/Atlas/Citadel.ogg",
-      2299
+      2370
     ],
     [
       "FavouredMapSlotUnlockedOutsideTopRight",
       "Slot für Lieblingskarte freigeschaltet:\nLex Ejoris",
       "Art/2DArt/UIImages/InGame/UnlockedFavouredMapNotification",
-      910,
+      1084,
       3,
       2,
       "",
       "",
       "Art/2DArt/UIImages/InGame/UnlockedFavouredMapHeader",
       "Audio/Sound Effects/UI/Atlas/Citadel.ogg",
-      2299
+      2370
     ],
     [
       "FavouredMapSlotUnlockedOutsideBottomLeft",
       "Slot für Lieblingskarte freigeschaltet:\nNeu Vastir",
       "Art/2DArt/UIImages/InGame/UnlockedFavouredMapNotification",
-      910,
+      1084,
       3,
       2,
       "",
       "",
       "Art/2DArt/UIImages/InGame/UnlockedFavouredMapHeader",
       "Audio/Sound Effects/UI/Atlas/Citadel.ogg",
-      2299
+      2370
     ],
     [
       "FavouredMapSlotUnlockedInsideBottomLeft",
       "Slot für Lieblingskarte freigeschaltet:\nGlennach Cairns",
       "Art/2DArt/UIImages/InGame/UnlockedFavouredMapNotification",
-      910,
+      1084,
       3,
       2,
       "",
       "",
       "Art/2DArt/UIImages/InGame/UnlockedFavouredMapHeader",
       "Audio/Sound Effects/UI/Atlas/Citadel.ogg",
-      2299
+      2370
     ],
     [
       "FavouredMapSlotUnlockedInsideBottomRight",
       "Slot für Lieblingskarte freigeschaltet:\nValdos Rast",
       "Art/2DArt/UIImages/InGame/UnlockedFavouredMapNotification",
-      910,
+      1084,
       3,
       2,
       "",
       "",
       "Art/2DArt/UIImages/InGame/UnlockedFavouredMapHeader",
       "Audio/Sound Effects/UI/Atlas/Citadel.ogg",
-      2299
+      2370
     ],
     [
       "FavouredMapSlotUnlockedOutsideBottomRight",
       "Slot für Lieblingskarte freigeschaltet:\nLira Arthain",
       "Art/2DArt/UIImages/InGame/UnlockedFavouredMapNotification",
-      910,
+      1084,
       3,
       2,
       "",
       "",
       "Art/2DArt/UIImages/InGame/UnlockedFavouredMapHeader",
       "Audio/Sound Effects/UI/Atlas/Citadel.ogg",
-      2299
+      2370
+    ],
+    [
+      "HarvestCraftingBenchUnlocked",
+      "Die Dekoration Anfertigungsstation ist jetzt in deinem Versteck verfügbar",
+      "Art/2DArt/UIImages/InGame/GenericRewardBackground",
+      1084,
+      3,
+      2,
+      "",
+      "",
+      "Art/2DArt/UIImages/InGame/HorticraftingDisplay",
+      "Audio/Sound Effects/UI/Atlas/Citadel.ogg",
+      2370
     ],
     [
       "HarvestSeedStashUnlocked",
       "Die Dekoration Samenvorrat ist jetzt in deinem Versteck verfügbar",
       "Art/2DArt/UIImages/InGame/GenericRewardBackground",
-      910,
+      1084,
       3,
       2,
       "",
       "",
       "Art/2DArt/UIImages/InGame/SeedStashDisplay",
       "Audio/Sound Effects/UI/Atlas/Citadel.ogg",
-      2299
+      2370
     ],
     [
       "HeistStashUnlocked",
       "Die Dekoration Heist-Schließfach ist jetzt in deinem Versteck verfügbar",
       "Art/2DArt/UIImages/InGame/GenericRewardBackground",
-      910,
+      1084,
       3,
       0,
       "",
       "",
       "Art/2DArt/UIImages/InGame/HeistStashDisplay",
       "Audio/Sound Effects/UI/Atlas/Citadel.ogg",
-      2299
+      2370
     ]
   ]
 }

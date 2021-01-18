@@ -206,7 +206,7 @@
     ],
     [
       "PvPMatchDraw",
-      "Partie terminée : match nul",
+      "La partie s'est terminée sur un nul",
       "",
       -888590208,
       ""
@@ -3055,7 +3055,7 @@
     ],
     [
       "OptionsDialogueInChatPopup",
-      "Retranscrit les dialogues audio des personnages dans la fenêtre de tchat. Nous vous recommandons d'activer cette option !",
+      "Retranscrit les dialogues parlés par votre personnage et les PNJ dans la fenêtre de tchat. Nous vous recommandons d'activer cette option !",
       "",
       1213515967,
       ""
@@ -6561,6 +6561,27 @@
       ""
     ],
     [
+      "ItemDescriptionMavenAlteration",
+      "Effectuez un clic droit sur cet objet, puis un clic gauche sur le Dispositif cartographique de votre Repaire afin de le relier à la Balise de la Prodige.",
+      "Utilisez cet objet sur le Dispositif cartographique de votre Repaire afin de le relier à la Balise de la Prodige.",
+      1872848573,
+      ""
+    ],
+    [
+      "ItemFunctionMavenMap",
+      "À utiliser dans votre Dispositif cartographique.",
+      "",
+      295668964,
+      ""
+    ],
+    [
+      "ItemFunctionMavenMapCraftable",
+      "Peut être utilisé dans un Dispositif cartographique personnel. Les modificateurs affectant la Quantité d'Objets affectent le nombre de récompenses de rencontre cédées.",
+      "",
+      -867359568,
+      ""
+    ],
+    [
       "ItemFunctionBanditRespecAlira",
       "Vous permet d'obtenir les faveurs d'Alira.",
       "",
@@ -6614,6 +6635,13 @@
       "Vous octroie un point de Passif et deux points de Respécialisation de passif.",
       "",
       1883333709,
+      ""
+    ],
+    [
+      "ItemFunctionMavenAlteration",
+      "Vous permet d'appeler la Prodige dans une Carte depuis de votre Dispositif cartographique.",
+      "",
+      1854274428,
       ""
     ],
     [
@@ -8689,10 +8717,10 @@
       ""
     ],
     [
-      "ItemErrorNoTargetChest",
-      "Aucun coffre cible n'a été trouvé.",
+      "ItemErrorNoTargetFound",
+      "Aucun élément cible n'a été trouvé.",
       "",
-      -374208601,
+      -1883872711,
       ""
     ],
     [
@@ -8714,6 +8742,13 @@
       "La cible est déjà identifiée.",
       "",
       563966131,
+      ""
+    ],
+    [
+      "ItemErrorTargetNotMapDevice",
+      "Vous devez cibler votre Dispositif cartographique.",
+      "",
+      1335405894,
       ""
     ],
     [
@@ -10733,6 +10768,13 @@
       ""
     ],
     [
+      "MissionTrackStrDexIntFailedBlight",
+      "Mission échouée. Vous n'avez pas réussi à arrêter l'Infestation.",
+      "",
+      -128708828,
+      ""
+    ],
+    [
       "MissionTrackStrDexIntComplete",
       "Mission accomplie.",
       "",
@@ -10887,6 +10929,34 @@
       ""
     ],
     [
+      "MissionTrackStrDexIntCompleteHarvest",
+      "Complétez la Récolte.",
+      "",
+      1360686376,
+      ""
+    ],
+    [
+      "MissionTrackStrDexIntCompleteBlight1",
+      "Complétez la rencontre avec l'Infestation.",
+      "",
+      -472106124,
+      ""
+    ],
+    [
+      "MissionTrackStrDexIntCompleteBlightN",
+      "Complétez la rencontre avec l'Infestation. ({0}/{1})",
+      "",
+      73086834,
+      ""
+    ],
+    [
+      "MissionTrackStrDexIntCompleteBlightedMap",
+      "Complétez la rencontre avec l'Infestation.",
+      "",
+      942573496,
+      ""
+    ],
+    [
       "MissionTrackStrDexIntExiles",
       "Éliminez les Exilés renégats.",
       "",
@@ -10992,6 +11062,20 @@
       ""
     ],
     [
+      "MissionTrackStrDexIntPrepMetamorph",
+      "Récupérez des Échantillons de Monstres pour Tane\nCréez et tuez le Métamorphe.",
+      "",
+      -1128887465,
+      ""
+    ],
+    [
+      "MissionTrackStrDexIntSlayMetamorph",
+      "Tuez le Métamorphe.",
+      "",
+      1697176817,
+      ""
+    ],
+    [
       "MissionTrackStrDexIntUniqueStrongbox",
       "Ouvrez le Coffre-fort unique.",
       "",
@@ -11017,6 +11101,13 @@
       "Ouvrez les Brèches. ({0}/{1})",
       "",
       -370130764,
+      ""
+    ],
+    [
+      "MissionTrackStrDexIntDelirium",
+      "Ouvrez le Miroir du Délire.",
+      "",
+      1055064308,
       ""
     ],
     [
@@ -11917,8 +12008,8 @@
     ],
     [
       "ItemDescriptionAfflictionJewelMedium",
-      "Insérez ce Joyau dans une Petite ou Moyenne Châsse extérieure débloquée dans l'Arbre des Talents passifs. Les Joyaux dotés d'un Rayon ne peuvent pas interagir avec les Passifs ajoutés. Retirez-le à l'aide d'un clic droit.",
-      "Insérez ce Joyau dans une Petite ou Moyenne Châsse extérieure débloquée dans l'Arbre des Talents passifs. Les Joyaux dotés d'un Rayon ne peuvent pas interagir avec les Passifs ajoutés. Appuyez sur <<xbox_button_a>> pour le retirer.",
+      "Insérez ce Joyau dans une Moyenne ou Grande Châsse extérieure débloquée dans l'Arbre des Talents passifs. Les Joyaux dotés d'un Rayon ne peuvent pas interagir avec les Passifs ajoutés. Retirez-le à l'aide d'un clic droit.",
+      "Insérez ce Joyau dans une Moyenne ou Grande Châsse extérieure débloquée dans l'Arbre des Talents passifs. Les Joyaux dotés d'un Rayon ne peuvent pas interagir avec les Passifs ajoutés. Appuyez sur <<xbox_button_a>> pour le retirer.",
       648102413,
       ""
     ],
@@ -12184,7 +12275,7 @@
     [
       "DivinationWindowTradeButton",
       "Échanger",
-      "<<xbox_button_a>> Échanger",
+      "",
       -1840757987,
       ""
     ],
@@ -13939,6 +14030,13 @@
       ""
     ],
     [
+      "MavenPortalsDisabled",
+      "Les pouvoirs de la Prodige vous empêchent d'utiliser des portails.",
+      "",
+      966005961,
+      ""
+    ],
+    [
       "OptionsLanguageChangeNoRestart",
       "Vous devez quitter et relancer le jeu pour pouvoir jouer à Path of Exile en français.",
       "",
@@ -13947,7 +14045,7 @@
     ],
     [
       "ChallengesInformation",
-      "Vous remporterez une microtransaction Heist\ntous les 12 défis terminés.",
+      "Vous remporterez une microtransaction Ritual\ntous les 12 défis terminés.",
       "",
       1156891019,
       ""
@@ -14122,7 +14220,7 @@
     ],
     [
       "ReminderTextTailwind",
-      "(Le Vent favorable vous octroie 10% d'Augmentation de Vitesse d'action)",
+      "(Le Vent favorable vous octroie 8% d'Augmentation de Vitesse d'action)",
       "",
       623969398,
       ""
@@ -14815,7 +14913,7 @@
     ],
     [
       "MonsterGoatmanFireShamanChampionInfoString",
-      "Incante Orbe de magma\nIncante Boule de feu\nIncante Carapace volcanique",
+      "Incante Magma déferlant\nIncante Boule de feu\nIncante Carapace volcanique",
       "",
       -1120461354,
       ""
@@ -15557,7 +15655,7 @@
     ],
     [
       "ProphecyQuestTrackerGoldenWaterElementalsRiseFromGoldPiles",
-      "Vous anéantirez de l'Or bouillonnant qui émerge de tas de pièces d'or.",
+      "Vous anéantirez de l'Or bouillonant qui émerge de tas de pièces d'or.",
       "",
       738151002,
       ""
@@ -17041,21 +17139,21 @@
     ],
     [
       "AtlasNodeHoverObjectiveMagic",
-      "<default>{<white>{Bonus :} Tuez le boss d'une version <magic>{magique} ou supérieure de cette carte}",
+      "<default>{<white>{Bonus :} Tuez le boss d'une version <magic>{magique} ou <rare>{rare} de cette Carte}",
       "",
       1364004420,
       ""
     ],
     [
       "AtlasNodeHoverObjectiveRare",
-      "<default>{<white>{Bonus :} Tuez le boss d'une version <rare>{rare} de cette carte}",
+      "<default>{<white>{Bonus :} Tuez le boss d'une version <rare>{rare} de cette Carte}",
       "",
       909657845,
       ""
     ],
     [
       "AtlasNodeHoverObjectiveCorruptedRare",
-      "<default>{<white>{Bonus :} Tuez le boss d'une version à la fois <rare>{rare} et <corrupted>{corrompue} de cette carte}",
+      "<default>{<white>{Bonus :} Tuez le boss d'une version à la fois <rare>{rare} et <corrupted>{corrompue} de cette Carte}",
       "",
       312347552,
       ""
@@ -17552,7 +17650,7 @@
     ],
     [
       "ReminderTextFarShot",
-      "(Les Attaques avec des projectiles gagnent en Dégâts au fil de leur trajet, ayant jusqu'à 30% Davantage de Dégâts d'Attaque lorsqu'elles touchent leurs cibles)",
+      "Les Attaques à Projectiles au Toucher ont une Perte de Dégâts initiale de 20%, mais gagnent des Dégâts au fil de leur trajet, jusqu'à atteindre 60% Davantage de Dégâts)",
       "",
       -35193492,
       ""
@@ -26631,7 +26729,7 @@
     ],
     [
       "TutorialPanelAbyssContent4",
-      "Les Joyaux abyssaux sont une catégorie spéciale de joyaux qui disposent de leur propre liste de mods. Contrairement aux joyaux habituels, les Joyaux abyssaux ont un prérequis de niveau, et la plupart de leurs mods ont plusieurs paliers. Ils peuvent également être insérés dans des Châsses abyssales, en plus des châsses de l'Arbre des Talents passifs. Les Châsses abyssales sont des châsses particulières qui existent sur certains objets, comme le Carcan stygien — un type de base de ceinture.\r\n\r\nDans les niveaux les plus élevés, certaines Abysses peuvent déboucher sur un trou béant que vous pouvez emprunter. Dans ces profondeurs résident des boss très dangereux qui détiennent des objets uniques exclusifs à la ligue Abyss dotés de Châsses abyssales.",
+      "Les Joyaux abyssaux sont une catégorie spéciale de joyaux qui disposent de leur propre liste de mods. Contrairement aux joyaux habituels, les Joyaux abyssaux ont un prérequis de niveau, et la plupart de leurs mods ont plusieurs paliers. Ils peuvent également être insérés dans des Châsses abyssales, en plus des châsses de l'Arbre des Talents passifs. Les Châsses abyssales sont des châsses particulières qui existent sur certains objets, comme le Carcan stygien — un type de base de ceinture.\r\n\r\nDans les niveaux les plus élevés, certains Abysses peuvent déboucher sur un trou béant que vous pouvez emprunter. Dans ces profondeurs résident des boss très dangereux qui détiennent des objets uniques exclusifs à la ligue Abyss dotés de Châsses abyssales.",
       "",
       -219023773,
       ""
@@ -30187,7 +30285,7 @@
     ],
     [
       "TencentLeagueInfoFrameDescription",
-      "Faites pousser des graines dans le Bosquet sacré afin d'en faire des monstres. Abattez-les pour pouvoir récolter de puissantes options d'artisanat.",
+      "Recrutez une bande de Malfaiteurs afin d'exécuter des Casses risqués. Avec eux, dérobez des artéfacts précieux jusqu'à aboutir au Casse du siècle.",
       "",
       -1087608102,
       ""
@@ -30523,7 +30621,7 @@
     ],
     [
       "WarpToPlayerQuestError",
-      "Vous n'avez pas progressé suffisamment dans vos quêtes pour pouvoir vous téléporter vers ce joueur.",
+      "Vous n'avez pas suffisamment progressé dans vos quêtes pour pouvoir vous téléporter vers ce joueur.",
       "",
       -1333507570,
       ""
@@ -33140,10 +33238,59 @@
       ""
     ],
     [
+      "MapDeviceWarningQuestStateInvalid",
+      "Vous n'avez pas suffisamment progressé dans vos quêtes pour accéder à cette zone.",
+      "",
+      1233540811,
+      ""
+    ],
+    [
+      "MapDeviceWarningNotEnoughCollectedMapsForMaven",
+      "La Prodige n'a pas observé suffisamment de combats de Boss de Carte de {0}. {1}",
+      "",
+      -1769110154,
+      ""
+    ],
+    [
       "AltasNodePopupAreaContainsText",
       "{0} se trouve dans cette zone",
       "",
       -55886965,
+      ""
+    ],
+    [
+      "AddMavenErrorMapAlreadyCollected",
+      "La Prodige a déjà observé un combat contre ce Boss.",
+      "",
+      -1771648578,
+      ""
+    ],
+    [
+      "AddMavenErrorInvalidArea",
+      "La Prodige n'est pas intéressée par cette zone.",
+      "",
+      1213445134,
+      ""
+    ],
+    [
+      "AddMavenErrorInvalidUniqueMap",
+      "Vous ne pouvez pas appeler la Prodige dans cette Carte unique.",
+      "",
+      1912983059,
+      ""
+    ],
+    [
+      "AddMavenErrorInvalidQuestState",
+      "La Prodige n'est pas intéressée par cette Région.",
+      "",
+      870222046,
+      ""
+    ],
+    [
+      "AddMavenErrorMapTooLowLevel",
+      "Le niveau de cette Carte est trop bas pour que la Prodige s'y intéresse.",
+      "",
+      1685682043,
       ""
     ],
     [
@@ -35248,49 +35395,49 @@
     ],
     [
       "QuestLocationAnyUnoccupiedRegion",
-      "des Régions de l'Atlas non occupées.",
+      "des Régions de l'Atlas non occupées",
       "",
       1075415444,
       ""
     ],
     [
       "QuestLocationAnyUnoccupiedRegionLevel1",
-      "des Régions de l'Atlas non occupées ayant au moins 1 Pierre de veille enchâssée.",
+      "des Régions de l'Atlas non occupées ayant au moins 1 Pierre de veille enchâssée",
       "",
       172753125,
       ""
     ],
     [
       "QuestLocationAnyUnoccupiedRegionLevelN",
-      "des Régions de l'Atlas non occupées ayant au moins {0} Pierres de veille enchâssées.",
+      "des Régions de l'Atlas non occupées ayant au moins {0} Pierres de veille enchâssées",
       "",
       798810607,
       ""
     ],
     [
       "QuestLocationAnyUnoccupiedRegionLevelMax",
-      "des Régions de l'Atlas non occupées ayant 4 Pierres de veille enchâssées.",
+      "des Régions de l'Atlas non occupées ayant 4 Pierres de veille enchâssées",
       "",
       -872729306,
       ""
     ],
     [
       "QuestLocationOccupiedRegionLevel1",
-      "la Région {0} avec au moins 1 Pierre de veille enchâssée.",
+      "la Région {0} avec au moins 1 Pierre de veille enchâssée",
       "",
       -18047883,
       ""
     ],
     [
       "QuestLocationOccupiedRegionLevelN",
-      "la Région {0} avec au moins {1} Pierres de veille enchâssées.",
+      "la Région {0} avec au moins {1} Pierres de veille enchâssées",
       "",
       -629422707,
       ""
     ],
     [
       "QuestLocationOccupiedRegionLevelMax",
-      "la Région {0} avec 4 Pierres de veille enchâssées.",
+      "la Région {0} avec 4 Pierres de veille enchâssées",
       "",
       1951652958,
       ""
@@ -35311,7 +35458,7 @@
     ],
     [
       "AtlasCentrepieceHover",
-      "<white>{{— Niveau d'Éveil : {0} —}}\n\n<white>{{Votre niveau d'Éveil augmente toutes les 4 Pierres de veille enchâssées dans votre Atlas.}}\n<white>{{Les niveaux d'Éveil ajoutent des bonus à toutes les Cartes de votre Atlas.}}\n\n<default>{{Les Boss uniques des Cartes ont {1}% Davantage de Vie}}\n<default>{{+{2}% de chances que les Boss uniques de Cartes cèdent une Carte adjacente supplémentaire}}\n<default>{{+{3}% de chances que les Boss uniques de Cartes (palier 14 et +) cèdent une Carte de Gardien du Façonneur}}\n<default>{{+{4}% de chances que les Boss uniques de Cartes (palier 14 et +) cèdent une Carte de Gardien de l'Ancien}}\n<default>{{+{5}% de chances que les Boss uniques de Cartes cèdent un type de base de l'Atlas supplémentaire}}\n<default>{{+{6}% de chances que les Boss uniques de Cartes cèdent un Objet unique supplémentaire}}\n<default>{{+{7}% de chances que les Boss uniques de Cartes cèdent des Objets monétaires de Cartes}}\n<default>{{Pour chacun de vos niveaux d'Éveil, vous avez plus de chances que les Conquérants de l'Atlas et Sirus cèdent des récompenses supplémentaires}}\n<default>{{+{8}% d'Augmentation des chances de trouver des Objets influencés dans les Cartes influencées par les Conquérants de l'Atlas}}",
+      "<white>{{— Niveau d'Éveil : {0} —}}\n\n<white>{{Votre niveau d'Éveil augmente toutes les 4 Pierres de veille enchâssées dans votre Atlas.}}\n<white>{{Les niveaux d'Éveil ajoutent des bonus à toutes les Cartes de votre Atlas ainsi qu'au Creuset de la Prodige.}}\n\n<default>{{Les Boss uniques des Cartes ont {1}% Davantage de Vie}}\n<default>{{+{2}% de chances que les Boss uniques de Cartes cèdent une Carte adjacente supplémentaire}}\n<default>{{+{3}% de chances que les Boss uniques de Cartes (palier 14 et +) cèdent une Carte de Gardien du Façonneur}}\n<default>{{+{4}% de chances que les Boss uniques de Cartes (palier 14 et +) cèdent une Carte de Gardien de l'Ancien}}\n<default>{{+{5}% de chances que les Boss uniques de Cartes cèdent un type de base de l'Atlas supplémentaire}}\n<default>{{+{6}% de chances que les Boss uniques de Cartes cèdent un Objet unique supplémentaire}}\n<default>{{+{7}% de chances que les Boss uniques de Cartes cèdent des Objets monétaires de Cartes}}\n<default>{{Pour chacun de vos niveaux d'Éveil, vous avez plus de chances que les Conquérants de l'Atlas et Sirus cèdent des récompenses supplémentaires}}\n<default>{{+{8}% d'Augmentation des chances de trouver des Objets influencés dans les Cartes influencées par les Conquérants de l'Atlas}}",
       "",
       241238803,
       ""
@@ -35416,7 +35563,7 @@
     ],
     [
       "CitadelPopupInfo",
-      "Insérez des Pierres de veille dans ces emplacements pour augmenter le palier des Cartes de cette Région et révéler des Cartes cachées",
+      "Insérez des Pierres de veille ici pour augmenter le palier des Cartes de cette Région et révéler des Cartes cachées",
       "",
       1579919431,
       ""
@@ -35472,7 +35619,7 @@
     ],
     [
       "WatchstoneDescriptionText",
-      "Enchâssez cet objet dans l'une des Citadelles de votre Atlas afin d'augmenter le Palier des Cartes et révéler de nouvelles Cartes dans la Région de cette Citadelle. Chaque Citadelle ne peut accueillir qu'une seule Pierre de veille de chaque type.",
+      "Enchâssez cet objet dans l'une des Citadelles de votre Atlas afin d'augmenter le Palier des Cartes et révéler de nouvelles Cartes dans la Région de cette Citadelle. Vous ne pouvez pas enchâsser plus d'une Pierre de veille pourpre, viridienne, cobalt et dorée dans la même Citadelle.",
       "",
       1364401820,
       ""
@@ -36417,7 +36564,7 @@
     ],
     [
       "HarvestCraftingUIInfo",
-      "Choisissez une modification à effectuer, puis déposez un objet dans l'emplacement libre. La modification d'un objet coûte de la Force vitale brute. Le surplus de Force vitale peut être condensé et stocké pour faire pousser d'autres graines. Une fois condensée, la Force vitale ne peut plus servir à l'artisanat. Si vous retournez au Bosquet sacré depuis une autre zone, vous perdrez vos options d'artisanat et votre Force vitale brute.",
+      "Choisissez une modification à effectuer, puis déposez un objet dans l'emplacement libre. Si vous retournez au Bosquet sacré depuis une autre zone, vous perdrez toutes vos options d'artisanat.",
       "",
       1000398599,
       ""
@@ -37012,7 +37159,7 @@
     ],
     [
       "ItemDescriptionPlantBoosterPlaced",
-      "[DNT] Control-click to return this Plant Booster to your inventory.",
+      "[UNUSED] Control-click to return this Plant Booster to your inventory.",
       "",
       874381046,
       ""
@@ -37446,8 +37593,8 @@
     ],
     [
       "HarvestCraftingToSiloPopup",
-      "Envoyer une option d'artisanat à un Établi d'hortisanat raccordé.",
-      "Sauvegarder option d'artisanat",
+      "Envoyer une option d'artisanat à un Établi d'hortisanat pour la stocker.",
+      "Stocker cette option d'artisanat",
       -1939641360,
       ""
     ],
@@ -37474,9 +37621,16 @@
     ],
     [
       "HarvestCraftingInventoryTogglePopup",
-      "Vous permet de passer de votre Réserve à votre inventaire, et inversement.\nLes objets de votre Réserve peuvent être utilisés pour l'artisanat, mais vous ne pouvez pas les transférer dans votre inventaire. ",
+      "Vous permet de passer de votre Réserve à votre inventaire, et vice-versa.\nLes objets de votre Réserve peuvent être utilisés pour l'artisanat, mais vous ne pouvez pas les transférer dans votre inventaire. ",
       "",
       -1147455374,
+      ""
+    ],
+    [
+      "HarvestCraftingInventoryTogglePopupHideout",
+      "Vous permet de passer de votre Réserve à votre inventaire, et vice-versa.\nLes objets de votre Réserve peuvent être utilisés pour l'artisanat.",
+      "",
+      466180397,
       ""
     ],
     [
@@ -37628,14 +37782,14 @@
     ],
     [
       "ReminderTextKeystoneTheImpaler",
-      "(Lorsque vous Empalez des Ennemis au Toucher, vous Empalez également les autres Ennemis proches. Vous Infligez 4 Empalements supplémentaires aux Ennemis que vous Empalez. Les Ennemis ne peuvent pas être Empalés pendant 4 secondes après avoir été Empalés par vous)",
+      "(Lorsque vous Empalez des Ennemis au Toucher, vous Empalez également les autres Ennemis proches. Vous Infligez 4 Empalements supplémentaires aux Ennemis que vous Empalez. Les Ennemis ne peuvent pas être Empalés pendant 4 secondes après que vous les ayez Empalés, et Appel de l'acier ne retire plus leurs Empalements)",
       "",
       -558981857,
       ""
     ],
     [
       "ReminderTextDoubleArmour",
-      "(L'Armure est considérée comme étant doublée, mais uniquement pour calculer les réductions de dégâts)",
+      "(L'Armure est considérées comme étant doublée, mais uniquement pour calculer les réductions de dégâts)",
       "",
       86308998,
       ""
@@ -37705,7 +37859,7 @@
     ],
     [
       "HarvestCraftingToSiloConfirmation",
-      "Consommer {0} de Force vitale afin d'envoyer cette option d'artisanat vers un Établi d'hortisanat raccordé ?",
+      "Voulez-vous envoyer cette option d'artisanat vers votre Établi d'hortisanat ?",
       "",
       -1058249048,
       ""
@@ -37818,7 +37972,7 @@
     [
       "HarvestInventoryButtonDisabledPopup",
       "Vous permet de passer de votre Réserve à votre inventaire, et inversement.\n<red>{Ce bouton est actuellement désactivé, car un objet se trouve dans votre curseur ou dans l'emplacement d'artisanat.}",
-      "",
+      "<red>{Le curseur et l'emplacement d'artisanat ne doivent pas contenir d'objet}",
       -1133560941,
       ""
     ],
@@ -38915,13 +39069,6 @@
       ""
     ],
     [
-      "HeistSkillInteractText",
-      "Action : {0}",
-      "",
-      -1001524034,
-      ""
-    ],
-    [
       "HeistHubWaypoint",
       "Le Gondolier",
       "",
@@ -39489,6 +39636,20 @@
       ""
     ],
     [
+      "HeistBlueprintWindowLegendTitle",
+      "Légende",
+      "",
+      548456986,
+      ""
+    ],
+    [
+      "HeistBlueprintWindowToggleLegend",
+      "Afficher/masquer la légende",
+      "",
+      -1197080731,
+      ""
+    ],
+    [
       "HeistContractNoRevealCharLevelTooHighPostContract",
       "Le niveau de ce Contrat était trop bas pour obtenir des Révélations de Salles d'un Plan. Terminez des Contrats de plus haut niveau pour pouvoir révéler des Salles d'un Plan.",
       "",
@@ -39517,10 +39678,10 @@
       ""
     ],
     [
-      "HeistCharacterSkillLevelModifiedByEquipment",
-      "{0} provenant de l'Équipement",
+      "HeistStoragePanelSearchInfo",
+      "Met en surbrillance des objets de l'onglet actuel d'après les mots-clés spécifiés.\n\nAstuces :\n<default>{- Vous pouvez rechercher plusieurs mots-clés à la fois en les séparant d'un espace\n- Transformez du texte séparé par des espaces en un seul mot-clé en le mettant entre guillemets (par ex. : \"niveau d'alerte\")\n- Trouvez des objets selon leur niveau d'objet en tapant ilvl:X\n- Servez-vous du raccourci <b>{Ctrl-F} pour rechercher plus vite}",
       "",
-      485678059,
+      855817334,
       ""
     ],
     [
@@ -39528,6 +39689,48 @@
       "Sans catégorie",
       "",
       1579450915,
+      ""
+    ],
+    [
+      "DescriptionLabelFixedValueStat",
+      "<italic>{<rgb(170,170,170)>{ — Valeur fixe}}",
+      "",
+      1779730505,
+      ""
+    ],
+    [
+      "PassiveTreeCannotModifyWhileDead",
+      "Vous ne pouvez pas modifier vos Talents passifs en étant mort.",
+      "",
+      403750993,
+      ""
+    ],
+    [
+      "RitualStoneMonsterCount",
+      "Monstres",
+      "",
+      -1465615632,
+      ""
+    ],
+    [
+      "RitualStoneVarieties",
+      "Monstres :\n{0}",
+      "",
+      1991013785,
+      ""
+    ],
+    [
+      "RitualStoneNumOtherMonsters",
+      "{0} autres Monstres",
+      "",
+      -1714643609,
+      ""
+    ],
+    [
+      "RitualStoneLevel",
+      "Niveau des Monstres",
+      "",
+      220235298,
       ""
     ],
     [
@@ -39542,6 +39745,13 @@
       "Supprimer un Dossier",
       "",
       -159684347,
+      ""
+    ],
+    [
+      "HeistCharacterSkillLevelModifiedByEquipment",
+      "{0} provenant de l'Équipement",
+      "",
+      485678059,
       ""
     ],
     [
@@ -39573,6 +39783,377 @@
       ""
     ],
     [
+      "ItemErrorQuestState",
+      "Vous n'avez pas suffisamment progressé dans vos quêtes pour pouvoir utiliser cet objet.",
+      "",
+      1734860859,
+      ""
+    ],
+    [
+      "ItemFilterRuleBaseType",
+      "type de base",
+      "",
+      -1458395552,
+      ""
+    ],
+    [
+      "ItemFilterRuleCJESPN",
+      "Passif mineur d'enchantement de Joyau de ramification",
+      "",
+      -1069257219,
+      ""
+    ],
+    [
+      "ItemFilterRuleGemQualityType",
+      "type de qualité de Gemme",
+      "",
+      260938080,
+      ""
+    ],
+    [
+      "ItemFilterRuleMods",
+      "mod",
+      "",
+      -862866519,
+      ""
+    ],
+    [
+      "ItemFilterRuleProphecies",
+      "nom de Prophétie",
+      "",
+      -674953992,
+      ""
+    ],
+    [
+      "ItemFilterErrorCannotOpenFile",
+      "Échec d'ouverture du fichier de Filtre : « {0} »",
+      "",
+      2059299633,
+      ""
+    ],
+    [
+      "ItemFilterErrorDownloadError",
+      "Erreur lors du téléchargement du Filtre d'objet.",
+      "",
+      1253260571,
+      ""
+    ],
+    [
+      "ItemFilterErrorJSONError",
+      "Erreur d'analyse du JSON",
+      "",
+      1801868329,
+      ""
+    ],
+    [
+      "ItemFilterErrorCreateBackupFile",
+      "Erreur lors de la création du fichier de Filtre {0}.bak",
+      "",
+      632219470,
+      ""
+    ],
+    [
+      "ItemFilterErrorCreateTempFile",
+      "Erreur lors de la création du fichier de Filtre {0}.tmp",
+      "",
+      644948399,
+      ""
+    ],
+    [
+      "ItemFilterErrorDeleteTempFile",
+      "Erreur lors de la suppression du fichier de Filtre {0}.tmp",
+      "",
+      1721279864,
+      ""
+    ],
+    [
+      "ItemFilterErrorLine",
+      "Ligne {0} : {1}",
+      "",
+      1685743633,
+      ""
+    ],
+    [
+      "ItemFilterErrorMissingParameter",
+      "Paramètre attendu pour la règle {0}",
+      "",
+      364040542,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidParameter",
+      "Impossible d'analyser le paramètre de la règle {0} : {1}",
+      "",
+      -1683601601,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidRule",
+      "« {0} » est un type de règle inconnu",
+      "",
+      840176699,
+      ""
+    ],
+    [
+      "ItemFilterErrorTooManyArguments",
+      "Trop d'arguments",
+      "",
+      -958533439,
+      ""
+    ],
+    [
+      "ItemFilterErrorNegativeNumber",
+      "L'entier « {0} » ne peut pas être négatif",
+      "",
+      903523824,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidNumber",
+      "L'entier « {0} » n'a pas pu être reconnu",
+      "",
+      -264591595,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidBoolean",
+      "Le booléen « {0} » n'a pas pu être reconnu",
+      "",
+      -95479572,
+      ""
+    ],
+    [
+      "ItemFilterErrorNoStringMatch",
+      "Aucun {0} ne correspond à « {1} »",
+      "",
+      849910734,
+      ""
+    ],
+    [
+      "ItemFilterErrorNoStringMatchExact",
+      "Aucun {0} ne correspond précisément à « {1} »",
+      "",
+      -96105334,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidRarity",
+      "Aucune Rareté ne correspond à « {0} »",
+      "",
+      1777028210,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidItemClass",
+      "Aucune Classe d'objet ne correspond à « {0} »",
+      "",
+      -374456860,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidInfluence",
+      "Aucun type d'influence ne correspond à « {0} »",
+      "",
+      -63850907,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidSockets",
+      "« {0} » n'est pas une description valide pour une châsse. Lettres acceptées : R, G, B, W, A et D. Chiffres acceptés : de 1 à 9",
+      "",
+      -1037787329,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidSoundNumber",
+      "« {0} » n'est pas un numéro de son valide",
+      "",
+      1976420515,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidSoundVolume",
+      "« {0} » n'est pas un numéro de son valide. Ce chiffre devrait être compris entre {1} et {2}",
+      "",
+      -703145816,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidDropEffect",
+      "« {0} » n'est pas un nom d'effet valide. Les valeurs acceptées sont {{ {1} }}",
+      "",
+      1806994332,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidCustomAlerSound",
+      "Format incorrect : CustomAlertSound \"chemin_du_fichier\" [volume]",
+      "",
+      -1943086820,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidSoundPath",
+      "« {0} » n'est pas un chemin de fichier son valide",
+      "",
+      -1457312148,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidMinimapIconData",
+      "Impossible de reconnaître les données de l'icône de minicarte",
+      "",
+      -263736446,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidMinimapIcon",
+      "« {0} {1} » n'est pas une icône de minicarte valide",
+      "",
+      -305641187,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidMinimapIconSize",
+      "Taille non valide. Veuillez en choisir une parmi {{ {0} }}. La taille par défaut ({1}) vient d'être automatiquement sélectionnée",
+      "",
+      351673213,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidColourComponent",
+      "Impossible de reconnaître la composante couleur",
+      "",
+      865496561,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidColourAlpha",
+      "« {0} » n'est pas une valeur alpha valide",
+      "",
+      -1130857854,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidFontSize",
+      "Impossible de reconnaître la taille de la police",
+      "",
+      1351409074,
+      ""
+    ],
+    [
+      "ItemFilterErrorRuleOutsideBlock",
+      "Règle trouvée en dehors du bloc de règles",
+      "",
+      471547079,
+      ""
+    ],
+    [
+      "RitualRewardWindowTitle",
+      "Faveurs",
+      "",
+      -1047919592,
+      ""
+    ],
+    [
+      "RitualRewardWindowPoints",
+      "Tribut restant : {0}",
+      "",
+      -243348613,
+      ""
+    ],
+    [
+      "RitualRewardWindowHelpPopup",
+      "Tuez des monstres pendant le Rituel pour gagner une certaine quantité de Tribut. Vous pourrez dépenser votre Tribut à l'issue du Rituel.\nCertaines récompenses nécessitent l'aboutissement de plusieurs Rituels avant d'être dévoilées.\nLes récompenses ne sont pas conservées d'une zone à l'autre, sauf si vous choisissez de les Différer.",
+      "Tuez des monstres pendant le Rituel pour gagner une certaine quantité de Tribut. Vous pourrez dépenser votre Tribut à l'issue du Rituel.\nCertaines récompenses nécessitent plusieurs Rituels afin d'être dévoilées.\nLes récompenses ne sont pas conservées d'une zone à l'autre, sauf si vous les Différez.\nLes objets Différés seront marqués d'une icône <<ritual_suspended>>, indiquant que leur coût aura été partiellement payé.",
+      925319988,
+      ""
+    ],
+    [
+      "RitualRewardWindowPrepayButton",
+      "Différer un objet",
+      "",
+      -1693884233,
+      ""
+    ],
+    [
+      "RitualRewardCurrencyName",
+      "Tribut",
+      "",
+      593432348,
+      ""
+    ],
+    [
+      "RitualObjectWorldDescriptionTitle",
+      "Autel de Rituel {0}",
+      "",
+      502284760,
+      ""
+    ],
+    [
+      "RitualObjectWorldDescriptionBody",
+      "Interagissez avec pour entamer le Rituel",
+      "",
+      -473616467,
+      ""
+    ],
+    [
+      "RitualObjectWorldDescriptionRewardsBody",
+      "Interagissez avec pour consulter les Faveurs",
+      "",
+      -1646456293,
+      ""
+    ],
+    [
+      "WarningChangingHideoutLosesPortals",
+      "Attention : tous vos portails seront fermés si vous changez de Repaire.",
+      "",
+      -64268714,
+      ""
+    ],
+    [
+      "LeagueStandardRitual",
+      "Découvrez des Autels antiques et accomplissez de dangereux Rituels afin d'obtenir des récompenses de valeur.\n\n<colour:yellow>{Ceci est la ligue par défaut de Path of Exile.}",
+      "",
+      -967808659,
+      ""
+    ],
+    [
+      "LeagueHardcoreRitual",
+      "Découvrez des Autels antiques et accomplissez de dangereux Rituels afin d'obtenir des récompenses de valeur.\n\n<colour:red>{Lorsqu'un personnage meurt en Ritual Hardcore, il est transféré en Standard.}",
+      "",
+      2030150804,
+      ""
+    ],
+    [
+      "LeagueStandardSSFRitual",
+      "Ritual SSF",
+      "",
+      1196121897,
+      ""
+    ],
+    [
+      "LeagueHardcoreSSFRitual",
+      "Ritual HC SSF",
+      "",
+      -1687185404,
+      ""
+    ],
+    [
+      "RitualRewardWindowPrepayButtonPopup",
+      "Payez 15% du coût original de cet objet afin de le Différer. Cet objet réapparaîtra alors dans une prochaine zone, avec une réduction de 10%% de son coût initial. Les objets de grande valeur peuvent mettre plus de temps à réapparaître.",
+      "",
+      -1224183722,
+      ""
+    ],
+    [
+      "RitualRewardWindowPrepaidItemPopup",
+      "Cet objet est partiellement payé, car vous l'avez Différé.",
+      "",
+      1054933146,
+      ""
+    ],
+    [
       "StashDeleteFolderButtonPopup",
       "Les objets contenus seront retirés de ce Dossier",
       "",
@@ -39594,6 +40175,48 @@
       ""
     ],
     [
+      "RitualObjectWorldDescriptionRewardsTitle",
+      "Récompenses de Rituel {0}",
+      "",
+      2030529253,
+      ""
+    ],
+    [
+      "MavenBossRushObjectDescriptionTitle",
+      "Le Défi de la Prodige",
+      "",
+      157586887,
+      ""
+    ],
+    [
+      "MavenBossRushObjectDescriptionBody",
+      "Interagissez avec pour débuter le Défi",
+      "",
+      1957375823,
+      ""
+    ],
+    [
+      "MavenBossRushObjectDescriptionPassivesTitle",
+      "Le Présent de la Prodige",
+      "",
+      -493163783,
+      ""
+    ],
+    [
+      "MavenBossRushObjectDescriptionPassivesBody",
+      "Interagissez avec pour attribuer des points de Passif de l'Atlas",
+      "",
+      2023104665,
+      ""
+    ],
+    [
+      "AtlasPopupMapCollected",
+      "La Prodige possède actuellement une reconstitution de ce Boss de Carte.",
+      "",
+      1517173982,
+      ""
+    ],
+    [
       "GraphicsOptionsDynamicResolutionFactor",
       "Facteur de résolution",
       "",
@@ -39605,6 +40228,111 @@
       "Si vous utilisez cette option et que la Résolution dynamique est activée, le jeu se servira de ce facteur afin de conserver une résolution fixe, au lieu de la réajuster de manière dynamique.",
       "",
       705196355,
+      ""
+    ],
+    [
+      "ReminderTextConvergence",
+      "(Convergence octroie 30% Davantage de Dégâts élémentaires et dure 4 secondes)",
+      "",
+      -110112724,
+      ""
+    ],
+    [
+      "HarvestHorticraftingStation",
+      "Établi d'hortisanat",
+      "",
+      300768334,
+      ""
+    ],
+    [
+      "RitualRewardWindowRemainingEncounters",
+      "Rituels restants : {0}",
+      "",
+      -760824638,
+      ""
+    ],
+    [
+      "RitualRewardWindowRemainingEncounter",
+      "Un seul Rituel restant",
+      "",
+      -581620698,
+      ""
+    ],
+    [
+      "GamepadLegendRitualSuspendItem",
+      "Différer cet objet",
+      "",
+      1661103512,
+      ""
+    ],
+    [
+      "GamepadLegendRitualCancelPrepaySelection",
+      "Annuler",
+      "",
+      1448043609,
+      ""
+    ],
+    [
+      "GamepadLegendRitualConfirmPrepaySelection",
+      "Confirmer",
+      "",
+      -495830768,
+      ""
+    ],
+    [
+      "GamepadLegendUseRitualFragment",
+      "",
+      "Utiliser Réceptacle de Rituel",
+      2046685588,
+      ""
+    ],
+    [
+      "ReminderTextGaleForce",
+      "(Chaque instance de Bourrasque dure 4 secondes. Vous pouvez avoir jusqu'à 10 Bourrasques en même temps)",
+      "",
+      -400489052,
+      ""
+    ],
+    [
+      "ReminderTextSacrificialZeal",
+      "(Zèle sacrificiel octroie à vos Sorts des Dégâts physiques supplémentaires équivalents à 25% du Coût en Mana de l'Aptitude, et vous inflige des Dégâts physiques sur la durée pendant 4 secondes)",
+      "",
+      -1996553147,
+      ""
+    ],
+    [
+      "ReminderTextFanaticism",
+      "(Fanatisme octroie 75% Davantage de Vitesse d'incantation, 75% de Réduction  du Coût en Mana et 75% d'Augmentation de Zone d'effet aux Sorts que vous lancez directement)",
+      "",
+      -2060325603,
+      ""
+    ],
+    [
+      "RitualRewardWindowRerollPopup",
+      "Retirer les Faveurs proposées.\nNe peut être effecuté qu'une fois par zone.\nCoût : {0} de Tribut.",
+      "",
+      -1129636923,
+      ""
+    ],
+    [
+      "GamepadLegendAtlasRegionTree",
+      "",
+      "Ouvrir Arbre des Passifs de Région",
+      1439656462,
+      ""
+    ],
+    [
+      "RitualRewardWindowRerollConfirmationTitle",
+      "Tirer au sort les Faveurs",
+      "",
+      -1823061932,
+      ""
+    ],
+    [
+      "RitualRewardWindowRerollConfirmationText",
+      "Voulez-vous tirer au hasard de nouvelles Faveurs ? Les Faveurs actuelles seront remplacées.\nCoût en Tribut : {0}",
+      "",
+      -655453620,
       ""
     ],
     [
@@ -39622,17 +40350,367 @@
       ""
     ],
     [
+      "GraphicsOptionsDoFLabel",
+      "Profondeur de champ",
+      "",
+      -1831905225,
+      ""
+    ],
+    [
+      "GraphicsTabDoFPopup",
+      "Profondeur de champ<size:3>{\n}<size:29>{Vous permet de régler l'effet de netteté de certains éléments. Désactivez cette option afin d'améliorer les performances du jeu à certains endroits.}",
+      "",
+      -96013088,
+      ""
+    ],
+    [
+      "GraphicsOptionsDoFEnabled",
+      "Activée",
+      "",
+      2137710707,
+      ""
+    ],
+    [
+      "GraphicsOptionsDoFDisabled",
+      "Désactivée (par défaut)",
+      "",
+      -1117362787,
+      ""
+    ],
+    [
+      "ReminderTextRupture",
+      "(Les cibles affectées par Dilacération ont 25% Davantage de Dégâts subis de la part du Saignement et le Saignement les affectant expire 25% plus rapidement, et ce pendant 3 secondes. Jusqu'à 3 Dilacérations peuvent affectent une cible en même temps)",
+      "",
+      816601661,
+      ""
+    ],
+    [
+      "ConsoleActionOpenOrganQuickSelect",
+      "",
+      "Ouvrir la sélection rapide",
+      -1091845192,
+      ""
+    ],
+    [
+      "MarketSearchTalismans",
+      "Talismans",
+      "",
+      1414539890,
+      ""
+    ],
+    [
+      "MarketExtraTypeInfoFireAsCold",
+      "<fire>{Feu en froid}",
+      "",
+      -394234010,
+      ""
+    ],
+    [
+      "MarketExtraTypeInfoFireAsLightning",
+      "<fire>{Feu en foudre}",
+      "",
+      -604917186,
+      ""
+    ],
+    [
+      "MarketExtraTypeInfoColdAsFire",
+      "<cold>{Froid en feu}",
+      "",
+      -1579132513,
+      ""
+    ],
+    [
+      "MarketExtraTypeInfoColdAsLightning",
+      "<cold>{Froid en foudre}",
+      "",
+      764321560,
+      ""
+    ],
+    [
+      "MarketExtraTypeInfoLightningAsFire",
+      "<lightning>{Foudre en feu}",
+      "",
+      1817199778,
+      ""
+    ],
+    [
+      "MarketExtraTypeInfoLightningAsCold",
+      "<lightning>{Foudre en froid}",
+      "",
+      2032335341,
+      ""
+    ],
+    [
+      "MarketExtraTypeInfoChargePower",
+      "Pouvoir",
+      "",
+      -674457239,
+      ""
+    ],
+    [
+      "MarketExtraTypeInfoChargeFrenzy",
+      "Frénésie",
+      "",
+      449393239,
+      ""
+    ],
+    [
+      "MarketExtraTypeInfoChargeEndurance",
+      "Endurance",
+      "",
+      -1590973156,
+      ""
+    ],
+    [
+      "NullAtlasRegionName",
+      "Les Royaumes inexplorés",
+      "",
+      152238034,
+      ""
+    ],
+    [
+      "GamepadLegendToggleMavenMapDeviceOption",
+      "",
+      "Activer Balise de la Prodige",
+      -1777039069,
+      ""
+    ],
+    [
       "StashOptionsOverrideAffinityTipText",
       "Faites Ctrl-Maj-clic sur un objet pour ignorer les Préférences de vos Onglets.",
-      "",
+      "<<xbox_button_lstick>> + <<xbox_button_x>> pour ignorer les Préférences de vos Onglets",
       845178960,
       ""
     ],
     [
+      "TrinitySupportUIPopupText",
+      "Résonance :\r\nLes Aptitudes modifiées par Trinité dont les dégâts les plus élevés sont d'un élément vous font gagner de la Résonance au toucher pour les deux autres éléments\r\nVous perdez 5 de Résonance par seconde de chaque élément dont vous n'êtes pas en train de gagner de la Résonance",
+      "",
+      1685101411,
+      ""
+    ],
+    [
+      "HarvestCraftingToSiloRemainingSlotCountText",
+      "{0} emplacements de stockage restants",
+      "",
+      598801849,
+      ""
+    ],
+    [
+      "HarvestCraftingToSiloRemainingSlotCountText1",
+      "1 emplacement de stockage restant",
+      "",
+      887465885,
+      ""
+    ],
+    [
+      "HarvestCraftingToSiloNoSlotsRemainingText",
+      "Établi d'Hortisanat plein",
+      "",
+      -617514705,
+      ""
+    ],
+    [
+      "RitualSuspendFailInsuffientPoints",
+      "Impossible de Différer : pas assez de Tribut",
+      "",
+      -1190405238,
+      ""
+    ],
+    [
+      "RitualSuspendFailCostTooLow",
+      "Impossible de Différer : le prix de l'objet est trop faible",
+      "",
+      324011400,
+      ""
+    ],
+    [
+      "ReminderTextResonance",
+      "(Vous pouvez avoir jusqu'à 50 de Résonance pour chaque élément)",
+      "",
+      -813003549,
+      ""
+    ],
+    [
+      "RitualSuspendFailSuspendCapReached",
+      "Impossible de Différer : vous avez atteint votre maximum d'objets Différés",
+      "",
+      -1101304814,
+      ""
+    ],
+    [
+      "MavenAtlasProgressBarPopup",
+      "Le nombre minimum de boss que vous devez vaincre dans cette région en présence de la Prodige afin de recevoir son invitation",
+      "",
+      1846097875,
+      ""
+    ],
+    [
+      "ReminderTextScorchNonHitNoDuration",
+      "(Les Ennemis Calcinés ont -10% aux Résistances élémentaires)",
+      "",
+      -140290215,
+      ""
+    ],
+    [
+      "AddMavenErrorRegionTooLowLevel",
+      "Cette région nécessite plus de Pierres de veille pour susciter l'intérêt de la Prodige.",
+      "",
+      -1380703710,
+      ""
+    ],
+    [
+      "GamepadToggleQuestGroupsExpansion",
+      "",
+      "Masquer les groupes de quêtes",
+      1160203919,
+      ""
+    ],
+    [
+      "ReminderTextAll3Exposures",
+      "(Chaque Exposition inflige à sa Résistance correspondante  un malus de -10% pendant 4 secondes)",
+      "",
+      1136728958,
+      ""
+    ],
+    [
+      "MapDeviceWindowMavenOptionPopup",
+      "Appelez la Prodige afin qu'elle observe et affecte le combat de Boss de cette Carte. Si vous parvenez à vaincre le Boss, la Prodige reproduira ce combat dans son royaume.",
+      "",
+      -1104799411,
+      ""
+    ],
+    [
+      "ReminderTextTwo100PercentConversions",
+      "(Si les deux Conversions s'appliquent, chacune Convertira 50% des Dégâts)",
+      "",
+      2000692576,
+      ""
+    ],
+    [
+      "ReminderTextCrazyMinions",
+      "(Les Créatures qui entendent les murmures subissent 20% de leur Vie maximale sous forme de Dégâts de chaos par seconde, ont 50% d'Augmentation de Vitesse d'attaque et de Dégâts et ne vous obéissent plus)",
+      "",
+      1207418312,
+      ""
+    ],
+    [
+      "QuestTrackerDisplayPageXofX",
+      "Page {0}/{1}",
+      "",
+      764292422,
+      ""
+    ],
+    [
+      "GamepadCycleQuestTrackerPages",
+      "Faire défiler les pages",
+      "",
+      -2090493462,
+      ""
+    ],
+    [
+      "ReminderTextKeystoneBattlemage",
+      "(Vous gagnez des Dégâts des Sorts supplémentaires équivalents aux Dégâts de votre arme en main principale)",
+      "",
+      153036445,
+      ""
+    ],
+    [
       "December2020LevelUpPrize",
-      "Félicitations�!\nVous avez remporté une Boîte mystère du Crépuscule�!",
+      "Félicitations !\nVous avez remporté une Boîte mystère du Crépuscule !",
       "",
       -1428408287,
+      ""
+    ],
+    [
+      "RitualVesselFilledWithBlood",
+      "Réceptacle gorgé de sang créé",
+      "",
+      1601161581,
+      ""
+    ],
+    [
+      "ReminderTextRecoup",
+      "(Seuls les Dégâts au Toucher peuvent être Regagnés, ce qui prend place sur une durée de 4 secondes après la Touche)",
+      "",
+      373401819,
+      ""
+    ],
+    [
+      "ReminderTextBrutalCharges",
+      "(Les Joueurs ont 3% de chances d'infliger des dégâts triplés et 10% d'Augmentation du Seuil d'Étourdissement par Charge de brutalité)",
+      "",
+      -668456275,
+      ""
+    ],
+    [
+      "RemidnerTextAfflictionCharges",
+      "(Les Joueurs ont 8% Davantage de Dégâts avec les Altérations et 8% Davantage d'Effet des Altérations n'infligeant pas de Dégâts par Charge d'affliction)",
+      "",
+      -76223787,
+      ""
+    ],
+    [
+      "ReminderTextAbsorptionCharges",
+      "(Les Joueurs Regagnent 12% des Dégâts élémentaires subis sous forme de Bouclier d'énergie par Charge d'absorption)",
+      "",
+      1643195294,
+      ""
+    ],
+    [
+      "OpenWebpageConfirmationTitle",
+      "Ouvrir le navigateur web",
+      "",
+      -1829507658,
+      ""
+    ],
+    [
+      "OpenWebpageConfirmationText",
+      "Cette action ouvrira un navigateur web. Souhaitez-vous continuer ?",
+      "",
+      1387178060,
+      ""
+    ],
+    [
+      "XboxCannotOpenWebBrowser",
+      "",
+      "Impossible d'ouvrir le navigateur, car votre compte est soumis à des restrictions. Veuillez consulter votre compte Xbox Live.",
+      -956463419,
+      "Impossible d'ouvrir le navigateur, car votre compte est soumis à des restrictions. Veuillez consulter votre compte Sony."
+    ],
+    [
+      "ItemDisplayMavenVoidAreas",
+      "La Prodige doit Observer",
+      "",
+      -704489109,
+      ""
+    ],
+    [
+      "RitualUnknownItemDescriptionText",
+      "Achevez plus de Rituels dans cette zone pour dévoiler cet objet",
+      "",
+      -2088343862,
+      ""
+    ],
+    [
+      "AtlasMapCollectedNotification",
+      "Nombre de Complétions observées par la Prodige : {0}",
+      "",
+      742101080,
+      ""
+    ],
+    [
+      "StashTabEditorDeleteFolderConfirmation",
+      "Voulez-vous supprimer ce Dossier ? Les Onglets qui s'y trouvent seront automatiquement retirés.",
+      "",
+      -712219369,
+      ""
+    ],
+    [
+      "StashTabEditorFolderComboboxLabel",
+      "Dossier",
+      "",
+      490969194,
       ""
     ],
     [
@@ -39640,6 +40718,69 @@
       "Choisissez une option...",
       "",
       -945224866,
+      ""
+    ],
+    [
+      "MapDeviceCannotAccessMavenArea",
+      "Vous devez prouver votre valeur pour que la Prodige vous autorise à entrer dans son royaume.",
+      "",
+      -912853467,
+      ""
+    ],
+    [
+      "MavenEnragedDefeated",
+      "tuez la Prodige",
+      "",
+      822174344,
+      ""
+    ],
+    [
+      "GamepadIdentifyFailedNoScrolls",
+      "",
+      "Nécessite un Parchemin de sagesse",
+      2108996413,
+      ""
+    ],
+    [
+      "RitualPrepaidItemPriceIncreaseWarning",
+      "Le prix de cet objet sera plus élevé la prochaine fois qu'il apparaîtra dans un Rituel — sauf si vous le différez à nouveau",
+      "",
+      1872338701,
+      ""
+    ],
+    [
+      "RitualPrepaidItemExpireWarning",
+      "Cet objet est disponible pour la toute dernière fois — sauf si vous le différez à nouveau",
+      "",
+      1648404063,
+      ""
+    ],
+    [
+      "RitualBloodVesselErrorNoChainUse",
+      "Les Réceptacles de Rituel ne peuvent être utilisés dans une Carte ouverte avec un Réceptacle gorgé de sang",
+      "",
+      -384152075,
+      ""
+    ],
+    [
+      "RitualBloodVesselErrorNoRepeatUse",
+      "Les Réceptacles de Rituel ne peuvent être utilisés qu'une seule fois par Autel de Rituel",
+      "",
+      -1928526807,
+      ""
+    ],
+    [
+      "RitualBloodVesselErrorCompletedShrineOnly",
+      "Les Réceptacles de Rituel ne peuvent être utilisés que sur les Autels dont le Rituel a été accompli",
+      "",
+      672105890,
+      ""
+    ],
+    [
+      "RitualBloodVesselBonuses",
+      "Les Rituels ont 20% d'Augmentation des Faveurs proposées\nLes Rituels génèrent leurs Monstres 20% plus rapidement\nLes Rituels ont 20% Davantage de nombre maximum de monstres en vie",
+      "",
+      558709536,
       ""
     ],
     [
@@ -39654,6 +40795,300 @@
       "Changer de taille/style",
       "",
       -1068269876,
+      ""
+    ],
+    [
+      "RitualStoneFromArea",
+      "Provenance :",
+      "",
+      908780606,
+      ""
+    ],
+    [
+      "MagicNamePrefixPrefix",
+      "{0} {1} {2}",
+      "",
+      1297133979,
+      ""
+    ],
+    [
+      "MagicNameSuffixSuffix",
+      "{0} {1} {2}",
+      "",
+      22491679,
+      ""
+    ],
+    [
+      "ReminderTextRandomSafehouse",
+      "(Les Abris qui ont déjà été localisés peuvent toujours être sélectionnés aléatoirement)",
+      "",
+      -1968467377,
+      ""
+    ],
+    [
+      "ReminderTextWildExile",
+      "Exilés renégats errants",
+      "",
+      -590493488,
+      ""
+    ],
+    [
+      "ItemErrorOnlyOneModOfType",
+      "L'objet n'a qu'un seul modificateur du type requis",
+      "",
+      510912154,
+      ""
+    ],
+    [
+      "MonsterDominatedBySirus",
+      "Sous le contrôle de Sirus",
+      "",
+      486421974,
+      ""
+    ],
+    [
+      "ReminderTextTornVeil",
+      "(Le Rayon d'Assimilation est la distance à partir de laquelle les Portails vers Ailleurs peuvent fusionner entre eux afin de générer des Démons d'Ailleurs)",
+      "",
+      -656101754,
+      ""
+    ],
+    [
+      "ReminderTextFaceToFace",
+      "(Les Généraux de Légion sont la Reine Hyrri Ngamaku, le Général Marcéus Œil de Lion, le cardinal Sanctus Vox, la Vipère Napuatzi et Aukuna, la Sekhema noire)",
+      "",
+      -899846240,
+      ""
+    ],
+    [
+      "ReminderTextProtractedBattle",
+      "(Les Monstres en Stase n'agissent pas)",
+      "",
+      -562699462,
+      ""
+    ],
+    [
+      "ReminderTextResourceReallocation",
+      "(Les Architectes non résidents sont ceux qui peuvent être tués afin d'améliorer la salle d'Incursion)",
+      "",
+      2074109385,
+      ""
+    ],
+    [
+      "ReminderTextContestedDevelopment",
+      "(Les Architectes résidents sont ceux qui peuvent être tués afin de modifier la salle d'Incursion)",
+      "",
+      -652328456,
+      ""
+    ],
+    [
+      "ReminderTextShaperGuardians",
+      "(Les Gardiens du Façonneur sont le Gardien de la Chimère, le Gardien du Minotaure, la Gardienne de l'Hydre et le Gardien du Phénix)",
+      "",
+      -636781334,
+      ""
+    ],
+    [
+      "ReminderTextElderGuardians",
+      "(Les Gardiens de l'Ancien sont l'Asservisseur, l'Éradicateur, le Constricteur et le Purificateur)",
+      "",
+      1841184613,
+      ""
+    ],
+    [
+      "ReminderTextAtlasConquerors",
+      "(Les Conquérants sont Baran, le Croisé, Véritania, la Rédemptrice, Al-Hezmin, le Chasseur et Drox, le Seigneur de guerre)",
+      "",
+      -872659269,
+      ""
+    ],
+    [
+      "ReminderTextBasicCurrency",
+      "(Les Objets monétaires basiques sont tous les Objets monétaires qui sont cédés par du contenu qui n'est pas du contenu de ligue)",
+      "",
+      -1510178638,
+      ""
+    ],
+    [
+      "HiddenItemUnique",
+      "Un Objet Unique au hasard",
+      "",
+      616127428,
+      ""
+    ],
+    [
+      "HiddenItemCatalyst",
+      "Un Catalyseur au hasard",
+      "",
+      -1674670898,
+      ""
+    ],
+    [
+      "HiddenItemMetamorphOrgan",
+      "Un Échantillon de Métamorphe au hasard",
+      "",
+      -369827255,
+      ""
+    ],
+    [
+      "HiddenItemFlask",
+      "Un Flacon au hasard",
+      "",
+      -827598796,
+      ""
+    ],
+    [
+      "HiddenItemAmulet",
+      "Une Amulette au hasard",
+      "",
+      -453029835,
+      ""
+    ],
+    [
+      "HiddenItemRing",
+      "Une Bague au hasard",
+      "",
+      -409235262,
+      ""
+    ],
+    [
+      "HiddenItemJewel",
+      "Un joyau au hasard",
+      "",
+      376936073,
+      ""
+    ],
+    [
+      "HiddenItemTrinket",
+      "Une babiole au hasard",
+      "",
+      -1476087729,
+      ""
+    ],
+    [
+      "HiddenItemLeaguestone",
+      "Une Pierre de ligue au hasard",
+      "",
+      -1400816055,
+      ""
+    ],
+    [
+      "HiddenItemContract",
+      "Un Contrat au hasard",
+      "",
+      -723213175,
+      ""
+    ],
+    [
+      "HiddenItemBlueprint",
+      "Un Plan au hasard",
+      "",
+      334199702,
+      ""
+    ],
+    [
+      "HiddenItemMap",
+      "Une Carte au hasard",
+      "",
+      1808770337,
+      ""
+    ],
+    [
+      "MapDeviceMapStatsWindowTitle",
+      "Modificateurs supplémentaires",
+      "",
+      -1590784975,
+      ""
+    ],
+    [
+      "MapDeviceMapStatsCategoryPassive",
+      "Modificateurs de l'Arbre de l'Atlas",
+      "",
+      -856199857,
+      ""
+    ],
+    [
+      "MapDeviceMapStatsCategorySextant",
+      "Modificateurs de Sextant",
+      "",
+      1566825954,
+      ""
+    ],
+    [
+      "MapDeviceMapStatsCategoryWatchstone",
+      "Modificateurs de Pierre de veille",
+      "",
+      44690017,
+      ""
+    ],
+    [
+      "MapDeviceMapToggleStatsVisibility",
+      "",
+      "Afficher/Masquer les Modificateurs",
+      898405231,
+      ""
+    ],
+    [
+      "MapDeviceMapToggleStatsCycleGroups",
+      "",
+      "Catégorie suivante",
+      -1028117885,
+      ""
+    ],
+    [
+      "RitualOpenReawrdWindowButtonPopup",
+      "Afficher les récompenses de Rituel",
+      "",
+      -461650820,
+      ""
+    ],
+    [
+      "RitualRewardsWindowApplyItemFilter",
+      "Appliquer le Filtre d'objets",
+      "",
+      -880901990,
+      ""
+    ],
+    [
+      "MapStashWitnessedByMaven",
+      "Observée par la Prodige",
+      "",
+      -1819385434,
+      ""
+    ],
+    [
+      "RitualShopFutureDiscount",
+      "Prochaine remise :",
+      "",
+      -1760256378,
+      ""
+    ],
+    [
+      "RitualRewardWindowDeferFee",
+      "Coût pour Différer :",
+      "",
+      440201030,
+      ""
+    ],
+    [
+      "RitualRewardWindowTotalDeferCost",
+      "Coût total pour Différer :",
+      "",
+      2083974425,
+      ""
+    ],
+    [
+      "ReminderTextInfluencedItems",
+      "(Les Objets Influencés peuvent avoir des modificateurs qui n'existent nulle part ailleurs)",
+      "",
+      -867369286,
+      ""
+    ],
+    [
+      "HarvestCraftOptionDisabledInHideout",
+      "You cannot use this crafting option in a Hideout.",
+      "",
+      -2078730669,
       ""
     ]
   ]

@@ -1036,7 +1036,29 @@
       ]
     ],
     [
+      "ReducedFreezeDurationMaven",
+      [
+        5
+      ],
+      [
+        318,
+        310,
+        643
+      ]
+    ],
+    [
       "ReducedBurnDuration",
+      [
+        5
+      ],
+      [
+        318,
+        309,
+        643
+      ]
+    ],
+    [
+      "ReducedBurnDurationMaven",
       [
         5
       ],
@@ -1172,6 +1194,16 @@
       ]
     ],
     [
+      "ManaRegenerationMaven",
+      [
+        0
+      ],
+      [
+        667,
+        323
+      ]
+    ],
+    [
       "EnergyShieldRegeneration",
       [
         5
@@ -1238,6 +1270,16 @@
     ],
     [
       "AllResistances",
+      [
+        2
+      ],
+      [
+        318,
+        639
+      ]
+    ],
+    [
+      "AllResistancesMaven",
       [
         2
       ],
@@ -3163,7 +3205,29 @@
       ]
     ],
     [
+      "LocalIncreaseSocketedFireGemLevelMaven",
+      [
+        6
+      ],
+      [
+        318,
+        309,
+        27
+      ]
+    ],
+    [
       "LocalIncreaseSocketedColdGemLevel",
+      [
+        6
+      ],
+      [
+        318,
+        310,
+        27
+      ]
+    ],
+    [
+      "LocalIncreaseSocketedColdGemLevelMaven",
       [
         6
       ],
@@ -3185,7 +3249,28 @@
       ]
     ],
     [
+      "LocalIncreaseSocketedLightningGemLevelMaven",
+      [
+        6
+      ],
+      [
+        318,
+        311,
+        27
+      ]
+    ],
+    [
       "LocalIncreaseSocketedChaosGemLevel",
+      [
+        2
+      ],
+      [
+        312,
+        27
+      ]
+    ],
+    [
+      "LocalIncreaseSocketedChaosGemLevelMaven",
       [
         2
       ],
@@ -3587,6 +3672,16 @@
       ]
     ],
     [
+      "PercentageStrengthMaven",
+      [
+        6
+      ],
+      [
+        640,
+        27
+      ]
+    ],
+    [
       "Dexterity",
       [
         1
@@ -3602,6 +3697,16 @@
       ],
       [
         640
+      ]
+    ],
+    [
+      "PercentageDexterityMaven",
+      [
+        6
+      ],
+      [
+        640,
+        27
       ]
     ],
     [
@@ -3661,6 +3766,17 @@
       ]
     ],
     [
+      "ElementalDamagePercentMaven",
+      [
+        1
+      ],
+      [
+        665,
+        638,
+        318
+      ]
+    ],
+    [
       "MonsterElementalDamageFinal",
       [],
       [
@@ -3685,6 +3801,13 @@
     ],
     [
       "CullingStrike",
+      [
+        6
+      ],
+      []
+    ],
+    [
+      "CullingStrikeMaven",
       [
         6
       ],
@@ -3754,6 +3877,15 @@
       ]
     ],
     [
+      "MaximumEnduranceChargesMaven",
+      [
+        7
+      ],
+      [
+        637
+      ]
+    ],
+    [
       "AddPowerChargeOnCrit",
       [
         7
@@ -3782,6 +3914,17 @@
       [
         667,
         323
+      ]
+    ],
+    [
+      "MaximumManaIncreasePercentMaven",
+      [
+        6
+      ],
+      [
+        667,
+        323,
+        638
       ]
     ],
     [
@@ -3961,6 +4104,17 @@
       ]
     ],
     [
+      "MinionLifeMaven",
+      [
+        5
+      ],
+      [
+        667,
+        316,
+        320
+      ]
+    ],
+    [
       "MinionDamage",
       [
         6
@@ -4070,7 +4224,34 @@
       ]
     ],
     [
+      "AdditionalCurseOnEnemiesMaven",
+      [
+        6
+      ],
+      [
+        667,
+        323,
+        34,
+        321,
+        647
+      ]
+    ],
+    [
       "ConvertPhysicalToFire",
+      [
+        7
+      ],
+      [
+        666,
+        665,
+        638,
+        313,
+        318,
+        309
+      ]
+    ],
+    [
+      "ConvertPhysicalToFireMaven",
       [
         7
       ],
@@ -4625,6 +4806,20 @@
       ]
     ],
     [
+      "ConvertPhysicalToColdMaven",
+      [
+        7
+      ],
+      [
+        666,
+        665,
+        638,
+        313,
+        318,
+        310
+      ]
+    ],
+    [
       "ConvertPhysicalToColdVeiledFamilyRestriction",
       [
         2
@@ -4869,6 +5064,20 @@
       "StanceVilentaEnrage",
       [],
       [
+        319,
+        324
+      ]
+    ],
+    [
+      "StanceVilentaEnrageMap",
+      [],
+      [
+        666,
+        665,
+        638,
+        313,
+        318,
+        309,
         319,
         324
       ]
@@ -8753,6 +8962,15 @@
       ]
     ],
     [
+      "MaximumFrenzyChargesMaven",
+      [
+        6
+      ],
+      [
+        636
+      ]
+    ],
+    [
       "WeaponPhysicalDamagePerStrength",
       [
         5
@@ -9047,6 +9265,18 @@
       ]
     ],
     [
+      "ManaGainPerTargetMaven",
+      [
+        5
+      ],
+      [
+        667,
+        323,
+        319,
+        324
+      ]
+    ],
+    [
       "ManaGainPerTargetLocal",
       [
         5
@@ -9103,6 +9333,15 @@
     ],
     [
       "BlockPercent",
+      [
+        4
+      ],
+      [
+        641
+      ]
+    ],
+    [
+      "BlockPercentMaven",
       [
         4
       ],
@@ -9268,6 +9507,15 @@
     ],
     [
       "IncreasedMaximumPowerCharges",
+      [
+        6
+      ],
+      [
+        635
+      ]
+    ],
+    [
+      "IncreasedMaximumPowerChargesMaven",
       [
         6
       ],
@@ -9547,7 +9795,25 @@
       ]
     ],
     [
+      "FrenzyChargeOnKillChanceMaven",
+      [
+        6
+      ],
+      [
+        636
+      ]
+    ],
+    [
       "PowerChargeOnKillChance",
+      [
+        6
+      ],
+      [
+        635
+      ]
+    ],
+    [
+      "PowerChargeOnKillChanceMaven",
       [
         6
       ],
@@ -9654,6 +9920,16 @@
     ],
     [
       "EnergyShieldRegenerationPerMinute",
+      [
+        2
+      ],
+      [
+        634,
+        317
+      ]
+    ],
+    [
+      "EnergyShieldRegenerationPerMinuteMaven",
       [
         2
       ],
@@ -11544,6 +11820,17 @@
       ]
     ],
     [
+      "AddedManaRegenerationMaven",
+      [
+        5
+      ],
+      [
+        20,
+        667,
+        323
+      ]
+    ],
+    [
       "ArmourWhileNotIgnitedFrozenShocked",
       [
         5
@@ -11740,6 +12027,15 @@
     ],
     [
       "ChanceToDodge",
+      [
+        2
+      ],
+      [
+        642
+      ]
+    ],
+    [
+      "ChanceToDodgeMaven",
       [
         2
       ],
@@ -12689,6 +12985,15 @@
       ]
     ],
     [
+      "SpellBlockPercentageMaven",
+      [
+        6
+      ],
+      [
+        641
+      ]
+    ],
+    [
       "SpellBlockPercentageOnLowLife",
       [
         6
@@ -12716,6 +13021,15 @@
     ],
     [
       "SpellDodgePercentage",
+      [
+        6
+      ],
+      [
+        642
+      ]
+    ],
+    [
+      "SpellDodgePercentageMaven",
       [
         6
       ],
@@ -13114,6 +13428,15 @@
     ],
     [
       "LocalIncreaseSocketedSupportGemLevel",
+      [
+        7
+      ],
+      [
+        27
+      ]
+    ],
+    [
+      "LocalIncreaseSocketedSupportGemLevelMaven",
       [
         7
       ],
@@ -14484,6 +14807,15 @@
       []
     ],
     [
+      "GlobalChanceToBlindOnHitMaven",
+      [
+        5
+      ],
+      [
+        638
+      ]
+    ],
+    [
       "LifeRegenerationPerLevel",
       [
         6
@@ -14591,6 +14923,15 @@
     ],
     [
       "LocalIncreaseSocketedActiveSkillGemLevel",
+      [
+        6
+      ],
+      [
+        27
+      ]
+    ],
+    [
+      "LocalIncreaseSocketedActiveSkillGemLevelMaven",
       [
         6
       ],
@@ -16805,6 +17146,16 @@
       ],
       [
         640
+      ]
+    ],
+    [
+      "PercentageIntelligenceMaven",
+      [
+        6
+      ],
+      [
+        640,
+        27
       ]
     ],
     [
@@ -20966,6 +21317,20 @@
       ]
     ],
     [
+      "ConvertPhysicalToLightningMaven",
+      [
+        7
+      ],
+      [
+        666,
+        665,
+        638,
+        313,
+        318,
+        311
+      ]
+    ],
+    [
       "ConvertPhysicalToLightningVeiledFamilyRestriction",
       [
         2
@@ -21905,6 +22270,50 @@
       ],
       [
         312
+      ]
+    ],
+    [
+      "ChilledGroundEffectEffectivenessMaven",
+      [
+        7
+      ],
+      [
+        318,
+        310,
+        643
+      ]
+    ],
+    [
+      "BurningGroundEffectEffectivenessMaven",
+      [
+        7
+      ],
+      [
+        318,
+        309,
+        643
+      ]
+    ],
+    [
+      "ShockedGroundEffectEffectivenessMaven",
+      [
+        7
+      ],
+      [
+        318,
+        311,
+        643
+      ]
+    ],
+    [
+      "DesecratedGroundEffectEffectivenessMaven",
+      [
+        6
+      ],
+      [
+        314,
+        312,
+        643
       ]
     ],
     [
@@ -29546,6 +29955,13 @@
       ]
     ],
     [
+      "IncreasedStunThreshold",
+      [
+        5
+      ],
+      []
+    ],
+    [
       "StunThresholdBasedOnMana",
       [
         6
@@ -29554,6 +29970,16 @@
     ],
     [
       "PowerChargeOnCriticalStrikeChance",
+      [
+        6
+      ],
+      [
+        635,
+        631
+      ]
+    ],
+    [
+      "PowerChargeOnCriticalStrikeChanceMaven",
       [
         6
       ],
@@ -30106,6 +30532,16 @@
       ]
     ],
     [
+      "MaximumLifeOnKillPercentMaven",
+      [
+        5
+      ],
+      [
+        667,
+        316
+      ]
+    ],
+    [
       "MaximumManaOnKillPercent",
       [
         5
@@ -30116,7 +30552,27 @@
       ]
     ],
     [
+      "MaximumManaOnKillPercentMaven",
+      [
+        5
+      ],
+      [
+        667,
+        323
+      ]
+    ],
+    [
       "MaximumEnergyShieldOnKillPercent",
+      [
+        5
+      ],
+      [
+        634,
+        317
+      ]
+    ],
+    [
+      "MaximumEnergyShieldOnKillPercentMaven",
       [
         5
       ],
@@ -30299,6 +30755,18 @@
       ],
       [
         646,
+        27
+      ]
+    ],
+    [
+      "DisplaySupportedByManaLeechMaven",
+      [
+        5
+      ],
+      [
+        646,
+        667,
+        323,
         27
       ]
     ],
@@ -30582,6 +31050,16 @@
       []
     ],
     [
+      "ReducedPhysicalDamageTakenMaven",
+      [
+        2
+      ],
+      [
+        7,
+        317
+      ]
+    ],
+    [
       "BleedAndMaimOnHit",
       [
         5
@@ -30724,6 +31202,15 @@
     ],
     [
       "EnduranceChargeOnKillChance",
+      [
+        6
+      ],
+      [
+        637
+      ]
+    ],
+    [
+      "EnduranceChargeOnKillChanceMaven",
       [
         6
       ],
@@ -31223,6 +31710,16 @@
       ]
     ],
     [
+      "EnergyShieldRecoveryRateMaven",
+      [
+        7
+      ],
+      [
+        634,
+        317
+      ]
+    ],
+    [
       "MapPerandusLeague",
       [],
       []
@@ -31352,6 +31849,17 @@
       ]
     ],
     [
+      "FireDamageAvoidanceMaven",
+      [
+        7
+      ],
+      [
+        318,
+        309,
+        639
+      ]
+    ],
+    [
       "ColdDamageAvoidance",
       [
         7
@@ -31362,6 +31870,17 @@
       ]
     ],
     [
+      "ColdDamageAvoidanceMaven",
+      [
+        7
+      ],
+      [
+        318,
+        310,
+        639
+      ]
+    ],
+    [
       "LightningDamageAvoidance",
       [
         7
@@ -31369,6 +31888,17 @@
       [
         318,
         311
+      ]
+    ],
+    [
+      "LightningDamageAvoidanceMaven",
+      [
+        7
+      ],
+      [
+        318,
+        311,
+        639
       ]
     ],
     [
@@ -32685,6 +33215,15 @@
       ]
     ],
     [
+      "ManaRecoveryRateMaven",
+      [],
+      [
+        20,
+        667,
+        323
+      ]
+    ],
+    [
       "AttacksChainInMainHand",
       [
         6
@@ -32953,6 +33492,29 @@
       [
         4
       ],
+      [
+        34
+      ]
+    ],
+    [
+      "EnchantmentWaterSphereDamage",
+      [],
+      [
+        668,
+        638,
+        34
+      ]
+    ],
+    [
+      "EnchantmentWaterSpherePulseFrequency",
+      [],
+      [
+        34
+      ]
+    ],
+    [
+      "EnchantmentWaterSphereExposureAmount",
+      [],
       [
         34
       ]
@@ -33717,6 +34279,14 @@
       "FortifyEffect",
       [],
       []
+    ],
+    [
+      "FortifyEffectMaven",
+      [],
+      [
+        7,
+        317
+      ]
     ],
     [
       "MapEssenceLeague",
@@ -41709,6 +42279,17 @@
       []
     ],
     [
+      "ChanceToGainOnslaughtOnKillMaven",
+      [
+        4
+      ],
+      [
+        319,
+        34,
+        324
+      ]
+    ],
+    [
       "ChancetoGainPhasingOnKill",
       [
         4
@@ -41766,6 +42347,13 @@
     ],
     [
       "ChanceToAvoidProjectiles",
+      [
+        2
+      ],
+      []
+    ],
+    [
+      "ChanceToAvoidProjectilesMaven",
       [
         2
       ],
@@ -42720,6 +43308,17 @@
       ]
     ],
     [
+      "IncreasedAttackAndCastSpeedSupportedMaven",
+      [
+        2
+      ],
+      [
+        319,
+        34,
+        324
+      ]
+    ],
+    [
       "ProjectileSpeedSupported",
       [
         2
@@ -43095,7 +43694,25 @@
       ]
     ],
     [
+      "ReducedElementalReflectTakenMaven",
+      [
+        2
+      ],
+      [
+        318
+      ]
+    ],
+    [
       "ReducedPhysicalReflectTaken",
+      [
+        2
+      ],
+      [
+        313
+      ]
+    ],
+    [
+      "ReducedPhysicalReflectTakenMaven",
       [
         2
       ],
@@ -43125,6 +43742,19 @@
       ]
     ],
     [
+      "PhysicalDamageTakenAsFireUberMaven",
+      [
+        2
+      ],
+      [
+        667,
+        316,
+        313,
+        318,
+        309
+      ]
+    ],
+    [
       "PhysicalDamageTakenAsColdUber",
       [
         2
@@ -43136,11 +43766,37 @@
       ]
     ],
     [
+      "PhysicalDamageTakenAsColdUberMaven",
+      [
+        2
+      ],
+      [
+        667,
+        316,
+        313,
+        318,
+        310
+      ]
+    ],
+    [
       "PhysicalDamageTakenAsLightningUber",
       [
         2
       ],
       [
+        313,
+        318,
+        311
+      ]
+    ],
+    [
+      "PhysicalDamageTakenAsLightningUberMaven",
+      [
+        2
+      ],
+      [
+        667,
+        316,
         313,
         318,
         311
@@ -43190,6 +43846,15 @@
     ],
     [
       "IncreasedAilmentDuration",
+      [
+        6
+      ],
+      [
+        643
+      ]
+    ],
+    [
+      "IncreasedAilmentDurationMaven",
       [
         6
       ],
@@ -43259,6 +43924,17 @@
         2
       ],
       [
+        667,
+        316
+      ]
+    ],
+    [
+      "LifeRecoveryRateMaven",
+      [
+        2
+      ],
+      [
+        20,
         667,
         316
       ]
@@ -43974,6 +44650,19 @@
       [
         633,
         317
+      ]
+    ],
+    [
+      "AdditionalChanceToEvadeMaven",
+      [
+        2
+      ],
+      [
+        633,
+        317,
+        319,
+        34,
+        324
       ]
     ],
     [
@@ -48206,6 +48895,17 @@
       ]
     ],
     [
+      "PhysicalDamageTakenAsChaosUberMaven",
+      [
+        7
+      ],
+      [
+        313,
+        312,
+        639
+      ]
+    ],
+    [
       "ColdDamageTakenPercentage",
       [],
       [
@@ -49351,12 +50051,31 @@
       ]
     ],
     [
+      "EnduranceChargeIfHitRecentlyMaven",
+      [
+        5
+      ],
+      [
+        637
+      ]
+    ],
+    [
       "FrenzyChargeOnHitChance",
       [
         5
       ],
       [
         636
+      ]
+    ],
+    [
+      "FrenzyChargeOnHitChanceMaven",
+      [
+        5
+      ],
+      [
+        636,
+        324
       ]
     ],
     [
@@ -50074,6 +50793,19 @@
     ],
     [
       "SocketedAttacksManaCost",
+      [
+        2
+      ],
+      [
+        645,
+        667,
+        323,
+        319,
+        27
+      ]
+    ],
+    [
+      "SocketedAttacksManaCostMaven",
       [
         2
       ],
@@ -52891,6 +53623,15 @@
       ]
     ],
     [
+      "EnemiesExplodeOnDeathPhysicalMaven",
+      [],
+      [
+        666,
+        638,
+        313
+      ]
+    ],
+    [
       "FireDamageSpellSkills",
       [],
       [
@@ -53194,7 +53935,28 @@
       ]
     ],
     [
+      "FasterIgniteDamageMaven",
+      [],
+      [
+        665,
+        638,
+        318,
+        309,
+        643
+      ]
+    ],
+    [
       "FasterPoisonDamage",
+      [],
+      [
+        314,
+        638,
+        312,
+        643
+      ]
+    ],
+    [
+      "FasterPoisonDamageMaven",
       [],
       [
         314,
@@ -53216,12 +53978,32 @@
       ]
     ],
     [
+      "FasterBleedDamageMaven",
+      [],
+      [
+        666,
+        315,
+        638,
+        313,
+        319,
+        643
+      ]
+    ],
+    [
       "HasOnslaught",
       [],
       []
     ],
     [
       "AttackImpaleChance",
+      [],
+      [
+        313,
+        319
+      ]
+    ],
+    [
+      "AttackImpaleChanceMaven",
       [],
       [
         313,
@@ -54980,6 +55762,11 @@
     ],
     [
       "MapAtlasTormentedBetrayerAndGildedScarabDropChance",
+      [],
+      []
+    ],
+    [
+      "MapAtlasTormentedBetrayerAndWingedScarabDropChance",
       [],
       []
     ],
@@ -57402,6 +58189,13 @@
       ]
     ],
     [
+      "BlightEnchantmentScoutTowerExtraMinion",
+      [],
+      [
+        320
+      ]
+    ],
+    [
       "BlightFragmentMushrune1",
       [],
       [
@@ -57959,7 +58753,23 @@
       []
     ],
     [
+      "TailwindOnCriticalStrikeMaven",
+      [
+        2
+      ],
+      []
+    ],
+    [
       "ElusiveOnCriticalStrike",
+      [
+        2
+      ],
+      [
+        631
+      ]
+    ],
+    [
+      "ElusiveOnCriticalStrikeMaven",
       [
         2
       ],
@@ -57977,11 +58787,54 @@
       ]
     ],
     [
+      "GainAccuracyEqualToStrengthMaven",
+      [
+        2
+      ],
+      [
+        319,
+        631
+      ]
+    ],
+    [
       "SingleConflux",
       [
         2
       ],
       []
+    ],
+    [
+      "IgnitingConfluxMaven",
+      [
+        2
+      ],
+      [
+        318,
+        309,
+        643
+      ]
+    ],
+    [
+      "ChillingConfluxMaven",
+      [
+        2
+      ],
+      [
+        318,
+        310,
+        643
+      ]
+    ],
+    [
+      "ShockingConfluxMaven",
+      [
+        2
+      ],
+      [
+        318,
+        311,
+        643
+      ]
     ],
     [
       "SpellsAdditionalUnleashSeal",
@@ -57991,6 +58844,16 @@
       []
     ],
     [
+      "SpellsAdditionalUnleashSealMaven",
+      [
+        2
+      ],
+      [
+        34,
+        631
+      ]
+    ],
+    [
       "ConsecratedGroundStationary",
       [
         2
@@ -57998,7 +58861,21 @@
       []
     ],
     [
+      "ConsecratedGroundStationaryMaven",
+      [
+        2
+      ],
+      []
+    ],
+    [
       "NearbyEnemiesAreBlinded",
+      [
+        2
+      ],
+      []
+    ],
+    [
+      "NearbyEnemiesAreBlindedMaven",
       [
         2
       ],
@@ -58060,6 +58937,19 @@
       ]
     ],
     [
+      "IgniteChanceAndDamageMaven",
+      [
+        2
+      ],
+      [
+        665,
+        638,
+        318,
+        309,
+        643
+      ]
+    ],
+    [
       "FreezeChanceAndDuration",
       [
         2
@@ -58071,7 +58961,29 @@
       ]
     ],
     [
+      "FreezeChanceAndDurationMaven",
+      [
+        2
+      ],
+      [
+        318,
+        310,
+        643
+      ]
+    ],
+    [
       "ShockChanceAndEffect",
+      [
+        2
+      ],
+      [
+        318,
+        311,
+        643
+      ]
+    ],
+    [
+      "ShockChanceAndEffectMaven",
       [
         2
       ],
@@ -63659,6 +64571,13 @@
       []
     ],
     [
+      "WarcryAreaOfEffectMaven",
+      [
+        5
+      ],
+      []
+    ],
+    [
       "WarcrySpeed",
       [
         5
@@ -63846,6 +64765,18 @@
       [
         318,
         311,
+        643
+      ]
+    ],
+    [
+      "ReducedShockEffectOnSelfMaven",
+      [
+        5
+      ],
+      [
+        318,
+        311,
+        631,
         643
       ]
     ],
@@ -69000,6 +69931,1725 @@
       ]
     ],
     [
+      "RitualLeague",
+      [],
+      []
+    ],
+    [
+      "HungryLoopSupportedByTrinity",
+      [],
+      [
+        646,
+        27
+      ]
+    ],
+    [
+      "LoseLifePercentOnCrit",
+      [
+        5
+      ],
+      [
+        667,
+        316,
+        631
+      ]
+    ],
+    [
+      "LoseEnergyShieldPercentOnCrit",
+      [
+        5
+      ],
+      [
+        634,
+        317,
+        631
+      ]
+    ],
+    [
+      "DamageOverTimeMultiplierIfCrit8Seconds",
+      [
+        7
+      ],
+      [
+        638,
+        631
+      ]
+    ],
+    [
+      "LifeRegenerationIfCrit8Seconds",
+      [
+        6
+      ],
+      [
+        667,
+        316,
+        631
+      ]
+    ],
+    [
+      "ArmourPerStrength",
+      [
+        6
+      ],
+      [
+        7,
+        317
+      ]
+    ],
+    [
+      "EnemiesIgniteChaosDamage",
+      [
+        7
+      ],
+      [
+        318,
+        309,
+        643
+      ]
+    ],
+    [
+      "EnemiesIgniteWitherNeverExpires",
+      [
+        6
+      ],
+      [
+        318,
+        309,
+        643
+      ]
+    ],
+    [
+      "GrantsVampiricIconSkill",
+      [
+        7
+      ],
+      [
+        645
+      ]
+    ],
+    [
+      "LocalBleedDamageOverTimeMultiplier",
+      [
+        7
+      ],
+      [
+        315,
+        313,
+        319,
+        643
+      ]
+    ],
+    [
+      "SacrificialZealOnSkillUse",
+      [
+        7
+      ],
+      []
+    ],
+    [
+      "ArmourPenetrationSacrificialZeal",
+      [
+        7
+      ],
+      [
+        666,
+        638,
+        313
+      ]
+    ],
+    [
+      "RightRingMagicHexproof",
+      [
+        7
+      ],
+      [
+        647
+      ]
+    ],
+    [
+      "LeftRingMagicNoCritDamage",
+      [
+        7
+      ],
+      [
+        631
+      ]
+    ],
+    [
+      "AnyRingMagicDamageExtraRoll",
+      [
+        7
+      ],
+      []
+    ],
+    [
+      "WatchstoneItemQuantity",
+      [
+        2
+      ],
+      []
+    ],
+    [
+      "WatchstoneAdditionalEssenceChance",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneLegionFragmentChance",
+      [
+        3
+      ],
+      []
+    ],
+    [
+      "WatchstoneFullyLinkedChance",
+      [
+        2
+      ],
+      []
+    ],
+    [
+      "WatchstoneMaximumSocketsChance",
+      [
+        2
+      ],
+      []
+    ],
+    [
+      "WatchstoneLuckyLinks",
+      [
+        2
+      ],
+      []
+    ],
+    [
+      "WatchstonePlusTwoSocketsChance",
+      [
+        2
+      ],
+      []
+    ],
+    [
+      "WatchstoneWhiteSocketChance",
+      [
+        3
+      ],
+      []
+    ],
+    [
+      "WatchstoneWeaponQualityChance",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneArmourQualityChance",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneGemQualityChance",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneFlaskQualityChance",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneBossCurrencyDrops",
+      [
+        2
+      ],
+      []
+    ],
+    [
+      "WatchstoneRareMapCorruptedChance",
+      [
+        2
+      ],
+      []
+    ],
+    [
+      "WatchstoneInfluenceItemChance",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneChestItemQuantity",
+      [
+        2
+      ],
+      []
+    ],
+    [
+      "WatchstoneCorruptedItemChance",
+      [
+        3
+      ],
+      []
+    ],
+    [
+      "WatchstoneInfluenceMonsterWeaponChance",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneInfluenceMonsterArmourChance",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneInfluenceMonsterJewelleryChance",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneInfluenceMonsterCurrencyChance",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneInfluenceMonsterGemChance",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneMagicMonsterWeaponChance",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneMagicMonsterArmourChance",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneMagicMonsterJewelleryChance",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneMagicMonsterCurrencyChance",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneMagicMonsterGemChance",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneRareMonsterWeaponChance",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneRareMonsterArmourChance",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneRareMonsterJewelleryChance",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneRareMonsterCurrencyChance",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneRareMonsterGemChance",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneKaruiLegionChance",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneEmpireLegionChance",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneVaalLegionChance",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneTemplarLegionChance",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneMarakethLegionChance",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneFireBreachChance",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneColdBreachChance",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneLightningBreachChance",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstonePhysicalBreachChance",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneChaosBreachChance",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneHigherTierOilChance",
+      [
+        2
+      ],
+      []
+    ],
+    [
+      "WatchstoneBreachstoneChance",
+      [
+        3
+      ],
+      []
+    ],
+    [
+      "WatchstoneJewelToCurrencyChance",
+      [
+        2
+      ],
+      []
+    ],
+    [
+      "WatchstoneUniqueMapReplacementChance",
+      [
+        2
+      ],
+      []
+    ],
+    [
+      "WatchstoneBreachMonsterLifeAndDamage",
+      [
+        3
+      ],
+      []
+    ],
+    [
+      "WatchstoneHarbingerLuckyDrops",
+      [
+        3
+      ],
+      []
+    ],
+    [
+      "WatchstoneAbyssalDepthsChance",
+      [
+        2
+      ],
+      []
+    ],
+    [
+      "WatchstoneDeepBeastChance",
+      [
+        2
+      ],
+      []
+    ],
+    [
+      "WatchstoneWildsBeastChance",
+      [
+        2
+      ],
+      []
+    ],
+    [
+      "WatchstoneCavernsBeastChance",
+      [
+        2
+      ],
+      []
+    ],
+    [
+      "WatchstoneSandsBeastChance",
+      [
+        2
+      ],
+      []
+    ],
+    [
+      "WatchstoneMoreSulphite",
+      [
+        3
+      ],
+      []
+    ],
+    [
+      "WatchstoneBlightChestDuplicateRewards",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneMetamorphSampleRewardChance",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneDeliriumAdditionalRewardChance",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneDeliriumSplinterQuantity",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneDeliriumMonsterClusterJewelDropChance",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneHarvestAdditionalCraftChance",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneHarvestHigherTierSeedRolls",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneHarvestBossChance",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneHeistCacheChance",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneHeistBlueprintDropChance",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneHeistCoinStackSize",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneTwinnedBossChance",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneConsecratedGround",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneInfluenceDoubleTickChance",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneVaalSideAreaChance",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneTrialChance",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstonePlusOneDropLevelChance",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneMapBossDivinationCardChance",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneUniqueMapAreaLevel",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneMapBossInfluencedItemDropChance",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneMapBossItemRarity",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneCurrencyDropAsFullStackChance",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneRogueExilePossessionChance",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneStrongboxRareChance",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneBeyondMonsterItemQuantityAndDamage",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstonePerandusChestItemQuantity",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstonePerandusHoardChance",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstonePerandusCatalogueChance",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstonePerandusArchiveChance",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstonePerandusCofferChance",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstonePerandusTreasuryChance",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneEssenceModdedItemChance",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneMagicItemFracturedModChance",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneTormentedSpiritDuration",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneRegalToExalt",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneRegretToDivine",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneTransmuteToAlteration",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneAlchemyToChaos",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneChiselToMap",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneChanceToUnique",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneExaltAsStackOfThree",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneSkillGemToScarab",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneSupportGemToJewel",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneMasterFavour",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneMagicMonstersFlat",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneRareMonstersFlat",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneMagicMonstersPercent",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneRareMonstersPercent",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneExperience",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstonePackSize",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneMapModEffect",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneItemRarity",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneRogueExileChance",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneShrineDuration",
+      [
+        2
+      ],
+      []
+    ],
+    [
+      "WatchstoneShrineChance",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneStrongboxUniqueChance",
+      [
+        2
+      ],
+      []
+    ],
+    [
+      "WatchstoneTormentedTouchedItemQuantity",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneTormentedSpiritChance",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneHarbingerShardChance",
+      [
+        2
+      ],
+      []
+    ],
+    [
+      "WatchstoneHarbingerChance",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneInvasionBossChance",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneBeyondPortalChance",
+      [
+        2
+      ],
+      []
+    ],
+    [
+      "WatchstoneBeyondPortalAdditionalDemonChance",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneBeyondExperience",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstonePerandusCadiroChance",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneBreachExperience",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneAbyssExperience",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneAbyssTroveAbyssalSocketChance",
+      [
+        2
+      ],
+      []
+    ],
+    [
+      "WatchstoneBlightRewardTypeChance",
+      [
+        2
+      ],
+      []
+    ],
+    [
+      "WatchstoneMetamorphExtraSamples",
+      [
+        2
+      ],
+      []
+    ],
+    [
+      "WatchstoneMetamorphDoubleRewardChance",
+      [
+        2
+      ],
+      []
+    ],
+    [
+      "WatchstoneStackFusing",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneStackChromatic",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneStackJeweller",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneStackChaos",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneStackAlchemy",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneStackAlteration",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneStackScouring",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneStackChance",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneStackChisel",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneStackTransmuatation",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneStackWhetstone",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneStackArmourers",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneStackGemcutter",
+      [
+        2
+      ],
+      []
+    ],
+    [
+      "WatchstoneStackRegal",
+      [
+        2
+      ],
+      []
+    ],
+    [
+      "WatchstoneStackDivine",
+      [
+        3
+      ],
+      []
+    ],
+    [
+      "WatchstoneStackAnnulment",
+      [
+        3
+      ],
+      []
+    ],
+    [
+      "WatchstoneStackRegret",
+      [
+        2
+      ],
+      []
+    ],
+    [
+      "WatchstoneStackBlessed",
+      [
+        2
+      ],
+      []
+    ],
+    [
+      "WatchstoneStackMirror",
+      [
+        3
+      ],
+      []
+    ],
+    [
+      "WatchstoneStackVaal",
+      [
+        2
+      ],
+      []
+    ],
+    [
+      "WatchstoneAmuletAsTalisman",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneMapBossAtlasBaseChance",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneNikoChance",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneZanaChance",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneJunChance",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneAlvaChance",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneEinharChance",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneMasterChance",
+      [
+        3
+      ],
+      []
+    ],
+    [
+      "WatchstoneRedBeastChance",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneTwiceCaptureChance",
+      [
+        2
+      ],
+      []
+    ],
+    [
+      "WatchstoneLuckyBeastChance",
+      [
+        2
+      ],
+      []
+    ],
+    [
+      "WatchstoneRedBeastExperience",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneIncursionItemQuantity",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneIncursionArchitectExperience",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneIncursionArchitectIncursionRareChance",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneIncursionPossessionChance",
+      [
+        2
+      ],
+      []
+    ],
+    [
+      "WatchstoneBetrayalExtraTarget",
+      [
+        2
+      ],
+      []
+    ],
+    [
+      "WatchstoneBetrayalTargetExperience",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneBetrayalExtraRankChance",
+      [
+        2
+      ],
+      []
+    ],
+    [
+      "WatchstoneBetrayalAdditionalVeiledItemChance",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneDelveSulphiteMined",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneSulphiteExtraPackChance",
+      [
+        2
+      ],
+      []
+    ],
+    [
+      "WatchstoneZanaExtraOptions",
+      [
+        2
+      ],
+      []
+    ],
+    [
+      "WatchstoneZanaMapQuality",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneZanaUniqueMapChance",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneZanaSynthesisMapChance",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneZanaShaperInfluencedMapChance",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneZanaElderInfluencedMapChance",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneZanaCorruptedMapChance",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneMapBossScarabChance",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneMapBossUniqueChance",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneMapBossMapCurrencyChance",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneMapBossTalismanChance",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneMapBossEssenceChance",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneMapBossSilverCoinChance",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneMapBossMapChance",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "WatchstoneMapBossFragmentChance",
+      [
+        1
+      ],
+      []
+    ],
+    [
+      "SocketedGemsApplyExposureReducedResists",
+      [],
+      [
+        318,
+        639
+      ]
+    ],
+    [
+      "ChanceToBlockAndDamageTakenFromBlockedHits",
+      [],
+      [
+        641
+      ]
+    ],
+    [
+      "MovementSkillCooldownReducedMoveSpeed",
+      [],
+      [
+        324
+      ]
+    ],
+    [
+      "AddedLightningDamagePerAccuracyReducedAccuracy",
+      [],
+      [
+        319
+      ]
+    ],
+    [
+      "MainHandOffHandDamage",
+      [],
+      [
+        319
+      ]
+    ],
+    [
+      "GainManaOnManaPaidManaCost",
+      [],
+      [
+        667,
+        323
+      ]
+    ],
+    [
+      "ExertedDamageWarcryCooldown",
+      [],
+      [
+        319
+      ]
+    ],
+    [
+      "FortifyEffectCrushed",
+      [],
+      []
+    ],
+    [
+      "AddedColdDamageColdPenetration",
+      [],
+      [
+        665,
+        638,
+        318,
+        310
+      ]
+    ],
+    [
+      "GrantsUnhingeSkill",
+      [
+        7
+      ],
+      [
+        645
+      ]
+    ],
+    [
+      "PhysicalChaosDamageTakenNotUnhinged",
+      [
+        7
+      ],
+      [
+        313,
+        312
+      ]
+    ],
+    [
+      "RegenerateLifeNotUnhinged",
+      [
+        7
+      ],
+      [
+        667,
+        316
+      ]
+    ],
+    [
+      "CriticalStrikeChanceFinalUnhinged",
+      [
+        7
+      ],
+      [
+        631
+      ]
+    ],
+    [
+      "EnemiesExplodeOnKillUnhinged",
+      [
+        7
+      ],
+      []
+    ],
+    [
+      "CurseAurasAffectYou",
+      [
+        7
+      ],
+      [
+        646,
+        27,
+        647
+      ]
+    ],
+    [
+      "HitAndAilmentDamageCursedEnemies",
+      [
+        5
+      ],
+      [
+        638,
+        647
+      ]
+    ],
+    [
+      "ScorchedGroundWhileMoving",
+      [
+        7
+      ],
+      [
+        318,
+        309,
+        643
+      ]
+    ],
+    [
+      "ScorchEffect",
+      [
+        5
+      ],
+      [
+        318,
+        309,
+        643
+      ]
+    ],
+    [
+      "ScorchedEnemiesDegenExplode",
+      [
+        7
+      ],
+      [
+        318,
+        309,
+        643
+      ]
+    ],
+    [
+      "AttackSpeedFrenzyChargeNotGained",
+      [
+        5
+      ],
+      [
+        324
+      ]
+    ],
+    [
+      "CriticalStrikeChancePowerChargeNotGained",
+      [
+        5
+      ],
+      [
+        631
+      ]
+    ],
+    [
+      "ExtendFrenzyPowerChargeDurationCull",
+      [
+        7
+      ],
+      []
+    ],
+    [
+      "LifeGainOnCull",
+      [
+        5
+      ],
+      [
+        667,
+        316
+      ]
+    ],
+    [
+      "ManaGainOnCull",
+      [
+        5
+      ],
+      [
+        667,
+        323
+      ]
+    ],
+    [
+      "GainBrutalChargesInsteadOfEndurance",
+      [
+        8
+      ],
+      []
+    ],
+    [
+      "GainAfflictionChargesInsteadOfFrenzy",
+      [
+        8
+      ],
+      []
+    ],
+    [
+      "GainAbsorptionChargesInsteadOfPower",
+      [
+        8
+      ],
+      []
+    ],
+    [
+      "MaximumBrutalChargesEqualsEndurance",
+      [
+        6
+      ],
+      []
+    ],
+    [
+      "MaximumAfflictionChargesEqualsFrenzy",
+      [
+        6
+      ],
+      []
+    ],
+    [
+      "MaximumAbsorptionChargesEqualsPower",
+      [
+        6
+      ],
+      []
+    ],
+    [
+      "MinimumBrutalChargeModifiersEqualsEndurance",
+      [
+        6
+      ],
+      []
+    ],
+    [
+      "MinimumAfflictionChargeModifiersEqualsFrenzy",
+      [
+        6
+      ],
+      []
+    ],
+    [
+      "MinimumAbsorptionChargeModifiersEqualsPower",
+      [
+        6
+      ],
+      []
+    ],
+    [
+      "MinionsCrazyOnCrit",
+      [
+        8
+      ],
+      [
+        320,
+        631
+      ]
+    ],
+    [
+      "MinionCriticalStrikeChanceMaximumPowerCharge",
+      [
+        6
+      ],
+      [
+        320,
+        631
+      ]
+    ],
+    [
       "SellPriceIsWisdomFragment",
       [
         34
@@ -69011,6 +71661,23 @@
       [
         8
       ],
+      []
+    ],
+    [
+      "KeystoneBattlemage",
+      [
+        7
+      ],
+      []
+    ],
+    [
+      "MonsterSirusInfluenced",
+      [],
+      []
+    ],
+    [
+      "MapAdditionalBlightEnchantment",
+      [],
       []
     ]
   ]

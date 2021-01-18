@@ -80,7 +80,7 @@
   "data": [
     [
       "SoulEaterBeam",
-      266,
+      267,
       1128792064,
       [],
       3
@@ -101,64 +101,55 @@
     ],
     [
       "Arc",
-      2117,
+      2118,
       1140719616,
       [],
       4
     ],
     [
       "PietyArc",
-      155,
+      156,
       1140719616,
       [],
       4
     ],
     [
       "GuardianArc",
-      154,
+      155,
       1125187584,
       [],
       4
     ],
     [
       "ArcPurpleMTX",
-      1190,
+      1191,
       1140719616,
       [],
       4
     ],
     [
       "SearingBond",
-      177,
+      178,
       1140457472,
       [],
       4
     ],
     [
       "SearingBondGreen",
-      181,
+      182,
       1140457472,
       [],
       4
     ],
     [
       "SearingBondBlue",
-      437,
+      438,
       1140457472,
       [],
       4
     ],
     [
       "PulseBeamFire",
-      447,
-      1140457472,
-      [
-        1
-      ],
-      4
-    ],
-    [
-      "PulseBeamCold",
       448,
       1140457472,
       [
@@ -167,7 +158,7 @@
       4
     ],
     [
-      "PulseBeamLightning",
+      "PulseBeamCold",
       449,
       1140457472,
       [
@@ -176,22 +167,31 @@
       4
     ],
     [
+      "PulseBeamLightning",
+      450,
+      1140457472,
+      [
+        1
+      ],
+      4
+    ],
+    [
       "BallLightningBeam",
-      142,
+      143,
       1125187584,
       [],
       4
     ],
     [
       "SummonStormsBeam",
-      460,
+      461,
       1128792064,
       [],
       4
     ],
     [
       "AnimatedGuardianBeam",
-      466,
+      467,
       1138327552,
       [
         1
@@ -200,7 +200,7 @@
     ],
     [
       "PhylacteralLinkBeam",
-      468,
+      469,
       1138327552,
       [
         1
@@ -209,119 +209,119 @@
     ],
     [
       "ChillingBondBeam",
-      183,
+      184,
       1140457472,
       [],
       4
     ],
     [
       "SeawitchLightningBeam",
-      293,
+      294,
       1140457472,
       [],
       4
     ],
     [
       "BallLightningBeamPlayer",
-      374,
+      375,
       1125187584,
       [],
       4
     ],
     [
       "BallLightningGroundBeam",
-      143,
+      144,
       1125187584,
       [],
       4
     ],
     [
       "InfernalSwarmBeam",
-      367,
+      368,
       1128792064,
       [],
       4
     ],
     [
       "ColdChargedBeam",
-      493,
+      494,
       1140457472,
       [],
       4
     ],
     [
       "CorruptedBallLightningBeam",
-      515,
+      516,
       1125187584,
       [],
       4
     ],
     [
       "CorruptedLightningBeam",
-      516,
+      517,
       1133903872,
       [],
       4
     ],
     [
       "ElementalStrikeLightningBeam",
-      583,
+      584,
       1140719616,
       [],
       4
     ],
     [
       "TempestShieldBeam",
-      586,
+      587,
       1140719616,
       [],
       4
     ],
     [
       "EyeBallLightningBeam",
-      593,
+      594,
       1125187584,
       [],
       4
     ],
     [
       "StaticTetherBolt",
-      637,
+      638,
       1125187584,
       [],
       4
     ],
     [
       "StormCloudBeam",
-      671,
+      672,
       1140457472,
       [],
       4
     ],
     [
       "VinktarLightningBond",
-      293,
+      294,
       1140457472,
       [],
       4
     ],
     [
       "IzaroGargoyleBeam",
-      836,
+      837,
       1140457472,
       [],
       4
     ],
     [
       "LightningGolemOrbBeam",
-      844,
+      845,
       1125187584,
       [],
       4
     ],
     [
       "PerandusChestBeam",
-      871,
+      872,
       1128792064,
       [
         4
@@ -330,630 +330,637 @@
     ],
     [
       "GoddessBeam",
-      961,
+      962,
       1140457472,
       [],
       4
     ],
     [
       "MinotaurArcTrapBeam",
-      986,
+      987,
       1140719616,
       [],
       4
     ],
     [
       "ZanaDisruptionBeam",
-      1032,
+      1033,
       1140457472,
       [],
       4
     ],
     [
       "FireBeam",
-      1064,
+      1065,
       1133576192,
       [],
       4
     ],
     [
       "SkeletalChainsBeam",
-      1083,
+      1084,
       1133248512,
       [],
       4
     ],
     [
       "BreachLightningBeam",
-      1086,
+      1087,
       1142358016,
       [],
       4
     ],
     [
       "SolarisBackflipBeam",
-      1138,
+      1139,
       1141964800,
       [],
       4
     ],
     [
       "SolarisSkyBeamBeam",
-      1139,
+      1140,
       1133903872,
       [],
       4
     ],
     [
       "AvariusDivineBeam",
-      1152,
+      1153,
       1144094720,
       [],
       4
     ],
     [
       "TukohamaShieldBeam",
-      1158,
+      1159,
       1140457472,
       [],
       4
     ],
     [
       "BrutusChainBeam",
-      1172,
-      1140457472,
-      [],
-      4
-    ],
-    [
-      "ShavronneLevitationBeam",
       1173,
       1140457472,
       [],
       4
     ],
     [
-      "ShavronneEmpoweringBeam",
+      "ShavronneLevitationBeam",
       1174,
       1140457472,
       [],
       4
     ],
     [
+      "ShavronneEmpoweringBeam",
+      1175,
+      1140457472,
+      [],
+      4
+    ],
+    [
       "FireBeamMonster",
-      1183,
+      1184,
       1133576192,
       [],
       4
     ],
     [
       "TemplarBallLightningBeam",
-      1187,
+      1188,
       1125187584,
       [],
       4
     ],
     [
       "TemplarBallLightningGroundBeam",
-      1188,
+      1189,
       1120403456,
       [],
       4
     ],
     [
       "KitavaBeam",
-      1273,
+      1274,
       1145569280,
       [],
       4
     ],
     [
       "RighteousFireSacrificeBeam",
-      437,
+      438,
       1140457472,
       [],
       4
     ],
     [
       "SpiderGodLaserBeam",
-      1306,
+      1307,
       1128792064,
       [],
       4
     ],
     [
       "SignOfPurityBeam",
-      1312,
+      1313,
       1142292480,
       [],
       4
     ],
     [
       "ArakaaliLaserBeam",
-      1355,
+      1356,
       1120403456,
       [],
       4
     ],
     [
       "SpecialBeamCannon",
-      1418,
+      1419,
       1143930880,
       [],
       4
     ],
     [
       "FireBeamDivine",
-      1426,
+      1427,
       1133576192,
       [],
       4
     ],
     [
       "InfernalSwarmBeamCold",
-      1446,
+      1447,
       1128792064,
       [],
       4
     ],
     [
       "SinBeam",
-      1501,
+      1502,
       1142292480,
       [],
       4
     ],
     [
       "SinDeathBeam",
-      1503,
+      1504,
       1142292480,
       [],
       4
     ],
     [
       "InnocenceDeathBeam",
-      1505,
+      1506,
       1142292480,
       [],
       4
     ],
     [
       "KitavaBeamBallBeam",
-      1519,
+      1520,
       1135542272,
       [],
       4
     ],
     [
       "GeneralAdusCharge",
-      1526,
+      1527,
       1140457472,
       [],
       4
     ],
     [
       "StoneGaze",
-      1550,
-      1140457472,
-      [],
-      4
-    ],
-    [
-      "HarbingerChill",
       1551,
       1140457472,
       [],
       4
     ],
     [
-      "HarbingerShock",
+      "HarbingerChill",
       1552,
       1140457472,
       [],
       4
     ],
     [
+      "HarbingerShock",
+      1553,
+      1140457472,
+      [],
+      4
+    ],
+    [
       "HarbingerSpecialBeamCannon",
-      1558,
+      1559,
       1143930880,
       [],
       4
     ],
     [
       "HarbingerSkyBeamBeam",
-      1560,
+      1561,
       1133903872,
       [],
       4
     ],
     [
       "LightningTendrilsChannelledBeam",
-      1568,
+      1569,
       1149452288,
       [],
       4
     ],
     [
       "StormCloudBeamCelestial",
-      1584,
+      1585,
       1137180672,
       [],
       4
     ],
     [
       "UnholyTrioBallLightningBolt",
-      1589,
+      1590,
       1125515264,
       [],
       4
     ],
     [
       "UnholyTrioBallLightningGroundBolt",
-      1589,
+      1590,
       1125515264,
       [],
       4
     ],
     [
       "BallLightningCelestialBeam",
-      1594,
+      1595,
       1125187584,
       [],
       4
     ],
     [
       "SpiritChargeBeam",
-      1625,
+      1626,
       1142292480,
       [],
       4
     ],
     [
       "KitavaBeamBallBeamLightning",
-      1700,
+      1701,
       1135542272,
       [],
       4
     ],
     [
       "ElderGuardianLightningBeam",
-      1707,
+      1708,
       1149452288,
       [],
       4
     ],
     [
       "ElderGuardianLightningBoltBeam",
-      1710,
+      1711,
       1149452288,
       [],
       4
     ],
     [
       "ElderGuardianLightningDegenBeam",
-      1712,
+      1713,
       1149616128,
       [],
       4
     ],
     [
       "ElderGuardianChaosVineBeam",
-      1733,
+      1734,
       1133903872,
       [],
       3
     ],
     [
       "AbyssLichTravelBeam",
-      1765,
+      1766,
       1150681088,
       [],
       4
     ],
     [
       "ToraRope",
-      1810,
+      1811,
       1134526464,
       [],
       4
     ],
     [
       "FireBeamStygian",
-      1811,
+      1812,
       1133576192,
       [],
       4
     ],
     [
       "VilentaBeam",
-      1848,
+      1849,
       1140785152,
       [],
       4
     ],
     [
       "VilentaRageBeam",
-      1861,
+      1862,
       1140457472,
       [],
       4
     ],
     [
       "NemesisConstrictingGraspVine",
-      1868,
+      1869,
       1133903872,
       [],
       3
     ],
     [
       "BestiarySpiderBossVenomBeam",
-      1845,
+      1846,
       1133903872,
       [],
       4
     ],
     [
       "ColdBeamRetaliation",
-      1990,
+      1991,
       1143930880,
       [],
       4
     ],
     [
       "LightningTowerTrapBeam",
-      1962,
+      1963,
       1138819072,
       [],
       4
     ],
     [
       "AutomatonLightningTowerTrapBeam",
-      1965,
+      1966,
       1138819072,
       [],
       4
     ],
     [
       "IceSiphonTrapBeam",
-      1977,
+      1978,
       1133903872,
       [],
       4
     ],
     [
       "ArchitectHealingTotemBeam",
-      2032,
+      2033,
       1133903872,
       [],
       4
     ],
     [
       "IncursionNovasoulChannelledBeam",
-      2096,
-      1140785152,
-      [],
-      4
-    ],
-    [
-      "IncursionNovasoulMassChannelledBeam",
       2097,
       1140785152,
       [],
       4
     ],
     [
-      "IncursionNovasoulTriggerBeam",
+      "IncursionNovasoulMassChannelledBeam",
       2098,
+      1140785152,
+      [],
+      4
+    ],
+    [
+      "IncursionNovasoulTriggerBeam",
+      2099,
       1138327552,
       [],
       4
     ],
     [
       "IncursionNovasoulMassTriggerBeam",
-      2099,
+      2100,
       1140457472,
       [],
       4
     ],
     [
       "ArchitectBloodBeam",
-      2107,
+      2108,
       1138491392,
       [],
       4
     ],
     [
       "ArcAutomaton",
-      2119,
+      2120,
       1142456320,
       [],
       4
     ],
     [
       "IncursionArcTrapBeam",
-      2185,
+      2186,
       1140719616,
       [],
       4
     ],
     [
       "DelveLightBeam",
-      2200,
+      2201,
       1134526464,
       [],
       4
     ],
     [
       "FireBeamShaper",
-      2227,
+      2228,
       1140457472,
       [],
       4
     ],
     [
       "FireBeamMachinarium",
-      2241,
+      2242,
       1140457472,
       [],
       4
     ],
     [
       "DelveAbyssLich3ReflectionBeam",
-      2271,
+      2272,
       1140457472,
       [],
       4
     ],
     [
       "DelveAbyssLich3ChannelledBeam",
-      2306,
+      2311,
       1140457472,
       [],
       4
     ],
     [
       "StaticStrikeBeamMoving",
-      2316,
+      2321,
       1142292480,
       [],
       4
     ],
     [
       "StaticStrikeBeamStationary",
-      2317,
+      2322,
       1132068864,
       [],
       4
     ],
     [
       "RainOfSporesVineBeam",
-      2320,
+      2325,
       1133903872,
       [],
       4
     ],
     [
       "RainOfSporesVineBeamBlackLotus",
-      2321,
+      2326,
+      1133903872,
+      [],
+      4
+    ],
+    [
+      "RainOfSporesVineBeamSuffering",
+      2327,
       1133903872,
       [],
       4
     ],
     [
       "DelveBatBeam",
-      2337,
+      2343,
       1140457472,
       [],
       4
     ],
     [
       "DelveAbyssLichTotemPurpleBeam",
-      2402,
+      2408,
       1140457472,
       [],
       4
     ],
     [
       "DelveAbyssSoulTransferBeam",
-      2403,
+      2409,
       1150681088,
       [],
       4
     ],
     [
       "SulphiteArcBeam",
-      2421,
+      2427,
       1140457472,
       [],
       4
     ],
     [
       "ZanaImmunityShieldBeam",
-      2443,
+      2449,
       1144750080,
       [],
       4
     ],
     [
       "ConduitSigilAttachBeam",
-      2438,
+      2444,
       1140457472,
       [],
       4
     ],
     [
       "ConduitSigilBeamEffect",
-      2440,
+      2446,
       1140457472,
       [],
       4
     ],
     [
       "ProtoVaalMapBossSoul1",
-      2462,
+      2468,
       1137180672,
       [],
       4
     ],
     [
       "ProtoVaalMapBossSoul2",
-      2463,
+      2469,
       1137180672,
       [],
       4
     ],
     [
       "ProtoVaalMapBossSoul3",
-      2464,
+      2470,
       1137180672,
       [],
       4
     ],
     [
       "BetrayalScientistBeam",
-      2482,
+      2488,
       1140785152,
       [],
       4
     ],
     [
       "CataclysmSigilAttachBeam",
-      2504,
+      2510,
       1140457472,
       [],
       4
     ],
     [
       "BetrayalBallistaBeam",
-      2497,
+      2503,
       1143930880,
       [],
       4
     ],
     [
       "BetrayalCartBeam",
-      2508,
+      2514,
       1140457472,
       [],
       4
     ],
     [
       "BetrayalBallistaLaserSight",
-      2514,
+      2520,
       1143930880,
       [],
       4
     ],
     [
       "BetrayalLeoChainBeam",
-      2576,
+      2582,
       1140457472,
       [],
       4
     ],
     [
       "BetrayalCatarinaStaffBeam",
-      2647,
+      2653,
       1145569280,
       [
         46
@@ -962,137 +969,83 @@
     ],
     [
       "BetrayalBallistaBeamFire",
-      2671,
-      1143930880,
-      [],
-      4
-    ],
-    [
-      "BetrayalBallistaLaserSightFire",
-      2673,
-      1143930880,
-      [],
-      4
-    ],
-    [
-      "BetrayalBallistaBeamCold",
-      2675,
-      1143930880,
-      [],
-      4
-    ],
-    [
-      "BetrayalBallistaLaserSightCold",
       2677,
       1143930880,
       [],
       4
     ],
     [
-      "BetrayalBallistaBeamLightning",
+      "BetrayalBallistaLaserSightFire",
       2679,
       1143930880,
       [],
       4
     ],
     [
-      "BetrayalBallistaLaserSightLightning",
+      "BetrayalBallistaBeamCold",
       2681,
       1143930880,
       [],
       4
     ],
     [
-      "BetrayalBallistaBeamMetalPhys",
+      "BetrayalBallistaLaserSightCold",
       2683,
       1143930880,
       [],
       4
     ],
     [
-      "BetrayalBallistaLaserSightMetalPhys",
+      "BetrayalBallistaBeamLightning",
       2685,
       1143930880,
       [],
       4
     ],
     [
-      "BetrayalBallistaBeamBloodPhys",
+      "BetrayalBallistaLaserSightLightning",
       2687,
       1143930880,
       [],
       4
     ],
     [
-      "BetrayalBallistaLaserSightBloodPhys",
+      "BetrayalBallistaBeamMetalPhys",
       2689,
       1143930880,
       [],
       4
     ],
     [
-      "BetrayalRikerBeamCannon",
+      "BetrayalBallistaLaserSightMetalPhys",
+      2691,
+      1143930880,
+      [],
+      4
+    ],
+    [
+      "BetrayalBallistaBeamBloodPhys",
+      2693,
+      1143930880,
+      [],
+      4
+    ],
+    [
+      "BetrayalBallistaLaserSightBloodPhys",
       2695,
+      1143930880,
+      [],
+      4
+    ],
+    [
+      "BetrayalRikerBeamCannon",
+      2701,
       1140457472,
       [],
       4
     ],
     [
       "BetrayalCatarinaAntiBeam1",
-      2699,
-      1149861888,
-      [
-        46
-      ],
-      4
-    ],
-    [
-      "BetrayalCatarinaAntiBeam2",
-      2700,
-      1149861888,
-      [
-        46
-      ],
-      4
-    ],
-    [
-      "BetrayalCatarinaAntiBeam3",
-      2701,
-      1149861888,
-      [
-        46
-      ],
-      4
-    ],
-    [
-      "BetrayalCatarinaAntiBeam4",
-      2702,
-      1149861888,
-      [
-        46
-      ],
-      4
-    ],
-    [
-      "BetrayalCatarinaAntiBeam5",
-      2703,
-      1149861888,
-      [
-        46
-      ],
-      4
-    ],
-    [
-      "BetrayalCatarinaGraveyardBeam",
-      2704,
-      1148026880,
-      [
-        46
-      ],
-      4
-    ],
-    [
-      "BetrayalCatarinaSyndicateBeam1",
       2705,
       1149861888,
       [
@@ -1101,7 +1054,7 @@
       4
     ],
     [
-      "BetrayalCatarinaSyndicateBeam2",
+      "BetrayalCatarinaAntiBeam2",
       2706,
       1149861888,
       [
@@ -1110,7 +1063,7 @@
       4
     ],
     [
-      "BetrayalCatarinaSyndicateBeam3",
+      "BetrayalCatarinaAntiBeam3",
       2707,
       1149861888,
       [
@@ -1119,7 +1072,7 @@
       4
     ],
     [
-      "BetrayalCatarinaSyndicateBeam4",
+      "BetrayalCatarinaAntiBeam4",
       2708,
       1149861888,
       [
@@ -1128,7 +1081,7 @@
       4
     ],
     [
-      "BetrayalCatarinaSyndicateBeam5",
+      "BetrayalCatarinaAntiBeam5",
       2709,
       1149861888,
       [
@@ -1137,8 +1090,62 @@
       4
     ],
     [
-      "BetrayalCatarinaSyndicateStasisBeam",
+      "BetrayalCatarinaGraveyardBeam",
       2710,
+      1148026880,
+      [
+        46
+      ],
+      4
+    ],
+    [
+      "BetrayalCatarinaSyndicateBeam1",
+      2711,
+      1149861888,
+      [
+        46
+      ],
+      4
+    ],
+    [
+      "BetrayalCatarinaSyndicateBeam2",
+      2712,
+      1149861888,
+      [
+        46
+      ],
+      4
+    ],
+    [
+      "BetrayalCatarinaSyndicateBeam3",
+      2713,
+      1149861888,
+      [
+        46
+      ],
+      4
+    ],
+    [
+      "BetrayalCatarinaSyndicateBeam4",
+      2714,
+      1149861888,
+      [
+        46
+      ],
+      4
+    ],
+    [
+      "BetrayalCatarinaSyndicateBeam5",
+      2715,
+      1149861888,
+      [
+        46
+      ],
+      4
+    ],
+    [
+      "BetrayalCatarinaSyndicateStasisBeam",
+      2716,
       1149861888,
       [
         46
@@ -1147,28 +1154,28 @@
     ],
     [
       "BetrayalCatarinaBarrageBeam",
-      2714,
+      2720,
       1149861888,
       [],
       4
     ],
     [
       "BetrayalBallistaBeamFireArrow",
-      2723,
+      2729,
       1143930880,
       [],
       4
     ],
     [
       "BetrayalBallistaBeamBloodPhysArrow",
-      2724,
+      2730,
       1143930880,
       [],
       4
     ],
     [
       "BetrayalCatarinaPointer",
-      2725,
+      2731,
       0,
       [
         46
@@ -1177,105 +1184,105 @@
     ],
     [
       "StormBurstTeleportBeam",
-      2743,
+      2749,
       1141473280,
       [],
       4
     ],
     [
       "DivineTempestFinalBeam",
-      2748,
+      2754,
       1149861888,
       [],
       4
     ],
     [
       "DivineTempestZap",
-      2749,
+      2755,
       1136361472,
       [],
       4
     ],
     [
       "SynthesisRefractionBeam",
-      2751,
+      2757,
       1143521280,
       [],
       4
     ],
     [
       "SynthesisBallLightningBeam1",
-      2758,
+      2764,
       1137180672,
       [],
       4
     ],
     [
       "SynthesisBallLightningBeam2",
-      2759,
+      2765,
       1137180672,
       [],
       4
     ],
     [
       "SynthesisBallLightningBeam3",
-      2760,
+      2766,
       1137180672,
       [],
       4
     ],
     [
       "SoulrendBeam",
-      2761,
+      2767,
       1133084672,
       [],
       4
     ],
     [
       "SynthesisColdRendBeam",
-      2774,
+      2780,
       1133084672,
       [],
       4
     ],
     [
       "SynthesisLightningBarrageBeam1",
-      2776,
+      2782,
       1140457472,
       [],
       4
     ],
     [
       "SynthesisLightningBarrageBeam2",
-      2777,
+      2783,
       1140457472,
       [],
       4
     ],
     [
       "SynthesisLightningBarrageBeam3",
-      2778,
+      2784,
       1140457472,
       [],
       4
     ],
     [
       "SynthesisLightningBeamBlade",
-      2781,
+      2787,
       1120403456,
       [],
       4
     ],
     [
       "SynthesisSpinningBeam",
-      2785,
+      2791,
       1148026880,
       [],
       4
     ],
     [
       "SynthesisRainbowBridge",
-      2797,
+      2803,
       1141473280,
       [
         47
@@ -1284,420 +1291,420 @@
     ],
     [
       "StormBurstInitialTeleportBeam",
-      2822,
+      2828,
       1141473280,
       [],
       4
     ],
     [
       "SynthesisVolatileWrapBeam",
-      2826,
+      2832,
       1135542272,
       [],
       4
     ],
     [
       "SynthesisTriggerBeam",
-      2830,
+      2836,
       1148026880,
       [],
       4
     ],
     [
       "SynthesisTriggerBeamAim",
-      2831,
+      2837,
       1140457472,
       [],
       4
     ],
     [
       "SynthesisBossTriggerBeam",
-      2832,
+      2838,
       1148026880,
       [],
       4
     ],
     [
       "SynthesisDroneActivationBeam",
-      2835,
+      2841,
       1132068864,
       [],
       4
     ],
     [
       "SynthesisDroneConnectionBeam",
-      2836,
+      2842,
       1132068864,
       [],
       4
     ],
     [
       "SynthesisGolemPowerballBeam",
-      2840,
+      2846,
       1140981760,
       [],
       4
     ],
     [
       "SynthesisBarrageBeam",
-      2861,
+      2867,
       1142292480,
       [],
       4
     ],
     [
       "SynthesisLargeBarrageBeam",
-      2862,
+      2868,
       1148846080,
       [],
       4
     ],
     [
       "SynthesisConcentratedBeam",
-      2865,
+      2871,
       1147207680,
       [],
       4
     ],
     [
       "SynthesisGolemShockRifleBeam",
-      2857,
+      2863,
       1143930880,
       [],
       4
     ],
     [
       "SynthesisGolemVolatileAbsorbBeam",
-      2860,
+      2866,
       1133903872,
       [],
       4
     ],
     [
       "DivineTempestAutomatonZap",
-      2867,
+      2873,
       1137180672,
       [],
       4
     ],
     [
       "SoulrendCelestialBeam",
-      2875,
+      2881,
       1133084672,
       [],
       4
     ],
     [
       "SynthesisGuardianToDroneBeam",
-      2876,
+      2882,
       1140981760,
       [],
       4
     ],
     [
       "SynthesisDroneToDroneBeam",
-      2877,
+      2883,
       1147207680,
       [],
       4
     ],
     [
       "DivineTempestAutomatonFinalBeam",
-      2885,
+      2891,
       1149861888,
       [],
       4
     ],
     [
       "SoulrendCelestialCatBeam",
-      2896,
+      2902,
       1133084672,
       [],
       4
     ],
     [
       "ChainStrikeBeam",
-      2958,
+      2964,
       1142292480,
       [],
       4
     ],
     [
       "TormentSpiritTetherBeam",
-      2962,
+      2968,
       1148846080,
       [],
       4
     ],
     [
       "LegionKaruiSergeantSnipeBeam",
-      2982,
+      2988,
       1148026880,
       [],
       4
     ],
     [
       "LegionTemplarSkyBeamBeam",
-      3006,
+      3012,
       1140457472,
       [],
       4
     ],
     [
       "LegionKaruiRainSnipeBeam",
-      3052,
+      3058,
       1140457472,
       [],
       4
     ],
     [
       "LegionLioneyeRetractBeam",
-      3116,
+      3122,
       1143111680,
       [],
       4
     ],
     [
       "LegionTemplarHolyBlastBigBeam",
-      3123,
+      3129,
       1149861888,
       [],
       4
     ],
     [
       "LegionTemplarHolyBlastZap",
-      3124,
+      3130,
       1140457472,
       [],
       4
     ],
     [
       "LegionTemplarBossShieldBeam",
-      3147,
+      3153,
       1141473280,
       [],
       4
     ],
     [
       "LegionVaalSoulrendBeam",
-      3149,
+      3155,
       1133084672,
       [],
       4
     ],
     [
       "LegionLasso",
-      3152,
+      3158,
       1142292480,
       [],
       4
     ],
     [
       "GraveyardAltarBeam",
-      3225,
+      3231,
       1149861888,
       [],
       4
     ],
     [
       "ConduitSigilRedAttachBeam",
-      3301,
+      3307,
       1140457472,
       [],
       4
     ],
     [
       "ConduitSigilRedBeamEffect",
-      3303,
+      3309,
       1140457472,
       [],
       4
     ],
     [
       "ArcCelestial",
-      3315,
+      3321,
       1137180672,
       [],
       4
     ],
     [
       "BlightLightningArc",
-      3337,
+      3343,
       1140719616,
       [],
       4
     ],
     [
       "BlightLightningBeamCannon",
-      3342,
+      3348,
       1143930880,
       [],
       4
     ],
     [
       "BlightIceSiphonBeam",
-      3348,
+      3354,
       1133903872,
       [],
       4
     ],
     [
       "BlightPathVariation1",
-      3361,
-      1120403456,
-      [],
-      4
-    ],
-    [
-      "BlightPathVariation2",
-      3362,
-      1120403456,
-      [],
-      4
-    ],
-    [
-      "BlightPathVariation3",
-      3363,
-      1120403456,
-      [],
-      4
-    ],
-    [
-      "BlightPathVariation4",
-      3364,
-      1120403456,
-      [],
-      4
-    ],
-    [
-      "BlightPathVariation5",
-      3365,
-      1120403456,
-      [],
-      4
-    ],
-    [
-      "BlightPathVariation6",
-      3366,
-      1120403456,
-      [],
-      4
-    ],
-    [
-      "BlightPathVariation7",
       3367,
       1120403456,
       [],
       4
     ],
     [
-      "BlightPathVariation8",
+      "BlightPathVariation2",
       3368,
       1120403456,
       [],
       4
     ],
     [
-      "BlightPathVariation9",
+      "BlightPathVariation3",
       3369,
       1120403456,
       [],
       4
     ],
     [
-      "BlightPathVariation10",
+      "BlightPathVariation4",
       3370,
       1120403456,
       [],
       4
     ],
     [
+      "BlightPathVariation5",
+      3371,
+      1120403456,
+      [],
+      4
+    ],
+    [
+      "BlightPathVariation6",
+      3372,
+      1120403456,
+      [],
+      4
+    ],
+    [
+      "BlightPathVariation7",
+      3373,
+      1120403456,
+      [],
+      4
+    ],
+    [
+      "BlightPathVariation8",
+      3374,
+      1120403456,
+      [],
+      4
+    ],
+    [
+      "BlightPathVariation9",
+      3375,
+      1120403456,
+      [],
+      4
+    ],
+    [
+      "BlightPathVariation10",
+      3376,
+      1120403456,
+      [],
+      4
+    ],
+    [
       "SkitterbotDetonateMinesBeam",
-      3393,
+      3399,
       1133903872,
       [],
       4
     ],
     [
       "BlightSummonedCopterBeam",
-      3420,
+      3426,
       1140457472,
       [],
       4
     ],
     [
       "BlightCassiaTowerBeam",
-      3423,
+      3429,
       1143930880,
       [],
       4
     ],
     [
       "BlightIceMonsterSacrificeBeam",
-      3439,
+      3445,
       1128792064,
       [],
       4
     ],
     [
       "AtlasExileBoss1SpammableBeam",
-      3456,
+      3462,
       1142292480,
       [],
       4
     ],
     [
       "AtlasExileBoss1RuneBeam",
-      3460,
+      3466,
       1142292480,
       [],
       4
     ],
     [
       "CrusaderInfluenceMageguardBeam",
-      3485,
+      3491,
       1142292480,
       [],
       4
     ],
     [
       "CrusaderInfluenceBallLightningBeam",
-      3486,
+      3492,
       1125515264,
       [],
       4
     ],
     [
       "CrusaderInfluenceArcaneOrbBeam",
-      3488,
+      3494,
       1139638272,
       [],
       4
     ],
     [
       "AtlasExileOrionFusionBeam",
-      3503,
+      3509,
       1147207680,
       [],
       4
     ],
     [
       "AtlasExileOrionNukeBeam",
-      3504,
+      3510,
       1147207680,
       [],
       4
     ],
     [
       "EnsnaringArrowTetheringBeam",
-      3526,
+      3532,
       1133903872,
       [],
       4
     ],
     [
       "MetamorphosisBeam1",
-      3528,
+      3534,
       1139638272,
       [
         51
@@ -1706,7 +1713,7 @@
     ],
     [
       "MetamorphosisBeam2",
-      3529,
+      3535,
       1139638272,
       [
         51
@@ -1715,7 +1722,7 @@
     ],
     [
       "MetamorphosisBeam3",
-      3530,
+      3536,
       1139638272,
       [
         51
@@ -1724,252 +1731,252 @@
     ],
     [
       "ArcCurved",
-      2117,
+      2118,
       1140719616,
       [],
       4
     ],
     [
       "OfferingDefensiveSoulBeam",
-      3645,
+      3652,
       1149452288,
       [],
       4
     ],
     [
       "OfferingOffensiveSoulBeam",
-      3646,
+      3653,
       1149452288,
       [],
       4
     ],
     [
       "OfferingSpiritSoulBeam",
-      3647,
+      3654,
       1149452288,
       [],
       4
     ],
     [
       "OfferingBloodSoulBeam",
-      3648,
+      3655,
       1149452288,
       [],
       4
     ],
     [
       "AtlasExileOrionBeamBombChargeBeam",
-      3656,
+      3663,
       1147207680,
       [],
       4
     ],
     [
       "AtlasExileOrionBeamBombBeam",
-      3657,
+      3664,
       1143930880,
       [],
       4
     ],
     [
       "AtlasQuestKIracBeam",
-      3699,
+      3706,
       1160708096,
       [],
       4
     ],
     [
       "AfflictionBossFinalBlackHoleBeam",
-      3759,
+      3766,
       1153138688,
       [],
       4
     ],
     [
       "AfflictionModBeam",
-      3760,
+      3767,
       1145569280,
       [],
       4
     ],
     [
       "AfflictionReflectionBeam",
-      3782,
+      3789,
       1140457472,
       [],
       4
     ],
     [
       "AfflictionLightningBossGigaBallBeam",
-      3798,
+      3805,
       1152319488,
       [],
       4
     ],
     [
       "AfflictionModBeamFire",
-      3809,
+      3816,
       1145569280,
       [],
       4
     ],
     [
       "AfflictionModBeamCold",
-      3810,
+      3817,
       1145569280,
       [],
       4
     ],
     [
       "ChannelledRuneSkillBeam",
-      3815,
+      3822,
       1133903872,
       [],
       4
     ],
     [
       "AfflictionModBeamLightning",
-      3819,
+      3826,
       1145569280,
       [],
       4
     ],
     [
       "AfflictionNoodleBeam1",
-      3844,
+      3851,
       1140457472,
       [],
       4
     ],
     [
       "AfflictionNoodleBeam2",
-      3845,
+      3852,
       1140457472,
       [],
       4
     ],
     [
       "AfflictionNoodleBeam3",
-      3846,
+      3853,
       1140457472,
       [],
       4
     ],
     [
       "AfflictionNoodleBeam4",
-      3847,
+      3854,
       1140457472,
       [],
       4
     ],
     [
       "AfflictionNoodleBeam5",
-      3848,
+      3855,
       1140457472,
       [],
       4
     ],
     [
       "AfflictionNoodleBeam6",
-      3849,
+      3856,
       1140457472,
       [],
       4
     ],
     [
       "AfflictionBossLightningBeam1",
-      3873,
-      1140457472,
-      [],
-      4
-    ],
-    [
-      "AfflictionBossLightningBeam2",
-      3874,
-      1140457472,
-      [],
-      4
-    ],
-    [
-      "AfflictionBossLightningBeam3",
-      3875,
-      1140457472,
-      [],
-      4
-    ],
-    [
-      "AfflictionBossLightningBeam4",
-      3876,
-      1140457472,
-      [],
-      4
-    ],
-    [
-      "AfflictionBossLightningBeam5",
-      3877,
-      1140457472,
-      [],
-      4
-    ],
-    [
-      "AfflictionBossLightningBeam6",
-      3878,
-      1140457472,
-      [],
-      4
-    ],
-    [
-      "AfflictionBossLightningBeam7",
-      3879,
-      1140457472,
-      [],
-      4
-    ],
-    [
-      "AfflictionBossLightningBeam8",
       3880,
       1140457472,
       [],
       4
     ],
     [
-      "AfflictionBossLightningBeam9",
+      "AfflictionBossLightningBeam2",
       3881,
       1140457472,
       [],
       4
     ],
     [
-      "AfflictionBossLightningBeam10",
+      "AfflictionBossLightningBeam3",
       3882,
       1140457472,
       [],
       4
     ],
     [
+      "AfflictionBossLightningBeam4",
+      3883,
+      1140457472,
+      [],
+      4
+    ],
+    [
+      "AfflictionBossLightningBeam5",
+      3884,
+      1140457472,
+      [],
+      4
+    ],
+    [
+      "AfflictionBossLightningBeam6",
+      3885,
+      1140457472,
+      [],
+      4
+    ],
+    [
+      "AfflictionBossLightningBeam7",
+      3886,
+      1140457472,
+      [],
+      4
+    ],
+    [
+      "AfflictionBossLightningBeam8",
+      3887,
+      1140457472,
+      [],
+      4
+    ],
+    [
+      "AfflictionBossLightningBeam9",
+      3888,
+      1140457472,
+      [],
+      4
+    ],
+    [
+      "AfflictionBossLightningBeam10",
+      3889,
+      1140457472,
+      [],
+      4
+    ],
+    [
       "StormBrandTetherBeam",
-      3930,
+      3937,
       1140457472,
       [],
       4
     ],
     [
       "ChannelledRuneSkillGoreMicroBeam",
-      3940,
+      3947,
       1133903872,
       [],
       4
     ],
     [
       "LightningWingsMTXBeam",
-      3941,
+      3948,
       1149452288,
       [],
       4
     ],
     [
       "HarvestPipe",
-      3967,
+      3974,
       1128792064,
       [
         53
@@ -1978,265 +1985,202 @@
     ],
     [
       "LightningWingsMTXBeam2",
-      3981,
+      3988,
       1149452288,
       [],
       4
     ],
     [
       "TriggerSigilAttachBeam",
-      3987,
+      3994,
       1140457472,
       [],
       4
     ],
     [
       "SpiritualCryDoubleBeam",
-      4003,
+      4010,
       1142292480,
       [],
       4
     ],
     [
       "PenanceSigilAttachBeam",
-      4028,
+      4035,
       1140457472,
       [],
       4
     ],
     [
       "PenanceBrandChargeBeam",
-      4032,
+      4039,
       1140457472,
       [],
       4
     ],
     [
       "HarvestRavenBossBeam",
-      4081,
+      4088,
       1137180672,
       [],
       4
     ],
     [
       "IntimidatingCryChargeConsumeBeam",
-      4123,
+      4130,
       1120403456,
       [],
       4
     ],
     [
       "AncestralCryChargeConsumeBeam",
-      4124,
+      4131,
       1120403456,
       [],
       4
     ],
     [
       "SeismicCryChargeConsumeBeam",
-      4125,
+      4132,
       1120403456,
       [],
       4
     ],
     [
       "RallyingCryChargeConsumeBeam",
-      4126,
+      4133,
       1120403456,
       [],
       4
     ],
     [
       "InfernalCryChargeConsumeBeam",
-      4127,
+      4134,
       1120403456,
       [],
       4
     ],
     [
       "WinterSigilAttachBeam",
-      4134,
+      4141,
       1140457472,
       [],
       4
     ],
     [
       "HarvestCatBossVineTrapBeam",
-      4185,
+      4192,
       1132068864,
       [],
       4
     ],
     [
       "HarvestHellionGodzillaBeam",
-      4174,
+      4181,
       1133903872,
       [],
       4
     ],
     [
       "HarvestSquidBallLightningBeam",
-      4190,
+      4197,
       1125187584,
       [],
       4
     ],
     [
       "HarvestSquidBallLightningGroundBeam",
-      4191,
+      4198,
       1125187584,
       [],
       4
     ],
     [
       "HarvestSquidNoodleBeam1",
-      4192,
+      4199,
       1140457472,
       [],
       4
     ],
     [
       "HarvestSquidNoodleBeam2",
-      4193,
+      4200,
       1140457472,
       [],
       4
     ],
     [
       "HarvestSquidNoodleBeam3",
-      4194,
+      4201,
       1140457472,
       [],
       4
     ],
     [
       "HarvestSquidNoodleBeam4",
-      4195,
+      4202,
       1140457472,
       [],
       4
     ],
     [
       "RallyingCryChargeConsumeBeamCelestial",
-      4204,
+      4211,
       1120403456,
       [],
       4
     ],
     [
       "InfernalCryChargeConsumeBeamCelestial",
-      4205,
+      4212,
       1120403456,
       [],
       4
     ],
     [
       "WinterBrandChargeBeam",
-      4213,
+      4220,
       1128792064,
       [],
       4
     ],
     [
       "HarvestAdjacencyVine1",
-      4216,
+      4223,
       1126170624,
       [],
       4
     ],
     [
       "HarvestAdjacencyVine2",
-      4217,
+      4224,
       1126170624,
       [],
       4
     ],
     [
       "HarvestAdjacencyVine3",
-      4218,
+      4225,
       1126170624,
       [],
       4
     ],
     [
       "HarvestAdjacencyVine4",
-      4219,
+      4226,
       1126170624,
       [],
       4
     ],
     [
       "BrandDetonateCastBeam",
-      4253,
+      4260,
       1133903872,
       [],
       4
     ],
     [
       "HarvestTreePlayerBeam1",
-      4267,
-      1145569280,
-      [
-        53
-      ],
-      4
-    ],
-    [
-      "HarvestTreePlayerBeam2",
-      4268,
-      1145569280,
-      [
-        53
-      ],
-      4
-    ],
-    [
-      "HarvestTreePlayerBeam3",
-      4269,
-      1145569280,
-      [
-        53
-      ],
-      4
-    ],
-    [
-      "HarvestTreePlayerBeam4",
-      4270,
-      1145569280,
-      [
-        53
-      ],
-      4
-    ],
-    [
-      "HarvestTreePlayerBeam5",
-      4271,
-      1145569280,
-      [
-        53
-      ],
-      4
-    ],
-    [
-      "HarvestTreePlayerBeam6",
-      4272,
-      1145569280,
-      [
-        53
-      ],
-      4
-    ],
-    [
-      "HarvestTreePlayerBeam7",
-      4273,
-      1145569280,
-      [
-        53
-      ],
-      4
-    ],
-    [
-      "HarvestTreePlayerBeam8",
       4274,
       1145569280,
       [
@@ -2245,7 +2189,7 @@
       4
     ],
     [
-      "HarvestTreePlayerBeam9",
+      "HarvestTreePlayerBeam2",
       4275,
       1145569280,
       [
@@ -2254,7 +2198,7 @@
       4
     ],
     [
-      "HarvestTreePlayerBeam10",
+      "HarvestTreePlayerBeam3",
       4276,
       1145569280,
       [
@@ -2263,7 +2207,7 @@
       4
     ],
     [
-      "HarvestTreePlayerBeam11",
+      "HarvestTreePlayerBeam4",
       4277,
       1145569280,
       [
@@ -2272,7 +2216,7 @@
       4
     ],
     [
-      "HarvestTreePlayerBeam12",
+      "HarvestTreePlayerBeam5",
       4278,
       1145569280,
       [
@@ -2281,8 +2225,71 @@
       4
     ],
     [
+      "HarvestTreePlayerBeam6",
+      4279,
+      1145569280,
+      [
+        53
+      ],
+      4
+    ],
+    [
+      "HarvestTreePlayerBeam7",
+      4280,
+      1145569280,
+      [
+        53
+      ],
+      4
+    ],
+    [
+      "HarvestTreePlayerBeam8",
+      4281,
+      1145569280,
+      [
+        53
+      ],
+      4
+    ],
+    [
+      "HarvestTreePlayerBeam9",
+      4282,
+      1145569280,
+      [
+        53
+      ],
+      4
+    ],
+    [
+      "HarvestTreePlayerBeam10",
+      4283,
+      1145569280,
+      [
+        53
+      ],
+      4
+    ],
+    [
+      "HarvestTreePlayerBeam11",
+      4284,
+      1145569280,
+      [
+        53
+      ],
+      4
+    ],
+    [
+      "HarvestTreePlayerBeam12",
+      4285,
+      1145569280,
+      [
+        53
+      ],
+      4
+    ],
+    [
       "HarvestRootPath",
-      4293,
+      4300,
       1133903872,
       [
         53
@@ -2291,547 +2298,806 @@
     ],
     [
       "HeistTemplarCasterBallLightningBeam",
-      4363,
+      4370,
       1133903872,
       [],
       4
     ],
     [
       "HeistTemplarCasterBallLightningGroundBeam",
-      4364,
+      4371,
       1125187584,
       [],
       4
     ],
     [
       "CryWolfWarcryConsumeBeam",
-      4367,
+      4374,
       1120403456,
       [],
       4
     ],
     [
       "SpiritualCryDoubleBeamCryWolf",
-      4373,
+      4380,
       1142292480,
       [],
       4
     ],
     [
       "BreachLightningOrbBeam",
-      4381,
+      4388,
       1125187584,
       [],
       4
     ],
     [
       "SpiritualCryDoubleBeamCelestial",
-      4394,
+      4401,
       1142292480,
       [],
       4
     ],
     [
       "IntimidatingCryChargeConsumeBeamCelestial",
-      4398,
+      4405,
       1120403456,
       [],
       4
     ],
     [
       "AncestralCryChargeConsumeBeamCelestial",
-      4399,
+      4406,
       1120403456,
       [],
       4
     ],
     [
       "SeismicCryChargeConsumeBeamCelestial",
-      4400,
+      4407,
       1120403456,
       [],
       4
     ],
     [
       "DisintegrateBeam",
-      4430,
+      4437,
       1134755840,
       [],
       4
     ],
     [
       "BarghestTailLaserBeam",
-      4444,
-      1120403456,
-      [],
-      4
-    ],
-    [
-      "BreachLightningBeamNew",
       4451,
       1120403456,
       [],
       4
     ],
     [
+      "BreachLightningBeamNew",
+      4458,
+      1120403456,
+      [],
+      4
+    ],
+    [
       "HeistCultistLightningBeam",
-      4473,
+      4480,
       1140457472,
       [],
       4
     ],
     [
       "HeistEngineerBridge1",
-      4476,
+      4483,
       1130430464,
       [],
       4
     ],
     [
       "HeistEngineerBridge2",
-      4477,
+      4484,
       1137999872,
       [],
       4
     ],
     [
       "HeistEngineerBridge3",
-      4478,
+      4485,
       1142865920,
       [],
       4
     ],
     [
       "HeistEngineerBridge4",
-      4479,
+      4486,
       1146306560,
       [],
       4
     ],
     [
       "HeistEngineerBridge5",
-      4480,
+      4487,
       1149493248,
       [],
       4
     ],
     [
       "HeistEngineerBridge6",
-      4481,
+      4488,
       1151213568,
       [],
       4
     ],
     [
       "HeistEngineerBridge7",
-      4482,
+      4489,
       1152933888,
       [],
       4
     ],
     [
       "HeistEngineerBridgeBuildingBeam1",
-      4494,
+      4501,
       1153138688,
       [],
       4
     ],
     [
       "HeistEngineerBridgeBuildingBeam2",
-      4495,
+      4502,
       1153138688,
       [],
       4
     ],
     [
       "HeistEngineerBridgeBuildingBeam3",
-      4496,
+      4503,
       1153138688,
       [],
       4
     ],
     [
       "HeistEngineerBridgeBuildingBeam4",
-      4497,
+      4504,
       1153138688,
       [],
       4
     ],
     [
       "HeistEngineerBridgeBuildingBeam5",
-      4498,
+      4505,
       1153138688,
       [],
       4
     ],
     [
       "HeistEngineerBridgeBuildingBeam6",
-      4499,
+      4506,
       1153138688,
       [],
       4
     ],
     [
       "HeistEngineerBridgeBuildingBeam7",
-      4500,
+      4507,
       1153138688,
       [],
       4
     ],
     [
       "SteelStealBeamEffect1",
-      4502,
+      4509,
       1140457472,
       [],
       4
     ],
     [
       "SteelStealBeamEffect2",
-      4503,
+      4510,
       1140457472,
       [],
       4
     ],
     [
       "SteelStealBeamEffect3",
-      4504,
+      4511,
       1140457472,
       [],
       4
     ],
     [
       "SteelStealBeamEffect4",
-      4505,
+      4512,
       1140457472,
       [],
       4
     ],
     [
       "DeathWishBeam",
-      4507,
+      4514,
       1133903872,
       [],
       4
     ],
     [
       "HeistAlarmDoorLaserBeam",
-      4510,
+      4517,
       1128792064,
       [],
       4
     ],
     [
       "HeistRobotSpiderLaser",
-      4530,
+      4537,
       1144750080,
       [],
       4
     ],
     [
       "SteelStealSpendBeamEffect1",
-      4569,
+      4576,
       1140457472,
       [],
       4
     ],
     [
       "SteelStealSpendBeamEffect2",
-      4570,
+      4577,
       1140457472,
       [],
       4
     ],
     [
       "SteelStealSpendBeamEffect3",
-      4571,
+      4578,
       1140457472,
       [],
       4
     ],
     [
       "SteelStealSpendBeamEffect4",
-      4572,
+      4579,
       1140457472,
       [],
       4
     ],
     [
       "HeistDroneDragonBreath",
-      4575,
+      4582,
       1132068864,
       [],
       4
     ],
     [
       "HeistMilitaryPolearmMinibossDashBeam",
-      4586,
+      4593,
       1139638272,
       [],
       4
     ],
     [
       "HeistMilitaryPolearmMinibossDashBeam2",
-      4587,
+      4594,
       1139638272,
       [],
       4
     ],
     [
       "HeistMilitaryPolearmMinibossDashBeam3",
-      4588,
+      4595,
       1139638272,
       [],
       4
     ],
     [
       "HeraldOfAshArmBeam",
-      4594,
+      4601,
       1117126656,
       [],
       4
     ],
     [
       "HeraldOfThunderArmBeam",
-      4595,
+      4602,
       1117126656,
       [],
       4
     ],
     [
       "HeraldOfIceArmBeam",
-      4596,
+      4603,
       1117126656,
       [],
       4
     ],
     [
       "HeraldOfPurityArmBeam",
-      4597,
+      4604,
       1117126656,
       [],
       4
     ],
     [
       "HeraldOfAgonyArmBeam",
-      4598,
+      4605,
       1117126656,
       [],
       4
     ],
     [
       "BallLightningBeamAutomaton",
-      4610,
+      4617,
       1133084672,
       [],
       4
     ],
     [
       "BallLightningGroundBeamAutomaton",
-      4611,
+      4618,
       1133084672,
       [],
       4
     ],
     [
       "HeistRobotHoundEyeLaserBeam",
-      4624,
+      4631,
       1137180672,
       [],
       4
     ],
     [
       "HeistTripwireLaser",
-      4629,
+      4636,
       1128792064,
       [],
       4
     ],
     [
       "DisintegrateFinalBeam",
-      4646,
+      4653,
       1149452288,
       [],
       4
     ],
     [
       "HeistRobotStormcallerShockRifleBeam",
-      4655,
+      4662,
       1148846080,
       [],
       4
     ],
     [
       "HeistRobotPyreKnightSpamBeam",
-      4650,
+      4657,
       1142292480,
       [],
       4
     ],
     [
       "HeistRobotPyreKnightMegaBeam",
-      4651,
+      4658,
       1149861888,
       [],
       4
     ],
     [
       "HeistRobotPyreKnightSweepBeam",
-      4660,
-      1140457472,
-      [],
-      4
-    ],
-    [
-      "HeistCultistSummonedPylonBeam",
       4667,
       1140457472,
       [],
       4
     ],
     [
+      "HeistCultistSummonedPylonBeam",
+      4674,
+      1140457472,
+      [],
+      4
+    ],
+    [
       "HeistDanaiSweepLightningBeam",
-      4685,
+      4692,
       1140457472,
       [],
       4
     ],
     [
       "HeistThugGhostRiderChain",
-      4697,
+      4704,
       1142292480,
       [],
       4
     ],
     [
       "HeistThugEnsnaringArrowTetheringBeam",
-      4696,
+      4703,
       1133903872,
       [],
       4
     ],
     [
       "HeistRobotBossBallBeam",
-      4702,
+      4709,
       1140457472,
       [],
       4
     ],
     [
       "HeistRobotBossMagneticTendrils",
-      4707,
+      4714,
       1150681088,
       [],
       4
     ],
     [
       "HeistRobotBossAimBeam",
-      4728,
+      4735,
       1143930880,
       [],
       4
     ],
     [
       "HeistRobotBossBlastBeam",
-      4729,
+      4736,
       1143930880,
       [],
       4
     ],
     [
       "HeistFreidrichBloodBeam",
-      4828,
+      4835,
       1143930880,
       [],
       4
     ],
     [
       "HeistFreidrichBloodBeamPool",
-      4829,
+      4836,
       1143930880,
       [],
       4
     ],
     [
       "HeistFreidrichBloodBeam2",
-      4839,
-      1143930880,
-      [],
-      4
-    ],
-    [
-      "HeistFreidrichBloodBeam3",
-      4840,
-      1143930880,
-      [],
-      4
-    ],
-    [
-      "HeistFreidrichBloodBeam4",
-      4841,
-      1143930880,
-      [],
-      4
-    ],
-    [
-      "HeistFreidrichBloodBeam5",
-      4842,
-      1143930880,
-      [],
-      4
-    ],
-    [
-      "HeistFreidrichBloodBeam6",
-      4843,
-      1143930880,
-      [],
-      4
-    ],
-    [
-      "HeistFreidrichBloodBeam7",
-      4844,
-      1143930880,
-      [],
-      4
-    ],
-    [
-      "HeistFreidrichBloodBeamPool2",
-      4845,
-      1143930880,
-      [],
-      4
-    ],
-    [
-      "HeistFreidrichBloodBeamPool3",
       4846,
       1143930880,
       [],
       4
     ],
     [
-      "HeistFreidrichBloodBeamPool4",
+      "HeistFreidrichBloodBeam3",
       4847,
       1143930880,
       [],
       4
     ],
     [
-      "HeistFreidrichBloodBeamPool5",
+      "HeistFreidrichBloodBeam4",
       4848,
       1143930880,
       [],
       4
     ],
     [
-      "HeistFreidrichBloodBeamPool6",
+      "HeistFreidrichBloodBeam5",
       4849,
       1143930880,
       [],
       4
     ],
     [
-      "HeistFreidrichBloodBeamPool7",
+      "HeistFreidrichBloodBeam6",
       4850,
       1143930880,
+      [],
+      4
+    ],
+    [
+      "HeistFreidrichBloodBeam7",
+      4851,
+      1143930880,
+      [],
+      4
+    ],
+    [
+      "HeistFreidrichBloodBeamPool2",
+      4852,
+      1143930880,
+      [],
+      4
+    ],
+    [
+      "HeistFreidrichBloodBeamPool3",
+      4853,
+      1143930880,
+      [],
+      4
+    ],
+    [
+      "HeistFreidrichBloodBeamPool4",
+      4854,
+      1143930880,
+      [],
+      4
+    ],
+    [
+      "HeistFreidrichBloodBeamPool5",
+      4855,
+      1143930880,
+      [],
+      4
+    ],
+    [
+      "HeistFreidrichBloodBeamPool6",
+      4856,
+      1143930880,
+      [],
+      4
+    ],
+    [
+      "HeistFreidrichBloodBeamPool7",
+      4857,
+      1143930880,
+      [],
+      4
+    ],
+    [
+      "DisintegrateBeamAutomaton",
+      4871,
+      1134755840,
+      [],
+      4
+    ],
+    [
+      "DisintegrateFinalBeamAutomaton",
+      4874,
+      1149452288,
+      [],
+      4
+    ],
+    [
+      "BrutalPirateLordScorchBeam",
+      4915,
+      1136361472,
+      [],
+      4
+    ],
+    [
+      "VilentaRageBeamFire1",
+      4928,
+      1143111680,
+      [],
+      4
+    ],
+    [
+      "VilentaRageBeamFire2",
+      4929,
+      1143111680,
+      [],
+      4
+    ],
+    [
+      "VilentaRageBeamFire3",
+      4930,
+      1143111680,
+      [],
+      4
+    ],
+    [
+      "VilentaRageBeamFire4",
+      4931,
+      1143111680,
+      [],
+      4
+    ],
+    [
+      "IceSaplingBallReturnBeam",
+      4938,
+      1143930880,
+      [],
+      4
+    ],
+    [
+      "IceSaplingDeathBeam",
+      4941,
+      1150681088,
+      [],
+      4
+    ],
+    [
+      "IceSaplingChargeBeam",
+      4944,
+      1141063680,
+      [],
+      4
+    ],
+    [
+      "IceSaplingBallConnectorBeam",
+      4948,
+      1133903872,
+      [],
+      4
+    ],
+    [
+      "ArchitectBloodBeamRitual",
+      4951,
+      1148846080,
+      [],
+      4
+    ],
+    [
+      "WaterDjinnBeam",
+      4964,
+      1147207680,
+      [],
+      4
+    ],
+    [
+      "VilentaBeamFire",
+      4980,
+      1140785152,
+      [],
+      4
+    ],
+    [
+      "VampiricIconBeam",
+      5018,
+      1140457472,
+      [],
+      4
+    ],
+    [
+      "IceSaplingRitualBeam",
+      5029,
+      1135214592,
+      [],
+      4
+    ],
+    [
+      "RitualDischargeBeamFire",
+      5030,
+      1143930880,
+      [],
+      4
+    ],
+    [
+      "RitualDischargeBeamCold",
+      5031,
+      1143930880,
+      [],
+      4
+    ],
+    [
+      "RitualDischargeBeamLightning",
+      5032,
+      1143930880,
+      [],
+      4
+    ],
+    [
+      "RitualGrowBeam",
+      5043,
+      1140457472,
+      [],
+      4
+    ],
+    [
+      "RitualChaosGreenVines",
+      5044,
+      1132068864,
+      [],
+      4
+    ],
+    [
+      "MavenFBBBeam",
+      5051,
+      1147207680,
+      [],
+      4
+    ],
+    [
+      "MavenMapSpaceVines",
+      5057,
+      1132068864,
+      [],
+      4
+    ],
+    [
+      "MavenMapHealBeam",
+      5058,
+      1137180672,
+      [],
+      4
+    ],
+    [
+      "MavenMapInfusedWeaponBeam",
+      5060,
+      1137180672,
+      [],
+      4
+    ],
+    [
+      "MavenMapDamageReductionBeam",
+      5061,
+      1120403456,
+      [],
+      4
+    ],
+    [
+      "MavenMapSpaceChargeBeam",
+      5065,
+      1120403456,
+      [],
+      4
+    ],
+    [
+      "SeawitchLightningBeamStandalone",
+      5066,
+      1140457472,
+      [],
+      4
+    ],
+    [
+      "ReaperWraithSlowingChainsBeam",
+      5068,
+      1132068864,
+      [],
+      4
+    ],
+    [
+      "ThaumaturgistGrowBeam",
+      5072,
+      1135542272,
+      [],
+      4
+    ],
+    [
+      "RitualLightningOrbBeam",
+      5073,
+      1145569280,
+      [],
+      4
+    ],
+    [
+      "MavenMapGuardBeam",
+      5081,
+      1137180672,
+      [],
+      4
+    ],
+    [
+      "MavenBrainPhaseBeam",
+      5110,
+      1150681088,
+      [],
+      4
+    ],
+    [
+      "MavenSweepBeam",
+      5107,
+      1137180672,
+      [],
+      4
+    ],
+    [
+      "RitualEnergyShieldBeam",
+      5116,
+      1143930880,
+      [],
+      4
+    ],
+    [
+      "MavenMapBeamOrb",
+      5126,
+      1137180672,
+      [],
+      4
+    ],
+    [
+      "RitualLightningBallTelegraphBeam",
+      5147,
+      1145569280,
       [],
       4
     ]

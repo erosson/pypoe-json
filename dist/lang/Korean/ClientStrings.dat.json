@@ -3055,7 +3055,7 @@
     ],
     [
       "OptionsDialogueInChatPopup",
-      "캐릭터 대화를 음성 외에도 채팅으로 표시합니다.",
+      "캐릭터 및 NPC 대화를 음성 외에도 채팅으로 표시합니다.",
       "",
       1213515967,
       ""
@@ -6561,6 +6561,27 @@
       ""
     ],
     [
+      "ItemDescriptionMavenAlteration",
+      "해당 아이템을 우클릭한 뒤 은신처의 지도 장치를 좌클릭하여 메이븐의 표식을 부착하십시오.",
+      "은신처의 지도 장치에서 해당 아이템을 사용하여 메이븐의 표식을 부착하십시오.",
+      1872848573,
+      ""
+    ],
+    [
+      "ItemFunctionMavenMap",
+      "전용 지도 장치에서 사용할 수 있습니다.",
+      "",
+      295668964,
+      ""
+    ],
+    [
+      "ItemFunctionMavenMapCraftable",
+      "전용 지도 장치에 사용할 수 있습니다. 아이템 수량 속성 부여 시 인카운터에서 떨어지는 보상의 개수에 영향을 줍니다.",
+      "",
+      -867359568,
+      ""
+    ],
+    [
       "ItemFunctionBanditRespecAlira",
       "알리라의 호의를 얻습니다.",
       "",
@@ -6614,6 +6635,13 @@
       "패시브 스킬 포인트 1포인트, 재설계 포인트 2포인트 부여",
       "",
       1883333709,
+      ""
+    ],
+    [
+      "ItemFunctionMavenAlteration",
+      "지도 장치에서 메이븐을 특정 지도로 소환할 수 있습니다.",
+      "",
+      1854274428,
       ""
     ],
     [
@@ -8689,10 +8717,10 @@
       ""
     ],
     [
-      "ItemErrorNoTargetChest",
-      "대상 상자를 찾지 못했습니다.",
+      "ItemErrorNoTargetFound",
+      "대상 오브젝트를 찾지 못했습니다.",
       "",
-      -374208601,
+      -1883872711,
       ""
     ],
     [
@@ -8714,6 +8742,13 @@
       "이미 식별된 대상입니다.",
       "",
       563966131,
+      ""
+    ],
+    [
+      "ItemErrorTargetNotMapDevice",
+      "대상이 전용 지도 장치가 아닙니다.",
+      "",
+      1335405894,
       ""
     ],
     [
@@ -10733,6 +10768,13 @@
       ""
     ],
     [
+      "MissionTrackStrDexIntFailedBlight",
+      "임무 실패. 역병을 저지하지 못했습니다.",
+      "",
+      -128708828,
+      ""
+    ],
+    [
       "MissionTrackStrDexIntComplete",
       "임무 완료",
       "",
@@ -10887,6 +10929,34 @@
       ""
     ],
     [
+      "MissionTrackStrDexIntCompleteHarvest",
+      "수확을 완료하십시오.",
+      "",
+      1360686376,
+      ""
+    ],
+    [
+      "MissionTrackStrDexIntCompleteBlight1",
+      "역병 인카운터를 완료하십시오.",
+      "",
+      -472106124,
+      ""
+    ],
+    [
+      "MissionTrackStrDexIntCompleteBlightN",
+      "역병 인카운터를 완료하십시오. ({0}/{1})",
+      "",
+      73086834,
+      ""
+    ],
+    [
+      "MissionTrackStrDexIntCompleteBlightedMap",
+      "역병 인카운터를 완료하십시오.",
+      "",
+      942573496,
+      ""
+    ],
+    [
       "MissionTrackStrDexIntExiles",
       "탈주 유배자 처치하기",
       "",
@@ -10992,6 +11062,20 @@
       ""
     ],
     [
+      "MissionTrackStrDexIntPrepMetamorph",
+      "테인을 위해 몬스터 샘플을 채집하십시오.\n변형체를 완성해 처치하십시오.",
+      "",
+      -1128887465,
+      ""
+    ],
+    [
+      "MissionTrackStrDexIntSlayMetamorph",
+      "변형체를 처치하십시오.",
+      "",
+      1697176817,
+      ""
+    ],
+    [
       "MissionTrackStrDexIntUniqueStrongbox",
       "고유 금고 열기",
       "",
@@ -11017,6 +11101,13 @@
       "균열 열기 ({0}/{1})",
       "",
       -370130764,
+      ""
+    ],
+    [
+      "MissionTrackStrDexIntDelirium",
+      "환영 거울을 여십시오.",
+      "",
+      1055064308,
       ""
     ],
     [
@@ -12184,7 +12275,7 @@
     [
       "DivinationWindowTradeButton",
       "거래",
-      "거래 <<xbox_button_a>>",
+      "",
       -1840757987,
       ""
     ],
@@ -13939,6 +14030,13 @@
       ""
     ],
     [
+      "MavenPortalsDisabled",
+      "메이븐의 힘이 포탈의 사용을 가로막습니다.",
+      "",
+      966005961,
+      ""
+    ],
+    [
       "OptionsLanguageChangeNoRestart",
       "선택한 언어를 적용하려면 패스 오브 엑자일을 재시작해야 합니다.",
       "",
@@ -13947,7 +14045,7 @@
     ],
     [
       "ChallengesInformation",
-      "12개의 도전과제를 완료할 때마다 강탈 리그 포인트 아이템이 지급됩니다.",
+      "12개의 도전과제를 완료할 때마다 의식 리그 포인트 아이템이 지급됩니다.",
       "",
       1156891019,
       ""
@@ -14122,7 +14220,7 @@
     ],
     [
       "ReminderTextTailwind",
-      "(\"순풍\"으로 동작 속도가 10% 증가합니다)",
+      "(\"순풍\"으로 동작 속도가 8% 증가합니다)",
       "",
       623969398,
       ""
@@ -14815,7 +14913,7 @@
     ],
     [
       "MonsterGoatmanFireShamanChampionInfoString",
-      "마그마 보주 시전\n화염구 시전\n용암 방패 시전",
+      "몰려오는 마그마 시전\n화염구 시전\n용암 방패 시전",
       "",
       -1120461354,
       ""
@@ -17552,7 +17650,7 @@
     ],
     [
       "ReminderTextFarShot",
-      "(\"투사체 공격\"은 투사체의 이동 거리가 멀어질수록 대상에게 최대 30% 의 추가 피해를 줍니다)",
+      "(\"투사체 공격\"은 이동 시작 지점에서는 대상에게 주는 피해가 20% 감폭되고, 투사체의 이동 거리가 멀어질수록 대상에게 주는 피해가 최대 60%까지 증폭됩니다.)",
       "",
       -35193492,
       ""
@@ -30187,7 +30285,7 @@
     ],
     [
       "TencentLeagueInfoFrameDescription",
-      "오샤비의 신성한 숲에서 씨앗을 위험한 적으로 성장시키십시오. 몬스터를 성장시키고 수확하여 수확 리그에서 강력한 제작 혜택을 받으십시오.",
+      "숙련된 도둑들을 고용하여 위험천만한 강탈을 감행하십시오. 훈련한 동료들과 함께 귀한 유물을 훔쳐내어 대강탈을 준비하십시오.",
       "",
       -1087608102,
       ""
@@ -33140,10 +33238,59 @@
       ""
     ],
     [
+      "MapDeviceWarningQuestStateInvalid",
+      "퀘스트 진행 상태가 부족해 이 지역에 입장할 수 없습니다.",
+      "",
+      1233540811,
+      ""
+    ],
+    [
+      "MapDeviceWarningNotEnoughCollectedMapsForMaven",
+      "메이븐이 아직 {0}의 지도 보스 인카운터를 충분히 목격하지 못했습니다. {1}",
+      "",
+      -1769110154,
+      ""
+    ],
+    [
       "AltasNodePopupAreaContainsText",
       "지역 내 {0} 등장",
       "",
       -55886965,
+      ""
+    ],
+    [
+      "AddMavenErrorMapAlreadyCollected",
+      "메이븐이 이미 해당 지도의 보스 인카운터를 목격했습니다",
+      "",
+      -1771648578,
+      ""
+    ],
+    [
+      "AddMavenErrorInvalidArea",
+      "메이븐이 해당 지역에 관심이 없습니다",
+      "",
+      1213445134,
+      ""
+    ],
+    [
+      "AddMavenErrorInvalidUniqueMap",
+      "해당 고유 지도에 메이븐을 소환할 수 없습니다",
+      "",
+      1912983059,
+      ""
+    ],
+    [
+      "AddMavenErrorInvalidQuestState",
+      "아직 메이븐이 해당 지역에 관심이 없습니다",
+      "",
+      870222046,
+      ""
+    ],
+    [
+      "AddMavenErrorMapTooLowLevel",
+      "메이븐의 관심을 끌기에 해당 지도의 레벨이 너무 낮습니다",
+      "",
+      1685682043,
       ""
     ],
     [
@@ -35311,7 +35458,7 @@
     ],
     [
       "AtlasCentrepieceHover",
-      "<white>{{각성 레벨: {0}}}\n\n<white>{{아틀라스 임의의 지역에 감시자의 돌 4개를 장착할 때마다 각성 레벨이 증가합니다.}}\n<white>{{각성 레벨은 보너스를 부여하여 모든 지도에 영향을 줍니다.}}\n\n<default>{{지도의 고유 보스의 생명력 {1}% 증폭}}\n<default>{{지도의 고유 보스가 연결된 지도를 추가로 떨어뜨릴 확률 +{2}%}}\n<default>{{지도의 고유 보스(14등급 이상)가 쉐이퍼의 수호자 지도를 떨어뜨릴 확률 +{3}%}}\n<default>{{지도의 고유 보스(14등급 이상)가 엘더의 수호자 지도를 떨어뜨릴 확률 +{4}%}}\n<default>{{지도의 고유 보스가 아틀라스 기본 유형을 추가로 떨어뜨릴 확률 +{5}%}}\n<default>{{지도의 고유 보스가 고유 아이템을 추가로 떨어뜨릴 확률 +{6}%}}\n<default>{{지도의 고유 보스가 지도 화폐 아이템을 추가로 떨어뜨릴 확률 +{7}%}}\n<default>{{아틀라스의 정복자에 적용된 각성 레벨당 보상을 추가로 떨어뜨릴 확률 증가}}\n<default>{{아틀라스의 정복자의 영향력이 부여된 지도에서 영향력이 부여된 아이템이 떨어질 확률 {8}% 증가}}",
+      "<white>{{각성 레벨: {0}}}\n\n<white>{{아틀라스 임의의 지역에 감시자의 돌 4개를 장착할 때마다 각성 레벨이 증가합니다.}}\n<white>{{각성 레벨은 보너스를 부여하여 모든 지도와 메이븐의 시련에 영향을 줍니다.}}\n\n<default>{{고유 지도 보스의 생명력 {1}% 증폭}}\n<default>{{고유 지도 보스가 연결된 지도를 추가로 떨어뜨릴 확률 +{2}%}}\n<default>{{고유 지도(14등급 이상) 보스가 쉐이퍼의 수호자 지도를 떨어뜨릴 확률 +{3}%}}\n<default>{{고유 지도(14등급 이상) 보스가 엘더의 수호자 지도를 떨어뜨릴 확률 +{4}%}}\n<default>{{고유 지도 보스가 아틀라스 기본 유형을 추가로 떨어뜨릴 확률 +{5}%}}\n<default>{{고유 지도 보스가 고유 아이템을 추가로 떨어뜨릴 확률 +{6}%}}\n<default>{{고유 지도 보스가 지도 화폐 아이템을 추가로 떨어뜨릴 확률 +{7}%}}\n<default>{{아틀라스의 정복자에 적용된 각성 레벨 하나당 보상을 추가로 떨어뜨릴 확률 증가}}\n<default>{{아틀라스의 정복자의 영향력이 부여된 지도에서 영향력이 부여된 아이템이 떨어질 확률 {8}% 증가}}",
       "",
       241238803,
       ""
@@ -35472,7 +35619,7 @@
     ],
     [
       "WatchstoneDescriptionText",
-      "지도 등급을 향상하고 시타델 지역의 숨겨진 지도를 드러내려면 아틀라스의 시타델에 감시자의 돌을 장착해야 합니다. 감시자의 돌은 유형별로 1개씩 각 시타델에 장착할 수 있습니다.",
+      "지도 등급을 향상하고 시타델 지역의 숨겨진 지도를 드러내려면 아틀라스의 시타델에 감시자의 돌을 장착해야 합니다. 진홍색, 진청록색, 코발트색, 금색 감시자의 돌은 각 시타델에 1개씩만 장착할 수 있습니다.",
       "",
       1364401820,
       ""
@@ -36417,7 +36564,7 @@
     ],
     [
       "HarvestCraftingUIInfo",
-      "적용하고자 하는 속성 부여를 선택한 후, 아이템 공간에 속성을 부여하고 싶은 아이템을 놓으십시오. 속성 부여에는 미가공 생기가 사용됩니다. 남은 생기는 응축하여 다른 씨앗을 기를 때에 대비하여 보관할 수 있습니다. 응축한 생기는 제작에 다시 사용할 수 없습니다. 다른 지역에서 신성한 숲을 방문하면, 제작 옵션과 미가공 생기는 모두 사라집니다.",
+      "적용하고자 하는 속성 부여를 선택한 후, 아이템 공간에 속성을 부여하고 싶은 아이템을 놓으십시오. 다른 지역에서 신성한 숲을 방문하면, 제작 옵션은 모두 사라집니다.",
       "",
       1000398599,
       ""
@@ -37012,7 +37159,7 @@
     ],
     [
       "ItemDescriptionPlantBoosterPlaced",
-      "[DNT] Control-click to return this Plant Booster to your inventory.",
+      "[UNUSED] Control-click to return this Plant Booster to your inventory.",
       "",
       874381046,
       ""
@@ -37446,7 +37593,7 @@
     ],
     [
       "HarvestCraftingToSiloPopup",
-      "제작 옵션을 연결된 푸르미 제작소로 보내 보관합니다.",
+      "제작 옵션을 푸르미 제작소로 보내 보관합니다.",
       "제작 옵션 보관",
       -1939641360,
       ""
@@ -37477,6 +37624,13 @@
       "주 소지품창과 보관함을 전환합니다.\n보관함 아이템은 제작 시에만 선택할 수 있으며 이곳에서 소지품창으로 옮기는 것은 불가능합니다.",
       "",
       -1147455374,
+      ""
+    ],
+    [
+      "HarvestCraftingInventoryTogglePopupHideout",
+      "주 소지품창과 보관함을 전환합니다.\n제작에 사용할 보관함 아이템을 선택할 수 있습니다.",
+      "",
+      466180397,
       ""
     ],
     [
@@ -37628,7 +37782,7 @@
     ],
     [
       "ReminderTextKeystoneTheImpaler",
-      "(자신의 공격이 적을 꿰뚫을 경우 근처의 다른 적도 꿰뚫음. 자신이 꿰뚫은 적에게 꿰뚫기 4회 추가 부여. 적을 꿰뚫은 후 4초 동안은 해당 적을 꿰뚫을 수 없음)",
+      "(자신의 공격이 적을 꿰뚫을 경우 근처의 다른 적도 꿰뚫음. 자신이 꿰뚫은 적에게 꿰뚫기 4회 추가 부여. 적을 꿰뚫은 후 4초 동안은 해당 적을 꿰뚫을 수 없으며, 해당 적의 꿰뚫기를 부를 수 없음)",
       "",
       -558981857,
       ""
@@ -37705,7 +37859,7 @@
     ],
     [
       "HarvestCraftingToSiloConfirmation",
-      "생기를 {0}개 소모하여 이 제작 옵션을 연결된 푸르미 제작소로 보내시겠습니까?",
+      "이 제작 옵션을 푸르미 제작소로 보내시겠습니까?",
       "",
       -1058249048,
       ""
@@ -37818,7 +37972,7 @@
     [
       "HarvestInventoryButtonDisabledPopup",
       "주 소지품창과 보관함을 전환합니다.\n<red>{커서나 제작 아이템 공간이 비어 있지 않을 때는 비활성화됩니다.}",
-      "",
+      "<red>{커서와 제작 아이템 공간이 비어 있어야 합니다.}",
       -1133560941,
       ""
     ],
@@ -38915,13 +39069,6 @@
       ""
     ],
     [
-      "HeistSkillInteractText",
-      "{0} 시작",
-      "",
-      -1001524034,
-      ""
-    ],
-    [
       "HeistHubWaypoint",
       "사공",
       "",
@@ -39489,6 +39636,20 @@
       ""
     ],
     [
+      "HeistBlueprintWindowLegendTitle",
+      "범례",
+      "",
+      548456986,
+      ""
+    ],
+    [
+      "HeistBlueprintWindowToggleLegend",
+      "범례 켜기/끄기",
+      "",
+      -1197080731,
+      ""
+    ],
+    [
       "HeistContractNoRevealCharLevelTooHighPostContract",
       "해당 계약의 레벨이 너무 낮아서 도면 드러내기를 획득할 수 없습니다. 도면 드러내기를 획득하려면 더 높은 레벨의 계약을 완료해야 합니다.",
       "",
@@ -39517,10 +39678,10 @@
       ""
     ],
     [
-      "HeistCharacterSkillLevelModifiedByEquipment",
-      "장비로 인한 스킬 레벨 {0}",
+      "HeistStoragePanelSearchInfo",
+      "입력하는 내용과 일치하는 아이템이 강조됩니다. \n\n팁:\n<default>{- 띄어쓰기를 이용하여 여러 단어를 동시에 확인하십시오.\n- 큰따옴표로 묶으면 띄어쓰기가 포함된 단어를 하나의 키워드로 결합할 수 있습니다. 예: \"경보 레벨 감소\" 또는 \"기만 필요\" \n- ilvl:X를 입력하면 아이템 레벨로 검색할 수 있습니다.\n- <b>{CTRL + F}을(를) 눌러 곧바로 검색창을 이용할 수 있습니다.}",
       "",
-      485678059,
+      855817334,
       ""
     ],
     [
@@ -39528,6 +39689,48 @@
       "비분류",
       "",
       1579450915,
+      ""
+    ],
+    [
+      "DescriptionLabelFixedValueStat",
+      "<italic>{<rgb(170,170,170)>{ — 변경이 불가능한 값}}",
+      "",
+      1779730505,
+      ""
+    ],
+    [
+      "PassiveTreeCannotModifyWhileDead",
+      "사망 상태에서는 패시브 스킬을 변경할 수 없습니다",
+      "",
+      403750993,
+      ""
+    ],
+    [
+      "RitualStoneMonsterCount",
+      "몬스터",
+      "",
+      -1465615632,
+      ""
+    ],
+    [
+      "RitualStoneVarieties",
+      "몬스터:\n{0}",
+      "",
+      1991013785,
+      ""
+    ],
+    [
+      "RitualStoneNumOtherMonsters",
+      "그 외 몬스터 {0}마리",
+      "",
+      -1714643609,
+      ""
+    ],
+    [
+      "RitualStoneLevel",
+      "몬스터 레벨",
+      "",
+      220235298,
       ""
     ],
     [
@@ -39542,6 +39745,13 @@
       "폴더 삭제",
       "",
       -159684347,
+      ""
+    ],
+    [
+      "HeistCharacterSkillLevelModifiedByEquipment",
+      "장비로 인한 스킬 레벨 {0}",
+      "",
+      485678059,
       ""
     ],
     [
@@ -39573,6 +39783,377 @@
       ""
     ],
     [
+      "ItemErrorQuestState",
+      "퀘스트 진행 상태가 부족해 이 아이템을 사용할 수 없습니다.",
+      "",
+      1734860859,
+      ""
+    ],
+    [
+      "ItemFilterRuleBaseType",
+      "기본 유형",
+      "",
+      -1458395552,
+      ""
+    ],
+    [
+      "ItemFilterRuleCJESPN",
+      "스킬 군 주얼 인챈트 작은 패시브 노드",
+      "",
+      -1069257219,
+      ""
+    ],
+    [
+      "ItemFilterRuleGemQualityType",
+      "젬 퀄리티 유형",
+      "",
+      260938080,
+      ""
+    ],
+    [
+      "ItemFilterRuleMods",
+      "속성 부여",
+      "",
+      -862866519,
+      ""
+    ],
+    [
+      "ItemFilterRuleProphecies",
+      "예언",
+      "",
+      -674953992,
+      ""
+    ],
+    [
+      "ItemFilterErrorCannotOpenFile",
+      "필터 파일(\"{0}\")을 열지 못했습니다.",
+      "",
+      2059299633,
+      ""
+    ],
+    [
+      "ItemFilterErrorDownloadError",
+      "아이템 필터 다운로드 중 오류가 발생했습니다.",
+      "",
+      1253260571,
+      ""
+    ],
+    [
+      "ItemFilterErrorJSONError",
+      "json 구문 분석 오류",
+      "",
+      1801868329,
+      ""
+    ],
+    [
+      "ItemFilterErrorCreateBackupFile",
+      "{0}.bak 필터 파일 생성 중 오류가 발생했습니다.",
+      "",
+      632219470,
+      ""
+    ],
+    [
+      "ItemFilterErrorCreateTempFile",
+      "{0}.tmp 필터 파일 생성 중 오류가 발생했습니다.",
+      "",
+      644948399,
+      ""
+    ],
+    [
+      "ItemFilterErrorDeleteTempFile",
+      "{0}.tmp 필터 파일 삭제 중 오류가 발생했습니다.",
+      "",
+      1721279864,
+      ""
+    ],
+    [
+      "ItemFilterErrorLine",
+      "{0}: {1} 줄",
+      "",
+      1685743633,
+      ""
+    ],
+    [
+      "ItemFilterErrorMissingParameter",
+      "{0} 규칙의 예상 매개변수",
+      "",
+      364040542,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidParameter",
+      "{0} 규칙의 매개변수 분석 불가: {1}",
+      "",
+      -1683601601,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidRule",
+      "알 수 없는 규칙 유형 {0}",
+      "",
+      840176699,
+      ""
+    ],
+    [
+      "ItemFilterErrorTooManyArguments",
+      "인수가 너무 많습니다",
+      "",
+      -958533439,
+      ""
+    ],
+    [
+      "ItemFilterErrorNegativeNumber",
+      "정수 \"{0}\" 값은 음수일 수 없습니다",
+      "",
+      903523824,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidNumber",
+      "정수 \"{0}\" 인식 불가",
+      "",
+      -264591595,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidBoolean",
+      "부울 \"{0}\" 인식 불가",
+      "",
+      -95479572,
+      ""
+    ],
+    [
+      "ItemFilterErrorNoStringMatch",
+      "\"{1}\"에 일치하는 {0} 찾을 수 없음",
+      "",
+      849910734,
+      ""
+    ],
+    [
+      "ItemFilterErrorNoStringMatchExact",
+      "\"{1}\"에 정확하게 일치하는 {0} 찾을 수 없음",
+      "",
+      -96105334,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidRarity",
+      "\"{0}\"에 일치하는 희귀도 없음",
+      "",
+      1777028210,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidItemClass",
+      "\"{0}\"에 일치하는 아이템 종류 없음",
+      "",
+      -374456860,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidInfluence",
+      "\"{0}\"에 일치하는 영향력 유형 없음",
+      "",
+      -63850907,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidSockets",
+      "유효하지 않은 홈 설명 \"{0}\". 유효 문자: RGBWAD, 유효 숫자: 0-9",
+      "",
+      -1037787329,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidSoundNumber",
+      "유효하지 않은 사운드 번호 \"{0}\"",
+      "",
+      1976420515,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidSoundVolume",
+      "유효하지 않은 사운드 볼륨 \"{0}\" 값은 {1}과 {2} 사이여야 함",
+      "",
+      -703145816,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidDropEffect",
+      "유효하지 않은 이펙트 이름 \"{0}\". 유효 값: {{ {1} }}",
+      "",
+      1806994332,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidCustomAlerSound",
+      "잘못된 형식: CustomAlertSound \"filepath\" [volume]",
+      "",
+      -1943086820,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidSoundPath",
+      "유효하지 않은 사운드 파일 경로 \"{0}\"",
+      "",
+      -1457312148,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidMinimapIconData",
+      "소형 지도 아이콘 데이터 읽을 수 없음",
+      "",
+      -263736446,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidMinimapIcon",
+      "유효하지 않은 소형 지도 아이콘: \"{0} {1}\" 유효하지 않은 아이콘입니다.",
+      "",
+      -305641187,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidMinimapIconSize",
+      "{{ {0} }}에서 선택하십시오. 기본 값은 {1}입니다.",
+      "",
+      351673213,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidColourComponent",
+      "색상 구성요소를 읽을 수 없음",
+      "",
+      865496561,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidColourAlpha",
+      "유효하지 않은 알파 값 \"{0}\" 지정됨",
+      "",
+      -1130857854,
+      ""
+    ],
+    [
+      "ItemFilterErrorInvalidFontSize",
+      "글꼴 크기를 읽을 수 없음",
+      "",
+      1351409074,
+      ""
+    ],
+    [
+      "ItemFilterErrorRuleOutsideBlock",
+      "규칙 집합 블록 외부에서 발견된 규칙",
+      "",
+      471547079,
+      ""
+    ],
+    [
+      "RitualRewardWindowTitle",
+      "헌정품",
+      "",
+      -1047919592,
+      ""
+    ],
+    [
+      "RitualRewardWindowPoints",
+      "남은 공물 점수: {0}",
+      "",
+      -243348613,
+      ""
+    ],
+    [
+      "RitualRewardWindowHelpPopup",
+      "의식 중 몬스터를 처치하여 공물 점수를 획득하십시오. 의식이 완료된 후 공물 점수를 사용하여 보상을 \n일부 보상은 의식을 여러 번 완료해야지만 드러납니다.\n의식 보상은 보류하지 않는 이상 다른 지역으로 넘어가면 변경됩니다.",
+      "의식 중 몬스터를 처치하여 공물 점수를 획득하십시오. 의식이 완료된 후 공물 점수를 사용하여 보상을 \n일부 보상은 의식을 여러 번 완료해야지만 드러납니다.\n의식 보상은 보류하지 않는 이상 다른 지역으로 넘어가면 변경됩니다.\n<<ritual_suspended> 아이콘이 있는 아이템은 이전에 일부 가격을 지불하고 보류한 아이템입니다.",
+      925319988,
+      ""
+    ],
+    [
+      "RitualRewardWindowPrepayButton",
+      "아이템 보류",
+      "",
+      -1693884233,
+      ""
+    ],
+    [
+      "RitualRewardCurrencyName",
+      "공물 점수",
+      "",
+      593432348,
+      ""
+    ],
+    [
+      "RitualObjectWorldDescriptionTitle",
+      "{0} 의식 제단",
+      "",
+      502284760,
+      ""
+    ],
+    [
+      "RitualObjectWorldDescriptionBody",
+      "상호작용하여 의식 시작하기",
+      "",
+      -473616467,
+      ""
+    ],
+    [
+      "RitualObjectWorldDescriptionRewardsBody",
+      "상호작용하여 헌정품 확인하기",
+      "",
+      -1646456293,
+      ""
+    ],
+    [
+      "WarningChangingHideoutLosesPortals",
+      "경고: 은신처를 변경하면 열려 있는 포탈이 모두 사라집니다.",
+      "",
+      -64268714,
+      ""
+    ],
+    [
+      "LeagueStandardRitual",
+      "고대 제단을 발견하고 위험한 의식을 치러 값진 보상을 얻을 수 있습니다.\n\n<colour:yellow>{패스 오브 엑자일의 추천 리그}",
+      "",
+      -967808659,
+      ""
+    ],
+    [
+      "LeagueHardcoreRitual",
+      "고대 제단을 발견하고 위험한 의식을 치러 값진 보상을 얻을 수 있습니다.\n\n<colour:red>{하드코어 리그에서 사망한 캐릭터는 스탠다드 캐릭터로 전환됩니다.}",
+      "",
+      2030150804,
+      ""
+    ],
+    [
+      "LeagueStandardSSFRitual",
+      "솔로 의식 리그",
+      "",
+      1196121897,
+      ""
+    ],
+    [
+      "LeagueHardcoreSSFRitual",
+      "솔로 하드코어 의식 리그",
+      "",
+      -1687185404,
+      ""
+    ],
+    [
+      "RitualRewardWindowPrepayButtonPopup",
+      "원래 아이템 값의 15%를 지불하면 아이템을 보류할 수 있습니다. 이 아이템은 추후 지역에서 원래보다 10% 감소한 가격으로 재등장합니다. 귀한 아이템일수록 재등장하는 데 오래 걸릴 수 있습니다.",
+      "",
+      -1224183722,
+      ""
+    ],
+    [
+      "RitualRewardWindowPrepaidItemPopup",
+      "이 아이템은 값을 일부 지불하여 보류한 아이템입니다.",
+      "",
+      1054933146,
+      ""
+    ],
+    [
       "StashDeleteFolderButtonPopup",
       "해당 폴더에서 삭제할 수 없는 보관함이 포함됨",
       "",
@@ -39594,6 +40175,48 @@
       ""
     ],
     [
+      "RitualObjectWorldDescriptionRewardsTitle",
+      "{0} 의식 보상",
+      "",
+      2030529253,
+      ""
+    ],
+    [
+      "MavenBossRushObjectDescriptionTitle",
+      "메이븐의 도전과제",
+      "",
+      157586887,
+      ""
+    ],
+    [
+      "MavenBossRushObjectDescriptionBody",
+      "상호작용하여 도전과제 시작하기",
+      "",
+      1957375823,
+      ""
+    ],
+    [
+      "MavenBossRushObjectDescriptionPassivesTitle",
+      "메이븐의 선물",
+      "",
+      -493163783,
+      ""
+    ],
+    [
+      "MavenBossRushObjectDescriptionPassivesBody",
+      "상호작용하여 아틀라스 패시브 포인트 할당",
+      "",
+      2023104665,
+      ""
+    ],
+    [
+      "AtlasPopupMapCollected",
+      "현재 메이븐이 이 지도의 재창조된 보스를 잡아 두고 있습니다.",
+      "",
+      1517173982,
+      ""
+    ],
+    [
       "GraphicsOptionsDynamicResolutionFactor",
       "해상도 계수",
       "",
@@ -39605,6 +40228,111 @@
       "해당 옵션을 사용하는 상태에서 동적 해상도를 활성화하면, 게임에서 해상도를 동적으로 조정하는 대신 이 고정 계수 해상도를 사용합니다.",
       "",
       705196355,
+      ""
+    ],
+    [
+      "ReminderTextConvergence",
+      "(수렴은 원소 피해를 30% 증폭시키고 4초 지속됩니다)",
+      "",
+      -110112724,
+      ""
+    ],
+    [
+      "HarvestHorticraftingStation",
+      "푸르미 제작소",
+      "",
+      300768334,
+      ""
+    ],
+    [
+      "RitualRewardWindowRemainingEncounters",
+      "의식 {0}회 남음",
+      "",
+      -760824638,
+      ""
+    ],
+    [
+      "RitualRewardWindowRemainingEncounter",
+      "의식 1회 남음",
+      "",
+      -581620698,
+      ""
+    ],
+    [
+      "GamepadLegendRitualSuspendItem",
+      "아이템 보류",
+      "",
+      1661103512,
+      ""
+    ],
+    [
+      "GamepadLegendRitualCancelPrepaySelection",
+      "취소",
+      "",
+      1448043609,
+      ""
+    ],
+    [
+      "GamepadLegendRitualConfirmPrepaySelection",
+      "선택 확인",
+      "",
+      -495830768,
+      ""
+    ],
+    [
+      "GamepadLegendUseRitualFragment",
+      "",
+      "의식의 그릇 사용하기",
+      2046685588,
+      ""
+    ],
+    [
+      "ReminderTextGaleForce",
+      "(강풍의 힘은 각각 4초 지속됩니다. 최대 10개까지 중첩됩니다.)",
+      "",
+      -400489052,
+      ""
+    ],
+    [
+      "ReminderTextSacrificialZeal",
+      "(희생의 열의는 해당 스킬의 마나 소모량의 25%와 동일한 추가 주문 물리 피해를 부여하고, 4초 동안 지속 물리 피해를 받게 합니다.)",
+      "",
+      -1996553147,
+      ""
+    ],
+    [
+      "ReminderTextFanaticism",
+      "(광신주의는 직접 시전하는 주문의 시전 속도를 75% 증폭시키고 마나 소모량을 75% 감소시키며 효과 범위를 75% 증가시킴)",
+      "",
+      -2060325603,
+      ""
+    ],
+    [
+      "RitualRewardWindowRerollPopup",
+      "무작위 변경을 사용하면 새로운 헌정품을 받을 수 있습니다.\n지역별로 1회만 가능합니다.\n비용: 공물 점수 {0}점",
+      "",
+      -1129636923,
+      ""
+    ],
+    [
+      "GamepadLegendAtlasRegionTree",
+      "",
+      "지역 패시브 스킬 트리 열기",
+      1439656462,
+      ""
+    ],
+    [
+      "RitualRewardWindowRerollConfirmationTitle",
+      "헌정품 무작위 변경",
+      "",
+      -1823061932,
+      ""
+    ],
+    [
+      "RitualRewardWindowRerollConfirmationText",
+      "헌정품을 무작위로 변경하시겠습니까? 현재 보여지는 모든 헌정품이 변경됩니다.\n비용: 공물 점수 {0}점",
+      "",
+      -655453620,
       ""
     ],
     [
@@ -39622,10 +40350,269 @@
       ""
     ],
     [
+      "GraphicsOptionsDoFLabel",
+      "피사계 심도",
+      "",
+      -1831905225,
+      ""
+    ],
+    [
+      "GraphicsTabDoFPopup",
+      "피사계 심도<size:3>{\n}<size:29>{\r\n피사계 심도 효과를 설정합니다. 일부 장면에서 성능을 향상시키려면 비활성화하십시오.}",
+      "",
+      -96013088,
+      ""
+    ],
+    [
+      "GraphicsOptionsDoFEnabled",
+      "활성화",
+      "",
+      2137710707,
+      ""
+    ],
+    [
+      "GraphicsOptionsDoFDisabled",
+      "비활성화 (기본)",
+      "",
+      -1117362787,
+      ""
+    ],
+    [
+      "ReminderTextRupture",
+      "(파열이 걸린 대상은 3초 동안 출혈로 받는 피해가 25% 증폭되고 이 대상에게 걸린 출혈이 25% 빨리 만료됩니다. 파열은 하나의 대상에게 최개 3개 걸릴 수 있습니다.)",
+      "",
+      816601661,
+      ""
+    ],
+    [
+      "ConsoleActionOpenOrganQuickSelect",
+      "",
+      "빠른 선택 열기",
+      -1091845192,
+      ""
+    ],
+    [
+      "MarketSearchTalismans",
+      "부적",
+      "",
+      1414539890,
+      ""
+    ],
+    [
+      "MarketExtraTypeInfoFireAsCold",
+      "<fire>{화염을 냉기로}",
+      "",
+      -394234010,
+      ""
+    ],
+    [
+      "MarketExtraTypeInfoFireAsLightning",
+      "<fire>{화염을 번개로}",
+      "",
+      -604917186,
+      ""
+    ],
+    [
+      "MarketExtraTypeInfoColdAsFire",
+      "<cold>{냉기를 화염으로}",
+      "",
+      -1579132513,
+      ""
+    ],
+    [
+      "MarketExtraTypeInfoColdAsLightning",
+      "<cold>{냉기를 번개로}",
+      "",
+      764321560,
+      ""
+    ],
+    [
+      "MarketExtraTypeInfoLightningAsFire",
+      "<lightning>{번개를 화염으로}",
+      "",
+      1817199778,
+      ""
+    ],
+    [
+      "MarketExtraTypeInfoLightningAsCold",
+      "<lightning>{번개를 냉기로}",
+      "",
+      2032335341,
+      "B"
+    ],
+    [
+      "MarketExtraTypeInfoChargePower",
+      "권능",
+      "",
+      -674457239,
+      ""
+    ],
+    [
+      "MarketExtraTypeInfoChargeFrenzy",
+      "격분",
+      "",
+      449393239,
+      ""
+    ],
+    [
+      "MarketExtraTypeInfoChargeEndurance",
+      "인내",
+      "",
+      -1590973156,
+      ""
+    ],
+    [
+      "NullAtlasRegionName",
+      "미지의 세계",
+      "",
+      152238034,
+      ""
+    ],
+    [
+      "GamepadLegendToggleMavenMapDeviceOption",
+      "",
+      "메이븐의 표식 켜기/끄기",
+      -1777039069,
+      ""
+    ],
+    [
       "StashOptionsOverrideAffinityTipText",
       "Ctrl + Shift + 좌클릭을 사용해 탭 속성을 넘길 수 있습니다.",
-      "",
+      "<<xbox_button_lstick>> + <<xbox_button_x>> 입력으로 탭 속성을 넘길 수 있습니다.",
       845178960,
+      ""
+    ],
+    [
+      "TrinitySupportUIPopupText",
+      "공명:\r\n삼위일체의 보조 대상 스킬 명중 시 가장 큰 피해 유형이 원소인 경우, 다른 원소의 공명을 얻습니다.\r\n획득하지 않는 각 원소에서 1초마다 공명을 5 상실합니다.",
+      "",
+      1685101411,
+      ""
+    ],
+    [
+      "HarvestCraftingToSiloRemainingSlotCountText",
+      "보관 슬롯 {0}개 남음",
+      "",
+      598801849,
+      ""
+    ],
+    [
+      "HarvestCraftingToSiloRemainingSlotCountText1",
+      "보관 슬롯 1개 남음",
+      "",
+      887465885,
+      ""
+    ],
+    [
+      "HarvestCraftingToSiloNoSlotsRemainingText",
+      "푸르미 제작소 가득 참",
+      "",
+      -617514705,
+      ""
+    ],
+    [
+      "RitualSuspendFailInsuffientPoints",
+      "보류 실패: 공물 점수 부족",
+      "",
+      -1190405238,
+      ""
+    ],
+    [
+      "RitualSuspendFailCostTooLow",
+      "보류 실패: 아이템 값이 너무 낮아 다시 보류할 수 없습니다",
+      "",
+      324011400,
+      ""
+    ],
+    [
+      "ReminderTextResonance",
+      "(각 원소당 최대 공명 50)",
+      "",
+      -813003549,
+      ""
+    ],
+    [
+      "RitualSuspendFailSuspendCapReached",
+      "보류 실패: 보류 중인 아이템 개수 한도 도달",
+      "",
+      -1101304814,
+      ""
+    ],
+    [
+      "MavenAtlasProgressBarPopup",
+      "메이븐의 초대를 받기 위해 메이븐이 있는 동안 이 지역에서 완료해야 하는 보스 인카운터의 최소 횟수",
+      "",
+      1846097875,
+      ""
+    ],
+    [
+      "ReminderTextScorchNonHitNoDuration",
+      "(그을린 적의 원소 저항 -10%)",
+      "",
+      -140290215,
+      ""
+    ],
+    [
+      "AddMavenErrorRegionTooLowLevel",
+      "이 지역이 메이븐의 관심을 끌려면 감시자의 돌이 더 필요합니다.",
+      "",
+      -1380703710,
+      ""
+    ],
+    [
+      "GamepadToggleQuestGroupsExpansion",
+      "",
+      "퀘스트 그룹 접기",
+      1160203919,
+      ""
+    ],
+    [
+      "ReminderTextAll3Exposures",
+      "(노출 시마다 4초 간 해당 저항 -10% 적용)",
+      "",
+      1136728958,
+      ""
+    ],
+    [
+      "MapDeviceWindowMavenOptionPopup",
+      "메이븐을 소환하면 메이븐이 해당 지도의 보스 인카운터를 목격하고 영향을 미칩니다. 보스 인카운터를 완료하면 메이븐이 해당 전투를 자신의 영역에서 재현할 수 있습니다.",
+      "",
+      -1104799411,
+      ""
+    ],
+    [
+      "ReminderTextTwo100PercentConversions",
+      "(전환이 두 번 적용되면 각각 50%씩 전환)",
+      "",
+      2000692576,
+      ""
+    ],
+    [
+      "ReminderTextCrazyMinions",
+      "(속삭임을 듣는 소환수들은 1초마다 최대 생명력의 20%를 카오스 피해로 받고, 공격 속도 및 피해가 50% 증가하며, 플레이어의 명령을 듣지 않음)",
+      "",
+      1207418312,
+      ""
+    ],
+    [
+      "QuestTrackerDisplayPageXofX",
+      "페이지 {0}/{1}",
+      "",
+      764292422,
+      ""
+    ],
+    [
+      "GamepadCycleQuestTrackerPages",
+      "페이지 넘기기",
+      "",
+      -2090493462,
+      ""
+    ],
+    [
+      "ReminderTextKeystoneBattlemage",
+      "(주 무기 피해와 동일한 주문 피해 추가 획득)",
+      "",
+      153036445,
       ""
     ],
     [
@@ -39636,10 +40623,164 @@
       ""
     ],
     [
+      "RitualVesselFilledWithBlood",
+      "피 담긴 그릇 생성",
+      "",
+      1601161581,
+      ""
+    ],
+    [
+      "ReminderTextRecoup",
+      "(적중 피해만 회복할 수 있으며, 피격 후 4초에 걸쳐 회복)",
+      "",
+      373401819,
+      ""
+    ],
+    [
+      "ReminderTextBrutalCharges",
+      "(잔인 충전 하나당 3%의 확률로 3배의 피해를 주고 기절 한계치가 10% 증가)",
+      "",
+      -668456275,
+      ""
+    ],
+    [
+      "RemidnerTextAfflictionCharges",
+      "(수난 충전 하나당 상태 이상 피해가 8% 증가하고 비-피해 상태 이상의 효과가 8% 증가)",
+      "",
+      -76223787,
+      ""
+    ],
+    [
+      "ReminderTextAbsorptionCharges",
+      "(흡수 충전 하나당 받는 원소 피해의 12%를 에너지 보호막으로 회복)",
+      "",
+      1643195294,
+      ""
+    ],
+    [
+      "OpenWebpageConfirmationTitle",
+      "웹 브라우저 열기",
+      "",
+      -1829507658,
+      ""
+    ],
+    [
+      "OpenWebpageConfirmationText",
+      "웹 브라우저가 열립니다. 계속하시겠습니까?",
+      "",
+      1387178060,
+      ""
+    ],
+    [
+      "XboxCannotOpenWebBrowser",
+      "",
+      "계정 제한으로 인해 웹 브라우저를 열 수 없습니다. 귀하의 Xbox Live 계정을 확인하십시오.",
+      -956463419,
+      "계정 제한으로 인해 웹 브라우저를 열 수 없습니다. 귀하의 Sony 계정을 확인하십시오."
+    ],
+    [
+      "ItemDisplayMavenVoidAreas",
+      "메이븐이 목격해야 합니다",
+      "",
+      -704489109,
+      ""
+    ],
+    [
+      "RitualUnknownItemDescriptionText",
+      "이 아이템을 드러내려면 이 지역에서 의식을 더 완료해야 합니다",
+      "",
+      -2088343862,
+      ""
+    ],
+    [
+      "AtlasMapCollectedNotification",
+      "메이븐이 목격한 지도 완료 {0}회",
+      "",
+      742101080,
+      ""
+    ],
+    [
+      "StashTabEditorDeleteFolderConfirmation",
+      "정말 이 폴더를 삭제하시겠습니까? 해당 폴더에서 삭제할 수 없는 보관함이 포함되어 있습니다.",
+      "",
+      -712219369,
+      ""
+    ],
+    [
+      "StashTabEditorFolderComboboxLabel",
+      "폴더",
+      "",
+      490969194,
+      ""
+    ],
+    [
       "ShopDeliveryDefaultOptionText",
       "옵션 선택하기…",
       "",
       -945224866,
+      ""
+    ],
+    [
+      "MapDeviceCannotAccessMavenArea",
+      "메이븐의 영역에 들어갈 허락을 받으려면 우선 자신의 능력을 입증해야 합니다.",
+      "",
+      -912853467,
+      ""
+    ],
+    [
+      "MavenEnragedDefeated",
+      "메이븐 처치하기",
+      "",
+      822174344,
+      ""
+    ],
+    [
+      "GamepadIdentifyFailedNoScrolls",
+      "",
+      "감정 주문서 필요",
+      2108996413,
+      ""
+    ],
+    [
+      "RitualPrepaidItemPriceIncreaseWarning",
+      "이 아이템은 다시 보류하지 않는 이상 다음 의식에서 등장할 때 가격이 증가합니다.",
+      "",
+      1872338701,
+      ""
+    ],
+    [
+      "RitualPrepaidItemExpireWarning",
+      "이 아이템은 다시 보류하지 않는 이상 이 지역에서 다시 등장하지 않습니다.",
+      "",
+      1648404063,
+      ""
+    ],
+    [
+      "RitualBloodVesselErrorNoChainUse",
+      "피 담긴 그릇으로 연 지도에서는 의식의 그릇을 사용할 수 없습니다.",
+      "",
+      -384152075,
+      ""
+    ],
+    [
+      "RitualBloodVesselErrorNoRepeatUse",
+      "이미 의식의 그릇을 사용한 의식 제단에는 의식의 그릇을 다시 사용할 수 없습니다.",
+      "",
+      -1928526807,
+      ""
+    ],
+    [
+      "RitualBloodVesselErrorCompletedShrineOnly",
+      "의식의 그릇은 완료한 의식 제단에만 사용할 수 있습니다.",
+      "",
+      672105890,
+      ""
+    ],
+    [
+      "RitualBloodVesselBonuses",
+      "의식의 헌정품 보상이 20% 좋아짐\n의식이 20% 더 빠르게 몬스터 생성\n의식의 살아 있는 몬스터 최대 수 20% 증폭",
+      "",
+      558709536,
       ""
     ],
     [
@@ -39654,6 +40795,300 @@
       "사이즈/스타일 업데이트",
       "",
       -1068269876,
+      ""
+    ],
+    [
+      "RitualStoneFromArea",
+      "출처",
+      "",
+      908780606,
+      ""
+    ],
+    [
+      "MagicNamePrefixPrefix",
+      "{1} {2} {0}",
+      "",
+      1297133979,
+      ""
+    ],
+    [
+      "MagicNameSuffixSuffix",
+      "{0} {1} {2}",
+      "",
+      22491679,
+      ""
+    ],
+    [
+      "ReminderTextRandomSafehouse",
+      "(이미 위치를 찾은 안전가옥을 아직 무작위로 선택할 수 있습니다.)",
+      "",
+      -1968467377,
+      ""
+    ],
+    [
+      "ReminderTextWildExile",
+      "(황야 탈주 유배자는 지역 내에서 무작위로 생성되는 탈주 유배자입니다.)",
+      "",
+      -590493488,
+      ""
+    ],
+    [
+      "ItemErrorOnlyOneModOfType",
+      "아이템에 지정한 유형의 속성이 하나밖에 없습니다",
+      "",
+      510912154,
+      ""
+    ],
+    [
+      "MonsterDominatedBySirus",
+      "사이러스의 지배를 받음",
+      "",
+      486421974,
+      ""
+    ],
+    [
+      "ReminderTextTornVeil",
+      "(병합 범위란 이계 포탈이 서로 병합되어 이계 악마를 생성할 수 있는 거리를 말합니다.)",
+      "",
+      -656101754,
+      ""
+    ],
+    [
+      "ReminderTextFaceToFace",
+      "(군단 장군은 하이리 나마쿠 여왕, 마세우스 라이온아이 장군, 상투스 복스 추기경, 바이퍼 나푸앗지, 검은 세케마 아우카나입니다)",
+      "",
+      -899846240,
+      ""
+    ],
+    [
+      "ReminderTextProtractedBattle",
+      "(정체 상태의 몬스터는 아무 행동도 하지 않습니다.)",
+      "",
+      -562699462,
+      ""
+    ],
+    [
+      "ReminderTextResourceReallocation",
+      "(비상주 건축가란 처치하여 기습 사원 방을 업그레이드할 수 있는 건축가입니다.)",
+      "",
+      2074109385,
+      ""
+    ],
+    [
+      "ReminderTextContestedDevelopment",
+      "(상주 건축가란 처치하여 기습 사원 방을 변경할 수 있는 건축가입니다.)",
+      "",
+      -652328456,
+      ""
+    ],
+    [
+      "ReminderTextShaperGuardians",
+      "(쉐이퍼 수호자는 키메라의 수호자, 미노타우로스의 수호자, 히드라의 수호자, 불사조의 수호자입니다)",
+      "",
+      -636781334,
+      ""
+    ],
+    [
+      "ReminderTextElderGuardians",
+      "(엘더 수호자는 조종자, 박멸자, 위압자, 정화자입니다)",
+      "",
+      1841184613,
+      ""
+    ],
+    [
+      "ReminderTextAtlasConquerors",
+      "(정복자는 십자군 바란, 대속자 베리타니아, 사냥꾼 알-헤즈민, 전쟁군주 드록스입니다.)",
+      "",
+      -872659269,
+      ""
+    ],
+    [
+      "ReminderTextBasicCurrency",
+      "(기본 화폐에는 리그 외의 콘텐츠에서 나오는 모든 화폐가 포함됩니다.)",
+      "",
+      -1510178638,
+      ""
+    ],
+    [
+      "HiddenItemUnique",
+      "무작위 고유 아이템 1개",
+      "",
+      616127428,
+      ""
+    ],
+    [
+      "HiddenItemCatalyst",
+      "무작위 기폭제 1개",
+      "",
+      -1674670898,
+      ""
+    ],
+    [
+      "HiddenItemMetamorphOrgan",
+      "무작위 변형 샘플 1개",
+      "",
+      -369827255,
+      ""
+    ],
+    [
+      "HiddenItemFlask",
+      "무작위 플라스크 1개",
+      "",
+      -827598796,
+      ""
+    ],
+    [
+      "HiddenItemAmulet",
+      "무작위 목걸이 1개",
+      "",
+      -453029835,
+      ""
+    ],
+    [
+      "HiddenItemRing",
+      "무작위 반지 1개",
+      "",
+      -409235262,
+      ""
+    ],
+    [
+      "HiddenItemJewel",
+      "무작위 주얼 1개",
+      "",
+      376936073,
+      ""
+    ],
+    [
+      "HiddenItemTrinket",
+      "무작위 장신구 1개",
+      "",
+      -1476087729,
+      ""
+    ],
+    [
+      "HiddenItemLeaguestone",
+      "무작위 리그스톤 1개",
+      "",
+      -1400816055,
+      ""
+    ],
+    [
+      "HiddenItemContract",
+      "무작위 계약 1개",
+      "",
+      -723213175,
+      ""
+    ],
+    [
+      "HiddenItemBlueprint",
+      "무작위 도면 1개",
+      "",
+      334199702,
+      ""
+    ],
+    [
+      "HiddenItemMap",
+      "무작위 지도 1개",
+      "",
+      1808770337,
+      ""
+    ],
+    [
+      "MapDeviceMapStatsWindowTitle",
+      "추가 속성 부여",
+      "",
+      -1590784975,
+      ""
+    ],
+    [
+      "MapDeviceMapStatsCategoryPassive",
+      "아틀라스 트리 속성 부여",
+      "",
+      -856199857,
+      ""
+    ],
+    [
+      "MapDeviceMapStatsCategorySextant",
+      "육분의 속성 부여",
+      "",
+      1566825954,
+      ""
+    ],
+    [
+      "MapDeviceMapStatsCategoryWatchstone",
+      "감시자의 돌 속성 부여",
+      "",
+      44690017,
+      ""
+    ],
+    [
+      "MapDeviceMapToggleStatsVisibility",
+      "",
+      "속성 부여 표시 켜기/끄기",
+      898405231,
+      ""
+    ],
+    [
+      "MapDeviceMapToggleStatsCycleGroups",
+      "",
+      "유형 넘기기",
+      -1028117885,
+      ""
+    ],
+    [
+      "RitualOpenReawrdWindowButtonPopup",
+      "의식 보상 표시",
+      "",
+      -461650820,
+      ""
+    ],
+    [
+      "RitualRewardsWindowApplyItemFilter",
+      "아이템 필터 적용",
+      "",
+      -880901990,
+      ""
+    ],
+    [
+      "MapStashWitnessedByMaven",
+      "메이븐이 목격함",
+      "",
+      -1819385434,
+      ""
+    ],
+    [
+      "RitualShopFutureDiscount",
+      "추후 할인:",
+      "",
+      -1760256378,
+      ""
+    ],
+    [
+      "RitualRewardWindowDeferFee",
+      "보류 비용:",
+      "",
+      440201030,
+      ""
+    ],
+    [
+      "RitualRewardWindowTotalDeferCost",
+      "총 보류 금액:",
+      "",
+      2083974425,
+      ""
+    ],
+    [
+      "ReminderTextInfluencedItems",
+      "(영향을 받는 아이템에는 다른 곳에서는 찾을 수 없는 속성이 부여될 수 있습니다)",
+      "",
+      -867369286,
+      ""
+    ],
+    [
+      "HarvestCraftOptionDisabledInHideout",
+      "You cannot use this crafting option in a Hideout.",
+      "",
+      -2078730669,
       ""
     ]
   ]

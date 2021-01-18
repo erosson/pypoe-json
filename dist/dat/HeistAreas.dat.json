@@ -261,93 +261,6 @@
     [
       "Bunker",
       [
-        1584,
-        1585,
-        1586,
-        1587,
-        1588,
-        1589,
-        1590,
-        1591,
-        1592
-      ],
-      0,
-      1089,
-      1090,
-      [
-        0,
-        6,
-        3,
-        8,
-        4,
-        2,
-        5
-      ],
-      7103,
-      7112,
-      "Metadata/Terrain/Leagues/Heist/ControlBlocks/Graphs/_wing.dgr",
-      7,
-      3,
-      true,
-      true,
-      "BlueprintApproved.dds",
-      [
-        7206,
-        7364,
-        7234
-      ],
-      [
-        7207,
-        7365
-      ],
-      5565
-    ],
-    [
-      "Mines",
-      [
-        1593,
-        1594,
-        1595,
-        1596,
-        1597,
-        1598,
-        1599,
-        1600,
-        1601
-      ],
-      0,
-      1095,
-      1096,
-      [
-        1,
-        2,
-        3,
-        5,
-        7
-      ],
-      7104,
-      7113,
-      "Metadata/Terrain/Leagues/Heist/Mines/Graphs/_wing.dgr",
-      7,
-      3,
-      true,
-      true,
-      "BlueprintApproved2.dds",
-      [
-        7206,
-        7364,
-        7235
-      ],
-      [
-        7207,
-        7365
-      ],
-      5566
-    ],
-    [
-      "Dungeon",
-      [
-        1602,
         1603,
         1604,
         1605,
@@ -355,41 +268,41 @@
         1607,
         1608,
         1609,
-        1610
+        1610,
+        1611
       ],
       0,
-      1092,
-      1093,
+      1109,
+      1110,
       [
+        0,
+        6,
         3,
-        2,
         8,
-        7,
-        4
+        4,
+        2,
+        5
       ],
-      7105,
-      7114,
-      "Metadata/Terrain/Leagues/Heist/Thaumaturgy/Graphs/_wing.dgr",
+      7230,
+      7239,
+      "Metadata/Terrain/Leagues/Heist/ControlBlocks/Graphs/_wing.dgr",
       7,
       3,
       true,
       true,
-      "BlueprintApproved3.dds",
+      "BlueprintApproved.dds",
       [
-        7206,
-        7364,
-        7236
+        7559
       ],
       [
-        7207,
-        7365
+        7560,
+        7672
       ],
-      5567
+      5586
     ],
     [
-      "Reliquary",
+      "Mines",
       [
-        1611,
         1612,
         1613,
         1614,
@@ -397,41 +310,39 @@
         1616,
         1617,
         1618,
-        1619
+        1619,
+        1620
       ],
       0,
-      1098,
-      1099,
+      1115,
+      1116,
       [
-        0,
+        1,
         2,
-        6,
+        3,
         5,
-        3
+        7
       ],
-      7106,
-      7115,
-      "Metadata/Terrain/Leagues/Heist/Reliquary/Graphs/_wing.dgr",
+      7231,
+      7240,
+      "Metadata/Terrain/Leagues/Heist/Mines/Graphs/_wing.dgr",
       7,
       3,
       true,
-      false,
-      "BlueprintApproved4.dds",
+      true,
+      "BlueprintApproved2.dds",
       [
-        7206,
-        7364,
-        7237
+        7559
       ],
       [
-        7207,
-        7365
+        7560,
+        7672
       ],
-      5568
+      5587
     ],
     [
-      "Library",
+      "Dungeon",
       [
-        1620,
         1621,
         1622,
         1623,
@@ -439,41 +350,39 @@
         1625,
         1626,
         1627,
-        1628
+        1628,
+        1629
       ],
       0,
-      1101,
-      1102,
+      1112,
+      1113,
       [
-        0,
-        8,
-        4,
+        3,
         2,
-        7
+        8,
+        7,
+        4
       ],
-      7107,
-      7116,
-      "Metadata/Terrain/Leagues/Heist/Library/Graphs/_wing.dgr",
+      7232,
+      7241,
+      "Metadata/Terrain/Leagues/Heist/Thaumaturgy/Graphs/_wing.dgr",
       7,
       3,
       true,
       true,
-      "BlueprintApproved5.dds",
+      "BlueprintApproved3.dds",
       [
-        7206,
-        7364,
-        7238
+        7559
       ],
       [
-        7207,
-        7365
+        7560,
+        7672
       ],
-      5569
+      5588
     ],
     [
-      "RobotTunnels",
+      "Reliquary",
       [
-        1629,
         1630,
         1631,
         1632,
@@ -481,11 +390,92 @@
         1634,
         1635,
         1636,
-        1637
+        1637,
+        1638
       ],
       0,
-      1105,
-      1106,
+      1118,
+      1119,
+      [
+        0,
+        2,
+        6,
+        5,
+        3
+      ],
+      7233,
+      7242,
+      "Metadata/Terrain/Leagues/Heist/Reliquary/Graphs/_wing.dgr",
+      7,
+      3,
+      true,
+      false,
+      "BlueprintApproved4.dds",
+      [
+        7559
+      ],
+      [
+        7560,
+        7672
+      ],
+      5589
+    ],
+    [
+      "Library",
+      [
+        1639,
+        1640,
+        1641,
+        1642,
+        1643,
+        1644,
+        1645,
+        1646,
+        1647
+      ],
+      0,
+      1121,
+      1122,
+      [
+        0,
+        8,
+        4,
+        2,
+        7
+      ],
+      7234,
+      7243,
+      "Metadata/Terrain/Leagues/Heist/Library/Graphs/_wing.dgr",
+      7,
+      3,
+      true,
+      true,
+      "BlueprintApproved5.dds",
+      [
+        7559
+      ],
+      [
+        7560,
+        7672
+      ],
+      5590
+    ],
+    [
+      "RobotTunnels",
+      [
+        1648,
+        1649,
+        1650,
+        1651,
+        1652,
+        1653,
+        1654,
+        1655,
+        1656
+      ],
+      0,
+      1125,
+      1126,
       [
         1,
         6,
@@ -494,8 +484,8 @@
         4,
         5
       ],
-      7108,
-      7117,
+      7235,
+      7244,
       "Metadata/Terrain/Leagues/Heist/RobotTunnels/Graphs/_wing.dgr",
       7,
       3,
@@ -503,32 +493,30 @@
       false,
       "BlueprintApproved6.dds",
       [
-        7206,
-        7364,
-        7239
+        7559
       ],
       [
-        7207,
-        7365
+        7560,
+        7672
       ],
-      5570
+      5591
     ],
     [
       "Sewers",
       [
-        1638,
-        1639,
-        1640,
-        1641,
-        1642,
-        1643,
-        1644,
-        1645,
-        1646
+        1657,
+        1658,
+        1659,
+        1660,
+        1661,
+        1662,
+        1663,
+        1664,
+        1665
       ],
       0,
-      1109,
-      1110,
+      1129,
+      1130,
       [
         1,
         6,
@@ -536,8 +524,8 @@
         8,
         7
       ],
-      7109,
-      7118,
+      7236,
+      7245,
       "Metadata/Terrain/Leagues/Heist/Sewers/Graphs/_wing.dgr",
       7,
       3,
@@ -545,32 +533,30 @@
       true,
       "BlueprintApproved7.dds",
       [
-        7206,
-        7364,
-        7240
+        7559
       ],
       [
-        7207,
-        7365
+        7560,
+        7672
       ],
-      5571
+      5592
     ],
     [
       "Courts",
       [
-        1647,
-        1648,
-        1649,
-        1650,
-        1651,
-        1652,
-        1653,
-        1654,
-        1655
+        1666,
+        1667,
+        1668,
+        1669,
+        1670,
+        1671,
+        1672,
+        1673,
+        1674
       ],
       0,
-      1114,
-      1115,
+      1134,
+      1135,
       [
         0,
         3,
@@ -579,8 +565,8 @@
         7,
         1
       ],
-      7110,
-      7119,
+      7237,
+      7246,
       "Metadata/Terrain/Leagues/Heist/Courts/Graphs/_wing.dgr",
       7,
       3,
@@ -588,32 +574,30 @@
       true,
       "BlueprintApproved8.dds",
       [
-        7206,
-        7364,
-        7241
+        7559
       ],
       [
-        7207,
-        7365
+        7560,
+        7672
       ],
-      5572
+      5593
     ],
     [
       "Mansion",
       [
-        1656,
-        1657,
-        1658,
-        1659,
-        1660,
-        1661,
-        1662,
-        1663,
-        1664
+        1675,
+        1676,
+        1677,
+        1678,
+        1679,
+        1680,
+        1681,
+        1682,
+        1683
       ],
       0,
-      1118,
-      1119,
+      1138,
+      1139,
       [
         0,
         6,
@@ -621,8 +605,8 @@
         7,
         1
       ],
-      7111,
-      7120,
+      7238,
+      7247,
       "Metadata/Terrain/Leagues/Heist/Mansion/Graphs/_wing.dgr",
       7,
       3,
@@ -630,15 +614,13 @@
       true,
       "BlueprintApproved9.dds",
       [
-        7206,
-        7364,
-        7242
+        7559
       ],
       [
-        7207,
-        7365
+        7560,
+        7672
       ],
-      5573
+      5594
     ]
   ]
 }

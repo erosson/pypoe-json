@@ -515,7 +515,7 @@
       14,
       14,
       [
-        2129
+        2135
       ],
       "Você pensa que é selvagem o suficiente para enfrentar a terra dos condenados, Marauder?\r\n\r\nNós lhe oferecemos verdades, porém você adotou suas mentiras supersticiosas. Nós lhe oferecemos trabalho, porém você desperdiçou sua força em resistência.\r\n\r\nWraeclast lhe oferece algo mais: uma educação através da verdadeira selvageria.",
       100,
@@ -525,16 +525,16 @@
       1,
       2,
       "Audio/Dialogue/NPC/DominusGlyph/Dom_Intro_Marauder.ogg",
-      3415,
+      3532,
       77,
       "Traços: Força, Corpo a Corpo",
       335,
       240,
       335,
-      3577,
+      3694,
       1,
       [
-        1025
+        1028
       ]
     ],
     [
@@ -554,7 +554,7 @@
       14,
       32,
       [
-        2129
+        2135
       ],
       "Por que os gênios buscam saciar a curiosidade na escuridão e depravação?\r\n\r\nInnocence é o nosso Pai, Oriath é a nossa Mãe. Quando uma filha caminha contra a luz, ela se torna órfã.\r\n\r\nAprenda bem as lições que Wraeclast lhe ensinará, Bruxa. É a sua única chance de encontrar o caminho de volta para casa.",
       0,
@@ -564,16 +564,16 @@
       1,
       2,
       "Audio/Dialogue/NPC/DominusGlyph/Dom_Intro_Witch.ogg",
-      3250,
+      3367,
       70,
       "Traços: Inteligência, Magias",
       337,
       281,
       337,
-      3250,
+      3367,
       2,
       [
-        3722
+        3742
       ]
     ],
     [
@@ -593,7 +593,7 @@
       20,
       20,
       [
-        2129
+        2135
       ],
       "Uma Herdeira é perfeição de corpo, mente e elegância. A glória culminante da nossa civilização, nos oferecendo esperança, nos oferecendo luz.\r\n\r\nMas você nos deu apenas mortes e trevas.\r\n\r\nQue Wraeclast lhe abrace como nós não pudemos, pois sua presença tornou-se dolorosa demais para suportarmos.",
       207,
@@ -603,7 +603,7 @@
       1,
       2,
       "Audio/Dialogue/NPC/DominusGlyph/Dom_Intro_Scion.ogg",
-      3362,
+      3479,
       70,
       "Traços: Força, Destreza, Inteligência",
       336,
@@ -630,7 +630,7 @@
       32,
       14,
       [
-        2129
+        2135
       ],
       "Rapidamente e silenciosamente você roubou as riquezas dos outros.\r\n\r\nUm corvo que saqueia nossas colheitas. Um vira-lata que mata nossas ovelhas.\r\n\r\nOriath é uma terra de homens, não animais. Pense nisso, Caçadora, quando Wraeclast lhe mostrar a verdade sobre como é viver como um animal.",
       138,
@@ -640,17 +640,17 @@
       1,
       2,
       "Audio/Dialogue/NPC/DominusGlyph/Dom_Intro_Ranger.ogg",
-      3471,
+      3588,
       70,
       "Traços: Destreza, Longo Alcance",
       69,
       45,
       69,
-      3471,
+      3588,
       2,
       [
-        1025,
-        2409
+        1028,
+        2423
       ]
     ],
     [
@@ -670,7 +670,7 @@
       23,
       14,
       [
-        2129
+        2135
       ],
       "Você nasceu para ser veloz e forte. O que você fez com os seus dons, Duelista? Você os desperdiçou com o seu próprio egoísmo.\r\n\r\nPecados os trouxeram até aqui, o seu caminho pintado com sangue de assassinatos injustificáveis.\r\n\r\nVocê traiu a Grande Arena. Agora Wraeclast será sua plateia... e seu adversário.",
       18,
@@ -680,16 +680,16 @@
       1,
       2,
       "Audio/Dialogue/NPC/DominusGlyph/Dom_Intro_Duelist.ogg",
-      3362,
+      3479,
       77,
       "Traços: Força, Destreza",
       324,
       18,
       324,
-      3362,
+      3479,
       1,
       [
-        1025
+        1028
       ]
     ],
     [
@@ -709,7 +709,7 @@
       23,
       23,
       [
-        2129
+        2135
       ],
       "Você nasceu com um corpo ágil e uma mente sagaz. Como que você pagou por estes dons? Com sangue de inocentes.\r\n\r\nA sua é uma profissão predatória. O comércio de assassinatos. Você roubou muitas vidas para encher o seu bolso.\r\n\r\nAgora você deverá conquistar o seu perdão em Wraeclast.",
       79,
@@ -719,16 +719,16 @@
       1,
       2,
       "Audio/Dialogue/NPC/DominusGlyph/Dom_Intro_Shadow.ogg",
-      3273,
+      3390,
       77,
       "Traços: Destreza, Inteligência",
       325,
       301,
       337,
-      3250,
+      3367,
       3,
       [
-        2080
+        2094
       ]
     ],
     [
@@ -748,7 +748,7 @@
       14,
       23,
       [
-        2129
+        2135
       ],
       "Você jurou, de corpo e alma, servir a Deus e à Ordem dos Templários. Por anos você construiu uma vida baseada em Fé, apenas para despedaçá-la com um único golpe pecaminoso.\r\n\r\nIsso não é a maior tolice que existe? Perder Fé quando ela é a única coisa que lhe resta?\r\n\r\nVocê já foi o escolhido de Deus. Um Templário. Agora você é o escolhido de Wraeclast. Um exilado.",
       73,
@@ -758,16 +758,16 @@
       1,
       2,
       "Audio/Dialogue/NPC/DominusGlyph/Dom_Intro_Templar.ogg",
-      3443,
+      3560,
       77,
       "Traços: Força Inteligência.",
       140,
       379,
       140,
-      3443,
+      3560,
       1,
       [
-        3722
+        3742
       ]
     ]
   ]

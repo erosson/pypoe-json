@@ -35,127 +35,127 @@
   "data": [
     [
       "Default",
-      58
+      59
     ],
     [
       "Large",
-      206
+      209
     ],
     [
       "Dusk",
-      328
+      331
     ],
     [
       "Einhar",
-      550
+      553
     ],
     [
       "Tora",
-      551
+      554
     ],
     [
       "BetrayalSkeleton",
-      586
+      589
     ],
     [
       "PlayerGenericFire",
-      602
-    ],
-    [
-      "PlayerGenericCold",
-      603
-    ],
-    [
-      "PlayerGenericLightning",
-      604
-    ],
-    [
-      "PlayerGenericPhysical",
       605
     ],
     [
-      "PlayerGenericBlood",
+      "PlayerGenericCold",
       606
     ],
     [
-      "PlayerGenericPoison",
+      "PlayerGenericLightning",
       607
     ],
     [
-      "MonsterGenericFire",
+      "PlayerGenericPhysical",
       608
     ],
     [
-      "MonsterGenericCold",
+      "PlayerGenericBlood",
       609
     ],
     [
-      "MonsterGenericLightning",
+      "PlayerGenericPoison",
       610
     ],
     [
-      "MonsterGenericPhysical",
+      "MonsterGenericFire",
       611
     ],
     [
-      "MonsterGenericBlood",
+      "MonsterGenericCold",
       612
     ],
     [
-      "MonsterGenericPoison",
+      "MonsterGenericLightning",
       613
     ],
     [
+      "MonsterGenericPhysical",
+      614
+    ],
+    [
+      "MonsterGenericBlood",
+      615
+    ],
+    [
+      "MonsterGenericPoison",
+      616
+    ],
+    [
       "LegionKaruiArcher",
-      693
+      696
     ],
     [
       "LegionHyrri",
-      669
+      672
     ],
     [
       "LegionLioneye",
-      678
+      681
     ],
     [
       "LegionKaruiSergeant",
-      694
+      697
     ],
     [
       "LegionEternalArcher",
-      701
+      704
     ],
     [
       "LegionMarakethArcher",
-      702
+      705
     ],
     [
       "LegionMarakethSergeant",
-      703
+      706
     ],
     [
       "AtlasBasiliskArrow",
-      801
-    ],
-    [
-      "AtlasEyrieArrow",
       804
     ],
     [
+      "AtlasEyrieArrow",
+      807
+    ],
+    [
       "AtlasAdjudicatorArrow",
-      812
+      815
     ],
     [
       "HeistTemplarRanged",
-      904
+      907
     ],
     [
       "HeistNenet",
-      950
+      953
     ],
     [
       "HeistNenetGlow",
-      957
+      960
     ]
   ]
 }

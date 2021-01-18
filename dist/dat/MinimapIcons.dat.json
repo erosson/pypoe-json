@@ -5772,6 +5772,36 @@
       false,
       250,
       0
+    ],
+    [
+      "RitualRune",
+      2,
+      2,
+      true,
+      false,
+      false,
+      250,
+      0
+    ],
+    [
+      "HarvestPortal",
+      2,
+      2,
+      true,
+      false,
+      false,
+      250,
+      0
+    ],
+    [
+      "RitualRuneFinished",
+      2,
+      2,
+      true,
+      false,
+      false,
+      250,
+      0
     ]
   ]
 }

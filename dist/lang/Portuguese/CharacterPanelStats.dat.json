@@ -186,7 +186,7 @@
       0,
       [],
       [
-        2109
+        2110
       ],
       0,
       true,
@@ -198,7 +198,7 @@
       "DamagePerUse",
       "Dano por Utilização",
       [
-        2009
+        2010
       ],
       0,
       [],
@@ -217,10 +217,11 @@
       ],
       1,
       [
-        7697
+        7696
       ],
       [
-        1640
+        435,
+        1641
       ],
       0,
       true,
@@ -230,14 +231,15 @@
       "MH_HitChanceEvasive",
       "Chance da Mão Principal de Acertar Monstros Evasivos",
       [
-        9444
+        9437
       ],
       1,
       [
-        7697
+        7696
       ],
       [
-        1640
+        435,
+        1641
       ],
       0,
       true,
@@ -251,10 +253,11 @@
       ],
       1,
       [
-        7698
+        7697
       ],
       [
-        1640
+        435,
+        1641
       ],
       0,
       true,
@@ -264,14 +267,15 @@
       "OH_HitChanceEvasive",
       "Chance da Mão Secundária de Acertar Monstros Evasivos",
       [
-        9445
+        9438
       ],
       1,
       [
-        7698
+        7697
       ],
       [
-        1640
+        435,
+        1641
       ],
       0,
       true,
@@ -286,8 +290,9 @@
       0,
       [],
       [
-        1640,
-        8190
+        435,
+        1641,
+        8187
       ],
       0,
       true,
@@ -302,10 +307,12 @@
         679
       ],
       0,
-      [],
       [
-        1640,
-        8190
+        435
+      ],
+      [
+        1641,
+        8187
       ],
       0,
       true,
@@ -322,11 +329,11 @@
       ],
       2,
       [
-        7697
+        7696
       ],
       [
         435,
-        1640
+        1641
       ],
       0,
       true,
@@ -341,11 +348,11 @@
       ],
       2,
       [
-        7697
+        7696
       ],
       [
         435,
-        1640
+        1641
       ],
       0,
       true,
@@ -360,11 +367,11 @@
       ],
       2,
       [
-        7697
+        7696
       ],
       [
         435,
-        1640
+        1641
       ],
       0,
       true,
@@ -379,11 +386,11 @@
       ],
       2,
       [
-        7697
+        7696
       ],
       [
         435,
-        1640
+        1641
       ],
       0,
       true,
@@ -398,11 +405,11 @@
       ],
       2,
       [
-        7697
+        7696
       ],
       [
         435,
-        1640
+        1641
       ],
       0,
       true,
@@ -417,11 +424,11 @@
       ],
       2,
       [
-        7697
+        7696
       ],
       [
         435,
-        1640
+        1641
       ],
       0,
       true,
@@ -435,11 +442,11 @@
       ],
       0,
       [
-        7697
+        7696
       ],
       [
         435,
-        1640
+        1641
       ],
       0,
       true,
@@ -453,11 +460,11 @@
       ],
       7,
       [
-        7697
+        7696
       ],
       [
         435,
-        1640
+        1641
       ],
       0,
       true,
@@ -471,11 +478,11 @@
       ],
       1,
       [
-        7697
+        7696
       ],
       [
         435,
-        1640
+        1641
       ],
       0,
       true,
@@ -491,12 +498,12 @@
       ],
       1,
       [
-        7697,
+        7696,
         549
       ],
       [
         435,
-        1640
+        1641
       ],
       0,
       true,
@@ -510,11 +517,11 @@
       ],
       1,
       [
-        7697
+        7696
       ],
       [
         435,
-        1640
+        1641
       ],
       0,
       true,
@@ -528,12 +535,12 @@
       ],
       1,
       [
-        7697
+        7696
       ],
       [
         435,
-        1640,
-        2661
+        1641,
+        2663
       ],
       0,
       true,
@@ -547,12 +554,12 @@
       ],
       4,
       [
-        7697
+        7696
       ],
       [
         435,
-        1640,
-        2661
+        1641,
+        2663
       ],
       0,
       true,
@@ -566,11 +573,11 @@
       ],
       1,
       [
-        7697
+        7696
       ],
       [
         435,
-        1640
+        1641
       ],
       0,
       true,
@@ -584,11 +591,11 @@
       ],
       1,
       [
-        7697
+        7696
       ],
       [
         435,
-        1640
+        1641
       ],
       0,
       true,
@@ -602,11 +609,11 @@
       ],
       1,
       [
-        7697
+        7696
       ],
       [
         435,
-        1640
+        1641
       ],
       0,
       true,
@@ -621,11 +628,11 @@
       ],
       2,
       [
-        7698
+        7697
       ],
       [
         435,
-        1640
+        1641
       ],
       0,
       true,
@@ -640,11 +647,11 @@
       ],
       2,
       [
-        7698
+        7697
       ],
       [
         435,
-        1640
+        1641
       ],
       0,
       true,
@@ -659,11 +666,11 @@
       ],
       2,
       [
-        7698
+        7697
       ],
       [
         435,
-        1640
+        1641
       ],
       0,
       true,
@@ -678,11 +685,11 @@
       ],
       2,
       [
-        7698
+        7697
       ],
       [
         435,
-        1640
+        1641
       ],
       0,
       true,
@@ -697,11 +704,11 @@
       ],
       2,
       [
-        7698
+        7697
       ],
       [
         435,
-        1640
+        1641
       ],
       0,
       true,
@@ -716,11 +723,11 @@
       ],
       2,
       [
-        7698
+        7697
       ],
       [
         435,
-        1640
+        1641
       ],
       0,
       true,
@@ -734,11 +741,11 @@
       ],
       0,
       [
-        7698
+        7697
       ],
       [
         435,
-        1640
+        1641
       ],
       0,
       true,
@@ -752,11 +759,11 @@
       ],
       7,
       [
-        7698
+        7697
       ],
       [
         435,
-        1640
+        1641
       ],
       0,
       true,
@@ -770,11 +777,11 @@
       ],
       1,
       [
-        7698
+        7697
       ],
       [
         435,
-        1640
+        1641
       ],
       0,
       true,
@@ -790,12 +797,12 @@
       ],
       1,
       [
-        7698,
+        7697,
         550
       ],
       [
         435,
-        1640
+        1641
       ],
       0,
       true,
@@ -809,11 +816,11 @@
       ],
       1,
       [
-        7698
+        7697
       ],
       [
         435,
-        1640
+        1641
       ],
       0,
       true,
@@ -827,12 +834,12 @@
       ],
       1,
       [
-        7698
+        7697
       ],
       [
         435,
-        1640,
-        2661
+        1641,
+        2663
       ],
       0,
       true,
@@ -846,12 +853,12 @@
       ],
       4,
       [
-        7698
+        7697
       ],
       [
         435,
-        1640,
-        2661
+        1641,
+        2663
       ],
       0,
       true,
@@ -865,11 +872,11 @@
       ],
       1,
       [
-        7698
+        7697
       ],
       [
         435,
-        1640
+        1641
       ],
       0,
       true,
@@ -883,11 +890,11 @@
       ],
       1,
       [
-        7698
+        7697
       ],
       [
         435,
-        1640
+        1641
       ],
       0,
       true,
@@ -901,11 +908,11 @@
       ],
       1,
       [
-        7698
+        7697
       ],
       [
         435,
-        1640
+        1641
       ],
       0,
       true,
@@ -923,7 +930,7 @@
         435
       ],
       [
-        1640
+        1641
       ],
       0,
       true,
@@ -941,7 +948,7 @@
         435
       ],
       [
-        1640
+        1641
       ],
       0,
       true,
@@ -959,7 +966,7 @@
         435
       ],
       [
-        1640
+        1641
       ],
       0,
       true,
@@ -977,7 +984,7 @@
         435
       ],
       [
-        1640
+        1641
       ],
       0,
       true,
@@ -995,7 +1002,7 @@
         435
       ],
       [
-        1640
+        1641
       ],
       0,
       true,
@@ -1013,7 +1020,7 @@
         435
       ],
       [
-        1640
+        1641
       ],
       0,
       true,
@@ -1030,7 +1037,7 @@
         435
       ],
       [
-        8190
+        8187
       ],
       0,
       true,
@@ -1047,7 +1054,7 @@
         435
       ],
       [
-        1640
+        1641
       ],
       0,
       true,
@@ -1067,7 +1074,7 @@
         551
       ],
       [
-        1640
+        1641
       ],
       0,
       true,
@@ -1077,7 +1084,7 @@
       "Spell_BlockReduce",
       "Redução do Bloqueio Inimigo",
       [
-        2284
+        2285
       ],
       1,
       [
@@ -1092,12 +1099,12 @@
       "Secondary_TotalDamage",
       "Dano Combinado Total",
       [
-        1641,
-        1642
+        1642,
+        1643
       ],
       2,
       [
-        1640
+        1641
       ],
       [],
       0,
@@ -1113,7 +1120,7 @@
       ],
       2,
       [
-        1640
+        1641
       ],
       [],
       0,
@@ -1129,7 +1136,7 @@
       ],
       2,
       [
-        1640
+        1641
       ],
       [],
       0,
@@ -1145,7 +1152,7 @@
       ],
       2,
       [
-        1640
+        1641
       ],
       [],
       0,
@@ -1161,7 +1168,7 @@
       ],
       2,
       [
-        1640
+        1641
       ],
       [],
       0,
@@ -1177,7 +1184,7 @@
       ],
       2,
       [
-        1640
+        1641
       ],
       [],
       0,
@@ -1192,7 +1199,7 @@
       ],
       1,
       [
-        1640
+        1641
       ],
       [],
       0,
@@ -1209,7 +1216,7 @@
       ],
       1,
       [
-        1640,
+        1641,
         716
       ],
       [],
@@ -1236,14 +1243,14 @@
       "Knockback",
       "Chance de Empurrar",
       [
-        2333
+        2335
       ],
       1,
       [
         435
       ],
       [
-        2661
+        2663
       ],
       0,
       true,
@@ -1260,7 +1267,7 @@
         435
       ],
       [
-        2661
+        2663
       ],
       0,
       true,
@@ -1270,12 +1277,12 @@
       "KnockbackDistance",
       "Modificador de distância do Empurrão",
       [
-        12215
+        12194
       ],
       7,
       [],
       [
-        2661
+        2663
       ],
       0,
       true,
@@ -1345,16 +1352,16 @@
       "MH_BleedingChance",
       "Chance de infligir Sangramento com acertos da Mão Principal",
       [
-        6523
+        6522
       ],
       1,
       [
-        7697
+        7696
       ],
       [
         435,
-        2699,
-        1640
+        2701,
+        1641
       ],
       0,
       true,
@@ -1364,16 +1371,16 @@
       "OH_BleedingChance",
       "Chance de infligir Sangramento com acertos da Mão Secundária",
       [
-        6524
+        6523
       ],
       1,
       [
-        7698
+        7697
       ],
       [
         435,
-        2699,
-        1640
+        2701,
+        1641
       ],
       0,
       true,
@@ -1383,16 +1390,16 @@
       "MH_BleedingDamage",
       "Dano de Sangramento por segundo de acertos da Mão Principal",
       [
-        10276,
-        10277
+        10259,
+        10260
       ],
       2,
       [
-        7697
+        7696
       ],
       [
         435,
-        1640
+        1641
       ],
       0,
       true,
@@ -1405,16 +1412,16 @@
       "MH_BleedingCritDamage",
       "Dano de Sangramento por segundo dos Golpes Críticos da Mão Principal",
       [
-        10272,
-        10273
+        10255,
+        10256
       ],
       2,
       [
-        7697
+        7696
       ],
       [
         435,
-        1640
+        1641
       ],
       0,
       true,
@@ -1427,16 +1434,16 @@
       "OH_BleedingDamage",
       "Dano de Sangramento por segundo de acertos da Mão Secundária",
       [
-        10278,
-        10279
+        10261,
+        10262
       ],
       2,
       [
-        7698
+        7697
       ],
       [
         435,
-        1640
+        1641
       ],
       0,
       true,
@@ -1449,16 +1456,16 @@
       "OH_BleedingCritDamage",
       "Dano de Sangramento por segundo dos Golpes Críticos da Mão Secundária",
       [
-        10274,
-        10275
+        10257,
+        10258
       ],
       2,
       [
-        7698
+        7697
       ],
       [
         435,
-        1640
+        1641
       ],
       0,
       true,
@@ -1471,17 +1478,17 @@
       "MH_ChanceToIgnite",
       "Chance de Incendiar com acertos da Mão Principal",
       [
-        6525
+        6524
       ],
       1,
       [
-        7697
+        7696
       ],
       [
         435,
-        2771,
-        10982,
-        1640
+        2772,
+        10964,
+        1641
       ],
       0,
       true,
@@ -1491,17 +1498,17 @@
       "OH_ChanceToIgnite",
       "Chance de Incendiar com acertos da Mão Secundária",
       [
-        6526
+        6525
       ],
       1,
       [
-        7698
+        7697
       ],
       [
         435,
-        2771,
-        10982,
-        1640
+        2772,
+        10964,
+        1641
       ],
       0,
       true,
@@ -1511,16 +1518,16 @@
       "Spell_ChanceToIgnite",
       "Chance de Incendiar",
       [
-        6527
+        6526
       ],
       1,
       [
         435
       ],
       [
-        1640,
-        2771,
-        10982
+        1641,
+        2772,
+        10964
       ],
       0,
       true,
@@ -1530,15 +1537,15 @@
       "Secondary_ChanceToIgnite",
       "Chance de Incendiar",
       [
-        6528
+        6527
       ],
       1,
       [
-        1640
+        1641
       ],
       [
-        2771,
-        10982
+        2772,
+        10964
       ],
       0,
       true,
@@ -1553,11 +1560,11 @@
       ],
       2,
       [
-        7697
+        7696
       ],
       [
         435,
-        1640
+        1641
       ],
       0,
       true,
@@ -1570,16 +1577,16 @@
       "MH_IgniteCritDamage",
       "Dano de Incêndio por segundo dos Golpes Críticos da Mão Principal",
       [
-        10280,
-        10281
+        10263,
+        10264
       ],
       2,
       [
-        7697
+        7696
       ],
       [
         435,
-        1640
+        1641
       ],
       0,
       true,
@@ -1597,11 +1604,11 @@
       ],
       2,
       [
-        7698
+        7697
       ],
       [
         435,
-        1640
+        1641
       ],
       0,
       true,
@@ -1614,16 +1621,16 @@
       "OH_IgniteCritDamage",
       "Dano de Incêndio por segundo dos Golpes Críticos da Mão Secundária",
       [
-        10282,
-        10283
+        10265,
+        10266
       ],
       2,
       [
-        7698
+        7697
       ],
       [
         435,
-        1640
+        1641
       ],
       0,
       true,
@@ -1644,7 +1651,7 @@
         435
       ],
       [
-        1640
+        1641
       ],
       0,
       true,
@@ -1657,15 +1664,15 @@
       "Spell_IgniteCritDamage",
       "Dano de Incêndio por segundo dos Golpes Críticos",
       [
-        10284,
-        10285
+        10267,
+        10268
       ],
       2,
       [
         435
       ],
       [
-        1640
+        1641
       ],
       0,
       true,
@@ -1683,7 +1690,7 @@
       ],
       2,
       [
-        1640
+        1641
       ],
       [],
       0,
@@ -1697,12 +1704,12 @@
       "Secondary_IgniteCritDamage",
       "Dano de Incêndio por segundo dos Golpes Críticos",
       [
-        10286,
-        10287
+        10269,
+        10270
       ],
       2,
       [
-        1640
+        1641
       ],
       [],
       0,
@@ -1716,7 +1723,7 @@
       "IgniteDuration",
       "Modificador da Duração de Incêndio",
       [
-        2670
+        2672
       ],
       7,
       [],
@@ -1729,12 +1736,12 @@
       "ScorchChance",
       "Chance de Causticar",
       [
-        8718
+        8714
       ],
       1,
       [],
       [
-        2771
+        2772
       ],
       0,
       true,
@@ -1744,11 +1751,11 @@
       "ScorchDuration",
       "Modificador de Duração da Causticação",
       [
-        8824
+        8819
       ],
       7,
       [
-        8718
+        8714
       ],
       [],
       0,
@@ -1759,11 +1766,11 @@
       "ScorchEffectiveness",
       "Efetividade da Causticação",
       [
-        8825
+        8820
       ],
       7,
       [
-        8718
+        8714
       ],
       [],
       0,
@@ -1774,7 +1781,7 @@
       "ChillDuration",
       "Modificador da Duração do Resfriamento",
       [
-        2673
+        2675
       ],
       7,
       [],
@@ -1787,7 +1794,7 @@
       "ChillEffectiveness",
       "Efetividade de Resfriamento",
       [
-        6592
+        6591
       ],
       7,
       [],
@@ -1800,13 +1807,13 @@
       "ChanceToFreeze",
       "Chance de Congelar",
       [
-        1890
+        1891
       ],
       1,
       [],
       [
-        2771,
-        8722
+        2772,
+        8718
       ],
       0,
       true,
@@ -1816,7 +1823,7 @@
       "FreezeDuration",
       "Modificador da Duração do Congelamento",
       [
-        2672
+        2674
       ],
       7,
       [],
@@ -1829,12 +1836,12 @@
       "BrittleChance",
       "Chance de Causar Fragilidade",
       [
-        8719
+        8715
       ],
       1,
       [],
       [
-        2771
+        2772
       ],
       0,
       true,
@@ -1844,11 +1851,11 @@
       "BrittleDuration",
       "Modificador de Duração da Fragilidade",
       [
-        8826
+        8821
       ],
       7,
       [
-        8719
+        8715
       ],
       [],
       0,
@@ -1859,11 +1866,11 @@
       "BrittleEffectiveness",
       "Efetividade da Fragilidade",
       [
-        8827
+        8822
       ],
       7,
       [
-        8719
+        8715
       ],
       [],
       0,
@@ -1874,12 +1881,12 @@
       "ChanceToShock",
       "Chance de Eletrizar",
       [
-        1889
+        1890
       ],
       1,
       [],
       [
-        2771,
+        2772,
         1329
       ],
       0,
@@ -1890,7 +1897,7 @@
       "ShockDuration",
       "Modificador de Duração da Eletrização",
       [
-        2671
+        2673
       ],
       7,
       [],
@@ -1903,7 +1910,7 @@
       "ShockEffectiveness",
       "Efetividade de Eletrização",
       [
-        6591
+        6590
       ],
       7,
       [],
@@ -1916,12 +1923,12 @@
       "SappedChance",
       "Chance de Esgotar",
       [
-        8720
+        8716
       ],
       1,
       [],
       [
-        2771
+        2772
       ],
       0,
       true,
@@ -1931,11 +1938,11 @@
       "SappedDuration",
       "Duração do Esgotamento",
       [
-        8828
+        8823
       ],
       7,
       [
-        8720
+        8716
       ],
       [],
       0,
@@ -1946,11 +1953,11 @@
       "SappedEffectiveness",
       "Efetividade do Esgotamento",
       [
-        8829
+        8824
       ],
       7,
       [
-        8720
+        8716
       ],
       [],
       0,
@@ -1960,6 +1967,23 @@
     [
       "MH_ChanceToPoison",
       "Chance de Envenenar com acertos da Mão Principal",
+      [
+        6528
+      ],
+      1,
+      [
+        7696
+      ],
+      [
+        435
+      ],
+      0,
+      true,
+      []
+    ],
+    [
+      "OH_ChanceToPoison",
+      "Chance de Envenenar com acertos da Mão Secundária",
       [
         6529
       ],
@@ -1975,34 +1999,17 @@
       []
     ],
     [
-      "OH_ChanceToPoison",
-      "Chance de Envenenar com acertos da Mão Secundária",
+      "Spell_ChanceToPoison",
+      "Chance de Envenenar",
       [
         6530
       ],
       1,
       [
-        7698
-      ],
-      [
-        435
-      ],
-      0,
-      true,
-      []
-    ],
-    [
-      "Spell_ChanceToPoison",
-      "Chance de Envenenar",
-      [
-        6531
-      ],
-      1,
-      [
         435
       ],
       [
-        1640
+        1641
       ],
       0,
       true,
@@ -2012,11 +2019,11 @@
       "Secondary_ChanceToPoison",
       "Chance de Envenenar",
       [
-        6532
+        6531
       ],
       1,
       [
-        1640
+        1641
       ],
       [],
       0,
@@ -2045,11 +2052,11 @@
       ],
       2,
       [
-        7697
+        7696
       ],
       [
         435,
-        1640
+        1641
       ],
       0,
       true,
@@ -2062,16 +2069,16 @@
       "MH_PoisonCritDamage",
       "Dano de Veneno por segundo dos Golpes Críticos da Mão Principal",
       [
-        10288,
-        10289
+        10271,
+        10272
       ],
       2,
       [
-        7697
+        7696
       ],
       [
         435,
-        1640
+        1641
       ],
       0,
       true,
@@ -2089,11 +2096,11 @@
       ],
       2,
       [
-        7698
+        7697
       ],
       [
         435,
-        1640
+        1641
       ],
       0,
       true,
@@ -2106,16 +2113,16 @@
       "OH_PoisonCritDamage",
       "Dano de Veneno por segundo dos Golpes Críticos da Mão Secundária",
       [
-        10290,
-        10291
+        10273,
+        10274
       ],
       2,
       [
-        7698
+        7697
       ],
       [
         435,
-        1640
+        1641
       ],
       0,
       true,
@@ -2136,7 +2143,7 @@
         435
       ],
       [
-        1640
+        1641
       ],
       0,
       true,
@@ -2149,15 +2156,15 @@
       "Spell_PoisonCritDamage",
       "Dano de Veneno por segundo dos Golpes Críticos",
       [
-        10292,
-        10293
+        10275,
+        10276
       ],
       2,
       [
         435
       ],
       [
-        1640
+        1641
       ],
       0,
       true,
@@ -2175,7 +2182,7 @@
       ],
       2,
       [
-        1640
+        1641
       ],
       [],
       0,
@@ -2189,12 +2196,12 @@
       "Secondary_PoisonCritDamage",
       "Dano de Veneno por segundo dos Golpes Críticos",
       [
-        10294,
-        10295
+        10277,
+        10278
       ],
       2,
       [
-        1640
+        1641
       ],
       [],
       0,
@@ -2213,11 +2220,11 @@
       ],
       2,
       [
-        7697
+        7696
       ],
       [
         435,
-        1640
+        1641
       ],
       0,
       true,
@@ -2230,16 +2237,16 @@
       "MH_PoisonCritDamageAlways",
       "Dano de Veneno por segundo apenas com Golpes Críticos de Caos da Mão Principal",
       [
-        10296,
-        10297
+        10279,
+        10280
       ],
       2,
       [
-        7697
+        7696
       ],
       [
         435,
-        1640
+        1641
       ],
       0,
       true,
@@ -2257,11 +2264,11 @@
       ],
       2,
       [
-        7698
+        7697
       ],
       [
         435,
-        1640
+        1641
       ],
       0,
       true,
@@ -2274,16 +2281,16 @@
       "OH_PoisonCritDamageAlways",
       "Dano de Veneno por segundo com Golpes Críticos de Caos da Mão Secundária",
       [
-        10298,
-        10299
+        10281,
+        10282
       ],
       2,
       [
-        7698
+        7697
       ],
       [
         435,
-        1640
+        1641
       ],
       0,
       true,
@@ -2304,7 +2311,7 @@
         435
       ],
       [
-        1640
+        1641
       ],
       0,
       true,
@@ -2317,15 +2324,15 @@
       "Spell_PoisonCritDamageAlways",
       "Dano de Veneno por segundo apenas com Golpes Críticos de Caos",
       [
-        10300,
-        10301
+        10283,
+        10284
       ],
       2,
       [
         435
       ],
       [
-        1640
+        1641
       ],
       0,
       true,
@@ -2343,7 +2350,7 @@
       ],
       2,
       [
-        1640
+        1641
       ],
       [],
       0,
@@ -2357,12 +2364,12 @@
       "Secondary_PoisonCritDamageAlways",
       "Dano de Veneno por segundo apenas com Golpes Críticos de Caos",
       [
-        10302,
-        10303
+        10285,
+        10286
       ],
       2,
       [
-        1640
+        1641
       ],
       [],
       0,
@@ -2523,7 +2530,7 @@
       "ChaosPenetrationWeapon",
       "Penetração de Resistência a Caos Adicional com Armas",
       [
-        3922
+        3923
       ],
       1,
       [],
@@ -2536,11 +2543,11 @@
       "MainhandDoubleDamageChilled",
       "Dobro do Dano com a Mão Principal em Inimigos Resfriados",
       [
-        4130
+        4131
       ],
       4,
       [
-        7697
+        7696
       ],
       [
         435
@@ -2553,11 +2560,11 @@
       "OffhandDoubleDamageChilled",
       "Dobro do Dano com a Mão Secundária em Inimigos Resfriados",
       [
-        4131
+        4132
       ],
       4,
       [
-        7698
+        7697
       ],
       [
         435
@@ -2570,11 +2577,11 @@
       "MH_ChanceToImpale",
       "Chance de Empalar com Acertos da Mão Principal",
       [
-        8852
+        8847
       ],
       1,
       [
-        7697
+        7696
       ],
       [
         435
@@ -2587,11 +2594,11 @@
       "OH_ChanceToImpale",
       "Chance de Empalar com Acertos da Mão Secundária",
       [
-        8853
+        8848
       ],
       1,
       [
-        7698
+        7697
       ],
       [
         435
@@ -2660,11 +2667,11 @@
       "ArmourVsHitsEstimateReduction",
       "Estimativa da Redução de Dano Físico contra Acertos",
       [
-        7375
+        7374
       ],
       1,
       [
-        7374
+        7373
       ],
       [],
       1,
@@ -2727,7 +2734,7 @@
       "LifeRecharge",
       "Recuperação de Vida por segundo",
       [
-        9463
+        9456
       ],
       0,
       [],
@@ -2770,7 +2777,7 @@
       "ESDelay",
       "Modificador da Ocorrência da Recarga de Escudo de Energia",
       [
-        3885
+        3886
       ],
       7,
       [],
@@ -2841,7 +2848,7 @@
       "StunImmuneSpells",
       "Não pode ser Atordoado por Magias",
       [
-        7397
+        7396
       ],
       4,
       [],
@@ -2856,7 +2863,7 @@
       "StunImmuneAttacks",
       "Não pode ser Atordoado por Ataques",
       [
-        7398
+        7397
       ],
       4,
       [],
@@ -2872,7 +2879,7 @@
       "Resistência a Fogo",
       [
         307,
-        2059
+        2060
       ],
       5,
       [],
@@ -2886,7 +2893,7 @@
       "Resistência a Gelo",
       [
         306,
-        2060
+        2061
       ],
       5,
       [],
@@ -2900,7 +2907,7 @@
       "Resistência a Raio",
       [
         308,
-        2061
+        2062
       ],
       5,
       [],
@@ -2914,7 +2921,7 @@
       "Resistência a Caos",
       [
         309,
-        2062
+        2063
       ],
       5,
       [],
@@ -2949,7 +2956,7 @@
       ],
       1,
       [
-        7289
+        7288
       ],
       [],
       1,
@@ -2965,7 +2972,7 @@
       1,
       [
         1072,
-        7289
+        7288
       ],
       [],
       1,
@@ -2980,7 +2987,7 @@
       ],
       1,
       [
-        7290
+        7289
       ],
       [],
       1,
@@ -2996,8 +3003,8 @@
       1,
       [
         1072,
-        7290,
-        8207
+        7289,
+        8204
       ],
       [],
       1,
@@ -3247,7 +3254,7 @@
       "ActionSpeed",
       "Modificador da Velocidade de Ação",
       [
-        9345
+        9336
       ],
       7,
       [],
@@ -3420,11 +3427,11 @@
       ],
       1,
       [
-        7697
+        7696
       ],
       [
         435,
-        1640,
+        1641,
         1340
       ],
       2,
@@ -3441,11 +3448,11 @@
       ],
       1,
       [
-        7698
+        7697
       ],
       [
         435,
-        1640,
+        1641,
         1340
       ],
       2,
@@ -3458,7 +3465,7 @@
       "Spell_LifeLeech",
       "Drenagem de Vida de Dano Mágico",
       [
-        3114
+        3115
       ],
       1,
       [
@@ -3466,7 +3473,7 @@
       ],
       [
         1342,
-        1640
+        1641
       ],
       2,
       true,
@@ -3496,7 +3503,7 @@
       "LifeLeechPhysicalDamage",
       "Drenagem de Vida de Dano Físico",
       [
-        2209
+        2210
       ],
       1,
       [],
@@ -3513,7 +3520,7 @@
       "LifeLeechFireDamage",
       "Drenagem de Vida de Dano de Fogo",
       [
-        2210
+        2211
       ],
       1,
       [],
@@ -3530,7 +3537,7 @@
       "LifeLeechColdDamage",
       "Drenagem de Vida de Dano de Gelo",
       [
-        2211
+        2212
       ],
       1,
       [],
@@ -3547,7 +3554,7 @@
       "LifeLeechLightningDamage",
       "Drenagem de Vida de Dano de Raio",
       [
-        2212
+        2213
       ],
       1,
       [],
@@ -3564,7 +3571,7 @@
       "LifeLeechChaosDamage",
       "Drenagem de Vida de Dano de Caos",
       [
-        2213
+        2214
       ],
       1,
       [],
@@ -3581,8 +3588,8 @@
       "MaxLifeLeechAmount",
       "Recuperação Máxima por Dreno de Vida Base",
       [
-        9257,
-        9331
+        9248,
+        9322
       ],
       10,
       [],
@@ -3600,7 +3607,7 @@
       "LifeLeechSpeed",
       "Modificador de Recuperação de Dreno de Vida total por segundo",
       [
-        2947
+        2948
       ],
       7,
       [],
@@ -3615,8 +3622,8 @@
       "MaxLifeLeechRecoveryRate",
       "Recuperação total Máxima por segundo do Dreno de Vida",
       [
-        9260,
-        6878
+        9251,
+        6877
       ],
       10,
       [],
@@ -3638,11 +3645,11 @@
       ],
       1,
       [
-        7697
+        7696
       ],
       [
         435,
-        1640,
+        1641,
         1341
       ],
       2,
@@ -3659,11 +3666,11 @@
       ],
       1,
       [
-        7698
+        7697
       ],
       [
         435,
-        1640,
+        1641,
         1341
       ],
       2,
@@ -3676,7 +3683,7 @@
       "Spell_ManaLeech",
       "Drenagem de Mana de Dano Mágico",
       [
-        3115
+        3116
       ],
       1,
       [
@@ -3684,7 +3691,7 @@
       ],
       [
         1343,
-        1640
+        1641
       ],
       2,
       true,
@@ -3714,7 +3721,7 @@
       "ManaLeechPhysicalDamage",
       "Drenagem de Mana de Dano Físico",
       [
-        2214
+        2215
       ],
       1,
       [],
@@ -3731,7 +3738,7 @@
       "ManaLeechFireDamage",
       "Drenagem de Mana de Dano de Fogo",
       [
-        2215
+        2216
       ],
       1,
       [],
@@ -3748,7 +3755,7 @@
       "ManaLeechColdDamage",
       "Drenagem de Mana de Dano de Gelo",
       [
-        2216
+        2217
       ],
       1,
       [],
@@ -3765,7 +3772,7 @@
       "ManaLeechLightningDamage",
       "Drenagem de Mana de Dano de Raio",
       [
-        2217
+        2218
       ],
       1,
       [],
@@ -3782,7 +3789,7 @@
       "ManaLeechChaosDamage",
       "Drenagem de Mana de Dano de Caos",
       [
-        2218
+        2219
       ],
       1,
       [],
@@ -3799,8 +3806,8 @@
       "MaxManaLeechAmount",
       "Recuperação Máxima por Dreno de Mana Base",
       [
-        9258,
-        9332
+        9249,
+        9323
       ],
       10,
       [],
@@ -3818,7 +3825,7 @@
       "ManaLeechSpeed",
       "Modificador de Recuperação de Dreno de Mana total por segundo",
       [
-        2949
+        2950
       ],
       7,
       [],
@@ -3833,8 +3840,8 @@
       "MaxManaLeechRecoveryRate",
       "Recuperação total Máxima por segundo do Dreno de Mana",
       [
-        9261,
-        9327
+        9252,
+        9318
       ],
       10,
       [],
@@ -3852,15 +3859,15 @@
       "Spell_EnergyShieldLeech",
       "Dreno de Escudo de Energia do Dano Mágico",
       [
-        8883
+        8878
       ],
       1,
       [
         435
       ],
       [
-        8886,
-        1640
+        8881,
+        1641
       ],
       2,
       true,
@@ -3872,12 +3879,12 @@
       "EnergyShieldLeechPhysicalDamage",
       "Dreno de Escudo de Energia do Dano Físico",
       [
-        8924
+        8916
       ],
       1,
       [],
       [
-        8886
+        8881
       ],
       2,
       true,
@@ -3889,12 +3896,12 @@
       "EnergyShieldLeechFireDamage",
       "Dreno de Escudo de Energia do Dano de Fogo",
       [
-        8881
+        8876
       ],
       1,
       [],
       [
-        8886
+        8881
       ],
       2,
       true,
@@ -3906,12 +3913,12 @@
       "EnergyShieldLeechColdDamage",
       "Dreno de Escudo de Energia do Dano de Gelo",
       [
-        8877
+        8872
       ],
       1,
       [],
       [
-        8886
+        8881
       ],
       2,
       true,
@@ -3923,12 +3930,12 @@
       "EnergyShieldLeechLightningDamage",
       "Dreno de Escudo de Energia do Dano de Raio",
       [
-        8879
+        8874
       ],
       1,
       [],
       [
-        8886
+        8881
       ],
       2,
       true,
@@ -3940,12 +3947,12 @@
       "EnergyShieldLeechChaosDamage",
       "Dreno de Escudo de Energia do Dano de Caos",
       [
-        8925
+        8917
       ],
       1,
       [],
       [
-        8886
+        8881
       ],
       2,
       true,
@@ -3957,13 +3964,13 @@
       "MaxEnergyShieldLeechAmount",
       "Recuperação Máxima por Dreno de Escudo de Energia Base",
       [
-        9259,
-        9333
+        9250,
+        9324
       ],
       10,
       [],
       [
-        8886
+        8881
       ],
       2,
       false,
@@ -3976,7 +3983,7 @@
       "EnergyShieldLeechSpeed",
       "Modificador de Recuperação de Dreno de Escudo de Energia total por segundo",
       [
-        8891
+        8886
       ],
       7,
       [],
@@ -3989,13 +3996,13 @@
       "MaxEnergyShieldLeechRecoveryRate",
       "Recuperação total Máxima por segundo do Dreno de Escudo de Energia",
       [
-        9262,
-        8874
+        9253,
+        8869
       ],
       10,
       [],
       [
-        8886
+        8881
       ],
       2,
       false,
@@ -4008,7 +4015,24 @@
       "MH_LifeOnHit",
       "Vida obtida ao Acertar com a Mão Principal",
       [
-        3095
+        3096
+      ],
+      0,
+      [
+        7696
+      ],
+      [
+        435
+      ],
+      2,
+      true,
+      []
+    ],
+    [
+      "OH_LifeOnHit",
+      "Vida obtida ao Acertar com a Mão Secundária",
+      [
+        3097
       ],
       0,
       [
@@ -4022,27 +4046,10 @@
       []
     ],
     [
-      "OH_LifeOnHit",
-      "Vida obtida ao Acertar com a Mão Secundária",
-      [
-        3096
-      ],
-      0,
-      [
-        7698
-      ],
-      [
-        435
-      ],
-      2,
-      true,
-      []
-    ],
-    [
       "LifeOnSpellHit",
       "Vida obtida ao Acertar",
       [
-        1926
+        1927
       ],
       0,
       [
@@ -4057,7 +4064,7 @@
       "ManaOnSpellHit",
       "Mana obtida ao Acertar",
       [
-        7079
+        7078
       ],
       0,
       [
@@ -4072,7 +4079,7 @@
       "ManaOnHit",
       "Mana obtida ao Acertar",
       [
-        2768
+        2769
       ],
       0,
       [],
@@ -4087,7 +4094,7 @@
       "ESOnSpellHit",
       "Escudo de Energia obtido ao Acertar",
       [
-        7294
+        7293
       ],
       0,
       [
@@ -4102,7 +4109,7 @@
       "ESOnHit",
       "Escudo de Energia obtido ao Acertar",
       [
-        2805
+        2806
       ],
       0,
       [],
@@ -4117,7 +4124,7 @@
       "LifeOnKill",
       "Vida obtida ao Matar",
       [
-        2306
+        2307
       ],
       0,
       [],
@@ -4130,7 +4137,7 @@
       "ManaOnKill",
       "Mana obtida ao Matar",
       [
-        2420
+        2422
       ],
       0,
       [],
@@ -4143,7 +4150,7 @@
       "ESonKill",
       "Escudo de Energia obtido ao Matar",
       [
-        2421
+        2423
       ],
       0,
       [],
@@ -4156,7 +4163,7 @@
       "MinionDamage",
       "Modificador de Dano do Lacaio",
       [
-        2462
+        2464
       ],
       7,
       [],
@@ -4182,7 +4189,7 @@
       "MinionMana",
       "Modificador de Mana do Lacaio",
       [
-        3241
+        3242
       ],
       7,
       [],
@@ -4195,7 +4202,7 @@
       "MinionEnergyShield",
       "Modificador de Escudo de Energia de Lacaio",
       [
-        3242
+        3243
       ],
       7,
       [],
@@ -4208,7 +4215,7 @@
       "ProjectileSpeed",
       "Modificador de Velocidade do Projétil",
       [
-        1402
+        1403
       ],
       7,
       [],
@@ -4299,7 +4306,7 @@
       "TotemMana",
       "Modificador de Mana do Totem",
       [
-        3239
+        3240
       ],
       7,
       [],
@@ -4312,7 +4319,7 @@
       "TotemEnergyShield",
       "Modificador do Escudo de Energia do Totem",
       [
-        3240
+        3241
       ],
       7,
       [],
@@ -4351,7 +4358,7 @@
       "TrapThrowSpeed",
       "Modificador da Velocidade de Lançamento da Armadilha",
       [
-        7818
+        7816
       ],
       7,
       [],
@@ -4364,7 +4371,7 @@
       "MineDuration",
       "Modificador da Duração da Mina",
       [
-        1828
+        1829
       ],
       7,
       [],
@@ -4377,7 +4384,7 @@
       "MineDetonationRadius",
       "Modificador do Raio de Detonação da Mina",
       [
-        1842
+        1843
       ],
       7,
       [],
@@ -4390,7 +4397,7 @@
       "MinePlaceSpeed",
       "Modificador de Velocidade de Arremesso de Minas",
       [
-        9979
+        9970
       ],
       7,
       [],
@@ -4403,7 +4410,7 @@
       "FishingRange",
       "Modificador do Alcance de Pesca",
       [
-        1740
+        1741
       ],
       7,
       [],
@@ -4416,7 +4423,7 @@
       "FishingLineStrength",
       "Modificador da Força da Linha de Pesca",
       [
-        1741
+        1742
       ],
       7,
       [],
@@ -4429,7 +4436,7 @@
       "IFQ",
       "Quantidade de Peixes pescados",
       [
-        1742
+        1743
       ],
       7,
       [],
@@ -4442,7 +4449,7 @@
       "IFR",
       "Raridade de Peixes pescados",
       [
-        1743
+        1744
       ],
       7,
       [],
@@ -4455,7 +4462,7 @@
       "FishingPoolConsumption",
       "Modificador do Consumo do Lago de Pesca",
       [
-        1744
+        1745
       ],
       7,
       [],
@@ -4468,7 +4475,7 @@
       "ExoticFish",
       "Pode pescar Peixes Exóticos",
       [
-        2075
+        2076
       ],
       4,
       [],
@@ -4481,7 +4488,7 @@
       "CorruptedFish",
       "Pode pescar Peixes Corrompidos",
       [
-        2242
+        2243
       ],
       4,
       [],
@@ -4494,7 +4501,7 @@
       "CooldownRecovery",
       "Modificador da Velocidade de Recarga",
       [
-        3356
+        3357
       ],
       7,
       [],
@@ -4507,11 +4514,11 @@
       "BrandNum",
       "Limite de Runas",
       [
-        8484
+        8481
       ],
       0,
       [
-        8643
+        8639
       ],
       [],
       2,
@@ -4522,11 +4529,11 @@
       "BrandNumPerTarget",
       "Limite de Runas Vinculadas por Alvo",
       [
-        8850
+        8845
       ],
       0,
       [
-        8643
+        8639
       ],
       [],
       2,
@@ -4537,7 +4544,7 @@
       "Devotion",
       "Devoção",
       [
-        9677
+        9670
       ],
       0,
       [],
@@ -4565,7 +4572,7 @@
       "Cargas de Tolerância",
       [
         4,
-        2665
+        2667
       ],
       3,
       [],
@@ -4578,7 +4585,7 @@
       "EnduranceDuration",
       "Modificador da Duração de Carga de Tolerância",
       [
-        2703
+        2705
       ],
       7,
       [],
@@ -4673,7 +4680,7 @@
       "PhysicalDamagePerEnduranceCharge",
       "Modificador do Dano Físico por Carga de Tolerância",
       [
-        2642
+        2644
       ],
       7,
       [],
@@ -4687,7 +4694,7 @@
       "Cargas de Frenesi",
       [
         5,
-        2666
+        2668
       ],
       3,
       [],
@@ -4700,7 +4707,7 @@
       "FrenzyDuration",
       "Modificador da Duração da Carga de Frenesi",
       [
-        1796
+        1797
       ],
       7,
       [],
@@ -4713,7 +4720,7 @@
       "AttackSpeedPerFrenzy",
       "Modificador da Velocidade de Ataque por Carga de Frenesi",
       [
-        1653
+        1654
       ],
       7,
       [],
@@ -4726,7 +4733,7 @@
       "CastSpeedPerFrenzy",
       "Modificador da Velocidade de Conjuração por Carga de Frenesi",
       [
-        1654
+        1655
       ],
       7,
       [],
@@ -4830,7 +4837,7 @@
       "ProjectileSpeedPerFrenzy",
       "Modificador da Velocidade de Projétil por Carga de Frenesi",
       [
-        1403
+        1404
       ],
       7,
       [],
@@ -4843,7 +4850,7 @@
       "LifeRegenPerFrenzy",
       "Regeneração de Vida por segundo por Carga de Frenesi",
       [
-        1395
+        1396
       ],
       1,
       [],
@@ -4858,7 +4865,7 @@
       "AccuracyPerFrenzy",
       "Modificador de Precisão por Carga de Frenesi",
       [
-        1787
+        1788
       ],
       7,
       [],
@@ -4871,7 +4878,7 @@
       "LightningDamagePerFrenzy",
       "Modificador de Dano de Raio por Carga de Frenesi",
       [
-        2305
+        2306
       ],
       7,
       [],
@@ -4884,7 +4891,7 @@
       "DamageTakenPerFrenzy",
       "Modificador do Dano Recebido por Carga de Frenesi",
       [
-        2304
+        2305
       ],
       7,
       [],
@@ -4897,7 +4904,7 @@
       "LifeOnKillPerFrenzy",
       "Vida obtida ao Matar por Carga de Frenesi",
       [
-        2307
+        2308
       ],
       0,
       [],
@@ -4910,7 +4917,7 @@
       "ElementalDamagePerFrenzyCharge",
       "Modificador de Dano Elemental por Carga de Frenesi",
       [
-        2728
+        2729
       ],
       7,
       [],
@@ -4923,7 +4930,7 @@
       "AttackDamagePerFrenzyCharge",
       "Modificador de Dano de Ataques por Carga de Frenesi",
       [
-        3503
+        3504
       ],
       7,
       [],
@@ -4936,7 +4943,7 @@
       "DamageNoFrenzyCharges",
       "Modificador de Dano sem Cargas de Frenesi",
       [
-        4140
+        4141
       ],
       7,
       [],
@@ -4950,7 +4957,7 @@
       "Cargas de Poder",
       [
         6,
-        2667
+        2669
       ],
       3,
       [],
@@ -4963,7 +4970,7 @@
       "PowerDuration",
       "Modificador da Duração da Carga de Poder",
       [
-        2702
+        2704
       ],
       7,
       [],
@@ -5002,7 +5009,7 @@
       "KeystoneMoreSpellDamagePerPower",
       "Modificador de Dano Mágico por Carga de Poder",
       [
-        9455
+        9448
       ],
       8,
       [],
@@ -5067,7 +5074,7 @@
       "ProjectileDamagePerPower",
       "Modificador de Dano de Projétil por Carga de Poder",
       [
-        1404
+        1405
       ],
       7,
       [],
@@ -5121,8 +5128,8 @@
       "SpiritCharges",
       "Cargas de Espírito",
       [
-        6571,
-        7303
+        6570,
+        7302
       ],
       3,
       [],
@@ -5135,8 +5142,8 @@
       "SiphoningCharges",
       "Cargas de Sifão",
       [
-        7364,
-        7365
+        7363,
+        7364
       ],
       3,
       [],
@@ -5149,8 +5156,8 @@
       "PhysicalDamagePerSiphoning",
       "Dano Físico a Ataques por Carga de Sifão",
       [
-        7368,
-        7369
+        7367,
+        7368
       ],
       2,
       [],
@@ -5163,7 +5170,7 @@
       "LifeLeechPerSiphoning",
       "Dreno de Vida de qualquer Dano por Carga de Sifão",
       [
-        7370
+        7369
       ],
       1,
       [],
@@ -5178,7 +5185,7 @@
       "ExtraChoasDamagePerSiphoning",
       "Dano Não-Caótico como Dano de Caos extra por Carga de Sifão",
       [
-        7371
+        7370
       ],
       1,
       [],
@@ -5191,7 +5198,7 @@
       "PhysDamageReductionPerSiphoning",
       "Redução de Dano Físico de Acertos por Carga de Sifão",
       [
-        7372
+        7371
       ],
       1,
       [],
@@ -5204,7 +5211,7 @@
       "PhysDamageTakenPerSiphoning",
       "Dano Físico por Segundo por Carga de Sifão",
       [
-        7380
+        7379
       ],
       0,
       [],
@@ -5219,8 +5226,8 @@
       "BlitzCharges",
       "Cargas de Agressão",
       [
-        9749,
-        9748
+        9742,
+        9741
       ],
       3,
       [],
@@ -5233,7 +5240,7 @@
       "AttackSpeedPerBlitz",
       "Modificador de Velocidade de Ataque por Carga de Agressão",
       [
-        9746
+        9739
       ],
       8,
       [],
@@ -5246,7 +5253,7 @@
       "CritChancePerBlitz",
       "Modificador de Chance de Acerto Crítico por Carga de Agressão",
       [
-        9747
+        9740
       ],
       7,
       [],
@@ -5259,8 +5266,8 @@
       "ChallengerCharges",
       "Cargas Desafiantes",
       [
-        9850,
-        9849
+        9841,
+        9840
       ],
       3,
       [],
@@ -5273,10 +5280,127 @@
       "AttackMoveSpeedPerChallenger",
       "Modificador de Velocidade de Ataque por Carga Desafiante",
       [
-        9853
+        9844
       ],
       8,
       [],
+      [],
+      3,
+      true,
+      []
+    ],
+    [
+      "BrutalCharges",
+      "Cargas Brutais",
+      [
+        13503,
+        13505
+      ],
+      3,
+      [],
+      [],
+      3,
+      true,
+      []
+    ],
+    [
+      "TripleDamageChancePerBrutalCharge",
+      "Chance de causar Dano Triplicado por Carga Brutal",
+      [
+        13527
+      ],
+      1,
+      [
+        13505
+      ],
+      [],
+      3,
+      true,
+      []
+    ],
+    [
+      "StunThresholdPerBrutalCharge",
+      "Modificador do Ponto de Atordoamento por Carga Brutal",
+      [
+        13528
+      ],
+      7,
+      [
+        13505
+      ],
+      [],
+      3,
+      true,
+      []
+    ],
+    [
+      "AfflictionCharges",
+      "Cargas de Aflição",
+      [
+        13507,
+        13509
+      ],
+      3,
+      [],
+      [],
+      3,
+      true,
+      []
+    ],
+    [
+      "AilmentDamagePerAfflictionCharge",
+      "Modificador de dano de Afecção por Carga de Aflição",
+      [
+        13529
+      ],
+      8,
+      [
+        13509
+      ],
+      [],
+      3,
+      true,
+      []
+    ],
+    [
+      "NonDamagingAilmentEffectPerAfflictionCharge",
+      "Modificador de Efeito de Afecções Não Danificadoras por Carga de Aflição",
+      [
+        13530
+      ],
+      8,
+      [
+        13509
+      ],
+      [],
+      3,
+      true,
+      []
+    ],
+    [
+      "AbsorptionCharges",
+      "Cargas de Absorção",
+      [
+        13511,
+        13513
+      ],
+      3,
+      [],
+      [],
+      3,
+      true,
+      []
+    ],
+    [
+      "ElementalDamageGoesToESPerAbsorptionCharge",
+      "Dano Elemental sofrido Recuperado como ES por Cara de Absorção",
+      [
+        13531
+      ],
+      1,
+      [
+        13513
+      ],
       [],
       3,
       true,

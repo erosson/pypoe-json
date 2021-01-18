@@ -639,7 +639,7 @@
       0,
       7,
       2,
-      1024,
+      1025,
       false,
       false,
       17136,
@@ -671,7 +671,7 @@
       0,
       8,
       1,
-      1145,
+      1146,
       false,
       false,
       17106,
@@ -728,7 +728,7 @@
       0,
       10,
       1,
-      1278,
+      1279,
       false,
       false,
       17136,
@@ -786,7 +786,7 @@
       0,
       12,
       1,
-      1325,
+      1326,
       false,
       false,
       17136,
@@ -811,6 +811,90 @@
       false
     ],
     [
+      0,
+      13,
+      2,
+      null,
+      false,
+      false,
+      17174,
+      false,
+      false,
+      "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
+      true,
+      [
+        7316
+      ],
+      [
+        7494
+      ],
+      488,
+      null,
+      null,
+      451,
+      null,
+      null,
+      false,
+      true,
+      false
+    ],
+    [
+      0,
+      14,
+      2,
+      null,
+      false,
+      false,
+      17224,
+      false,
+      false,
+      "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
+      true,
+      [
+        7510
+      ],
+      [
+        7708
+      ],
+      488,
+      null,
+      null,
+      null,
+      null,
+      null,
+      false,
+      true,
+      false
+    ],
+    [
+      0,
+      15,
+      2,
+      null,
+      false,
+      false,
+      17224,
+      false,
+      false,
+      "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
+      true,
+      [
+        7724
+      ],
+      [
+        7898
+      ],
+      488,
+      null,
+      null,
+      null,
+      null,
+      null,
+      false,
+      true,
+      false
+    ],
+    [
       1,
       0,
       1,
@@ -823,10 +907,10 @@
       "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
       false,
       [
-        7316
+        7914
       ],
       [
-        7422
+        8020
       ],
       488,
       null,
@@ -851,10 +935,10 @@
       "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
       true,
       [
-        7438
+        8036
       ],
       [
-        7574
+        8172
       ],
       488,
       null,
@@ -879,10 +963,10 @@
       "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
       true,
       [
-        7590
+        8188
       ],
       [
-        7746
+        8344
       ],
       488,
       null,
@@ -907,10 +991,10 @@
       "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
       false,
       [
-        7762
+        8360
       ],
       [
-        7876
+        8474
       ],
       488,
       null,
@@ -935,14 +1019,14 @@
       "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
       true,
       [
-        7892,
-        8038,
-        8184,
-        8330,
-        8476
+        8490,
+        8636,
+        8782,
+        8928,
+        9074
       ],
       [
-        8642
+        9240
       ],
       488,
       null,
@@ -967,10 +1051,10 @@
       "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
       false,
       [
-        8658
+        9256
       ],
       [
-        8784
+        9382
       ],
       488,
       null,
@@ -995,10 +1079,10 @@
       "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
       true,
       [
-        8800
+        9398
       ],
       [
-        9018
+        9616
       ],
       488,
       null,
@@ -1023,10 +1107,10 @@
       "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
       true,
       [
-        9034
+        9632
       ],
       [
-        9184
+        9782
       ],
       488,
       null,
@@ -1051,10 +1135,10 @@
       "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
       true,
       [
-        9200
+        9798
       ],
       [
-        9340
+        9938
       ],
       488,
       null,
@@ -1079,10 +1163,10 @@
       "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
       false,
       [
-        9356
+        9954
       ],
       [
-        9536
+        10134
       ],
       488,
       null,
@@ -1107,10 +1191,10 @@
       "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
       true,
       [
-        9552
+        10150
       ],
       [
-        9766
+        10364
       ],
       488,
       null,
@@ -1135,12 +1219,12 @@
       "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
       false,
       [
-        9782,
-        9898,
-        10014
+        10380,
+        10496,
+        10612
       ],
       [
-        10142
+        10740
       ],
       488,
       null,
@@ -1165,14 +1249,14 @@
       "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
       false,
       [
-        10158,
-        10302,
-        10446,
-        10590,
-        10734
+        10756,
+        10900,
+        11044,
+        11188,
+        11332
       ],
       [
-        10898
+        11496
       ],
       488,
       null,
@@ -1197,12 +1281,12 @@
       "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
       false,
       [
-        10914,
-        11034,
-        11154
+        11512,
+        11632,
+        11752
       ],
       [
-        11286
+        11884
       ],
       488,
       null,
@@ -1227,14 +1311,14 @@
       "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
       false,
       [
-        11302,
-        11462,
-        11622,
-        11782,
-        11942
+        11900,
+        12060,
+        12220,
+        12380,
+        12540
       ],
       [
-        12122
+        12720
       ],
       488,
       null,
@@ -1259,12 +1343,12 @@
       "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
       false,
       [
-        12138,
-        12310,
-        12482
+        12736,
+        12908,
+        13080
       ],
       [
-        12666
+        13264
       ],
       488,
       null,
@@ -1289,14 +1373,14 @@
       "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
       false,
       [
-        12682,
-        12862,
-        13042,
-        13222,
-        13402
+        13280,
+        13460,
+        13640,
+        13820,
+        14000
       ],
       [
-        13602
+        14200
       ],
       488,
       null,
@@ -1321,10 +1405,10 @@
       "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
       false,
       [
-        13618
+        14216
       ],
       [
-        13764
+        14362
       ],
       488,
       null,
@@ -1349,10 +1433,10 @@
       "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
       false,
       [
-        13780
+        14378
       ],
       [
-        13920
+        14518
       ],
       488,
       null,
@@ -1377,12 +1461,12 @@
       "\u0018\u0000\n\u0000\u0003\u0000Metadata/Effects/Spells/ground_effects/holy/ground_01.ao",
       false,
       [
-        13948,
-        14064,
-        14180
+        14546,
+        14662,
+        14778
       ],
       [
-        14308
+        14906
       ],
       488,
       null,
@@ -1407,14 +1491,14 @@
       "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
       false,
       [
-        14324,
-        14470,
-        14616,
-        14762,
-        14908
+        14922,
+        15068,
+        15214,
+        15360,
+        15506
       ],
       [
-        15074
+        15672
       ],
       488,
       null,
@@ -1439,17 +1523,17 @@
       "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
       false,
       [
-        15090,
-        15258,
-        15426,
-        15594,
-        15762
+        15688,
+        15856,
+        16024,
+        16192,
+        16360
       ],
       [
-        15950
+        16548
       ],
       488,
-      1220,
+      1221,
       null,
       null,
       null,
@@ -1471,10 +1555,10 @@
       "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
       false,
       [
-        15966
+        16564
       ],
       [
-        16072
+        16670
       ],
       488,
       null,
@@ -1499,14 +1583,14 @@
       "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
       false,
       [
-        16088,
-        16214,
-        16340,
-        16466,
-        16592
+        16686,
+        16812,
+        16938,
+        17064,
+        17190
       ],
       [
-        16738
+        17336
       ],
       488,
       null,
@@ -1531,13 +1615,13 @@
       "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
       false,
       [
-        16754
+        17352
       ],
       [
-        16876
+        17474
       ],
       488,
-      780,
+      781,
       null,
       null,
       null,
@@ -1559,17 +1643,17 @@
       "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
       false,
       [
-        16892,
-        17038,
-        17184,
-        17330,
-        17476
+        17490,
+        17636,
+        17782,
+        17928,
+        18074
       ],
       [
-        17642
+        18240
       ],
       488,
-      780,
+      781,
       null,
       null,
       null,
@@ -1591,13 +1675,13 @@
       "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
       false,
       [
-        17658
+        18256
       ],
       [
-        17818
+        18416
       ],
       488,
-      824,
+      825,
       null,
       null,
       null,
@@ -1619,10 +1703,10 @@
       "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
       false,
       [
-        17834
+        18432
       ],
       [
-        17992
+        18590
       ],
       488,
       null,
@@ -1647,24 +1731,24 @@
       "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
       false,
       [
-        18008,
-        18154,
-        18300,
-        18446,
-        18592,
-        18738,
-        18884,
-        19030,
-        19176,
-        19322,
-        19468,
-        19614
+        18606,
+        18752,
+        18898,
+        19044,
+        19190,
+        19336,
+        19482,
+        19628,
+        19774,
+        19920,
+        20066,
+        20212
       ],
       [
-        19808,
-        19820,
-        19836,
-        19852
+        20406,
+        20418,
+        20434,
+        20450
       ],
       488,
       null,
@@ -1689,15 +1773,15 @@
       "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
       false,
       [
-        19884,
-        20006,
-        20128
+        20482,
+        20604,
+        20726
       ],
       [
-        20262
+        20860
       ],
       488,
-      987,
+      988,
       null,
       null,
       null,
@@ -1719,10 +1803,10 @@
       "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
       true,
       [
-        20278
+        20876
       ],
       [
-        20418
+        21016
       ],
       488,
       null,
@@ -1747,12 +1831,12 @@
       "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
       true,
       [
-        20434
+        21032
       ],
       [
-        20564
+        21162
       ],
-      20592,
+      21190,
       null,
       null,
       null,
@@ -1775,9 +1859,9 @@
       "\u0004\u0000\u0002\u0000\u0001\u0000Metadata/Effects/Spells/ground_effects/caustic/caustic_01_fast.ao",
       true,
       [
-        20630,
-        20764,
-        20898
+        21228,
+        21362,
+        21496
       ],
       [],
       488,
@@ -1803,14 +1887,14 @@
       "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
       true,
       [
-        21044,
-        21212,
-        21380,
-        21548,
-        21716
+        21642,
+        21810,
+        21978,
+        22146,
+        22314
       ],
       [
-        21904
+        22502
       ],
       488,
       null,
@@ -1835,10 +1919,10 @@
       "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
       true,
       [
-        21920
+        22518
       ],
       [],
-      20592,
+      21190,
       null,
       null,
       null,
@@ -1861,10 +1945,10 @@
       "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
       true,
       [
-        22054
+        22652
       ],
       [
-        22238
+        22836
       ],
       488,
       null,
@@ -1889,10 +1973,10 @@
       "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
       true,
       [
-        22254
+        22852
       ],
       [
-        22414
+        23012
       ],
       488,
       null,
@@ -1917,11 +2001,11 @@
       "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
       true,
       [
-        22430,
-        22676,
-        22922,
-        23168,
-        23414
+        23028,
+        23274,
+        23520,
+        23766,
+        24012
       ],
       [],
       488,
@@ -1947,14 +2031,14 @@
       "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
       true,
       [
-        23680,
-        23876,
-        24072,
-        24268,
-        24464
+        24278,
+        24474,
+        24670,
+        24866,
+        25062
       ],
       [
-        24680
+        25278
       ],
       488,
       null,
@@ -1979,7 +2063,7 @@
       "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
       true,
       [
-        24696
+        25294
       ],
       [],
       488,
@@ -1996,7 +2080,7 @@
       2,
       9,
       2,
-      1361,
+      1362,
       false,
       false,
       17274,
@@ -2005,10 +2089,10 @@
       "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
       true,
       [
-        24912
+        25510
       ],
       [
-        25078
+        25676
       ],
       488,
       null,
@@ -2033,9 +2117,9 @@
       "\u0004\u0000\u0002\u0000\u0001\u0000Metadata/Effects/Spells/ground_effects/caustic/caustic_01_fast.ao",
       false,
       [
-        25094,
-        25238,
-        25382
+        25692,
+        25836,
+        25980
       ],
       [],
       488,
@@ -2061,9 +2145,9 @@
       "\u0004\u0000\u0002\u0000\u0001\u0000Metadata/Effects/Spells/ground_effects/caustic/caustic_01_fast.ao",
       false,
       [
-        25538,
-        25676,
-        25814
+        26136,
+        26274,
+        26412
       ],
       [],
       488,
@@ -2089,10 +2173,10 @@
       "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
       false,
       [
-        25964
+        26562
       ],
       [
-        26108
+        26706
       ],
       488,
       null,
@@ -2117,9 +2201,9 @@
       "\u0004\u0000\u0002\u0000\u0001\u0000Metadata/Effects/Spells/ground_effects/caustic/caustic_01_fast.ao",
       false,
       [
-        26124,
-        26272,
-        26420
+        26722,
+        26870,
+        27018
       ],
       [],
       488,
@@ -2145,10 +2229,10 @@
       "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
       false,
       [
-        26580
+        27178
       ],
       [
-        26756
+        27354
       ],
       488,
       null,
@@ -2173,10 +2257,10 @@
       "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
       true,
       [
-        26772
+        27370
       ],
       [
-        26964
+        27562
       ],
       488,
       null,
@@ -2201,10 +2285,10 @@
       "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
       true,
       [
-        26980
+        27578
       ],
       [
-        27186
+        27784
       ],
       488,
       null,
@@ -2229,10 +2313,10 @@
       "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
       true,
       [
-        27202
+        27800
       ],
       [
-        27406
+        28004
       ],
       488,
       null,
@@ -2257,10 +2341,10 @@
       "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
       true,
       [
-        27422
+        28020
       ],
       [
-        27562
+        28160
       ],
       488,
       null,
@@ -2285,10 +2369,10 @@
       "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
       false,
       [
-        27578
+        28176
       ],
       [
-        27698
+        28296
       ],
       488,
       null,
@@ -2313,10 +2397,10 @@
       "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
       false,
       [
-        27714
+        28312
       ],
       [
-        27850
+        28448
       ],
       488,
       null,
@@ -2341,12 +2425,12 @@
       "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
       false,
       [
-        27866
+        28464
       ],
       [
-        28040
+        28638
       ],
-      28074,
+      28672,
       null,
       null,
       null,
@@ -2369,12 +2453,12 @@
       "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
       false,
       [
-        28102
+        28700
       ],
       [
-        28274
+        28872
       ],
-      28306,
+      28904,
       null,
       null,
       null,
@@ -2397,10 +2481,10 @@
       "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
       false,
       [
-        28332
+        28930
       ],
       [
-        28482
+        29080
       ],
       488,
       null,
@@ -2425,12 +2509,12 @@
       "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
       true,
       [
-        28498,
-        28716,
-        28934
+        29096,
+        29314,
+        29532
       ],
       [
-        29164
+        29762
       ],
       488,
       null,
@@ -2455,14 +2539,14 @@
       "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
       true,
       [
-        29180,
-        29476,
-        29772,
-        30068,
-        30364
+        29778,
+        30074,
+        30370,
+        30666,
+        30962
       ],
       [
-        30680
+        31278
       ],
       488,
       null,
@@ -2487,10 +2571,10 @@
       "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
       false,
       [
-        30696
+        31294
       ],
       [
-        30838
+        31436
       ],
       488,
       null,
@@ -2515,10 +2599,10 @@
       "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
       false,
       [
-        30854
+        31452
       ],
       [
-        31004
+        31602
       ],
       488,
       null,
@@ -2543,10 +2627,10 @@
       "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
       false,
       [
-        31020
+        31618
       ],
       [
-        31152
+        31750
       ],
       488,
       null,
@@ -2571,10 +2655,10 @@
       "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
       false,
       [
-        31168
+        31766
       ],
       [
-        31400
+        31998
       ],
       488,
       null,
@@ -2599,10 +2683,10 @@
       "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
       false,
       [
-        31416
+        32014
       ],
       [
-        31536
+        32134
       ],
       488,
       null,
@@ -2627,14 +2711,14 @@
       "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
       false,
       [
-        31552
+        32150
       ],
       [
-        31720
+        32318
       ],
       488,
       null,
-      252,
+      253,
       null,
       null,
       null,
@@ -2655,14 +2739,14 @@
       "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
       false,
       [
-        31736
+        32334
       ],
       [
-        31904
+        32502
       ],
       488,
       null,
-      263,
+      264,
       null,
       null,
       null,
@@ -2683,14 +2767,182 @@
       "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
       false,
       [
-        31920
+        32518
       ],
       [
-        32042
+        32640
       ],
       488,
       null,
-      444,
+      443,
+      null,
+      null,
+      null,
+      false,
+      true,
+      false
+    ],
+    [
+      14,
+      6,
+      2,
+      null,
+      false,
+      false,
+      17249,
+      false,
+      false,
+      "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
+      false,
+      [
+        32656
+      ],
+      [
+        32822
+      ],
+      488,
+      null,
+      null,
+      null,
+      null,
+      null,
+      false,
+      true,
+      false
+    ],
+    [
+      14,
+      7,
+      2,
+      null,
+      false,
+      false,
+      17274,
+      false,
+      false,
+      "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
+      false,
+      [
+        32838
+      ],
+      [
+        32960
+      ],
+      488,
+      null,
+      null,
+      null,
+      null,
+      null,
+      false,
+      true,
+      false
+    ],
+    [
+      14,
+      8,
+      2,
+      null,
+      false,
+      false,
+      17274,
+      false,
+      false,
+      "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
+      false,
+      [
+        32976
+      ],
+      [
+        33144
+      ],
+      488,
+      null,
+      264,
+      null,
+      null,
+      null,
+      false,
+      true,
+      false
+    ],
+    [
+      14,
+      9,
+      2,
+      null,
+      false,
+      false,
+      17274,
+      false,
+      false,
+      "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
+      false,
+      [
+        33160
+      ],
+      [
+        33328
+      ],
+      488,
+      null,
+      264,
+      null,
+      null,
+      null,
+      false,
+      true,
+      false
+    ],
+    [
+      14,
+      10,
+      2,
+      null,
+      false,
+      false,
+      17274,
+      false,
+      false,
+      "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
+      false,
+      [
+        33344
+      ],
+      [
+        33512
+      ],
+      488,
+      null,
+      264,
+      null,
+      null,
+      null,
+      false,
+      true,
+      false
+    ],
+    [
+      14,
+      11,
+      2,
+      null,
+      false,
+      false,
+      17274,
+      false,
+      false,
+      "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
+      false,
+      [
+        33528
+      ],
+      [
+        33696
+      ],
+      488,
+      null,
+      264,
       null,
       null,
       null,
@@ -2711,7 +2963,7 @@
       "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
       false,
       [
-        32058
+        33712
       ],
       [],
       488,
@@ -2737,10 +2989,10 @@
       "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
       false,
       [
-        32234
+        33888
       ],
       [
-        32446
+        34100
       ],
       488,
       null,
@@ -2765,12 +3017,12 @@
       "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
       true,
       [
-        32462
+        34116
       ],
       [
-        32616
+        34270
       ],
-      32632,
+      34286,
       null,
       null,
       null,
@@ -2793,10 +3045,10 @@
       "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
       true,
       [
-        32642
+        34296
       ],
       [
-        32822
+        34476
       ],
       488,
       null,
@@ -2821,13 +3073,13 @@
       "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
       false,
       [
-        32838
+        34492
       ],
       [
-        33012
+        34666
       ],
       488,
-      1397,
+      1398,
       null,
       null,
       null,
@@ -2849,12 +3101,12 @@
       "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
       true,
       [
-        33028
+        34682
       ],
       [
-        33208
+        34862
       ],
-      32632,
+      34286,
       null,
       null,
       null,
@@ -2877,12 +3129,12 @@
       "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
       true,
       [
-        33224
+        34878
       ],
       [
-        33334
+        34988
       ],
-      32632,
+      34286,
       null,
       null,
       null,
@@ -2905,12 +3157,12 @@
       "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
       true,
       [
-        33350
+        35004
       ],
       [
-        33488
+        35142
       ],
-      32632,
+      34286,
       null,
       null,
       null,
@@ -2933,14 +3185,14 @@
       "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
       true,
       [
-        33504
+        35158
       ],
       [
-        33642
+        35296
       ],
-      32632,
+      34286,
       null,
-      102,
+      103,
       null,
       null,
       null,
@@ -2961,12 +3213,12 @@
       "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
       true,
       [
-        33658
+        35312
       ],
       [
-        33852
+        35506
       ],
-      32632,
+      34286,
       null,
       null,
       null,
@@ -2989,13 +3241,13 @@
       "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
       true,
       [
-        33868
+        35522
       ],
       [
-        34060
+        35714
       ],
       488,
-      863,
+      864,
       null,
       null,
       null,
@@ -3017,12 +3269,12 @@
       "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
       true,
       [
-        34076
+        35730
       ],
       [
-        34176
+        35830
       ],
-      32632,
+      34286,
       null,
       null,
       null,
@@ -3045,12 +3297,12 @@
       "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
       true,
       [
-        34192
+        35846
       ],
       [
-        34402
+        36056
       ],
-      32632,
+      34286,
       null,
       null,
       null,
@@ -3073,10 +3325,10 @@
       "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
       true,
       [
-        34418
+        36072
       ],
       [
-        34598
+        36252
       ],
       488,
       null,
@@ -3086,6 +3338,34 @@
       null,
       false,
       false,
+      false
+    ],
+    [
+      8,
+      8,
+      2,
+      1464,
+      false,
+      false,
+      17274,
+      false,
+      false,
+      "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
+      true,
+      [
+        36268
+      ],
+      [
+        36474
+      ],
+      488,
+      null,
+      null,
+      null,
+      null,
+      null,
+      false,
+      true,
       false
     ],
     [
@@ -3101,12 +3381,12 @@
       "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
       true,
       [
-        34614
+        36490
       ],
       [
-        34784
+        36660
       ],
-      32632,
+      34286,
       null,
       null,
       null,
@@ -3129,14 +3409,14 @@
       "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
       true,
       [
-        34800
+        36676
       ],
       [
-        35018
+        36894
       ],
       488,
       null,
-      394,
+      392,
       null,
       null,
       null,
@@ -3157,12 +3437,68 @@
       "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
       true,
       [
-        35034
+        36910
       ],
       [],
       488,
       null,
-      432,
+      429,
+      null,
+      null,
+      null,
+      false,
+      true,
+      false
+    ],
+    [
+      28,
+      0,
+      2,
+      null,
+      false,
+      false,
+      17274,
+      false,
+      false,
+      "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
+      true,
+      [
+        37076
+      ],
+      [
+        37216
+      ],
+      488,
+      null,
+      null,
+      null,
+      null,
+      null,
+      false,
+      true,
+      false
+    ],
+    [
+      29,
+      0,
+      2,
+      null,
+      false,
+      false,
+      17199,
+      false,
+      false,
+      "Metadata/Effects/Spells/ground_effects_v3/burning/burning_grd.ao",
+      false,
+      [
+        37232
+      ],
+      [
+        37418
+      ],
+      488,
+      null,
+      265,
       null,
       null,
       null,

@@ -155,7 +155,7 @@
   "data": [
     [
       "Metadata/Items/Currency/CurrencyJewelleryQualityElemental",
-      275,
+      277,
       334,
       64,
       0,
@@ -167,7 +167,7 @@
     ],
     [
       "Metadata/Items/Currency/CurrencyJewelleryQualityCaster",
-      276,
+      278,
       432,
       64,
       1,
@@ -179,7 +179,7 @@
     ],
     [
       "Metadata/Items/Currency/CurrencyJewelleryQualityAttack",
-      277,
+      279,
       530,
       64,
       2,
@@ -191,7 +191,7 @@
     ],
     [
       "Metadata/Items/Currency/CurrencyJewelleryQualityDefense",
-      273,
+      275,
       202,
       172,
       3,
@@ -203,7 +203,7 @@
     ],
     [
       "Metadata/Items/Currency/CurrencyJewelleryQualityResource",
-      274,
+      276,
       300,
       172,
       4,
@@ -215,7 +215,7 @@
     ],
     [
       "Metadata/Items/Currency/CurrencyJewelleryQualityResistance",
-      278,
+      280,
       563,
       172,
       5,
@@ -227,7 +227,7 @@
     ],
     [
       "Metadata/Items/Currency/CurrencyJewelleryQualityAttribute",
-      279,
+      281,
       659,
       172,
       6,
@@ -251,7 +251,7 @@
     ],
     [
       "Metadata/Items/Metamorphosis/MetamorphosisBrain",
-      7026,
+      7218,
       -199,
       0,
       9,
@@ -263,7 +263,7 @@
     ],
     [
       "Metadata/Items/Metamorphosis/MetamorphosisEye",
-      7027,
+      7219,
       -100,
       0,
       19,
@@ -275,7 +275,7 @@
     ],
     [
       "Metadata/Items/Metamorphosis/MetamorphosisLiver",
-      7028,
+      7220,
       198,
       0,
       29,
@@ -287,7 +287,7 @@
     ],
     [
       "Metadata/Items/Metamorphosis/MetamorphosisLung",
-      7029,
+      7221,
       -1,
       0,
       39,
@@ -299,7 +299,7 @@
     ],
     [
       "Metadata/Items/Metamorphosis/MetamorphosisHeart",
-      7030,
+      7222,
       98,
       0,
       49,

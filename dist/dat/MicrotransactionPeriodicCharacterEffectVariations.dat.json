@@ -426,17 +426,17 @@
     [
       "VanguardDemon",
       "Metadata/Effects/Microtransactions/Aura/VanguardDemon/VanguardDemon.ao",
-      248
+      249
     ],
     [
       "PitfighterDemon",
       "Metadata/Effects/Microtransactions/Aura/PitfighterDemon/PitfighterDemon.ao",
-      249
+      250
     ],
     [
       "EmpyreanDemon",
       "Metadata/Effects/Microtransactions/Aura/EmpyreanDemon/EmpyreanDemon.ao",
-      250
+      251
     ],
     [
       "ArcticCrystalDemon",
@@ -446,12 +446,12 @@
     [
       "AssassinDemon",
       "Metadata/Effects/Microtransactions/Aura/AssassinDemon/AssassinDemon.ao",
-      247
+      248
     ],
     [
       "CrucibleDemon",
       "Metadata/Effects/Microtransactions/Aura/CrucibleDemon/CrucibleDemon.ao",
-      246
+      247
     ],
     [
       "PurpleCrystalDemon",
@@ -461,7 +461,7 @@
     [
       "LostSoulsApparitionEffect",
       "Metadata/Effects/Microtransactions/Aura/LostSouls/rig.ao",
-      266
+      268
     ],
     [
       "DragonApparitionEffect",
@@ -481,32 +481,32 @@
     [
       "JudicatorGauntletApparitionEffect",
       "Metadata/Effects/Microtransactions/Aura/Judicator/Judicator.ao",
-      344
+      346
     ],
     [
       "CrusaderApparitionEffect",
       "Metadata/Effects/Microtransactions/Aura/CrusaderApp/CrusaderApparition.ao",
-      341
+      343
     ],
     [
       "BasiliskApparitionEffect",
       "Metadata/Effects/Microtransactions/Aura/BasiliskDemon/BasiliskDemon.ao",
-      342
+      344
     ],
     [
       "EyrieApparitionEffect",
       "Metadata/Effects/Microtransactions/Aura/EyrieDemon/EyrieApparition.ao",
-      323
+      325
     ],
     [
       "OrionApparitionEffect",
       "Metadata/Effects/Microtransactions/Aura/OrionDemon/OrionDemon.ao",
-      340
+      342
     ],
     [
       "JudicatorApparitionEffect",
       "Metadata/Effects/Microtransactions/Aura/JudicatorDemon/JudicatorDemon.ao",
-      343
+      345
     ],
     [
       "DragonHunterApparitionEffect",
@@ -870,7 +870,7 @@
     ],
     [
       "GoddessApparitionEffect",
-      "",
+      "Metadata/Effects/Microtransactions/Aura/TencentGoddess/TencentGoddess.ao",
       null
     ]
   ]

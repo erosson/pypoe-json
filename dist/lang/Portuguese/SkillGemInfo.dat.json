@@ -238,7 +238,7 @@
     ],
     [
       "MagmaOrb&Combustion",
-      "Combustão não apenas concede chance de incendiar, que causa dano de fogo degenerativo, mas também diretamente aumenta o DPS do Orbe de Magma ao conceder mais dano de fogo e reduzir a resistência a fogo dos inimigos incendiados.",
+      "Dá à Bola de Magma mais dano de fogo, chance adicional de incendiar os inimigos e reduz a resistência a fogo do inimigo incendiado. Isso o torna um suporte muito bom para qualquer habilidade baseada em fogo.",
       "http://web.poecdn.com/public/videos/MagmaOrb/MagmaOrb+Combustion.bk2",
       109,
       "http://down.qq.com/poe/videos/skills/MagmaOrb/MagmaOrb+Combustion.bk2",
@@ -251,7 +251,7 @@
     ],
     [
       "MagmaOrb&LMP",
-      "Ao aumentar a quantidade de projéteis, Orbe de Magma agora é capaz de cobrir uma área maior permitindo que multiplos orbes flamejantes rapidamente limpem vários grupos simultaneamente.",
+      "Aumenta a quantidade de projéteis conjurados pela Bola de magma, permitindo que ela atinja mais alvos por vez.\n\nEm níveis maiores, obtenha a gema de suporte Projéteis Múltiplos Maior para acertar inimigos em uma área maior.",
       "http://web.poecdn.com/public/videos/MagmaOrb/MagmaOrb+LesserMultipleProjections.bk2 ",
       36,
       "http://down.qq.com/poe/videos/skills/MagmaOrb/MagmaOrb+LMP.bk2",
@@ -265,7 +265,7 @@
     ],
     [
       "MagmaOrb&FirePenetration",
-      "Já que Orbe de Magma causa dano de fogo, Penetração de Fogo aumenta o dano que os inimigos recebem ao serem acertados pelo Orbe de Magma ao reduzir sua resistência a fogo.",
+      "Reduz a resistência a fogo dos inimigos, fazendo com que sofram mais dano de fogo da Bola de Magma.",
       "http://web.poecdn.com/public/videos/MagmaOrb/MagmaOrb+FirePenetration.bk2 ",
       172,
       "http://down.qq.com/poe/videos/skills/MagmaOrb/MagmaOrb+FirePenetration.bk2",
@@ -273,7 +273,7 @@
     ],
     [
       "MagmaOrb&SpellEcho",
-      "Eco Mágico faz com que as habilidades se repitam ao serem conjuradas assim como aumenta a velocidade de conjuração da habilidade suportada. Isso adiciona DPS à habilidade diretamente aumentando a velocidade com a qual a magia é conjurada.",
+      "Repete a Bola de Magma uma vez mais enquanto também aumenta bastantante a velocidade de conjuração.",
       "http://web.poecdn.com/public/videos/MagmaOrb/MagmaOrb+SpellEcho.bk2 ",
       188,
       "http://down.qq.com/poe/videos/skills/MagmaOrb/MagmaOrb+SpellEcho.bk2",
@@ -281,7 +281,7 @@
     ],
     [
       "MagmaOrb&SlowerProjectiles",
-      "Projéteis Lentos aumenta o dano e reduz a distância entre cada corrente de Orbes de Magma, permitindo que um orbe acerte um grupo várias vezes, aumentando o dano causado aos monstros do grupo.",
+      "Aumenta o dano da Bola de Magma e reduz a distância entre cada sequência, permitindo que uma orbe acerte um grupo de monstros várias vezes.",
       "http://web.poecdn.com/public/videos/MagmaOrb/MagmaOrb+SlowerProjectiles.bk2 ",
       209,
       "http://down.qq.com/poe/videos/skills/MagmaOrb/MagmaOrb+SlowerProjectiles.bk2",
@@ -289,7 +289,7 @@
     ],
     [
       "MagmaOrb&Empower",
-      "Potencializar aumenta o nível das gemas suportadas, isso aumenta diretamente o DPS do Orbe de Magma ao aumentar o nível da habilidade, o que aumenta o dano de fogo e a quantidade de vezes que o Orbe de Magma ricocheteia.",
+      "Aumenta o nível da gema Bola de Magma concedendo dano de fogo base adicional e potencialmente permitindo que ela  ricocheteie por vezes adicionais. Esta é uma gema que só pode ser derrubada e muito rara. Nivelar esta gema de suporte demora bastante, fazendo com que ela não seja muito útil no início.",
       "http://web.poecdn.com/public/videos/MagmaOrb/MagmaOrb+Empower.bk2 ",
       200,
       "http://down.qq.com/poe/videos/skills/MagmaOrb/MagmaOrb+Empower.bk2",
@@ -1552,7 +1552,7 @@
     ],
     [
       "MagmaOrb&FasterCast",
-      "Aumenta a velocidade de conjuração do seu Orbe de Magma, permitindo que os projéteis sejam conjurados com mais frequência.",
+      "Aumenta a velocidade de conjuração da Bola de Magma, permitindo que os projéteis sejam conjurados com mais frequência.",
       "http://web.poecdn.com/public/videos/MagmaOrb/MagmaOrb+FasterCast.bk2",
       85,
       "http://down.qq.com/poe/videos/skills/MagmaOrb/MagmaOrb+FasterCasting.bk2",
@@ -1955,6 +1955,58 @@
       "http://web.poecdn.com/public/videos/EKineticBolt/EKineticBoltInspiration.bk2",
       55,
       "http://down.qq.com/poe/videos/tutorial/TKineticBoltInspiration.bk2",
+      []
+    ],
+    [
+      "SplittingSteel&Impale",
+      "Causa mais dano físico e Empala os inimigos, causando dano adicional aos inimigos com acertos adicionais. Você pode empalar inimigos até cinco vezes para causar ainda mais dano adicional à eles.",
+      "http://web.poecdn.com/public/videos/ShatteringSteel/ESplitImpale.bk2",
+      406,
+      "http://down.qq.com/poe/videos/tutorial/TSplitBrutal.bk2",
+      []
+    ],
+    [
+      "SplittingSteel&Brutality",
+      "Faz com que Aço Violento cause muito mais dano físico, mas nenhum dano elemental.\n\nTente não pegar nenhum dano de raio, fogo, gelo ou caos com esta gema de suporte, já que serão reduzidos a zero.",
+      "http://web.poecdn.com/public/videos/ShatteringSteel/ESplitBrutality.bk2",
+      334,
+      "http://down.qq.com/poe/videos/tutorial/TSplitImpale.bk2",
+      []
+    ],
+    [
+      "SplittingSteel&LMP",
+      "Aumenta o número de fragmentos que explodem do Aço Violento quando você lança um Fragmento de Aço, acertando mais inimigos.\n\nObtenha a gema de suporte Projéteis Múltiplos Maior em níveis maiores para atirar mais projéteis e acertar grupos maiores de inimigos.",
+      "http://web.poecdn.com/public/videos/ShatteringSteel/ESplitMultiProj.bk2",
+      36,
+      "http://down.qq.com/poe/videos/tutorial/TSplitMultiProj.bk2",
+      [
+        4
+      ]
+    ],
+    [
+      "SplittingSteel&ViciousProjectiles",
+      "Aumenta bastante o dano físico causado pelo Aço Violento, ao custo de reduzir levemente sua velocidade de ataque. Uma forma valiosa de aumentar seu dano.",
+      "http://web.poecdn.com/public/videos/ShatteringSteel/ESplitViciousProj.bk2",
+      230,
+      "http://down.qq.com/poe/videos/tutorial/TSplitViciousProj.bk2",
+      []
+    ],
+    [
+      "SplittingSteel&Maim",
+      "Suporte Aço Violento com esta gema para Mutilar inimigos, causando mais dano físico e reduzindo sua velocidade de movimento. Retarde os monstros para fazer com que sejam mais fáceis de ser evitados.",
+      "http://web.poecdn.com/public/videos/ShatteringSteel/ESplitMaim.bk2",
+      331,
+      "http://down.qq.com/poe/videos/tutorial/TSplitMaim.bk2",
+      [
+        4
+      ]
+    ],
+    [
+      "SplittingSteel&SlowerProjectiles",
+      "Reduza seus tiros de Aço Villento fazendo com que eles batam mais com maior dano. Os projéteis que explodem dos fragmentos do Chamado do Aço são mais lentos, e causam mais dano.",
+      "http://web.poecdn.com/public/videos/ShatteringSteel/ESplitSlowerProj.bk2",
+      209,
+      "http://down.qq.com/poe/videos/tutorial/TSplitSlowerProj.bk2",
       []
     ]
   ]

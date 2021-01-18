@@ -226,7 +226,7 @@
         24,
         29
       ],
-      "화염 기반의 범위 피해 투사체 주문입니다. 적들에게 화염 피해를 주고, 높은 확률로 점화시켜 지속 화염 피해를 줍니다. ",
+      "화염 기반의 범위 피해 투사체 주문입니다. 적들에게 화염 피해를 주고, 높은 확률로 점화시켜 지속 화염 피해를 줍니다.",
       "http://web.poecdn.com/public/videos/Fireball/FireballMainDemo.bk2",
       0,
       "http://down.qq.com/poe/videos/skills/Fireball/FireballFullDemo.bk2",
@@ -523,7 +523,7 @@
         104,
         103
       ],
-      "원호 형태로 피해를 주는 광역 근접 공격입니다. 쌍수 무기를 사용할 경우 회전베기는 양쪽의 무기를 모두 사용하게 됩니다. ",
+      "원호 형태로 피해를 주는 광역 근접 공격입니다. 쌍수 무기를 사용할 경우 회전베기는 양쪽의 무기를 모두 사용하게 됩니다.",
       "http://web.poecdn.com/public/videos/Cleave/CleaveFullDemo.bk2",
       15,
       "http://down.qq.com/poe/videos/skills/Cleave/CleaveMainDemo.bk2",
@@ -593,7 +593,7 @@
         132,
         134
       ],
-      "목표 지점이나 주변의 적에게 번개를 떨어트려 범위 피해를 주는 근접 공격입니다. 징벌은 또한 명중 시, 짧은 시간 동안 플레이어와 동료들에게 번개 피해를 추가해주는 오라를 부여합니다. ",
+      "목표 지점이나 주변의 적에게 번개를 떨어트려 범위 피해를 주는 근접 공격입니다. 징벌은 또한 명중 시, 짧은 시간 동안 플레이어와 동료들에게 번개 피해를 추가해주는 오라를 부여합니다.",
       "http://web.poecdn.com/public/videos/Smite/SmiteFullDemo.bk2",
       363,
       "http://down.qq.com/poe/videos/skills/Smite/SmiteFullDemo.bk2",
@@ -798,6 +798,26 @@
       "http://down.qq.com/poe/videos/tutorial/TKineticBoltIntro.bk2",
       [
         1
+      ]
+    ],
+    [
+      "SplittingSteel",
+      [
+        193,
+        194,
+        195
+      ],
+      [
+        196,
+        197,
+        198
+      ],
+      "무기에서 분할되는 강철 화살을 발사합니다. 화살은 충격 시에 폭발하며 범위 내에 피해를 줍니다. 이 젬의 강철의 부름 스킬을 사용해서 만든 강철 조각을 강철 분할로 발사하면, 폭발하며 여러 개의 조각으로 분할되어 주변의 적들에게 피해를 줍니다.",
+      "http://web.poecdn.com/public/videos/ShatteringSteel/ESplitIntro.bk2",
+      493,
+      "http://down.qq.com/poe/videos/tutorial/TSplitIntro.bk2",
+      [
+        4
       ]
     ]
   ]

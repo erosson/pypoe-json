@@ -186,7 +186,7 @@
       0,
       [],
       [
-        2109
+        2110
       ],
       0,
       true,
@@ -198,7 +198,7 @@
       "DamagePerUse",
       "Damage per Use",
       [
-        2009
+        2010
       ],
       0,
       [],
@@ -217,10 +217,11 @@
       ],
       1,
       [
-        7697
+        7696
       ],
       [
-        1640
+        435,
+        1641
       ],
       0,
       true,
@@ -230,14 +231,15 @@
       "MH_HitChanceEvasive",
       "Main Hand Chance to Hit Evasive Monsters",
       [
-        9444
+        9437
       ],
       1,
       [
-        7697
+        7696
       ],
       [
-        1640
+        435,
+        1641
       ],
       0,
       true,
@@ -251,10 +253,11 @@
       ],
       1,
       [
-        7698
+        7697
       ],
       [
-        1640
+        435,
+        1641
       ],
       0,
       true,
@@ -264,14 +267,15 @@
       "OH_HitChanceEvasive",
       "Off Hand Chance to Hit Evasive Monsters",
       [
-        9445
+        9438
       ],
       1,
       [
-        7698
+        7697
       ],
       [
-        1640
+        435,
+        1641
       ],
       0,
       true,
@@ -286,8 +290,9 @@
       0,
       [],
       [
-        1640,
-        8190
+        435,
+        1641,
+        8187
       ],
       0,
       true,
@@ -302,10 +307,12 @@
         679
       ],
       0,
-      [],
       [
-        1640,
-        8190
+        435
+      ],
+      [
+        1641,
+        8187
       ],
       0,
       true,
@@ -322,11 +329,11 @@
       ],
       2,
       [
-        7697
+        7696
       ],
       [
         435,
-        1640
+        1641
       ],
       0,
       true,
@@ -341,11 +348,11 @@
       ],
       2,
       [
-        7697
+        7696
       ],
       [
         435,
-        1640
+        1641
       ],
       0,
       true,
@@ -360,11 +367,11 @@
       ],
       2,
       [
-        7697
+        7696
       ],
       [
         435,
-        1640
+        1641
       ],
       0,
       true,
@@ -379,11 +386,11 @@
       ],
       2,
       [
-        7697
+        7696
       ],
       [
         435,
-        1640
+        1641
       ],
       0,
       true,
@@ -398,11 +405,11 @@
       ],
       2,
       [
-        7697
+        7696
       ],
       [
         435,
-        1640
+        1641
       ],
       0,
       true,
@@ -417,11 +424,11 @@
       ],
       2,
       [
-        7697
+        7696
       ],
       [
         435,
-        1640
+        1641
       ],
       0,
       true,
@@ -435,11 +442,11 @@
       ],
       0,
       [
-        7697
+        7696
       ],
       [
         435,
-        1640
+        1641
       ],
       0,
       true,
@@ -453,11 +460,11 @@
       ],
       7,
       [
-        7697
+        7696
       ],
       [
         435,
-        1640
+        1641
       ],
       0,
       true,
@@ -471,11 +478,11 @@
       ],
       1,
       [
-        7697
+        7696
       ],
       [
         435,
-        1640
+        1641
       ],
       0,
       true,
@@ -491,12 +498,12 @@
       ],
       1,
       [
-        7697,
+        7696,
         549
       ],
       [
         435,
-        1640
+        1641
       ],
       0,
       true,
@@ -510,11 +517,11 @@
       ],
       1,
       [
-        7697
+        7696
       ],
       [
         435,
-        1640
+        1641
       ],
       0,
       true,
@@ -528,12 +535,12 @@
       ],
       1,
       [
-        7697
+        7696
       ],
       [
         435,
-        1640,
-        2661
+        1641,
+        2663
       ],
       0,
       true,
@@ -547,12 +554,12 @@
       ],
       4,
       [
-        7697
+        7696
       ],
       [
         435,
-        1640,
-        2661
+        1641,
+        2663
       ],
       0,
       true,
@@ -566,11 +573,11 @@
       ],
       1,
       [
-        7697
+        7696
       ],
       [
         435,
-        1640
+        1641
       ],
       0,
       true,
@@ -584,11 +591,11 @@
       ],
       1,
       [
-        7697
+        7696
       ],
       [
         435,
-        1640
+        1641
       ],
       0,
       true,
@@ -602,11 +609,11 @@
       ],
       1,
       [
-        7697
+        7696
       ],
       [
         435,
-        1640
+        1641
       ],
       0,
       true,
@@ -621,11 +628,11 @@
       ],
       2,
       [
-        7698
+        7697
       ],
       [
         435,
-        1640
+        1641
       ],
       0,
       true,
@@ -640,11 +647,11 @@
       ],
       2,
       [
-        7698
+        7697
       ],
       [
         435,
-        1640
+        1641
       ],
       0,
       true,
@@ -659,11 +666,11 @@
       ],
       2,
       [
-        7698
+        7697
       ],
       [
         435,
-        1640
+        1641
       ],
       0,
       true,
@@ -678,11 +685,11 @@
       ],
       2,
       [
-        7698
+        7697
       ],
       [
         435,
-        1640
+        1641
       ],
       0,
       true,
@@ -697,11 +704,11 @@
       ],
       2,
       [
-        7698
+        7697
       ],
       [
         435,
-        1640
+        1641
       ],
       0,
       true,
@@ -716,11 +723,11 @@
       ],
       2,
       [
-        7698
+        7697
       ],
       [
         435,
-        1640
+        1641
       ],
       0,
       true,
@@ -734,11 +741,11 @@
       ],
       0,
       [
-        7698
+        7697
       ],
       [
         435,
-        1640
+        1641
       ],
       0,
       true,
@@ -752,11 +759,11 @@
       ],
       7,
       [
-        7698
+        7697
       ],
       [
         435,
-        1640
+        1641
       ],
       0,
       true,
@@ -770,11 +777,11 @@
       ],
       1,
       [
-        7698
+        7697
       ],
       [
         435,
-        1640
+        1641
       ],
       0,
       true,
@@ -790,12 +797,12 @@
       ],
       1,
       [
-        7698,
+        7697,
         550
       ],
       [
         435,
-        1640
+        1641
       ],
       0,
       true,
@@ -809,11 +816,11 @@
       ],
       1,
       [
-        7698
+        7697
       ],
       [
         435,
-        1640
+        1641
       ],
       0,
       true,
@@ -827,12 +834,12 @@
       ],
       1,
       [
-        7698
+        7697
       ],
       [
         435,
-        1640,
-        2661
+        1641,
+        2663
       ],
       0,
       true,
@@ -846,12 +853,12 @@
       ],
       4,
       [
-        7698
+        7697
       ],
       [
         435,
-        1640,
-        2661
+        1641,
+        2663
       ],
       0,
       true,
@@ -865,11 +872,11 @@
       ],
       1,
       [
-        7698
+        7697
       ],
       [
         435,
-        1640
+        1641
       ],
       0,
       true,
@@ -883,11 +890,11 @@
       ],
       1,
       [
-        7698
+        7697
       ],
       [
         435,
-        1640
+        1641
       ],
       0,
       true,
@@ -901,11 +908,11 @@
       ],
       1,
       [
-        7698
+        7697
       ],
       [
         435,
-        1640
+        1641
       ],
       0,
       true,
@@ -923,7 +930,7 @@
         435
       ],
       [
-        1640
+        1641
       ],
       0,
       true,
@@ -941,7 +948,7 @@
         435
       ],
       [
-        1640
+        1641
       ],
       0,
       true,
@@ -959,7 +966,7 @@
         435
       ],
       [
-        1640
+        1641
       ],
       0,
       true,
@@ -977,7 +984,7 @@
         435
       ],
       [
-        1640
+        1641
       ],
       0,
       true,
@@ -995,7 +1002,7 @@
         435
       ],
       [
-        1640
+        1641
       ],
       0,
       true,
@@ -1013,7 +1020,7 @@
         435
       ],
       [
-        1640
+        1641
       ],
       0,
       true,
@@ -1030,7 +1037,7 @@
         435
       ],
       [
-        8190
+        8187
       ],
       0,
       true,
@@ -1047,7 +1054,7 @@
         435
       ],
       [
-        1640
+        1641
       ],
       0,
       true,
@@ -1067,7 +1074,7 @@
         551
       ],
       [
-        1640
+        1641
       ],
       0,
       true,
@@ -1077,7 +1084,7 @@
       "Spell_BlockReduce",
       "Enemy Block reduction",
       [
-        2284
+        2285
       ],
       1,
       [
@@ -1092,12 +1099,12 @@
       "Secondary_TotalDamage",
       "Total Combined Damage",
       [
-        1641,
-        1642
+        1642,
+        1643
       ],
       2,
       [
-        1640
+        1641
       ],
       [],
       0,
@@ -1113,7 +1120,7 @@
       ],
       2,
       [
-        1640
+        1641
       ],
       [],
       0,
@@ -1129,7 +1136,7 @@
       ],
       2,
       [
-        1640
+        1641
       ],
       [],
       0,
@@ -1145,7 +1152,7 @@
       ],
       2,
       [
-        1640
+        1641
       ],
       [],
       0,
@@ -1161,7 +1168,7 @@
       ],
       2,
       [
-        1640
+        1641
       ],
       [],
       0,
@@ -1177,7 +1184,7 @@
       ],
       2,
       [
-        1640
+        1641
       ],
       [],
       0,
@@ -1192,7 +1199,7 @@
       ],
       1,
       [
-        1640
+        1641
       ],
       [],
       0,
@@ -1209,7 +1216,7 @@
       ],
       1,
       [
-        1640,
+        1641,
         716
       ],
       [],
@@ -1236,14 +1243,14 @@
       "Knockback",
       "Chance to Knockback",
       [
-        2333
+        2335
       ],
       1,
       [
         435
       ],
       [
-        2661
+        2663
       ],
       0,
       true,
@@ -1260,7 +1267,7 @@
         435
       ],
       [
-        2661
+        2663
       ],
       0,
       true,
@@ -1270,12 +1277,12 @@
       "KnockbackDistance",
       "Knockback distance modifier",
       [
-        12215
+        12194
       ],
       7,
       [],
       [
-        2661
+        2663
       ],
       0,
       true,
@@ -1345,16 +1352,16 @@
       "MH_BleedingChance",
       "Chance to inflict Bleeding from Main Hand hits",
       [
-        6523
+        6522
       ],
       1,
       [
-        7697
+        7696
       ],
       [
         435,
-        2699,
-        1640
+        2701,
+        1641
       ],
       0,
       true,
@@ -1364,16 +1371,16 @@
       "OH_BleedingChance",
       "Chance to inflict Bleeding from Off Hand hits",
       [
-        6524
+        6523
       ],
       1,
       [
-        7698
+        7697
       ],
       [
         435,
-        2699,
-        1640
+        2701,
+        1641
       ],
       0,
       true,
@@ -1383,16 +1390,16 @@
       "MH_BleedingDamage",
       "Bleeding Damage per second from Main Hand hits",
       [
-        10276,
-        10277
+        10259,
+        10260
       ],
       2,
       [
-        7697
+        7696
       ],
       [
         435,
-        1640
+        1641
       ],
       0,
       true,
@@ -1405,16 +1412,16 @@
       "MH_BleedingCritDamage",
       "Bleeding Damage per second from Main Hand Critical Strikes",
       [
-        10272,
-        10273
+        10255,
+        10256
       ],
       2,
       [
-        7697
+        7696
       ],
       [
         435,
-        1640
+        1641
       ],
       0,
       true,
@@ -1427,16 +1434,16 @@
       "OH_BleedingDamage",
       "Bleeding Damage per second from Off Hand hits",
       [
-        10278,
-        10279
+        10261,
+        10262
       ],
       2,
       [
-        7698
+        7697
       ],
       [
         435,
-        1640
+        1641
       ],
       0,
       true,
@@ -1449,16 +1456,16 @@
       "OH_BleedingCritDamage",
       "Bleeding Damage per second from Off Hand Critical Strikes",
       [
-        10274,
-        10275
+        10257,
+        10258
       ],
       2,
       [
-        7698
+        7697
       ],
       [
         435,
-        1640
+        1641
       ],
       0,
       true,
@@ -1471,17 +1478,17 @@
       "MH_ChanceToIgnite",
       "Chance to Ignite from Main Hand hits",
       [
-        6525
+        6524
       ],
       1,
       [
-        7697
+        7696
       ],
       [
         435,
-        2771,
-        10982,
-        1640
+        2772,
+        10964,
+        1641
       ],
       0,
       true,
@@ -1491,17 +1498,17 @@
       "OH_ChanceToIgnite",
       "Chance to Ignite from Off Hand hits",
       [
-        6526
+        6525
       ],
       1,
       [
-        7698
+        7697
       ],
       [
         435,
-        2771,
-        10982,
-        1640
+        2772,
+        10964,
+        1641
       ],
       0,
       true,
@@ -1511,16 +1518,16 @@
       "Spell_ChanceToIgnite",
       "Chance to Ignite",
       [
-        6527
+        6526
       ],
       1,
       [
         435
       ],
       [
-        1640,
-        2771,
-        10982
+        1641,
+        2772,
+        10964
       ],
       0,
       true,
@@ -1530,15 +1537,15 @@
       "Secondary_ChanceToIgnite",
       "Chance to Ignite",
       [
-        6528
+        6527
       ],
       1,
       [
-        1640
+        1641
       ],
       [
-        2771,
-        10982
+        2772,
+        10964
       ],
       0,
       true,
@@ -1553,11 +1560,11 @@
       ],
       2,
       [
-        7697
+        7696
       ],
       [
         435,
-        1640
+        1641
       ],
       0,
       true,
@@ -1570,16 +1577,16 @@
       "MH_IgniteCritDamage",
       "Ignite Damage per second from Main Hand Critical Strikes",
       [
-        10280,
-        10281
+        10263,
+        10264
       ],
       2,
       [
-        7697
+        7696
       ],
       [
         435,
-        1640
+        1641
       ],
       0,
       true,
@@ -1597,11 +1604,11 @@
       ],
       2,
       [
-        7698
+        7697
       ],
       [
         435,
-        1640
+        1641
       ],
       0,
       true,
@@ -1614,16 +1621,16 @@
       "OH_IgniteCritDamage",
       "Ignite Damage per second from Off Hand Critical Strikes",
       [
-        10282,
-        10283
+        10265,
+        10266
       ],
       2,
       [
-        7698
+        7697
       ],
       [
         435,
-        1640
+        1641
       ],
       0,
       true,
@@ -1644,7 +1651,7 @@
         435
       ],
       [
-        1640
+        1641
       ],
       0,
       true,
@@ -1657,15 +1664,15 @@
       "Spell_IgniteCritDamage",
       "Ignite Damage per second from Critical Strikes",
       [
-        10284,
-        10285
+        10267,
+        10268
       ],
       2,
       [
         435
       ],
       [
-        1640
+        1641
       ],
       0,
       true,
@@ -1683,7 +1690,7 @@
       ],
       2,
       [
-        1640
+        1641
       ],
       [],
       0,
@@ -1697,12 +1704,12 @@
       "Secondary_IgniteCritDamage",
       "Ignite Damage per second from Critical Strikes",
       [
-        10286,
-        10287
+        10269,
+        10270
       ],
       2,
       [
-        1640
+        1641
       ],
       [],
       0,
@@ -1716,7 +1723,7 @@
       "IgniteDuration",
       "Ignite Duration modifier",
       [
-        2670
+        2672
       ],
       7,
       [],
@@ -1729,12 +1736,12 @@
       "ScorchChance",
       "Chance to Scorch",
       [
-        8718
+        8714
       ],
       1,
       [],
       [
-        2771
+        2772
       ],
       0,
       true,
@@ -1744,11 +1751,11 @@
       "ScorchDuration",
       "Scorch Duration modifier",
       [
-        8824
+        8819
       ],
       7,
       [
-        8718
+        8714
       ],
       [],
       0,
@@ -1759,11 +1766,11 @@
       "ScorchEffectiveness",
       "Scorch Effectiveness",
       [
-        8825
+        8820
       ],
       7,
       [
-        8718
+        8714
       ],
       [],
       0,
@@ -1774,7 +1781,7 @@
       "ChillDuration",
       "Chill Duration modifier",
       [
-        2673
+        2675
       ],
       7,
       [],
@@ -1787,7 +1794,7 @@
       "ChillEffectiveness",
       "Chill Effectiveness",
       [
-        6592
+        6591
       ],
       7,
       [],
@@ -1800,13 +1807,13 @@
       "ChanceToFreeze",
       "Chance to Freeze",
       [
-        1890
+        1891
       ],
       1,
       [],
       [
-        2771,
-        8722
+        2772,
+        8718
       ],
       0,
       true,
@@ -1816,7 +1823,7 @@
       "FreezeDuration",
       "Freeze Duration modifier",
       [
-        2672
+        2674
       ],
       7,
       [],
@@ -1829,12 +1836,12 @@
       "BrittleChance",
       "Chance to inflict Brittle",
       [
-        8719
+        8715
       ],
       1,
       [],
       [
-        2771
+        2772
       ],
       0,
       true,
@@ -1844,11 +1851,11 @@
       "BrittleDuration",
       "Brittle Duration modifier",
       [
-        8826
+        8821
       ],
       7,
       [
-        8719
+        8715
       ],
       [],
       0,
@@ -1859,11 +1866,11 @@
       "BrittleEffectiveness",
       "Brittle Effectiveness",
       [
-        8827
+        8822
       ],
       7,
       [
-        8719
+        8715
       ],
       [],
       0,
@@ -1874,12 +1881,12 @@
       "ChanceToShock",
       "Chance to Shock",
       [
-        1889
+        1890
       ],
       1,
       [],
       [
-        2771,
+        2772,
         1329
       ],
       0,
@@ -1890,7 +1897,7 @@
       "ShockDuration",
       "Shock Duration modifier",
       [
-        2671
+        2673
       ],
       7,
       [],
@@ -1903,7 +1910,7 @@
       "ShockEffectiveness",
       "Shock Effectiveness",
       [
-        6591
+        6590
       ],
       7,
       [],
@@ -1916,12 +1923,12 @@
       "SappedChance",
       "Chance to Sap",
       [
-        8720
+        8716
       ],
       1,
       [],
       [
-        2771
+        2772
       ],
       0,
       true,
@@ -1931,11 +1938,11 @@
       "SappedDuration",
       "Sapped Duration",
       [
-        8828
+        8823
       ],
       7,
       [
-        8720
+        8716
       ],
       [],
       0,
@@ -1946,11 +1953,11 @@
       "SappedEffectiveness",
       "Sapped Effectiveness",
       [
-        8829
+        8824
       ],
       7,
       [
-        8720
+        8716
       ],
       [],
       0,
@@ -1960,6 +1967,23 @@
     [
       "MH_ChanceToPoison",
       "Chance to Poison from Main Hand hits",
+      [
+        6528
+      ],
+      1,
+      [
+        7696
+      ],
+      [
+        435
+      ],
+      0,
+      true,
+      []
+    ],
+    [
+      "OH_ChanceToPoison",
+      "Chance to Poison from Off Hand hits",
       [
         6529
       ],
@@ -1975,34 +1999,17 @@
       []
     ],
     [
-      "OH_ChanceToPoison",
-      "Chance to Poison from Off Hand hits",
+      "Spell_ChanceToPoison",
+      "Chance to Poison",
       [
         6530
       ],
       1,
       [
-        7698
-      ],
-      [
-        435
-      ],
-      0,
-      true,
-      []
-    ],
-    [
-      "Spell_ChanceToPoison",
-      "Chance to Poison",
-      [
-        6531
-      ],
-      1,
-      [
         435
       ],
       [
-        1640
+        1641
       ],
       0,
       true,
@@ -2012,11 +2019,11 @@
       "Secondary_ChanceToPoison",
       "Chance to Poison",
       [
-        6532
+        6531
       ],
       1,
       [
-        1640
+        1641
       ],
       [],
       0,
@@ -2045,11 +2052,11 @@
       ],
       2,
       [
-        7697
+        7696
       ],
       [
         435,
-        1640
+        1641
       ],
       0,
       true,
@@ -2062,16 +2069,16 @@
       "MH_PoisonCritDamage",
       "Poison Damage per second from Main Hand Critical Strikes",
       [
-        10288,
-        10289
+        10271,
+        10272
       ],
       2,
       [
-        7697
+        7696
       ],
       [
         435,
-        1640
+        1641
       ],
       0,
       true,
@@ -2089,11 +2096,11 @@
       ],
       2,
       [
-        7698
+        7697
       ],
       [
         435,
-        1640
+        1641
       ],
       0,
       true,
@@ -2106,16 +2113,16 @@
       "OH_PoisonCritDamage",
       "Poison Damage per second from Off Hand Critical Strikes",
       [
-        10290,
-        10291
+        10273,
+        10274
       ],
       2,
       [
-        7698
+        7697
       ],
       [
         435,
-        1640
+        1641
       ],
       0,
       true,
@@ -2136,7 +2143,7 @@
         435
       ],
       [
-        1640
+        1641
       ],
       0,
       true,
@@ -2149,15 +2156,15 @@
       "Spell_PoisonCritDamage",
       "Poison Damage per second from Critical Strikes",
       [
-        10292,
-        10293
+        10275,
+        10276
       ],
       2,
       [
         435
       ],
       [
-        1640
+        1641
       ],
       0,
       true,
@@ -2175,7 +2182,7 @@
       ],
       2,
       [
-        1640
+        1641
       ],
       [],
       0,
@@ -2189,12 +2196,12 @@
       "Secondary_PoisonCritDamage",
       "Poison Damage per second from Critical Strikes",
       [
-        10294,
-        10295
+        10277,
+        10278
       ],
       2,
       [
-        1640
+        1641
       ],
       [],
       0,
@@ -2213,11 +2220,11 @@
       ],
       2,
       [
-        7697
+        7696
       ],
       [
         435,
-        1640
+        1641
       ],
       0,
       true,
@@ -2230,16 +2237,16 @@
       "MH_PoisonCritDamageAlways",
       "Poison Damage per second from Main Hand only Critical Chaos Damage",
       [
-        10296,
-        10297
+        10279,
+        10280
       ],
       2,
       [
-        7697
+        7696
       ],
       [
         435,
-        1640
+        1641
       ],
       0,
       true,
@@ -2257,11 +2264,11 @@
       ],
       2,
       [
-        7698
+        7697
       ],
       [
         435,
-        1640
+        1641
       ],
       0,
       true,
@@ -2274,16 +2281,16 @@
       "OH_PoisonCritDamageAlways",
       "Poison Damage per second from Off Hand only Critical Chaos Damage",
       [
-        10298,
-        10299
+        10281,
+        10282
       ],
       2,
       [
-        7698
+        7697
       ],
       [
         435,
-        1640
+        1641
       ],
       0,
       true,
@@ -2304,7 +2311,7 @@
         435
       ],
       [
-        1640
+        1641
       ],
       0,
       true,
@@ -2317,15 +2324,15 @@
       "Spell_PoisonCritDamageAlways",
       "Poison Damage per second from only Critical Chaos Damage",
       [
-        10300,
-        10301
+        10283,
+        10284
       ],
       2,
       [
         435
       ],
       [
-        1640
+        1641
       ],
       0,
       true,
@@ -2343,7 +2350,7 @@
       ],
       2,
       [
-        1640
+        1641
       ],
       [],
       0,
@@ -2357,12 +2364,12 @@
       "Secondary_PoisonCritDamageAlways",
       "Poison Damage per second from only Critical Chaos Damage",
       [
-        10302,
-        10303
+        10285,
+        10286
       ],
       2,
       [
-        1640
+        1641
       ],
       [],
       0,
@@ -2523,7 +2530,7 @@
       "ChaosPenetrationWeapon",
       "Additional Chaos Resistance Penetration with Weapons",
       [
-        3922
+        3923
       ],
       1,
       [],
@@ -2536,11 +2543,11 @@
       "MainhandDoubleDamageChilled",
       "Main Hand Attacks double Damage to Chilled Enemies",
       [
-        4130
+        4131
       ],
       4,
       [
-        7697
+        7696
       ],
       [
         435
@@ -2553,11 +2560,11 @@
       "OffhandDoubleDamageChilled",
       "Off Hand Attacks double Damage to Chilled Enemies",
       [
-        4131
+        4132
       ],
       4,
       [
-        7698
+        7697
       ],
       [
         435
@@ -2570,11 +2577,11 @@
       "MH_ChanceToImpale",
       "Chance to Impale from Main Hand hits",
       [
-        8852
+        8847
       ],
       1,
       [
-        7697
+        7696
       ],
       [
         435
@@ -2587,11 +2594,11 @@
       "OH_ChanceToImpale",
       "Chance to Impale from Off Hand hits",
       [
-        8853
+        8848
       ],
       1,
       [
-        7698
+        7697
       ],
       [
         435
@@ -2660,11 +2667,11 @@
       "ArmourVsHitsEstimateReduction",
       "Estimated Physical Damage reduction against Hits",
       [
-        7375
+        7374
       ],
       1,
       [
-        7374
+        7373
       ],
       [],
       1,
@@ -2727,7 +2734,7 @@
       "LifeRecharge",
       "Life Recharge per second",
       [
-        9463
+        9456
       ],
       0,
       [],
@@ -2770,7 +2777,7 @@
       "ESDelay",
       "Energy Shield Recharge Occurrence modifier",
       [
-        3885
+        3886
       ],
       7,
       [],
@@ -2841,7 +2848,7 @@
       "StunImmuneSpells",
       "Cannot be Stunned by Spells",
       [
-        7397
+        7396
       ],
       4,
       [],
@@ -2856,7 +2863,7 @@
       "StunImmuneAttacks",
       "Cannot be Stunned by Attacks",
       [
-        7398
+        7397
       ],
       4,
       [],
@@ -2872,7 +2879,7 @@
       "Fire Resistance",
       [
         307,
-        2059
+        2060
       ],
       5,
       [],
@@ -2886,7 +2893,7 @@
       "Cold Resistance",
       [
         306,
-        2060
+        2061
       ],
       5,
       [],
@@ -2900,7 +2907,7 @@
       "Lightning Resistance",
       [
         308,
-        2061
+        2062
       ],
       5,
       [],
@@ -2914,7 +2921,7 @@
       "Chaos Resistance",
       [
         309,
-        2062
+        2063
       ],
       5,
       [],
@@ -2949,7 +2956,7 @@
       ],
       1,
       [
-        7289
+        7288
       ],
       [],
       1,
@@ -2965,7 +2972,7 @@
       1,
       [
         1072,
-        7289
+        7288
       ],
       [],
       1,
@@ -2980,7 +2987,7 @@
       ],
       1,
       [
-        7290
+        7289
       ],
       [],
       1,
@@ -2996,8 +3003,8 @@
       1,
       [
         1072,
-        7290,
-        8207
+        7289,
+        8204
       ],
       [],
       1,
@@ -3247,7 +3254,7 @@
       "ActionSpeed",
       "Action Speed modifier",
       [
-        9345
+        9336
       ],
       7,
       [],
@@ -3420,11 +3427,11 @@
       ],
       1,
       [
-        7697
+        7696
       ],
       [
         435,
-        1640,
+        1641,
         1340
       ],
       2,
@@ -3441,11 +3448,11 @@
       ],
       1,
       [
-        7698
+        7697
       ],
       [
         435,
-        1640,
+        1641,
         1340
       ],
       2,
@@ -3458,7 +3465,7 @@
       "Spell_LifeLeech",
       "Life Leech from Spell Damage",
       [
-        3114
+        3115
       ],
       1,
       [
@@ -3466,7 +3473,7 @@
       ],
       [
         1342,
-        1640
+        1641
       ],
       2,
       true,
@@ -3496,7 +3503,7 @@
       "LifeLeechPhysicalDamage",
       "Life Leech from Physical Damage",
       [
-        2209
+        2210
       ],
       1,
       [],
@@ -3513,7 +3520,7 @@
       "LifeLeechFireDamage",
       "Life Leech from Fire Damage",
       [
-        2210
+        2211
       ],
       1,
       [],
@@ -3530,7 +3537,7 @@
       "LifeLeechColdDamage",
       "Life Leech from Cold Damage",
       [
-        2211
+        2212
       ],
       1,
       [],
@@ -3547,7 +3554,7 @@
       "LifeLeechLightningDamage",
       "Life Leech from Lightning Damage",
       [
-        2212
+        2213
       ],
       1,
       [],
@@ -3564,7 +3571,7 @@
       "LifeLeechChaosDamage",
       "Life Leech from Chaos Damage",
       [
-        2213
+        2214
       ],
       1,
       [],
@@ -3581,8 +3588,8 @@
       "MaxLifeLeechAmount",
       "Base Maximum Recovery per Life Leech",
       [
-        9257,
-        9331
+        9248,
+        9322
       ],
       10,
       [],
@@ -3600,7 +3607,7 @@
       "LifeLeechSpeed",
       "Life Leech total Recovery per second modifier",
       [
-        2947
+        2948
       ],
       7,
       [],
@@ -3615,8 +3622,8 @@
       "MaxLifeLeechRecoveryRate",
       "Maximum total Recovery per second from Life Leech",
       [
-        9260,
-        6878
+        9251,
+        6877
       ],
       10,
       [],
@@ -3638,11 +3645,11 @@
       ],
       1,
       [
-        7697
+        7696
       ],
       [
         435,
-        1640,
+        1641,
         1341
       ],
       2,
@@ -3659,11 +3666,11 @@
       ],
       1,
       [
-        7698
+        7697
       ],
       [
         435,
-        1640,
+        1641,
         1341
       ],
       2,
@@ -3676,7 +3683,7 @@
       "Spell_ManaLeech",
       "Mana Leech from Spell Damage",
       [
-        3115
+        3116
       ],
       1,
       [
@@ -3684,7 +3691,7 @@
       ],
       [
         1343,
-        1640
+        1641
       ],
       2,
       true,
@@ -3714,7 +3721,7 @@
       "ManaLeechPhysicalDamage",
       "Mana Leech from Physical Damage",
       [
-        2214
+        2215
       ],
       1,
       [],
@@ -3731,7 +3738,7 @@
       "ManaLeechFireDamage",
       "Mana Leech from Fire Damage",
       [
-        2215
+        2216
       ],
       1,
       [],
@@ -3748,7 +3755,7 @@
       "ManaLeechColdDamage",
       "Mana Leech from Cold Damage",
       [
-        2216
+        2217
       ],
       1,
       [],
@@ -3765,7 +3772,7 @@
       "ManaLeechLightningDamage",
       "Mana Leech from Lightning Damage",
       [
-        2217
+        2218
       ],
       1,
       [],
@@ -3782,7 +3789,7 @@
       "ManaLeechChaosDamage",
       "Mana Leech from Chaos Damage",
       [
-        2218
+        2219
       ],
       1,
       [],
@@ -3799,8 +3806,8 @@
       "MaxManaLeechAmount",
       "Base Maximum Recovery per Mana Leech",
       [
-        9258,
-        9332
+        9249,
+        9323
       ],
       10,
       [],
@@ -3818,7 +3825,7 @@
       "ManaLeechSpeed",
       "Mana Leech total Recovery per second modifier",
       [
-        2949
+        2950
       ],
       7,
       [],
@@ -3833,8 +3840,8 @@
       "MaxManaLeechRecoveryRate",
       "Maximum total Recovery per second from Mana Leech",
       [
-        9261,
-        9327
+        9252,
+        9318
       ],
       10,
       [],
@@ -3852,15 +3859,15 @@
       "Spell_EnergyShieldLeech",
       "Energy Shield Leech from Spell Damage",
       [
-        8883
+        8878
       ],
       1,
       [
         435
       ],
       [
-        8886,
-        1640
+        8881,
+        1641
       ],
       2,
       true,
@@ -3872,12 +3879,12 @@
       "EnergyShieldLeechPhysicalDamage",
       "Energy Shield Leech from Physical Damage",
       [
-        8924
+        8916
       ],
       1,
       [],
       [
-        8886
+        8881
       ],
       2,
       true,
@@ -3889,12 +3896,12 @@
       "EnergyShieldLeechFireDamage",
       "Energy Shield Leech from Fire Damage",
       [
-        8881
+        8876
       ],
       1,
       [],
       [
-        8886
+        8881
       ],
       2,
       true,
@@ -3906,12 +3913,12 @@
       "EnergyShieldLeechColdDamage",
       "Energy Shield Leech from Cold Damage",
       [
-        8877
+        8872
       ],
       1,
       [],
       [
-        8886
+        8881
       ],
       2,
       true,
@@ -3923,12 +3930,12 @@
       "EnergyShieldLeechLightningDamage",
       "Energy Shield Leech from Lightning Damage",
       [
-        8879
+        8874
       ],
       1,
       [],
       [
-        8886
+        8881
       ],
       2,
       true,
@@ -3940,12 +3947,12 @@
       "EnergyShieldLeechChaosDamage",
       "Energy Shield Leech from Chaos Damage",
       [
-        8925
+        8917
       ],
       1,
       [],
       [
-        8886
+        8881
       ],
       2,
       true,
@@ -3957,13 +3964,13 @@
       "MaxEnergyShieldLeechAmount",
       "Base Maximum Recovery per Energy Shield Leech",
       [
-        9259,
-        9333
+        9250,
+        9324
       ],
       10,
       [],
       [
-        8886
+        8881
       ],
       2,
       false,
@@ -3976,7 +3983,7 @@
       "EnergyShieldLeechSpeed",
       "Energy Shield Leech total Recovery per second modifier",
       [
-        8891
+        8886
       ],
       7,
       [],
@@ -3989,13 +3996,13 @@
       "MaxEnergyShieldLeechRecoveryRate",
       "Maximum total Recovery per second from Energy Shield Leech",
       [
-        9262,
-        8874
+        9253,
+        8869
       ],
       10,
       [],
       [
-        8886
+        8881
       ],
       2,
       false,
@@ -4008,7 +4015,24 @@
       "MH_LifeOnHit",
       "Main Hand Life gained on Hit",
       [
-        3095
+        3096
+      ],
+      0,
+      [
+        7696
+      ],
+      [
+        435
+      ],
+      2,
+      true,
+      []
+    ],
+    [
+      "OH_LifeOnHit",
+      "Off Hand Life gained on Hit",
+      [
+        3097
       ],
       0,
       [
@@ -4022,27 +4046,10 @@
       []
     ],
     [
-      "OH_LifeOnHit",
-      "Off Hand Life gained on Hit",
-      [
-        3096
-      ],
-      0,
-      [
-        7698
-      ],
-      [
-        435
-      ],
-      2,
-      true,
-      []
-    ],
-    [
       "LifeOnSpellHit",
       "Life gained on Hit",
       [
-        1926
+        1927
       ],
       0,
       [
@@ -4057,7 +4064,7 @@
       "ManaOnSpellHit",
       "Mana gained on Hit",
       [
-        7079
+        7078
       ],
       0,
       [
@@ -4072,7 +4079,7 @@
       "ManaOnHit",
       "Mana gained on Hit",
       [
-        2768
+        2769
       ],
       0,
       [],
@@ -4087,7 +4094,7 @@
       "ESOnSpellHit",
       "Energy Shield gained on Hit",
       [
-        7294
+        7293
       ],
       0,
       [
@@ -4102,7 +4109,7 @@
       "ESOnHit",
       "Energy Shield gained on Hit",
       [
-        2805
+        2806
       ],
       0,
       [],
@@ -4117,7 +4124,7 @@
       "LifeOnKill",
       "Life gained on Kill",
       [
-        2306
+        2307
       ],
       0,
       [],
@@ -4130,7 +4137,7 @@
       "ManaOnKill",
       "Mana gained on Kill",
       [
-        2420
+        2422
       ],
       0,
       [],
@@ -4143,7 +4150,7 @@
       "ESonKill",
       "Energy Shield gained on Kill",
       [
-        2421
+        2423
       ],
       0,
       [],
@@ -4156,7 +4163,7 @@
       "MinionDamage",
       "Minion Damage modifier",
       [
-        2462
+        2464
       ],
       7,
       [],
@@ -4182,7 +4189,7 @@
       "MinionMana",
       "Minion Mana modifier",
       [
-        3241
+        3242
       ],
       7,
       [],
@@ -4195,7 +4202,7 @@
       "MinionEnergyShield",
       "Minion Energy Shield modifier",
       [
-        3242
+        3243
       ],
       7,
       [],
@@ -4208,7 +4215,7 @@
       "ProjectileSpeed",
       "Projectile Speed modifier",
       [
-        1402
+        1403
       ],
       7,
       [],
@@ -4299,7 +4306,7 @@
       "TotemMana",
       "Totem Mana modifier",
       [
-        3239
+        3240
       ],
       7,
       [],
@@ -4312,7 +4319,7 @@
       "TotemEnergyShield",
       "Totem Energy Shield modifier",
       [
-        3240
+        3241
       ],
       7,
       [],
@@ -4351,7 +4358,7 @@
       "TrapThrowSpeed",
       "Trap Throwing Speed modifier",
       [
-        7818
+        7816
       ],
       7,
       [],
@@ -4364,7 +4371,7 @@
       "MineDuration",
       "Mine Duration modifier",
       [
-        1828
+        1829
       ],
       7,
       [],
@@ -4377,7 +4384,7 @@
       "MineDetonationRadius",
       "Mine Detonation Radius modifier",
       [
-        1842
+        1843
       ],
       7,
       [],
@@ -4390,7 +4397,7 @@
       "MinePlaceSpeed",
       "Mine Throwing Speed modifier",
       [
-        9979
+        9970
       ],
       7,
       [],
@@ -4403,7 +4410,7 @@
       "FishingRange",
       "Fishing Range modifier",
       [
-        1740
+        1741
       ],
       7,
       [],
@@ -4416,7 +4423,7 @@
       "FishingLineStrength",
       "Fishing Line Strength modifier",
       [
-        1741
+        1742
       ],
       7,
       [],
@@ -4429,7 +4436,7 @@
       "IFQ",
       "Quantity of Fish caught",
       [
-        1742
+        1743
       ],
       7,
       [],
@@ -4442,7 +4449,7 @@
       "IFR",
       "Rarity of Fish caught",
       [
-        1743
+        1744
       ],
       7,
       [],
@@ -4455,7 +4462,7 @@
       "FishingPoolConsumption",
       "Fishing Pool Consumption modifier",
       [
-        1744
+        1745
       ],
       7,
       [],
@@ -4468,7 +4475,7 @@
       "ExoticFish",
       "Can catch Exotic Fish",
       [
-        2075
+        2076
       ],
       4,
       [],
@@ -4481,7 +4488,7 @@
       "CorruptedFish",
       "Can catch Corrupted Fish",
       [
-        2242
+        2243
       ],
       4,
       [],
@@ -4494,7 +4501,7 @@
       "CooldownRecovery",
       "Cooldown Recovery Speed modifier",
       [
-        3356
+        3357
       ],
       7,
       [],
@@ -4507,11 +4514,11 @@
       "BrandNum",
       "Brand Limit",
       [
-        8484
+        8481
       ],
       0,
       [
-        8643
+        8639
       ],
       [],
       2,
@@ -4522,11 +4529,11 @@
       "BrandNumPerTarget",
       "Attached Brand Limit per Target",
       [
-        8850
+        8845
       ],
       0,
       [
-        8643
+        8639
       ],
       [],
       2,
@@ -4537,7 +4544,7 @@
       "Devotion",
       "Devotion",
       [
-        9677
+        9670
       ],
       0,
       [],
@@ -4565,7 +4572,7 @@
       "Endurance Charges",
       [
         4,
-        2665
+        2667
       ],
       3,
       [],
@@ -4578,7 +4585,7 @@
       "EnduranceDuration",
       "Endurance Charge Duration modifier",
       [
-        2703
+        2705
       ],
       7,
       [],
@@ -4673,7 +4680,7 @@
       "PhysicalDamagePerEnduranceCharge",
       "Physical Damage modifier per Endurance Charge",
       [
-        2642
+        2644
       ],
       7,
       [],
@@ -4687,7 +4694,7 @@
       "Frenzy Charges",
       [
         5,
-        2666
+        2668
       ],
       3,
       [],
@@ -4700,7 +4707,7 @@
       "FrenzyDuration",
       "Frenzy Charge Duration modifier",
       [
-        1796
+        1797
       ],
       7,
       [],
@@ -4713,7 +4720,7 @@
       "AttackSpeedPerFrenzy",
       "Attack Speed modifier per Frenzy Charge",
       [
-        1653
+        1654
       ],
       7,
       [],
@@ -4726,7 +4733,7 @@
       "CastSpeedPerFrenzy",
       "Cast Speed modifier per Frenzy Charge",
       [
-        1654
+        1655
       ],
       7,
       [],
@@ -4830,7 +4837,7 @@
       "ProjectileSpeedPerFrenzy",
       "Projectile Speed modifier per Frenzy Charge",
       [
-        1403
+        1404
       ],
       7,
       [],
@@ -4843,7 +4850,7 @@
       "LifeRegenPerFrenzy",
       "Life Regeneration per second per Frenzy Charge",
       [
-        1395
+        1396
       ],
       1,
       [],
@@ -4858,7 +4865,7 @@
       "AccuracyPerFrenzy",
       "Accuracy Rating modifier per Frenzy Charge",
       [
-        1787
+        1788
       ],
       7,
       [],
@@ -4871,7 +4878,7 @@
       "LightningDamagePerFrenzy",
       "Lightning Damage modifier per Frenzy Charge",
       [
-        2305
+        2306
       ],
       7,
       [],
@@ -4884,7 +4891,7 @@
       "DamageTakenPerFrenzy",
       "Damage Taken modifier per Frenzy Charge",
       [
-        2304
+        2305
       ],
       7,
       [],
@@ -4897,7 +4904,7 @@
       "LifeOnKillPerFrenzy",
       "Life gained on Kill per Frenzy Charge",
       [
-        2307
+        2308
       ],
       0,
       [],
@@ -4910,7 +4917,7 @@
       "ElementalDamagePerFrenzyCharge",
       "Elemental Damage modifier per Frenzy Charge",
       [
-        2728
+        2729
       ],
       7,
       [],
@@ -4923,7 +4930,7 @@
       "AttackDamagePerFrenzyCharge",
       "Attack Damage modifier per Frenzy Charge",
       [
-        3503
+        3504
       ],
       7,
       [],
@@ -4936,7 +4943,7 @@
       "DamageNoFrenzyCharges",
       "Damage modifier with no Frenzy Charges",
       [
-        4140
+        4141
       ],
       7,
       [],
@@ -4950,7 +4957,7 @@
       "Power Charges",
       [
         6,
-        2667
+        2669
       ],
       3,
       [],
@@ -4963,7 +4970,7 @@
       "PowerDuration",
       "Power Charge Duration modifier",
       [
-        2702
+        2704
       ],
       7,
       [],
@@ -5002,7 +5009,7 @@
       "KeystoneMoreSpellDamagePerPower",
       "Spell damage modifier per Power Charge",
       [
-        9455
+        9448
       ],
       8,
       [],
@@ -5067,7 +5074,7 @@
       "ProjectileDamagePerPower",
       "Projectile Damage modifier per Power Charge",
       [
-        1404
+        1405
       ],
       7,
       [],
@@ -5121,8 +5128,8 @@
       "SpiritCharges",
       "Spirit Charges",
       [
-        6571,
-        7303
+        6570,
+        7302
       ],
       3,
       [],
@@ -5135,8 +5142,8 @@
       "SiphoningCharges",
       "Siphoning Charges",
       [
-        7364,
-        7365
+        7363,
+        7364
       ],
       3,
       [],
@@ -5149,8 +5156,8 @@
       "PhysicalDamagePerSiphoning",
       "Physical Damage to Attacks per Siphoning Charge",
       [
-        7368,
-        7369
+        7367,
+        7368
       ],
       2,
       [],
@@ -5163,7 +5170,7 @@
       "LifeLeechPerSiphoning",
       "Life Leech from any Damage per Siphoning Charge",
       [
-        7370
+        7369
       ],
       1,
       [],
@@ -5178,7 +5185,7 @@
       "ExtraChoasDamagePerSiphoning",
       "Non-Chaos Damage as extra Chaos Damage per Siphoning Charge",
       [
-        7371
+        7370
       ],
       1,
       [],
@@ -5191,7 +5198,7 @@
       "PhysDamageReductionPerSiphoning",
       "Physical Damage reduction from Hits per Siphoning Charge",
       [
-        7372
+        7371
       ],
       1,
       [],
@@ -5204,7 +5211,7 @@
       "PhysDamageTakenPerSiphoning",
       "Physical Damage per Second per Siphoning Charge",
       [
-        7380
+        7379
       ],
       0,
       [],
@@ -5219,8 +5226,8 @@
       "BlitzCharges",
       "Blitz Charges",
       [
-        9749,
-        9748
+        9742,
+        9741
       ],
       3,
       [],
@@ -5233,7 +5240,7 @@
       "AttackSpeedPerBlitz",
       "Attack Speed modifier per Blitz Charge",
       [
-        9746
+        9739
       ],
       8,
       [],
@@ -5246,7 +5253,7 @@
       "CritChancePerBlitz",
       "Critical Strike Chance modifier per Blitz Charge",
       [
-        9747
+        9740
       ],
       7,
       [],
@@ -5259,8 +5266,8 @@
       "ChallengerCharges",
       "Challenger Charges",
       [
-        9850,
-        9849
+        9841,
+        9840
       ],
       3,
       [],
@@ -5273,10 +5280,127 @@
       "AttackMoveSpeedPerChallenger",
       "Attack and Movement Speed modifier per Challenger Charge",
       [
-        9853
+        9844
       ],
       8,
       [],
+      [],
+      3,
+      true,
+      []
+    ],
+    [
+      "BrutalCharges",
+      "Brutal Charges",
+      [
+        13503,
+        13505
+      ],
+      3,
+      [],
+      [],
+      3,
+      true,
+      []
+    ],
+    [
+      "TripleDamageChancePerBrutalCharge",
+      "Chance to deal Triple Damage per Brutal Charge",
+      [
+        13527
+      ],
+      1,
+      [
+        13505
+      ],
+      [],
+      3,
+      true,
+      []
+    ],
+    [
+      "StunThresholdPerBrutalCharge",
+      "Stun Threshold modifier per Brutal Charge",
+      [
+        13528
+      ],
+      7,
+      [
+        13505
+      ],
+      [],
+      3,
+      true,
+      []
+    ],
+    [
+      "AfflictionCharges",
+      "Affliction Charges",
+      [
+        13507,
+        13509
+      ],
+      3,
+      [],
+      [],
+      3,
+      true,
+      []
+    ],
+    [
+      "AilmentDamagePerAfflictionCharge",
+      "Ailment damage modifier per Affliction Charge",
+      [
+        13529
+      ],
+      8,
+      [
+        13509
+      ],
+      [],
+      3,
+      true,
+      []
+    ],
+    [
+      "NonDamagingAilmentEffectPerAfflictionCharge",
+      "Non-Damaging Ailment Effect modifier per Affliction Charge",
+      [
+        13530
+      ],
+      8,
+      [
+        13509
+      ],
+      [],
+      3,
+      true,
+      []
+    ],
+    [
+      "AbsorptionCharges",
+      "Absorption Charges",
+      [
+        13511,
+        13513
+      ],
+      3,
+      [],
+      [],
+      3,
+      true,
+      []
+    ],
+    [
+      "ElementalDamageGoesToESPerAbsorptionCharge",
+      "Elemental Damage taken Recouped as ES per Absorption Charge",
+      [
+        13531
+      ],
+      1,
+      [
+        13513
+      ],
       [],
       3,
       true,

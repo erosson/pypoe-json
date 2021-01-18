@@ -56,7 +56,7 @@
     [
       "ProxyKey2",
       "아이템에 끼운 <gemitem>{스킬 젬}은 마우스 오른쪽 버튼으로 클릭해 빼낼 수 있습니다.",
-      "아이템에 끼운 <gemitem>{스킬 젬}은 해당 아이템에서 <<xbox_button_b>>을 누른 다음, <<xbox_button_a>>을 눌러 빼낼 수 있습니다. "
+      "아이템에 끼운 <gemitem>{스킬 젬}은 해당 아이템에서 <<xbox_button_b>>을 누른 다음, <<xbox_button_a>>을 눌러 빼낼 수 있습니다."
     ],
     [
       "ProxyKey3",
@@ -76,7 +76,7 @@
     [
       "ProxyKey6",
       "채팅창에서 다른 플레이어에게 아이템을 보여주려면 <b>{Ctrl} + <b>{Alt} + <b>{좌클릭}을 누르십시오.",
-      "채팅창에서 다른 플레이어에게 아이템을 보여주려면 <<xbox_button_lstick>> + <<xbox_button_b>>을 사용하십시오. "
+      "채팅창에서 다른 플레이어에게 아이템을 보여주려면 <<xbox_button_lstick>> + <<xbox_button_b>>을 사용하십시오."
     ],
     [
       "ProxyKey7",
@@ -111,7 +111,7 @@
     [
       "ProxyKey13",
       "<currencyitem>{주문서} 또는 <currencyitem>{오브}를 사용하려면 해당 아이템을 <b>{우클릭}한 뒤, 효과를 적용할 아이템을 <b>{좌클릭}하십시오.",
-      " <currencyitem>{주문서} 또는 <currencyitem>{오브}를 사용하려면, 해당 아이템에서 <<xbox_button_a>>을 누른 다음, 효과를 적용할 적용하려는 아이템에서 <<xbox_button_a>>을 누르십시오."
+      "<currencyitem>{주문서} 또는 <currencyitem>{오브}를 사용하려면, 해당 아이템에서 <<xbox_button_a>>을 누른 다음, 효과를 적용할 적용하려는 아이템에서 <<xbox_button_a>>을 누르십시오."
     ],
     [
       "ProxyKey14",

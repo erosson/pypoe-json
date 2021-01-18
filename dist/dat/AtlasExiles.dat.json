@@ -245,8 +245,8 @@
   "data": [
     [
       "Crusader",
-      6650,
-      "Art/2DArt/UIImages/InGame/Strongholds/StrongholdMapBossCrusader",
+      7043,
+      "Art/2DArt/UIImages/InGame/AtlasRegions/AtlasTrees/CitadelBaseCrusader",
       324,
       328,
       320,
@@ -255,16 +255,16 @@
       108,
       2,
       379,
-      989,
       332,
       987,
       375,
-      435
+      435,
+      876
     ],
     [
       "Eyrie",
-      6673,
-      "Art/2DArt/UIImages/InGame/Strongholds/StrongholdMapBossEyrie",
+      7067,
+      "Art/2DArt/UIImages/InGame/AtlasRegions/AtlasTrees/CitadelBaseEyrie",
       325,
       329,
       321,
@@ -273,16 +273,16 @@
       110,
       3,
       380,
-      990,
       333,
       988,
       376,
-      436
+      436,
+      877
     ],
     [
       "Basilisk",
-      6693,
-      "Art/2DArt/UIImages/InGame/Strongholds/StrongholdMapBossBasilisk",
+      7088,
+      "Art/2DArt/UIImages/InGame/AtlasRegions/AtlasTrees/CitadelBaseBasilisk",
       326,
       330,
       322,
@@ -291,16 +291,16 @@
       111,
       4,
       381,
-      991,
       334,
       1870,
       377,
-      437
+      437,
+      878
     ],
     [
       "Adjudicator",
-      6719,
-      "Art/2DArt/UIImages/InGame/Strongholds/StrongholdMapBossJudicator",
+      7115,
+      "Art/2DArt/UIImages/InGame/AtlasRegions/AtlasTrees/CitadelBaseJudicator",
       327,
       331,
       323,
@@ -309,11 +309,11 @@
       109,
       5,
       382,
-      992,
       335,
       1871,
       378,
-      438
+      438,
+      880
     ]
   ]
 }

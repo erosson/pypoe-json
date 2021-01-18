@@ -51,84 +51,84 @@
     [
       "RelicMinionSkillTrigger",
       [
-        8211
+        8208
       ],
       true
     ],
     [
       "HeraldOfLightChampion",
       [
-        8195
+        8192
       ],
       true
     ],
     [
       "AzuriteDebuffOnHit",
       [
-        8347
+        8344
       ],
       true
     ],
     [
       "TaserDebuffOnHit",
       [
-        8595
+        8591
       ],
       true
     ],
     [
       "PreventVaalSoulsOnHit",
       [
-        7756
+        7755
       ],
       true
     ],
     [
       "GainSoulGenerationOnHit",
       [
-        7766
+        7765
       ],
       true
     ],
     [
       "GrantVaalAttackSoulOnHit",
       [
-        7762
+        7761
       ],
       true
     ],
     [
       "EnduranceChargeOnHitVsBleedChance",
       [
-        7028
+        7027
       ],
       true
     ],
     [
       "RandomChargeOnHitChance",
       [
-        7522
+        7521
       ],
       true
     ],
     [
       "NemesisVinesOnHit",
       [
-        7453
+        7452
       ],
       false
     ],
     [
       "RageOnHit",
       [
-        9423
+        9415
       ],
       true
     ],
     [
       "PuppetMaster",
       [
-        10030
+        10020
       ],
       true
     ]

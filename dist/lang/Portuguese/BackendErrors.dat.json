@@ -566,6 +566,10 @@
       "Sua conta foi silenciada por um GM. Você poderá falar novamente em {0}."
     ],
     [
+      "MutedUntilSecondsConsole",
+      "Sua conta foi silenciada por um GM. Você poderá falar novamente em {0}."
+    ],
+    [
       "ObaPlayerJoined",
       "Você deve ser corajoso ou estúpido demais se pensa que vai levar meu tesouro daqui e viver. De qualquer forma, eu te aplaudo!"
     ],
@@ -2158,8 +2162,40 @@
       "Erro: Você não é o dono desse Golpe"
     ],
     [
+      "ReceivedAtlasRespecPoint1",
+      "Você recebeu um Ponto de Restituição de Passivas do Atlas."
+    ],
+    [
+      "ReceivedAtlasRespecPointN",
+      "Você recebeu {0} Pontos de Restituição de Passivas do Atlas."
+    ],
+    [
+      "ReceivedAtlasPassivePointN",
+      "Você recebeu {1} Ponto de Habilidades Passivas do Atlas por {0}."
+    ],
+    [
+      "MavenNotEnoughBosses",
+      "Falha na ação. Você não coletou chefes suficientes desta Região do Atlas."
+    ],
+    [
+      "MavenCitadelNotUnlocked",
+      "Falha na Ativação. Você não destravou a Cidadela para esta Região do Atlas."
+    ],
+    [
       "StashAffinityFailedNoRoom",
-      "Sua Aba de Baú com Afinidade {0} não possui espaço suficiente para este item."
+      "Sua Aba de Baú com {0} Afinidades não possui espaço suficiente para este item."
+    ],
+    [
+      "FailedToAddMavenToMap",
+      "Falha ao adicionar a Maven ao Mapa porque: {0}"
+    ],
+    [
+      "RitualFragmentNotValidForUse",
+      "Falha na Ativação. Efígies Encharcadas de Sangue só podem ser usadas na Liga Ritual."
+    ],
+    [
+      "MapDeviceInvalidQuestState",
+      "Falha na ativação. Você não possui o estado de missões necessário."
     ]
   ]
 }

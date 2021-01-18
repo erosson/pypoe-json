@@ -6920,28 +6920,28 @@
     [
       "SideSound_1",
       "Metadata/Terrain/Act4/SideSound/Graphs/sound1.tgr",
-      100,
+      90,
       50,
       100
     ],
     [
       "SideSound_2",
       "Metadata/Terrain/Act4/SideSound/Graphs/sound2.tgr",
-      100,
+      90,
       50,
       100
     ],
     [
       "SideSound_3",
       "Metadata/Terrain/Act4/SideSound/Graphs/sound3.tgr",
-      100,
+      90,
       50,
       100
     ],
     [
       "SideSound_4",
       "Metadata/Terrain/Act4/SideSound/Graphs/sound4.tgr",
-      100,
+      90,
       50,
       100
     ],
@@ -6970,6 +6970,13 @@
       "SideFissure_4",
       "Metadata/Terrain/Act4/SideFissure/Graphs/sidefissure_4.dgr",
       100,
+      50,
+      100
+    ],
+    [
+      "SideIceForest_1",
+      "Metadata/Terrain/EndGame/MapColdWood/SideAreaIceForest/Graphs/side_ice_forest_01.tgr",
+      90,
       50,
       100
     ],
@@ -8921,28 +8928,28 @@
     ],
     [
       "EndGamePier_1",
-      "Metadata/Terrain/EndGame/MapIndustrialDocks/Graphs/pier_1.dgr",
+      "Metadata/Terrain/EndGame/MapIndustrialDocks3/Graphs/pier_1.dgr",
       100,
       50,
       52
     ],
     [
       "EndGamePier_2",
-      "Metadata/Terrain/EndGame/MapIndustrialDocks/Graphs/pier_2.dgr",
+      "Metadata/Terrain/EndGame/MapIndustrialDocks3/Graphs/pier_2.dgr",
       100,
       50,
       52
     ],
     [
       "EndGamePier_3",
-      "Metadata/Terrain/EndGame/MapIndustrialDocks/Graphs/pier_3.dgr",
+      "Metadata/Terrain/EndGame/MapIndustrialDocks3/Graphs/pier_3.dgr",
       100,
       50,
       52
     ],
     [
       "EndGamePier_4",
-      "Metadata/Terrain/EndGame/MapIndustrialDocks/Graphs/pier_4.dgr",
+      "Metadata/Terrain/EndGame/MapIndustrialDocks3/Graphs/pier_4.dgr",
       100,
       50,
       52
@@ -12343,8 +12350,57 @@
       100
     ],
     [
+      "EndGameStagnation_2",
+      "Metadata/Terrain/EndGame/MapStagnation/Graphs/stagnation_2_1.tgr",
+      100,
+      50,
+      100
+    ],
+    [
+      "EndGameStagnation_3",
+      "Metadata/Terrain/EndGame/MapStagnation/Graphs/stagnation_3_1.tgr",
+      100,
+      50,
+      100
+    ],
+    [
+      "EndGameStagnation_4",
+      "Metadata/Terrain/EndGame/MapStagnation/Graphs/stagnation_4_1.tgr",
+      100,
+      50,
+      100
+    ],
+    [
       "EndGameBrambleFall_1",
       "Metadata/Terrain/EndGame/MapBrambleFall/Graphs/bramblefall_1.tgr",
+      100,
+      50,
+      100
+    ],
+    [
+      "EndGameBrambleFall_2",
+      "Metadata/Terrain/EndGame/MapBrambleFall/Graphs/bramblefall_2.tgr",
+      100,
+      50,
+      100
+    ],
+    [
+      "EndGameBrambleFall_3",
+      "Metadata/Terrain/EndGame/MapBrambleFall/Graphs/bramblefall_3.tgr",
+      100,
+      50,
+      100
+    ],
+    [
+      "EndGameBrambleFall_4",
+      "Metadata/Terrain/EndGame/MapBrambleFall/Graphs/bramblefall_4.tgr",
+      100,
+      50,
+      100
+    ],
+    [
+      "EndGameBrambleFall_5",
+      "Metadata/Terrain/EndGame/MapBrambleFall/Graphs/bramblefall_5.tgr",
       100,
       50,
       100
@@ -12413,8 +12469,50 @@
       100
     ],
     [
+      "EndGameBurn_2",
+      "Metadata/Terrain/EndGame/MapBurn/Graphs/burn_2.tgr",
+      100,
+      50,
+      100
+    ],
+    [
+      "EndGameBurn_3",
+      "Metadata/Terrain/EndGame/MapBurn/Graphs/burn_3.tgr",
+      100,
+      50,
+      100
+    ],
+    [
+      "EndGameBurn_4",
+      "Metadata/Terrain/EndGame/MapBurn/Graphs/burn_4.tgr",
+      100,
+      50,
+      100
+    ],
+    [
       "EndGameCrimsonTownship_1",
       "Metadata/Terrain/EndGame/MapCrimsonTownship/Graphs/crimsontownship_01.dgr",
+      100,
+      50,
+      100
+    ],
+    [
+      "EndGameCrimsonTownship_2",
+      "Metadata/Terrain/EndGame/MapCrimsonTownship/Graphs/crimsontownship_02.dgr",
+      100,
+      50,
+      100
+    ],
+    [
+      "EndGameCrimsonTownship_3",
+      "Metadata/Terrain/EndGame/MapCrimsonTownship/Graphs/crimsontownship_03.dgr",
+      100,
+      50,
+      100
+    ],
+    [
+      "EndGameCrimsonTownship_4",
+      "Metadata/Terrain/EndGame/MapCrimsonTownship/Graphs/crimsontownship_04.dgr",
       100,
       50,
       100
@@ -12455,6 +12553,27 @@
       50
     ],
     [
+      "EndGameThaumaturgy_2",
+      "Metadata/Terrain/EndGame/MapThaumaturgy/Graphs/thaumaturgy_2.dgr",
+      100,
+      50,
+      50
+    ],
+    [
+      "EndGameThaumaturgy_3",
+      "Metadata/Terrain/EndGame/MapThaumaturgy/Graphs/thaumaturgy_3.dgr",
+      100,
+      50,
+      50
+    ],
+    [
+      "EndGameThaumaturgy_4",
+      "Metadata/Terrain/EndGame/MapThaumaturgy/Graphs/thaumaturgy_4.dgr",
+      100,
+      50,
+      50
+    ],
+    [
       "EndGameColdRiver_1",
       "Metadata/Terrain/EndGame/MapColdRiver/Graphs/coldriver_01.tgr",
       100,
@@ -12463,21 +12582,21 @@
     ],
     [
       "EndGameColdRiver_2",
-      "Metadata/Terrain/EndGame/MapColdRiver/Graphs/coldriver_01.tgr",
+      "Metadata/Terrain/EndGame/MapColdRiver/Graphs/coldriver_02.tgr",
       100,
       50,
       100
     ],
     [
       "EndGameColdRiver_3",
-      "Metadata/Terrain/EndGame/MapColdRiver/Graphs/coldriver_01.tgr",
+      "Metadata/Terrain/EndGame/MapColdRiver/Graphs/coldriver_03.tgr",
       100,
       50,
       100
     ],
     [
       "EndGameColdRiver_4",
-      "Metadata/Terrain/EndGame/MapColdRiver/Graphs/coldriver_01.tgr",
+      "Metadata/Terrain/EndGame/MapColdRiver/Graphs/coldriver_04.tgr",
       100,
       50,
       100
@@ -12491,21 +12610,49 @@
     ],
     [
       "EndGameForbiddenWoods_2",
-      "Metadata/Terrain/EndGame/MapColdWood/Graphs/forbiddenwoods_01.tgr",
+      "Metadata/Terrain/EndGame/MapColdWood/Graphs/forbiddenwoods_02.tgr",
       100,
       50,
       100
     ],
     [
       "EndGameForbiddenWoods_3",
-      "Metadata/Terrain/EndGame/MapColdWood/Graphs/forbiddenwoods_01.tgr",
+      "Metadata/Terrain/EndGame/MapColdWood/Graphs/forbiddenwoods_03.tgr",
       100,
       50,
       100
     ],
     [
       "EndGameForbiddenWoods_4",
-      "Metadata/Terrain/EndGame/MapColdWood/Graphs/forbiddenwoods_01.tgr",
+      "Metadata/Terrain/EndGame/MapColdWood/Graphs/forbiddenwoods_04.tgr",
+      100,
+      50,
+      100
+    ],
+    [
+      "EndGameSilo_1",
+      "Metadata/Terrain/EndGame/MapSilo/Graphs/silo_01.dgr",
+      100,
+      50,
+      100
+    ],
+    [
+      "EndGameSilo_2",
+      "Metadata/Terrain/EndGame/MapSilo/Graphs/silo_02.dgr",
+      100,
+      50,
+      100
+    ],
+    [
+      "EndGameSilo_3",
+      "Metadata/Terrain/EndGame/MapSilo/Graphs/silo_03.dgr",
+      100,
+      50,
+      100
+    ],
+    [
+      "EndGameSilo_4",
+      "Metadata/Terrain/EndGame/MapSilo/Graphs/silo_04.dgr",
       100,
       50,
       100
@@ -14765,6 +14912,34 @@
       50
     ],
     [
+      "HideoutMoonTemple",
+      "Metadata/Terrain/Missions/Hideouts/LunarisWater/Graphs/hideout_moontemple.dgr",
+      100,
+      50,
+      0
+    ],
+    [
+      "HideoutMoonTemple_Claim",
+      "Metadata/Terrain/Missions/Hideouts/LunarisWater/Graphs/hideout_moontemple_claim.dgr",
+      100,
+      50,
+      50
+    ],
+    [
+      "HideoutPrimevalRuins",
+      "Metadata/Terrain/Missions/Hideouts/Primeval/Graphs/hideout.dgr",
+      100,
+      50,
+      0
+    ],
+    [
+      "HideoutPrimevalRuins_Claim",
+      "Metadata/Terrain/Missions/Hideouts/Primeval/Graphs/hideout_claim.dgr",
+      100,
+      50,
+      50
+    ],
+    [
       "HideoutDoomguard",
       "Metadata/Terrain/Missions/Hideouts/Doomguard/Graphs/hideout_doomguard.dgr",
       100,
@@ -14956,6 +15131,13 @@
     [
       "HideoutHumanoidPet",
       "Metadata/Terrain/Missions/Hideouts/Sunspire/Graphs/hideout_sunspire.dgr",
+      100,
+      50,
+      0
+    ],
+    [
+      "HideoutRitualLeague",
+      "Metadata/Terrain/Missions/Hideouts/RitualLeague/Graphs/hideout.dgr",
       100,
       50,
       0
@@ -16650,6 +16832,20 @@
     [
       "Heist_Boss_TheUnbreakable",
       "Metadata/Terrain/Leagues/Heist/BossArenas/TheUnbreakable/Graphs/_theunbreakable_boss.dgr",
+      100,
+      50,
+      100
+    ],
+    [
+      "MavenHub",
+      "Metadata/Terrain/EndGame/MapAtlasMaven/Graphs/mapatlas_maven.dgr",
+      100,
+      50,
+      100
+    ],
+    [
+      "MavenHub_alt",
+      "Metadata/Terrain/EndGame/MapAtlasMaven/Graphs/mapatlas_maven_alt.dgr",
       100,
       50,
       100

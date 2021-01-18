@@ -238,7 +238,7 @@
     ],
     [
       "MagmaOrb&Combustion",
-      "เพิ่มความเสียหายไฟให้กับ Magma Orb และเพิ่มโอกาสทำให้เกิดการลุกไหม้ ศัตรูที่ถูกทำให้ลุกไหม้จากสกิลนี้จะมีต้านทาน ไฟ ลดลงอีกด้วย มันจึงเป็นหินซัพพอร์ตที่เหมาะกับสกิลไฟทุกสกิล",
+      "เพิ่มความเสียหายไฟให้กับ Rolling Magma และเพิ่มโอกาสทำให้เกิดการลุกไหม้ ศัตรูที่ถูกทำให้ลุกไหม้จากสกิลนี้จะมีต้านทาน ไฟ ลดลงอีกด้วย มันจึงเป็นหินซัพพอร์ตที่เหมาะกับสกิลไฟทุกสกิล",
       "http://web.poecdn.com/public/videos/MagmaOrb/MagmaOrb+Combustion.bk2",
       109,
       "http://down.qq.com/poe/videos/skills/MagmaOrb/MagmaOrb+Combustion.bk2",
@@ -251,7 +251,7 @@
     ],
     [
       "MagmaOrb&LMP",
-      "เพิ่มจำนวนกระสุนที่ Magma Orb ยิงออกไป ทำให้สามารถโดนศัตรูได้หลายเป้าหมายพร้อมกัน\n\nเมื่อเลเวลสูงขึ้น เปลี่ยนไปใช้ Greater Multiple Projectiles เพื่อเพิ่มจำนวนกระสุนขึ้นไปอีก",
+      "เพิ่มจำนวนกระสุนที่ Rolling Magma ยิงออกไป ทำให้สามารถโดนศัตรูได้หลายเป้าหมายพร้อมกัน\n\nเมื่อเลเวลสูงขึ้น เปลี่ยนไปใช้ Greater Multiple Projectiles เพื่อเพิ่มจำนวนกระสุนขึ้นไปอีก",
       "http://web.poecdn.com/public/videos/MagmaOrb/MagmaOrb+LesserMultipleProjections.bk2 ",
       36,
       "http://down.qq.com/poe/videos/skills/MagmaOrb/MagmaOrb+LMP.bk2",
@@ -265,7 +265,7 @@
     ],
     [
       "MagmaOrb&FirePenetration",
-      "ลดต้านทาน ไฟ ของศัตรู ทำให้พวกมันได้รับความเสียหาย ไฟ จาก Magma Orb เพิ่มขึ้น",
+      "ลดต้านทาน ไฟ ของศัตรู ทำให้พวกมันได้รับความเสียหาย ไฟ จาก Rolling Magma เพิ่มขึ้น",
       "http://web.poecdn.com/public/videos/MagmaOrb/MagmaOrb+FirePenetration.bk2 ",
       172,
       "http://down.qq.com/poe/videos/skills/MagmaOrb/MagmaOrb+FirePenetration.bk2",
@@ -273,7 +273,7 @@
     ],
     [
       "MagmaOrb&SpellEcho",
-      "ทำให้ Magma Orb ร่ายทีละ 2 ครั้ง และเพิ่มความเร็วในการร่ายขึ้น",
+      "ทำให้ Rolling Magma ร่ายทีละ 2 ครั้ง และเพิ่มความเร็วในการร่ายขึ้น",
       "http://web.poecdn.com/public/videos/MagmaOrb/MagmaOrb+SpellEcho.bk2 ",
       188,
       "http://down.qq.com/poe/videos/skills/MagmaOrb/MagmaOrb+SpellEcho.bk2",
@@ -281,7 +281,7 @@
     ],
     [
       "MagmaOrb&SlowerProjectiles",
-      "เพิ่มความเสียหายของ Magma Orb และลดระยะห่างระหว่างการชิ่งแต่ละครั้ง ทำให้ลูกบอล 1 ลูกมีโอกาสโดนศัตรูได้มากกว่า 1 ครั้ง",
+      "เพิ่มความเสียหายของ Rolling Magma และลดระยะห่างระหว่างการชิ่งแต่ละครั้ง ทำให้ลูกบอล 1 ลูกมีโอกาสโดนศัตรูได้มากกว่า 1 ครั้ง",
       "http://web.poecdn.com/public/videos/MagmaOrb/MagmaOrb+SlowerProjectiles.bk2 ",
       209,
       "http://down.qq.com/poe/videos/skills/MagmaOrb/MagmaOrb+SlowerProjectiles.bk2",
@@ -289,7 +289,7 @@
     ],
     [
       "MagmaOrb&Empower",
-      "เพิ่มเลเวลของหินสกิล Magma Orb ทำให้ความเสียหายไฟเพิ่มขึ้น และอาจทำให้ซึ่งเพิ่มขึ้นอีกด้วย หินซัพพอร์ตนี้เป็นหินดรอปเท่านั้นจึงหายากมาก การเก็บเลเวลของหินซัพพอร์ตนี้ยังใช้เวลานานอีกด้วยจึงไม่เหมาะจะใช้งานในช่วงแรก",
+      "เพิ่มเลเวลของหินสกิล Rolling Magma ทำให้ความเสียหายไฟเพิ่มขึ้น และอาจทำให้ซึ่งเพิ่มขึ้นอีกด้วย หินซัพพอร์ตนี้เป็นหินดรอปเท่านั้นจึงหายากมาก การเก็บเลเวลของหินซัพพอร์ตนี้ยังใช้เวลานานอีกด้วยจึงไม่เหมาะจะใช้งานในช่วงแรก",
       "http://web.poecdn.com/public/videos/MagmaOrb/MagmaOrb+Empower.bk2 ",
       200,
       "http://down.qq.com/poe/videos/skills/MagmaOrb/MagmaOrb+Empower.bk2",
@@ -1552,7 +1552,7 @@
     ],
     [
       "MagmaOrb&FasterCast",
-      "เพิ่มความเร็วในการร่ายสกิล ทำให้สามารถใช้สกิลได้บ่อยขึ้น",
+      "เพิ่มความเร็วในการร่ายสกิล Rolling Magma ทำให้สามารถใช้สกิลได้บ่อยขึ้น",
       "http://web.poecdn.com/public/videos/MagmaOrb/MagmaOrb+FasterCast.bk2",
       85,
       "http://down.qq.com/poe/videos/skills/MagmaOrb/MagmaOrb+FasterCasting.bk2",
@@ -1955,6 +1955,58 @@
       "http://web.poecdn.com/public/videos/EKineticBolt/EKineticBoltInspiration.bk2",
       55,
       "http://down.qq.com/poe/videos/tutorial/TKineticBoltInspiration.bk2",
+      []
+    ],
+    [
+      "SplittingSteel&Impale",
+      "Deal more physical damage and Impale enemies, dealing additional damage to enemies with additional hits. You can impale enemies up to five times to deal even more additional damage to enemies.",
+      "http://web.poecdn.com/public/videos/ShatteringSteel/ESplitImpale.bk2",
+      406,
+      "http://down.qq.com/poe/videos/tutorial/TSplitBrutal.bk2",
+      []
+    ],
+    [
+      "SplittingSteel&Brutality",
+      "Cause Splitting Steel to deal much more physical damage, but no elemental damage.\n\nTry not to get additional lightning, fire, cold or chaos damage with this support gem, as they will be reduced to zero.",
+      "http://web.poecdn.com/public/videos/ShatteringSteel/ESplitBrutality.bk2",
+      334,
+      "http://down.qq.com/poe/videos/tutorial/TSplitImpale.bk2",
+      []
+    ],
+    [
+      "SplittingSteel&LMP",
+      "Increase the number of shards that explode from Splitting Steel when you launch a Steel Shard, hitting more enemies.\n\nObtain the Greater Multiple Projectiles Support gem at later levels to throw more projectiles and hit larger groups of enemies.",
+      "http://web.poecdn.com/public/videos/ShatteringSteel/ESplitMultiProj.bk2",
+      36,
+      "http://down.qq.com/poe/videos/tutorial/TSplitMultiProj.bk2",
+      [
+        4
+      ]
+    ],
+    [
+      "SplittingSteel&ViciousProjectiles",
+      "Greatly increases the physical damage dealt by Splitting Steel, at the cost of slightly reducing your attack speed. An invaluable way to increase your damage.",
+      "http://web.poecdn.com/public/videos/ShatteringSteel/ESplitViciousProj.bk2",
+      230,
+      "http://down.qq.com/poe/videos/tutorial/TSplitViciousProj.bk2",
+      []
+    ],
+    [
+      "SplittingSteel&Maim",
+      "Support Splitting Steel with this gem to Maim enemies, dealing more physical damage and slowing their movement. Slow monsters to make them easier to avoid.",
+      "http://web.poecdn.com/public/videos/ShatteringSteel/ESplitMaim.bk2",
+      331,
+      "http://down.qq.com/poe/videos/tutorial/TSplitMaim.bk2",
+      [
+        4
+      ]
+    ],
+    [
+      "SplittingSteel&SlowerProjectiles",
+      "Slow down your bolts of Splitting Steel to make them hit harder for more damage. The projectiles that explode from Call of Steel's shards are also slower, and deal more damage.",
+      "http://web.poecdn.com/public/videos/ShatteringSteel/ESplitSlowerProj.bk2",
+      209,
+      "http://down.qq.com/poe/videos/tutorial/TSplitSlowerProj.bk2",
       []
     ]
   ]

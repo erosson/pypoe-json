@@ -1277,6 +1277,33 @@
       false,
       "",
       ""
+    ],
+    [
+      "RunLeft",
+      true,
+      false,
+      130,
+      true,
+      "Run",
+      ""
+    ],
+    [
+      "RunRight",
+      true,
+      false,
+      131,
+      true,
+      "Run",
+      ""
+    ],
+    [
+      "ShieldBash",
+      false,
+      false,
+      132,
+      false,
+      "ThrowOff",
+      ""
     ]
   ]
 }

@@ -791,7 +791,7 @@
     [
       "UniqueDagger4x",
       22617,
-      "\"Es hat etwas unglaublich Befriedigendes, Testsubjekte mit Ätherischen Klingen aufzuspießen. \r\nVielleicht ist es das Geräusch des Zaubes, die Schreie, oder beides.\r\n– Forscher Olesya"
+      "\"Es hat etwas unglaublich Befriedigendes, \r\nTestsubjekte mit Ätherischen Klingen aufzuspießen. \r\nVielleicht ist es das Geräusch des Zaubers, die Schreie, oder beides.\r\n– Forscher Olesya"
     ],
     [
       "UniqueMap2",
@@ -1651,7 +1651,7 @@
     [
       "UniqueHelmetStrInt4x",
       21143,
-      "\"Prototyp Nr. 722 mag wie ein Helm aussehen, aber ich glaube, er ist etwas ganz anderes. Die Visionen, die er dem Träger zeigt... liegen jenseits des sterblichen Durchhaltevermögens...\""
+      "\"Prototyp Nr. 722 mag wie ein Helm aussehen, \r\naber ich glaube, er ist etwas ganz anderes. \r\nDie Visionen, die er dem Träger zeigt ... \r\nliegen jenseits des sterblichen Durchhaltevermögens ...\""
     ],
     [
       "UniqueFishingRod1",
@@ -2071,7 +2071,7 @@
     [
       "UniqueOneHandAxe5",
       35728,
-      "\"He, Ihr da. Ich schlage Euch einen Handel vor. \r\nGebt mir etwas von Eurem Leben, \r\nund ich schenke Euch mehr Tode, \r\nals Ihr verkraften könnt. Schlagt Ihr ein?\""
+      "\"Mehr Blut... Fleisch aufhacken... muss trinken...\""
     ],
     [
       "UniqueGlovesStrInt2",
@@ -3466,7 +3466,7 @@
     [
       "UniqueBelt17",
       27090,
-      "Doch das Korn wuchs seltsam und das Wasser färbte sich finster\r\nund jene die die Gabe der Mutter Möwe annahmen\r\ngebaren Monster die sich nährten\r\nam Fleische des jeweils anderen."
+      "Doch das Korn wuchs seltsam und das Wasser färbte sich finster,\r\nund jene, die die Gabe der Mutter Möwe annahmen,\r\ngebaren Monster, die sich nährten\r\nam Fleische des jeweils anderen."
     ],
     [
       "TheTrial",
@@ -4186,7 +4186,7 @@
     [
       "UniqueAmulet29x",
       16834,
-      "\"Forscher Graven ertrug im Labor elf Stunden lang Stromschläge, bevor er gefunden wurde.\r\nPrototyp Nr. 14 hat ihn irgendwie vor dem Tod bewahrt.\" "
+      "\"Forscher Graven ertrug im Labor elf Stunden lang Stromschläge, \r\nbevor er gefunden wurde. Prototyp Nr. 14 hat ihn irgendwie vor dem Tod bewahrt.\" "
     ],
     [
       "UniqueOneHandClaw12",
@@ -4196,7 +4196,7 @@
     [
       "UniqueOneHandClaw12x",
       11390,
-      "\"Zusätzliche Testsubjekte genehmigt. Bestimmt genau, wie viele Wunden ertragen werden müssen, um die Energie von Prototyp Nr. 612 zu aktivieren.\""
+      "\"Zusätzliche Testsubjekte genehmigt. Bestimmt genau, wie viele Wunden \r\nertragen werden müssen, um die Energie von Prototyp Nr. 612 zu aktivieren.\""
     ],
     [
       "HerMask",
@@ -4411,7 +4411,7 @@
     [
       "UniqueJewel74x",
       16068,
-      "\"Den Forschern ist es untersagt, den Testsubjekten Gemmen zu geben, die Fallen erzeugen. Wir finden Monate später immer noch Sprengstoff im Lüftungssystem.\" - Verwalter Qotra "
+      "\"Den Forschern ist es untersagt, den Testsubjekten \r\nGemmen zu geben, die Fallen erzeugen. Wir finden Monate später \r\nimmer noch Sprengstoff im Lüftungssystem.\" \r\n– Verwalter Qotra "
     ],
     [
       "UniqueHelmetDexInt7",
@@ -5441,7 +5441,7 @@
     [
       "UniqueBootsStr7x",
       12002,
-      "\"Wir bitten die Forscher davon abzusehen, unsere Prototypen mit bestehenden mächtige Relikten zu kombinieren. Die Versuchung ist offensichtlich, aber die Ergebnisse können... unvorhersehbar sein\" -Verwalter Qotra"
+      "\"Wir bitten die Forscher davon abzusehen, unsere Prototypen mit bestehenden mächtigen Relikten zu kombinieren. Die Versuchung ist offensichtlich, aber die Ergebnisse können ... unvorhersehbar sein.\"\r\n– Verwalter Qotra"
     ],
     [
       "UniqueTwoHandAxe11",
@@ -6694,6 +6694,81 @@
       "Ein gute Spionin vergisst nicht, dass sie undercover gegangen ist."
     ],
     [
+      "DivinationCardHauntingShadows",
+      31356,
+      "Mitten in der Nacht könnt ihr euren Schatten ausweichen,\r\naber im Morgengrauen werden sie Euch immer finden."
+    ],
+    [
+      "DivinationCardAcclimatisation",
+      6686,
+      "<size:24>{Die Welt im immerwährenden Wandel.\r\nEinst üppige Wälder vom wälzenden Sand verschlungen,\r\ngroße Städte in turbulenten Fluten ertrunken.\r\nPasst Euch an oder geht unter.}"
+    ],
+    [
+      "DivinationCardTheWhiteout",
+      65530,
+      "<size:25>{Sie dachten der Winter wäre schon da,\r\ndass der Schnee das Land bedeckte,\r\ndoch in Wahrheit waren alle Hühner\r\nzum Schlafen nach Hause gekommen.}"
+    ],
+    [
+      "DivinationCardSocietysRemorse",
+      23082,
+      "<size:28>{Wir leben, um von Welten zu träumen, \r\nin denen wir nicht sind,\r\neine Lüge, die wir benutzen, \r\num unsere Seelen mit Zweifel zu erfüllen;\r\nDie Welt ist bereits schön,\r\nes gibt keinen Grund zu träumen.}"
+    ],
+    [
+      "DivinationCardDyingLight",
+      61967,
+      "Selbst die Hellsten verblassen schlussendlich in der Dunkelheit."
+    ],
+    [
+      "DivinationCardFatefulMeeting",
+      48206,
+      "<size:24>{Einige Menschen sind das Leuchtfeuer, das den Weg für andere erhellt. Ich hatte das Glück, einer solchen Person zu begegnen.\r\n\r\n- Anton zu Zhenya}"
+    ],
+    [
+      "DivinationCardTheAstromancer_",
+      50690,
+      "<size:22>{Sie sagten, dass er ein gefährlicher Mann war,\r\nlosgebunden vom Sinn für Moral,\r\naber was spielt das für eine Rolle,\r\nwenn seine Liebe zur Menschlichkeit unbestreitbar ist\r\nund die Vollendung seiner Arbeit allen zugute kommen würde?}"
+    ],
+    [
+      "DivinationCardKeepersCorruption",
+      62509,
+      "Mit großer Macht kommt...\r\n\r\n...noch größere Macht."
+    ],
+    [
+      "DivinationCardRecklessAmbition",
+      60655,
+      "Warum sich zufrieden geben, wenn mehr nie genug ist?"
+    ],
+    [
+      "DivinationCardLoveThroughIce",
+      49986,
+      "\"Ich kenne eine Frau, der zuliebe ich mir das Herz herausreißen werde.\"\r\n\r\n– Derrok der Träumer"
+    ],
+    [
+      "DivinationCardDrapedInDreams",
+      28016,
+      "Der Anzug, den ich trage, ist schwer und schlicht.\r\nEine Leinwand, so scheint es, die Träumen Leben einhaucht."
+    ],
+    [
+      "DivinationCardThePatient",
+      35413,
+      "Ich habe Kopfschmerzen, kann mir jemand eine Krankenschwester herbeirufen?"
+    ],
+    [
+      "DivinationCardTheLongWatch",
+      10729,
+      "<size:26>{Der Regen prasselt nieder, der Schlamm greift nach seinen Füßen, während die Gedanken an die in seiner Obhut Stehenden seine Entschlossenheit bestärken.}"
+    ],
+    [
+      "DivinationCardTheBearWoman",
+      50113,
+      "<size:24>{Die Bärin in der Höhle überdauert\r\neinhundert Tage in Stille und Dunkelheit.\r\nWenn der Mond seine letzte Phase beginnt,\r\nLegt die Bärin ihr dickes Fell ab\r\nund wird als Mensch wiedergeboren.}"
+    ],
+    [
+      "DivinationCardBrotherhoodInExile",
+      57908,
+      "<size:25>{Sie suchten Schutz für die Nacht\r\nin der Wärme der alten Wirtschaft,\r\neinstige Feinde nun besonnen,\r\nFreundschaft wird über Whiskey und Gin begonnen.}"
+    ],
+    [
       "UniqueShieldStr11",
       32047,
       "\"Es entstammt weder den Karui, den Azmeri noch den Vaal.\r\nDoch eins ist gewiss. Es ist alt, außergewöhnlich alt.\"\r\n– Icius Perandus, Antiquitätensammlung, Gegenstand 46"
@@ -7271,7 +7346,7 @@
     [
       "ShaperMemoryFragment2_1",
       64947,
-      "\"... Obwohl der Apparat größtenteils funktionstüchtig war,\r\nschien ihm etwas Grundlegendes zu fehlen ...\r\n...  Unermüdlich trieb mich die Suche nach Antworten voran,\r\nbis mich schließlich am Fuße dieser grausamen Vorrichtung\r\nein tiefer Schlaf übermannte ...\""
+      "\"... Obwohl der Apparat größtenteils funktionstüchtig war,\r\nschien ihm etwas Grundlegendes zu fehlen ...\r\n... Unermüdlich trieb mich die Suche nach Antworten voran,\r\nbis mich schließlich am Fuße dieser grausamen Vorrichtung\r\nein tiefer Schlaf übermannte ...\""
     ],
     [
       "ShaperMemoryFragment3_1",
@@ -8081,7 +8156,7 @@
     [
       "ScarabBreach1",
       13223,
-      "Die Anhänger der Finsteren Glut wollten dich, junger Omid,  ihrem Vulkangott opfern, \r\ndoch stattdessen bist du uns in die Hände gefallen. \r\nWir, der Orden der Djinn, sind jetzt dein Stamm."
+      "Die Anhänger der Finsteren Glut wollten dich, junger Omid, ihrem Vulkangott opfern, \r\ndoch stattdessen bist du uns in die Hände gefallen. \r\nWir, der Orden der Djinn, sind jetzt dein Stamm."
     ],
     [
       "ScarabBreach2",
@@ -9144,6 +9219,61 @@
       "Die Hoffnung ist tot. Zurückgelassen, um in der ewigen Dunkelheit zu verrotten."
     ],
     [
+      "MapWorldsDrySea",
+      53637,
+      "Wo einst Wellen mit zermalmender Kraft aufeinanderkrachten,\r\nerzählen brüchige Knochen aus Holz große Geschichten."
+    ],
+    [
+      "MapWorldsStagnation_",
+      48254,
+      "Unterstützt von unerbittlichem Regen, verschlingt die Fäulnis neues Leben bei der ersten Bewegung."
+    ],
+    [
+      "MapWorldsBramblefall",
+      25038,
+      "Die kleinsten Spuren der Zivilisation\r\nwidersetzen sich trotzig den geißelnden Ranken der Natur.\r\nEine bewundernswerte, aber vergebliche Bemühung."
+    ],
+    [
+      "MapWorldsFrozenCabins",
+      51403,
+      "Die Flotte lag gestrandet in der winterlichen Einöde, die, die sich an Bord befanden, würden nie wieder das Licht der Welt erblicken."
+    ],
+    [
+      "MapWorldsBurn",
+      23867,
+      "Lehnt das Land die Toten ab,\r\noder weisen die Toten ihr Schicksal zurück?"
+    ],
+    [
+      "MapWorldsCrimsonTownship",
+      10687,
+      "Der Regen wird die Flecken wegwaschen,\r\naber der Wahnsinn und die Erinnerungen werden nie verblassen."
+    ],
+    [
+      "MapWorldsForkingRiver",
+      29382,
+      "Große Steintürme wurden von der natürlichen Ordnung in die Knie gezwungen\r\nund prompt an ihren Platz gesetzt."
+    ],
+    [
+      "MapWorldsThaumaturgistsLair",
+      51477,
+      "Immer versucht der Mensch seinem Schöpfer nachzueifern, nur um in die Fußstapfen seiner Gleichgültigkeit zu treten."
+    ],
+    [
+      "MapWorldsColdRiver",
+      9863,
+      "Das Eis schmiedet einen unsicheren Pfad,\r\nwie diejenigen, die unter seinem Schleier stehen, bezeugen können."
+    ],
+    [
+      "MapWorldsForbiddenWoods",
+      26156,
+      "Jeder Instinkt nötigt einen, die bittere Kälte durchzuschlafen – ein sicherer Tod.\r\nDiejenigen, die überleben, kämpfen sich durch jede schmerzende Bewegung."
+    ],
+    [
+      "MapWorldsSilo",
+      24497,
+      "Düstere Segen werden an den tiefsten,\r\nverschwiegensten Orten geflüstert."
+    ],
+    [
       "MapWorldsChimera",
       14512,
       "Einer meiner Geiselnehmer versteckte eine Bestie in seinem Herzen. Dieser Ort entfesselte sie. Entblößte sein wahres Ich."
@@ -9496,7 +9626,7 @@
     [
       "UniqueJewel142",
       29148,
-      "Mägde drohten früher ungehorsamen Adelskindern mit der Grube unter der Großen Arena.\r\nFür die Kinder von Sklaven war das mehr als nur eine Drohung."
+      "Mägde drohten früher, ungehorsame Adelskinder \r\nin die Grube unter der Großen Arena zu schicken.\r\nFür die Kinder von Sklaven war das mehr als nur eine Drohung."
     ],
     [
       "UniqueJewel143",
@@ -9879,6 +10009,71 @@
       "Ihr Lehrling verbringt Stunden damit, den Stahl zu bearbeiten,\r\nund das Endergebnis wird zu Schrott geschmolzen.\r\nJeder einzelne Versuch wurde besser als der vorherige.\r\nJeder einzelne wurde schneller gefertigt.\r\nSie kennt den Weg nur zu gut."
     ],
     [
+      "UniqueShieldDexInt8",
+      42567,
+      "Grausame Experimente mit verderbtem Fleisch erfordern eine sorgfältige Vorgehensweise."
+    ],
+    [
+      "UniqueRing69",
+      51378,
+      "Jenseits des Todesschleiers brennt ein Feuer, durch dessen Licht die Nacht getragen wird."
+    ],
+    [
+      "UniqueGlovesStrInt12",
+      14979,
+      "Ein Blutopfer ruft seine Rache hervor.\r\nLasst die Rechtschaffenen zur Hand Gottes werden."
+    ],
+    [
+      "UniqueBelt41",
+      7746,
+      "Die Last fällt am schwersten, nicht auf diejenigen, die gestorben sind,\r\nsondern auf diejenigen, die das nicht taten."
+    ],
+    [
+      "UniqueHelmetStrInt20",
+      48682,
+      "\"Ihre Schwestern trugen über diesen schimmernden Gipfel im Himmel einen ewigen Kampf aus,\r\ndoch Viridi fand stattdessen Stärke in der Bescheidenheit.\"\r\n– Schöpfungsmythos der Azmerier"
+    ],
+    [
+      "UniqueDagger21",
+      53588,
+      "\"Dieses bronzene Mädchen weiß wirklich, wie man jemanden zurechtschneidet!\"\r\n– Bertrand der Vornehme"
+    ],
+    [
+      "UniqueBodyDexInt14",
+      9858,
+      "In jedem von uns existiert ein Wesen reinster Bosheit,\r\nzurückgehalten nur durch Lügen, die wir uns selbst vorgaukeln."
+    ],
+    [
+      "UniqueBelt42a",
+      60094,
+      "Der gequälte Denker leidet unter der Schwere seiner Schuld."
+    ],
+    [
+      "UniqueBelt42b_",
+      21864,
+      "Der grausame Denker findet Freude an der schlimmsten Folter."
+    ],
+    [
+      "UniqueBelt42c",
+      44904,
+      "Des feigen Denkers größter Erfolg ist das reine Überleben."
+    ],
+    [
+      "UniqueRing70",
+      5681,
+      "Akzeptiert die Krankheit, lasst sie wirken.\r\nDann trage sie weit und breit hinaus."
+    ],
+    [
+      "UniqueHelmetStrInt21",
+      29453,
+      "Die urzeitliche Wut schlummert und wartet auf den Ruf der Sterne,\r\num zurückzukehren und die Welt zu verschlingen."
+    ],
+    [
+      "UniqueBootsStrDex7",
+      3846,
+      "Von allem Geliebten, von allem Gehassten\r\nbleibt nichts übrig als Asche."
+    ],
+    [
       "UniqueOneHandSwordDemigods1",
       37580,
       "Die Heldensage des Siegers überdauert,\r\ndenn niemand überlebt, um sie anzufechten."
@@ -10051,7 +10246,7 @@
     [
       "Whakano1",
       33417,
-      "\"Wenn  man aufhört, jemanden als Mitmenschen zu betrachten,\r\ngibt es wenig, was man nicht tun würde, um seine Agenda voranzutreiben.\r\nDas ist es, womit wir es zu tun haben.\""
+      "\"Wenn man aufhört, jemanden als Mitmenschen zu betrachten,\r\ngibt es wenig, was man nicht tun würde, um seine Agenda voranzutreiben.\r\nDas ist es, womit wir es zu tun haben.\""
     ],
     [
       "Whakano2",
@@ -10096,7 +10291,7 @@
     [
       "HeistAncientSeal",
       14531,
-      "\"Auf den ersten Blick scheint dieses Siegel nicht mehr als ein Ornament zu sein. Aber wenn man genauer hinsieht, erkennt man, dass das Muster aus keiner uns bisher bekannten Kultur stammt.\""
+      "\"Auf den ersten Blick scheint dieses Siegel nicht mehr als ein Ornament zu sein.\r\nAber wenn man genauer hinsieht, erkennt man, dass das Muster\r\naus keiner uns bisher bekannten Kultur stammt.\""
     ],
     [
       "HeistBloodOfInnocence",
@@ -10121,7 +10316,7 @@
     [
       "HeistEnigmaticAssemblyA",
       3291,
-      "\"Ich besitze derzeit vierhundertvierundvierundvierzig Stücke dieses alten und rätselhaften Geräts. Einige scheinen zu fehlen. Dieser Teil ist entscheidend.\""
+      "\"Ich besitze derzeit vierhundertvierundvierundvierzig Stücke dieses alten\r\nund rätselhaften Geräts. Einige scheinen zu fehlen. Dieser Teil ist entscheidend.\""
     ],
     [
       "HeistEnigmaticAssemblyB",
@@ -10227,6 +10422,66 @@
       "HeistUrnOfTheOriginalAshes",
       9799,
       "\"Ein großes Feuer fegte einst über das Land, und unsere Anführer zerfielen an Ort und Stelle zu Asche.\r\nDie Urne enthält genau das, was Ihr denkt, und dient als Beweis für unsere lange Abstammungslinie.\""
+    ],
+    [
+      "WatchstoneMaven",
+      65260,
+      "Nur die Seelen, die darin gefangen sind, können von den dunklen Neigungen der Seherin zeugen, und sie wagen es nicht, ihre Stimme zu erheben."
+    ],
+    [
+      "MavenKey",
+      25406,
+      "Es wäre töricht, den Forderungen der Seherin zu gehorchen.\r\nEs wäre töricht, sie nicht zu befolgen."
+    ],
+    [
+      "MavenTrial",
+      4342,
+      "Für diejenigen, die es nicht ertragen müssen,\r\nkann es eine perverse Freude sein,\r\ndem Überlebenskampf zuzuschauen.\r\n\r\n<default>{Kann in einem persönlichen Kartenapparat benutzt werden}"
+    ],
+    [
+      "MavenKeyFragment",
+      15548,
+      "Wertvoll und gefahrvoll,\r\nverlockend und furchteinflößend."
+    ],
+    [
+      "UniqueWatchstone11a",
+      5031,
+      "\"Das Dorf war innerhalb seiner Mauern eingeschlossen,\r\ngeschützt vor denen, die ihnen Schaden zufügen konnten,\r\ngeschützt vor denen, die sie retten konnten.\""
+    ],
+    [
+      "UniqueWatchstone11b",
+      53618,
+      "\"Im Glauben, neues Land entdeckt zu haben,\r\nrammten sie ihre Flagge in die Erde und nannten es ihr Eigen.\r\nEine Geste, die von denen, die bereits dort lebten,\r\nnicht gerade mit Freude aufgenommen wurde.\""
+    ],
+    [
+      "UniqueWatchstone11c",
+      3340,
+      "\"Die ersten Entdecker machten sich auf den Weg in die Berge, um die Lage des Landes zu erkunden,\r\nund beobachteten mit Staunen, wie das Land wogte, sich krümmte und verdarb.\""
+    ],
+    [
+      "UniqueWatchstone11d",
+      10001,
+      "\"Auf den höchsten Gipfeln drang Sonnenlicht hindurch, doch es wärmte nicht.\r\nDie Luft war erstickend und nährte nicht.\r\nUnd diejenigen, die am Treck teilnahmen, erkannten die Torheit ihres Wunsches nach Größe.\""
+    ],
+    [
+      "UniqueWatchstone11e",
+      23060,
+      "\"Wo einst ein Berg in den Himmel ragte, blieb nun nichts als Felder und Staub.\r\nEin Stein nach dem anderen wurde abgetragen und versetzt.\r\nZiel und Ursprung tragen die Folgen."
+    ],
+    [
+      "UniqueWatchstone11f",
+      33164,
+      "\"Der Schatten durchstreifte das Land, ohne Ende in Sicht,\r\nohne ein Ziel vor Augen,\r\nbis auf das eine, das er erfand, um sich die Zeit zu vertreiben.\""
+    ],
+    [
+      "UniqueWatchstone11g",
+      33387,
+      "\"Es gab Jahreszeiten an diesem merkwürdigen neuen Ort, doch ohne Sonne und Schnee.\r\nJahreszeiten aus Stein, die sich aufrichteten und niederstürzten wie Wellen.\r\nJahreszeiten aus Struktur und Wachstum und Wahnsinn und Chaos.\r\nJahreszeiten aus Geburt und Verfall, die jeglicher Ursache entbehrten.\""
+    ],
+    [
+      "UniqueWatchstone11h",
+      63600,
+      "\"Eine Zeit lang dachte man, dieser Ort könnte ein Kaiserreich hervorbringen,\r\ndas in die Geschichte eingehen würde.\r\nSie dachten, dass sie die Länder bewirtschaften und unter ihre Kontrolle bringen könnten.\r\nDoch Kontrolle, wie alle anderen Dinge an diesem Ort, war eine Illusion.\""
     ]
   ]
 }

@@ -1444,18 +1444,6 @@
       false
     ],
     [
-      "HarvestUseMachineItem",
-      "Audio/Sound Effects/UI/Harvest/UseMachineInventory.ogg",
-      "",
-      false
-    ],
-    [
-      "HarvestUseSeedItem",
-      "Audio/Sound Effects/UI/Harvest/UseSeedInventory.ogg",
-      "",
-      false
-    ],
-    [
       "HarvestCraftCondenser",
       "Audio/Sound Effects/UI/Harvest/Condenser.ogg",
       "",
@@ -1506,6 +1494,90 @@
     [
       "HeistStashClose",
       "Audio/Sound Effects/UI/Heist/CloseStash.ogg",
+      "",
+      false
+    ],
+    [
+      "RitualOpen",
+      "Audio/Sound Effects/UI/Ritual/OpenRitualUI.ogg",
+      "",
+      false
+    ],
+    [
+      "RitualSuspend",
+      "Audio/Sound Effects/UI/Ritual/SuspendRitualUI.ogg",
+      "",
+      false
+    ],
+    [
+      "RitualConfirmSuspend",
+      "Audio/Sound Effects/UI/Ritual/ConfirmSuspend.ogg",
+      "",
+      false
+    ],
+    [
+      "RitualExitSuspend",
+      "Audio/Sound Effects/UI/Ritual/ExitSuspendSG",
+      "",
+      false
+    ],
+    [
+      "TrinityCharged",
+      "Audio/Sound Effects/UI/Skill/TrinitySupport/TrinityCharged.ogg",
+      "",
+      false
+    ],
+    [
+      "TrinityDepleted",
+      "Audio/Sound Effects/UI/Skill/TrinitySupport/TrinityDepleted.ogg",
+      "",
+      false
+    ],
+    [
+      "UnlockMaven",
+      "Audio/Sound Effects/UI/Maven/UnlockMaven.ogg",
+      "",
+      false
+    ],
+    [
+      "AtlasCapturedLeftCitadel",
+      "Audio/Sound Effects/UI/Atlas/Citadel/CapturedLeft.ogg",
+      "",
+      false
+    ],
+    [
+      "AtlasRegionCitadel",
+      "Audio/Sound Effects/UI/Atlas/Citadel/RegionCitadel.ogg",
+      "",
+      false
+    ],
+    [
+      "AtlasNullCitadel",
+      "Audio/Sound Effects/UI/Atlas/Citadel/NullCitadel.ogg",
+      "",
+      false
+    ],
+    [
+      "RitualPurchase",
+      "Audio/Sound Effects/UI/Ritual/RitualPurchase.ogg",
+      "",
+      false
+    ],
+    [
+      "RitualReroll",
+      "Audio/Sound Effects/UI/Ritual/RerollRitual.ogg",
+      "",
+      false
+    ],
+    [
+      "AtlasConfirmPassive",
+      "Audio/Sound Effects/UI/Atlas/Passives/ConfirmPassive.ogg",
+      "",
+      false
+    ],
+    [
+      "AtlasUnlockPassive",
+      "Audio/Sound Effects/UI/Atlas/Passives/UnlockPassive.ogg",
       "",
       false
     ]

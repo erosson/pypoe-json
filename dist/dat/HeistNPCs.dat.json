@@ -304,8 +304,8 @@
   ],
   "data": [
     [
-      461,
-      7096,
+      464,
+      7530,
       [
         0,
         2,
@@ -327,13 +327,13 @@
       "Karst, the Lockpick",
       45,
       "Art/2DArt/UIImages/InGame/Heist/CharacterPortraits/KarstCharacterSilhouette",
-      910,
+      1084,
       0,
       null,
       [
         -5
       ],
-      448,
+      451,
       "Art/2DArt/UIImages/InGame/Heist/ActiveNPCs/KarstIcon",
       0,
       [
@@ -342,8 +342,8 @@
       "Metadata/NPC/League/Heist/Karst/Karst.ao"
     ],
     [
-      462,
-      7097,
+      465,
+      7531,
       [
         4,
         7
@@ -366,13 +366,13 @@
       46,
       "Art/2DArt/UIImages/InGame/Heist/CharacterPortraits/NilesCharacterSilhouette",
       742,
-      41,
+      50,
       2,
       [
         0,
         0
       ],
-      449,
+      452,
       "Art/2DArt/UIImages/InGame/Heist/ActiveNPCs/NilesIcon",
       4,
       [
@@ -381,8 +381,8 @@
       "Metadata/NPC/League/Heist/Niles/Niles.ao"
     ],
     [
-      463,
-      7098,
+      466,
+      7532,
       [
         0,
         1,
@@ -391,10 +391,12 @@
       ],
       "Art/2DArt/UIImages/InGame/Heist/CharacterPortraits/HuckCharacterPortrait",
       [
-        107
+        107,
+        133
       ],
       [
-        1
+        1,
+        5
       ],
       0.699999988079071,
       [
@@ -407,12 +409,13 @@
       47,
       "Art/2DArt/UIImages/InGame/Heist/CharacterPortraits/HuckCharacterSilhouette",
       739,
-      14,
+      50,
       0,
       [
-        0
+        0,
+        5
       ],
-      450,
+      453,
       "Art/2DArt/UIImages/InGame/Heist/ActiveNPCs/HuckIcon",
       null,
       [
@@ -421,8 +424,8 @@
       "Metadata/NPC/League/Heist/Huck/Huck.ao"
     ],
     [
-      464,
-      7099,
+      467,
+      7533,
       [
         1,
         3
@@ -442,13 +445,13 @@
       "Tibbs, the Giant",
       48,
       "Art/2DArt/UIImages/InGame/Heist/CharacterPortraits/TibbsCharacterSilhouette",
-      910,
+      1084,
       0,
       null,
       [
         0.20000000298023224
       ],
-      451,
+      454,
       "Art/2DArt/UIImages/InGame/Heist/ActiveNPCs/TibbsIcon",
       1,
       [
@@ -457,8 +460,8 @@
       "Metadata/NPC/League/Heist/Tibbs/Tibbs.ao"
     ],
     [
-      465,
-      7101,
+      468,
+      7535,
       [
         2,
         4
@@ -481,13 +484,13 @@
       49,
       "Art/2DArt/UIImages/InGame/Heist/CharacterPortraits/NenetCharacterSilhouette",
       741,
-      34,
+      50,
       6,
       [
         0,
         -3
       ],
-      452,
+      455,
       "Art/2DArt/UIImages/InGame/Heist/ActiveNPCs/NenetIcon",
       2,
       [
@@ -496,8 +499,8 @@
       "Metadata/NPC/League/Heist/Nenet/Nenet.ao"
     ],
     [
-      466,
-      7102,
+      469,
+      7536,
       [
         3,
         5,
@@ -510,7 +513,7 @@
       ],
       [
         10,
-        5
+        4
       ],
       1.2000000476837158,
       [
@@ -522,13 +525,13 @@
       50,
       "Art/2DArt/UIImages/InGame/Heist/CharacterPortraits/VinderiCharacterSilhouette",
       743,
-      51,
+      50,
       1,
       [
         4,
-        3
+        2
       ],
-      453,
+      456,
       "Art/2DArt/UIImages/InGame/Heist/ActiveNPCs/VinderiIcon",
       3,
       [
@@ -537,8 +540,8 @@
       "Metadata/NPC/League/Heist/Vinderi/Vinderi.ao"
     ],
     [
-      467,
-      7103,
+      470,
+      7537,
       [
         6,
         0,
@@ -563,13 +566,13 @@
       51,
       "Art/2DArt/UIImages/InGame/Heist/CharacterPortraits/TullinaCharacterSilhouette",
       740,
-      24,
+      50,
       3,
       [
         4,
         -2
       ],
-      454,
+      457,
       "Art/2DArt/UIImages/InGame/Heist/ActiveNPCs/TullinaIcon",
       6,
       [
@@ -578,8 +581,8 @@
       "Metadata/NPC/League/Heist/Tullina/Tullina.ao"
     ],
     [
-      468,
-      7104,
+      471,
+      7538,
       [
         7,
         2,
@@ -604,13 +607,13 @@
       52,
       "Art/2DArt/UIImages/InGame/Heist/CharacterPortraits/GiannaCharacterSilhouette",
       744,
-      56,
+      50,
       5,
       [
         0,
         -5
       ],
-      455,
+      458,
       "Art/2DArt/UIImages/InGame/Heist/ActiveNPCs/GiannaIcon",
       7,
       [
@@ -619,8 +622,8 @@
       "Metadata/NPC/League/Heist/Gianna/Gianna.ao"
     ],
     [
-      469,
-      7106,
+      472,
+      7540,
       [
         8,
         5
@@ -642,14 +645,14 @@
       "Isla, the Engineer",
       53,
       "Art/2DArt/UIImages/InGame/Heist/CharacterPortraits/IslaCharacterSilhouette",
-      910,
+      1084,
       0,
       null,
       [
         5,
         5
       ],
-      456,
+      459,
       "Art/2DArt/UIImages/InGame/Heist/ActiveNPCs/IslaIcon",
       8,
       [
@@ -658,8 +661,8 @@
       "Metadata/NPC/League/Heist/Isla/Isla.ao"
     ],
     [
-      459,
-      7108,
+      462,
+      7542,
       [
         2
       ],
@@ -671,21 +674,21 @@
         5
       ],
       "Adiyah, the Wayfinder",
-      57,
+      58,
       "Art/2DArt/UIImages/InGame/Heist/CharacterPortraits/AdiyahCharacterSilhouette",
-      910,
+      1084,
       0,
       null,
       [],
-      477,
+      480,
       "Art/2DArt/UIImages/InGame/Heist/ActiveNPCs/AdiyahIcon",
       2,
       [],
       "Metadata/NPC/League/Heist/Adiyah/Adiyah.ao"
     ],
     [
-      457,
-      7109,
+      460,
+      7543,
       [
         0
       ],
@@ -697,13 +700,13 @@
         5
       ],
       "Kurai, the Administrator",
-      57,
+      58,
       "Art/2DArt/UIImages/InGame/Heist/CharacterPortraits/KuraCharacterSilhouette",
-      910,
+      1084,
       0,
       null,
       [],
-      478,
+      481,
       "Art/2DArt/UIImages/InGame/Heist/ActiveNPCs/KuraiIcon",
       0,
       [],

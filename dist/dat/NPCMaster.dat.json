@@ -260,10 +260,10 @@
       "",
       "",
       null,
-      910,
-      "[DNT] Navali",
+      1084,
+      "[UNUSED] Navali",
       null,
-      910
+      1084
     ],
     [
       "Einhar",
@@ -285,7 +285,7 @@
       598,
       "Area will contain powerful beasts, which Einhar will help you hunt.",
       4,
-      910
+      1084
     ],
     [
       "Alva",
@@ -307,7 +307,7 @@
       599,
       "Area will contain Incursions to the Temple of Atzoatl, which Alva will open.",
       2,
-      910
+      1084
     ],
     [
       "Helena",
@@ -326,10 +326,10 @@
       "",
       "",
       null,
-      910,
-      "[DNT] Helena",
+      1084,
+      "[UNUSED] Helena",
       null,
-      910
+      1084
     ],
     [
       "Niko",
@@ -351,7 +351,7 @@
       600,
       "Area will contain masses of Voltaxic Sulphite, which Niko will extract for you.",
       3,
-      910
+      1084
     ],
     [
       "Jun",
@@ -373,12 +373,12 @@
       601,
       "Area will contain Immortal Syndicate activity, which Jun will help you combat.",
       5,
-      910
+      1084
     ],
     [
       "Zana",
       0,
-      10374,
+      10461,
       0,
       [
         33,
@@ -392,7 +392,7 @@
       ],
       [],
       [],
-      17,
+      18,
       "Complete uncompleted Maps on the Atlas to increase Zana's decoration level.",
       "Have {0} completed Maps on your Atlas to increase Zana's decoration level.",
       4210,

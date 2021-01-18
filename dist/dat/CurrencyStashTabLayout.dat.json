@@ -205,7 +205,7 @@
     ],
     [
       "Metadata/Items/Currency/CurrencyUpgradeToMagic",
-      8,
+      9,
       29,
       161,
       8,
@@ -215,7 +215,7 @@
     ],
     [
       "Metadata/Items/Currency/CurrencyRerollMagic",
-      9,
+      10,
       116,
       161,
       9,
@@ -225,7 +225,7 @@
     ],
     [
       "Metadata/Items/Currency/CurrencyConvertToNormal",
-      10,
+      11,
       204,
       431,
       10,
@@ -235,7 +235,7 @@
     ],
     [
       "Metadata/Items/Currency/CurrencyAddModToRare",
-      11,
+      12,
       393,
       161,
       11,
@@ -245,7 +245,7 @@
     ],
     [
       "Metadata/Items/Currency/CurrencyUpgradeMagicToRare",
-      12,
+      13,
       583,
       161,
       12,
@@ -255,7 +255,7 @@
     ],
     [
       "Metadata/Items/Currency/CurrencyAddModToMagic",
-      13,
+      14,
       290,
       243,
       13,
@@ -265,7 +265,7 @@
     ],
     [
       "Metadata/Items/Currency/CurrencyPortal",
-      14,
+      15,
       204,
       56,
       14,
@@ -275,7 +275,7 @@
     ],
     [
       "Metadata/Items/Currency/CurrencyFlaskQuality",
-      15,
+      16,
       670,
       56,
       15,
@@ -285,7 +285,7 @@
     ],
     [
       "Metadata/Items/Currency/CurrencyGemQuality",
-      16,
+      17,
       757,
       56,
       16,
@@ -295,7 +295,7 @@
     ],
     [
       "Metadata/Items/Currency/CurrencyRerollSocketColours",
-      17,
+      18,
       290,
       349,
       17,
@@ -305,7 +305,7 @@
     ],
     [
       "Metadata/Items/Currency/CurrencyRerollSocketLinks",
-      18,
+      19,
       204,
       349,
       18,
@@ -315,7 +315,7 @@
     ],
     [
       "Metadata/Items/Currency/CurrencyRerollSocketNumbers",
-      19,
+      20,
       116,
       349,
       19,
@@ -325,7 +325,7 @@
     ],
     [
       "Metadata/Items/Currency/CurrencyModValues",
-      20,
+      21,
       843,
       243,
       20,
@@ -335,7 +335,7 @@
     ],
     [
       "Metadata/Items/Currency/CurrencyRerollImplicit",
-      21,
+      22,
       843,
       161,
       21,
@@ -345,7 +345,7 @@
     ],
     [
       "Metadata/Items/Currency/CurrencyMapQuality",
-      22,
+      23,
       843,
       56,
       22,
@@ -355,7 +355,7 @@
     ],
     [
       "Metadata/Items/Currency/CurrencyIdentificationShard",
-      23,
+      24,
       29,
       56,
       23,
@@ -365,7 +365,7 @@
     ],
     [
       "Metadata/Items/Currency/CurrencyUpgradeToMagicShard",
-      24,
+      25,
       29,
       243,
       24,
@@ -375,7 +375,7 @@
     ],
     [
       "Metadata/Items/Currency/CurrencyRerollMagicShard",
-      25,
+      26,
       116,
       243,
       25,
@@ -385,7 +385,7 @@
     ],
     [
       "Metadata/Items/Currency/CurrencyUpgradeToRareShard",
-      26,
+      27,
       670,
       243,
       26,
@@ -395,7 +395,7 @@
     ],
     [
       "Metadata/Items/Currency/CurrencyCorrupt",
-      30,
+      31,
       290,
       431,
       27,
@@ -465,8 +465,8 @@
     ],
     [
       "Metadata/Items/Currency/CurrencySilverCoin",
-      36,
-      757,
+      37,
+      843,
       626,
       35,
       1,
@@ -475,7 +475,7 @@
     ],
     [
       "Metadata/Items/Currency/CurrencyAddAtlasMod",
-      172,
+      173,
       583,
       543,
       36,
@@ -485,7 +485,7 @@
     ],
     [
       "Metadata/Items/Currency/CurrencyAddAtlasModMid",
-      173,
+      174,
       670,
       543,
       37,
@@ -495,7 +495,7 @@
     ],
     [
       "Metadata/Items/Currency/CurrencyAddAtlasModHigh",
-      174,
+      175,
       757,
       543,
       38,
@@ -505,8 +505,8 @@
     ],
     [
       "Metadata/Items/Currency/CurrencyPerandusCoin",
-      35,
-      670,
+      36,
+      757,
       626,
       39,
       1,
@@ -605,7 +605,7 @@
     ],
     [
       "Metadata/Items/Currency/CurrencyRerollRareShard",
-      208,
+      210,
       757,
       243,
       49,
@@ -615,7 +615,7 @@
     ],
     [
       "Metadata/Items/Currency/CurrencyDuplicateShard",
-      209,
+      211,
       480,
       243,
       50,
@@ -625,7 +625,7 @@
     ],
     [
       "Metadata/Items/Currency/CurrencyAddModToRareShard",
-      210,
+      212,
       393,
       243,
       51,
@@ -635,7 +635,7 @@
     ],
     [
       "Metadata/Items/Currency/CurrencyUpgradeMagicToRareShard",
-      211,
+      213,
       583,
       243,
       52,
@@ -645,7 +645,7 @@
     ],
     [
       "Metadata/Items/Currency/CurrencyRemoveModShard",
-      202,
+      204,
       204,
       243,
       53,
@@ -655,7 +655,7 @@
     ],
     [
       "Metadata/Items/Currency/CurrencyRemoveMod",
-      195,
+      197,
       204,
       161,
       54,
@@ -665,7 +665,7 @@
     ],
     [
       "Metadata/Items/Currency/CurrencyRerollMapType",
-      197,
+      199,
       843,
       349,
       55,
@@ -675,7 +675,7 @@
     ],
     [
       "Metadata/Items/Currency/CurrencyRerollMapTypeShard",
-      204,
+      206,
       843,
       431,
       56,
@@ -685,7 +685,7 @@
     ],
     [
       "Metadata/Items/Currency/CurrencyUpgradeMapTier",
-      198,
+      200,
       757,
       349,
       57,
@@ -695,7 +695,7 @@
     ],
     [
       "Metadata/Items/Currency/CurrencyRerollUnique",
-      201,
+      203,
       116,
       543,
       58,
@@ -705,7 +705,7 @@
     ],
     [
       "Metadata/Items/Currency/CurrencyUpgradeToRareAndSetSockets",
-      196,
+      198,
       204,
       543,
       59,
@@ -715,7 +715,7 @@
     ],
     [
       "Metadata/Items/Currency/CurrencyStrongboxQuality",
-      199,
+      201,
       290,
       543,
       60,
@@ -725,8 +725,8 @@
     ],
     [
       "Metadata/Items/AtlasExiles/ApplyInfluence",
-      7035,
-      437,
+      7227,
+      393,
       626,
       61,
       1,
@@ -735,7 +735,7 @@
     ],
     [
       "Metadata/Items/Currency/CurrencyRerollUniqueShard",
-      207,
+      209,
       116,
       626,
       62,
@@ -745,7 +745,7 @@
     ],
     [
       "Metadata/Items/Currency/CurrencyUpgradeToRareAndSetSocketsShard",
-      203,
+      205,
       204,
       626,
       63,
@@ -755,7 +755,7 @@
     ],
     [
       "Metadata/Items/Currency/CurrencyUpgradeMapTierShard",
-      205,
+      207,
       757,
       431,
       64,
@@ -765,7 +765,7 @@
     ],
     [
       "Metadata/Items/Currency/CurrencyStrongboxQualityShard",
-      206,
+      208,
       290,
       626,
       65,
@@ -775,7 +775,7 @@
     ],
     [
       "Metadata/Items/AtlasExiles/AddModToRareCrusader",
-      7031,
+      7223,
       670,
       349,
       66,
@@ -785,7 +785,7 @@
     ],
     [
       "Metadata/Items/AtlasExiles/AddModToRareRedeemer",
-      7032,
+      7224,
       583,
       428,
       67,
@@ -795,7 +795,7 @@
     ],
     [
       "Metadata/Items/AtlasExiles/AddModToRareHunter",
-      7033,
+      7225,
       583,
       349,
       68,
@@ -805,10 +805,40 @@
     ],
     [
       "Metadata/Items/AtlasExiles/AddModToRareWarlord",
-      7034,
+      7226,
       670,
       428,
       69,
+      1,
+      1,
+      true
+    ],
+    [
+      "Metadata/Items/Currency/CurrencyAtlasPassiveRefund",
+      8,
+      670,
+      626,
+      70,
+      1,
+      1,
+      true
+    ],
+    [
+      "Metadata/Items/Currency/CurrencyUpgradeInfluenceMod",
+      7423,
+      481,
+      626,
+      71,
+      1,
+      1,
+      true
+    ],
+    [
+      "Metadata/Items/Currency/CurrencyAddAtlasModMaven",
+      176,
+      843,
+      543,
+      72,
       1,
       1,
       true

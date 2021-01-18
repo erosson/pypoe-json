@@ -36,320 +36,386 @@
     [
       "FireBuffSurge",
       [
-        2367,
-        2422,
-        2423,
-        2424
+        2373,
+        2428,
+        2429,
+        2430
       ]
     ],
     [
       "ColdBuffSurge",
       [
-        2380
+        2386
       ]
     ],
     [
       "ColdAoESurge",
       [
-        2380,
-        2425
+        2386,
+        2431
       ]
     ],
     [
       "LightningBuffSurge",
       [
-        2381
+        2387
       ]
     ],
     [
       "ChaosBuffSurge",
       [
-        2382
+        2388
       ]
     ],
     [
       "HolySurge",
       [
-        2391
+        2397
       ]
     ],
     [
       "PoisonSurge",
       [
-        2392
+        2398
       ]
     ],
     [
       "AuraSurgeRed",
       [
-        2386
+        2392
       ]
     ],
     [
       "AuraSurgePurple",
       [
-        2388
+        2394
       ]
     ],
     [
       "AuraSurgeGreen",
       [
-        2384
+        2390
       ]
     ],
     [
       "AuraSurgeLightGreen",
       [
-        2385
+        2391
       ]
     ],
     [
       "AuraSurgeGolden",
       [
-        2389
+        2395
       ]
     ],
     [
       "AuraSurgeBlue",
       [
-        2387
+        2393
       ]
     ],
     [
       "FocusSurge",
       [
-        2471
+        2477
       ]
     ],
     [
       "VortexSurge",
       [
-        2587
+        2593
       ]
     ],
     [
       "AuraSurgeHuntsman",
       [
-        2856
+        2862
       ]
     ],
     [
       "AuraSurgeMapcap",
       [
-        2815
+        2821
       ]
     ],
     [
       "MoltenShellCast",
       [
-        3067,
-        3947,
-        4866
+        3073,
+        3954,
+        4899
       ]
     ],
     [
       "VaalMoltenShellCast",
       [
-        3068,
-        3957,
-        4866
+        3074,
+        3964,
+        4899
       ]
     ],
     [
       "AuraSurgeOrange",
       [
-        2390
+        2396
       ]
     ],
     [
       "MinionFocusFireSurge",
       [
-        3333
+        3339
       ]
     ],
     [
       "AuraSurgePolarisBlack",
       [
-        3501
+        3507
       ]
     ],
     [
       "AuraSurgePolarisWhite",
       [
-        3502
+        3508
       ]
     ],
     [
       "FrenzyArrow",
       [
-        3561
+        3568
       ]
     ],
     [
       "BaseFireArrow",
       [
-        3679
+        3686
       ]
     ],
     [
       "BaseIceArrow",
       [
-        3680
+        3687
       ]
     ],
     [
       "BaseLightningArrow",
       [
-        3681
+        3688
       ]
     ],
     [
       "BasePhysArrow",
       [
-        3682
+        3689
       ]
     ],
     [
       "PunctureArrow",
       [
-        3683
+        3690
       ]
     ],
     [
       "BaseChaosArrow",
       [
-        3684
+        3691
       ]
     ],
     [
       "BladeBurstSurge",
       [
-        3800,
-        3901,
-        3911
+        3807,
+        3908,
+        3918
       ]
     ],
     [
       "AuraSurgeScientist",
       [
-        3884
+        3891
       ]
     ],
     [
       "StygianSurge",
       [
-        3963
+        5125
       ]
     ],
     [
       "DarkSurge",
       [
-        3973
+        3980
       ]
     ],
     [
       "AuraSurgeAngelic",
       [
-        3978
+        3985
       ]
     ],
     [
       "AuraSurgeDemonic",
       [
-        3979
+        3986
       ]
     ],
     [
       "DragonHunterSurge",
       [
-        3983
+        3990
       ]
     ],
     [
       "DesecrateStygianSurge",
       [
-        3952
+        3959
       ]
     ],
     [
       "GhostflameSurge",
       [
-        2422
+        2428
       ]
     ],
     [
       "FlameBuffSurgeNew",
       [
-        4210,
-        2422,
-        2423,
-        2424
+        4217,
+        2428,
+        2429,
+        2430
       ]
     ],
     [
       "ColdBuffSurgeNew",
       [
-        4211
+        4218
       ]
     ],
     [
       "LightningBuffSurgeNew",
       [
-        4212
+        4219
       ]
     ],
     [
       "DetonateBrandsSurge",
       [
-        4291
+        4298
       ]
     ],
     [
       "AuraSurgeSunrise",
       [
-        4374
+        4381
       ]
     ],
     [
       "AuraSurgeNightfall",
       [
-        4375
+        4382
       ]
     ],
     [
       "FireSurgeMultiSpeed",
       [
-        4457
+        4464
       ]
     ],
     [
       "VoidSurge",
       [
-        4755
+        4762
       ]
     ],
     [
       "BladeVortexIllusionist",
       [
-        4795
+        4802
       ]
     ],
     [
       "AutomatonSurge",
       [
-        4796
+        4803
       ]
     ],
     [
       "DeathWishSurge",
       [
-        4822
+        4829
       ]
     ],
     [
       "DarkwoodSurge",
       [
-        4856
+        4866
+      ]
+    ],
+    [
+      "AuraSurgeEthercraftChaotic",
+      [
+        4884
+      ]
+    ],
+    [
+      "AuraSurgeEthercraftEnraged",
+      [
+        4885
+      ]
+    ],
+    [
+      "AuraSurgeEthercraftSavage",
+      [
+        4886
+      ]
+    ],
+    [
+      "AuraSurgeEthercraftTranquil",
+      [
+        4887
+      ]
+    ],
+    [
+      "BlasphemySurge",
+      [
+        4914
+      ]
+    ],
+    [
+      "AuraSurgeSuffering",
+      [
+        5019
+      ]
+    ],
+    [
+      "AuraSurgeMisery",
+      [
+        5042
+      ]
+    ],
+    [
+      "AuraSurgeBlueDragon",
+      [
+        5045
+      ]
+    ],
+    [
+      "AuraSurgeRedDragon",
+      [
+        5046
+      ]
+    ],
+    [
+      "AuraSurgeCombinedDragon",
+      [
+        5047
+      ]
+    ],
+    [
+      "AuraSurgeFrostViking",
+      [
+        5127
       ]
     ]
   ]

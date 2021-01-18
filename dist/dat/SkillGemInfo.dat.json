@@ -238,7 +238,7 @@
     ],
     [
       "MagmaOrb&Combustion",
-      "Gives Magma Orb more fire damage, additional chance to ignite enemies and reduces the fire resistance of ignited enemies. This makes it a great all-round support for any fire based skill.",
+      "Gives Rolling Magma more fire damage, additional chance to ignite enemies and reduces the fire resistance of ignited enemies. This makes it a great all-round support for any fire based skill.",
       "http://web.poecdn.com/public/videos/MagmaOrb/MagmaOrb+Combustion.bk2",
       109,
       "http://down.qq.com/poe/videos/skills/MagmaOrb/MagmaOrb+Combustion.bk2",
@@ -251,7 +251,7 @@
     ],
     [
       "MagmaOrb&LMP",
-      "Increases the amount of projectiles Magma Orb casts, allowing it to hit more targets at once.\n\nAt later levels, obtain the Greater Multiple Projectiles Support gem to hit enemies in a larger area.",
+      "Increases the amount of projectiles Rolling Magma casts, allowing it to hit more targets at once.\n\nAt later levels, obtain the Greater Multiple Projectiles Support gem to hit enemies in a larger area.",
       "http://web.poecdn.com/public/videos/MagmaOrb/MagmaOrb+LesserMultipleProjections.bk2 ",
       36,
       "http://down.qq.com/poe/videos/skills/MagmaOrb/MagmaOrb+LMP.bk2",
@@ -265,7 +265,7 @@
     ],
     [
       "MagmaOrb&FirePenetration",
-      "Reduces enemy resistance to fire damage, making them take more fire damage from Magma Orb.",
+      "Reduces enemy resistance to fire damage, making them take more fire damage from Rolling Magma.",
       "http://web.poecdn.com/public/videos/MagmaOrb/MagmaOrb+FirePenetration.bk2 ",
       172,
       "http://down.qq.com/poe/videos/skills/MagmaOrb/MagmaOrb+FirePenetration.bk2",
@@ -273,7 +273,7 @@
     ],
     [
       "MagmaOrb&SpellEcho",
-      "Repeats Magma Orb an additional time while also greatly increasing the cast speed.",
+      "Repeats Rolling Magma an additional time while also greatly increasing the cast speed.",
       "http://web.poecdn.com/public/videos/MagmaOrb/MagmaOrb+SpellEcho.bk2 ",
       188,
       "http://down.qq.com/poe/videos/skills/MagmaOrb/MagmaOrb+SpellEcho.bk2",
@@ -281,7 +281,7 @@
     ],
     [
       "MagmaOrb&SlowerProjectiles",
-      "Increases Magma Orb's damage and decreases the distance between each chain, allowing one orb to impact on a pack of monsters multiple times.",
+      "Increases Rolling Magma's damage and decreases the distance between each chain, allowing one orb to impact on a pack of monsters multiple times.",
       "http://web.poecdn.com/public/videos/MagmaOrb/MagmaOrb+SlowerProjectiles.bk2 ",
       209,
       "http://down.qq.com/poe/videos/skills/MagmaOrb/MagmaOrb+SlowerProjectiles.bk2",
@@ -289,7 +289,7 @@
     ],
     [
       "MagmaOrb&Empower",
-      "Raises the gem level of Magma Orb granting additional base fire damage and potentially allowing it to chain additional times. This is a drop-only gem that is very rare. Levelling this support gem takes a long time making it not very useful early on.",
+      "Raises the gem level of Rolling Magma granting additional base fire damage and potentially allowing it to chain additional times. This is a drop-only gem that is very rare. Levelling this support gem takes a long time making it not very useful early on.",
       "http://web.poecdn.com/public/videos/MagmaOrb/MagmaOrb+Empower.bk2 ",
       200,
       "http://down.qq.com/poe/videos/skills/MagmaOrb/MagmaOrb+Empower.bk2",
@@ -1552,7 +1552,7 @@
     ],
     [
       "MagmaOrb&FasterCast",
-      "Increases the cast speed of Magma Orb, allowing the projectiles to be cast more frequently.",
+      "Increases the cast speed of Rolling Magma, allowing the projectiles to be cast more frequently.",
       "http://web.poecdn.com/public/videos/MagmaOrb/MagmaOrb+FasterCast.bk2",
       85,
       "http://down.qq.com/poe/videos/skills/MagmaOrb/MagmaOrb+FasterCasting.bk2",
@@ -1955,6 +1955,58 @@
       "http://web.poecdn.com/public/videos/EKineticBolt/EKineticBoltInspiration.bk2",
       55,
       "http://down.qq.com/poe/videos/tutorial/TKineticBoltInspiration.bk2",
+      []
+    ],
+    [
+      "SplittingSteel&Impale",
+      "Deal more physical damage and Impale enemies, dealing additional damage to enemies with additional hits. You can impale enemies up to five times to deal even more additional damage to enemies.",
+      "http://web.poecdn.com/public/videos/ShatteringSteel/ESplitImpale.bk2",
+      406,
+      "http://down.qq.com/poe/videos/tutorial/TSplitBrutal.bk2",
+      []
+    ],
+    [
+      "SplittingSteel&Brutality",
+      "Cause Splitting Steel to deal much more physical damage, but no elemental damage.\n\nTry not to get additional lightning, fire, cold or chaos damage with this support gem, as they will be reduced to zero.",
+      "http://web.poecdn.com/public/videos/ShatteringSteel/ESplitBrutality.bk2",
+      334,
+      "http://down.qq.com/poe/videos/tutorial/TSplitImpale.bk2",
+      []
+    ],
+    [
+      "SplittingSteel&LMP",
+      "Increase the number of shards that explode from Splitting Steel when you launch a Steel Shard, hitting more enemies.\n\nObtain the Greater Multiple Projectiles Support gem at later levels to throw more projectiles and hit larger groups of enemies.",
+      "http://web.poecdn.com/public/videos/ShatteringSteel/ESplitMultiProj.bk2",
+      36,
+      "http://down.qq.com/poe/videos/tutorial/TSplitMultiProj.bk2",
+      [
+        4
+      ]
+    ],
+    [
+      "SplittingSteel&ViciousProjectiles",
+      "Greatly increases the physical damage dealt by Splitting Steel, at the cost of slightly reducing your attack speed. An invaluable way to increase your damage.",
+      "http://web.poecdn.com/public/videos/ShatteringSteel/ESplitViciousProj.bk2",
+      230,
+      "http://down.qq.com/poe/videos/tutorial/TSplitViciousProj.bk2",
+      []
+    ],
+    [
+      "SplittingSteel&Maim",
+      "Support Splitting Steel with this gem to Maim enemies, dealing more physical damage and slowing their movement. Slow monsters to make them easier to avoid.",
+      "http://web.poecdn.com/public/videos/ShatteringSteel/ESplitMaim.bk2",
+      331,
+      "http://down.qq.com/poe/videos/tutorial/TSplitMaim.bk2",
+      [
+        4
+      ]
+    ],
+    [
+      "SplittingSteel&SlowerProjectiles",
+      "Slow down your bolts of Splitting Steel to make them hit harder for more damage. The projectiles that explode from Call of Steel's shards are also slower, and deal more damage.",
+      "http://web.poecdn.com/public/videos/ShatteringSteel/ESplitSlowerProj.bk2",
+      209,
+      "http://down.qq.com/poe/videos/tutorial/TSplitSlowerProj.bk2",
       []
     ]
   ]

@@ -260,10 +260,10 @@
       "",
       "",
       null,
-      910,
-      "[DNT] Navali",
+      1084,
+      "[UNUSED] Navali",
       null,
-      910
+      1084
     ],
     [
       "Einhar",
@@ -285,7 +285,7 @@
       598,
       "El área contendrá bestias poderosas que Einhar te ayudará a cazar.",
       4,
-      910
+      1084
     ],
     [
       "Alva",
@@ -307,7 +307,7 @@
       599,
       "El área contendrá a Alva, que te abrirá Incursiones al Templo de Atzoatl.",
       2,
-      910
+      1084
     ],
     [
       "Helena",
@@ -326,10 +326,10 @@
       "",
       "",
       null,
-      910,
-      "[DNT] Helena",
+      1084,
+      "[UNUSED] Helena",
       null,
-      910
+      1084
     ],
     [
       "Niko",
@@ -351,7 +351,7 @@
       600,
       "El área contendrá masas de sulfito voltáxico, que Niko extraerá para ti.",
       3,
-      910
+      1084
     ],
     [
       "Jun",
@@ -373,12 +373,12 @@
       601,
       "El área contendrá actividad del Sindicato Inmortal, que Jun te ayudará a combatir.",
       5,
-      910
+      1084
     ],
     [
       "Zana",
       0,
-      10374,
+      10461,
       0,
       [
         33,
@@ -392,7 +392,7 @@
       ],
       [],
       [],
-      17,
+      18,
       "Completa Mapas sin completar del Atlas para aumentar el nivel de decoraciones de Zana.",
       "Ten {0} mapas completados en tu Atlas para aumentar el nivel de decoraciones de Zana.",
       4210,

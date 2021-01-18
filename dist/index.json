@@ -23,8 +23,8 @@
   {
     "filename": "AccountQuestFlags.dat",
     "numHeaders": 0,
-    "numItems": 19,
-    "size": 114,
+    "numItems": 20,
+    "size": 117,
     "langs": []
   },
   {
@@ -45,8 +45,8 @@
   {
     "filename": "AchievementItems.dat",
     "numHeaders": 9,
-    "numItems": 7445,
-    "size": 604222,
+    "numItems": 7677,
+    "size": 625697,
     "langs": [
       "French",
       "German",
@@ -60,8 +60,8 @@
   {
     "filename": "AchievementSetRewards.dat",
     "numHeaders": 6,
-    "numItems": 97,
-    "size": 4756,
+    "numItems": 101,
+    "size": 5145,
     "langs": [
       "French",
       "German",
@@ -75,15 +75,15 @@
   {
     "filename": "AchievementSets.dat",
     "numHeaders": 0,
-    "numItems": 36,
-    "size": 163,
+    "numItems": 37,
+    "size": 166,
     "langs": []
   },
   {
     "filename": "AchievementSetsDisplay.dat",
     "numHeaders": 2,
-    "numItems": 36,
-    "size": 1103,
+    "numItems": 37,
+    "size": 1121,
     "langs": [
       "French",
       "German",
@@ -97,8 +97,8 @@
   {
     "filename": "Achievements.dat",
     "numHeaders": 16,
-    "numItems": 966,
-    "size": 187296,
+    "numItems": 1007,
+    "size": 195149,
     "langs": [
       "French",
       "German",
@@ -119,15 +119,15 @@
   {
     "filename": "ActiveSkillType.dat",
     "numHeaders": 0,
-    "numItems": 99,
-    "size": 352,
+    "numItems": 101,
+    "size": 358,
     "langs": []
   },
   {
     "filename": "ActiveSkills.dat",
     "numHeaders": 25,
-    "numItems": 1290,
-    "size": 366627,
+    "numItems": 1306,
+    "size": 370713,
     "langs": [
       "French",
       "German",
@@ -141,8 +141,8 @@
   {
     "filename": "AddBuffToTargetVarieties.dat",
     "numHeaders": 8,
-    "numItems": 32,
-    "size": 2940,
+    "numItems": 42,
+    "size": 3302,
     "langs": []
   },
   {
@@ -176,8 +176,8 @@
   {
     "filename": "AdvancedSkillsTutorial.dat",
     "numHeaders": 8,
-    "numItems": 31,
-    "size": 13282,
+    "numItems": 32,
+    "size": 13725,
     "langs": [
       "French",
       "German",
@@ -292,7 +292,7 @@
     "filename": "AlternateQualityCurrencyDecayFactors.dat",
     "numHeaders": 2,
     "numItems": 4,
-    "size": 526,
+    "size": 527,
     "langs": []
   },
   {
@@ -334,8 +334,8 @@
   {
     "filename": "Animation.dat",
     "numHeaders": 7,
-    "numItems": 130,
-    "size": 7598,
+    "numItems": 133,
+    "size": 7732,
     "langs": []
   },
   {
@@ -348,15 +348,15 @@
   {
     "filename": "ArchetypeRewards.dat",
     "numHeaders": 5,
-    "numItems": 312,
-    "size": 16069,
+    "numItems": 346,
+    "size": 17142,
     "langs": []
   },
   {
     "filename": "Archetypes.dat",
     "numHeaders": 16,
-    "numItems": 52,
-    "size": 38471,
+    "numItems": 55,
+    "size": 40960,
     "langs": [
       "French",
       "German",
@@ -405,8 +405,8 @@
   {
     "filename": "AreaType.dat",
     "numHeaders": 0,
-    "numItems": 36,
-    "size": 156,
+    "numItems": 37,
+    "size": 159,
     "langs": []
   },
   {
@@ -426,8 +426,8 @@
   {
     "filename": "ArmourTypes.dat",
     "numHeaders": 2,
-    "numItems": 382,
-    "size": 4124,
+    "numItems": 409,
+    "size": 4367,
     "langs": []
   },
   {
@@ -448,8 +448,8 @@
   {
     "filename": "AtlasAwakeningStats.dat",
     "numHeaders": 5,
-    "numItems": 8,
-    "size": 1178,
+    "numItems": 9,
+    "size": 1194,
     "langs": []
   },
   {
@@ -512,7 +512,7 @@
     "filename": "AtlasExiles.dat",
     "numHeaders": 16,
     "numItems": 4,
-    "size": 3814,
+    "size": 3838,
     "langs": []
   },
   {
@@ -532,29 +532,29 @@
   {
     "filename": "AtlasModTiers.dat",
     "numHeaders": 0,
-    "numItems": 3,
-    "size": 62,
+    "numItems": 4,
+    "size": 65,
     "langs": []
   },
   {
     "filename": "AtlasMods.dat",
     "numHeaders": 2,
-    "numItems": 114,
-    "size": 1598,
+    "numItems": 157,
+    "size": 2028,
     "langs": []
   },
   {
     "filename": "AtlasNode.dat",
-    "numHeaders": 45,
-    "numItems": 154,
-    "size": 65790,
+    "numHeaders": 43,
+    "numItems": 164,
+    "size": 63389,
     "langs": []
   },
   {
     "filename": "AtlasNodeDefinition.dat",
     "numHeaders": 6,
-    "numItems": 158,
-    "size": 5273,
+    "numItems": 169,
+    "size": 5547,
     "langs": []
   },
   {
@@ -602,8 +602,8 @@
   {
     "filename": "AwardDisplay.dat",
     "numHeaders": 11,
-    "numItems": 24,
-    "size": 7897,
+    "numItems": 25,
+    "size": 8174,
     "langs": [
       "French",
       "German",
@@ -617,8 +617,8 @@
   {
     "filename": "BackendErrors.dat",
     "numHeaders": 2,
-    "numItems": 532,
-    "size": 43521,
+    "numItems": 541,
+    "size": 44365,
     "langs": [
       "French",
       "German",
@@ -632,8 +632,8 @@
   {
     "filename": "BaseItemTypes.dat",
     "numHeaders": 35,
-    "numItems": 7296,
-    "size": 1875405,
+    "numItems": 7496,
+    "size": 1930136,
     "langs": [
       "French",
       "German",
@@ -648,7 +648,7 @@
     "filename": "BestiaryCapturableMonsters.dat",
     "numHeaders": 14,
     "numItems": 470,
-    "size": 46070,
+    "size": 46539,
     "langs": []
   },
   {
@@ -662,7 +662,7 @@
     "filename": "BestiaryFamilies.dat",
     "numHeaders": 12,
     "numItems": 5,
-    "size": 4154,
+    "size": 4155,
     "langs": [
       "French",
       "German",
@@ -720,7 +720,7 @@
     "filename": "BestiaryRecipes.dat",
     "numHeaders": 9,
     "numItems": 47,
-    "size": 6556,
+    "size": 6744,
     "langs": [
       "French",
       "German",
@@ -956,15 +956,15 @@
   {
     "filename": "BlightCraftingRecipes.dat",
     "numHeaders": 4,
-    "numItems": 498,
-    "size": 20287,
+    "numItems": 499,
+    "size": 20326,
     "langs": []
   },
   {
     "filename": "BlightCraftingResults.dat",
     "numHeaders": 3,
-    "numItems": 498,
-    "size": 17925,
+    "numItems": 499,
+    "size": 17960,
     "langs": []
   },
   {
@@ -1034,7 +1034,7 @@
     "filename": "BlightTowers.dat",
     "numHeaders": 14,
     "numItems": 31,
-    "size": 11977,
+    "size": 11989,
     "langs": [
       "French",
       "German",
@@ -1097,8 +1097,8 @@
   {
     "filename": "BuffDefinitions.dat",
     "numHeaders": 42,
-    "numItems": 1642,
-    "size": 432206,
+    "numItems": 1749,
+    "size": 459535,
     "langs": [
       "French",
       "German",
@@ -1112,8 +1112,8 @@
   {
     "filename": "BuffGroups.dat",
     "numHeaders": 0,
-    "numItems": 14,
-    "size": 92,
+    "numItems": 16,
+    "size": 98,
     "langs": []
   },
   {
@@ -1133,22 +1133,22 @@
   {
     "filename": "BuffVisualOrbArt.dat",
     "numHeaders": 6,
-    "numItems": 89,
-    "size": 5811,
+    "numItems": 92,
+    "size": 5952,
     "langs": []
   },
   {
     "filename": "BuffVisualOrbs.dat",
     "numHeaders": 5,
-    "numItems": 80,
-    "size": 3857,
+    "numItems": 83,
+    "size": 3956,
     "langs": []
   },
   {
     "filename": "BuffVisualOrbTypes.dat",
     "numHeaders": 11,
     "numItems": 7,
-    "size": 2619,
+    "size": 2618,
     "langs": []
   },
   {
@@ -1168,8 +1168,8 @@
   {
     "filename": "BuffVisuals.dat",
     "numHeaders": 16,
-    "numItems": 1392,
-    "size": 271816,
+    "numItems": 1468,
+    "size": 286242,
     "langs": [
       "French",
       "German",
@@ -1212,8 +1212,8 @@
   {
     "filename": "CharacterPanelStats.dat",
     "numHeaders": 9,
-    "numItems": 328,
-    "size": 30350,
+    "numItems": 336,
+    "size": 31212,
     "langs": [
       "French",
       "German",
@@ -1300,8 +1300,8 @@
   {
     "filename": "ChestClusters.dat",
     "numHeaders": 6,
-    "numItems": 53,
-    "size": 3996,
+    "numItems": 54,
+    "size": 4044,
     "langs": []
   },
   {
@@ -1314,8 +1314,8 @@
   {
     "filename": "Chests.dat",
     "numHeaders": 28,
-    "numItems": 1563,
-    "size": 437237,
+    "numItems": 1566,
+    "size": 438114,
     "langs": [
       "French",
       "German",
@@ -1329,8 +1329,8 @@
   {
     "filename": "ClientStrings.dat",
     "numHeaders": 5,
-    "numItems": 5654,
-    "size": 595521,
+    "numItems": 5859,
+    "size": 616806,
     "langs": [
       "French",
       "German",
@@ -1344,8 +1344,8 @@
   {
     "filename": "ClientUIScreens.dat",
     "numHeaders": 0,
-    "numItems": 56,
-    "size": 223,
+    "numItems": 57,
+    "size": 226,
     "langs": []
   },
   {
@@ -1373,15 +1373,15 @@
   {
     "filename": "ComponentArmour.dat",
     "numHeaders": 5,
-    "numItems": 382,
-    "size": 23341,
+    "numItems": 409,
+    "size": 25001,
     "langs": []
   },
   {
     "filename": "ComponentAttributeRequirements.dat",
     "numHeaders": 4,
-    "numItems": 752,
-    "size": 48554,
+    "numItems": 779,
+    "size": 50153,
     "langs": []
   },
   {
@@ -1415,8 +1415,8 @@
   {
     "filename": "CraftingBenchOptions.dat",
     "numHeaders": 32,
-    "numItems": 808,
-    "size": 126936,
+    "numItems": 809,
+    "size": 128801,
     "langs": [
       "French",
       "German",
@@ -1460,8 +1460,8 @@
   {
     "filename": "CurrencyItems.dat",
     "numHeaders": 20,
-    "numItems": 4934,
-    "size": 769171,
+    "numItems": 5005,
+    "size": 779519,
     "langs": [
       "French",
       "German",
@@ -1475,8 +1475,8 @@
   {
     "filename": "CurrencyStashTabLayout.dat",
     "numHeaders": 8,
-    "numItems": 69,
-    "size": 6279,
+    "numItems": 72,
+    "size": 6515,
     "langs": []
   },
   {
@@ -1493,8 +1493,8 @@
   {
     "filename": "DamageHitEffects.dat",
     "numHeaders": 7,
-    "numItems": 16,
-    "size": 1907,
+    "numItems": 20,
+    "size": 2011,
     "langs": []
   },
   {
@@ -1557,7 +1557,7 @@
     "filename": "DescentRewardChests.dat",
     "numHeaders": 16,
     "numItems": 33,
-    "size": 18612,
+    "size": 18815,
     "langs": []
   },
   {
@@ -1655,7 +1655,10 @@
   },
   {
     "filename": "DelveLevelScaling.dat",
-    "missing": true
+    "numHeaders": 14,
+    "numItems": 6000,
+    "size": 330205,
+    "langs": []
   },
   {
     "filename": "DelveMonsterSpawners.dat",
@@ -1709,15 +1712,15 @@
   {
     "filename": "DialogueEvent.dat",
     "numHeaders": 2,
-    "numItems": 42,
-    "size": 1557,
+    "numItems": 43,
+    "size": 1579,
     "langs": []
   },
   {
     "filename": "Directions.dat",
     "numHeaders": 0,
-    "numItems": 4,
-    "size": 62,
+    "numItems": 12,
+    "size": 86,
     "langs": []
   },
   {
@@ -1730,15 +1733,15 @@
   {
     "filename": "DivinationCardArt.dat",
     "numHeaders": 3,
-    "numItems": 328,
-    "size": 18918,
+    "numItems": 343,
+    "size": 19776,
     "langs": []
   },
   {
     "filename": "DivinationCardStashTabLayout.dat",
     "numHeaders": 2,
-    "numItems": 328,
-    "size": 4429,
+    "numItems": 343,
+    "size": 4609,
     "langs": []
   },
   {
@@ -1759,7 +1762,7 @@
     "filename": "DropPool.dat",
     "numHeaders": 3,
     "numItems": 41,
-    "size": 1612,
+    "size": 1605,
     "langs": []
   },
   {
@@ -1772,8 +1775,8 @@
   {
     "filename": "EffectDrivenSkill.dat",
     "numHeaders": 28,
-    "numItems": 38,
-    "size": 8379,
+    "numItems": 47,
+    "size": 9021,
     "langs": []
   },
   {
@@ -1814,8 +1817,8 @@
   {
     "filename": "ElderMapBossOverride.dat",
     "numHeaders": 3,
-    "numItems": 142,
-    "size": 3732,
+    "numItems": 153,
+    "size": 4018,
     "langs": []
   },
   {
@@ -1835,15 +1838,15 @@
   {
     "filename": "Environments.dat",
     "numHeaders": 9,
-    "numItems": 1144,
-    "size": 117433,
+    "numItems": 1183,
+    "size": 121692,
     "langs": []
   },
   {
     "filename": "EssenceStashTabLayout.dat",
     "numHeaders": 8,
     "numItems": 109,
-    "size": 9657,
+    "size": 9658,
     "langs": []
   },
   {
@@ -1857,7 +1860,7 @@
     "filename": "Essences.dat",
     "numHeaders": 63,
     "numItems": 105,
-    "size": 46393,
+    "size": 46394,
     "langs": []
   },
   {
@@ -1884,15 +1887,15 @@
   {
     "filename": "EvergreenAchievements.dat",
     "numHeaders": 3,
-    "numItems": 40,
-    "size": 1115,
+    "numItems": 41,
+    "size": 1131,
     "langs": []
   },
   {
     "filename": "ExecuteGEAL.dat",
     "numHeaders": 41,
-    "numItems": 96,
-    "size": 37465,
+    "numItems": 106,
+    "size": 38853,
     "langs": []
   },
   {
@@ -1934,14 +1937,14 @@
     "filename": "FixedHideoutDoodadTypes.dat",
     "numHeaders": 3,
     "numItems": 5,
-    "size": 902,
+    "size": 912,
     "langs": []
   },
   {
     "filename": "FixedMissions.dat",
     "numHeaders": 8,
     "numItems": 9,
-    "size": 1900,
+    "size": 1911,
     "langs": []
   },
   {
@@ -1954,8 +1957,8 @@
   {
     "filename": "FlavourText.dat",
     "numHeaders": 3,
-    "numItems": 2036,
-    "size": 269656,
+    "numItems": 2087,
+    "size": 276873,
     "langs": [
       "French",
       "German",
@@ -1976,22 +1979,22 @@
   {
     "filename": "Footprints.dat",
     "numHeaders": 3,
-    "numItems": 80,
-    "size": 33010,
+    "numItems": 83,
+    "size": 33615,
     "langs": []
   },
   {
     "filename": "FootstepAudio.dat",
     "numHeaders": 2,
     "numItems": 7,
-    "size": 552,
+    "size": 571,
     "langs": []
   },
   {
     "filename": "FragmentStashTabLayout.dat",
     "numHeaders": 8,
-    "numItems": 88,
-    "size": 8033,
+    "numItems": 90,
+    "size": 8164,
     "langs": []
   },
   {
@@ -2011,8 +2014,8 @@
   {
     "filename": "GemTags.dat",
     "numHeaders": 6,
-    "numItems": 44,
-    "size": 2953,
+    "numItems": 45,
+    "size": 2987,
     "langs": [
       "French",
       "German",
@@ -2040,29 +2043,29 @@
   {
     "filename": "GeometryAttack.dat",
     "numHeaders": 44,
-    "numItems": 660,
-    "size": 104780,
+    "numItems": 707,
+    "size": 111592,
     "langs": []
   },
   {
     "filename": "GeometryChannel.dat",
     "numHeaders": 14,
-    "numItems": 17,
-    "size": 4840,
+    "numItems": 18,
+    "size": 4913,
     "langs": []
   },
   {
     "filename": "GeometryProjectiles.dat",
     "numHeaders": 19,
-    "numItems": 55,
-    "size": 7258,
+    "numItems": 62,
+    "size": 7707,
     "langs": []
   },
   {
     "filename": "GeometryTrigger.dat",
     "numHeaders": 44,
-    "numItems": 210,
-    "size": 33780,
+    "numItems": 248,
+    "size": 38381,
     "langs": []
   },
   {
@@ -2089,8 +2092,8 @@
   {
     "filename": "GrantedEffectQualityStats.dat",
     "numHeaders": 7,
-    "numItems": 1324,
-    "size": 44470,
+    "numItems": 1333,
+    "size": 44717,
     "langs": []
   },
   {
@@ -2111,15 +2114,15 @@
   {
     "filename": "GrantedEffects.dat",
     "numHeaders": 24,
-    "numItems": 8498,
-    "size": 1140715,
+    "numItems": 8898,
+    "size": 1195152,
     "langs": []
   },
   {
     "filename": "GrantedEffectsPerLevel.dat",
     "numHeaders": 47,
-    "numItems": 41567,
-    "size": 7337960,
+    "numItems": 42189,
+    "size": 7441060,
     "langs": []
   },
   {
@@ -2132,15 +2135,15 @@
   {
     "filename": "GroundEffectTypes.dat",
     "numHeaders": 6,
-    "numItems": 28,
-    "size": 2204,
+    "numItems": 30,
+    "size": 2270,
     "langs": []
   },
   {
     "filename": "GroundEffects.dat",
     "numHeaders": 22,
-    "numItems": 98,
-    "size": 22806,
+    "numItems": 110,
+    "size": 24943,
     "langs": []
   },
   {
@@ -2166,18 +2169,7 @@
   },
   {
     "filename": "HarvestCraftOptions.dat",
-    "numHeaders": 12,
-    "numItems": 322,
-    "size": 96400,
-    "langs": [
-      "French",
-      "German",
-      "Korean",
-      "Portuguese",
-      "Russian",
-      "Spanish",
-      "Thai"
-    ]
+    "missing": true
   },
   {
     "filename": "HarvestCraftTiers.dat",
@@ -2188,10 +2180,7 @@
   },
   {
     "filename": "HarvestDurability.dat",
-    "numHeaders": 2,
-    "numItems": 9,
-    "size": 560,
-    "langs": []
+    "missing": true
   },
   {
     "filename": "HarvestEncounterScaling.dat",
@@ -2202,17 +2191,11 @@
   },
   {
     "filename": "HarvestInfrastructure.dat",
-    "numHeaders": 11,
-    "numItems": 8,
-    "size": 2659,
-    "langs": []
+    "missing": true
   },
   {
     "filename": "HarvestInfrastructureCategories.dat",
-    "numHeaders": 0,
-    "numItems": 5,
-    "size": 86,
-    "langs": []
+    "missing": true
   },
   {
     "filename": "HarvestMetaCraftingOptions.dat",
@@ -2223,87 +2206,55 @@
   },
   {
     "filename": "HarvestObjects.dat",
-    "numHeaders": 3,
-    "numItems": 65,
-    "size": 7954,
-    "langs": []
+    "missing": true
   },
   {
     "filename": "HarvestPerLevelValues.dat",
-    "numHeaders": 13,
-    "numItems": 100,
-    "size": 7560,
-    "langs": []
+    "missing": true
   },
   {
     "filename": "HarvestPlantBoosterFamilies.dat",
-    "numHeaders": 0,
-    "numItems": 3,
-    "size": 76,
-    "langs": []
+    "missing": true
   },
   {
     "filename": "HarvestPlantBoosters.dat",
-    "numHeaders": 7,
-    "numItems": 9,
-    "size": 1705,
-    "langs": []
+    "missing": true
   },
   {
     "filename": "HarvestSeedTypes.dat",
-    "numHeaders": 18,
-    "numItems": 48,
-    "size": 27266,
-    "langs": [
-      "French",
-      "German",
-      "Korean",
-      "Portuguese",
-      "Russian",
-      "Spanish",
-      "Thai"
-    ]
+    "missing": true
   },
   {
     "filename": "HarvestSpecialCraftCosts.dat",
-    "numHeaders": 3,
-    "numItems": 8,
-    "size": 734,
-    "langs": []
+    "missing": true
   },
   {
     "filename": "HarvestSpecialCraftOptions.dat",
-    "numHeaders": 3,
-    "numItems": 8,
-    "size": 778,
-    "langs": []
+    "missing": true
   },
   {
     "filename": "HarvestStorageLayout.dat",
-    "numHeaders": 13,
-    "numItems": 29,
-    "size": 8199,
-    "langs": []
+    "missing": true
   },
   {
     "filename": "HeistAreaFormationLayout.dat",
     "numHeaders": 13,
     "numItems": 30,
-    "size": 3696,
+    "size": 3692,
     "langs": []
   },
   {
     "filename": "HeistAreas.dat",
     "numHeaders": 17,
     "numItems": 9,
-    "size": 5781,
+    "size": 5691,
     "langs": []
   },
   {
     "filename": "HeistBalancePerLevel.dat",
     "numHeaders": 21,
     "numItems": 83,
-    "size": 8881,
+    "size": 8884,
     "langs": []
   },
   {
@@ -2345,29 +2296,29 @@
   {
     "filename": "HeistChokepointFormation.dat",
     "numHeaders": 11,
-    "numItems": 71,
-    "size": 5382,
+    "numItems": 70,
+    "size": 5314,
     "langs": []
   },
   {
     "filename": "HeistConstants.dat",
     "numHeaders": 2,
     "numItems": 6,
-    "size": 722,
+    "size": 721,
     "langs": []
   },
   {
     "filename": "HeistContracts.dat",
     "numHeaders": 3,
     "numItems": 43,
-    "size": 1168,
+    "size": 1170,
     "langs": []
   },
   {
     "filename": "HeistDoodadNPCs.dat",
     "numHeaders": 9,
     "numItems": 23,
-    "size": 4269,
+    "size": 4315,
     "langs": []
   },
   {
@@ -2424,7 +2375,7 @@
     "filename": "HeistJobsExperiencePerLevel.dat",
     "numHeaders": 5,
     "numItems": 45,
-    "size": 1838,
+    "size": 1855,
     "langs": []
   },
   {
@@ -2458,15 +2409,15 @@
   {
     "filename": "HeistNPCStats.dat",
     "numHeaders": 5,
-    "numItems": 133,
-    "size": 5148,
+    "numItems": 134,
+    "size": 5179,
     "langs": []
   },
   {
     "filename": "HeistNPCs.dat",
     "numHeaders": 20,
     "numItems": 11,
-    "size": 8298,
+    "size": 8311,
     "langs": []
   },
   {
@@ -2556,15 +2507,15 @@
   {
     "filename": "HideoutDoodads.dat",
     "numHeaders": 12,
-    "numItems": 1107,
-    "size": 602958,
+    "numItems": 1124,
+    "size": 614396,
     "langs": []
   },
   {
     "filename": "HideoutNPCs.dat",
     "numHeaders": 8,
     "numItems": 10,
-    "size": 2110,
+    "size": 2111,
     "langs": []
   },
   {
@@ -2577,8 +2528,8 @@
   {
     "filename": "Hideouts.dat",
     "numHeaders": 14,
-    "numItems": 55,
-    "size": 14806,
+    "numItems": 58,
+    "size": 15455,
     "langs": []
   },
   {
@@ -2642,7 +2593,7 @@
     "filename": "IncursionRooms.dat",
     "numHeaders": 18,
     "numItems": 98,
-    "size": 40143,
+    "size": 40165,
     "langs": [
       "French",
       "German",
@@ -2663,8 +2614,8 @@
   {
     "filename": "IndexableSupportGems.dat",
     "numHeaders": 3,
-    "numItems": 133,
-    "size": 4077,
+    "numItems": 134,
+    "size": 4093,
     "langs": [
       "French",
       "German",
@@ -2699,7 +2650,7 @@
     "filename": "InvasionMonsterRestrictions.dat",
     "numHeaders": 4,
     "numItems": 253,
-    "size": 12309,
+    "size": 12315,
     "langs": []
   },
   {
@@ -2712,29 +2663,29 @@
   {
     "filename": "InvasionMonstersPerArea.dat",
     "numHeaders": 9,
-    "numItems": 631,
-    "size": 52861,
+    "numItems": 634,
+    "size": 53084,
     "langs": []
   },
   {
     "filename": "Inventories.dat",
     "numHeaders": 8,
-    "numItems": 57,
-    "size": 4308,
+    "numItems": 58,
+    "size": 4343,
     "langs": []
   },
   {
     "filename": "InventoryId.dat",
     "numHeaders": 0,
-    "numItems": 57,
-    "size": 222,
+    "numItems": 58,
+    "size": 225,
     "langs": []
   },
   {
     "filename": "InventoryType.dat",
     "numHeaders": 0,
-    "numItems": 37,
-    "size": 164,
+    "numItems": 39,
+    "size": 170,
     "langs": []
   },
   {
@@ -2748,7 +2699,7 @@
     "filename": "ItemClasses.dat",
     "numHeaders": 19,
     "numItems": 73,
-    "size": 12382,
+    "size": 12407,
     "langs": [
       "French",
       "German",
@@ -2763,7 +2714,7 @@
     "filename": "ItemCostPerLevel.dat",
     "numHeaders": 10,
     "numItems": 16,
-    "size": 2936,
+    "size": 2944,
     "langs": []
   },
   {
@@ -2776,22 +2727,22 @@
   {
     "filename": "ItemExperiencePerLevel.dat",
     "numHeaders": 3,
-    "numItems": 9020,
-    "size": 156487,
+    "numItems": 9080,
+    "size": 157523,
     "langs": []
   },
   {
     "filename": "ItemNoteCode.dat",
     "numHeaders": 4,
     "numItems": 37,
-    "size": 1726,
+    "size": 1727,
     "langs": []
   },
   {
     "filename": "ItemSetNames.dat",
     "numHeaders": 0,
-    "numItems": 148,
-    "size": 496,
+    "numItems": 166,
+    "size": 550,
     "langs": []
   },
   {
@@ -2812,8 +2763,8 @@
   {
     "filename": "ItemThemes.dat",
     "numHeaders": 2,
-    "numItems": 182,
-    "size": 4908,
+    "numItems": 187,
+    "size": 5028,
     "langs": [
       "French",
       "German",
@@ -2827,8 +2778,8 @@
   {
     "filename": "ItemVisualEffect.dat",
     "numHeaders": 14,
-    "numItems": 192,
-    "size": 156211,
+    "numItems": 198,
+    "size": 161148,
     "langs": []
   },
   {
@@ -2841,15 +2792,15 @@
   {
     "filename": "ItemVisualIdentity.dat",
     "numHeaders": 48,
-    "numItems": 10054,
-    "size": 4247378,
+    "numItems": 10351,
+    "size": 4368325,
     "langs": []
   },
   {
     "filename": "ItemisedVisualEffect.dat",
     "numHeaders": 11,
-    "numItems": 2228,
-    "size": 137823,
+    "numItems": 2306,
+    "size": 142960,
     "langs": []
   },
   {
@@ -2996,15 +2947,15 @@
   {
     "filename": "LeagueCategory.dat",
     "numHeaders": 0,
-    "numItems": 36,
-    "size": 162,
+    "numItems": 37,
+    "size": 165,
     "langs": []
   },
   {
     "filename": "LeagueFlag.dat",
     "numHeaders": 2,
-    "numItems": 88,
-    "size": 6197,
+    "numItems": 92,
+    "size": 6453,
     "langs": []
   },
   {
@@ -3017,8 +2968,8 @@
   {
     "filename": "LeagueInfo.dat",
     "numHeaders": 12,
-    "numItems": 108,
-    "size": 84957,
+    "numItems": 123,
+    "size": 97432,
     "langs": [
       "French",
       "German",
@@ -3032,8 +2983,8 @@
   {
     "filename": "LeagueQuestFlags.dat",
     "numHeaders": 0,
-    "numItems": 909,
-    "size": 2783,
+    "numItems": 1083,
+    "size": 3305,
     "langs": []
   },
   {
@@ -3135,7 +3086,7 @@
     "filename": "MapCompletionAchievements.dat",
     "numHeaders": 7,
     "numItems": 122,
-    "size": 7758,
+    "size": 7754,
     "langs": []
   },
   {
@@ -3156,15 +3107,15 @@
   {
     "filename": "MapCreationInformation.dat",
     "numHeaders": 2,
-    "numItems": 143,
-    "size": 1652,
+    "numItems": 154,
+    "size": 1751,
     "langs": []
   },
   {
     "filename": "MapDeviceRecipes.dat",
     "numHeaders": 8,
-    "numItems": 42,
-    "size": 4072,
+    "numItems": 44,
+    "size": 4381,
     "langs": []
   },
   {
@@ -3181,8 +3132,8 @@
   {
     "filename": "MapFragmentMods.dat",
     "numHeaders": 8,
-    "numItems": 104,
-    "size": 6673,
+    "numItems": 105,
+    "size": 6721,
     "langs": []
   },
   {
@@ -3217,8 +3168,8 @@
   {
     "filename": "MapSeries.dat",
     "numHeaders": 7,
-    "numItems": 12,
-    "size": 3159,
+    "numItems": 13,
+    "size": 3428,
     "langs": [
       "French",
       "German",
@@ -3230,8 +3181,8 @@
   {
     "filename": "MapSeriesTiers.dat",
     "numHeaders": 10,
-    "numItems": 144,
-    "size": 6017,
+    "numItems": 155,
+    "size": 6281,
     "langs": []
   },
   {
@@ -3244,8 +3195,8 @@
   {
     "filename": "MapStatConditions.dat",
     "numHeaders": 5,
-    "numItems": 54,
-    "size": 2952,
+    "numItems": 55,
+    "size": 2999,
     "langs": []
   },
   {
@@ -3265,8 +3216,8 @@
   {
     "filename": "Maps.dat",
     "numHeaders": 17,
-    "numItems": 470,
-    "size": 43370,
+    "numItems": 481,
+    "size": 44267,
     "langs": []
   },
   {
@@ -3300,8 +3251,8 @@
   {
     "filename": "MetamorphosisMetaMonsters.dat",
     "numHeaders": 4,
-    "numItems": 1259,
-    "size": 46572,
+    "numItems": 1266,
+    "size": 46859,
     "langs": []
   },
   {
@@ -3322,8 +3273,8 @@
   {
     "filename": "MetamorphosisMetaSkills.dat",
     "numHeaders": 28,
-    "numItems": 3337,
-    "size": 414773,
+    "numItems": 3437,
+    "size": 429116,
     "langs": [
       "French",
       "German",
@@ -3395,8 +3346,8 @@
   {
     "filename": "MicrotransactionCombineFormula.dat",
     "numHeaders": 7,
-    "numItems": 178,
-    "size": 20487,
+    "numItems": 194,
+    "size": 22134,
     "langs": []
   },
   {
@@ -3410,12 +3361,15 @@
     "filename": "MicrotransactionPeriodicCharacterEffectVariations.dat",
     "numHeaders": 3,
     "numItems": 165,
-    "size": 16824,
+    "size": 16896,
     "langs": []
   },
   {
     "filename": "MicrotransactionPortalVariations.dat",
-    "missing": true
+    "numHeaders": 5,
+    "numItems": 159,
+    "size": 29099,
+    "langs": []
   },
   {
     "filename": "MicrotransactionRarityDisplay.dat",
@@ -3435,14 +3389,14 @@
     "filename": "MicrotransactionRecycleOutcomes.dat",
     "numHeaders": 2,
     "numItems": 453,
-    "size": 4435,
+    "size": 4439,
     "langs": []
   },
   {
     "filename": "MicrotransactionRecycleSalvageValues.dat",
     "numHeaders": 3,
-    "numItems": 2334,
-    "size": 30156,
+    "numItems": 2530,
+    "size": 32682,
     "langs": []
   },
   {
@@ -3462,36 +3416,36 @@
   {
     "filename": "MinimapIcons.dat",
     "numHeaders": 8,
-    "numItems": 565,
-    "size": 33106,
+    "numItems": 568,
+    "size": 33243,
     "langs": []
   },
   {
     "filename": "MiscAnimated.dat",
     "numHeaders": 5,
-    "numItems": 4867,
-    "size": 574753,
+    "numItems": 5148,
+    "size": 609567,
     "langs": []
   },
   {
     "filename": "MiscBeams.dat",
     "numHeaders": 5,
-    "numItems": 383,
-    "size": 19980,
+    "numItems": 421,
+    "size": 21789,
     "langs": []
   },
   {
     "filename": "MiscEffectPacks.dat",
     "numHeaders": 8,
-    "numItems": 230,
-    "size": 29805,
+    "numItems": 264,
+    "size": 34160,
     "langs": []
   },
   {
     "filename": "MiscObjects.dat",
     "numHeaders": 5,
-    "numItems": 451,
-    "size": 48709,
+    "numItems": 477,
+    "size": 51420,
     "langs": []
   },
   {
@@ -3532,8 +3486,8 @@
   {
     "filename": "ModDomains.dat",
     "numHeaders": 0,
-    "numItems": 24,
-    "size": 122,
+    "numItems": 25,
+    "size": 125,
     "langs": []
   },
   {
@@ -3553,8 +3507,8 @@
   {
     "filename": "ModFamily.dat",
     "numHeaders": 0,
-    "numItems": 4021,
-    "size": 12112,
+    "numItems": 4174,
+    "size": 12571,
     "langs": []
   },
   {
@@ -3574,29 +3528,29 @@
   {
     "filename": "ModSetNames.dat",
     "numHeaders": 0,
-    "numItems": 24,
-    "size": 123,
+    "numItems": 25,
+    "size": 126,
     "langs": []
   },
   {
     "filename": "ModSets.dat",
     "numHeaders": 4,
-    "numItems": 2301,
-    "size": 103526,
+    "numItems": 2461,
+    "size": 109214,
     "langs": []
   },
   {
     "filename": "ModType.dat",
     "numHeaders": 3,
-    "numItems": 7934,
-    "size": 379148,
+    "numItems": 8262,
+    "size": 393695,
     "langs": []
   },
   {
     "filename": "Mods.dat",
     "numHeaders": 58,
-    "numItems": 21190,
-    "size": 5489945,
+    "numItems": 22272,
+    "size": 5788940,
     "langs": [
       "French",
       "German",
@@ -3631,29 +3585,29 @@
   {
     "filename": "MonsterConditionalEffectPacks.dat",
     "numHeaders": 6,
-    "numItems": 4,
-    "size": 1489,
+    "numItems": 8,
+    "size": 1657,
     "langs": []
   },
   {
     "filename": "MonsterConditions.dat",
     "numHeaders": 10,
-    "numItems": 34,
-    "size": 3645,
+    "numItems": 48,
+    "size": 4329,
     "langs": []
   },
   {
     "filename": "MonsterDeathAchievements.dat",
     "numHeaders": 21,
-    "numItems": 159,
-    "size": 21992,
+    "numItems": 180,
+    "size": 24352,
     "langs": []
   },
   {
     "filename": "MonsterDeathConditions.dat",
     "numHeaders": 16,
-    "numItems": 38,
-    "size": 5677,
+    "numItems": 40,
+    "size": 5802,
     "langs": []
   },
   {
@@ -3666,29 +3620,29 @@
   {
     "filename": "MonsterGroupEntries.dat",
     "numHeaders": 3,
-    "numItems": 479,
-    "size": 11865,
+    "numItems": 486,
+    "size": 11952,
     "langs": []
   },
   {
     "filename": "MonsterGroupNames.dat",
     "numHeaders": 0,
-    "numItems": 119,
-    "size": 414,
+    "numItems": 122,
+    "size": 423,
     "langs": []
   },
   {
     "filename": "MonsterHeightBrackets.dat",
     "numHeaders": 4,
-    "numItems": 7,
-    "size": 1042,
+    "numItems": 9,
+    "size": 1106,
     "langs": []
   },
   {
     "filename": "MonsterHeights.dat",
     "numHeaders": 3,
-    "numItems": 6611,
-    "size": 167553,
+    "numItems": 6853,
+    "size": 173075,
     "langs": []
   },
   {
@@ -3708,8 +3662,8 @@
   {
     "filename": "MonsterMortar.dat",
     "numHeaders": 17,
-    "numItems": 167,
-    "size": 15731,
+    "numItems": 175,
+    "size": 16336,
     "langs": []
   },
   {
@@ -3722,29 +3676,29 @@
   {
     "filename": "MonsterPackEntries.dat",
     "numHeaders": 5,
-    "numItems": 4054,
-    "size": 138169,
+    "numItems": 4080,
+    "size": 138949,
     "langs": []
   },
   {
     "filename": "MonsterPacks.dat",
     "numHeaders": 17,
-    "numItems": 1854,
-    "size": 171994,
+    "numItems": 1860,
+    "size": 172482,
     "langs": []
   },
   {
     "filename": "MonsterProjectileAttack.dat",
     "numHeaders": 6,
-    "numItems": 137,
-    "size": 5207,
+    "numItems": 140,
+    "size": 5297,
     "langs": []
   },
   {
     "filename": "MonsterProjectileSpell.dat",
     "numHeaders": 7,
-    "numItems": 169,
-    "size": 6874,
+    "numItems": 179,
+    "size": 7212,
     "langs": []
   },
   {
@@ -3799,8 +3753,8 @@
   {
     "filename": "MonsterSkillsHull.dat",
     "numHeaders": 0,
-    "numItems": 2,
-    "size": 63,
+    "numItems": 3,
+    "size": 66,
     "langs": []
   },
   {
@@ -3876,15 +3830,15 @@
   {
     "filename": "MonsterTypes.dat",
     "numHeaders": 11,
-    "numItems": 2672,
-    "size": 179261,
+    "numItems": 2705,
+    "size": 181996,
     "langs": []
   },
   {
     "filename": "MonsterVarieties.dat",
     "numHeaders": 83,
-    "numItems": 7273,
-    "size": 4138324,
+    "numItems": 7768,
+    "size": 4437388,
     "langs": [
       "French",
       "German",
@@ -3898,40 +3852,43 @@
   {
     "filename": "MoveDaemon.dat",
     "numHeaders": 30,
-    "numItems": 66,
-    "size": 11169,
+    "numItems": 84,
+    "size": 12612,
     "langs": []
   },
   {
     "filename": "MTXSetBonus.dat",
-    "missing": true
+    "numHeaders": 2,
+    "numItems": 3,
+    "size": 516,
+    "langs": []
   },
   {
     "filename": "MultiPartAchievementAreas.dat",
     "numHeaders": 3,
-    "numItems": 9,
-    "size": 794,
+    "numItems": 11,
+    "size": 824,
     "langs": []
   },
   {
     "filename": "MultiPartAchievementConditions.dat",
     "numHeaders": 5,
-    "numItems": 46,
-    "size": 3937,
+    "numItems": 55,
+    "size": 4562,
     "langs": []
   },
   {
     "filename": "MultiPartAchievements.dat",
     "numHeaders": 7,
-    "numItems": 117,
-    "size": 9222,
+    "numItems": 127,
+    "size": 9971,
     "langs": []
   },
   {
     "filename": "Music.dat",
     "numHeaders": 8,
-    "numItems": 289,
-    "size": 33080,
+    "numItems": 293,
+    "size": 33434,
     "langs": [
       "French",
       "German",
@@ -3960,29 +3917,26 @@
   {
     "filename": "MysteryBoxes.dat",
     "numHeaders": 4,
-    "numItems": 27,
-    "size": 3162,
+    "numItems": 28,
+    "size": 3267,
     "langs": []
   },
   {
     "filename": "NPCAudio.dat",
     "numHeaders": 8,
-    "numItems": 128,
-    "size": 15055,
+    "numItems": 134,
+    "size": 16040,
     "langs": []
   },
   {
     "filename": "NPCConversations.dat",
-    "numHeaders": 8,
-    "numItems": 268,
-    "size": 27482,
-    "langs": []
+    "missing": true
   },
   {
     "filename": "NPCDialogueStyles.dat",
     "numHeaders": 10,
-    "numItems": 2,
-    "size": 3196,
+    "numItems": 3,
+    "size": 3174,
     "langs": []
   },
   {
@@ -3996,7 +3950,7 @@
     "filename": "NPCMaster.dat",
     "numHeaders": 16,
     "numItems": 7,
-    "size": 5062,
+    "size": 5076,
     "langs": [
       "French",
       "German",
@@ -4011,18 +3965,29 @@
     "filename": "NPCShop.dat",
     "numHeaders": 10,
     "numItems": 28,
-    "size": 4669,
+    "size": 4680,
     "langs": []
   },
   {
     "filename": "NPCTalk.dat",
-    "missing": true
+    "numHeaders": 31,
+    "numItems": 2653,
+    "size": 437700,
+    "langs": [
+      "French",
+      "German",
+      "Korean",
+      "Portuguese",
+      "Russian",
+      "Spanish",
+      "Thai"
+    ]
   },
   {
     "filename": "NPCTalkConsoleQuickActions.dat",
     "numHeaders": 2,
-    "numItems": 4,
-    "size": 625,
+    "numItems": 6,
+    "size": 747,
     "langs": []
   },
   {
@@ -4035,8 +4000,8 @@
   {
     "filename": "NPCTextAudio.dat",
     "numHeaders": 11,
-    "numItems": 8830,
-    "size": 2095800,
+    "numItems": 11004,
+    "size": 2401502,
     "langs": [
       "French",
       "German",
@@ -4057,8 +4022,8 @@
   {
     "filename": "NPCs.dat",
     "numHeaders": 13,
-    "numItems": 481,
-    "size": 65818,
+    "numItems": 502,
+    "size": 68502,
     "langs": [
       "French",
       "German",
@@ -4144,7 +4109,7 @@
     "filename": "PantheonPanelLayout.dat",
     "numHeaders": 24,
     "numItems": 16,
-    "size": 9059,
+    "size": 9084,
     "langs": [
       "French",
       "German",
@@ -4158,7 +4123,7 @@
     "filename": "PantheonSouls.dat",
     "numHeaders": 5,
     "numItems": 20,
-    "size": 1644,
+    "size": 1641,
     "langs": []
   },
   {
@@ -4171,8 +4136,8 @@
   {
     "filename": "PassiveSkillBuffs.dat",
     "numHeaders": 7,
-    "numItems": 22,
-    "size": 2835,
+    "numItems": 24,
+    "size": 2934,
     "langs": []
   },
   {
@@ -4222,8 +4187,8 @@
   {
     "filename": "PassiveSkills.dat",
     "numHeaders": 29,
-    "numItems": 2964,
-    "size": 638580,
+    "numItems": 3172,
+    "size": 685055,
     "langs": [
       "French",
       "German",
@@ -4300,22 +4265,22 @@
   {
     "filename": "Pet.dat",
     "numHeaders": 6,
-    "numItems": 266,
-    "size": 18900,
+    "numItems": 276,
+    "size": 19705,
     "langs": []
   },
   {
     "filename": "PlayerConditions.dat",
     "numHeaders": 10,
-    "numItems": 40,
-    "size": 4453,
+    "numItems": 44,
+    "size": 4695,
     "langs": []
   },
   {
     "filename": "PreloadGroups.dat",
     "numHeaders": 1,
-    "numItems": 55,
-    "size": 958,
+    "numItems": 57,
+    "size": 979,
     "langs": []
   },
   {
@@ -4335,8 +4300,8 @@
   {
     "filename": "Projectiles.dat",
     "numHeaders": 28,
-    "numItems": 989,
-    "size": 296751,
+    "numItems": 1026,
+    "size": 307748,
     "langs": []
   },
   {
@@ -4358,7 +4323,7 @@
     "filename": "ProphecyChain.dat",
     "numHeaders": 6,
     "numItems": 13,
-    "size": 1918,
+    "size": 1920,
     "langs": []
   },
   {
@@ -4378,8 +4343,8 @@
   {
     "filename": "Quest.dat",
     "numHeaders": 10,
-    "numItems": 175,
-    "size": 16680,
+    "numItems": 187,
+    "size": 17856,
     "langs": [
       "French",
       "German",
@@ -4393,22 +4358,22 @@
   {
     "filename": "QuestAchievements.dat",
     "numHeaders": 5,
-    "numItems": 140,
-    "size": 8397,
+    "numItems": 151,
+    "size": 8910,
     "langs": []
   },
   {
     "filename": "QuestFlags.dat",
     "numHeaders": 0,
-    "numItems": 2298,
-    "size": 6944,
+    "numItems": 2369,
+    "size": 7157,
     "langs": []
   },
   {
     "filename": "QuestRewardOffers.dat",
     "numHeaders": 5,
-    "numItems": 84,
-    "size": 3153,
+    "numItems": 110,
+    "size": 4290,
     "langs": []
   },
   {
@@ -4421,15 +4386,15 @@
   {
     "filename": "QuestStateCalculation.dat",
     "numHeaders": 0,
-    "numItems": 5,
-    "size": 76,
+    "numItems": 7,
+    "size": 82,
     "langs": []
   },
   {
     "filename": "QuestStates.dat",
     "numHeaders": 18,
-    "numItems": 1685,
-    "size": 334344,
+    "numItems": 1866,
+    "size": 376957,
     "langs": [
       "French",
       "German",
@@ -4513,7 +4478,7 @@
     "filename": "RecipeUnlockDisplay.dat",
     "numHeaders": 5,
     "numItems": 91,
-    "size": 8461,
+    "size": 7622,
     "langs": [
       "French",
       "German",
@@ -4548,8 +4513,8 @@
   {
     "filename": "Rulesets.dat",
     "numHeaders": 1,
-    "numItems": 110,
-    "size": 2745,
+    "numItems": 114,
+    "size": 2839,
     "langs": []
   },
   {
@@ -4585,7 +4550,7 @@
     "filename": "SafehouseCraftingSpreeCurrencies.dat",
     "numHeaders": 3,
     "numItems": 13,
-    "size": 981,
+    "size": 982,
     "langs": []
   },
   {
@@ -4612,8 +4577,8 @@
   {
     "filename": "SessionQuestFlags.dat",
     "numHeaders": 1,
-    "numItems": 195,
-    "size": 1575,
+    "numItems": 217,
+    "size": 1728,
     "langs": []
   },
   {
@@ -4626,8 +4591,8 @@
   {
     "filename": "ShopCategory.dat",
     "numHeaders": 7,
-    "numItems": 233,
-    "size": 17155,
+    "numItems": 238,
+    "size": 17464,
     "langs": [
       "French",
       "German",
@@ -4681,7 +4646,7 @@
     "filename": "ShopPaymentPackage.dat",
     "numHeaders": 18,
     "numItems": 249,
-    "size": 39176,
+    "size": 39163,
     "langs": [
       "French",
       "German",
@@ -4767,8 +4732,8 @@
   {
     "filename": "SkillGemInfo.dat",
     "numHeaders": 6,
-    "numItems": 193,
-    "size": 72665,
+    "numItems": 199,
+    "size": 74860,
     "langs": [
       "French",
       "German",
@@ -4782,8 +4747,8 @@
   {
     "filename": "SkillGems.dat",
     "numHeaders": 16,
-    "numItems": 499,
-    "size": 62964,
+    "numItems": 502,
+    "size": 63610,
     "langs": [
       "French",
       "German",
@@ -4832,15 +4797,15 @@
   {
     "filename": "SkillSurgeEffects.dat",
     "numHeaders": 14,
-    "numItems": 68,
-    "size": 7586,
+    "numItems": 69,
+    "size": 7659,
     "langs": []
   },
   {
     "filename": "SkillTotemVariations.dat",
     "numHeaders": 3,
-    "numItems": 173,
-    "size": 2711,
+    "numItems": 188,
+    "size": 2897,
     "langs": []
   },
   {
@@ -4860,8 +4825,8 @@
   {
     "filename": "SoundEffects.dat",
     "numHeaders": 4,
-    "numItems": 241,
-    "size": 26014,
+    "numItems": 253,
+    "size": 27014,
     "langs": []
   },
   {
@@ -4874,8 +4839,8 @@
   {
     "filename": "SpawnObject.dat",
     "numHeaders": 18,
-    "numItems": 73,
-    "size": 7462,
+    "numItems": 85,
+    "size": 8113,
     "langs": []
   },
   {
@@ -4895,8 +4860,8 @@
   {
     "filename": "SpectreOverrides.dat",
     "numHeaders": 3,
-    "numItems": 528,
-    "size": 8540,
+    "numItems": 529,
+    "size": 8553,
     "langs": []
   },
   {
@@ -4923,8 +4888,8 @@
   {
     "filename": "StatDescriptionFunctions.dat",
     "numHeaders": 2,
-    "numItems": 44,
-    "size": 2776,
+    "numItems": 47,
+    "size": 2952,
     "langs": []
   },
   {
@@ -4937,15 +4902,15 @@
   {
     "filename": "StatSemantics.dat",
     "numHeaders": 0,
-    "numItems": 6,
-    "size": 71,
+    "numItems": 7,
+    "size": 74,
     "langs": []
   },
   {
     "filename": "Stats.dat",
     "numHeaders": 18,
-    "numItems": 13326,
-    "size": 1857248,
+    "numItems": 13903,
+    "size": 1937017,
     "langs": [
       "French",
       "German",
@@ -4966,8 +4931,8 @@
   {
     "filename": "StrDexIntMissions.dat",
     "numHeaders": 20,
-    "numItems": 33,
-    "size": 6877,
+    "numItems": 38,
+    "size": 7320,
     "langs": []
   },
   {
@@ -4980,8 +4945,8 @@
   {
     "filename": "SuicideExplosion.dat",
     "numHeaders": 8,
-    "numItems": 30,
-    "size": 2790,
+    "numItems": 36,
+    "size": 3025,
     "langs": []
   },
   {
@@ -4994,8 +4959,8 @@
   {
     "filename": "SummonedSpecificMonsters.dat",
     "numHeaders": 14,
-    "numItems": 525,
-    "size": 31972,
+    "numItems": 549,
+    "size": 33349,
     "langs": []
   },
   {
@@ -5030,8 +4995,8 @@
   {
     "filename": "SurgeTypes.dat",
     "numHeaders": 2,
-    "numItems": 51,
-    "size": 1905,
+    "numItems": 62,
+    "size": 2268,
     "langs": []
   },
   {
@@ -5116,15 +5081,15 @@
   {
     "filename": "TableMonsterSpawners.dat",
     "numHeaders": 30,
-    "numItems": 2470,
-    "size": 533662,
+    "numItems": 2474,
+    "size": 534592,
     "langs": []
   },
   {
     "filename": "Tags.dat",
     "numHeaders": 4,
-    "numItems": 684,
-    "size": 25677,
+    "numItems": 701,
+    "size": 26288,
     "langs": [
       "French",
       "German",
@@ -5159,8 +5124,8 @@
   {
     "filename": "TencentAutoLootPetCurrencies.dat",
     "numHeaders": 2,
-    "numItems": 80,
-    "size": 1150,
+    "numItems": 32,
+    "size": 719,
     "langs": []
   },
   {
@@ -5173,8 +5138,8 @@
   {
     "filename": "TerrainPlugins.dat",
     "numHeaders": 2,
-    "numItems": 70,
-    "size": 2803,
+    "numItems": 71,
+    "size": 2827,
     "langs": []
   },
   {
@@ -5195,8 +5160,8 @@
   {
     "filename": "Topologies.dat",
     "numHeaders": 5,
-    "numItems": 2368,
-    "size": 232300,
+    "numItems": 2396,
+    "size": 235105,
     "langs": []
   },
   {
@@ -5215,7 +5180,10 @@
   },
   {
     "filename": "TriggerBeam.dat",
-    "missing": true
+    "numHeaders": 12,
+    "numItems": 23,
+    "size": 3459,
+    "langs": []
   },
   {
     "filename": "TriggerSpawners.dat",
@@ -5278,7 +5246,7 @@
     "filename": "UniqueMaps.dat",
     "numHeaders": 7,
     "numItems": 32,
-    "size": 3136,
+    "size": 3135,
     "langs": [
       "French",
       "German",
@@ -5292,22 +5260,22 @@
   {
     "filename": "UniqueSetNames.dat",
     "numHeaders": 0,
-    "numItems": 141,
-    "size": 477,
+    "numItems": 145,
+    "size": 489,
     "langs": []
   },
   {
     "filename": "UniqueStashLayout.dat",
     "numHeaders": 11,
-    "numItems": 1270,
-    "size": 61957,
+    "numItems": 1291,
+    "size": 62859,
     "langs": []
   },
   {
     "filename": "UniqueStashTypes.dat",
     "numHeaders": 10,
     "numItems": 22,
-    "size": 4293,
+    "size": 4296,
     "langs": [
       "French",
       "German",
@@ -5435,8 +5403,8 @@
   {
     "filename": "Words.dat",
     "numHeaders": 7,
-    "numItems": 2435,
-    "size": 171708,
+    "numItems": 2470,
+    "size": 174444,
     "langs": [
       "French",
       "German",
@@ -5450,8 +5418,8 @@
   {
     "filename": "WorldAreas.dat",
     "numHeaders": 108,
-    "numItems": 1671,
-    "size": 842406,
+    "numItems": 1696,
+    "size": 853932,
     "langs": [
       "French",
       "German",

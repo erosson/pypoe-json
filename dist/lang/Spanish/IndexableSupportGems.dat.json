@@ -521,7 +521,7 @@
     [
       95,
       194,
-      "Maldición por Golpe"
+      "Toque maléfico"
     ],
     [
       96,
@@ -561,7 +561,7 @@
     [
       103,
       360,
-      "minas cargadas"
+      "Minas cargadas"
     ],
     [
       104,
@@ -626,12 +626,12 @@
     [
       116,
       141,
-      "Magia de Sangre"
+      "Magia de sangre"
     ],
     [
       117,
       113,
-      "Sed de Sangre"
+      "Sed de sangre"
     ],
     [
       118,
@@ -712,6 +712,11 @@
       133,
       496,
       "Perdición inminente"
+    ],
+    [
+      134,
+      501,
+      "Trinidad"
     ]
   ]
 }
