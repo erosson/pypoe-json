@@ -23,6 +23,7 @@ async function main() {
 }
 if (require.main === module) {
   main().then(json => {
-    fs.writeFile(__dirname+"/../dist/passive-skill-tree.json", JSON.stringify(json))
+    fs.writeFile(__dirname+"/../dist/passive-skill-tree.json", JSON.stringify(json, null, 2))
+    // fs.writeFile(__dirname+"/../dist/passive-skill-tree.min.json", JSON.stringify(json))
   })
 }

@@ -12,5 +12,5 @@ const indexByName = Object.fromEntries(all.map(dat => ([dat.filename, {
   langs: langs.filter(lang => langdirs[lang].has(dat.filename+".json")),
 }])))
 const index = list.map(name => indexByName[name] || {filename: name, missing: true})
-// fs.writeFileSync(__dirname+'/../dist/index.json', JSON.stringify(index, null, 2))
-fs.writeFileSync(__dirname+'/../dist/index.json', JSON.stringify(index))
+fs.writeFileSync(__dirname+'/../dist/index.json', JSON.stringify(index, null, 2))
+// fs.writeFileSync(__dirname+'/../dist/index.min.json', JSON.stringify(index))

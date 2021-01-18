@@ -18,7 +18,7 @@ echo "${POE_VERSION}" | tee dist/version.txt
 echo "{\"version\":\"${POE_VERSION}\"}" > dist/version.json
 
 # ASSETS_PATH="/c/Program Files (x86)/Grinding Gear Games/Path of Exile"
-ASSETS_PATH="./assets/content/depot"
+ASSETS_PATH="`pwd`/assets/content/depot"
 pypoe_exporter config set ggpk_path "$ASSETS_PATH"
 
 # Build a list of dat files

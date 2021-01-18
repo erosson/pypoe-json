@@ -9,6 +9,6 @@ const all = JSON.parse(fs.readFileSync(in_))
 
 fs.mkdirSync(out, {recursive: true})
 all.forEach(dat => {
-  // fs.writeFileSync(out+'/'+dat.filename+'.json', JSON.stringify(dat, null, 2))
-  fs.writeFileSync(out+'/'+dat.filename+'.json', JSON.stringify(dat))
+  fs.writeFileSync(out+'/'+dat.filename+'.json', JSON.stringify(dat, null, 2))
+  // fs.writeFileSync(out+'/'+dat.filename+'.min.json', JSON.stringify(dat))
 })
