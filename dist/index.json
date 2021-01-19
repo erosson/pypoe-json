@@ -1461,7 +1461,7 @@
     "filename": "CurrencyItems.dat",
     "numHeaders": 20,
     "numItems": 5005,
-    "size": 779519,
+    "size": 779582,
     "langs": [
       "French",
       "German",
@@ -2122,7 +2122,7 @@
     "filename": "GrantedEffectsPerLevel.dat",
     "numHeaders": 47,
     "numItems": 42189,
-    "size": 7441060,
+    "size": 7441059,
     "langs": []
   },
   {
@@ -2268,7 +2268,7 @@
     "filename": "HeistChestRewardTypes.dat",
     "numHeaders": 11,
     "numItems": 23,
-    "size": 5935,
+    "size": 5936,
     "langs": [
       "French",
       "German",
@@ -3550,7 +3550,7 @@
     "filename": "Mods.dat",
     "numHeaders": 58,
     "numItems": 22272,
-    "size": 5788940,
+    "size": 5788938,
     "langs": [
       "French",
       "German",
