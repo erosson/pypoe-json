@@ -1,0 +1,77 @@
+{
+  "filename": "HeistObjectiveValueDescriptions.dat",
+  "header": [
+    {
+      "name": "Unknown0",
+      "rowid": 0,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown1",
+      "rowid": 1,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    },
+    {
+      "name": "Unknown2",
+      "rowid": 2,
+      "type": "int",
+      "key": null,
+      "key_id": null,
+      "key_offset": 0,
+      "enum": null,
+      "unique": false,
+      "file_path": false,
+      "file_ext": null,
+      "display": null,
+      "display_type": "{0}",
+      "description": null
+    }
+  ],
+  "data": [
+    [
+      0,
+      1008981770,
+      8
+    ],
+    [
+      1,
+      1065353216,
+      12
+    ],
+    [
+      2,
+      1067450368,
+      48
+    ],
+    [
+      3,
+      1073741824,
+      74
+    ],
+    [
+      4,
+      1232348144,
+      106
+    ]
+  ]
+}

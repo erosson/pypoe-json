@@ -51,12 +51,12 @@
     [
       "ProxyKey1",
       "อย่าลืมใช้ขวด (<b>{1-5} บนแป้นพิมพ์)",
-      "Remember to use flasks (<<xbox_button_lb>> <<xbox_button_dpad_left>> <<xbox_button_dpad_up>> <<xbox_button_dpad_right>> <<xbox_button_rb>>)."
+      "อย่าลืมใช้ขวดยา (<<xbox_button_lb>> <<xbox_button_dpad_left>> <<xbox_button_dpad_up>> <<xbox_button_dpad_right>> <<xbox_button_rb>>)"
     ],
     [
       "ProxyKey2",
       "คุณสามารถลบ <gemitem>{สกิลเจ็ม} จากไอเท็มโดยคลิกขวา",
-      "You can remove a <gemitem>{Skill Gem} from an item by pressing <<xbox_button_b>> on the item then <<xbox_button_a>>."
+      "คุณสามารถนำ <gemitem>{หินสกิล} ออกจากไอเทมได้ด้วยการกด <<xbox_button_b>> บนไอเทมแล้วกด <<xbox_button_a>>"
     ],
     [
       "ProxyKey3",
@@ -76,7 +76,7 @@
     [
       "ProxyKey6",
       "ใช้ <b>{Ctrl} + <b>{Alt} + <b>{คลิก} เพื่อลิงก์ไอเท็มให้กับผู้เล่นคนอื่นๆ ในแชท",
-      "Use <<xbox_button_lstick>> + <<xbox_button_b>> to link an item to other players in chat."
+      "ใช้ <<xbox_button_lstick>> + <<xbox_button_b>> เพื่อลิงค์ไอเทมให้ผู้เล่นคนอื่นๆ ในแชท"
     ],
     [
       "ProxyKey7",
@@ -86,7 +86,7 @@
     [
       "ProxyKey8",
       "คลิกขวาที่ผู้เล่นหรือส่งข้อความให้พวกเขาในการแชทเพื่อเชิญพวกเขามาที่ปาร์ตี้ของคุณ",
-      "Press <<xbox_button_a>> on a player or message them in chat to invite them to your party."
+      "กด <<xbox_button_a>> บนผู้เล่นหรือส่งข้อความหาพวกเขาในแชท เพื่อเชิญพวกเขาเข้าร่วมปาร์ตี้"
     ],
     [
       "ProxyKey9",
@@ -111,12 +111,12 @@
     [
       "ProxyKey13",
       "เมื่อต้องการใช้ <currencyitem>{สครอล} หรือ <currencyitem>{ออร์บ} ให้ <b>{คลิกขวา} แล้ว <b>{คลิกซ้าย} ไอเท็มเป้าหมาย",
-      "To use a <currencyitem>{scroll} or <currencyitem>{orb}, press <<xbox_button_a>> on it then <<xbox_button_a>> on the target item."
+      "ในการใช้ <currencyitem>{Scroll} หรือ <currencyitem>{Orb}, กดปุ่ม <<xbox_button_a>> บนไอเทมแล้วกดปุ่ม <<xbox_button_a>> ที่ไอเทมเป้าหมาย"
     ],
     [
       "ProxyKey14",
       "กด <b>{Shift} ค้าง และคลิกที่กองของไอเท็มเพื่อแยกกอง",
-      "Press <<xbox_button_b>> on a stack of items to unstack them."
+      "กดปุ่ม <<xbox_button_b>> บนกองไอเทมเพื่อแยกกองไอเทม"
     ],
     [
       "ProxyKey15",
@@ -196,12 +196,12 @@
     [
       "ProxyKey31",
       "กด <b>{Alt} ค้างขณะที่ดูไอเท็มในช่องเก็บของของคุณเพื่อเปรียบเทียบกับที่สวมใส่",
-      "Hold <<xbox_button_lstick>> while viewing items in your inventory to compare them with their equipped counterpart."
+      "กดปุ่ม <<xbox_button_lstick>> ค้างไว้ขณะดูไอเทมในช่องเก็บไอเทมของคุณ เพื่อเปรียบเทียบไอเทมชิ้นนั้นกับไอเทมแบบเดียวกันที่สวมใส่อยู่"
     ],
     [
       "ProxyKey33",
       "กด <b>{Ctrl} ค้าง และคลิกจุดเปลี่ยนพื้นที่และไอคอนเวย์พอยน์เพื่อบังคับการสร้างอินสแตนซ์ใหม่ของพื้นที่",
-      "Press <<xbox_button_y>> on area transitions and waypoint icons to forcibly create new instances of areas."
+      "กดปุ่ม <<xbox_button_y>> ในจุดเชื่อมพื้นที่หรือไอคอนเวย์พอยน์เพื่อบังคับสร้างอินสแตนซ์พื้นที่ใหม่"
     ],
     [
       "ProxyKey34",
@@ -246,7 +246,7 @@
     [
       "ProxyKey42",
       "เมื่อคุณได้ตั้งค่าตัวกรองไอเทม คุณสามารถกด <b> {Z} เพื่อดูไอเทมทั้งหมด",
-      "Once you have set up an Item Filter, you can hold <<xbox_button_lstick>> to view all items."
+      "เมื่อคุณได้เซ็ตไอเทมฟิลเตอร์แล้ว คุณสามารถกด <<xbox_button_lstick>> เพื่อดูไอเทมทั้งหมด"
     ],
     [
       "ProxyKey43",

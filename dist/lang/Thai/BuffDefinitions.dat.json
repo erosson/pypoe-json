@@ -77013,10 +77013,10 @@
     ],
     [
       "debilitate",
-      "You are slowed and deal less Damage.",
+      "คุณถูกทำให้ช้าลงและสร้างความเสียหายลดลง อีก",
       false,
       false,
-      "Debilitate",
+      "อ่อนกำลัง",
       [
         12221,
         12222
@@ -79129,10 +79129,10 @@
     ],
     [
       "death_wish_display_stages",
-      "A number of your minions are affected by Death Wish.",
+      "มิเนียนของคุณจำนวนหนึ่งได้รับผลจากพรมรณะ",
       false,
       false,
-      "Death Wish",
+      "พรมรณะ",
       [],
       true,
       4,
@@ -81419,10 +81419,10 @@
     ],
     [
       "ritual_rune_monster_aura",
-      "Monsters in the Rune area are much stronger",
+      "มอนสเตอร์ในพื้นที่อักขระเวทย์แข็งแกร่งขึ้นเป็นอย่างยิ่ง",
       true,
       false,
-      "Ritual Rune",
+      "อักขระเวทย์พิธีกรรม",
       [
         24,
         477,
@@ -81519,10 +81519,10 @@
     ],
     [
       "wet",
-      "You have been Drenched by a Water Sphere, and can be damaged by it's pulses.",
+      "คุณ เปียกปอน จากวงวารี และได้รับความเสียหายจากการส่งคลื่นของมัน",
       false,
       false,
-      "Drenched",
+      "เปียกปอน",
       [],
       true,
       3,
@@ -81966,10 +81966,10 @@
     ],
     [
       "pirate_boss_ghostfire_degen",
-      "You are taking fire damage over time\r\n\r\nThe light of the dead\r\nBurns flesh from thy mortal frame\r\nOnly bones remain",
+      "คุณได้รับความเสียหาย ไฟ ต่อเนื่อง\r\n\r\nแสงจากผู้มรณา\r\nแผดเผาเลือดเนื้อเจ้า\r\nเหลือเพียงกระดูก",
       false,
       false,
-      "Soulfire",
+      "เพลิงวิญญาณ",
       [
         1989
       ],
@@ -82016,10 +82016,10 @@
     ],
     [
       "crimson_priest_boss_degen",
-      "You are taking physical damage over time from a Blood Ritual",
+      "คุณได้รับความเสียหาย กายภาพ ต่อเนื่อง จากพิธีกรรมเลือด",
       false,
       false,
-      "Blood Ritual",
+      "พิธีกรรมเลือด",
       [
         354
       ],
@@ -82064,10 +82064,10 @@
     ],
     [
       "ritual_rune_fire1",
-      "Monsters in the Rune area are much stronger",
+      "มอนสเตอร์ในพื้นที่อักขระเวทย์แข็งแกร่งขึ้นเป็นอย่างยิ่ง",
       true,
       false,
-      "Ritual Rune",
+      "อักขระเวทย์พิธีกรรม",
       [
         611,
         447
@@ -82114,10 +82114,10 @@
     ],
     [
       "ritual_rune_cold1",
-      "Monsters in the Rune area are much stronger",
+      "มอนสเตอร์ในพื้นที่อักขระเวทย์แข็งแกร่งขึ้นเป็นอย่างยิ่ง",
       true,
       false,
-      "Ritual Rune",
+      "อักขระเวทย์พิธีกรรม",
       [
         455,
         448
@@ -82164,10 +82164,10 @@
     ],
     [
       "ritual_rune_chaos_purple1",
-      "Monsters in the Rune area are much stronger",
+      "มอนสเตอร์ในพื้นที่อักขระเวทย์แข็งแกร่งขึ้นเป็นอย่างยิ่ง",
       true,
       false,
-      "Ritual Rune",
+      "อักขระเวทย์พิธีกรรม",
       [
         7162,
         9823
@@ -82518,7 +82518,7 @@
     ],
     [
       "convergence",
-      "You deal more Elemental Damage.",
+      "คุณสร้างความเสียหาย ธาตุ เพิ่มขึ้น อีก",
       false,
       false,
       "Convergence",
@@ -82614,10 +82614,10 @@
     ],
     [
       "fanaticism_charge",
-      "You gain bonuses from your Ascendancy for having Fanatic Charges",
+      "คุณได้รับโบนัสจากอาชีพเสริมของคุณจากการมี Fanatic Charge",
       false,
       false,
-      "Fanatic Charges",
+      "Fanatic Charge",
       [],
       true,
       4,
@@ -82704,10 +82704,10 @@
     ],
     [
       "aegis_primal_buff",
-      "Elemental Damage from Hits is taken from this Aegis before your Life or Energy Shield. The Aegis will be restored to full value if you take no Elemental Damage from Hits for a while.",
+      "ความเสียหาย ปะทะ ธาตุ จะถูกรับโดยโล่เอจิสก่อนพลังชีวิตหรือโล่พลังงานของคุณ โล่เอจิสจะถูกฟื้นกลับไปสู่ค่าเต็มหากคุณไม่ได้รับความเสียหาย ปะทะ ธาตุ เป็นเวลาพักหนึ่ง",
       false,
       false,
-      "Primal Aegis",
+      "โล่เอจิสดึกดำบรรพ์",
       [
         6831
       ],
@@ -82752,10 +82752,10 @@
     ],
     [
       "aegis_primal_depleted",
-      "The Aegis is depleted. It will be restored to full value after a short delay.",
+      "โล่เอจิสนี้หมดไปแล้ว มันจะถูกฟื้นกลับไปสู่ค่าเต็มหลังจากเวลาผ่านไปสั้นๆ",
       false,
       false,
-      "Primal Aegis",
+      "โล่เอจิสดึกดำบรรพ์",
       [],
       true,
       3,
@@ -83020,10 +83020,10 @@
     ],
     [
       "flame_golem_revive_display_buff",
-      "Your Flame Golem will be revived soon",
+      "โกเลมไฟของคุณจะถูกชุบชีวิตในไม่ช้า",
       false,
       false,
-      "Reviving Flame",
+      "ไฟชุบชีวี",
       [],
       true,
       1,
@@ -83064,10 +83064,10 @@
     ],
     [
       "ritual_cold_rune_daemon_debuff",
-      "You are taking Cold Damage over time.",
+      "คุณได้รับความเสียหาย น้ำแข็ง ต่อเนื่อง",
       false,
       false,
-      "Deathly Chill",
+      "ความหนาวเย็นมรณะ",
       [
         1991
       ],
@@ -83112,7 +83112,7 @@
     ],
     [
       "vampiric_icon_buff",
-      "You deal more damage with Bleeding.",
+      "คุณสร้างความเสียหาย เลือดไหล เพิ่มขึ้น อีก",
       false,
       true,
       "Thirst for Blood",
@@ -83160,10 +83160,10 @@
     ],
     [
       "ice_golem_revive_display_buff",
-      "Your Ice Golem will be revived soon",
+      "โกเลมน้ำแข็งของคุณจะถูกชุบชีวิตในไม่ช้า",
       false,
       false,
-      "Reviving Ice",
+      "น้ำแข็งชุบชีวี",
       [],
       true,
       1,
@@ -83204,10 +83204,10 @@
     ],
     [
       "lightning_golem_revive_display_buff",
-      "Your Lightning Golem will be revived soon",
+      "โกเลมสายฟ้าของคุณจะถูกชุบชีวิตในไม่ช้า",
       false,
       false,
-      "Reviving Lightning",
+      "สายฟ้าชุบชีวี",
       [],
       true,
       1,
@@ -83248,10 +83248,10 @@
     ],
     [
       "stone_golem_revive_display_buff",
-      "Your Stone Golem will be revived soon",
+      "โกเลมหินของคุณจะถูกชุบชีวิตในไม่ช้า",
       false,
       false,
-      "Reviving Stone",
+      "หินชุบชีวี",
       [],
       true,
       1,
@@ -83292,10 +83292,10 @@
     ],
     [
       "chaos_golem_revive_display_buff",
-      "Your Chaos Golem will be revived soon",
+      "โกเลมเคออสของคุณจะถูกชุบชีวิตในไม่ช้า",
       false,
       false,
-      "Reviving Chaos",
+      "เคออสชุบชีวี",
       [],
       true,
       1,
@@ -83336,10 +83336,10 @@
     ],
     [
       "carrion_golem_revive_display_buff",
-      "Your Carrion Golem will be revived soon",
+      "โกเลมซากศพของคุณจะถูกชุบชีวิตในไม่ช้า",
       false,
       false,
-      "Reviving Carrion",
+      "ซากศพชุบชีวี",
       [],
       true,
       1,
@@ -83380,10 +83380,10 @@
     ],
     [
       "sacrificial_zeal",
-      "You are taking physical damage over time, and deal added physical damage.",
+      "คุณได้รับความเสียหาย กายภาพ ต่อเนื่อง และสร้างความเสียหาย กายภาพ เพิ่มขึ้น",
       false,
       false,
-      "Sacrificial Zeal",
+      "คลั่งสังเวย",
       [
         13446,
         1591,
@@ -83434,10 +83434,10 @@
     ],
     [
       "fanaticism",
-      "Spells you cast yourself have more Cast Speed, reduced mana cost and increased Area of Effect",
+      "เวทย์ที่คุณร่ายด้วยตัวเองมีความเร็วในการร่าย เพิ่มขึ้น อีก มีค่าร่ายลดลง และมีพื้นที่ส่งผลเพิ่มขึ้น",
       false,
       false,
-      "Fanaticism",
+      "คลั่งศรัทธา",
       [
         13409,
         13410,
@@ -83582,10 +83582,10 @@
     ],
     [
       "rupture",
-      "Bleeding deals you more damage per second, but expires more quickly.",
+      "คุณได้รับความเสียหายจากสถานะ เลือดออก เพิ่มขึ้น แต่มันจะหมดลงเร็วกว่าเดิม",
       false,
       false,
-      "Rupture",
+      "แผลแตก",
       [
         13451,
         13452
@@ -83632,10 +83632,10 @@
     ],
     [
       "unhinged",
-      "You are no longer Sane.",
+      "คุณไม่มีสติอีกต่อไป",
       false,
       true,
-      "Insanity",
+      "เสียสติ",
       [],
       true,
       3,
@@ -83678,10 +83678,10 @@
     ],
     [
       "phoenix_stacking_debuff_standalone",
-      "You have reduced maximum Fire Resistance.",
+      "คุณมีต้านทาน ไฟ สูงสุดลดลง",
       false,
       false,
-      "Heat",
+      "ความร้อน",
       [
         946
       ],
@@ -83726,10 +83726,10 @@
     ],
     [
       "atlas_sulphite_mined_buff",
-      "You have increased Movement Speed and Damage.",
+      "คุณมีความเร็วเคลื่อนที่เพิ่มขึ้น และสร้างความเสียายเพิ่มขึ้น",
       false,
       false,
-      "Sulphite Intoxication",
+      "เมาซัลไฟต์",
       [
         177,
         24
@@ -83824,10 +83824,10 @@
     ],
     [
       "crimson_priest_boss_degenzone",
-      "You are taking physical damage over time from a Blood Purge",
+      "คุณได้รับความเสียหาย กายภาพ ต่อเนื่องจากการชำระเลือด",
       false,
       false,
-      "Blood Purge",
+      "ชำระเลือด",
       [
         354
       ],
@@ -83920,7 +83920,7 @@
     ],
     [
       "ghostfire_self_burn",
-      "You are taking fire damage over time",
+      "คุณได้รับความเสียหาย ไฟ ต่อเนื่อง",
       false,
       false,
       "Engulfed by Ghostfire",
@@ -83968,10 +83968,10 @@
     ],
     [
       "ritual_rune_lightning1",
-      "Monsters in the Rune area are much stronger",
+      "มอนสเตอร์ในพื้นที่อักขระเวทย์แข็งแกร่งขึ้นเป็นอย่างยิ่ง",
       true,
       false,
-      "Ritual Rune",
+      "อักขระเวทย์พิธีกรรม",
       [
         659,
         449
@@ -84018,10 +84018,10 @@
     ],
     [
       "ritual_rune_physical_blood1",
-      "Monsters in the Rune area are much stronger",
+      "มอนสเตอร์ในพื้นที่อักขระเวทย์แข็งแกร่งขึ้นเป็นอย่างยิ่ง",
       true,
       false,
-      "Ritual Rune",
+      "อักขระเวทย์พิธีกรรม",
       [
         3650,
         26
@@ -84068,10 +84068,10 @@
     ],
     [
       "ritual_rune_chaos_green1",
-      "Monsters in the Rune area are much stronger",
+      "มอนสเตอร์ในพื้นที่อักขระเวทย์แข็งแกร่งขึ้นเป็นอย่างยิ่ง",
       true,
       false,
-      "Ritual Rune",
+      "อักขระเวทย์พิธีกรรม",
       [
         3385,
         450
@@ -84118,10 +84118,10 @@
     ],
     [
       "ritual_rune_generic_charges1",
-      "Monsters in the Rune area are much stronger",
+      "มอนสเตอร์ในพื้นที่อักขระเวทย์แข็งแกร่งขึ้นเป็นอย่างยิ่ง",
       true,
       false,
-      "Ritual Rune",
+      "อักขระเวทย์พิธีกรรม",
       [],
       true,
       3,
@@ -84162,10 +84162,10 @@
     ],
     [
       "ritual_rune_generic_energy_shield1",
-      "Monsters in the Rune area are much stronger",
+      "มอนสเตอร์ในพื้นที่อักขระเวทย์แข็งแกร่งขึ้นเป็นอย่างยิ่ง",
       true,
       false,
-      "Ritual Rune",
+      "อักขระเวทย์พิธีกรรม",
       [
         563
       ],
@@ -84210,10 +84210,10 @@
     ],
     [
       "ritual_rune_generic_life1",
-      "Monsters in the Rune area are much stronger",
+      "มอนสเตอร์ในพื้นที่อักขระเวทย์แข็งแกร่งขึ้นเป็นอย่างยิ่ง",
       true,
       false,
-      "Ritual Rune",
+      "อักขระเวทย์พิธีกรรม",
       [
         451
       ],
@@ -84258,10 +84258,10 @@
     ],
     [
       "ritual_rune_generic_fortify1",
-      "Monsters in the Rune area are much stronger",
+      "มอนสเตอร์ในพื้นที่อักขระเวทย์แข็งแกร่งขึ้นเป็นอย่างยิ่ง",
       true,
       false,
-      "Ritual Rune",
+      "อักขระเวทย์พิธีกรรม",
       [
         2799
       ],
@@ -84306,10 +84306,10 @@
     ],
     [
       "ritual_rune_generic_massive1",
-      "Monsters in the Rune area are much stronger",
+      "มอนสเตอร์ในพื้นที่อักขระเวทย์แข็งแกร่งขึ้นเป็นอย่างยิ่ง",
       true,
       false,
-      "Ritual Rune",
+      "อักขระเวทย์พิธีกรรม",
       [
         718,
         434,
@@ -84358,10 +84358,10 @@
     ],
     [
       "ritual_rune_generic_speed1",
-      "Monsters in the Rune area are much stronger",
+      "มอนสเตอร์ในพื้นที่อักขระเวทย์แข็งแกร่งขึ้นเป็นอย่างยิ่ง",
       true,
       false,
-      "Ritual Rune",
+      "อักขระเวทย์พิธีกรรม",
       [
         70,
         216,
@@ -84410,10 +84410,10 @@
     ],
     [
       "ritual_rune_necromantic1",
-      "Monsters in the Rune area are much stronger",
+      "มอนสเตอร์ในพื้นที่อักขระเวทย์แข็งแกร่งขึ้นเป็นอย่างยิ่ง",
       true,
       false,
-      "Ritual Rune",
+      "อักขระเวทย์พิธีกรรม",
       [],
       true,
       3,
@@ -84454,10 +84454,10 @@
     ],
     [
       "ritual_rune_vaal1",
-      "Monsters in the Rune area are much stronger",
+      "มอนสเตอร์ในพื้นที่อักขระเวทย์แข็งแกร่งขึ้นเป็นอย่างยิ่ง",
       true,
       false,
-      "Ritual Rune",
+      "อักขระเวทย์พิธีกรรม",
       [
         3166
       ],
@@ -84502,10 +84502,10 @@
     ],
     [
       "ritual_rune_golden1",
-      "Monsters in the Rune area are much stronger",
+      "มอนสเตอร์ในพื้นที่อักขระเวทย์แข็งแกร่งขึ้นเป็นอย่างยิ่ง",
       true,
       false,
-      "Ritual Rune",
+      "อักขระเวทย์พิธีกรรม",
       [
         10,
         11
@@ -84552,10 +84552,10 @@
     ],
     [
       "ritual_rune_fire2",
-      "Monsters in the Rune area are much stronger",
+      "มอนสเตอร์ในพื้นที่อักขระเวทย์แข็งแกร่งขึ้นเป็นอย่างยิ่ง",
       true,
       false,
-      "Ritual Rune",
+      "อักขระเวทย์พิธีกรรม",
       [
         611,
         447
@@ -84602,10 +84602,10 @@
     ],
     [
       "ritual_rune_cold2",
-      "Monsters in the Rune area are much stronger",
+      "มอนสเตอร์ในพื้นที่อักขระเวทย์แข็งแกร่งขึ้นเป็นอย่างยิ่ง",
       true,
       false,
-      "Ritual Rune",
+      "อักขระเวทย์พิธีกรรม",
       [
         455,
         448
@@ -84652,10 +84652,10 @@
     ],
     [
       "ritual_rune_chaos_purple2",
-      "Monsters in the Rune area are much stronger",
+      "มอนสเตอร์ในพื้นที่อักขระเวทย์แข็งแกร่งขึ้นเป็นอย่างยิ่ง",
       true,
       false,
-      "Ritual Rune",
+      "อักขระเวทย์พิธีกรรม",
       [
         7162,
         8367
@@ -84702,10 +84702,10 @@
     ],
     [
       "ritual_rune_lightning2",
-      "Monsters in the Rune area are much stronger",
+      "มอนสเตอร์ในพื้นที่อักขระเวทย์แข็งแกร่งขึ้นเป็นอย่างยิ่ง",
       true,
       false,
-      "Ritual Rune",
+      "อักขระเวทย์พิธีกรรม",
       [
         659,
         449
@@ -84752,10 +84752,10 @@
     ],
     [
       "ritual_rune_physical_blood2",
-      "Monsters in the Rune area are much stronger",
+      "มอนสเตอร์ในพื้นที่อักขระเวทย์แข็งแกร่งขึ้นเป็นอย่างยิ่ง",
       true,
       false,
-      "Ritual Rune",
+      "อักขระเวทย์พิธีกรรม",
       [
         3650,
         26
@@ -84846,10 +84846,10 @@
     ],
     [
       "ground_fire_scorch",
-      "Your elemental resistances are lowered while standing on Scorched Ground",
+      "คุณมีต้านทาน ทุกธาตุ ลดลงขณะยืนอยู่บนพื้นที่แผดเผา",
       false,
       false,
-      "Scorched Ground",
+      "พื้นที่แผดเผา",
       [
         141
       ],
@@ -84896,10 +84896,10 @@
     ],
     [
       "ritual_golden_coin_buff",
-      "Items dropped by slain enemies have vastly increased quantity and rarity. You also take increased damage.",
+      "ไอเทมที่ดรอปจากศัตรูที่ถูกสังหารจะมีจำนวนและความหายากเพิ่มขึ้นมหาศาล คุณได้รับความเสียหายเพิ่มขึ้นด้วย",
       false,
       false,
-      "Gambler's Greed",
+      "ความละโมบของนักพนัน",
       [
         477,
         151,
@@ -84948,10 +84948,10 @@
     ],
     [
       "scorched_earth_degen_explosion",
-      "You are taking fire damage over time.",
+      "คุณได้รับความเสียหาย ไฟ ต่อเนื่อง",
       false,
       false,
-      "Burning",
+      "ติดไฟ",
       [
         1989
       ],
@@ -84996,7 +84996,7 @@
     ],
     [
       "ritual_generic_speed_buff",
-      "You are faster",
+      "คุณเร็วขึ้น",
       false,
       false,
       "Speed Gale",
@@ -85044,10 +85044,10 @@
     ],
     [
       "maven_boss_buff",
-      "You are faster",
+      "คุณเร็วขึ้น",
       false,
       false,
-      "Maven's Grace",
+      "ความงามของเมเวน",
       [
         346
       ],
@@ -85185,7 +85185,7 @@
     ],
     [
       "demigods_increased_item_rarity_aura",
-      "You have increased item rarity",
+      "คุณมีโอกาสพบไอเทมหายากเพิ่มขึ้น",
       false,
       false,
       "Demigod's Authority",
@@ -85233,10 +85233,10 @@
     ],
     [
       "brutal_charge",
-      "Players gain a chance to deal Triple Damage and increased Stun Threshold for each Brutal Charge they have.",
+      "ผู้เล่นมีโอกาสสร้างความเสียหายเป็นสามเท่า และมีเกณฑ์การติดสถานะ มึนงง เพิ่มขึ้น ตามจำนวน Brutal Charge ที่มี",
       false,
       false,
-      "Brutal Charges",
+      "Brutal Charge",
       [],
       true,
       4,
@@ -85277,10 +85277,10 @@
     ],
     [
       "affliction_charge",
-      "Players gain more Damage with Ailments and more Effect of Non-Damaging Ailments for each Affliction Charge they have.",
+      "ผู้เล่นสร้างความเสียหายจากสถานะเจ็บป่วย เพิ่มขึ้น และมีผลของสถานะเจ็บป่วยที่ไม่สร้างความเสียหายเพิ่มขึ้น ตามจำนวนของ Affliction Charge ทีมี",
       false,
       false,
-      "Affliction Charges",
+      "Aflliction Carge",
       [],
       true,
       4,
@@ -85321,10 +85321,10 @@
     ],
     [
       "absorption_charge",
-      "Players Recoup a percentage of Elemental Damage they take as Energy Shield for each Absorption Charge they have.",
+      "ผู้เล่นจะได้รับการเยียวยาเป็นโล่พลังงาน เป็นเปอร์เซ็นต์จากความเสียหาย ธาตุ ที่ได้รับ ตามจำนวน Absorption Charge ที่มี",
       false,
       false,
-      "Absorption Charges",
+      "Absorption Charge",
       [],
       true,
       4,
@@ -85613,10 +85613,10 @@
     ],
     [
       "ritual_blood_totem_degen",
-      "You are taking Physical Damage over time.",
+      "คุณได้รับความเสียหาย กายภาพ ต่อเนื่อง",
       false,
       false,
-      "Fading Flesh",
+      "เลือดเนื้อจางหาย",
       [
         354
       ],
@@ -85709,7 +85709,7 @@
     ],
     [
       "vilenta_reflection_beam_degen_fire",
-      "You are taking Fire Damage over Time",
+      "คุณได้รับความเสียหาย ไฟ ต่อเนื่อง",
       false,
       false,
       "Vilenta's Beam",
@@ -85757,10 +85757,10 @@
     ],
     [
       "toxic_grasping_vines",
-      "You are slowed and taking chaos damage from vines. Move to break them.",
+      "คุณถูกทำให้ช้าลงและรับความเสียหาย เคออส จากเถาวัลย์ เคลื่อนที่เถื่อทำลายเถาวัลย์",
       false,
       false,
-      "Toxic Vines",
+      "เถาวัลย์อาบพิษ",
       [
         13574,
         453
@@ -85963,10 +85963,10 @@
     ],
     [
       "reaper_wraith_grasping_chains",
-      "You are slowed by grasping chains. Move to break the chains",
+      "คุณถูกทำให้ช้าลงจากการโซ่เหนี่ยวรั้ง เคลื่อนที่เพื่อทำลายโซ่",
       false,
       false,
-      "Grasping Chains",
+      "โซ่เหนี่ยวรั้ง",
       [
         6908,
         4961,
@@ -86065,10 +86065,10 @@
     ],
     [
       "maven_map_space_vines",
-      "You are slowed by ethereal tendrils. Move to break them.",
+      "คุณถูกทำให้ช้าลงจากไม้เลื้อยเหนือโลก เคลื่อนที่เพื่อทำลายไม้เลื้อย",
       false,
       false,
-      "Ethereal Tendrils",
+      "ไม้เลื้อยเหนือโลก",
       [
         6908,
         4961,
@@ -86319,10 +86319,10 @@
     ],
     [
       "maven_orb_degenzone",
-      "You are taking fire damage over time from Maven's Orb",
+      "คุณได้รับความเสียหาย ไฟ ต่อเนื่องจาก Maven's Orb",
       false,
       false,
-      "Orb Fire",
+      "ออร์บไฟ",
       [
         1989
       ],
@@ -86417,10 +86417,10 @@
     ],
     [
       "maven_memory_game_degen",
-      "You are slowed and taking Fire, Cold and Lightning damage over time",
+      "คุณถูกทำให้ช้าลง และได้รับความเสียหาย ไฟ น้ำแข็ง และสายฟ้า ต่อเนื่อง",
       false,
       false,
-      "Maven's Game",
+      "การละเล่นของเมเวน",
       [
         1989,
         1991,
@@ -86471,10 +86471,10 @@
     ],
     [
       "maven_rotating_beam_debuff",
-      "Your maximum Elemental Resistances are lower and you cannot recover Life or Energy Shield",
+      "คุณมี ต้านทานธาตุสูงสุด ทุกธาตุ ลดลง",
       false,
       false,
-      "Maven's Punishment",
+      "การลงโทษของเมเวน",
       [
         951,
         1899,
@@ -86523,10 +86523,10 @@
     ],
     [
       "maven_cutter_beam_debuff",
-      "Your maximum Elemental Resistances are lower and you cannot recover Life or Energy Shield",
+      "คุณมี ต้านทานธาตุสูงสุด ทุกธาตุ ลดลง",
       false,
       false,
-      "Maven's Punishment",
+      "การลงโทษของเมเวน",
       [
         951,
         1899,

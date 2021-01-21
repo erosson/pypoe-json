@@ -1938,7 +1938,7 @@
       "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel1",
       "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Heading1",
       [],
-      "In <italic>{Path of Exile: Heist}, you will hire skilled thieves to help you pull off risky Heists. Steal valuable artifacts to fund and train your crew as you plan towards the execution of a Grand Heist.\n\nOur September expansion contains the Heist challenge league, nine new Skills and Support Gems, revamps of Curses, Steel Skills, and some Spells. Grand Heists offer exclusive new rewards such as Weapon and Body Armour Enchantments, Heist Trinkets, Alternate-quality Gems and Replica Unique Items.",
+      "ใน <italic>{Path of Exile: Heist} คุณจะต้องจ้างจอมโจรมือฉมังเพื่อช่วยทำการโจรกรรมสุดแสนอันตราย ขโมยสิ่งประดิษฐ์โบราณสุดล้ำค่าเพื่อใช้เป็นกองทุนและฝึกฝนทีมงานของคุณในแผนการโจรกรรมครั้งยิ่งใหญ่\n\nภาคเสริมเดือนกันยายนของเรามาพร้อมกับลีกท้าทาย Heist, สกิลและหินเสริมใหม่เก้าเม็ด, เปลี่ยนแปลงระบบคำสาป, ระบบสกิลเหล็กกล้า, และสกิลเวทย์ต่างๆมากมาย และสกิลเวทย์ต่างๆมากมาย เมื่อคุณทำ “การโจรกรรมครั้งใหญ่” สำเร็จก็จะได้รับทรัพเป็นของรางวัลเฉพาะมากมายอาทิเช่นการเอนแชนอาวุธและเครื่องป้องกัน, เครื่องประดับ Heist, หินสกิลที่มีม็อดคุณภาพแบบพิเศษ, ไอเทมยูนิคก็อปเกรดเอเป็นต้น",
       "Heist",
       false,
       [],
@@ -1956,7 +1956,7 @@
         "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel2/Screenshot2",
         "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel2/Screenshot3"
       ],
-      "Buy your passage to the Rogue Harbour where you'll consort with a crew of thieves who offer nefarious services. Thirteen Rogues can be contracted to assist you with setting up or executing a Heist by filling roles such as transportation, lockpicking or demolition.",
+      "ซื้อช่องทางไปสู่ท่าเรือโจรที่ซึ่งคุณจะได้พบกับเหล่าโจรรับจ้างทำงานสกปรก มีโจรให้เลือกจ้างถึงสิบสามคนเพื่อให้พวกเขาช่วยคุณวางแผนการปล้นไม่ว่าจะเป็นช่วยในการขนเสบียง, สะเดาะกุญแจ หรือ รื้อถอนสิ่งปลูกสร้าง",
       "Heist",
       true,
       [],
@@ -1974,7 +1974,7 @@
         "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel3/Screenshot2",
         "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel3/Screenshot3"
       ],
-      "In order to execute a Heist, you need to know the location of a valuable Artifact and what defences safeguard it. Contracts containing these clues can be found throughout Wraeclast alongside coins with the mysterious emblem of the Rogue Harbour. Travel there and turn in these objects to hire the expertise you need for your Heist.",
+      "ในการที่คุณจะทำการปล้นให้สำเร็จได้นั้นคุณจะต้องรู้ตำแหน่งที่ซ่อนของสิ่งประดิษฐ์โบราณอันล้ำค่าและต้องรู้ว่ามีอะไรปกป้องมันอยู่ เงื่อนงำเหล่านี้สามารถหาได้ทั่วทั้งเวร์แคลสท์พร้อมกับเหรียญที่มีตราสัญลักษณ์ลึกลับของท่าเรือโจร จงเดินทางไปที่นั่นเพื่อนำของเหล่านี้ไปจ้างเหล่าโจรมืออาชีพที่คุณต้องไหว้วานเพื่อช่วยทำการใหญ่",
       "Heist",
       false,
       [
@@ -2004,7 +2004,7 @@
         "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel4/Screenshot2",
         "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel4/Screenshot3"
       ],
-      "If you can't escape the Heist, you'll lose everything you stole while infiltrating the facility. You'll need to support your Rogue while they bypass security in order to reach the vault. Be careful with how much commotion you cause, or you may trigger the alarm, causing the facility to be locked down. When this happens, it's time to run.",
+      "หากคุณไม่สามารถหนีออกมาจากการโจรกรรมได้คุณจะสูญเสียทุกอย่างที่คุณขโมยมาระหว่างที่คุณลักลอบเข้าไปในสถานที่นั้น คุณต้องคอยช่วยเหลือโจรที่คุณจ้างมาระหว่างที่พวกเขากำลังปลดล็อคระบบรักษาความปลอดภัยไปยังห้องนิรภัย จงระวังอยากออกความวุ่นวายให้มากนัก มิฉะนั้นคุณจะทำให้ระบบเตือนภัยส่งสัญญาณออกมา ซึ่งจะทำให้สถานที่ปิดตัวลง แต่ถ้าหากมันเกิดขึ้นแล้วก็ต้องรีบเผ่นให้ไว",
       "Heist",
       true,
       [],
@@ -2018,7 +2018,7 @@
       "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel5",
       "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Heading5",
       [],
-      "Specialised items can be equipped to Rogues to make them stealthier, deadlier, and more adept at their roles. Like any other Path of Exile items, Rogue equipment can be crafted with currency items. A well-equipped crew is a great asset when undertaking the most difficult Heists.",
+      "คุณสามารถนำไอเทมพิเศษมาให้เหล่าโจรใช้งานได้ซึ่งจะทำให้พวกเขา ถูกตรวจจับได้ยากขึ้น, อันตรายยิ่งขึ้น, ทำหน้าที่ได้ดีขึ้น ซึ่งมันก็เหมือนกับไอเทมในเกม Path of Exile ชิ้นอื่นๆที่สามารถคราฟด้วยหินต่างๆได้ ทีมงานที่มีอุปกรณ์ครบมือจะเป็นผู้ช่วยอันดีเลิศในแผนการโจรกรรมครั้งยิ่งใหญ่ของคุณ",
       "Heist",
       false,
       [
@@ -2046,7 +2046,7 @@
         "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel6/Screenshot2",
         "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel6/Screenshot3"
       ],
-      "The ultimate goal of a thief is to pull off a Grand Heist. This requires access to Blueprints that show where the vaults are located inside sprawling facilities. These elaborate jobs require masterful planning, purchasing additional intel about the facility, and hiring multiple Rogues to assist with their many obstacles. This planning can result in a huge pay-off as each vault has its own exclusive rewards.",
+      "เป้าหมายสุดท้ายของโจรทุกคนคือการทำการโจรกรรมครั้งยิ่งใหญ่ให้สำเร็จลุล่วง การที่จะทำเช่นนั้นได้คุณจะต้องมีพิมพ์เขียวที่ระบุสถานที่ตั้งของห้องนิรภัยภายในอาคารที่สลับซับซ้อน การจะทำงานที่ละเอียดอ่อนเช่นนี้ได้สำเร็จนั้นคุณจะต้องมีแผนการอันยอดเยี่ยม ต้องมีการซื้อข้อมูลลับเกี่ยวกับสถานที่ จ้างโจรหลายคนเพื่อช่วยขจัดสิ่งกีดขวางต่างๆที่คุณจะได้พบ ภาพแผนการนี้สำเร็จลุล่วงคุณจะได้รับรางวัลอย่างงามเพราะห้องนิรภัยแต่ละแห่งจะมีของรางวัลพิเศษของมันที่ไม่มีใครเหมือน",
       "Heist",
       true,
       [
@@ -2068,7 +2068,7 @@
       "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel7",
       "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Heading7",
       [],
-      "One of the exclusive rewards you'll be able to steal from Grand Heists are Trinkets, which go in their own new equipment slot. These magical items influence what rewards you'll find from future Heists you run. Some of their modifiers affect the items dropped by enemies and chests, while others modify the rewards you could obtain from a Heist's special reward chests.",
+      "หนึ่งในสมบัติล้ำค่าที่คุณสามารถขโมยออกมาจากการโจรกรรมครั้งยิ่งใหญ่ได้ก็คือเครื่องประดับพิเศษ ซึ่งมีไว้ใส่ในช่องของมันซึ่งเป็นช่องพิเศษแบบใหม่ ไอเทมแห่งมนตราเหล่านี้จะส่งอิทธิพลต่อสิ่งที่คุณจะค้นพบจากการโจรกรรมในอนาคตครั้งหน้าของคุณ บ้างก็ส่งผลต่อไอเทมที่ดรอปจากศัตรูและหีบสมบัติ บ้างก็ส่งผลต่อหีบสมบัติพิเศษที่พบในการโจรกรรมเท่านั้น",
       "Heist",
       false,
       [
@@ -2088,7 +2088,7 @@
       "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel8",
       "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Heading8",
       [],
-      "Alternate Quality Gems come from Grand Heist reward rooms and provide even more depth for existing Skill and Support Gems. Each existing Path of Exile gem has up to three Alternate Quality versions which grant different quality bonuses than the original gems. Some simply increase the power of the gem while others entirely change which builds most benefit from the gem.",
+      "หินที่มีม็อดคุณภาพแบบพิเศษได้จากห้องขุมทรัพย์ของโจรกรรมครั้งใหญ่ซึ่งจะทำให้หินสกิลเสริมเดิมมีความลึกน่าค้นหามากยิ่งขึ้น หินเสริมเดิมของ Path of Exile สามารถมีม็อดคุณภาพแบบพิเศษได้สูงสุดถึงสามเวอร์ชั่นซึ่งแต่ละเวอร์ชั่นจะมอบโบนัสพิเศษที่แตกต่างจากหินทั่วไป บ้างก็เพิ่มความสามารถของหินโดยตรง บ้างก็ส่งผลทำให้บิลด์กลุ่มเป้าหมายของหินเปลี่ยนไปอย่างสิ้นเชิง",
       "Heist",
       true,
       [
@@ -2110,7 +2110,7 @@
       "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel9",
       "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Heading9",
       [],
-      "Other rewards you can claim from Grand Heists are Replica Unique Items and Experimented Base Types. Replica Unique items result from attempts to re-create unique items of legend, where the end product has a few crucial differences. They're often appropriate for entirely different character builds than the original item. Experimented Base Types are a variety of new item base types that have exotic properties that differ from their core-game counterparts.",
+      "ของรางวัลจากการโจรกรรมครั้งใหญ่หนึ่งในนั้นคือ ไอเทมยูนิคเลียนแบบ และ เบสไอเทมรุ่นต้นแบบ โดยไอเทมยูนิคเลียนแบบนั้นมาจากการพยายามสร้างไอเทมยูนิคในตำนานขึ้นมาใหม่แต่ก็ทำได้ไม่เหมือนต้นฉบับจึงมีความแตกต่างกันเล็กน้อย อย่างไรก็ตามไอเทมเหล่านี้ก็มีประโยชน์สำหรับบิลด์อื่นที่ไม่เหมือนไอเทมต้นฉบับอยู่เช่นกัน และสำหรับเบสไอเทมรุ่นต้นแบบนั้นคือเบสไอเทมแบบใหม่ที่มีคุณสมบัติพิเศษไม่เหมือนใครแตกต่างจากไอเทมปกติในเกมชิ้นอื่นๆ",
       "Heist",
       false,
       [
@@ -2134,7 +2134,7 @@
       "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel10",
       "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Heading10",
       [],
-      "The final type of new reward available from Grand Heists is a selection of Weapon and Body Armour enchantments. These enchantments come on unnaturally-powerful rare items and affect the magnitude of modifiers on those items. Some of these enchantments are so powerful that they involve substantial drawbacks.",
+      "ของรางวัลจากการโจรกรรมครั้งใหญ่ชิ้นสุดท้ายที่คุณจะได้พบก็คือการเอนแชนอาวุธและชุดเกราะ โดยการเอนแชนเหล่านี้จะมาพร้อมกับไอเทมแรร์ที่ทรงพลังผิดธรรมชาติและเอนแชนจะส่งผลต่อม็อดต่างๆบนไอเทมเหล่านี้ มีเอนแชนบางอันที่ทรงพลังจนถึงขั้นต้องมีข้อเสียติดมาด้วยเลยทีเดียว",
       "Heist",
       true,
       [
@@ -2158,7 +2158,7 @@
         "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel11/Screenshot2",
         "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel11/Screenshot3"
       ],
-      "We've added a new Curse-related skill and a new Curse support gem. The new Doom mechanic causes a self-cast Curse to increase in intensity over time until it expires. This works well in conjunction with the Impending Doom support, which causes an explosion of chaos damage when a linked curse ends. Curses have also received a new look.",
+      "เราได้เพิ่มสกิลและสกิลเสริมเกี่ยวกับคำสาปใหม่เข้ามาอย่างละหนึ่งเม็ด และมีกลไกใหม่ที่เรียกว่า Doom ที่จะทำให้สกิลคำสาปที่คุณร่ายด้วยตัวเองทวีความรุนแรงขึ้นตามกาลเวลาจนกว่ามันจะหมดระยะเวลาส่งผลของคำสาป ซึ่งเข้ากันได้อย่างดีกับหินเสริมใหม่ Impending Doom ที่จะทำให้เมื่อคำสาปที่ถูกเสริมหมดระยะเวลาลงจะเกิดการระเบิดสร้างความเสียหายเคออสให้กับศัตรู นอกจากนี้สกิลคำสาปยังได้รับการปรับโฉมใหม่อีกด้วย",
       "Heist",
       false,
       [],
@@ -2176,7 +2176,7 @@
         "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel12/Screenshot2",
         "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel12/Screenshot3"
       ],
-      "We've revamped Steel Skills by introducing Shards, deadly blades fragments that hover near your character. The Call of Steel Skill is available whenever you have a Steel skill equipped. It bursts Shards from the ground, providing more ammunition for Steel projectiles, and causes existing Shards to explode out of impaled enemies. We've also added one new Steel Skill and reworked both Shattering and Lancing Steel.",
+      "เราได้ทำการปรับสกิลประเภทเหล็กกล้าใหม่โดยการเพิ่มระบบใหม่ขึ้นมาที่เรียกว่า เศษคมเหล็ก มันคือชิ้นส่วนของมีดอันคมกริบที่จะลอยอยู่ใกล้ตัวละครของคุณ และคุณจะมีสกิลใหม่ Call of Steel ที่จะสามารถใช้ได้ทันทีหากคุณมีสกิลประเภทเหล็กกล้าสวมใส่ไว้ โดยสกิลนี้จะทำให้เศษคมเหล็กกุ้งออกมาจากพื้นดินทำให้คุณมีเศษคมเหล็กสะสมไว้มากยิ่งขึ้น นอกจากนี้มันยังทำให้ศัตรูที่ถูกทิ่มแทงมีเศษคมเหล็กระเบิดออกมาจากตัวละครอีกด้วย นอกจากนี้เรายังได้เพิ่มสกิลประเภทเหล็กกล้าเข้ามาใหม่และได้ทำการปรับสกิล Shattering Steel และ Lancing Steel ใหม่อีกด้วย",
       "Heist",
       true,
       [],
@@ -2194,7 +2194,7 @@
         "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel13/Screenshot2",
         "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel13/Screenshot3"
       ],
-      "Alongside the introduction of six new spells, we've reworked Discharge and Glacial Cascade. A goal with these new spells is that while they are powerful in a variety of character builds, they have additional benefits when self-cast.",
+      "นอกจากการเพิ่มสกิลเวทย์ใหม่เข้ามาอีกหกสกิลเราจะทำการปรับสกิล Discharge และ Glacial Cascade ใหม่ด้วย โดยมีเป้าหมายให้สกิลเวทย์ใหม่เหล่านี้สามารถใช้ได้มากมายหลากหลายบิลด์ และจะมีผลพิเศษเพิ่มขึ้นอีกหากผู้ใช้ทำการร่ายด้วยตนเอง",
       "Heist",
       false,
       [],
@@ -2208,7 +2208,7 @@
       "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel14",
       "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Heading14",
       [],
-      "<italic>{Path of Exile: Heist} also introduces over 25 new Unique Items, 12 new Divination Cards, a visual revamp to some skill effects and much more.",
+      "<italic>{Path of Exile: Heist} มาพร้อมไอเทมยูนิคใหม่ 25 ชิ้น, ไพ่พยากรณ์ใหม่ 12 ใบ, เปลี่ยนโฉมให้เอฟเฟคสกิลต่างๆ และอื่นๆอีกมากมาย",
       "Heist",
       true,
       [
@@ -2230,7 +2230,7 @@
       "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel15",
       "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Heading15",
       [],
-      "We're releasing Path of Exile for macOS alongside the Heist expansion! This version of Path of Exile is fully integrated into the main worldwide PC realm so you can access your existing accounts and microtransactions.",
+      "เราจะเปิด Path of Exile บน macOS พร้อมกับภาคเสริม Heist! โดย Path of Exile เวอร์ชั่นนี้จะอยู่ในเซิร์ฟเวอร์เดียวกันกับ PC ทำให้คุณสามารถใช้บัญชีและสินค้าแฟชั่นเดิมที่มีอยู่ได้ทั้งสองระบบ",
       "Heist",
       false,
       [],
@@ -2244,7 +2244,7 @@
       "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Panel16",
       "Art/2DArt/UIImages/Login/LeagueInfo/Heist/Heading16",
       [],
-      "We're also launching two sets of Supporter Packs alongside Heist - the Spellblade and Eagle Packs. There are two price points available for each and they feature masses of points, several exclusive microtransactions and a new type of character effect that charges up as you slay monsters.\n\n<italic>{Path of Exile: Heist} will launch on September 18 (PDT) on PC, and September 23 on Xbox One and PlayStation 4.",
+      "พร้อมกันนี้เราก็ได้วางจำหน่ายแพ็คสนับสนุนใหม่ควบคู่ไปกับภาคเสริม Heist อีกสองชุดนั่นก็คือ Spellblade และ Eagle โดยทั้งสองแพ็คจะมีให้เลือก 2 ระดับราคา ภายในแต่ละแพ็คจะประกอบไปด้วยแต้มจำนวนมาก, สินค้าแฟชั่นพิเศษหาได้เฉพาะในแพ็คนี้เท่านั้น, และเอฟเฟคตัวละครแบบใหม่ล่าสุดที่จะส่องแสงเพิ่มขึ้นตามจำนวนมอนสเตอร์ที่คุณสังหาร\n\n<italic>{Path of Exile: Heist} เปิดให้เล่นบนระบบ PC วันที่ 18 กันยายน (เวลาแปซิฟิก) และบนระบบคอนโซลวันที่ 23 กันยายน (เวลาแปซิฟิก) ทั้งบน Xbox One และ PlayStation 4",
       "Heist",
       true,
       [],
@@ -2272,7 +2272,7 @@
       "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel1",
       "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Heading1",
       [],
-      "In <italic>{Path of Exile: Echoes of the Atlas}, you'll gain even more control over your end-game Path of Exile experience by specialising each region of your Atlas with its own passive tree, crafting Watchstones to refine your rewards, selecting up to ten map bosses to face simultaneously and challenging the Atlas' new pinnacle boss: The Maven.\n\nAlongside this endgame content, you'll perform dangerous and rewarding Rituals in the action-packed Ritual League, explore nineteen improved Ascendancy classes, discover powerful new items and much more.",
+      "<italic>{ภาคเสริม Path of Exile: Echoes of the Atlas} จะทำให้คุณสามารถควบคุมประสบการณ์ท้ายเกมใน Path of Exile ได้มากกว่าเดิม ด้วยการปรับแต่งเขตต่างๆ ในสมุดแผนที่ผ่านตารางพาสซีฟประจำเขตนั้นๆ การคราฟต์อัญมณีผู้พิทักษ์เพื่อปรับแต่งของรางวัลของคุณ การเลือกเผชิญกับบอสประจำแผนที่ต่างๆ มากสุดถึงสิบตัวพร้อมๆ กัน และการท้าทายบอสสูงสุดตัวใหม่ของสมุดแผนที่: เมเวน\n\nนอกจากจะมีเนื้อหาท้ายเกมนี้แล้ว คุณยังจะทำพิธีกรรมที่อันตรายและให้ผลตอบแทนสูงในลีก Ritual ที่เต็มไปด้วยความเร้าใจ สำรวจอาชีพเสริมที่ถูกปรับปรุงให้กว่าเดิมทั้ง 19 อาชีพ ค้นพบไอเทมใหม่อันทรงพลัง และอื่นๆ อีกมากมาย",
       "Echoes",
       false,
       [],
@@ -2286,7 +2286,7 @@
       "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel2",
       "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Heading2",
       [],
-      "<italic>{When the Elder was sealed, entities far beyond the borders of the Atlas of Worlds took note and turned their attention in our direction. The first such visitor is an entity called The Maven. She is hungry to witness your fight for survival against the Atlas' most dangerous foes. Accept her challenge to put your talents and mortality to the test. Should you prove worthy, she will offer you a taste of her vast power.}",
+      "<italic>{เมื่อเอลเดอร์ถูกปิดผนึก เหตุการณ์นี้มิได้รอดพ้นสายตาของเหล่าผู้ที่อยู่นอกพรมแดนของสมุดแผนที่แห่งโลกแม้แต่น้อย พวกมันเริ่มให้ความสนใจกับพวกเรา ผู้มาเยือนรายแรกนั้นคือผู้ที่ถูกขนานนามว่าเมเวน เธอรอเป็นสักขีพยานต่อการต่อสู้เอาตัวรอดของคุณท่ามกลางเหล่าศัตรูอันแสนอันตรายจากสมุดแผนที่ รับคำท้าในการทดสอบพรสวรรค์และการเอาตัวรอดของคุณ หากคุณคู่ควร คุณจะได้ลิ้มรสพลังอันมหาศาลของเธอ}",
       "Echoes",
       true,
       [],
@@ -2304,7 +2304,7 @@
         "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel3/Screenshot2",
         "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel3/Screenshot3"
       ],
-      "By slaying three map bosses in the Maven's presence, you'll earn an invitation to her realm where she will request that you defeat these bosses simultaneously. Having demonstrated your strength, she challenges you to defeat four bosses, then five, then six and finally ten at the same time. Only then can you take on the new pinnacle boss of the Atlas: the Maven herself.",
+      "เมื่อคุณสังหารบอสประจำแผนที่สามตัวต่อหน้าเมเวน คุณจะได้รับคำเชิญไปสู่ดินแดนของเธอ และเธอจะขอให้คุณปราบบอสเหล่านี้ไปพร้อมๆ กัน เมื่อคุณได้สาธิตความกล้าแกร่งของคุณ เธอก็จะท้าทายให้คุณปราบบอสสี่ตัว ห้าตัว หกตัว และท้ายที่สุดก็เป็นสิบตัวในเวลาเดียวกัน หลังจากนั้นคุณถึงจะได้เผชิญกับบอสสูงสุดตัวใหม่ของสมุดแผนที่: เมเวนนั่นเอง",
       "Echoes",
       false,
       [],
@@ -2322,7 +2322,7 @@
         "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel4/Screenshot2",
         "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel4/Screenshot3"
       ],
-      "Take control of your Atlas by unlocking regional passive trees which augment the content you encounter and rewards you receive while exploring those regions.",
+      "ควบคุมสมุดแผนที่ด้วยการปลดล็อกตารางพาสซีฟประจำเขต ที่จะเน้นเนื้อหาที่คุณจะได้พบกับรางวัลที่คุณจะได้รับขณะที่สำรวจเขตเหล่านั้น",
       "Echoes",
       true,
       [],
@@ -2336,7 +2336,7 @@
       "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel5",
       "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Heading5",
       [],
-      "Echoes of the Atlas introduces three types of Craftable Watchstones. These valuable endgame items allow you to upgrade your Atlas and boost what types of rewards you find from maps. Players who are able to earn these powerful rewards will find that they are strictly better than regular Watchstones: they can be traded, don't expire with use, and their benefits can stack.\n\nAnother new endgame reward, The Maven's Orb, affects items that have two or more influence modifiers. When used on such an item, it randomly upgrades one of these influence modifiers and removes the others. If the modifier that's being upgraded is already at the highest tier, it'll upgrade to a new elevated tier.",
+      "\"ภาคเสริม Echoes of the Atlas มีการเพิ่มอัญมณีผู้พิทักษ์สามประเภทที่สามารถคราฟต์ได้ ไอเทมท้ายเกมอันมีค่าเหล่านี้จะช่วยให้คุณสามารถอัพเกรดสมุดแผนที่ของคุณ และเสริมรางวัลประเภทที่คุณต้องการจากแผนที่ต่างๆ ผู้เล่นที่ได้รับของรางวัลอันทรงพลังเหล่านี้จะพบว่าของเหล่านี้ดีกว่าอัญมณีผู้พิทักษ์ทั่วไปอย่างเห็นได้ชัด: ของเหล่านี้สามารถแลกเปลี่ยนได้ ไม่หมดอายุไปจากการใช้งาน และผลดีของมันสามารถซ้อนทับกันได้\n\nMaven's Orb ที่เป็นของรางวัลท้ายเกมอีกชิ้นจะส่งผลกับไอเทมที่มีม็อดอิทธิพลสองม็อดขึ้นไป เมื่อมันถูกใช้กับไอเทมเหล่านั้น มันจะอัพเกรดม็อดอิทธิพลโดยสุ่ม และกำจัดม็อดอิทธิพลอื่นๆ ออกไป หากม็อดที่ถูกอัพเกรดนั้นอยู่ในระดับสูงสุดอยู่แล้ว มันจะถูกอัพเกรดไปสู่ระดับใหม่ที่สูงกว่า\"",
       "Echoes",
       false,
       [
@@ -2366,7 +2366,7 @@
         "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel6/Screenshot2",
         "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel6/Screenshot3"
       ],
-      "Eleven new maps and challenging boss encounters have been added to the Atlas. These include unforgiving new locations such as the <italic>{Dry Sea, Forking River, Frozen Cabins} and <italic>{Grave Trough}.",
+      "แผนที่ใหม่ 11 แห่งและบอสใหม่ๆ อันท้าทายถูกเพิ่มเข้าไปในสมุดแผนที่ ซึ่งแผนที่เหล่านี้รวมถึงตำแหน่งใหม่ๆ อันโหดร้ายอันได้แก่ <italic>{Dry Sea, Forking River, Frozen Cabin} กับ <italic>{Grave Trough}",
       "Echoes",
       true,
       [],
@@ -2384,7 +2384,7 @@
         "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel7/Screenshot2",
         "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel7/Screenshot3"
       ],
-      "<italic>{Twisted spires of flesh, blood and sinew now stand scattered across Wraeclast's landscape. Their origins and purposes unknown, they seemingly have a hunger for blood and death and are willing to richly reward those who can sate it.}\n\nRitual is a combat league that pits you against both the arcane powers of the Ritual Altar and escalating waves of monsters, enclosed within a Ritual Circle. Each successive Ritual in an area is harder and offers better rewards.",
+      "<italic>{ยอดบิดเบี้ยวอันชั่วร้ายที่ก่อกำเนิดจากเลือด เนื้อ กับกล้ามเนื้อปรากฏตามภูมิทัศน์ทั่วเวร์แคลส์ท ไม่มีใครทราบที่มาหรือจุดประสงค์ของยอดเหล่านี้ รู้เพียงว่าพวกมันกระหายเลือดกับความตาย และผู้ที่สามารถดับกระหายของพวกมันจะได้รับรางวัลมากมาย}\n\nRitual เป็นลีกต่อสู้ที่จะทำให้คุณได้ต่อกรกับพลังขลังของแท่นบูชาพิธีกรรม กับคลื่นมอนสเตอร์ที่จะถาโถมเข้ามามากขึ้นเรื่อยๆ ภายในวงพิธีกรรม แต่ละพิธีกรรมในพื้นที่หนึ่งจะยากขึ้นเรื่อยๆ และจะให้รางวัลที่ดีขึ้นเรื่อยๆ เช่นเดียวกัน",
       "Echoes",
       false,
       [],
@@ -2398,7 +2398,7 @@
       "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel8",
       "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Heading8",
       [],
-      "As you slay monsters during a Ritual, you'll earn Tribute which can be spent on a variety of seductive items and rewards. Among these rewards, you may be offered new Ritual Base Types which pair very powerful implicit mods with challenging drawbacks. You can consume some Tribute to reroll the rewards offered or to defer selected ones until later.",
+      "เมื่อคุณสังหารมอนสเตอร์ในพิธีกรรม คุณจะได้รับบรรณาการที่คุณสามารถใช้จ่ายไปกับไอเทมและของรางวัลอันเย้ายวนใจทั้งหลาย จากบรรดาของรางวัลเหล่านี้ อาจมีไอเทมประเภทพื้นฐาน Ritual แบบใหม่ที่มีม็อดติดไอเทมใหม่ๆ อันทรงพลังและมีข้อด้อยอันท้าทายให้คุณเลือก คุณสามารถใช้บรรณาการส่วนหนึ่งเพื่อหมุนของรางวัลที่มีให้คุณเลือก หรือใช้ในการยืดเวลารางวัลที่เลือกไว้รับในภายหลัง",
       "Echoes",
       true,
       [
@@ -2424,7 +2424,7 @@
         "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel9/Screenshot2",
         "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel9/Screenshot3"
       ],
-      "In the end game, you can obtain tradeable Ritual vessels, which allow you to itemise the monsters from a ritual. You can place up to four vessels in the map device alongside a map to add their monsters to the rituals present in that map, substantially increasing both the difficulty and rewards of those Rituals.\n\nVessels also substantially increase monster density which can be very rewarding in maxed-out maps that have mechanics like Beyond and Delirium present.",
+      "ในช่วงท้ายเกม คุณสามารถรับภาชนะพิธีกรรมที่สามารถแลกเปลี่ยนได้ ซึ่งทำให้คุณสามารถทำให้มอนสเตอร์จากพิธีกรรมกลายมาเป็นไอเทมได้นั่นเอง คุณสามารถใส่ภาชนะได้สูงสุดสี่ชิ้นลงไปพร้อมกับแผนที่ในเครื่องเปิดแผนที่เพื่อเพิ่มมอนสเตอร์เหล่านั้นเข้าไปสู่พิธีกรรมที่ปรากฏในแผนที่นั้นๆ และเพิ่มความยากกับของรางวัลจากพิธีกรรมเหล่านั้นนั่นเอง\n\nภาชนะเหล่านั้นยังเพิ่มความหนาแน่นของมอนสเตอร์ ซึ่งอาจให้รางวัลตอบแทนมหาศาลในแผนที่ที่อัพสุดขีดที่มีกลไกอย่าง Beyond หรือ Delirium อยู่ด้วย",
       "Echoes",
       false,
       [
@@ -2448,7 +2448,7 @@
         "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel10/Screenshot2",
         "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel10/Screenshot3"
       ],
-      "In addition to numerically rebalancing every Ascendancy class, we've substantially reworked the Deadeye, Inquisitor and Elementalist. The aim of these reworks has been to redistribute power within each Ascendancy passive tree so that there are plenty of new ways to build powerful Path of Exile characters.",
+      "นอกจากจะมีการปรับสมดุลตัวเลขของอาชีพเสริมทั้งหมด เรายังได้ปรับ Deadeye, Inquisitor กับ Elementalist ใหม่อีกด้วย เป้าหมายของการปรับเหล่านี้คือการแบ่งปันพลังในแต่ละตารางพาสซีฟของอาชีพเสริมต่างๆ เพื่อให้มีวิธีใหม่ๆ มากมายในการสร้างตัวละคร Path of Exile อันทรงพลังนั่นเอง",
       "Echoes",
       true,
       [],
@@ -2462,7 +2462,7 @@
       "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel11",
       "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Heading11",
       [],
-      "One of the hallmarks of a Path of Exile expansion is its items! In addition to new craftable Watchstones, the Maven's Orb and plenty of Ritual Base Types, we've also introduced the Hydrosphere Skill Gem, Trinity Support Gem, 13 new unique items and a slew of Divination Cards which have been designed by our supporters.",
+      "หนึ่งในเครื่องหมายรับรองคุณภาพของภาคเสริม Path of Exile คือไอเทมนั่นเอง! นอกจากจะมีอัญมณีผู้พิทักษ์ที่สามารถคราฟได้, Maven's Orb, กับประเภทพื้นฐาน Ritual มากมาย เรายังได้เพิ่มเอาหินสกิล Hydrosphere, หินสกิลเสริม Trinity, ไอเทมยูนิคใหม่ 13 ชิ้น กับไพ่พยากรณ์จำนวนมากที่ผ่านการออกแบบจากผู้สนับสนุนของเรา",
       "Echoes",
       false,
       [
@@ -2492,7 +2492,7 @@
       "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel12",
       "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Heading12",
       [],
-      "Harvest has returned. Instead of having to plant and manage your own Sacred Grove, you will discover portals to established gardens with multiple sets of harvests ready to go. From each pair of options, carefully weigh the encounter difficulty against the crafting outcomes before making a choice. If you can slay the monsters that spawn, you'll be rewarded with Lifeforce that can be used to greatly improve your items.",
+      "Harvest กลับมาแล้ว แทนที่คุณจะต้องปลูกและจัดการสวนศักดิ์สิทธิ์ของคุณเอง คุณจะได้ค้นพบอุโมงค์วาร์ปไปสู่สวนสำเร็จรูปอันมีการเก็บเกี่ยวหลายชุดพร้อมเก็บเกี่ยว จากตัวเลือกแต่ละคู่ คุณควรชั่งน้ำหนักระหว่างความยากของการเผชิญหน้ากับผลลัพธ์ของการคราฟต์ให้ดีก่อนที่คุณจะเลือก หากคุณสามารถปราบมอนสเตอร์ที่ปรากฏ คุณจะได้รับรางวัลเป็นพลังชีวิตที่สามารถใช้พัฒนาไอเทมได้อย่างยิ่งยวด",
       "Echoes",
       true,
       [],
@@ -2506,7 +2506,7 @@
       "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel13",
       "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Heading13",
       [],
-      "In <italic>{Echoes of the Atlas}, Heist contracts drop from Act Six onwards. Rogues level up their skills faster, markers drop with higher stack sizes and quest contracts are now dropped for you at the next smuggler's cache as soon as that quest is available.",
+      "ใน<italic>{ภาคเสริม Echoes of the Atlas} สัญญาจ้างโจรกรรมจะดร็อปจากบทที่หกเป็นต้นไป กองโจรจะอัพเลเวลสกิลเร็วกว่าเดิม เหรียญจะดรอปจำนวนมากกว่าเดิม และสัญญาจ้างเควสต์จะดรอปใน Smuggler's Cache ถัดไปทันทีที่เควสต์นั้นพร้อม",
       "Echoes",
       false,
       [],
@@ -2520,7 +2520,7 @@
       "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Panel14",
       "Art/2DArt/UIImages/Login/LeagueInfo/Echoes/Heading14",
       [],
-      "In addition to the recently-released Core Packs, we're also launching two new sets of Supporter Packs to celebrate the release of Echoes of the Atlas and the Ritual League: the Renegade and Faithsworn Packs. There are two price points available for each and they feature masses of points and several exclusive microtransactions like armour sets and character effects.\n\n<italic>{Path of Exile: Echoes of the Atlas} will launch on January 15 (PST) on PC, and on January 20 on Xbox and PlayStation.",
+      "นอกจากจะมีแพ็คสนับสนุนใหม่ที่ออกมาไม่นาน เรายังเปิดแพ็คสนับสนุนใหม่สองแพ็คเพื่อฉลองการเปิดภาคเสริม Echoes of the Atlas กับลีก Ritual นั่นก็คือแพ็ค Renegade กับ Faithsworn ซึ่งแต่ละแพ็คจะมีสองราคาให้เลือกซื้อ และจะมีแต้มจำนวนมากกับสินค้าแฟชั่นเฉพาะตัวให้เลือกซื้ออย่างชุดเกราะเซ็ตและเอฟเฟคตัวละครต่างๆ\n\n<italic>{Path of Exile: Echoes of the Atlas} จะเปิดให้เล่นในวันที่ 15 มกราคม (เวลาแปซิฟิก) สำหรับเครื่อง PC และ 20 มกราคมบน Xbox กับ PlayStation",
       "Echoes",
       true,
       [],

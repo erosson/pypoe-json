@@ -6576,7 +6576,7 @@
     ],
     [
       "ItemFunctionMavenMapCraftable",
-      "Can be used in a personal Map Device. Modifiers to Item Quantity will affect the number of encounter rewards dropped.",
+      "สามารถใช้กับเครื่องเปิดแผนที่ส่วนตัว ม็อดต่อจำนวนไอเทมจะส่งผลกับตัวเลขของรางวัลที่ดรอปจากการเผชิญหน้า",
       "",
       -867359568,
       ""
@@ -35458,7 +35458,7 @@
     ],
     [
       "AtlasCentrepieceHover",
-      "<white>{{ระดับอเวคเคนนิ่ง: {0}%}}\n\n<white>{{ระดับอเวคเคนนิ่งจะเพิ่มขึ้นหนึ่งระดับต่อจำนวนอัญมณีผู้พิทักษ์สี่เม็ดที่ถูกใส่ไว้ในสมุดแผนที่}}\n<white>{{โบนัสจากระดับอเวคเคนนิ่งจะส่งผลต่อทุกแผนที่}}\n\n<default>{{เพิ่มพลังชีวิตสูงสุดของ บอสประจำแผนที่ระดับยูนิค อีก {1}%}}\n<default>{{โอกาสดรอปแผนที่ที่เชื่อมกันเพิ่มอีกชิ้น จากบอสประจำแผนที่ระดับยูนิค +{2}%}}\n<default>{{โอกาสดรอปแผนที่องครักษ์ของเชปเปอร์ จากบอสยูนิคประจำแผนที่ (ระดับ 14 ขึ้นไป) +{3}%}}\n<default>{{โอกาสดรอปแผนที่องครักษ์ของเอลเดอร์ จากบอสยูนิคประจำแผนที่ (ระดับ 14 ขึ้นไป) +{4}%}}\n<default>{{มีโอกาสที่จะดรอปชนิดของสมุดแผนที่จากบอสยูนิคประจำแผนที่ +{5}%}}\n<default>{{มีโอกาสดรอปไอเทมยูนิค จากบอสยูนิคประจำแผนที่ +{6}%}}\n<default>{{มีโอกาสดรอปไอเทมเคอเรนซี่แผนที่ จากบอสยูนิคประจำแผนที่ +{7}%}}\n<default>{{เพิ่มโอกาสที่ เหล่าผู้พิชิตสุดขอบโลก จะดรอปของรางวัลเพิ่ม ตามระดับอเวคเคนนิ่งที่มี}}\n<default>{{มีโอกาสที่จะดรอปไอเทมที่มีอิทธิพล ในแผนที่ที่ได้รับอิทธิพลจากผู้พิชิตสุดขอบโลก +{8}%}}",
+      "<white>{{ระดับอเวคเคนนิ่ง: {0}%}}\n\n<white>{{ระดับอเวคเคนนิ่งจะเพิ่มขึ้นหนึ่งระดับต่อจำนวนอัญมณีผู้พิทักษ์สี่เม็ดที่ถูกใส่ไว้ในสมุดแผนที่}}\n<white>{{โบนัสจากระดับอเวคเคนนิ่งจะส่งผลต่อทุกแผนที่และเบ้าหลอมของเมเวน}}\n\n<default>{{เพิ่มพลังชีวิตสูงสุดของ บอสประจำแผนที่ระดับยูนิค อีก {1}%}}\n<default>{{โอกาสดรอปแผนที่ที่เชื่อมกันเพิ่มอีกชิ้น จากบอสประจำแผนที่ระดับยูนิค +{2}%}}\n<default>{{โอกาสดรอปแผนที่องครักษ์ของเชปเปอร์ จากบอสยูนิคประจำแผนที่ (ระดับ 14 ขึ้นไป) +{3}%}}\n<default>{{โอกาสดรอปแผนที่องครักษ์ของเอลเดอร์ จากบอสยูนิคประจำแผนที่ (ระดับ 14 ขึ้นไป) +{4}%}}\n<default>{{มีโอกาสที่จะดรอป เบสไอเทมของสมุดแผนที่ จากบอสยูนิคประจำแผนที่ +{5}%}}\n<default>{{มีโอกาสดรอปไอเทมยูนิค จากบอสยูนิคประจำแผนที่ +{6}%}}\n<default>{{มีโอกาสดรอปไอเทมเคอเรนซี่แผนที่ จากบอสยูนิคประจำแผนที่ +{7}%}}\n<default>{{เพิ่มโอกาสที่ เหล่าผู้พิชิตสุดขอบโลก จะดรอปของรางวัลเพิ่ม ตามระดับอเวคเคนนิ่งที่มี}}\n<default>{{มีโอกาสที่จะดรอปไอเทมที่มีอิทธิพล ในแผนที่ที่ได้รับอิทธิพลจากผู้พิชิตสุดขอบโลก +{8}%}}",
       "",
       241238803,
       ""
@@ -37782,7 +37782,7 @@
     ],
     [
       "ReminderTextKeystoneTheImpaler",
-      "(เมื่อคุณปะทะศัตรูและทำให้เกิดสถานะทิ่มแทง คุณจะสร้างสถานะทิ่มแทงให้กับศัตรูที่อยู่ใกล้ด้วย เมื่อใดที่คุณสร้างสถานะทิ่มแทงคุณจะสร้างเพิ่มอีก 4 ครั้ง ศัตรูที่ถูกคุณทิ่มแทงจะไม่สามารถโดนทิ่มแทงได้อีกเป็นเวลา 4 วินาที และเรียกเหล็กกล้า (Call of Steel) ไม่สามารถกำจัดสถานะทิ่มแทงออกจากพวกมันได้)",
+      "(เมื่อคุณปะทะศัตรูและทำให้เกิดสถานะทิ่มแทง คุณจะสร้างสถานะทิ่มแทงให้กับศัตรูที่อยู่ใกล้ด้วย เมื่อใดที่คุณสร้างสถานะทิ่มแทงใส่ศัตรู คุณจะสร้างเพิ่มอีก 4 ครั้ง ศัตรูที่ถูกคุณทิ่มแทงจะไม่สามารถโดนทิ่มแทงได้อีกเป็นเวลา 4 วินาที และสถานะทิ่มแทงนี้ไม่สามารถถูก เรียก กลับไปได้)",
       "",
       -558981857,
       ""
@@ -39693,7 +39693,7 @@
     ],
     [
       "DescriptionLabelFixedValueStat",
-      "<italic>{<rgb(170,170,170)>{ — Unscalable Value}}",
+      "<italic>{<rgb(170,170,170)>{ — ไม่สามารถเปลี่ยนแปลงค่าตัวเลขได้}}",
       "",
       1779730505,
       ""
@@ -40141,7 +40141,7 @@
     ],
     [
       "RitualRewardWindowPrepayButtonPopup",
-      "จ่าย 20% ของราคาไอเทมตั้งต้นเพื่อผัดผ่อนไอเทมนั้นๆ ไอเทมชิ้นนี้จะปรากฏในพื้นที่อื่นในภายหลังด้วยราคาที่ลดลง",
+      "จ่าย 20% ของราคาไอเทมตั้งต้นเพื่อผัดผ่อนไอเทมนั้นๆ ไอเทมชิ้นนี้จะปรากฏในพื้นที่อื่นในภายหลังด้วยราคาที่ลดลง โดยมีราคาลดลง 10% จากราคาเต็ม ไอเทมที่มีมูลค่าสูงอาจใช้เวลานานกว่าเดิมที่จะปรากฏใหม่ในภายหลัง",
       "",
       -1224183722,
       ""
@@ -40778,7 +40778,7 @@
     ],
     [
       "RitualBloodVesselBonuses",
-      "Rituals have 20% improved Favour Rewards\nRituals spawn Monsters 20% faster\nRituals have 20% more maximum monsters alive",
+      "พิธีกรรมมีของรางวัลสนองบรรณาการที่ดีกว่าเดิม 20%\nพิธีกรรมเรียกมอนสเตอร์เร็วขึ้น 20%\nพิธีกรรมมีจำนวนมอนสเตอร์ที่มีชีวิตสูงสุดเพิ่มขึ้น 20%",
       "",
       558709536,
       ""
@@ -40848,7 +40848,7 @@
     ],
     [
       "ReminderTextTornVeil",
-      "(รัศมีที่เชื่อมคือระยะทางที่ประตูมิติ Beyond จะเชื่อมกันได้เพื่อทำให้มอนสเตอร์ Beyond เกิดขึ้น)",
+      "(รัศมีที่เชื่อมคือระยะทางที่ประตูมิติ Beyond จะเชื่อมกันได้เพื่อเรียก Beyond Demon)",
       "",
       -656101754,
       ""
@@ -40883,28 +40883,28 @@
     ],
     [
       "ReminderTextShaperGuardians",
-      "(Shaper Guardians are Guardian of the Chimera, Guardian of the Minotaur, Guardian of the Hydra and Guardian of the Phoenix)",
+      "(องครักษ์เชปเปอร์คือ Guardian of the Chimera, Guardian of the Minotaur, Guardian of the Hydra กับ Guardian of the Phoenix)",
       "",
       -636781334,
       ""
     ],
     [
       "ReminderTextElderGuardians",
-      "(Elder Guardians are The Enslaver, The Eradicator, The Constrictor and The Purifier)",
+      "(องครักษ์เอลเดอร์คือ The Enslaver, The Eradicator, The Constrictor กับ The Purifier)",
       "",
       1841184613,
       ""
     ],
     [
       "ReminderTextAtlasConquerors",
-      "(ผู้พิชิตคือ Baran, the Crusader Veritania, the Redeemer, Al-Hezmin, the Hunter กับ Drox, the Warlord)",
+      "(ผู้พิชิตคือ Baran, the Crusader, Veritania, the Redeemer, Al-Hezmin, the Hunter กับ Drox, the Warlord)",
       "",
       -872659269,
       ""
     ],
     [
       "ReminderTextBasicCurrency",
-      "(Basic Currency includes any currency that drops from non-league content)",
+      "เคอเรนซี่พื้นฐานคือเคอเรนซี่ใดๆ ที่ดรอปจากเนื้อหาที่ไม่ได้มาจากลีก",
       "",
       -1510178638,
       ""
@@ -40995,28 +40995,28 @@
     ],
     [
       "MapDeviceMapStatsWindowTitle",
-      "Additional Modifiers",
+      "ม็อดเพิ่มเติม",
       "",
       -1590784975,
       ""
     ],
     [
       "MapDeviceMapStatsCategoryPassive",
-      "Atlas Tree Modifiers",
+      "ม็อดตารางสมุดแผนที่",
       "",
       -856199857,
       ""
     ],
     [
       "MapDeviceMapStatsCategorySextant",
-      "Sextant Modifiers",
+      "ม็อด Sextant",
       "",
       1566825954,
       ""
     ],
     [
       "MapDeviceMapStatsCategoryWatchstone",
-      "Watchstone Modifiers",
+      "ม็อดอัญมณีผู้พิทักษ์",
       "",
       44690017,
       ""
@@ -41024,62 +41024,62 @@
     [
       "MapDeviceMapToggleStatsVisibility",
       "",
-      "Toggle Modifiers Display",
+      "เปิดหรือปิดการแสดงผลของม็อด",
       898405231,
       ""
     ],
     [
       "MapDeviceMapToggleStatsCycleGroups",
       "",
-      "Cycle Categories",
+      "สลับหมวดหมู่",
       -1028117885,
       ""
     ],
     [
       "RitualOpenReawrdWindowButtonPopup",
-      "Show Ritual Rewards",
+      "แสดงของรางวัลจากพิธีกรรม",
       "",
       -461650820,
       ""
     ],
     [
       "RitualRewardsWindowApplyItemFilter",
-      "Apply Item Filter",
+      "ใช้งานไอเทมฟิลเตอร์",
       "",
       -880901990,
       ""
     ],
     [
       "MapStashWitnessedByMaven",
-      "Witnessed by The Maven",
+      "เมเวนได้เป็นสักขีพยาน",
       "",
       -1819385434,
       ""
     ],
     [
       "RitualShopFutureDiscount",
-      "Future Discount:",
+      "การลดราคาในอนาคต:",
       "",
       -1760256378,
       ""
     ],
     [
       "RitualRewardWindowDeferFee",
-      "Deferral Fee:",
+      "ค่าผัดผ่อน:",
       "",
       440201030,
       ""
     ],
     [
       "RitualRewardWindowTotalDeferCost",
-      "Total Deferral Cost:",
+      "ค่าผัดผ่อนสุทธิ:",
       "",
       2083974425,
       ""
     ],
     [
       "ReminderTextInfluencedItems",
-      "(Influenced Items can have modifiers not found anywhere else)",
+      "(ไอเทมที่มีอิทธิพล จะมีม็อดเฉพาะตัวที่ไม่อาจพบได้จากที่อื่น)",
       "",
       -867369286,
       ""

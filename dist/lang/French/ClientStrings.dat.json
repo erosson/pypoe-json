@@ -6576,7 +6576,7 @@
     ],
     [
       "ItemFunctionMavenMapCraftable",
-      "Peut être utilisé dans un Dispositif cartographique personnel. Les modificateurs affectant la Quantité d'Objets affectent le nombre de récompenses de rencontre cédées.",
+      "S'utlise dans un Dispositif cartographique personnel. Les modificateurs affectant la Quantité d'Objets affectent le nombre de récompenses de rencontre cédées.",
       "",
       -867359568,
       ""
@@ -10930,21 +10930,21 @@
     ],
     [
       "MissionTrackStrDexIntCompleteHarvest",
-      "Complétez la Récolte.",
+      "Terminez la Récolte.",
       "",
       1360686376,
       ""
     ],
     [
       "MissionTrackStrDexIntCompleteBlight1",
-      "Complétez la rencontre avec l'Infestation.",
+      "Terminez la rencontre avec l'Infestation.",
       "",
       -472106124,
       ""
     ],
     [
       "MissionTrackStrDexIntCompleteBlightN",
-      "Complétez la rencontre avec l'Infestation. ({0}/{1})",
+      "Terminez les rencontres avec l'Infestation. ({0}/{1})",
       "",
       73086834,
       ""
@@ -11063,7 +11063,7 @@
     ],
     [
       "MissionTrackStrDexIntPrepMetamorph",
-      "Récupérez des Échantillons de Monstres pour Tane\nCréez et tuez le Métamorphe.",
+      "Récupérez des Échantillons de Monstres pour Tane.\nCréez et tuez le Métamorphe.",
       "",
       -1128887465,
       ""
@@ -11105,7 +11105,7 @@
     ],
     [
       "MissionTrackStrDexIntDelirium",
-      "Ouvrez le Miroir du Délire.",
+      "Traversez le Miroir du Délire.",
       "",
       1055064308,
       ""
@@ -33246,7 +33246,7 @@
     ],
     [
       "MapDeviceWarningNotEnoughCollectedMapsForMaven",
-      "La Prodige n'a pas observé suffisamment de combats de Boss de Carte de {0}. {1}",
+      "La Prodige n'a pas observé suffisamment de combats de boss de Carte de la Région {0}. {1}",
       "",
       -1769110154,
       ""
@@ -33260,7 +33260,7 @@
     ],
     [
       "AddMavenErrorMapAlreadyCollected",
-      "La Prodige a déjà observé un combat contre ce Boss.",
+      "La Prodige a déjà observé un combat contre ce boss de Carte.",
       "",
       -1771648578,
       ""
@@ -40141,7 +40141,7 @@
     ],
     [
       "RitualRewardWindowPrepayButtonPopup",
-      "Payez 15% du coût original de cet objet afin de le Différer. Cet objet réapparaîtra alors dans une prochaine zone, avec une réduction de 10%% de son coût initial. Les objets de grande valeur peuvent mettre plus de temps à réapparaître.",
+      "Payez 15% du coût initial de cet objet afin de le Différer. Cet objet réapparaîtra alors dans une prochaine zone avec une réduction de 10% de son coût initial. Les objets de grande valeur peuvent mettre plus de temps à réapparaître.",
       "",
       -1224183722,
       ""
@@ -40211,7 +40211,7 @@
     ],
     [
       "AtlasPopupMapCollected",
-      "La Prodige possède actuellement une reconstitution de ce Boss de Carte.",
+      "La Prodige est déjà en train de reconstituer ce boss de Carte.",
       "",
       1517173982,
       ""
@@ -40484,7 +40484,7 @@
     ],
     [
       "TrinitySupportUIPopupText",
-      "Résonance :\r\nLes Aptitudes modifiées par Trinité dont les dégâts les plus élevés sont d'un élément vous font gagner de la Résonance au toucher pour les deux autres éléments\r\nVous perdez 5 de Résonance par seconde de chaque élément dont vous n'êtes pas en train de gagner de la Résonance",
+      "Résonance :\r\nLes Aptitudes modifiées par Trinité dont les dégâts les plus élevés sont d'un élément vous font gagner de la Résonance au toucher pour les deux autres éléments\r\nVous perdez 5 de Résonance par seconde avec chaque élément dont vous n'êtes pas en train de gagner de la Résonance",
       "",
       1685101411,
       ""
@@ -40505,7 +40505,7 @@
     ],
     [
       "HarvestCraftingToSiloNoSlotsRemainingText",
-      "Établi d'Hortisanat plein",
+      "L'Établi d'hortisanat est plein",
       "",
       -617514705,
       ""
@@ -41037,7 +41037,7 @@
     ],
     [
       "RitualOpenReawrdWindowButtonPopup",
-      "Afficher les récompenses de Rituel",
+      "Voir les récompenses de Rituel",
       "",
       -461650820,
       ""

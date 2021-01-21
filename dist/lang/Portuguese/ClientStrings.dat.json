@@ -6576,7 +6576,7 @@
     ],
     [
       "ItemFunctionMavenMapCraftable",
-      "Can be used in a personal Map Device. Modifiers to Item Quantity will affect the number of encounter rewards dropped.",
+      "Pode ser usado em um Dispositivo de Mapas pessoal. Modificadores à Quantidade de Itens afetarão a quantidade de recompensas de encontros derrubadas.",
       "",
       -867359568,
       ""
@@ -35458,7 +35458,7 @@
     ],
     [
       "AtlasCentrepieceHover",
-      "<white>{{Nível do Despertar: {0}}}\n\n<white>{{O Nível do Despertar aumenta para cada quatro Pedras Sentinela encaixadas em qualquer lugar do Atlas.}}\n<white>{{Níveis do Despertar concedem bônus que afetam todos os Mapas.}}\n\n<default>{{Chefes Únicos de Mapas tem {1}% mais Vida}}\n<default>{{+{2}% de chance de um Mapa conectado adicional cair dos Chefes Únicos dos Mapas}}\n<default>{{+{3}% de chance de um Mapa de Guardião do Criador cair de um Chefe Único de Mapa (Tier 14+)}}\n<default>{{+{4}% de chance de um Mapa de Ancião do Criador cair de um Chefe Único de Mapa (Tier 14+)}}\n<default>{{+{5}% de chance de um Tipo Base do Atlas adicional cair de um Chefe Único de Mapa}}\n<default>{{+{6}% de chance de um Item Único adicional cair de um Chefe Único de Mapa}}\n<default>{{+{7}% de chance de um Item Monetário Mapa adicional cair de um Chefe Único de Mapa}}\n<default>{{Chance aumentada, por Nível de Despertar, dos Conquistadores do Atlas derrubarem recompensas adicionais}}\n<default>{{+{8}% de aumento da chance de Itens Influenciados cairem em Mapas influenciados pelos Conquistadores do Atlas}}",
+      "<white>{{Nível do Despertar: {0}}}\n\n<white>{{O Nível do Despertar aumenta para cada quatro Pedras Sentinela encaixadas em qualquer lugar do Atlas.}}\n<white>{{Níveis do Despertar concedem bônus que afetam todos os Mapas e o Crisol da Maven.}}\n\n<default>{{Chefes Únicos de Mapas tem {1}% mais Vida}}\n<default>{{+{2}% de chance de um Mapa conectado adicional cair dos Chefes Únicos dos Mapas}}\n<default>{{+{3}% de chance de um Mapa de Guardião do Criador cair de um Chefe Único de Mapa (Tier 14+)}}\n<default>{{+{4}% de chance de um Mapa de Ancião do Criador cair de um Chefe Único de Mapa (Tier 14+)}}\n<default>{{+{5}% de chance de um Tipo Base do Atlas adicional cair de um Chefe Único de Mapa}}\n<default>{{+{6}% de chance de um Item Único adicional cair de um Chefe Único de Mapa}}\n<default>{{+{7}% de chance de um Item Monetário Mapa adicional cair de um Chefe Único de Mapa}}\n<default>{{Chance aumentada, por Nível de Despertar, dos Conquistadores do Atlas derrubarem recompensas adicionais}}\n<default>{{+{8}% de aumento da chance de Itens Influenciados cairem em Mapas influenciados pelos Conquistadores do Atlas}}",
       "",
       241238803,
       ""
@@ -40141,7 +40141,7 @@
     ],
     [
       "RitualRewardWindowPrepayButtonPopup",
-      "Pague 15% do custo original do item para Adiar tal item. Este item aparecerá novamente em uma área diferente com custo menor.",
+      "Pague 15% do custo original do item para Adiar tal item. Este item aparecerá novamente em uma área futura com desconto de 10% de seu custo original. Itens mais valiosos podem demorar mais para aparecer.",
       "",
       -1224183722,
       ""
@@ -40883,14 +40883,14 @@
     ],
     [
       "ReminderTextShaperGuardians",
-      "(Os Guardiões do Criador incluem o Guardião do Quimera, Guardião do Minotauro, Guardião da Hidra e Guardião da Fênix\nOs Guardiões do Ancião incluem O Escravizador, O Erradicador, O Constritor e o Purificador\n\nItens Influenciados podem ter modificadores que não são encontrados em nenhum outro lugar)",
+      "(Os Guardiões do Criador incluem o Guardião do Quimera, Guardião do Minotauro, Guardião da Hidra e Guardião da Fênix)",
       "",
       -636781334,
       ""
     ],
     [
       "ReminderTextElderGuardians",
-      "(Elder Guardians are The Enslaver, The Eradicator, The Constrictor and The Purifier)",
+      "Os Guardiões do Ancião incluem O Escravizador, O Erradicador, O Constritor e o Purificador)",
       "",
       1841184613,
       ""
@@ -41051,35 +41051,35 @@
     ],
     [
       "MapStashWitnessedByMaven",
-      "Witnessed by The Maven",
+      "Testemunhado pela Maven",
       "",
       -1819385434,
       ""
     ],
     [
       "RitualShopFutureDiscount",
-      "Future Discount:",
+      "Desconto Futuro:",
       "",
       -1760256378,
       ""
     ],
     [
       "RitualRewardWindowDeferFee",
-      "Deferral Fee:",
+      "Taxa de Adiamento:",
       "",
       440201030,
       ""
     ],
     [
       "RitualRewardWindowTotalDeferCost",
-      "Total Deferral Cost:",
+      "Custo Total do Adiamento:",
       "",
       2083974425,
       ""
     ],
     [
       "ReminderTextInfluencedItems",
-      "(Influenced Items can have modifiers not found anywhere else)",
+      "(Itens Influenciados podem ter modificadores não encontrados em nenhum outro lugar)",
       "",
       -867369286,
       ""

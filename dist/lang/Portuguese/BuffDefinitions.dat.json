@@ -86417,7 +86417,7 @@
     ],
     [
       "maven_memory_game_degen",
-      "Você está sofrendo dano degenerativo de Fogo, Gelo e Raio",
+      "Você está lento e sofrendo dano degenerativo de Fogo, Gelo e Raio",
       false,
       false,
       "Jogo da Maven",
@@ -86471,10 +86471,10 @@
     ],
     [
       "maven_rotating_beam_debuff",
-      "Your maximum Elemental Resistances are lower and you cannot recover Life or Energy Shield",
+      "Seu máximo de Resistências Elementais foi reduzido",
       false,
       false,
-      "Maven's Punishment",
+      "Punição de Maven",
       [
         951,
         1899,
@@ -86523,10 +86523,10 @@
     ],
     [
       "maven_cutter_beam_debuff",
-      "Your maximum Elemental Resistances are lower and you cannot recover Life or Energy Shield",
+      "Seu máximo de Resistências Elementais foi reduzido",
       false,
       false,
-      "Maven's Punishment",
+      "Punição de Maven",
       [
         951,
         1899,
