@@ -51182,7 +51182,7 @@
     [
       "call_of_steel",
       "เรียกเหล็กกล้า (Call of Steel)",
-      "นำสถานะ ทิ่มแทง ออกจากตัวศัตรูรอบตัวคุณไม่ว่ามันจะมีชีวิตหรือตายไปแล้วก็ตาม และทำให้คุณได้รับ สะเก็ดเหล็ก เมื่อนำสถานะทิ่มแทงออกจะสร้างความเสียหายทั้งหมดของสถานะนั้นในพื้นที่เล็กๆเป็นความเสียหายประเภทสะท้อน",
+      "นำสถานะ ทิ่มแทง ออกจากตัวศัตรูในพื้นที่ขนาดใหญ่รอบตัวคุณที่มีชีวิตหรือตายเพื่อรับ สะเก็ดเหล็ก เมื่อนำสถานะทิ่มแทงออกจะสร้างความเสียหาย สะท้อน ต่อพื้นที่เล็กๆ รอบศัตรูเหล่านั้นตามจำนวน ทิ่มแทง ที่ถูกเอาออกจากตัวศัตรูเหล่านั้น จะได้รับสะเก็ดเพิ่มขึ้นอย่างต่อเนื่องจนกว่าจะมีจำนวนสูงสุดหรือนำสะเก็ดไปใช้",
       "SteelSteal",
       "Art/2DArt/SkillIcons/CallOfSteelSkill.dds",
       [
@@ -51485,8 +51485,8 @@
     ],
     [
       "death_wish",
-      "Death Wish",
-      "As you channel this spell, it spreads its effect to more of your minions. When you stop channelling, each affected minion explodes, and this skill deals spell damage around them.  The explosion of the minion is not affected by modifiers to spell damage, and cannot be reflected.",
+      "พรมรณะ (Death Wish)",
+      "เมื่อคุณแชนเนลเวทย์นี้ มันจะกระจายผลไปสู่มิเนียนเพิ่มขึ้นไปอีก เมื่อคุณหยุดร่าย มิเนียนแต่ละตัวที่ได้รับผลจะระเบิด และสกิลนี้จะทำความเสียหาย เวทย์ รอบๆ มิเนียนเหล่านั้น การระเบิดของมิเนียนจะไม่ได้รับผลจากม็อดความเสียหาย เวทย์ และไม่สามารถสะท้อนได้",
       "DeathWish",
       "Art/2DArt/SkillIcons/Deathwish.dds",
       [
@@ -51806,7 +51806,7 @@
     ],
     [
       "oil_arrow",
-      "Flammable Shot",
+      "ศรเชื้อไฟ (Flammable Shot)",
       "[UNUSED] The environmentally unsustainable child of Explosive Arrow and Flame Wall",
       "OilArrow",
       "Art/2DArt/SkillIcons/fusearrow.dds",
@@ -51852,8 +51852,8 @@
     ],
     [
       "water_sphere",
-      "Hydrosphere",
-      "Create a sphere of water, or move an existing sphere and reset its duration. The sphere continually applies a drenched debuff with a short duration to enemies in its area or those it moves through. You can hit the sphere with other skills to inflict Cold and Lightning Ailments (other than Chill). The sphere pulses when created, at regular intervals while afflicted by an Ailment, and after moving, damaging all drenched enemies in a large area.",
+      "วงวารี (Hydrosphere)",
+      "สร้างวงน้ำ หรือเคลื่อนวงน้ำที่มีอยู่แล้วนับระยะเวลาของมันใหม่ วงจะทำดีบัฟ เปียกปอน ระยะเวลาสั้นอย่างต่อเนื่องต่อศัตรูในพื้นที่ หรือศัตรูที่มันเคลื่อนผ่าน คุณสามารถ ปะทะ วงนี้ด้วยสกิลอื่นๆ เพื่อทำสถานะเจ็บป่วย น้ำแข็ง และ สายฟ้า (นอกจากหนาวเย็น) วงจะสร้างคลื่นพลังเมื่อถูกสร้างขณะที่มันติดสถานะเจ็บป่วย หลังจากมันเคลื่อนที่ มันจะสร้างความเสียหายต่อศัตรูทั้งหมดที่ เปียกปอน ในพื้นที่ขนาดใหญ่",
       "WaterSphere",
       "Art/2DArt/SkillIcons/Hydrosphere.dds",
       [
@@ -51932,8 +51932,8 @@
     ],
     [
       "aegis_elementalist",
-      "Primal Aegis",
-      "Calls forth a protective aegis which takes elemental damage from hits for you until depleted. The aegis will be restored to its full value after a short delay if you stop taking elemental damage from hits, or if depleted.",
+      "โล่เอจิสดึกดำบรรพ์ (Primal Aegis)",
+      "เรียกโล่เอจิสคุ้มครองที่จะรับความเสียหาย ปะทะ ธาตุ ให้กับคุณจนกว่ามันจะหมดไป โล่นี้จะถูกฟื้นกลับไปสู่ค่าเต็มหลังจากเวลาผ่านไปสั้นๆ เมื่อคุณไม่ได้รับความเสียหาย ปะทะ ธาตุ หรือเมื่อมันหมดไป",
       "Aegis",
       "Art/2DArt/BuffIcons/PrimalAegis.dds",
       [
@@ -51967,8 +51967,8 @@
     ],
     [
       "vampiric_icon",
-      "Thirst for Blood",
-      "Reserves some of your life to cause bleeding you inflict to be stronger, and grant life regeneration based on the number bleeding enemies nearby.",
+      "กระหายเลือด (Thirst for Blood)",
+      "สำรองพลังชีวิตบางส่วนของคุณเพื่อทำให้สถานะ เลือดไหล ที่คุณสร้างมีผลแรงขึ้น และทำให้คุณได้รับการฟื้นฟูพลังชีวิตตามจำนวนศัตรูที่อยู่ใกล้ที่มีสถานะ เลือดไหล",
       "BeamAura",
       "Art/2DArt/SkillIcons/JackTheAxe.dds",
       [
@@ -52001,8 +52001,8 @@
     ],
     [
       "unhinge",
-      "Unhinge",
-      "Relinquish your grip on reality.",
+      "สละสติ (Unhinge)",
+      "ปล่อยสติของคุณให้หลุดลอยไป",
       "ToggleBuff",
       "Art/2DArt/SkillIcons/UnhingeSkill.dds",
       [
@@ -52262,8 +52262,8 @@
     ],
     [
       "steelskin_ally",
-      "Steelskin",
-      "Applies a buff which can take some of the damage from hits for you before being depleted. Shares a cooldown with other Guard skills.",
+      "ผิวเหล็ก (Steelskin)",
+      "ทำให้เกิดบัฟเพื่อจะรับความเสียหาย ปะทะ แทนคุณก่อนที่จะหมดไป ใช้คูลดาวน์ร่วมกับสกิล ตั้งรับ อื่นๆ",
       "QuickGuard",
       "Art/2DArt/BuffIcons/QuickGuard.dds",
       [
@@ -52305,8 +52305,8 @@
     ],
     [
       "unearth_channelled",
-      "Unearth",
-      "Fires a projectile that will pierce through enemies to impact the ground at the targeted location, creating a Bone Archer corpse where it lands.",
+      "ขุดซาก (Unearth)",
+      "ยิงกระสุนที่จะทะลุศัตรูเพื่อกระทบกับพื้นที่ตำแหน่งเป้าหมาย สร้างศพนักธนูกระดูกในที่ที่กระสุนลง",
       "BoneLance",
       "Art/2DArt/SkillIcons/BoneLance.dds",
       [

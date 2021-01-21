@@ -5631,7 +5631,9 @@
       0,
       true,
       true,
-      [],
+      [
+        47670
+      ],
       93,
       "Art/2DArt/Shop/pack/ritual/renegadepack_bg",
       "",
@@ -5653,7 +5655,9 @@
       0,
       false,
       true,
-      [],
+      [
+        47920
+      ],
       93,
       "Art/2DArt/Shop/pack/ritual/deadlyrenegadepack_bg",
       "",
@@ -5675,7 +5679,9 @@
       0,
       true,
       true,
-      [],
+      [
+        48154
+      ],
       94,
       "Art/2DArt/Shop/pack/ritual/faithswornpack_bg",
       "",
@@ -5697,7 +5703,9 @@
       0,
       false,
       true,
-      [],
+      [
+        48406
+      ],
       94,
       "Art/2DArt/Shop/pack/ritual/elitefaithswornpack_bg",
       "",
@@ -5726,7 +5734,7 @@
       true,
       null,
       0,
-      48454,
+      48710,
       [
         2,
         3
@@ -5749,7 +5757,7 @@
       true,
       235,
       0,
-      48712,
+      48968,
       [
         2,
         3
@@ -5772,7 +5780,7 @@
       true,
       null,
       0,
-      48938,
+      49194,
       [
         2,
         3
@@ -5795,7 +5803,7 @@
       true,
       237,
       0,
-      49200,
+      49456,
       [
         2,
         3
@@ -5812,7 +5820,7 @@
       true,
       true,
       [
-        49378
+        49634
       ],
       98,
       "Art/2DArt/Shop/pack/core3/DelveCorePack_bg",
@@ -5836,7 +5844,7 @@
       true,
       true,
       [
-        49632
+        49888
       ],
       98,
       "Art/2DArt/Shop/pack/core3/BreachCorePack_bg",
@@ -5860,7 +5868,7 @@
       true,
       true,
       [
-        49884
+        50140
       ],
       98,
       "Art/2DArt/Shop/pack/core3/AbyssCorePack_bg",
@@ -5884,7 +5892,7 @@
       true,
       true,
       [
-        50142
+        50398
       ],
       98,
       "Art/2DArt/Shop/pack/core3/HarvestCorePack_bg",
@@ -5908,7 +5916,7 @@
       false,
       true,
       [
-        50406
+        50662
       ],
       98,
       "Art/2DArt/Shop/pack/core3/AtlasCorePack_bg",
@@ -5938,7 +5946,7 @@
       true,
       null,
       0,
-      50698,
+      50954,
       [
         2,
         3
@@ -5961,7 +5969,7 @@
       true,
       244,
       0,
-      50938,
+      51194,
       [
         2,
         3
@@ -5984,7 +5992,7 @@
       true,
       245,
       0,
-      51158,
+      51414,
       [
         2,
         3
@@ -6007,7 +6015,7 @@
       true,
       246,
       0,
-      51386,
+      51642,
       [
         2,
         3
@@ -6030,7 +6038,7 @@
       true,
       247,
       0,
-      51606,
+      51862,
       [
         2,
         3

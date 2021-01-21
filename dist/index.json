@@ -633,7 +633,7 @@
     "filename": "BaseItemTypes.dat",
     "numHeaders": 35,
     "numItems": 7496,
-    "size": 1930136,
+    "size": 1930146,
     "langs": [
       "French",
       "German",
@@ -1461,7 +1461,7 @@
     "filename": "CurrencyItems.dat",
     "numHeaders": 20,
     "numItems": 5005,
-    "size": 779582,
+    "size": 779576,
     "langs": [
       "French",
       "German",
@@ -1621,7 +1621,8 @@
       "Korean",
       "Portuguese",
       "Russian",
-      "Spanish"
+      "Spanish",
+      "Thai"
     ]
   },
   {
@@ -2430,7 +2431,8 @@
       "German",
       "Korean",
       "Russian",
-      "Spanish"
+      "Spanish",
+      "Thai"
     ]
   },
   {
@@ -2793,14 +2795,14 @@
     "filename": "ItemVisualIdentity.dat",
     "numHeaders": 48,
     "numItems": 10351,
-    "size": 4368325,
+    "size": 4368384,
     "langs": []
   },
   {
     "filename": "ItemisedVisualEffect.dat",
     "numHeaders": 11,
     "numItems": 2306,
-    "size": 142960,
+    "size": 142962,
     "langs": []
   },
   {
@@ -3838,7 +3840,7 @@
     "filename": "MonsterVarieties.dat",
     "numHeaders": 83,
     "numItems": 7768,
-    "size": 4437388,
+    "size": 4437378,
     "langs": [
       "French",
       "German",
@@ -4646,7 +4648,7 @@
     "filename": "ShopPaymentPackage.dat",
     "numHeaders": 18,
     "numItems": 249,
-    "size": 39163,
+    "size": 39183,
     "langs": [
       "French",
       "German",

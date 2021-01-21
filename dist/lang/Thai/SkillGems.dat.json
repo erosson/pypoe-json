@@ -12439,7 +12439,7 @@
       ],
       null,
       false,
-      "Supports skills that hit enemies, causing them to gain bonuses while you have resonance of all three elements, and to grant resonance of elements other than the highest one in a hit. There is a maximum of 50 Resonance for each Element. Cannot support triggered skills, instant skills, orb skills, brands, skills which reserve mana, or skills used by totems, traps, or mines. Cannot modify the skills of minions.",
+      "เสริมสกิลที่ปะทะศัตรู ทำให้สกิลนั้นได้รับโบนัสเมื่อคุณมี การสั่นพ้อง (Resonance) ของทั้งสามธาตุ และทำให้ได้รับการสั่นพ้องของสองธาตุที่ไม่ได้มีความเสียหายมากที่สุด แต่ละธาตุมีการสั่นพ้องได้สูงสุด 50 ระดับ ไม่สามารถเสริมสกิลใช้งานเอง, สกิลร่ายทันที, สกิลออร์บ, ตราเวทย์, สกิลที่สำรองมานา, หรือสกิลที่ใช้งานโดยโทเทม, กับดัก หรือ ทุ่นระเบิด และสกิลที่ใช้โดยมิเนียน",
       21325,
       null,
       null,
