@@ -86471,7 +86471,7 @@
     ],
     [
       "maven_rotating_beam_debuff",
-      "원소 저항 최대치가 더 낮아집니다.",
+      "원소 저항 최대치가 더 낮아지고 생명력 또는 에너지 보호막을 회복할 수 없습니다.",
       false,
       false,
       "메이븐의 응징",
@@ -86523,7 +86523,7 @@
     ],
     [
       "maven_cutter_beam_debuff",
-      "원소 저항 최대치가 더 낮아집니다.",
+      "원소 저항 최대치가 더 낮아지고 생명력 또는 에너지 보호막을 회복할 수 없습니다.",
       false,
       false,
       "메이븐의 응징",
@@ -86619,10 +86619,10 @@
     ],
     [
       "maven_void_ground",
-      "You are slowed and taking Cold Damage over time.",
+      "움직임이 느려지고 지속 냉기 피해를 받습니다.",
       false,
       false,
-      "Gravity Well",
+      "중력 우물",
       [
         346,
         1991
@@ -86664,6 +86664,59 @@
       [
         346,
         1991
+      ],
+      []
+    ],
+    [
+      "maven_quick_guard",
+      "",
+      true,
+      true,
+      "",
+      [
+        1038,
+        7682
+      ],
+      true,
+      3,
+      false,
+      null,
+      9906,
+      false,
+      17,
+      0,
+      true,
+      false,
+      1,
+      false,
+      true,
+      true,
+      false,
+      0,
+      false,
+      "MavenQuickGuard",
+      false,
+      false,
+      false,
+      null,
+      0,
+      4,
+      0,
+      0,
+      0,
+      [],
+      false,
+      false,
+      null,
+      false,
+      [
+        9406
+      ],
+      [],
+      [
+        1038,
+        7682,
+        9406
       ],
       []
     ]

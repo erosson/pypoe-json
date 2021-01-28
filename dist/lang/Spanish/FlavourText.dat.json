@@ -6301,7 +6301,7 @@
     [
       "DivinationCardSambodhisVow",
       22028,
-      "<size 28>{Purifica los reinos oscuros\r\nhasta que los sufrimientos mortales\r\ncedan el paso a la luz de la esperanza.}"
+      "<size:28>{Purifica los reinos oscuros\r\nhasta que los sufrimientos mortales\r\ncedan el paso a la luz de la esperanza.}"
     ],
     [
       "DivinationCardTheLordOfCelebration",
@@ -6681,7 +6681,7 @@
     [
       "DivinationCardTheUnexpectedPrize",
       39485,
-      "Llegaron desde muy lejos unidos bajo un mismo estandarte.\r\nBuscaban compañerismo y competición,\r\npero hallaron un tesoro que ninguno había previsto."
+      "<size:25>{Llegaron desde muy lejos unidos bajo un mismo estandarte.\r\nBuscaban compañerismo y competición,\r\npero hallaron un tesoro que ninguno había previsto.}"
     ],
     [
       "DivinationCardCursedWords",

@@ -3608,6 +3608,27 @@
       [],
       -1351062006,
       1
+    ],
+    [
+      "MicrotransactionRapturePortal",
+      "Metadata/MiscellaneousObjects/Portals/RapturePortal",
+      [],
+      -985546498,
+      4
+    ],
+    [
+      "RainOfSporesBloomPodCelestial",
+      "Metadata/Effects/Microtransactions/Spells/celestial_toxic_rain/BloomPod",
+      [],
+      -1843212688,
+      4
+    ],
+    [
+      "MicrotransactionFrostVikingPortalEffect",
+      "Metadata/MiscellaneousObjects/Portals/FrostVikingPortal",
+      [],
+      995237822,
+      4
     ]
   ]
 }

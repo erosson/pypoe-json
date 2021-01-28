@@ -46,7 +46,7 @@
     "filename": "AchievementItems.dat",
     "numHeaders": 9,
     "numItems": 7677,
-    "size": 625697,
+    "size": 625705,
     "langs": [
       "French",
       "German",
@@ -632,8 +632,8 @@
   {
     "filename": "BaseItemTypes.dat",
     "numHeaders": 35,
-    "numItems": 7496,
-    "size": 1930146,
+    "numItems": 7502,
+    "size": 1931611,
     "langs": [
       "French",
       "German",
@@ -1097,8 +1097,8 @@
   {
     "filename": "BuffDefinitions.dat",
     "numHeaders": 42,
-    "numItems": 1749,
-    "size": 459535,
+    "numItems": 1750,
+    "size": 459769,
     "langs": [
       "French",
       "German",
@@ -1329,8 +1329,8 @@
   {
     "filename": "ClientStrings.dat",
     "numHeaders": 5,
-    "numItems": 5859,
-    "size": 616806,
+    "numItems": 5862,
+    "size": 617139,
     "langs": [
       "French",
       "German",
@@ -1460,8 +1460,8 @@
   {
     "filename": "CurrencyItems.dat",
     "numHeaders": 20,
-    "numItems": 5005,
-    "size": 779576,
+    "numItems": 5007,
+    "size": 779854,
     "langs": [
       "French",
       "German",
@@ -2122,8 +2122,8 @@
   {
     "filename": "GrantedEffectsPerLevel.dat",
     "numHeaders": 47,
-    "numItems": 42189,
-    "size": 7441059,
+    "numItems": 42193,
+    "size": 7441685,
     "langs": []
   },
   {
@@ -2531,7 +2531,7 @@
     "filename": "Hideouts.dat",
     "numHeaders": 14,
     "numItems": 58,
-    "size": 15455,
+    "size": 15470,
     "langs": []
   },
   {
@@ -2765,8 +2765,8 @@
   {
     "filename": "ItemThemes.dat",
     "numHeaders": 2,
-    "numItems": 187,
-    "size": 5028,
+    "numItems": 188,
+    "size": 5059,
     "langs": [
       "French",
       "German",
@@ -2794,15 +2794,15 @@
   {
     "filename": "ItemVisualIdentity.dat",
     "numHeaders": 48,
-    "numItems": 10351,
-    "size": 4368384,
+    "numItems": 10357,
+    "size": 4370394,
     "langs": []
   },
   {
     "filename": "ItemisedVisualEffect.dat",
     "numHeaders": 11,
-    "numItems": 2306,
-    "size": 142962,
+    "numItems": 2308,
+    "size": 144145,
     "langs": []
   },
   {
@@ -2985,8 +2985,8 @@
   {
     "filename": "LeagueQuestFlags.dat",
     "numHeaders": 0,
-    "numItems": 1083,
-    "size": 3305,
+    "numItems": 1091,
+    "size": 3329,
     "langs": []
   },
   {
@@ -3362,15 +3362,15 @@
   {
     "filename": "MicrotransactionPeriodicCharacterEffectVariations.dat",
     "numHeaders": 3,
-    "numItems": 165,
-    "size": 16896,
+    "numItems": 166,
+    "size": 16990,
     "langs": []
   },
   {
     "filename": "MicrotransactionPortalVariations.dat",
     "numHeaders": 5,
     "numItems": 159,
-    "size": 29099,
+    "size": 28119,
     "langs": []
   },
   {
@@ -3412,7 +3412,7 @@
     "filename": "MicrotransactionSocialFrameVariations.dat",
     "numHeaders": 3,
     "numItems": 264,
-    "size": 4401,
+    "size": 6892,
     "langs": []
   },
   {
@@ -3425,15 +3425,15 @@
   {
     "filename": "MiscAnimated.dat",
     "numHeaders": 5,
-    "numItems": 5148,
-    "size": 609567,
+    "numItems": 5161,
+    "size": 611146,
     "langs": []
   },
   {
     "filename": "MiscBeams.dat",
     "numHeaders": 5,
-    "numItems": 421,
-    "size": 21789,
+    "numItems": 422,
+    "size": 21844,
     "langs": []
   },
   {
@@ -3446,8 +3446,8 @@
   {
     "filename": "MiscObjects.dat",
     "numHeaders": 5,
-    "numItems": 477,
-    "size": 51420,
+    "numItems": 480,
+    "size": 51766,
     "langs": []
   },
   {
@@ -3840,7 +3840,7 @@
     "filename": "MonsterVarieties.dat",
     "numHeaders": 83,
     "numItems": 7768,
-    "size": 4437378,
+    "size": 4437388,
     "langs": [
       "French",
       "German",
@@ -4002,8 +4002,8 @@
   {
     "filename": "NPCTextAudio.dat",
     "numHeaders": 11,
-    "numItems": 11004,
-    "size": 2401502,
+    "numItems": 11005,
+    "size": 2401632,
     "langs": [
       "French",
       "German",
@@ -4190,7 +4190,7 @@
     "filename": "PassiveSkills.dat",
     "numHeaders": 29,
     "numItems": 3172,
-    "size": 685055,
+    "size": 685056,
     "langs": [
       "French",
       "German",
@@ -4647,8 +4647,8 @@
   {
     "filename": "ShopPaymentPackage.dat",
     "numHeaders": 18,
-    "numItems": 249,
-    "size": 39183,
+    "numItems": 250,
+    "size": 39354,
     "langs": [
       "French",
       "German",
@@ -4662,8 +4662,8 @@
   {
     "filename": "ShopPaymentPackagePrice.dat",
     "numHeaders": 3,
-    "numItems": 1363,
-    "size": 19501,
+    "numItems": 1369,
+    "size": 19561,
     "langs": []
   },
   {
@@ -4749,8 +4749,8 @@
   {
     "filename": "SkillGems.dat",
     "numHeaders": 16,
-    "numItems": 502,
-    "size": 63610,
+    "numItems": 506,
+    "size": 63936,
     "langs": [
       "French",
       "German",
@@ -4799,8 +4799,8 @@
   {
     "filename": "SkillSurgeEffects.dat",
     "numHeaders": 14,
-    "numItems": 69,
-    "size": 7659,
+    "numItems": 70,
+    "size": 7728,
     "langs": []
   },
   {
@@ -4911,8 +4911,8 @@
   {
     "filename": "Stats.dat",
     "numHeaders": 18,
-    "numItems": 13903,
-    "size": 1937017,
+    "numItems": 13905,
+    "size": 1937275,
     "langs": [
       "French",
       "German",
@@ -4975,8 +4975,8 @@
   {
     "filename": "SupporterPackSets.dat",
     "numHeaders": 7,
-    "numItems": 100,
-    "size": 12775,
+    "numItems": 101,
+    "size": 12905,
     "langs": [
       "French",
       "German",
@@ -4997,8 +4997,8 @@
   {
     "filename": "SurgeTypes.dat",
     "numHeaders": 2,
-    "numItems": 62,
-    "size": 2268,
+    "numItems": 63,
+    "size": 2304,
     "langs": []
   },
   {

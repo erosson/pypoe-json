@@ -283,8 +283,8 @@
         2,
         5
       ],
-      7230,
-      7239,
+      7236,
+      7245,
       "Metadata/Terrain/Leagues/Heist/ControlBlocks/Graphs/_wing.dgr",
       7,
       3,
@@ -298,7 +298,7 @@
         7560,
         7672
       ],
-      5586
+      5587
     ],
     [
       "Mines",
@@ -323,8 +323,8 @@
         5,
         7
       ],
-      7231,
-      7240,
+      7237,
+      7246,
       "Metadata/Terrain/Leagues/Heist/Mines/Graphs/_wing.dgr",
       7,
       3,
@@ -338,7 +338,7 @@
         7560,
         7672
       ],
-      5587
+      5588
     ],
     [
       "Dungeon",
@@ -363,8 +363,8 @@
         7,
         4
       ],
-      7232,
-      7241,
+      7238,
+      7247,
       "Metadata/Terrain/Leagues/Heist/Thaumaturgy/Graphs/_wing.dgr",
       7,
       3,
@@ -378,7 +378,7 @@
         7560,
         7672
       ],
-      5588
+      5589
     ],
     [
       "Reliquary",
@@ -403,8 +403,8 @@
         5,
         3
       ],
-      7233,
-      7242,
+      7239,
+      7248,
       "Metadata/Terrain/Leagues/Heist/Reliquary/Graphs/_wing.dgr",
       7,
       3,
@@ -418,7 +418,7 @@
         7560,
         7672
       ],
-      5589
+      5590
     ],
     [
       "Library",
@@ -443,8 +443,8 @@
         2,
         7
       ],
-      7234,
-      7243,
+      7240,
+      7249,
       "Metadata/Terrain/Leagues/Heist/Library/Graphs/_wing.dgr",
       7,
       3,
@@ -458,7 +458,7 @@
         7560,
         7672
       ],
-      5590
+      5591
     ],
     [
       "RobotTunnels",
@@ -484,8 +484,8 @@
         4,
         5
       ],
-      7235,
-      7244,
+      7241,
+      7250,
       "Metadata/Terrain/Leagues/Heist/RobotTunnels/Graphs/_wing.dgr",
       7,
       3,
@@ -499,7 +499,7 @@
         7560,
         7672
       ],
-      5591
+      5592
     ],
     [
       "Sewers",
@@ -524,8 +524,8 @@
         8,
         7
       ],
-      7236,
-      7245,
+      7242,
+      7251,
       "Metadata/Terrain/Leagues/Heist/Sewers/Graphs/_wing.dgr",
       7,
       3,
@@ -539,7 +539,7 @@
         7560,
         7672
       ],
-      5592
+      5593
     ],
     [
       "Courts",
@@ -565,8 +565,8 @@
         7,
         1
       ],
-      7237,
-      7246,
+      7243,
+      7252,
       "Metadata/Terrain/Leagues/Heist/Courts/Graphs/_wing.dgr",
       7,
       3,
@@ -580,7 +580,7 @@
         7560,
         7672
       ],
-      5593
+      5594
     ],
     [
       "Mansion",
@@ -605,8 +605,8 @@
         7,
         1
       ],
-      7238,
-      7247,
+      7244,
+      7253,
       "Metadata/Terrain/Leagues/Heist/Mansion/Graphs/_wing.dgr",
       7,
       3,
@@ -620,7 +620,7 @@
         7560,
         7672
       ],
-      5594
+      5595
     ]
   ]
 }

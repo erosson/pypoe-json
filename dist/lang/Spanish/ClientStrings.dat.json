@@ -6380,7 +6380,7 @@
     ],
     [
       "ItemDescriptionFlask",
-      "Haz clic derecho para beber. Solo puede mantener cargas mientras esté en el cinturón. Se rellena a medida que matas monstruos.",
+      "Haz clic derecho para beber. Solo puede mantener sus cargas mientras está en el cinturón. Se rellena a medida que matas monstruos.",
       "Presiona el botón vinculado para beber. Solo puede mantener cargas al estar en el cinturón. Se rellena a medida que matas a monstruos.",
       -218713755,
       ""
@@ -9558,8 +9558,8 @@
     ],
     [
       "TutorialLevelUp",
-      "Has ganado un punto de habilidad al subir de nivel.\\Haz clic aquí (o presiona {0}) para usar tu punto de habilidad.",
-      "Has ganado un punto de habilidad al subir de nivel.\\Presiona <<xbox_button_view>> para abrir el árbol de habilidades pasivas.",
+      "Has ganado un punto de habilidad al subir de nivel.\nHaz clic aquí (o presiona {0}) para usar tu punto de habilidad.",
+      "Has ganado un punto de habilidad al subir de nivel.\nPresiona <<xbox_button_view>> para abrir el árbol de habilidades pasivas.",
       1446929430,
       ""
     ],
@@ -19841,7 +19841,7 @@
     ],
     [
       "HideCompletedChallengesLabel",
-      "Esconder Desafíos Completados",
+      "Esconder completados",
       "",
       990661858,
       ""
@@ -25098,7 +25098,7 @@
     ],
     [
       "TutorialPanelTheLabyrinthContent1",
-      "El Laberinto es una mazmorra distinta de cualquier otra en Path of Exile. Está lleno de trampas peligrosas, secretos valiosos, puzles intrincados, y objetivos que puede que requieran que hagas cosas a través de varias áreas.\r\n\r\nPara ganar acceso al Laberinto, debes completar las seis pruebas de prerequisitos que se encuentran esparcidas a través de los primeros tres actos. Un portal a la Plaza de los Aspirantes aparecerá en el centro del Campamento de Sarn, y es en la Plaza de Aspirantes donde se puede acceder a todas las versiones del Laberinto.",
+      "El Laberinto es una mazmorra distinta de cualquier otra en Path of Exile. Está lleno de trampas peligrosas, secretos valiosos, puzles intrincados y objetivos que puede que requieran que hagas cosas a través de varias áreas.\r\n\r\nPara conseguir acceso al Laberinto, debes completar las seis pruebas de prerequisitos que se encuentran esparcidas por los primeros tres actos. Entonces aparecerá un portal a la Plaza de los Aspirantes en el centro del Campamento de Sarn, y es en la Plaza de los Aspirantes donde se puede acceder a todas las versiones del Laberinto.",
       "",
       -293079269,
       ""
@@ -26358,7 +26358,7 @@
     ],
     [
       "PortalScrollTutorial",
-      "Los Pergaminos de Portal pueden ser usados para regresar rápidamente al pueblo.",
+      "Los Pergaminos de Portal pueden usarse para regresar rápidamente al pueblo.",
       "",
       -357441820,
       ""
@@ -28549,7 +28549,7 @@
     ],
     [
       "OpenTempleBlueprintUIButton",
-      "Mapa de Templo",
+      "Mapa del Templo",
       "",
       -1554301829,
       ""
@@ -28598,7 +28598,7 @@
     ],
     [
       "IncursionCorruptionDescriptionRoomI",
-      "Corrompe un objeto y lo modifica en forma impredecible.",
+      "Corrompe un objeto y lo modifica de forma impredecible.",
       "",
       -1308151801,
       ""
@@ -28696,7 +28696,7 @@
     ],
     [
       "IncursionGemCraftingDescriptionText",
-      "Corrompe una Gema de Habilidad o de Asistencia y y la modifica en forma impredecible dos veces.",
+      "Corrompe una gema de habilidad o de asistencia y la modifica de forma impredecible dos veces.",
       "",
       683000029,
       ""
@@ -30957,7 +30957,7 @@
     ],
     [
       "JobRaidBarDisplayName",
-      "{0} debe sobrevivir. Quedan: {1}",
+      "{0} deben sobrevivir. Quedan: {1}",
       "",
       1599837128,
       ""
@@ -33291,6 +33291,13 @@
       "Este mapa tiene un nivel demasiado bajo para captar la atención de la Especialista",
       "",
       1685682043,
+      ""
+    ],
+    [
+      "AddMavenErrorCitadelNotUnlocked",
+      "Desbloquea la ciudadela de esta región para atraer la atención de la Especialista",
+      "",
+      -1544313545,
       ""
     ],
     [
@@ -40204,7 +40211,7 @@
     ],
     [
       "MavenBossRushObjectDescriptionPassivesBody",
-      "Interactúa para asignar puntos pasivos del Atlas",
+      "Interactúa para asignar puntos de pasivas del Atlas",
       "",
       2023104665,
       ""
@@ -41086,9 +41093,23 @@
     ],
     [
       "HarvestCraftOptionDisabledInHideout",
-      "You cannot use this crafting option in a Hideout.",
+      "No puedes usar esta opción de fabricación en una guarida.",
       "",
       -2078730669,
+      ""
+    ],
+    [
+      "RitualRewardsUINotMapOwner",
+      "Solo puede comprar favores el dueño de la instancia",
+      "",
+      1995735598,
+      ""
+    ],
+    [
+      "MapDeviceWindowMavenOptionPopupActive",
+      "The Maven will witness and affect this map's boss encounter. Defeating the boss encounter will allow the Maven to replicate the fight in her own realm.",
+      "",
+      -1590098877,
       ""
     ]
   ]

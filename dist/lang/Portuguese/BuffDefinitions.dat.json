@@ -86471,7 +86471,7 @@
     ],
     [
       "maven_rotating_beam_debuff",
-      "Seu máximo de Resistências Elementais foi reduzido",
+      "Seu máximo de Resistências Elementais foi reduzido e você não pode recuperar Vida ou Escudo de Energia",
       false,
       false,
       "Punição de Maven",
@@ -86523,7 +86523,7 @@
     ],
     [
       "maven_cutter_beam_debuff",
-      "Seu máximo de Resistências Elementais foi reduzido",
+      "Seu máximo de Resistências Elementais foi reduzido e você não pode recuperar Vida ou Escudo de Energia",
       false,
       false,
       "Punição de Maven",
@@ -86619,10 +86619,10 @@
     ],
     [
       "maven_void_ground",
-      "You are slowed and taking Cold Damage over time.",
+      "Você está mais lento e sofrendo Dano de Gelo degenerativo.",
       false,
       false,
-      "Gravity Well",
+      "Poço Gravitacional",
       [
         346,
         1991
@@ -86664,6 +86664,59 @@
       [
         346,
         1991
+      ],
+      []
+    ],
+    [
+      "maven_quick_guard",
+      "",
+      true,
+      true,
+      "",
+      [
+        1038,
+        7682
+      ],
+      true,
+      3,
+      false,
+      null,
+      9906,
+      false,
+      17,
+      0,
+      true,
+      false,
+      1,
+      false,
+      true,
+      true,
+      false,
+      0,
+      false,
+      "MavenQuickGuard",
+      false,
+      false,
+      false,
+      null,
+      0,
+      4,
+      0,
+      0,
+      0,
+      [],
+      false,
+      false,
+      null,
+      false,
+      [
+        9406
+      ],
+      [],
+      [
+        1038,
+        7682,
+        9406
       ],
       []
     ]

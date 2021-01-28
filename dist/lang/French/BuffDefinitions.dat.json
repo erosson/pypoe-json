@@ -86666,6 +86666,59 @@
         1991
       ],
       []
+    ],
+    [
+      "maven_quick_guard",
+      "",
+      true,
+      true,
+      "",
+      [
+        1038,
+        7682
+      ],
+      true,
+      3,
+      false,
+      null,
+      9906,
+      false,
+      17,
+      0,
+      true,
+      false,
+      1,
+      false,
+      true,
+      true,
+      false,
+      0,
+      false,
+      "MavenQuickGuard",
+      false,
+      false,
+      false,
+      null,
+      0,
+      4,
+      0,
+      0,
+      0,
+      [],
+      false,
+      false,
+      null,
+      false,
+      [
+        9406
+      ],
+      [],
+      [
+        1038,
+        7682,
+        9406
+      ],
+      []
     ]
   ]
 }

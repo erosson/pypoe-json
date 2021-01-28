@@ -2462,7 +2462,7 @@
     [
       "ice_nova",
       "Nova de glace",
-      "Un cercle frigorifiant de glace s'étend autour du lanceur. Si le lanceur prend pour cible un emplacement proche des projectiles générés par Sphère de givre, le cercle de glace s'étend à partir de ces projectiles à la place. Si cette aptitude est censée se répéter après avoir été lancée de cette façon, elle s'étendra à nouveau à partir des même projectiles à l'issu d'un court délai.",
+      "Un cercle frigorifiant de glace s'étend autour du lanceur. Si le lanceur prend pour cible un emplacement proche des projectiles générés par Globe de givre, le cercle de glace s'étend à partir de ces projectiles à la place. Si cette aptitude est censée se répéter après avoir été lancée de cette façon, elle s'étendra à nouveau à partir des même projectiles à l'issu d'un court délai.",
       "IceNova",
       "Art/2DArt/SkillIcons/iconfrostnova.dds",
       [
@@ -2515,7 +2515,7 @@
     [
       "vaal_ice_nova",
       "Nova de glace vaal",
-      "Un cercle frigorifiant de glace s'étend autour du lanceur, et se relance à partir de chaque ennemi touché. Si le lanceur prend pour cible un de ses projectiles générés par Sphère de givre, le cercle de glace s'étend à partir de ce projectile à la place.",
+      "Un cercle frigorifiant de glace s'étend autour du lanceur, et se relance à partir de chaque ennemi touché. Si le lanceur prend pour cible un de ses projectiles générés par Globe de givre, le cercle de glace s'étend à partir de ce projectile à la place.",
       "IceNova",
       "Art/2DArt/SkillIcons/iconfrostnova.dds",
       [
@@ -12943,7 +12943,7 @@
     ],
     [
       "flame_whip",
-      "Salve de feu",
+      "Éruption de flammes",
       "Une salve de feu qui frappe les ennemis face à vous. Les ennemis qui brûlent subissent plus de dégâts.",
       "FlameWhip",
       "Art/2DArt/SkillIcons/flamewhip.dds",
@@ -25925,7 +25925,7 @@
     ],
     [
       "frost_bolt",
-      "Sphère de givre",
+      "Globe de givre",
       "Un projectile sphérique infligeant des dégâts de froid qui se déplace lentement tout en transperçant les ennemis.",
       "FrostBolt",
       "Art/2DArt/SkillIcons/FrostBolt.dds",
@@ -25977,7 +25977,7 @@
     ],
     [
       "frost_bolt_channel",
-      "Sphère de givre canalisée",
+      "Globe de givre canalisé",
       "",
       "FrostBoltChannel",
       "Art/2DArt/SkillIcons/FrostVortex.dds",
