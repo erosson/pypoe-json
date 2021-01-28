@@ -26002,7 +26002,7 @@
     [
       "AlvaIncursionCongrats2",
       null,
-      "Buen trabajo, exiliado.",
+      "<if:MS>{Buen trabajo, exiliado.}<elif:FS>{Buen trabajo, exiliada.}",
       "Audio/Dialogue/NPC/Alva/AV14_B.ogg",
       "",
       false,
@@ -118029,7 +118029,7 @@
     [
       "MavenTier1GuardSkillRandom",
       null,
-      "Endurecer.",
+      "Endurécete.",
       "Audio/Dialogue/NPC/Maven/Maven_29_01_A.ogg",
       "",
       false,
@@ -118042,7 +118042,7 @@
     [
       "MavenTier1GuardSkill2",
       null,
-      "Endurecer.",
+      "Endurécete.",
       "Audio/Dialogue/NPC/Maven/Maven_29_01_B.ogg",
       "",
       false,
@@ -118055,7 +118055,7 @@
     [
       "MavenTier1GuardSkill3",
       null,
-      "¡Endurecer!",
+      "¡Endurécete!",
       "Audio/Dialogue/NPC/Maven/Maven_29_01_C.ogg",
       "",
       false,
@@ -118068,7 +118068,7 @@
     [
       "MavenTier1GuardSkill4",
       null,
-      "Absorber.",
+      "Absorbe.",
       "Audio/Dialogue/NPC/Maven/Maven_29_02_A.ogg",
       "",
       false,
@@ -118081,7 +118081,7 @@
     [
       "MavenTier1GuardSkill5",
       null,
-      "Absorber.",
+      "Absorbe.",
       "Audio/Dialogue/NPC/Maven/Maven_29_02_B.ogg",
       "",
       false,
@@ -118094,7 +118094,7 @@
     [
       "MavenTier1GuardSkill6",
       null,
-      "¡Absorber!",
+      "¡Absorbe!",
       "Audio/Dialogue/NPC/Maven/Maven_29_02_C.ogg",
       "",
       false,
@@ -119576,7 +119576,7 @@
     [
       "ZanaOnTheMaven",
       null,
-      "<if:MS>{Hay dos fuentes de entidades dentro del Atlas, que yo seá, y estoy segura de que nadie ha entrado desde este lado.\r\n\r\nSea lo que sea esa cosa, ha venido desde algún lugar más allá del Atlas, en algún reino paralelo desconocido. Es completamente posible que tenga el mismo origen que el Antiguo, aunque espero desesperadamente que no sea el caso. Simplemente no tenemos las herramientas para sellar a otra criatura así.\r\n\r\nQuizá seamos afortunados. Quizá somos demasiado insignificantes como para que nos preste atención. Estamos en una pequeña isla de seguridad, al menos por ahora, pero la marea está subiendo, y hay cosas extrañas llegando a la orilla. Ten cuidado, exiliado. No sabemos con qué estamos tratando, y todos deberíamos temer a lo desconocido.}<elif:FS>{Hay dos fuentes de entidades dentro del Atlas, que yo seá, y estoy segura de que nadie ha entrado desde este lado.\r\n\r\nSea lo que sea esa cosa, ha venido desde algún lugar más allá del Atlas, en algún reino paralelo desconocido. Es completamente posible que tenga el mismo origen que el Antiguo, aunque espero desesperadamente que no sea el caso. Simplemente no tenemos las herramientas para sellar a otra criatura así.\r\n\r\nQuizá seamos afortunados. Quizá somos demasiado insignificantes como para que nos preste atención. Estamos en una pequeña isla de seguridad, al menos por ahora, pero la marea está subiendo, y hay cosas extrañas llegando a la orilla. Ten cuidado, exiliada. No sabemos con qué estamos tratando, y todos deberíamos temer a lo desconocido.}",
+      "<if:MS>{Hay dos fuentes de entidades dentro del Atlas, que yo sepa, y estoy segura de que nadie ha entrado desde este lado.\r\n\r\nSea lo que sea esa cosa, ha venido desde algún lugar más allá del Atlas, en algún reino paralelo desconocido. Es completamente posible que tenga el mismo origen que el Antiguo, aunque espero desesperadamente que no sea el caso. Simplemente no tenemos las herramientas para sellar a otra criatura así.\r\n\r\nQuizá seamos afortunados. Quizá somos demasiado insignificantes como para que nos preste atención. Estamos en una pequeña isla de seguridad, al menos por ahora, pero la marea está subiendo, y hay cosas extrañas llegando a la orilla. Ten cuidado, exiliado. No sabemos con qué estamos tratando, y todos deberíamos temer a lo desconocido.}<elif:FS>{Hay dos fuentes de entidades dentro del Atlas, que yo sepa, y estoy segura de que nadie ha entrado desde este lado.\r\n\r\nSea lo que sea esa cosa, ha venido desde algún lugar más allá del Atlas, en algún reino paralelo desconocido. Es completamente posible que tenga el mismo origen que el Antiguo, aunque espero desesperadamente que no sea el caso. Simplemente no tenemos las herramientas para sellar a otra criatura así.\r\n\r\nQuizá seamos afortunados. Quizá somos demasiado insignificantes como para que nos preste atención. Estamos en una pequeña isla de seguridad, al menos por ahora, pero la marea está subiendo, y hay cosas extrañas llegando a la orilla. Ten cuidado, exiliada. No sabemos con qué estamos tratando, y todos deberíamos temer a lo desconocido.}",
       "Audio/Dialogue/NPC/Zana/313Zana_01.ogg",
       "",
       false,
@@ -143217,6 +143217,19 @@
       false,
       "",
       1,
+      0,
+      1
+    ],
+    [
+      "MavenFinalFightDualIceBarrage",
+      null,
+      "A cascade of pain!",
+      "Audio/Dialogue/NPC/Maven/Maven_147_05_A.ogg",
+      "",
+      false,
+      false,
+      "",
+      0,
       0,
       1
     ]

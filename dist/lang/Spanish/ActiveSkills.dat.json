@@ -3842,7 +3842,7 @@
         70
       ],
       [],
-      "Empleando el congelante poder del lejano Norte, el conjurador dispara una lanza de filoso cristal de hielo hacia su objetivo. La Lanza de Hielo sale disparada hacia su enemigo, perfora armadura y carne por igual y explota en mortal escarcha. La explosión congela la sangre de su objetivo y lo deja clavado en su lugar por un largo tiempo. Los enemigos perforados por la lanza reciben gran daño pero no serán afectados por la parálisis de la explosión principal.",
+      "Empleando el congelante poder del lejano norte, el conjurador dispara una lanza de cristal de hielo afilado hacia su objetivo. La Lanza de hielo sale disparada hacia su enemigo, perfora armadura y carne por igual y explota en una escarcha mortal. La explosión congela la sangre de su objetivo y lo deja clavado en su lugar por un largo tiempo. Los enemigos perforados por la lanza reciben gran daño pero no estarán afectados por la parálisis de la explosión principal.",
       "http://s3.amazonaws.com/pathofexile/image/skills/intelligence/ice_spear.jpg",
       false,
       "IceSpear",
@@ -12790,7 +12790,7 @@
     [
       "summon_raging_spirit",
       "Invocar Espíritus Encolerizados",
-      "Invoca un cráneo llameante de corta vida que carga hacia los enemigos cercanos y los ataca rápidamente. Los enemigos no entablarán combate con estos espíritus y pueden pasar a través de ellos.",
+      "Invoca un cráneo llameante de corta vida que carga hacia los enemigos cercanos y los ataca rápidamente. Los enemigos no entablarán combate con estos espíritus, y pueden pasar a través de ellos.",
       "SummonElemental",
       "Art/2DArt/SkillIcons/SummonElemental.dds",
       [
@@ -12844,7 +12844,7 @@
     [
       "summon_raging_spirit_triggered",
       "Invocar Espíritus Encolerizados",
-      "Invoca un cráneo llameante de corta vida que carga hacia los enemigos cercanos y los ataca rápidamente. Los enemigos no entablarán combate con estos espíritus y pueden pasar a través de ellos.",
+      "Invoca un cráneo llameante de corta vida que carga hacia los enemigos cercanos y los ataca rápidamente. Los enemigos no entablarán combate con estos espíritus, y pueden pasar a través de ellos.",
       "SummonElemental",
       "Art/2DArt/SkillIcons/SummonElemental.dds",
       [

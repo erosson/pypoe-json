@@ -201,7 +201,7 @@
     ],
     [
       "LightingTendrils&AddedLightningDamage",
-      "เสริมความเสียหายไฟฟ้าที่ Lightning Tendrils สร้าง",
+      "เสริมความเสียหายสายฟ้าที่ Lightning Tendrils สร้าง",
       "http://web.poecdn.com/public/videos/LightningTendrils/Lighting%20Tendrils+AddedLightningDamage.bk2",
       41,
       "http://down.qq.com/poe/videos/skills/LightningTendrils/LightningTendrils+AddedLightningDamage.bk2",
@@ -230,7 +230,7 @@
     ],
     [
       "LightingTendrils&LightningPenetration",
-      "ลดต้านทาน ไฟฟ้า ของศัตรู ทำให้พวกมันได้รับความเสียหาย ไฟฟ้า จาก Lightning Tendrils เพิ่มขึ้น",
+      "ลดต้านทาน สายฟ้า ของศัตรู ทำให้พวกมันได้รับความเสียหาย สายฟ้า จาก Lightning Tendrils เพิ่มขึ้น",
       "http://web.poecdn.com/public/videos/LightningTendrils/LightningTendrils+ElementalFocus_1.bk2 ",
       174,
       "http://down.qq.com/poe/videos/skills/LightningTendrils/LightningTendrils+LightningPenetration.bk2",
@@ -526,7 +526,7 @@
     ],
     [
       "EtheralKnives&PhysicalToLightning",
-      "เปลี่ยนความเสียหายกายภาพ 50% ไปเป็นไฟฟ้า และยังเสริมความเสียหายไฟฟ้าจากความเสียหายกายภาพที่คุณมีด้วย",
+      "เปลี่ยนความเสียหายกายภาพ 50% ไปเป็นสายฟ้า และยังเสริมความเสียหายสายฟ้าจากความเสียหายกายภาพที่คุณมีด้วย",
       "http://web.poecdn.com/public/videos/EtherealKnives/EtherealKnives+PhysicaltoLightning.bk2",
       264,
       "http://down.qq.com/poe/videos/skills/EtherealKnives/EtherealKnives+PhysicaltoLightning.bk2",
@@ -595,7 +595,7 @@
     ],
     [
       "ExplosiveTrap&PhysicalToLightning",
-      "เปลี่ยนความเสียหายกายภาพ 50% ไปเป็นไฟฟ้า และยังเสริมความเสียหายไฟฟ้าจากความเสียหายกายภาพที่คุณมีด้วย ",
+      "เปลี่ยนความเสียหายกายภาพ 50% ไปเป็นสายฟ้า และยังเสริมความเสียหายสายฟ้าจากความเสียหายกายภาพที่คุณมีด้วย ",
       "http://web.poecdn.com/public/videos/ExplosiveTrap/ExplosiveTrap+PhysicaltoLightning.bk2",
       264,
       "http://down.qq.com/poe/videos/skills/ExplosiveTrap/ExplosiveTrap+PhysicaltoLightning.bk2",
@@ -760,7 +760,7 @@
     ],
     [
       "SpectralThrow&PhysicalToLightning",
-      "เปลี่ยนความเสียหายกายภาพ 50% ไปเป็นไฟฟ้า และยังเสริมความเสียหายไฟฟ้าจากความเสียหายกายภาพที่คุณมีด้วย",
+      "เปลี่ยนความเสียหายกายภาพ 50% ไปเป็นสายฟ้า และยังเสริมความเสียหายสายฟ้าจากความเสียหายกายภาพที่คุณมีด้วย",
       "http://web.poecdn.com/public/videos/SpectralThrow/SpectralThrow+PhysicaltoLightning.bk2",
       264,
       "http://down.qq.com/poe/videos/skills/SpectralThrow/SpectralThrow+PhysicaltoLightning.bk2",
@@ -862,7 +862,7 @@
     ],
     [
       "ShrapnelShot&LightningPenetration",
-      "ลดต้านทาน ไฟฟ้า ของศัตรู ทำให้พวกมันได้รับความเสียหาย ไฟฟ้า จาก Shrapnel Shot เพิ่มขึ้น",
+      "ลดต้านทาน สายฟ้า ของศัตรู ทำให้พวกมันได้รับความเสียหาย สายฟ้า จาก Shrapnel Shot เพิ่มขึ้น",
       "http://web.poecdn.com/public/videos/ShrapnelShot/ShrapnelShot+LightningPenetration.bk2",
       174,
       "http://down.qq.com/poe/videos/skills/ShrapnelShot/ShrapnelShot+LightningPenetration.bk2",
@@ -883,7 +883,7 @@
     ],
     [
       "ShrapnelShot&PhysicalToLightning",
-      "เปลี่ยนความเสียหายกายภาพ 50% ไปเป็นไฟฟ้า และยังเสริมความเสียหายไฟฟ้าจากความเสียหายกายภาพที่คุณมีด้วย",
+      "เปลี่ยนความเสียหายกายภาพ 50% ไปเป็นสายฟ้า และยังเสริมความเสียหายสายฟ้าจากความเสียหายกายภาพที่คุณมีด้วย",
       "http://web.poecdn.com/public/videos/ShrapnelShot/ShrapnelShot+PhysicaltoLightning.bk2",
       264,
       "http://down.qq.com/poe/videos/skills/ShrapnelShot/ShrapnelShot+PhysicaltoLightning.bk2",
@@ -951,7 +951,7 @@
     ],
     [
       "SplitArrow&PhysicalToLightning",
-      "เปลี่ยนความเสียหายกายภาพ 50% ไปเป็นไฟฟ้า และยังเสริมความเสียหายไฟฟ้าจากความเสียหายกายภาพที่คุณมีด้วย",
+      "เปลี่ยนความเสียหายกายภาพ 50% ไปเป็นสายฟ้า และยังเสริมความเสียหายสายฟ้าจากความเสียหายกายภาพที่คุณมีด้วย",
       "http://web.poecdn.com/public/videos/SplitArrow/SplitArrow+PhysicaltoLightning.bk2",
       264,
       "http://down.qq.com/poe/videos/skills/SplitArrow/SplitArrow+PhysicaltoLightning.bk2",
@@ -1393,7 +1393,7 @@
     ],
     [
       "Smite&MeleePhysicalDamage",
-      "เพิ่มความเสียหายกายภาพประชิดให้กับ Smite แต่เนื่องจากความเสียหายไฟฟ้า 50% ของ Smite เดิมทีมันมาจากกายภาพ หินซัพพอร์ทนี้จึงเพิ่มความเสียหายไฟฟ้าด้วย",
+      "เพิ่มความเสียหายกายภาพประชิดให้กับ Smite แต่เนื่องจากความเสียหายสายฟ้า 50% ของ Smite เดิมทีมันมาจากกายภาพ หินซัพพอร์ทนี้จึงเพิ่มความเสียหายสายฟ้าด้วย",
       "http://web.poecdn.com/public/videos/Smite/Smite+MeleePhysicalDamage.bk2",
       82,
       "http://down.qq.com/poe/videos/skills/Smite/Smite+MeleePhysicalDamage.bk2",
@@ -1401,7 +1401,7 @@
     ],
     [
       "Smite&PhysicalToLightning",
-      "เปลี่ยนความเสียหายกายภาพ 50% ไปเป็นไฟฟ้า และยังเสริมความเสียหายไฟฟ้าจากความเสียหายกายภาพที่คุณมีด้วย เนื่องจากสกิลนี้เปลี่ยนความเสียหายเป็นไฟฟ้า 50% อยู่แล้ว หินซัพพอร์ตจึงทำให้ Smite โจมตีเป็นไฟฟ้าทั้งหมด",
+      "เปลี่ยนความเสียหายกายภาพ 50% ไปเป็นสายฟ้า และยังเสริมความเสียหายสายฟ้าจากความเสียหายกายภาพที่คุณมีด้วย เนื่องจากสกิลนี้เปลี่ยนความเสียหายเป็นสายฟ้า 50% อยู่แล้ว หินซัพพอร์ตจึงทำให้ Smite โจมตีเป็นสายฟ้าทั้งหมด",
       "http://web.poecdn.com/public/videos/Smite/Smite+PhysicaltoLightning.bk2",
       264,
       "http://down.qq.com/poe/videos/skills/Smite/Smite+PhysicaltoLightning.bk2",
@@ -1618,7 +1618,7 @@
     ],
     [
       "PurifyingFlame&PhysToLightning",
-      "\r\nแปลงความเสียหายกายภาพ 50% ของ Purifying Flame ไปเป็นไฟฟ้า และเพิ่มความเสียหายไฟฟ้าเข้าไปอีกโดยขึ้นอยู่กับความเสียหายกายภาพของมัน เนื่องจากสกิลนี้แปลงความเสียหายกายภาพ 50% ไปเป็นไฟฟ้าอยู่แล้ว มันจึงทำให้ความเสียหายทั้งหมดของ Purifying Flame กลายเป็นความเสียหายธาตุ",
+      "\r\nแปลงความเสียหายกายภาพ 50% ของ Purifying Flame ไปเป็นสายฟ้า และเพิ่มความเสียหายสายฟ้าเข้าไปอีกโดยขึ้นอยู่กับความเสียหายกายภาพของมัน เนื่องจากสกิลนี้แปลงความเสียหายกายภาพ 50% ไปเป็นสายฟ้าอยู่แล้ว มันจึงทำให้ความเสียหายทั้งหมดของ Purifying Flame กลายเป็นความเสียหายธาตุ",
       "http://web.poecdn.com/public/videos/PurifyingFlame/PF+PhystoLightning.bk2",
       264,
       "https://down.qq.com/poe/videos/skills/PurifyingFlames/PurifyingFlames+PhysicaltoLightningCN.bk2",
@@ -1626,7 +1626,7 @@
     ],
     [
       "PurifyingFlame&Intensify",
-      "เพิ่มพื้นที่ส่งผลของ Purifying Flame และทุกครั้งที่คุณร่ายจะได้รับบัฟ Intensify ซึ่งสามารถมีซ้อนกันได้มากกว่าหนึ่งครั้งและเพิ่มขึ้นในแต่ละครั้งที่ร่าย ซึ่งบัฟนี้จะลดพื้นที่ส่งผลลงแต่เพิ่มความเสียหายขึ้น มันจะช่วยคุณต่อกรกับศัตรูที่แข็งแกร่งด้วยการร่ายซ้ำๆได้\n\nเมื่อคุณเคลื่อนที่หรือวาปคุณจะค่อยๆสูญเสียบัฟ Intensify นี้ไป",
+      "เพิ่มพื้นที่ส่งผลของ Purifying Flame และทุกครั้งที่คุณร่ายจะได้รับบัฟ Intensify ซึ่งสามารถมีซ้อนกันได้มากกว่าหนึ่งครั้งและเพิ่มขึ้นในแต่ละครั้งที่ร่าย ซึ่งบัฟนี้จะลดพื้นที่ส่งผลลงแต่เพิ่มความเสียหายขึ้น มันจะช่วยคุณต่อกรกับศัตรูที่แข็งแกร่งด้วยการร่ายซ้ำๆได้\n\nเมื่อคุณเคลื่อนที่หรือวาร์ปคุณจะค่อยๆสูญเสียบัฟ Intensify นี้ไป",
       "http://web.poecdn.com/public/videos/PurifyingFlame/PF+Int.bk2",
       388,
       "https://down.qq.com/poe/videos/skills/PurifyingFlames/PurifyingFlames+IntensifyCN.bk2",
@@ -1877,7 +1877,7 @@
     ],
     [
       "GalvanicArrow&ElementalDamagewithAttacks",
-      "เพิ่มความเสียหายธาตุให้กับ Galvanic Arrow โดยการโจมตีที่รุนแรงยิ่งขึ้น\n\nหินเสริมเม็ดนี้จะไม่เพิ่มความเสียหายกายภาพให้กับ Galvanic Arrows แต่จะเพิ่มความเสียหายไฟฟ้าที่ทำได้\n\nหินเสริมเม็ดนี้ทำให้คุณเพิ่มความเสียหายได้ได้ง่าย ถ้าหากคุณมีสกิลที่เพิ่มความเสียหายให้กับสายฟ้าและธาตุ มันจะเพิ่มความเสียหายสายฟ้าให้แก่ Galvanic Arrows อย่างประสิทธิภาพ",
+      "เพิ่มความเสียหายธาตุให้กับ Galvanic Arrow โดยการโจมตีที่รุนแรงยิ่งขึ้น\n\nหินเสริมเม็ดนี้จะไม่เพิ่มความเสียหายกายภาพให้กับ Galvanic Arrows แต่จะเพิ่มความเสียหายสายฟ้าที่ทำได้\n\nหินเสริมเม็ดนี้ทำให้คุณเพิ่มความเสียหายได้ได้ง่าย ถ้าหากคุณมีสกิลที่เพิ่มความเสียหายให้กับสายฟ้าและธาตุ มันจะเพิ่มความเสียหายสายฟ้าให้แก่ Galvanic Arrows อย่างประสิทธิภาพ",
       "http://web.poecdn.com/public/videos/GalvanicArrow/EGalvanicArrowElementalDamageWithAttacks.bk2",
       112,
       "http://down.qq.com/poe/videos/tutorial/TGalvanicArrowDamage2.bk2",
@@ -1885,7 +1885,7 @@
     ],
     [
       "GalvanicArrow&LightningPenetration",
-      "ทำให้ความเสียหายไฟฟ้าของ Galvanic Arrows เจาะทะลุต้านทานธาตุสายฟ้าแก่เป้าหมาย ทำให้สร้างความเสียหายสม่ำเสมอแก่ศัตรูที่มีต้านทานธาตุสายฟ้าตัวอย่างเช่นมอนสเตอร์ระดับ บอส,แรร์,เมจิก\n\nแต่จะไม่ทำให้ความเสียหายกายภาพของสกิล Galvanic Arrows เจาะทะลุต้านทานธาตุของเป้าหมาย เนื่องจากความเสียหายกายภาพไม่มีผลต่อค่าต้านทานธาตุสายฟ้า\\รายละเอียดของมอนสเตอร์ที่มีการต้านทานธาตุจะแสดงผลอยู่ด้านล่างของพลังชีวิตเมื่อนำเมาส์ไปชี้",
+      "ทำให้ความเสียหายสายฟ้าของ Galvanic Arrows เจาะทะลุต้านทานธาตุสายฟ้าแก่เป้าหมาย ทำให้สร้างความเสียหายสม่ำเสมอแก่ศัตรูที่มีต้านทานธาตุสายฟ้าตัวอย่างเช่นมอนสเตอร์ระดับ บอส,แรร์,เมจิก\n\nแต่จะไม่ทำให้ความเสียหายกายภาพของสกิล Galvanic Arrows เจาะทะลุต้านทานธาตุของเป้าหมาย เนื่องจากความเสียหายกายภาพไม่มีผลต่อค่าต้านทานธาตุสายฟ้า\\รายละเอียดของมอนสเตอร์ที่มีการต้านทานธาตุจะแสดงผลอยู่ด้านล่างของพลังชีวิตเมื่อนำเมาส์ไปชี้",
       "http://web.poecdn.com/public/videos/GalvanicArrow/EGalvanicArrowLightPen.bk2",
       174,
       "http://down.qq.com/poe/videos/tutorial/TGalvanicArrowLightPen.bk2",

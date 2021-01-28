@@ -33294,6 +33294,13 @@
       ""
     ],
     [
+      "AddMavenErrorCitadelNotUnlocked",
+      "Schalte die Zitadelle dieser Region frei, um das Interesse der Seherin zu wecken.",
+      "",
+      -1544313545,
+      ""
+    ],
+    [
       "MasterNameNavali",
       "Navali",
       "",
@@ -35479,14 +35486,14 @@
     ],
     [
       "AtlasWatchstoneCollected",
-      "Gesammelt",
+      "Erhalten",
       "",
       -403347000,
       ""
     ],
     [
       "AtlasWatchstoneNotCollected",
-      "Nicht gesammelt",
+      "Nicht erhalten",
       "",
       -1174083630,
       ""
@@ -35528,7 +35535,7 @@
     ],
     [
       "ItemPopupWarlordItem",
-      "Kriegsherr-Gegenstand",
+      "Kriegsfürst-Gegenstand",
       "",
       -1564468901,
       ""
@@ -35710,7 +35717,7 @@
     ],
     [
       "MapInfluenceAdjudicator",
-      "Durch Kriegsherrn beeinflusste Karte",
+      "Durch Kriegsfürst beeinflusste Karte",
       "",
       1977663371,
       ""
@@ -41086,9 +41093,23 @@
     ],
     [
       "HarvestCraftOptionDisabledInHideout",
-      "You cannot use this crafting option in a Hideout.",
+      "Du kannst diese Anfertigungsoption nicht im Versteck benutzen.",
       "",
       -2078730669,
+      ""
+    ],
+    [
+      "RitualRewardsUINotMapOwner",
+      "Nur der Ersteller der Instanz kann Gaben kaufen.",
+      "",
+      1995735598,
+      ""
+    ],
+    [
+      "MapDeviceWindowMavenOptionPopupActive",
+      "The Maven will witness and affect this map's boss encounter. Defeating the boss encounter will allow the Maven to replicate the fight in her own realm.",
+      "",
+      -1590098877,
       ""
     ]
   ]

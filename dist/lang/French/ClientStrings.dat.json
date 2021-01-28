@@ -5071,7 +5071,7 @@
     ],
     [
       "HUDNoAllocatedSkillsMessageText",
-      "Votre personnage n'a aucun Passif d'attribué. Son Arbre des Talents passifs est probablement vide à cause d'un patch qui l'a remis à zéro (suite à un remaniement), ou parce que vous n'avez jamais dépensé vos points.\r\n\r\nFaites bien attention lorsque vous les attribuerez !",
+      "Votre personnage n'a aucun Passif d'attribué. Son Arbre des Talents passifs est probablement vide à cause d'un patch qui l'a remis à zéro (car nous avons retravaillé l'Arbre), ou parce que vous n'avez tout simplement jamais dépensé vos points.\r\n\r\nFaites bien attention lorsque vous les attribuerez !",
       "",
       -849160942,
       ""
@@ -33294,6 +33294,13 @@
       ""
     ],
     [
+      "AddMavenErrorCitadelNotUnlocked",
+      "Unlock this Region's Citadel to gain the Maven's attention",
+      "",
+      -1544313545,
+      ""
+    ],
+    [
       "MasterNameNavali",
       "Navali",
       "",
@@ -41089,6 +41096,20 @@
       "You cannot use this crafting option in a Hideout.",
       "",
       -2078730669,
+      ""
+    ],
+    [
+      "RitualRewardsUINotMapOwner",
+      "Only the instance owner can purchase Favours",
+      "",
+      1995735598,
+      ""
+    ],
+    [
+      "MapDeviceWindowMavenOptionPopupActive",
+      "The Maven will witness and affect this map's boss encounter. Defeating the boss encounter will allow the Maven to replicate the fight in her own realm.",
+      "",
+      -1590098877,
       ""
     ]
   ]

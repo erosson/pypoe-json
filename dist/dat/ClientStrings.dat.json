@@ -33294,6 +33294,13 @@
       ""
     ],
     [
+      "AddMavenErrorCitadelNotUnlocked",
+      "Unlock this Region's Citadel to gain the Maven's attention",
+      "",
+      -1544313545,
+      ""
+    ],
+    [
       "MasterNameNavali",
       "Navali",
       "",
@@ -40575,7 +40582,7 @@
     ],
     [
       "MapDeviceWindowMavenOptionPopup",
-      "Call the Maven to witness and affect this map's boss encounter. Defeating the boss encounter will allow the Maven to replicate the fight in her own realm.",
+      "Call the Maven to witness and affect this map's boss encounter.",
       "",
       -1104799411,
       ""
@@ -41089,6 +41096,20 @@
       "You cannot use this crafting option in a Hideout.",
       "",
       -2078730669,
+      ""
+    ],
+    [
+      "RitualRewardsUINotMapOwner",
+      "Only the instance owner can purchase Favours",
+      "",
+      1995735598,
+      ""
+    ],
+    [
+      "MapDeviceWindowMavenOptionPopupActive",
+      "The Maven will witness and affect this map's boss encounter. Defeating the boss encounter will allow the Maven to replicate the fight in her own realm.",
+      "",
+      -1590098877,
       ""
     ]
   ]

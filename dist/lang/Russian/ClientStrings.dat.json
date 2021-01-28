@@ -15921,7 +15921,7 @@
     ],
     [
       "ProphecyQuestTrackerKillingHundredFootShadowWithScreamingEagleAddsSpecificMod",
-      "Вы победите Стофутовую тень с помощью Клёкота орла.",
+      "Вы победите Стофутовую тень с помощью Клекочущего орла.",
       "",
       -1640793977,
       ""
@@ -33294,6 +33294,13 @@
       ""
     ],
     [
+      "AddMavenErrorCitadelNotUnlocked",
+      "Разблокируйте крепость в регионе, чтобы привлечь внимание Мейвен",
+      "",
+      -1544313545,
+      ""
+    ],
+    [
       "MasterNameNavali",
       "Навали",
       "",
@@ -41072,7 +41079,7 @@
     ],
     [
       "RitualRewardWindowTotalDeferCost",
-      "Итоговая цена после отсрочки:",
+      "Итоговая стоимость отсрочки:",
       "",
       2083974425,
       ""
@@ -41086,9 +41093,23 @@
     ],
     [
       "HarvestCraftOptionDisabledInHideout",
-      "You cannot use this crafting option in a Hideout.",
+      "Вы не можете использовать этот ремесленный рецепт в убежище",
       "",
       -2078730669,
+      ""
+    ],
+    [
+      "RitualRewardsUINotMapOwner",
+      "Только владелец области может приобретать награды",
+      "",
+      1995735598,
+      ""
+    ],
+    [
+      "MapDeviceWindowMavenOptionPopupActive",
+      "The Maven will witness and affect this map's boss encounter. Defeating the boss encounter will allow the Maven to replicate the fight in her own realm.",
+      "",
+      -1590098877,
       ""
     ]
   ]
