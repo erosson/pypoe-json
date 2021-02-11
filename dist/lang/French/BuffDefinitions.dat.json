@@ -20006,8 +20006,7 @@
       false,
       "Renforcement ",
       [
-        10660,
-        3055
+        10660
       ],
       true,
       3,
@@ -20044,10 +20043,11 @@
       [],
       [],
       [
-        10660,
-        3055
+        10660
       ],
-      []
+      [
+        3055
+      ]
     ],
     [
       "taunted",
@@ -43672,7 +43672,7 @@
       true,
       17,
       0,
-      true,
+      false,
       false,
       15,
       false,
@@ -43856,7 +43856,6 @@
       true,
       "Éruption arcanique ",
       [
-        7672,
         6266,
         216,
         129
@@ -43896,12 +43895,13 @@
       [],
       [],
       [
-        7672,
         6266,
         216,
         129
       ],
-      []
+      [
+        7672
+      ]
     ],
     [
       "mana_gained_from_hit_damage",
@@ -58214,7 +58214,7 @@
       true,
       17,
       0,
-      true,
+      false,
       false,
       15,
       false,
@@ -71209,8 +71209,7 @@
       false,
       "Renforcement ",
       [
-        10792,
-        3055
+        10792
       ],
       true,
       3,
@@ -71247,10 +71246,11 @@
       [],
       [],
       [
-        10792,
-        3055
+        10792
       ],
-      []
+      [
+        3055
+      ]
     ],
     [
       "metamorphosis_boss_teleport",
@@ -79330,7 +79330,7 @@
       false,
       "",
       [],
-      false,
+      true,
       3,
       false,
       null,
@@ -86471,7 +86471,7 @@
     ],
     [
       "maven_rotating_beam_debuff",
-      "Vos Résistances élémentaires maximales sont diminuées.",
+      "Vos Résistances élémentaires maximales sont diminuées. Vous n'avez plus de Récupération de Vie et de Bouclier d'énergie.",
       false,
       false,
       "Punition de la Prodige",
@@ -86523,7 +86523,7 @@
     ],
     [
       "maven_cutter_beam_debuff",
-      "Vos Résistances élémentaires maximales sont diminuées.",
+      "Vos Résistances élémentaires maximales sont diminuées. Vous n'avez plus de Récupération de Vie et de Bouclier d'énergie.",
       false,
       false,
       "Punition de la Prodige",
@@ -86619,10 +86619,10 @@
     ],
     [
       "maven_void_ground",
-      "You are slowed and taking Cold Damage over time.",
+      "Vous êtes Ralenti et subissez des Dégats de froid sur la durée.",
       false,
       false,
-      "Gravity Well",
+      "Puits gravitationnel ",
       [
         346,
         1991

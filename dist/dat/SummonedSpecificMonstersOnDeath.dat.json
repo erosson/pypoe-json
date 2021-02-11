@@ -95,7 +95,7 @@
   "data": [
     [
       "SkeletonMeleeFireTormentNecromancer",
-      1890,
+      1904,
       123,
       null,
       1,
@@ -111,7 +111,7 @@
     ],
     [
       "WbChaos2Skeleton",
-      3862,
+      3885,
       123,
       null,
       1,
@@ -119,7 +119,7 @@
     ],
     [
       "EssenceFleshmonsterSummonedOnDeath",
-      4470,
+      4496,
       123,
       1009,
       2,
@@ -127,7 +127,7 @@
     ],
     [
       "EssenceBloodworm",
-      3731,
+      3754,
       123,
       null,
       1,
@@ -135,7 +135,7 @@
     ],
     [
       "Essence Elemental Swarm 1st stage",
-      357,
+      365,
       123,
       105,
       4,
@@ -143,7 +143,7 @@
     ],
     [
       "Essence Elemental Swarm 2nd stage",
-      358,
+      366,
       123,
       105,
       2,
@@ -151,7 +151,7 @@
     ],
     [
       "Essence Elemental Swarm 3rd stage",
-      359,
+      367,
       123,
       105,
       2,
@@ -159,7 +159,7 @@
     ],
     [
       "Essence Rock Golem",
-      3972,
+      3998,
       123,
       null,
       1,
@@ -167,7 +167,7 @@
     ],
     [
       "Essence Explosive Insect",
-      1256,
+      1265,
       123,
       null,
       1,
@@ -175,7 +175,7 @@
     ],
     [
       "Volatile Flameblood",
-      4488,
+      4523,
       123,
       null,
       1,
@@ -183,7 +183,7 @@
     ],
     [
       "Obsidian Golem",
-      3675,
+      3698,
       123,
       null,
       1,
@@ -191,7 +191,7 @@
     ],
     [
       "TormentedBetrayerBeacon",
-      6658,
+      6693,
       123,
       null,
       1,
@@ -199,7 +199,7 @@
     ],
     [
       "BlightDaemonFire",
-      6972,
+      7007,
       123,
       105,
       1,
@@ -207,7 +207,7 @@
     ],
     [
       "BlightDaemonCold",
-      6974,
+      7009,
       123,
       107,
       1,
@@ -215,7 +215,7 @@
     ],
     [
       "BlightDaemonLightning",
-      6976,
+      7011,
       123,
       433,
       1,
@@ -223,7 +223,7 @@
     ],
     [
       "BlightDaemonPhysical",
-      6978,
+      7013,
       123,
       508,
       1,
@@ -231,7 +231,7 @@
     ],
     [
       "BlightDaemonChaos",
-      6980,
+      7015,
       123,
       1024,
       1,

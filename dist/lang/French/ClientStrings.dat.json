@@ -1130,7 +1130,7 @@
     ],
     [
       "PassiveNodeUnallocated",
-      "Non attribué",
+      "Passif non attribué",
       "",
       1906264842,
       ""
@@ -11987,36 +11987,36 @@
     ],
     [
       "ItemDescriptionPassiveJewel",
-      "Insérez ce Joyau dans une Châsse débloquée dans l'Arbre des Talents passifs. Retirez-le à l'aide d'un clic droit.",
-      "Insérez ce Joyau dans une Châsse que vous avez débloquée dans l'Arbre des Talents passifs. Appuyez sur <<xbox_button_a>> pour le retirer.",
+      "Insérez ce Joyau dans une Châsse attribuée dans l'Arbre des Talents passifs. Retirez-le à l'aide d'un clic droit.",
+      "Insérez ce Joyau dans une Châsse que vous avez attribuée dans l'Arbre des Talents passifs. Appuyez sur <<xbox_button_a>> pour retirer ce Joyau.",
       -373520069,
       ""
     ],
     [
       "ItemDescriptionAbyssJewel",
-      "Insérez ce Joyau dans une Châsse abyssale présente sur un objet, ou dans une Châsse de Joyau débloquée dans l'Arbre des Talents passifs. Retirez-le à l'aide d'un clic droit.",
-      "Insérez ce Joyau dans une Châsse abyssale présente sur un objet, ou dans une Châsse de Joyau débloquée dans l'Arbre des Talents passifs. Appuyez sur <<xbox_button_a>> pour le retirer.",
+      "Insérez ce Joyau dans une Châsse abyssale présente sur un objet, ou dans une Châsse de Joyau attribuée dans l'Arbre des Talents passifs. Retirez-le à l'aide d'un clic droit.",
+      "Insérez ce Joyau dans une Châsse abyssale présente sur un objet, ou dans une Châsse de Joyau attribuée dans l'Arbre des Talents passifs. Appuyez sur <<xbox_button_a>> pour retirer ce Joyau.",
       913108453,
       ""
     ],
     [
       "ItemDescriptionAfflictionJewelSmall",
-      "Insérez ce Joyau dans une Petite, Moyenne ou Grande Châsse extérieure débloquée dans l'Arbre des Talents passifs. Les Joyaux dotés d'un Rayon ne peuvent pas interagir avec les Passifs ajoutés. Retirez-le à l'aide d'un clic droit.",
-      "Insérez ce Joyau dans une Petite, Moyenne ou Grande Châsse extérieure débloquée dans l'Arbre des Talents passifs. Les Joyaux dotés d'un Rayon ne peuvent pas interagir avec les Passifs ajoutés. Appuyez sur <<xbox_button_a>> pour le retirer.",
+      "Insérez ce Joyau dans une Petite, Moyenne ou Grande Châsse attribuée dans l'Arbre des Talents passifs. Les Joyaux dotés d'un Rayon ne peuvent pas interagir avec les Passifs ajoutés. Retirez ce Joyau à l'aide d'un clic droit.",
+      "Insérez ce Joyau dans une Petite, Moyenne ou Grande Châsse attribuée dans l'Arbre des Talents passifs. Les Joyaux dotés d'un Rayon ne peuvent pas interagir avec les Passifs ajoutés. Appuyez sur <<xbox_button_a>> pour retirer ce Joyau.",
       -534988233,
       ""
     ],
     [
       "ItemDescriptionAfflictionJewelMedium",
-      "Insérez ce Joyau dans une Moyenne ou Grande Châsse extérieure débloquée dans l'Arbre des Talents passifs. Les Joyaux dotés d'un Rayon ne peuvent pas interagir avec les Passifs ajoutés. Retirez-le à l'aide d'un clic droit.",
-      "Insérez ce Joyau dans une Moyenne ou Grande Châsse extérieure débloquée dans l'Arbre des Talents passifs. Les Joyaux dotés d'un Rayon ne peuvent pas interagir avec les Passifs ajoutés. Appuyez sur <<xbox_button_a>> pour le retirer.",
+      "Insérez ce Joyau dans une Moyenne ou Grande Châsse attribuée dans l'Arbre des Talents passifs. Les Joyaux dotés d'un Rayon ne peuvent pas interagir avec les Passifs ajoutés. Retirez ce Joyau à l'aide d'un clic droit.",
+      "Insérez ce Joyau dans une Moyenne ou Grande Châsse attribuée dans l'Arbre des Talents passifs. Les Joyaux dotés d'un Rayon ne peuvent pas interagir avec les Passifs ajoutés. Appuyez sur <<xbox_button_a>> pour retirer ce Joyau.",
       648102413,
       ""
     ],
     [
       "ItemDescriptionAfflictionJewelLarge",
-      "Insérez ce Joyau dans une Petite Châsse extérieure débloquée dans l'Arbre des Talents passifs. Les Joyaux dotés d'un Rayon ne peuvent pas interagir avec les Passifs ajoutés. Retirez-le à l'aide d'un clic droit.",
-      "Insérez ce Joyau dans une Petite Châsse extérieure débloquée dans l'Arbre des Talents passifs. Les Joyaux dotés d'un Rayon ne peuvent pas interagir avec les Passifs ajoutés. Appuyez sur <<xbox_button_a>> pour le retirer.",
+      "Insérez ce Joyau dans une Grande Châsse attribuée dans l'Arbre des Talents passifs. Les Joyaux dotés d'un Rayon ne peuvent pas interagir avec les Passifs ajoutés. Retirez ce Joyau à l'aide d'un clic droit.",
+      "Insérez ce Joyau dans une Grande Châsse attribuée dans l'Arbre des Talents passifs. Les Joyaux dotés d'un Rayon ne peuvent pas interagir avec les Passifs ajoutés. Appuyez sur <<xbox_button_a>> pour retirer ce Joyau.",
       -1598479968,
       ""
     ],
@@ -12127,7 +12127,7 @@
     ],
     [
       "KaomDaressoReturn",
-      "Retour à l'Appareil à ravissement",
+      "Retourner à l'Appareil à ravissement",
       "",
       795432977,
       ""
@@ -12155,7 +12155,7 @@
     ],
     [
       "PietyBellyArenaName",
-      "Les entrailles de la Bête",
+      "Les Entrailles de la Bête",
       "",
       106690335,
       ""
@@ -12435,8 +12435,8 @@
     ],
     [
       "CharacterRenameWindowDetails",
-      "Le nom \"{0}\" a expiré. Tapez un nouveau nom pour votre personnage, puis cliquez sur \"Renommer\".",
-      "Le nom \"{0}\" a expiré. Entrez un nouveau nom pour votre personnage, puis sélectionnez \"Renommer\".",
+      "Le nom « {0} » a expiré. Tapez un nouveau nom pour votre personnage, puis cliquez sur « Renommer ».",
+      "Le nom « {0} » a expiré. Entrez un nouveau nom pour votre personnage, puis sélectionnez « Renommer ».",
       1391171932,
       ""
     ],
@@ -17167,7 +17167,7 @@
     ],
     [
       "AtlasNodeHoverObjectiveAwakening",
-      "<default>{{<white>{{Bonus d'Éveil :}} Terminez cette Carte alors qu'elle est au moins de palier {0} et avec un niveau d'Éveil d'au moins de {1}}}",
+      "<default>{{<white>{{Bonus d'Éveil :}} Terminez cette Carte alors qu'elle est de palier {0} (ou plus) et que votre niveau d'Éveil est à {1} (ou plus)}}",
       "",
       1242377637,
       ""
@@ -17181,7 +17181,7 @@
     ],
     [
       "AtlasProgressBarHover2",
-      "<white>{{— Objectifs bonus terminés —}}\nLes Cartes trouvées sont toujours d'un palier supérieur, au minimum.\n<default>{{{0}% de chances que les Cartes trouvées soient de deux paliers supérieurs.\nChaque objectif bonus que vous terminez augmente ce chiffre de 1%.}}",
+      "<white>{{— Objectifs bonus terminés —}}\nLes Cartes trouvées ont toujours un palier de plus, au minimum.\n<default>{{{0}% de chances que les Cartes trouvées soient de deux paliers supérieurs.\nChaque objectif bonus que vous terminez augmente ce chiffre de 1%.}}",
       "",
       80785964,
       ""
@@ -28528,7 +28528,7 @@
     ],
     [
       "IncursionMapConnectionClosed",
-      "Porte verrouillée menant vers : {0}\n<default>{{Débloquez cet accès grâce à une Pierre de passage}}",
+      "Porte verrouillée menant vers : {0}\n<default>{{(débloquez cet accès grâce à une Pierre de passage)}}",
       "",
       55662995,
       ""
@@ -33295,7 +33295,7 @@
     ],
     [
       "AddMavenErrorCitadelNotUnlocked",
-      "Unlock this Region's Citadel to gain the Maven's attention",
+      "Débloquez la Citadelle de cette Région afin d'attirer l'attention de la Prodige",
       "",
       -1544313545,
       ""
@@ -35458,7 +35458,7 @@
     ],
     [
       "AtlasAwakenedProgressBarHover2",
-      "<white>{{— Objectifs bonus d'Éveil terminés —}}\nLes Cartes que vous trouvez sont toujours d'un palier supplémentaire, au minimum.\n<default>{{{0}% de chances que les Cartes que vous trouvez soient de deux paliers supplémentaires.\nChaque Objectif bonus d'Éveil que vous terminez augmente ce chiffre de 0,5%.}}",
+      "<white>{{— Objectifs bonus d'Éveil terminés —}}\nLes Cartes que vous trouvez ont toujours un palier de plus, au minimum.\n<default>{{{0}% de chances que les Cartes que vous trouvez soient de deux paliers supplémentaires.\nChaque Objectif bonus d'Éveil que vous terminez augmente ce chiffre de 0,5%.}}",
       "",
       1529328332,
       ""
@@ -35479,7 +35479,7 @@
     ],
     [
       "MetamorphosisSpawnLabDisabledHover",
-      "Vous êtes trop près d'un Bocal à essais pour le déplacer.",
+      "Éloignez-vous du Bocal à essais pour pouvoir le déplacer.",
       "",
       -691431586,
       ""
@@ -35556,7 +35556,7 @@
     ],
     [
       "CitadelPopupTitle",
-      "Citadelle ({0})",
+      "Citadelle de la région {0}",
       "",
       -1145728750,
       ""
@@ -35570,7 +35570,7 @@
     ],
     [
       "CitadelPopupInfo",
-      "Insérez des Pierres de veille ici pour augmenter le palier des Cartes de cette Région et révéler des Cartes cachées",
+      "Insérez des Pierres de veille ici afin d'augmenter le palier\ndes Cartes de cette Région et révéler des Cartes cachées",
       "",
       1579919431,
       ""
@@ -35584,7 +35584,7 @@
     ],
     [
       "RegionLevelRequirementHint",
-      "Nombre de Pierres de veilles à enchâsser pour faire apparaître un Conquérant : {0}",
+      "Enchâssez {0} Pierres de veille ici pour faire apparaître un Conquérant",
       "",
       1704678278,
       ""
@@ -35598,7 +35598,7 @@
     ],
     [
       "RegionConquerorInCitadelHint",
-      "Conquérant dans la Citadelle. Nombre de Pierres de veilles à enchâsser pour débloquer la Pierre de veille : {0}",
+      "Conquérant dans la Citadelle. Enchâssez {0} Pierres de veille ici pour débloquer une Pierre de veille",
       "",
       -560687880,
       ""
@@ -35843,14 +35843,14 @@
     ],
     [
       "AtlasExileDefeatedText",
-      "Conquérant vaincu : {0}",
+      "Vous avez vaincu {0}",
       "",
       -83020046,
       ""
     ],
     [
       "AtlasExileUndefeatedText",
-      "Conquérant invaincu : {0}",
+      "Vous devez encore vaincre {0}",
       "",
       -1998869663,
       ""
@@ -36242,21 +36242,21 @@
     ],
     [
       "AtlasFavouredMapUnlockRequirements1",
-      "Déverrouillez cet emplacement en terminant toutes les Cartes (non uniques) de cette Région",
+      "(déverrouillez cet emplacement en terminant toutes les Cartes (non uniques) de cette Région)",
       "",
       -1874431218,
       ""
     ],
     [
       "AtlasFavouredMapUnlockRequirements2",
-      "Déverrouillez cet emplacement en terminant tous les Objectifs bonus des Cartes (non uniques) de cette Région",
+      "(déverrouillez cet emplacement en terminant tous les Objectifs bonus des Cartes (non uniques) de cette Région)",
       "",
       1555396419,
       ""
     ],
     [
       "AtlasFavouredMapUnlockRequirements3",
-      "Déverrouillez cet emplacement en terminant tous les Objectifs d'Éveil des Cartes (non uniques) de cette Région",
+      "(déverrouillez cet emplacement en terminant tous les Objectifs d'Éveil des Cartes (non uniques) de cette Région)",
       "",
       2066211198,
       ""
@@ -36340,7 +36340,7 @@
     ],
     [
       "ActionSkipEncounterDelay",
-      "Quitter les brumes du Délire",
+      "Dissiper les brumes du Délire",
       "",
       2059836573,
       ""
@@ -40197,7 +40197,7 @@
     ],
     [
       "MavenBossRushObjectDescriptionBody",
-      "Interagissez avec pour débuter le Défi",
+      "Interagissez avec pour relever le Défi",
       "",
       1957375823,
       ""
@@ -40218,7 +40218,7 @@
     ],
     [
       "AtlasPopupMapCollected",
-      "La Prodige est déjà en train de reconstituer ce boss de Carte.",
+      "La Prodige est en train de reconstituer ce boss de Carte...",
       "",
       1517173982,
       ""
@@ -40316,7 +40316,7 @@
     ],
     [
       "RitualRewardWindowRerollPopup",
-      "Retirer les Faveurs proposées.\nNe peut être effecuté qu'une fois par zone.\nCoût : {0} de Tribut.",
+      "Tirer au hasard de nouvelles Faveurs\n(ne peut être effectué qu'une fois par zone)\nCoût : {0} de Tribut.",
       "",
       -1129636923,
       ""
@@ -40547,7 +40547,7 @@
     ],
     [
       "MavenAtlasProgressBarPopup",
-      "Le nombre minimum de boss que vous devez vaincre dans cette région en présence de la Prodige afin de recevoir son invitation",
+      "Tuez des boss de cette Région alors que la Prodige vous observe afin de remplir cette jauge.\nVous recevrez une Invitation de la Prodige lorsque la jauge sera pleine.",
       "",
       1846097875,
       ""
@@ -40582,7 +40582,7 @@
     ],
     [
       "MapDeviceWindowMavenOptionPopup",
-      "Appelez la Prodige afin qu'elle observe et affecte le combat de Boss de cette Carte. Si vous parvenez à vaincre le Boss, la Prodige reproduira ce combat dans son royaume.",
+      "Activez cette Balise afin d'appeler la Prodige pour qu'elle puisse observer et affecter le combat de boss des Cartes que vous faites.",
       "",
       -1104799411,
       ""
@@ -40694,14 +40694,14 @@
     ],
     [
       "RitualUnknownItemDescriptionText",
-      "Achevez plus de Rituels dans cette zone pour dévoiler cet objet",
+      "Achevez plus de Rituels dans cette zone pour révéler cet objet",
       "",
       -2088343862,
       ""
     ],
     [
       "AtlasMapCollectedNotification",
-      "Nombre de Complétions observées par la Prodige : {0}",
+      "La Prodige vous a vu terminer {0}",
       "",
       742101080,
       ""
@@ -41044,7 +41044,7 @@
     ],
     [
       "RitualOpenReawrdWindowButtonPopup",
-      "Voir les récompenses de Rituel",
+      "Consulter les récompenses de Rituel",
       "",
       -461650820,
       ""
@@ -41093,21 +41093,21 @@
     ],
     [
       "HarvestCraftOptionDisabledInHideout",
-      "You cannot use this crafting option in a Hideout.",
+      "Vous ne pouvez pas utiliser cette option d'artisanat depuis votre Repaire.",
       "",
       -2078730669,
       ""
     ],
     [
       "RitualRewardsUINotMapOwner",
-      "Only the instance owner can purchase Favours",
+      "Seul le propriétaire de l'instance peut acheter des Faveurs",
       "",
       1995735598,
       ""
     ],
     [
       "MapDeviceWindowMavenOptionPopupActive",
-      "The Maven will witness and affect this map's boss encounter. Defeating the boss encounter will allow the Maven to replicate the fight in her own realm.",
+      "La Prodige observera et affectera le combat de boss des Cartes que vous faites.\nSi vous parvenez à tuer le boss, la Prodige pourra reproduire ce combat dans son propre royaume.",
       "",
       -1590098877,
       ""

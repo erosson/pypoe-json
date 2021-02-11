@@ -4451,7 +4451,7 @@
     ],
     [
       "explosive_arrow",
-      "Flecha Explosiva",
+      "Flecha explosiva",
       "Dispara una flecha que actúa como un fusible de corta duración. Golpear al enemigo con flechas adicionales extiende la duración. Cuando el objetivo muere o el fusible se consume, las flechas explotan e infligen daño de fuego en área a enemigos cercanos. El radio del área de efecto es proporcional al número de flechas al momento de la muerte.",
       "FuseArrow",
       "Art/2DArt/SkillIcons/fusearrow.dds",
@@ -4507,7 +4507,7 @@
     ],
     [
       "explosive_arrow_weapon",
-      "Flecha Explosiva",
+      "Flecha explosiva",
       "Dispara una flecha que se clavará en un enemigo o una pared y que después explotará y causará daño en área a su alrededor o bien después de un tiempo o bien cuando se alcance la cantidad máxima de flechas clavadas en ese objetivo. Si un enemigo tiene muchas Flechas explosivas clavadas, la primera en explotar consumirá a las otras, que agregarán su daño a la explosión.",
       "ExplosiveArrow",
       "Art/2DArt/SkillIcons/fusearrow.dds",

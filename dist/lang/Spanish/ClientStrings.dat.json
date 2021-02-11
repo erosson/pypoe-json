@@ -16327,7 +16327,7 @@
     ],
     [
       "TutorialShiftAttack",
-      "Puedes mantener {0} para atacar sin moverte",
+      "Puedes mantener presionado {0} para atacar sin moverte",
       "Puedes mantener <<xbox_button_lt>> presionado para atacar sin moverte",
       -442090497,
       ""
@@ -19400,7 +19400,7 @@
     ],
     [
       "MapStairAlternativeLadder",
-      "Clasificación",
+      "Escalera",
       "",
       2082878667,
       ""
@@ -31832,7 +31832,7 @@
     ],
     [
       "BetrayalBYOIObject",
-      "Mesa de Fabricación del SIndicato",
+      "Mesa de fabricación del Sindicato",
       "",
       -513060723,
       ""
@@ -33813,7 +33813,7 @@
     ],
     [
       "NewLeagueDisplayBottom",
-      "Liga",
+      " ",
       "",
       -678323764,
       ""
@@ -35584,7 +35584,7 @@
     ],
     [
       "RegionLevelRequirementHint",
-      "Número de Rocas del vigilante engarzadas: Se necesita {0} para generar al Conquistador",
+      "Número de Rocas del vigilante engarzadas: Necesitas {0} para generar al Conquistador",
       "",
       1704678278,
       ""
@@ -40582,7 +40582,7 @@
     ],
     [
       "MapDeviceWindowMavenOptionPopup",
-      "Llama a la Especialista para que observe y afecte el encuentro con el jefe de este mapa. Si derrotas al jefe, la Especialista podrá replicar el combate en su reino.",
+      "Llama a la Especialista para que observe y afecte el encuentro con el jefe de este mapa.",
       "",
       -1104799411,
       ""
@@ -41107,7 +41107,7 @@
     ],
     [
       "MapDeviceWindowMavenOptionPopupActive",
-      "The Maven will witness and affect this map's boss encounter. Defeating the boss encounter will allow the Maven to replicate the fight in her own realm.",
+      "La Especialista observará y afectará el encuentro con el jefe de este mapa. Si derrotas al jefe, la Especialista podrá replicar el combate en su reino.",
       "",
       -1590098877,
       ""

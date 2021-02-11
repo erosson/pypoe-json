@@ -45,8 +45,8 @@
   {
     "filename": "AchievementItems.dat",
     "numHeaders": 9,
-    "numItems": 7677,
-    "size": 625705,
+    "numItems": 7695,
+    "size": 627228,
     "langs": [
       "French",
       "German",
@@ -98,7 +98,7 @@
     "filename": "Achievements.dat",
     "numHeaders": 16,
     "numItems": 1007,
-    "size": 195149,
+    "size": 195156,
     "langs": [
       "French",
       "German",
@@ -633,7 +633,7 @@
     "filename": "BaseItemTypes.dat",
     "numHeaders": 35,
     "numItems": 7502,
-    "size": 1931611,
+    "size": 1931615,
     "langs": [
       "French",
       "German",
@@ -1098,7 +1098,7 @@
     "filename": "BuffDefinitions.dat",
     "numHeaders": 42,
     "numItems": 1750,
-    "size": 459769,
+    "size": 459752,
     "langs": [
       "French",
       "German",
@@ -2115,15 +2115,15 @@
   {
     "filename": "GrantedEffects.dat",
     "numHeaders": 24,
-    "numItems": 8898,
-    "size": 1195152,
+    "numItems": 8899,
+    "size": 1195253,
     "langs": []
   },
   {
     "filename": "GrantedEffectsPerLevel.dat",
     "numHeaders": 47,
-    "numItems": 42193,
-    "size": 7441685,
+    "numItems": 42194,
+    "size": 7442514,
     "langs": []
   },
   {
@@ -2468,7 +2468,8 @@
       "Korean",
       "Portuguese",
       "Russian",
-      "Spanish"
+      "Spanish",
+      "Thai"
     ]
   },
   {
@@ -2652,7 +2653,7 @@
     "filename": "InvasionMonsterRestrictions.dat",
     "numHeaders": 4,
     "numItems": 253,
-    "size": 12315,
+    "size": 12317,
     "langs": []
   },
   {
@@ -2666,7 +2667,7 @@
     "filename": "InvasionMonstersPerArea.dat",
     "numHeaders": 9,
     "numItems": 634,
-    "size": 53084,
+    "size": 53094,
     "langs": []
   },
   {
@@ -2787,15 +2788,15 @@
   {
     "filename": "ItemVisualHeldBodyModel.dat",
     "numHeaders": 15,
-    "numItems": 14,
-    "size": 9513,
+    "numItems": 15,
+    "size": 9880,
     "langs": []
   },
   {
     "filename": "ItemVisualIdentity.dat",
     "numHeaders": 48,
     "numItems": 10357,
-    "size": 4370394,
+    "size": 4368974,
     "langs": []
   },
   {
@@ -3059,15 +3060,15 @@
   {
     "filename": "LegionRewardTypeVisuals.dat",
     "numHeaders": 6,
-    "numItems": 23,
-    "size": 2234,
+    "numItems": 27,
+    "size": 2410,
     "langs": []
   },
   {
     "filename": "LegionRewardTypes.dat",
     "numHeaders": 0,
-    "numItems": 23,
-    "size": 126,
+    "numItems": 27,
+    "size": 138,
     "langs": []
   },
   {
@@ -3254,7 +3255,7 @@
     "filename": "MetamorphosisMetaMonsters.dat",
     "numHeaders": 4,
     "numItems": 1266,
-    "size": 46859,
+    "size": 46864,
     "langs": []
   },
   {
@@ -3276,7 +3277,7 @@
     "filename": "MetamorphosisMetaSkills.dat",
     "numHeaders": 28,
     "numItems": 3437,
-    "size": 429116,
+    "size": 429128,
     "langs": [
       "French",
       "German",
@@ -3552,7 +3553,7 @@
     "filename": "Mods.dat",
     "numHeaders": 58,
     "numItems": 22272,
-    "size": 5788938,
+    "size": 5788942,
     "langs": [
       "French",
       "German",
@@ -3644,7 +3645,7 @@
     "filename": "MonsterHeights.dat",
     "numHeaders": 3,
     "numItems": 6853,
-    "size": 173075,
+    "size": 173083,
     "langs": []
   },
   {
@@ -3679,7 +3680,7 @@
     "filename": "MonsterPackEntries.dat",
     "numHeaders": 5,
     "numItems": 4080,
-    "size": 138949,
+    "size": 138961,
     "langs": []
   },
   {
@@ -3839,8 +3840,8 @@
   {
     "filename": "MonsterVarieties.dat",
     "numHeaders": 83,
-    "numItems": 7768,
-    "size": 4437388,
+    "numItems": 7803,
+    "size": 4457294,
     "langs": [
       "French",
       "German",
@@ -4139,7 +4140,7 @@
     "filename": "PassiveSkillBuffs.dat",
     "numHeaders": 7,
     "numItems": 24,
-    "size": 2934,
+    "size": 2932,
     "langs": []
   },
   {
@@ -4190,7 +4191,7 @@
     "filename": "PassiveSkills.dat",
     "numHeaders": 29,
     "numItems": 3172,
-    "size": 685056,
+    "size": 685058,
     "langs": [
       "French",
       "German",
@@ -4911,8 +4912,8 @@
   {
     "filename": "Stats.dat",
     "numHeaders": 18,
-    "numItems": 13905,
-    "size": 1937275,
+    "numItems": 13907,
+    "size": 1937513,
     "langs": [
       "French",
       "German",
