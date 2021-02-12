@@ -33295,7 +33295,7 @@
     ],
     [
       "AddMavenErrorCitadelNotUnlocked",
-      "Unlock this Region's Citadel to gain the Maven's attention",
+      "Destrave a Cidadela desta Região para ganhar a atenção da Maven",
       "",
       -1544313545,
       ""
@@ -40582,7 +40582,7 @@
     ],
     [
       "MapDeviceWindowMavenOptionPopup",
-      "Chame a Maven para testemunhar e afetar o encontro com o chefe deste mapa. Derrotar o encontro com o chefe permitirá que a Maven recrie a luta em seu próprio reino.",
+      "Chame a Maven para testemunhar e afetar o encontro com o chefe deste mapa.",
       "",
       -1104799411,
       ""
@@ -41100,14 +41100,14 @@
     ],
     [
       "RitualRewardsUINotMapOwner",
-      "Only the instance owner can purchase Favours",
+      "Apenas o dono da instância pode comprar Favores",
       "",
       1995735598,
       ""
     ],
     [
       "MapDeviceWindowMavenOptionPopupActive",
-      "The Maven will witness and affect this map's boss encounter. Defeating the boss encounter will allow the Maven to replicate the fight in her own realm.",
+      "A Maven testemunhará e afetará o encontro com o chefe deste mapa. Derrotar o chefe permitirá que a Maven copie a luta em seu próprio reino.",
       "",
       -1590098877,
       ""

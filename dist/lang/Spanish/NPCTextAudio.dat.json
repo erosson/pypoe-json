@@ -27978,7 +27978,7 @@
     [
       "EinharArrives3",
       null,
-      "<if:MS>{¿Estás preparado, exiliado? ¡Es hora de cazar!}<elif:FS>{¿Estás preparado, exiliada? ¡Es hora de cazar!}",
+      "<if:MS>{¿Estás preparado, exiliado? ¡Es hora de cazar!}<elif:FS>{¿Estás preparada, exiliada? ¡Es hora de cazar!}",
       "Audio/Dialogue/NPC/Einhar/EF-32b.ogg",
       "",
       false,
@@ -143223,7 +143223,7 @@
     [
       "MavenFinalFightDualIceBarrage",
       null,
-      "A cascade of pain!",
+      "¡Una cascada de dolor!",
       "Audio/Dialogue/NPC/Maven/Maven_147_05_A.ogg",
       "",
       false,
