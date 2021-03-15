@@ -1,3 +1,7 @@
+# This project has been replaced by https://github.com/erosson/poedat
+
+---
+
 # [pypoe-json](https://pypoe-json.erosson.org)
 
 An automatically-updated collection of all [Path of Exile](https://www.pathofexile.com) JSON data [PyPoE](https://github.com/OmegaK2/PyPoE) can export.
